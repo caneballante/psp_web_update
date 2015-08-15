@@ -1,0 +1,138 @@
+@charset "UTF-8";
+html {
+	font-family: 'Lato', sans-serif;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+h3 {
+	font-size: 16px;
+	font-weight: 600;
+}
+h2 {
+	font-size: 20px;
+	font-weight: 600;
+}
+/* used on the container to get white background */
+.white_fill {
+	background-color: #fff;
+}
+/* used to set text to white */
+.white {
+	color: #fff;
+}
+body {
+	font-family: 'Lato', sans-serif;
+	background-color: #0a3b5c;
+}
+a {
+	color: #036B93;
+}
+/* sets the main nav type slightly smaller for medium screens */
+@media (max-width: 992px) {
+	.dropdown .dropdown-toggle {
+		padding: 10px;
+		font-size: smaller;
+	}
+}
+.navbar-default {
+	background-color: #EF892E;
+	border-color: #EF892E;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #FFF;
+}
+
+/* nested rows and columns gave me some trouble - the padding would double - I remove it here */
+.homepage_r_col_padding_fix {
+	padding-left: 0px;
+	padding-top: 0px;
+}
+/* the above fix messed up the spacing on the mobile version so I take it out */
+@media (max-width: 768px){
+.homepage_r_col_padding_fix-for-small {
+	padding-left: 15px;
+	padding-top: 10px;
+}
+}
+
+.home_nav_text_size {
+	font-size: smaller;
+}
+.container .jumbotron {
+	background-image: url(../images/banner4.jpg) ;
+	border-radius: 0px;
+	margin-bottom: 0px;    
+    background-size: cover;
+	background-position: right top;
+	padding: 0px 0px 200px 0px;
+}
+/* gets the jumbotron to extend to the edge of the container */
+.home_bannerfix {
+	padding-right: 0px;
+    padding-left: 0px;	
+}
+
+
+.jumbotron h1 {
+	color: #fff;
+	font-weight: 200;
+	font-size:19px;
+	text-align:center;
+	padding: 0;
+	margin: 0;
+}
+
+.jumbotron-text-black-background {
+	background-color:#D34727;
+	padding: 10px;
+	opacity: .5;
+
+}
+@media (min-width: 768px){
+.navbar {
+	 border-radius: 0px;
+}
+}
+.article-type {
+	padding: 10px 0 0 0;
+	font-size: 10px;
+    font-weight: 600;
+	color:#093B5C;
+}
+.article-title {
+	padding: 10px 0 10px 0;
+	margin:0px;
+	font-size: 14px;
+    font-weight: 600;
+	color:#093B5C;
+}
+.article-date {
+	padding: 10px 0 0 0;
+	margin: 0px;
+	font-size: 12px;
+    font-weight: 600;
+	color:#093B5C;
+}
+
+.padding-10-top {
+	padding-top: 10px;
+}
+.padding-20-top {
+	padding-top: 20px;
+}
+
+
+.padding-10-bottom {
+	padding-bottom: 10px;
+}
+
+.margin-0-top {
+	margin-top: 0px;
+}.margin-0-top {
+}
+.margin-0-top {
+}
+
+
+
+	
