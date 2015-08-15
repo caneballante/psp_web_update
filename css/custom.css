@@ -26,6 +26,7 @@ body {
 }
 a {
 	color: #036B93;
+	font-size: 12px
 }
 /* sets the main nav type slightly smaller for medium screens */
 @media (max-width: 992px) {
@@ -40,6 +41,7 @@ a {
 }
 .navbar-default .navbar-nav > li > a {
 	color: #FFF;
+	font-size: 14px
 }
 
 /* nested rows and columns gave me some trouble - the padding would double - I remove it here */
