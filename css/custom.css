@@ -71,7 +71,7 @@ a {
 	margin-bottom: 0px;    
     background-size: cover;
 	background-position: right top;
-	padding: 20px 500px 200px 20px;
+	padding: 20px 700px 180px 20px;
 }
 /* gets the jumbotron to extend to the edge of the container */
 .home_bannerfix {
@@ -82,17 +82,42 @@ a {
 
 .jumbotron h1 {
 	color: #fff;
-	font-weight: 200;
+	font-weight: 400;
 	font-size:22px;
 	text-align:left;
 	padding: 0;
 	margin: 0;
 }
 
+.jumbotron p {
+	color: #fff;
+	font-weight: 400;
+	font-size:12px;
+	text-align:left;
+	padding: 0;
+	margin: 0;
+}
+
+.jumbotron a {
+	color: #fff;
+	font-weight: 400;
+	font-size:12px;
+	text-align:left;
+	padding: 0;
+	margin: 0;
+}
+
+
 .jumbotron-text-black-background {
+	background-color:#000;
+	padding: 10px;
+	opacity: .7;
+
+}
+.jumbotron-text-red-background {
 	background-color:#D34727;
 	padding: 10px;
-	opacity: .5;
+	opacity: .7;
 
 }
 @media (min-width: 768px){
