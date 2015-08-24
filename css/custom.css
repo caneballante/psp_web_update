@@ -71,7 +71,7 @@ a {
 	margin-bottom: 0px;    
     background-size: cover;
 	background-position: right top;
-	padding: 0px 0px 200px 0px;
+	padding: 20px 500px 200px 20px;
 }
 /* gets the jumbotron to extend to the edge of the container */
 .home_bannerfix {
@@ -83,8 +83,8 @@ a {
 .jumbotron h1 {
 	color: #fff;
 	font-weight: 200;
-	font-size:19px;
-	text-align:center;
+	font-size:22px;
+	text-align:left;
 	padding: 0;
 	margin: 0;
 }
