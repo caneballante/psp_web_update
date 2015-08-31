@@ -190,3 +190,23 @@ a {
 	height: 20px;
 	background-color: #C6B42F;
 }
+/* styles for the multi column main menu dropdowns */
+.multi-col-menu > li > a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+}
+
+.multi-col-menu > li > p {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+}
