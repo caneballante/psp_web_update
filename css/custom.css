@@ -21,9 +21,14 @@ h2 {
 	border: 3px solid #fff;
 	height: 370px;
 }
-/* used to set text to white */
 .white {
 	color: #fff;
+}
+.orange {
+	color: #EF892E;
+}
+.blue {
+	color: #0a3b5c;
 }
 body {
 	font-family: 'Lato', sans-serif;
@@ -200,13 +205,32 @@ a {
     color: #333;
     white-space: nowrap;
 }
-
+/*styles for the multi column menu header */
 .multi-col-menu > li > p {
     display: block;
     padding: 3px 20px;
+	margin:0;
     clear: both;
-    font-weight: normal;
+
     line-height: 1.42857143;
-    color: #333;
+    color: #0a3b5c;
     white-space: nowrap;
+	text-transform:uppercase;
+	font-size:12px;
+}
+/*change the selected state of the main nav to white*/
+.navbar-default .navbar-nav > .open > a:active{
+	background-color:#FFF;
+}
+.navbar-default .navbar-nav > .open > a{
+	background-color:#FFF;
+}
+/*makes the drop down panel white */
+.dropdown-menu {
+	background-color:#FFF;
+
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+	background-color:#FFF;
+	
 }
