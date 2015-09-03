@@ -1,6 +1,6 @@
 @charset "UTF-8";
 html {
-	font-family: 'Lato', sans-serif;
+	font-family: 'prenton', serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 }
@@ -31,7 +31,7 @@ h2 {
 	color: #0a3b5c;
 }
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: 'prenton', serif;
 	background-color: #0a3b5c;
 }
 a {
