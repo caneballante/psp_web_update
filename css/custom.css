@@ -1,6 +1,6 @@
 @charset "UTF-8";
 html {
-	font-family: 'lato', serif;
+	font-family: 'prenton', serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 }
@@ -48,7 +48,7 @@ h2 {
 	color: #0a3b5c;
 }
 body {
-	font-family: 'lato', serif;
+	font-family: 'prenton', serif;
 	background-color: #0a3b5c;
 }
 a {
@@ -175,21 +175,21 @@ a {
 .article-type {
 	padding: 10px 0 0 0;
 	font-size: 10px;
-	font-weight: 600;
+	font-weight: light;
 	color: #093B5C;
 }
 .article-title {
 	padding: 10px 0 10px 0;
 	margin: 0px;
 	font-size: 14px;
-	font-weight: 600;
+	font-weight: bold;
 	color: #093B5C;
 }
 .article-date {
 	padding: 10px 0 0 0;
 	margin: 0px;
 	font-size: 12px;
-	font-weight: 600;
+	font-weight: light;
 	color: #093B5C;
 }
 .padding-10-top {
