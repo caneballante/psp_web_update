@@ -5,22 +5,19 @@ html {
 	-ms-text-size-adjust: 100%;
 }
 .BOLD_TEST_PRENTON {
-	font-size:10px;
-	font-weight:800;
+	font-size: 10px;
+	font-weight: 800;
 }
 .SMALL_TEST_PRENTON {
-	font-size:10px;
-	font-weight:800;
-	text-transform:capitalize;
+	font-size: 10px;
+	font-weight: 800;
+	text-transform: capitalize;
 }
-	
 .SMALL_LIGHT_TEST_PRENTON {
-	font-size:10px;
-	font-weight:100;
-	text-transform:capitalize;
+	font-size: 10px;
+	font-weight: 100;
+	text-transform: capitalize;
 }
-	
-	
 h3 {
 	font-size: 16px;
 	font-weight: 600;
@@ -55,18 +52,21 @@ a {
 	color: #036B93;
 	font-size: 12px
 }
+
 @media (min-width: 1200px) {
 .navbar-default .navbar-nav > li > a {
 	color: #FFF;
 	font-size: 14px
 }
 }
+
 @media (min-width: 992px) and (max-width: 1199px) {
 .navbar-default .navbar-nav > li > a {
 	color: #FFF;
 	font-size: 12px
 }
 }
+
 /* sets the main nav type slightly smaller for medium screens */
 @media (max-width: 992px) {
 .navbar-default .navbar-nav > li > a {
@@ -79,7 +79,6 @@ a {
 	background-color: #EF892E;
 	border-color: #EF892E;
 }
-
 /* nested rows and columns gave me some trouble - the padding would double - I remove it here */
 .homepage_r_col_padding_fix {
 	padding-left: 0px;
@@ -214,40 +213,58 @@ a {
 }
 /* styles for the multi column main menu dropdowns */
 .multi-col-menu > li > a {
-    display: block;
-    padding: 3px 20px;
-    clear: both;
-    font-weight: normal;
-    line-height: 1.42857143;
-    color: #333;
-    white-space: nowrap;
+	display: block;
+	padding: 3px 20px;
+	clear: both;
+	font-weight: normal;
+	line-height: 1.42857143;
+	color: #333;
+	white-space: nowrap;
 }
 /*styles for the multi column menu header */
 .multi-col-menu > li > p {
-    display: block;
-    padding: 3px 20px;
-	margin:0;
-    clear: both;
-
-    line-height: 1.42857143;
-    color: #0a3b5c;
-    white-space: nowrap;
-	text-transform:uppercase;
-	font-size:12px;
+	display: block;
+	padding: 3px 20px;
+	margin: 0;
+	clear: both;
+	line-height: 1.42857143;
+	color: #0a3b5c;
+	white-space: nowrap;
+	text-transform: uppercase;
+	font-size: 12px;
 }
 /*change the selected state of the main nav to white*/
-.navbar-default .navbar-nav > .open > a:active{
-	background-color:#FFF;
+.navbar-default .navbar-nav > .open > a:active {
+	background-color: #FFF;
 }
-.navbar-default .navbar-nav > .open > a{
-	background-color:#FFF;
+.navbar-default .navbar-nav > .open > a {
+	background-color: #FFF;
 }
 /*makes the drop down panel white */
 .dropdown-menu {
-	background-color:#FFF;
-
+	background-color: #FFF;
 }
-.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
-	background-color:#FFF;
-	
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+	background-color: #FFF;
+}
+/*NAV BAR OVER RIDE TO KILL REGULAR NAV BAR AND ONLY USE HAMMY*/
+
+@media(max-width:1000px)  {
+
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+
+    .navbar-collapse {
+        overflow-x: visible !important;
+    }
+
+    .navbar-collapse.in {
+      overflow-y: auto !important;
+    }
+
+    .collapse.in {
+      display: block !important;
+    }
+
 }
