@@ -249,7 +249,7 @@ a {
 }
 /*NAV BAR OVER RIDE TO KILL REGULAR NAV BAR AND ONLY USE HAMMY*/
 
-@media(max-width:1000px)  {
+/*@media(max-width:1000px)  {
 
     .navbar-collapse.collapse {
         display: none !important;
@@ -267,4 +267,4 @@ a {
       display: block !important;
     }
 
-}
+}*/
