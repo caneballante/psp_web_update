@@ -146,4 +146,45 @@ h2 {
 }
 
 
+/*modal customization 9-30-15*/
+.modal-custom {
+	background-color:#0a3b5c;
+}
 
+.modal-header-custom {
+	border:none;
+}
+
+.modal-title-custom {
+	color: #ffffff;
+}
+.modal-body-custom {
+	color: #ffffff;
+	text-align:center;
+}
+
+.modal-body-custom h1 {
+	font-size:20px;
+	font-weight:900;
+	letter-spacing:2px;
+	padding: 60px 0px 15px 0px;
+}
+
+.modal-body-custom p {
+	font-size:15px;
+	font-weight:100;
+	letter-spacing:2px;
+	line-height:30px;
+}
+/*the little x button to dismiss the dialog needs to be white*/
+.close-custom {
+	color:#ffffff;
+}
+
+@media (min-width: 768px){
+.modal-dialog {
+    width: auto;
+    margin: auto;
+	
+}
+}
