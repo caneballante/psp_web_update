@@ -1,0 +1,185 @@
+@charset "UTF-8";
+
+body {
+	font-family: 'prenton', serif;
+	background-color: #FFF;
+}
+html {
+	/*
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;*/
+}
+
+.testsquare {
+	height:700px;
+	width:10px;
+	background-color:rgba(166,48,50,1.00);
+}
+
+/*this is part of type-kit - hides the font until it's loaded - FOUT*/
+.wf-loading h1 {
+    font-family: 'prenton', san-serif;
+    visibility: hidden;
+ }
+  
+.wf-active h1 {
+    visibility: visible;
+ }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 35px;
+    text-transform: uppercase;
+    font-family: 'prenton', san-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+
+
+a {
+	color: #036B93;
+	font-size: 12px
+}
+.BOLD_TEST_PRENTON {
+	font-size: 10px;
+	font-weight: 800;
+}
+.SMALL_TEST_PRENTON {
+	font-size: 10px;
+	font-weight: 800;
+	text-transform: capitalize;
+}
+.SMALL_LIGHT_TEST_PRENTON {
+	font-size: 10px;
+	font-weight: 100;
+	text-transform: capitalize;
+}
+h3 {
+	font-size: 16px;
+	font-weight: 600;
+}
+h2 {
+	font-size: 20px;
+	font-weight: 600;
+}
+/* used on the container to get white background */
+.white_fill {
+	background-color: #fff;
+}
+.green-fill {
+	background-color: #C6B42F;
+}
+.white {
+	color: #fff;
+}
+.orange {
+	color: #EF892E;
+}
+.blue {
+	color: #0a3b5c;
+}
+.padding-10-top {
+	padding-top: 10px;
+}
+.padding-20-top {
+	padding-top: 20px;
+}
+.padding-10-bottom {
+	padding-bottom: 10px;
+}
+.margin-0-top {
+	margin-top: 0px;
+}
+
+
+/*sets the navbar transparent 9-28-15*/ 
+.navbar-default {
+	background-color: rgba(0,0,0,0.00);
+	border: none;
+}
+
+/* Added to the main nav when it scrolls 9-28-15*/
+.top-nav-collapse {
+    padding: 0;
+    background: rgba(9,57,93,0.85);
+}
+/* fixes the z index on the modal so it's not greyed out 9-28-15*/
+ .modal-backdrop.in { z-index: auto;}
+
+/*using this instead of the jumbotron - pulled CSS from the gray theme 9-28-15*/
+.intro {
+    display: table;
+    width: 100%;
+    height: 600px;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+    background: url(../images/home_image5.jpg)no-repeat bottom center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.intro .intro-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.intro .intro-body .brand-heading {
+    font-size: 40px;
+}
+
+.intro .intro-body .intro-text {
+    font-size: 18px;
+}
+
+
+/*modal customization 9-30-15*/
+.modal-custom {
+	background-color:#0a3b5c;
+}
+
+.modal-header-custom {
+	border:none;
+}
+
+.modal-title-custom {
+	color: #ffffff;
+}
+.modal-body-custom {
+	color: #ffffff;
+	text-align:center;
+}
+
+.modal-body-custom h1 {
+	font-size:20px;
+	font-weight:900;
+	letter-spacing:2px;
+	padding: 60px 0px 15px 0px;
+}
+
+.modal-body-custom p {
+	font-size:15px;
+	font-weight:100;
+	letter-spacing:2px;
+	line-height:30px;
+}
+/*the little x button to dismiss the dialog needs to be white*/
+.close-custom {
+	color:#ffffff;
+}
+
+@media (min-width: 768px){
+.modal-dialog {
+    width: auto;
+    margin: auto;
+	
+}
+}
