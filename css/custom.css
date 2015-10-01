@@ -107,6 +107,28 @@ h2 {
 .margin-20-top {
 	margin-top: 20px;
 }
+.align-right {
+	text-align:right;
+}
+
+/*news box*/
+.newsbox-wrap{
+}
+.newsbox{
+	height:148px;
+	background-color:rgba(36,81,112,1.00);
+	color:#ffffff;
+	margin-top:20px
+}
+.newsbox-date {
+	height:45px;
+	width:54px;
+	background-color: rgba(245,180,50,1.00);
+	text-align:center;
+}
+.newsbox-text {
+	padding:10px;
+	}
 
 
 /*sets the navbar transparent 9-28-15*/ 
