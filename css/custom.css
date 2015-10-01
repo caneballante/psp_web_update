@@ -3,13 +3,11 @@
 body {
 	font-family: 'prenton', serif;
 	background-color: #FFF;
-
 }
 html {
 	/*
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;*/
-
 }
 
 .testsquare {
@@ -76,6 +74,12 @@ h2 {
 .green-fill {
 	background-color: #C6B42F;
 }
+.light-blue-fill{
+	background-color: #51748d;
+}
+.blue-fill {
+	background-color: #0a3b5c;
+}
 .white {
 	color: #fff;
 }
@@ -94,8 +98,14 @@ h2 {
 .padding-10-bottom {
 	padding-bottom: 10px;
 }
+.padding-20-bottom {
+	padding-bottom: 20px;
+}
 .margin-0-top {
 	margin-top: 0px;
+}
+.margin-20-top {
+	margin-top: 20px;
 }
 
 
