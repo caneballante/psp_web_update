@@ -10,12 +10,6 @@ html {
 	-ms-text-size-adjust: 100%;*/
 }
 
-.testsquare {
-	height:700px;
-	width:10px;
-	background-color:rgba(166,48,50,1.00);
-}
-
 /*this is part of type-kit - hides the font until it's loaded - FOUT*/
 .wf-loading h1 {
     font-family: 'prenton', san-serif;
@@ -38,9 +32,6 @@ h6 {
     font-weight: 100;
     letter-spacing: 1px;
 }
-
-
-
 a {
 	color: #036B93;
 	font-size: 12px
