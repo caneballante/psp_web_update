@@ -81,6 +81,9 @@ h3 {
 .blue {
 	color: #0a3b5c;
 }
+.padding-0-top {
+	padding-top: 0px;
+}
 .padding-10-top {
 	padding-top: 10px;
 }
@@ -95,6 +98,9 @@ h3 {
 }
 .margin-0-top {
 	margin-top: 0px;
+}
+.margin-10-top {
+	margin-top: 10px;
 }
 .margin-20-top {
 	margin-top: 20px;
