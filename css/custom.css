@@ -5,9 +5,8 @@ body {
 	background-color: #FFF;
 }
 html {
-	/*
 	-webkit-text-size-adjust: 100%;
-	-ms-text-size-adjust: 100%;*/
+	-ms-text-size-adjust: 100%;
 }
 
 /*this is part of type-kit - hides the font until it's loaded - FOUT*/
@@ -129,8 +128,10 @@ h3 {
 .align-right {
 	text-align:right;
 }
-
-
+auto-size {
+	width:100%;
+	height:auto;
+}
 /*news box*/
 
 .newsbox{

@@ -116,8 +116,9 @@
 				<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
 				<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
 				<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
+			<!-- TemplateEndEditable --> 
 			</ul>
-			<!-- TemplateEndEditable --> <!-- TemplateEndIf -->
+			<!-- TemplateEndIf -->
 		</div>
 	<!-- TemplateBeginIf cond="OptionalRegion6" -->
 		<div class="col-md-6 padding-20-top">
@@ -177,9 +178,10 @@
 				<br>
 			</div>
 		</div>
+		<div class="align-right white"> page # 002 - <a href="https://app.smartsheet.com/b/form?EQBCT=54600eddd8ea4d5c82ed0b94f1d4a259" target="_blank">report a problem or make a suggestion</a></div>
 	</div>
 </div>
-<div class="align-right"> page # 002 - <a href="https://app.smartsheet.com/b/form?EQBCT=54600eddd8ea4d5c82ed0b94f1d4a259" target="_blank">report a problem or make a suggestion</a></div>
+
 <!-- END FOOTER -->
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="../js/jquery-1.11.2.min.js"></script> 
