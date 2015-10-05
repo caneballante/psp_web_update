@@ -236,6 +236,9 @@ auto-size {
 .overview-page-image1 {
 	 background: url(../images/inside_image_1.jpg)no-repeat bottom center scroll;
 }
+.overview-page-image2 {
+	 background: url(../images/inside_image_2.jpg)no-repeat bottom center scroll;
+}
 .overview-page-image-style {
     display: table;
     width: 100%;
