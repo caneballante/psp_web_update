@@ -40,6 +40,12 @@ h1 {
 	font-size: 30px;
 	font-weight: 100;
 }
+/* page-content class is ueed so I can specifically target h1 children in the content areas of inside pages. I'm centering them for mobile*/
+@media (max-width: 992px){
+.page-content h1 {
+	text-align:center;
+}
+}
 h2 {
 	font-size: 13px;
 	font-weight: 800;
@@ -217,12 +223,11 @@ h3 {
 .close-custom {
 	color:#ffffff;
 }
-
+/*Not sure why I added this - check later how it effects the modal*/
 @media (min-width: 768px){
 .modal-dialog {
     width: auto;
-    margin: auto;
-	
+    margin: auto;	
 }
 }
 /*section overview pages with photos on top use this for the image 10-1-15 */
@@ -245,6 +250,12 @@ h3 {
 	font-size:10px;
 	text-align:right;
 	padding-right:20px;
+}
+/*makes the left nav centered on small screens*/
+@media (max-width: 992px){
+	.nav-leftside-custom {
+	text-align:center;
+}
 }
 .nav-rightside-custom {
 	font-size:10px;
