@@ -232,20 +232,25 @@ auto-size {
 }
 }
 /*section overview pages with photos on top use this for the image 10-1-15 */
-.overview-page-image {
+ 
+.overview-page-image1 {
+	 background: url(../images/inside_image_1.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image-style {
     display: table;
     width: 100%;
     height: 400px;
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../images/inside_image_1.jpg)no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
+
+
 /*left and right nav on inside pages*/
 .nav-leftside-custom {
 	font-size:10px;

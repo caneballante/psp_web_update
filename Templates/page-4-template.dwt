@@ -82,7 +82,7 @@
 
 <!-- START IMAGE HEADER --> 
 <!-- TemplateBeginIf cond="OptionalRegion1" --> <!-- TemplateBeginEditable name="overviewphoto" -->
-<header class="overview-page-image"> </header>
+<header class="overview-page-image-style overview-page-image1"> </header>
 <!-- TemplateEndEditable --> <!-- TemplateEndIf --> <!-- TemplateBeginIf cond="OptionalRegion2" --> 
 <div class="row">
 	<div class="col-sm-12 margin-50-top">&nbsp;</div>
