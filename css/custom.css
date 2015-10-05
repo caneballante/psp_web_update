@@ -47,7 +47,7 @@ h1 {
 }
 h2 {
 	font-size: 13px;
-	font-weight: 800;
+	font-weight: 900;
 }
 
 h3 {
@@ -55,7 +55,12 @@ h3 {
 	font-weight: 100;
 }
 
-
+/*make links in text more visible- especially important ones like on the overview pages
+I couldn't figure out how to target the a tag bold. I tried a span and various descendant relationships like a>.bold
+.bold {
+	font-weight:900px;
+}
+*/
 .white_fill {
 	background-color: #fff;
 }
