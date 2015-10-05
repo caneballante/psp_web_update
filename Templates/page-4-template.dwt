@@ -140,7 +140,7 @@
 				<!-- TemplateBeginEditable name="right_nav_title" -->
 					<h3 class="margin-0-top">SEE ALSO</h3>
 				<!-- TemplateEndEditable -->
-					<ul class="nav nav-stacked nav-rightside-custom">
+					<ul class="nav-rightside-custom">
 						<!-- TemplateBeginEditable name="right_nav_links" -->
 					<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
 					<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
