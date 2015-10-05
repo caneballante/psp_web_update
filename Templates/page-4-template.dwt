@@ -30,25 +30,27 @@
 <!-- TemplateParam name="OptionalRegion7" type="boolean" value="true" -->
 </head>
 <body>
+<!-- START NAV AND MODAL CONTAINER -->
 <div class="container-fluid">
 	<nav class="navbar navbar-default navbar-fixed-top">
+		<!--START NAV CONTAINER -->
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xs-6 text-right padding-0-right"> <a class="navbar-brand" href="../test_index.html"> <img src="../images/psplogo.png" width="250" height="53" alt=""/></a> </div>
 				<div class="col-xs-6 text-right padding-0-right"> 
-					<!-- Button trigger modal LARGE jquery switches these on browser resize--> 
+					<!-- BUTTON TRIGGER MODAL LARGE jquery switches these on browser resize--> 
 					<a class="menu_button" href="javascript:void(0);" id="menu_button" title="menu button" data-toggle="modal" data-target="#myModal"> <img src="../images/menu.gif" width="222" height="71" alt="link to navigation"/> </a> 
-					<!-- END Button trigger modal --> 
-					<!-- Button trigger modal RESPONSIVE jquery switches these on browser resize--> 
+					<!-- BUTTON TRIGGER MODAL LARGE --> 
+					<!-- BUTTON TRIGGER MODAL RESPONSIVE jquery switches these on browser resize--> 
 					<a class="menu_button_small" href="javascript:void(0);" id="menu_button" title="menu button" data-toggle="modal" data-target="#myModal"><img src="../images/menu_sm.gif" width="64" height="71" alt="link to navigation"/></a> 
-					<!-- END Button trigger modal --> 
+					<!-- BUTTON TRIGGER MODAL RESPONSIVE --> 
 				</div>
 			</div>
-			<!-- END row --> 
+			<!-- END ROW --> 
 		</div>
-		<!-- END CONTAINER --> 
+		<!-- END NAV CONTAINER --> 
 	</nav>
-	<!-- START Modal Main NAVIGATION PAGE-->
+	<!-- START MODAL MAIN NAVIGATION PAGE-->
 	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 		<div class="modal-dialog" role="document">
 			<div class="modal-content modal-custom">
@@ -71,17 +73,19 @@
 			</div>
 		</div>
 	</div>
-	<!-- END MODAL --> 
+	<!-- END MODAL MAIN NAVIGATION PAGE--> 
 </div>
-<!-- END CONTAINER --> 
+<!-- END NAV AND MODAL CONTAINER --> 
 
-<!-- Intro Header --> 
+<!-- START IMAGE HEADER --> 
 <!-- TemplateBeginIf cond="OptionalRegion1" --> <!-- TemplateBeginEditable name="overviewphoto" -->
 <header class="overview-page-image"> </header>
 <!-- TemplateEndEditable --> <!-- TemplateEndIf --> <!-- TemplateBeginIf cond="OptionalRegion2" --> 
 <div class="row">
 	<div class="col-sm-12 margin-50-top">&nbsp;</div>
 </div>
+<!-- END IMAGE HEADER -->
+<!-- START MAIN CONTENT CONTAINER -->
 <!-- TemplateEndIf -->
 <div class="container"><!-- TemplateBeginIf cond="OptionalRegion3" -->
 	<div class="row">
@@ -101,50 +105,59 @@
 	<!-- TemplateEndIf -->
 	<div class="row"> <!-- TemplateBeginIf cond="OptionalRegion5" -->
 		<div class="col-md-3 padding-20-top">
-		<!-- TemplateBeginEditable name="left_nav" -->
-		<ul class="nav nav-stacked nav-leftside-custom">
-			<li> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
-			<li> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
-			<li> <a href="#">SCIENCE WORKPLAN</a></li>
-			<li> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
-			<li> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
-			<li> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
-		</ul>
-		<!-- TemplateEndEditable --> <!-- TemplateEndIf --></div>
+			<ul class="nav nav-stacked nav-leftside-custom">
+			<!-- TemplateBeginEditable name="left_nav" -->
+				<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
+				<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
+				<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
+				<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
+				<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+				<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
+			</ul>
+			<!-- TemplateEndEditable --> <!-- TemplateEndIf -->
+		</div>
 	<!-- TemplateBeginIf cond="OptionalRegion6" -->
-	<div class="col-md-6 padding-20-top">
-	<!-- TemplateBeginEditable name="6col_content" -->
-		<p>The Puget Sound Partnership is developing a strategic science program to support the science-based recovery of the Puget Sound ecosystem by 2020. </p>
-		<h2>STATE OF THE SOUND</h2>
-		<p>The Partnership is required to produce a State of the Sound report every two years. The statutory reporting requirements are to document the current status of the ecosystem, as well as status of implementation and funding. This information can be used to inform decisions about changes to funding, programs, or policies that might accelerate the regional progress towards ecosystem recovery, including more efficient use of resources. LEARN MORE</p>
-		<p>Additional information about science programs and activities are available from our page on science resources.</p>
-		<!-- TemplateEndEditable -->
-	</div>
+		<div class="col-md-6 padding-20-top">
+		<!-- TemplateBeginEditable name="6col_content" -->
+			<p>The Puget Sound Partnership is developing a strategic science program to support the science-based recovery of the Puget Sound ecosystem by 2020. </p>
+			<h2>STATE OF THE SOUND</h2>
+			<p>The Partnership is required to produce a State of the Sound report every two years. The statutory reporting requirements are to document the current status of the ecosystem, as well as status of implementation and funding. This information can be used to inform decisions about changes to funding, programs, or policies that might accelerate the regional progress towards ecosystem recovery, including more efficient use of resources. LEARN MORE</p>
+			<p>Additional information about science programs and activities are available from our page on science resources.</p>
+			<!-- TemplateEndEditable -->
+		</div>
 	<!-- TemplateEndIf --><!-- TemplateBeginIf cond="OptionalRegion7" -->
-	<div class="col-md-9 padding-20-top padding-0-left">
-	<!-- TemplateBeginEditable name="9col_content" -->
-		<p>The Puget Sound Partnership is developing a strategic science program to support the science-based recovery of the Puget Sound ecosystem by 2020. </p>
-		<h2>STATE OF THE SOUND</h2>
-		<p>The Partnership is required to produce a State of the Sound report every two years. The statutory reporting requirements are to document the current status of the ecosystem, as well as status of implementation and funding. This information can be used to inform decisions about changes to funding, programs, or policies that might accelerate the regional progress towards ecosystem recovery, including more efficient use of resources. LEARN MORE</p>
-		<p>Additional information about science programs and activities are available from our page on science resources.</p>
-	<!-- TemplateEndEditable -->
-	</div>
+		<div class="col-md-9 padding-20-top padding-0-left">
+		<!-- TemplateBeginEditable name="9col_content" -->
+			<p>The Puget Sound Partnership is developing a strategic science program to support the science-based recovery of the Puget Sound ecosystem by 2020. </p>
+			<h2>STATE OF THE SOUND</h2>
+			<p>The Partnership is required to produce a State of the Sound report every two years. The statutory reporting requirements are to document the current status of the ecosystem, as well as status of implementation and funding. This information can be used to inform decisions about changes to funding, programs, or policies that might accelerate the regional progress towards ecosystem recovery, including more efficient use of resources. LEARN MORE</p>
+			<p>Additional information about science programs and activities are available from our page on science resources.</p>
+		<!-- TemplateEndEditable -->
+		</div>
 	<!-- TemplateEndIf -->
-	<div class="col-md-3 padding-20-top"> <!-- TemplateBeginRepeat name="right_nav_repeat" --> <!-- TemplateBeginEditable name="right_nav" -->
-		<h3 class="margin-0-top">SEE ALSO</h3><!-- TemplateEndEditable -->
-		<ul class="nav nav-stacked nav-rightside-custom">
-			<li> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
-			<li> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
-			<li> <a href="#">SCIENCE WORKPLAN</a></li>
-			<li> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
-			<li> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
-			<li><a href="#"> PUGET SOUND SCIENCE UPDATES</a></li>
-		</ul>
-		<!-- TemplateEndRepeat --></div>
+		<div class="col-md-3 padding-20-top"> 
+			<!-- TemplateBeginRepeat name="right_nav_repeat" --> 
+				<!-- TemplateBeginEditable name="right_nav_title" -->
+					<h3 class="margin-0-top">SEE ALSO</h3>
+				<!-- TemplateEndEditable -->
+					<ul class="nav nav-stacked nav-rightside-custom">
+						<!-- TemplateBeginEditable name="right_nav_links" -->
+					<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
+					<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
+					<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
+						<!-- TemplateEndEditable -->
+					</ul>
+			<!-- TemplateEndRepeat -->
+		</div>
+	</div>
+	<!--END OF ROW -->
 </div>
-</div>
+<!--END OF CONTENT CONTAINER -->
 
-<!--footer start -->
+<!--FOOTER START -->
 <div class="container-fluid blue-fill padding-20-top padding-20-bottom">
 	<div class="container">
 		<div class="row white">
@@ -164,6 +177,7 @@
 	</div>
 </div>
 <div class="align-right"> page # 002 - <a href="https://app.smartsheet.com/b/form?EQBCT=54600eddd8ea4d5c82ed0b94f1d4a259" target="_blank">report a problem or make a suggestion</a></div>
+<!-- END FOOTER -->
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="../js/jquery-1.11.2.min.js"></script> 
 
