@@ -128,6 +128,12 @@ h3 {
 .align-right {
 	text-align:right;
 }
+.align-left {
+	text-align:left;
+}
+.align-center {
+	text-align:center;
+}
 auto-size {
 	width:100%;
 	height:auto;
@@ -211,7 +217,7 @@ auto-size {
 	font-size:20px;
 	font-weight:900;
 	letter-spacing:2px;
-	padding: 60px 0px 15px 0px;
+	padding: 30px 0px 15px 0px;
 }
 
 .modal-body-custom p {
@@ -231,6 +237,11 @@ auto-size {
     margin: auto;	
 }
 }
+/*this centers the modal seperators between sections. They needed img-responsive so they didn't poke out of the modal when small. This caused them to align left. the css is a fix to align them center*/
+.modal .img-responsive {
+    margin: 0 auto;
+}
+	
 /*section overview pages with photos on top use this for the image 10-1-15 */
  
 .overview-page-image1 {

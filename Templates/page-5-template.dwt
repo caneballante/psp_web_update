@@ -61,31 +61,17 @@
 					<button type="button" class="close close-custom" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 				</div>
 				<div class="modal-body modal-body-custom"><br>
+					<br>
 					<h1>ABOUT</h1>
-					<p>PUGET&nbsp;SOUND&nbsp;RECOVERY &nbsp;&nbsp;&nbsp; OUR&nbsp;ROLE &nbsp;&nbsp;&nbsp; WHAT&nbsp;YOU&nbsp;CAN&nbsp;DO<br>
-STAFF &nbsp;&nbsp;&nbsp; PRESS &nbsp;&nbsp;&nbsp; JOBS &nbsp;&nbsp;&nbsp; PROGRAMS &nbsp;&nbsp;&nbsp; NEWS </p><br><br>
-					<span><img class="img-responsive" src="../images/modal_seperator.gif" width="472" height="2" alt=""/></span>
-					<h1>POLICY&nbsp;AND&nbsp;PLANNING</h1>
-					<p>WHAT&nbsp;IS&nbsp;THE&nbsp;PLAN? &nbsp;&nbsp;&nbsp; 2014-15&nbsp;ACTION&nbsp;AGENDA &nbsp;&nbsp;&nbsp; 2016&nbsp;ACTION&nbsp;AGENDA&nbsp;UPDATE &nbsp;&nbsp;&nbsp; GOVERNMENT&nbsp;AFFAIRS</p><br><br>
-					<span><img class="img-responsive" src="../images/modal_seperator.gif" width="472" height="2" alt=""/></span>
-					<h1>LOCAL&nbsp;ECOSYSTEM&nbsp;RECOVERY</h1>
-					<p>SALMON&nbsp;RECOVERY &nbsp;&nbsp;&nbsp; FUNDING &nbsp;&nbsp;&nbsp; ECOSYSTEM&nbsp;RECOVERY &nbsp;&nbsp;&nbsp; FUNDING&nbsp;PROGRAMS</p><br><br>
-					
-					<span><img class="img-responsive" src="../images/modal_seperator.gif" width="472" height="2" alt=""/></span>
-					<h1>SCIENCE&nbsp;AND&nbsp;EVALUATION</h1>
-					<p>EVALUATING&nbsp;RECOVERY&nbsp;IN&nbsp;PUGET&nbsp;SOUND</p>
-					<p>EVALUATING HEALTH &nbsp;&nbsp;&nbsp; EVALUATING ACTIONS</p>
-					<p>SCIENCE&nbsp;BASIS&nbsp;OF&nbsp;RECOVERY</p>
-					<p>SCIENCE &nbsp;&nbsp;&nbsp; SCIENCE&nbsp;RESOURCES</p><br><br>
-					<span><img class="img-responsive" src="../images/modal_seperator.gif" width="472" height="2" alt=""/></span>
+					<p>RECOVERY OVERVIEW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OUR ROLE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHAT YOU CAN DO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STAFF&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRESS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOBS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PROGRAMS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEWS </p>
+					<h1>POLICY AND PLANNING</h1>
+					<p> ACTION AGENDA OVERVIEW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014-15 ACTION AGENDA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016 ACTION AGENDA UPDATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GOVERNMENT AFFAIRS </p>
+					<h1>LOCAL ECOSYSTEM RECOVERY</h1>
+					<p>SALMON RECOVERY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FUNDING&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ECOSYSTEM RECOVERY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FUNDING PROGRAMS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015 STATE OF THE SOUND</p>
+					<h1>SCIENCE AND EVALUATION</h1>
+					<p>ASSESSING RECOCERY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASSESSING EFFORT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCIENCE BASIS FOR RECOVERY</p>
 					<h1>BOARDS</h1>
-					<p>ABOUT&nbsp;THE&nbsp;BOARDS &nbsp;&nbsp;&nbsp; LEADERSHIP&nbsp;COUNCIL &nbsp;&nbsp;&nbsp; ECOSYSTEM COORDINATION BOARD<br>
-SCIENCE PANEL &nbsp;&nbsp;&nbsp; SALMON RECOVERY COUNCIL</p><br><br>
-					<span><img class="img-responsive" src="../images/modal_seperator.gif" width="472" height="2" alt=""/></span>
-					<h1>FOLLOW THE PARTNERSHIP</h1>
-					<p>social media links go here - link to contact form?</p>
-					<h1>SEARCH</h1>
-					<p>I'm unsure about posting our search as front and center as the NASA JPL site.</p><br><br><br><br>
+					<p>BOARD OVERVIEW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LEADERSHIP COUNCIL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ECOSYSTEM COORDINATION BOARD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCIENCE PANEL    SALMON RECOVERY COUNCIL</p>
 				</div>
 			</div>
 		</div>
