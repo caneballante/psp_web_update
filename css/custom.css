@@ -81,6 +81,12 @@ h3 {
 .padding-20-top {
 	padding-top: 20px;
 }
+.padding-50-top {
+	padding-top: 20px;
+}
+.padding-150-top {
+	padding-top: 20px;
+}
 .padding-0-right {
 	padding-right: 0px;
 }
@@ -105,9 +111,16 @@ h3 {
 .margin-20-top {
 	margin-top: 20px;
 }
+.margin-50-top {
+	margin-top: 50px;
+}
+.margin-150-top {
+	margin-top: 150px;
+}
 .align-right {
 	text-align:right;
 }
+
 
 /*news box*/
 
