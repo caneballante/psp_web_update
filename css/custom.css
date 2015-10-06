@@ -46,7 +46,10 @@ a {
 	font-size: 13px;
 	font-weight:900;
 }
-
+#home-squares a {
+	font-size: 14px;
+	font-weight:100;
+}
 h1 {
 	font-size: 30px;
 	font-weight: 100;
