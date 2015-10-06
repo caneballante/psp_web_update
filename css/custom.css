@@ -265,6 +265,9 @@ auto-size {
 .overview-page-image3 {
 	 background: url(../images/inside_image_3.jpg)no-repeat bottom center scroll;
 }
+.overview-page-image4 {
+	 background: url(../images/inside_image_4.jpg)no-repeat bottom center scroll;
+}
 .overview-page-image-style {
     display: table;
     width: 100%;
