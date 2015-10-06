@@ -50,6 +50,14 @@ a {
 	font-size: 14px;
 	font-weight:100;
 }
+.learn-more-box a{
+	color:#fff;
+	font-size:18px;
+}
+.learn-more-box a:hover{
+	text-decoration: none;
+}
+ 
 h1 {
 	font-size: 30px;
 	font-weight: 100;
@@ -101,8 +109,11 @@ h3 {
 .padding-20-top {
 	padding-top: 20px;
 }
+.padding-40-top {
+	padding-top: 40px;
+}
 .padding-50-top {
-	padding-top: 20px;
+	padding-top: 50px;
 }
 .padding-150-top {
 	padding-top: 20px;
@@ -170,9 +181,14 @@ auto-size {
 	line-height:16px;
 	padding-top:7px;
 	padding-bottom:7px;
+	letter-spacing: 1px;
 }
 .newsbox-text {
+	margin-top:10px;
 	padding:10px;
+	font-size:12px;
+	font-weight:900px;
+	letter-spacing: 1px;
 	}
 
 
@@ -207,12 +223,16 @@ auto-size {
 }
 
 /*sets text size on the jumbotron*/
-.intro .intro-body .brand-heading {
+intro .brand-heading {
     font-size: 40px;
 }
 
-.intro .intro-body .intro-text {
-    font-size: 18px;
+.intro .learn-more-box {
+	width:150px;
+	display:block;
+	border:solid #fff 1px;
+	margin: 0 auto;
+	border-radius:5px
 }
 
 /*modal customization 9-30-15*/
@@ -274,6 +294,9 @@ auto-size {
 }
 .overview-page-image4 {
 	 background: url(../images/inside_image_4.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image5 {
+	 background: url(../images/inside_image_5.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image-style {
     display: table;
