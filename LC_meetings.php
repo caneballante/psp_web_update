@@ -160,41 +160,10 @@ Olympia, WA 98504</p></td>
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-<!--FOOTER START -->
-<div class="container-fluid blue-fill padding-20-top padding-20-bottom">
-	<div class="container">
-		<div class="row white">
-			<div class="col-md-3 padding-20-top">Sitemap links<br>
-				<br>
-			</div>
-			<div class="col-md-3 padding-20-top">Sitemap links<br>
-				<br>
-			</div>
-			<div class="col-md-3 padding-20-top">Sitemap links<br>
-				<br>
-			</div>
-			<div class="col-md-3 padding-20-top">Sitemap links<br>
-				<br>
-		</div>
-		</div>
-		<div class="align-right white">  <a href="https://app.smartsheet.com/b/form?EQBCT=54600eddd8ea4d5c82ed0b94f1d4a259" target="_blank">report a problem or make a suggestion</a></div>
-		<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-	<br><br><br>
-	</div>
-</div>
 
-<!-- END FOOTER -->
+<?php include 'includes/footer-inc.html';?>
+
+
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
 

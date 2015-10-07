@@ -22,81 +22,9 @@
     <![endif]-->
 </head>
 <body>
-<!-- START NAV AND MODAL CONTAINER -->
-<div class="container-fluid">
-	<nav class="navbar navbar-default navbar-fixed-top"> 
-		<!--START NAV CONTAINER -->
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-xs-6 text-right padding-0-right"> <a class="navbar-brand" href="test_index.php"> <img src="images/psplogo.png" width="250" height="53" alt=""/></a> </div>
-				<div class="col-xs-6 text-right padding-0-right"> 
-					<!-- BUTTON TRIGGER MODAL LARGE jquery switches these on browser resize--> 
-					<a class="menu_button" href="javascript:void(0);" id="menu_button" title="menu button" data-toggle="modal" data-target="#myModal"> <img src="images/menu.gif" width="222" height="71" alt="link to navigation"/> </a> 
-					<!-- BUTTON TRIGGER MODAL LARGE --> 
-					<!-- BUTTON TRIGGER MODAL RESPONSIVE jquery switches these on browser resize--> 
-					<a class="menu_button_small" href="javascript:void(0);" id="menu_button" title="menu button" data-toggle="modal" data-target="#myModal"><img src="images/menu_sm.gif" width="64" height="71" alt="link to navigation"/></a> 
-					<!-- BUTTON TRIGGER MODAL RESPONSIVE --> 
-				</div>
-			</div>
-			<!-- END ROW --> 
-		</div>
-		<!-- END NAV CONTAINER --> 
-	</nav>
-	<!-- START MODAL MAIN NAVIGATION PAGE-->
-	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content modal-custom">
-				<div class="modal-header modal-header-custom">
-					<button type="button" class="close close-custom" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				</div>
-				<div class="modal-body modal-body-custom"><br>
-					<h1>ABOUT</h1>
-					<p><a href="puget-sound-recovery.php">PUGET&nbsp;SOUND&nbsp;RECOVERY</a> &nbsp;&nbsp;&nbsp; <a href="#">OUR&nbsp;ROLE</a> &nbsp;&nbsp;&nbsp; <a href="#">WHAT&nbsp;YOU&nbsp;CAN&nbsp;DO</a><br>
-						<a href="#">STAFF</a> &nbsp;&nbsp;&nbsp; <a href="#">PRESS</a> &nbsp;&nbsp;&nbsp; <a href="#">JOBS</a> &nbsp;&nbsp;&nbsp; <a href="#">PROGRAMS</a> &nbsp;&nbsp;&nbsp; <a href="#">NEWS</a></p>
-					<br>
-					<br>
-					<span><img class="img-responsive" src="images/modal_seperator.gif" width="472" height="2" alt=""/></span>
-					<h1>POLICY&nbsp;AND&nbsp;PLANNING</h1>
-					<p><a href="#">WHAT&nbsp;IS&nbsp;THE&nbsp;PLAN?</a> &nbsp;&nbsp;&nbsp; <a href="#">2014-15&nbsp;ACTION&nbsp;AGENDA</a> &nbsp;&nbsp;&nbsp; <a href="#">2016&nbsp;ACTION&nbsp;AGENDA&nbsp;UPDATE</a> &nbsp;&nbsp;&nbsp; <a href="#">GOVERNMENT&nbsp;AFFAIRS</a></p>
-					<br>
-					<br>
-					<span><img class="img-responsive" src="images/modal_seperator.gif" width="472" height="2" alt=""/></span>
-					<h1>LOCAL&nbsp;ECOSYSTEM RECOVERY</h1>
-					<p><a href="#">SALMON&nbsp;RECOVERY</a> &nbsp;&nbsp;&nbsp; <a href="#">FUNDING</a> &nbsp;&nbsp;&nbsp; <a href="#">ECOSYSTEM&nbsp;RECOVERY</a> &nbsp;&nbsp;&nbsp; <a href="#">FUNDING&nbsp;PROGRAMS</a></p>
-					<br>
-					<br>
-					<span><img class="img-responsive" src="images/modal_seperator.gif" width="472" height="2" alt=""/></span>
-					<h1>SCIENCE&nbsp;AND&nbsp;EVALUATION</h1>
-					<p><a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND&nbsp;EVALUATION&nbsp;OVERVIEW</a></p>
-					<p><a href="evaluating-recovery-overview.php">EVALUATING&nbsp;RECOVERY&nbsp;OVERVIEW</a></p>
-					<p><a href="evaluating-health-of-puget-sound">EVALUATING&nbsp;THE&nbsp;HEALTH&nbsp;OF&nbsp;PUGET&nbsp;SOUND</a> &nbsp;&nbsp;&nbsp; <a href="evaluating-actions-to-recover-puget-sound">EVALUATING&nbsp;ACTIONS&nbsp;TO&nbsp;RECOVER&nbsp;PUGET&nbsp;SOUND</a></p>
-					<p><a href="science-basis-of-recovery-overview">SCIENCE&nbsp;BASIS&nbsp;OF&nbsp;RECOVERY&nbsp;OVERVIEW</a></p>
-					<p><a href="science-overview">SCIENCE&nbsp;OVERVIEW</a> &nbsp;&nbsp;&nbsp; <a href="science-resources">SCIENCE&nbsp;RESOURCES</a></p>
-					<p><a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a></p>
-					<br>
-					<br>
-					<span><img class="img-responsive" src="images/modal_seperator.gif" width="472" height="2" alt=""/></span>
-					<h1>BOARDS</h1>
-					<p><a href="partnership-boards-overview.php">PARTNERSHIP&nbsp;BOARDS&nbsp;OVERVIEW</a> &nbsp;&nbsp;&nbsp; <a href="LC_about.php">LEADERSHIP&nbsp;COUNCIL</a> &nbsp;&nbsp;&nbsp; <a href="#">ECOSYSTEM&nbsp;COORDINATION&nbsp;BOARD</a><br>
-						<a href="#">SCIENCE&nbsp;PANEL</a> &nbsp;&nbsp;&nbsp; <a href="#">SALMON&nbsp;RECOVERY&nbsp;COUNCIL</a></p>
-					<br>
-					<br>
-					<span><img class="img-responsive" src="images/modal_seperator.gif" width="472" height="2" alt=""/></span>
-					<h1>FOLLOW THE PARTNERSHIP</h1>
-					<p>social media links go here - link to contact form?</p>
-					<h1>SEARCH</h1>
-					<p>I'm unsure about posting our search as front and center as the NASA JPL site.</p>
-					<br>
-					<br>
-					<br>
-					<br>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- END MODAL MAIN NAVIGATION PAGE--> 
-</div>
-<!-- END NAV AND MODAL CONTAINER --> 
+
+<!-- logo and menu and modal navigation gets included here -->
+<?php include 'includes/modal-inc.html';?>
 
 <!-- Intro Header -->
 <header class="intro">
@@ -216,24 +144,8 @@
 		</div>
 	</div>
 </div>
-<div class="container-fluid blue-fill padding-20-top padding-20-bottom">
-	<div class="container">
-		<div class="row white">
-			<div class="col-md-3 padding-20-top">Sitemap links<br>
-				<br>
-			</div>
-			<div class="col-md-3 padding-20-top">Sitemap links<br>
-				<br>
-			</div>
-			<div class="col-md-3 padding-20-top">Sitemap links<br>
-				<br>
-			</div>
-			<div class="col-md-3 padding-20-top">Sitemap links<br>
-				<br>
-			</div>
-		</div>
-	</div>
-</div>
+<!-- FOOTER INCLUDE -->
+<?php include 'includes/footer-inc.html';?>
 <div class="align-right"> page # 001 - <a href="https://app.smartsheet.com/b/form?EQBCT=54600eddd8ea4d5c82ed0b94f1d4a259" target="_blank">report a problem or make a suggestion</a></div>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
