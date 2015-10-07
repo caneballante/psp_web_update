@@ -319,6 +319,7 @@ intro .brand-heading {
 	text-align:right;
 	padding-right:20px;
 }
+
 /*makes the left nav centered on small screens*/
 @media (max-width: 992px){
 	.nav-leftside-custom {
@@ -335,3 +336,4 @@ intro .brand-heading {
 	color: #0a3b5c;
     background-color: #fff;
 }
+
