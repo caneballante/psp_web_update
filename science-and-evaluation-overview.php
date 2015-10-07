@@ -41,7 +41,7 @@
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-9 padding-20-top"> <!-- InstanceBeginEditable name="9col_header" -->
-			<h1>EVALUATING RECOVERY OVERVIEW</h1>
+			<h1>SCIENCE AND EVALUATION OVERVIEW</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-3 padding-20-top"></div>
 	</div>
@@ -51,11 +51,11 @@
 	
 		<div class="col-md-9 padding-20-top padding-0-left">
 		<!-- InstanceBeginEditable name="9col_content" -->
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas malesuada dui non urna vestibulum tempus. Mauris fermentum cursus tellus. Nulla ac venenatis nisi. Integer sapien arcu, molestie us tincidunt. Vivamus feugiat sem justo, rutrum pharetra tortor iaculis ac. Nunc enim tellus, ornare at rutrum et, interdum et ipsum. Morbi et arcu suscipit, dictum mi sed, tempor dui. Morbi rhoncus, diam rutrum aliquet commodo, massa justo ullamcorper augue, in sagittis tellus dolor et nunc. Proin ac tempor arcu. Sed sagittis porttitor nisi sed consectetur.</p>
-			<h2>EVALUATING THE HEALTH OF PUGET SOUND</h2>
-			<p>In mauris nulla, venenatis in eleifend a, dictum ac erat. Proin hendrerit eros nec diam dapibus, in blandit felis mattis. Mauris quis congue sem, vitae tincidunt elit. Nulla facilisi. Etiam nisi mi, laoreet ut rhoncu Duis cursus elit elit, sed bibendum arcu lobortis at. Vivamus finibus enim sed lorem ornare, ut aliquam turpis venenatis. Mauris nec blandit velit, ut dapibus libero. Nunc vestibulum eu nisi a hendrerit. Mauris maximus, sapien eu mollis volutpat, sem ante venenatis ipsum, et sollicitudin elit est id ex. Morbi quis consectetur eros, eu tristique mi. Quisque tincidunt id risus vel porta. Praesent sit amet dolor volutpat, sagittis nisi non, porta elit. <span class="bold-link"><a class"bold" href="evaluating-health-of-puget-sound.html">LEARN MORE</a></span></p>
-		<h2>EVALUATING ACTIONS TO RECOVER PUGET SOUND</h2>
-			<p>Donec urna ante, posuere ac vehicula eu, volutpat in velit. Sed nec gravida ex. Duis interdum luctus ultrices. Integer euismod magna tortor, at finibus orci pretium congue. Etiam fringilla auctor nisl, et tincidunt ipsum accumsan dignissim. Aliquam consectetur erat at quam euismod viverra. Ut volutpat tellus justo, in luctus massa condimentum nec. In velvolutpat dictum. Phasellus sed tellus sagittis, venenatis elit vitae, egestas ex. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut id urna pulvinar est consectetur molestie. Morbi sollicitudin suscipit ipsum vel sceleri.  <span class="bold-link"><a href="evaluating-actions-to-recover-puget-sound.html">LEARN MORE</a></span></p>
+			<p>THESE MULTI LAYERED OVERVIEWS PROBABLY CAN ALL GO ON THE SAME PAGE INSTEAD OF BEING SEVERAL DIFFERENT PAGES. YOU'VE GOT OVERVIEWS OF YOUR OVERVIEWS.</p>
+			<h2>EVALUATING RECOVERY OVERVIEW</h2>
+			<p>In mauris nulla, venenatis in eleifend a, dictum ac erat. Proin hendrerit eros nec diam dapibus, in blandit felis mattis. Mauris quis congue sem, vitae tincidunt elit. Nulla facilisi. Etiam nisi mi, laoreet ut rhoncu Duis cursus elit elit, sed bibendum arcu lobortis at. Vivamus finibus enim sed lorem ornare, ut aliquam turpis venenatis. Mauris nec blandit velit, ut dapibus libero. Nunc vestibulum eu nisi a hendrerit. Mauris maximus, sapien eu mollis volutpat, sem ante venenatis ipsum, et sollicitudin elit est id ex. Morbi quis consectetur eros, eu tristique mi. Quisque tincidunt id risus vel porta. Praesent sit amet dolor volutpat, sagittis nisi non, porta elit. <span class="bold-link"><a href="evaluating-recovery-overview.php">LEARN MORE</a></span></p>
+		<h2>SCIENCE BASIS OF RECOVERY OVERVIEW</h2>
+			<p>Donec urna ante, posuere ac vehicula eu, volutpat in velit. Sed nec gravida ex. Duis interdum luctus ultrices. Integer euismod magna tortor, at finibus orci pretium congue. Etiam fringilla auctor nisl, et tincidunt ipsum accumsan dignissim. Aliquam consectetur erat at quam euismod viverra. Ut volutpat tellus justo, in luctus massa condimentum nec. In velvolutpat dictum. Phasellus sed tellus sagittis, venenatis elit vitae, egestas ex. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut id urna pulvinar est consectetur molestie. Morbi sollicitudin suscipit ipsum vel sceleri. <span class="bold-link"><a href="science-basis-of-recovery-overview.php">LEARN MORE</a></p>
 			<p>&nbsp;</p>
 		<!-- InstanceEndEditable -->
 		</div>
@@ -67,10 +67,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="science-basis-of-recovery-overview.html">SCIENCE BASIS OF RECOVERY OVERVIEW</a></li>
-					<li role="presentation"> <a href="science.html">SCIENCE </a></li>
-					<li role="presentation"> <a href="science-resources.html">SCIENCE RESOURCES</a></li>
-					<li role="presentation"> <a href="sos.html">2015 STATE OF THE SOUND</a></li>
+					<li role="presentation"> <a href="#">LINKS</a></li>
+					<li role="presentation"> <a href="#">LINKS</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

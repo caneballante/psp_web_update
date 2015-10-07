@@ -29,7 +29,7 @@
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-xs-6 text-right padding-0-right"> <a class="navbar-brand" href="../test_index.html"> <img src="../images/psplogo.png" width="250" height="53" alt=""/></a> </div>
+				<div class="col-xs-6 text-right padding-0-right"> <a class="navbar-brand" href="../test_index.php"> <img src="../images/psplogo.png" width="250" height="53" alt=""/></a> </div>
 				<div class="col-xs-6 text-right padding-0-right"> 
 					<!-- Button trigger modal LARGE jquery switches these on browser resize--> 
 					<a class="menu_button" href="javascript:void(0);" id="menu_button" title="menu button" data-toggle="modal" data-target="#myModal"> <img src="../images/menu.gif" width="222" height="71" alt="link to navigation"/> </a> 
@@ -95,7 +95,7 @@
 		<div class="col-md-3 padding-20-top"><img src="../images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive"/></div>
 		<div class="col-md-3 padding-20-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
-			<a href="../test_page.html"> SALMON&nbsp;RECOVERY</a> | <a href="#">PSAR&nbsp;FUND</a><br>
+			<a href="../test_page.php"> SALMON&nbsp;RECOVERY</a> | <a href="#">PSAR&nbsp;FUND</a><br>
 			<a href="#">NATIONAL&nbsp;ESTUARY&nbsp;PROGRAM&nbsp;(NEP)</a><br>
 			<a href="#">LOCAL&nbsp;RECOVERY</a></div>
 	</div>

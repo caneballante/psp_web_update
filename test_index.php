@@ -28,7 +28,7 @@
 		<!--START NAV CONTAINER -->
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-xs-6 text-right padding-0-right"> <a class="navbar-brand" href="test_index.html"> <img src="images/psplogo.png" width="250" height="53" alt=""/></a> </div>
+				<div class="col-xs-6 text-right padding-0-right"> <a class="navbar-brand" href="test_index.php"> <img src="images/psplogo.png" width="250" height="53" alt=""/></a> </div>
 				<div class="col-xs-6 text-right padding-0-right"> 
 					<!-- BUTTON TRIGGER MODAL LARGE jquery switches these on browser resize--> 
 					<a class="menu_button" href="javascript:void(0);" id="menu_button" title="menu button" data-toggle="modal" data-target="#myModal"> <img src="images/menu.gif" width="222" height="71" alt="link to navigation"/> </a> 
@@ -51,7 +51,7 @@
 				</div>
 				<div class="modal-body modal-body-custom"><br>
 					<h1>ABOUT</h1>
-					<p><a href="puget-sound-recovery.html">PUGET&nbsp;SOUND&nbsp;RECOVERY</a> &nbsp;&nbsp;&nbsp; <a href="#">OUR&nbsp;ROLE</a> &nbsp;&nbsp;&nbsp; <a href="#">WHAT&nbsp;YOU&nbsp;CAN&nbsp;DO</a><br>
+					<p><a href="puget-sound-recovery.php">PUGET&nbsp;SOUND&nbsp;RECOVERY</a> &nbsp;&nbsp;&nbsp; <a href="#">OUR&nbsp;ROLE</a> &nbsp;&nbsp;&nbsp; <a href="#">WHAT&nbsp;YOU&nbsp;CAN&nbsp;DO</a><br>
 						<a href="#">STAFF</a> &nbsp;&nbsp;&nbsp; <a href="#">PRESS</a> &nbsp;&nbsp;&nbsp; <a href="#">JOBS</a> &nbsp;&nbsp;&nbsp; <a href="#">PROGRAMS</a> &nbsp;&nbsp;&nbsp; <a href="#">NEWS</a></p>
 					<br>
 					<br>
@@ -67,17 +67,17 @@
 					<br>
 					<span><img class="img-responsive" src="images/modal_seperator.gif" width="472" height="2" alt=""/></span>
 					<h1>SCIENCE&nbsp;AND&nbsp;EVALUATION</h1>
-					<p><a href="science-and-evaluation-overview.html">SCIENCE&nbsp;AND&nbsp;EVALUATION&nbsp;OVERVIEW</a></p>
-					<p><a href="evaluating-recovery-overview.html">EVALUATING&nbsp;RECOVERY&nbsp;OVERVIEW</a></p>
+					<p><a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND&nbsp;EVALUATION&nbsp;OVERVIEW</a></p>
+					<p><a href="evaluating-recovery-overview.php">EVALUATING&nbsp;RECOVERY&nbsp;OVERVIEW</a></p>
 					<p><a href="evaluating-health-of-puget-sound">EVALUATING&nbsp;THE&nbsp;HEALTH&nbsp;OF&nbsp;PUGET&nbsp;SOUND</a> &nbsp;&nbsp;&nbsp; <a href="evaluating-actions-to-recover-puget-sound">EVALUATING&nbsp;ACTIONS&nbsp;TO&nbsp;RECOVER&nbsp;PUGET&nbsp;SOUND</a></p>
 					<p><a href="science-basis-of-recovery-overview">SCIENCE&nbsp;BASIS&nbsp;OF&nbsp;RECOVERY&nbsp;OVERVIEW</a></p>
 					<p><a href="science-overview">SCIENCE&nbsp;OVERVIEW</a> &nbsp;&nbsp;&nbsp; <a href="science-resources">SCIENCE&nbsp;RESOURCES</a></p>
-					<p><a href="sos.html">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a></p>
+					<p><a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a></p>
 					<br>
 					<br>
 					<span><img class="img-responsive" src="images/modal_seperator.gif" width="472" height="2" alt=""/></span>
 					<h1>BOARDS</h1>
-					<p><a href="partnership-boards-overview.html">PARTNERSHIP&nbsp;BOARDS&nbsp;OVERVIEW</a> &nbsp;&nbsp;&nbsp; <a href="LC_about.html">LEADERSHIP&nbsp;COUNCIL</a> &nbsp;&nbsp;&nbsp; <a href="#">ECOSYSTEM&nbsp;COORDINATION&nbsp;BOARD</a><br>
+					<p><a href="partnership-boards-overview.php">PARTNERSHIP&nbsp;BOARDS&nbsp;OVERVIEW</a> &nbsp;&nbsp;&nbsp; <a href="LC_about.php">LEADERSHIP&nbsp;COUNCIL</a> &nbsp;&nbsp;&nbsp; <a href="#">ECOSYSTEM&nbsp;COORDINATION&nbsp;BOARD</a><br>
 						<a href="#">SCIENCE&nbsp;PANEL</a> &nbsp;&nbsp;&nbsp; <a href="#">SALMON&nbsp;RECOVERY&nbsp;COUNCIL</a></p>
 					<br>
 					<br>
@@ -105,7 +105,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
 					<h1 class="brand-heading">TOGETHER, WE'RE pROTECTING THE NATION'S LARGEST ESTUARY</h1>
-					<div class="learn-more-box"><a href="puget-sound-recovery.html">LEARN MORE</a></div>
+					<div class="learn-more-box"><a href="puget-sound-recovery.php">LEARN MORE</a></div>
 				</div>
 			</div>
 		</div>
@@ -123,7 +123,7 @@
 		<div class="col-md-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
-			<a href="test_page.html"> SALMON&nbsp;RECOVERY</a> | <a href="#">PSAR&nbsp;FUND</a><br>
+			<a href="test_page.php"> SALMON&nbsp;RECOVERY</a> | <a href="#">PSAR&nbsp;FUND</a><br>
 			<a href="#">NATIONAL&nbsp;ESTUARY&nbsp;PROGRAM&nbsp;(NEP)</a><br>
 			<a href="#">LOCAL&nbsp;RECOVERY</a></div>
 	</div>
@@ -132,7 +132,7 @@
 		<div class="col-md-3 padding-40-top">
 			<h1>MEASURING RECOVERY</h1>
 			<br>
-			<a href="sos.html">2016&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND </a><br>
+			<a href="sos.php">2016&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND </a><br>
 			<a href="#">PUGET&nbsp;SOUND&nbsp;VITAL&nbsp;SIGNS</a><br>
 			<a href="#">REPORT&nbsp;CARD </a><br>
 			<a href="#">ASSESSING&nbsp;RECOVERY</a></div>
@@ -140,7 +140,7 @@
 		<div class="col-md-3 padding-40-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<br>
-			<a href="partnership-boards-overview.html">BOARDS</a> | <a href="#">2016&nbsp;LEGISLATIVE&nbsp;SESSION</a><br>
+			<a href="partnership-boards-overview.php">BOARDS</a> | <a href="#">2016&nbsp;LEGISLATIVE&nbsp;SESSION</a><br>
 			<a href="#">ECONET </a><br>
 			<a href="#">SOUND&nbsp;CHOICES&nbsp;WORKSHOP</a></div>
 	</div>

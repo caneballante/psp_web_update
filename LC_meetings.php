@@ -42,7 +42,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-6 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>PARTNERSHIP BOARDS OVERVIEW</h1>
+			<h1>2015 LEADERSHIP COUNCIL MEETINGS</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-3 padding-20-top"></div>
 	</div>
@@ -51,9 +51,9 @@
 		<div class="col-md-3 padding-20-top">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="partnership-boards-overview.html">PARTNERSHIP BOARDS OVERVIEW</a></li>
-				<li role="presentation"> <a href="LC_about.html">ABOUT THE LEADERSHIP COUNCIL</a></li>
-				<li role="presentation"> <a href="LC_meetings.html">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
+				<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
+				<li role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
+				<li class="active" role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
 				<li role="presentation"> <a href="#">ABOUT THE ECOSYSTEM COORDINATION BOARD</a></li>
 				<li role="presentation"> <a href="#">ABOUT THE SCIENCE PANEL</a></li>
 				<li role="presentation"> <a href="#">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
@@ -66,24 +66,77 @@
 	
 		<div class="col-md-6 padding-20-top">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>I love cheese, especially feta fondue. Manchego squirty cheese who moved my cheese cheese slices paneer blue castello say cheese boursin. Lancashire monterey jack stilton cottage cheese emmental jarlsberg manchego cheesy feet. Dolcelatte cheese and biscuits melted cheese stinking bishop port-salut when the cheese comes out everybody's happy roquefort red leicester. Gouda cheese slices cauliflower cheese cottage cheese.</p>
-			<p>Manchego cheese and biscuits emmental. Cottage cheese the big cheese cow pecorino parmesan cheese on toast edam airedale. Bocconcini bocconcini cheese slices cheesy feet macaroni cheese gouda pecorino parmesan. Jarlsberg.</p>
-			<h2>THE LEADERSHIP COUNCIL</h2>
-			<p>Blue castello cheddar goat. Boursin gouda cheese on toast feta caerphilly emmental monterey jack mascarpone. Stinking bishop jarlsberg croque monsieur gouda cheddar fondue parmesan edam. Parmesan cheeseburger roquefort hard cheese st. agur blue cheese st. agur blue cheese halloumi cheeseburger. Pecorino cheese strings pepper jack.</p>
-			<h2>ECOSYSTEM COORDINATION BOARD</h2>
-			<p>Blue castello cheddar goat. Boursin gouda cheese on toast feta caerphilly emmental monterey jack mascarpone. Stinking bishop jarlsberg croque monsieur gouda cheddar fondue parmesan edam. Parmesan cheeseburger roquefort hard cheese st. agur blue cheese st. agur blue cheese halloumi cheeseburger. Pecorino cheese strings pepper jack.</p>
-		<h2>SCIENCE PANEL</h2>
-			<p>Rubber cheese port-salut dolcelatte. Cheeseburger gouda mozzarella cheese slices emmental pecorino emmental cut the cheese. Cow mozzarella cottage cheese macaroni cheese macaroni cheese stilton pecorino cheeseburger. Mozzarella paneer cheese strings smelly cheese jarlsberg.</p>
-				<h2>SALMON RECOVERY COUNCIL</h2>
-				<p>Cheese ricotta edam. Lancashire squirty cheese taleggio taleggio stilton cheeseburger say cheese fromage frais. Cheese on toast boursin squirty cheese cheddar cheese and biscuits pecorino say cheese queso. Roquefort paneer.<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-				</p>
+		 	 <p>
+	  		Start and end times depend on agenda needs. Regular meetings generally begin at 9 a.m. and work sessions at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. The regular meetings and work sessions are free and open to the public. Select AGENDA to view documents related to each meeting. </p>
+	 <table width="100%" border="0" class="table">
+   				<tr>
+   						<td width="125" class="tableheader">DATE</td>
+       		<td width="243" class="tableheader">LOCATION</td>
+       		<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
+     		</tr>
+		
+   			
+		  	
+	     
+	    
+	      <tr>
+	   
+          </tr>  
+		  
+		
+		  	
+   				<tr>
+   				  <td>October 15</td>
+   				  <td>La Conner Country Inn<br />
+   				  		Two Forks conference room<br />
+   				  		107 South 2nd Street<br />
+   				  		La Conner, WA 98257</td>
+   				  <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=829&amp;Itemid=238">Meeting Materials</a></td>
+		  </tr> <tr>
+                  <td>December 3-4</td>
+   				  <td><p>TBD</p></td>
+   				  <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=830&amp;Itemid=238">Meeting Materials</a></td>
+		  </tr><tr>
+		      <td height="21" colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
+	      </tr><tr>     <td>January 29</td>
+	        <td><p><a href="downloads/directions/Directions to Natural Resources building.pdf">Natural Resources Building</a><br />
+Room 172<br />
+1111 Washington Street SE<br />
+Olympia, WA 98501-2283
+              </p></td>
+	        <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=825&amp;Itemid=238">Meeting Materials</a></td></tr><tr>
+	        <td>March 27</td>
+	        <td><p><a href="downloads/directions/Directions-to-the-General-Administration-Building.pdf">GA Auditorium</a>, 1st floor<br />
+	        		General Administration Building<br />
+	        		210 - 11th Avenue SW<br />
+	        		Olympia, WA 98501</p></td>
+	        <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=826&amp;Itemid=238">Meeting Materials</a></td>
+          </tr>
+		    <tr>
+                  <td><p>May 7<br />
+                  		CANCELLED<br />
+                  work session only</p></td>
+   				  <td><p>Elwha Klallam Heritage Training Center<br />
+   				    Conference Room<br />
+   				    401 East 1st Street<br />
+			      Port Angeles, WA 98363</p></td>
+   				  <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=827&amp;Itemid=238">CANCELLED<br />
+   				  		Meeting Materials</a></td>
+		  </tr>  <tr>
+                  <td>July 29-30</td>
+   				  <td><p><a href="https://app.box.com/shared/static/y3tvvnh6uq55914lyga26g1iv6ofq7o4.pdf">Washington State Capitol<br />
+Legislative Building</a><br />
+Columbia Room (1st floor under rotunda)<br />
+416 Sid Snyder Ave SW<br />
+Olympia, WA 98504</p></td>
+   				  <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=828&amp;Itemid=238">Meeting Materials</a><br />
+   				  		<br />
+   				  		<a href="http://www.tvw.org/index.php?option=com_tvwplayer&amp;eventID=2015070019">   				  		TVW video of Morning Session</a><br />
+   				  		<a href="http://www.tvw.org/index.php?option=com_tvwplayer&amp;eventID=2015070020">TVW video of Afternoon Session</a><br /></td>
+		  </tr>
+   				</table>
+				 <p>For questions about the Partnership's Councils, Boards and Panels contact :<br />
+	    <a href="mailto:dominique.hampton@psp.wa.gov">Dominique Hampton</a>, Special Assistant, 360.628.2423</p>
 			<!-- InstanceEndEditable -->
 		</div>
 	
@@ -94,9 +147,10 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="#">LINKS</a></li>
-					<li role="presentation"> <a href="#">LINKS</a></li>
-				
+					<li role="presentation"> <a href="#">LEADERSHIP COUNCIL BY LAWS</a></li>
+					<li role="presentation"> <a href="#">MEETING ARCHIVES</a></li>
+				<li role="presentation"> <a href="http://www.mypugetsound.net/index.php?option=com_docman&task=cat_view&gid=229&Itemid=238"> MEETING SUMMARIES</a></li>
+					<li role="presentation"> 	 <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=323&amp;Itemid=238">APPROVED RESOLUTIONS</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

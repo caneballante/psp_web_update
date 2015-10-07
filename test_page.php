@@ -27,7 +27,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xs-6 text-right padding-0-right"> 
-					<a class="navbar-brand" href="test_index.html"> <img src="images/psplogo.png" width="250" height="53" alt=""/></a> 
+					<a class="navbar-brand" href="test_index.php"> <img src="images/psplogo.png" width="250" height="53" alt=""/></a> 
 				</div>
 				
 				<div class="col-xs-6 text-right padding-0-right"> 
