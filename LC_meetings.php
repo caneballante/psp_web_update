@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Draft Home Page</title>
 <!-- InstanceEndEditable -->
@@ -35,9 +35,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
@@ -46,11 +46,10 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-3 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-md-3 padding-20-top">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom">
-			<!-- InstanceBeginEditable name="left_nav" -->
+				<!-- InstanceBeginEditable name="left_nav" -->
 				<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
 				<li role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
 				<li class="active" role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
@@ -59,110 +58,95 @@
 				<li role="presentation"> <a href="#">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
 				<li role="presentation"> <a href="#">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
 				<li role="presentation"> <a href="#">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
-			<!-- InstanceEndEditable --> 
-			</ul>
-			
-		</div>
-	
-		<div class="col-md-6 padding-20-top">
-		<!-- InstanceBeginEditable name="6col_content" -->
-		 	 <p>
-	  		Start and end times depend on agenda needs. Regular meetings generally begin at 9 a.m. and work sessions at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. The regular meetings and work sessions are free and open to the public. Select AGENDA to view documents related to each meeting. </p>
-	 <table width="100%" border="0" class="table">
-   				<tr>
-   						<td width="125" class="tableheader">DATE</td>
-       		<td width="243" class="tableheader">LOCATION</td>
-       		<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
-     		</tr>
-		
-   			
-		  	
-	     
-	    
-	      <tr>
-	   
-          </tr>  
-		  
-		
-		  	
-   				<tr>
-   				  <td>October 15</td>
-   				  <td>La Conner Country Inn<br />
-   				  		Two Forks conference room<br />
-   				  		107 South 2nd Street<br />
-   				  		La Conner, WA 98257</td>
-   				  <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=829&amp;Itemid=238">Meeting Materials</a></td>
-		  </tr> <tr>
-                  <td>December 3-4</td>
-   				  <td><p>TBD</p></td>
-   				  <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=830&amp;Itemid=238">Meeting Materials</a></td>
-		  </tr><tr>
-		      <td height="21" colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
-	      </tr><tr>     <td>January 29</td>
-	        <td><p><a href="downloads/directions/Directions to Natural Resources building.pdf">Natural Resources Building</a><br />
-Room 172<br />
-1111 Washington Street SE<br />
-Olympia, WA 98501-2283
-              </p></td>
-	        <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=825&amp;Itemid=238">Meeting Materials</a></td></tr><tr>
-	        <td>March 27</td>
-	        <td><p><a href="downloads/directions/Directions-to-the-General-Administration-Building.pdf">GA Auditorium</a>, 1st floor<br />
-	        		General Administration Building<br />
-	        		210 - 11th Avenue SW<br />
-	        		Olympia, WA 98501</p></td>
-	        <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=826&amp;Itemid=238">Meeting Materials</a></td>
-          </tr>
-		    <tr>
-                  <td><p>May 7<br />
-                  		CANCELLED<br />
-                  work session only</p></td>
-   				  <td><p>Elwha Klallam Heritage Training Center<br />
-   				    Conference Room<br />
-   				    401 East 1st Street<br />
-			      Port Angeles, WA 98363</p></td>
-   				  <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=827&amp;Itemid=238">CANCELLED<br />
-   				  		Meeting Materials</a></td>
-		  </tr>  <tr>
-                  <td>July 29-30</td>
-   				  <td><p><a href="https://app.box.com/shared/static/y3tvvnh6uq55914lyga26g1iv6ofq7o4.pdf">Washington State Capitol<br />
-Legislative Building</a><br />
-Columbia Room (1st floor under rotunda)<br />
-416 Sid Snyder Ave SW<br />
-Olympia, WA 98504</p></td>
-   				  <td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=828&amp;Itemid=238">Meeting Materials</a><br />
-   				  		<br />
-   				  		<a href="http://www.tvw.org/index.php?option=com_tvwplayer&amp;eventID=2015070019">   				  		TVW video of Morning Session</a><br />
-   				  		<a href="http://www.tvw.org/index.php?option=com_tvwplayer&amp;eventID=2015070020">TVW video of Afternoon Session</a><br /></td>
-		  </tr>
-   				</table>
-				 <p>For questions about the Partnership's Councils, Boards and Panels contact :<br />
-	    <a href="mailto:dominique.hampton@psp.wa.gov">Dominique Hampton</a>, Special Assistant, 360.628.2423</p>
-			<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-md-3 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<h3 class="margin-0-top">SEE ALSO</h3>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="#">LEADERSHIP COUNCIL BY LAWS</a></li>
-					<li role="presentation"> <a href="#">MEETING ARCHIVES</a></li>
-				<li role="presentation"> <a href="http://www.mypugetsound.net/index.php?option=com_docman&task=cat_view&gid=229&Itemid=238"> MEETING SUMMARIES</a></li>
-					<li role="presentation"> 	 <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=323&amp;Itemid=238">APPROVED RESOLUTIONS</a></li>
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+			</ul>
 		</div>
+		<div class="col-md-6 padding-20-top"> <!-- InstanceBeginEditable name="6col_content" -->
+			<p> Start and end times depend on agenda needs. Regular meetings generally begin at 9 a.m. and work sessions at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. The regular meetings and work sessions are free and open to the public. Select AGENDA to view documents related to each meeting. </p>
+			<table width="100%" border="0" class="table">
+				<tr>
+					<td width="125" class="tableheader">DATE</td>
+					<td width="243" class="tableheader">LOCATION</td>
+					<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
+				</tr>
+				<tr> </tr>
+				<tr>
+					<td>October 15</td>
+					<td>La Conner Country Inn<br />
+						Two Forks conference room<br />
+						107 South 2nd Street<br />
+						La Conner, WA 98257</td>
+					<td><a href="https://pspwa.box.com/s/0vg81qht4pc2pw63njcrkcmp7rsnef7z">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td>December 3-4</td>
+					<td><p>TBD</p></td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td height="21" colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
+				</tr>
+				<tr>
+					<td>January 29</td>
+					<td><p><a href="downloads/directions/Directions to Natural Resources building.pdf">Natural Resources Building</a><br />
+							Room 172<br />
+							1111 Washington Street SE<br />
+							Olympia, WA 98501-2283 </p></td>
+					<td>Temporarily Unavailable</td>
+				</tr>
+				<tr>
+					<td>March 27</td>
+					<td><p><a href="downloads/directions/Directions-to-the-General-Administration-Building.pdf">GA Auditorium</a>, 1st floor<br />
+							General Administration Building<br />
+							210 - 11th Avenue SW<br />
+							Olympia, WA 98501</p></td>
+					<td>Temporarily Unavailable</td>
+				</tr>
+				<tr>
+					<td><p>May 7<br />
+							CANCELLED<br />
+							work session only</p></td>
+					<td><p>Elwha Klallam Heritage Training Center<br />
+							Conference Room<br />
+							401 East 1st Street<br />
+							Port Angeles, WA 98363</p></td>
+					<td>Cancelled<br />
+					</td>
+				</tr>
+				<tr>
+					<td>July 29-30</td>
+					<td><p><a href="https://app.box.com/shared/static/y3tvvnh6uq55914lyga26g1iv6ofq7o4.pdf">Washington State Capitol<br />
+							Legislative Building</a><br />
+							Columbia Room (1st floor under rotunda)<br />
+							416 Sid Snyder Ave SW<br />
+							Olympia, WA 98504</p></td>
+					<td>Temporarily Unavailable<br />
+						<br />
+						<a href="http://www.tvw.org/index.php?option=com_tvwplayer&amp;eventID=2015070019"> TVW video of Morning Session</a><br />
+						<a href="http://www.tvw.org/index.php?option=com_tvwplayer&amp;eventID=2015070020">TVW video of Afternoon Session</a><br /></td>
+				</tr>
+			</table>
+			<p>For questions about the Partnership's Councils, Boards and Panels contact :<br />
+				<a href="mailto:dominique.hampton@psp.wa.gov">Dominique Hampton</a>, Special Assistant, 360.628.2423</p>
+			<!-- InstanceEndEditable --> </div>
+		<div class="col-md-3 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<h3 class="margin-0-top">SEE ALSO</h3>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="#">LEADERSHIP COUNCIL BY LAWS</a></li>
+				<li role="presentation"> <a href="#">MEETING ARCHIVES</a></li>
+				<li role="presentation"> <a href="http://www.mypugetsound.net/index.php?option=com_docman&task=cat_view&gid=229&Itemid=238"> MEETING SUMMARIES</a></li>
+				<li role="presentation"> <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=323&amp;Itemid=238">APPROVED RESOLUTIONS</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -172,4 +156,5 @@ Olympia, WA 98504</p></td>
 <!-- custom js --> 
 <script src="js/custom.js"></script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
