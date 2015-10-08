@@ -61,8 +61,8 @@
 	</div>
 	<!-- TemplateEndIf -->
 	<div class="row"> <!-- TemplateBeginIf cond="OptionalRegion5" -->
-		<div class="col-md-3 padding-20-top">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom">
+		<div class="col-md-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-20-top margin-20-top border-top-grey">
 			<!-- TemplateBeginEditable name="left_nav" -->
 				<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
 				<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>

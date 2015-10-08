@@ -48,7 +48,7 @@
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3 padding-20-top">
+		<div class="col-md-3 padding-20-top margin-20-top border-top-grey">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<li class="active" role="presentation"> <a href="#">EVALUATING ACTIONS TO RECOVER TO RECOVERY PUGET SOUND</a></li>

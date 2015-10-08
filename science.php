@@ -61,8 +61,8 @@
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3 padding-20-top">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom">
+		<div class="col-md-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-20-top margin-20-top border-top-grey">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
 				<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>

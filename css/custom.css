@@ -160,9 +160,13 @@ h3 {
 .align-center {
 	text-align:center;
 }
-auto-size {
+.auto-size {
 	width:100%;
 	height:auto;
+}
+
+.border-top-grey {
+	border-top: solid 1px #777;	
 }
 /*news box*/
 

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Draft Home Page</title>
 <!-- InstanceEndEditable -->
@@ -35,9 +35,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
@@ -46,10 +46,11 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-3 padding-20-top"></div>
 	</div>
-	<div class="row">
-		<div class="col-md-3 padding-20-top">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom">
-				<!-- InstanceBeginEditable name="left_nav" -->
+	
+	<div class="row"> 
+		<div class="col-md-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-20-top margin-20-top border-top-grey">
+			<!-- InstanceBeginEditable name="left_nav" -->
 				<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
 				<li role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
 				<li class="active" role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
@@ -58,10 +59,13 @@
 				<li role="presentation"> <a href="#">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
 				<li role="presentation"> <a href="#">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
 				<li role="presentation"> <a href="#">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
-				<!-- InstanceEndEditable -->
+				<!-- InstanceEndEditable --> 
 			</ul>
+			
 		</div>
-		<div class="col-md-6 padding-20-top"> <!-- InstanceBeginEditable name="6col_content" -->
+	
+		<div class="col-md-6 padding-20-top">
+		<!-- InstanceBeginEditable name="6col_content" -->
 			<p> Start and end times depend on agenda needs. Regular meetings generally begin at 9 a.m. and work sessions at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. The regular meetings and work sessions are free and open to the public. Select AGENDA to view documents related to each meeting. </p>
 			<table width="100%" border="0" class="table">
 				<tr>
@@ -128,25 +132,32 @@
 			</table>
 			<p>For questions about the Partnership's Councils, Boards and Panels contact :<br />
 				<a href="mailto:dominique.hampton@psp.wa.gov">Dominique Hampton</a>, Special Assistant, 360.628.2423</p>
-			<!-- InstanceEndEditable --> </div>
-		<div class="col-md-3 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<!-- InstanceEndEditable -->
+		</div>
+	
+		<div class="col-md-3 padding-20-top"> 
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
 			<h3 class="margin-0-top">SEE ALSO</h3>
 			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="#">LEADERSHIP COUNCIL BY LAWS</a></li>
 				<li role="presentation"> <a href="#">MEETING ARCHIVES</a></li>
 				<li role="presentation"> <a href="http://www.mypugetsound.net/index.php?option=com_docman&task=cat_view&gid=229&Itemid=238"> MEETING SUMMARIES</a></li>
 				<li role="presentation"> <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=323&amp;Itemid=238">APPROVED RESOLUTIONS</a></li>
 				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+		</div>
 	</div>
-	<!--END OF ROW --> 
+	<!--END OF ROW -->
 </div>
 <!--END OF CONTENT CONTAINER -->
 
+
 <?php include 'includes/footer-inc.html';?>
+
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -156,5 +167,4 @@
 <!-- custom js --> 
 <script src="js/custom.js"></script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>
