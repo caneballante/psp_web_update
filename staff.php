@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Puget Sound Partnership - Draft Home Page</title>
+<!-- InstanceEndEditable -->
+<!-- Bootstrap -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/custom.css" rel="stylesheet" type="text/css">
+<!-- loads the wf-loading class right away to minimize FOUT -->
+<script>document.documentElement.className += ' wf-loading';</script>
+<!-- Font PRENTON TYPEKIT -->
+<script src="https://use.typekit.net/srt5jze.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+</head>
+<body>
+<?php include 'includes/modal-inc.html';?>
+<!-- START IMAGE HEADER --> 
+<!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style overview-page-image1"> </header>
+<!-- InstanceEndEditable -->
+<div class="container page-content">
+	<div class="row">
+		<div class="col-md-3 padding-20-top"></div>
+		<div class="col-md-6 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+			<h1>PARTNERSHIP STAFF</h1>
+			<!-- InstanceEndEditable --></div>
+		<div class="col-md-3 padding-20-top"></div>
+	</div>
+	<div class="row">
+		<div class="col-md-3 padding-20-top">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom">
+				<!-- InstanceBeginEditable name="left_nav" -->
+				<li class="active" role="presentation"> <a href="#">PARTNERSHIP STAFF</a></li>
+				<li role="presentation"> <a href="#">PRESS RELEASES</a></li>
+				<li role="presentation"> <a href="#">EMPLOYMENT OPPORTUNITIES</a></li>
+				<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
+				<li role="presentation"> <a href="#">PROGRAM DESCRIPTIONS</a></li>
+				<li role="presentation"> <a href="#">CONTACT US</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+		</div>
+		<div class="col-md-6 padding-20-top"> <!-- InstanceBeginEditable name="6col_content" --> 
+			<!--EXECUTIVE TEAM-->
+			<h5>Sheida Sahandy</h5>
+			<p> Executive Director<br />
+				360.464.1228 | <a href="mailto:sheida.sahandy@psp.wa.gov">sheida.sahandy@psp.wa.gov</a>
+			
+			<h5>Marc Daily</h5>
+			<p> Deputy Director<br />
+				360.339.5861 | <a href="mailto:marc.daily@psp.wa.gov">marc.daily@psp.wa.gov</a></p>
+			<h5>Tammy Antilla</h5>
+			<p> Executive Assistant<br />
+				Office 360.339.8942 | <a href="mailto:tammy.antilla@psp.wa.gov">tammy.antilla@psp.wa.gov</a></p>
+			<h5>Vacant</h5>
+			<p> EPA Liaison</p>
+			<br>
+			<br>
+			<!--ADMINISTRATIVE SERVICES-->
+			<h2>ADMINISTRATIVE SERVICES</h2>
+			<h5>Jen Benn</h5>
+			<p> Director of Administrative Services<br />
+				360.464.1231 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a></p>
+			<h5>VACANT</h5>
+			<p> Program Coordinator</p>
+			<br>
+			<!--A.S. - MANAGEMENT CONFERENCE COORDINATION-->
+			<h3>MANAGEMENT CONFERENCE COORDINATION</h3>
+			<h5>Laura Blackmore</h5>
+			<p> Boards Program Director<br />
+				Office 360.339.4627| <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
+			<h5>Dominique Hampton</h5>
+			<p> Special Assistant to the Boards<br />
+				Office 360.464.1229 | <a href="mailto:dominique.hampton@psp.wa.gov">dominique.hampton@psp.wa.gov</a></p>
+			<h5>Alicia Lawver</h5>
+			<p> Public Information Officer &amp; Partnerships Communication Lead<br />
+				360.464.2011 | <a href="mailto:alicia.lawver@psp.wa.gov">alicia.lawver@psp.wa.gov</a></p>
+			<br>
+			<!--A.S. - GOVERNMENT AFFAIRS-->
+			<h3>GOVERNMENT AFFAIRS</h3>
+			<h5>Jeff Parsons</h5>
+			<p> Legislative Policy Director<br />
+				360.464.1221 | <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p>
+			<h5>Cathy Cochrane</h5>
+			<p> Policy Communications Lead<br />
+				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a></p>
+			<br>
+			<!--A.S. - TECH RESOURCES GROUP-->
+			<h3>TECHNOLOGY RESOURCES GROUP</h3>
+			<h5>Jennifer Burke</h5>
+			<p> Data Systems/GIS Manager<br />
+				360.464.2009 | <a href="mailto:jennifer.burke@psp.wa.gov">Jennifer.Burke@psp.wa.gov</a></p>
+			<h5>Jon Bridgman</h5>
+			<p> Designer<br />
+				253.666.6290 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
+			<h5>Erika Lari</h5>
+			<p> Designer<br />
+				253.348.2482 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
+			<br>
+			<!--A.S. - IT OPERATIONS-->
+			<h3>IT OPERATIONS</h3>
+			<h5>Greg Tudor</h5>
+			<p> IT Operations Manager<br />
+				360.902.3018 | <a href="mailto:greg.tudor@psp.wa.gov">greg.tudor@psp.wa.gov </a></p>
+			<h5>Marc Turnbow</h5>
+			<p> IT Administrator<br />
+				360.789.4989 | <a href="mailto:marc.turnbow@psp.wa.gov">marc.turnbow@psp.wa.gov </a></p>
+			<h5>Eric Green</h5>
+			<p> IT Specialist <br />
+				360.628.7412 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov </a></p>
+			<br>
+			<!--A.S. - IT OPERATIONS-->
+			<h3>FINANCE</h3>
+			<h5>Ginger Stewart</h5>
+			<p> Chief Financial Officer<br />
+				360.464.1218 | <a href="mailto:ginger.stewart@psp.wa.gov">ginger.stewart@psp.wa.gov</a></p>
+			<h5>Debbie Lewandowsky</h5>
+			<p> Administrative Assistant<br />
+				360.464.1232 | <a href="mailto:debbie.lewandowsky@psp.wa.gov">debbie.lewandowsky@psp.wa.gov</a></p>
+			<h5>Becky DeBoer</h5>
+			<p> Fiscal Program Manager<br />
+				360.464.1226 | <a href="mailto:becky.deboer@psp.wa.gov">becky.deboer@psp.wa.gov</a></p>
+			<h5>Arjean Travis</h5>
+			<p> Grants, Contracts, and Compliance Manager<br />
+				360.464.2001 | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov</a></p>
+			<h5>Audra Benedict</h5>
+			<p> Fiscal Analyst<br />
+				360-464-2004 | <a href="mailto:audrapsp.benedict@psp.wa.gov">audrapsp.benedict@psp.wa.gov</a></p>
+			<br>
+			<br>
+			<!--SCIENCE AND EVALUATION-->
+			<h2>SCIENCE AND EVALUATION</h2>
+			<h5>Scott Redman</h5>
+			<p> Program Director<br />
+				360.464.1230 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
+			<h5>Ron Thom</h5>
+			<p> Senior Science Advisor<br />
+				360.681.3657 | <a href="mailto:ron.thom@psp.wa.gov">ron.thom@psp.wa.gov </a></p>
+			<br>
+			<!--S.E. ECOSYSTEM ASSESSMENT-->
+			<h3>Ecosystem Assessment</h3>
+			<h5>Ken Dzinbal</h5>
+			<p> Monitoring Program Manager<br />
+				360.464.1222 | <a href="mailto:ken.dzinbal@psp.wa.gov">ken.dzinbal@psp.wa.gov</a></p>
+			<h5>Leska Fore</h5>
+			<p> Monitoring Program Performance Analyst<br />
+				<a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a></p>
+			<h5>Nathalie Hamel</h5>
+			<p> Monitoring Program Performance Analyst<br />
+				360.339.5826 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
+			<h5>VACANT</h5>
+			<p> Performance Analyst</p>
+			<br>
+			<!--S.E. ADAPTIVE MANAGEMENT-->
+			<h3>Adaptive Management</h3>
+			<h5>Kari Stiles</h5>
+			<p> Adaptive Management Scientist<br />
+				360.464.4845 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a></p>
+			<h5>Kathryn Graziano</h5>
+			<p> Hershman Marine Policy Fellow<br />
+				253.666.6289 | <a href="mailto:kathryn.graziano@psp.wa.gov">kathryn.graziano@psp.wa.gov</a></p>
+			<br>
+			<!--S.E. PERFORMANCE AND EVALUATION-->
+			<h3>Performance and Evaluation</h3>
+			<h5>Vacant</h5>
+			<p> Performance Manager</p>
+			<h5>Alex Mitchell</h5>
+			<p> Performance Management Analyst<br />
+				360.464.1220 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a></p>
+			<br>
+			<br>
+			<!--POLICY AND PLANNING-->
+			<h2>POLICY AND PLANNING</h2>
+			<h5>Jim Bolger</h5>
+			<p> Program Director<br />
+				360.464.2014 | <a href="mailto:jim.bolger@psp.wa.gov">jim.bolger@psp.wa.gov</a></p>
+			<h5>kelly adams</h5>
+			<p> Administrative Assistant <br />
+				360.464.1233 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p>
+			<br>
+			<!--P.P. - ACTION AGENDA-->
+			<h3>Action Agenda</h3>
+			<h5>Peter Best</h5>
+			<p> Planning Manager <br />
+				360.464.1234 | <a href="mailto:peter.best@psp.wa.gov">peter.best@psp.wa.gov</a></p>
+			<h5>Libby Hudson</h5>
+			<p> Environmental Planner<br />
+				360.464.1227 | <a href="mailto:libby.hudson@psp.wa.gov">libby.hudson@psp.wa.gov</a></p>
+			<h5>VACANT</h5>
+			<p> Environmental Planner</p>
+			<br>
+			<!--P.P. - IMPLEMENTATION STRATEGIES-->
+			<h3>IMPLEMENTATION STRATEGIES</h3>
+			<h5>Todd Hass</h5>
+			<p> Implementation Manager<br />
+				360.464.1223 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>
+			<h5>Alexandra Doty</h5>
+			<p> ECO Net Coordinator<br />
+				360.339.5853 | <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
+			<h5>Emily Sanford</h5>
+			<p> Environmental Planner<br />
+				360.628.2426 | <a href="mailto:emily.sanford@psp.wa.gov">emily.sanford@psp.wa.gov</a></p>
+			<h5>Dave Ward</h5>
+			<p> Social Strategies Manager<br />
+				425.457.1157 | <a href="mailto:dave.ward@psp.wa.gov">dave.ward@psp.wa.gov</a></p>
+			<br>
+			<br>
+			<!--LOCAL ECOSYSTEM RECOVERY-->
+			<h2>LOCAL ECOSYSTEM RECOVERY</h2>
+			<h5>Jeanette Dorner</h5>
+			<p> Program Director and Tribal Affairs<br />
+				360.464.2006 | <a href="mailto:jeanette.dorner@psp.wa.gov">jeanette.dorner@psp.wa.gov </a></p>
+			<h5>charisse sonnier</h5>
+			<p> Administrative Assistant<br />
+				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
+			<br>
+			<!--L.E.R. TEAM 1 -->
+			<h3>ECOSYSTEM RECOVERY TEAM 1</h3>
+			<h5>Stacy Vynne</h5>
+			<p> Regional Manager<br />
+				360.464.2012 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
+			<h5>Gretchen Glaub</h5>
+			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br />
+				<em>Straits </em><br />
+				360.464.1219 | <a href="mailto:gretchen.glaub@psp.wa.gov">gretchen.glaub@psp.wa.gov</a></p>
+			<h5>Leah Kintner</h5>
+			<p> Ecosystem Recovery Coordinator <br />
+				<em>Skagit, Samish and Whatcom</em> <br />
+				360.464.2010 | <a href="mailto:leah.kitner@psp.wa.gov">leah.kintner@psp.wa.gov</a></p>
+			<h5>Tristan Peter-Contesse</h5>
+			<p> Ecosystem Recovery Coordinator <br />
+				<em>West Sound and Puyallup Watershed</em><br />
+				360.464.2002 | <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a></p>
+			<h5>Suzanna Stoike</h5>
+			<p> Ecosystem Recovery Coordinator &amp; PSAR Program Coordinator<br />
+				<em>Island and San Juans</em><br />
+				360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a></p>
+			<br>
+			<!--L.E.R. TEAM 2 -->
+			<h3>ECOSYSTEM RECOVERY TEAM 2</h3>
+			<h5>Stephanie Suter</h5>
+			<p> Regional Manager<br />
+				360.464.2013 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a></p>
+			<h5>Heather Cole</h5>
+			<p> Ecosystem Recovery Coordinator <br />
+				<em>Stillaguamish/Snohomish</em><br />
+				360.464.1233 | <a href="mailto:heather.cole@psp.wa.gov">heather.cole@psp.wa.gov</a></p>
+			<h5>VACANT</h5>
+			<p> Ecosystem Recovery Coordinator </p>
+			<h5>Bruce Wulkan</h5>
+			<p> Ecosystem Recovery Coordinator <br />
+				<em>South Central, Green and Cedar Watersheds</em><br />
+				360.339.4626 | <a href="mailto:bruce.wulkan@psp.wa.gov">bruce.wulkan@psp.wa.gov</a></p>
+			<!-- InstanceEndEditable --> </div>
+		<div class="col-md-3 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<h3 class="margin-0-top">SEE ALSO</h3>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="#">Organizational chart</a></li>
+				<li role="presentation"> <a href="#">Program Descriptions</a></li>
+				<li role="presentation"> <a href="#">Director Bio</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+	</div>
+	<!--END OF ROW --> 
+</div>
+<!--END OF CONTENT CONTAINER -->
+
+<?php include 'includes/footer-inc.html';?>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="js/jquery-1.11.2.min.js"></script> 
+
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script src="js/bootstrap.js"></script> 
+<!-- custom js --> 
+<script src="js/custom.js"></script>
+</body>
+<!-- InstanceEnd -->
+</html>
