@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-	font-family: 'prenton', serif;
+	font-family: 'prenton', san-serif;
 	background-color: #FFF;
 	color: #555;
 }
@@ -307,6 +307,7 @@ intro .brand-heading {
 }
 
 .modal-body-custom p {
+	font-family:'prenton', san-serif;
 	font-size:15px;
 	font-weight:100;
 	letter-spacing:2px;
