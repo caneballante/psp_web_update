@@ -379,6 +379,7 @@ intro .brand-heading {
 	font-size:12px;
 	font-weight:900;
 	font-style:italic;
+	padding-bottom:5px;
 	border-bottom:solid 1px #555;
 }
 
