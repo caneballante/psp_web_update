@@ -69,7 +69,7 @@
 		<div class="col-md-7 padding-20-top">
 		<!-- InstanceBeginEditable name="6col_content" -->
 	<p>Start and end times depend on agenda needs, but meetings and work sessions generally begin at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. Select AGENDA	to view documents related to the meeting.	</p>		
-				<table width="100%" border="0">
+				<table width="100%" border="0" class="table">
 								<tr>
 										<td width="100" class="tableheader">DATE</td>
 										<td width="268" class="tableheader">LOCATION</td>
