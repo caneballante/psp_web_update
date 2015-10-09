@@ -9,8 +9,8 @@
 <title>Puget Sound Partnership - Draft Home Page</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/custom.css" rel="stylesheet" type="text/css">
+<link href="../css/bootstrap.css" rel="stylesheet">
+<link href="../css/custom.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -49,7 +49,7 @@
 	
 	<div class="row"> 
 		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-20-top margin-20-top border-top-grey">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-20-top padding-left-0 margin-20-top margin-left-20 border-top-grey">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
 				<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
@@ -103,11 +103,11 @@
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="js/jquery-1.11.2.min.js"></script> 
+<script src="../js/jquery-1.11.2.min.js"></script> 
 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
-<script src="js/bootstrap.js"></script> 
+<script src="../js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
+<script src="../js/custom.js"></script>
 </body>
 <!-- InstanceEnd --></html>

@@ -49,7 +49,7 @@
 	
 	<div class="row"> 
 		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-20-top margin-20-top border-top-grey">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-20-top padding-left-0 margin-20-top margin-left-20 border-top-grey">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<li class="active" role="presentation"> <a href="#">SECTION ONE OF THE SOS</a></li>
 				<li role="presentation"> <a href="#">SECTION TWO OF THE SOS</a></li>

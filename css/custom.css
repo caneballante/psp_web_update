@@ -100,6 +100,7 @@ h3 {
 .blue {
 	color: #0a3b5c;
 }
+/*padding top*/
 .padding-0-top {
 	padding-top: 0px;
 }
@@ -118,6 +119,7 @@ h3 {
 .padding-150-top {
 	padding-top: 20px;
 }
+/*padding right*/
 .padding-0-right {
 	padding-right: 0px;
 }
@@ -127,15 +129,27 @@ h3 {
 .padding-20-right {
 	padding-right: 20px;
 }
+/*padding bottom*/
 .padding-10-bottom {
 	padding-bottom: 10px;
 }
 .padding-20-bottom {
 	padding-bottom: 20px;
 }
+/*padding left*/
 .padding-0-left {
 	padding-left: 0px;
 }
+.padding-10-left {
+	padding-left: 10px;
+}
+.padding-20-left {
+	padding-left: 20px;
+}
+.padding-50-left {
+	padding-left: 50px;
+}
+/*margin top*/
 .margin-0-top {
 	margin-top: 0px;
 }
@@ -151,6 +165,23 @@ h3 {
 .margin-150-top {
 	margin-top: 150px;
 }
+/*margin right*/
+.margin-0-right {
+	margin-right: 0px;
+}
+.margin-10-right {
+	margin-right: 10px;
+}
+.margin-20-right {
+	margin-right: 20px;
+}
+.margin-50-right {
+	margin-right: 50px;
+}
+.margin-150-right {
+	margin-right: 150px;
+}
+/*align*/
 .align-right {
 	text-align:right;
 }
@@ -166,7 +197,7 @@ h3 {
 }
 /*used for now on top of the left nav*/
 .border-top-grey {
-	border-top: solid 1px #777;	
+	border-top: solid 2px #eeeeee;	
 }
 /*news boxes on homepage*/
 .newsbox{
@@ -316,11 +347,10 @@ intro .brand-heading {
 }
 
 
-/*left and right nav on inside pages*/
+/*left nav*/
 .nav-leftside-custom {
 	font-size:10px;
 	text-align:right;
-	padding-right:20px;
 }
 
 
@@ -330,6 +360,7 @@ intro .brand-heading {
 	text-align:center;
 }
 }
+/*right nav*/
 .nav-rightside-custom {
 	font-size:10px;
 	padding:0;

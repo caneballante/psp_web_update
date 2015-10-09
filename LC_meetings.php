@@ -49,7 +49,7 @@
 	
 	<div class="row"> 
 		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-20-top margin-20-top border-top-grey">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-20-top padding-left-0 margin-20-top margin-left-20 border-top-grey">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
 				<li role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
