@@ -195,7 +195,7 @@ h3 {
 	width:100%;
 	height:auto;
 }
-/*used for now on top of the left nav*/
+/*was used for now on top of the left nav. can be DELETED IN THE NEXT COUPLE DAYS IF I DON'T GO BACK TO USING IT*/
 .border-top-grey {
 	border-top: solid 2px #eeeeee;	
 }
