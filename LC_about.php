@@ -51,14 +51,15 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
+	<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
 				<li class="active" role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
 				<li role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
-				<li role="presentation"> <a href="#">ABOUT THE ECOSYSTEM COORDINATION BOARD</a></li>
-				<li role="presentation"> <a href="#">ABOUT THE SCIENCE PANEL</a></li>
-				<li role="presentation"> <a href="#">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
-				<li role="presentation"> <a href="#">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
-				<li role="presentation"> <a href="#">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
+				<li role="presentation"> <a href="ECB_about.php">ABOUT THE ECOSYSTEM COORDINATION BOARD</a></li>
+				<li role="presentation"> <a href="ECB_meetings.php">ECOSYSTEM COORDINATION BOARD MEETINGS AND AGENDAS</a></li>
+				<li role="presentation"> <a href="SP_about.php">ABOUT THE SCIENCE PANEL</a></li>
+				<li role="presentation"> <a href="SP_meetings.php">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
+				<li role="presentation"> <a href="SR_about.php">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
+				<li role="presentation"> <a href="SR_meetings.php">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
