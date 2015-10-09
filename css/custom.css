@@ -164,12 +164,11 @@ h3 {
 	width:100%;
 	height:auto;
 }
-
+/*used for now on top of the left nav*/
 .border-top-grey {
 	border-top: solid 1px #777;	
 }
-/*news box*/
-
+/*news boxes on homepage*/
 .newsbox{
 	height:148px;
 	background-color:rgba(36,81,112,1.00);
@@ -324,6 +323,7 @@ intro .brand-heading {
 	padding-right:20px;
 }
 
+
 /*makes the left nav centered on small screens*/
 @media (max-width: 992px){
 	.nav-leftside-custom {
@@ -332,6 +332,14 @@ intro .brand-heading {
 }
 .nav-rightside-custom {
 	font-size:10px;
+	padding:0;
+	margin:0;
+}
+
+.nav-rightside-custom li{
+	list-style-type: none;
+	margins: 0;
+	padding: 0;
 }
 
 /*left nav customization of bootstrap nav class*/
