@@ -41,15 +41,15 @@
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-6 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>EVALUATING ACTIONS TO RECOVER PUGET SOUND</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-3 padding-20-top"></div>
+		<div class="col-md-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3 padding-20-top margin-20-top border-top-grey">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom">
+		<div class="col-md-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-20-top margin-20-top border-top-grey">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<li class="active" role="presentation"> <a href="#">EVALUATING ACTIONS TO RECOVER TO RECOVERY PUGET SOUND</a></li>
 				<li role="presentation"> <a href="#">REPORT CARD</a></li>
@@ -61,7 +61,7 @@
 			
 		</div>
 	
-		<div class="col-md-6 padding-20-top">
+		<div class="col-md-7 padding-20-top">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>LINKS ON THE LEFT AND RIGHT AREN'T WORKING YET</p>
 			<p>In mauris nulla, venenatis in eleifend a, dictum ac erat. Proin hendrerit eros nec diam dapibus, in blandit felis mattis. Mauris quis congue sem, vitae tincidunt elit. Nulla facilisi. Etiam nisi mi, laoreet ut rhoncus vel, mattis bibendum risus. Ut viverra augue interdum, pulvinar erat in, auctor orci. Fusce nunc tellus, tempus at magna ac, hendrerit sodales sapien. Aliquam erat volutpat.</p>
@@ -71,7 +71,7 @@
 			<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-3 padding-20-top"> 
+		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<h3 class="margin-0-top">SEE ALSO</h3>

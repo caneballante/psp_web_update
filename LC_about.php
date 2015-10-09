@@ -41,10 +41,10 @@
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-6 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>ABOUT THE LEADERSHIP COUNCIL</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-3 padding-20-top"></div>
+		<div class="col-md-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
@@ -64,7 +64,7 @@
 			
 		</div>
 	
-		<div class="col-md-6 padding-20-top">
+		<div class="col-md-7 padding-20-top">
 		<!-- InstanceBeginEditable name="6col_content" -->
 		 	
 	  <h3>The Leadership Council is the governing body of the Puget   Sound Partnership. Its seven members are leading citizens chosen from   around the Sound and appointed by the governor. Gov. Chris Gregoire named Bill   Ruckelshaus the first chair. Founding members will serve terms of different   lengths. Successors to the original council will each serve four-year terms. </h3>
@@ -103,7 +103,7 @@ While serving the commission for the past 18 years, he has also served on his tr
 			<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-3 padding-20-top"> 
+		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<h3 class="margin-0-top">SEE ALSO</h3>

@@ -40,16 +40,16 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
-		<div class="col-md-9 padding-20-top"> <!-- InstanceBeginEditable name="9col_header" -->
+		<div class="col-md-10 padding-20-top"> <!-- InstanceBeginEditable name="9col_header" -->
 			<h1>PUGET SOUND RECOVERY 101</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-3 padding-20-top"></div>
+		<div class="col-md-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
 		</div>
 	
-		<div class="col-md-9 padding-20-top padding-0-left">
+		<div class="col-md-10 padding-20-top padding-0-left">
 		<!-- InstanceBeginEditable name="9col_content" -->
 			<div id="lipsum">
 				<h2>WHAT IS THE PUGET SOUND?</h2>
@@ -72,7 +72,7 @@
 		<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-3 padding-20-top"> 
+		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<h3 class="margin-0-top">ON THIS PAGE</h3>
