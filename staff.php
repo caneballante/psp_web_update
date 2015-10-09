@@ -280,7 +280,7 @@
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-			<h3 class="margin-0-top">SEE ALSO</h3>
+		<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
