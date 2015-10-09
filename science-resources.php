@@ -54,8 +54,9 @@
 				
 			<!-- InstanceEndEditable --> 
 			</ul>
-			
+		
 		</div>
+			
 	
 		<div class="col-md-7 padding-20-top">
 		<!-- InstanceBeginEditable name="6col_content" -->

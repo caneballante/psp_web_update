@@ -62,8 +62,9 @@
 				<li role="presentation"> <a href="SR_meetings.php">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
 				<!-- InstanceEndEditable --> 
 			</ul>
-			
+		
 		</div>
+			
 	
 		<div class="col-md-7 padding-20-top">
 		<!-- InstanceBeginEditable name="6col_content" -->

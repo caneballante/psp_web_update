@@ -59,8 +59,9 @@ PUGET SOUND</h1>
 				<li role="presentation"> <a href="#">STATE OF THE SOUND</a></li>
 			<!-- InstanceEndEditable --> 
 			</ul>
-			
+		
 		</div>
+			
 	
 		<div class="col-md-7 padding-20-top">
 		<!-- InstanceBeginEditable name="6col_content" -->

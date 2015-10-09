@@ -47,7 +47,6 @@
 	</div>
 	
 	<div class="row"> 
-		</div>
 	
 		<div class="col-md-10 padding-20-top padding-0-left">
 		<!-- InstanceBeginEditable name="9col_content" -->
