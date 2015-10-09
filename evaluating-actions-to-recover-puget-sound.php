@@ -42,7 +42,8 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>EVALUATING ACTIONS TO RECOVER PUGET SOUND</h1>
+			<h1 class="grey">EVALUATING ACTIONS TO RECOVER <br>
+PUGET SOUND</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -63,23 +64,37 @@
 	
 		<div class="col-md-7 padding-20-top">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>LINKS ON THE LEFT AND RIGHT AREN'T WORKING YET</p>
 			<p>In mauris nulla, venenatis in eleifend a, dictum ac erat. Proin hendrerit eros nec diam dapibus, in blandit felis mattis. Mauris quis congue sem, vitae tincidunt elit. Nulla facilisi. Etiam nisi mi, laoreet ut rhoncus vel, mattis bibendum risus. Ut viverra augue interdum, pulvinar erat in, auctor orci. Fusce nunc tellus, tempus at magna ac, hendrerit sodales sapien. Aliquam erat volutpat.</p>
 			<p>Suspendisse commodo sapien sed nulla feugiat, nec efficitur lacus pellentesque. Vivamus diam dui, auctor in aliquam nec, egestas vel leo. Aenean cursus, erat sed feugiat interdum, arcu diam consequat mi, non sagittis elit urna eu nisi. Duis cursus elit elit, sed bibendum arcu lobortis at. Vivamus finibus enim sed lorem ornare, ut aliquam turpis venenatis. Mauris nec blandit velit, ut dapibuIn mauris nulla, venenatis in eleifend a, dictum ac erat. Proin hendrerit eros nec diam dapibus, in blandit felis mattis. Mauris quis congue sem, vitae tincidunt elit. Nulla facilisi. Etiam nisi mi, laoreet ut rhoncus vel, mattis bibendum risus. Ut viverra augue interdum, pulvinar erat in, auctor orci. Fusce nunc tellus, tempus at magna ac, hendrerit sodales sapien. Aliquam erat volutpat.</p>
-			<p>Suspendisse commodo sapien sed nulla feugiat, nec efficitur lacus pellentesque. Vivamus diam dui, auctor in aliquam nec, egestas vel leo. Aenean cursus, erat sed feugiat interdum, arcu diam consequat mi, non sagittis elit urna eu nisi. Duis cursus elit elit, sed bibendum arcu lobortis at. Vivamus finibus enim sed lorem ornare, ut aliquam turpis venenatis. Mauris nec blandit velit, ut dapibus libero. Nunc vestibulum eu nisi a hendrerit. Mauris maximus, sapien eu mollis volutpat, sem ante venenatis ipsum, et sollicitudin elit est id ex. Morbi quis consectetur eros, eu tristique mi. Quisque tincidunt id risus vel porta. Praesent sit amet dolor volutpat, sagittis nisi non, porta elit.</p>
-			<p>s libero. Nunc vestibulum eu nisi a hendrerit. Mauris maximus, sapien eu mollis volutpat, sem ante venenatis ipsum, et sollicitudin elit est id ex. Morbi quis consectetur eros, eu tristique mi. Quisque tincidunt id risus vel porta. Praesent sit amet dolor volutpat, sagittis nisi non, porta elit.</p>
+			<h2>THE TRUTH WILL SET YOU FREE</h2>
+			<p>Suspendisse commodo sapien sed nulla feugiat, nec efficitur lacus pellentesque. Vivamus diam dui, auctor in aliquam nec, egestas vel leo. Aenean cursus, erat sed feugiat interdum, arcu diam consequat mi, non sagittis elit urna eu nisi blandit velit, ut dapibus libero. Nunc vestibulum eu nisi a hendrerit. Mauris maximus, sapien eu mollis volutpat, sem ante venenatis ipsum, et sollicitudin elit est id ex. Morbi quis consectetur eros, eu tristique mi. Quisque tincidunt id risus vel porta. Praesent sit amet dolor volutpat, sagittis nisi non, porta elit.</p>
+			<h2>YOU CAN'T STOP WHAT'S COMING</h2>
+			<p>s libero. Nunc vestibulum eu nisi a hendrerit. Mauris maximus, sapien eu mollis volutpat, sem ante venenatis ipsum, et sollicitudin elit Duis cursus elit elit, sed bibendum arcu lobortis at. Vivamus finibus enim sed lorem ornare, ut aliquam turpis venenatis. Mauris neest id ex. Morbi quis consectetur eros, eu tristique mi. Quisque tincidunt id risus vel porta. Praesent sit amet dolor volutpat, sagittis nisi non, porta elit.</p><br><br><br>
 			<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<h3 class="margin-0-top">SEE ALSO</h3>
+					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">LINKS</a></li>
-					<li role="presentation"> <a href="#">lINKS</a></li>
+				<li role="presentation"> <a href="#">Links to another page</a></li>
+					<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
+					<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
+						<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title margin-50-top ">BOARD CONTACT</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+				<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
+				<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
+Special Assistant,<br>
+ 360.628.2423</p>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

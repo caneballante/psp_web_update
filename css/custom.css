@@ -3,6 +3,7 @@
 body {
 	font-family: 'prenton', serif;
 	background-color: #FFF;
+	color: #555;
 }
 html {
 	-webkit-text-size-adjust: 100%;
@@ -69,16 +70,24 @@ h1 {
 }
 }
 h2 {
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 900;
+	border-bottom: solid #777 1px;
+	margin-top:30px;
+	padding-bottom:20px;
+	margin-bottom:20px;
 }
+
 
 h3 {
 	font-size: 12px;
 	font-weight: 900;
 }
-
-
+p {
+	font-size:15px;
+	line-height:1.8;
+	font-family:georgia, times, serif;
+}
 .white_fill {
 	background-color: #fff;
 }
@@ -99,6 +108,9 @@ h3 {
 }
 .blue {
 	color: #0a3b5c;
+}
+.grey {
+	color: #555;
 }
 /*padding top*/
 .padding-0-top {
@@ -199,6 +211,7 @@ h3 {
 .border-top-grey {
 	border-top: solid 2px #eeeeee;	
 }
+
 /*news boxes on homepage*/
 .newsbox{
 	height:148px;
@@ -361,8 +374,16 @@ intro .brand-heading {
 }
 }
 /*right nav*/
+
+.right-nav-title{
+	font-size:12px;
+	font-weight:900;
+	font-style:italic;
+	border-bottom:solid 1px #555;
+}
+
 .nav-rightside-custom {
-	font-size:10px;
+	font-size:13px;
 	padding:0;
 	margin:0;
 }
@@ -370,9 +391,13 @@ intro .brand-heading {
 .nav-rightside-custom li{
 	list-style-type: none;
 	margins: 0;
-	padding: 0;
+	padding: 5px 0 5px 0;
+	border-bottom:solid 1px #555;
 }
 
+.right-nav-contact{
+	font-size:12px;
+}
 /*left nav customization of bootstrap nav class*/
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
     font-weight:700;

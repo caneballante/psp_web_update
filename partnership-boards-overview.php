@@ -49,7 +49,7 @@
 	
 	<div class="row"> 
 		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-20-top padding-left-0 margin-20-top margin-left-20 border-top-grey">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<li class="active" role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
 				<li role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
@@ -69,6 +69,7 @@
 			<p>I love cheese, especially feta fondue. Manchego squirty cheese who moved my cheese cheese slices paneer blue castello say cheese boursin. Lancashire monterey jack stilton cottage cheese emmental jarlsberg manchego cheesy feet. Dolcelatte cheese and biscuits melted cheese stinking bishop port-salut when the cheese comes out everybody's happy roquefort red leicester. Gouda cheese slices cauliflower cheese cottage cheese.</p>
 			<p>Manchego cheese and biscuits emmental. Cottage cheese the big cheese cow pecorino parmesan cheese on toast edam airedale. Bocconcini bocconcini cheese slices cheesy feet macaroni cheese gouda pecorino parmesan. Jarlsberg.</p>
 			<h2>THE LEADERSHIP COUNCIL</h2>
+			
 			<p>Blue castello cheddar goat. Boursin gouda cheese on toast feta caerphilly emmental monterey jack mascarpone. Stinking bishop jarlsberg croque monsieur gouda cheddar fondue parmesan edam. Parmesan cheeseburger roquefort hard cheese st. agur blue cheese st. agur blue cheese halloumi cheeseburger. Pecorino cheese strings pepper jack.</p>
 			<h2>ECOSYSTEM COORDINATION BOARD</h2>
 			<p>Blue castello cheddar goat. Boursin gouda cheese on toast feta caerphilly emmental monterey jack mascarpone. Stinking bishop jarlsberg croque monsieur gouda cheddar fondue parmesan edam. Parmesan cheeseburger roquefort hard cheese st. agur blue cheese st. agur blue cheese halloumi cheeseburger. Pecorino cheese strings pepper jack.</p>

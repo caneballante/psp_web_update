@@ -96,7 +96,7 @@
 		<div class="col-md-2 padding-20-top"> 
 			<!-- TemplateBeginRepeat name="right_nav_repeat" --> 
 				<!-- TemplateBeginEditable name="right_nav_title" -->
-					<h3 class="margin-0-top">SEE ALSO</h3>
+					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 				<!-- TemplateEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- TemplateBeginEditable name="right_nav_links" -->
