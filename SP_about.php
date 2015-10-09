@@ -54,8 +54,8 @@
 				<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
 				<li role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
 				<li role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
-				<li role="presentation"> <a href="ECB_about.php">ABOUT THE ECOSYSTEM COORDINATION BOARD</a></li>
-				<li role="presentation"> <a href="ECB_meetings.php">ECOSYSTEM COORDINATION BOARD MEETINGS AND AGENDAS</a></li>
+				<li role="presentation"> <a href="EB_about.php">ABOUT THE ECOSYSTEM COORDINATION BOARD</a></li>
+				<li role="presentation"> <a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD MEETINGS AND AGENDAS</a></li>
 				<li class="active" role="presentation"> <a href="SP_about.php">ABOUT THE SCIENCE PANEL</a></li>
 				<li role="presentation"> <a href="SP_meetings.php">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
 				<li role="presentation"> <a href="SR_about.php">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
