@@ -51,14 +51,15 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
+			<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
 				<li role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
-				<li class="active" role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
-				<li role="presentation"> <a href="#">ABOUT THE ECOSYSTEM COORDINATION BOARD</a></li>
-				<li role="presentation"> <a href="#">ABOUT THE SCIENCE PANEL</a></li>
-				<li role="presentation"> <a href="#">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
-				<li role="presentation"> <a href="#">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
-				<li role="presentation"> <a href="#">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
+				<li role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
+				<li role="presentation"> <a href="ECB_about.php">ABOUT THE ECOSYSTEM COORDINATION BOARD</a></li>
+				<li role="presentation"> <a href="ECB_meetings.php">ECOSYSTEM COORDINATION BOARD MEETINGS AND AGENDAS</a></li>
+				<li role="presentation"> <a href="SP_about.php">ABOUT THE SCIENCE PANEL</a></li>
+				<li class="active" role="presentation"> <a href="SP_meetings.php">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
+				<li role="presentation"> <a href="SR_about.php">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
+				<li role="presentation"> <a href="SR_meetings.php">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
 				<!-- InstanceEndEditable --> 
 			</ul>
 			
@@ -66,71 +67,70 @@
 	
 		<div class="col-md-7 padding-20-top">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p> Start and end times depend on agenda needs. Regular meetings generally begin at 9 a.m. and work sessions at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. The regular meetings and work sessions are free and open to the public. Select AGENDA to view documents related to each meeting. </p>
-			<table width="100%" border="0" class="table">
-				<tr>
-					<td width="125" class="tableheader">DATE</td>
-					<td width="243" class="tableheader">LOCATION</td>
-					<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
-				</tr>
-				<tr> </tr>
-				<tr>
-					<td>October 15</td>
-					<td>La Conner Country Inn<br />
-						Two Forks conference room<br />
-						107 South 2nd Street<br />
-						La Conner, WA 98257</td>
-					<td><a href="https://pspwa.box.com/s/0vg81qht4pc2pw63njcrkcmp7rsnef7z">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td>December 3-4</td>
-					<td><p>TBD</p></td>
-					<td>&nbsp;</td>
-				</tr>
-				<tr>
-					<td height="21" colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
-				</tr>
-				<tr>
-					<td>January 29</td>
-					<td><p><a href="downloads/directions/Directions to Natural Resources building.pdf">Natural Resources Building</a><br />
-							Room 172<br />
-							1111 Washington Street SE<br />
-							Olympia, WA 98501-2283 </p></td>
-					<td>Temporarily Unavailable</td>
-				</tr>
-				<tr>
-					<td>March 27</td>
-					<td><p><a href="downloads/directions/Directions-to-the-General-Administration-Building.pdf">GA Auditorium</a>, 1st floor<br />
-							General Administration Building<br />
-							210 - 11th Avenue SW<br />
-							Olympia, WA 98501</p></td>
-					<td>Temporarily Unavailable</td>
-				</tr>
-				<tr>
-					<td><p>May 7<br />
-							CANCELLED<br />
-							work session only</p></td>
-					<td><p>Elwha Klallam Heritage Training Center<br />
-							Conference Room<br />
-							401 East 1st Street<br />
-							Port Angeles, WA 98363</p></td>
-					<td>Cancelled<br />
-					</td>
-				</tr>
-				<tr>
-					<td>July 29-30</td>
-					<td><p><a href="https://app.box.com/shared/static/y3tvvnh6uq55914lyga26g1iv6ofq7o4.pdf">Washington State Capitol<br />
-							Legislative Building</a><br />
-							Columbia Room (1st floor under rotunda)<br />
-							416 Sid Snyder Ave SW<br />
-							Olympia, WA 98504</p></td>
-					<td>Temporarily Unavailable<br />
-						<br />
-						<a href="http://www.tvw.org/index.php?option=com_tvwplayer&amp;eventID=2015070019"> TVW video of Morning Session</a><br />
-						<a href="http://www.tvw.org/index.php?option=com_tvwplayer&amp;eventID=2015070020">TVW video of Afternoon Session</a><br /></td>
-				</tr>
-			</table>
-	
+	<p>Start and end times depend on agenda needs, but meetings and work sessions generally begin at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. Select AGENDA	to view documents related to the meeting.	</p>		
+				<table width="100%" border="0">
+								<tr>
+										<td width="100" class="tableheader">DATE</td>
+										<td width="268" class="tableheader">LOCATION</td>
+										<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
+								</tr>
+									
+						
+									
+							
+								<tr>
+								  <td class="">October 28</td>
+								  <td class=""><p><a href="https://www.google.com/maps/dir/47.2456943,-122.4405864/Port+of+Everett,+1205+Craftmen+Way,+Everett,+WA+98201/@47.6170338,-122.7973304,9z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x549aaab49714d6f1:0xc7a72d5562cfa029!2m2!1d-122.2168576!2d48.0030358!3e0">Port of Everett Waterfront Center</a><br />
+								  	Heron Room<br />
+								  	1205 Craftsman Way<br />
+								  	Everett, WA 98201<br />
+							
+									</p></td>
+								  <td class="">Temporarily Unavailable</td>
+						  </tr>
+							
+								
+						 
+								<tr>
+								  <td class="">December 15 – 16</td>
+								  <td class="">TBD</td> <td class="">Temporarily Unavailable</td> </tr>
+                                    <tr>
+										<td colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
+								</tr>
+<tr>
+										<td class="">February 25 – 26</td>
+										<td class=""><p><a href="downloads/directions/WSU Puyallup - Directions.pdf">Washington State University Research Center</a><br />
+									    Allmendinger Center<br />
+									    2606 West Pioneer<br />
+									    Puyallup, WA 98371</p></td>
+										<td class="">Temporarily Unavailable</td>
+								</tr>
+								<tr>
+								  <td >April 23</td>
+								  <td><p>Puget Sound Partnership<br />
+								    <a href="downloads/directions/UWatersMap2010.pdf">Center for Urban Waters</a><br />
+326 East D Street, third floor<br />
+Tacoma, WA 98421-1801</p></td>
+								  <td >Temporarily Unavailable</td>
+						  </tr> 		<tr>
+								  <td >June 24 – 25</td>
+								  <td><p><a href="https://app.box.com/s/konwaksml6jmddjzhecapulitabxkvt6">Western Washington University</a><br />
+								  		Viking Union Room 565<br />
+								  		516 High Street<br />
+								  		Bellingham, WA 98225</p></td>
+								  <td >Temporarily Unavailable</td>
+						  </tr> 
+							<tr>
+										<td class=""><p>August 6</p></td>
+										<td class=""><p>Washington State Capitol<br />
+										  Legislative Building<br />
+										  Columbia Room<br />
+										  416 Sid Snyder Ave SW<br />
+									    Olympia, WA 98504</p></td>
+										<td class="">Temporarily Unavailable</td>
+								</tr>	
+						</table>
+			
 			<!-- InstanceEndEditable -->
 		</div>
 	
@@ -141,10 +141,9 @@
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Leadership Council By Laws *need link*</a></li>
-				<li role="presentation"> <a href="#">Meeting Archives *need link*</a></li>
-				<li role="presentation"> <a href="#">Meeting Summaries *need link*</a></li>
-				<li role="presentation"> <a href="#">Approved Resolutions *need link*</a></li>
+					<li role="presentation"> <a href="http://www.psp.wa.gov/science.php">Download Science Documents  *NEED LINK*</a></li>
+					<li role="presentation"> <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=224&amp;Itemid=238">By Laws *NEED LINK*</a></p></li>
+					<li role="presentation"> <a href="#">Meeting Archives *NEED LINK*</a></li>
 				<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -153,10 +152,10 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
+						<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
 				<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
 Special Assistant,<br>
- 360.628.2423</p>		
+ 360.628.2423</p>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

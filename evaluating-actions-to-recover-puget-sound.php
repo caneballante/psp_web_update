@@ -85,18 +85,6 @@ PUGET SOUND</h1>
 					<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-50-top ">BOARD CONTACT</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
-				<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
-Special Assistant,<br>
- 360.628.2423</p>
-						<!-- InstanceEndEditable -->
-					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 		</div>
 	</div>

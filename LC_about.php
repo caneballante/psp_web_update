@@ -67,10 +67,10 @@
 		<div class="col-md-7 padding-20-top">
 		<!-- InstanceBeginEditable name="6col_content" -->
 		 	
-	  <h3>The Leadership Council is the governing body of the Puget   Sound Partnership. Its seven members are leading citizens chosen from   around the Sound and appointed by the governor. Gov. Chris Gregoire named Bill   Ruckelshaus the first chair. Founding members will serve terms of different   lengths. Successors to the original council will each serve four-year terms. </h3>
+	  <p>The Leadership Council is the governing body of the Puget   Sound Partnership. Its seven members are leading citizens chosen from   around the Sound and appointed by the governor. Gov. Chris Gregoire named Bill   Ruckelshaus the first chair. Founding members will serve terms of different   lengths. Successors to the original council will each serve four-year terms. </p>
    	
    		<p>Washington state has over 200 boards and commissions to which the Governor  appoints citizen members. Appointees are responsible for advising the Governor, the legislature, and state agencies. For more information on board and commission appointments visit <a href="http://governor.wa.gov/boards/default.aspx">http://governor.wa.gov/boards/default.aspx</a></p>
-   		<?php include 'includes/board_contact.html' ?>
+
 	
 <p><strong><strong>Chair: </strong></strong>Martha   Kongsgaard<strong><strong><br />
    				Term:</strong> </strong>Four-year term, ends June 25, 2018<strong><strong><br />
@@ -114,6 +114,17 @@ While serving the commission for the past 18 years, he has also served on his tr
 					<li role="presentation"> <a href="#">MEETING ARCHIVES</a></li>
 				
 						<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title margin-50-top ">BOARD CONTACT</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+	<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
+				<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
+Special Assistant,<br>
+ 360.628.2423</p>						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 		</div>
