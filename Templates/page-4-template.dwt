@@ -11,6 +11,7 @@
 <!-- Bootstrap -->
 <link href="../css/bootstrap.css" rel="stylesheet">
 <link href="../css/custom.css" rel="stylesheet" type="text/css">
+<link href="../css/custom-erika.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -36,7 +37,9 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
 <!-- TemplateBeginIf cond="OptionalRegion1" --> <!-- TemplateBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image1"> </header>
+<header class="overview-page-image-style overview-page-image1"> 
+<div class="overview-quote pull-right">The Puget Sound National Estuary Program brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</div>
+</header>
 <!-- TemplateEndEditable --> <!-- TemplateEndIf --> <!-- TemplateBeginIf cond="OptionalRegion2" --> 
 <div class="row">
 	<div class="col-sm-12 margin-50-top">&nbsp;</div>

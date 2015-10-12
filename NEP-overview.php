@@ -11,6 +11,7 @@
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
+<link href="css/custom-erika.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -36,7 +37,11 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image4"> </header>
+<header class="overview-page-image-style overview-page-image6">
+
+<div class="overview-quote pull-right"><h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3></div>
+
+ </header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
@@ -53,15 +58,14 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
-				<li role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
-				<li role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
-				<li role="presentation"> <a href="EB_about.php">ABOUT THE ECOSYSTEM COORDINATION BOARD</a></li>
-				<li role="presentation"> <a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD MEETINGS AND AGENDAS</a></li>
-				<li role="presentation"> <a href="SP_about.php">ABOUT THE SCIENCE PANEL</a></li>
-				<li role="presentation"> <a href="SP_meetings.php">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
-				<li role="presentation"> <a href="SR_about.php">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
-				<li role="presentation"> <a href="SR_meetings.php">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
+			<li class="active" role="presentation"> <a href="NEP-overview.php">NEP OVERVIEW</a></li>
+				<li role="presentation"> <a href="NEP-puget-sound-estuary.php">PUGET SOUND ESTUARIES</a></li>
+				<li role="presentation"> <a href="NEP-health-of-puget-sound.php">HEALTH OF PUGET SOUND</a></li>
+				<li role="presentation"> <a href="NEP-regional-approach.php">REGIONAL APPROACH TO RECOVERY</a></li>
+				<li role="presentation"> <a href="NEP-local.php">WHAT RECOVERY IS HAPPENING LOCALLY?</a></li>
+				<li role="presentation"> <a href="NEP-funding.php">HOW IS THE NEP FUNDED</a></li>
+				<li role="presentation"> <a href="NEP-solicitations-and-grants.php">NEP SOLICITATION AND GRANTS</a></li>
+				<li role="presentation"> <a href="NEP-communications-toolkit.php">NEP COMMUNICATIONS TOOLKIT</a></li>
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -70,26 +74,56 @@
 	
 		<div class="col-md-7 padding-20-top">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>I love cheese, especially feta fondue. Manchego squirty cheese who moved my cheese cheese slices paneer blue castello say cheese boursin. Lancashire monterey jack stilton cottage cheese emmental jarlsberg manchego cheesy feet. Dolcelatte cheese and biscuits melted cheese stinking bishop port-salut when the cheese comes out everybody's happy roquefort red leicester. Gouda cheese slices cauliflower cheese cottage cheese.</p>
-			<p>Manchego cheese and biscuits emmental. Cottage cheese the big cheese cow pecorino parmesan cheese on toast edam airedale. Bocconcini bocconcini cheese slices cheesy feet macaroni cheese gouda pecorino parmesan. Jarlsberg.</p>
-			<h2>THE LEADERSHIP COUNCIL</h2>
+			<p>Puget Sound&rsquo;s National Estuary Program is a voluntary, place-based initiative that brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</p><p>
+			The U.S. Congress designated Puget Sound as an Estuary of National Significance because it is critical to the environmental and economic well-being of the nation. In 2007, Washington passed authorizing legislation to create the Puget Sound Partnership, a state agency dedicated to clean up and restore the environmental health of Puget Sound by the year 2020.</p>
+<h2>PARTNERS</h2>
 			
-			<p>Blue castello cheddar goat. Boursin gouda cheese on toast feta caerphilly emmental monterey jack mascarpone. Stinking bishop jarlsberg croque monsieur gouda cheddar fondue parmesan edam. Parmesan cheeseburger roquefort hard cheese st. agur blue cheese st. agur blue cheese halloumi cheeseburger. Pecorino cheese strings pepper jack.</p>
-			<h2>ECOSYSTEM COORDINATION BOARD</h2>
-			<p>Blue castello cheddar goat. Boursin gouda cheese on toast feta caerphilly emmental monterey jack mascarpone. Stinking bishop jarlsberg croque monsieur gouda cheddar fondue parmesan edam. Parmesan cheeseburger roquefort hard cheese st. agur blue cheese st. agur blue cheese halloumi cheeseburger. Pecorino cheese strings pepper jack.</p>
-		<h2>SCIENCE PANEL</h2>
-			<p>Rubber cheese port-salut dolcelatte. Cheeseburger gouda mozzarella cheese slices emmental pecorino emmental cut the cheese. Cow mozzarella cottage cheese macaroni cheese macaroni cheese stilton pecorino cheeseburger. Mozzarella paneer cheese strings smelly cheese jarlsberg.</p>
-				<h2>SALMON RECOVERY COUNCIL</h2>
-				<p>Cheese ricotta edam. Lancashire squirty cheese taleggio taleggio stilton cheeseburger say cheese fromage frais. Cheese on toast boursin squirty cheese cheddar cheese and biscuits pecorino say cheese queso. Roquefort paneer.<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-				</p>
-			<!-- InstanceEndEditable -->
+			<p>In 2009, the U.S. Environmental Protection Agency&rsquo;s (EPA) National Estuary Program selected and funded six Washington state agencies and the Northwest Indian Fisheries Commission to develop and implement six-year strategies to protect and restore Puget Sound in the following categories</p>
+			<table class="table">
+				<tr>
+					<td>Puget Sound Recovery Focus</td>
+					<td>Lead organization(s)</td>
+				</tr>
+				<tr>
+					<td>Action Agenda implementation</td>
+					<td>Puget Sound Partnership</td>
+				</tr>	
+				<tr>
+					<td>Watershed protection and restoration</td>
+					<td>Departments of Commerce and Ecology</td>
+				</tr>	
+				<tr>
+					<td>Marine and nearshore protection and restoration</td>
+					<td>Departments of Fish &amp; Wildlife and Natural Resources</td>
+				</tr>	
+				<tr>
+					<td>Tribal capacity and implementation</td>
+					<td>Northwest Indian Fisheries Commission</td>
+				</tr>	
+				<tr>
+					<td>Toxics and nutrients prevention and reduction</td>
+					<td>Department of Ecology</td>
+				</tr>	
+				<tr>
+					<td>Pathogen prevention and reduction</td>
+					<td>Department of Health</td>
+				</tr>								
+				<tr>
+					<td>Stewardship and education</td>
+					<td>Puget Sound Partnership</td>
+				</tr>					
+	</table>		
+			<p>As the current funding cycle (2010 to 2016) nears its conclusion, focus areas will shift to shellfish, stormwater, and habitat, with lead organizations participating in this transition.  </p>
+				<p>Lead organizations re-distribute National Estuary Program funds to local and regional projects, engaging nearly 800 organizations in the care of Puget Sound. Projects are selected that:</p>
+				<ul>
+					<li>Align with Puget Sound Action Agenda priorities</li>
+					<li>Support local recovery priorities</li>
+					<li>Advance ecosystem recovery targets set by the Puget Sound Partnership </li>
+				</ul>
+				<p>Together with the Environmental Protection Agency, lead organizations have worked tirelessly to maximize and leverage National Estuary Program dollars, and seek tangible on-the-ground results. </p>
+				<h2>The National Estuary Program and Puget Sound recovery</h2>
+				
+		<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
