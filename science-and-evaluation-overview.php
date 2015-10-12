@@ -49,7 +49,7 @@
 	
 	<div class="row"> 
 	
-		<div class="col-md-10 padding-20-top padding-0-left">
+		<div class="col-md-10 padding-20-top padding-0-left content-column">
 		<!-- InstanceBeginEditable name="9col_content" -->
 			<p>THESE MULTI LAYERED OVERVIEWS PROBABLY CAN ALL GO ON THE SAME PAGE INSTEAD OF BEING SEVERAL DIFFERENT PAGES. YOU'VE GOT OVERVIEWS OF YOUR OVERVIEWS.</p>
 			<h2>EVALUATING RECOVERY OVERVIEW</h2>

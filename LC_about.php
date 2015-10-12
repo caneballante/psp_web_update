@@ -67,7 +67,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 		 	
 	  <p>The Leadership Council is the governing body of the Puget   Sound Partnership. Its seven members are leading citizens chosen from   around the Sound and appointed by the governor. Gov. Chris Gregoire named Bill   Ruckelshaus the first chair. Founding members will serve terms of different   lengths. Successors to the original council will each serve four-year terms. </p>

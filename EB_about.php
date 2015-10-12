@@ -68,7 +68,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 						<p><strong>Chair: </strong>Dave Somers<br />
     				</p>

@@ -59,7 +59,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>THIS PAGE DOESN'T MAKE MUCH SENSE ON ITS OWN. PAGES AT THIS LEVEL ARE COLLECTIONS OF PAGES RELATED BY A LEFT NAVIGATION. CAN'T THIS GO IN THE SCIENCE OVERVIEW COLUMN?<br>
 				<br>

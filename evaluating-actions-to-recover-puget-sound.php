@@ -64,7 +64,7 @@ PUGET SOUND</h1>
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>In mauris nulla, venenatis in eleifend a, dictum ac erat. Proin hendrerit eros nec diam dapibus, in blandit felis mattis. Mauris quis congue sem, vitae tincidunt elit. Nulla facilisi. Etiam nisi mi, laoreet ut rhoncus vel, mattis bibendum risus. Ut viverra augue interdum, pulvinar erat in, auctor orci. Fusce nunc tellus, tempus at magna ac, hendrerit sodales sapien. Aliquam erat volutpat.</p>
 			<p>Suspendisse commodo sapien sed nulla feugiat, nec efficitur lacus pellentesque. Vivamus diam dui, auctor in aliquam nec, egestas vel leo. Aenean cursus, erat sed feugiat interdum, arcu diam consequat mi, non sagittis elit urna eu nisi. Duis cursus elit elit, sed bibendum arcu lobortis at. Vivamus finibus enim sed lorem ornare, ut aliquam turpis venenatis. Mauris nec blandit velit, ut dapibuIn mauris nulla, venenatis in eleifend a, dictum ac erat. Proin hendrerit eros nec diam dapibus, in blandit felis mattis. Mauris quis congue sem, vitae tincidunt elit. Nulla facilisi. Etiam nisi mi, laoreet ut rhoncus vel, mattis bibendum risus. Ut viverra augue interdum, pulvinar erat in, auctor orci. Fusce nunc tellus, tempus at magna ac, hendrerit sodales sapien. Aliquam erat volutpat.</p>

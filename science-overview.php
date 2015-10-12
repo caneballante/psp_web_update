@@ -66,7 +66,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 				<p>LINKS ON THE LEFT AND RIGHT AREN'T WORKING YET</p>
 				<p>In mauris nulla, venenatis in eleifend a, dictum ac erat. Proin hendrerit eros nec diam dapibus, in blandit felis mattis. Mauris quis congue sem, vitae tincidunt elit. Nulla facilisi. Etiam nisi mi, laoreet ut rhoncus vel, mattis bibendum risus. Ut viverra augue interdum, pulvinar erat in, auctor orci. Fusce nunc tellus, tempus at magna ac, hendrerit sodales sapien. Aliquam erat volutpat.</p>

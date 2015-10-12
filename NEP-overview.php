@@ -72,7 +72,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>Puget Sound&rsquo;s National Estuary Program is a voluntary, place-based initiative that brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</p><p>
 			The U.S. Congress designated Puget Sound as an Estuary of National Significance because it is critical to the environmental and economic well-being of the nation. In 2007, Washington passed authorizing legislation to create the Puget Sound Partnership, a state agency dedicated to clean up and restore the environmental health of Puget Sound by the year 2020.</p>
@@ -81,8 +81,8 @@
 			<p>In 2009, the U.S. Environmental Protection Agency&rsquo;s (EPA) National Estuary Program selected and funded six Washington state agencies and the Northwest Indian Fisheries Commission to develop and implement six-year strategies to protect and restore Puget Sound in the following categories</p>
 			<table class="table">
 				<tr>
-					<td>Puget Sound Recovery Focus</td>
-					<td>Lead organization(s)</td>
+					<td><strong>Puget Sound Recovery Focus</strong></td>
+					<td><strong>Lead organization(s)</strong></td>
 				</tr>
 				<tr>
 					<td>Action Agenda implementation</td>
@@ -122,8 +122,9 @@
 				</ul>
 				<p>Together with the Environmental Protection Agency, lead organizations have worked tirelessly to maximize and leverage National Estuary Program dollars, and seek tangible on-the-ground results. </p>
 				<h2>The National Estuary Program and Puget Sound recovery</h2>
-				
-		<!-- InstanceEndEditable -->
+				<p>Puget Sound recovery is governed by the Action Agenda, a comprehensive conservation and management plan that outlines the regional strategies and specific actions needed to recover the second largest estuary in the country. Progress is tracked through more than twenty Vital Signs, indicators with specific recovery targets that help the region measure progress. </p><p>
+				Since 2010, the Puget Sound National Estuary Program has supported innovation and the wisdom of local communities who know their ecosystems best, advancing Puget Sound recovery in creative and sometimes unexpected ways. This federal funding source has helped hundreds of projects align and expand their efforts to recover Puget Sound. Now, the region is better positioned to accelerate the pace of recovery and address persistent threats.<strong></strong></p>
+<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 

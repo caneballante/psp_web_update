@@ -71,24 +71,20 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<h2>What is an estuary?</h2>
-			<p>Estuaries are places where fresh and saltwater mix. Puget Sound is the largest estuary by water volume in the contiguous United States. Puget Sound and encompasses many other estuaries, both large – such as the Duwamish River Estuary – and small, found in sheltered bays, inlets and lagoons. </p>
-<h2>WHY ARE ESTUARIES IMPORTANT?</h2>
 			
-			<p>As transition areas between fresh and saltwater, and land and sea, estuaries are rich in nutrients. They create a nourishing foundation – from plankton to plants – that supports the abundant array of life in Puget Sound. From oysters, clams and crab to salmon, orca and birds, all are sustained by estuaries.</p>
-			<p>Estuaries:</p>
-				<ul>
-					<li>Provide habitat for animals to live, feed and reproduce</li>
-					<li>Serve as buffers to protect shorelines from erosion and flooding</li>
-					<li>Filter pollutants, improving water quality </li>
-				</ul>
-				<p>Estuaries are also among the most biologically productive ecosystems on earth, supporting Washington&rsquo;s multi-million dollar shellfish, fishing and estuary-dependent tourism and recreation industries.</p>
-<h2>HOW ARE PUGET SOUND ESTUARIES BEING THREATENED</h2>
-				<p>The <a href="* https://sites.google.com/site/pressureassessment/home">Puget Sound Pressure Assessment</a> identified 47 stressors affecting Puget Sound, including shoreline hardening, land cover conversion, sea level rise, changes in water flow and quality, pollution, and many more. These stressors threaten plants, fish, shellfish and wildlife; disrupt food webs; degrade and/or reduce aquatic and land habitat; and increase levels of toxic contaminants. </p>
-				<h2>HOW IS THE NEP WORKING TO RECOVERY ESTUARIES?</h2>
-				<p>National Estuary Program funding has helped the region build capacity, grounded in strong, local partnerships among state agencies, federal agencies, tribes, local governments, community partners and supporters. This shared commitment to hard work, innovation and collaboration has advanced progress toward ecosystem recovery targets and created a durable foundation for future recovery efforts.</p>
+			<p>Despite our coordinated, integrated and strategic approach to restoring Puget Sound, the threats it faces continue to outpace our efforts to combat them. The <a href="http://www.psp.wa.gov/sos.php">2013 State of the Sound</a> report concluded <strong><em>[Note: Update with new 2015 SOS stats]</em></strong>:</p>
+			<ul>
+				<li><strong>The good news: </strong>The Shellfish Beds and Estuary Restoration Vital Signs continue to make progress. Swimming Beaches also began making progress, with more beaches open for swimming compared to 2004. And, for the first time in 2014, more shoreline armoring was removed than was installed. <strong><em>[Note: This postdates 2013 SOS, but is a hopeful sign]</em></strong></li>
+				<li><strong>The less good news: </strong>Few of the 21 Puget Sound Vital Signs, which are used to track progress in restoring the health of Puget Sound, are showing progress. In some cases, they have even lost ground, such as Orcas, the Marine Water Quality Index and the biomass of spawning Pacific herring.</li>
+				<li><strong>Mixed results: </strong>The remaining six Vital Signs showed mixed progress, with some indicators showing improving conditions and others showing worsening conditions. </li>
+				<li><strong>The challenge of measuring progress: </strong>Many of the Vital Signs, by nature, are expected to change only slowly. More sensitive and targeted indicators are needed to better asses the effectiveness of actions.</li>
+			</ul>
+<h2>WHY IS RECOVERY IMPORTANT?</h2>
+			
+			<p>While we have made progress toward a few recovery targets, overall we are only slowing down Puget Sound degradation. We need to focus and intensify our efforts to restore this beautiful, bountiful place we call home.<strong></strong><br>
+			As stated in the Puget Sound <a href="http://www.psp.wa.gov/scienceplan.php">Strategic Science Plan</a>, &ldquo;the need for action is urgent, as human population growth, climate change and other forces are fundamentally altering Puget Sound…In a setting of moving baselines, the traditional view of restoration – that is restoration to a set of historically defined conditions – may no longer be valid.&rdquo;</p>
 <!-- InstanceEndEditable -->
 		</div>
 	

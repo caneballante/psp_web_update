@@ -49,7 +49,7 @@
 	
 	<div class="row"> 
 	
-		<div class="col-md-10 padding-20-top padding-0-left">
+		<div class="col-md-10 padding-20-top padding-0-left content-column">
 		<!-- InstanceBeginEditable name="9col_content" -->
 			<div id="lipsum">
 				<h2>WHAT IS THE PUGET SOUND?</h2>

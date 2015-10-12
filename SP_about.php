@@ -68,7 +68,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 						<p>The Science Panel's expertise and advice are critical to the Puget Sound Partnerships efforts to develop a comprehensive plan to restore Puget Sound. The following nine members, appointed by the Leadership Council, were chosen from the top scientists in Washington State. </p>
 						

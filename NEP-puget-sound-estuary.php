@@ -71,9 +71,8 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<h2>What is an estuary?</h2>
 			<p>Estuaries are places where fresh and saltwater mix. Puget Sound is the largest estuary by water volume in the contiguous United States. Puget Sound and encompasses many other estuaries, both large – such as the Duwamish River Estuary – and small, found in sheltered bays, inlets and lagoons. </p>
 <h2>WHY ARE ESTUARIES IMPORTANT?</h2>
 			

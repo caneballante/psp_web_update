@@ -88,6 +88,19 @@ p {
 	line-height:1.8;
 	font-family:georgia, times, serif;
 }
+.content-column ul {
+	font-size:15px;
+	line-height:1.8;
+	font-family:georgia, times, serif;
+}
+.content-column li {
+	padding: 0 0 10px 0;
+}
+.content-column a {
+	font-size:15px;
+	line-height:1.8;
+	font-family:georgia, times, serif;
+}
 .white_fill {
 	background-color: #fff;
 }

@@ -49,7 +49,7 @@
 	
 	<div class="row"> 
 	
-		<div class="col-md-10 padding-20-top padding-0-left">
+		<div class="col-md-10 padding-20-top padding-0-left content-column">
 		<!-- InstanceBeginEditable name="9col_content" -->
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas malesuada dui non urna vestibulum tempus. Mauris fermentum cursus tellus. Nulla ac venenatis nisi. Integer sapien arcu, molestie us tincidunt. Vivamus feugiat sem justo, rutrum pharetra tortor iaculis ac. Nunc enim tellus, ornare at rutrum et, interdum et ipsum. Morbi et arcu suscipit, dictum mi sed, tempor dui. Morbi rhoncus, diam rutrum aliquet commodo, massa justo ullamcorper augue, in sagittis tellus dolor et nunc. Proin ac tempor arcu. Sed sagittis porttitor nisi sed consectetur.</p>
 			<h2>SCIENCE OVERVIEW</h2>

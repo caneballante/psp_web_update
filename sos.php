@@ -63,7 +63,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>Bavarian bergkase lancashire chalk and cheese. The big cheese fromage frais cheesy feet emmental mozzarella dolcelatte taleggio cheeseburger. Melted cheese danish fontina pecorino stilton bocconcini hard cheese manchego paneer. Cheesecake cheddar cow queso.</p>
 			<p>Gouda bocconcini bavarian bergkase. Chalk and cheese who moved my cheese manchego queso cheesy grin cheddar paneer cheeseburger. Airedale hard cheese cow dolcelatte halloumi cheesecake melted cheese mascarpone. Roquefort roquefort parmesan blue castello caerphilly swiss cauliflower cheese goat. Melted cheese the big cheese babybel croque monsieur.</p>

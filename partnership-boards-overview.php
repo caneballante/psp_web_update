@@ -67,7 +67,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>I love cheese, especially feta fondue. Manchego squirty cheese who moved my cheese cheese slices paneer blue castello say cheese boursin. Lancashire monterey jack stilton cottage cheese emmental jarlsberg manchego cheesy feet. Dolcelatte cheese and biscuits melted cheese stinking bishop port-salut when the cheese comes out everybody's happy roquefort red leicester. Gouda cheese slices cauliflower cheese cottage cheese.</p>
 			<p>Manchego cheese and biscuits emmental. Cottage cheese the big cheese cow pecorino parmesan cheese on toast edam airedale. Bocconcini bocconcini cheese slices cheesy feet macaroni cheese gouda pecorino parmesan. Jarlsberg.</p>

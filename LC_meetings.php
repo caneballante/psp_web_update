@@ -67,7 +67,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top">
+		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p> Start and end times depend on agenda needs. Regular meetings generally begin at 9 a.m. and work sessions at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. The regular meetings and work sessions are free and open to the public. Select AGENDA to view documents related to each meeting. </p>
 			<table width="100%" border="0" class="table">
