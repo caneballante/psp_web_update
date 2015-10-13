@@ -47,8 +47,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>THE PUGET SOUND EstuarIES<br>
-			</h1>
+			<h1>A REGIONAL APPROACH TO PUGET SOUND RECOVERY</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -58,9 +57,9 @@
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<li role="presentation"> <a href="NEP-overview.php">NEP OVERVIEW</a></li>
-				<li class="active" role="presentation"> <a href="NEP-puget-sound-estuary.php">PUGET SOUND ESTUARIES</a></li>
+				<li role="presentation"> <a href="NEP-puget-sound-estuary.php">PUGET SOUND ESTUARIES</a></li>
 				<li role="presentation"> <a href="NEP-health-of-puget-sound.php">HEALTH OF PUGET SOUND</a></li>
-				<li role="presentation"> <a href="NEP-regional-approach.php">REGIONAL APPROACH TO RECOVERY</a></li>
+				<li class="active" role="presentation"> <a href="NEP-regional-approach.php">REGIONAL APPROACH TO RECOVERY</a></li>
 				<li role="presentation"> <a href="NEP-local.php">WHAT RECOVERY IS HAPPENING LOCALLY?</a></li>
 				<li role="presentation"> <a href="NEP-funding.php">HOW IS THE NEP FUNDED</a></li>
 				<li role="presentation"> <a href="NEP-solicitation-and-grants.php">NEP SOLICITATION AND GRANTS</a></li>
@@ -73,22 +72,26 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>Estuaries are places where fresh and saltwater mix. Puget Sound is the largest estuary by water volume in the contiguous United States. Puget Sound and encompasses many other estuaries, both large – such as the Duwamish River Estuary – and small, found in sheltered bays, inlets and lagoons. </p>
-<h2>WHY ARE ESTUARIES IMPORTANT?</h2>
 			
-			<p>As transition areas between fresh and saltwater, and land and sea, estuaries are rich in nutrients. They create a nourishing foundation – from plankton to plants – that supports the abundant array of life in Puget Sound. From oysters, clams and crab to salmon, orca and birds, all are sustained by estuaries.</p>
-			<p>Estuaries:</p>
-				<ul>
-					<li>Provide habitat for animals to live, feed and reproduce</li>
-					<li>Serve as buffers to protect shorelines from erosion and flooding</li>
-					<li>Filter pollutants, improving water quality </li>
-				</ul>
-				<p>Estuaries are also among the most biologically productive ecosystems on earth, supporting Washington&rsquo;s multi-million dollar shellfish, fishing and estuary-dependent tourism and recreation industries.</p>
-<h2>HOW ARE PUGET SOUND ESTUARIES BEING THREATENED</h2>
-				<p>The <a href="* https://sites.google.com/site/pressureassessment/home">Puget Sound Pressure Assessment</a> identified 47 stressors affecting Puget Sound, including shoreline hardening, land cover conversion, sea level rise, changes in water flow and quality, pollution, and many more. These stressors threaten plants, fish, shellfish and wildlife; disrupt food webs; degrade and/or reduce aquatic and land habitat; and increase levels of toxic contaminants. </p>
-				<h2>HOW IS THE NEP WORKING TO RECOVERY ESTUARIES?</h2>
-				<p>National Estuary Program funding has helped the region build capacity, grounded in strong, local partnerships among state agencies, federal agencies, tribes, local governments, community partners and supporters. This shared commitment to hard work, innovation and collaboration has advanced progress toward ecosystem recovery targets and created a durable foundation for future recovery efforts.</p>
-<!-- InstanceEndEditable -->
+			<p>With hundreds of organizations and thousands of projects dedicated to recovering Puget Sound&rsquo;s health, aligning those efforts is both necessary and challenging. With National Estuary Program support, Puget Sound partners work together to develop the Puget Sound Action Agenda – the organizing framework guiding Puget Sound recovery efforts. The Puget Sound Partnership, in turn, leads implementation of the agenda, creating and implementing systems and programs that make Puget Sound restoration, protection and recovery efforts:</p>
+			<ol>
+				<li><strong>Accountable</strong> - the Partnership tracks the progress of Action Agenda implementation and individual project performance; &nbsp;</li>
+				<li><strong>Measurable</strong> - the Partnership assesses environmental progress and evaluates the effectiveness of key management actions; &nbsp;</li>
+				<li><strong>Rigorous and Adaptive</strong> - the Partnership supports, synthesizes and communicates relevant science information to improve management programs, and to identify and adapt to emerging threats; </li>
+				<li><strong>Aligned and Integrated</strong> - the Partnership works with local entities to align and integrate their programs with ecosystem-level priorities and strategies.</li>
+			</ol>
+			<h2>Making progress</h2>
+				<p>Though the health of Puget Sound is still declining, we are developing the capacity and tools necessary to sustain and accelerate progress towards recovery. </p>
+				<p>The National Estuary Program has enabled recovery leaders and implementers to:</p>
+			<ul>
+				<li>Better align Puget Sound recovery work with the Puget Sound Action Agenda</li>
+				<li>Pursue innovative projects few others would fund</li>
+				<li>Leverage additional funds and resources</li>
+				<li>Focus on systemic change with the aim of realizing long-term benefits </li>
+				<li>Empower communities to prioritize and meet their unique needs</li>
+				<li>Build capacity and relationships – the social capital – essential to sustain recovery </li>
+			</ul>
+		<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 

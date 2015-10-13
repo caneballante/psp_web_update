@@ -57,13 +57,13 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="NEP-overview.php">NEP OVERVIEW</a></li>
+				<li role="presentation"> <a href="NEP-overview.php">NEP OVERVIEW</a></li>
 				<li role="presentation"> <a href="NEP-puget-sound-estuary.php">PUGET SOUND ESTUARIES</a></li>
-				<li role="presentation"> <a href="NEP-health-of-puget-sound.php">HEALTH OF PUGET SOUND</a></li>
+				<li class="active" role="presentation"> <a href="NEP-health-of-puget-sound.php">HEALTH OF PUGET SOUND</a></li>
 				<li role="presentation"> <a href="NEP-regional-approach.php">REGIONAL APPROACH TO RECOVERY</a></li>
 				<li role="presentation"> <a href="NEP-local.php">WHAT RECOVERY IS HAPPENING LOCALLY?</a></li>
 				<li role="presentation"> <a href="NEP-funding.php">HOW IS THE NEP FUNDED</a></li>
-				<li role="presentation"> <a href="NEP-solicitations-and-grants.php">NEP SOLICITATION AND GRANTS</a></li>
+				<li role="presentation"> <a href="NEP-solicitation-and-grants.php">NEP SOLICITATION AND GRANTS</a></li>
 				<li role="presentation"> <a href="NEP-communications-toolkit.php">NEP COMMUNICATIONS TOOLKIT</a></li>
 			<!-- InstanceEndEditable --> 
 			</ul>

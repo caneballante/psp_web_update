@@ -64,7 +64,7 @@
 				<li role="presentation"> <a href="NEP-regional-approach.php">REGIONAL APPROACH TO RECOVERY</a></li>
 				<li role="presentation"> <a href="NEP-local.php">WHAT RECOVERY IS HAPPENING LOCALLY?</a></li>
 				<li role="presentation"> <a href="NEP-funding.php">HOW IS THE NEP FUNDED</a></li>
-				<li role="presentation"> <a href="NEP-solicitations-and-grants.php">NEP SOLICITATION AND GRANTS</a></li>
+				<li role="presentation"> <a href="NEP-solicitation-and-grants.php">NEP SOLICITATION AND GRANTS</a></li>
 				<li role="presentation"> <a href="NEP-communications-toolkit.php">NEP COMMUNICATIONS TOOLKIT</a></li>
 			<!-- InstanceEndEditable --> 
 			</ul>

@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - State of the Sound</title>
+<title>Puget Sound Partnership - Draft Home Page</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -37,9 +37,9 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image3">
+<header class="overview-page-image-style overview-page-image6">
 
-<div class="overview-quote pull-right"><h3>The restoration of the mouth of the Nisqually River is the largest tidal marsh restoration project in the Pacific Northwest.</h3></div>
+<div class="overview-quote pull-right"><h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3></div>
 
  </header>
 <!-- InstanceEndEditable -->  
@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2015 STATE OF THE SOUND</h1>
+			<h1>NEP COMMUNICATIONS TOOLKIT</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -56,12 +56,15 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="ecosystem-status.php">ECOSYSTEM STATUS</a></li>
-				<li role="presentation"> <a href="action-agenda-progress.php">ACTION AGENDA PROGRESS</a></li>
-				<li role="presentation"> <a href="lessons-learned.php">LESSONS LEARNED &amp; RECOMMENDATIONS</a></li>
-				<li role="presentation"> <a href="sos-resources.php">RESOURCES</a></li>
-				<li role="presentation"></li>
-				<!-- InstanceEndEditable --> 
+				<li role="presentation"> <a href="NEP-overview.php">NEP OVERVIEW</a></li>
+				<li role="presentation"> <a href="NEP-puget-sound-estuary.php">PUGET SOUND ESTUARIES</a></li>
+				<li role="presentation"> <a href="NEP-health-of-puget-sound.php">HEALTH OF PUGET SOUND</a></li>
+				<li role="presentation"> <a href="NEP-regional-approach.php">REGIONAL APPROACH TO RECOVERY</a></li>
+				<li role="presentation"> <a href="NEP-local.php">WHAT RECOVERY IS HAPPENING LOCALLY?</a></li>
+				<li role="presentation"> <a href="NEP-funding.php">HOW IS THE NEP FUNDED</a></li>
+				<li role="presentation"> <a href="NEP-solicitation-and-grants.php">NEP SOLICITATION AND GRANTS</a></li>
+				<li class="active" role="presentation"> <a href="NEP-communications-toolkit.php">NEP COMMUNICATIONS TOOLKIT</a></li>
+			<!-- InstanceEndEditable --> 
 			</ul>
 		
 		</div>
@@ -69,32 +72,34 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>Bavarian bergkase lancashire chalk and cheese. The big cheese fromage frais cheesy feet emmental mozzarella dolcelatte taleggio cheeseburger. Melted cheese danish fontina pecorino stilton bocconcini hard cheese manchego paneer. Cheesecake cheddar cow queso.</p>
-			<p>Gouda bocconcini bavarian bergkase. Chalk and cheese who moved my cheese manchego queso cheesy grin cheddar paneer cheeseburger. Airedale hard cheese cow dolcelatte halloumi cheesecake melted cheese mascarpone. Roquefort roquefort parmesan blue castello caerphilly swiss cauliflower cheese goat. Melted cheese the big cheese babybel croque monsieur.</p>
-			<p>Everyone loves red leicester cheese slices. Blue castello monterey jack everyone loves cheesy feet blue castello cheesy feet st. agur blue cheese brie. Airedale boursin edam gouda cheese slices cow pepper jack babybel. Paneer cream cheese roquefort lancashire paneer parmesan.</p>
-			<p>Smelly cheese say cheese boursin. Cheese slices caerphilly smelly cheese emmental pecorino smelly cheese pecorino cheesecake. Cut the cheese taleggio red leicester mozzarella camembert de normandie hard cheese st. agur blue cheese cheese strings. Halloumi cheeseburger cheese and wine stilton caerphilly rubber cheese cow paneer. Squirty cheese dolcelatte everyone loves macaroni cheese.</p>
-			<p>Cow danish fontina parmesan. Jarlsberg smelly cheese chalk and cheese pepper jack cheesy grin cheesy grin cheddar airedale. Roquefort squirty cheese camembert de normandie cream cheese ricotta cheese and wine goat jarlsberg. Cheesecake.<br>
-				<br>
-				<br>
-				<img class="img-responsive" src="images/water-quality-index.png" width="555" height="349" alt=""/><br>
-				<br>
-				<br>
-				<br>
-				<br>
-			</p>
-			<!-- InstanceEndEditable -->
+			
+			
+			<p>Communication is a crucial part of Puget Sound recovery, whether you are informing decision-makers about policy actions or encouraging the public to adopt estuary-friendly behaviors. Effective communication, however, can be challenging. This is especially true when conveying the complex, long-term recovery efforts that National Estuary Program funding frequently supports. </p>
+<p>Our collective story about Puget Sound recovery is more powerful when informed by the people who are doing this great work! To that end, we&rsquo;ve created a suite of communications tools and best practices designed to enhance and support your work, while helping us capture a cohesive and compelling story about the National Estuary Program.</p> 
+<strong><em> [Link to Toolkit Overview and best practices]</em></strong><br>
+<p>National Estuary Program funding recipients – please email <strong><em>[first name last name]</em></strong> to receive the toolkit&rsquo;s templates and worksheets. All other toolkit resources are accessible via the link above.<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</p>
+		<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-				<div class="right-nav-title">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
+					<div class="right-nav-title">SEE ALSO</div>
+				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="#">PAST STATE OF THE SOUND</a></li>
-				<li class="active" role="presentation"> <a href="#">VITAL SIGNS</a></li>
-				<!-- InstanceEndEditable -->
+					<li role="presentation"> <a href="#">LINKS</a></li>
+					<li role="presentation"> <a href="#">LINKS</a></li>
+				
+						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 		</div>
