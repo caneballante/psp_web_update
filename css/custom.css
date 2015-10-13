@@ -11,12 +11,12 @@ html {
 }
 
 /*this is part of type-kit - hides the font until it's loaded - FOUT*/
-.wf-loading h1 {
+.wf-loading h1,h2 {
     font-family: 'prenton', san-serif;
     visibility: hidden;
  }
   
-.wf-active h1 {
+.wf-active h1,h2 {
     visibility: visible;
  }
 
@@ -72,10 +72,10 @@ h1 {
 h2 {
 	font-size: 16px;
 	font-weight: 900;
-	border-bottom: solid #777 1px;
-	margin-top:30px;
-	padding-bottom:20px;
-	margin-bottom:20px;
+	/*border-bottom: solid #777 1px;*/
+	margin-top:50px;
+	padding-bottom:25px;
+	margin-bottom:0px;
 }
 
 
@@ -251,7 +251,13 @@ p {
 	font-weight:900px;
 	letter-spacing: 1px;
 	}
-
+/*Highlight a piece of content in a blue box!*/
+.highlightbox {
+	background-color: rgba(227,237,249,1.00);
+	border-radius: 15px;
+	padding: 10px;
+	
+}
 
 /* Added to the main nav when it scrolls 9-28-15*/
 .navbar-default {

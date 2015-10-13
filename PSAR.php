@@ -39,8 +39,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image7">
 
-<div class="overview-quote pull-right"><h3>Every $1 million invested in PSAR projects means at least 17 jobs and over $3 million in economic activity. For the 2013-15 biennium, PSAR projects produced 845 jobs.PSAR projects completed in the 2013-15 biennium restored and protected: <br>
-1,289 estuary and nearshore acres, 770 floodplain acres, and 14 river and stream miles.</h3></div>
+<div class="overview-quote pull-right"><h3>Investing in habitat restoration to bring back Puget Sound’s dynamic natural systems – for salmon, people, and community</h3></div>
 
  </header>
 <!-- InstanceEndEditable -->  
@@ -69,14 +68,12 @@
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			
-		   <p>Investing in habitat restoration to bring back Puget Sound’s dynamic natural systems – for salmon, people, and community</p>
-     <h2>What is PSAR?</h2>
+
      <p>The Puget Sound Acquisition and Restoration program was created in 2007 to help implement the most important habitat protection and restoration priorities for Puget Sound. Funding is appropriated by the Legislature through the Salmon Recovery Funding Board. The Puget Sound Partnership works with local entities to identify and prioritize projects. This funding is critical to advancing the most effective projects throughout our region.</p>
 <h2>Why is PSAR an effective investment?</h2>
-<ul>
-		<li><strong>PSAR-funded projects restore critical habitat and salmon populations to Puget Sound. </strong></li>
-</ul>
-<p>Because the projects are thoroughly reviewed, their benefit to improved salmon habitat in Puget Sound is significant. Since 2007, when PSAR fund was initiated, <strong>more than 300</strong> critical habitat projects have been completed. PSAR projects are developed with the input and review of scientists and environmental planners, who use <strong>monitoring data</strong> collected from key habitat indicators to inform project selection and completion.</p>
+<p><strong>PSAR-funded projects restore critical habitat and salmon populations to Puget Sound. </strong>
+
+Because the projects are thoroughly reviewed, their benefit to improved salmon habitat in Puget Sound is significant. Since 2007, when PSAR fund was initiated, <strong>more than 300</strong> critical habitat projects have been completed. PSAR projects are developed with the input and review of scientists and environmental planners, who use <strong>monitoring data</strong> collected from key habitat indicators to inform project selection and completion.</p>
 <ul>
 		<li><strong>PSAR-funded projects benefit local communities. The projects:</strong></li>
 		<ul>
@@ -92,9 +89,10 @@
 <ul>
 		<li><strong>PSAR projects make efficient use of public money. </strong></li>
 </ul>
+<p>Every $1 million invested in PSAR projects means at least 17 jobs and over $3 million in economic activity. For the 2013-15 biennium, PSAR projects produced 845 jobs.PSAR projects completed in the 2013-15 biennium restored and protected: 1,289 estuary and nearshore acres, 770 floodplain acres, and 14 river and stream miles.</p>
 <p>To be eligible for funding, proposed projects must first advance through a series of <strong>rigorous, science-driven reviews</strong>. The reviews occur at the local and regional level and ensure that all PSAR projects align with the <strong>Puget Sound Salmon Recovery Plan</strong>, as well as with the Puget Sound Partnership&rsquo;s ecosystem recovery targets, listed in the <strong>Action Agenda</strong>.<br />
 </p>
-<p><strong><em>Staff with the Puget Sound Partnership manage the PSAR grant fund program; PSAR funds are administered through the Washington State Recreation and Conservation Office. For more information about the funding process, or to apply for a PSAR grant, go to <a href="http://www.rco.wa.gov/grants/salmon.shtml">http://www.rco.wa.gov/grants/salmon.shtml</a></em></strong><br />
+<p><em>Staff with the Puget Sound Partnership manage the PSAR grant fund program; PSAR funds are administered through the Washington State Recreation and Conservation Office. For more information about the funding process, or to apply for a PSAR grant, go to <a href="http://www.rco.wa.gov/grants/salmon.shtml">http://www.rco.wa.gov/grants/salmon.shtml</a></em><br />
 </p>
 <p><img src="images/RCO.jpg" width="200" height="52" alt=""/></p>
 		<!-- InstanceEndEditable -->
