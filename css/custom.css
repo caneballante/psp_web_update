@@ -265,8 +265,6 @@ p {
     background: rgba(9,57,93,1);
 	border:none;
 }
-/* fixes the z index on the modal so it's not greyed out 9-28-15*/
- .modal-backdrop.in { z-index: auto;}
 
 /*using this instead of the jumbotron - pulled CSS from the gray theme 9-28-15*/
 .intro {
@@ -301,6 +299,8 @@ intro .brand-heading {
 	margin: 0 auto;
 	border-radius:5px
 }
+/* fixes the z index on the modal so it's not greyed out 9-28-15*/
+ .modal-backdrop.in { z-index: auto;}
 
 /*modal customization 9-30-15*/
 .modal-custom {
@@ -345,7 +345,7 @@ intro .brand-heading {
 }
 }
 /*this centers the modal seperators between sections. They needed img-responsive so they didn't poke out of the modal when small. This caused them to align left. the css is a fix to align them center*/
-.modal .img-responsive {
+.custom-modal-center-fix {
     margin: 0 auto;
 }
 	
