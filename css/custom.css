@@ -337,13 +337,13 @@ intro .brand-heading {
 .close-custom {
 	color:#ffffff;
 }
-/*Not sure why I added this - check later how it effects the modal*/
+/*Makes the modal main menu fullscreen on anything over 768*/
 @media (min-width: 768px){
-.modal-dialog {
+.modal-dialog-custom {
     width: auto;
     margin: auto;	
 }
-}
+}*
 /*this centers the modal seperators between sections. They needed img-responsive so they didn't poke out of the modal when small. This caused them to align left. the css is a fix to align them center*/
 .custom-modal-center-fix {
     margin: 0 auto;
