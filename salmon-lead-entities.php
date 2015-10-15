@@ -49,7 +49,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>THREE YEAR WORKPLANS</h1>
+			<h1>LEAD ENTITIES</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -197,8 +197,7 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="#">LINKS</a></li>
-					<li role="presentation"> <a href="#">LINKS</a></li>
+					<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
 				
 						<!-- InstanceEndEditable -->
 					</ul>

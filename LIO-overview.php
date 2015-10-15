@@ -39,7 +39,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image8">
+<header class="overview-page-image-style overview-page-image9">
 
 <div class="overview-quote pull-right"><h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3></div>
 
@@ -49,7 +49,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Salmon Recovery OVERVIEW</h1>
+			<h1>Local integrating organizations (LIO)</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -58,12 +58,9 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="salmon-recovery-overview.php">SALMON RECOVERY OVERVIEW</a></li>
-				<li role="presentation"> <a href="salmon-recovery-status.php">SALMON RECOVERY STATUS</a></li>
-				<li role="presentation"> <a href="salmon-watershed-recovery-plans.php">WATERSHED RECOVERY PLANS</a></li>
-				<li role="presentation"> <a href="salmon-three-year-work-plans.php">THREE YEAR WORKPLANS</a></li>
-				<li role="presentation"> <a href="salmon-lead-entities.php">LEAD ENTITIES</a></li>
-				<li role="presentation"> <a href="salmon-resources.php">SALMON RECOVERY RESOURCES</a></li>
+				<li class="active" role="presentation"> <a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS (LIO)</a></li>
+				<li role="presentation"> <a href="LIO-2-year-plan.php">LIO 2-YEAR RECOVERY PLANS</a></li>
+				<li role="presentation"> <a href="LIO-5-year-plan.php">LIO 5-YEAR RECOVERY PLANS</a></li>
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -73,20 +70,28 @@
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			
-		<p>On January 1, 2008, The Puget Sound Partnership Act, Section 49(3), RCW 77.85.090(3) designated the Partnership to serve as the regional salmon recovery organization for Puget Sound salmon species, except Hood Canal Summer Chum. As the regional salmon recovery entity, the Partnership leads implementation of a community-based, scientifically rigorous, and regionally significant recovery plan that was built through a multi-year stakeholder process.</p>
-<h2>What’s Happening</h2>
-<p>In close coordination with NOAA Fisheries, the Puget Sound Salmon Recovery Council, salmon recovery Lead Entities, and other partners, the Partnership is adaptively managing implementation of the Chinook Recovery Plan and supporting NOAA in the development of a Puget Sound Steelhead Recovery Plan. <a href="salmon-recovery-status.php">LEARN MORE</a></p>
-<h2>Watershed Recovery Plans</h2>
-<p>The Puget Sound Chinook Recovery Plan is organized with a regional chapter (Volume I), 14 watershed-specific chapters, and a nearshore chapter (Volume II). The plan includes strategies and actions associated with marine and freshwater habitat protection and restoration, hatchery management, and harvest management. <a href="salmon-watershed-recovery-plans.php">LEARN MORE</a></p>
-<h2>Four Year Work Plans</h2>
-<p>On an annual basis, each of the watershed groups representing the 14 watershed chapters of the Puget Sound Salmon Recovery Plan develop 4-year work program updates to describe the watershed’s accomplishments during the previous year, identify the current status of recovery actions, and to propose future actions and any changes in recovery strategies in the next 4 years necessary to implement the Salmon Recovery Plan. <a href="salmon-three-year-work-plans.php">LEARN MORE</a></p>
-<h2>Salmon Recovery Council</h2>
-<p>The Puget Sound Salmon Recovery Council is a group of policy decision-makers that meets regularly to develop guidance for implementation of the Plan and advises the Leadership Council on salmon recovery decisions. This group consists of representatives from each of the 14 watershed areas, the environmental and business community, tribes, and state and federal agencies involved in salmon recovery.</p>
-<h2>Lead Entities</h2>
-<p>Lead Entities are local, watershed-based organizations that develop local salmon habitat recovery strategies and manage projects to implement the strategies.<a href="salmon-lead-entities.php"> LEARN MORE</a></p>
-<p>&nbsp;</p>
+						  <p>Local communities around the Puget Sound are working to integrate local efforts to advance the Action Agenda.  Local governments, tribes, non-profit organizations, watershed, marine resource, and salmon recovery groups, interest groups, businesses, educational organizations, and citizens are collaborating to develop and coordinate local integrating organizations that foster implementation of Action Agenda priorities.</p>
+     <p>The local integrating organizations enable communities to guide the implementation of Action Agenda priorities at an ecosystem scale, and to prioritize local actions for investment. </p>
+     <p>To date, the Leadership Council has recognized local integrating organizations in nine geographic areas.  For more information and to contact the local integrating organization in your area see the links below.</p>
+     <p style="font-weight: bold">Local Integrating Organizations:</p>
+ 
+     <ul>
+	 <li><a href="http://www.sanjuanlio.com">San Juan Action Agenda Oversight Group </a></li>
+	 <li><a href="http://www.mypugetsound.net/index.php?option=com_community&amp;view=groups&amp;task=viewgroup&amp;groupid=60&amp;Itemid=222">Strait Ecosystem Recovery Network</a></li>
+	 <li><a href="http://www.govlink.org/sc-puget-sound-action-area/Index.htm">South Central Action Area Caucus Group</a></li>
+	 <li><a href="http://www.healthysouthsound.org/">Alliance for a Healthy South Sound</a></li>
+	 <li><a href="http://hccc.wa.gov/">Hood Canal Coordinating Council </a></li>
+	 <li> <a href="http://www.westcentrallio.org">West Central LIO</a></li>
+	 <li><a href="http://wria1project.whatcomcounty.org/">Whatcom LIO</a> (<a href="http://wria1project.whatcomcounty.org/">WRIA 1 Policy Boards</a>)</li>
+	 <li><a href="http://www.islandcountyeh.org/Page/237">Island LIO</a></li>
+	 <li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization"> Snohomish/Stillaguamish LIO </a></li>
+      </ul>
+<h2>2-year Recovery Planning</h2>
+<p>LIOs are currently working to identify local near-term ecosystem recovery priorities through the development of 2-year recovery plans. These plans mirror and contribute to development of the 2016 Puget Sound Action Agenda, describing how LIO actions are helping to achieve regional progress on the Action Agenda’s 22 Vital Signs. <a href="LIO-2-year-plan.php">LEARN MORE</a></p>		
+<h2>5-year Recovery Planning</h2>
+<p>Between now and September 2016, LIOs are also working to build local, long-term recovery strategies from which high-priority recovery actions can be developed. Similar to the 2-year plans, these 5-year plans will mirror and contribute to Puget Sound Action Agenda updates and explain how LIOs are helping to advance regional progress on the Action Agenda’s 22 Vital Signs. <a href="LIO-5-year-plan.php">LEARN MORE </a></p>
 
-		<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
@@ -96,7 +101,7 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
+						<li role="presentation"><a href="#">Links to Action Agenda Resources go here</a></li>
 				
 						<!-- InstanceEndEditable -->
 					</ul>

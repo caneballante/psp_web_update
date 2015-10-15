@@ -70,12 +70,14 @@
 			<p> The Recovery Plan is organized with a Regional Chapter (Volume I) and Fourteen Watershed-Specific Chapters and a Nearshore Chapter (Volume II). The Plan includes strategies and actions associated with marine and freshwater habitat protection and restoration, hatchery management, and harvest management.</p>
 			<p><a href="downloads/SALMON_RECOVERY/VOL_I/16_VOLUME_I_PUGETS_SOUND_SALMON_RECOVERY_PLAN.zip">Download Puget Sound Salmon Recovery Plan (Volume I)</a></p>
 			<h3>What are the Watersheds? </h3>
+			<!-- map image with modal pop up to enlarge -->
 			<a href="javascript:void(0);" title="Puget Sound Map - enlarge" data-toggle="modal" data-target="#PSmap"> <img src="images/PS_salmonrecovery.jpg" alt="Map of Puget Sound Watersheds" width="500" height="489"/> </a>
 			<div class="modal fade" id="PSmap" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 				<div class="modal-dialog" role="document">
 					<div class="modal-content"> <img src="images/PS_salmonrecovery.jpg" class="img-responsive"  alt=""/> </div>
 				</div>
 			</div>
+			<!-- END map image with modal pop up to enlarge -->
 			<table class="table">
 				<tr>
 					<td class="tableheader">Watershed</td>

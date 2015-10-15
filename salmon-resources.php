@@ -224,8 +224,7 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="#">LINKS</a></li>
-					<li role="presentation"> <a href="#">LINKS</a></li>
+						<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
 				
 						<!-- InstanceEndEditable -->
 					</ul>
