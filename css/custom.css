@@ -36,6 +36,10 @@ a {
 	color: #036B93;
 	font-size: 12px
 }
+/*created this to make some email addresses smaller to fit in a table on the lead entities page*/
+.small-links {
+	font-size: 12px !important;
+}
 
 #myModal a {
 	color: #1590cd;
@@ -221,6 +225,7 @@ p {
 	width:100%;
 	height:auto;
 }
+
 /*was used for now on top of the left nav. can be DELETED IN THE NEXT COUPLE DAYS IF I DON'T GO BACK TO USING IT*/
 .border-top-grey {
 	border-top: solid 2px #eeeeee;	

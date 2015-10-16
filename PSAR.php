@@ -58,8 +58,8 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="PSAR.php">PSAR FUND</a></li>
-				<li role="presentation"> <a href="PUGET-SOUND-FUNDING-PROGRAMS.php">PUGET SOUND FUNDING PROGRAMS</a></li>
+				<li role="presentation"> <a href="funding-programs.php">Puget Sound Funding Programs</a></li>
+				<li class="active" role="presentation"> <a href="PSAR.php">Puget Sound Recovery and Acquisition Fund (PSAR)</a></li>
 		
 			<!-- InstanceEndEditable --> 
 			</ul>
