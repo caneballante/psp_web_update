@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SCIENCE BASIS OF RECOVERY</h1>
+			<h1>SCIENCE BAsed decision making</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -54,12 +54,12 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
+				<li role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
 				<li role="presentation"> <a href="science-strategic-science-plan.php">STRATEGIC SCIENCE PLAN</a></li>
 				<li role="presentation"> <a href="science-biennial-science-workplan.php">BIENNIAL SCIENCE WORKPLAN</a></li>
 				<li role="presentation"> <a href="science-adaptive-management-framework.php">ADAPTIVE MANAGEMENT FRAMEWORK</a></li>
 				<li role="presentation"> <a href="science-open-standards.php">OPEN STANDARDS</a></li>
-				<li role="presentation"> <a href="science-based-decision-making.php">SCIENCE-BASED DECISION-MAKING</a></li>
+				<li class="active" role="presentation"> <a href="science-based-decision-making.php">SCIENCE-BASED DECISION-MAKING</a></li>
 				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">PUGET SOUND PRESSURE ASSESSMENT</a></li>
 			<!-- InstanceEndEditable --> 
 			</ul>
@@ -69,19 +69,10 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<p>Scientific advice and review, scientific synthesis, and strategic investments in research, modeling, and monitoring contribute to the science basis for Puget Sound ecosystem recovery.</p>
-			<p>The Puget Sound Partnership’s approach to strategic science planning, adaptive management, and decision support are introduced through several tools and guiding documents:</p>
-			<ul>
-				<li>Strategic Science Plan</li>
-				<li>Biennial Science Work Plan</li>
-				<li>Adaptive Management Framework</li>
-				<li>Open Standards</li>
-				<li>Science-based decisionmaking</li>
-				<li>Puget Sound Pressures Assessment:</li>
-			</ul>
-		<p>	While the Puget Sound Partnership Science Panel and Science & Evaluation Program coordinate the science-based recovery of the Puget Sound ecosystem, scientific contributions come from many individuals and institutions across all sectors. In 2009 and 2010, the Partnership commissioned scientists to prepare the peer-reviewed Puget Sound Science Review, a synthesis now presented as a key feature of the Encyclopedia of Puget Sound.</p>
-			
-		</p>
+		<p>Decision analysis and structured decision making are scientific approaches that support ecosystem recovery by helping decision makers to identify and select among alternative actions or strategic approaches.  </p>
+		<p>Consistent with the Open Standards for the Practice of Conservation, the Puget Sound Partnership has used some tools from structured decisionmaking to guide recovery planning (such as the selection of Vital Sign indicators and setting of targets).   </p>
+		<p>The Partnership has used other decision analysis approaches to provide objective ratings of Action Agenda sub-strategies, proposals for state funding, and pressures on the ecosystem. Some of the factors included in Partnership decision analyses include the potential ecological impact of actions, geographic scope and severity of pressures, feasibility of actions, irreversibility of stresses and resilience of ecosystems. These objective ratings are then considered by decisionmakers to select items to include in a recovery plan or in a budget proposal.</p>
+</p>
 		<!-- InstanceEndEditable -->
 		</div>
 	
@@ -92,11 +83,11 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
-					<li role="presentation"> <a href="#">Evaluating Health</a></li>
-					<li role="presentation"> <a href="#">Evaluating Actions</a></li>
+					<li role="presentation"> <a href="SP_about.php">Adaptive Management Framework</a></li>
 					<li role="presentation"> <a href="#">Action Agenda</a></li>
-					<li role="presentation"> <a href="#">State of the Sound</a></li>
+					<li role="presentation"> <a href="#">Open Standards</a></li>
+					<li role="presentation"> <a href="#">Vital Signs</a></li>
+					<li role="presentation"> <a href="#">Puget Sound Pressure Assessment</a></li>
 					
 						<!-- InstanceEndEditable -->
 					</ul>
@@ -106,7 +97,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.eopugetsound.org/" target="new">Encyclopedia of Puget Sound</a></li>
+					<li class="active" role="presentation"> <a href="http://www.structuredecisionmaking.org/" target="new">Structuredecisionmaking.org</a></li>
+					<li class="active" role="presentation"> <a href="http://www.conservationmeasures.org/" target="new">Conservationmeasures.org</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -115,8 +107,7 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="#">Adaptive Management Framework</a></li>
-					<li role="presentation"> <a href="#">Guidelines for Review</a></li>
+				
 	
 						<!-- InstanceEndEditable -->
 					</ul>

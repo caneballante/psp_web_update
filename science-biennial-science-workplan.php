@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SCIENCE BASIS OF RECOVERY</h1>
+			<h1>biennial science workplan</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -54,9 +54,9 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
+				<li role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
 				<li role="presentation"> <a href="science-strategic-science-plan.php">STRATEGIC SCIENCE PLAN</a></li>
-				<li role="presentation"> <a href="science-biennial-science-workplan.php">BIENNIAL SCIENCE WORKPLAN</a></li>
+				<li class="active" role="presentation"> <a href="science-biennial-science-workplan.php">BIENNIAL SCIENCE WORKPLAN</a></li>
 				<li role="presentation"> <a href="science-adaptive-management-framework.php">ADAPTIVE MANAGEMENT FRAMEWORK</a></li>
 				<li role="presentation"> <a href="science-open-standards.php">OPEN STANDARDS</a></li>
 				<li role="presentation"> <a href="science-based-decision-making.php">SCIENCE-BASED DECISION-MAKING</a></li>
@@ -69,19 +69,23 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<p>Scientific advice and review, scientific synthesis, and strategic investments in research, modeling, and monitoring contribute to the science basis for Puget Sound ecosystem recovery.</p>
-			<p>The Puget Sound Partnership’s approach to strategic science planning, adaptive management, and decision support are introduced through several tools and guiding documents:</p>
-			<ul>
-				<li>Strategic Science Plan</li>
-				<li>Biennial Science Work Plan</li>
-				<li>Adaptive Management Framework</li>
-				<li>Open Standards</li>
-				<li>Science-based decisionmaking</li>
-				<li>Puget Sound Pressures Assessment:</li>
-			</ul>
-		<p>	While the Puget Sound Partnership Science Panel and Science & Evaluation Program coordinate the science-based recovery of the Puget Sound ecosystem, scientific contributions come from many individuals and institutions across all sectors. In 2009 and 2010, the Partnership commissioned scientists to prepare the peer-reviewed Puget Sound Science Review, a synthesis now presented as a key feature of the Encyclopedia of Puget Sound.</p>
-			
+		 <h1>Science Panel - 2014-16 Biennial Science Work Plan </h1><br /><br />
+			<p>
+					<a href="downloads/SCIENCE/2014-16_BSWP_Final_10Dec_2014.pdf">Biennial Science Work Plan For 2014-2016:</a><br />
+An Assessment Of Priority Science For
+Restoring And Protecting Puget Sound,
+With Research Priority Recommendations
+For The Next Biennium</p>
+	
+	  <h3>&nbsp;</h3>
+  				<h2>Related Documents:</h2>
+					<p><strong><a href="downloads/APPROVED_BSWPApril2012.pdf">2012 Biennal Work Plan </a>(</strong>PDF)<br />
+							<br />
+       					<a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1021&amp;Itemid=238">Approved Leadership Council Resolution for the Biennal Work Plan, April 26, 2012</a> (PDF) 					
+  				<p><strong><a href="downloads/ACTION_AGENDA_2008/BSWP_1Dec2008_as_submitted.pdf">2008 Biennal Work Plan </a>(</strong>PDF)<br />
 		</p>
+<a href="downloads/SP2009/IndicatorSummaryReport(Final)120108.doc">Environmental Indicators for the Puget Sound Partnership: A Regional Effort to Select Provisional Indicators (Phase 1) Summary Report (WORD)</a><br />
+  		<a href="downloads/SP2009/IndicatorEvaluationSpreadsheet091308.xls">Indicator Evaluation Spreadsheet (EXCEL)</a>
 		<!-- InstanceEndEditable -->
 		</div>
 	
@@ -92,12 +96,7 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
-					<li role="presentation"> <a href="#">Evaluating Health</a></li>
-					<li role="presentation"> <a href="#">Evaluating Actions</a></li>
-					<li role="presentation"> <a href="#">Action Agenda</a></li>
-					<li role="presentation"> <a href="#">State of the Sound</a></li>
-					
+					<li role="presentation"> <a href="SP_about.php">xxxx</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -106,7 +105,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.eopugetsound.org/" target="new">Encyclopedia of Puget Sound</a></li>
+					<li class="active" role="presentation"> <a href="http://www.conservationmeasures.org/" target="new">xxx</a></li>
+
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -115,9 +115,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="#">Adaptive Management Framework</a></li>
-					<li role="presentation"> <a href="#">Guidelines for Review</a></li>
-	
+					<li><a href="#">xxx</a></li>
+					<li><a href="#">xxx</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

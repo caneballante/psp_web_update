@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SCIENCE BASIS OF RECOVERY</h1>
+			<h1>ADAPTIVE MANAGEMENT FRAMEWORK</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -54,10 +54,10 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
+				<li role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
 				<li role="presentation"> <a href="science-strategic-science-plan.php">STRATEGIC SCIENCE PLAN</a></li>
 				<li role="presentation"> <a href="science-biennial-science-workplan.php">BIENNIAL SCIENCE WORKPLAN</a></li>
-				<li role="presentation"> <a href="science-adaptive-management-framework.php">ADAPTIVE MANAGEMENT FRAMEWORK</a></li>
+				<li class="active" role="presentation"> <a href="science-adaptive-management-framework.php">ADAPTIVE MANAGEMENT FRAMEWORK</a></li>
 				<li role="presentation"> <a href="science-open-standards.php">OPEN STANDARDS</a></li>
 				<li role="presentation"> <a href="science-based-decision-making.php">SCIENCE-BASED DECISION-MAKING</a></li>
 				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">PUGET SOUND PRESSURE ASSESSMENT</a></li>
@@ -69,19 +69,10 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<p>Scientific advice and review, scientific synthesis, and strategic investments in research, modeling, and monitoring contribute to the science basis for Puget Sound ecosystem recovery.</p>
-			<p>The Puget Sound Partnership’s approach to strategic science planning, adaptive management, and decision support are introduced through several tools and guiding documents:</p>
-			<ul>
-				<li>Strategic Science Plan</li>
-				<li>Biennial Science Work Plan</li>
-				<li>Adaptive Management Framework</li>
-				<li>Open Standards</li>
-				<li>Science-based decisionmaking</li>
-				<li>Puget Sound Pressures Assessment:</li>
-			</ul>
-		<p>	While the Puget Sound Partnership Science Panel and Science & Evaluation Program coordinate the science-based recovery of the Puget Sound ecosystem, scientific contributions come from many individuals and institutions across all sectors. In 2009 and 2010, the Partnership commissioned scientists to prepare the peer-reviewed Puget Sound Science Review, a synthesis now presented as a key feature of the Encyclopedia of Puget Sound.</p>
-			
-		</p>
+		<p>***text pulled from introduction in the AM document - jon b***		</p>
+		<p>NEED THINK THROUGH ANY DESIGN ISSUES FOR PAGES THAT PROVIDE A DIRECT LINK TO DOWNLOAD A DOCUMENT.</p>
+		<p>After decades of degradation, concerted efforts are being made to recover the Puget Soundecosystem. Ecosystem recovery is an aspiration and a responsibility shared by state andfederal government agencies, cities and counties, tribes, business and private sector interestgroups, non-governmental organizations and citizens (PSP 2012, p. 292). Because each has itsown mandate, authority, and interests relating to ecosystem recovery and long-term protection,such institutional complexity presents challenges for effective alignment of strategies andactions intended to achieve recovery. Initiatives that have successfully delivered &ldquo;collectiveimpact&rdquo; through the efforts of multiple implementing entities have benefited from the presenceand leadership of a coordinating organization (Kania and Kramer 2011). The Puget SoundPartnership (PSP) was created to fill this coordinating role, and tasked with designing therecovery strategy, overseeing its implementation, and monitoring its progress (PSP 2012).    Faced with profound uncertainties about how this complex social-ecological system responds tostresses and to management interventions and an assignment (in state statute at RCW90.71.200) to oversee ecosystem recovery by 2020, PSP is employing an adaptive approach toecosystem recovery. This document describes PSP&rsquo;s approach to adaptive management -- tobe applied by PSP and by implementing entities – to improve the practice of science-basedrecovery of the Puget Sound ecosystem.</p>
+
 		<!-- InstanceEndEditable -->
 		</div>
 	
@@ -92,12 +83,7 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
-					<li role="presentation"> <a href="#">Evaluating Health</a></li>
-					<li role="presentation"> <a href="#">Evaluating Actions</a></li>
-					<li role="presentation"> <a href="#">Action Agenda</a></li>
-					<li role="presentation"> <a href="#">State of the Sound</a></li>
-					
+					<li role="presentation"> <a href="SP_about.php">xxx</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -106,7 +92,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.eopugetsound.org/" target="new">Encyclopedia of Puget Sound</a></li>
+					<li class="active" role="presentation"> <a href="http://www.conservationmeasures.org/" target="new">xxx</a></li>
+
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -115,9 +102,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="#">Adaptive Management Framework</a></li>
-					<li role="presentation"> <a href="#">Guidelines for Review</a></li>
-	
+					<li><a href="#">xxx</a></li>
+					<li><a href="#">xxx</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

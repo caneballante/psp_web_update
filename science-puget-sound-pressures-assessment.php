@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SCIENCE BASIS OF RECOVERY</h1>
+			<h1>Puget sound pressures assessment</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -54,13 +54,13 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
+				<li role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
 				<li role="presentation"> <a href="science-strategic-science-plan.php">STRATEGIC SCIENCE PLAN</a></li>
 				<li role="presentation"> <a href="science-biennial-science-workplan.php">BIENNIAL SCIENCE WORKPLAN</a></li>
 				<li role="presentation"> <a href="science-adaptive-management-framework.php">ADAPTIVE MANAGEMENT FRAMEWORK</a></li>
 				<li role="presentation"> <a href="science-open-standards.php">OPEN STANDARDS</a></li>
 				<li role="presentation"> <a href="science-based-decision-making.php">SCIENCE-BASED DECISION-MAKING</a></li>
-				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+				<li class="active" role="presentation"> <a href="science-puget-sound-pressures-assessment.php">PUGET SOUND PRESSURE ASSESSMENT</a></li>
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -69,19 +69,13 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<p>Scientific advice and review, scientific synthesis, and strategic investments in research, modeling, and monitoring contribute to the science basis for Puget Sound ecosystem recovery.</p>
-			<p>The Puget Sound Partnership’s approach to strategic science planning, adaptive management, and decision support are introduced through several tools and guiding documents:</p>
-			<ul>
-				<li>Strategic Science Plan</li>
-				<li>Biennial Science Work Plan</li>
-				<li>Adaptive Management Framework</li>
-				<li>Open Standards</li>
-				<li>Science-based decisionmaking</li>
-				<li>Puget Sound Pressures Assessment:</li>
-			</ul>
-		<p>	While the Puget Sound Partnership Science Panel and Science & Evaluation Program coordinate the science-based recovery of the Puget Sound ecosystem, scientific contributions come from many individuals and institutions across all sectors. In 2009 and 2010, the Partnership commissioned scientists to prepare the peer-reviewed Puget Sound Science Review, a synthesis now presented as a key feature of the Encyclopedia of Puget Sound.</p>
-			
-		</p>
+		<p>The Puget Sound Pressures Assessment, or PSPA, offers a tool to better understand the pressures on the Sound&rsquo;s freshwater, marine-nearshore, and terrestrial resources. It also helps us to identify the critical ecosystem vulnerabilities that should be addressed if we are to achieve sustainable, long-term protection and recovery.<br>
+			<br>
+To support shared learning and collaboration among partners and across projects, the Partnership has developed two taxonomies describing the <u>sources of pressure </u>and related <u>stressors</u> on the Puget Sound ecosystem. </p>
+		<p>In 2014 the Puget Sound Partnership finished the first PSPA evaluation. The 2014 PSPA involved a systematic, expert-based evaluation of the potential effects of stressors identified in the PSPA on identified ecosystem endpoints, such as habitats, species, or ecological processes. </p>
+		<p>Results and more information are available at the project web site: &nbsp; <a href="https://sites.google.com/site/pressureassessment/home">https://sites.google.com/site/pressureassessment/home</a></p>
+<p>&nbsp;</p>
+</p>
 		<!-- InstanceEndEditable -->
 		</div>
 	
@@ -92,12 +86,7 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
-					<li role="presentation"> <a href="#">Evaluating Health</a></li>
-					<li role="presentation"> <a href="#">Evaluating Actions</a></li>
-					<li role="presentation"> <a href="#">Action Agenda</a></li>
-					<li role="presentation"> <a href="#">State of the Sound</a></li>
-					
+					<li role="presentation"> <a href="SP_about.php">Open Standards</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -106,7 +95,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.eopugetsound.org/" target="new">Encyclopedia of Puget Sound</a></li>
+					<li class="active" role="presentation"> <a href="http://www.conservationmeasures.org/" target="new">Conservation Measures Partnership</a></li>
+
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -115,9 +105,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="#">Adaptive Management Framework</a></li>
-					<li role="presentation"> <a href="#">Guidelines for Review</a></li>
-	
+					<li><a href="#">2014 PSPA Final Report</a></li>
+					<li><a href="#">2014 PSPA Methodology Tech Memo</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

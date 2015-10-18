@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SCIENCE BASIS OF RECOVERY</h1>
+			<h1>Strategic science plan</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -54,8 +54,8 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
-				<li role="presentation"> <a href="science-strategic-science-plan.php">STRATEGIC SCIENCE PLAN</a></li>
+				<li role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
+				<li class="active" role="presentation"> <a href="science-strategic-science-plan.php">STRATEGIC SCIENCE PLAN</a></li>
 				<li role="presentation"> <a href="science-biennial-science-workplan.php">BIENNIAL SCIENCE WORKPLAN</a></li>
 				<li role="presentation"> <a href="science-adaptive-management-framework.php">ADAPTIVE MANAGEMENT FRAMEWORK</a></li>
 				<li role="presentation"> <a href="science-open-standards.php">OPEN STANDARDS</a></li>
@@ -69,19 +69,22 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<p>Scientific advice and review, scientific synthesis, and strategic investments in research, modeling, and monitoring contribute to the science basis for Puget Sound ecosystem recovery.</p>
-			<p>The Puget Sound Partnership’s approach to strategic science planning, adaptive management, and decision support are introduced through several tools and guiding documents:</p>
-			<ul>
-				<li>Strategic Science Plan</li>
-				<li>Biennial Science Work Plan</li>
-				<li>Adaptive Management Framework</li>
-				<li>Open Standards</li>
-				<li>Science-based decisionmaking</li>
-				<li>Puget Sound Pressures Assessment:</li>
-			</ul>
-		<p>	While the Puget Sound Partnership Science Panel and Science & Evaluation Program coordinate the science-based recovery of the Puget Sound ecosystem, scientific contributions come from many individuals and institutions across all sectors. In 2009 and 2010, the Partnership commissioned scientists to prepare the peer-reviewed Puget Sound Science Review, a synthesis now presented as a key feature of the Encyclopedia of Puget Sound.</p>
-			
-		</p>
+		    <p><a href="downloads/SCIENCE/strategicscience_09_02_10.pdf"><img src="images/STRATEGICSCIENCE.gif" alt="Download the Strategic Science Plan" width="342" height="41" border="0" /></a></p>
+    <p>The Puget Sound Partnership Strategic Science Plan provides the overall framework for development and coordination of specific science activities necessary to support Puget Sound ecosystem protection and restoration under the Partnership&rsquo;s Action Agenda. </p>
+	<p><a href="http://www.psp.wa.gov/downloads/SCIENCE/strategicscience_09_02_10.pdf">Download the Strategic Science Plan</a></p>
+	<p>The Strategic Science Plan is a high-level living document to be revised as needed. Specific implementation of science work is guided by the Partnership&rsquo;s  <a href="http://www.psp.wa.gov/SP_biennium_work_plan_download.php">Biennial Science Work Plan</a>. </p>
+	<p>Primary audiences for the Strategic Science Plan include the Science Panel, Partnership staff, Partnership leadership boards, Puget Sound region science program managers, Puget Sound science community, and the public. </p>
+	<p>In the Strategic Science Plan, the Science Panel recommends a strategic science program that includes the following elements:</p>
+	<ul>
+			<li>A clear understanding by the Partnership about critical roles for science within an adaptive management framework and performance management system.</li>
+			<li>A means to support ongoing two-way engagement between science and policy participants to continually identify and prioritize information needs as the work proceeds.</li>
+			<li>Development of specific science capacities to assure that the program&rsquo;s science capabilities are responsive to identified needs including monitoring, modeling, data management and research. </li>
+			<li>Synthesis and communication of relevant scientific information to the right people at the right times to support protection and restoration outcomes. </li>
+			<li>Periodic peer review of science activities at both the project and programmatic levels, with responsive modifications to the science program as needed.</li>
+			<li>Education and outreach to build public awareness of the value and roles of science, to foster consensus around what we know, and to support learning about science and about Puget Sound. </li>
+	</ul>
+	<p>&nbsp;</p>
+	<p>The Science Panel reviewed the Strategic Science Plan in Spring 2013 and elected to continue to using the 2010 version as the high-level guide for the program </p>
 		<!-- InstanceEndEditable -->
 		</div>
 	
@@ -92,12 +95,7 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
-					<li role="presentation"> <a href="#">Evaluating Health</a></li>
-					<li role="presentation"> <a href="#">Evaluating Actions</a></li>
-					<li role="presentation"> <a href="#">Action Agenda</a></li>
-					<li role="presentation"> <a href="#">State of the Sound</a></li>
-					
+					<li role="presentation"> <a href="SP_about.php">xxx</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -106,7 +104,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.eopugetsound.org/" target="new">Encyclopedia of Puget Sound</a></li>
+					<li class="active" role="presentation"> <a href="http://www.conservationmeasures.org/" target="new">xxx</a></li>
+
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -115,9 +114,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="#">Adaptive Management Framework</a></li>
-					<li role="presentation"> <a href="#">Guidelines for Review</a></li>
-	
+					<li><a href="#">xxx</a></li>
+					<li><a href="#">xxx</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

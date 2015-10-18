@@ -53,12 +53,18 @@
 	
 		<div class="col-md-10 padding-20-top padding-0-left content-column">
 		<!-- InstanceBeginEditable name="9col_content" -->
-			<p>THESE MULTI LAYERED OVERVIEWS PROBABLY CAN ALL GO ON THE SAME PAGE INSTEAD OF BEING SEVERAL DIFFERENT PAGES. YOU'VE GOT OVERVIEWS OF YOUR OVERVIEWS.</p>
-			<h2>EVALUATING RECOVERY OVERVIEW</h2>
-			<p>In mauris nulla, venenatis in eleifend a, dictum ac erat. Proin hendrerit eros nec diam dapibus, in blandit felis mattis. Mauris quis congue sem, vitae tincidunt elit. Nulla facilisi. Etiam nisi mi, laoreet ut rhoncu Duis cursus elit elit, sed bibendum arcu lobortis at. Vivamus finibus enim sed lorem ornare, ut aliquam turpis venenatis. Mauris nec blandit velit, ut dapibus libero. Nunc vestibulum eu nisi a hendrerit. Mauris maximus, sapien eu mollis volutpat, sem ante venenatis ipsum, et sollicitudin elit est id ex. Morbi quis consectetur eros, eu tristique mi. Quisque tincidunt id risus vel porta. Praesent sit amet dolor volutpat, sagittis nisi non, porta elit. <span class="bold-link"><a href="evaluating-recovery-overview.php">LEARN MORE</a></span></p>
-		<h2>SCIENCE BASIS OF RECOVERY OVERVIEW</h2>
-			<p>Donec urna ante, posuere ac vehicula eu, volutpat in velit. Sed nec gravida ex. Duis interdum luctus ultrices. Integer euismod magna tortor, at finibus orci pretium congue. Etiam fringilla auctor nisl, et tincidunt ipsum accumsan dignissim. Aliquam consectetur erat at quam euismod viverra. Ut volutpat tellus justo, in luctus massa condimentum nec. In velvolutpat dictum. Phasellus sed tellus sagittis, venenatis elit vitae, egestas ex. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut id urna pulvinar est consectetur molestie. Morbi sollicitudin suscipit ipsum vel sceleri. <span class="bold-link"><a href="science-basis-of-recovery-overview.php">LEARN MORE</a></p>
-			<p>&nbsp;</p>
+			<h2>EVALUATING RECOVERY </h2>
+			<p>Central to the science-based recovery of Puget Sound is the development and use of a shared system of measurement and evaluation that allows assessment of ecosystem health, implementation of recovery actions, and determination of how recovery efforts affect ecosystem conditions. The Puget Sound Partnership coordinates this assessment activity and summarizes it in the State of the Sound report. Coordination and reporting help to hold us accountable to one another, convey the impacts of actions and investments, and provide the information that fuels adaptation of recovery efforts.</p>
+			<div class="padding-50-left"><h2>Evaluating the health of Puget Sound </h2>
+			<p>The Puget Sound Partnership’s goals for ecosystem recovery relate to human wellbeing, species and food webs, habitats, water quantity, and water quality.  </p>
+			<p><em>Are we achieving our goals?  What is occurring in the system that might affect our ability to achieve these goals? Are recovery efforts producing the expected changes in the ecosystem? </em></p> 
+			<p>Efforts to answer these questions and better understand the pressures and other factors that affect recovery are monitored by the Puget Sound Ecosystem Monitoring Program, which is coordinated by the Partnership. Learn more</p>
+			<h2>Evaluating actions to recover Puget Sound </h2>
+			<p><em>Are actions being implemented as planned? Are requested funds provided for projects and activities? Do activities produce their expected products?</em> The Puget Sound Partnership has developed tools and assessment approaches to answer these questions. Learn more </p>
+		<h2>2015 STATE OF THE SOUND</h2>
+			<p>Every 2 years, the Partnership develops reports on the State of the Sound to summarize the findings from ecosystem monitoring program and the progress in implementing the Action Agenda. See the 2015 State of the Sound. <a href="sos.php">Learn more </a></p></div>
+	<h2>SCIENCE BASIS OF RECOVERY</h2>
+			<p>Scientific information guides the region’s work to design and carry out efforts to recover the Puget Sound ecosystem. Scientific processes help us understand how to proceed in the face of profound uncertainties about how the ecosystem responds to stresses and management interventions. The Puget Sound Partnership Science Panel and science & evaluation program provide guidance about how to apply scientific information and processes to foster ecosystem recovery.<a href="science-basis-of-recovery-overview.php"> Learn more</a></p>
 		<!-- InstanceEndEditable -->
 		</div>
 	

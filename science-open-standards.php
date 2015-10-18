@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SCIENCE BASIS OF RECOVERY</h1>
+			<h1>OPEN STANDARDS</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -54,11 +54,11 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
+				<li role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
 				<li role="presentation"> <a href="science-strategic-science-plan.php">STRATEGIC SCIENCE PLAN</a></li>
 				<li role="presentation"> <a href="science-biennial-science-workplan.php">BIENNIAL SCIENCE WORKPLAN</a></li>
 				<li role="presentation"> <a href="science-adaptive-management-framework.php">ADAPTIVE MANAGEMENT FRAMEWORK</a></li>
-				<li role="presentation"> <a href="science-open-standards.php">OPEN STANDARDS</a></li>
+				<li class="active" role="presentation"> <a href="science-open-standards.php">OPEN STANDARDS</a></li>
 				<li role="presentation"> <a href="science-based-decision-making.php">SCIENCE-BASED DECISION-MAKING</a></li>
 				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">PUGET SOUND PRESSURE ASSESSMENT</a></li>
 			<!-- InstanceEndEditable --> 
@@ -69,19 +69,18 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<p>Scientific advice and review, scientific synthesis, and strategic investments in research, modeling, and monitoring contribute to the science basis for Puget Sound ecosystem recovery.</p>
-			<p>The Puget Sound Partnership’s approach to strategic science planning, adaptive management, and decision support are introduced through several tools and guiding documents:</p>
-			<ul>
-				<li>Strategic Science Plan</li>
-				<li>Biennial Science Work Plan</li>
-				<li>Adaptive Management Framework</li>
-				<li>Open Standards</li>
-				<li>Science-based decisionmaking</li>
-				<li>Puget Sound Pressures Assessment:</li>
-			</ul>
-		<p>	While the Puget Sound Partnership Science Panel and Science & Evaluation Program coordinate the science-based recovery of the Puget Sound ecosystem, scientific contributions come from many individuals and institutions across all sectors. In 2009 and 2010, the Partnership commissioned scientists to prepare the peer-reviewed Puget Sound Science Review, a synthesis now presented as a key feature of the Encyclopedia of Puget Sound.</p>
-			
-		</p>
+		<p>Developed by leading experts in natural resource conservation work from around the world, the <em>Open Standards for the Practice of Conservation</em>, or <em>Open Standards,</em> provides a framework for strategic planning, evaluation of progress by using shared measures, and shared learning related to ecosystem recovery. The Partnership works with our many partner organizations in using the <em>Open Standards</em> to improve adaptive management and build an evaluation framework with which to assess progress toward ecosystem recovery. </p>
+		<p>The <em>Open Standards</em> include specific steps for deciding how to: </p>
+		<ul>
+			<li>Represent partner interests in the Puget Sound ecosystem</li>
+			<li>Identify and rate pressures on the system</li>
+			<li>Conduct situation analyses to </li>
+			<li>Describe the recovery context </li>
+			<li>Build conceptual cause-and-effect models of how strategies and actions can address pressures and ecosystem components</li>
+			<li>Identify expected results that form the basis for evaluating progress toward ecosystem recovery</li>
+		</ul>
+<p>Since 2009, the Partnership has used the Open Standards to develop Vital Sign indicators, describe sources of pressure and stressors on Puget Sound ecosystems, describe Chinook salmon recovery efforts and LIO planning priorities, and identify the roadmap for achieving Vital Sign indicator targets through use of Implementation Strategies.</p>
+</p>
 		<!-- InstanceEndEditable -->
 		</div>
 	
@@ -92,12 +91,11 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
-					<li role="presentation"> <a href="#">Evaluating Health</a></li>
-					<li role="presentation"> <a href="#">Evaluating Actions</a></li>
-					<li role="presentation"> <a href="#">Action Agenda</a></li>
-					<li role="presentation"> <a href="#">State of the Sound</a></li>
-					
+					<li role="presentation"> <a href="SP_about.php">Adaptive Management Framework</a></li>
+					<li role="presentation"> <a href="#">Chinook Monitoring &amp; Adaptive Management</a></li>
+					<li role="presentation"> <a href="#">LIO Planning</a></li>
+					<li role="presentation"> <a href="#">Implementation Strategies</a></li>
+		
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -106,7 +104,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.eopugetsound.org/" target="new">Encyclopedia of Puget Sound</a></li>
+					<li class="active" role="presentation"> <a href="http://www.conservationmeasures.org/" target="new">Conservation Measures Partnership</a></li>
+					<li class="active" role="presentation"> <a href="http://cmp-openstandards.org/" target="new">Open Standards for the Practice of Conservation</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -115,8 +114,7 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="#">Adaptive Management Framework</a></li>
-					<li role="presentation"> <a href="#">Guidelines for Review</a></li>
+				<li><a href="#">2009 State of the Sound Focal Ecosystem Components Identification and Rating of Threats</a></li>
 	
 						<!-- InstanceEndEditable -->
 					</ul>
