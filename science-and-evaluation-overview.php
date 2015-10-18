@@ -58,9 +58,9 @@
 			<div class="padding-50-left"><h2>Evaluating the health of Puget Sound </h2>
 			<p>The Puget Sound Partnership’s goals for ecosystem recovery relate to human wellbeing, species and food webs, habitats, water quantity, and water quality.  </p>
 			<p><em>Are we achieving our goals?  What is occurring in the system that might affect our ability to achieve these goals? Are recovery efforts producing the expected changes in the ecosystem? </em></p> 
-			<p>Efforts to answer these questions and better understand the pressures and other factors that affect recovery are monitored by the Puget Sound Ecosystem Monitoring Program, which is coordinated by the Partnership. Learn more</p>
+			<p>Efforts to answer these questions and better understand the pressures and other factors that affect recovery are monitored by the Puget Sound Ecosystem Monitoring Program, which is coordinated by the Partnership. <a href="evaluating-health-of-puget-sound.php">Learn more</a></p>
 			<h2>Evaluating actions to recover Puget Sound </h2>
-			<p><em>Are actions being implemented as planned? Are requested funds provided for projects and activities? Do activities produce their expected products?</em> The Puget Sound Partnership has developed tools and assessment approaches to answer these questions. Learn more </p>
+			<p><em>Are actions being implemented as planned? Are requested funds provided for projects and activities? Do activities produce their expected products?</em> The Puget Sound Partnership has developed tools and assessment approaches to answer these questions. <a href="evaluating-actions-to-recover-puget-sound.php">Learn more</a></p>
 		<h2>2015 STATE OF THE SOUND</h2>
 			<p>Every 2 years, the Partnership develops reports on the State of the Sound to summarize the findings from ecosystem monitoring program and the progress in implementing the Action Agenda. See the 2015 State of the Sound. <a href="sos.php">Learn more </a></p></div>
 	<h2>SCIENCE BASIS OF RECOVERY</h2>

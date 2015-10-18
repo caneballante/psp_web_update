@@ -45,8 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1 class="grey">EVALUATING ACTIONS TO RECOVER <br>
-PUGET SOUND</h1>
+			<h1>PSEMP</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -55,12 +54,12 @@ PUGET SOUND</h1>
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="evaluating-actions-to-recovery-puget-sound.php">EVALUATING ACTIONS TO RECOVER TO RECOVER PUGET SOUND</a></li>
-				<li role="presentation"> <a href="evaluating-about-report-card.php">REPORT CARD</a></li>
-				<li role="presentation"> <a href="evaluating-about-project-atlas.php">PROJECT ATLAS/NEP ATLAS</a></li>
-				<li role="presentation"> <a href="evaluating-public-opinion.php">PUBLIC OPINION RESEARCH</a></li>
-				<li role="presentation"> <a href="evaluating-agency-performance-management.php">AGENCY PERFORMANCE MANAGEMENT</a></li>
-				<li role="presentation"> <a href="evaluating-about-sos.php">STATE OF THE SOUND</a></li>
+				<li role="presentation"> <a href="evaluating-health-of-puget-sound.php">EVALUATING THE HEALTH OF PUGET SOUND</a></li>
+				<li role="presentation"> <a href="evaluating-vital-signs.php">PUGET SOUND VITAL SIGNS</a></li>
+				<li role="presentation"> <a href="evaluating-effective-action.php">EFFECTIVENESS MONITORING</a></li>
+				<li class="active" role="presentation"><a href="evaluating-PSEMP.php">PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP)</a></li>
+				<li role="presentation"> <a href="evaluating-human-wellbeing.php">HUMAN WELLBEING</a></li>
+	
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -69,31 +68,51 @@ PUGET SOUND</h1>
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>INTRO?</p>
-	
-			<h2>REPORT CARD</h2>
-			<p>SHORT TEXT ABOUT THE REPORT CARD - LEARN MORE LINK TO PAGE OR REPORT CARD??? </p>
-			<h2>PROJECT ATLAS/NEP ATLAS</h2>
-			<p>SHORT TEXT ABOUT THE PROJECT ATLAS/NEP ATLAS - LEARN MORE LINK TO PAGE OR PROJECT ATLAS??? </p>
-			<h2>PUBLIC OPINION RESEARCH</h2>
-			<p>SHORT TEXT ABOUT PUBLIC OPINION RESEARCH - LEARN MORE LINK TO PAGE </p>
-			<h2>AGENCY PERFORMANCE MANAGMENT</h2>
-			<p>SHORT TEXT ABOUT AGENCY PERFORMANCE MANAGMENT - LEARN MORE LINK TO PAGE </p>
-			<h2>SOS</h2>
-			<p>SHORT TEXT ABOUT PUBLIC OPINION RESEARCH - LEARN MORE LINK TO PAGE - SHOULD IT BE IN THE LEFT COLUMN</p>
-			<!-- InstanceEndEditable -->
+	<h2 class="margin-0-top">TEXT ABOUT PSEMP AND A LINK?</h2>
+						<p>Evaluating data to determine how well restoration and management actions and programs are working to restore Puget Sound.</p>
+					
+						
+		<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+					<div class="right-nav-title">SEE ALSO</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Links to another page</a></li>
-					<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
-					<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
+					<li role="presentation"> <a href="#">PSEMP Website</a></li>
+					<li role="presentation"> <a href="#">Puget Sound Vital Signs</a></li>
+				
+						<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+					<li class="active" role="presentation"> <a href="#">Eyes Over Puget Sound</a></li>
+					<li role="presentation"> <a href="#">NW Association of Networked Ocean Observing Systems (NANOOS)
+</a></li>
+					<li role="presentation"> <a href="#">WDFW Salmon and Steelhead Inventory</a></li>
+					<li role="presentation"> <a href="#">WA Dept of Ecology – Environmental Assessment Program</a></li>
+					<li role="presentation"> <a href="#">PNAMP</a></li>
+						<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+					<li class="active" role="presentation"> <a href="#">2015 State of the Sound</a></li>
+					<li role="presentation"> <a href="#">Marine Waters Overview Reports</a></li>
+					<li role="presentation"> <a href="#">Encyclopedia of Puget Sound - *****this isn't really a document is it?</a></li>
+					<li role="presentation"> <a href="#">State of the Salmon</a></li>
+					<li role="presentation"> <a href="#">State of the Watersheds</a></li>
+					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

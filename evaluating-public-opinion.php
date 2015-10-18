@@ -45,8 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1 class="grey">EVALUATING ACTIONS TO RECOVER <br>
-PUGET SOUND</h1>
+			<h1 class="grey">PUBLIC OPINION RESEARCH</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -55,10 +54,10 @@ PUGET SOUND</h1>
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="evaluating-actions-to-recovery-puget-sound.php">EVALUATING ACTIONS TO RECOVER TO RECOVER PUGET SOUND</a></li>
+					<li role="presentation"> <a href="evaluating-actions-to-recovery-puget-sound.php">EVALUATING ACTIONS TO RECOVER TO RECOVER PUGET SOUND</a></li>
 				<li role="presentation"> <a href="evaluating-about-report-card.php">REPORT CARD</a></li>
 				<li role="presentation"> <a href="evaluating-about-project-atlas.php">PROJECT ATLAS/NEP ATLAS</a></li>
-				<li role="presentation"> <a href="evaluating-public-opinion.php">PUBLIC OPINION RESEARCH</a></li>
+				<li class="active" role="presentation"> <a href="evaluating-public-opinion.php">PUBLIC OPINION RESEARCH</a></li>
 				<li role="presentation"> <a href="evaluating-agency-performance-management.php">AGENCY PERFORMANCE MANAGEMENT</a></li>
 				<li role="presentation"> <a href="evaluating-about-sos.php">STATE OF THE SOUND</a></li>
 			<!-- InstanceEndEditable --> 
@@ -69,18 +68,18 @@ PUGET SOUND</h1>
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>INTRO?</p>
-	
-			<h2>REPORT CARD</h2>
-			<p>SHORT TEXT ABOUT THE REPORT CARD - LEARN MORE LINK TO PAGE OR REPORT CARD??? </p>
-			<h2>PROJECT ATLAS/NEP ATLAS</h2>
-			<p>SHORT TEXT ABOUT THE PROJECT ATLAS/NEP ATLAS - LEARN MORE LINK TO PAGE OR PROJECT ATLAS??? </p>
-			<h2>PUBLIC OPINION RESEARCH</h2>
-			<p>SHORT TEXT ABOUT PUBLIC OPINION RESEARCH - LEARN MORE LINK TO PAGE </p>
-			<h2>AGENCY PERFORMANCE MANAGMENT</h2>
-			<p>SHORT TEXT ABOUT AGENCY PERFORMANCE MANAGMENT - LEARN MORE LINK TO PAGE </p>
-			<h2>SOS</h2>
-			<p>SHORT TEXT ABOUT PUBLIC OPINION RESEARCH - LEARN MORE LINK TO PAGE - SHOULD IT BE IN THE LEFT COLUMN</p>
+			<p>*** SHOULD WE HAVE SOME KIND OF CONTEXT ABOUT WHAT OUR ROLE IS HERE? CURRENT PAGE JUST HAS LINKS -jon ***</p>
+		 <p><a href="downloads/public opinion survey/2013 Sound Behavior Index Report.pdf">2013 Sound Behavior Index Report</a></p>
+   <p><a href="downloads/public opinion survey/2013 Gen Opinion Survey Report_FINAL.pdf?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2013 General Opinion Survey (PDF)</a> </p>
+   		
+						<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2012 General Opinion Survey (PDF)</a></p>
+						<p><a href="https://www.box.com/s/9b34t0ijy04unm8v27rd">Sound Behavior - Social Capital Index 2012 and supplement</a> </p>
+						<p><a href="downloads/socialbehavior/Sound_Behavior_Index_Summary_3-22-13_kjh.docx">Sound Behavior Index and Social Capital Index summary (PDF)</strong></a></p>
+						<p><a href="downloads/socialbehavior/Developing Indices from Social Capital and Environmental Behavior Survey Data.docx">Developing Indices from Social Capital and Environmental Behavior Survey Data (PDF)</a></p>
+						<p><a href="https://app.box.com/s/3uxspuzivhhwsfzlf6un">Yard Care and Pesticide Practices: Barriers and Motivators Survey Report </a> </p>
+						<p><a href="https://app.box.com/s/nqem9kfz0u15p82rtsyk">Yard Care and Pesticide Use Focus Groups</a></p>
+						<p> <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2313&amp;Itemid=238">Tree Planting Survey Report</a></p>
+						<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2312&amp;Itemid=238"> Tree Planting Focus Group Report</a></p>
 			<!-- InstanceEndEditable -->
 		</div>
 	
