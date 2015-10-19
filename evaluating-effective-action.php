@@ -71,7 +71,7 @@
 			<h2>Fact Sheets and Narrative Summaries </h2>
 			<p>The Action Agenda is the roadmap for recovering Puget Sound and includes three Strategic Initiatives designed to focus recovery efforts. </p>
 			<!-- Strategic Initiative Break -->
-			<table class="table">
+		<table class="table">
 				<tr>
 					<td colspan="2" class="tableheader"><span class="tableheadertext">Strategic Initiative: Restore and re-open shellfish beds</span></td>
 				</tr>

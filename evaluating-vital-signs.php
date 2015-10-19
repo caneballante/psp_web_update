@@ -71,11 +71,7 @@
 			<p>******short text and link to site - is more than what is on the overview / frst link on the left nav? Do we need to have a page for this in the left nav? is the overview link enough? -jon******</p>
 			<h2>PUGET SOUND VITAL SIGNS</h2>
 			<p>To track progress toward recovery goals for Puget Sound, the Partnership chose a specific set of measures called the Puget Sound Vital Signs. The Vital Signs gauge the health of Puget Sound in a way that is scientifically valid and also resonates with the public. Tracking and reporting of Vital Signs is the foundation of the shared measurement system the Partnership relies on to show collective impact.  <a href="www.psp.wa.gov/vitalsigns/">Learn more </a></p>
-			<div>
-				<div>
-					<h2>&nbsp;</h2>
-				</div>
-			</div>
+		
 		<!-- InstanceEndEditable -->
 		</div>
 	
@@ -93,7 +89,7 @@
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">LINKS TO PARTNERS</div>
+					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
@@ -107,7 +103,7 @@
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">RELATED DOCUMENTS</div>
+					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
