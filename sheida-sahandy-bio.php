@@ -69,9 +69,9 @@
 		<!-- InstanceBeginEditable name="6col_content" -->
 		
 		
-		<div>
-		<img class="pull-right" src="images/sahandy_headshot01.jpg" width="110" height="148" alt=""/>
-			<p><strong>Sheida Sahandy, Executive Director</strong><br>
+	
+		<img class="pull-right" src="images/sahandy_headshot01.jpg" width="130" height="148" alt=""/>
+			<p class="margin-0-top"><strong>Sheida Sahandy, Executive Director</strong><br>
 			Puget Sound Partnership</p>
 				<p>Sheida R. Sahandy was appointed by Washington Gov. Jay Inslee in January 2014 as executive director of the Puget Sound Partnership, the state agency leading the recovery of Puget Sound.</p>
 				<p>Previously, Sheida spent eight years as Assistant to the City Manager for the City of Bellevue where she led strategic initiatives and was responsible for creating the City’s first city-wide environmental stewardship initiative. Prior to joining the public service sector, Sheida spent seven years as a corporate attorney.</p>

@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>EMPLOYMENT</h1>
+			<h1>EMPLOYMENT OPPORTUNITIES</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -66,7 +66,25 @@
 			
 	
 		<div class="col-md-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->PRESS RELEASE PAGE<!-- InstanceEndEditable -->
+		<!-- InstanceBeginEditable name="6col_content" -->
+		<h2>Environmental Planner (EMS Band 1) </h2>
+		<p>This position contributes to writing and updating the Action Agenda, one of the major responsibilities of the agency according to statute, and is responsible for implementing the scopes of work and implementation plans for biennial updates of the Action Agenda.<br>
+			<br>
+			The incumbent will be expected to exercise strategic, independent judgment, and represent significant breadth and depth of expertise, directing or contributing to the implementation of policy initiatives including agenda amendments, establishment of interim milestones, and integration of work with local jurisdictions and groups contributing to Puget Sound recovery. The position actively represents the agency in external venues and functions to influence the work of our partners, expand constituencies, and elicit input on agency priorities, policies and programs. Responsibilities include:<br>
+		</p>
+		<ul>
+			<li>Coordinating the adaptation of the Action Agenda and other significant planning responsibilities of the agency;</li>
+			<li>Budget administration and performance management of assigned project teams, programs and contractors; </li>
+			<li>Tracking and evaluating proposed amendments to the Action Agenda in collaboration with Performance Management; </li>
+			<li>Cataloging and evaluating changes and improvements to the Action Agenda identified by agency councils, boards, panels and other federal, state, tribal and local partners;</li>
+			<li>Working with a diverse range of stakeholders to garner regional participation, ensuring effective implementation and advance targeted outcomes; </li>
+			<li>Developing and informing agency policies on a range of internal and external issues – including regional strategies, resource allocation, tactical programs, and agency positions; and, </li>
+			<li>Maintaining a communication conduit with respective staff, partners and stakeholders.</li>
+		</ul>
+		<p><a href="http://agency.governmentjobs.com/washington/default.cfm?action=viewJob&jobID=1181911&hit_count=yes&headerFooter=1&promo=0&transfer=0&WDDXJobSearchParams=<wddxPacket version='1.0'><header/><data><struct><var name='CATEGORYID'><string>-1</string></var><var name='PROMOTIONALJOBS'><string>0</string></var><var name='TRANSFER'><string>0</string></var><var name='FIND_KEYWORD'><string>puget sound partnership</string></var></struct></data></wddxPacket>" title="link to job description on careers.wa.gov" target="new">To learn more or apply for this job visit careers.wa.gov</a></p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
@@ -76,9 +94,9 @@
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Organizational chart</a></li>
+				<li role="presentation"> <a href="http://agency.governmentjobs.com/washington/default.cfm" target="new">careers.wa.gov</a></li>
 			
-				<li role="presentation"> <a href="#">Director Bio</a></li>
+				
 				<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

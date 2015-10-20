@@ -287,9 +287,9 @@
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Organizational chart</a></li>
+				<li role="presentation"> <a href="https://app.box.com/s/y0hbuwufc0bwiev42qg6zkk577n8exnw">Organizational Chart</a></li>
 			
-				<li role="presentation"> <a href="#">Director Bio</a></li>
+				<li role="presentation"> <a href="sheida-sahandy-bio.php">Director Bio</a></li>
 				<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
