@@ -54,9 +54,9 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-					<li role="presentation"> <a href="evaluating-actions-to-recovery-puget-sound.php">EVALUATING ACTIONS TO RECOVER TO RECOVER PUGET SOUND</a></li>
+					<li role="presentation"> <a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING ACTIONS TO RECOVER TO RECOVER PUGET SOUND</a></li>
 				<li role="presentation"> <a href="evaluating-about-report-card.php">REPORT CARD</a></li>
-				<li class="active" role="presentation"> <a href="evaluating-about-project-atlas.php">PROJECT ATLAS/NEP ATLAS</a></li>
+				<li class ="active" role="presentation"> <a href="evaluating-about-project-atlas.php">PROJECT ATLAS</a></li><li role="presentation"> <a href="evaluating-about-NEP-atlas.php">NEP ATLAS</a></li>
 				<li role="presentation"> <a href="evaluating-public-opinion.php">PUBLIC OPINION RESEARCH</a></li>
 				<li role="presentation"> <a href="evaluating-agency-performance-management.php">AGENCY PERFORMANCE MANAGEMENT</a></li>
 				<li role="presentation"> <a href="evaluating-about-sos.php">STATE OF THE SOUND</a></li>
