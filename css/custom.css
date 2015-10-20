@@ -225,7 +225,10 @@ p {
 	width:100%;
 	height:auto;
 }
-
+.search-width{
+	width:400px;
+	margin:auto;
+}
 /*was used for now on top of the left nav. can be DELETED IN THE NEXT COUPLE DAYS IF I DON'T GO BACK TO USING IT*/
 .border-top-grey {
 	border-top: solid 2px #eeeeee;	
@@ -338,10 +341,24 @@ intro .brand-heading {
 	letter-spacing:2px;
 	line-height:30px;
 }
+/*the search text turns white from modal-body-custom I turn it black here*/
+.search-custom {
+	color:#000;
+	text-align:left;
+	width:60%;
+	margin:auto;
+}
+/*search bar is too skinny on the phone*/
+@media (max-width: 768px){
+.search-custom {
+	width:90%;
+}
+}
 /*the little x button to dismiss the dialog needs to be white*/
 .close-custom {
 	color:#ffffff;
 }
+
 /*Makes the modal main menu fullscreen on anything over 768*/
 @media (min-width: 768px){
 .modal-dialog-custom {
@@ -385,6 +402,18 @@ intro .brand-heading {
 }
 .overview-page-image10 {
 	 background: url(../images/inside_image_10.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image11 {
+	 background: url(../images/inside_image_11.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image12 {
+	 background: url(../images/inside_image_12.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image13 {
+	 background: url(../images/inside_image_13.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image14 {
+	 background: url(../images/inside_image_14.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image-style {
     width: 100%;

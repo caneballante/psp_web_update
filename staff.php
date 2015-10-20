@@ -39,7 +39,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image1"> </header>
+<header class="overview-page-image-style overview-page-image12"> </header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
@@ -54,12 +54,11 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="#">PARTNERSHIP STAFF</a></li>
-				<li role="presentation"> <a href="#">PRESS RELEASES</a></li>
-				<li role="presentation"> <a href="#">EMPLOYMENT OPPORTUNITIES</a></li>
-				<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
-				<li role="presentation"> <a href="#">PROGRAM DESCRIPTIONS</a></li>
-				<li role="presentation"> <a href="#">CONTACT US</a></li>
+				<li class="active" role="presentation"> <a href="staff.php">PARTNERSHIP STAFF</a></li>
+				<li role="presentation"> <a href="press.php">PRESS RELEASES</a></li>
+				<li role="presentation"> <a href="employment.php">EMPLOYMENT OPPORTUNITIES</a></li>
+				<li role="presentation"> <a href="programs.php">PROGRAM DESCRIPTIONS</a></li>
+				<li role="presentation"> <a href="contact.php">CONTACT US</a></li>
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -289,7 +288,7 @@
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="#">Organizational chart</a></li>
-				<li role="presentation"> <a href="#">Program Descriptions</a></li>
+			
 				<li role="presentation"> <a href="#">Director Bio</a></li>
 				<!-- InstanceEndEditable -->
 					</ul>

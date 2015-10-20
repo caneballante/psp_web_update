@@ -61,6 +61,7 @@
 				<li role="presentation"> <a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS (LIO)</a></li>
 				<li class="active" role="presentation"> <a href="LIO-2-year-plan.php">LIO 2-YEAR RECOVERY PLANS</a></li>
 				<li role="presentation"> <a href="LIO-5-year-plan.php">LIO 5-YEAR RECOVERY PLANS</a></li>
+				<li role="presentation"> <a href="econet.php">ECOnet</a></li>
 			<!-- InstanceEndEditable --> 
 			</ul>
 		

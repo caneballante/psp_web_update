@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Puget Sound Partnership - Draft Home Page</title>
+<!-- InstanceEndEditable -->
+<!-- Bootstrap -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/custom.css" rel="stylesheet" type="text/css">
+<link href="css/custom-erika.css" rel="stylesheet" type="text/css">
+
+
+<!-- loads the wf-loading class right away to minimize FOUT -->
+<script>document.documentElement.className += ' wf-loading';</script>
+<!-- Font PRENTON TYPEKIT -->
+<script src="https://use.typekit.net/srt5jze.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+</head>
+<body>
+<?php include 'includes/modal-inc.html';?>
+<!-- START IMAGE HEADER --> 
+ <!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style overview-page-image9">
+
+<div class="overview-quote pull-right"><h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3></div>
+
+ </header>
+<!-- InstanceEndEditable -->  
+<div class="container page-content">
+	<div class="row">
+		<div class="col-md-3 padding-20-top"></div>
+		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+			<h1>Local integrating organizations (LIO)</h1>
+			<!-- InstanceEndEditable --></div>
+		<div class="col-md-2 padding-20-top"></div>
+	</div>
+	
+	<div class="row"> 
+		<div class="col-md-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+			<!-- InstanceBeginEditable name="left_nav" -->
+				<li role="presentation"> <a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS (LIO)</a></li>
+				<li role="presentation"> <a href="LIO-2-year-plan.php">LIO 2-YEAR RECOVERY PLANS</a></li>
+				<li role="presentation"> <a href="LIO-5-year-plan.php">LIO 5-YEAR RECOVERY PLANS</a></li>
+				<li class="active" role="presentation"> <a href="econet.php">ECOnet</a></li>
+			<!-- InstanceEndEditable --> 
+			</ul>
+		
+		</div>
+			
+	
+		<div class="col-md-7 padding-20-top content-column">
+		<!-- InstanceBeginEditable name="6col_content" -->
+			
+						  <p>Local communities around the Puget Sound are working to integrate local efforts to advance the Action Agenda.  Local governments, tribes, non-profit organizations, watershed, marine resource, and salmon recovery groups, interest groups, businesses, educational organizations, and citizens are collaborating to develop and coordinate local integrating organizations that foster implementation of Action Agenda priorities.</p>
+     <p>The local integrating organizations enable communities to guide the implementation of Action Agenda priorities at an ecosystem scale, and to prioritize local actions for investment. </p>
+     <p>To date, the Leadership Council has recognized local integrating organizations in nine geographic areas.  For more information and to contact the local integrating organization in your area see the links below.</p>
+     <p style="font-weight: bold">Local Integrating Organizations:</p>
+ 
+     <ul>
+	 <li><a href="http://www.sanjuanlio.com">San Juan Action Agenda Oversight Group </a></li>
+	 <li><a href="http://www.mypugetsound.net/index.php?option=com_community&amp;view=groups&amp;task=viewgroup&amp;groupid=60&amp;Itemid=222">Strait Ecosystem Recovery Network</a></li>
+	 <li><a href="http://www.govlink.org/sc-puget-sound-action-area/Index.htm">South Central Action Area Caucus Group</a></li>
+	 <li><a href="http://www.healthysouthsound.org/">Alliance for a Healthy South Sound</a></li>
+	 <li><a href="http://hccc.wa.gov/">Hood Canal Coordinating Council </a></li>
+	 <li> <a href="http://www.westcentrallio.org">West Central LIO</a></li>
+	 <li><a href="http://wria1project.whatcomcounty.org/">Whatcom LIO</a> (<a href="http://wria1project.whatcomcounty.org/">WRIA 1 Policy Boards</a>)</li>
+	 <li><a href="http://www.islandcountyeh.org/Page/237">Island LIO</a></li>
+	 <li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization"> Snohomish/Stillaguamish LIO </a></li>
+      </ul>
+<h2>2-year Recovery Planning</h2>
+<p>LIOs are currently working to identify local near-term ecosystem recovery priorities through the development of 2-year recovery plans. These plans mirror and contribute to development of the 2016 Puget Sound Action Agenda, describing how LIO actions are helping to achieve regional progress on the Action Agenda’s 22 Vital Signs. <a href="LIO-2-year-plan.php">LEARN MORE</a></p>		
+<h2>5-year Recovery Planning</h2>
+<p>Between now and September 2016, LIOs are also working to build local, long-term recovery strategies from which high-priority recovery actions can be developed. Similar to the 2-year plans, these 5-year plans will mirror and contribute to Puget Sound Action Agenda updates and explain how LIOs are helping to advance regional progress on the Action Agenda’s 22 Vital Signs. <a href="LIO-5-year-plan.php">LEARN MORE </a></p>
+
+<!-- InstanceEndEditable -->
+		</div>
+	
+		<div class="col-md-2 padding-20-top"> 
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title">SEE ALSO</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+						<li role="presentation"><a href="#">Links to Action Agenda Resources go here</a></li>
+				
+						<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+		</div>
+	</div>
+	<!--END OF ROW -->
+</div>
+<!--END OF CONTENT CONTAINER -->
+
+
+<?php include 'includes/footer-inc.html';?>
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="js/jquery-1.11.2.min.js"></script> 
+
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script src="js/bootstrap.js"></script> 
+<!-- custom js --> 
+<script src="js/custom.js"></script>
+
+
+</body>
+<!-- InstanceEnd --></html>
