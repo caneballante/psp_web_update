@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Draft Home Page</title>
 <!-- InstanceEndEditable -->
@@ -12,6 +12,7 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
+
 
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
@@ -37,13 +38,13 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image10">
 	<div class="overview-quote pull-right">
 		<h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
@@ -52,16 +53,21 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
-				<!-- InstanceBeginEditable name="left_nav" -->
+			<!-- InstanceBeginEditable name="left_nav" -->
 				<li class="active" role="presentation"> <a href="2014_action_agenda_download.php">2014-15 ACTION AGENDA</a></li>
 				<li role="presentation"> <a href="action_agenda_strategic_initiatives.php">STRATEGIC INITIATIVES</a></li>
-				<!-- InstanceEndEditable -->
+				<!-- InstanceEndEditable --> 
 			</ul>
+		
 		</div>
-		<div class="col-md-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			
+	
+		<div class="col-md-7 padding-20-top content-column">
+		<!-- InstanceBeginEditable name="6col_content" -->
 			<p><a href="downloads/2014_action_agenda/Final 2014 action agenda update/2014-2015_Action_Agenda_for_Puget_Sound.pdf">2014/15 Action Agenda Complete (PDF)</a><br />
 				<br />
 				<a href="downloads/2014_action_agenda/Addendum_StrategicInitiatives_final_20141015.pdf">NEW - Addendum 1</a><br />
@@ -92,24 +98,31 @@
 				<br />
 				</li>
 			</ul>
-			<!-- InstanceEndEditable --> </div>
-		<div class="col-md-2 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<!-- InstanceEndEditable -->
+		</div>
+	
+		<div class="col-md-2 padding-20-top"> 
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
 				<li role="presentation"><a href="2016_AA_update.php">2016 Action Agenda Update</a></li>
 				<li role="presentation"><a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
 				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+		</div>
 	</div>
-	<!--END OF ROW --> 
+	<!--END OF ROW -->
 </div>
 <!--END OF CONTENT CONTAINER -->
 
+
 <?php include 'includes/footer-inc.html';?>
+
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -118,6 +131,7 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script>
+
+
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

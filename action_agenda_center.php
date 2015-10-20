@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Draft Home Page</title>
 <!-- InstanceEndEditable -->
@@ -12,6 +12,7 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
+
 
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
@@ -37,9 +38,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image10"> </header>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-10 padding-20-top"> <!-- InstanceBeginEditable name="9col_header" -->
@@ -47,8 +48,11 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
-	<div class="row">
-		<div class="col-md-10 padding-20-top padding-0-left content-column"> <!-- InstanceBeginEditable name="9col_content" -->
+	
+	<div class="row"> 
+	
+		<div class="col-md-10 padding-20-top padding-0-left content-column">
+		<!-- InstanceBeginEditable name="9col_content" -->
 			<h2>What is the Action Agenda?</h2>
 			<p>The <strong>Puget Sound Action Agenda</strong> is our region's shared vision for Puget Sound recovery. It identifies key ongoing programs, local priority actions for the various areas of the Sound, and specific actions that must be implemented over the next 2 years to stay on track toward recovery. The Action Agenda results from a collaboration by state and federal agencies, tribal governments, local governments, business and environmental groups, and others. It also serves as the <a href="http://water.epa.gov/type/oceb/nep/index.cfm">Comprehensive Conservation and Management Plan</a>, required by the U.S. Environmental Protection Agency for estuaries of national significance.</p>
 			<p>LEARN MORE ABOUT THE:</p>
@@ -64,24 +68,31 @@
 			<p>The Action Agenda includes a framework for tracking progress toward recovery, which provides feedback about the effectiveness of the Action Agenda. This feedback is used to adapt and adjust the Action Agenda every 2 years. In this way, the Action Agenda stays current and relevant to ever-changing environmental conditions.</p>
 			<p><img src="images/AA_2015_historical_timeline.jpg" width="600" height="456" alt=""/></p>
 			<p>How the Action Agenda has been updated and modified since 2008 has improved in many ways based on feedback from partners and on the results of science research and monitoring. A major change occurred this year that will help to make sure that future Action Agenda updates address local conditions more comprehensively than in the past. In early 2015, the Environmental Protection Agency announced a new model for how it will fund recovery actions in Puget Sound. </p>
-			<!-- InstanceEndEditable --> </div>
-		<div class="col-md-2 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<!-- InstanceEndEditable -->
+		</div>
+	
+		<div class="col-md-2 padding-20-top"> 
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
 				<li role="presentation"><a href="2016_AA_update.php">2016 Action Agenda Update</a></li>
 				<li role="presentation"><a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
 				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+		</div>
 	</div>
-	<!--END OF ROW --> 
+	<!--END OF ROW -->
 </div>
 <!--END OF CONTENT CONTAINER -->
 
+
 <?php include 'includes/footer-inc.html';?>
+
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -90,6 +101,7 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script>
+
+
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

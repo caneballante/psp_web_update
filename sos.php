@@ -71,19 +71,15 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>Bavarian bergkase lancashire chalk and cheese. The big cheese fromage frais cheesy feet emmental mozzarella dolcelatte taleggio cheeseburger. Melted cheese danish fontina pecorino stilton bocconcini hard cheese manchego paneer. Cheesecake cheddar cow queso.</p>
-			<p>Gouda bocconcini bavarian bergkase. Chalk and cheese who moved my cheese manchego queso cheesy grin cheddar paneer cheeseburger. Airedale hard cheese cow dolcelatte halloumi cheesecake melted cheese mascarpone. Roquefort roquefort parmesan blue castello caerphilly swiss cauliflower cheese goat. Melted cheese the big cheese babybel croque monsieur.</p>
-			<p>Everyone loves red leicester cheese slices. Blue castello monterey jack everyone loves cheesy feet blue castello cheesy feet st. agur blue cheese brie. Airedale boursin edam gouda cheese slices cow pepper jack babybel. Paneer cream cheese roquefort lancashire paneer parmesan.</p>
-			<p>Smelly cheese say cheese boursin. Cheese slices caerphilly smelly cheese emmental pecorino smelly cheese pecorino cheesecake. Cut the cheese taleggio red leicester mozzarella camembert de normandie hard cheese st. agur blue cheese cheese strings. Halloumi cheeseburger cheese and wine stilton caerphilly rubber cheese cow paneer. Squirty cheese dolcelatte everyone loves macaroni cheese.</p>
-			<p>Cow danish fontina parmesan. Jarlsberg smelly cheese chalk and cheese pepper jack cheesy grin cheesy grin cheddar airedale. Roquefort squirty cheese camembert de normandie cream cheese ricotta cheese and wine goat jarlsberg. Cheesecake.<br>
-				<br>
-				<br>
-				<img class="img-responsive" src="images/water-quality-index.png" width="555" height="349" alt=""/><br>
-				<br>
-				<br>
-				<br>
-				<br>
-			</p>
+		<p>Protecting and restoring Puget Sound takes the coordinated effort of hundreds of partners who come together to plan, prioritize, and implement the actions needed to recover and sustain Puget Sound. </p>
+		  <p>The analysis and findings of the 2015 State of the Sound reports are intended to support partners and decision-makers better understand the state of our ecosystem, where progress is being made, where challenges remain, and where focused investment is needed. </p>
+		  <p>This reporting effort focuses on answering the following questions:</p>
+        <ul>
+          <li>How is the ecosystem doing?</li>
+          <li>Are we making progress in implementing identified recovery actions? </li>
+          <li>What have we learned and what are our next steps?<br>
+		  </li>
+        </ul>
 			<!-- InstanceEndEditable -->
 		</div>
 	

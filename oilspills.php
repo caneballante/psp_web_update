@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Draft Home Page</title>
 <!-- InstanceEndEditable -->
@@ -12,6 +12,7 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
+
 
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
@@ -37,9 +38,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image11"> </header>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-10 padding-20-top"> <!-- InstanceBeginEditable name="9col_header" -->
@@ -47,8 +48,11 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
-	<div class="row">
-		<div class="col-md-10 padding-20-top padding-0-left content-column"> <!-- InstanceBeginEditable name="9col_content" -->
+	
+	<div class="row"> 
+	
+		<div class="col-md-10 padding-20-top padding-0-left content-column">
+		<!-- InstanceBeginEditable name="9col_content" -->
 			<p><strong>UPDATE: FALL 2015 </strong><br>
 				Oil transportation by rail and other modes has changed markedly in Washington State over the past 6 years—especially in inland areas and along the Columbia River and Grays Harbor. Given the statewide nature of these changes and the Partnership&rsquo;s evolving focus on Puget Sound, the Oil Spill Work Group disbanded in fall 2015 after a 2-year hiatus. Nevertheless, the products of the group&rsquo;s efforts (like the Puget Sound Vessel Traffic Risk Assessment, described below) will continue to inform ongoing policy and management conversations.</p>
 			<p>Oil spill prevention and planning is critical in our region. Going forward, the Puget Sound Partnership will continue, as we are able, to participate in regional oil-spill planning and prevention forums (like the Northwest Area Committee, Pacific States/British Columbia Oil Spill Task Force, and the Puget Sound Harbor Safety Committee).</p>
@@ -184,14 +188,20 @@
 					<li><a href="http://www.oilspilltaskforce.org" style="font-weight: bold">Pacific States/British Columbia Spill Task Force</a></li>
 					<li><span style="font-weight: bold"><a href="http://www.pshsc.org/">Puget Sound Harbor Safety Committee</a></span></li>
 				</ul>
-			<!-- InstanceEndEditable --> </div>
-		<div class="col-md-2 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+			<!-- InstanceEndEditable -->
+		</div>
+	
+		<div class="col-md-2 padding-20-top"> 
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
+		</div>
 	</div>
-	<!--END OF ROW --> 
+	<!--END OF ROW -->
 </div>
 <!--END OF CONTENT CONTAINER -->
 
+
 <?php include 'includes/footer-inc.html';?>
+
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -200,6 +210,7 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script>
+
+
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>
