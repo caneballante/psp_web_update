@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>contact</h1>
+			<h1>contacting the Partnership</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -67,46 +67,57 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		                                    <form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" id="GD-snippet-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓" /><input name="authenticity_token" type="hidden" value="nJ2M3jFoBio2OxjDYTxoAVxjuoO4hpMu9D91mts0scw=" /></div>
-<fieldset>
-<legend>
-Email Updates
-</legend>
-<div>
-To sign up for updates or to access your subscriber preferences, please enter your contact information below.
-</div>
-<ol class='form'>
-<li><label for="subscription_type">Subscription Type</label>
-<div class='input_group'>
-<select id="subscription_type" name="subscription_type"><option value="email" selected="selected">Email</option>
-<option value="phone">SMS/Text Message</option></select>
-</div>
-</li>
-<li class='wireless_fields' style='display: none'>
-<label for="phone"><img alt="Required" class="required" src="https://public.govdelivery.com/assets/required-ef6e0abfe1c903c5ed5cba6ab7c2c38b.gif" />Wireless Number</label>
-<div class='input_group'>
-<!-- The full translation path is used because the translation of .select_title doesn't always resolves to the same i18n path -->
-<select disabled="disabled" id="country_code_display" name="country_code_display" title="Country code"><option value="1 (US)">1 (US)</option>
-<option value="1">1</option></select>
-<input id="country_code" name="country_code" title="Country code" type="hidden" value="1" />
- 
-<input class="medium" id="phone" name="phone" title="Wireless Number" type="text" />
-</div>
- 
-</li>
-<li class='email_fields' style='display: block'>
-<label for="email"><img alt="Required" class="required" src="https://public.govdelivery.com/assets/required-ef6e0abfe1c903c5ed5cba6ab7c2c38b.gif" />Email Address</label>
-<input class="long" id="email" name="email" type="text" />
- 
-</li>
-</ol>
-<div class='button_panel'>
-<input class="form_button" name="commit" type="submit" value="Submit" />
-</div>
-</fieldset>
-</form>
- 
-<script type='text/javascript'>
+			<h3 class="margin-0-top">For general information:</h3>
+			<p> Phone: 360.464.1232 </p>
+			<p> Email: info@psp.wa.gov</p>
+			<h3>Mailing Address:</h3>
+			<p>Puget Sound Partnership 
+				1111 Washington Street SE, Olympia, WA 98504-7000</p>
+			<h3>Main Office</h3>
+			<p>326 East D Street, Tacoma, WA 98421</p>
+			<h3>Please send public record requests to:</h3>
+			<p> public.records@psp.wa.gov</p>
+			<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" id="GD-snippet-form" method="post">
+				<div style="margin:0;padding:0;display:inline">
+					<input name="utf8" type="hidden" value="✓" />
+					<input name="authenticity_token" type="hidden" value="nJ2M3jFoBio2OxjDYTxoAVxjuoO4hpMu9D91mts0scw=" />
+				</div>
+				<fieldset>
+					<legend> You can subscribe to receive email updates from the Puget Sound Partnership below. </legend>
+					<div> To sign up for updates or to access your subscriber preferences, please enter your contact information below. </div>
+					<ol class='form'>
+						<li>
+							<label for="subscription_type">Subscription Type</label>
+							<div class='input_group'>
+								<select id="subscription_type" name="subscription_type">
+									<option value="email" selected="selected">Email</option>
+									<option value="phone">SMS/Text Message</option>
+								</select>
+							</div>
+						</li>
+						<li class='wireless_fields' style='display: none'>
+							<label for="phone"><img alt="Required" class="required" src="https://public.govdelivery.com/assets/required-ef6e0abfe1c903c5ed5cba6ab7c2c38b.gif" />Wireless Number</label>
+							<div class='input_group'> 
+								<!-- The full translation path is used because the translation of .select_title doesn't always resolves to the same i18n path -->
+								<select disabled="disabled" id="country_code_display" name="country_code_display" title="Country code">
+									<option value="1 (US)">1 (US)</option>
+									<option value="1">1</option>
+								</select>
+								<input id="country_code" name="country_code" title="Country code" type="hidden" value="1" />
+								<input class="medium" id="phone" name="phone" title="Wireless Number" type="text" />
+							</div>
+						</li>
+						<li class='email_fields' style='display: block'>
+							<label for="email"><img alt="Required" class="required" src="https://public.govdelivery.com/assets/required-ef6e0abfe1c903c5ed5cba6ab7c2c38b.gif" />Email Address</label>
+							<input class="long" id="email" name="email" type="text" />
+						</li>
+					</ol>
+					<div class='button_panel'>
+						<input class="form_button" name="commit" type="submit" value="Submit" />
+					</div>
+				</fieldset>
+			</form>
+			<script type='text/javascript'>
   //<![CDATA[
     var GOVDSNIPPET = function() {
       var form  = document.getElementById('GD-snippet-form');
@@ -125,23 +136,12 @@ To sign up for updates or to access your subscriber preferences, please enter yo
       }
     }();
   //]]>
-</script>
-	
-		<!-- InstanceEndEditable -->
+</script> 
+			<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-		<div class="right-nav-title">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Organizational chart</a></li>
-				<li role="presentation"> <a href="#">Director Bio</a></li>
-				<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>
 	<!--END OF ROW -->
