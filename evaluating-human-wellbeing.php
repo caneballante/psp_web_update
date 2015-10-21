@@ -68,7 +68,7 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-	<p>Of the Partnership’s six goals, mandated by the state Legislature, two address human wellbeing:</p> 
+	<p>Of the Partnership’s six goals, specified in  Washington state statute, two address human wellbeing::</p> 
 <ul><li>A healthy human population supported by a healthy Puget Sound that is not threatened by changes in the ecosystem.</li>
 <li>A quality of human life that is sustained by a functioning Puget Sound ecosystem</li></ul>
 <p>In July 2015, the Partnership’s Leadership Council adopted nine new or revised Vital Signs with associated indicators for Human Health and Quality of Life. These Vital Signs address human wellbeing as it relates to people’s engagement with the natural environment of Puget Sound and include familiar aspects of human health that contribute to our wellbeing, such as physical and psychological health, as well as social, cultural, and economic wellbeing and governance, or the way that people participate in decisionmaking.</p> 
