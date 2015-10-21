@@ -43,7 +43,7 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
-		<div class="col-md-10 padding-20-top"> <!-- InstanceBeginEditable name="9col_header" -->
+		<div class="col-md-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
 			<h1>PUGET SOUND RECOVERY 101</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>

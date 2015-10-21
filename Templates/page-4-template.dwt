@@ -59,7 +59,7 @@
 	</div>
 	<!-- TemplateEndIf --><!-- TemplateBeginIf cond="OptionalRegion4" -->
 	<div class="row">
-		<div class="col-md-10 padding-20-top"> <!-- TemplateBeginEditable name="9col_header" -->
+		<div class="col-md-10 padding-20-top padding-0-left"> <!-- TemplateBeginEditable name="9col_header" -->
 			<h1>SCIENCE BASIS FOR RECOVERY</h1>
 			<!-- TemplateEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
