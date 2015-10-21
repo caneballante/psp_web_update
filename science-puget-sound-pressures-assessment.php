@@ -72,7 +72,7 @@
 		<p>The Puget Sound Pressures Assessment, or PSPA, offers a tool to better understand the pressures on the Sound&rsquo;s freshwater, marine-nearshore, and terrestrial resources. It also helps us to identify the critical ecosystem vulnerabilities that should be addressed if we are to achieve sustainable, long-term protection and recovery.<br>
 			<br>
 To support shared learning and collaboration among partners and across projects, the Partnership has developed two taxonomies describing the <u>sources of pressure </u>and related <u>stressors</u> on the Puget Sound ecosystem. </p>
-		<p>In 2014 the Puget Sound Partnership finished the first PSPA evaluation. The 2014 PSPA involved a systematic, expert-based evaluation of the potential effects of stressors identified in the PSPA on identified ecosystem endpoints, such as habitats, species, or ecological processes. </p>
+		<p>In 2014 the Puget Sound Partnership finished the first PSPA evaluation using a methodology developed by advisors from the Partnership Science Panel. The 2014 PSPA involved a systematic, expert-based evaluation of the potential effects of stressors identified in the PSPA on identified ecosystem endpoints, such as habitats, species, or ecological processes.</p>
 		<p>Results and more information are available at the project web site: &nbsp; <a href="https://sites.google.com/site/pressureassessment/home">https://sites.google.com/site/pressureassessment/home</a></p>
 <p>&nbsp;</p>
 </p>
@@ -91,7 +91,7 @@ To support shared learning and collaboration among partners and across projects,
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">LINKS TO PARTNERS</div>
+					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
@@ -101,7 +101,7 @@ To support shared learning and collaboration among partners and across projects,
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">RELATED DOCUMENTS</div>
+					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->

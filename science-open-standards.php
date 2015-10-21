@@ -69,7 +69,7 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<p>Developed by leading experts in natural resource conservation work from around the world, the <em>Open Standards for the Practice of Conservation</em>, or <em>Open Standards,</em> provides a framework for strategic planning, evaluation of progress by using shared measures, and shared learning related to ecosystem recovery. The Partnership works with our many partner organizations in using the <em>Open Standards</em> to improve adaptive management and build an evaluation framework with which to assess progress toward ecosystem recovery. </p>
+		<p>Developed by leading experts in natural resource conservation work from around the world, the <em>Open Standards for the Practice of Conservation</em>, or <em>Open Standards,</em> provides a framework for strategic planning, evaluation of progress by using shared measures, and shared learning related to ecosystem recovery.The Partnership works with our many partner organizations in using the <em>Open Standards</em> to adaptively manage ecosystem recovery and build an evaluation framework with which to assess progress toward ecosystem recovery. </p>
 		<p>The <em>Open Standards</em> include specific steps for deciding how to: </p>
 		<ul>
 			<li>Represent partner interests in the Puget Sound ecosystem</li>

@@ -77,35 +77,17 @@ PUGET SOUND</h1>
 				<li>The NEP Atlas is a compilation of interactive maps, graphs, and tables of activities funded by EPA’s National Estuary Program (NEP) from 2007 to the present.</li></ul>
 			<p>Coming soon:</p>
 			<ul><li>Public Opinion Research</li>
-			<li>Agency Performance Management</li></ul>
+			<li>Agency Performance Management</li>
+			</ul>
+			<h2>Effectiveness Monitoring</h2>
+<p>Many restoration and management actions have been effective in restoring ecosystem components and processes in Puget Sound, but much of the evidence of success is found in technical documents that are not easy to access. We are reviewing scientific reports to distill information about what’s working to restore Puget Sound. This information, once vetted by regional experts, is presented in fact sheets and narrative summaries that can be used to help develop effective programs and projects that align with the Puget Sound Action Agenda and accelerate the recovery of Puget Sound. <a href="evaluating-effective-action.php">Learn more</a></p>
 		
 	
-			<h2>REPORT CARD</h2>
-			<p>SHORT TEXT ABOUT THE REPORT CARD - LEARN MORE LINK TO PAGE OR REPORT CARD??? </p>
-			<h2>PROJECT ATLAS/NEP ATLAS</h2>
-			<p>SHORT TEXT ABOUT THE PROJECT ATLAS/NEP ATLAS - LEARN MORE LINK TO PAGE OR PROJECT ATLAS??? </p>
-			<h2>PUBLIC OPINION RESEARCH</h2>
-			<p>SHORT TEXT ABOUT PUBLIC OPINION RESEARCH - LEARN MORE LINK TO PAGE </p>
-			<h2>AGENCY PERFORMANCE MANAGMENT</h2>
-			<p>SHORT TEXT ABOUT AGENCY PERFORMANCE MANAGMENT - LEARN MORE LINK TO PAGE </p>
-			<h2>SOS</h2>
-			<p>SHORT TEXT ABOUT PUBLIC OPINION RESEARCH - LEARN MORE LINK TO PAGE - SHOULD IT BE IN THE LEFT COLUMN</p>
-			<!-- InstanceEndEditable -->
+		<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Links to another page</a></li>
-					<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
-					<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>
 	<!--END OF ROW -->
