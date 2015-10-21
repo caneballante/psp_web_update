@@ -39,9 +39,8 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image9">
+<header class="overview-page-image-style overview-page-image13">
 
-<div class="overview-quote pull-right"><h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3></div>
 
  </header>
 <!-- InstanceEndEditable -->  
@@ -58,10 +57,10 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS (LIO)</a></li>
+				<li  role="presentation"> <a href="LIO-overview.php">LOCAL RECOVERY EFFORTS</a></li>
 				<li class="active" role="presentation"> <a href="LIO-2-year-plan.php">LIO 2-YEAR RECOVERY PLANS</a></li>
 				<li role="presentation"> <a href="LIO-5-year-plan.php">LIO 5-YEAR RECOVERY PLANS</a></li>
-				<li role="presentation"> <a href="econet.php">ECOnet</a></li>
+				<li role="presentation"> <a href="econet.php">ECO net</a></li>
 			<!-- InstanceEndEditable --> 
 			</ul>
 		

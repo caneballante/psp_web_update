@@ -39,16 +39,16 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image13">
+<header class="overview-page-image-style overview-page-image10">
 
-
- </header>
+</header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>LIO 5-Year recovery plans</h1>
+			<h1>SOCIAL  STRATEGIES<br>
+			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -57,41 +57,19 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li  role="presentation"> <a href="LIO-overview.php">LOCAL RECOVERY EFFORTS</a></li>
-				<li role="presentation"> <a href="LIO-2-year-plan.php">LIO 2-YEAR RECOVERY PLANS</a></li>
-				<li class="active" role="presentation"> <a href="LIO-5-year-plan.php">LIO 5-YEAR RECOVERY PLANS</a></li>
-				<li role="presentation"> <a href="econet.php">ECO net</a></li>
-			<!-- InstanceEndEditable --> 
+				<li role="presentation">SOCIAL STRATEGIES<a href="social-strategies-overview.php"></a></li>
+				<!-- InstanceEndEditable --> 
 			</ul>
 		
 		</div>
 			
 	
 		<div class="col-md-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
-			
-						  <p>do we have content for this page?</p>
-						  <p>&nbsp;</p>
-						  <p>&nbsp;</p>
-						  <p>&nbsp;</p>
-						  <p>&nbsp;</p>
-						  <p>&nbsp;</p>
-
-		<!-- InstanceEndEditable -->
+		<!-- InstanceBeginEditable name="6col_content" --><strong>Social strategies text needed</strong><!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li role="presentation"><a href="#">Links to Action Agenda Resources go here</a></li>
-				
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>
 	<!--END OF ROW -->

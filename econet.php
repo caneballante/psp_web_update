@@ -39,9 +39,9 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image9">
+<header class="overview-page-image-style overview-page-image13">
 
-<div class="overview-quote pull-right"><h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3></div>
+
 
  </header>
 <!-- InstanceEndEditable -->  
@@ -58,10 +58,10 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS (LIO)</a></li>
+				<li  role="presentation"> <a href="LIO-overview.php">LOCAL RECOVERY EFFORTS</a></li>
 				<li role="presentation"> <a href="LIO-2-year-plan.php">LIO 2-YEAR RECOVERY PLANS</a></li>
 				<li role="presentation"> <a href="LIO-5-year-plan.php">LIO 5-YEAR RECOVERY PLANS</a></li>
-				<li class="active" role="presentation"> <a href="econet.php">ECOnet</a></li>
+				<li class="active" role="presentation"> <a href="econet.php">ECO net</a></li>
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -69,7 +69,84 @@
 			
 	
 		<div class="col-md-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->lorem ipsem text<!-- InstanceEndEditable -->
+		<!-- InstanceBeginEditable name="6col_content" -->
+		
+
+			<p>From snow caps to white caps, people around the Puget Sound region have a shared interest in a healthy Puget Sound.  This includes businesses, governments, organizations, tribes and residents. When these groups work together, they help ensure that Puget Sound continues to provide vital economic, environmental and cultural benefits for both current and future generations.</span></p>
+			<p>&nbsp;</p>
+                        
+                  <p><a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="_blank"><img src="images/ECOnet_map.jpg" alt="ECO Network Area Map" name="" border="0" /></a><br />
+                  <a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="_blank">Link to the interactive ECO Net Map</a></p>   
+		 <h2>What is ECO Net?</h2>
+								<p>ECO Net stands for Education, Communication, and Outreach Network.  It is a community of professionals committed to working collaboratively to protect and enhance the health and vitality of the Puget Sound region.  Puget Sound Partnership provides funding and program support to this network.</p>
+
+<p>ECO Net members represent a diverse cross-section of stakeholders that collaborate on outreach and projects that improve environmental and community health. Members share resources and knowledge, and coordinate efforts to leverage and strengthen local programs for a greater community impact. </p>
+<p>There are twelve local ECO Net chapters across the twelve-county Puget Sound region. Each local chapter has an elected coordinator. Member meetings are held several times each year. These local ECO Nets are designed to serve the specific needs of their membership, with network structure varying county to county.  Members can also take advantage of regional resources including: funding, research, community events and a comprehensive vision for restoring Puget Sound.</p>
+
+						<h2>Who are ECO Net Members?</h2>
+								<p>The network consists of more than 470 organizations across the region and has a diverse membership representing non-profit organizations, community groups, learning centers, conservation districts, public and private schools, businesses, local and regional governments, tribes, and individuals. Members work on a wide variety of issues that positively impact the health of the Puget Sound, ranging from ecosystem restoration and environmental health to sustainable communities and healthy economies.</p>
+
+<p>Should <em>you</em> be an ECO Net member? Look at the “Becoming a Member” section below.</p>
+
+				  <h2>Becoming a Member</h2>
+								
+
+<p>The ECO Net exists so members can be more effective in engaging the public around a wide range of issues contributing to a healthy Puget Sound region.  There is no cost to be a member of ECO Net.</p>
+
+<p>If you can answer “yes” to the following questions, you should definitely join ECO Net!</p>
+<ol><li>Are you an education, communications, or outreach professional working or volunteering in one of the twelve counties in the Puget Sound region?</li>
+
+<li>Are you, or your organization, committed to working collaboratively to help improve environmental and community health in the Puget Sound region?</li>
+
+<li>Are you willing to help advance a comprehensive vision and <a href="http://www.psp.wa.gov/action_agenda_center.php">priority actions</a> to protect and enhance the health and vitality of the Puget Sound? </li>
+</ol>
+
+<p>Please direct any questions about ECO Net membership to <a href="mailto:econet@psp.wa.gov">econet@psp.wa.gov.</a></p>
+
+
+
+
+		
+         <h2>What are the Benefits of ECO Net Membership?</h2>
+			<ul>
+				<li>Become part of a collaborative, multi-disciplinary community bound together by a vested interest in protecting and enhancing the health and vitality of the Puget Sound region.  </li>
+				<li>Become eligible to apply for ECO Net  grant opportunities and get first notice of funding opportunities from the Puget Sound Partnership</li>
+				<li>Develop and strengthen partnerships, both locally and across the region</li>
+				<li>Build your skills through ECO Net training, professional development and technical assistance</li>
+				<li>Troubleshoot challenges, gather advice, and access research and technical assistance from a range of professionals and programs.</li>
+				<li>Stay up to date on local events, funding, employment opportunities and more</li>
+				<li>Choose your level of involvement – from observer to leader, there is a place in ECO Net for you and your skills.</li>
+				<li>Connection to a regional media campaign and participate in community events through <a href="http://www.pugetsoundstartshere.org">Puget Sound Starts Here.</a></li>
+				<li>Share your knowledge, skills, and experience with others.</li>
+				<li>Make new friends and have fun!</li>
+			</ul>
+
+		<h2>Events &amp; Funding Opportunities </h2>
+			<p><a href="http://www.pugetsoundstartshere.org/events-list/"><strong>Events in your area</strong></a></p>
+		<h2>ECO Net Connections</h2>
+			<p>There are 12 local ECO Net chapters which meet on a regular basis to collaborate and coordinate efforts to provide education, communication and outreach on environmental issues for their area.  <strong><a href="downloads/econet/2014_15 ECONetCoordRoster.pdf">New members interested in getting involved are encouraged to contact the local ECO Net coordinator.</a></strong></p>
+             <p> Some of the 12 local ECO Net chapters have their own websites listed below.  If your local area is not listed below, use the link above to contact the coordinator in your area.</p>
+				<ul><li><a href="http://keepeconet.weebly.com/ " target="_blank">Kitsap ECO Net</a></li> 
+				<li><a href="http://whidbey-eco.net/" target="_blank">Whidbey ECO Net </a></li>
+				<li><a href="http://www.whatcomwin.org/" target="_blank">Whatcom ECO Net</a></li>
+				<li><a href="http://hccc.wa.gov/Groups/HCWEN/default.aspx">Hood Canal ECO Net</a></li>
+				<li><a href="http://stewardshipsanjuans.org/" target="_blank">San Jan ECO Net</a></li>
+				<li><a href="http://www.skagitcleanwater.org/skagiteconet/" target="_blank">Skagit ECO Net</a></li>
+				<li><a href="http://snocameconet.weebly.com/">Snohomish Camano ECO Net</a></li>
+				<li><a href="http://www.kingcoeconet.org/" target="_blank">King ECO Net</a></li>
+				<li><a href="http://puyallupriver.org/peco-net" target="_blank">Pierce ECO Net</a></li>
+				<li><a href="http://www.masoneconetwork.org/" target="_blank">Mason ECO Net</a></li>
+				<li><a href="http://thurstoneconetwork.org/" target="_blank">Thurston ECO Net</a></li>
+				<li><a href="http://feiromarinelifecenter.org/strait-eco-net/" target="_blank">Strait ECO Net</a></li>
+				</ul>
+			
+			<h2>ECO NET CONTACT</h2>
+			<p>Alexandra Doty</p>
+			<p><a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
+			<p><a href="https://pspwa.box.com/s/supkihvxkg574ikgma99x364bsuynds2"><strong>Resources for ECO Net Members</strong></a></p> 
+		 
+
+<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
@@ -79,7 +156,10 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li role="presentation"><a href="#">Links to Action Agenda Resources go here</a></li>
+						<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+						<li role="presentation"><a href="social-strategies-overview.php">Social Strategies</a></li>
+						<li role="presentation"><a href="www.pugetsoundstartshere.org" target="new">Puget Sound Starts Here</a></li>
+						<li role="presentation"><a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="new">Interactive ECO Net Map</a></li>
 				
 						<!-- InstanceEndEditable -->
 					</ul>
