@@ -46,6 +46,7 @@
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>EMPLOYMENT OPPORTUNITIES</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -67,7 +68,7 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<h2>Environmental Planner (EMS Band 1) </h2>
+		<h2 class="margin-0-top">Environmental Planner (EMS Band 1) </h2>
 		<p>This position contributes to writing and updating the Action Agenda, one of the major responsibilities of the agency according to statute, and is responsible for implementing the scopes of work and implementation plans for biennial updates of the Action Agenda.<br>
 			<br>
 			The incumbent will be expected to exercise strategic, independent judgment, and represent significant breadth and depth of expertise, directing or contributing to the implementation of policy initiatives including agenda amendments, establishment of interim milestones, and integration of work with local jurisdictions and groups contributing to Puget Sound recovery. The position actively represents the agency in external venues and functions to influence the work of our partners, expand constituencies, and elicit input on agency priorities, policies and programs. Responsibilities include:<br>

@@ -90,7 +90,7 @@
 								  	Everett, WA 98201<br />
 							
 									</p></td>
-								  <td class="">Temporarily Unavailable</td>
+								  <td class=""><a href="https://pspwa.app.box.com/s/3subpdfqm3t2ymzfhilyocj4yqo0qa3n">Meeting Materials</a></td>
 						  </tr>
 							
 								
