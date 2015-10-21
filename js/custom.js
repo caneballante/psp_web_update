@@ -19,7 +19,7 @@ $(window).resize(function() {
 	else {
 	   $(".menu_button").show();
 	   $(".menu_button_small").hide();
-	}
+}
 });
 // jQuery to detect window size on first load
  if ( $(window).width() < 739) {     
@@ -29,4 +29,9 @@ $(window).resize(function() {
 	else {
 	   $(".menu_button").show();
 	   $(".menu_button_small").hide();
-	}
+}
+// JQuery to make whole div of news box clickable
+  $(".newsbox").click(function () {
+        window.open($(this).find("a:first").attr("href"));
+        return false;
+    });

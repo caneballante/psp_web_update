@@ -65,10 +65,11 @@
 			<h1>MEASURING RECOVERY</h1>
 			<br>
 				<a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND&nbsp;EVALUATION&nbsp;OVERVIEW</a>
-					<a href="evaluating-health-of-puget-sound.php">EVALUATING&nbsp;THE&nbsp;HEALTH&nbsp;OF&nbsp;PUGET&nbsp;SOUND</a><a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING&nbsp;ACTIONS&nbsp;TO&nbsp;RECOVER&nbsp;PUGET&nbsp;SOUND</a>
+					<a href="evaluating-health-of-puget-sound.php">EVALUATING&nbsp;THE&nbsp;HEALTH&nbsp;OF&nbsp;PUGET&nbsp;SOUND</a><br>
+<a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING&nbsp;ACTIONS&nbsp;TO&nbsp;RECOVER&nbsp;PUGET&nbsp;SOUND</a><br>
 					<a href="science-basis-of-recovery-overview.php">SCIENCE&nbsp;BASIS&nbsp;OF&nbsp;RECOVERY</a>
 				
-		<p><a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a></p></div>
+		<a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a></div>
 		<div class="col-md-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
@@ -83,30 +84,40 @@
 		<div class="row margin-20-top">
 			<div class="col-md-3">
 				<div class="newsbox">
-					<div class="newsbox-date">SEPT<br>
-						28</div>
-					<div class="newsbox-text">PSP BLOG: CONGRESSMAN HECK INTRODUCES PUGET SOS ACT...</div>
+				
+					<div class="newsbox-text"><strong>11.2.15</strong><br>
+						JOB OPPORTUNITY:<br> 
+						ENVIRONMENTAL PLANNER<br>
+					<a href="employment.php">LEARN MORE </a></div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
-					<div class="newsbox-date">SEPT<br>
-						22</div>
-					<div class="newsbox-text">PSP BLOG: PUGET SOUND TRIBES LEVERAGE FUNDS....</div>
+				<div class="newsbox-text">
+<strong>10.12.15</strong><br>
+SUBMIT A PROPOSAL:<br>
+ Now is the time to develop Near Term Action proposals for the 2016 Action Agenda update. <a href="2016_AA_NTA.php">LEARN MORE</a></div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
-					<div class="newsbox-date">SEPT <br>
-						14</div>
-					<div class="newsbox-text">PSP BLOG: 2014 PUGET SOUND MARINE WATERS REPORT RELEASED...</div>
+					
+					<div class="newsbox-text">
+						<strong>9.28.15</strong><br>
+						BLOG:<br>
+						
+					Congressman Heck introduces PUGET SOS Act in the U.S. House of Representatives...<a href="http://www.psp.wa.gov/blog/?p=539">LEARN MORE</a> </div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
-					<div class="newsbox-date">NOV<br>
-						1</div>
-					<div class="newsbox-text">JOB OPENINGS AT THE PARTNERSHIP...</div>
+				
+					<div class="newsbox-text">
+					<strong>9.22.15</strong><br>
+EPA REQUEST FOR PROPOSALS:<br>
+ RFP for Strategic Initiative implementation leads for FY2016 Proposals due 11.30.15<br>
+<a href="http://www2.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">LEARN MORE</a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -115,8 +126,8 @@
 				<div class="newsbox">
 					<div class="newsbox-date">DEC<br>
 						3-4</div>
-					<div class="newsbox-text">LEADERSHIP COUNCIL MEETING,<br>
-						LOCATION TBD <br>
+					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING,<br>
+						LOCATION TBD </a><br>
 					</div>
 				</div>
 			</div>
@@ -125,8 +136,8 @@
 					<div class="newsbox-date">NOV<br>
 						12</div>
 					<div class="newsbox-text">
-						<p>ECOSYSTEM COORDINATION BOARD<br>
-							MEETING, LYNNWOOD CONVENTION CENTER </p>
+						<a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
+							MEETING, LYNNWOOD CONVENTION CENTER </a><br>
 					</div>
 				</div>
 			</div>
@@ -134,16 +145,16 @@
 				<div class="newsbox">
 					<div class="newsbox-date">DEC <br>
 						15-16</div>
-					<div class="newsbox-text">SCIENCE PANEL MEETING,<br>
-						LOCATION TBD </div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL MEETING,<br>
+						LOCATION TBD </a></div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-date">NOV<br>
 						19</div>
-					<div class="newsbox-text">SALMON RECOVERY COUNCIL, <br>
-						EDMOND CENTER FOR THE ARTS</div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+						EDMOND CENTER FOR THE ARTS</a></div>
 				</div>
 			</div>
 		</div>
@@ -151,7 +162,7 @@
 </div>
 <!-- FOOTER INCLUDE -->
 <?php include 'includes/footer-inc.html';?>
-<div class="align-right"> page # 001 - <a href="https://app.smartsheet.com/b/form?EQBCT=54600eddd8ea4d5c82ed0b94f1d4a259" target="_blank">report a problem or make a suggestion</a></div>
+
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
 

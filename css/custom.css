@@ -41,10 +41,6 @@ a {
 	font-size: 12px !important;
 }
 
-#myModal a {
-	color: #1590cd;
-	font-size: 16px
-}
 
 .bold-link a {
 	color: #036B93;
@@ -237,9 +233,17 @@ p {
 /*news boxes on homepage*/
 .newsbox{
 	height:148px;
-	background-color:rgba(36,81,112,1.00);
+	background-color:#0a3b5c;
 	color:#ffffff;
-	margin-top:20px
+	margin-top:20px;
+}
+/*hover color for the newsbox div - jquery makes it clickable*/
+.newsbox:hover{
+	background-color: rgba(245,180,50,1.00);
+	
+}
+.newsbox a {
+	color: #1590cd;
 }
 .newsbox-date {
 	height:45px;
@@ -340,6 +344,11 @@ intro .brand-heading {
 	font-weight:100;
 	letter-spacing:2px;
 	line-height:30px;
+}
+/*blue link color needs to be lighter on the dark blue*/
+#myModal a {
+	color: #1590cd;
+	font-size: 16px
 }
 /*the search text turns white from modal-body-custom I turn it black here*/
 .search-custom {

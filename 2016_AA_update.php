@@ -49,7 +49,8 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2016 action agenda UPDATE<br>
+			<h1>2016 action agenda UPDATE</h1>
+			<h1><br>
 			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
@@ -73,7 +74,7 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<h2><span class="red">NEW</span> 9/21/15 Near Term Action Proposals</h2>
+			<h2 class="margin-0-top"><span class="red">NEW</span> 9/21/15 Near Term Action Proposals</h2>
 			<p>Are you interested in proposing an activity to be included in the Puget Sound Action Agenda? Proposals are due 10 a.m., December 31, 2015. <a href="2016_AA_NTA.php">Find out more.</a></p>
 			<h2>What is in the Action Agenda?</h2>
 			<p> Several years of <strong>research and effort</strong> have shown three areas of focus that deliver the most progress toward recovery for dollars invested. Termed &ldquo;Strategic Initiatives&rdquo; these <strong>three priority areas</strong> form the basis of the Action Agenda for 2016.</p>
