@@ -368,6 +368,10 @@ intro .brand-heading {
 	color:#ffffff;
 }
 
+.close:hover,
+.close:focus {
+  color: #1590cd;
+}
 /*Makes the modal main menu fullscreen on anything over 768*/
 @media (min-width: 768px){
 .modal-dialog-custom {
