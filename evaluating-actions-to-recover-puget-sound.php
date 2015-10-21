@@ -69,7 +69,16 @@ PUGET SOUND</h1>
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>INTRO?</p>
+			<p>Tracking and evaluating implementation of Puget Sound ecosystem recovery efforts is key to holding partners accountable, understanding successes and challenges, and supporting adaptation of recovery efforts.</p>
+			<p>The Partnership is required in Washington state statute to produce a State of the Sound report every 2 years to demonstrate progress in our collective efforts to recover the Sound. The State of the Sound website is a comprehensive and broadly accessible resource that includes in-depth analysis and technical information not available in the briefer, printed documents.</p>
+			<p>Several online tools offer accessible opportunities to follow the recovery activities taking place throughout the Sound:</p>
+			<ul><li>We report on the status and funding of the Action Agenda’s Near Term Actions in the Action Agenda Report Card. This online tool allows users to find out more about specific actions, or groups of actions, with a range of helpful filters and search options.</li>
+				<li>The Puget Sound Project Atlas helps you learn more about an important subset of Puget Sound restoration and protection projects that are financed or tracked by the Washington State Recreation and Conservation Office. Clickable map markers allow users to view detailed information on each project.</li>
+				<li>The NEP Atlas is a compilation of interactive maps, graphs, and tables of activities funded by EPA’s National Estuary Program (NEP) from 2007 to the present.</li></ul>
+			<p>Coming soon:</p>
+			<ul><li>Public Opinion Research</li>
+			<li>Agency Performance Management</li></ul>
+		
 	
 			<h2>REPORT CARD</h2>
 			<p>SHORT TEXT ABOUT THE REPORT CARD - LEARN MORE LINK TO PAGE OR REPORT CARD??? </p>
