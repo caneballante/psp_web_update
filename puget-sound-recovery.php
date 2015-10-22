@@ -73,7 +73,7 @@
 <p>For the purposes of Puget Sound ecosystem recovery, Puget Sound is defined as all saltwaters inside the international boundary line between Washington and British Columbia and lying east of the junction of the Pacific Ocean and the Strait of Juan de Fuca. It also includes the entire watershed—the rivers and streams that drain into Puget Sound, the lands that drain into those surface waters, as well as the Strait of Juan de Fuca and the San Juan islands. </p>
 <p>Considered the largest estuary by volume in the United States (with perhaps the exception of unexplored estuaries in Alaska), the Puget Sound is deep and vast, a complex ecosystem encompassing mountains, farmlands, cities, rivers, forests, and wetlands.</p>
 <p>Humans have long relied on the Puget Sound watershed for healthy food and clean water and the other services it provides, like reducing the impact of droughts and floods. Puget Sound supports a large part of our state&rsquo;s economy and provides vital recreational, spiritual, and other essential quality of life benefits. </p>
-<strong><a href="http://www.eopugetsound.org">Encyclopedia of Puget Sound</a></strong>  |  <strong><a href="#">Puget Sound Fact Book</a></strong><a href="#">
+<strong><a href="http://www.eopugetsound.org">Encyclopedia of Puget Sound</a></strong>  |  <strong><a href="http://www.eopugetsound.org/articles/2015-puget-sound-fact-book">Puget Sound Fact Book</a></strong><a href="#">
 </p>
 </a>
 			<h2>WHAT IS THE PROBLEM</h2>

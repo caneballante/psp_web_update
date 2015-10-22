@@ -126,7 +126,7 @@ EPA REQUEST FOR PROPOSALS:<br>
 				<div class="newsbox">
 					<div class="newsbox-date">DEC<br>
 						3-4</div>
-					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING,<br>
+					<div class="newsbox-text"><a href="LC_meetings.php" target="_self">LEADERSHIP COUNCIL MEETING,<br>
 						LOCATION TBD </a><br>
 					</div>
 				</div>
