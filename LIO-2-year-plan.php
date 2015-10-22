@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 2;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -57,10 +61,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li  role="presentation"> <a href="LIO-overview.php">LOCAL RECOVERY EFFORTS</a></li>
-				<li class="active" role="presentation"> <a href="LIO-2-year-plan.php">LIO 2-YEAR RECOVERY PLANS</a></li>
-				<li role="presentation"> <a href="LIO-5-year-plan.php">LIO 5-YEAR RECOVERY PLANS</a></li>
-				<li role="presentation"> <a href="econet.php">ECO net</a></li>
+			<?php include 'includes/ln-local-recovery-efforts.html';?>	
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
