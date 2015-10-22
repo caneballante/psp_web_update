@@ -74,6 +74,7 @@
 			<h3 class="margin-0-top">For general information:</h3>
 			<p> Phone: 360.464.1232 </p>
 			<p> Email: info@psp.wa.gov</p>
+			
 			<h3>Mailing Address:</h3>
 			<p>Puget Sound Partnership 
 				1111 Washington Street SE, Olympia, WA 98504-7000</p>
@@ -81,6 +82,8 @@
 			<p>326 East D Street, Tacoma, WA 98421</p>
 			<h3>Please send public record requests to:</h3>
 			<p> public.records@psp.wa.gov</p>
+			<p>&nbsp;</p>
+			<?php include('includes/media_contact.html')?> 
 			<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" id="GD-snippet-form" method="post">
 				<div style="margin:0;padding:0;display:inline">
 					<input name="utf8" type="hidden" value="✓" />

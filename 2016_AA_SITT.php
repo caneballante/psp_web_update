@@ -41,7 +41,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image10">
 	<div class="overview-quote pull-right">
-		<h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3>
+		<h3>&nbsp;</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  

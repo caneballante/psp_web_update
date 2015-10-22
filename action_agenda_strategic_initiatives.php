@@ -41,7 +41,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image10">
 	<div class="overview-quote pull-right">
-		<h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3>
+		
 	</div>
 </header>
 <!-- InstanceEndEditable -->  
@@ -69,7 +69,7 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<h2>Strategic Initiatives represent priorities</h2>
+			<h2 class="margin-0-top">Strategic Initiatives represent priorities</h2>
 						<p><a href="downloads/2014_action_agenda/Addendum_StrategicInitiatives_final_20141015.pdf">ADDENDUM: STRATEGIC INITIATIVES <br />
 								The 2014/2015 Action Agenda for Puget Sound
 						</a>

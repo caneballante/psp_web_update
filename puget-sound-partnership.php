@@ -82,14 +82,14 @@
 <p>SUPPORT PRIORITY ACTIONS by advancing policy and mobilizing funding needed for local and regional partners to succeed in achieving Puget Sound recovery goals. We strive to remove financial, regulatory, and resource barriers for our partners by directing outside resources toward priority actions, improving the policy and regulatory environment, and working as a catalyst within the system to get the job done. </p>
 
 <h2>6 recovery goals</h2>
-The Washington State Legislature identified six ecosystem recovery goals for creating a resilient Puget Sound:
+<p>The Washington State Legislature identified six ecosystem recovery goals for creating a resilient Puget Sound:</p>
 <ul>
 <li>Healthy Human Population—A healthy population supported by a healthy Puget Sound that is not threatened by changes in the ecosystem.</li>
 <li>Vibrant Quality of Life—A quality of human life that is sustained by a functioning Puget Sound ecosystem.</li>
 <li>Thriving Species and Food Web—Healthy and sustaining populations of native species in Puget Sound, including a robust food web. </li>
 <li>Protect and Restored Habitat—A healthy Puget Sound where freshwater, estuary, nearshore, marine, and upland habitats are protected, restored, and sustained. </li>
 <li>Abundant Water Quantity—An ecosystem that is supported by good groundwater levels as well as river and stream flows sufficient to sustain people, fish, wildlife, and the natural functions of the environment. </li>
-<li>Healthy Water Quality—Fresh and marine waters and sediments of a sufficient quality to support water that is safe for drinking, swimming, and other human uses and enjoyment, and which are not harmful to the native marine mammals, fish, birds, and shellfish in the region.</li>
+<li>Healthy Water Quality—Fresh and marine waters and sediments of a sufficient quality to support water that is safe for drinking, swimming, and other human uses and enjoyment, and which are not harmful to the native marine mammals, fish, birds, and shellfish in the region.</li></ul>
 
 <h2>Funding</h2>
 <p>The Puget Sound Partnership receives the bulk of its funding from federal Puget Sound National Estuary Program dollars. For the 2015-17 biennium, the Partnership has a budget of $18.8 million, including $9.9 million from the U.S. Environmental Protection Agenda, $7.5 million from the State of Washington, and $1.4 million from the National Oceanic and Atmospheric Administration. </p>
