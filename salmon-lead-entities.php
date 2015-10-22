@@ -132,9 +132,9 @@
 				</tr>
 				<tr>
 					<td>San Juan Watershed</td>
-					<td>Barbara Rosenkotter, San Juan County</td>
+					<td>Byron Rot, San Juan County</td>
 					<td>360-370-7593</td>
-					<td><a class="small-links" href="mailto:barbarar@co.san-juan.wa.us">barbarar@co.san-juan.wa.us</a></td>
+					<td><a class="small-links" href="mailto:byronr@sanjuanco.com">byronr@sanjuanco.com</a></td>
 				</tr>
 				<tr>
 					<td>Skagit Watershed</td>
@@ -144,17 +144,12 @@
 				</tr>
 				<tr>
 					<td>Snohomish Watershed</td>
-					<td>Morgan Ruff, Tulalip Tribes, Snohomish Basin Capital Program Coordinator<br />
-						Denise Di Santo <br />
-						Snohomish County<br />
-						Snohomish Basin LE coordinator </td>
+					<td>Morgan Ruff, Tulalip Tribes, Snohomish Basin Capital Program Coordinator<br /></td>
 					<td>360-716-4636<br />
 						<br />
-						<br />
-						425-388-6403</td>
+						<br /></td>
 					<td><a class="small-links" href="mailto:mruff@tulaliptribes-nsn.gov">mruff@tulaliptribes-nsn.gov</a>
-						&nbsp;
-						<a class="small-links" href="mailto:denise.disanto@snoco.org">denise.disanto@snoco.org</a></td>
+						&nbsp;</td>
 				</tr>
 				<tr>
 					<td>South Sound Watersheds</td>
@@ -179,7 +174,10 @@
 					<td> <a class="small-links" href="mberejikian@co.kitsap.wa.us" target="_blank">mberejikian@co.kitsap.wa.us</a></td>
 				</tr>
 			</table>
-			<div class="photocredit">Lead Entity coordinator list last updated July 23, 2014</div>
+			<div class="photocredit">
+				<p>Lead Entity coordinator list last updated October 22, 2015</p>
+				
+			</div>
 			<!-- InstanceEndEditable -->
 		</div>
 	
