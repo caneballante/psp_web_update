@@ -28,7 +28,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
+  	navSelected = 5;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -62,8 +62,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-sos.html';?>	
-	
+			<?php include 'includes/ln-sos.html';?>	
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -72,17 +71,19 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<p>Protecting and restoring Puget Sound takes the coordinated effort of hundreds of partners who come together to plan, prioritize, and implement the actions needed to recover and sustain Puget Sound.</p>
- 
-<p>The analysis and findings of the 2015 State of the Sound reports are intended to help our partners and decisionmakers better understand the state of our ecosystem, where progress is being made, where challenges remain, and where focused investment is needed. The Report to the Governor and Legislature specifically responds to RCW 90.71.370(3).</p>
- 
-<p>This reporting effort focuses on answering the following questions:</p>
-        <ul>
-          <li>How is the ecosystem doing?</li>
-          <li>Are we making progress in implementing identified recovery actions? </li>
-          <li>What have we learned and what are our next steps?<br>
-		  </li>
-        </ul>
+			<p>Bavarian bergkase lancashire chalk and cheese. The big cheese fromage frais cheesy feet emmental mozzarella dolcelatte taleggio cheeseburger. Melted cheese danish fontina pecorino stilton bocconcini hard cheese manchego paneer. Cheesecake cheddar cow queso.</p>
+			<p>Gouda bocconcini bavarian bergkase. Chalk and cheese who moved my cheese manchego queso cheesy grin cheddar paneer cheeseburger. Airedale hard cheese cow dolcelatte halloumi cheesecake melted cheese mascarpone. Roquefort roquefort parmesan blue castello caerphilly swiss cauliflower cheese goat. Melted cheese the big cheese babybel croque monsieur.</p>
+			<p>Everyone loves red leicester cheese slices. Blue castello monterey jack everyone loves cheesy feet blue castello cheesy feet st. agur blue cheese brie. Airedale boursin edam gouda cheese slices cow pepper jack babybel. Paneer cream cheese roquefort lancashire paneer parmesan.</p>
+			<p>Smelly cheese say cheese boursin. Cheese slices caerphilly smelly cheese emmental pecorino smelly cheese pecorino cheesecake. Cut the cheese taleggio red leicester mozzarella camembert de normandie hard cheese st. agur blue cheese cheese strings. Halloumi cheeseburger cheese and wine stilton caerphilly rubber cheese cow paneer. Squirty cheese dolcelatte everyone loves macaroni cheese.</p>
+			<p>Cow danish fontina parmesan. Jarlsberg smelly cheese chalk and cheese pepper jack cheesy grin cheesy grin cheddar airedale. Roquefort squirty cheese camembert de normandie cream cheese ricotta cheese and wine goat jarlsberg. Cheesecake.<br>
+				<br>
+				<br>
+				<img class="img-responsive" src="images/water-quality-index.png" width="555" height="349" alt=""/><br>
+				<br>
+				<br>
+				<br>
+				<br>
+			</p>
 			<!-- InstanceEndEditable -->
 		</div>
 	
@@ -93,11 +94,23 @@
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="http://www.psp.wa.gov/vitalsigns">PUGET SOUND VITAL SIGNS</a></li>				<li role="presentation"><a href="#">ACTION AGENDA REPORT CARD</a></li>
-                				<li role="presentation"><a href="http://www.psp.wa.gov/vitalsigns">ACTION AGENA CENTER</a></li>
-
-
+				<li class="active" role="presentation"> <a href="#">PAST STATE OF THE SOUND</a></li>
+				<li class="active" role="presentation"> <a href="#">VITAL SIGNS</a></li>
 				<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+					<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
+					<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
+					<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
+						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->

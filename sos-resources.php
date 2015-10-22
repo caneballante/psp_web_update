@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 4;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -58,11 +62,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="ecosystem-status.php">ECOSYSTEM STATUS</a></li>
-				<li role="presentation"> <a href="action-agenda-progress.php">ACTION AGENDA PROGRESS</a></li>
-				<li role="presentation"> <a href="lessons-learned.php">LESSONS LEARNED &amp; RECOMMENDATIONS</a></li>
-				<li role="presentation"> <a href="sos-resources.php">RESOURCES</a></li>
-				<li role="presentation"></li>
+			<?php include 'includes/ln-sos.html';?>	
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -97,6 +97,34 @@
 				<li class="active" role="presentation"> <a href="#">PAST STATE OF THE SOUND</a></li>
 				<li class="active" role="presentation"> <a href="#">VITAL SIGNS</a></li>
 				<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+					<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
+					<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
+					<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
+						<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+					<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
+					<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
+					<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
+						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 		</div>

@@ -109,14 +109,18 @@ On September 22, EPA released a Request for Proposals titled “Puget Sound Acti
 		<p>Specific information about funding opportunities, including how to apply is available at the links below:</p>
 		<p><strong><a href="http://wdfw.wa.gov/grants/ps_marine_nearshore/">Marine and nearshore protection and restoration</a></strong> Lead Organization focuses on: Effective regulation and stewardship, strategic capital investments, programs that address high priority threats to the marine and nearshore ecosystem, and adaptive management. The state departments of Fish and Wildlife and Natural Resources are the Lead Organizations for this category.</p>
 	    <ul>
-	      <li><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=782&amp;Itemid=238">Six-Year Investment Strategy to Protect and Restore Marine and Nearshore Habitat</a>***MPS****</li>
+	      <li><a href="https://pspwa.box.com/LOWorkPlanMarineNearshore">Six-Year Investment Strategy to Protect and Restore Marine and Nearshore Habitat FFY2014-15</a></li>
+		  <li><a href="https://pspwa.box.com/LOWorkPlanMarineNearshoreTable">Six-Year Investment Strategy to Protect and Restore Marine and Nearshore Habitat Table FFY2014-15</a></li>
+		  
+		  
+https://pspwa.box.com/LOWorkPlanMarineNearshoreTable
       </ul>
 <p>For more information, please contact:<br />
         Patricia Jatczak, WDFW: <a href="mailto:Patricia.Jatczak@dfw.wa.gov">Patricia.Jatczak@dfw.wa.gov</a>, 360.902.2597</p>
 	    <p> </p>
 	    <p><a href="http://www.ecy.wa.gov/puget_sound/grants_fed_watershed.html"><strong>Watershed protection and restoration</strong></a> focuses on: Watershed characterization, land use and working lands, strategies to manage stormwater and strategies to protect and restore watershed ecosystems. The state departments of Ecology and Commerce are the Lead Organizations for this work.</p>
 	    <ul>
-	      <li><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=782&amp;Itemid=238">Six Year Investment Strategy to Protect and Restore Watersheds </a></li>
+	      <li><a href="https://pspwa.box.com/LOWorkPlanWatershed">Six Year Investment Strategy to Protect and Restore Watersheds FFY2014-15</a></li>
       </ul>
 <p>For more information, please contact:</p>
 <p> <br />
@@ -126,25 +130,25 @@ On September 22, EPA released a Request for Proposals titled “Puget Sound Acti
 	    <p> </p>
 	    <p><a href="http://www.ecy.wa.gov/puget_sound/grants_fed_toxics.html"><strong>Toxics and nutrients prevention, reduction and control</strong></a> Lead Organization focuses on:  Reducing toxic chemicals in products, preventing toxic chemicals in stormwater, determining the how human sources of nutrients affect Puget Sound, and reducing nutrient loadings in a prioritized fashion. The state Department of Ecology is the Lead Organization for this category.</p>
 	    <ul>
-	      <li><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=782&amp;Itemid=238">Six year Investment Strategy to Prevent, Reduce and Control Toxics and Nutrient Pollution</a>**MPS****</li>
+	      <li><a href="https://pspwa.box.com/LOWorkPlanPathogens">Six year Investment Strategy to Prevent, Reduce and Control Toxics and Nutrient Pollution FFY2014-15</a></li>
       </ul>
       <p>For more information, please contact:<br />
         Blake Nelson, Department of Ecology: <a href="mailto:bnel461@ECY.WA.GOV">bnel461@ECY.WA.GOV</a>, 360.407.6940</p>
 	    <p> </p>
 	    <p><a href="http://www.doh.wa.gov/CommunityandEnvironment/Shellfish/EPAGrants/PathogensGrant.aspx"><strong>Pathogen prevention, reduction and control </strong></a>Lead Organization focuses on:  Implementing local on-site sewage management plans, establishing sustainable local nonpoint pollution identification and correction programs, and reducing pathogen loadings through improved manure management. The state departments of Health and Ecology are the Lead Organizations.</p>
 	    <ul>
-   		  <li><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=782&amp;Itemid=238">Six-Year Investment Strategy to Prevent, Reduce and Control Pathogen Pollution</a>**MPS****</li>
+   		  <li><a href="https://pspwa.box.com/LOWorkPlanPathogens">Six-Year Investment Strategy to Prevent, Reduce and Control Pathogen Pollution FFY2014-15</a></li>
       </ul>
 	    <p>For more information, please contact:<br />
 	      Mary Knackstedt, Department of Health: <a href="mailto:Mary.Knackstedt@DOH.WA.GOV">Mary.Knackstedt@DOH.WA.GOV</a>, 360.236.3319</p>
 	    <p><br />
 	    		</p>
 	    <p><strong>Projects Funded by Lead Organizations</strong><br />
-          <a href="downloads/Funding/12132012EPAEcoProjectListrevised.pdf">Click here</a> to find a list of projects that Lead Organizations have funded to implement the Puget Sound Action Agenda. <br />
+          <a href="https://pspwa.box.com/s/jv7zp8dsaam8i31zko6vhn52yaffejb4">Click here</a> to find a list of projects that Lead Organizations have funded to implement the Puget Sound Action Agenda. <br />
         </p>
 	    <table width="100%" border="0" cellpadding="0" bordercolor="#89B7D5">
           <tr>
-            <td><a href="http://www.epa.gov/region10/map/funding/pugetsound_funding_map.html"><strong>EPA Puget Sound Funding Map (Web site) </strong></a></td>
+            <td><a href="http://psp.wa.gov/gis/NEPAtlas/NEPActivities"><strong>EPA Puget Sound Funding Map</strong></a></td>
           </tr>
         </table>
 		<!-- InstanceEndEditable -->
@@ -153,13 +157,16 @@ On September 22, EPA released a Request for Proposals titled “Puget Sound Acti
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
+					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="#">LINKS</a></li>
-					<li role="presentation"> <a href="#">LINKS</a></li>
-				
+					<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
+					<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
+					<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

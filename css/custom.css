@@ -36,6 +36,11 @@ a {
 	color: #00549a;
 	font-size: 12px;
 }
+/*adds external link icon*/
+a[href^="http"] {
+   background: url(../images/external_link_icon.gif) left no-repeat;
+   padding-left: 20px;
+}
 /*created this to make some email addresses smaller to fit in a table on the lead entities page*/
 .small-links {
 	font-size: 12px !important;
