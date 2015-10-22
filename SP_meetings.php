@@ -141,17 +141,6 @@ Tacoma, WA 98421-1801</p></td>
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-		<div class="right-nav-title">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="http://www.psp.wa.gov/science.php">Download Science Documents  *NEED LINK*</a></li>
-					<li role="presentation"> <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=224&amp;Itemid=238">By Laws *NEED LINK*</a></p></li>
-					<li role="presentation"> <a href="#">Meeting Archives *NEED LINK*</a></li>
-				<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-50-top ">BOARD CONTACT</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">

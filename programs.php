@@ -68,7 +68,7 @@
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 
-		<h2>Executive Management Team</h2>
+		<h2 class="margin-0-top">Executive Management Team</h2>
 			<p>The Executive Management Team is responsible for the strategic leadership and management oversight of the Puget Sound Partnership. The Executive Management Team includes the Executive Director, Deputy Director, and Director of Administrative Services. </p>
 		<h2>Administrative Services Division</h2>
 			<p>The Administrative Services Division mobilizes funding and advances policy by ensuring decisionmakers are well-informed and have the information they need to advance the most important recovery work. This division includes government relations, communications, media relations, and strategic support of the Puget Sound Leadership Council, Ecosystem Coordination Board, Science Panel, and Salmon Recovery Council. This group is also home to the agency&rsquo;s core support functions, including fiscal, human resources, administrative and IT services. </p>

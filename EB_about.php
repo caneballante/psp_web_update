@@ -128,14 +128,14 @@
     				</strong></p>
     		<ul>
     				<li><span style="font-weight: bold">Chris Wilke, </span><span style="font-style: italic">Puget Soundkeeper Alliance </span></li>
-					<li><span style="font-weight: bold">Joan Crooks</span>, <span style="font-style: italic">Washington Environmental Council</span></li>
+					<li><span style="font-weight: bold">Jessie Isreal</span>, <span style="font-style: italic">The Nature Conservancy</span></li>
     				
     				</ul>
     		<p><strong>Representing federal agencies<br />
     				</strong></p>
     		<ul>
     				<li><strong></strong><strong>Will Stelle, </strong><em>National Oceanic and Atmospheric Administration</em> </li>
-    				<li><strong>Rick Parkin, </strong><em>Environmental Protection Agency</em><strong><br />
+    				<li><strong>Angela Bonifaci, </strong><em>Environmental Protection Agency</em><strong><br />
     						</strong> </li>
     				<li><strong>Col. John G. Buck, </strong><span style="font-style: italic">U.S. Army Corps of Engineers</span></li>
     				</ul>
@@ -176,23 +176,6 @@
 	
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="#">Meeting Archives *NEED LINK*</a></li>
-					<li role="presentation"> <a href="#">Meeting Summaries *NEED LINK*</a></li>
-					<li role="presentation"> <a href="#">By Laws *NEED LINK*</a></li>
-					<li role="presentation"> <a href="../downloads/EC2015/Final Funding Strategy Report Volume 1_ Findings and Recommendations_2014_09_10.pdf">ECB Funding Subcommittee Final Report Volume 1 (September 2014) *LOCAL HOST - MOVE LINK TO BOX*</a></li>
-					<li role="presentation"> <a href="../downloads/EC2015/Final Funding Strategy Report Volume 2_Technical Report_2014_09_10.pdf">ECB Funding Subcommittee Final Report Volume 2 (September 2014) *LOCAL HOST - MOVE LINK TO BOX*</a></li>
-							<li role="presentation"> <a href="#">Strategic Iniative Subcommittee  *NEED LINK*</a></li>
-					<li role="presentation"> <a href="#">Interim Targets *NEED LINK*</a></li>
-			
-			
-			<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-50-top ">BOARD CONTACT</div>
 				<!-- InstanceEndEditable -->

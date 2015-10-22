@@ -128,21 +128,6 @@
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Meeting Archives *NEED LINK*</a></li>
-				<li role="presentation"> <a href="#">Meeting Summaries *NEED LINK*</a></li>
-				<li role="presentation"> <a href="#">By Laws *NEED LINK*</a></li>
-				<li role="presentation"> <a href="../downloads/EC2015/Final Funding Strategy Report Volume 1_ Findings and Recommendations_2014_09_10.pdf">ECB Funding Subcommittee Final Report Volume 1 (September 2014) *LOCAL HOST - MOVE LINK TO BOX*</a></li>
-				<li role="presentation"> <a href="../downloads/EC2015/Final Funding Strategy Report Volume 2_Technical Report_2014_09_10.pdf">ECB Funding Subcommittee Final Report Volume 2 (September 2014) *LOCAL HOST - MOVE LINK TO BOX*</a></li>
-				<li role="presentation"> <a href="#">Strategic Iniative Subcommittee  *NEED LINK*</a></li>
-				<li role="presentation"> <a href="#">Interim Targets *NEED LINK*</a></li>
-				<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-50-top ">BOARD CONTACT</div>
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">

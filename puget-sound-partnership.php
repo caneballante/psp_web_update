@@ -68,7 +68,7 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<h2>WHAT DOES THE PARTNERSHIP DO</h2>
+		
 <p>The Puget Sound Partnership is the state agency leading the region’s collective effort to restore and protect Puget Sound. The Puget Sound Partnership brings together hundreds of partners to mobilize partner action around a common agenda, advance Sound investments, and advance priority actions by supporting partners. </p>
 <h3>Vision</h3>
 <p>Vibrant, enduring natural systems and communities</p>

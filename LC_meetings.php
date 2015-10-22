@@ -142,18 +142,6 @@
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-		<div class="right-nav-title">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Leadership Council By Laws *need link*</a></li>
-				<li role="presentation"> <a href="#">Meeting Archives *need link*</a></li>
-				<li role="presentation"> <a href="#">Meeting Summaries *need link*</a></li>
-				<li role="presentation"> <a href="#">Approved Resolutions *need link*</a></li>
-				<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-50-top ">BOARD CONTACT</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
