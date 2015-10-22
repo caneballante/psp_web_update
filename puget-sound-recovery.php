@@ -26,14 +26,18 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 1;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion3" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion4" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion5" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -43,52 +47,46 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
-		<div class="col-md-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
-			<h1>PUGET SOUND RECOVERY 101</h1>
+		<div class="col-md-3 padding-20-top"></div>
+		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+			<h1>ABOUT THE PUGET SOUND</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-	
-		<div class="col-md-10 padding-20-top padding-0-left content-column">
-		<!-- InstanceBeginEditable name="9col_content" -->
-			<div id="lipsum">
-				<h2>WHAT IS THE PUGET SOUND?</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non neque non nisi lobortis blandit sit amet ac est. Cras a dui elit. Pellentesque sit amet libero aliquet, volutpat sem eu, porta mi. Aenean a ante vulputate, accumsan erat vitae, pretium quam. Ut accumsan aliquam odio vitae venenatis. Phasellus porttitor, metus sit amet condimentum congue, leo purus condimentum dui, at vulputate justo lorem sit amet velit. Nulla porta pharetra nisi, non porta ligula rutrum id. Praesent dignissim consectetur velit, eget aliquet nibh cursus sodales. Phasellus non enim nisl. Vestibulum vitae odio ligula. Vivamus congue a elit sed malesuada. Praesent elit neque, vestibulum quis elementum vitae, semper vel nunc. Maecenas tincidunt finibus porta. In vitae lacinia erat. Praesent non mattis nunc, id tempus nisi. In eu laoreet elit, a egestas metus.				</p>
-				<p>MAP?</p>
-				<p>Sed ut lacus cursus, gravida diam ut, dictum nunc. Proin auctor ornare mattis. Curabitur quis gravida justo. Quisque sit amet pellentesque velit. Nullam semper tempus rutrum. Mauris vehicula mauris at ante feugiat imperdiet. Sed id erat ex. Nullam non sem iaculis nibh cursus tincidunt sit amet molestie libero. Ut nulla elit, tempus ac tempus sed, venenatis non leo. Nunc euismod leo at vehicula ullamcorper. Praesent euismod scelerisque arcu, fermentum fermentum magna eleifend id. Morbi ac felis orci. Curabitur non efficitur massa. In vitae diam et magna dapibus suscipit id ut mi. Morbi volutpat orci metus, et laoreet mi elementum vitae. Phasellus nisi enim, varius nec pharetra ut, accumsan non risus.</p>
-				<h2>WHAT IS THE PROBLEM?</h2>
-				<p>Aenean vel orci interdum, tincidunt ipsum sed, sagittis lorem. Maecenas ut neque metus. Aliquam a libero dapibus, tempus magna non, dictum nunc. Proin lacinia leo et lorem vestibulum pellentesque. Etiam sed dapibus arcu, id fermentum ligula. Fusce ligula massa, pulvinar sed odio eu, tempus venenatis turpis. Ut rutrum ligula odio. Proin vitae faucibus ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed pharetra, urna nec pulvinar aliquet, leo mi fermentum justo, eget eleifend eros leo a eros. Etiam vulputate in purus vel pharetra.				</p>
-				<p>PHOTOS PROBLEM EXAMPLES?</p>
-				<p>Phasellus quis volutpat diam. Nunc malesuada nibh metus, vitae tempor magna finibus ac. Integer elementum ac risus elementum dapibus. Donec a ipsum vel tortor tristique efficitur non at metus. Proin non fringilla ligula, ac placerat metus. Pellentesque fringilla cursus venenatis. Ut scelerisque interdum auctor.</p>
-				<h2>WHAT DOES THE PARTNERSHIP DO?</h2>
-				<p>Nunc lacinia nisi lobortis, rhoncus eros vitae, facilisis erat. Etiam blandit semper quam quis ullamcorper. Quisque consequat vehicula tellus sit amet feugiat. Suspendisse sodales tempus dolor, tristique rhoncus neque semper quis. Pellentesque maximus sem at mauris lacinia, at pulvinar arcu varius. Praesent gravida porta metus, ac cursus elit. Sed enim libero, vestibulum vel convallis quis, interdum id ante. Proin vitae mauris est. Nam eget lacus imperdiet lorem rutrum fringilla. Donec quis euismod tortor. Pellentesque vulputate vehicula tortor in semper. Morbi turpis nibh, accumsan feugiat tempor quis, pulvinar quis purus. Nulla turpis orci, blandit in lacus a, sollicitudin luctus orci. Duis rutrum lacinia nunc, sed aliquet elit.</p>
-				<p>Proin quis nunc a nisl viverra ultricies. Curabitur in ligula vitae risus condimentum scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis nec neque mollis, accumsan mauris a, dapibus lorem. Pellentesque justo arcu, ultricies non porta vel, malesuada sed dui. Donec iaculis et est eget luctus. Sed euismod massa et enim tincidunt, id maximus erat imperdiet. Nunc maximus eros nec lacinia gravida. Cras id velit a urna semper pretium vel quis dolor. Nulla accumsan pulvinar justo vel venenatis. Curabitur a tellus leo. Nullam maximus ultrices dolor.</p>
-				<h2>WHAT CAN YOU DO?</h2>
-				<p>Nulla sed dolor eget est scelerisque rutrum. Donec ut suscipit sem. Vestibulum convallis luctus eros, in pharetra libero ullamcorper volutpat. Vivamus porttitor augue sed sem vulputate dignissim. Integer rutrum nisi est. Ut id ante vel diam aliquam pretium vel sagittis risus. Cras eleifend, tortor bibendum laoreet varius, nibh odio molestie dui, et venenatis leo enim eu massa. Vestibulum feugiat, nulla et suscipit tincidunt, nisi enim maximus erat, sit amet blandit ligula enim nec nisi. Curabitur pellentesque luctus rutrum. Duis tempus, est quis condimentum laoreet, orci urna malesuada massa, eu pulvinar metus elit quis erat.</p>
-				<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris sollicitudin semper molestie. Nulla libero risus, venenatis nec ante ac, aliquet sollicitudin nisi. Phasellus pellentesque nisl eget augue imperdiet, ac interdum felis scelerisque. Praesent nibh sem, vulputate at egestas at, tempus a dui. Aliquam lorem nibh, tempus at quam ut, egestas faucibus orci. Duis quis est tempor, accumsan sem in, maximus libero. Vestibulum ac rutrum odio, id luctus nisl. Aliquam et placerat </p>
+		<div class="col-md-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+			<!-- InstanceBeginEditable name="left_nav" -->
+				<?php include 'includes/ln-psp-overview.html';?>	
+				
+			<!-- InstanceEndEditable --> 
+			</ul>
+		
 		</div>
-			<br>
-			<p>&nbsp;</p>
-		<!-- InstanceEndEditable -->
+			
+	
+		<div class="col-md-7 padding-20-top content-column">
+		<!-- InstanceBeginEditable name="6col_content" -->
+			<h2 class="margin-0-top"> WHAT IS PUGET SOUND</h2>
+<p>Puget Sound is a deep fjord estuary located within the broader Salish Sea, south of the border between the United States and Canada. As a saltwater body, it is far from being uniform: each basin, carved by recessing glaciers more than 10,000 years ago, varies in its physical, chemical, and biological properties. Together they contain an astounding diversity of life.</p>
+<p>For the purposes of Puget Sound ecosystem recovery, Puget Sound is defined as all saltwaters inside the international boundary line between Washington and British Columbia and lying east of the junction of the Pacific Ocean and the Strait of Juan de Fuca. It also includes the entire watershed—the rivers and streams that drain into Puget Sound, the lands that drain into those surface waters, as well as the Strait of Juan de Fuca and the San Juan islands. </p>
+<p>Considered the largest estuary by volume in the United States (with perhaps the exception of unexplored estuaries in Alaska), the Puget Sound is deep and vast, a complex ecosystem encompassing mountains, farmlands, cities, rivers, forests, and wetlands.</p>
+<p>Humans have long relied on the Puget Sound watershed for healthy food and clean water and the other services it provides, like reducing the impact of droughts and floods. Puget Sound supports a large part of our state&rsquo;s economy and provides vital recreational, spiritual, and other essential quality of life benefits. </p>
+<strong><a href="http://www.eopugetsound.org">Encyclopedia of Puget Sound</a></strong>  |  <strong><a href="#">Puget Sound Fact Book</a></strong><a href="#">
+</p>
+</a>
+			<h2>WHAT IS THE PROBLEM</h2>
+				<p>Human use over the past century has damaged Puget Sound. </p>
+				<p>The Puget Sound region is experiencing degradation of water quality, water quantity, and habitat. Many species are in decline, while the human population keeps growing, bringing with it more land development, more infrastructure, and more pollution. And the threat of climate change is ever-present, with warmer streams and ocean waters, reduced snowpack, more extreme weather events, and increased fires and floods. As a result, the pressures on the ecosystem are relentless and continue to take their toll on Puget Sound and the wellbeing of residents around the region.</p>
+			<p>Puget Sound will never be the same as it was 100 years ago. But the future wellbeing of Puget Sound and residents around the region is being defined by today&rsquo;s actions. </p>
+	<strong><a href="sos.php">State of the Sound</a></strong> | <strong><a href="vitalsigns/">Puget Sound Vital Signs</a></strong><a href="vitalsigns/">
+	</p>
+	</a>		<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="#">WHAT IS PUGET SOUND</a></li>
-					<li role="presentation"> <a href="#">WHAT IS THE PROBLEM</a></li>
-					<li role="presentation"> <a href="#">WHAT DOES THE PARTNERSHIP DO</a></li>
-					<li role="presentation"> <a href="#">WHAT CAN YOU DO</a></li>
-				
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>
 	<!--END OF ROW -->

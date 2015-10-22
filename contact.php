@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 7;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -83,7 +87,7 @@
 					<input name="authenticity_token" type="hidden" value="nJ2M3jFoBio2OxjDYTxoAVxjuoO4hpMu9D91mts0scw=" />
 				</div>
 				<fieldset>
-					<legend> You can subscribe to receive email updates from the Puget Sound Partnership below. </legend>
+					<h2> You can subscribe to receive email updates from the Puget Sound Partnership below. </h2>
 					<div> To sign up for updates or to access your subscriber preferences, please enter your contact information below. </div>
 					<ol class='form'>
 						<li>

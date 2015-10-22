@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 4;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -54,11 +58,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="staff.php">PARTNERSHIP STAFF</a></li>
-				<li role="presentation"> <a href="press.php">PRESS RELEASES</a></li>
-				<li role="presentation"> <a href="employment.php">EMPLOYMENT OPPORTUNITIES</a></li>
-				<li role="presentation"> <a href="programs.php">PROGRAM DESCRIPTIONS</a></li>
-				<li role="presentation"> <a href="contact.php">CONTACT US</a></li>
+				<?php include 'includes/ln-psp-overview.html';?>	
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -68,7 +68,7 @@
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" --> 
 			<!--EXECUTIVE TEAM-->
-			<h5>Sheida Sahandy</h5>
+			<h5 class="margin-0-top">Sheida Sahandy</h5>
 			<p> Executive Director<br />
 				360.464.1228 | <a href="mailto:sheida.sahandy@psp.wa.gov">sheida.sahandy@psp.wa.gov</a>
 			

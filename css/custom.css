@@ -3,7 +3,7 @@
 body {
 	font-family: 'prenton', san-serif;
 	background-color: #FFF;
-	color: #555;
+	color: #333;
 }
 html {
 	-webkit-text-size-adjust: 100%;
@@ -33,8 +33,8 @@ h6 {
     letter-spacing: 1px;
 }
 a {
-	color: #036B93;
-	font-size: 12px
+	color: #00549a;
+	font-size: 12px;
 }
 /*created this to make some email addresses smaller to fit in a table on the lead entities page*/
 .small-links {
@@ -43,7 +43,7 @@ a {
 
 
 .bold-link a {
-	color: #036B93;
+	color: #00A4F6;
 	font-size: 13px;
 	font-weight:900;
 }

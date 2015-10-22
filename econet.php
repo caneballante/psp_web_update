@@ -74,17 +74,18 @@
 		
 
 			<p>From snow caps to white caps, people around the Puget Sound region have a shared interest in a healthy Puget Sound.  This includes businesses, governments, organizations, tribes and residents. When these groups work together, they help ensure that Puget Sound continues to provide vital economic, environmental and cultural benefits for both current and future generations.</span></p>
-			<p>&nbsp;</p>
-                        
-                  <p><a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="_blank"><img src="images/ECOnet_map.jpg" alt="ECO Network Area Map" name="" border="0" /></a><br />
-                  <a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="_blank">Link to the interactive ECO Net Map</a></p>   
+		
 		 <h2>What is ECO Net?</h2>
 								<p>ECO Net stands for Education, Communication, and Outreach Network.  It is a community of professionals committed to working collaboratively to protect and enhance the health and vitality of the Puget Sound region.  Puget Sound Partnership provides funding and program support to this network.</p>
 
 <p>ECO Net members represent a diverse cross-section of stakeholders that collaborate on outreach and projects that improve environmental and community health. Members share resources and knowledge, and coordinate efforts to leverage and strengthen local programs for a greater community impact. </p>
 <p>There are twelve local ECO Net chapters across the twelve-county Puget Sound region. Each local chapter has an elected coordinator. Member meetings are held several times each year. These local ECO Nets are designed to serve the specific needs of their membership, with network structure varying county to county.  Members can also take advantage of regional resources including: funding, research, community events and a comprehensive vision for restoring Puget Sound.</p>
 
-						<h2>Who are ECO Net Members?</h2>
+        	<p>&nbsp;</p>
+                  
+            <p><a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="_blank"><img src="images/ECOnet_map.jpg" alt="ECO Network Area Map" name="" border="0" /></a><br />
+                  <a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="_blank">Link to the interactive ECO Net Map</a></p> 
+			<h2>Who are ECO Net Members?</h2>
 								<p>The network consists of more than 470 organizations across the region and has a diverse membership representing non-profit organizations, community groups, learning centers, conservation districts, public and private schools, businesses, local and regional governments, tribes, and individuals. Members work on a wide variety of issues that positively impact the health of the Puget Sound, ranging from ecosystem restoration and environmental health to sustainable communities and healthy economies.</p>
 
 <p>Should <em>you</em> be an ECO Net member? Look at the “Becoming a Member” section below.</p>
@@ -125,7 +126,7 @@
 		<h2>Events &amp; Funding Opportunities </h2>
 			<p><a href="http://www.pugetsoundstartshere.org/events-list/"><strong>Events in your area</strong></a></p>
 		<h2>ECO Net Connections</h2>
-			<p>There are 12 local ECO Net chapters which meet on a regular basis to collaborate and coordinate efforts to provide education, communication and outreach on environmental issues for their area.  <strong><a href="downloads/econet/2014_15 ECONetCoordRoster.pdf">New members interested in getting involved are encouraged to contact the local ECO Net coordinator.</a></strong></p>
+			<p>There are 12 local ECO Net chapters which meet on a regular basis to collaborate and coordinate efforts to provide education, communication and outreach on environmental issues for their area.  <strong><a href="https://pspwa.box.com/s/s22u8gu3f1pdmhw9c731j7no0hs202yq">New members interested in getting involved are encouraged to contact the local ECO Net coordinator.</a></strong></p>
              <p> Some of the 12 local ECO Net chapters have their own websites listed below.  If your local area is not listed below, use the link above to contact the coordinator in your area.</p>
 				<ul><li><a href="http://keepeconet.weebly.com/ " target="_blank">Kitsap ECO Net</a></li> 
 				<li><a href="http://whidbey-eco.net/" target="_blank">Whidbey ECO Net </a></li>
@@ -144,6 +145,7 @@
 			<h2>ECO NET CONTACT</h2>
 			<p>Alexandra Doty</p>
 			<p><a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
+			<p>(360) 819-6870</p>
 			<p><a href="https://pspwa.box.com/s/supkihvxkg574ikgma99x364bsuynds2"><strong>Resources for ECO Net Members</strong></a></p> 
 		 
 

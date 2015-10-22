@@ -26,6 +26,20 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 6;
+</script> 
+
+<?php /*?><?php
+include_once('.newinclude.php');
+$con=new MyPDO();
+$qry = "SELECT id,DATE_FORMAT(dateCreated, '%m-%d-%Y') as CreationDate,title,org,storyLink,pspRel FROM story WHERE pspRel='true' AND dateCreated > '20111231' and dateCreated < '20151231' ORDER BY dateCreated DESC ";
+$stmt=$con->prepare($qry);
+
+if($stmt->execute()) { 
+$num=$stmt->rowCount();
+?><?php */?>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -54,11 +68,8 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="staff.php">PARTNERSHIP STAFF</a></li>
-				<li class="active"role="presentation"> <a href="press.php">PRESS RELEASES</a></li>
-				<li role="presentation"> <a href="employment.php">EMPLOYMENT OPPORTUNITIES</a></li>
-				<li role="presentation"> <a href="programs.php">PROGRAM DESCRIPTIONS</a></li>
-				<li role="presentation"> <a href="contact.php">CONTACT US</a></li>
+			<?php include 'includes/ln-psp-overview.html';?>	
+				
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -66,7 +77,36 @@
 			
 	
 		<div class="col-md-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->PRESS RELEASE PAGE<!-- InstanceEndEditable -->
+		<!-- InstanceBeginEditable name="6col_content" -->
+		
+	
+    			<?php include('includes/media_contact.html')?> 
+	  <h2>Latest News Releases</h2>
+	  <p>This will work when we launch</p>
+<div class="news">
+<table>             
+<?php /*?><?php
+$rows=$stmt->fetchAll(PDO::FETCH_NUM);
+#print_r($rows);
+#setlocale(LC_ALL, 'en_US');
+foreach($rows as $row) {
+foreach($row as $rw=>$val) {
+ini_set('mbstring.substitute_character', 32);
+$row[$rw]=mb_convert_encoding(stripslashes($val), 'UTF-8', 'UTF-8');}
+#$row[$rw]=iconv("UTF-8", "ISO-8859-1//IGNORE", $row[$rw]);
+?>
+<tr><td width="70">     
+<?php echo $row[1]; ?></td>
+<td><?php echo "<a href='http://www.psp.wa.gov/pressreleases/partnership_release.php?id=".$row[0]."'>".$row[2]."</a></td><td>";	
+#if(!empty($row[3])) { echo $row[3]."</td>";} else {echo "</td>";}
+}
+}
+?><?php */?></tr>
+	  						</table>
+</div>		
+		
+		
+		<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 

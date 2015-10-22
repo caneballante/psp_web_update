@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 3;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -54,11 +58,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="staff.php">PARTNERSHIP STAFF</a></li>
-				<li role="presentation"> <a href="press.php">PRESS RELEASES</a></li>
-				<li role="presentation"> <a href="employment.php">EMPLOYMENT OPPORTUNITIES</a></li>
-				<li class="active" role="presentation"> <a href="programs.php">PROGRAM DESCRIPTIONS</a></li>
-				<li role="presentation"> <a href="contact.php">CONTACT US</a></li>
+				<?php include 'includes/ln-psp-overview.html';?>	
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -67,28 +67,16 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<h2 class="margin-0-top">OUR Vision</h2>
-			<p>Vibrant, enduring natural systems and communities.</p>
-	<h2>OUR Mission</h2>
-			<p>Accelerate the collective effort to recover and sustain the Puget Sound. </p>
-		<h2>OUR ROLE</h2>
-			<p>The Puget Sound Partnership is the state agency mobilizing the region&rsquo;s collective effort to restore and sustain Puget Sound, the largest estuary in the United States. The Partnership plays a backbone role in bringing together hundreds of partners to develop and implement the most important actions for accelerating recovery. We do this by:</p>
-		<ul>
-			<li><strong>Mobilizing partners around a shared</strong> <strong>agenda</strong>. We steward the effort to collaboratively build the Puget Sound Action Agenda so that recovery resources can be efficiently allocated based on a science-driven, prioritized system of actions. We ensure decisionmakers are well-informed and have the information they need to do their part in advancing ecosystem recovery.  </li>
-			<li><strong>Tracking progress and improving our systems through common measures. </strong>We advance a shared, science-based system of measurement and monitoring that allows assessment of actions for accountability, effectiveness, and progress. This information helps inform decisions about the most efficient and effective ways to allocate future investments. </li>
-			<li><strong>Supporting partners in advancing the most critical actions. </strong>We strive to remove financial, regulatory and resource barriers, direct outside resources toward priority actions, improve the policy and regulatory environment, and work to catalyze the system to get the job done.</li>
-		</ul>
-		
-		<h2>PROGRAM DESCRIPTIONS</h2>
-		<h3>Executive Management Team</h3>
+
+		<h2>Executive Management Team</h2>
 			<p>The Executive Management Team is responsible for the strategic leadership and management oversight of the Puget Sound Partnership. The Executive Management Team includes the Executive Director, Deputy Director, and Director of Administrative Services. </p>
-		<h3>Administrative Services Division</h3>
+		<h2>Administrative Services Division</h2>
 			<p>The Administrative Services Division mobilizes funding and advances policy by ensuring decisionmakers are well-informed and have the information they need to advance the most important recovery work. This division includes government relations, communications, media relations, and strategic support of the Puget Sound Leadership Council, Ecosystem Coordination Board, Science Panel, and Salmon Recovery Council. This group is also home to the agency&rsquo;s core support functions, including fiscal, human resources, administrative and IT services. </p>
-		<h3>Local Ecosystem Recovery</h3>
+		<h2>Local Ecosystem Recovery</h2>
 			<p>The Local Ecosystem Recovery Program works closely with the region&rsquo;s local integrating organizations and salmon recovery watershed groups to align actions, remove barriers, and direct resources to advance the most important actions. This program includes several watershed-focused Ecosystem Recovery Coordinators who ensure decision-makers are well-informed and also provide resources, technical assistance, and help overcome local barriers by working with partners to find regional solutions. </p>
-		<h3>Science &amp; Evaluation</h3>
+		<h2>Science &amp; Evaluation</h2>
 			<p>The Science &amp; Evaluation Program is responsible for coordinating and implementing a shared, science-based system of measurement and monitoring that allows assessment of collective actions. This team&rsquo;s work informs updates to the Puget Sound Action Agenda by tracking the status of Near Term Actions and ecosystem recovery indicators. Science &amp; Evaluation staff report ecosystem recovery progress through the Puget Sound Report Card and Vital Signs websites, as well as the biennial State of the Sound report. The Science &amp; Evaluation Program also produces the Biennial Science Work Plan and provides support for the Puget Sound Ecosystem Monitoring Program. </p>
-		<h3>Policy &amp; Planning</h3>
+		<h2>Policy &amp; Planning</h2>
 		<p>	The Policy &amp; Planning Program works with partners to create a prioritized list of actions to reach desired ecosystem recovery targets through a shared roadmap called the Action Agenda. With this shared roadmap that focuses partners and actions on the highest and best investments for recovery, the Policy &amp; Planning Program leads policy efforts to remove barriers to recovery and develops social strategies to help partners effectively engage the public. </p>
 	
 		<!-- InstanceEndEditable -->
