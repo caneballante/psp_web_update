@@ -31,7 +31,14 @@ $(window).resize(function() {
 	   $(".menu_button_small").hide();
 }
 // JQuery to make whole div of news box clickable
-  $(".newsbox").click(function () {
+	$(".newsbox").click(function () {
         window.open($(this).find("a:first").attr("href"));
         return false;
     });
+// JQuery to set the appropriate left nav item to "active". navSelected is set in the html head and matches the order with that page appears in the nav	
+$( document ).ready(function() {
+    console.log(navSelected);
+	 console.log("maybe");
+	$("#nav"+navSelected).addClass("active");
+});
+	
