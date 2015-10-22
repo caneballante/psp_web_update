@@ -41,7 +41,8 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image8">
 
-<div class="overview-quote pull-right"><h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3></div>
+<div class="overview-quote pull-right">
+	<h3>&nbsp;</h3></div>
 
  </header>
 <!-- InstanceEndEditable -->  
@@ -50,6 +51,7 @@
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>Salmon Recovery Status</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -73,10 +75,8 @@
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			
-			<h1>Salmon Recovery in Puget Sound</h1><br /><br />
-    		<h3>What is the status of Salmon Recovery in Puget Sound?</h3>
-		<p>
-				Puget Sound was once home to more populations of Chinook and other salmon with a greater diversity of traits than what exists today. Only 22 of at least 37 historic Chinook populations remain. The remaining Chinook salmon are at only 10% of their historic numbers, with some down lower than 1% of their historic numbers. The decline in salmon is closely associated with the decline in the health of Puget Sound and therefore requires a coordinated, ecosystem-wide restoration effort. </p>
+	
+		<p>Puget Sound was once home to more populations of Chinook and other salmon with a greater diversity of traits than what exists today. Only 22 of at least 37 historic Chinook populations remain. The remaining Chinook salmon are at only 10% of their historic numbers, with some down lower than 1% of their historic numbers. The decline in salmon is closely associated with the decline in the health of Puget Sound and therefore requires a coordinated, ecosystem-wide restoration effort. </p>
 		
 <p>
 		Salmon recovery is guided by implementation of the Puget Sound Salmon Recovery Plan, adopted by the National Oceanic and Atmospheric Administration (NOAA) in January 2007. This recovery plan was developed by Shared Strategy, a grassroots collaborative effort to protect and restore salmon runs across Puget Sound. Shared Strategy engaged local citizens, tribes, technical experts and policy makers to build a practical, cost-effective recovery plan endorsed by the people living and working in the watersheds of Puget Sound. See the <a href="http://www.sharedsalmonstrategy.org">Shared Strategy website</a> for additional information on the creation and materials of the planning process. </p>

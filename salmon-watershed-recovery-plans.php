@@ -40,9 +40,7 @@
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image8">
-	<div class="overview-quote pull-right">
-		<h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3>
-	</div>
+	<div class="overview-quote pull-right"></div>
 </header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content">
@@ -50,6 +48,7 @@
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>Salmon Recovery OVERVIEW</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>

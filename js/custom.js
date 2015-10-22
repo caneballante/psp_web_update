@@ -34,7 +34,6 @@ $(window).resize(function() {
 	$(".newsbox").click(function () {
         window.open($(this).find("a:first").attr("href"), '_self');
         return false;
-		console.log("yo beetches");
     });
 // JQuery to set the appropriate left nav item to "active". navSelected is set in the html head and matches the order with that page appears in the nav	
 $( document ).ready(function() {
