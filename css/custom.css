@@ -5,6 +5,13 @@ body {
 	background-color: #FFF;
 	color: #333;
 }
+@media print {
+	body {
+      
+     background: #fff;
+	  color: #000;
+   }
+}
 html {
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
@@ -444,6 +451,12 @@ intro .brand-heading {
     background-size: cover;
     -o-background-size: cover;
 }
+/*turns off top image for all pages on print*/
+@media print {
+.overview-page-image-style {
+    display:none;
+  	 }
+}
 .overview-quote {
 	width:20%;
 	margin:0px 50px 0px  0px;
@@ -473,6 +486,13 @@ intro .brand-heading {
 	text-align:center;
 }
 }
+/*turns off top nav for all pages on print - NOT SURE WHETHER TO KEEP THIS
+@media print {
+	.nav-leftside-custom {
+    display:none;
+  	 }
+}
+*/
 /*right nav*/
 
 .right-nav-title{

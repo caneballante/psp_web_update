@@ -84,6 +84,17 @@
 		<div class="row margin-20-top">
 			<div class="col-md-3">
 				<div class="newsbox">
+					
+					<div class="newsbox-text">
+						<strong>9.28.15</strong><br>
+						NEWS:<br>
+						
+					Science Panel to discuss Biennial Science Work Plan at Oct. 28 meeting in Everett<br>
+<a href="SP_meetings.php">LEARN MORE</a> </div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="newsbox">
 				
 					<div class="newsbox-text"><strong>11.2.15</strong><br>
 						JOB OPPORTUNITY:<br> 
@@ -99,16 +110,7 @@ SUBMIT A PROPOSAL:<br>
  Now is the time to develop Near Term Action proposals for the 2016 Action Agenda update. <a href="2016_AA_NTA.php">LEARN MORE</a></div>
 				</div>
 			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					
-					<div class="newsbox-text">
-						<strong>9.28.15</strong><br>
-						BLOG:<br>
-						
-					Congressman Heck introduces PUGET SOS Act in the U.S. House of Representatives...<a href="http://www.psp.wa.gov/blog/?p=539">LEARN MORE</a> </div>
-				</div>
-			</div>
+			
 			<div class="col-md-3">
 				<div class="newsbox">
 				
@@ -124,37 +126,35 @@ EPA REQUEST FOR PROPOSALS:<br>
 		<div class="row light-blue-fill">
 			<div class="col-md-3">
 				<div class="newsbox">
-					<div class="newsbox-date">DEC<br>
-						3-4</div>
-					<div class="newsbox-text"><a href="LC_meetings.php" target="_self">LEADERSHIP COUNCIL MEETING,<br>
-						LOCATION TBD </a><br>
-					</div>
+					<div class="newsbox-date">OCT 28</div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL MEETING,<br>
+						PORT OF EVERETT WATERFRONT CENTER</a></div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
-					<div class="newsbox-date">NOV<br>
-						12</div>
+					<div class="newsbox-date">NOV<br>12</div>
 					<div class="newsbox-text">
 						<a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
-							MEETING, LYNNWOOD CONVENTION CENTER </a><br>
-					</div>
+							MEETING, LYNNWOOD CONVENTION CENTER </a><br></div>
 				</div>
 			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-date">DEC <br>
-						15-16</div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL MEETING,<br>
-						LOCATION TBD </a></div>
-				</div>
-			</div>
+		
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-date">NOV<br>
 						19</div>
 					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
 						EDMOND CENTER FOR THE ARTS</a></div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-date">DEC<br>
+						3-4</div>
+					<div class="newsbox-text"><a href="LC_meetings.php" target="_self">LEADERSHIP COUNCIL MEETING,<br>
+						LOCATION TBD </a><br>
+					</div>
 				</div>
 			</div>
 		</div>
