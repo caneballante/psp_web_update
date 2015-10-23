@@ -76,7 +76,7 @@
 <p>Each plan accomplishes the following:</p>
 				  
 	
-				<ul class="notthenavdammittwo">
+				<ul>
 						<li>Identifies priority approaches for achieving a specific recovery target </li>
 						<li>Assesses and combines elements of local and regional recovery efforts, ongoing programs, Near Term Actions from the <a href="http://www.psp.wa.gov/action_agenda_center.php">Puget Sound Action Agenda</a>, and ecosystem pressures from the <a href="http://wdfw.wa.gov/grants/ps_marine_nearshore/files/2014_puget_sound_pressures_assessment.pdf">Puget Sound Pressure Assessment</a>. </li>
 						<li>Identifies monitoring activities, research priorities, and adaptive management components</li>
@@ -85,10 +85,10 @@
 						</ul>
 				<h2>TEST-CASE IMPLEMENTATION STRATEGIES TO INFORM FUTURE EFFORTS</h2>
 				<p>Work began in early 2015 to develop the first of three test-case, or pilot, Implementation Strategies for the Puget Sound Vital Signs of <a href="http://www.psp.wa.gov/vitalsigns/estuaries.php">Estuaries</a>, <a href="http://www.psp.wa.gov/vitalsigns/shellfish_beds_reopened.php">Shellfish</a> beds and <a href="http://www.psp.wa.gov/vitalsigns/salmon.php">Chinook</a> salmon. </p>
-				<p>The Estuaries and Chinook salmon Vital Signs are pilot Implementation Strategies for the <a href="http://www.psp.wa.gov/action_agenda_strategic_initiatives.php">Habitat Strategic Initiative</a> in the Puget Sound Action Agenda while the Shellfish beds Implementation Strategy relates to the <a href="http://www.psp.wa.gov/downloads/2014_action_agenda/Final%202014%20action%20agenda%20update/Section2_StratInits_20140617.pdf">Shellfish Strategic Initiative</a>. </p>
+				<p>The Estuaries and Chinook salmon Vital Signs are pilot Implementation Strategies for the <a href="http://www.psp.wa.gov/action_agenda_strategic_initiatives.php">Habitat Strategic Initiative</a> in the Puget Sound Action Agenda while the Shellfish beds Implementation Strategy relates to the <a href="https://pspwa.box.com/s/wq6u6hencdsndpf0qowrfkhimz1dke87">Shellfish Strategic Initiative</a>. </p>
 				<p>These pilot Implementation Strategies will test the approach and generate lessons learned to be used in producing a guidance document that will support future Implementation Strategy development. </p>
 				<h2>TIMELINE FOR DEVELOPING TEST-CASE IMPLEMENTATION STRATEGIES</h2>
-				<ul class="notthenavdammittwo">
+				<ul>
 						<li><strong>Late winter 2015:</strong> Topics for the test-case Implementation Strategies (Estuaries, Shellfish beds, and Chinook salmon) were selected based on results of a survey of the <a href="http://www.psp.wa.gov/downloads/2014_action_agenda/Final%202014%20action%20agenda%20update/AppA_Mngmnt-Conference.pdf">Puget Sound Management Conference</a>. The survey solicited feedback on the criteria such as partner capacity, distribution of implementation strategies amongst the strategic Initiatives, responsiveness of the indicator, and the sequence for which IS should be developed. The survey also provided an opportunity to submit additional criteria for consideration.</li>
 						<li><strong>May–July 2015:</strong> Stakeholders and the Puget Sound Management Conference reviewed drafts of the Estuaries and Shellfish beds Implementation Strategies.</li>
 						<li><strong>August 2015:</strong> Criteria for selecting the next set of three implementation strategies is being developed for consideration by the <a href="http://www.psp.wa.gov/SP_meetings.php">Science Panel</a> and the Strategic Initiative Transition Teams.  </li>
@@ -98,7 +98,7 @@
 <h2>FREQUENTLY ASKED QUESTIONS</h2>
 <p><strong>What are the elements of an Implementation Strategy?</strong><br />
 Implementation Strategies include the following elements:</p>
-<ul class="notthenavdammittwo">
+<ul>
 		<li>A <strong>narrative</strong> describes the component pieces of the Implementation Strategy in detail. </li>
 		<li>Detailed <strong>results chains</strong> to visually portray relationships among the approaches, actions, and desired results and to support strategic decisions. </li>
 		<li>A <strong>schematic</strong>, or <strong>logic model</strong>, based on the detailed results chains that summarizes the approaches, desired results, and performance measures. </li>
@@ -112,18 +112,18 @@ Implementation Strategies include the following elements:</p>
 	Strategic Initiatives (prevent pollution from urban stormwater, protect and restore habitat and protect and recover shellfish beds) are regional priorities emphasized in the Action Agenda since 2012. The Strategic Initiatives help direct spending and resources, guide the Partnership&rsquo;s work with partners to increase funding, seek policy changes, report successes and challenges, and educate and engage people in the recovery effort. By contrast, an Implementation Strategy is a strategic plan designed to help meet a specific 2020 Vital Sign target.</p>
 <p><strong>How is the order of future Implementation Strategies going to be selected? </strong><br />
 		As we have developed the first test-case Implementation Strategies, we have also sought feedback on selection criteria for sequencing the development of future implementation strategies. Stakeholder feedback collected so far has shown that the sequence of Implementation Strategy development is important in terms of: </p>
-<ul class="notthenavdammittwo">
+<ul>
 		<li>How Implementation Strategies that have multiple benefits for other Vital Signs (or aim to reduce pressures affecting multiple targets) will be prioritized. </li>
 		<li>Feasibility and cost-effectiveness to take advantage of opportunities to leverage concurrent planning, funding, and regulatory processes. </li>
 </ul>
 <p>We will seek additional feedback before moving forward with the selection of future Implementation Strategies. </p>
 <p><strong>Will the Partnership be developing Implementation Strategies for all Vital Signs?</strong><br />
 		We anticipate that, over time, at least one Implementation Strategy, and possibly more, will address each Vital Sign that has a defined recovery target.</p>
-<p><strong>&nbsp;</strong></p>
+
 <p><strong>Materials:</strong><br />
 		Draft Implementation Strategies have been refined through multiple rounds of technical and stakeholder review and are available <a href="https://pspwa.box.com/s/kmm3f0fiszsoaxiw9s8f7d3xwzbhnwt1">here</a>. </p>
 <p><strong>Miradi Project Files</strong>: </p>
-<ul class="notthenavdammittwo">
+<ul>
 		<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00007/"><strong>Estuaries Project File</strong>&nbsp;</a> <u> </u></li>
 		<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00004/"><strong>Shellfish Bed Project File</strong>&nbsp;</a></li>
 </ul>
@@ -144,6 +144,18 @@ Implementation Strategies include the following elements:</p>
 				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
 				<li role="presentation"><a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
 				<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title margin-20-top ">CONTACT</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+					<p class="right-nav-contact">For questions about Implementation Strategies:<br /><br>
+				<strong>Todd Hass</strong>, <br>
+Implementation Mananger,<br>
+ <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>								
+					<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 		</div>

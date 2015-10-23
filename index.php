@@ -84,13 +84,13 @@
 		<div class="row margin-20-top">
 			<div class="col-md-3">
 				<div class="newsbox">
-					
+			
 					<div class="newsbox-text">
-						<strong>9.28.15</strong><br>
-						NEWS:<br>
+						<strong>10.23.15</strong><br>
+						PRESS RELEASE<br>
 						
-					Science Panel to discuss Biennial Science Work Plan at Oct. 28 meeting in Everett<br>
-<a href="SP_meetings.php">LEARN MORE</a> </div>
+					Oct. 28 Science Panel meeting features science planning, “the blob” and best management practices.<br>
+<a href="pressreleases/partnership_release.php?id=2320">LEARN MORE</a> </div>
 				</div>
 			</div>
 			<div class="col-md-3">
