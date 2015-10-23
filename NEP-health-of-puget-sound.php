@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 3;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -59,14 +63,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="NEP-overview.php">NEP OVERVIEW</a></li>
-				<li role="presentation"> <a href="NEP-puget-sound-estuary.php">PUGET SOUND ESTUARIES</a></li>
-				<li class="active" role="presentation"> <a href="NEP-health-of-puget-sound.php">HEALTH OF PUGET SOUND</a></li>
-				<li role="presentation"> <a href="NEP-regional-approach.php">REGIONAL APPROACH TO RECOVERY</a></li>
-				<li role="presentation"> <a href="NEP-local.php">WHAT RECOVERY IS HAPPENING LOCALLY?</a></li>
-				<li role="presentation"> <a href="NEP-funding.php">HOW IS THE NEP FUNDED</a></li>
-				<li role="presentation"> <a href="NEP-solicitation-and-grants.php">NEP SOLICITATION AND GRANTS</a></li>
-				<li role="presentation"> <a href="NEP-communications-toolkit.php">NEP COMMUNICATIONS TOOLKIT</a></li>
+		<?php include 'includes/ln-NEP.html';?>	
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -91,18 +88,7 @@
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="#">LINKS</a></li>
-					<li role="presentation"> <a href="#">LINKS</a></li>
-				
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>
 	<!--END OF ROW -->
