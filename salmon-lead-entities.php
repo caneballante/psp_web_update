@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 5;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -59,12 +63,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="salmon-recovery-overview.php">SALMON RECOVERY OVERVIEW</a></li>
-				<li role="presentation"> <a href="salmon-recovery-status.php">SALMON RECOVERY STATUS</a></li>
-				<li role="presentation"> <a href="salmon-watershed-recovery-plans.php">WATERSHED RECOVERY PLANS</a></li>
-				<li role="presentation"> <a href="salmon-three-year-work-plans.php">THREE YEAR WORKPLANS</a></li>
-				<li class="active" role="presentation"> <a href="salmon-lead-entities.php">LEAD ENTITIES</a></li>
-				<li role="presentation"> <a href="salmon-resources.php">SALMON RECOVERY RESOURCES</a></li>
+				<?php include 'includes/ln-salmon.html';?>	
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -74,7 +73,7 @@
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>Lead entities are local, watershed-based organizations that develop local salmon habitat recovery strategies and manage projects to implement the strategies.</p>
-			<p>Contact information for Lead Entity Coordinators is provided below.  More information about the Lead Entity Program is available on the Washington State Recreation and Conservation Office website: <a href="http://wwwtest2.rco.wa.gov/salmon_recovery/lead_entities.shtml">http://wwwtest2.rco.wa.gov/salmon_recovery/lead_entities.shtml</a></p>
+			<p>Contact information for Lead Entity Coordinators is provided below.  More information about the Lead Entity Program is available on the <a href="http://wwwtest2.rco.wa.gov/salmon_recovery/lead_entities.shtml">Washington State Recreation and Conservation Office website</a></p>
 			<table class="table">
 				<tr>
 					<td width="122" class="tableheader"><strong>Watershed</strong></td>
@@ -117,7 +116,7 @@
 					<td>Nooksack Watershed </td>
 					<td>Becky Peterson</td>
 					<td>360-392-1301         </td>
-					<td><a class="small-links" href="https://mobile.wa.gov/owa/redir.aspx?C=JRb8ezh5JUODTf4QOHpHvAlXNTpoedEIR_rQAWYUVjzaGSRJHAZ8etyhSc1mneRlJ6LcQiRrPLw.&amp;URL=mailto%3agenevaconsulting%40comcast.net" target="_blank">genevaconsulting@comcast.net</a> </td>
+					<td><a class="small-links" href="mailto:genevaconsulting@comcast.net" target="_blank">genevaconsulting@comcast.net</a> </td>
 				</tr>
 				<tr>
 					<td>North Olympic Peninsula Watershed</td>
@@ -141,7 +140,7 @@
 					<td>Skagit Watershed</td>
 					<td>Richard Brocksmith, Skagit Watershed Council </td>
 					<td>360-826-2164</td>
-					<td><a class="small-links" href=" genevaconsulting@comcast.net" target="_blank">rbrocksmith@skagitwatershed.org</a></td>
+					<td><a class="small-links" href="mailto:rbrocksmith@skagitwatershed.org" target="_blank">rbrocksmith@skagitwatershed.org</a></td>
 				</tr>
 				<tr>
 					<td>Snohomish Watershed</td>

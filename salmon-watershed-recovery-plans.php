@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 3;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -47,7 +51,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Salmon Recovery OVERVIEW</h1>
+			<h1>WATERSHED RECOVERY PLANS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
@@ -57,12 +61,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="salmon-recovery-overview.php">SALMON RECOVERY OVERVIEW</a></li>
-				<li role="presentation"> <a href="salmon-recovery-status.php">SALMON RECOVERY STATUS</a></li>
-				<li class="active" role="presentation"> <a href="salmon-watershed-recovery-plans.php">WATERSHED RECOVERY PLANS</a></li>
-				<li role="presentation"> <a href="salmon-three-year-work-plans.php">THREE YEAR WORKPLANS</a></li>
-				<li role="presentation"> <a href="salmon-lead-entities.php">LEAD ENTITIES</a></li>
-				<li role="presentation"> <a href="salmon-resources.php">SALMON RECOVERY RESOURCES</a></li>
+			<?php include 'includes/ln-salmon.html';?>	
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -71,10 +70,10 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<h3> What does the Puget Sound Salmon Recovery Plan include?</h3>
+			<h2 class="margin-0-top"> What does the Puget Sound Salmon Recovery Plan include?</h2>
 			<p> The Recovery Plan is organized with a Regional Chapter (Volume I) and Fourteen Watershed-Specific Chapters and a Nearshore Chapter (Volume II). The Plan includes strategies and actions associated with marine and freshwater habitat protection and restoration, hatchery management, and harvest management.</p>
 			<p><a href="downloads/SALMON_RECOVERY/VOL_I/16_VOLUME_I_PUGETS_SOUND_SALMON_RECOVERY_PLAN.zip">Download Puget Sound Salmon Recovery Plan (Volume I)</a></p>
-			<h3>What are the Watersheds? </h3>
+			<h2>What are the Watersheds? </h2>
 			<!-- map image with modal pop up to enlarge -->
 			<a href="javascript:void(0);" title="Puget Sound Map - enlarge" data-toggle="modal" data-target="#PSmap"> <img src="images/PS_salmonrecovery.jpg" alt="Map of Puget Sound Watersheds" width="500" height="489"/> </a>
 			<div class="modal fade" id="PSmap" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
