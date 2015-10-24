@@ -59,7 +59,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="legislative-updates.php">GOVERNMENT RELATIONS</a></li>
+				<li role="presentation"> <a href="legislative_updates.php">GOVERNMENT RELATIONS</a></li>
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -169,7 +169,7 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<p class="right-nav-contact">For questions about Goverment Affairs:<br /><br>
+					<p class="right-nav-contact">For questions about Goverment Relations:<br /><br>
 				<strong>Jeff Parsons</strong>, <br>
 Legislative Policy Director,<br>
  <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a><br>

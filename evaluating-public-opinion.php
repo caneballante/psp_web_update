@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 5;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -39,13 +43,14 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image1"> </header>
+<header class="overview-page-image-style overview-page-image17"> </header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1 class="grey">PUBLIC OPINION RESEARCH</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -54,13 +59,8 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-					<li role="presentation"> <a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING ACTIONS TO RECOVER TO RECOVER PUGET SOUND</a></li>
-				<li role="presentation"> <a href="evaluating-about-report-card.php">REPORT CARD</a></li>
-				<li role="presentation"> <a href="evaluating-about-project-atlas.php">PROJECT ATLAS</a></li><li role="presentation"> <a href="evaluating-about-NEP-atlas.php">NEP ATLAS</a></li>
-				<li class="active" role="presentation"> <a href="evaluating-public-opinion.php">PUBLIC OPINION RESEARCH</a></li>
-				<li role="presentation"> <a href="evaluating-agency-performance-management.php">AGENCY PERFORMANCE MANAGEMENT</a></li>
-				<li role="presentation"> <a href="evaluating-about-sos.php">STATE OF THE SOUND</a></li>
-			<!-- InstanceEndEditable --> 
+				<?php include 'includes/ln-eval-actions.html';?>
+				<!-- InstanceEndEditable --> 
 			</ul>
 		
 		</div>
@@ -68,34 +68,27 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>*** SHOULD WE HAVE SOME KIND OF CONTEXT ABOUT WHAT OUR ROLE IS HERE? CURRENT PAGE JUST HAS LINKS -jon ***</p>
-		 <p><a href="downloads/public opinion survey/2013 Sound Behavior Index Report.pdf">2013 Sound Behavior Index Report</a></p>
-   <p><a href="downloads/public opinion survey/2013 Gen Opinion Survey Report_FINAL.pdf?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2013 General Opinion Survey (PDF)</a> </p>
-   		
-						<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2012 General Opinion Survey (PDF)</a></p>
-						<p><a href="https://www.box.com/s/9b34t0ijy04unm8v27rd">Sound Behavior - Social Capital Index 2012 and supplement</a> </p>
-						<p><a href="downloads/socialbehavior/Sound_Behavior_Index_Summary_3-22-13_kjh.docx">Sound Behavior Index and Social Capital Index summary (PDF)</strong></a></p>
-						<p><a href="downloads/socialbehavior/Developing Indices from Social Capital and Environmental Behavior Survey Data.docx">Developing Indices from Social Capital and Environmental Behavior Survey Data (PDF)</a></p>
-						<p><a href="https://app.box.com/s/3uxspuzivhhwsfzlf6un">Yard Care and Pesticide Practices: Barriers and Motivators Survey Report </a> </p>
-						<p><a href="https://app.box.com/s/nqem9kfz0u15p82rtsyk">Yard Care and Pesticide Use Focus Groups</a></p>
-						<p> <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2313&amp;Itemid=238">Tree Planting Survey Report</a></p>
-						<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2312&amp;Itemid=238"> Tree Planting Focus Group Report</a></p>
+			<p>Public opinion research is a useful tool for many reasons: it informs program design, helps evaluate progress being made by various activities, provides external perspective to agencies for policy and programmatic direction, and allows for further exploration into complex issues. The Puget Sound Partnership received funding from the U.S. Environmental Protection Agency to carry out a series of public opinion surveys. The following surveys were conducted:</p>
+			<ul>
+				<li>Sound Behavior Index – Conducted three times between February 2012 and June 2015. The survey helped establish a behavior index related to yard care, car maintenance, home maintenance, pet/animal waste, onsite septic systems, small farms, and recreational boating and fishing. In addition, the first survey conducted included a segment asking about social capital. The surveys helped measure people’s interactions with other people, their community, civic engagement, use of internet-based social media, and other factors important to Puget Sound recovery.</li>
+				<li>General Survey – three general surveys were conducted to focus on people’s general knowledge, attitudes, beliefs, and sense of place and connection to Puget Sound. The general survey will helped identify characteristics of the population useful for the development of various stewardship activities, especially for the Puget Sound Starts Here campaign.</li>
+				<li>Barriers and Motivators Surveys – there will be three distinct surveys, each focused on one particular issue or practice.  These surveys will be completed by the third quarter of 2013. Focus groups will be conducted for each topic as well, in order to ‘dig deeper’ into peoples barriers to carrying out specific practices and motivators that would lead them to use of better practices. Topics will be chosen based on scientific knowledge of individual behaviors that either protect or threaten the health of Puget Sound from a regional perspective. The first survey will be on use of lawn care products.</li>
+			</ul>
+			<p><a href="downloads/public opinion survey/2013 Sound Behavior Index Report.pdf">2013 Sound Behavior Index Report</a></p>
+			<p><a href="downloads/public opinion survey/2013 Gen Opinion Survey Report_FINAL.pdf?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2013 General Opinion Survey (PDF)</a> </p>
+			<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2012 General Opinion Survey (PDF)</a></p>
+			<p><a href="https://www.box.com/s/9b34t0ijy04unm8v27rd">Sound Behavior - Social Capital Index 2012 and supplement</a> </p>
+			<p><a href="downloads/socialbehavior/Sound_Behavior_Index_Summary_3-22-13_kjh.docx">Sound Behavior Index and Social Capital Index summary (PDF)</strong></a></p>
+			<p><a href="downloads/socialbehavior/Developing Indices from Social Capital and Environmental Behavior Survey Data.docx">Developing Indices from Social Capital and Environmental Behavior Survey Data (PDF)</a></p>
+			<p><a href="https://app.box.com/s/3uxspuzivhhwsfzlf6un">Yard Care and Pesticide Practices: Barriers and Motivators Survey Report </a> </p>
+			<p><a href="https://app.box.com/s/nqem9kfz0u15p82rtsyk">Yard Care and Pesticide Use Focus Groups</a></p>
+			<p> <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2313&amp;Itemid=238">Tree Planting Survey Report</a></p>
+			<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2312&amp;Itemid=238"> Tree Planting Focus Group Report</a></p>
 			<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Links to another page</a></li>
-					<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
-					<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>
 	<!--END OF ROW -->

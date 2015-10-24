@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 6;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -46,6 +50,7 @@
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>SCIENCE-BAsed decisionmaking</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -54,13 +59,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="science-basis-of-recovery-overview.php">SCIENCE BASIS OF RECOVERY</a></li>
-				<li role="presentation"> <a href="science-strategic-science-plan.php">STRATEGIC SCIENCE PLAN</a></li>
-				<li role="presentation"> <a href="science-biennial-science-workplan.php">BIENNIAL SCIENCE WORKPLAN</a></li>
-				<li role="presentation"> <a href="science-adaptive-management-framework.php">ADAPTIVE MANAGEMENT FRAMEWORK</a></li>
-				<li role="presentation"> <a href="science-open-standards.php">OPEN STANDARDS</a></li>
-				<li class="active" role="presentation"> <a href="science-based-decision-making.php">SCIENCE-BASED DECISION-MAKING</a></li>
-				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+				<?php include 'includes/ln-science-basis.html';?>	
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -99,16 +98,6 @@
 						<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li class="active" role="presentation"> <a href="http://www.structuredecisionmaking.org/" target="new">Structuredecisionmaking.org</a></li>
 					<li class="active" role="presentation"> <a href="http://www.conservationmeasures.org/" target="new">Conservationmeasures.org</a></li>
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">RELATED DOCUMENTS</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-				
-	
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

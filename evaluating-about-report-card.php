@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 2;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -39,13 +43,14 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image1"> </header>
+<header class="overview-page-image-style overview-page-image17"> </header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1 class="grey">ABOUT THE REPORT CARD</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -54,12 +59,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-					<li role="presentation"> <a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING ACTIONS TO RECOVER TO RECOVER PUGET SOUND</a></li>
-				<li class="active" role="presentation"> <a href="evaluating-about-report-card.php">REPORT CARD</a></li>
-				<li role="presentation"> <a href="evaluating-about-project-atlas.php">PROJECT ATLAS</a></li><li role="presentation"> <a href="evaluating-about-NEP-atlas.php">NEP ATLAS</a></li>
-				<li role="presentation"> <a href="evaluating-public-opinion.php">PUBLIC OPINION RESEARCH</a></li>
-				<li role="presentation"> <a href="evaluating-agency-performance-management.php">AGENCY PERFORMANCE MANAGEMENT</a></li>
-				<li role="presentation"> <a href="evaluating-about-sos.php">STATE OF THE SOUND</a></li>
+					<?php include 'includes/ln-eval-actions.html';?>	
 			<!-- InstanceEndEditable --> 
 			</ul>
 		

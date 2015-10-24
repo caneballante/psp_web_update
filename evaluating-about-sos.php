@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Draft Home Page</title>
 <!-- InstanceEndEditable -->
@@ -12,7 +12,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
 
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
@@ -26,6 +25,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 7;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -38,66 +41,50 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image1"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style overview-page-image17"> </header>
+<!-- InstanceEndEditable -->
 <div class="container page-content">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1 class="grey">STATE OF THE SOUND - ABOUT	</h1>
+			<h1 class="grey">STATE OF THE SOUND</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
-			<!-- InstanceBeginEditable name="left_nav" -->
-					<li role="presentation"> <a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING ACTIONS TO RECOVER TO RECOVER PUGET SOUND</a></li>
-				<li role="presentation"> <a href="evaluating-about-report-card.php">REPORT CARD</a></li>
-				<li role="presentation"> <a href="evaluating-about-project-atlas.php">PROJECT ATLAS</a></li><li role="presentation"> <a href="evaluating-about-NEP-atlas.php">NEP ATLAS</a></li>
-				<li role="presentation"> <a href="evaluating-public-opinion.php">PUBLIC OPINION RESEARCH</a></li>
-				<li role="presentation"> <a href="evaluating-agency-performance-management.php">AGENCY PERFORMANCE MANAGEMENT</a></li>
-				<li class="active" role="presentation"> <a href="evaluating-about-sos.php">STATE OF THE SOUND</a></li>
-			<!-- InstanceEndEditable --> 
-			</ul>
-		
-		</div>
-			
-	
-		<div class="col-md-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>*** NEED TO WORK THIS OUT- LINKS ON THE LEFT NAV CAN'T ADDITIONAL SUB-PAGES LIKE THE SOS WILL HAVE. SO THE OPTIONS ARE TO NOT HAVE THIS PAGE ON THE LEFT NAV, OR MAKE THIS A GENERAL &quot;ABOUT THE SOS&quot; PAGE WITH A PROMINENT LINK TO THE 2015 SOS -jon ***</p>
-			<p>&nbsp;</p>
-			<p>&nbsp;</p>
-			<p>&nbsp;</p>
-		 <p>&nbsp;</p>
-			<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+				<!-- InstanceBeginEditable name="left_nav" -->
+				<?php include 'includes/ln-eval-actions.html';?>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Links to another page</a></li>
-					<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
-					<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+			</ul>
 		</div>
+		<div class="col-md-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<p>general information with a link to 2015 SOS</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<!-- InstanceEndEditable --> </div>
+		<div class="col-md-2 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="#">Links to another page</a></li>
+				<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
+				<li role="presentation"> <a href="#">Maybe a link off the site</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -106,7 +93,6 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script>
-
-
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
