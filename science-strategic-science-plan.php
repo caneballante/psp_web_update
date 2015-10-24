@@ -69,53 +69,33 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		    <p><a href="downloads/SCIENCE/strategicscience_09_02_10.pdf"><img src="images/STRATEGICSCIENCE.gif" alt="Download the Strategic Science Plan" width="342" height="41" border="0" /></a></p>
-    <p>The Puget Sound Partnership Strategic Science Plan provides the overall framework for development and coordination of specific science activities necessary to support Puget Sound ecosystem protection and restoration under the Partnership&rsquo;s Action Agenda. </p>
-	<p><a href="http://www.psp.wa.gov/downloads/SCIENCE/strategicscience_09_02_10.pdf">Download the Strategic Science Plan</a></p>
-	<p>The Strategic Science Plan is a high-level living document to be revised as needed. Specific implementation of science work is guided by the Partnership&rsquo;s  <a href="http://www.psp.wa.gov/SP_biennium_work_plan_download.php">Biennial Science Work Plan</a>. </p>
-	<p>Primary audiences for the Strategic Science Plan include the Science Panel, Partnership staff, Partnership leadership boards, Puget Sound region science program managers, Puget Sound science community, and the public. </p>
-	<p>In the Strategic Science Plan, the Science Panel recommends a strategic science program that includes the following elements:</p>
-	<ul>
-			<li>A clear understanding by the Partnership about critical roles for science within an adaptive management framework and performance management system.</li>
-			<li>A means to support ongoing two-way engagement between science and policy participants to continually identify and prioritize information needs as the work proceeds.</li>
-			<li>Development of specific science capacities to assure that the program&rsquo;s science capabilities are responsive to identified needs including monitoring, modeling, data management and research. </li>
-			<li>Synthesis and communication of relevant scientific information to the right people at the right times to support protection and restoration outcomes. </li>
-			<li>Periodic peer review of science activities at both the project and programmatic levels, with responsive modifications to the science program as needed.</li>
-			<li>Education and outreach to build public awareness of the value and roles of science, to foster consensus around what we know, and to support learning about science and about Puget Sound. </li>
-	</ul>
+    <p>The Puget Sound Partnership Strategic Science Plan provides the overall framework for development and coordination of specific science activities necessary to support Puget Sound ecosystem protection and restoration under the Partnership&rsquo;s Action Agenda.</p>
+<p><a href="http://www.psp.wa.gov/downloads/SCIENCE/strategicscience_09_02_10.pdf">Download the Strategic Science Plan</a></p>
+	<p>The Strategic Science Plan is a high-level, living document that is revised as needed. Specific implementation of science work is guided by the Partnership&rsquo;s&nbsp;<a href="http://www.psp.wa.gov/SP_biennium_work_plan_download.php">Biennial Science Work Plan</a>. </p>
+	<p>Primary audiences for the Strategic Science Plan include the Science Panel, Partnership staff, Partnership leadership boards, Puget Sound region science program managers, Puget Sound science community, and the public.</p>
+		<p>In the Strategic Science Plan, the Science Panel recommends a strategic science program that includes the following elements:</p>
+<ul>
+	<li>A clear understanding by the Partnership about critical roles for science within an adaptive management framework and performance management system.</li>
+	<li>A means to support ongoing, two-way engagement between science and policy participants; and to continually identify and prioritize information needs as the work proceeds.</li>
+	<li>Development of specific science capacities to assure that the program&rsquo;s science capabilities are responsive to identified needs, including monitoring, modeling, data management, and research.</li>
+	<li>Synthesis and communication of relevant scientific information to the right people at the right time to support protection and restoration outcomes.</li>
+	<li>Periodic peer review of science activities at both the project and programmatic levels, with responsive modifications to the science program as needed.</li>
+	<li>Education and outreach to build public awareness of the value and roles of science, foster consensus around what we know, and support learning about science and the Puget Sound.</li>
+</ul>
 	<p>&nbsp;</p>
-	<p>The Science Panel reviewed the Strategic Science Plan in Spring 2013 and elected to continue to using the 2010 version as the high-level guide for the program </p>
-		<!-- InstanceEndEditable -->
+	<p>&nbsp;The Science Panel reviewed the Strategic Science Plan in spring 2013 and elected to continue using the 2010 version as the high-level guide for the strategic science program.</p>
+<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="SP_about.php">xxx</a></li>
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">LINKS TO PARTNERS</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.conservationmeasures.org/" target="new">xxx</a></li>
-
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-0-top ">RELATED DOCUMENTS</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li><a href="#">xxx</a></li>
-					<li><a href="#">xxx</a></li>
+					<li><a href="http://www.psp.wa.gov/SP_biennium_work_plan_download.php">Biennial Science Work Plan</a></li>
+				
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

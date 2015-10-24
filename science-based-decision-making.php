@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SCIENCE BAsed decision making</h1>
+			<h1>SCIENCE-BAsed decisionmaking</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>

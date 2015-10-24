@@ -86,7 +86,8 @@
 					<p>Environmental monitoring in Puget Sound is conducted by many state and federal agencies, local governments, tribes, citizen groups, and others. While every monitoring organization has its unique mandates and objectives, the Puget Sound Ecosystem Monitoring Program, or PSEMP, serves as an overarching, voluntary body of representatives sharing a common goal to coordinate, improve, and focus these many efforts in support of our common desire to protect and recover Puget Sound.  PSEMP does this by providing a venue for discussion, collaboration, coordination, collective guidance, and communication among monitoring agencies and organizations operating at a variety of scales.  </p>
 					<p>PSEMP operates through a Steering Committee and (currently) 12 technical workgroups that span a range of topics: marine water quality, freshwater quality, nearshore systems, forage fish and food webs, salmon, birds, marine mammals, toxics, stormwater, modeling, terrestrial systems, and diseases. For more information, contacts, meeting schedules, and products from PSEMP, see our website  <a href="https://sites.google.com/a/psemp.org/psemp/home">https://sites.google.com/a/psemp.org/psemp/home</a></p>
 					<h2>HUMAN WELLBEING</h2>
-					<p>INTRO SHORT PARAGRAPH WITH LINK TO HUMAN WELLBEING PAGE</p>
+					<p>
+					In July 2015, the Partnership’s Leadership Council adopted nine new or revised Vital Signs with associated indicators for Human Health and Quality of Life. These Vital Signs address human wellbeing as it relates to people’s engagement with the natural environment of Puget Sound and include familiar aspects of human health that contribute to our wellbeing, such as physical and psychological health, as well as social, cultural, and economic wellbeing and governance, or the way that people participate in decisionmaking.</p>
 				</div>
 			</div>
 		<!-- InstanceEndEditable -->
