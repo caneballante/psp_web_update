@@ -250,6 +250,12 @@ p {
 	color:#ffffff;
 	margin-top:20px;
 }
+/* make the news boxes a little shorter on mobile*/
+@media (max-width: 992px){
+	.newsbox{
+	height:120px;
+}
+}
 /*hover color for the newsbox div - jquery makes it clickable*/
 .newsbox:hover{
 	background-color: rgba(245,180,50,1.00);
