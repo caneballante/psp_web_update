@@ -55,9 +55,10 @@
 		<div class="col-md-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
-			<a href="test_page.php"> SALMON&nbsp;RECOVERY</a> | <a href="#">PSAR&nbsp;FUND</a><br>
-			<a href="#">NATIONAL&nbsp;ESTUARY&nbsp;PROGRAM&nbsp;(NEP)</a><br>
-			<a href="#">LOCAL&nbsp;RECOVERY</a></div>
+			<a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a><br>
+			<a href="PSAR.php">PSAR&nbsp;FUND</a><br>
+			<a href="NEP-overview.php">NATIONAL&nbsp;ESTUARY&nbsp;PROGRAM&nbsp;(NEP)</a><br>
+			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY</a></div>
 	</div>
 	<div class="row">
 		<div class="col-md-3 padding-40-top"><img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive"/></div>
@@ -74,9 +75,10 @@
 		<div class="col-md-3 padding-40-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<br>
-			<a href="partnership-boards-overview.php">BOARDS</a> | <a href="#">2016&nbsp;LEGISLATIVE&nbsp;SESSION</a><br>
-			<a href="#">ECONET </a><br>
-			<a href="#">SOUND&nbsp;CHOICES&nbsp;WORKSHOP</a></div>
+			<a href="partnership-boards-overview.php">BOARDS</a><br>
+			<a href="legislative_updates.php">2015&nbsp;LEGISLATIVE&nbsp;SESSION</a><br>
+			<a href="econet.php">ECO NET </a><br>
+		</div>
 	</div>
 </div>
 <div class="container-fluid light-blue-fill margin-20-top padding-20-bottom">

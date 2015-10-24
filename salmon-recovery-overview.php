@@ -98,6 +98,7 @@
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
 						<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
+				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
 				
 						<!-- InstanceEndEditable -->
 					</ul>

@@ -114,6 +114,7 @@ p {
 	line-height:1.8;
 	font-family:georgia, times, serif;
 }
+
 .white_fill {
 	background-color: #fff;
 }
@@ -278,10 +279,19 @@ p {
 /*Highlight a piece of content in a blue box!*/
 .highlightbox {
 	background-color: rgba(227,237,249,1.00);
-	border-radius: 15px;
+	border-radius: 1px 30px 1px 30px;
 	padding: 10px;
-	
 }
+.highlightbox h2{
+	color:#0a3b5c;
+	padding-bottom:5px;
+}
+/* for adding a "new" to a announcement*/
+.new-red {
+	font-weight:900;
+	color:#D12023;
+}
+
 
 /* Added to the main nav when it scrolls 9-28-15*/
 .navbar-default {
@@ -439,6 +449,25 @@ intro .brand-heading {
 }
 .overview-page-image14 {
 	 background: url(../images/inside_image_14.jpg)no-repeat bottom center scroll;
+}
+
+.overview-page-image15 {
+	 background: url(../images/inside_image_15.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image16 {
+	 background: url(../images/inside_image_16.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image17 {
+	 background: url(../images/inside_image_17.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image18 {
+	 background: url(../images/inside_image_18.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image19 {
+	 background: url(../images/inside_image_19.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image20 {
+	 background: url(../images/inside_image_20.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image-style {
     width: 100%;

@@ -39,7 +39,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image10">
+<header class="overview-page-image-style overview-page-image15">
 
 </header>
 <!-- InstanceEndEditable -->  
@@ -47,7 +47,8 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SOCIAL  STRATEGIES<br>
+			<h1>SOCIAL  STRATEGIES</h1>
+			<h1><br>
 			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
@@ -57,7 +58,8 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation">SOCIAL STRATEGIES<a href="social-strategies-overview.php"></a></li>
+				
+				<li role="presentation"><a href="social-strategies-overview.php">SOCIAL STRATEGIES</a></li>
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -65,11 +67,34 @@
 			
 	
 		<div class="col-md-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" --><strong>Social strategies text needed</strong><!-- InstanceEndEditable -->
+		<!-- InstanceBeginEditable name="6col_content" -->
+		
+	<p>	Many of our common, everyday behaviors and practices seem benign on their own, but when multiplied by 4.5 million residents the cumulative effects are harmful to Puget Sound. Reversing the trend by fostering beneficial behaviors and reducing damaging behaviors—stewardship, in other words—is a key step recovering Puget Sound.</p> 
+
+<p>From 2010 through June 2015, the U.S. Environmental Protection Agency provided $6 million in Puget Sound National Estuary Program funds to the Puget Sound Partnership to support regionwide programs in stewardship and education. The Partnership’s Stewardship and Outreach Program distributed these funds through more than 168 contracts to local and regional projects that aligned with the Puget Sound Action Agenda. </p>
+
+<p>The Stewardship and Outreach Program focused on a three-part model:</p>
+<ul><li>Issue awareness and understanding</li>
+<li>Changing practices and behaviors </li>
+<li>Social and institutional infrastructure</li></ul>
+
+<p>Program staff worked with a coalition of hundreds of organizations to ensure that the grants increased capacity, advanced public education and involvement priorities, and created and supported behavior change programs across the Puget Sound Region. The coalition also established shared measurements with which to evaluate stewardship and outreach programs. </p>
+
+<p>Although the Stewardship and Outreach Program is no longer funded at the Partnership, its foundations, as well as the underpinning social science theories, continue to guide our efforts in developing social strategies for inclusion in the Action Agenda.</p>
+<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+					<li class="active" role="presentation"> <a href="evaluating-public-opinion.php">Public Opinion Research</a></li>
+						<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 		</div>
 	</div>
 	<!--END OF ROW -->
