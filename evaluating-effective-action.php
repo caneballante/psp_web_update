@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Draft Home Page</title>
+<title>Puget Sound Partnership - Effective Actions in Puget Sound</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -46,6 +46,7 @@
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>effectiveness monitoring</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -79,7 +80,7 @@
 			<!-- Strategic Initiative Break -->
 		<table class="table">
 				<tr>
-					<td colspan="2" class="tableheader"><span class="tableheadertext">Strategic Initiative: Restore and re-open shellfish beds</span></td>
+					<td colspan="2" class="tableheader"><h3><span class="tableheadertext">Strategic Initiative: Restore and re-open shellfish beds</span></h3></td>
 				</tr>
 				
 				<!-- report -->
@@ -98,7 +99,7 @@
 			
 			<table class="table">
 				<tr>
-					<td colspan="2" class="tableheader"><span class="tableheadertext">Strategic Initiative: Prevent pollution from urban stormwater runoff</span></td>
+					<td colspan="2" class="tableheader"><h3><span class="tableheadertext">Strategic Initiative: Prevent pollution from urban stormwater runoff</span></h3></td>
 				</tr>
 				
 				<!-- report -->
@@ -118,7 +119,7 @@
 			
 			<table class="table">
 				
-					<td colspan="2" class="tableheader"><span class="tableheadertext">Strategic Initiative: Protect and restore habitat</span></td>
+					<td colspan="2" class="tableheader"><h3><span class="tableheadertext">Strategic Initiative: Protect and restore habitat</span></h3></td>
 					
 					<!-- report -->
 				<tr>
@@ -209,7 +210,7 @@
 						<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"> <a href="#">2015 State of the Sound</a></li>
 				<li role="presentation"> <a href="#">Marine Waters Overview Reports</a></li>
-				<li role="presentation"> <a href="#">Encyclopedia of Puget Sound - *****this isn't really a document is it?</a></li>
+				<li role="presentation"> <a href="#">Encyclopedia of Puget Sound</a></li>
 				<li role="presentation"> <a href="#">State of the Salmon</a></li>
 				<li role="presentation"> <a href="#">State of the Watersheds</a></li>
 				<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>

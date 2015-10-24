@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Draft Home Page</title>
+<title>Puget Sound Partnership - Action Agenda Overview</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
