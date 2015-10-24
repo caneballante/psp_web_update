@@ -26,6 +26,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 5;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -60,12 +64,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="2016_AA_update.php">2016 ACTION AGENDA UPDATE</a></li>
-				<li role="presentation"> <a href="2016_AA_who_is_involved.php">WHO IS INVOLVED IN THE UPDATE</a></li>
-				<li role="presentation"> <a href="2016_AA_announcements.php">UPDATES AND ANNOUNCEMENTS</a></li>
-				<li role="presentation"> <a href="2016_AA_LIO_planning.php">LIO PLANNING</a></li>
-				<li class="active" role="presentation"> <a href="2016_AA_SITT.php">STRATEGIC INITIATIVE TRANSITION TEAMS</a></li>
-				<li role="presentation"> <a href="2016_AA_NTA.php">NEAR TERM ACTION PROPOSALS</a></li>
+			<?php include 'includes/ln-2016-AA.html';?>	
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
