@@ -26,10 +26,6 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-<script>
-/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
-</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -43,8 +39,9 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image13">
+<header class="overview-page-image-style overview-page-image16">
 
+<div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
 
  </header>
 <!-- InstanceEndEditable -->  
@@ -52,7 +49,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>LIO 2-Year recovery plans</h1>
+			<h1>Puget sound partnership Funding opportunities</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -61,7 +58,9 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include 'includes/ln-local-recovery-efforts.html';?>	
+				<li role="presentation"> <a href="funding.php">Puget Sound Partnership Funding Opportunities</a></li>
+			
+		
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -71,13 +70,16 @@
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			
-						  <p>do we have content for this page?</p>
-						  <p>&nbsp;</p>
-						  <p>&nbsp;</p>
-						  <p>&nbsp;</p>
-						  <p>&nbsp;</p>
-						  <p>&nbsp;</p>
 
+   	<p>The Partnership works collaboratively with all levels of government, tribes, businesses and citizen groups in its charge to lead and coordinate efforts to protect and restore Puget Sound. Our goal is to make Puget Sound healthy again, and create a roadmap for how to get it done. In order to help achieve this goal, we fund partner organizations through contracts and grants. <br />
+              <br />
+This page contains current contract and grant opportunities, as well as valuable information for recipients and contractors. Please explore the opportunities on this page, and if you have any questions, you are encouraged to send a message to the project manager listed in the solicitation.</p>
+    		<p>&nbsp;</p>
+
+
+ <h2>Sole-Source Contract Notification</h2>
+	
+			 <p><a href="https://pspwa.box.com/shared/static/ndhzsrtd50uguyjxs03czb67dpfbcp7q.docx">10-15-15 Triangle Associates: Secure services from the Triangle Associates to continue with Phase 2 of the Integration Action Planning efforts between the Local Integrating Organizations (LIO) and the ECO Nets in all nine geographical areas.</a>    		</p>
 		<!-- InstanceEndEditable -->
 		</div>
 	

@@ -82,17 +82,7 @@
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li role="presentation"><a href="#">Links to Action Agenda Resources go here</a></li>
-				
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>
 	<!--END OF ROW -->

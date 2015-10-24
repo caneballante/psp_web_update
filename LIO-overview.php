@@ -53,7 +53,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>LOCAL RECOVERY EFFORTS</h1>
+			<h1>LOCAL INTEGRATING ORGANIZATIONS (LIO)</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -97,17 +97,7 @@
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li role="presentation"><a href="#">Links to Action Agenda Resources go here</a></li>
-				
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>
 	<!--END OF ROW -->

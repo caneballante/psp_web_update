@@ -166,6 +166,17 @@
 				
 						<!-- InstanceEndEditable -->
 					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title margin-20-top ">CONTACT</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+					<p>Alexandra Doty<br>
+			<a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a><br>
+			<p>(360) 819-6870</p>
+						<!-- InstanceEndEditable -->
+					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 		</div>
 	</div>
