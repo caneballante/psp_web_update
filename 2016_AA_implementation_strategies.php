@@ -49,7 +49,8 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>IMPLEMENTATION STRATEGIES<br>
+			<h1>IMPLEMENTATION STRATEGIES</h1>
+			<h1><br>
 			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>

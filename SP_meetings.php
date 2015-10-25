@@ -39,6 +39,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
+<p>&nbsp;</p>
 <header class="overview-page-image-style overview-page-image4"> </header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content">
@@ -46,6 +47,7 @@
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>2015 SCIENCE PANEL MEETINGS</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>

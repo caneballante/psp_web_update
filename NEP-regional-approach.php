@@ -62,7 +62,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-local-recovery-efforts.html';?>	
+				<?php include 'includes/ln-NEP.html';?>		
 			<!-- InstanceEndEditable --> 
 			</ul>
 		

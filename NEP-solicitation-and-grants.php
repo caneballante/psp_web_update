@@ -53,7 +53,8 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>NEP SOLICITATION AND GRANTS?</h1>
+			<h1>NEP SOLICITATION AND GRANTS</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -62,7 +63,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include 'includes/ln-local-recovery-efforts.html';?>	
+			<?php include 'includes/ln-NEP.html';?>	
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
