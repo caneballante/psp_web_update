@@ -49,7 +49,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>ABOUT THE PUGET SOUND</h1>
+			<h1>PUGET SOUND RECOVERY</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>

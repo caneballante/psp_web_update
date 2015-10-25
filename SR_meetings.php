@@ -140,7 +140,7 @@ Edmonds, WA 98020</td>
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-50-top ">BOARD CONTACT</div>
+			<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->

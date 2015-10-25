@@ -80,7 +80,7 @@
 
 <p>Program staff worked with a coalition of hundreds of organizations to ensure that the grants increased capacity, advanced public education and involvement priorities, and created and supported behavior change programs across the Puget Sound Region. The coalition also established shared measurements with which to evaluate stewardship and outreach programs. </p>
 
-<p>Although the Stewardship and Outreach Program is no longer funded at the Partnership, its foundations, as well as the underpinning social science theories, continue to guide our efforts in developing social strategies for inclusion in the Action Agenda.</p>
+<p>Although the EPA funding has expired, the social science theories that formed the grant program continue to guide our efforts in developing social strategies for inclusion in the Action Agenda.</p>
 <!-- InstanceEndEditable -->
 		</div>
 	
