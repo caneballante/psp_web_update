@@ -114,7 +114,7 @@
 						<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li class="active" role="presentation"> <a href="#">2015 State of the Sound</a></li>
 					<li role="presentation"> <a href="#">Marine Waters Overview Reports</a></li>
-					<li role="presentation"> <a href="#">Encyclopedia of Puget Sound - *****this isn't really a document is it?</a></li>
+					<li role="presentation"> <a href="#">Encyclopedia of Puget Sound</a></li>
 					<li role="presentation"> <a href="#">State of the Salmon</a></li>
 					<li role="presentation"> <a href="#">State of the Watersheds</a></li>
 					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>

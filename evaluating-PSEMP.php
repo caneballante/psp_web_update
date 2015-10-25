@@ -69,8 +69,8 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-	<h2 class="margin-0-top">TEXT ABOUT PSEMP AND A LINK?</h2>
-						<p>Evaluating data to determine how well restoration and management actions and programs are working to restore Puget Sound.</p>
+	
+								<p>PSEMP operates through a Steering Committee and (currently) 12 technical workgroups that span a range of topics: marine water quality, freshwater quality, nearshore systems, forage fish and food webs, salmon, birds, marine mammals, toxics, stormwater, modeling, terrestrial systems, and diseases. For more information, contacts, meeting schedules, and products from PSEMP, see our website  <a href="https://sites.google.com/a/psemp.org/psemp/home">https://sites.google.com/a/psemp.org/psemp/home</a></p>
 					
 						
 		<!-- InstanceEndEditable -->
@@ -110,7 +110,7 @@
 						<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li class="active" role="presentation"> <a href="#">2015 State of the Sound</a></li>
 					<li role="presentation"> <a href="#">Marine Waters Overview Reports</a></li>
-					<li role="presentation"> <a href="#">Encyclopedia of Puget Sound - *****this isn't really a document is it?</a></li>
+					<li role="presentation"> <a href="#">Encyclopedia of Puget Sound</a></li>
 					<li role="presentation"> <a href="#">State of the Salmon</a></li>
 					<li role="presentation"> <a href="#">State of the Watersheds</a></li>
 					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>

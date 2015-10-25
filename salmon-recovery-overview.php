@@ -81,7 +81,7 @@
 <h2>Four Year Work Plans</h2>
 <p>On an annual basis, each of the watershed groups representing the 14 watershed chapters of the Puget Sound Salmon Recovery Plan develop 4-year work program updates to describe the watershed’s accomplishments during the previous year, identify the current status of recovery actions, and to propose future actions and any changes in recovery strategies in the next 4 years necessary to implement the Salmon Recovery Plan. <a href="salmon-three-year-work-plans.php">LEARN MORE</a></p>
 <h2>Salmon Recovery Council</h2>
-<p>The Puget Sound Salmon Recovery Council is a group of policy decision-makers that meets regularly to develop guidance for implementation of the Plan and advises the Leadership Council on salmon recovery decisions. This group consists of representatives from each of the 14 watershed areas, the environmental and business community, tribes, and state and federal agencies involved in salmon recovery.</p>
+<p>The Puget Sound Salmon Recovery Council is a group of policy decision-makers that meets regularly to develop guidance for implementation of the Plan and advises the Leadership Council on salmon recovery decisions. This group consists of representatives from each of the 14 watershed areas, the environmental and business community, tribes, and state and federal agencies involved in salmon recovery. <a href="SR_about.php">LEARN MORE</a></p>
 <h2>Lead Entities</h2>
 <p>Lead Entities are local, watershed-based organizations that develop local salmon habitat recovery strategies and manage projects to implement the strategies.<a href="salmon-lead-entities.php"> LEARN MORE</a></p>
 <p>&nbsp;</p>

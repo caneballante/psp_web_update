@@ -46,12 +46,10 @@
 		<div class="col-md-3 padding-40-top">
 			<h1>ROADMAP TO RECOVERY</h1>
 			<br>
-			
 			<a href="action_agenda_center.php">ACTION&nbsp;AGENDA&nbsp;OVERVIEW</a><br>
 			<a href="2014_action_agenda_download.php">2014-15&nbsp;ACTION&nbsp;AGENDA</a> <br>
-<a href="2016_AA_update.php">2016&nbsp;ACTION&nbsp;AGENDA&nbsp;UPDATE</a><br>
-<a href="2016_AA_implementation_strategies.php">IMPLEMENTATION&nbsp;STRATEGIES</a>
-</div>
+			<a href="2016_AA_update.php">2016&nbsp;ACTION&nbsp;AGENDA&nbsp;UPDATE</a><br>
+			<a href="2016_AA_implementation_strategies.php">IMPLEMENTATION&nbsp;STRATEGIES</a> </div>
 		<div class="col-md-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
@@ -65,12 +63,9 @@
 		<div class="col-md-3 padding-40-top">
 			<h1>MEASURING RECOVERY</h1>
 			<br>
-				<a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND&nbsp;EVALUATION&nbsp;OVERVIEW</a>
-					<a href="evaluating-health-of-puget-sound.php">EVALUATING&nbsp;THE&nbsp;HEALTH&nbsp;OF&nbsp;PUGET&nbsp;SOUND</a><br>
-<a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING&nbsp;ACTIONS&nbsp;TO&nbsp;RECOVER&nbsp;PUGET&nbsp;SOUND</a><br>
-					<a href="science-basis-of-recovery-overview.php">SCIENCE&nbsp;BASIS&nbsp;OF&nbsp;RECOVERY</a>
-				
-		<a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a></div>
+			<a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND&nbsp;EVALUATION&nbsp;OVERVIEW</a> <a href="evaluating-health-of-puget-sound.php">EVALUATING&nbsp;THE&nbsp;HEALTH&nbsp;OF&nbsp;PUGET&nbsp;SOUND</a><br>
+			<a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING&nbsp;ACTIONS&nbsp;TO&nbsp;RECOVER&nbsp;PUGET&nbsp;SOUND</a><br>
+			<a href="science-basis-of-recovery-overview.php">SCIENCE&nbsp;BASIS&nbsp;OF&nbsp;RECOVERY</a> <a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a></div>
 		<div class="col-md-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
@@ -86,42 +81,33 @@
 		<div class="row margin-20-top">
 			<div class="col-md-3">
 				<div class="newsbox">
-			
-					<div class="newsbox-text">
-						<strong>10.23.15</strong><br>
+					<div class="newsbox-text"> <strong>10.23.15</strong><br>
 						PRESS RELEASE<br>
-						
-					Oct. 28 Science Panel meeting features science planning, “the blob” and best management practices.<br>
-<a href="pressreleases/partnership_release.php?id=2320">LEARN MORE</a> </div>
+						Oct. 28 Science Panel meeting features science planning, “the blob” and best management practices.<br>
+						<a href="pressreleases/partnership_release.php?id=2320">LEARN MORE</a> </div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
-				
 					<div class="newsbox-text"><strong>11.2.15</strong><br>
-						JOB OPPORTUNITY:<br> 
+						JOB OPPORTUNITY:<br>
 						ENVIRONMENTAL PLANNER<br>
-					<a href="employment.php">LEARN MORE </a></div>
+						<a href="employment.php">LEARN MORE </a></div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
-				<div class="newsbox-text">
-<strong>10.12.15</strong><br>
-SUBMIT A PROPOSAL:<br>
- Now is the time to develop Near Term Action proposals for the 2016 Action Agenda update. <a href="2016_AA_NTA.php">LEARN MORE</a></div>
+					<div class="newsbox-text"> <strong>10.12.15</strong><br>
+						SUBMIT A PROPOSAL:<br>
+						Now is the time to develop Near Term Action proposals for the 2016 Action Agenda update. <a href="2016_AA_NTA.php">LEARN MORE</a></div>
 				</div>
 			</div>
-			
 			<div class="col-md-3">
 				<div class="newsbox">
-				
-					<div class="newsbox-text">
-					<strong>9.22.15</strong><br>
-EPA REQUEST FOR PROPOSALS:<br>
- RFP for Strategic Initiative implementation leads for FY2016 Proposals due 11.30.15<br>
-<a href="http://www2.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">LEARN MORE</a>
-					</div>
+					<div class="newsbox-text"> <strong>9.22.15</strong><br>
+						EPA REQUEST FOR PROPOSALS:<br>
+						RFP for Strategic Initiative implementation leads for FY2016 Proposals due 11.30.15<br>
+						<a href="http://www2.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">LEARN MORE</a> </div>
 				</div>
 			</div>
 		</div>
@@ -135,13 +121,13 @@ EPA REQUEST FOR PROPOSALS:<br>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
-					<div class="newsbox-date">NOV<br>12</div>
-					<div class="newsbox-text">
-						<a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
-							MEETING, LYNNWOOD CONVENTION CENTER </a><br></div>
+					<div class="newsbox-date">NOV<br>
+						12</div>
+					<div class="newsbox-text"> <a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
+						MEETING, LYNNWOOD CONVENTION CENTER </a><br>
+					</div>
 				</div>
 			</div>
-		
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-date">NOV<br>
@@ -157,6 +143,84 @@ EPA REQUEST FOR PROPOSALS:<br>
 					<div class="newsbox-text"><a href="LC_meetings.php" target="_self">LEADERSHIP COUNCIL MEETING,<br>
 						LOCATION TBD </a><br>
 					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container-fluid light-blue-fill margin-20-top padding-20-bottom">
+	<div class="container">
+		<div class="row margin-20-top">
+			<div class="col-md-6">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!-- CODE SNIPPET FROM GOV DELIVERY -->
+						<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" id="GD-snippet-form" method="post">
+							<div style="margin:0;padding:0;display:inline">
+								<input name="utf8" type="hidden" value="✓" />
+								<input name="authenticity_token" type="hidden" value="nJ2M3jFoBio2OxjDYTxoAVxjuoO4hpMu9D91mts0scw=" />
+							</div>
+							<fieldset>
+								<h3> SIGN UP TO RECEIVE UPDATES FROM THE PARTNERSHIP. </h3>
+								
+								<ol class='form'>
+									<li>
+										<label for="subscription_type">Subscription Type</label>
+										<div class='input_group'>
+											<select id="subscription_type" name="subscription_type">
+												<option value="email" selected="selected">Email</option>
+												<option value="phone">SMS/Text Message</option>
+											</select>
+										</div>
+									</li>
+									<li class='wireless_fields' style='display: none'>
+										<label for="phone"><img alt="Required" class="required" src="https://public.govdelivery.com/assets/required-ef6e0abfe1c903c5ed5cba6ab7c2c38b.gif" />Wireless Number</label>
+										<div class='input_group'> 
+											<!-- The full translation path is used because the translation of .select_title doesn't always resolves to the same i18n path -->
+											<select disabled="disabled" id="country_code_display" name="country_code_display" title="Country code">
+												<option value="1 (US)">1 (US)</option>
+												<option value="1">1</option>
+											</select>
+											<input id="country_code" name="country_code" title="Country code" type="hidden" value="1" />
+											<input class="medium" id="phone" name="phone" title="Wireless Number" type="text" />
+										</div>
+									</li>
+									<li class='email_fields' style='display: block'>
+										<label for="email"><img alt="Required" class="required" src="https://public.govdelivery.com/assets/required-ef6e0abfe1c903c5ed5cba6ab7c2c38b.gif" />Email Address</label>
+										<input class="long" id="email" name="email" type="text" />
+									</li>
+								</ol>
+								<div class='button_panel'>
+									<input class="form_button" name="commit" type="submit" value="Submit" />
+								</div>
+							</fieldset>
+						</form>
+						<script type='text/javascript'>
+  //<![CDATA[
+    var GOVDSNIPPET = function() {
+      var form  = document.getElementById('GD-snippet-form');
+      var typeSelect = form.getElementsByTagName('select')[0];
+      var getStyleType = function(type) {
+        return typeSelect.value === type ? 'block' : 'none';
+      };
+      var toggleType = function() {
+        form.getElementsByTagName('li')[2].style.display = getStyleType('email');
+        form.getElementsByTagName('li')[1].style.display = getStyleType('phone');
+      };
+      if (typeSelect.addEventListener) {
+        typeSelect.addEventListener('change', toggleType);
+      } else if (typeSelect.attachEvent)  {
+        typeSelect.attachEvent('onchange', toggleType);
+      }
+    }();
+  //]]>
+</script> 
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="newsbox">
+					<div class="newsbox-text"></div>
 				</div>
 			</div>
 		</div>

@@ -75,7 +75,7 @@ PUGET SOUND</h1>
 				<li>The Puget Sound Project Atlas helps you learn more about an important subset of Puget Sound restoration and protection projects that are financed or tracked by the Washington State Recreation and Conservation Office. Clickable map markers allow users to view detailed information on each project.</li>
 				<li>The NEP Atlas is a compilation of interactive maps, graphs, and tables of activities funded by EPA’s National Estuary Program (NEP) from 2007 to the present.</li></ul>
 			<p>Coming soon:</p>
-			<ul><li>Public Opinion Research</li>
+			<ul>
 			<li>Agency Performance Management</li>
 			</ul>
 			<h2>Effectiveness Monitoring</h2>
