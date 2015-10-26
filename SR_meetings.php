@@ -70,7 +70,7 @@
 		<!-- InstanceBeginEditable name="6col_content" -->
 			
 		    <p>Start and end times depend on agenda needs, but meetings generally begin at 10 a.m. and adjourn by 3 p.m. For approximate start and end times for a particular meeting, see the proposed agenda – usually posted online one week prior to the meeting.</p>
-				  <table width="655">
+				  <table class="table">
 								<tr>
 										<td width="78" class="tableheader">DATE</td>
 										<td width="105"  class="tableheader">TIME</td>

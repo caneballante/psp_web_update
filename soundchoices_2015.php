@@ -51,7 +51,7 @@
 	
 	<div class="row"> 
 	
-		<div class="col-md-10 padding-20-top padding-0-left content-column">
+		<div class="col-md-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
 		<!-- InstanceBeginEditable name="9col_content" -->
 			
 		<h2>Local Government Decisions and the health of puget sound</h2>

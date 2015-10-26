@@ -208,6 +208,11 @@ p {
 .padding-50-left {
 	padding-left: 50px;
 }
+@media (max-width: 992px){
+.mobile-padding-20-left{
+	padding-left: 20px;
+}
+}
 /*margin top*/
 .margin-0-top {
 	margin-top: 0px;

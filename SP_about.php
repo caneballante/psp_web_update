@@ -69,7 +69,7 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-						<p><br>
+						<p>
 The Science Panel's expertise and advice are critical to the Puget Sound Partnership&rsquo;s efforts to develop a comprehensive, science-based plan to restore Puget Sound. The members, appointed by the Leadership Council, were chosen from the top scientists in Washington State.<br>
 			</p>
 						<p><strong>Chair: John Stein</strong><br />

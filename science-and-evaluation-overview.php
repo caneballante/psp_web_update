@@ -51,7 +51,7 @@
 	
 	<div class="row"> 
 	
-		<div class="col-md-10 padding-20-top padding-0-left content-column">
+		<div class="col-md-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
 		<!-- InstanceBeginEditable name="9col_content" -->
 			<h2 class="margin-0-top">EVALUATING RECOVERY </h2>
 			<p>Central to the science-based recovery of Puget Sound is the development and use of a shared system of measurement and evaluation that allows assessment of ecosystem health, implementation of recovery actions, and determination of how recovery efforts affect ecosystem conditions. The Puget Sound Partnership coordinates this assessment activity and summarizes findings in the State of the Sound report. Coordination and reporting help to hold us accountable to one another, convey the impacts of actions and investments, and provide the information that fuels adaptation of recovery efforts.</p>
