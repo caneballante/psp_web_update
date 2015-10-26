@@ -73,9 +73,9 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-						<p>The Science Panel's expertise and advice are critical to the Puget Sound Partnerships efforts to develop a comprehensive plan to restore Puget Sound. The following nine members, appointed by the Leadership Council, were chosen from the top scientists in Washington State. </p>
-						
-								
+						<p><br>
+The Science Panel's expertise and advice are critical to the Puget Sound Partnership&rsquo;s efforts to develop a comprehensive, science-based plan to restore Puget Sound. The members, appointed by the Leadership Council, were chosen from the top scientists in Washington State.<br>
+			</p>
 						<p><strong>Chair: John Stein</strong><br />
 								<span style="font-weight: bold">Term:</span> 4 years 11/10/2015<br />
 						John Stein is the current Science and Research Director of NOAA Fisheries’ Northwest Fisheries Science Center in Seattle, WA. The Center studies living marine resources (e.g., salmon, groundfish, and killer whales) and their habitats to better understand these resources and their ecosystems to assist resource managers in making sound decisions that build sustainable fisheries, recover endangered and threatened species, and sustain healthy ecosystems, and reduce human health risks. Currently, Dr. Stein oversees science to support ecosystem-based management of the California Current through NOAA’s Integrated Ecosystem Assessment program, as well as the Center’s efforts on impacts of ocean acidification on biological systems in Puget Sound. In addition, Stein serves on the Executive Committee for the West Coast Governors Alliance on Ocean Health and is the US Delegate to the North Pacific Marine Science Organization (PICES).
@@ -183,7 +183,17 @@ Special Assistant,<br>
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script>
+<!-- Google Tracking  -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-679161-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 </body>
 <!-- InstanceEnd --></html>

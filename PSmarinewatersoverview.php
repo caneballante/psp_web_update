@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Local Integrating Organizations Overview</title>
+<title>Puget Sound Partnership - Report Card</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -28,7 +28,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
+  	navSelected = 2;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -43,17 +43,13 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image13">
-
-
-
- </header>
+<header class="overview-page-image-style overview-page-image17"> </header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>LOCAL INTEGRATING ORGANIZATIONS (LIO)</h1>
+			<h1 class="grey">PSEMP MARINE WATERS REPORT</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
@@ -63,7 +59,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-local-recovery-efforts.html';?>	
+					
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -72,29 +68,10 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			
-						  <p>Local communities around the Puget Sound are working to integrate local efforts to advance the Action Agenda.  Local governments, tribes, non-profit organizations, watershed, marine resource, and salmon recovery groups, interest groups, businesses, educational organizations, and citizens are collaborating to develop and coordinate local integrating organizations that foster implementation of Action Agenda priorities.</p>
-     <p>The local integrating organizations enable communities to guide the implementation of Action Agenda priorities at an ecosystem scale, and to prioritize local actions for investment. </p>
-     <p>To date, the Leadership Council has recognized local integrating organizations in nine geographic areas.  For more information and to contact the local integrating organization in your area see the links below.</p>
-     <p style="font-weight: bold">Local Integrating Organizations:</p>
- 
-     <ul>
-	 <li><a href="http://www.sanjuanlio.com">San Juan Action Agenda Oversight Group </a></li>
-	 <li><a href="http://www.mypugetsound.net/index.php?option=com_community&amp;view=groups&amp;task=viewgroup&amp;groupid=60&amp;Itemid=222">Strait Ecosystem Recovery Network</a></li>
-	 <li><a href="http://www.govlink.org/sc-puget-sound-action-area/Index.htm">South Central Action Area Caucus Group</a></li>
-	 <li><a href="http://www.healthysouthsound.org/">Alliance for a Healthy South Sound</a></li>
-	 <li><a href="http://hccc.wa.gov/">Hood Canal Coordinating Council </a></li>
-	 <li> <a href="http://www.westcentrallio.org">West Central LIO</a></li>
-	 <li><a href="http://wria1project.whatcomcounty.org/">Whatcom LIO</a> (<a href="http://wria1project.whatcomcounty.org/">WRIA 1 Policy Boards</a>)</li>
-	 <li><a href="http://www.islandcountyeh.org/Page/237">Island LIO</a></li>
-	 <li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization"> Snohomish/Stillaguamish LIO </a></li>
-      </ul>
-<h2>2-year Recovery Planning</h2>
-<p>LIOs are currently working to identify local near-term ecosystem recovery priorities through the development of 2-year recovery plans. These plans mirror and contribute to development of the 2016 Puget Sound Action Agenda, describing how LIO actions are helping to achieve regional progress on the Action Agenda’s 22 Vital Signs. <a href="LIO-2-year-plan.php">LEARN MORE</a></p>		
-<h2>5-year Recovery Planning</h2>
-<p>Between now and September 2016, LIOs are also working to build local, long-term recovery strategies from which high-priority recovery actions can be developed. Similar to the 2-year plans, these 5-year plans will mirror and contribute to Puget Sound Action Agenda updates and explain how LIOs are helping to advance regional progress on the Action Agenda’s 22 Vital Signs. <a href="LIO-5-year-plan.php">LEARN MORE </a></p>
-
-<!-- InstanceEndEditable -->
+			<p>Click on image to download or preview the Puget Sound Marine Waters 2014 Overview.<br />
+  NOTE: Revised 9/22/15 to correct figure captions for Figures 11, 18-21".</p>
+<iframe src="https://app.box.com/embed/preview/7j84w0fxv9a138m6v04w6pz033b952h4?theme=dark" width="500" height="400" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+			<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 

@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Draft Home Page</title>
+<title>Puget Sound Partnership - Ecoysystem Coordination Board Members</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -45,8 +45,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2015 SALMON RECOVERY COUNCIL MEETINGS</h1>
-			<p>&nbsp;</p>
+			<h1>QUALITY MANAGEMENT PLAN (QMP)</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -58,13 +57,14 @@
 				<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
 				<li role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
 				<li role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
-				<li role="presentation"> <a href="EB_about.php">ABOUT THE ECOSYSTEM COORDINATION BOARD</a></li>
+				<li class="active" role="presentation"> <a href="EB_about.php">ABOUT THE ECOSYSTEM COORDINATION BOARD</a></li>
 				<li role="presentation"> <a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD MEETINGS AND AGENDAS</a></li>
 				<li role="presentation"> <a href="SP_about.php">ABOUT THE SCIENCE PANEL</a></li>
 				<li role="presentation"> <a href="SP_meetings.php">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
 				<li role="presentation"> <a href="SR_about.php">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
-				<li class="active" role="presentation"> <a href="SR_meetings.php">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
-				<!-- InstanceEndEditable --> 
+				<li role="presentation"> <a href="SR_meetings.php">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
+	
+			<!-- InstanceEndEditable --> 
 			</ul>
 		
 		</div>
@@ -72,83 +72,38 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			
-		    <p>Start and end times depend on agenda needs, but meetings generally begin at 10 a.m. and adjourn by 3 p.m. For approximate start and end times for a particular meeting, see the proposed agenda – usually posted online one week prior to the meeting.</p>
-				  <table width="655">
-								<tr>
-										<td width="78" class="tableheader">DATE</td>
-										<td width="105"  class="tableheader">TIME</td>
-										<td width="211" class="tableheader">DETAILS</td>
-										<td width="221" class="tableheader">DOCUMENTS</td>
-								</tr>
-								<tr>
-										<td>January 22</td>
-										<td>10:00 a.m. - 3:00p.m.</td>
-										<td><a href="http://www.edmondswa.gov/maps-and-direction.html">Edmonds City Hall, Bracket Rm</a><br />
-										  121 5th Ave. North<br />
-										  Edmonds, WA </td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=845&amp;Itemid=238">Meeting Materials</a></td>
-						  </tr>
-								<tr>
-										<td width="78"> April 2nd.<br /></td>
-										<td width="105">10:00 a.m. - 3:00p.m.</td>
-			    <td>Edmonds Center for the Arts,<br />
-410 Fourth Ave. North<br />
-<a href="http://www.edmondscenterforthearts.org/plan-your-visit">Edmonds, WA 98020</a></td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=846&amp;Itemid=238">Meeting Materials</a></td>
-								</tr>
-								<tr>
-										<td>June 4</td>
-										<td>10:00 a.m. - 3:00p.m.</td>
-										<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-										  410 4th Ave N, <br />
-										  Edmonds, WA 98020</p></td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=847&amp;Itemid=238">Meeting Materials</a></td>
-	    </tr>
-								<tr>
-										<td>July 16</td>
-										<td>10:00 a.m. - 3:00p.m.</td>
-										<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-410 4th Ave N, <br />
-Edmonds, WA 98020</td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=848&amp;Itemid=238">Meeting Materials</a></td>
-	    </tr>
-									<tr>
-										<td>September 24</td>
-										<td>10:00 a.m. - 3:00p.m.</td>
-										<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-410 4th Ave N, <br />
-Edmonds, WA 98020</td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=849&amp;Itemid=238">Meeting Materials</a></td>
-	    </tr>
-								<tr>
-										<td width="78">November 19</td>
-										<td width="105">10:00 a.m. - 3:00p.m.</td>
-			    <td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-410 4th Ave N, <br />
-Edmonds, WA 98020</td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=850&amp;Itemid=238">Meeting Materials</a></td>
-	    </tr>
-						</table>
-<p>* Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls. <br />
-  <br />
-
-</p>
-			<!-- InstanceEndEditable -->
+		
+						<p>The Puget Sound Partnership is the state agency charged with overseeing the restoration of Puget Sound. This work requires the Partnership to compile, assess, collect, and report on environmental and other data and technical information. The Partnership also uses this data and technical information to inform the public, make decisions, recommend actions, measure performance, and track implementation.</p>
+						<p>The Puget Sound Partnership’s Quality Management Plan describes the agency’s processes and policies to ensure that the quality of the data and technical information that is gathered corresponds with the actions and decisions undertaken by the Partnership.</p>
+						<p>The Puget Sound Partnership’s first, and current, QMP was approved by the Partnership and the U.S. Environmental Protection Agency in April 2014.</p>
+						<p style="font-weight: bold">Download</p>
+						<p style="font-weight: bold"><a href="downloads/2014_qmp/Quality Management Plan April 2014_with_appendices.pdf">Quality Management Plan April 2014 (with appendices)</a>						</p>
+						<ul>
+								<li><a href="downloads/2014_qmp/Quality Management Plan April 2014.pdf" style="font-weight: bold">Quality Management Plan April 2014</a></li>
+								<li><a href="downloads/2014_qmp/Appx A Quaility Assurance Policy.pdf" style="font-weight: bold">Appx A Quality Assurance Policy</a></li>
+								<li><a href="downloads/2014_qmp/Appx B Org Chart Quality Mgmt System.pdf" style="font-weight: bold">Appx B Org Chart Quality Mgmt System</a></li>
+								<li><a href="downloads/2014_qmp/Appx C A_500 Agency Records Management and Retention.pdf" style="font-weight: bold">Appx C A_500 Agency Records Management and Retention</a></li>
+								<li><a href="downloads/2014_qmp/Appx D PSP_GISProgramAndStandards_workingdocument.pdf" style="font-weight: bold">Appx D PSP_GISProgramAndStandards_workingdocument</a></li>
+								<li><a href="downloads/2014_qmp/Appx E Washington State OCIO oversight policies and standards.pdf" style="font-weight: bold">Appx E Washington State OCIO oversight policies and standards</a></li>
+								<li><a href="downloads/2014_qmp/Appx F Washington State Procurement &amp; Contracting Policies.pdf" style="font-weight: bold">Appx F Washington State Procurement &amp; Contracting Policies</a></li>
+								<li><a href="downloads/2014_qmp/Appx G Delegation of Authority (RCW 39.26.090).pdf" style="font-weight: bold">Appx G Delegation of Authority (RCW 39.26.090)</a></li>
+						</ul>
+						<p style="font-weight: bold"><a href="downloads/2014_qmp/Guidelines for scientific review_Jan 25 FINAL.pdf">Guidelines for Scientific Review</a></p>
+		<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
-			<!-- InstanceEndEditable -->
+					<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
+				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
-					<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
-					Special Assistant,<br>
-					360.628.2423</p>
-				<!-- InstanceEndEditable -->
+						<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
+				<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
+Special Assistant,<br>
+ 360.628.2423</p>
+						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 		</div>

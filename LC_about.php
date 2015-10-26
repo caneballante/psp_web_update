@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Leadership Council Members</title>
 <!-- InstanceEndEditable -->
@@ -12,6 +12,7 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
+
 
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
@@ -37,9 +38,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
@@ -49,10 +50,11 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
-				<!-- InstanceBeginEditable name="left_nav" -->
+			<!-- InstanceBeginEditable name="left_nav" -->
 				<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
 				<li class="active" role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
 				<li role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
@@ -62,12 +64,16 @@
 				<li role="presentation"> <a href="SP_meetings.php">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
 				<li role="presentation"> <a href="SR_about.php">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
 				<li role="presentation"> <a href="SR_meetings.php">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
-				<!-- InstanceEndEditable -->
+				<!-- InstanceEndEditable --> 
 			</ul>
+		
 		</div>
-		<div class="col-md-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Leadership Council is the governing body of the Puget   Sound Partnership. Its seven members are leading citizens chosen from   around the Sound and appointed by the governor. Gov. Chris Gregoire named Bill   Ruckelshaus the first chair. Founding members will serve terms of different   lengths. Successors to the original council will each serve four-year terms. </p>
-			<p>Washington state has over 200 boards and commissions to which the Governor  appoints citizen members. Appointees are responsible for advising the Governor, the legislature, and state agencies. For more information on board and commission appointments visit <a href="http://governor.wa.gov/boards/default.aspx">http://governor.wa.gov/boards/default.aspx</a></p>
+			
+	
+		<div class="col-md-7 padding-20-top content-column">
+		<!-- InstanceBeginEditable name="6col_content" -->
+			<p>The Leadership Council is the governing body of the Puget Sound Partnership. Its seven members are leading citizens chosen from around the Sound and appointed by the governor to serve four-year terms. Martha Kongsgaard serves as Chair.<br>
+			</p>
 			<h2>Chair: Martha Kongsgaard</h2>
 			<p><strong>Term:</strong> Four-year term, ends June 25, 2018<br />
 				<strong>Biography:</strong> Martha Kongsgaard   was born and raised in Napa, Calif., to a family of jurists, grape growers and   cattle ranchers. Kongsgaard married Peter Goldman in 1988 and collaborated with   him to found the Kongsgaard-Goldman Foundation. The foundation gives grants to a   variety of nonprofit environmental, social justice and arts organizations in the   Pacific Northwest and Alaska, many of which affect Puget Sound. Her community   activities include participation on the national board and the executive   committees of Earthjustice, Islandwood, the Future of the Law Institute and   Friends of the Methow. She chairs several major capital campaigns, including the   Cascade Agenda, the expansion of Islandwood and the building of the   LEED-certified Community Center at the New High Point. Kongsgaard has served as   the president of Philanthropy Northwest and has spoken broadly about   philanthropy and the environmental movement to wide and diverse audiences for   the past 20 years. </p>
@@ -93,25 +99,32 @@
 			<h2> Member: Jim Wilcox</h2>
 			<p><strong>Term: </strong>Four-year term, ends June 25, 2017<br />
 				<strong>Biography:</strong> Jim Wilcox was born in Tacoma, Wash., and grew up, lived, and worked at the family farm near Roy on the Nisqually River all his life. Jim attended Yelm High School and graduated from University of Puget Sound with a B.A. in History. He focused on a career in the dairy division of Wilcox Farms until that division was sold in 2008. He is the former chairman of the Wilcox Farms board of directors, and is retired from day-to-day management. Before his retirement, Jim supported the effort to get Wilcox Farms certified as salmon safe and helped convert much of the farm to organic practices to protect the Nisqually River. In the early 1980s, Jim served on the Nisqually River Task Force, which created the Nisqually River Council, now one of the oldest watershed councils west of the Mississippi. He also served as a board member and president of Greater Lakes Mental Health; was a volunteer fireman for 30 years; has been a participant, board member, and president of the Washington Agriculture and Forestry Leadership Foundation; and has served on many trade groups and industry councils. Jim currently serves on the boards of the Nisqually River Foundation and the Washington Food Industry Scholarship Foundation, and is a council member with the Alliance for a Healthy South Sound.  When not working, Jim enjoys Puget Sound&rsquo;s many outdoor bounties, including skiing in the winter and sailing on the Salish Sea in the summer. </p>
-			<!-- InstanceEndEditable --> </div>
-		<div class="col-md-2 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<!-- InstanceEndEditable -->
+		</div>
+	
+		<div class="col-md-2 padding-20-top"> 
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
 			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
 				<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
 					<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
 					Special Assistant,<br>
 					360.628.2423</p>
 				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+		</div>
 	</div>
-	<!--END OF ROW --> 
+	<!--END OF ROW -->
 </div>
 <!--END OF CONTENT CONTAINER -->
 
+
 <?php include 'includes/footer-inc.html';?>
+
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -120,6 +133,17 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script>
+<!-- Google Tracking  -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-679161-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

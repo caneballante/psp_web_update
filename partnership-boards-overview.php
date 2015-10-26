@@ -72,25 +72,22 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>I love cheese, especially feta fondue. Manchego squirty cheese who moved my cheese cheese slices paneer blue castello say cheese boursin. Lancashire monterey jack stilton cottage cheese emmental jarlsberg manchego cheesy feet. Dolcelatte cheese and biscuits melted cheese stinking bishop port-salut when the cheese comes out everybody's happy roquefort red leicester. Gouda cheese slices cauliflower cheese cottage cheese.</p>
-			<p>Manchego cheese and biscuits emmental. Cottage cheese the big cheese cow pecorino parmesan cheese on toast edam airedale. Bocconcini bocconcini cheese slices cheesy feet macaroni cheese gouda pecorino parmesan. Jarlsberg.</p>
-			<h2>THE LEADERSHIP COUNCIL</h2>
-			
-			<p>Blue castello cheddar goat. Boursin gouda cheese on toast feta caerphilly emmental monterey jack mascarpone. Stinking bishop jarlsberg croque monsieur gouda cheddar fondue parmesan edam. Parmesan cheeseburger roquefort hard cheese st. agur blue cheese st. agur blue cheese halloumi cheeseburger. Pecorino cheese strings pepper jack.</p>
-			<h2>ECOSYSTEM COORDINATION BOARD</h2>
-			<p>Blue castello cheddar goat. Boursin gouda cheese on toast feta caerphilly emmental monterey jack mascarpone. Stinking bishop jarlsberg croque monsieur gouda cheddar fondue parmesan edam. Parmesan cheeseburger roquefort hard cheese st. agur blue cheese st. agur blue cheese halloumi cheeseburger. Pecorino cheese strings pepper jack.</p>
-		<h2>SCIENCE PANEL</h2>
-			<p>Rubber cheese port-salut dolcelatte. Cheeseburger gouda mozzarella cheese slices emmental pecorino emmental cut the cheese. Cow mozzarella cottage cheese macaroni cheese macaroni cheese stilton pecorino cheeseburger. Mozzarella paneer cheese strings smelly cheese jarlsberg.</p>
-				<h2>SALMON RECOVERY COUNCIL</h2>
-				<p>Cheese ricotta edam. Lancashire squirty cheese taleggio taleggio stilton cheeseburger say cheese fromage frais. Cheese on toast boursin squirty cheese cheddar cheese and biscuits pecorino say cheese queso. Roquefort paneer.<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-				</p>
+			<p>The Puget Sound Partnership&rsquo;s four boards support and guide the agency in its charge of mobilizing and accelerating the science-based effort to protect and restore Puget Sound.  <br>
+1.              Leadership Council<br>
+2.              Ecosystem Coordination Board<br>
+3.              Science Panel<br>
+4.              Puget Sound Salmon Recovery Council</p>
+			<p>These four boards are integral to the agency&rsquo;s role as a backbone organization.</p>
+			<p>Washington State has over 200 boards and commissions to which the Governor appoints citizen members. Appointees are responsible for advising the Governor, the legislature, and state agencies. For more information on board and commission appointments visit <a href="http://governor.wa.gov/boards/default.aspx">http://governor.wa.gov/boards/default.aspx</a></p>
+<p><br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+			</p>
 			<!-- InstanceEndEditable -->
 		</div>
 	
@@ -113,7 +110,17 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script>
+<!-- Google Tracking  -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-679161-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 </body>
 <!-- InstanceEnd --></html>

@@ -72,106 +72,103 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
+			<p>The Ecosystem Coordination Board's main role is to advise the Puget Sound Partnership&rsquo;s Leadership Council on carrying out its responsibilities. The Board is made up of 27 members representing specific interests around the Sound.</p>
 						<p><strong>Chair: </strong>Dave Somers<br />
-    				</p>
+    					</p>
     		<p><strong>Vice Chair: </strong>Dave Herrera<br />
     				</p>
-    		<p><strong>Representing the <a href="http://wa-geoservices.maps.arcgis.com/apps/OnePane/basicviewer/index.html?appid=063476d1e8e342b383ed1655b106c055">Action Areas</a></strong><strong>:</strong></p>
-    		<blockquote>
-    				<p>Strait of Juan de Fuca<strong><br />
-    						Steve Tharinger, </strong><span style="font-style: italic">Action Area Representative</span><strong><br />
-    								<br />
-    								</strong>San Juan / Whatcom<strong><br />
-    								Jamie Stephens</strong><strong>¸</strong><em> Action Area Representative (San Juan LIO)</em><strong><br />
-    								</strong><strong>Bill Knutzen, </strong><em>Ex Officio Representative (Whatcom LIO)</em><strong><br />
-								</strong> </p>
-    				<p>Whidbey <br />
-    						<strong>Ron Wesen, </strong><em>Skagit County Commissioner</em><strong><br />
-   								</strong> </p>
-    				<p>North Central Puget Sound <strong><br />
-    						Charlotte Garrido, </strong><span style="font-style: italic">Kitsap County Commissioner </span><strong><br />
-   								</strong> </p>
-    				<p>South Central Puget Sound <strong><br />
-    						</strong><span style="font-weight: bold">Dow Constantine</span>,<em> King County </em><strong><br />
-   								</strong> </p>
-    				<p><strong></strong>South Puget Sound <strong><br />
-    						Dan Wrye</strong>, <em>Pierce County</em><strong><br />
-   								</strong> </p>
-    				<p><strong></strong>Hood Canal <strong><br />
-    						Teri King</strong>, <em>Washington Sea Grant</em><strong><br />
-    								</strong><br />
-    						<strong></strong></p>
-    				</blockquote>
-    		<p><strong>Representing business interests<br />
-    				</strong></p>
-    		<ul>
-    				<li><strong>Gary Chandler, </strong><em>Association of Washington Business</em></li>
-    				</ul>
-    		<p><br />
-    				<strong>Representing small business interests</strong><br />
-    				</p>
-    		<ul>
-    				<li><strong>Bill Dewey, </strong><em>Taylor Shellfish</em> </li>
-    				</ul>
-    		<p><strong>Representing cities<br />
-    				</strong></p>
-    		<ul>
-    				<li><strong>Will Hall, </strong><span style="font-style: italic">City of Shoreline</span><span style="font-style: italic"> </span></li>
-    				</ul>
-    		<p><strong>Representing counties<br />
-    				</strong></p>
-    		<ul>
-    				<li><strong>Dave Somers, </strong><span style="font-style: italic">Snohomish County Councilman</span><strong><br />
-    						</strong></li>
-    				</ul>
-    		<p><strong>Representing environmental interests</strong><strong><br />
-    				</strong></p>
-    		<ul>
-    				<li><span style="font-weight: bold">Chris Wilke, </span><span style="font-style: italic">Puget Soundkeeper Alliance </span></li>
-					<li><span style="font-weight: bold">Jessie Isreal</span>, <span style="font-style: italic">The Nature Conservancy</span></li>
-    				
-    				</ul>
-    		<p><strong>Representing federal agencies<br />
-    				</strong></p>
-    		<ul>
-    				<li><strong></strong><strong>Will Stelle, </strong><em>National Oceanic and Atmospheric Administration</em> </li>
-    				<li><strong>Angela Bonifaci, </strong><em>Environmental Protection Agency</em><strong><br />
-    						</strong> </li>
-    				<li><strong>Col. John G. Buck, </strong><span style="font-style: italic">U.S. Army Corps of Engineers</span></li>
-    				</ul>
-    		<p><strong>Representing legislative caucuses<br />
-    				</strong></p>
-    		<ul type="disc">
-    				<li><strong></strong><strong>Steve Litzow, </strong><em>R, 41st District</em><strong><br />
-    						</strong>Washington State Senate<strong> </strong> </li>
-    				<li><strong></strong><strong>Christine Rolfes, </strong><em>D, 23rd District</em><strong><br />
-                    </strong>Washington State Senate<strong> </strong> </li>
-    				<li><strong>Strom Peterson, </strong><em>D, 21st District</em><strong><br />
-
-    						</strong>Washington State House of Representatives </li>
-    				<li><strong>Shelly Short, </strong><em>R, 7th District</em><strong><br />
-    						</strong>Washington State House of Representatives </li>
-    				</ul>
-<p><strong>Representing port districts<br />
-    				</strong></p>
-    		<ul>
-    				<li><strong>Bill Bryant, </strong><span style="font-style: italic">Port of Seattle</span><br />
-    						</li>
-    				</ul>
-    		<p><strong>Representing tribal governments</strong></p>
-    		<ul>
-    				<li><strong>David Troutt, </strong><em>Nisqually Tribe</em> </li>
-    				<li><strong>Randy Kinley, </strong><em>Lummi Nation</em> </li>
-    				<li><strong>Dave Herrera, </strong><em>Skokomish Tribe</em></li>
-    				</ul>
-    		<p><strong>Representing </strong><strong>Washington state agencies</strong><strong> <br />
-    				</strong></p>
-    		<ul>
-    				<li><strong>Dr. Jim Unsworth, </strong><em> Director, <a href="http://wdfw.wa.gov/">Washington Department of Fish and Wildlife</a></em> </li>
-    				<li><strong>Maia Bellon, </strong><em>Director, <a href="http://www.ecy.wa.gov/">Washington State Department of Ecology</a></em> </li>
-    				<li><strong>Peter Goldmark, </strong><em>Commissioner of Public Lands, <a href="http://www.dnr.wa.gov/Pages/default.aspx">Washington Department of Natural Resources</a></em> </li>
-    				</ul>
-			<!-- InstanceEndEditable -->
+    		<p><strong>ACTION AREAS</strong><br>
+            Strait of Juan De Fuca<br>
+                        Steve Tharinger<br>
+                        Phil Johnson (alternate) <em>Jefferson County Commissioner</em><br>
+            The San Juan Islands<br>
+                        Jamie Stephens<br>
+            Whidbey Island<br>
+                        Ron Wesen<br>
+                        Bill Blake (alternate) <em>City of Arlington</em><br>
+            Hood Canal<br>
+                        Teri King<br>
+                        Scott Brewer (alternate) <em>Hood Canal Coordination Council</em><br>
+            North Central Puget Sound<br>
+                        Charlotte Garrido<br>
+                        Kathleen Peters (alternate) <em>Kitsap County</em><br>
+                        Patty Charnas (alternate) <em>Kitsap County</em><br>
+            South Central Puget Sound<br>
+                        Dow Constantine<br>
+                        Fred Jarrett (alternate) <em>King County</em><br>
+                        Christie True (alternate) <em>King County</em><br>
+                        Dave White (alternate) <em>King County</em><br>
+            South Puget Sound<br>
+                        Dan Wrye<br>
+                        Alex Smith (alternate) Port of Olympia</p>
+			<p>Business Interest<br>
+				            Gary Chandler<br>
+				            Alison Butcher (alternate) <em>Master Builders Association of King and Snohomish Counties</em></p>
+			<p>Small Business Interest<br>
+				            Bill Dewey<br>
+				            Bill Taylor (alternate) <em>Taylor Shellfish</em></p>
+			<p>Environmental Interest 1<br>
+				            Jessie Israel<br>
+				            Heather Trim (alternate) <em>Futurewise</em></p>
+			<p>Environmental Interest 2<br>
+				            Chris Wilke<br>
+				            Darcy Nonemacher (alternate) <em>Washington Environmental Council</em></p>
+			<p>Cities<br>
+				            Will Hall<br>
+				            Ed Stern (alternate) City of Poulsbo Councilmember</p>
+			<p>Counties<br>
+				            Dave Somers<br>
+				            Helen Price Johnson (alternate) Island County Commissioner</p>
+			<p>Port Districts<br>
+				            Bill Bryant<br>
+				            Mike McAuley (alternate) <em>Port of Bellingham</em></p>
+			<p>Tribal Government<br>
+				            David Troutt<br>
+				            Jeff Dickison (alternate) <em>Squaxin Island Tribe</em></p>
+			<p>Tribal Government<br>
+				            Randy Kinley<br>
+				            Pat Stevenson (alternate) <em>Stillaguamish Tribe</em></p>
+			<p>Tribal Government<br>
+				            Dave Herrera<br>
+				            Randy Harder (alternate) <em>Point No Point Treaty Council</em></p>
+			<p>Legislative Caucus<br>
+				            Strom Peterson</p>
+			<p>Legislative Caucus<br>
+				            Shelly Short</p>
+			<p>Legislative Caucus<br>
+				            Steve Litzow</p>
+			<p>Legislative Caucus<br>
+				            Christine Rolfes</p>
+			<p>Federal Government<br>
+				            Will Stelle<br>
+				            Elizabeth Babcock (alternate) <em>NOAA</em></p>
+			<p>Federal Government<br>
+				            Col. John G. Buck<br>
+				            Olton Swanson (alternate) <em>USACE</em></p>
+			<p>Federal Government<br>
+				            Angela Bonifaci</p>
+			<p>Washington State Agencies<br>
+				            Maia Bellon<br>
+				            Josh Baldi (alternate) <em>Department of Ecology</em></p>
+			<p>Washington State Agencies<br>
+				            Jim Unsworth <br>
+				            Jeff Davis (alternate) <em>Department of Fish and Wildlife</em><br>
+				            David Price (alternate) <em>Department of Fish and Wildlife</em></p>
+			<p>Washington State Agencies<br>
+				            Peter Goldmark<br>
+				            Kirsten Feifel (alternate) <em>Department of Natural Resources</em></p>
+			<p><strong>EX-OFFICIO REPRESENTATIVES</strong><br>
+				Whatcom LIO<br>
+				            Bill Knutzen<br>
+				            Steve Jilk (alternate) <em>Whatcom County PUD</em><br>
+				            Mark Personius (alternate) <em>Whatcom County</em></p>
+			<p>Northwest Straits Commission<br>
+				            Ginny Broadhurst<br>
+				            Caroline Gibson (alternate)</p>
+			<p>Canadian Representation<br>
+				            Kaaren Lewis –<em>Assistant Deputy Minister of Environmental Sustainability, BC Public Service</em><br>
+				            Dave Marshall (alternate) – <em>Fraser Basin Council</em></p>
+		<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
@@ -205,7 +202,17 @@ Special Assistant,<br>
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script>
+<!-- Google Tracking  -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-679161-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 </body>
 <!-- InstanceEnd --></html>
