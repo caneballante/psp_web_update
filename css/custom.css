@@ -183,6 +183,9 @@ p {
 	padding-right: 20px;
 }
 /*padding bottom*/
+.padding-5-bottom {
+	padding-bottom: 5px;
+}
 .padding-10-bottom {
 	padding-bottom: 10px;
 }
