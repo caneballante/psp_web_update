@@ -79,7 +79,11 @@ This page contains current contract and grant opportunities, as well as valuable
 
  <h2>Sole-Source Contract Notification</h2>
 	
+			<p><a href="https://pspwa.box.com/shared/static/321m6x69wb4chhxt0ckcrneav3hnk3nm.docx">
+				10-26-15 Secure services from the Washington State Association of Counties (WSAC) to engage and inform Counties and Cities, to collaboratively assist Puget Sound Partnership in restoration priorities and implementation of the Action Agenda. 
+			</a></p>
 			 <p><a href="https://pspwa.box.com/shared/static/ndhzsrtd50uguyjxs03czb67dpfbcp7q.docx">10-15-15 Triangle Associates: Secure services from the Triangle Associates to continue with Phase 2 of the Integration Action Planning efforts between the Local Integrating Organizations (LIO) and the ECO Nets in all nine geographical areas.</a>    		</p>
+			 
 		<!-- InstanceEndEditable -->
 		</div>
 	
