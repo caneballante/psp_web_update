@@ -45,7 +45,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image1"> </header>
 <!-- InstanceEndEditable -->  
-<div class="container page-content">
+<div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
@@ -90,16 +90,16 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="SP_about.php">Adaptive Management Framework</a></li>
+					<li role="presentation"> <a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
 					<li role="presentation"> <a href="#">Chinook Monitoring &amp; Adaptive Management</a></li>
-					<li role="presentation"> <a href="#">LIO Planning</a></li>
-					<li role="presentation"> <a href="#">Implementation Strategies</a></li>
+					<li role="presentation"> <a href="2016_AA_LIO_planning.php">LIO Planning</a></li>
+					<li role="presentation"> <a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
 		
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">LINKS TO PARTNERS</div>
+					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
@@ -109,7 +109,7 @@
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">RELATED DOCUMENTS</div>
+					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->

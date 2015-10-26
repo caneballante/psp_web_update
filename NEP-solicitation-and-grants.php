@@ -49,7 +49,7 @@
 
  </header>
 <!-- InstanceEndEditable -->  
-<div class="container page-content">
+<div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
@@ -111,7 +111,7 @@ On September 22, EPA released a Request for Proposals titled “Puget Sound Acti
 		  <li><a href="https://pspwa.box.com/LOWorkPlanMarineNearshoreTable">Six-Year Investment Strategy to Protect and Restore Marine and Nearshore Habitat Table FFY2014-15</a></li>
 		  
 		  
-https://pspwa.box.com/LOWorkPlanMarineNearshoreTable
+
       </ul>
 <p>For more information, please contact:<br />
         Patricia Jatczak, WDFW: <a href="mailto:Patricia.Jatczak@dfw.wa.gov">Patricia.Jatczak@dfw.wa.gov</a>, 360.902.2597</p>
