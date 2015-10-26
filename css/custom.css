@@ -571,3 +571,17 @@ intro .brand-heading {
     background-color: #fff;
 }
 
+/*SITE MAP STYLES*/
+.sitemap ul{
+	list-style-type: none;
+}
+.sitemap ul li{
+	padding-bottom: 3px;
+}
+.sitemap ul li a{
+	font-size:10px;
+}
+.sitemap-subheads {
+	font-size:10px;
+	padding-top:10px;
+}
