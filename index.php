@@ -76,7 +76,7 @@
 		</div>
 	</div>
 </div>
-<div class="container-fluid light-blue-fill margin-20-top padding-20-bottom">
+<div class="container-fluid light-blue-fill margin-20-top padding-20-bottom light-icon">
 	<div class="container">
 		<div class="row margin-20-top">
 			<div class="col-md-3">

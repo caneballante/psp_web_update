@@ -48,6 +48,16 @@ a[href^="http"] {
    background: url(../images/external_link_icon.gif) left no-repeat;
    padding-left: 20px;
 }
+/*added as a way to remove the icon in special cases. Used on the social icons*/
+.light-icon a[href^="http"] {
+  background: url(../images/external_link_icon-light.gif) left no-repeat;
+   padding-left: 20px;
+}
+/*added as a way to remove the icon in special cases. Used on the social icons*/
+.no-icon a[href^="http"] {
+   background: none;
+   padding-left: 0px;
+}
 /*created this to make some email addresses smaller to fit in a table on the lead entities page*/
 .small-links {
 	font-size: 12px !important;
@@ -248,6 +258,10 @@ p {
 	width:400px;
 	margin:auto;
 }
+.width-200 {
+	width:200px;
+	margin:auto;
+}
 /*was used for now on top of the left nav. can be DELETED IN THE NEXT COUPLE DAYS IF I DON'T GO BACK TO USING IT*/
 .border-top-grey {
 	border-top: solid 2px #eeeeee;	
@@ -388,6 +402,7 @@ intro .brand-heading {
 	color: #1590cd;
 	font-size: 16px
 }
+
 /*the search text turns white from modal-body-custom I turn it black here*/
 .search-custom {
 	color:#000;
