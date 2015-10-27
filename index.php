@@ -39,7 +39,7 @@
 		</div>
 	</div>
 </header>
-<div class="container" id="home-squares">
+<div class="container padding-40-bottom" id="home-squares">
 	<div class="row"> 
 		<!--non breaking spaces keep the links from breaking into two lines-->
 		<div class="col-md-3 padding-40-top"><img src="images/home_roadmap.png" width="264" height="264" alt="satellite view of the Salish Sea" class="img-responsive"/></div>
@@ -78,7 +78,7 @@
 	</div>
 	</div>
 </div>
-<div class="container-fluid light-blue-fill margin-20-top padding-20-bottom light-icon">
+<div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
 	<div class="container">
 		<div class="row margin-20-top">
 			<div class="col-md-3">
