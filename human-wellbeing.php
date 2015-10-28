@@ -29,7 +29,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 1;
-</script> 
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -44,10 +44,10 @@
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image77">
-
-<div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
-
- </header>
+	<div class="overview-quote pull-right">
+		<h3>&nbsp;</h3>
+	</div>
+</header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
@@ -62,8 +62,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-sos.html';?>	
-	
+				<?php include 'includes/ln-sos.html';?>
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -72,65 +71,55 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<p>Experts in conservation and environmental policy around the world recognize that humans must be explicitly integrated into plans for environmental protection and restoration to make real progress toward ecosystem recovery. 
-Over the past 3 years, Partnership staff has teamed up with its Science Panel and regional scientists to better understand the benefits residents derive from a healthy Puget Sound, as well as the complex role people play in the protection and restoration of the ecosystem. </p>
-
-<p>Through a series of pilot projects in three local areas—Hood Canal, the Puyallup Watershed, and Whatcom County—and subsequent collaboration with partners and social scientists, the team built on existing human wellbeing indicators and developed a revised list of Vital Signs and indicators dedicated to human wellbeing. </p>
-
-<p>In 2015, the Puget Sound Partnership’s Leadership Council adopted a new set of wellbeing indicators designed to better support the integration of human wellbeing in all levels of Puget Sound recovery planning and evaluation, from the watershed to the regional scale.</p>
-
-<p>New and revised Vital Signs that will be used for future reporting include:</p>
-
-<h6>Healthy Human Population</h6>
-<ul><li>Onsite Sewage Systems</li>
-<li>Harvestable Shellfish Beds</li>
-<li>Outdoor Activities</li>
-<li>Local Foods</li>
-<li>Air Quality</li>
-<li>Drinking Water</li></ul>
-
-<h6>Human Quality of Life</h6>
-<ul><li>Sound Stewardship</li>
-<li>Economic Vitality</li>
-<li>Good Governance</li>
-<li>Sense of Place</li>
-<li>Cultural Practices</li></ul>
-
-<br />
-<br />
-<br />
-
-
+				<p>Experts in conservation and environmental policy around the world recognize that humans must be explicitly integrated into plans for environmental protection and restoration to make real progress toward ecosystem recovery. 
+				Over the past 3 years, Partnership staff has teamed up with its Science Panel and regional scientists to better understand the benefits residents derive from a healthy Puget Sound, as well as the complex role people play in the protection and restoration of the ecosystem. </p>
+			<p>Through a series of pilot projects in three local areas—Hood Canal, the Puyallup Watershed, and Whatcom County—and subsequent collaboration with partners and social scientists, the team built on existing human wellbeing indicators and developed a revised list of Vital Signs and indicators dedicated to human wellbeing. </p>
+			<p>In 2015, the Puget Sound Partnership’s Leadership Council adopted a new set of wellbeing indicators designed to better support the integration of human wellbeing in all levels of Puget Sound recovery planning and evaluation, from the watershed to the regional scale.</p>
+			<p>New and revised Vital Signs that will be used for future reporting include:</p>
+			<h6>Healthy Human Population</h6>
+			<ul>
+				<li>Onsite Sewage Systems</li>
+				<li>Harvestable Shellfish Beds</li>
+				<li>Outdoor Activities</li>
+				<li>Local Foods</li>
+				<li>Air Quality</li>
+				<li>Drinking Water</li>
+			</ul>
+			<h6>Human Quality of Life</h6>
+			<ul>
+				<li>Sound Stewardship</li>
+				<li>Economic Vitality</li>
+				<li>Good Governance</li>
+				<li>Sense of Place</li>
+				<li>Cultural Practices</li>
+			</ul>
 			<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-				<div class="right-nav-title">RELATED DOWNLOADS</div>
+			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="https://pspwa.box.com/s/mdnauoo4aezasziewvk4zy8eh1kvg5c8">Vital Signs Progress Summary</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/kelinb7y1ghl4gdfg03pk01h25ejctc2">Vital Sign Indicators' Category of Progress</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/fllcx5sjhbjuy9dh384n85answ6ntd5q">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/rvf9d0s9eytsz07epppgn31ryatom2o5">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/qvbmbzgpj1bj5ccl9ir7vgkex3j8on9a">2015 State of the Sound: Report to the Community</a></li>
-
-
+				<li role="presentation"> <a href="https://pspwa.box.com/s/kelinb7y1ghl4gdfg03pk01h25ejctc2">Vital Sign Indicators' Category of Progress</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/fllcx5sjhbjuy9dh384n85answ6ntd5q">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/rvf9d0s9eytsz07epppgn31ryatom2o5">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/qvbmbzgpj1bj5ccl9ir7vgkex3j8on9a">2015 State of the Sound: Report to the Community</a></li>
 				<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
+					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="#">Climate Change Institute</a></li>
-                   <li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
-					<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
-					<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
-						<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="#">Climate Change Institute</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
+				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 		</div>

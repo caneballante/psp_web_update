@@ -62,8 +62,8 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include 'includes/ln-sos.html';?>	
-				<!-- InstanceEndEditable --> 
+			<?php include 'includes/ln-sos.html';?>
+			<!-- InstanceEndEditable --> 
 			</ul>
 		
 		</div>
@@ -71,7 +71,7 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>Bavarian bergkase lancashire chalk and cheese. The big cheese fromage frais cheesy feet emmental mozzarella dolcelatte taleggio cheeseburger. Melted cheese danish fontina pecorino stilton bocconcini hard cheese manchego paneer. Cheesecake cheddar cow queso.</p>
+				<p>Bavarian bergkase lancashire chalk and cheese. The big cheese fromage frais cheesy feet emmental mozzarella dolcelatte taleggio cheeseburger. Melted cheese danish fontina pecorino stilton bocconcini hard cheese manchego paneer. Cheesecake cheddar cow queso.</p>
 			<p>Gouda bocconcini bavarian bergkase. Chalk and cheese who moved my cheese manchego queso cheesy grin cheddar paneer cheeseburger. Airedale hard cheese cow dolcelatte halloumi cheesecake melted cheese mascarpone. Roquefort roquefort parmesan blue castello caerphilly swiss cauliflower cheese goat. Melted cheese the big cheese babybel croque monsieur.</p>
 			<p>Everyone loves red leicester cheese slices. Blue castello monterey jack everyone loves cheesy feet blue castello cheesy feet st. agur blue cheese brie. Airedale boursin edam gouda cheese slices cow pepper jack babybel. Paneer cream cheese roquefort lancashire paneer parmesan.</p>
 			<p>Smelly cheese say cheese boursin. Cheese slices caerphilly smelly cheese emmental pecorino smelly cheese pecorino cheesecake. Cut the cheese taleggio red leicester mozzarella camembert de normandie hard cheese st. agur blue cheese cheese strings. Halloumi cheeseburger cheese and wine stilton caerphilly rubber cheese cow paneer. Squirty cheese dolcelatte everyone loves macaroni cheese.</p>
@@ -88,17 +88,7 @@
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-				<div class="right-nav-title">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="#">PAST STATE OF THE SOUND</a></li>
-				<li class="active" role="presentation"> <a href="#">VITAL SIGNS</a></li>
-				<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
+					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
@@ -112,7 +102,21 @@
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
+					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+				<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+					<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
+					<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
+					<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
+						<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
+					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
