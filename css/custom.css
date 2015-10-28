@@ -62,8 +62,6 @@ a[href^="http"] {
 .small-links {
 	font-size: 12px !important;
 }
-
-
 .bold-link a {
 	color: #00A4F6;
 	font-size: 13px;
@@ -152,6 +150,10 @@ p {
 }
 .grey {
 	color: #555;
+}
+/*padding all*/
+.padding-10-all{
+	padding: 10px 10px 10px 10px;
 }
 /*padding top*/
 .padding-0-top {
@@ -275,10 +277,6 @@ p {
 .width-200 {
 	width:200px;
 	margin:auto;
-}
-/*was used for now on top of the left nav. can be DELETED IN THE NEXT COUPLE DAYS IF I DON'T GO BACK TO USING IT*/
-.border-top-grey {
-	border-top: solid 2px #eeeeee;	
 }
 
 /*news boxes on homepage*/
@@ -495,7 +493,6 @@ intro .brand-heading {
 .overview-page-image14 {
 	 background: url(../images/inside_image_14.jpg)no-repeat bottom center scroll;
 }
-
 .overview-page-image15 {
 	 background: url(../images/inside_image_15.jpg)no-repeat bottom center scroll;
 }
@@ -513,6 +510,46 @@ intro .brand-heading {
 }
 .overview-page-image20 {
 	 background: url(../images/inside_image_20.jpg)no-repeat bottom center scroll;
+}
+
+.overview-page-image75 {
+	 background: url(../images/inside_image_75.jpg)no-repeat bottom center scroll;
+}
+
+.overview-page-image76 {
+	 background: url(../images/inside_image_76.jpg)no-repeat bottom center scroll;
+}
+
+.overview-page-image77 {
+	 background: url(../images/inside_image_77.jpg)no-repeat bottom center scroll;
+}
+
+.overview-page-image78 {
+	 background: url(../images/inside_image_78.jpg)no-repeat bottom center scroll;
+}
+
+.overview-page-image79 {
+	 background: url(../images/inside_image_79.jpg)no-repeat bottom center scroll;
+}
+
+.overview-page-image80 {
+	 background: url(../images/inside_image_80.jpg)no-repeat bottom center scroll;
+}
+
+.overview-page-image81 {
+	 background: url(../images/inside_image_81.jpg)no-repeat bottom center scroll;
+}
+
+.overview-page-image82 {
+	 background: url(../images/inside_image_82.jpg)no-repeat bottom center scroll;
+}
+
+.overview-page-image83 {
+	 background: url(../images/inside_image_83.jpg)no-repeat bottom center scroll;
+}
+
+.overview-page-image84 {
+	 background: url(../images/inside_image_84.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image-style {
     width: 100%;

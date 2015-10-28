@@ -49,7 +49,7 @@
 
  </header>
 <!-- InstanceEndEditable -->  
-<div class="container page-content">
+<div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
@@ -77,7 +77,7 @@
 		<h6>The climate is changing in the Pacific Northwest </h6>
 		<p>There is compelling evidence of long-term change in the regional climate, water resources, and local sea level, even considering large natural variations. Already observed changes include higher air temperature, decreased glacial area and spring snowpack, earlier peak streamflows in many rivers, and rising sea level at most locations in and around Puget Sound.</p>
 		<p>Projections for future climate change depend in part on the ability to foresee greenhouse gas emissions, which will in turn be determined by society’s choices about energy sources and use. To forecast future climate, scientists use a range of low to high greenhouse gas emissions scenarios. All scenarios indicate continued warming in the Pacific Northwest in general, and Puget Sound in particular. However, natural variability will remain an important feature of global and regional climate, at times amplifying or counteracting the long-term trends caused by rising greenhouse gas emissions.</p>
-        <table width="800" border="0" class="table">
+        <table width="800" border="0" class="table padding-10-all">
   <tbody>
     <tr>
       <td width="400"><h6>OBSERVED CHANGES IN THE 
@@ -187,7 +187,17 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script>
+<!-- Google Tracking  -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-69373425-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 </body>
 <!-- InstanceEnd --></html>
