@@ -28,7 +28,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 4;
+  	navSelected = 1;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -43,7 +43,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image84">
+<header class="overview-page-image-style overview-page-image79">
 
 <div class="overview-quote pull-right"><h3></h3></div>
 
@@ -53,7 +53,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>RESOURCES</h1>
+			<h1>REPORT CARD FORUMS</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -62,7 +62,8 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include 'includes/ln-sos.html';?>	
+				<?php include 'includes/ln-sos.html';?>	
+	
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -71,13 +72,25 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>Bavarian bergkase lancashire chalk and cheese. The big cheese fromage frais cheesy feet emmental mozzarella dolcelatte taleggio cheeseburger. Melted cheese danish fontina pecorino stilton bocconcini hard cheese manchego paneer. Cheesecake cheddar cow queso.</p>
-			<p>Gouda bocconcini bavarian bergkase. Chalk and cheese who moved my cheese manchego queso cheesy grin cheddar paneer cheeseburger. Airedale hard cheese cow dolcelatte halloumi cheesecake melted cheese mascarpone. Roquefort roquefort parmesan blue castello caerphilly swiss cauliflower cheese goat. Melted cheese the big cheese babybel croque monsieur.</p>
-			<p>Everyone loves red leicester cheese slices. Blue castello monterey jack everyone loves cheesy feet blue castello cheesy feet st. agur blue cheese brie. Airedale boursin edam gouda cheese slices cow pepper jack babybel. Paneer cream cheese roquefort lancashire paneer parmesan.</p>
-			<p>Smelly cheese say cheese boursin. Cheese slices caerphilly smelly cheese emmental pecorino smelly cheese pecorino cheesecake. Cut the cheese taleggio red leicester mozzarella camembert de normandie hard cheese st. agur blue cheese cheese strings. Halloumi cheeseburger cheese and wine stilton caerphilly rubber cheese cow paneer. Squirty cheese dolcelatte everyone loves macaroni cheese.</p>
-			<p>Cow danish fontina parmesan. Jarlsberg smelly cheese chalk and cheese pepper jack cheesy grin cheesy grin cheddar airedale. Roquefort squirty cheese camembert de normandie cream cheese ricotta cheese and wine goat jarlsberg. Cheesecake.<br>
-				
-				<br>
+		<p>Report Card forums engage partners who are responsible for implementing recovery actions in discussions about successes, barriers to progress, potentially inconsistent actions, and assistance needed to advance their work. <br>
+Since late 2013, the Leadership Council has convened Report Card forums addressing a variety of issues: </p>
+        <ul>
+          <li>Water resources and habitat</li>
+          <li>Chinook salmon recovery</li>
+          <li>Pollution identification and correction programs</li>
+          <li>Shoreline armoring</li>
+        </ul>
+        <p>Discussions at the forums have identified successes that might be replicated elsewhere, such as overseeing hard armoring of shorelines through permitting as a conditional use. The forums have also highlighted key implementation challenges, such as motivating homeowners to remove or forego shoreline armoring. </p>
+          <p>As a direct result of these forums, the Partnership focused attention—and funding—on a selection of Near Term Actions in the 2012 Action Agenda that were behind schedule and in need of extra support. This additional support led to the completion of actions that would have remained unaddressed without the emphasis provided by the forums. </p>
+          <p>Examples include the following:</p>
+        <ul>
+          <li>A review of common constraints and opportunities in county-level strategies provided the basis for recommendations for keeping agricultural lands in production and benefiting ecosystem recovery. </li>
+          <li>Legal exemptions related to shoreline and habitat effects on salmon have been identified and are being considered by the Salmon Recovery Council and Northwest Indian Fisheries Commission.</li>
+          <li>A new geographic information system tool was developed so partners can identify priority shoreline areas for protection. </li>
+        </ul>
+        <p><br>
+        </p>
+        <br>
 				<br>
 				<br>
 				<br>
@@ -88,12 +101,17 @@
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-				<div class="right-nav-title">SEE ALSO</div>
+				<div class="right-nav-title">RELATED DOWNLOADS</div>
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="#">PAST STATE OF THE SOUND</a></li>
-				<li class="active" role="presentation"> <a href="#">VITAL SIGNS</a></li>
+													 			 <li role="presentation"><a href="#">NTA Status Analysis</a></li>
+<li role="presentation"><a href="#">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
+<li role="presentation"><a href="#">Action Agenda Funding Analysis</a></li>
+<li role="presentation"><a href="#">Linkages Report</a></li>
+<li role="presentation"> <a href="https://pspwa.box.com/s/fllcx5sjhbjuy9dh384n85answ6ntd5q">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/rvf9d0s9eytsz07epppgn31ryatom2o5">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/qvbmbzgpj1bj5ccl9ir7vgkex3j8on9a">2015 State of the Sound: Report to the Community</a></li>
 				<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -102,26 +120,13 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
-					<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
-					<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
-					<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
-					<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
-					<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
+					<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
+					<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
+					<li role="presentation"> <a href="#">National Estuary Program Project Atlas</a></li>
+					<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
+					<li role="presentation"> <a href="#">Strategic Initiative Funding Strategies</a></li>
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
-					<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
-					<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
-					<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
-					<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
-					<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
