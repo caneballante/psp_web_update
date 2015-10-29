@@ -13,11 +13,17 @@
 				<div>
 					<h3 class="white">SIGN UP TO RECEIVE UPDATES FROM THE PUGET SOUND PARTNERSHIP</h3>
 					<!-- input-group -->
-					<div class="input-group">
-						<input type="text" class="form-control" placeholder="your email...">
-						<span class="input-group-btn">
-						<button class="btn btn-default" type="button">ENTER</button>
-						</span> </div>
+					<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" method="post">
+						<div style="margin:0;padding:0;display:inline">
+							<input name="utf8" type="hidden" value="&#x2713;" />
+							<input name="authenticity_token" type="hidden" value="fXc9Agz7AcvdGFrlZjdPUw+SlYejhPQacu3TIB3KBAQ=" />
+						</div>
+						<div class="input-group">
+							<input type="text" class="form-control" id="email" name="email" type="text" placeholder="your email...">
+							<span class="input-group-btn">
+							<button class="btn btn-default" name="commit" type="submit" value="Submit">SUBMIT</button>
+							</span> </div>
+					</form>
 					<!-- /input-group --> 
 				</div>
 			</div>
@@ -198,52 +204,5 @@
 		</div>
 	</div>
 </div>
-<div>
-	<p>test for the gov delivery email submission form</p>
-	<!--[if lte IE 6]>
-<div class='warning flash'>
-<span class='flash_text_content'>
-GovDelivery applications and services no longer support Internet Explorer 6 (IE6). Please upgrade your browser to a more current version.
-</span>
-</div>
-<![endif]-->
 
-<div class="errorExplanation" id="errorExplanation"><h2>Can&#x27;t save subscriber because of the following 2 errors:</h2><ul><li>Email can&#x27;t be blank</li><li>Email is invalid</li></ul></div>
-<form accept-charset="UTF-8" action="/accounts/WAPSP/subscriber/qualify" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fXc9Agz7AcvdGFrlZjdPUw+SlYejhPQacu3TIB3KBAQ=" /></div>
-
-<fieldset id='quick_subscribe_new'>
-<h1>
-Email Updates
-</h1>
-<div id='quick_subscribe_new_instructions'>
-To sign up for updates or to access your subscriber preferences, please enter your contact information below.
-</div>
-<ol class='form'>
-<li class='email_fields' style='display: block'>
-<label for="email"><img alt="Required" class="required" src="https://public.govdelivery.com/assets/required-ef6e0abfe1c903c5ed5cba6ab7c2c38b.gif" />Email Address</label>
-<input class="long" id="email" name="email" type="text" />
-
-</li>
-</ol>
-<div class='button_panel'>
-<input class="form_button" name="commit" type="submit" value="Submit" /><input class="form_button js_only cancel_button" type="button" value="Cancel" />
-</div>
-</fieldset>
-</form>
-
-<script type='text/javascript'>
-  //<![CDATA[
-    new GD.view.AccountSubscribersNew({
-      facebookAppId: "188927694463050",
-      facebookLoginURL: "/accounts/WAPSP/facebook_subscriber/login",
-      wirelessEnabled: false,
-      facebookEnabled: false,
-      permissions: "email"
-    }).init();
-  //]]>
-</script>
-
-
-</div>
-</div>
 <!-- END FOOTER -->
