@@ -44,12 +44,12 @@
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image82">
-
-<div class="overview-quote pull-right"><h3></h3></div>
-
- </header>
+	<div class="overview-quote pull-right">
+		<h3></h3>
+	</div>
+</header>
 <!-- InstanceEndEditable -->  
-<div class="container page-content">
+<div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
@@ -62,9 +62,8 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-sos.html';?>	
-	
-				<!-- InstanceEndEditable --> 
+				<?php include 'includes/ln-sos.html';?>
+			<!-- InstanceEndEditable --> 
 			</ul>
 		
 		</div>
@@ -72,49 +71,44 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-		<p>Results of effectiveness studies are being communicated to decisionmakers as they plan the next round of recovery actions. The lessons emerging from these effectiveness studies will make future investments more effective, both in terms of cost and outcomes. </p>
-		  <p>Example: Lessons learned about effective habitat restoration</p>
-		  <p>For all estuary restoration projects, investigators documented the immediate use of newly created habitat by salmon and other species. For example, Skagit River restoration efforts added habitat to support an estimated 106,000 young Chinook salmon every year. </p>
-		<p>  Lessons learned about effective habitat restoration are:</p>
-        <ul>
-          <li>To support habitat formation, ensure a source of sediment and the channel structure to retain it. </li>
-          <li>Test new drainage infrastructure before removing old dikes. </li>
-          <li>Control invasive plants so native plants can take hold. </li>
-        </ul>
-        <p>Current effectiveness monitoring fact sheets and narrative summaries include:</p>
-        <ul>
-          <li><a href="https://pspwa.app.box.com/s/d1ghzzoh6oquks8v7xf3jn8u41l832fa">Keeping shellfish beds open by reducing fecal coliform bacteria (Samish Basin)</a></li>
-          <li><a href="https://pspwa.app.box.com/s/aqxb4i45t2c2aurndkaffbtjub17l1vm">Reducing stormwater pollution: Selecting the best wet-weather management actions (Seattle)</a></li>
-          <li>Habitat restoration: King County re-establishing native forests on restoration sites  </li>
-          <li><a href="https://pspwa.app.box.com/s/crre7nvc9ru3z14qegb5zojf1ofjtdon">Habitat restoration: Restoring tidal wetlands to support Chinook salmon (South Fork Skagit River Delta)</a></li>
-          <li> <a href="https://pspwa.app.box.com/s/zfbfd0ynmc3wec4cije7a89dop7zsr7k">Habitat restoration: Restoring tidal wetlands to support young salmon and reduce flood damage (Fisher Slough, Skagit River)</a></li>
-          <li> <a href="https://pspwa.app.box.com/s/0metgv9qsrhge0rlvh61rwucukymasby">Habitat restoration: Restoring tidal wetlands to support salmon (Snohomish River Delta)</a></li>
-          <li><a href="https://pspwa.app.box.com/s/ou1k72pno58cg6169cjxes01ky77pvea">Habitat restoration: Creating natural habitat for salmon and other wildlife (Nisqually Delta)</a></li>
-        </ul>
-        <p>For more information on the Partnership&rsquo;s Effectiveness Monitoring work, go to: <a href="http://www.psp.wa.gov/effectiveaction.php" title="Effectiveness Monitoring Work">http://www.psp.wa.gov/effectiveaction.php</a></p>
-        
-        <br />
-        <br />
-        <br />
-        <br />
-<!-- InstanceEndEditable -->
+			<p>Results of effectiveness studies are being communicated to decisionmakers as they plan the next round of recovery actions. The lessons emerging from these effectiveness studies will make future investments more effective, both in terms of cost and outcomes. </p>
+			<p>Example: Lessons learned about effective habitat restoration</p>
+			<p>For all estuary restoration projects, investigators documented the immediate use of newly created habitat by salmon and other species. For example, Skagit River restoration efforts added habitat to support an estimated 106,000 young Chinook salmon every year. </p>
+			<p> Lessons learned about effective habitat restoration are:</p>
+			<ul>
+				<li>To support habitat formation, ensure a source of sediment and the channel structure to retain it. </li>
+				<li>Test new drainage infrastructure before removing old dikes. </li>
+				<li>Control invasive plants so native plants can take hold. </li>
+			</ul>
+			<p>Current effectiveness monitoring fact sheets and narrative summaries include:</p>
+			<ul>
+				<li><a href="https://pspwa.app.box.com/s/d1ghzzoh6oquks8v7xf3jn8u41l832fa">Keeping shellfish beds open by reducing fecal coliform bacteria (Samish Basin)</a></li>
+				<li><a href="https://pspwa.app.box.com/s/aqxb4i45t2c2aurndkaffbtjub17l1vm">Reducing stormwater pollution: Selecting the best wet-weather management actions (Seattle)</a></li>
+				<li>Habitat restoration: King County re-establishing native forests on restoration sites  </li>
+				<li><a href="https://pspwa.app.box.com/s/crre7nvc9ru3z14qegb5zojf1ofjtdon">Habitat restoration: Restoring tidal wetlands to support Chinook salmon (South Fork Skagit River Delta)</a></li>
+				<li> <a href="https://pspwa.app.box.com/s/zfbfd0ynmc3wec4cije7a89dop7zsr7k">Habitat restoration: Restoring tidal wetlands to support young salmon and reduce flood damage (Fisher Slough, Skagit River)</a></li>
+				<li> <a href="https://pspwa.app.box.com/s/0metgv9qsrhge0rlvh61rwucukymasby">Habitat restoration: Restoring tidal wetlands to support salmon (Snohomish River Delta)</a></li>
+				<li><a href="https://pspwa.app.box.com/s/ou1k72pno58cg6169cjxes01ky77pvea">Habitat restoration: Creating natural habitat for salmon and other wildlife (Nisqually Delta)</a></li>
+			</ul>
+			<p>For more information on the Partnership&rsquo;s Effectiveness Monitoring work, go to: <a href="http://www.psp.wa.gov/effectiveaction.php" title="Effectiveness Monitoring Work">http://www.psp.wa.gov/effectiveaction.php</a></p>
+			<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-				<div class="right-nav-title">RELATED DOWNLOADS</div>
-			<!-- InstanceEndEditable -->
+					<div class="right-nav-title margin-0-top ">RELATED LINKS</div>
+				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-																 <li role="presentation"><a href="#">NTA Status Analysis</a></li>
-<li role="presentation"><a href="#">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
-<li role="presentation"><a href="#">Action Agenda Funding Analysis</a></li>
-<li role="presentation"><a href="#">Linkages Report</a></li>
-<li role="presentation"> <a href="https://pspwa.box.com/s/fllcx5sjhbjuy9dh384n85answ6ntd5q">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/rvf9d0s9eytsz07epppgn31ryatom2o5">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/qvbmbzgpj1bj5ccl9ir7vgkex3j8on9a">2015 State of the Sound: Report to the Community</a></li>
-				<!-- InstanceEndEditable -->
+					<li role="presentation"><a href="#">NTA Status Analysis</a></li>
+				<li role="presentation"><a href="#">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
+				<li role="presentation"><a href="#">Action Agenda Funding Analysis</a></li>
+				<li role="presentation"><a href="#">Linkages Report</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/fllcx5sjhbjuy9dh384n85answ6ntd5q">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/rvf9d0s9eytsz07epppgn31ryatom2o5">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/qvbmbzgpj1bj5ccl9ir7vgkex3j8on9a">2015 State of the Sound: Report to the Community</a></li>
+						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
@@ -122,13 +116,12 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-			<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
-					<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
-					<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
-					<li role="presentation"> <a href="#">National Estuary Program Project Atlas</a></li>
+					<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
+				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
+				<li role="presentation"> <a href="#">National Estuary Program Project Atlas</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
-					<li role="presentation"> <a href="#">Strategic Initiative Funding Strategies</a></li>
-						<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="#">Strategic Initiative Funding Strategies</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
@@ -149,7 +142,17 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script>
+<!-- Google Tracking  -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-69373425-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 </body>
 <!-- InstanceEnd --></html>
