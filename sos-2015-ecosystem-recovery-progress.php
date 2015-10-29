@@ -71,8 +71,8 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Puget Sound Vital Signs represent measures for determining the health of Puget Sound. While habitat and water quality measures are showing improvement, the health of salmon, orca and other native populations will take decades of consistent effort to stabilize. Few Vital Sign indicators are likely to meet 2020 targets. </p>
-			<h3><a name="avs"></a>ABOUT THE VITAL SIGNS</h3>
+			<p>The Puget Sound Vital Signs represent measures for determining the health of Puget Sound. While more and more habitat is restored incrementally each yearand water quality measures are showing improvements in some localities, the health of salmon, orca and other native populations are not getting any better, and will take decades of consistent effort to stabilize. Few Vital Sign indicators are likely to meet 2020 targets.</p>
+			<h3><a name="avs"></a>ABOUT THE PUGET SOUND VITAL SIGNS</h3>
 			<p>The Puget Sound Vital Signs are measures that the Puget Sound Partnership chose to gauge the health of Puget Sound. Vital Signs help report on progress toward the six Puget Sound recovery goals established by the Legislature: Healthy Human Population, Vibrant Quality of Life, Thriving Species and Food Webs, Protected and Restored Habitat, Healthy Water Quality, and Abundant Water Quantity. </p>
 			<p>While the Vital Signs represent the different overarching measures for determining the health of Puget Sound, indicators representing each Vital Sign serve as the specific and measurable metrics. The intent of these measures was to be:</p>
 			<ul>
@@ -94,23 +94,23 @@
 				<li>Marine Sediment Triad Index</li>
 				<li>Marine Sediment Chemistry Index</li>
 			</ul>
-			<p>Download a list of <a href="https://pspwa.box.com/s/kelinb7y1ghl4gdfg03pk01h25ejctc2" title="Vital Signs indicators for each category of progress" target="_blank">Vital Signs indicators for each category of progress</a></p>
+			<p>Download a list of <a href="https://pspwa.box.com/2015-indicator-table" title="Vital Signs indicators for each category of progress" target="_blank">Vital Signs indicators for each category of progress</a></p>
 			<h3><a name="kf"></a>KEY FINDINGS </h3>
 			<ul>
-				<li>Local improvements in water quality do not add up to regional trends in progress</li>
-				<li>Development pressures continue, with shoreline armoring possibly turning the corner</li>
-				<li>Indicators of the habitat goal show the most progress</li>
-				<li>Species indicators continue to signal trouble</li>
-				<li>Improvement in the water quantity goal likely short-lived</li>
-				<li>Indicators measuring habitat restoration are making the most progress</li>
-				<li>Lack of change can be good, depending on the status of indicators</li>
-				<li>No data for 12 indicators</li>
+			    <li>Local improvements in water quality do not add up to      regional trends in progress</li>
+                  <li>Development pressures continue, with shoreline armoring      possibly turning the corner</li>
+                  <li>Indicators of the habitat goal show the most progress</li>
+                  <li>Species indicators continue to signal trouble</li>
+                  <li>Improvement in the water quantity goal likely      short-lived</li>
+                  <li>Indicators measuring habitat restoration are making the      most progress</li>
+                  <li>Lack of change can be good, depending on the status of      indicators</li>
+                  <li>No data for 12 indicators</li>
 			</ul>
 			<h3><a name="lf"></a>LOOKING FORWARD</h3>
 			<h6>Climate change and ocean acidification</h6>
-			<p>Puget Sound is facing unprecedented environmental changes. Not only is there evidence for a changing climate in the Pacific Northwest, but the global ocean that influences Puget Sound is undergoing acidification. Environmental changes associated with climate change and ocean acidification will continue, although there are still many unknowns that remain to be addressed. Climate change and ocean acidification have the potential to profoundly affect ecosystems, and many, if not all, Vital Signs are likely to be affected in one way or another. <a href="cc-oa.php" title="Climate Change and Ocean Acidification">Read more …</a></p>
+			<p>Puget Sound is facing unprecedented environmental changes. Not only is there evidence for a changing climate in the Pacific Northwest, but the global ocean that influences Puget Sound is undergoing acidification. Environmental changes associated with climate change and ocean acidification will continue, although there are still many unknowns that remain to be addressed. Climate change and ocean acidification have the potential to profoundly affect ecosystems, and many, if not all, Vital Signs are likely to be affected in one way or another. <a href="sos-2015-climate-change-ocean-acidification.php" title="Climate Change and Ocean Acidification">Read more …</a></p>
 			<h6>New Vital Signs and indicators of human health and quality of life</h6>
-			<p>Humans are direct beneficiaries of ecosystems, yet pose some of the greatest threats to the health of ecosystems. By taking into account these seemingly opposite ideas, planning efforts will better frame environmental problems, which will result in more effective and long-lasting solutions for meeting recovery goals. <a href="human-wellbeing.php" title="Human Wellbeing Indicators">Read more … </a></p>
+			<p>Humans are direct beneficiaries of ecosystems, yet pose some of the greatest threats to the health of ecosystems. By taking into account these seemingly opposite ideas, planning efforts will better frame environmental problems, which will result in more effective and long-lasting solutions for meeting recovery goals. <a href="sos-2015-human-wellbeing.php" title="Human Wellbeing Indicators">Read more … </a></p>
 			<!-- InstanceEndEditable -->
 		</div>
 	
@@ -121,7 +121,7 @@
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#avs">About the Vital Signs</a></li>
+				<li role="presentation"> <a href="#avs">About the Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="#progress">Progress</a></li>
 				<li role="presentation"> <a href="#kf">Key Findings</a></li>
 				<li role="presentation"> <a href="#lf">Looking Forward</a></li>
@@ -133,11 +133,11 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li role="presentation"> <a href="https://pspwa.box.com/s/mdnauoo4aezasziewvk4zy8eh1kvg5c8">Vital Signs Progress Summary</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/kelinb7y1ghl4gdfg03pk01h25ejctc2">Vital Sign Indicators' Category of Progress</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/fllcx5sjhbjuy9dh384n85answ6ntd5q">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/rvf9d0s9eytsz07epppgn31ryatom2o5">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/qvbmbzgpj1bj5ccl9ir7vgkex3j8on9a">2015 State of the Sound: Report to the Community</a></li>
+						<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
+                        <li role="presentation"> <a href="https://pspwa.box.com/2015-vitalsigns-table" target="_blank">Vital Signs Progress Summary</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-indicator-table" target="_blank">Vital Sign Indicators' Category of Progress</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -146,10 +146,15 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Climate Change Institute</a></li>
-				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns/" target="_blank">Vital Signs Website</a></li>
+                <li role="presentation"> <a href="http://www.psp.wa.gov/psp_web_update/evaluating-PSEMP.php" target="_blank">Puget Sound Ecosystem Monitoring Program</a></li>
+                <li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
-				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
+                <li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
+                <li role="presentation"> <a href="http://cses.washington.edu/cig/" target="_blank">Climate Change Institute</a></li>
+                <li role="presentation"> <a href="http://environment.uw.edu/research/major-initiatives/ocean-acidification/washington-ocean-acidification-center/" target="_blank">Washington Ocean Acidification Center</a></li>
+				
+				<li role="presentation"> <a href="http://www.eopugetsound.org/" target="_blank">Encyclopedia of Puget Sound</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

@@ -28,8 +28,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
-</script> 
+  	navSelected = 4;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -43,7 +43,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image80">
+<header class="overview-page-image-style overview-page-image86">
 	<div class="overview-quote pull-right">
 		<h3></h3>
 	</div>
@@ -53,7 +53,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>LESSONS LEARNED</h1>
+			<h1>BUILDING A BETTER ACTION AGENDA</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -62,7 +62,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-sos.html';?>
+				<?php include 'includes/ln-aa.html';?>
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -71,16 +71,8 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>By analyzing progress in implementing Near Term Actions, the Partnership is able to identify what worked, what didn’t, and make improvements based on these lessons learned. Partnership staff use these observations to improve the strategic planning of recovery efforts, especially in the development of the 2016 revision of the Action Agenda.</p>
-			<h3>Action Agenda Report Card</h3>
-			<p>Need brief blurb here</p>
-			<h3>Linkages report</h3>
-			<p> Need a link and a description here</p>
-			<h3>Science Panel comments on implementation and Monitoring Program findings</h3>
-			<p>The Science Panel is charged with advising the Partnership on the selection of performance indicators, providing input on implementation strategies, addressing information needs, and recommending scientific research priorities. In this capacity, the Science Panel supports the 2015 State of the Sound report as the best available information on progress toward implementing the Action Agenda and status of Vital Sign indicators. <a href="science-panel-comments.php" title="science panel comments">Read more …</a> </p>
-			<h3>Key observations and lessons learned from implementing the Action Agenda</h3>
-			<p>This table identifies some of the important lessons uncovered by analyzing Action Agenda progress and debriefing with partners. Also listed are recommendations being carried forward into planning for the 2016 Action Agenda. </p>
-			<table width="800" border="0" class="table padding-10-all">
+        <p>This table identifies some of the important lessons uncovered by analyzing Action Agenda progress and debriefing with partners. Also listed are recommendations being carried forward into planning for the 2016 Action Agenda.</p>
+		<table width="800" border="0" class="table padding-10-all">
 				<tbody>
 					<tr>
 						<td width="100"></td>
@@ -164,13 +156,13 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="#">NTA Status Analysis</a></li>
-				<li role="presentation"><a href="#">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/NTA-status-analysis" target="_blank">NTA Status Analysis</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/NTA-expenditure" target="_blank">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
 				<li role="presentation"><a href="#">Action Agenda Funding Analysis</a></li>
-				<li role="presentation"><a href="#">Linkages Report</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/fllcx5sjhbjuy9dh384n85answ6ntd5q">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/rvf9d0s9eytsz07epppgn31ryatom2o5">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/qvbmbzgpj1bj5ccl9ir7vgkex3j8on9a">2015 State of the Sound: Report to the Community</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/HershmanFellowGraziano" target="_blank">Linkages Report</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -182,7 +174,7 @@
 						<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
-				<li role="presentation"> <a href="#">National Estuary Program Project Atlas</a></li>
+				<li role="presentation"> <a href="evaluating-about-NEP-atlas.php">National Estuary Program Project Atlas</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
 				<li role="presentation"> <a href="#">Strategic Initiative Funding Strategies</a></li>
 						<!-- InstanceEndEditable -->

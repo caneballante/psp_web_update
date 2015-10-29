@@ -28,7 +28,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 4;
+  	navSelected = 2;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -166,15 +166,15 @@
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
+					<div class="right-nav-title margin-20-top ">RELATED DOWNLOADS</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="https://pspwa.box.com/s/mdnauoo4aezasziewvk4zy8eh1kvg5c8">Vital Signs Progress Summary</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/kelinb7y1ghl4gdfg03pk01h25ejctc2">Vital Sign Indicators' Category of Progress</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/fllcx5sjhbjuy9dh384n85answ6ntd5q">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/rvf9d0s9eytsz07epppgn31ryatom2o5">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/qvbmbzgpj1bj5ccl9ir7vgkex3j8on9a">2015 State of the Sound: Report to the Community</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/2015-vitalsigns-table" target="_blank">Vital Signs Progress Summary</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-indicator-table" target="_blank">Vital Sign Indicators' Category of Progress</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -183,7 +183,7 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#">Climate Change Institute</a></li>
+				<li role="presentation"> <a href="http://cses.washington.edu/cig/" target="_blank">Climate Change Institute</a></li>
 				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>

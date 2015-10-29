@@ -28,7 +28,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
+  	navSelected = 2;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -43,9 +43,9 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image81">
+<header class="overview-page-image-style overview-page-image77">
 	<div class="overview-quote pull-right">
-		<h3></h3>
+		<h3>&nbsp;</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  
@@ -53,7 +53,7 @@
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Science Panel comments</h1>
+			<h1>HUMAN WELLBEING INDICATORS</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -62,7 +62,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/ln-sos.html';?>
+				<?php include 'includes/ln-sos.html';?>
 				<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -71,24 +71,28 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p><a href="https://pspwa.box.com/s/b8dpakebc3cxapvx9u05mzg1ky411f8n" title="Science panel comments on implementing the Action Agenda and findings from the Monitoring Program (download)">Science panel comments on implementing the Action Agenda and findings from the Monitoring Program (download)</a> </p>
-			<p>Science Panel comments address three key objectives:</p>
+				<p>Experts in conservation and environmental policy around the world recognize that humans must be explicitly integrated into plans for environmental protection and restoration to make real progress toward ecosystem recovery. 
+				Over the past 3 years, Partnership staff has teamed up with its Science Panel and regional scientists to better understand the benefits residents derive from a healthy Puget Sound, as well as the complex role people play in the protection and restoration of the ecosystem. </p>
+			<p>Through a series of pilot projects in three local areas—Hood Canal, the Puyallup Watershed, and Whatcom County—and subsequent collaboration with partners and social scientists, the team built on existing human wellbeing indicators and developed a revised list of Vital Signs and indicators dedicated to human wellbeing. </p>
+			<p>In 2015, the Puget Sound Partnership’s Leadership Council adopted a new set of wellbeing indicators designed to better support the integration of human wellbeing in all levels of Puget Sound recovery planning and evaluation, from the watershed to the regional scale.</p>
+			<p>New and revised Vital Signs that will be used for future reporting include:</p>
+			<h6>Healthy Human Population</h6>
 			<ul>
-				<li>How the ecosystem is doing in the context of progress toward the 2020 goals. </li>
-				<li>How the Partnership is doing in advancing the Action Agenda and tracking expenditures and accomplishments. </li>
-				<li>How well recovery efforts are linked to ecosystem status.</li>
+				<li>Onsite Sewage Systems</li>
+				<li>Harvestable Shellfish Beds</li>
+				<li>Outdoor Activities</li>
+				<li>Local Foods</li>
+				<li>Air Quality</li>
+				<li>Drinking Water</li>
 			</ul>
-			<p>Overall, the Science Panel is encouraged by the following:</p>
+			<h6>Human Quality of Life</h6>
 			<ul>
-				<li>The progress of Puget Sound ecosystem recovery in key areas. </li>
-				<li>That more than 70 percent of the Near Term Actions are complete or moving forward. </li>
-				<li>The progress s in linking ecosystem status to recovery efforts. </li>
+				<li>Sound Stewardship</li>
+				<li>Economic Vitality</li>
+				<li>Good Governance</li>
+				<li>Sense of Place</li>
+				<li>Cultural Practices</li>
 			</ul>
-			<p>However, many Vital Signs have no changed or are even deteriorating relative to the goals. Given these findings, the Science Panel notes additional actions are needed to maintain and increase the rate of recovery. </p>
-			<p>The Science Panel also notes that future NTAs can be improved by matching their scale to the 2-year implementation period, and by ensuring that the number of NTAs does not expand beyond the region&rsquo;s capacity to fund and complete within the 2-year implementation window.</p>
-			<p> Adaptive management, the process of continuous improvement based on new data and analysis, is the approach the Science Panel strongly endorses for the Partnership&rsquo;s adaptive management approach has been inconsistently applied, partly due to inadequate resources. As a key step in implementing adaptive management, the completion of Implementation Strategies for each target should be a high priority, while recognizing a phased approach to developing the strategies. The deployment of conceptual models that describe the mechanisms, cause and effect pathways, and actions by which recovery targets are to be met can aid the effectiveness of an adaptive management approach.</p>
-			<p> It is worth noting that in many ways the Puget Sound region is leading the country in ecosystem recovery, especially in incorporating human wellbeing explicitly into the science and implementation of recovery actions. As we look beyond 2020, the region can expect to have a stronger scientific foundation for recovery and a rich set of information to chart the course for the next phase of restoring the Sound and building the ecosystem resilience to adapt to climate change. </p>
-			<p>Near Term Actions in the 2012 and 2014 Action Agendas were expected to be implemented in a 2- to 3-year time frame. However, most of the 2012 Action Agenda NTAs were not completed in 2 years, and more than 25 percent made insufficient or no progress at all. </p>
 			<!-- InstanceEndEditable -->
 		</div>
 	
@@ -99,13 +103,11 @@
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="#">NTA Status Analysis</a></li>
-				<li role="presentation"><a href="#">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
-				<li role="presentation"><a href="#">Action Agenda Funding Analysis</a></li>
-				<li role="presentation"><a href="#">Linkages Report</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/fllcx5sjhbjuy9dh384n85answ6ntd5q">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/rvf9d0s9eytsz07epppgn31ryatom2o5">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/qvbmbzgpj1bj5ccl9ir7vgkex3j8on9a">2015 State of the Sound: Report to the Community</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-vitalsigns-table" target="_blank">Vital Signs Progress Summary</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-indicator-table" target="_blank">Vital Sign Indicators' Category of Progress</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
 				<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -114,13 +116,10 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-							<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
-							<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
-							<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
-							<li role="presentation"> <a href="#">National Estuary Program Project Atlas</a></li>
-							<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
-							<li role="presentation"> <a href="#">Strategic Initiative Funding Strategies</a></li>
-						<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="http://cses.washington.edu/cig/" target="_blank">Climate Change Institute</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
+				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 		</div>

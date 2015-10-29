@@ -28,8 +28,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
-</script> 
+  	navSelected = 3;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -82,13 +82,13 @@
 			</ul>
 			<p>Current effectiveness monitoring fact sheets and narrative summaries include:</p>
 			<ul>
-				<li><a href="https://pspwa.app.box.com/s/d1ghzzoh6oquks8v7xf3jn8u41l832fa">Keeping shellfish beds open by reducing fecal coliform bacteria (Samish Basin)</a></li>
-				<li><a href="https://pspwa.app.box.com/s/aqxb4i45t2c2aurndkaffbtjub17l1vm">Reducing stormwater pollution: Selecting the best wet-weather management actions (Seattle)</a></li>
-				<li>Habitat restoration: King County re-establishing native forests on restoration sites  </li>
-				<li><a href="https://pspwa.app.box.com/s/crre7nvc9ru3z14qegb5zojf1ofjtdon">Habitat restoration: Restoring tidal wetlands to support Chinook salmon (South Fork Skagit River Delta)</a></li>
-				<li> <a href="https://pspwa.app.box.com/s/zfbfd0ynmc3wec4cije7a89dop7zsr7k">Habitat restoration: Restoring tidal wetlands to support young salmon and reduce flood damage (Fisher Slough, Skagit River)</a></li>
-				<li> <a href="https://pspwa.app.box.com/s/0metgv9qsrhge0rlvh61rwucukymasby">Habitat restoration: Restoring tidal wetlands to support salmon (Snohomish River Delta)</a></li>
-				<li><a href="https://pspwa.app.box.com/s/ou1k72pno58cg6169cjxes01ky77pvea">Habitat restoration: Creating natural habitat for salmon and other wildlife (Nisqually Delta)</a></li>
+				<li><a href="https://pspwa.app.box.com/s/d1ghzzoh6oquks8v7xf3jn8u41l832fa" target="_blank">Keeping shellfish beds open by reducing fecal coliform bacteria (Samish Basin)</a></li>
+				<li><a href="https://pspwa.app.box.com/s/aqxb4i45t2c2aurndkaffbtjub17l1vm" target="_blank">Reducing stormwater pollution: Selecting the best wet-weather management actions (Seattle)</a></li>
+				<li><a href="https://pspwa.app.box.com/s/965ygd7b1vcf8oci6p1qiddpy19rl4zp" target="_blank">Habitat restoration: King County re-establishing native forests on restoration sites</a>  </li>
+				<li><a href="https://pspwa.app.box.com/s/crre7nvc9ru3z14qegb5zojf1ofjtdon" target="_blank">Habitat restoration: Restoring tidal wetlands to support Chinook salmon (South Fork Skagit River Delta)</a></li>
+				<li> <a href="https://pspwa.app.box.com/s/zfbfd0ynmc3wec4cije7a89dop7zsr7k" target="_blank">Habitat restoration: Restoring tidal wetlands to support young salmon and reduce flood damage (Fisher Slough, Skagit River)</a></li>
+				<li> <a href="https://pspwa.app.box.com/s/0metgv9qsrhge0rlvh61rwucukymasby" target="_blank">Habitat restoration: Restoring tidal wetlands to support salmon (Snohomish River Delta)</a></li>
+				<li><a href="https://pspwa.app.box.com/s/ou1k72pno58cg6169cjxes01ky77pvea" target="_blank">Habitat restoration: Creating natural habitat for salmon and other wildlife (Nisqually Delta)</a></li>
 			</ul>
 			<p>For more information on the Partnership&rsquo;s Effectiveness Monitoring work, go to: <a href="http://www.psp.wa.gov/effectiveaction.php" title="Effectiveness Monitoring Work">http://www.psp.wa.gov/effectiveaction.php</a></p>
 			<!-- InstanceEndEditable -->
@@ -101,13 +101,13 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"><a href="#">NTA Status Analysis</a></li>
-				<li role="presentation"><a href="#">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
+					<li role="presentation"><a href="https://pspwa.box.com/NTA-status-analysis" target="_blank">NTA Status Analysis</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/NTA-expenditure" target="_blank">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
 				<li role="presentation"><a href="#">Action Agenda Funding Analysis</a></li>
-				<li role="presentation"><a href="#">Linkages Report</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/fllcx5sjhbjuy9dh384n85answ6ntd5q">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/rvf9d0s9eytsz07epppgn31ryatom2o5">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/qvbmbzgpj1bj5ccl9ir7vgkex3j8on9a">2015 State of the Sound: Report to the Community</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/HershmanFellowGraziano" target="_blank">Linkages Report</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -119,7 +119,7 @@
 					<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
-				<li role="presentation"> <a href="#">National Estuary Program Project Atlas</a></li>
+				<li role="presentation"> <a href="evaluating-about-NEP-atlas.php">National Estuary Program Project Atlas</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
 				<li role="presentation"> <a href="#">Strategic Initiative Funding Strategies</a></li>
 						<!-- InstanceEndEditable -->

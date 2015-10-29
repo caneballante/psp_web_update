@@ -66,7 +66,7 @@
 			<p>While EPA and state funding significantly benefits Puget Sound recovery, we need to invest still more if we are to see recovery of Puget Sound.</p>
 			<h2>How has the Action Agenda improved over the years?</h2>
 			<p>The Action Agenda includes a framework for tracking progress toward recovery, which provides feedback about the effectiveness of the Action Agenda. This feedback is used to adapt and adjust the Action Agenda every 2 years. In this way, the Action Agenda stays current and relevant to ever-changing environmental conditions.</p>
-			<p><img src="images/AA_2015_historical_timeline.jpg" width="600" height="456" alt=""/></p>
+			<p><img class="img-responsive" src="images/AA_2015_historical_timeline.jpg" width="600" height="456" alt=""/></p>
 			<p>How the Action Agenda has been updated and modified since 2008 has improved in many ways based on feedback from partners and on the results of science research and monitoring. A major change occurred this year that will help to make sure that future Action Agenda updates address local conditions more comprehensively than in the past. In early 2015, the Environmental Protection Agency announced a new model for how it will fund recovery actions in Puget Sound. </p>
 			<!-- InstanceEndEditable -->
 		</div>
