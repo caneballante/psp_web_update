@@ -68,11 +68,8 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>TEXT ABOUT THE REPORT CARD WITH PROMINENT LINKS TO THE PROJECT ATLAS APPLICATION. LAUNCHES IN A NEW WINDOW.</p>
-			<p>&nbsp;</p>
-			<p>&nbsp;</p>
-			<p>&nbsp;</p>
-			<p>&nbsp;</p>
+			<p>The National Estuary Program (NEP) Atlas is an online and interactive tool composed of maps, tables, graphs, and links to reports pertaining to all Environmental Protection Agency NEP-funded activities from 2007 to the present and onward. The main purpose of the NEP Atlas is to consistently track and communicate Puget Sound NEP activities and funding that relate to the Puget Sound Action Agenda. In addition, the NEP Atlas provides a range of tools for NEP funding recipients to showcase their accomplishments and disseminate information about their work. Link coming soon.</p>
+		
 			<!-- InstanceEndEditable -->
 		</div>
 	

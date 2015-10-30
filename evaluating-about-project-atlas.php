@@ -68,7 +68,7 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>TEXT ABOUT THE REPORT CARD WITH PROMINENT LINKS TO THE PROJECT ATLAS APPLICATION. LAUNCHES IN A NEW WINDOW.</p>
+			<p> <a href="http://gismanager.rco.wa.gov/ProjectAtlas/?summaryArea[areaName]=Puget+Sound&summaryArea[areaType]=PSP+Boundary&summaryArea[areaShapeId]=NA">The Puget Sound Project Atlas</a> is a map based online tool that allows users to learn more about an important subset of Puget Sound Restoration and protection projects that are financed or tracked by the Washington State Recreation and Conservation Office. Clickable map markers allow users to view detailed information on each project and a range of different filters enable searches on projects in specific geographical areas, including by county, legislative district, congressional district and watershed. Projects included in the Atlas are also associated with <a href="vitalsigns/index.php">Puget Sound Vital Signs</a>, which enables users to isolate projects that help to advance a particular Vital Sign or group of Vital Signs.</p>
 			<p>&nbsp;</p>
 			<p>&nbsp;</p>
 			<p>&nbsp;</p>
