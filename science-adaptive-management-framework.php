@@ -69,7 +69,7 @@
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 		<p>The Puget Sound Partnership uses an adaptive approach to ecosystem recovery. This approach helps to accommodate the profound uncertainties about how the complex social-ecological system of Puget Sound responds to stresses and to management interventions.</p>
-		<p>The Adaptive Management Framework describes our approach to adaptive management. The Framework is applied by the Partnership and by our partners who implement the Action Agenda with the goal of improving the practice of science-based recovery of the Puget Sound ecosystem.</p>
+		<p><a href="https://pspwa.box.com/s/z8ftg6hvgk0c7ewy7j6whd5zi62idhye">The Adaptive Management Framework</a> describes our approach to adaptive management. The Framework is applied by the Partnership and by our partners who implement the Action Agenda with the goal of improving the practice of science-based recovery of the Puget Sound ecosystem. <a href="https://pspwa.box.com/s/z8ftg6hvgk0c7ewy7j6whd5zi62idhye">DOWNLOAD </a></p>
 
 		<!-- InstanceEndEditable -->
 		</div>

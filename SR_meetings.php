@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Draft Home Page</title>
 <!-- InstanceEndEditable -->
@@ -12,7 +12,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
 
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
@@ -29,7 +28,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 9;
-</script> 
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -42,9 +41,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
@@ -54,108 +53,94 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
-			<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-boards.html';?>	
-				<!-- InstanceEndEditable --> 
+				<!-- InstanceBeginEditable name="left_nav" -->
+				<?php include 'includes/ln-boards.html';?>
+				<!-- InstanceEndEditable -->
 			</ul>
-		
 		</div>
-			
-	
-		<div class="col-md-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
-			
-		    <p>Start and end times depend on agenda needs, but meetings generally begin at 10 a.m. and adjourn by 3 p.m. For approximate start and end times for a particular meeting, see the proposed agenda – usually posted online one week prior to the meeting.</p>
-				  <table class="table">
-								<tr>
-										<td width="78" class="tableheader">DATE</td>
-										<td width="105"  class="tableheader">TIME</td>
-										<td width="211" class="tableheader">DETAILS</td>
-										<td width="221" class="tableheader">DOCUMENTS</td>
-								</tr>
-								<tr>
-										<td>January 22</td>
-										<td>10:00 a.m. - 3:00p.m.</td>
-										<td><a href="http://www.edmondswa.gov/maps-and-direction.html">Edmonds City Hall, Bracket Rm</a><br />
-										  121 5th Ave. North<br />
-										  Edmonds, WA </td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=845&amp;Itemid=238">Meeting Materials</a></td>
-						  </tr>
-								<tr>
-										<td width="78"> April 2nd.<br /></td>
-										<td width="105">10:00 a.m. - 3:00p.m.</td>
-			    <td>Edmonds Center for the Arts,<br />
-410 Fourth Ave. North<br />
-<a href="http://www.edmondscenterforthearts.org/plan-your-visit">Edmonds, WA 98020</a></td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=846&amp;Itemid=238">Meeting Materials</a></td>
-								</tr>
-								<tr>
-										<td>June 4</td>
-										<td>10:00 a.m. - 3:00p.m.</td>
-										<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-										  410 4th Ave N, <br />
-										  Edmonds, WA 98020</p></td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=847&amp;Itemid=238">Meeting Materials</a></td>
-	    </tr>
-								<tr>
-										<td>July 16</td>
-										<td>10:00 a.m. - 3:00p.m.</td>
-										<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-410 4th Ave N, <br />
-Edmonds, WA 98020</td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=848&amp;Itemid=238">Meeting Materials</a></td>
-	    </tr>
-									<tr>
-										<td>September 24</td>
-										<td>10:00 a.m. - 3:00p.m.</td>
-										<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-410 4th Ave N, <br />
-Edmonds, WA 98020</td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=849&amp;Itemid=238">Meeting Materials</a></td>
-	    </tr>
-								<tr>
-										<td width="78">November 19</td>
-										<td width="105">10:00 a.m. - 3:00p.m.</td>
-			    <td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-410 4th Ave N, <br />
-Edmonds, WA 98020</td>
-										<td><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=cat_view&amp;gid=850&amp;Itemid=238">Meeting Materials</a></td>
-	    </tr>
-						</table>
-<p>* Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls. <br />
-  <br />
-
-</p>
-			<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+		<div class="col-md-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<p>Start and end times depend on agenda needs, but meetings generally begin at 10 a.m. and adjourn by 3 p.m. For approximate start and end times for a particular meeting, see the proposed agenda – usually posted online one week prior to the meeting.</p>
+			<table class="table">
+				<tr>
+					<td width="78" class="tableheader">DATE</td>
+					<td width="105"  class="tableheader">TIME</td>
+					<td width="211" class="tableheader">DETAILS</td>
+					<td width="221" class="tableheader">DOCUMENTS</td>
+				</tr>
+				<tr>
+					<td>January 22</td>
+					<td>10:00 a.m. - 3:00p.m.</td>
+					<td><a href="http://www.edmondswa.gov/maps-and-direction.html">Edmonds City Hall, Bracket Rm</a><br />
+						121 5th Ave. North<br />
+						Edmonds, WA </td>
+					<td><p>Temporarily Unavailable</p></td>
+				</tr>
+				<tr>
+					<td width="78"> April 2nd.<br /></td>
+					<td width="105">10:00 a.m. - 3:00p.m.</td>
+					<td>Edmonds Center for the Arts,<br />
+						410 Fourth Ave. North<br />
+						<a href="http://www.edmondscenterforthearts.org/plan-your-visit">Edmonds, WA 98020</a></td>
+					<td><p>Temporarily Unavailable</p></td>
+				</tr>
+				<tr>
+					<td>June 4</td>
+					<td>10:00 a.m. - 3:00p.m.</td>
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+							410 4th Ave N, <br />
+							Edmonds, WA 98020</p></td>
+					<td><p>Temporarily Unavailable</p></td>
+				</tr>
+				<tr>
+					<td>July 16</td>
+					<td>10:00 a.m. - 3:00p.m.</td>
+					<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+						410 4th Ave N, <br />
+						Edmonds, WA 98020</td>
+					<td><p>Temporarily Unavailable</p></td>
+				</tr>
+				<tr>
+					<td>September 24</td>
+					<td>10:00 a.m. - 3:00p.m.</td>
+					<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+						410 4th Ave N, <br />
+						Edmonds, WA 98020</td>
+					<td><p>Temporarily Unavailable</p></td>
+				</tr>
+				<tr>
+					<td width="78">November 19</td>
+					<td width="105">10:00 a.m. - 3:00p.m.</td>
+					<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+						410 4th Ave N, <br />
+						Edmonds, WA 98020</td>
+					<td><p>Temporarily Unavailable</p></td>
+				</tr>
+			</table>
+			<p>* Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls. <br />
+				<br />
+			</p>
+			<!-- InstanceEndEditable --> </div>
+		<div class="col-md-2 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
 			<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
 					<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
 					Special Assistant,<br>
 					360.628.2423</p>
 				<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-		</div>
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -163,8 +148,8 @@ Edmonds, WA 98020</td>
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -175,6 +160,6 @@ Edmonds, WA 98020</td>
   ga('send', 'pageview');
 
 </script>
-
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
