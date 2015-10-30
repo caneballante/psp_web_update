@@ -76,9 +76,10 @@
 				<li>Adaptive Management Framework</li>
 				<li>Open Standards</li>
 				<li>Science-based decisionmaking</li>
-				<li>Puget Sound Pressures Assessment:</li>
+				<li>Puget Sound Pressures Assessment</li>
 			</ul>
-		<p>	While the Puget Sound Partnership Science Panel and Science & Evaluation Program coordinate the science-based recovery of the Puget Sound ecosystem, scientific contributions come from many individuals and institutions across all sectors. In 2009 and 2010, the Partnership commissioned scientists to prepare the peer-reviewed Puget Sound Science Review, a synthesis now presented as a key feature of the Encyclopedia of Puget Sound.</p>
+		<p>	While the Puget Sound Partnership Science Panel and Science & Evaluation Program coordinate the science-based recovery of the Puget Sound ecosystem, scientific contributions come from many individuals and institutions across all sectors. </p>
+		<p>In 2009 and 2010, the Partnership commissioned scientists to prepare the peer-reviewed Puget Sound Science Review, a synthesis now presented as a key feature of the Encyclopedia of Puget Sound.</p>
 			
 		</p>
 		<!-- InstanceEndEditable -->

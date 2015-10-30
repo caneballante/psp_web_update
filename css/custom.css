@@ -276,7 +276,7 @@ p {
 	width:200px;
 	margin:auto;
 }
-.width-200{
+.width-300{
 	width:300px;
 	margin:auto;
 }
@@ -431,7 +431,7 @@ intro .brand-heading {
 .search-custom {
 	color:#000;
 	text-align:left;
-	width:60%;
+	width:30%;
 	margin:auto;
 }
 /*search bar is too skinny on the phone*/

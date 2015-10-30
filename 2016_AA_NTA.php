@@ -93,7 +93,7 @@
 				Use this portal to submit your NTA before the deadline at 10am on December 31, 2015. <br />
 				<strong><a href="https://pspwa.box.com/s/ym914rupdzwsber2q56c6945q8glq0qd"><br />
 				NTA Resources</a></strong><br />
-				Guidance and resources for NTA owners and LIOs are available here.  Check periodically for the latest updates.</p>
+				FAQs, guidance, and resources for NTA owners and LIOs are available here. Check periodically for the latest updates.</p>
 			<div>
 				<div> </div>
 			</div>
