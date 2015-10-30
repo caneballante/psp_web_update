@@ -46,25 +46,25 @@
 		<div class="col-md-3 padding-40-top">
 			<h1>ROADMAP TO RECOVERY</h1>
 		
-			<div class="padding-5-bottom"><a href="action_agenda_center.php">ACTION&nbsp;AGENDA&nbsp;OVERVIEW</a></div>
-			<div class="padding-5-bottom"><a href="2014_action_agenda_download.php">2014-15&nbsp;ACTION&nbsp;AGENDA</a></div>
-			<div class="padding-5-bottom"><a href="2016_AA_update.php">2016&nbsp;ACTION&nbsp;AGENDA&nbsp;UPDATE</a></div>
+			<div class="padding-5-bottom"><a href="action_agenda_center.php">ACTION&nbsp;AGENDA OVERVIEW</a></div>
+			<div class="padding-5-bottom"><a href="2014_action_agenda_download.php">2014-15&nbsp;ACTION AGENDA</a></div>
+			<div class="padding-5-bottom"><a href="2016_AA_update.php">2016&nbsp;ACTION&nbsp;AGENDA UPDATE</a></div>
 			<a href="2016_AA_implementation_strategies.php">IMPLEMENTATION&nbsp;STRATEGIES</a> </div>
 		<div class="col-md-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>			<div class="padding-5-bottom"><a href="PSAR.php">PSAR&nbsp;FUND</a></div>	
-			<div class="padding-5-bottom"><a href="NEP-overview.php">NATIONAL&nbsp;ESTUARY&nbsp;PROGRAM&nbsp;(NEP)</a></div>	
+			<div class="padding-5-bottom"><a href="NEP-overview.php">NATIONAL ESTUARY PROGRAM (NEP)</a></div>	
 			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY</a></div>
 	</div>
 	<div class="row">
 		<div class="col-md-3 padding-40-top"><img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>MEASURING RECOVERY</h1>
-			<div class="padding-5-bottom"><a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND&nbsp;EVALUATION&nbsp;OVERVIEW</a></div>
-			<div class="padding-5-bottom"> <a href="evaluating-health-of-puget-sound.php">EVALUATING&nbsp;THE&nbsp;HEALTH&nbsp;OF&nbsp;PUGET&nbsp;SOUND</a></div>
-			<div class="padding-5-bottom"> <a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING&nbsp;ACTIONS&nbsp;TO&nbsp;RECOVER PUGET&nbsp;SOUND</a></div>
-			<div class="padding-5-bottom"> <a href="science-basis-of-recovery-overview.php">SCIENCE&nbsp;BASIS&nbsp;OF&nbsp;RECOVERY</a> </div>
+			<div class="padding-5-bottom"><a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND EVALUATION&nbsp;OVERVIEW</a></div>
+			<div class="padding-5-bottom"> <a href="evaluating-health-of-puget-sound.php">EVALUATING&nbsp;THE&nbsp;HEALTH&nbsp;OF PUGET&nbsp;SOUND</a></div>
+			<div class="padding-5-bottom"> <a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING&nbsp;ACTIONS&nbsp;TO RECOVER PUGET&nbsp;SOUND</a></div>
+			<div class="padding-5-bottom"> <a href="science-basis-of-recovery-overview.php">SCIENCE&nbsp;BASIS OF&nbsp;RECOVERY</a> </div>
 			<a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a>
 		</div>
 		<div class="col-md-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive"/></div>

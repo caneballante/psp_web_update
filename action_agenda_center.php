@@ -80,7 +80,9 @@
 						<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
 				<li role="presentation"><a href="2016_AA_update.php">2016 Action Agenda Update</a></li>
-				<li role="presentation"><a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
+				<li role="presentation">
+				<li role="presentation"><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
+				<a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
 				<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

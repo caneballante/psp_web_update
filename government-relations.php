@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - 2016 Action Agenda Update LIO Planning</title>
+<title>Puget Sound Partnership - Government Relations</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -27,7 +27,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 4;S
+  	navSelected = 1;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -42,17 +42,18 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
 <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image10">
-	<div class="overview-quote pull-right"></div>
+<header class="overview-page-image-style overview-page-image14">
+	<div class="overview-quote pull-right">
+		<h3>&nbsp;</h3>
+	</div>
 </header>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
 		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2016 action agenda UPDATE:<br>
-				LIO PLANNING<br>
-			</h1>
+			<h1>GOVERNMENT RELATIONS</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
@@ -60,37 +61,34 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-2016-AA.html';?>
+				<?php include 'includes/ln-gov.html';?>
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
 		<div class="col-md-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Puget Sound Partnership and the EPA are working with local communities to ensure funding is targeted at the highest-priority actions designed to support the long-term health of local watersheds and Puget Sound. Over the next year and a half, the EPA is funding development of <strong>5-year Ecosystem Recovery Plans</strong> and associated <strong>2-year Implementation Plans</strong> for each of the region’s local collaborative groups, or Local Integrating Organizations (LIO). Proposals for <strong>Near Term Actions (NTAs)</strong> developed as part of this planning effort will tie the local plans to the Puget Sound Action Agenda—the regional shared recovery plan. </p>
-			<p>The timeline for producing the 5-year plans and the NTA proposals that make up the 2-year Implementation Plans runs from June 2015 to September 2016:</p>
-			<ul class="notthenavdammittwo">
-				<li class="notthenavspacers"><strong>June to September 2015:</strong> LIOs begin developing local 5-year Ecosystem Recovery Plans, selecting at least four to six Puget Sound Vital Signs on which to focus. <strong><br />
-					September deliverable:</strong> First elements of the 5-year Ecosystem Recovery Plan</li>
-				<li class="notthenavspacers"><strong>September to December 2015:</strong> LIOs develop descriptions of proposed Near Term Actions and how the actions will be completed. <strong><br />
-					December deliverables: </strong>2-Year Implementation Plan and draft NTAs.</li>
-				<li class="notthenavspacers"><strong>January to February 2016: </strong>Regional Strategic Initiative Teams evaluate the proposed NTAs and work with the LIOs to revise the NTAs, if needed.<br />
-					<strong>February deliverable: </strong>Final NTAs.</li>
-				<li class="notthenavspacers"><strong>March to September 2016.</strong> LIOs complete the comprehensive 5-year Ecosystem Recovery Plans. <strong>September deliverable:</strong> Final 5-year Ecosystem Recovery Plan.</li>
-			</ul>
-			<p><a href="https://pspwa.box.com/s/ixdql0xq1y7dnwrcjlr477xc5ros1sby">Read more details about LIO planning</a>: </p>
+			<p>The Puget Sound Partnership connects and leverages the efforts of hundreds of organizations working on a shared mission to protect and restore the health of Puget Sound. We are a science-based, non-regulatory state agency bringing people together to advance this shared mission by setting goals and achieving them through actions specified in the common framework of the Puget Sound Action Agenda. During Legislative Session each year, we work to advance policy and mobilize funding to protect and restore Puget Sound. We also monitor proposed legislation to determine whether and how it might affect the health of Puget Sound, then inform decision-makers about the positive and negative effects of such legislation on Puget Sound. Between sessions, we work with legislators to help them understand the issues the ecosystem faces and how state resources are being used to address these issues. </p>
+			<p><strong>The Partnership supports:</strong></p>
 			<ul>
-				<li>LIOs will use these templates and guidance documents to develop plans and NTAs.</li>
+				<li>Legislation and investments to implement the Action Agenda, the regional plan to restore the health of Puget Sound.</li>
+				<li>Policies, strategies, and investments that recognize and support Tribal Treaty rights.</li>
+				<li>Policies, strategies, and investments that support a coordinated investment strategy—advancing Puget Sound recovery while also fostering job creation, public health, safety, and the wellbeing of current and future generations.</li>
+				<li>Authority and resources for the Partnership to support and enable programs and projects led by other agencies that help implement the Action Agenda, with an emphasis on increasing the implementation of high-priority regional actions and evaluation and measurement of outcomes and the effectiveness of recovery efforts.</li>
+				<li>Incentives and market-based mechanisms to help landowners, businesses, and residents advance regional Puget Sound recovery goals through local actions. </li>
+				<li>Policies and strategies that account for environmental externalities, recognizing the importance of allocating and understanding full and true costs and impacts of available alternatives when making policy choices.</li>
 			</ul>
-			<p><a href="http://www.psp.wa.gov/LIO.php">Learn more about the LIOs.</a></p>
+			<h2 class="margin-0-top">&nbsp;</h2>
 			<!-- InstanceEndEditable --> </div>
 		<div class="col-md-2 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title">SEE ALSO</div>
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
-				<li role="presentation"><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
-				<li role="presentation"><a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
+				<p class="right-nav-contact">For questions about Goverment Relations:<br />
+					<br>
+					<strong>Jeff Parsons</strong>, <br>
+					Legislative Policy Director,<br>
+					<a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a><br>
+					360.464.1221</p>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
