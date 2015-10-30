@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Public Opinion Research</title>
 <!-- InstanceEndEditable -->
@@ -12,7 +12,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
 
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
@@ -42,9 +41,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image17"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
@@ -54,26 +53,22 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
-			<!-- InstanceBeginEditable name="left_nav" -->
+				<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-eval-actions.html';?>
-				<!-- InstanceEndEditable --> 
+				<!-- InstanceEndEditable -->
 			</ul>
-		
 		</div>
-			
-	
-		<div class="col-md-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
+		<div class="col-md-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Public opinion research is a useful tool for many reasons: it informs program design, helps evaluate progress being made by various activities, provides external perspective to agencies for policy and programmatic direction, and allows for further exploration into complex issues. The Puget Sound Partnership received funding from the U.S. Environmental Protection Agency to carry out a series of public opinion surveys. The following surveys were conducted:</p>
-			<ul>
-				<li>Sound Behavior Index – Conducted three times between February 2012 and June 2015. The survey helped establish a behavior index related to yard care, car maintenance, home maintenance, pet/animal waste, onsite septic systems, small farms, and recreational boating and fishing. In addition, the first survey conducted included a segment asking about social capital. The surveys helped measure people’s interactions with other people, their community, civic engagement, use of internet-based social media, and other factors important to Puget Sound recovery.</li>
-				<li>General Survey – three general surveys were conducted to focus on people’s general knowledge, attitudes, beliefs, and sense of place and connection to Puget Sound. The general survey will helped identify characteristics of the population useful for the development of various stewardship activities, especially for the Puget Sound Starts Here campaign.</li>
-				<li>Barriers and Motivators Surveys – there will be three distinct surveys, each focused on one particular issue or practice.  These surveys will be completed by the third quarter of 2013. Focus groups will be conducted for each topic as well, in order to ‘dig deeper’ into peoples barriers to carrying out specific practices and motivators that would lead them to use of better practices. Topics will be chosen based on scientific knowledge of individual behaviors that either protect or threaten the health of Puget Sound from a regional perspective. The first survey will be on use of lawn care products.</li>
-			</ul>
+			<h3>Sound Behavior Index</h3>
+			<p>Conducted three times between February 2012 and June 2015. The survey helped establish a behavior index related to yard care, car maintenance, home maintenance, pet/animal waste, onsite septic systems, small farms, and recreational boating and fishing. In addition, the first survey conducted included a segment asking about social capital. <a href="vitalsigns/index.php">LEARN MORE</a></p>
+			<h3>General Survey</h3>
+			<p>Three general surveys were conducted to focus on people’s general knowledge, attitudes, beliefs, and sense of place related to Puget Sound. The general survey helped identify characteristics of the population useful for the development of various stewardship activities, especially for the Puget Sound Starts Here campaign and provided data related to our  new Human Wellbeing Vital Sign indicators.</p>
+			<h3>Barriers and Motivators Surveys</h3>
+			<p>There will be three distinct surveys, each focused on one particular issue or practice.  These surveys will be completed by the third quarter of 2013. Focus groups will be conducted for each topic as well, in order to &quot;dig deeper&quot; into people’s barriers to carrying out specific practices and motivators that would lead them to use of better practices. Topics will be chosen based on scientific knowledge of individual behaviors that either protect or threaten the health of Puget Sound from a regional perspective. The first survey will be on use of lawn care products.</p>
 			<p><a href="downloads/public opinion survey/2013 Sound Behavior Index Report.pdf">2013 Sound Behavior Index Report</a></p>
 			<p><a href="downloads/public opinion survey/2013 Gen Opinion Survey Report_FINAL.pdf?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2013 General Opinion Survey (PDF)</a> </p>
 			<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2012 General Opinion Survey (PDF)</a></p>
@@ -84,20 +79,14 @@
 			<p><a href="https://app.box.com/s/nqem9kfz0u15p82rtsyk">Yard Care and Pesticide Use Focus Groups</a></p>
 			<p> <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2313&amp;Itemid=238">Tree Planting Survey Report</a></p>
 			<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2312&amp;Itemid=238"> Tree Planting Focus Group Report</a></p>
-			<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
-		</div>
+			<!-- InstanceEndEditable --> </div>
+		<div class="col-md-2 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -105,8 +94,8 @@
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -117,6 +106,6 @@
   ga('send', 'pageview');
 
 </script>
-
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>

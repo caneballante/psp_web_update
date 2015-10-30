@@ -10,22 +10,7 @@
 					<a href="http://www.facebook.com/pages/Olympia-WA/Puget-Sound-Partnership/27743054170" alt="Puget Sound Partnership on Facebook"  /><img src="images/social-facebook-box-blue-icon.png" width="48" height="48" alt=""/></a>&nbsp;<a href="https://twitter.com/PSPartnership" alt="Puget Sound Partnership on Twitter"><img src="images/social-twitter-box-blue-icon.png" width="48" height="48" alt=""/></a> </div>
 			</div>
 			<div class="col-md-4">
-				<div>
-					<h3 class="white">SIGN UP TO RECEIVE UPDATES FROM THE PUGET SOUND PARTNERSHIP</h3>
-					<!-- input-group -->
-					<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" method="post">
-						<div style="margin:0;padding:0;display:inline">
-							<input name="utf8" type="hidden" value="&#x2713;" />
-							<input name="authenticity_token" type="hidden" value="fXc9Agz7AcvdGFrlZjdPUw+SlYejhPQacu3TIB3KBAQ=" />
-						</div>
-						<div class="input-group">
-							<input type="text" class="form-control" id="email" name="email" type="text" placeholder="your email...">
-							<span class="input-group-btn">
-							<button class="btn btn-default" name="commit" type="submit" value="Submit">SUBMIT</button>
-							</span> </div>
-					</form>
-					<!-- /input-group --> 
-				</div>
+				<?php include 'gov-delivery-inc.html';?>
 			</div>
 			<div class="col-md-6">
 				<div class="white light-blue-links padding-20-top no-icon">© 2015 All Rights Reserved | <a href="http://www.access.wa.gov">www.access.wa.gov</a> | <a href="privacy.html">privacy policy </a><br />
@@ -106,9 +91,18 @@
 							<li><a href="2016_AA_NTA.php">NEAR TERM ACTION PROPOSALS</a></li>
 						</ul>
 					</li>
-					<li><a href="2016_AA_implementation_strategies.php">IMPLEMENTATION STRATEGIES</a></li>
-					<li><a href="social-strategies-overview.php">SOCIAL STRATEGIES</a></li>
-					<li><a href="legislative_updates.php">GOVERNMENT RELATIONS</a></li>
+					<li class="sitemap-subheads"><strong>IMPLEMENTATION STRATEGIES</strong></li>
+					<ul class="padding-10-left">
+						<li><a href="2016_AA_implementation_strategies.php">IMPLEMENTATION STRATEGIES</a></li>
+					</ul>
+					<li class="sitemap-subheads"><strong>SOCIAL STRATEGIES</strong></li>
+					<ul class="padding-10-left">
+						<li><a href="social-strategies-overview.php">SOCIAL STRATEGIES</a></li>
+					</ul>
+					<li class="sitemap-subheads"><strong>GOVERNMENT RELATIONS</strong></li>
+					<ul class="padding-10-left">
+						<li><a href="legislative_updates.php">GOVERNMENT RELATIONS</a></li>
+					</ul>
 				</ul>
 			</div>
 			<div class="col-md-3 padding-20-top">
@@ -134,8 +128,11 @@
 						<li><a href="econet.php">ECO NET</a></li>
 					</ul>
 					</li>
-					<li><a href="funding-programs.php">FUNDING PROGRAMS</a></li>
-					<li><a href="PSAR.php">PSAR</a></li>
+					<li class="sitemap-subheads"><strong>FUNDING PROGRAMS</strong></li>
+						<ul class="padding-10-left">
+							<li><a href="funding-programs.php">FUNDING PROGRAMS OVERVIEW</a></li>
+							<li><a href="PSAR.php">PSAR FUND</a></li>
+						</ul>
 				</ul>
 			</div>
 			<div class="col-md-3 padding-20-top">

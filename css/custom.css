@@ -270,14 +270,26 @@ p {
 	width:100%;
 	height:auto;
 }
-.search-width{
-	width:400px;
-	margin:auto;
-}
+
+
 .width-200 {
 	width:200px;
 	margin:auto;
 }
+.width-200{
+	width:300px;
+	margin:auto;
+}
+.width-400{
+	width:400px;
+	margin:auto;
+}
+
+.width-500 {
+	width:500px;
+	margin:auto;
+}
+
 
 /*news boxes on homepage*/
 .newsbox{

@@ -73,7 +73,7 @@
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>Lead entities are local, watershed-based organizations that develop local salmon habitat recovery strategies and manage projects to implement the strategies.</p>
-			<p>Contact information for Lead Entity Coordinators is provided below.  More information about the Lead Entity Program is available on the <a href="http://wwwtest2.rco.wa.gov/salmon_recovery/lead_entities.shtml">Washington State Recreation and Conservation Office website</a></p>
+			<p>Contact information for Lead Entity Coordinators is provided below.  More information about the Lead Entity Program is available on the <a href="http://wwwtest2.rco.wa.gov/salmon_recovery/lead_entities.shtml" target="new">Washington State Recreation and Conservation Office website</a></p>
 			<table class="table">
 				<tr>
 					<td width="122" class="tableheader"><strong>Watershed</strong></td>

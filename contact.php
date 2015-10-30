@@ -72,79 +72,22 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<h3 class="margin-0-top">For general information:</h3>
+			<h2 class="margin-0-top">For general information:</h2>
 			<p> Phone: 360.464.1232 </p>
 			<p> Email: info@psp.wa.gov</p>
 			
-			<h3>Mailing Address:</h3>
-			<p>Puget Sound Partnership 
-				1111 Washington Street SE, Olympia, WA 98504-7000</p>
+			<h2>Mailing Address:</h2>
 			<h3>Main Office</h3>
+			<p>Puget Sound Partnership 
 			<p>326 East D Street, Tacoma, WA 98421</p>
+
+			<h3>Olympia Office</h3>
+				<p>1111 Washington Street SE, Olympia, WA 98504-7000</p>
 			<h3>Please send public record requests to:</h3>
 			<p> public.records@psp.wa.gov</p>
 			<p>&nbsp;</p>
 			<?php include('includes/media_contact.html')?> 
-			<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" id="GD-snippet-form" method="post">
-				<div style="margin:0;padding:0;display:inline">
-					<input name="utf8" type="hidden" value="✓" />
-					<input name="authenticity_token" type="hidden" value="nJ2M3jFoBio2OxjDYTxoAVxjuoO4hpMu9D91mts0scw=" />
-				</div>
-				<fieldset>
-					<h2> You can subscribe to receive email updates from the Puget Sound Partnership below. </h2>
-					<div> To sign up for updates or to access your subscriber preferences, please enter your contact information below. </div>
-					<ol class='form'>
-						<li>
-							<label for="subscription_type">Subscription Type</label>
-							<div class='input_group'>
-								<select id="subscription_type" name="subscription_type">
-									<option value="email" selected="selected">Email</option>
-									<option value="phone">SMS/Text Message</option>
-								</select>
-							</div>
-						</li>
-						<li class='wireless_fields' style='display: none'>
-							<label for="phone"><img alt="Required" class="required" src="https://public.govdelivery.com/assets/required-ef6e0abfe1c903c5ed5cba6ab7c2c38b.gif" />Wireless Number</label>
-							<div class='input_group'> 
-								<!-- The full translation path is used because the translation of .select_title doesn't always resolves to the same i18n path -->
-								<select disabled="disabled" id="country_code_display" name="country_code_display" title="Country code">
-									<option value="1 (US)">1 (US)</option>
-									<option value="1">1</option>
-								</select>
-								<input id="country_code" name="country_code" title="Country code" type="hidden" value="1" />
-								<input class="medium" id="phone" name="phone" title="Wireless Number" type="text" />
-							</div>
-						</li>
-						<li class='email_fields' style='display: block'>
-							<label for="email"><img alt="Required" class="required" src="https://public.govdelivery.com/assets/required-ef6e0abfe1c903c5ed5cba6ab7c2c38b.gif" />Email Address</label>
-							<input class="long" id="email" name="email" type="text" />
-						</li>
-					</ol>
-					<div class='button_panel'>
-						<input class="form_button" name="commit" type="submit" value="Submit" />
-					</div>
-				</fieldset>
-			</form>
-			<script type='text/javascript'>
-  //<![CDATA[
-    var GOVDSNIPPET = function() {
-      var form  = document.getElementById('GD-snippet-form');
-      var typeSelect = form.getElementsByTagName('select')[0];
-      var getStyleType = function(type) {
-        return typeSelect.value === type ? 'block' : 'none';
-      };
-      var toggleType = function() {
-        form.getElementsByTagName('li')[2].style.display = getStyleType('email');
-        form.getElementsByTagName('li')[1].style.display = getStyleType('phone');
-      };
-      if (typeSelect.addEventListener) {
-        typeSelect.addEventListener('change', toggleType);
-      } else if (typeSelect.attachEvent)  {
-        typeSelect.attachEvent('onchange', toggleType);
-      }
-    }();
-  //]]>
-</script> 
+			
 			<!-- InstanceEndEditable -->
 		</div>
 	
