@@ -72,8 +72,7 @@
 		
 			<h2 class="margin-0-top">PUGET SOUND VITAL SIGNS</h2>
 			<p>To track progress toward recovery goals for Puget Sound, the Partnership chose a specific set of measures called the Puget Sound Vital Signs. The Vital Signs gauge the health of Puget Sound in a way that is scientifically valid and also resonates with the public. Tracking and reporting of Vital Signs is the foundation of the shared measurement system the Partnership relies on to show collective impact.  <a href="www.psp.wa.gov/vitalsigns/">Learn more </a></p>
-		
-		<!-- InstanceEndEditable -->
+			<img class="img-responsive" src="images/vitalsigns_wheel.png" width="600" height="600" alt=""/> <!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-md-2 padding-20-top"> 
