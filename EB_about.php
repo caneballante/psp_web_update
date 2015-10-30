@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Ecoysystem Coordination Board Members</title>
 <!-- InstanceEndEditable -->
@@ -12,7 +12,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
 
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
@@ -29,7 +28,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 4;
-</script> 
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -42,9 +41,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
@@ -53,105 +52,99 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
-			<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include 'includes/ln-boards.html';?>	
-	
-			<!-- InstanceEndEditable --> 
+				<!-- InstanceBeginEditable name="left_nav" -->
+				<?php include 'includes/ln-boards.html';?>
+				<!-- InstanceEndEditable -->
 			</ul>
-		
 		</div>
-			
-	
-		<div class="col-md-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
+		<div class="col-md-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Ecosystem Coordination Board's main role is to advise the Puget Sound Partnership&rsquo;s Leadership Council on carrying out its responsibilities. The Board is made up of 27 members representing specific interests around the Sound.</p>
-						<p><strong>Chair: </strong>Dave Somers<br />
-    					</p>
-    		<p><strong>Vice Chair: </strong>Dave Herrera<br />
-    				</p>
-    		<p><strong>ACTION AREAS</strong><br>
-            Strait of Juan De Fuca<br>
-                        Steve Tharinger<br>
-                        Phil Johnson (alternate) <em>Jefferson County Commissioner</em><br>
-            The San Juan Islands<br>
-                        Jamie Stephens<br>
-            Whidbey Island<br>
-                        Ron Wesen<br>
-                        Bill Blake (alternate) <em>City of Arlington</em><br>
-            Hood Canal<br>
-                        Teri King<br>
-                        Scott Brewer (alternate) <em>Hood Canal Coordination Council</em><br>
-            North Central Puget Sound<br>
-                        Charlotte Garrido<br>
-                        Kathleen Peters (alternate) <em>Kitsap County</em><br>
-                        Patty Charnas (alternate) <em>Kitsap County</em><br>
-            South Central Puget Sound<br>
-                        Dow Constantine<br>
-                        Fred Jarrett (alternate) <em>King County</em><br>
-                        Christie True (alternate) <em>King County</em><br>
-                        Dave White (alternate) <em>King County</em><br>
-            South Puget Sound<br>
-                        Dan Wrye<br>
-                        Alex Smith (alternate) Port of Olympia</p>
+			<p><strong>Chair: </strong>Dave Somers<br />
+			</p>
+			<p><strong>Vice Chair: </strong>Dave Herrera<br />
+			</p>
+			<p><strong>ACTION AREAS</strong><br>
+				            Strait of Juan De Fuca<br>
+				                        Steve Tharinger <em> Action Area representative</em><br>
+				                        Phil Johnson (alternate) <em>Jefferson County Commissioner</em><br>
+				            The San Juan Islands<br>
+				                        Jamie Stephens <em>Action Area Representative (San Juan LIO)</em><br>
+				            Whidbey Island<br>
+				                        Ron Wesen <em>Skagit County Commissioner</em><br>
+				                        Bill Blake (alternate) <em>City of Arlington</em><br>
+				            Hood Canal<br>
+				                        Teri King <em>Washington Sea Grant</em><br>
+				                        Scott Brewer (alternate) <em>Hood Canal Coordination Council</em><br>
+				            North Central Puget Sound<br>
+				                        Charlotte Garrido <em>Kitsap County Commissioner</em><br>
+				                        Kathleen Peters (alternate) <em>Kitsap County</em><br>
+				                        Patty Charnas (alternate) <em>Kitsap County</em><br>
+				            South Central Puget Sound<br>
+				                        Dow Constantine <em>King County Executive</em><br>
+				                        Fred Jarrett (alternate) <em>King County</em><br>
+				                        Christie True (alternate) <em>King County</em><br>
+				                        Dave White (alternate) <em>King County</em><br>
+				            South Puget Sound<br>
+				                        Dan Wrye<em> Pierce County</em><br>
+				                        Alex Smith (alternate) Port of Olympia</p>
 			<p>Business Interest<br>
-				            Gary Chandler<br>
+				            Gary Chandler <em>Association of Washington Business</em><br>
 				            Alison Butcher (alternate) <em>Master Builders Association of King and Snohomish Counties</em></p>
 			<p>Small Business Interest<br>
-				            Bill Dewey<br>
+				            Bill Dewey <em>Taylor Shellfish</em><br>
 				            Bill Taylor (alternate) <em>Taylor Shellfish</em></p>
 			<p>Environmental Interest 1<br>
-				            Jessie Israel<br>
+				            Jessie Israel <em> The Nature Conservancy</em><br>
 				            Heather Trim (alternate) <em>Futurewise</em></p>
 			<p>Environmental Interest 2<br>
-				            Chris Wilke<br>
+				            Chris Wilke <em>Puget Soundkeeper Alliance</em><br>
 				            Darcy Nonemacher (alternate) <em>Washington Environmental Council</em></p>
 			<p>Cities<br>
-				            Will Hall<br>
+				            Will Hall <em>City of Shoreline Council member</em><br>
 				            Ed Stern (alternate) City of Poulsbo Councilmember</p>
 			<p>Counties<br>
-				            Dave Somers<br>
+				            Dave Somers <em>Snohomish County Council member</em><br>
 				            Helen Price Johnson (alternate) Island County Commissioner</p>
 			<p>Port Districts<br>
-				            Bill Bryant<br>
+				            Bill Bryant <em>Port of Seattle</em><br>
 				            Mike McAuley (alternate) <em>Port of Bellingham</em></p>
 			<p>Tribal Government<br>
-				            David Troutt<br>
+				            David Troutt <em>Nisqually Tribe</em><br>
 				            Jeff Dickison (alternate) <em>Squaxin Island Tribe</em></p>
 			<p>Tribal Government<br>
-				            Randy Kinley<br>
+				            Randy Kinley <em>Lummi Nation</em><br>
 				            Pat Stevenson (alternate) <em>Stillaguamish Tribe</em></p>
 			<p>Tribal Government<br>
-				            Dave Herrera<br>
+				            Dave Herrera <em>Skokomish Tribe</em><br>
 				            Randy Harder (alternate) <em>Point No Point Treaty Council</em></p>
 			<p>Legislative Caucus<br>
-				            Strom Peterson</p>
+				            Strom Peterson <em>21st District, Washington State House of Representatives</em></p>
 			<p>Legislative Caucus<br>
-				            Shelly Short</p>
+				            Shelly Short <em>7th District, Washington State House of Representatives</em></p>
 			<p>Legislative Caucus<br>
-				            Steve Litzow</p>
+				            Steve Litzow <em>41st District, Washington State Senate</em></p>
 			<p>Legislative Caucus<br>
-				            Christine Rolfes</p>
+				            Christine Rolfes <em>23rd District, Washington State Senate</em></p>
 			<p>Federal Government<br>
-				            Will Stelle<br>
+				            Will Stelle <em>National Oceanic and Atmospheric Administration (NOAA)</em><br>
 				            Elizabeth Babcock (alternate) <em>NOAA</em></p>
 			<p>Federal Government<br>
-				            Col. John G. Buck<br>
+				            Col. John G. Buck <em>U.S Army Corps of Engineers</em><br>
 				            Olton Swanson (alternate) <em>USACE</em></p>
 			<p>Federal Government<br>
-				            Angela Bonifaci</p>
+				            Angela Bonifaci <em>Environmental Protection Agency (EPA)</em></p>
 			<p>Washington State Agencies<br>
-				            Maia Bellon<br>
+				            Maia Bellon <em>Director, Washington State Department of Ecology</em><br>
 				            Josh Baldi (alternate) <em>Department of Ecology</em></p>
 			<p>Washington State Agencies<br>
-				            Jim Unsworth <br>
+				            Jim Unsworth <em>Director, Washington Department of Fish and Wildlife</em><br>
 				            Jeff Davis (alternate) <em>Department of Fish and Wildlife</em><br>
 				            David Price (alternate) <em>Department of Fish and Wildlife</em></p>
 			<p>Washington State Agencies<br>
-				            Peter Goldmark<br>
+				            Peter Goldmark <em>Commissioner of Public Lands, Washington Department of Natural Resources</em><br>
 				            Kirsten Feifel (alternate) <em>Department of Natural Resources</em></p>
 			<p><strong>EX-OFFICIO REPRESENTATIVES</strong><br>
 				Whatcom LIO<br>
@@ -164,32 +157,25 @@
 			<p>Canadian Representation<br>
 				            Kaaren Lewis –<em>Assistant Deputy Minister of Environmental Sustainability, BC Public Service</em><br>
 				            Dave Marshall (alternate) – <em>Fraser Basin Council</em></p>
-		<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-md-2 padding-20-top"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
+			<!-- InstanceEndEditable --> </div>
+		<div class="col-md-2 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
+					<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
+					Special Assistant,<br>
+					360.628.2423</p>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-						<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
-				<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
-Special Assistant,<br>
- 360.628.2423</p>
-						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-		</div>
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -197,8 +183,8 @@ Special Assistant,<br>
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -209,6 +195,6 @@ Special Assistant,<br>
   ga('send', 'pageview');
 
 </script>
-
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
