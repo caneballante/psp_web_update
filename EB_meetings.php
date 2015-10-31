@@ -74,11 +74,7 @@
 					<td width="220" class="tableheader">LOCATION</td>
 					<td width="251" class="tableheader">PROPOSED AGENDA &amp; SUMMARY</td>
 				</tr>
-				<tr>
-					<td class=""><p>September 17</p></td>
-					<td class=""><p><a href="http://edmondswa.gov/maps-and-direction.html">CANCELLED</a></p></td>
-					<td class=""><p>Temporarily Unavailable</td>
-				</tr>
+				
 				<tr>
 					<td class=""><p>November 12</p></td>
 					<td class=""><p><a href="https://www.google.com/maps/dir/Lynnwood+Convention+Center,+3711+196th+St+SW,+Lynnwood,+WA+98036,+United+States/@47.821491,-122.283608,7z/data=!4m12!1m3!3m2!1s0x0:0x9ba35561d5be79df!2sLynnwood+Convention+Center!4m7!1m0!1m5!1m1!1s0x5490056bed29e9bb:0x9ba35561d5be79df!2m2!1d-122.2836082!2d47.821491?hl=en">Lynnwood Convention Center</a><br />
@@ -87,7 +83,7 @@
 							Lynwood, WA  98036</p>
 						<p><a href="http://cdn3.assets.sites.launchrocketship.com/e4142ea2-b69a-47f7-a8ff-06d0b6a5b86e/files/91a81d30-6155-4e7a-b4d1-bd2d8a7f47dd/directionsandoverflow.pdf">Directions PDF </a></p>
 						<p></p></td>
-					<td class=""><p>Temporarily Unavailable</p></td>
+					<td class=""><p><a href="https://pspwa.app.box.com/s/rvo649ycmrhtxbuy9axi8u90ad6x5ukk">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
 					<td  colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
@@ -111,11 +107,16 @@
 				</tr>
 				<tr>
 					<td class=""><p>July 8 </p></td>
-					<td class=""><p><a href="https://app.box.com/shared/static/95jmup70s0vvzavwn4a5jrpmpemh8ir1.pdf">Edmonds Conference Center</a><br />
+					<td class=""><p>Edmonds Conference Center<br />
 							Orchid Conference Room<br />
 							201 - Fourth Ave North<br />
 							Edmonds, WA 98020</p></td>
 					<td class=""><p>Temporarily Unavailable</p></td>
+				</tr>
+				<tr>
+					<td class=""><p>September 17</p></td>
+					<td class=""><p>CANCELLED</p></td>
+					<td class=""><p>Temporarily Unavailable</td>
 				</tr>
 			</table>
 			<!-- InstanceEndEditable -->

@@ -92,6 +92,7 @@
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li class="active" role="presentation"> <a href="evaluating-public-opinion.php">Public Opinion Research</a></li>
+					<li class="active" role="presentation"> <a href="econet.php">ECO Net</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

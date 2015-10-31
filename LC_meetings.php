@@ -94,7 +94,7 @@
 				</tr>
 				<tr>
 					<td>January 29</td>
-					<td><p><a href="downloads/directions/Directions to Natural Resources building.pdf">Natural Resources Building</a><br />
+					<td><p>Natural Resources Building<br />
 							Room 172<br />
 							1111 Washington Street SE<br />
 							Olympia, WA 98501-2283 </p></td>
@@ -102,7 +102,7 @@
 				</tr>
 				<tr>
 					<td>March 27</td>
-					<td><p><a href="downloads/directions/Directions-to-the-General-Administration-Building.pdf">GA Auditorium</a>, 1st floor<br />
+					<td><p>GA Auditorium, 1st floor<br />
 							General Administration Building<br />
 							210 - 11th Avenue SW<br />
 							Olympia, WA 98501</p></td>
@@ -121,8 +121,8 @@
 				</tr>
 				<tr>
 					<td>July 29-30</td>
-					<td><p><a href="https://app.box.com/shared/static/y3tvvnh6uq55914lyga26g1iv6ofq7o4.pdf">Washington State Capitol<br />
-							Legislative Building</a><br />
+					<td><p>Washington State Capitol<br />
+							Legislative Building<br />
 							Columbia Room (1st floor under rotunda)<br />
 							416 Sid Snyder Ave SW<br />
 							Olympia, WA 98504</p></td>

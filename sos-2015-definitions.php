@@ -79,7 +79,7 @@
 			<h3>BIENNIAL SCIENCE WORK PLAN</h3>
 			<p>An assessment of priority science for restoring and protecting Puget Sound, with research priority recommendations for the biennium. This document, which is prepared by the Science Panel to accompany biennial updates of the Action Agenda, identifies the near-term science activities and capacities needed to support ecosystem recovery and makes recommendations about how science can better support recovery.</p>
 			<h3>Implementation Strategies</h3>
-			<p>These are discrete, sequenced schematic plans for achieving the Puget Sound 2020 ecosystem recovery targets. Each target is associated with at least one indicator. (See the Puget Sound Vital Sign Indicators on page 9.) The plans are designed to inform the Puget Sound Action Agenda, the Biennial Science Work Plan, and salmon recovery planning. Each Implementation Strategy accomplishes the following:</p>
+			<p>These are discrete, sequenced schematic plans for achieving the Puget Sound 2020 ecosystem recovery targets. Each target is associated with at least one indicator. The plans are designed to inform the Puget Sound Action Agenda, the Biennial Science Work Plan, and salmon recovery planning. Each Implementation Strategy accomplishes the following:</p>
 			<ul>
 				<li>Identifies priority approaches for achieving a specific recovery target.</li>
 				<li>Assesses and combines elements of local and regional recovery efforts, ongoing programs, Near Term Actions from the Puget Sound Action Agenda, and ecosystem pressures from <a href="http://sites.google.com/site/pressureassessment/home" target="_blank">the Puget Sound Pressure Assessment</a>.</li>

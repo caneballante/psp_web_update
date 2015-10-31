@@ -48,7 +48,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1 class="grey">PUBLIC OPINION RESEARCH</h1>
+			<h1 class="grey">Staff LINKS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -57,30 +57,21 @@
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-eval-actions.html';?>
+		
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Public opinion research is a useful tool for many reasons: it informs program design, helps evaluate progress being made by various activities, provides external perspective to agencies for policy and programmatic direction, and allows for further exploration into complex issues. The Puget Sound Partnership received funding from the U.S. Environmental Protection Agency to carry out a series of public opinion surveys. The following surveys were conducted:</p>
-			<h3>Sound Behavior Index</h3>
-			<p>Conducted three times between February 2012 and June 2015. The survey helped establish a behavior index related to yard care, car maintenance, home maintenance, pet/animal waste, onsite septic systems, small farms, and recreational boating and fishing. In addition, the first survey conducted included a segment asking about social capital. <a href="vitalsigns/index.php">LEARN MORE</a></p>
-			<h3>General Survey</h3>
-			<p>Three general surveys were conducted to focus on people’s general knowledge, attitudes, beliefs, and sense of place related to Puget Sound. The general survey helped identify characteristics of the population useful for the development of various stewardship activities, especially for the Puget Sound Starts Here campaign and provided data related to our  new Human Wellbeing Vital Sign indicators.</p>
-			<h3>Barriers and Motivators Surveys</h3>
-			<p>There will be three distinct surveys, each focused on one particular issue or practice.  These surveys will be completed by the third quarter of 2013. Focus groups will be conducted for each topic as well, in order to &quot;dig deeper&quot; into people’s barriers to carrying out specific practices and motivators that would lead them to use of better practices. Topics will be chosen based on scientific knowledge of individual behaviors that either protect or threaten the health of Puget Sound from a regional perspective. The first survey will be on use of lawn care products.</p>
-			<p><a href="https://pspwa.box.com/s/riwfo6kxtrw47swhmsaxbhenaujfv4g1"> 2015 Sound Behavior Index Report </a></p>
-			<p><a href="https://pspwa.box.com/s/jx118rlrvysiijuf79wkjbma2mg6bueq"> 2015 General Public Opinion Survey </a></p>
-			<p><a href="downloads/public opinion survey/2013 Sound Behavior Index Report.pdf">2013 Sound Behavior Index Report</a></p>
-		<!--	<p><a href="downloads/public opinion survey/2013 Gen Opinion Survey Report_FINAL.pdf?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2013 General Opinion Survey (PDF)</a> </p>
-			<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2012 General Opinion Survey (PDF)</a></p>-->
-			<p><a href="https://www.box.com/s/9b34t0ijy04unm8v27rd">Sound Behavior - Social Capital Index 2012 and supplement</a> </p>
-			<p><a href="downloads/socialbehavior/Sound_Behavior_Index_Summary_3-22-13_kjh.docx">Sound Behavior Index and Social Capital Index summary (PDF)</strong></a></p>
-			<p><a href="downloads/socialbehavior/Developing Indices from Social Capital and Environmental Behavior Survey Data.docx">Developing Indices from Social Capital and Environmental Behavior Survey Data (PDF)</a></p>
-			<p><a href="https://app.box.com/s/3uxspuzivhhwsfzlf6un">Yard Care and Pesticide Practices: Barriers and Motivators Survey Report </a> </p>
-			<p><a href="https://app.box.com/s/nqem9kfz0u15p82rtsyk">Yard Care and Pesticide Use Focus Groups</a></p>
-			<!--<p> <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2313&amp;Itemid=238">Tree Planting Survey Report</a></p>
-			<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2312&amp;Itemid=238"> Tree Planting Focus Group Report</a></p>-->
+			<p>Washington State employee self service:<br />
+	<a href="http://www.dop.wa.gov/payroll/ESS/Pages/default.aspx">http://www.dop.wa.gov/payroll/ESS/Pages/default.aspx</a></p>
+<p>Communication and web related requests:<br />
+<a href="https://app.smartsheet.com/b/form?EQBCT=31444158036444a488a55a64f1e6f970">communication request form</a></p>
+	<p>Employee webmail:<br />
+	
+<a href="https://mobile.wa.gov" target="_blank">https://mobile.wa.gov</a>	
+
+	<p>Building information:<br />
+<a href="http://www.urbanwaters.org/">Center for Urban Waters</a></p>
 			<!-- InstanceEndEditable --> </div>
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
