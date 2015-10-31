@@ -91,52 +91,7 @@
 			<h5>VACANT</h5>
 			<p> Program Coordinator</p>
 			<br>
-			<!--A.S. - MANAGEMENT CONFERENCE COORDINATION-->
-			<h3>MANAGEMENT CONFERENCE COORDINATION</h3>
-			<h5>Laura Blackmore</h5>
-			<p> Boards Program Director<br />
-				Office 360.339.4627| <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
-			<h5>Dominique Hampton</h5>
-			<p> Special Assistant to the Boards<br />
-				Office 360.464.1229 | <a href="mailto:dominique.hampton@psp.wa.gov">dominique.hampton@psp.wa.gov</a></p>
-			<h5>Alicia Lawver</h5>
-			<p> Public Information Officer &amp; Partnerships Communication Lead<br />
-				360.464.2011 | <a href="mailto:alicia.lawver@psp.wa.gov">alicia.lawver@psp.wa.gov</a></p>
-			<br>
-			<!--A.S. - GOVERNMENT AFFAIRS-->
-			<h3>GOVERNMENT RELATIONS</h3>
-			<h5>Jeff Parsons</h5>
-			<p> Legislative Policy Director<br />
-				360.464.1221 | <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p>
-			<h5>Cathy Cochrane</h5>
-			<p> Policy Communications Lead<br />
-				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a></p>
-			<br>
-			<!--A.S. - TECH RESOURCES GROUP-->
-			<h3>TECHNOLOGY RESOURCES GROUP</h3>
-			<h5>Jennifer Burke</h5>
-			<p> Data Systems/GIS Manager<br />
-				360.464.2009 | <a href="mailto:jennifer.burke@psp.wa.gov">Jennifer.Burke@psp.wa.gov</a></p>
-			<h5>Jon Bridgman</h5>
-			<p> Designer<br />
-				253.666.6290 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
-			<h5>Erika Lari</h5>
-			<p> Designer<br />
-				253.348.2482 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
-			<br>
-			<!--A.S. - IT OPERATIONS-->
-			<h3>IT OPERATIONS</h3>
-			<h5>Greg Tudor</h5>
-			<p> IT Operations Manager<br />
-				360.902.3018 | <a href="mailto:greg.tudor@psp.wa.gov">greg.tudor@psp.wa.gov </a></p>
-			<h5>Marc Turnbow</h5>
-			<p> IT Administrator<br />
-				360.789.4989 | <a href="mailto:marc.turnbow@psp.wa.gov">marc.turnbow@psp.wa.gov </a></p>
-			<h5>Eric Green</h5>
-			<p> IT Specialist <br />
-				360.628.7412 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov </a></p>
-			<br>
-			<!--A.S. - IT OPERATIONS-->
+			<!--A.S. - FINANCE-->
 			<h3>FINANCE</h3>
 			<h5>Ginger Stewart</h5>
 			<p> Chief Financial Officer<br />
@@ -154,6 +109,54 @@
 			<p> Fiscal Analyst<br />
 				360-464-2004 | <a href="mailto:audrapsp.benedict@psp.wa.gov">audrapsp.benedict@psp.wa.gov</a></p>
 			<br>
+			<!--A.S. - GOVERNMENT AFFAIRS-->
+			<h3>GOVERNMENT RELATIONS</h3>
+			<h5>Jeff Parsons</h5>
+			<p> Legislative Policy Director<br />
+				360.464.1221 | <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p>
+			<h5>Cathy Cochrane</h5>
+			<p> Policy Communications Lead<br />
+				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a></p>
+			<br>
+			<!--A.S. - IT OPERATIONS-->
+			<h3>IT OPERATIONS</h3>
+			<h5>Greg Tudor</h5>
+			<p> IT Operations Manager<br />
+				360.902.3018 | <a href="mailto:greg.tudor@psp.wa.gov">greg.tudor@psp.wa.gov </a></p>
+			<h5>Marc Turnbow</h5>
+			<p> IT Administrator<br />
+				360.789.4989 | <a href="mailto:marc.turnbow@psp.wa.gov">marc.turnbow@psp.wa.gov </a></p>
+			<h5>Eric Green</h5>
+			<p> IT Specialist <br />
+				360.628.7412 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov </a></p>
+			<br>
+			<!--A.S. - MANAGEMENT CONFERENCE COORDINATION-->
+			<h3>MANAGEMENT CONFERENCE COORDINATION</h3>
+			<h5>Laura Blackmore</h5>
+			<p> Boards Program Director<br />
+				Office 360.339.4627| <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
+			<h5>Dominique Hampton</h5>
+			<p> Special Assistant to the Boards<br />
+				Office 360.464.1229 | <a href="mailto:dominique.hampton@psp.wa.gov">dominique.hampton@psp.wa.gov</a></p>
+			<h5>Alicia Lawver</h5>
+			<p> Public Information Officer &amp; Partnerships Communication Lead<br />
+				360.464.2011 | <a href="mailto:alicia.lawver@psp.wa.gov">alicia.lawver@psp.wa.gov</a></p>
+			<br>
+			
+			<!--A.S. - TECH RESOURCES GROUP-->
+			<h3>TECHNOLOGY RESOURCES GROUP</h3>
+			<h5>Jennifer Burke</h5>
+			<p> Data Systems/GIS Manager<br />
+				360.464.2009 | <a href="mailto:jennifer.burke@psp.wa.gov">Jennifer.Burke@psp.wa.gov</a></p>
+			<h5>Jon Bridgman</h5>
+			<p> Designer<br />
+				253.666.6290 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
+			<h5>Erika Lari</h5>
+			<p> Designer<br />
+				253.348.2482 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
+			<br>
+			
+			
 			<br>
 			<!--SCIENCE AND EVALUATION-->
 			<h2>SCIENCE AND EVALUATION</h2>
@@ -164,7 +167,15 @@
 			<p> Senior Science Advisor<br />
 				360.681.3657 | <a href="mailto:ron.thom@psp.wa.gov">ron.thom@psp.wa.gov </a></p>
 			<br>
-			<!--S.E. ECOSYSTEM ASSESSMENT-->
+			<!--S.E. ADAPTIVE MANAGEMENT-->
+			<h3>Adaptive Management</h3>
+			<h5>Kari Stiles</h5>
+			<p> Adaptive Management Scientist<br />
+				360.464.4845 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a></p>
+			<h5>Skadi von Reis</h5>
+			<p> Hershman Marine Policy Fellow<br />
+				253.666.6289 | <a href="mailto:skadi.vonreis@psp.wa.gov">skadi.vonreis@psp.wa.gov</a></p>
+			<br><!--S.E. ECOSYSTEM ASSESSMENT-->
 			<h3>Ecosystem Assessment</h3>
 			<h5>Ken Dzinbal</h5>
 			<p> Monitoring Program Manager<br />
@@ -179,15 +190,6 @@
 			<p> Monitoring Performance Analyst
 				<br>
 			360-464-1217| <a href="mailto:elene.dorfmeier@psp.wa.gov">elene.dorfmeier@psp.wa.gov</a></p>
-			<br>
-			<!--S.E. ADAPTIVE MANAGEMENT-->
-			<h3>Adaptive Management</h3>
-			<h5>Kari Stiles</h5>
-			<p> Adaptive Management Scientist<br />
-				360.464.4845 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a></p>
-			<h5>Skadi von Reis</h5>
-			<p> Hershman Marine Policy Fellow<br />
-				253.666.6289 | <a href="mailto:skadi.vonreis@psp.wa.gov">skadi.vonreis@psp.wa.gov</a></p>
 			<br>
 			<!--S.E. PERFORMANCE AND EVALUATION-->
 			<h3>Performance and Evaluation</h3>

@@ -85,7 +85,7 @@
 				</ul>
 				<p>Estuaries are also among the most biologically productive ecosystems on earth, supporting Washington&rsquo;s multi-million dollar shellfish, fishing and estuary-dependent tourism and recreation industries.</p>
 <h2>HOW ARE PUGET SOUND ESTUARIES BEING THREATENED</h2>
-				<p>The <a href="* https://sites.google.com/site/pressureassessment/home">Puget Sound Pressure Assessment</a> identified 47 stressors affecting Puget Sound, including shoreline hardening, land cover conversion, sea level rise, changes in water flow and quality, pollution, and many more. These stressors threaten plants, fish, shellfish and wildlife; disrupt food webs; degrade and/or reduce aquatic and land habitat; and increase levels of toxic contaminants. </p>
+				<p>The <a href=" https://sites.google.com/site/pressureassessment/home">Puget Sound Pressure Assessment</a> identified 47 stressors affecting Puget Sound, including shoreline hardening, land cover conversion, sea level rise, changes in water flow and quality, pollution, and many more. These stressors threaten plants, fish, shellfish and wildlife; disrupt food webs; degrade and/or reduce aquatic and land habitat; and increase levels of toxic contaminants. </p>
 				<h2>HOW IS THE NEP WORKING TO RECOVERY ESTUARIES?</h2>
 				<p>National Estuary Program funding has helped the region build capacity, grounded in strong, local partnerships among state agencies, federal agencies, tribes, local governments, community partners and supporters. This shared commitment to hard work, innovation and collaboration has advanced progress toward ecosystem recovery targets and created a durable foundation for future recovery efforts.</p>
 <!-- InstanceEndEditable -->

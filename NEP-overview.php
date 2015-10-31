@@ -121,7 +121,7 @@
 				</ul>
 				<p>Together with the Environmental Protection Agency, lead organizations have worked tirelessly to maximize and leverage National Estuary Program dollars, and seek tangible on-the-ground results. </p>
 				<h2>The National Estuary Program and Puget Sound recovery</h2>
-				<p>Puget Sound recovery is governed by the Action Agenda, a comprehensive conservation and management plan that outlines the regional strategies and specific actions needed to recover the second largest estuary in the country. Progress is tracked through more than twenty Vital Signs, indicators with specific recovery targets that help the region measure progress. </p><p>
+				<p>Puget Sound recovery is governed by the Action Agenda, a comprehensive conservation and management plan that outlines the regional strategies and specific actions needed to recover the second largest estuary in the country. Progress is tracked through more than 20 Vital Signs, indicators with specific recovery targets that help the region measure progress. </p><p>
 				Since 2010, the Puget Sound National Estuary Program has supported innovation and the wisdom of local communities who know their ecosystems best, advancing Puget Sound recovery in creative and sometimes unexpected ways. This federal funding source has helped hundreds of projects align and expand their efforts to recover Puget Sound. Now, the region is better positioned to accelerate the pace of recovery and address persistent threats.<strong></strong></p>
 <!-- InstanceEndEditable -->
 		</div>

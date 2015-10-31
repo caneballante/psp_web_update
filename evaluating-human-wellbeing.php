@@ -87,8 +87,8 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="#">PSEMP Website</a></li>
-					<li role="presentation"> <a href="#">Puget Sound Vital Signs</a></li>
+					<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
+					<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
 				
 						<!-- InstanceEndEditable -->
 					</ul>
@@ -98,12 +98,13 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="#">Eyes Over Puget Sound</a></li>
-					<li role="presentation"> <a href="#">NW Association of Networked Ocean Observing Systems (NANOOS)
+					<li class="active" role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/mar_wat/surface.html">Eyes Over Puget Sound</a></li>
+					<li role="presentation"> <a href="http://www.nanoos.org/">NW Association of Networked Ocean Observing Systems (NANOOS)
 </a></li>
-					<li role="presentation"> <a href="#">WDFW Salmon and Steelhead Inventory</a></li>
-					<li role="presentation"> <a href="#">WA Dept of Ecology – Environmental Assessment Program</a></li>
-					<li role="presentation"> <a href="#">PNAMP</a></li>
+					<li role="presentation"> <a href="http://wdfw.wa.gov/conservation/fisheries/sasi/">WDFW Salmon and Steelhead Inventory</a></li>
+					<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology – Environmental Assessment Program</a></li>
+					<li role="presentation"> <a href="http://www.pnamp.org/">PNAMP</a></li>
+					<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -112,12 +113,12 @@
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="#">2015 State of the Sound</a></li>
-					<li role="presentation"> <a href="#">Marine Waters Overview Reports</a></li>
-					<li role="presentation"> <a href="#">Encyclopedia of Puget Sound</a></li>
-					<li role="presentation"> <a href="#">State of the Salmon</a></li>
-					<li role="presentation"> <a href="#">State of the Watersheds</a></li>
-					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>
+						<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
+					<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
+					
+					<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
+			<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
+					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
