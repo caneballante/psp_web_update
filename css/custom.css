@@ -1,43 +1,34 @@
 @charset "UTF-8";
-
 body {
 	font-family: 'prenton', san-serif;
 	background-color: #FFF;
 	color: #333;
 }
+
 @media print {
-	body {
-      
-     background: #fff;
-	  color: #000;
-   }
+body {
+	background: #fff;
+	color: #000;
+}
 }
 html {
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 }
-
 /*this is part of type-kit - hides the font until it's loaded - FOUT*/
-.wf-loading h1,h2 {
-    font-family: 'prenton', san-serif;
-    visibility: hidden;
- }
-  
-.wf-active h1,h2 {
-    visibility: visible;
- }
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    margin: 20px 0 10px 0;
-    text-transform: uppercase;
-    font-family: 'prenton', san-serif;
-    font-weight: 100;
-    letter-spacing: 1px;
+.wf-loading h1, h2 {
+	font-family: 'prenton', san-serif;
+	visibility: hidden;
+}
+.wf-active h1, h2 {
+	visibility: visible;
+}
+h1, h2, h3, h4, h5, h6 {
+	margin: 20px 0 10px 0;
+	text-transform: uppercase;
+	font-family: 'prenton', san-serif;
+	font-weight: 100;
+	letter-spacing: 1px;
 }
 a {
 	color: #00549a;
@@ -45,18 +36,18 @@ a {
 }
 /*adds external link icon*/
 a[href^="http"] {
-   background: url(../images/external_link_icon.gif) left no-repeat;
-   padding-left: 20px;
+	background: url(../images/external_link_icon.gif) left no-repeat;
+	padding-left: 20px;
 }
 /*added as a way to remove the icon in special cases. Used on the social icons*/
 .light-icon a[href^="http"] {
-  background: url(../images/external_link_icon-light.gif) left no-repeat;
-   padding-left: 20px;
+	background: url(../images/external_link_icon-light.gif) left no-repeat;
+	padding-left: 20px;
 }
 /*added as a way to remove the icon in special cases. Used on the social icons*/
 .no-icon a[href^="http"] {
-   background: none;
-   padding-left: 0px;
+	background: none;
+	padding-left: 0px;
 }
 /*created this to make some email addresses smaller to fit in a table on the lead entities page*/
 .small-links {
@@ -65,75 +56,72 @@ a[href^="http"] {
 .bold-link a {
 	color: #00A4F6;
 	font-size: 13px;
-	font-weight:900;
+	font-weight: 900;
 }
 /*add this style to links that are on the dark blue background*/
-.light-blue-links a{
+.light-blue-links a {
 	color: #1590cd;
 }
 #home-squares a {
 	font-size: 14px;
-	font-weight:100;
+	font-weight: 100;
 }
-.learn-more-box a{
-	color:#fff;
-	font-size:18px;
+.learn-more-box a {
+	color: #fff;
+	font-size: 18px;
 }
-.learn-more-box a:hover{
+.learn-more-box a:hover {
 	text-decoration: none;
 }
- 
 h1 {
 	font-size: 30px;
 	font-weight: 100;
 }
+
 /* page-content class is ueed so I can specifically target h1 children in the content areas of inside pages. I'm centering them for mobile*/
-@media (max-width: 992px){
+@media (max-width: 992px) {
 .page-content h1 {
-	text-align:center;
+	text-align: center;
 }
 }
 h2 {
 	font-size: 16px;
 	font-weight: 900;
 	/*border-bottom: solid #777 1px;*/
-	margin-top:50px;
-	padding-bottom:25px;
-	margin-bottom:0px;
+	margin-top: 50px;
+	padding-bottom: 25px;
+	margin-bottom: 0px;
 }
-
-
 h3 {
 	font-size: 12px;
 	font-weight: 900;
 }
 p {
-	font-size:15px;
-	line-height:1.8;
-	font-family:georgia, times, serif;
+	font-size: 15px;
+	line-height: 1.8;
+	font-family: georgia, times, serif;
 }
 /* ul, ol, and a styles nested in "content-column" to keep them seperate from all the navigation styles */
-.content-column ul,ol {
-	font-size:15px;
-	line-height:1.8;
-	font-family:georgia, times, serif;
+.content-column ul, ol {
+	font-size: 15px;
+	line-height: 1.8;
+	font-family: georgia, times, serif;
 }
 .content-column li {
 	padding: 0 0 10px 0;
 }
 .content-column a {
-	font-size:15px;
-	line-height:1.8;
-	font-family:georgia, times, serif;
+	font-size: 15px;
+	line-height: 1.8;
+	font-family: georgia, times, serif;
 }
-
 .white_fill {
 	background-color: #fff;
 }
 .green-fill {
 	background-color: #C6B42F;
 }
-.light-blue-fill{
+.light-blue-fill {
 	background-color: #51748d;
 }
 .blue-fill {
@@ -152,7 +140,7 @@ p {
 	color: #555;
 }
 /*padding all*/
-.padding-10-all{
+.padding-10-all {
 	padding: 10px 10px 10px 10px;
 }
 /*padding top*/
@@ -219,8 +207,9 @@ p {
 .padding-50-left {
 	padding-left: 50px;
 }
-@media (max-width: 992px){
-.mobile-padding-20-left{
+
+@media (max-width: 992px) {
+.mobile-padding-20-left {
 	padding-left: 20px;
 }
 }
@@ -258,355 +247,328 @@ p {
 }
 /*align*/
 .align-right {
-	text-align:right;
+	text-align: right;
 }
 .align-left {
-	text-align:left;
+	text-align: left;
 }
 .align-center {
-	text-align:center;
+	text-align: center;
 }
 .auto-size {
-	width:100%;
-	height:auto;
+	width: 100%;
+	height: auto;
 }
-
-
+/*width helpers*/
 .width-200 {
-	width:200px;
-	margin:auto;
+	width: 200px;
+	margin: auto;
 }
-.width-300{
-	width:300px;
-	margin:auto;
+.width-300 {
+	width: 300px;
+	margin: auto;
 }
-.width-400{
-	width:400px;
-	margin:auto;
+.width-400 {
+	width: 400px;
+	margin: auto;
 }
-
 .width-500 {
-	width:500px;
-	margin:auto;
+	width: 500px;
+	margin: auto;
 }
-
-
 /*news boxes on homepage*/
-.newsbox{
-	height:148px;
-	background-color:#0a3b5c;
-	color:#ffffff;
-	margin-top:20px;
+.newsbox {
+	height: 148px;
+	background-color: #0a3b5c;
+	color: #ffffff;
+	margin-top: 20px;
 }
+
 /* make the news boxes a little shorter on mobile*/
-@media (max-width: 992px){
-	.newsbox{
-	height:120px;
+@media (max-width: 992px) {
+.newsbox {
+	height: 120px;
 }
 }
 /*hover color for the newsbox div - jquery makes it clickable*/
-.newsbox:hover{
+.newsbox:hover {
 	background-color: rgba(245,180,50,1.00);
-	
 }
 .newsbox a {
 	color: #1590cd;
 }
 .newsbox-date {
-	height:45px;
-	width:54px;
+	height: 45px;
+	width: 54px;
 	background-color: rgba(245,180,50,1.00);
-	text-align:center;
-	font-size:16px;
-	line-height:16px;
-	padding-top:7px;
-	padding-bottom:7px;
+	text-align: center;
+	font-size: 16px;
+	line-height: 16px;
+	padding-top: 7px;
+	padding-bottom: 7px;
 	letter-spacing: 1px;
 }
 .newsbox-text {
-	margin-top:10px;
-	padding:10px;
-	font-size:12px;
-	font-weight:900px;
+	margin-top: 10px;
+	padding: 10px;
+	font-size: 12px;
+	font-weight: 900px;
 	letter-spacing: 1px;
-	}
+}
 /*Highlight a piece of content in a blue box!*/
 .highlightbox {
 	background-color: rgba(227,237,249,1.00);
 	border-radius: 1px 30px 1px 30px;
 	padding: 10px;
 }
-.highlightbox h2{
-	color:#0a3b5c;
-	padding-bottom:5px;
+.highlightbox h2 {
+	color: #0a3b5c;
+	padding-bottom: 5px;
 }
 /* for adding a "new" to a announcement*/
 .new-red {
-	font-weight:900;
-	color:#D12023;
+	font-weight: 900;
+	color: #D12023;
 }
-
-
 /* Added to the main nav when it scrolls 9-28-15*/
 .navbar-default {
-    padding: 0;
-    background: rgba(9,57,93,1);
-	border:none;
+	padding: 0;
+	background: rgba(9,57,93,1);
+	border: none;
 }
-
 /*using this instead of the jumbotron - pulled CSS from the gray theme 9-28-15*/
 .intro {
-    display: table;
-    width: 100%;
-    height: 600px;
-    padding: 100px 0;
-    text-align: center;
-    color: #fff;
-    background: url(../images/home_image5.jpg)no-repeat bottom center scroll;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+	display: table;
+	width: 100%;
+	height: 600px;
+	padding: 100px 0;
+	text-align: center;
+	color: #fff;
+	background: url(../images/home_image5.jpg)no-repeat bottom center scroll;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
 }
-
 .intro .intro-body {
-    display: table-cell;
-    vertical-align: middle;
+	display: table-cell;
+	vertical-align: middle;
 }
-
 /*sets text size on the jumbotron*/
 intro .brand-heading {
-    font-size: 40px;
+	font-size: 40px;
 }
-
 .intro .learn-more-box {
-	width:150px;
-	display:block;
-	border:solid #fff 1px;
+	width: 150px;
+	display: block;
+	border: solid #fff 1px;
 	margin: 0 auto;
-	border-radius:5px
+	border-radius: 5px
 }
 /* fixes the z index on the modal so it's not greyed out 9-28-15*/
- .modal-backdrop.in { z-index: auto;}
-
+.modal-backdrop.in {
+	z-index: auto;
+}
 /*modal customization 9-30-15*/
 .modal-custom {
-	background-color:#0a3b5c;
+	background-color: #0a3b5c;
 }
-
 .modal-header-custom {
-	border:none;
+	border: none;
 }
-
 .modal-title-custom {
 	color: #ffffff;
 }
 .modal-body-custom {
 	color: #ffffff;
-	text-align:center;
+	text-align: center;
 }
-
 .modal-body-custom h1 {
-	font-size:20px;
-	font-weight:900;
-	letter-spacing:2px;
+	font-size: 20px;
+	font-weight: 900;
+	letter-spacing: 2px;
 	padding: 30px 0px 15px 0px;
 }
-
 .modal-body-custom p {
-	font-family:'prenton', san-serif;
-	font-size:15px;
-	font-weight:100;
-	letter-spacing:2px;
-	line-height:30px;
+	font-family: 'prenton', san-serif;
+	font-size: 15px;
+	font-weight: 100;
+	letter-spacing: 2px;
+	line-height: 30px;
 }
 /*blue link color needs to be lighter on the dark blue*/
 #myModal a {
 	color: #1590cd;
 	font-size: 16px
 }
-
 /*the search text turns white from modal-body-custom I turn it black here*/
 .search-custom {
-	color:#000;
-	text-align:left;
-	width:30%;
-	margin:auto;
+	color: #000;
+	text-align: left;
+	width: 30%;
+	margin: auto;
 }
+
 /*search bar is too skinny on the phone*/
-@media (max-width: 768px){
+@media (max-width: 768px) {
 .search-custom {
-	width:90%;
+	width: 90%;
 }
 }
 /*the little x button to dismiss the dialog needs to be white*/
 .close-custom {
-	color:#ffffff;
+	color: #ffffff;
+}
+.close:hover, .close:focus {
+	color: #1590cd;
 }
 
-.close:hover,
-.close:focus {
-  color: #1590cd;
-}
 /*Makes the modal main menu fullscreen on anything over 768*/
-@media (min-width: 768px){
+@media (min-width: 768px) {
 .modal-dialog-custom {
-    width: auto;
-    margin: auto;	
+	width: auto;
+	margin: auto;
 }
-}*
-/*this centers the modal seperators between sections. They needed img-responsive so they didn't poke out of the modal when small. This caused them to align left. the css is a fix to align them center*/
+}
+* /*this centers the modal seperators between sections. They needed img-responsive so they didn't poke out of the modal when small. This caused them to align left. the css is a fix to align them center*/
 .custom-modal-center-fix {
-    margin: 0 auto;
+	margin: 0 auto;
 }
-	
 /*section overview pages with photos on top use this for the image 10-1-15 */
  
 .overview-page-image1 {
-	 background: url(../images/inside_image_1.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_1.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image2 {
-	 background: url(../images/inside_image_2.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_2.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image3 {
-	 background: url(../images/inside_image_3.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_3.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image4 {
-	 background: url(../images/inside_image_4.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_4.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image5 {
-	 background: url(../images/inside_image_5.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_5.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image6 {
-	 background: url(../images/inside_image_6.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_6.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image7 {
-	 background: url(../images/inside_image_7.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_7.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image8 {
-	 background: url(../images/inside_image_8.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_8.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image9 {
-	 background: url(../images/inside_image_9.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_9.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image10 {
-	 background: url(../images/inside_image_10.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_10.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image11 {
-	 background: url(../images/inside_image_11.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_11.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image12 {
-	 background: url(../images/inside_image_12.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_12.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image13 {
-	 background: url(../images/inside_image_13.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_13.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image14 {
-	 background: url(../images/inside_image_14.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_14.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image15 {
-	 background: url(../images/inside_image_15.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_15.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image16 {
-	 background: url(../images/inside_image_16.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_16.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image17 {
-	 background: url(../images/inside_image_17.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_17.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image18 {
-	 background: url(../images/inside_image_18.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_18.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image19 {
-	 background: url(../images/inside_image_19.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_19.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image20 {
-	 background: url(../images/inside_image_20.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_20.jpg)no-repeat bottom center scroll;
 }
-
 .overview-page-image75 {
-	 background: url(../images/inside_image_75.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_75.jpg)no-repeat bottom center scroll;
 }
-
 .overview-page-image76 {
-	 background: url(../images/inside_image_76.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_76.jpg)no-repeat bottom center scroll;
 }
-
 .overview-page-image77 {
-	 background: url(../images/inside_image_77.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_77.jpg)no-repeat bottom center scroll;
 }
-
 .overview-page-image78 {
-	 background: url(../images/inside_image_78.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_78.jpg)no-repeat bottom center scroll;
 }
-
 .overview-page-image79 {
-	 background: url(../images/inside_image_79.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_79.jpg)no-repeat bottom center scroll;
 }
-
 .overview-page-image80 {
-	 background: url(../images/inside_image_80.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_80.jpg)no-repeat bottom center scroll;
 }
-
 .overview-page-image81 {
-	 background: url(../images/inside_image_81.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_81.jpg)no-repeat bottom center scroll;
 }
-
 .overview-page-image82 {
-	 background: url(../images/inside_image_82.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_82.jpg)no-repeat bottom center scroll;
 }
-
 .overview-page-image83 {
-	 background: url(../images/inside_image_83.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_83.jpg)no-repeat bottom center scroll;
 }
-
 .overview-page-image84 {
-	 background: url(../images/inside_image_84.jpg)no-repeat bottom center scroll;
+	background: url(../images/inside_image_84.jpg)no-repeat bottom center scroll;
 }
 .overview-page-image-style {
-    width: 100%;
-    height: 500px;
-    padding: 0;
-    color: #fff;
-    background-color: #000;
- 	-webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+	width: 100%;
+	height: 500px;
+	padding: 0;
+	color: #fff;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
 }
+
 /*turns off top image for all pages on print*/
 @media print {
 .overview-page-image-style {
-    display:none;
-  	 }
+	display: none;
+}
 }
 .overview-quote {
-	width:20%;
-	margin:0px 50px 0px  0px;
+	width: 20%;
+	margin: 0px 50px 0px 0px;
 	/*this little tidbit controls the vertical positioning*/
 	position: relative;
-    top: 90%;
-   	transform: translateY(-90%);
+	top: 90%;
+	transform: translateY(-90%);
 }
 .overview-quote h3 {
-	font-size:14px;
-	color:#fff;
+	font-size: 14px;
+	color: #fff;
 	text-shadow: 1px 1px 2px #000;
 	font-weight: 100;
 }
-	
-
 /*left nav*/
 .nav-leftside-custom {
-	font-size:10px;
-	text-align:right;
+	font-size: 10px;
+	text-align: right;
 }
 
-
 /*makes the left nav centered on small screens*/
-@media (max-width: 992px){
-	.nav-leftside-custom {
-	text-align:center;
+@media (max-width: 992px) {
+.nav-leftside-custom {
+	text-align: center;
 }
 }
 /*turns off top nav for all pages on print - NOT SURE WHETHER TO KEEP THIS
@@ -618,48 +580,44 @@ intro .brand-heading {
 */
 /*right nav*/
 
-.right-nav-title{
-	font-size:12px;
-	font-weight:900;
-	font-style:italic;
-	padding-bottom:5px;
-	border-bottom:solid 1px #555;
+.right-nav-title {
+	font-size: 12px;
+	font-weight: 900;
+	font-style: italic;
+	padding-bottom: 5px;
+	border-bottom: solid 1px #555;
 }
-
 .nav-rightside-custom {
-	font-size:13px;
-	padding:0;
-	margin:0;
+	font-size: 13px;
+	padding: 0;
+	margin: 0;
 }
-
-.nav-rightside-custom li{
+.nav-rightside-custom li {
 	list-style-type: none;
 	margins: 0;
 	padding: 5px 0 5px 0;
-	border-bottom:solid 1px #555;
+	border-bottom: solid 1px #555;
 }
-
-.right-nav-contact{
-	font-size:12px;
+.right-nav-contact {
+	font-size: 12px;
 }
 /*left nav customization of bootstrap nav class*/
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
-    font-weight:700;
+	font-weight: 700;
 	color: #0a3b5c;
-    background-color: #fff;
+	background-color: #fff;
 }
-
 /*SITE MAP STYLES*/
-.sitemap ul{
+.sitemap ul {
 	list-style-type: none;
 }
-.sitemap ul li{
+.sitemap ul li {
 	padding-bottom: 3px;
 }
-.sitemap ul li a{
-	font-size:10px;
+.sitemap ul li a {
+	font-size: 10px;
 }
 .sitemap-subheads {
-	font-size:10px;
-	padding-top:10px;
+	font-size: 10px;
+	padding-top: 10px;
 }
