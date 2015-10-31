@@ -32,7 +32,7 @@
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
+<!-- InstanceParam n`ame="OptionalRegion2" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
@@ -78,9 +78,9 @@
 
 			<p>
 					
-					On an annual basis, each of the watershed groups representing the fourteen watershed chapters of the Puget Sound Salmon Recovery Plan develop three-year work program updates to describe the watershed’s accomplishments during the previous year, identify the current status of recovery actions, and to propose future actions in the next three years necessary to implement the Salmon Recovery Plan. These work programs are intended to provide a road map for policy and technical decision makers across the Puget Sound region on priorities for implementing the salmon recovery plan, inform and support funding requests, and establish a recovery trajectory within each watershed and the region.  </p>
+					On an annual basis, each of the watershed groups representing the fifteen watershed chapters of the Puget Sound Salmon Recovery Plan develop four-year work program updates to describe the watershed’s accomplishments during the previous year, identify the current status of recovery actions, and to propose future actions in the next four years necessary to implement the Salmon Recovery Plan. These work programs are intended to provide a road map for policy and technical decision makers across the Puget Sound region on priorities for implementing the salmon recovery plan, inform and support funding requests, and establish a recovery trajectory within each watershed and the region.  </p>
 		
-<p>Each year, a regional technical and policy review of each watershed’s three-year work plan update is conducted to evaluate the consistency of actions with the Recovery Plan, as well as to provide support at both the watershed and regional scale for implementation.  The information below includes the three-year work plan updates and regional reviews for each watershed area since 2008. 
+<p>Each year, a regional technical and policy review of each watershed’s four-year work plan update is conducted to evaluate the consistency of actions with the Recovery Plan, as well as to provide support at both the watershed and regional scale for implementation.  The information below includes the three-year work plan updates and regional reviews for each watershed area since 2008. 
 		
 		<br />
 		</p>
