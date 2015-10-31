@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Puget Sound Pressures Assessment</title>
 <!-- InstanceEndEditable -->
@@ -12,8 +11,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
-
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -38,13 +35,18 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image1"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -57,16 +59,13 @@
 	<div class="row"> 
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-			<!-- InstanceBeginEditable name="left_nav" -->
+				<!-- InstanceBeginEditable name="left_nav" -->
 						<?php include 'includes/ln-science-basis.html';?>	
-			<!-- InstanceEndEditable --> 
+			<!-- InstanceEndEditable -->
 			</ul>
-		
 		</div>
-			
-	
-		<div class="col-sm-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
+		 
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<p>The Puget Sound Pressures Assessment, or PSPA, offers a tool to better understand the pressures on the Sound&rsquo;s freshwater, marine-nearshore, and terrestrial resources. It also helps us to identify the critical ecosystem vulnerabilities that should be addressed if we are to achieve sustainable, long-term protection and recovery.<br>
 			<br>
 To support shared learning and collaboration among partners and across projects, the Partnership has developed two taxonomies describing the <u>sources of pressure </u>and related <u>stressors</u> on the Puget Sound ecosystem. </p>
@@ -74,49 +73,41 @@ To support shared learning and collaboration among partners and across projects,
 		<p>Results and more information are available at the project web site: &nbsp; <a href="https://sites.google.com/site/pressureassessment/home">https://sites.google.com/site/pressureassessment/home</a></p>
 <p>&nbsp;</p>
 </p>
-		<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-sm-2 padding-20-top padding-0-right"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+		<!-- InstanceEndEditable --> </div>
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title">SEE ALSO</div>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li role="presentation"> <a href="SP_about.php">Open Standards</a></li>
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li class="active" role="presentation"> <a href="http://www.conservationmeasures.org/" target="new">Conservation Measures Partnership</a></li>
 
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li><a href="#">2014 PSPA Final Report</a></li>
 					<li><a href="#">2014 PSPA Methodology Tech Memo</a></li>
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-		</div>
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -124,8 +115,8 @@ To support shared learning and collaboration among partners and across projects,
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -136,6 +127,5 @@ To support shared learning and collaboration among partners and across projects,
   ga('send', 'pageview');
 
 </script>
-
 </body>
 <!-- InstanceEnd --></html>

@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Ecoysystem Coordination Board Members</title>
 <!-- InstanceEndEditable -->
@@ -12,8 +11,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
-
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -34,13 +31,18 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -53,7 +55,7 @@
 	<div class="row"> 
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-			<!-- InstanceBeginEditable name="left_nav" -->
+				<!-- InstanceBeginEditable name="left_nav" -->
 				<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
 				<li role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
 				<li role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
@@ -64,14 +66,11 @@
 				<li role="presentation"> <a href="SR_about.php">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
 				<li role="presentation"> <a href="SR_meetings.php">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
 	
-			<!-- InstanceEndEditable --> 
+			<!-- InstanceEndEditable -->
 			</ul>
-		
 		</div>
-			
-	
-		<div class="col-sm-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
+		 
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 						<p>The Puget Sound Partnership is the state agency charged with overseeing the restoration of Puget Sound. This work requires the Partnership to compile, assess, collect, and report on environmental and other data and technical information. The Partnership also uses this data and technical information to inform the public, make decisions, recommend actions, measure performance, and track implementation.</p>
 						<p>The Puget Sound Partnership’s Quality Management Plan describes the agency’s processes and policies to ensure that the quality of the data and technical information that is gathered corresponds with the actions and decisions undertaken by the Partnership.</p>
@@ -89,32 +88,26 @@
 								<li><a href="downloads/2014_qmp/Appx G Delegation of Authority (RCW 39.26.090).pdf" style="font-weight: bold">Appx G Delegation of Authority (RCW 39.26.090)</a></li>
 						</ul>
 						<p style="font-weight: bold"><a href="downloads/2014_qmp/Guidelines for scientific review_Jan 25 FINAL.pdf">Guidelines for Scientific Review</a></p>
-		<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-sm-2 padding-20-top padding-0-right"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+		<!-- InstanceEndEditable --> </div>
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 						<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
 				<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
 Special Assistant,<br>
  360.628.2423</p>
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-		</div>
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -122,8 +115,8 @@ Special Assistant,<br>
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -134,6 +127,5 @@ Special Assistant,<br>
   ga('send', 'pageview');
 
 </script>
-
 </body>
 <!-- InstanceEnd --></html>

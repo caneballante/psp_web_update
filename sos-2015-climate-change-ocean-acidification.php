@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - State of the Sound</title>
 <!-- InstanceEndEditable -->
@@ -12,8 +11,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
-
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -38,6 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -48,7 +46,11 @@
 		<h3></h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -61,16 +63,13 @@
 	<div class="row"> 
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-			<!-- InstanceBeginEditable name="left_nav" -->
+				<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-sos.html';?>
-				<!-- InstanceEndEditable --> 
+				<!-- InstanceEndEditable -->
 			</ul>
-		
 		</div>
-			
-	
-		<div class="col-sm-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
+		 
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<h3 class="margin-0-top">TWO FORCES TO BE RECKONED WITH</h3>
 			<p><a name="cc"></a>Puget Sound is facing unprecedented environmental changes. Not only is there evidence for a changing climate in the Pacific Northwest, but the global ocean that influences Puget Sound is undergoing acidification. Environmental changes associated with climate change and ocean acidification will continue, although there are still many unknowns that remain to be addressed. Climate change and ocean acidification have the potential to profoundly affect ecosystems, and many, if not all, of the Vital Signs are likely to be affected in one way or another.</p>
 			<h3>Climate change</h3>
@@ -150,55 +149,47 @@
 			<p>Direct changes to marine water quality will occur as seawater pH declines and corrosiveness increases. These changes will alter biological communities in Puget Sound. Species that build shells or other internal structures from calcium, such as molluscs, crustaceans, and echinoderms are affected by corrosive conditions, with negative consequences on shell formation, survivorship, or reproduction. Of the species likely to be affected, molluscs have so far received the most attention. Laboratory tests have shown impacts on Olympia oysters, pteropods (also known as sea angels and sea butterflies), red urchins, and northern abalone. Combining two or more stressors—for example, high temperature and low pH or aragonite saturation state—can cause more harm than either stressor alone. While most marine organisms can tolerate a range of environmental conditions, at some point their tolerance fails. Evidence of conditions in Puget Sound that exceed the tolerance of some native species—pteropods, for instance—have been detected.</p>
 			<p>Corrosive conditions are particularly of concern to the shellfish industry in Puget Sound, which depends on good water quality to grow oysters, clams, and mussels. Already, this industry has had to make changes to its culture practices to adapt to lower pH water.</p>
 			<p>Ecosystem-based models suggest that changes to crustacean abundance—especially copepods, a kind of zooplankton—will have a strong impact on overall food web structure. Not only would Vital Sign indicators such as the Marine Water Condition Index and harvestable shellfish beds be among those impacted by ocean acidification, but also planktivorous forage fish and those species higher up in the food web, such as salmon and marine birds that depend on forage fish for food. </p>
-			<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-sm-2 padding-20-top padding-0-right"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			<!-- InstanceEndEditable --> </div>
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">ON THIS PAGE</div>
 			<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 						<li role="presentation"> <a href="#cc">Climate Change</a></li>
 				<li role="presentation"> <a href="#oa">Ocean Acidification</a></li>
 				<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-20-top ">RELATED DOWNLOADS</div>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li role="presentation"> <a href="https://pspwa.box.com/2015-vitalsigns-table" target="_blank">Vital Signs Progress Summary</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-indicator-table" target="_blank">Vital Sign Indicators' Category of Progress</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="http://cses.washington.edu/cig/" target="_blank">Climate Change Institute</a></li>
 				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-		</div>
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -206,8 +197,8 @@
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -218,6 +209,5 @@
   ga('send', 'pageview');
 
 </script>
-
 </body>
 <!-- InstanceEnd --></html>

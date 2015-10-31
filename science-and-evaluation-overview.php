@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Science and Evaluation Overview</title>
 <!-- InstanceEndEditable -->
@@ -12,8 +11,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
-
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -34,13 +31,18 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image1"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
@@ -49,10 +51,8 @@
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
-	<div class="row"> 
-	
-		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
-		<!-- InstanceBeginEditable name="9col_content" -->
+	<div class="row">  
+		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<h2 class="margin-0-top">EVALUATING RECOVERY </h2>
 			<p>Central to the science-based recovery of Puget Sound is the development and use of a shared system of measurement and evaluation that allows assessment of ecosystem health, implementation of recovery actions, and determination of how recovery efforts affect ecosystem conditions. The Puget Sound Partnership coordinates this assessment activity and summarizes findings in the State of the Sound report. Coordination and reporting help to hold us accountable to one another, convey the impacts of actions and investments, and provide the information that fuels adaptation of recovery efforts.</p>
 			<div class="padding-50-left"><h2>Evaluating the health of Puget Sound </h2>
@@ -65,20 +65,15 @@
 			<p>Every 2 years, the Partnership develops reports on the State of the Sound to summarize the findings from ecosystem monitoring program and the progress in implementing the Action Agenda. See the 2015 State of the Sound. <a href="sos.php">Learn more </a></p></div>
 	<h2>SCIENCE BASIS OF RECOVERY</h2>
 			<p>Scientific information guides the region’s work to design and carry out efforts to recover the Puget Sound ecosystem. Scientific processes help us understand how to proceed in the face of profound uncertainties about how the ecosystem responds to stresses and management interventions. The Puget Sound Partnership Science Panel and science & evaluation program provide guidance about how to apply scientific information and processes to foster ecosystem recovery.<a href="science-basis-of-recovery-overview.php"> Learn more</a></p>
-		<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-sm-2 padding-20-top padding-0-right"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
-		</div>
+		<!-- InstanceEndEditable --> </div>
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -86,8 +81,8 @@
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -98,6 +93,5 @@
   ga('send', 'pageview');
 
 </script>
-
 </body>
 <!-- InstanceEnd --></html>

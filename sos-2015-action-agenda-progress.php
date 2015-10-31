@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - State of the Sound</title>
 <!-- InstanceEndEditable -->
@@ -12,8 +11,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
-
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -38,6 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -48,7 +46,11 @@
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -61,16 +63,13 @@
 	<div class="row"> 
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-			<!-- InstanceBeginEditable name="left_nav" -->
+				<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-sos.html';?>
-				<!-- InstanceEndEditable --> 
+				<!-- InstanceEndEditable -->
 			</ul>
-		
 		</div>
-			
-	
-		<div class="col-sm-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
+		 
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p><a name="aaa"></a>While partners report that the majority of Near Term Actions are making favorable progress, many priority actions continue to face serious constraints. Lack of funding is our partners’ leading barrier to implementing Puget Sound recovery actions. </p>
 			<h3>About the Action Agenda</h3>
 			<p>The Action Agenda is a prioritized set of actions and programs for directing resources for Puget Sound recovery in an efficient and effective way. Hundreds of partners come together to plan, prioritize, and implement the actions needed to recover and sustain Puget Sound.</p>
@@ -148,16 +147,13 @@
 			<p><a name="em"></a>Local Integrating Organizations bolster consensus and provide momentum around locally relevant Puget Sound recovery actions, from a range of different local entities. These actors include, but are not limited to, local governments, tribes, private sector entities, watershed planning units, watershed councils, shellfish protection districts, conservation districts, regional fishery enhancement groups, marine resource committees (including those working with the Northwest Straits Commission) nearshore groups, and watershed lead entities, all working to implement the Action Agenda. <a href="sos-2015-lio.php">Learn about Local Integrating Organization accomplishments …</a></p>
 <h3>EFFECTIVENESS assessment</h3>
 			<p>Assessment of effectiveness of specific action or projects is another way the Partnership is able to measure Action Agenda implementation. This work answers a deeper question about how effective actions are and what the successes, challenges, or barriers are rather than simply whether they have been implemented or not. To date, the Partnership has evaluated several restoration projects for each of the three Strategic Initiatives: Shellfish Restoration in the Samish Basin; Estuary Restoration in the Nisqually, Snohomish, Skagit, and Skokomish river deltas; and Stormwater Pollution Reduction in the City of Seattle. <a href="sos-2015-effectiveness-monitoring.php" title="Effectiveness Monitoring">Learn more …</a></p>
-			<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-sm-2 padding-20-top padding-0-right"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			<!-- InstanceEndEditable --> </div>
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">ON THIS PAGE</div>
 			<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 						<li role="presentation"> <a href="#aaa">About the Action Agenda</a></li>
 				<li role="presentation"> <a href="#progress">Progress</a></li>
                 <li role="presentation"> <a href="#analyses">Analyses</a></li>
@@ -165,13 +161,12 @@
 				<li role="presentation"> <a href="#aas">Action Agenda Successes</a></li>
 				<li role="presentation"> <a href="#em">Effectiveness Assessment</a></li>
 				<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-20-top ">RELATED DOWNLOADS</div>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li role="presentation"><a href="https://pspwa.box.com/NTA-status-analysis" target="_blank">NTA Status Analysis</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/NTA-expenditure" target="_blank">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/HershmanFellowGraziano" target="_blank">Linkages Report</a></li>
@@ -179,13 +174,12 @@
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
@@ -193,17 +187,14 @@
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
 				<li role="presentation"> <a href="#strat">2014 Ecosystem Coordination Board Funding Strategy</a></li>
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-		</div>
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -211,8 +202,8 @@
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -223,6 +214,5 @@
   ga('send', 'pageview');
 
 </script>
-
 </body>
 <!-- InstanceEnd --></html>

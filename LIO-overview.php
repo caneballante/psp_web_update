@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Local Integrating Organizations Overview</title>
 <!-- InstanceEndEditable -->
@@ -12,8 +11,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
-
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -38,6 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -48,7 +46,11 @@
 
 
  </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -62,16 +64,13 @@
 	<div class="row"> 
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-			<!-- InstanceBeginEditable name="left_nav" -->
+				<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-local-recovery-efforts.html';?>	
-			<!-- InstanceEndEditable --> 
+			<!-- InstanceEndEditable -->
 			</ul>
-		
 		</div>
-			
-	
-		<div class="col-sm-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
+		 
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 						  <p>Local communities around the Puget Sound are working to integrate local efforts to advance the Action Agenda.  Local governments, tribes, non-profit organizations, watershed, marine resource, and salmon recovery groups, interest groups, businesses, educational organizations, and citizens are collaborating to develop and coordinate local integrating organizations that foster implementation of Action Agenda priorities.</p>
      <p>The local integrating organizations enable communities to guide the implementation of Action Agenda priorities at an ecosystem scale, and to prioritize local actions for investment. </p>
@@ -94,20 +93,15 @@
 <h2>5-year Recovery Planning</h2>
 <p>Between now and September 2016, LIOs are also working to build local, long-term recovery strategies from which high-priority recovery actions can be developed. Similar to the 2-year plans, these 5-year plans will mirror and contribute to Puget Sound Action Agenda updates and explain how LIOs are helping to advance regional progress on the Action Agenda’s 22 Vital Signs. <a href="LIO-5-year-plan.php">LEARN MORE </a></p>
 
-<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-sm-2 padding-20-top padding-0-right"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
-		</div>
+<!-- InstanceEndEditable --> </div>
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -115,8 +109,8 @@
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -127,6 +121,5 @@
   ga('send', 'pageview');
 
 </script>
-
 </body>
 <!-- InstanceEnd --></html>

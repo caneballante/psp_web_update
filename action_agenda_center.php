@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Action Agenda Overview</title>
 <!-- InstanceEndEditable -->
@@ -12,8 +11,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
-
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -34,13 +31,18 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image10"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
@@ -49,10 +51,8 @@
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
-	<div class="row"> 
-	
-		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
-		<!-- InstanceBeginEditable name="9col_content" -->
+	<div class="row">  
+		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<h2>What is the Action Agenda?</h2>
 			<p>The <strong>Puget Sound Action Agenda</strong> is our region's shared vision for Puget Sound recovery. It identifies key ongoing programs, local priority actions for the various areas of the Sound, and specific actions that must be implemented over the next 2 years to stay on track toward recovery. The Action Agenda results from a collaboration by state and federal agencies, tribal governments, local governments, business and environmental groups, and others. It also serves as the <a href="http://water.epa.gov/type/oceb/nep/index.cfm#ccmp">Comprehensive Conservation and Management Plan</a>, required by the U.S. Environmental Protection Agency for estuaries of national significance.</p>
 			<p>LEARN MORE ABOUT THE:</p>
@@ -68,33 +68,27 @@
 			<p>The Action Agenda includes a framework for tracking progress toward recovery, which provides feedback about the effectiveness of the Action Agenda. This feedback is used to adapt and adjust the Action Agenda every 2 years. In this way, the Action Agenda stays current and relevant to ever-changing environmental conditions.</p>
 			<p><img class="img-responsive" src="images/AA_2015_historical_timeline.jpg" width="600" height="456" alt=""/></p>
 			<p>How the Action Agenda has been updated and modified since 2008 has improved in many ways based on feedback from partners and on the results of science research and monitoring. A major change occurred this year that will help to make sure that future Action Agenda updates address local conditions more comprehensively than in the past. In early 2015, the Environmental Protection Agency announced a new model for how it will fund recovery actions in Puget Sound. </p>
-			<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-sm-2 padding-20-top padding-0-right"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			<!-- InstanceEndEditable --> </div>
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
 				<li role="presentation"><a href="2016_AA_update.php">2016 Action Agenda Update</a></li>
 				<li role="presentation">
 				<li role="presentation"><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
 				<a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
 				<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-		</div>
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -102,8 +96,8 @@
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -114,6 +108,5 @@
   ga('send', 'pageview');
 
 </script>
-
 </body>
 <!-- InstanceEnd --></html>

@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - State of the Sound</title>
 <!-- InstanceEndEditable -->
@@ -12,8 +11,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
-
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -38,6 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -46,7 +44,11 @@
 <header class="overview-page-image-style overview-page-image93"> 
 <div class="overview-quote pull-right"></div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -59,16 +61,13 @@
 	<div class="row"> 
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-			<!-- InstanceBeginEditable name="left_nav" -->
+				<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-sos-lio.html';?>
-			<!-- InstanceEndEditable --> 
+			<!-- InstanceEndEditable -->
 			</ul>
-		
 		</div>
-			
-	
-		<div class="col-sm-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
+		 
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<h3>City of Everett—Let it Rain—Green Stormwater Infrastructure Program</h3>
 		  <p><img class="pull-left img-responsive padding-10-right" src="images/rain-barrel.png" />The Let it Rain Program utilizes green infrastructure techniques to assist homeowners with managing rainwater on their property. This is particularly important because North Everett is a combined sewer system that during heavy rainfall events can exceed capacity at the wastewater treatment facility. The Let it Rain Program includes several activities to reduce stormwater flows. One aspect of the program is offering homeowners a rebate for installing approved rain gardens on their property. Other elements of the program include the use of rain barrels and, when viable, disconnecting downspouts and redirecting rainwater to a rain barrel or pervious surface.</p>
 		  <p>Working with partners such as the Snohomish Conservation District, and the Washington Conservation Corps, the City disconnected 184 downspouts at 90 homes, representing nearly 2.5 million gallons of water redirected from the combined sewer system to infiltration. The City and Conservation District also provided design support for 15 rain gardens, and reimbursed homeowners $2,500 each as a rebate toward installation of their rain gardens. Rain barrels were provided to City residents both in Make It and Take it Workshops, or Drive Thru and Buy events with 214 barrels distributed. The City also sponsored an artist&rsquo;s competition to decorate 12 rain barrels, and these were displayed at highly visible locations throughout the City to raise awareness before being auctioned on the Internet.</p>
@@ -79,16 +78,13 @@
 		<h3>Sound Salmon Solutions—Watershed Education for Decision Makers</h3>
 	    <p>Sound Salmon Solutions&rsquo; project team interviewed 17 stakeholders, including seven elected officials and decision makers, to gather diverse community input on the program framework and goals.&nbsp;Research into adult learning was incorporated into the program design.&nbsp;A compendious, customizable curriculum document to support a field-based education program was then developed.&nbsp;The document was reviewed and evaluated by 17 individuals&nbsp;with specific expertise, including four who were interviewed initially, to ensure accuracy and completeness of the material. To complete the project, funding for piloting and revisions to the program is needed.</p>
         <img class="img-responsive" src="images/stilly.png" />
-<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-sm-2 padding-20-top padding-0-right"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+<!-- InstanceEndEditable --> </div>
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li role="presentation"><a href="https://pspwa.box.com/NTA-status-analysis" target="_blank">NTA Status Analysis</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/NTA-expenditure" target="_blank">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/HershmanFellowGraziano" target="_blank">Linkages Report</a></li>
@@ -96,17 +92,14 @@
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-		</div>
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -114,8 +107,8 @@
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -126,6 +119,5 @@
   ga('send', 'pageview');
 
 </script>
-
 </body>
 <!-- InstanceEnd --></html>

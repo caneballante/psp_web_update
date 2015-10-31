@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - State of the Sound</title>
 <!-- InstanceEndEditable -->
@@ -12,8 +11,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
-
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -38,6 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -48,7 +46,11 @@
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -61,16 +63,13 @@
 	<div class="row"> 
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-			<!-- InstanceBeginEditable name="left_nav" -->
+				<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-sos.html';?>
-				<!-- InstanceEndEditable --> 
+				<!-- InstanceEndEditable -->
 			</ul>
-		
 		</div>
-			
-	
-		<div class="col-sm-7 padding-20-top content-column">
-		<!-- InstanceBeginEditable name="6col_content" -->
+		 
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p><a name="avs"></a>The majority of Vital Sign indicators are, at best, only slowly changing. Few are at—or even within reach of—their 2014 interim targets. Therefore, there is little evidence they are on a trajectory to reach the 2020 targets. However, there has been some progress in some indicators and at more local scales. While more and more habitat is restored incrementally each year and water quality measures are showing improvements in some localities, the health of salmon, orca and other native populations are not getting any better, and will take decades of consistent effort to stabilize. </p>
 			<h3>ABOUT THE PUGET SOUND VITAL SIGNS</h3>
 			<p>The Puget Sound Vital Signs are measures that the Puget Sound Partnership chose to gauge the health of Puget Sound. Vital Signs help report on progress toward the six Puget Sound recovery goals established by the Legislature: Healthy Human Population, Vibrant Quality of Life, Thriving Species and Food Webs, Protected and Restored Habitat, Healthy Water Quality, and Abundant Water Quantity. </p>
@@ -103,28 +102,24 @@
 			<p>Puget Sound is facing unprecedented environmental changes. Not only is there evidence for a changing climate in the Pacific Northwest, but the global ocean that influences Puget Sound is undergoing acidification. Environmental changes associated with climate change and ocean acidification will continue, although there are still many unknowns that remain to be addressed. Climate change and ocean acidification have the potential to profoundly affect ecosystems, and many, if not all, Vital Signs are likely to be affected in one way or another. <a href="sos-2015-climate-change-ocean-acidification.php" title="Climate Change and Ocean Acidification">Learn more …</a></p>
 			<h6>New Vital Signs and indicators of human health and quality of life</h6>
 			<p>Humans are direct beneficiaries of ecosystems, yet pose some of the greatest threats to the health of ecosystems. By taking into account these seemingly opposite ideas, planning efforts will better frame environmental problems, which will result in more effective and long-lasting solutions for meeting recovery goals. <a href="sos-2015-human-wellbeing.php" title="Human Wellbeing Indicators">Learn more … </a></p>
-			<!-- InstanceEndEditable -->
-		</div>
-	
-		<div class="col-sm-2 padding-20-top padding-0-right"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			<!-- InstanceEndEditable --> </div>
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">ON THIS PAGE</div>
 			<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="#avs">About the Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="#progress">Progress</a></li>
 				<li role="presentation"> <a href="#kf">Key Findings</a></li>
 				<li role="presentation"> <a href="#lf">Looking Forward</a></li>
 				<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-20-top ">RELATED DOWNLOADS</div>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 						<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
                         <li role="presentation"> <a href="https://pspwa.box.com/2015-vitalsigns-table" target="_blank">Vital Signs Progress Summary</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-indicator-table" target="_blank">Vital Sign Indicators' Category of Progress</a></li>
@@ -132,13 +127,12 @@
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
                 <li role="presentation"> <a href="https://pspwa.box.com/SOS2015-VS-FiguresTables" title="Figures and Tables for Presentations" target="_blank">Figures and Tables for Presentations</a></li>
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
-				<!-- InstanceBeginEditable name="right_nav_title" -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
 				<!-- InstanceEndEditable -->
-					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns/" target="_blank">Vital Signs Website</a></li>
                 <li role="presentation"> <a href="http://www.psp.wa.gov/psp_web_update/evaluating-PSEMP.php" target="_blank">Puget Sound Ecosystem Monitoring Program</a></li>
                 <li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
@@ -149,17 +143,14 @@
 				
 				<li role="presentation"> <a href="http://www.eopugetsound.org/" target="_blank">Encyclopedia of Puget Sound</a></li>
 						<!-- InstanceEndEditable -->
-					</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-		</div>
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
-	<!--END OF ROW -->
+	<!--END OF ROW --> 
 </div>
 <!--END OF CONTENT CONTAINER -->
 
-
 <?php include 'includes/footer-inc.html';?>
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -167,8 +158,8 @@
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
-<!-- Google Tracking  -->
+<script src="js/custom.js"></script> 
+<!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -179,6 +170,5 @@
   ga('send', 'pageview');
 
 </script>
-
 </body>
 <!-- InstanceEnd --></html>

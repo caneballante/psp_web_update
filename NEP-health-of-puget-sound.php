@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +11,6 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
-
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -37,16 +35,21 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image6">
 	<div class="overview-quote pull-right">
 		<h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3>
 	</div>
 </header>
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
@@ -58,7 +61,8 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
@@ -66,6 +70,7 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
+		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Despite our coordinated, integrated and strategic approach to restoring Puget Sound, the threats it faces continue to outpace our efforts to combat them. The 2015 State of the Sound report shows that the majority of Vital Sign indicators are, at best, only slowly changing. While we are seeing incremental progress in measures related to habitat restoration and protection efforts, our salmon, orcas and other native species continue to struggle. Meanwhile, the continuing impacts of population growth, climate change, and ocean acidification continue to add pressure on our ecosystem health.</p>
 			<h3>Key findings:</h3>
@@ -89,6 +94,7 @@
 			<p>While we have made progress toward a few recovery targets, overall we are only slowing down Puget Sound degradation. We need to focus and intensify our efforts to restore this beautiful, bountiful place we call home.<strong></strong></p>
 			<p>&As stated in the Puget Sound <a href="http://www.psp.wa.gov/scienceplan.php">Strategic Science Plan</a>, &ldquo;the need for action is urgent, as human population growth, climate change and other forces are fundamentally altering Puget Sound…In a setting of moving baselines, the traditional view of restoration – that is restoration to a set of historically defined conditions – may no longer be valid.&rdquo;</p>
 			<!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
@@ -125,5 +131,4 @@
 
 </script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>
