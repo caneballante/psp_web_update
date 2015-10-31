@@ -51,16 +51,16 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>BARRIERS TO IMPLEMENTATION AND RECOVERY</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-sos-aa.html';?>
 			<!-- InstanceEndEditable --> 
@@ -69,7 +69,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 		<h3>Challenges to advancing recovery and opportunities going forward</h3>
         <p>It  is an ambitious goal to undo 150 years of environmental degradation,  particularly in the context of continuing demands on the ecosystem from population growth and the challenges of remaining competitive in an  every changing global economy. By their very nature, efforts to  strengthen regulations, modify how our communities look and function and  even ask individuals to change their daily habits will face roadblocks along the way. We described a number of our barriers to  implementing the Action Agenda in the 2013 State of the Sound. While we  continue to make progress in addressing these, our experience suggests  that helping our decision-makers and our citizens make &ldquo;Sound Choices&rdquo; in the years ahead will be the key to our success.</p>
@@ -85,7 +85,7 @@
 		<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>

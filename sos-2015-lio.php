@@ -51,16 +51,16 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>Local Integrating Organization accomplishments</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-sos.html';?>
 			<!-- InstanceEndEditable --> 
@@ -69,7 +69,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 		<p>Local Integrating Organizations provide an important structure through which the Partnership can work directly with local communities to implement the Action Agenda. Each area has its own distinctive local physical and biological conditions and its own set of structural characteristics, issues and constraints. This has led each LIO to develop its own unique range of actions. 
 Five LIOs were ready to contribute NTAs to the 2012 version of the Action Agenda: Hood Canal, San Juan, Strait of Juan de Fuca, West Central and Island. By the time that the Action Agenda was updated in 2014, that number had risen to nine. Actions owned by the LIOs represent 159 of the total of 290 NTAs in the 2014 Action Agenda.
@@ -88,7 +88,7 @@ Below are the accomplishments reported by the nine LIOs:</p>
 		<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-0-top ">RELATED LINKS</div>

@@ -47,17 +47,17 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1 class="grey">PUBLIC OPINION RESEARCH</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-eval-actions.html';?>
 				<!-- InstanceEndEditable --> 
@@ -66,7 +66,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>Public opinion research is a useful tool for many reasons: it informs program design, helps evaluate progress being made by various activities, provides external perspective to agencies for policy and programmatic direction, and allows for further exploration into complex issues. The Puget Sound Partnership received funding from the U.S. Environmental Protection Agency to carry out a series of public opinion surveys. The following surveys were conducted:</p>
 			<h3>Sound Behavior Index</h3>
@@ -92,7 +92,7 @@
 			<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>

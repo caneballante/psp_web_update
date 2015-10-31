@@ -49,18 +49,18 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>2016 action agenda UPDATE:<br>
 				LIO PLANNING<br>
 			</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-2016-AA.html';?>
 				<!-- InstanceEndEditable --> 
@@ -69,7 +69,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Puget Sound Partnership and the EPA are working with local communities to ensure funding is targeted at the highest-priority actions designed to support the long-term health of local watersheds and Puget Sound. Over the next year and a half, the EPA is funding development of <strong>5-year Ecosystem Recovery Plans</strong> and associated <strong>2-year Implementation Plans</strong> for each of the region’s local collaborative groups, or Local Integrating Organizations (LIO). Proposals for <strong>Near Term Actions (NTAs)</strong> developed as part of this planning effort will tie the local plans to the Puget Sound Action Agenda—the regional shared recovery plan. </p>
 			<p>The timeline for producing the 5-year plans and the NTA proposals that make up the 2-year Implementation Plans runs from June 2015 to September 2016:</p>
@@ -90,7 +90,7 @@
 			<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>

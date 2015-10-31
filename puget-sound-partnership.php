@@ -47,17 +47,17 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>ABOUT THE PARTNERSHIP</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-psp-overview.html';?>	
 				
@@ -67,7 +67,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 		
 <p>The Puget Sound Partnership is the state agency leading the region’s collective effort to restore and protect Puget Sound. The Puget Sound Partnership brings together hundreds of partners to mobilize partner action around a common agenda, advance Sound investments, and advance priority actions by supporting partners. </p>
@@ -99,7 +99,7 @@
 <a href="action_agenda_center.php">Puget Sound Action Agenda</a> | <a href="evaluating-about-report-card.php">Action Agenda Report Card</a><!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>

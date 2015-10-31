@@ -43,15 +43,15 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
+		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
 			<h1>oil spill issues and the puget sound partnership</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
 	
-		<div class="col-md-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
+		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
 		<!-- InstanceBeginEditable name="9col_content" -->
 			<p><strong>UPDATE: FALL 2015 </strong><br>
 				Oil transportation by rail and other modes has changed markedly in Washington State over the past 6 years—especially in inland areas and along the Columbia River and Grays Harbor. Given the statewide nature of these changes and the Partnership&rsquo;s evolving focus on Puget Sound, the Oil Spill Work Group disbanded in fall 2015 after a 2-year hiatus. Nevertheless, the products of the group&rsquo;s efforts (like the Puget Sound Vessel Traffic Risk Assessment, described below) will continue to inform ongoing policy and management conversations.</p>
@@ -193,7 +193,7 @@
 			<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>

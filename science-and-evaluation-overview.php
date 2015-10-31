@@ -43,15 +43,15 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
+		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
 			<h1>SCIENCE AND EVALUATION OVERVIEW</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
 	
-		<div class="col-md-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
+		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
 		<!-- InstanceBeginEditable name="9col_content" -->
 			<h2 class="margin-0-top">EVALUATING RECOVERY </h2>
 			<p>Central to the science-based recovery of Puget Sound is the development and use of a shared system of measurement and evaluation that allows assessment of ecosystem health, implementation of recovery actions, and determination of how recovery efforts affect ecosystem conditions. The Puget Sound Partnership coordinates this assessment activity and summarizes findings in the State of the Sound report. Coordination and reporting help to hold us accountable to one another, convey the impacts of actions and investments, and provide the information that fuels adaptation of recovery efforts.</p>
@@ -68,7 +68,7 @@
 		<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>

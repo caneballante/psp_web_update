@@ -47,17 +47,17 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>PUGET SOUND STARTS HERE TOOLKIT</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				
 				<!-- InstanceEndEditable --> 
@@ -66,7 +66,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Puget Sound Starts Here (PSSH) campaign seeks to increase awareness of the magnitude of Puget Sound’s pollution problem, and to motivate residents to adopt new behaviors that will decrease the amount of pollution entering the Sound through stormwater runoff and other sources of pollution. The tools developed to achieve these goals include a recognizable brand, television advertisements, a Web site designed to foster behavior change, and public outreach tools for use by PSSH partners at a local, grassroots level.</p>
       		<p><span style="font-weight: bold">We encourage ECO Net members and other PSSH partners to use the campaign photos and artwork to tie into their environmental education, communication and outreach efforts. &nbsp;The photos and artwork provided should NOT be used to promote efforts or messaging that is inconsistent with the purpose and intentions of the Puget Sound Starts Here campaign.</span><br />
@@ -546,7 +546,7 @@
 			<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">ON THIS PAGE</div>

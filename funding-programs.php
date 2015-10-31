@@ -47,17 +47,17 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>PUGET SOUND FUNDING PROGRAMS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<li class="active" role="presentation"> <a href="funding-programs.php">Puget Sound Funding Programs</a></li>
 				<li role="presentation"> <a href="PSAR.php">Puget Sound Recovery and Acquisition Fund (PSAR)</a></li>
@@ -67,7 +67,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			
 						  <p>The Partnership works collaboratively with all levels of government, tribes, businesses and citizen groups in its charge to lead and coordinate efforts to protect and restore Puget Sound. Our goal is to make Puget Sound healthy again, and create a roadmap for how to get it done. To achieve this goal, we mobilize funding to support both human capacity and the development and implementation of high-priority salmon recovery capital projects on an annual basis.</p>
@@ -83,7 +83,7 @@
 		<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title">SEE ALSO</div>

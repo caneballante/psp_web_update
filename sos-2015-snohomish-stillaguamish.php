@@ -49,16 +49,16 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>Snohomish-Stillaguamish</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-sos-lio.html';?>
 			<!-- InstanceEndEditable --> 
@@ -67,7 +67,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 		<h3>City of Everett—Let it Rain—Green Stormwater Infrastructure Program</h3>
 		  <p><img class="pull-left img-responsive padding-10-right" src="images/rain-barrel.png" />The Let it Rain Program utilizes green infrastructure techniques to assist homeowners with managing rainwater on their property. This is particularly important because North Everett is a combined sewer system that during heavy rainfall events can exceed capacity at the wastewater treatment facility. The Let it Rain Program includes several activities to reduce stormwater flows. One aspect of the program is offering homeowners a rebate for installing approved rain gardens on their property. Other elements of the program include the use of rain barrels and, when viable, disconnecting downspouts and redirecting rainwater to a rain barrel or pervious surface.</p>
@@ -82,7 +82,7 @@
 <!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>

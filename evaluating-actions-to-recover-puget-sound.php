@@ -47,17 +47,17 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1 class="grey">EVALUATING ACTIONS TO RECOVER <br>
 				PUGET SOUND</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-eval-actions.html';?>
 				<!-- InstanceEndEditable --> 
@@ -66,7 +66,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>Tracking and evaluating implementation of Puget Sound ecosystem recovery efforts is key to holding partners accountable, understanding successes and challenges, and supporting adaptation of recovery efforts. Evaluating our progress in implementing the Action Agenda is enabled primarily through tracking the status and funding of hundreds of Near Term Actions owned by a wide range of partners around Puget Sound.</p>
 			<p>Evaluating the progress of these actions is not only a critical tool for informing the management of recovery efforts, but is also a requirement in the Partnership&rsquo;s founding legislation and an important statutory component of the biennial State of the Sound report.</p>
@@ -88,7 +88,7 @@
 			<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">SEE ALSO</div>

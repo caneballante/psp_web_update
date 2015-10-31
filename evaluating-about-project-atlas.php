@@ -47,17 +47,17 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1 class="grey">ABOUT THE PROJECT ATLAS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 					<?php include 'includes/ln-eval-actions.html';?>	
 			<!-- InstanceEndEditable --> 
@@ -66,7 +66,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p> <a href="http://gismanager.rco.wa.gov/ProjectAtlas/?summaryArea[areaName]=Puget+Sound&summaryArea[areaType]=PSP+Boundary&summaryArea[areaShapeId]=NA">The Puget Sound Project Atlas</a> is a map based online tool that allows users to learn more about an important subset of Puget Sound Restoration and protection projects that are financed or tracked by the Washington State Recreation and Conservation Office. Clickable map markers allow users to view detailed information on each project and a range of different filters enable searches on projects in specific geographical areas, including by county, legislative district, congressional district and watershed. Projects included in the Atlas are also associated with <a href="vitalsigns/index.php">Puget Sound Vital Signs</a>, which enables users to isolate projects that help to advance a particular Vital Sign or group of Vital Signs.</p>
 			<p>&nbsp;</p>
@@ -76,7 +76,7 @@
 			<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>

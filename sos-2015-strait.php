@@ -49,16 +49,16 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>Strait Ecosystem Recovery Network</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-sos-lio.html';?>
 			<!-- InstanceEndEditable --> 
@@ -67,7 +67,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 		<p>Since the first Action Agenda in 2008, the local jurisdictions within the Strait Action Area have focused, in part, on improving the management of and correcting targeted problems associated with stormwater runoff. </p>
 		 <p>Located in the rainshadow of the Olympic Mountains, where it rains a mere 16 inches per year, on average, the City of Sequim considers water (and stormwater) as a most valuable natural resource.  With little rain, even less flooding, and no major water quality problems it can be a challenge to convey the need for additional stormwater management. To prepare for growth and changes in climate however, Sequim has drafted its first ever Storm and Surface Water Management Plan (see NTA STRT 28). In the face of this year&rsquo;s drought and the need for water conservation, a compelling case can be made to comprehensively manage water resources with a proactive plan. The Sequim City Council is now considering the draft plan and will soon determine funding strategies to pay for its implementation.  Adoption of the plan by the Sequim City Council is anticipated in early 2016. </p>
@@ -84,7 +84,7 @@
 		<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>

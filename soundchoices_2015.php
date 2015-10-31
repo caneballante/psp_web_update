@@ -43,15 +43,15 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
+		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
 			<h1>SOUND CHOICES - 2015</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
 	
-		<div class="col-md-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
+		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
 		<!-- InstanceBeginEditable name="9col_content" -->
 			
 		<h2>Local Government Decisions and the health of puget sound</h2>
@@ -98,7 +98,7 @@
 			<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>

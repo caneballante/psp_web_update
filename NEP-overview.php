@@ -51,18 +51,18 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-3 padding-20-top"></div>
-		<div class="col-md-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>PUGET SOUND<br>
 				National Estuary program (NEP)<br>
 			</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
-		<div class="col-md-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
+		<div class="col-sm-3">
+			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 			<!-- InstanceBeginEditable name="left_nav" -->
 		<?php include 'includes/ln-NEP.html';?>	
 			<!-- InstanceEndEditable --> 
@@ -71,7 +71,7 @@
 		</div>
 			
 	
-		<div class="col-md-7 padding-20-top content-column">
+		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>Puget Sound&rsquo;s National Estuary Program is a voluntary, place-based initiative that brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</p><p>
 			The U.S. Congress designated Puget Sound as an Estuary of National Significance because it is critical to the environmental and economic well-being of the nation. In 2007, Washington passed authorizing legislation to create the Puget Sound Partnership, a state agency dedicated to clean up and restore the environmental health of Puget Sound by the year 2020.</p>
@@ -126,7 +126,7 @@
 <!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
 		</div>
 	</div>

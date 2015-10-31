@@ -43,15 +43,15 @@
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-md-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
+		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
 			<h1>ACTION AGENDA OVERVIEW</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-md-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row"> 
 	
-		<div class="col-md-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
+		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left">
 		<!-- InstanceBeginEditable name="9col_content" -->
 			<h2>What is the Action Agenda?</h2>
 			<p>The <strong>Puget Sound Action Agenda</strong> is our region's shared vision for Puget Sound recovery. It identifies key ongoing programs, local priority actions for the various areas of the Sound, and specific actions that must be implemented over the next 2 years to stay on track toward recovery. The Action Agenda results from a collaboration by state and federal agencies, tribal governments, local governments, business and environmental groups, and others. It also serves as the <a href="http://water.epa.gov/type/oceb/nep/index.cfm#ccmp">Comprehensive Conservation and Management Plan</a>, required by the U.S. Environmental Protection Agency for estuaries of national significance.</p>
@@ -71,7 +71,7 @@
 			<!-- InstanceEndEditable -->
 		</div>
 	
-		<div class="col-md-2 padding-20-top"> 
+		<div class="col-sm-2 padding-20-top padding-0-right"> 
 			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
 				<!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
