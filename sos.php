@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - 2015 STATE OF THE SOUND</title>
+<title>Puget Sound Partnership -State of the Sound</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -78,8 +78,17 @@
 			<ul>
 				<li>How is the ecosystem doing?</li>
 				<li>Are we making progress in implementing identified recovery actions? </li>
-				<li>What have we learned and what are our next steps?<br>
-				</li>
+				<li>What have we learned and what are our next steps?</li></ul>
+				  <h3><em>Report to the Community</em>—A summary &lsquo;Annual Report&rsquo;</h3>
+                  <p>This  brochure provides an overview of key findings from the 2015 State of  the Sound effort. It is intended to be a tool to introduce new partners  to Puget Sound&rsquo;s challenges and engage existing partners with this high-level summary of  the current state of affairs in a way that highlights the priority work  needed to advance recovery and protection efforts. <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">Download here</a>.</p>
+                
+                  <h3><em>Report on the Puget Sound Vital Signs</em>—About the health of the ecosystem</h3>
+                  <p>This document provides a scientifically focused look at the status of  recovery according to our Vital Sign ecosystem indicators, which help us  evaluate progress on goals related to human wellbeing, water quality and water quantity,  protecting and restoring habitat, and how our native species are  responding. <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">Download here.</a></p>
+                 
+                  <h3><em>Report to the Governor and Legislature</em>—About the implementation of the Action Agenda</h3>
+                  <p>This  document responds directly, section-by-section, to a statutory  reporting requirement. Therefore, it focuses on the progress the  Partnership and our regional partners have made in implementing recovery actions as viewed through the lens of  the Action Agenda. Questions relating to the status of recovery actions  and barriers to recovery, such as funding needs, are also addressed  here. <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">Download here.</a></p>
+				  <br>
+			  </li>
 			</ul>
 			<!-- InstanceEndEditable -->
 		</div>
@@ -91,10 +100,9 @@
 			<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report">2015 State of the Sound: Report to the Community</a></li>
-				<li role="presentation"> <a href="#">Strategic Initiative Funding Strategies</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
 				<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 
@@ -106,6 +114,7 @@
 				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
+                <li role="presentation"> <a href="sos-2015-action-agenda-progress.php#strat">2014 Ecosystem Coordination Board Funding Strategy</a></li>
 				<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->

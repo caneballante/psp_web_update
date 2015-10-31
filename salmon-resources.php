@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Salmon Recovery Resources</title>
 <!-- InstanceEndEditable -->
@@ -12,6 +12,7 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
+
 
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
@@ -41,11 +42,11 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image8">
 	<div class="overview-quote pull-right"></div>
 </header>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
@@ -55,15 +56,20 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
-				<!-- InstanceBeginEditable name="left_nav" -->
+			<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-salmon.html';?>
-				<!-- InstanceEndEditable -->
+				<!-- InstanceEndEditable --> 
 			</ul>
+		
 		</div>
-		<div class="col-md-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			
+	
+		<div class="col-md-7 padding-20-top content-column">
+		<!-- InstanceBeginEditable name="6col_content" -->
 			<table class="table">
 				<tr>
 					<td  class="tableheader">Watershed**</td>
@@ -193,23 +199,30 @@
 			<p> <a href="http://wdfw.wa.gov/about/volunteer/rfeg/">Regional Fishery Enhancement Groups</a></p>
 			<p><a href="http://www.nwstraits.org/">Northwest Straits Initiative and Marine Resource Committees</a></p>
 			<p><a href="downloads/SALMON_RECOVERY/Regional Nearshore Chapter 2005.pdf">Regional Nearshore and Marine Aspects of Salmon Recovery in Puget Sound</a></p>
-			<!-- InstanceEndEditable --> </div>
-		<div class="col-md-2 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<!-- InstanceEndEditable -->
+		</div>
+	
+		<div class="col-md-2 padding-20-top"> 
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
 				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
 				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+		</div>
 	</div>
-	<!--END OF ROW --> 
+	<!--END OF ROW -->
 </div>
 <!--END OF CONTENT CONTAINER -->
 
+
 <?php include 'includes/footer-inc.html';?>
+
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -217,8 +230,8 @@
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script> 
-<!-- Google Tracking  --> 
+<script src="js/custom.js"></script>
+<!-- Google Tracking  -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -229,6 +242,6 @@
   ga('send', 'pageview');
 
 </script>
+
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

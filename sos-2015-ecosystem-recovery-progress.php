@@ -71,46 +71,38 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Puget Sound Vital Signs represent measures for determining the health of Puget Sound. While more and more habitat is restored incrementally each yearand water quality measures are showing improvements in some localities, the health of salmon, orca and other native populations are not getting any better, and will take decades of consistent effort to stabilize. Few Vital Sign indicators are likely to meet 2020 targets.</p>
-			<h3><a name="avs"></a>ABOUT THE PUGET SOUND VITAL SIGNS</h3>
+			<p><a name="avs"></a>The majority of Vital Sign indicators are, at best, only slowly changing. Few are at—or even within reach of—their 2014 interim targets. Therefore, there is little evidence they are on a trajectory to reach the 2020 targets. However, there has been some progress in some indicators and at more local scales. While more and more habitat is restored incrementally each year and water quality measures are showing improvements in some localities, the health of salmon, orca and other native populations are not getting any better, and will take decades of consistent effort to stabilize. </p>
+			<h3>ABOUT THE PUGET SOUND VITAL SIGNS</h3>
 			<p>The Puget Sound Vital Signs are measures that the Puget Sound Partnership chose to gauge the health of Puget Sound. Vital Signs help report on progress toward the six Puget Sound recovery goals established by the Legislature: Healthy Human Population, Vibrant Quality of Life, Thriving Species and Food Webs, Protected and Restored Habitat, Healthy Water Quality, and Abundant Water Quantity. </p>
-			<p>While the Vital Signs represent the different overarching measures for determining the health of Puget Sound, indicators representing each Vital Sign serve as the specific and measurable metrics. The intent of these measures was to be:</p>
-			<ul>
-				<li>Scientifically and theoretically sound surrogates for ecosystem attributes</li>
-				<li>Relevant to management concerns</li>
-				<li>Predictably responsive to ecosystem changes and management actions</li>
-				<li>Linkable to a reference point or baseline condition</li>
-				<li>Supported by available, high-quality data</li>
-				<li>Understood by the public and policymakers</li>
-			</ul>
-			<img class="img-responsive" src="images/diagram.png" alt="How goals relate to Vital Signs Indicators and Targets"/>
-			<h3><a name="progress"></a>PROGRESS</h3>
-			<p>A total of 37 Vital Sign indicators track a variety of conditions related to Puget Sound recovery. The <em>2015 State of the Sound: Report on the Puget Sound Vital Signs</em> reveals varied results when evaluating change over time for these indicators. </p>
-			<p><img class="img-responsive" src="images/indicator-pie.png" alt="Indicator Progress Pie Chart"/></p>
-			<p><strong>Four indicators are already meeting or nearly meeting 2020 targets: </strong></p>
-			<ul>
-				<li>Rate of septic systems inventory</li>
+			<p>While the Vital Signs represent the different overarching measures for determining the health of Puget Sound, indicators representing each Vital Sign serve as the specific and measurable metrics.</p>
+			<a name="progress"></a><img class="img-responsive" src="images/diagram.png" alt="How goals relate to Vital Signs Indicators and Targets"/>
+			<h3>PROGRESS</h3>
+			<p><a name="kf"></a>A total of 37 Vital Sign indicators track a variety of conditions related to Puget Sound recovery. The <em>2015 State of the Sound: Report on the Puget Sound Vital Signs</em> reveals varied results when evaluating change over time for these indicators.</p>
+<p><img class="img-responsive" src="images/indicator-pie.png" alt="Indicator Progress Pie Chart"/></p>
+			
+			<p>Download a list of <a href="https://pspwa.box.com/2015-indicator-table" title="Vital Signs indicators for each category of progress" target="_blank">Vital Signs indicators for each category of progress</a></p>
+			<h3>KEY FINDINGS </h3>
+            <ul><li>Overall, results for Vital Signs progress are mixed and few indicators are on a path to meet the 2020 targets</li>
+            <li>Four indicators are already meeting or nearly meeting 2020 targets: </li>
+				<ul><li>Rate of septic systems inventory</li>
 				<li>Rate of forest loss</li>
 				<li>Marine Sediment Triad Index</li>
-				<li>Marine Sediment Chemistry Index</li>
+				<li>Marine Sediment Chemistry Index</li></ul>
+                <li>Pressures continue, including conversion of ecologically important lands and shoreline armoring, but new armoring may be slowing down</li>
+                <li>Species indicators continue to signal trouble</li>
+                <li>Indicators of the habitat goal show the most progress, and more habitat is restored incrementally each year</li>
+                <li><a name="lf"></a>Local improvements in water quality do not add up to regional trends in progress</li>
+<li>Improvement in the water quantity goal likely short-lived</li>
+<li>Lack of change can be good, depending on the status of indicators</li>
+<li>No data for 12 indicators</li>
+
 			</ul>
-			<p>Download a list of <a href="https://pspwa.box.com/2015-indicator-table" title="Vital Signs indicators for each category of progress" target="_blank">Vital Signs indicators for each category of progress</a></p>
-			<h3><a name="kf"></a>KEY FINDINGS </h3>
-			<ul>
-			    <li>Local improvements in water quality do not add up to      regional trends in progress</li>
-                  <li>Development pressures continue, with shoreline armoring      possibly turning the corner</li>
-                  <li>Indicators of the habitat goal show the most progress</li>
-                  <li>Species indicators continue to signal trouble</li>
-                  <li>Improvement in the water quantity goal likely      short-lived</li>
-                  <li>Indicators measuring habitat restoration are making the      most progress</li>
-                  <li>Lack of change can be good, depending on the status of      indicators</li>
-                  <li>No data for 12 indicators</li>
-			</ul>
-			<h3><a name="lf"></a>LOOKING FORWARD</h3>
+		
+			<h3>LOOKING FORWARD</h3>
 			<h6>Climate change and ocean acidification</h6>
-			<p>Puget Sound is facing unprecedented environmental changes. Not only is there evidence for a changing climate in the Pacific Northwest, but the global ocean that influences Puget Sound is undergoing acidification. Environmental changes associated with climate change and ocean acidification will continue, although there are still many unknowns that remain to be addressed. Climate change and ocean acidification have the potential to profoundly affect ecosystems, and many, if not all, Vital Signs are likely to be affected in one way or another. <a href="sos-2015-climate-change-ocean-acidification.php" title="Climate Change and Ocean Acidification">Read more …</a></p>
+			<p>Puget Sound is facing unprecedented environmental changes. Not only is there evidence for a changing climate in the Pacific Northwest, but the global ocean that influences Puget Sound is undergoing acidification. Environmental changes associated with climate change and ocean acidification will continue, although there are still many unknowns that remain to be addressed. Climate change and ocean acidification have the potential to profoundly affect ecosystems, and many, if not all, Vital Signs are likely to be affected in one way or another. <a href="sos-2015-climate-change-ocean-acidification.php" title="Climate Change and Ocean Acidification">Learn more …</a></p>
 			<h6>New Vital Signs and indicators of human health and quality of life</h6>
-			<p>Humans are direct beneficiaries of ecosystems, yet pose some of the greatest threats to the health of ecosystems. By taking into account these seemingly opposite ideas, planning efforts will better frame environmental problems, which will result in more effective and long-lasting solutions for meeting recovery goals. <a href="sos-2015-human-wellbeing.php" title="Human Wellbeing Indicators">Read more … </a></p>
+			<p>Humans are direct beneficiaries of ecosystems, yet pose some of the greatest threats to the health of ecosystems. By taking into account these seemingly opposite ideas, planning efforts will better frame environmental problems, which will result in more effective and long-lasting solutions for meeting recovery goals. <a href="sos-2015-human-wellbeing.php" title="Human Wellbeing Indicators">Learn more … </a></p>
 			<!-- InstanceEndEditable -->
 		</div>
 	
@@ -138,6 +130,7 @@
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-indicator-table" target="_blank">Vital Sign Indicators' Category of Progress</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
+                <li role="presentation"> <a href="https://pspwa.box.com/SOS2015-VS-FiguresTables" title="Figures and Tables for Presentations" target="_blank">Figures and Tables for Presentations</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 

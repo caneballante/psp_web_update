@@ -71,7 +71,7 @@
 	
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
-			<p>The statutory requirements for reporting focus primarily on the funding and implementation of the Action Agenda. Key concepts and terms related to the Action Agenda and referred to in this report include the following:</p>
+			<p>The statutory requirements for reporting focus primarily on the funding and implementation of the Action Agenda. Key concepts and terms related to the Action Agenda and referred to in the reports include the following:</p>
 			<h3>Action Agenda</h3>
 			<p>A prioritized set of actions and programs for directing resources for Puget Sound recovery in an efficient and effective way. The Action Agenda development process is science-based, derived through a regionwide process that includes participation from federal, state, local, tribal, nonprofit, private, and other interests, and is managed by the Partnership through an adaptive management framework.</p>
 			<h3>Adaptive management</h3>
@@ -128,7 +128,7 @@
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
-				<li role="presentation"> <a href="#">Strategic Initiative Funding Strategies</a></li>
+				<li role="presentation"> <a href="sos-2015-action-agenda-progress.php#strat">2014 Ecosystem Coordination Board Funding Strategy</a></li>
 				<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> 

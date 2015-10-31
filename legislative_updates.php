@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Government Relations</title>
 <!-- InstanceEndEditable -->
@@ -12,6 +12,7 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
 <link href="css/custom-erika.css" rel="stylesheet" type="text/css">
+
 
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
@@ -41,13 +42,13 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image14">
 	<div class="overview-quote pull-right">
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-md-3 padding-20-top"></div>
@@ -57,15 +58,20 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-md-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
-				<!-- InstanceBeginEditable name="left_nav" -->
+			<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-gov.html';?>
-				<!-- InstanceEndEditable -->
+				<!-- InstanceEndEditable --> 
 			</ul>
+		
 		</div>
-		<div class="col-md-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			
+	
+		<div class="col-md-7 padding-20-top content-column">
+		<!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">2015 Legislative Calendars </h2>
 			<ul>
 				<li><a href="downloads/legislative/2015/2015_CalendarEXTERNALweek1.pdf">Week 1 Calendar</a></li>
@@ -148,12 +154,16 @@
 				<li><a href="downloads/legislative/2013/letters/2013PCRCSupportLetterforPSAR.pdf">Pierce County Regional Council </a>(PDF)</li>
 				<li><a href="downloads/legislative/2013/letters/1SnohomishForumPSARSupport42913.pdf">Snohomish Basin Salmon Recovery Forum</a> (PDF)</li>
 			</ul>
-			<!-- InstanceEndEditable --> </div>
-		<div class="col-md-2 padding-20-top"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<!-- InstanceEndEditable -->
+		</div>
+	
+		<div class="col-md-2 padding-20-top"> 
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
+				<!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">CONTACT</div>
 			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
 				<p class="right-nav-contact">For questions about Goverment Relations:<br />
 					<br>
 					<strong>Jeff Parsons</strong>, <br>
@@ -161,14 +171,17 @@
 					<a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a><br>
 					360.464.1221</p>
 				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+		</div>
 	</div>
-	<!--END OF ROW --> 
+	<!--END OF ROW -->
 </div>
 <!--END OF CONTENT CONTAINER -->
 
+
 <?php include 'includes/footer-inc.html';?>
+
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.2.min.js"></script> 
@@ -176,8 +189,8 @@
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script> 
-<!-- Google Tracking  --> 
+<script src="js/custom.js"></script>
+<!-- Google Tracking  -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -188,6 +201,6 @@
   ga('send', 'pageview');
 
 </script>
+
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

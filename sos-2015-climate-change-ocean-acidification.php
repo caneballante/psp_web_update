@@ -72,8 +72,8 @@
 		<div class="col-md-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 		<h3 class="margin-0-top">TWO FORCES TO BE RECKONED WITH</h3>
-			<p>Puget Sound is facing unprecedented environmental changes. Not only is there evidence for a changing climate in the Pacific Northwest, but the global ocean that influences Puget Sound is undergoing acidification. Environmental changes associated with climate change and ocean acidification will continue, although there are still many unknowns that remain to be addressed. Climate change and ocean acidification have the potential to profoundly affect ecosystems, and many, if not all, of the Vital Signs are likely to be affected in one way or another.</p>
-			<h3><a name="cc"></a>Climate change</h3>
+			<p><a name="cc"></a>Puget Sound is facing unprecedented environmental changes. Not only is there evidence for a changing climate in the Pacific Northwest, but the global ocean that influences Puget Sound is undergoing acidification. Environmental changes associated with climate change and ocean acidification will continue, although there are still many unknowns that remain to be addressed. Climate change and ocean acidification have the potential to profoundly affect ecosystems, and many, if not all, of the Vital Signs are likely to be affected in one way or another.</p>
+			<h3>Climate change</h3>
 			<p>The term “climate change” refers to the long-term change in weather around the world. Human activities have increased atmospheric levels of greenhouse gases (carbon dioxide, methane, and nitrous oxide) to levels unprecedented in at least the past 800,000 years. This increase in greenhouse gases has had repercussions on the climate; these changes are expected to accelerate in the coming years, with increasing impacts on local ecosystems, human economies, and cultures. As the climate changes, scientists expect that local patterns in temperature, precipitation, and humidity—both averages and extreme events—will change.</p>
 			<h6>The climate is changing in the Pacific Northwest </h6>
 			<p>There is compelling evidence of long-term change in the regional climate, water resources, and local sea level, even considering large natural variations. Already observed changes include higher air temperature, decreased glacial area and spring snowpack, earlier peak streamflows in many rivers, and rising sea level at most locations in and around Puget Sound.</p>
@@ -131,7 +131,7 @@
 					</tr>
 					<tr>
 						<td><ul>
-								<li>Ocean temperature trends vary with location. In the Strait of Georgia and West of Vancouver Island: significant warming observed. Average for top 330 ft was +0.4°F/decade between 1970 and 2005</li>
+								<li><a name="oa"></a>Ocean temperature trends vary with location. In the Strait of Georgia and West of Vancouver Island: significant warming observed. Average for top 330 ft was +0.4°F/decade between 1970 and 2005</li>
 							</ul></td>
 						<td><ul>
 								<li>Ocean temperature offshore of Washington will continue to go up, by about +2°F by the 2040s (2030-2059, relative to 1970-1999) for a medium greenhouse gas scenario</li>
@@ -139,7 +139,7 @@
 					</tr>
 				</tbody>
 			</table>
-			<h3><a name="oa"></a>ocean acidification</h3>
+			<h3>ocean acidification</h3>
 			<p>The term “ocean acidification” refers to a long-term change in seawater pH toward the acidic end of the pH scale. Ocean acidification is caused as carbon dioxide (CO<sub>2</sub>) from the atmosphere dissolves into seawater. Over time, the addition of CO<sub>2</sub> causes changes in seawater chemistry, lowering the pH and reducing the carbonate ion concentrations of the seawater. Ocean acidification will increase as fossil fuel combustion and deforestation continue to add CO<sub>2</sub> to the atmosphere.</p>
 			<p>The acidity of the global ocean has increased by about 26 percent since 1750. The acidity is projected to further increase roughly 100 to 150 percent by 2100 relative to pre-industrial levels. Ocean waters on the outer coast of Washington and the Puget Sound have seen an acidity increase of about 10 to 40 percent since 1800 (decline in pH of 0.05 to 0.15).</p>
 			<h6>Ocean acidification is a reality in the Pacific Northwest</h6>

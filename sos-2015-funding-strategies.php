@@ -62,7 +62,7 @@
 		<div class="col-md-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top margin-left-20">
 			<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-aa.html';?>
+				<?php include 'includes/ln-sos-aa.html';?>
 			<!-- InstanceEndEditable --> 
 			</ul>
 		
@@ -148,7 +148,6 @@ infrastructure funding</strong> based on economies of scale, advancement of the 
 						<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="https://pspwa.box.com/NTA-status-analysis" target="_blank">NTA Status Analysis</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/NTA-expenditure" target="_blank">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
-				<li role="presentation"><a href="#">Action Agenda Funding Analysis</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/HershmanFellowGraziano" target="_blank">Linkages Report</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
@@ -166,7 +165,7 @@ infrastructure funding</strong> based on economies of scale, advancement of the 
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
 				<li role="presentation"> <a href="evaluating-about-NEP-atlas.php">National Estuary Program Project Atlas</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
-				<li role="presentation"> <a href="#">Strategic Initiative Funding Strategies</a></li>
+				<li role="presentation"> <a href="sos-2015-action-agenda-progress.php#strat">2014 Ecosystem Coordination Board Funding Strategy</a></li>
 						<!-- InstanceEndEditable -->
 					</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
