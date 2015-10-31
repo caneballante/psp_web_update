@@ -91,7 +91,7 @@
 					<ul class="nav-rightside-custom">
 						<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li role="presentation"> <a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
-					<li role="presentation"> <a href="#">Chinook Monitoring &amp; Adaptive Management</a></li>
+					<!--<li role="presentation"> <a href="#">Chinook Monitoring &amp; Adaptive Management</a></li>-->
 					<li role="presentation"> <a href="2016_AA_LIO_planning.php">LIO Planning</a></li>
 					<li role="presentation"> <a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
 		
@@ -112,8 +112,8 @@
 					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
 				<!-- InstanceEndEditable -->
 					<ul class="nav-rightside-custom">
-						<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li><a href="#">2009 State of the Sound Focal Ecosystem Components Identification and Rating of Threats</a></li>
+						<!-- InstanceBeginEditable name="right_nav_links" --><!--
+				<li><a href="#">2009 State of the Sound FocalEcosystem Components Identification and Rating of Threats</a></li> -->
 	
 						<!-- InstanceEndEditable -->
 					</ul>

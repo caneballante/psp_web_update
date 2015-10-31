@@ -73,19 +73,21 @@
 		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			
-			<p>Each year, the U.S. Congress allocates [$X] to the U.S. Environmental Protection Agency, [$Y] of which is dedicated to the National Estuary Program. These funds are distributed among the country&rsquo;s 28 estuaries of national significance. </p>
-<p>EPA distributes Puget Sound&rsquo;s funds across lead organizations consistent with the Action Agenda goals and priorities, and those organizations administer the grants to hundreds of other organizations working to protect, restore and maintain Puget Sound&rsquo;s environmental health. Beginning in 2015, funding will focus on three areas:</p>
+			<p>Between 2003 and 2013, Congress allocated $230 million to the U.S. Environmental Protection Agency for National Estuary Program grants. These funds are distributed among the country's 28 estuaries of national significance. </p>
+			<p>On average, NEPs leveraged $18 for every $1 from the EPA to protect and restore important habitat, support critical land acquisitions, upgrade wastewater and stormwater infrastructure, conduct outreach and education, and implement other priority actions contained in their Comprehensive Conservations Management Plans.			</p>
+			<p>EPA distributes Puget Sound&rsquo;s funds across lead organizations consistent with the Action Agenda goals and priorities, and those organizations administer the grants to hundreds of other organizations working to protect, restore and maintain Puget Sound&rsquo;s environmental health. Beginning in 2015, funding will focus on three areas:</p>
 			<ul>
 				<li>Reducing stormwater pollution</li>
 				<li>Restoring and protecting habitat</li>
 				<li>Restoring and protecting shellfish beds</li>
 			</ul>
-			<p><strong>Funding gaps</strong><br>
-				Ongoing investment in Puget Sound recovery is essential to capitalize on yesterday&rsquo;s successes, sustain today&rsquo;s momentum and lay the groundwork for future recovery. Our critical task is to focus our attention, energies, and limited resources on the investments most likely to reverse Puget Sound&rsquo;s decline. </p>
-			<p>Crucial funding gaps include:</p>
-			<ul>
-				<li><strong><em>[Include information from ECB funding strategy and SOS work]</em></strong></li>
-			</ul>
+			<h2>Funding gaps</h2>
+			<p>Ongoing investment in Puget Sound recovery is essential to capitalize on yesterday's successes, sustain today's momentum, and lay the groundwork for future recovery. Our critical task is to focus our attention, energies, and limited resources on the investments most likely to reverse Puget Sound's decline. </p>
+			<p>Lack of funding has been identified as our partners' leading barrier to implementing Puget Sound recovery actions. In 2014, the Ecosystem Coordination Board--the Partnership's policy advisory body--commissioned a funding strategy to identify funding priorities, current investments, and needs for investment. </p>
+			<p><img class="img-responsive" src="images/2015-SOS-funding-gap.jpg" width="425" height="273" alt=""/></p>
+			<br>
+			<p>For more information about the Ecosystem Coordination Board's funding strategy, visit the <a href="sos.php">State of the Sound website</a>. </p>
+<p>&nbsp;</p>
 		<!-- InstanceEndEditable -->
 		</div>
 	

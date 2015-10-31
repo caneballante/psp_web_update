@@ -80,16 +80,7 @@
 						
 									
 							
-								<tr>
-								  <td class="">October 28</td>
-								  <td class=""><p><a href="https://www.google.com/maps/dir/47.2456943,-122.4405864/Port+of+Everett,+1205+Craftmen+Way,+Everett,+WA+98201/@47.6170338,-122.7973304,9z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x549aaab49714d6f1:0xc7a72d5562cfa029!2m2!1d-122.2168576!2d48.0030358!3e0">Port of Everett Waterfront Center</a><br />
-								  	Heron Room<br />
-								  	1205 Craftsman Way<br />
-								  	Everett, WA 98201<br />
 							
-									</p></td>
-								  <td class=""><a href="https://pspwa.app.box.com/s/3subpdfqm3t2ymzfhilyocj4yqo0qa3n">Meeting Materials</a></td>
-						  </tr>
 							
 								
 						 
@@ -101,7 +92,7 @@
 								</tr>
 <tr>
 										<td class="">February 25 – 26</td>
-										<td class=""><p><a href="downloads/directions/WSU Puyallup - Directions.pdf">Washington State University Research Center</a><br />
+										<td class=""><p>Washington State University Research Center<br />
 									    Allmendinger Center<br />
 									    2606 West Pioneer<br />
 									    Puyallup, WA 98371</p></td>
@@ -110,20 +101,20 @@
 								<tr>
 								  <td >April 23</td>
 								  <td><p>Puget Sound Partnership<br />
-								    <a href="downloads/directions/UWatersMap2010.pdf">Center for Urban Waters</a><br />
+								    Center for Urban Waters<br />
 326 East D Street, third floor<br />
 Tacoma, WA 98421-1801</p></td>
 								  <td >Temporarily Unavailable</td>
 						  </tr> 		<tr>
 								  <td >June 24 – 25</td>
-								  <td><p><a href="https://app.box.com/s/konwaksml6jmddjzhecapulitabxkvt6">Western Washington University</a><br />
+								  <td><p>Western Washington University<br />
 								  		Viking Union Room 565<br />
 								  		516 High Street<br />
 								  		Bellingham, WA 98225</p></td>
 								  <td >Temporarily Unavailable</td>
 						  </tr> 
 							<tr>
-										<td class=""><p>August 6</p></td>
+										<td class="">August 6</td>
 										<td class=""><p>Washington State Capitol<br />
 										  Legislative Building<br />
 										  Columbia Room<br />
@@ -131,6 +122,16 @@ Tacoma, WA 98421-1801</p></td>
 									    Olympia, WA 98504</p></td>
 										<td class="">Temporarily Unavailable</td>
 								</tr>	
+									<tr>
+								  <td class="">October 28</td>
+								  <td class=""><p>Port of Everett Waterfront Center<br />
+								  	Heron Room<br />
+								  	1205 Craftsman Way<br />
+								  	Everett, WA 98201<br />
+							
+									</p></td>
+								  <td class=""><a href="https://pspwa.app.box.com/s/3subpdfqm3t2ymzfhilyocj4yqo0qa3n">Meeting Materials</a></td>
+						  </tr>
 						</table>
 			
 			<!-- InstanceEndEditable -->

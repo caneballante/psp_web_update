@@ -73,23 +73,28 @@
 		<div class="col-sm-7 padding-20-top content-column">
 		<!-- InstanceBeginEditable name="6col_content" -->
 			<p>Communication is a crucial part of Puget Sound recovery, whether you are informing decision-makers about policy actions or encouraging the public to adopt estuary-friendly behaviors. Effective communication, however, can be challenging. This is especially true when conveying the complex, long-term recovery efforts that National Estuary Program funding frequently supports. </p>
-			<p>Our collective story about Puget Sound recovery is more powerful when informed by the people who are doing this great work! To that end, we&rsquo;ve created a suite of communications tools and best practices designed to enhance and support your work, while helping us capture a cohesive and compelling story about the National Estuary Program.
-			<br>
+			<p>Our collective story about Puget Sound recovery is more powerful when informed by the people who are doing this great work! To that end, we&rsquo;ve created a suite of communications tools and best practices designed to enhance and support your work, while helping us capture a cohesive and compelling story about the National Estuary Program. <br>
 			</p>
-			<p>National Estuary Program funding recipients – please email <a href="mailto:alicia.lawver@psp.wa.gov">Alicia Lawver</a> to receive the toolkit&rsquo;s templates, worksheets and other resources.<br>
-				<br>
-				<br>
-				<br>
-				<br>
-				<br>
-				<br>
-				<br>
-			</p>
+			<p>National Estuary Program funding recipients – please email <a href="mailto:alicia.lawver@psp.wa.gov">Alicia Lawver</a> to receive the toolkit&rsquo;s templates, worksheets and other resources. </p>
 			<!-- InstanceEndEditable -->
 		</div>
 	
 		<div class="col-sm-2 padding-20-top padding-0-right"> 
-			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat -->
+			<!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> 
+			<!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
+			<!-- InstanceEndEditable -->
+					<ul class="nav-rightside-custom">
+						<!-- InstanceBeginEditable name="right_nav_links" -->
+				
+				
+					<p class="right-nav-contact">For questions about the NEP Toolkit contact :<br />
+					<strong>Alicia Lawver</strong>									<a href="mailto:Alicia.lawver@psp.wa.gov">Alicia.lawver@psp.wa.gov</a><br>
+					Public Information Officer and Partnerships Communication Lead<br>
+					360.464.2011 </p>
+						<!-- InstanceEndEditable -->
+					</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 		</div>
 	</div>
 	<!--END OF ROW -->

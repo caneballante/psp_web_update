@@ -82,7 +82,7 @@
 				<li>Reviewing updated material with the Science Panel and Ecosystem Coordination Board </li>
 				<li>Clearly communicating the updates </li>
 			</ul>
-			The Puget Sound Partnership is helping to coordinate three <a href="2016_Strategic_Initiative_transition_teams.php">Strategic Initiative Transition Teams,</a> which will be responsible for the  solicitation, review, evaluation, and recommendation of content for the 2016/17 Action Agenda Update.
+			<p>The Puget Sound Partnership is helping to coordinate three <a href="2016_SITT.php">Strategic Initiative Transition Teams,</a> which will be responsible for the  solicitation, review, evaluation, and recommendation of content for the 2016/17 Action Agenda Update.</p>
 			<h2> What is the role of the Leadership Council, Ecosystem Coordination Board, and Science Panel? </h2>
 			<ul>
 				<li><strong>Science Panel and Ecosystem Coordination Board</strong></li>

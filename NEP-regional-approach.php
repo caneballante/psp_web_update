@@ -74,10 +74,10 @@
 			
 			<p>With hundreds of organizations and thousands of projects dedicated to recovering Puget Sound&rsquo;s health, aligning those efforts is both necessary and challenging. With National Estuary Program support, Puget Sound partners work together to develop the Puget Sound Action Agenda – the organizing framework guiding Puget Sound recovery efforts. The Puget Sound Partnership, in turn, leads implementation of the agenda, creating and implementing systems and programs that make Puget Sound restoration, protection and recovery efforts:</p>
 			<ol>
-				<li><strong>Accountable</strong> - the Partnership tracks the progress of Action Agenda implementation and individual project performance; &nbsp;</li>
-				<li><strong>Measurable</strong> - the Partnership assesses environmental progress and evaluates the effectiveness of key management actions; &nbsp;</li>
-				<li><strong>Rigorous and Adaptive</strong> - the Partnership supports, synthesizes and communicates relevant science information to improve management programs, and to identify and adapt to emerging threats; </li>
-				<li><strong>Aligned and Integrated</strong> - the Partnership works with local entities to align and integrate their programs with ecosystem-level priorities and strategies.</li>
+				<li><strong>Accountable</strong> - The Partnership tracks the progress of Action Agenda implementation and individual project performance. &nbsp;</li>
+				<li><strong>Measurable</strong> - The Partnership assesses environmental progress and evaluates the effectiveness of key management actions. &nbsp;</li>
+				<li><strong>Rigorous and Adaptive</strong> - The Partnership supports, synthesizes and communicates relevant science information to improve management programs, and to identify and adapt to emerging threats. </li>
+				<li><strong>Aligned and Integrated</strong> - The Partnership works with local entities to align and integrate their programs with ecosystem-level priorities and strategies.</li>
 			</ol>
 			<h2>Making progress</h2>
 				<p>Though the health of Puget Sound is still declining, we are developing the capacity and tools necessary to sustain and accelerate progress towards recovery. </p>
