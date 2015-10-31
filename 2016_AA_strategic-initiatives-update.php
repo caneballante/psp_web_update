@@ -95,7 +95,7 @@
 				<li><a href="https://pspwa.box.com/s/b3iieraen1whjazkjtja0r36klmtr20s" target="new">Stormwater Strategic Initiative</a></li>
 				<li><a href="https://pspwa.box.com/s/pekkfqwd3yrei3owp7z0hv1ln7gzfpb7" target="new">Habitat Strategic Initiative</a></li>
 				<li><a href="https://pspwa.box.com/s/lyaeaud40hpsfn6p4gcr8s5sm7piy8t7" target="new">Shellfish Strategic Initiative</a></li>
-				<li>Strategic Initiative Cross-Cutting Sub-Strategies</li>
+				<li><a href="https://pspwa.box.com/s/dvbfvz44wgv95botsgu1kmttyrr7b3m4">Strategic Initiative Cross-Cutting Sub-Strategies</a></li>
 			</ul>
 			<!-- InstanceEndEditable -->
 		</div>

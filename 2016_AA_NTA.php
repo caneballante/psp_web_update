@@ -86,19 +86,19 @@
 			<p><br />
 				Solicitation Materials:<br />
 				<br />
-				<strong><a href="https://pspwa.app.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud">Regional NTA Solicitation</a></strong> <br />
+				<strong><a href="https://pspwa.app.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud" target="new">Regional NTA Solicitation</a></strong> <br />
 				The regional NTA solicitation is the official request for Near Term Actions for the new regional 2-year Implementation Plan component of the Action Agenda.  It contains eligibility requirements, submittal requirements, evaluation criteria, regional priorities, and the NTA review process and deadlines.<br />
 				<br />
-				<strong><a href="https://pspwa.box.com/shared/static/cbg1fws6j5on4tk23pt152tapurtgqzt.xlsx">NTA Submittal Form</a></strong><br />
+				<strong><a href="https://pspwa.box.com/shared/static/cbg1fws6j5on4tk23pt152tapurtgqzt.xlsx" target="new">NTA Submittal Form</a></strong><br />
 				Download this form to write up your NTA proposal.<br />
 				<br />
-				<strong><a href="https://pspwa.box.com/s/pjl5i0w276loocwr61pf50pvxk9k1ha5">NTA Submittal Form Instructions</a></strong> <br />
+				<strong><a href="https://pspwa.box.com/s/pjl5i0w276loocwr61pf50pvxk9k1ha5" target="new">NTA Submittal Form Instructions</a></strong> <br />
 				Full instructions for filling out the NTA Submittal Form.<br />
 				<br />
-				<strong><a href="https://app.smartsheet.com/b/form?EQBCT=9fdf5e520d4e4a958ed1a04210c68a10">NTA Submittal Portal</a></strong> <br />
+				<strong><a href="https://app.smartsheet.com/b/form?EQBCT=9fdf5e520d4e4a958ed1a04210c68a10" target="new">NTA Submittal Portal</a></strong> <br />
 				Use this portal to submit your NTA before the deadline at 10am on December 31, 2015. <br />
-				<strong><a href="https://pspwa.box.com/s/ym914rupdzwsber2q56c6945q8glq0qd"><br />
-				NTA Resources</a></strong><br />
+			<br>
+	<strong><a href="https://pspwa.box.com/s/ym914rupdzwsber2q56c6945q8glq0qd" target="new">NTA Resources</a></strong><br />
 				FAQs, guidance, and resources for NTA owners and LIOs are available here. Check periodically for the latest updates.</p>
 			<div>
 				<div> </div>
