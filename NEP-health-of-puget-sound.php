@@ -89,10 +89,10 @@
 			<li>Local improvements in water quality do not add up to regional trends in progress.</li>
 			<li>Improvement in the water quantity goal likely short-lived.</li>
 			<li>Lack of change can be good, depending on the status of indicators.</li>
-			<p><a href="sos.php">Learn more</a></p>
+			<p><a href="sos.php">Learn more from the 2015 State of the Sound</a></p>
 			<h2>WHY IS RECOVERY IMPORTANT?</h2>
 			<p>While we have made progress toward a few recovery targets, overall we are only slowing down Puget Sound degradation. We need to focus and intensify our efforts to restore this beautiful, bountiful place we call home.<strong></strong></p>
-			<p>&As stated in the Puget Sound <a href="http://www.psp.wa.gov/scienceplan.php">Strategic Science Plan</a>, &ldquo;the need for action is urgent, as human population growth, climate change and other forces are fundamentally altering Puget Sound…In a setting of moving baselines, the traditional view of restoration – that is restoration to a set of historically defined conditions – may no longer be valid.&rdquo;</p>
+			<p>As stated in the Puget Sound <a href="science-strategic-science-plan.php">Strategic Science Plan</a>, &ldquo;the need for action is urgent, as human population growth, climate change and other forces are fundamentally altering Puget Sound…In a setting of moving baselines, the traditional view of restoration – that is restoration to a set of historically defined conditions – may no longer be valid.&rdquo;</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

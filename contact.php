@@ -35,18 +35,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image12"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -61,33 +57,29 @@
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="staff.php">PARTNERSHIP STAFF</a></li>
-				<li role="presentation"> <a href="press.php">PRESS RELEASES</a></li>
-				<li role="presentation"> <a href="employment.php">EMPLOYMENT OPPORTUNITIES</a></li>
-				<li role="presentation"> <a href="programs.php">PROGRAM DESCRIPTIONS</a></li>
-				<li class="active" role="presentation"> <a href="contact.php">CONTACT US</a></li>
+		<?php include 'includes/ln-psp-overview.html';?>	
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">For general information:</h2>
+			<h3 class="margin-0-top">For general information:</h3>
 			<p> Phone: 360.464.1232 </p>
-			<p> Email: info@psp.wa.gov</p>
-			<h2>Mailing Address:</h2>
-			<h3>Main Office</h3>
+			<p> Email: info@psp.wa.gov</p><br>
+			<?php include('includes/media_contact.html')?><br>
+			<h3>Main Office:</h3>
 			<p>Puget Sound Partnership
 			<p>326 East D Street, Tacoma, WA 98421</p>
-			<h3>Olympia Office</h3>
+			<h3>Olympia Office:</h3>
 			<p>1111 Washington Street SE, Olympia, WA 98504-7000</p>
-			<h3>MAILING ADDRESS</h3>
+			<h3>MAILING ADDRESS:</h3>
 			<p> Puget Sound Partnership, <br>
 				PO Box WT-41, Olympia, WA 98504-7000 </p>
 			<p>&nbsp;</p>
 			<h3>Please send public record requests to:</h3>
 			<p> public.records@psp.wa.gov</p>
-			<p>&nbsp;</p>
-			<?php include('includes/media_contact.html')?>
+			
+			
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>

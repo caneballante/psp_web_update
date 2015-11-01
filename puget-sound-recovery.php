@@ -35,18 +35,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image5"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -73,14 +69,14 @@
 <p>For the purposes of Puget Sound ecosystem recovery, Puget Sound is defined as all saltwaters inside the international boundary line between Washington and British Columbia and lying east of the junction of the Pacific Ocean and the Strait of Juan de Fuca. It also includes the entire watershed—the rivers and streams that drain into Puget Sound, the lands that drain into those surface waters, as well as the Strait of Juan de Fuca and the San Juan islands. </p>
 <p>Considered the largest estuary by volume in the United States (with perhaps the exception of unexplored estuaries in Alaska), the Puget Sound is deep and vast, a complex ecosystem encompassing mountains, farmlands, cities, rivers, forests, and wetlands.</p>
 <p>Humans have long relied on the Puget Sound watershed for healthy food and clean water and the other services it provides, like reducing the impact of droughts and floods. Puget Sound supports a large part of our state&rsquo;s economy and provides vital recreational, spiritual, and other essential quality of life benefits. </p>
-<strong><a href="http://www.eopugetsound.org">Encyclopedia of Puget Sound</a></strong>  |  <strong><a href="http://www.eopugetsound.org/articles/2015-puget-sound-fact-book">Puget Sound Fact Book</a></strong><a href="#">
+<strong><a href="http://www.eopugetsound.org" target="new">Encyclopedia of Puget Sound</a></strong>  |  <strong><a href="http://www.eopugetsound.org/articles/2015-puget-sound-fact-book" target="new">Puget Sound Fact Book</a></strong><a href="#">
 </p>
 </a>
 			<h2>WHAT IS THE PROBLEM</h2>
 				<p>Human use over the past century has damaged Puget Sound. </p>
 				<p>The Puget Sound region is experiencing degradation of water quality, water quantity, and habitat. Many species are in decline, while the human population keeps growing, bringing with it more land development, more infrastructure, and more pollution. And the threat of climate change is ever-present, with warmer streams and ocean waters, reduced snowpack, more extreme weather events, and increased fires and floods. As a result, the pressures on the ecosystem are relentless and continue to take their toll on Puget Sound and the wellbeing of residents around the region.</p>
 			<p>Puget Sound will never be the same as it was 100 years ago. But the future wellbeing of Puget Sound and residents around the region is being defined by today&rsquo;s actions. </p>
-	<strong><a href="sos.php">State of the Sound</a></strong> | <strong><a href="vitalsigns/">Puget Sound Vital Signs</a></strong><a href="vitalsigns/">
+	<strong><a href="sos.php">State of the Sound</a></strong> | <strong><a href="http://www.psp.wa.gov/vitalsigns/" target="new">Puget Sound Vital Signs</a></strong>
 	</p>
 	</a>		<!-- InstanceEndEditable --> </div>
 		

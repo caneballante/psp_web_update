@@ -28,7 +28,7 @@
   	navSelected = 6;
 </script> 
 
-<?php /*?><?php
+<?php
 include_once('.newinclude.php');
 $con=new MyPDO();
 $qry = "SELECT id,DATE_FORMAT(dateCreated, '%m-%d-%Y') as CreationDate,title,org,storyLink,pspRel FROM story WHERE pspRel='true' AND dateCreated > '20111231' and dateCreated < '20151231' ORDER BY dateCreated DESC ";
@@ -36,7 +36,7 @@ $stmt=$con->prepare($qry);
 
 if($stmt->execute()) { 
 $num=$stmt->rowCount();
-?><?php */?>
+?>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -45,18 +45,14 @@ $num=$stmt->rowCount();
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image12"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -85,7 +81,7 @@ $num=$stmt->rowCount();
 	  <p>This will work when we launch</p>
 <div class="news">
 <table>             
-<?php /*?><?php
+<?php
 $rows=$stmt->fetchAll(PDO::FETCH_NUM);
 #print_r($rows);
 #setlocale(LC_ALL, 'en_US');
@@ -101,7 +97,7 @@ $row[$rw]=mb_convert_encoding(stripslashes($val), 'UTF-8', 'UTF-8');}
 #if(!empty($row[3])) { echo $row[3]."</td>";} else {echo "</td>";}
 }
 }
-?><?php */?></tr>
+?></tr>
 	  						</table>
 </div>		
 		

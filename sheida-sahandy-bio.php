@@ -31,18 +31,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image12"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -56,26 +52,17 @@
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="staff.php">PARTNERSHIP STAFF</a></li>
-				<li role="presentation"> <a href="press.php">PRESS RELEASES</a></li>
-				<li role="presentation"> <a href="employment.php">EMPLOYMENT OPPORTUNITIES</a></li>
-				<li role="presentation"> <a href="programs.php">PROGRAM DESCRIPTIONS</a></li>
-				<li class="active" role="presentation"> <a href="contact.php">CONTACT US</a></li>
+				<?php include 'includes/ln-psp-overview.html';?>
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		
-		
-	
-		<img class="pull-right" src="images/sahandy_headshot01.jpg" width="130" height="148" alt=""/>
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> <img class="pull-right" src="images/sahandy_headshot01.jpg" width="130" height="148" alt=""/>
 			<p class="margin-0-top"><strong>Sheida Sahandy, Executive Director</strong><br>
-			Puget Sound Partnership</p>
-				<p>Sheida R. Sahandy was appointed by Washington Gov. Jay Inslee in January 2014 as executive director of the Puget Sound Partnership, the state agency leading the recovery of Puget Sound.</p>
-				<p>Previously, Sheida spent eight years as Assistant to the City Manager for the City of Bellevue where she led strategic initiatives and was responsible for creating the City’s first city-wide environmental stewardship initiative. Prior to joining the public service sector, Sheida spent seven years as a corporate attorney.</p>
+				Puget Sound Partnership</p>
+			<p>Sheida R. Sahandy was appointed by Washington Gov. Jay Inslee in January 2014 as executive director of the Puget Sound Partnership, the state agency leading the recovery of Puget Sound.</p>
+			<p>Previously, Sheida spent eight years as Assistant to the City Manager for the City of Bellevue where she led strategic initiatives and was responsible for creating the City’s first city-wide environmental stewardship initiative. Prior to joining the public service sector, Sheida spent seven years as a corporate attorney.</p>
 			<p>Sheida earned her Master of Public Administration from Harvard’s Kennedy School of Government where she concentrated her studies on climate, energy and the environment. She also earned a Juris Doctorate from Columbia University’s School of Law, and a Bachelor of Arts from the University of California at Berkeley, where she studied environmental design and the biological sciences.</p>
-		
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
