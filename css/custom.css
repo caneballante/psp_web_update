@@ -121,6 +121,12 @@ p {
 .green-fill {
 	background-color: #C6B42F;
 }
+.orange-fill {
+	background-color: #EF892E;
+}
+.orange-fill-trans {
+	background-color: rgba(247,179,51,0.59);
+}
 .light-blue-fill {
 	background-color: #51748d;
 }
@@ -567,6 +573,11 @@ intro .brand-heading {
 	display: none;
 }
 }
+/*setting up positioning for adding a color bar and logo to SOS*/
+.overview-logo-banner{
+	margin-top:291px;
+}
+
 .overview-quote {
 	width: 20%;
 	margin: 0px 50px 0px 0px;
