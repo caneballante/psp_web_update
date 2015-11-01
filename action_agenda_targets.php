@@ -23,10 +23,7 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-<script>
-/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 5;
-</script>
+
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -51,8 +48,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2016 action agenda UPDATE:<br>
-				STRATEGIC INITIATIVE TRANSITION TEAMS<br>
+			<h1>action agendA  TARGETS<br>
 			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -62,49 +58,35 @@
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-2016-AA.html';?>
+			
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Three Strategic Initiative Transition Teams – Habitat, Shellfish, and Stormwater – were established in July 2015 to help develop the 2-year Implementation Plan, which is a component of the 2016-17 Puget Sound Action Agenda Update. </p>
-			<p>Each transition team will focus on one of the three strategic initiatives that serve to prioritize recovery efforts within the 2-year Implementation Plan of the Action Agenda: </p>
-			<ul>
-				<li><strong>Habitat Team</strong>: Protect and restore habitat</li>
-				<li><strong>Shellfish Team</strong>: Protect and recover shellfish beds</li>
-				<li><strong>Stormwater Team</strong>: Prevent pollution from urban stormwater runoff</li>
-			</ul>
-			<p>Issues that affect all three strategic initiatives, called cross-cutting issues, will be coordinated between the teams.</p>
-			<p>The teams are key to the development of the Action Agenda and have the following responsibilities:</p>
-			<ul>
-				<li><strong>Identify </strong>regional recovery and protection priorities.</li>
-				<li><strong>Review </strong>the early elements of Local Integrating Organization (LIO) 5-year Ecosystem Recovery Plans.</li>
-				<li><strong>Develop</strong> criteria for the review of Near Term Actions.</li>
-				<li><strong>Solicit, review, and prioritize</strong> local and regional Near Term Actions.</li>
-				<li>Help <strong>guide</strong> the development of the next three Implementation Strategies.</li>
-			</ul>
-			<p>Team members are technical and policy experts recruited from across the Puget Sound region. They represent a range of local, regional, and tribal experience and perspectives. The teams are jointly coordinated by:</p>
-			<ul>
-				<li>U.S. Environmental Protection Agency – Puget Sound National Estuary Program</li>
-				<li>Puget Sound Partnership</li>
-				<li>Washington State Department of Fish &amp; Wildlife</li>
-				<li>Washington State Department of Natural Resources</li>
-				<li>Washington State Department of Health</li>
-				<li>Washington State Department of Ecology</li>
-				<li>Northwest Indian Fisheries Commission</li>
-			</ul>
-			<p>More information:</p>
-			<ul>
-				<li><a href="https://pspwa.box.com/s/aljvmzjv0hm25v9dlirew88jgr2956a8">Team Products</a></li>
-				<li><a href="https://pspwa.box.com/s/gyobskbk3fpffnz528enfr06croiza0f">Team Resources</a></li>
-				<li><a href="https://pspwa.box.com/s/pxng8bv0uzjv6isaf262ln6us7ii46t0">Roster of Team Members</a></li>
-				<li><a href="https://pspwa.box.com/s/gfhf1hg9iq33x9qjr9igkdmadcltj7ag">Team Orientation Workshop Proceedings</a></li>
-				<li><a href="https://pspwa.box.com/s/zcm1r1wm1w5674qvoaxiuzmem319xcvu">Recruitment and Selection Process Summary </a></li>
-				<li><a href="2016_AA_strategic-initiatives-update.php">Strategic Initiatives</a></li>
-				<li><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
-				<li><a href="2016_AA_LIO_planning.php">Local Integrating Organization (LIO) planning</a></li>
-			</ul>
+	<p>Setting targets was a critical part of the  Action Agenda. In 2012, The Partnership adopted ecosystem recovery targets as policy statements that reflect the region's commitments to and expectations for recovery, or a measurable path to recovery, by 2020. Targets are based on scientific understandings of the ecosystem.</p>
+  <p>The Partnership will use targets to guide revisions to the Action Agenda, focus near-term actions, recommend allocations of funding and other resources to specific strategies and actions, and to evaluate Action Agenda implementation. The Partnership intends for all entities implementing the Action Agenda to make use of these targets as they identify and design activities that contribute to ecosystem recovery, allocate funding and other resources for Puget Sound recovery, and evaluate the effects of their investments and activities.</p>
+  <h2>Information on Specific 2020 Targets</h2>
+  <p><a href="downloads/AA2011/2011_Targets_11_03_11.pdf"><strong>Approved Targets (PDF)</strong></a><br />
+      <a href="http://www.psp.wa.gov/LC_resolutions.php"><strong>Leadership Council Resolutions</strong></a><br />
+      <strong><a href="downloads/AA2011/TargetBackgroundJune2011.pdf">Overview of the 2020 Targets(PDF)</a></strong></p>
+  <p><strong>Interim Targets</strong></p>
+  <p>The purpose of adopting interim targets is to provide shorter timeframes for measuring progress towards achieving the 2020 targets that can inform adaptive management of the overall Action Agenda.  At their October 25 and 26, 2012 meeting, the Leadership Council adopted the following interim targets.</p>
+  <ul>
+    <li><a href="downloads/interimtargets/Swimming Beaches Interim Targets - FINAL.pdf">Swimming Beaches</a> (PDF)</li>
+    <li><a href="downloads/interimtargets/On-site Sewage Systems Interim Targets - FINAL.pdf">On-Site Sewage Systems</a> (PDF)</li>
+    <li><a href="downloads/interimtargets/Summer Stream Flows Interim Targets - FINAL.pdf">Summer Stream Flows </a>(PDF)</li>
+    <li><a href="downloads/interimtargets/Toxics in Fish Interim Targets - FINAL.pdf">Toxics in Fish </a>(PDF)</li>
+    <li><a href="downloads/interimtargets/Shellfish Beds Interim Targets - FINAL.pdf">Shellfish Beds</a> (PDF)</li>
+    <li><a href="downloads/interimtargets/Estuaries Interim Targets - FINAL.pdf">Estuaries </a>(PDF)</li>
+    <li><a href="downloads/interimtargets/Eelgrass Interim Targets - FINAL.pdf">Eelgrass </a>(PDF)</li>
+    <li><a href="downloads/interimtargets/Marine Water Quality Interim Targets -FINAL.pdf">Marine Water Quality</a> (PDF)</li>
+    <li><a href="downloads/interimtargets/Floodplains Interim Targets - FINAL.pdf">Floodplains </a>(PDF)</li>
+    <li><a href="downloads/interimtargets/Chinook Interim Targets - FINAL.pdf">Chinook </a>(PDF)</li>
+    <li><a href="downloads/interimtargets/Orcas Interim Targets - FINAL.pdf">Orcas </a>(PDF)</li>
+    <li><a href="downloads/interimtargets/Marine Sediment Quality Interim Targets -FINAL.pdf">Marine Sediment Quality</a> (PDF)</li>
+  </ul>
+  <p>&nbsp;</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
