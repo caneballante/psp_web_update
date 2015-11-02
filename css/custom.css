@@ -575,7 +575,7 @@ intro .brand-heading {
 }
 /*setting up positioning for adding a color bar and logo to SOS*/
 .overview-logo-banner{
-	margin-top:291px;
+	
 }
 
 .overview-quote {
@@ -586,6 +586,13 @@ intro .brand-heading {
 	top: 90%;
 	transform: translateY(-90%);
 }
+
+@media (max-width: 768px) {
+.overview-quote {
+	display:none;
+}
+}
+	
 .overview-quote h3 {
 	font-size: 14px;
 	color: #fff;
