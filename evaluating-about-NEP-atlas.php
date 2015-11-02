@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -35,17 +36,13 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image17"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
@@ -56,8 +53,7 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
@@ -65,12 +61,9 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The National Estuary Program, or NEP, Atlas is an online and interactive tool composed of maps, tables, graphs, and links to reports pertaining to all NEP-funded activities from 2007 onward. The main purpose of the NEP Atlas is to consistently track and communicate Puget Sound NEP activities and funding that relate to the Puget Sound Action Agenda. In addition, the NEP Atlas provides a range of tools for NEP funding recipients to showcase their accomplishments and disseminate information about their work. LINK COMING SOON</p>
-		
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
@@ -98,4 +91,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>

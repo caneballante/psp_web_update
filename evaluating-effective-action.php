@@ -23,6 +23,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 3;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -31,18 +35,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image1"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -57,11 +57,7 @@
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="evaluating-health-of-puget-sound.php">EVALUATING THE HEALTH OF PUGET SOUND</a></li>
-				<li role="presentation"> <a href="evaluating-vital-signs.php">PUGET SOUND VITAL SIGNS</a></li>
-				<li class="active" role="presentation"> <a href="evaluating-effective-action.php">EFFECTIVENESS MONITORING</a></li>
-				<li role="presentation"><a href="evaluating-PSEMP.php">PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP)</a></li>
-				<li role="presentation"> <a href="evaluating-human-wellbeing.php">HUMAN WELLBEING</a></li>
+				<?php include 'includes/ln-eval-health.html';?>
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
@@ -77,7 +73,7 @@
 			<h2>Fact Sheets and Narrative Summaries </h2>
 			<p>The Action Agenda is the roadmap for recovering Puget Sound and includes three Strategic Initiatives designed to focus recovery efforts. </p>
 			<!-- Strategic Initiative Break -->
-		<table class="table">
+			<table class="table">
 				<tr>
 					<td colspan="2" class="tableheader"><h3><span class="tableheadertext">Strategic Initiative: Restore and re-open shellfish beds</span></h3></td>
 				</tr>
@@ -177,40 +173,38 @@
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
-					<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
-						<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">LINKS TO PARTNERS</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/mar_wat/surface.html">Eyes Over Puget Sound</a></li>
-					<li role="presentation"> <a href="http://www.nanoos.org/">NW Association of Networked Ocean Observing Systems (NANOOS)
-</a></li>
-					<li role="presentation"> <a href="http://wdfw.wa.gov/conservation/fisheries/sasi/">WDFW Salmon and Steelhead Inventory</a></li>
-					<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology – Environmental Assessment Program</a></li>
-					<li role="presentation"> <a href="http://www.pnamp.org/">PNAMP</a></li>
-					<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
-						<!-- InstanceEndEditable -->
+				<li class="active" role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/mar_wat/surface.html">Eyes Over Puget Sound</a></li>
+				<li role="presentation"> <a href="http://www.nanoos.org/">NW Association of Networked Ocean Observing Systems (NANOOS) </a></li>
+				<li role="presentation"> <a href="http://wdfw.wa.gov/conservation/fisheries/sasi/">WDFW Salmon and Steelhead Inventory</a></li>
+				<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology – Environmental Assessment Program</a></li>
+				<li role="presentation"> <a href="http://www.pnamp.org/">PNAMP</a></li>
+				<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">RELATED DOCUMENTS</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
-					<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
-					
-					<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
-			<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
-					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
-						<!-- InstanceEndEditable -->
+				<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
+				<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
+				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
+				<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
+					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>--> 
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>

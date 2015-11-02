@@ -23,6 +23,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 2;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -31,18 +35,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image1"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -57,11 +57,7 @@
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="evaluating-health-of-puget-sound.php">EVALUATING THE HEALTH OF PUGET SOUND</a></li>
-				<li class="active" role="presentation"> <a href="evaluating-vital-signs.php">PUGET SOUND VITAL SIGNS</a></li>
-				<li role="presentation"> <a href="evaluating-effective-action.php">EFFECTIVENESS MONITORING</a></li>
-				<li role="presentation"><a href="evaluating-PSEMP.php">PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP)</a></li>
-				<li role="presentation"> <a href="evaluating-human-wellbeing.php">HUMAN WELLBEING</a></li>
+					<?php include 'includes/ln-eval-health.html';?>
 	
 			<!-- InstanceEndEditable -->
 			</ul>
@@ -70,7 +66,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 			<h2 class="margin-0-top">PUGET SOUND VITAL SIGNS</h2>
-			<p>To track progress toward recovery goals for Puget Sound, the Partnership chose a specific set of measures called the Puget Sound Vital Signs. The Vital Signs gauge the health of Puget Sound in a way that is scientifically valid and also resonates with the public. Tracking and reporting of Vital Signs is the foundation of the shared measurement system the Partnership relies on to show collective impact.  <a href="www.psp.wa.gov/vitalsigns/index.php">Learn more </a></p>
+			<p>To track progress toward recovery goals for Puget Sound, the Partnership chose a specific set of measures called the Puget Sound Vital Signs. The Vital Signs gauge the health of Puget Sound in a way that is scientifically valid and also resonates with the public. Tracking and reporting of Vital Signs is the foundation of the shared measurement system the Partnership relies on to show collective impact.  <a href="http://www.psp.wa.gov/vitalsigns/index.php">Visit the Puget Sound Vital Signs web site.</a></p>
 			<img class="img-responsive" src="images/vitalsigns_wheel.png" width="600" height="600" alt=""/> <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

@@ -23,6 +23,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 5;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -31,18 +35,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image1"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -57,12 +57,7 @@
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="evaluating-health-of-puget-sound.php">EVALUATING THE HEALTH OF PUGET SOUND</a></li>
-				<li role="presentation"> <a href="evaluating-vital-signs.php">PUGET SOUND VITAL SIGNS</a></li>
-				<li role="presentation"> <a href="evaluating-effective-action.php">EFFECTIVENESS MONITORING</a></li>
-				<li role="presentation"><a href="evaluating-PSEMP.php">PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP)</a></li>
-				<li class="active" role="presentation"> <a href="evaluating-human-wellbeing.php">HUMAN WELLBEING</a></li>
-	
+				<?php include 'includes/ln-eval-health.html';?>	
 			<!-- InstanceEndEditable -->
 			</ul>
 		</div>

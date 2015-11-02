@@ -23,6 +23,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 1;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -31,18 +35,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image1"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -57,13 +57,8 @@
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-					<li class="active" role="presentation"> <a href="evaluating-health-of-puget-sound.php">EVALUATING THE HEALTH OF PUGET SOUND</a></li>
-				<li role="presentation"> <a href="evaluating-vital-signs.php">PUGET SOUND VITAL SIGNS</a></li>
-				<li role="presentation"> <a href="evaluating-effective-action.php">EFFECTIVENESS MONITORING</a></li>
-				<li role="presentation"><a href="evaluating-PSEMP.php">PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP)</a></li>
-				<li role="presentation"> <a href="evaluating-human-wellbeing.php">HUMAN WELLBEING</a></li>
-	
-			<!-- InstanceEndEditable -->
+				<?php include 'includes/ln-eval-health.html';?>
+				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
 		 
@@ -84,50 +79,45 @@
 					<p>Many restoration and management actions have been effective in restoring ecosystem components and processes in Puget Sound, but much of the evidence of success is found in technical documents that are not easy to access. We are reviewing scientific reports to distill information about what&rsquo;s working to restore Puget Sound. This information, once vetted by regional experts, is presented in fact sheets and narrative summaries that can be used to help develop effective programs and projects that align with the Puget Sound Action Agenda and accelerate the recovery of Puget Sound.&nbsp; <a href="evaluating-effective-action.php">LEARN MORE</a></p>
 					<h2>THE PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP)</h2>
 					<p>Environmental monitoring in Puget Sound is conducted by many state and federal agencies, local governments, tribes, citizen groups, and others. While every monitoring organization has its unique mandates and objectives, the Puget Sound Ecosystem Monitoring Program, or PSEMP, serves as an overarching, voluntary body of representatives sharing a common goal to coordinate, improve, and focus these many efforts in support of our common desire to protect and recover Puget Sound.  PSEMP does this by providing a venue for discussion, collaboration, coordination, collective guidance, and communication among monitoring agencies and organizations operating at a variety of scales. <a href="evaluating-PSEMP.php">LEARN MORE</a></p>
-			
 					<h2>HUMAN WELLBEING</h2>
-					<p>
-					In July 2015, the Partnership’s Leadership Council adopted nine new or revised Vital Signs with associated indicators for Human Health and Quality of Life. These Vital Signs address human wellbeing as it relates to people’s engagement with the natural environment of Puget Sound and include familiar aspects of human health that contribute to our wellbeing, such as physical and psychological health, as well as social, cultural, and economic wellbeing and governance, or the way that people participate in decisionmaking. <a href="evaluating-human-wellbeing.php">LEARN MORE</a></p>
+					<p> In July 2015, the Partnership’s Leadership Council adopted nine new or revised Vital Signs with associated indicators for Human Health and Quality of Life. These Vital Signs address human wellbeing as it relates to people’s engagement with the natural environment of Puget Sound and include familiar aspects of human health that contribute to our wellbeing, such as physical and psychological health, as well as social, cultural, and economic wellbeing and governance, or the way that people participate in decisionmaking. <a href="evaluating-human-wellbeing.php">LEARN MORE</a></p>
 				</div>
 			</div>
-		<!-- InstanceEndEditable --> </div>
+			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
-					<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
-				
-						<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
+				<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/mar_wat/surface.html">Eyes Over Puget Sound</a></li>
-					<li role="presentation"> <a href="http://www.nanoos.org/">NW Association of Networked Ocean Observing Systems (NANOOS)
-</a></li>
-					<li role="presentation"> <a href="http://wdfw.wa.gov/conservation/fisheries/sasi/">WDFW Salmon and Steelhead Inventory</a></li>
-					<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology – Environmental Assessment Program</a></li>
-					<li role="presentation"> <a href="http://www.pnamp.org/">PNAMP</a></li>
-					<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
-						<!-- InstanceEndEditable -->
+				<li class="active" role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/mar_wat/surface.html">Eyes Over Puget Sound</a></li>
+				<li role="presentation"> <a href="http://www.nanoos.org/">NW Association of Networked Ocean Observing Systems (NANOOS) </a></li>
+				<li role="presentation"> <a href="http://wdfw.wa.gov/conservation/fisheries/sasi/">WDFW Salmon and Steelhead Inventory</a></li>
+				<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology – Environmental Assessment Program</a></li>
+				<li role="presentation"> <a href="http://www.pnamp.org/">PNAMP</a></li>
+				<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
-					<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
-					
-					<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
-			<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
-					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
-						<!-- InstanceEndEditable -->
+				<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
+				<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
+				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
+				<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
+					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>--> 
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
