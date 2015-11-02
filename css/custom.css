@@ -78,6 +78,13 @@ h1 {
 	font-weight: 100;
 }
 
+@media (max-width: 768px) {
+h1 {
+	font-size: 25px;
+	font-weight: 100;
+}
+}
+
 /* page-content class is ueed so I can specifically target h1 children in the content areas of inside pages. I'm centering them for mobile*/
 @media (max-width: 768px) {
 .page-content h1 {
@@ -425,13 +432,12 @@ intro .brand-heading {
 /*the little x button to dismiss the dialog needs to be white*/
 .close-custom {
 	color: #ffffff;
-	font-size:30px;
+	font-size: 30px;
 	text-shadow: 0 1px 0 #000;
-	
 }
 /*the clickable area is off of the actual x - overriding bootstrap here seems to fix it*/
 .modal-header .close {
-    margin-top: -10px;
+	margin-top: -10px;
 }
 .close:hover, .close:focus {
 	color: #1590cd;
@@ -510,6 +516,54 @@ intro .brand-heading {
 .overview-page-image20 {
 	background: url(../images/inside_image_20.jpg)no-repeat bottom center scroll;
 }
+.overview-page-image21 {
+	background: url(../images/inside_image_21.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image22 {
+	background: url(../images/inside_image_22.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image23 {
+	background: url(../images/inside_image_23.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image24 {
+	background: url(../images/inside_image_24.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image25 {
+	background: url(../images/inside_image_25.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image26 {
+	background: url(../images/inside_image_26.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image27 {
+	background: url(../images/inside_image_27.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image28 {
+	background: url(../images/inside_image_28.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image29 {
+	background: url(../images/inside_image_29.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image30 {
+	background: url(../images/inside_image_30.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image31 {
+	background: url(../images/inside_image_31.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image32 {
+	background: url(../images/inside_image_32.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image33 {
+	background: url(../images/inside_image_33.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image34 {
+	background: url(../images/inside_image_34.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image35 {
+	background: url(../images/inside_image_35.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image36 {
+	background: url(../images/inside_image_36.jpg)no-repeat bottom center scroll;
+}
 .overview-page-image75 {
 	background: url(../images/inside_image_75.jpg)no-repeat bottom center scroll;
 }
@@ -553,8 +607,6 @@ intro .brand-heading {
 	-o-background-size: cover;
 }
 
-
-
 @media (min-width: 768px) and (max-width: 992px) {
 .overview-page-image-style {
 	height: 280px;
@@ -574,10 +626,8 @@ intro .brand-heading {
 }
 }
 /*setting up positioning for adding a color bar and logo to SOS*/
-.overview-logo-banner{
-	
+.overview-logo-banner {
 }
-
 .overview-quote {
 	width: 20%;
 	margin: 0px 50px 0px 0px;
@@ -589,10 +639,9 @@ intro .brand-heading {
 
 @media (max-width: 768px) {
 .overview-quote {
-	display:none;
+	display: none;
 }
 }
-	
 .overview-quote h3 {
 	font-size: 14px;
 	color: #fff;

@@ -35,7 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -46,11 +46,7 @@
 <div class="overview-quote pull-right"><h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3></div>
 
  </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -84,7 +80,7 @@
 				</ul>
 				<p>Estuaries are also among the most biologically productive ecosystems on earth, supporting Washington&rsquo;s multi-million dollar shellfish, fishing and estuary-dependent tourism and recreation industries.</p>
 <h2>HOW ARE PUGET SOUND ESTUARIES BEING THREATENED?</h2>
-				<p>The <a href=" https://sites.google.com/site/pressureassessment/home" target="new">Puget Sound Pressure Assessment</a> identified 47 stressors affecting Puget Sound, including shoreline hardening, land cover conversion, sea level rise, changes in water flow and quality, pollution, and many more. These stressors threaten plants, fish, shellfish and wildlife; disrupt food webs; degrade and/or reduce aquatic and land habitat; and increase levels of toxic contaminants. </p>
+				<p>The <a href=" https://sites.google.com/site/pressureassessment/home" target="new">Puget Sound Pressures Assessment</a> identified 47 stressors affecting Puget Sound, including shoreline hardening, land cover conversion, sea level rise, changes in water flow and quality, pollution, and many more. These stressors threaten plants, fish, shellfish and wildlife; disrupt food webs; degrade and/or reduce aquatic and land habitat; and increase levels of toxic contaminants. </p>
 				<h2>HOW IS THE NEP WORKING TO RECOVERY ESTUARIES?</h2>
 				<p>National Estuary Program funding has helped the region build capacity, grounded in strong, local partnerships among state agencies, federal agencies, tribes, local governments, community partners and supporters. This shared commitment to hard work, innovation and collaboration has advanced progress toward ecosystem recovery targets and created a durable foundation for future recovery efforts.</p>
 <!-- InstanceEndEditable --> </div>
