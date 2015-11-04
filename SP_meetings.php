@@ -71,11 +71,11 @@
 										<td width="268" class="tableheader">LOCATION</td>
 										<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
 								</tr>
-								<tr>
+					<tr>
 								  <td class="">December 15 – 16</td>
 								  <td class=""><p>South Seattle Community College - Georgetown campus<br>
 								  	6737 Corson Ave. South<br>
-				  	Seattle, WA 98108</p></td> <td class="">Temporarily Unavailable</td> </tr>
+				  	Seattle, WA 98108</p></td> <td class=""><a href="https://pspwa.box.com/s/ddb3z9qx19vc6h8ktj0srhdnldmgd78c">Meeting Materials</a></td> </tr>
                                     <tr>
 										<td colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
 								</tr>

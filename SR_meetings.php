@@ -35,18 +35,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -75,6 +71,18 @@
 					<td width="211" class="tableheader">DETAILS</td>
 					<td width="221" class="tableheader">DOCUMENTS</td>
 				</tr>
+				
+				<tr>
+					<td width="78">November 19</td>
+					<td width="105">10:00 a.m. - 3:00p.m.</td>
+					<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+						410 4th Ave N, <br />
+						Edmonds, WA 98020</td>
+					<td><p><a href="https://pspwa.box.com/s/ai7k8xnnoe0bgffoaovazu2mhy682nx4">Meeting Materials</a></p>
+					</td>
+				</tr>
+				<tr>
+				<td colspan="4"><p>PAST MEETINGS</p></td></tr>
 				<tr>
 					<td>January 22</td>
 					<td>10:00 a.m. - 3:00p.m.</td>
@@ -110,14 +118,6 @@
 				<tr>
 					<td>September 24</td>
 					<td>10:00 a.m. - 3:00p.m.</td>
-					<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-						410 4th Ave N, <br />
-						Edmonds, WA 98020</td>
-					<td><p>Temporarily Unavailable</p></td>
-				</tr>
-				<tr>
-					<td width="78">November 19</td>
-					<td width="105">10:00 a.m. - 3:00p.m.</td>
 					<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
 						410 4th Ave N, <br />
 						Edmonds, WA 98020</td>
