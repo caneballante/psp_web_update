@@ -35,7 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -44,11 +44,7 @@
 <header class="overview-page-image-style overview-page-image10">
 	<div class="overview-quote pull-right"></div>
 </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -72,20 +68,20 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Puget Sound Partnership and the EPA are working with local communities to ensure funding is targeted at the highest-priority actions designed to support the long-term health of local watersheds and Puget Sound. Over the next year and a half, the EPA is funding development of <strong>5-year Ecosystem Recovery Plans</strong> and associated <strong>2-year Implementation Plans</strong> for each of the region’s local collaborative groups, or Local Integrating Organizations (LIO). Proposals for <strong>Near Term Actions (NTAs)</strong> developed as part of this planning effort will tie the local plans to the Puget Sound Action Agenda—the regional shared recovery plan. </p>
 			<p>The timeline for producing the 5-year plans and the NTA proposals that make up the 2-year Implementation Plans runs from June 2015 to September 2016:</p>
-			<ul class="notthenavdammittwo">
-				<li class="notthenavspacers"><strong>June to September 2015:</strong> LIOs begin developing local 5-year Ecosystem Recovery Plans, selecting at least four to six Puget Sound Vital Signs on which to focus. <strong><br />
+			<ul>
+				<li><strong>June to September 2015:</strong> LIOs begin developing local 5-year Ecosystem Recovery Plans, selecting at least four to six Puget Sound Vital Signs on which to focus. <strong><br />
 					September deliverable:</strong> First elements of the 5-year Ecosystem Recovery Plan</li>
-				<li class="notthenavspacers"><strong>September to December 2015:</strong> LIOs develop descriptions of proposed Near Term Actions and how the actions will be completed. <strong><br />
+				<li><strong>September to December 2015:</strong> LIOs develop descriptions of proposed Near Term Actions and how the actions will be completed. <strong><br />
 					December deliverables: </strong>2-Year Implementation Plan and draft NTAs.</li>
-				<li class="notthenavspacers"><strong>January to February 2016: </strong>Regional Strategic Initiative Teams evaluate the proposed NTAs and work with the LIOs to revise the NTAs, if needed.<br />
+				<li><strong>January to February 2016: </strong>Regional Strategic Initiative Teams evaluate the proposed NTAs and work with the LIOs to revise the NTAs, if needed.<br />
 					<strong>February deliverable: </strong>Final NTAs.</li>
-				<li class="notthenavspacers"><strong>March to September 2016.</strong> LIOs complete the comprehensive 5-year Ecosystem Recovery Plans. <strong>September deliverable:</strong> Final 5-year Ecosystem Recovery Plan.</li>
+				<li><strong>March to September 2016.</strong> LIOs complete the comprehensive 5-year Ecosystem Recovery Plans. <strong>September deliverable:</strong> Final 5-year Ecosystem Recovery Plan.</li>
 			</ul>
-			<p><a href="https://pspwa.box.com/s/ixdql0xq1y7dnwrcjlr477xc5ros1sby">Read more details about LIO planning</a>: </p>
+			<p><a href="https://pspwa.box.com/s/ixdql0xq1y7dnwrcjlr477xc5ros1sby" target="new">Read more details about LIO planning</a>: </p>
 			<ul>
 				<li>LIOs will use these templates and guidance documents to develop plans and NTAs.</li>
 			</ul>
-			<p><a href="http://www.psp.wa.gov/LIO.php">Learn more about the LIOs.</a></p>
+			<p><a href="LIO-overview.php">Learn more about the LIOs.</a></p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -96,7 +92,7 @@
 				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
 				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
 				<li role="presentation"><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
-				<li role="presentation"><a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
+				<li role="presentation"><a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985" target="new">Action Area Maps</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
