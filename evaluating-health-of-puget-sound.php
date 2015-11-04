@@ -72,7 +72,7 @@
 			</ul>
 			<p>We rely on several initiatives and monitoring partnerships to provide the data that serves as the foundation for our recovery and protection actions.</p>
 			<h2>PUGET SOUND VITAL SIGNS</h2>
-			<p>To track progress toward recovery goals for Puget Sound, the Partnership chose a specific set of measures called the Puget Sound Vital Signs. The Vital Signs gauge the health of Puget Sound in a way that is scientifically valid and also resonates with the public. Tracking and reporting of Vital Signs is the foundation of the shared measurement system the Partnership relies on to show collective impact.  <a href="www.psp.wa.gov/vitalsigns/">LEARN MORE </a></p>
+			<p>To track progress toward recovery goals for Puget Sound, the Partnership chose a specific set of measures called the Puget Sound Vital Signs. The Vital Signs gauge the health of Puget Sound in a way that is scientifically valid and also resonates with the public. Tracking and reporting of Vital Signs is the foundation of the shared measurement system the Partnership relies on to show collective impact.  <a href="http://www.psp.wa.gov/vitalsigns/">LEARN MORE </a></p>
 			<div>
 				<div>
 					<h2>EFFECTIVENESS MONITORING</h2>
@@ -91,7 +91,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
-				<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="http://www/psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
