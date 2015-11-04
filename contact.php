@@ -65,7 +65,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h3 class="margin-0-top">For general information:</h3>
 			<p> Phone: 360.464.1232 </p>
-			<p> Email: info@psp.wa.gov</p><br>
+			<p> Email: <a href="mailto:info@psp.wa.gov">info@psp.wa.gov</a></p><br>
 			<?php include('includes/media_contact.html')?><br>
 			<h3>Main Office:</h3>
 			<p>Puget Sound Partnership
