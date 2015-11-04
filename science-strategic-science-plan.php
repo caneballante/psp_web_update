@@ -64,8 +64,8 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
     <p>The Puget Sound Partnership Strategic Science Plan provides the overall framework for development and coordination of specific science activities necessary to support Puget Sound ecosystem protection and restoration under the Partnership&rsquo;s Action Agenda.</p>
-<p><a href="http://www.psp.wa.gov/downloads/SCIENCE/strategicscience_09_02_10.pdf">Download the Strategic Science Plan</a></p>
-	<p>The Strategic Science Plan is a high-level, living document that is revised as needed. Specific implementation of science work is guided by the Partnership&rsquo;s&nbsp;<a href="http://www.psp.wa.gov/SP_biennium_work_plan_download.php">Biennial Science Work Plan</a>. </p>
+<p><a href="http://www.psp.wa.gov/downloads/SCIENCE/strategicscience_09_02_10.pdf" target="new">Download the Strategic Science Plan</a></p>
+	<p>The Strategic Science Plan is a high-level, living document that is revised as needed. Specific implementation of science work is guided by the Partnership&rsquo;s&nbsp;<a href="science-biennial-science-workplan.php" target="new">Biennial Science Work Plan</a>. </p>
 	<p>Primary audiences for the Strategic Science Plan include the Science Panel, Partnership staff, Partnership leadership boards, Puget Sound region science program managers, Puget Sound science community, and the public.</p>
 		<p>In the Strategic Science Plan, the Science Panel recommends a strategic science program that includes the following elements:</p>
 <ul>
@@ -85,7 +85,7 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li><a href="http://www.psp.wa.gov/SP_biennium_work_plan_download.php">Biennial Science Work Plan</a></li>
+					<li><a href="science-biennial-science-workplan.php">Biennial Science Work Plan</a></li>
 				
 						<!-- InstanceEndEditable -->
 			</ul>
