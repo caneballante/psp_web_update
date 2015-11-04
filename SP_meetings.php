@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+&<!DOCTYPE html>
 <html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
@@ -35,7 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -43,11 +43,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <p>&nbsp;</p>
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -75,17 +71,11 @@
 										<td width="268" class="tableheader">LOCATION</td>
 										<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
 								</tr>
-									
-						
-									
-							
-							
-							
-								
-						 
 								<tr>
 								  <td class="">December 15 – 16</td>
-								  <td class="">TBD</td> <td class="">Temporarily Unavailable</td> </tr>
+								  <td class=""><p>South Seattle Community College - Georgetown campus<br>
+								  	6737 Corson Ave. South<br>
+				  	Seattle, WA 98108</p></td> <td class="">Temporarily Unavailable</td> </tr>
                                     <tr>
 										<td colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
 								</tr>
@@ -104,7 +94,8 @@
 326 East D Street, third floor<br />
 Tacoma, WA 98421-1801</p></td>
 								  <td >Temporarily Unavailable</td>
-						  </tr> 		<tr>
+						  </tr> 		
+						  <tr>
 								  <td >June 24 – 25</td>
 								  <td><p>Western Washington University<br />
 								  		Viking Union Room 565<br />
