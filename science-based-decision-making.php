@@ -87,7 +87,7 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.structuredecisionmaking.org/" target="new">Structuredecisionmaking.org</a></li>
+					<li class="active" role="presentation"> <a href="http://www.structureddecisionmaking.org/" target="new">Structuredecisionmaking.org</a></li>
 					<li class="active" role="presentation"> <a href="http://www.conservationmeasures.org/" target="new">Conservationmeasures.org</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
