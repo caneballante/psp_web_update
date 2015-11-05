@@ -76,6 +76,7 @@ To support shared learning and collaboration among partners and across projects,
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
 					<li role="presentation"> <a href="science-open-standards.php">Open Standards</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
@@ -93,8 +94,8 @@ To support shared learning and collaboration among partners and across projects,
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li><a href="http://wdfw.wa.gov/grants/ps_marine_nearshore/files/2014_puget_sound_pressures_assessment.pdf">2014 PSPA Final Report</a></li>
-					<li><a href="ci2014Jun0512195544806PSPA Tech Memo Labiosa et al 2013 FINAL.docx">2014 PSPA Methodology Tech Memo</a></li>
+					<li><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcmVzc3VyZWFzc2Vzc21lbnR8Z3g6MzgyYjQyNGFkOWQ4NDY0MQ">2014 PSPA Final Report</a></li>
+					<li><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcmVzc3VyZWFzc2Vzc21lbnR8Z3g6N2I4ZDcwMDdjYTI1Y2VlMg">2014 PSPA Methodology Tech Memo</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
