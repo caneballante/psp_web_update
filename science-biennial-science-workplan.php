@@ -87,7 +87,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li role="presentation"> <a href="downloads/APPROVED_BSWPApril2012.pdf">2012 Biennal Science Work Plan </a></li>
-					<li role="presentation"><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1021&amp;Itemid=238">Approved Leadership Council Resolution for the Biennal Work Plan, April 26, 2012</a></li>
+				<!--	<li role="presentation"><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1021&amp;Itemid=238">Approved Leadership Council Resolution for the Biennal Work Plan, April 26, 2012</a></li>-->
 						<li role="presentation"> <a href="downloads/ACTION_AGENDA_2008/BSWP_1Dec2008_as_submitted.pdf">2008 Biennal Work Plan </a></li>
 						
 						<li role="presentation"> <a href="downloads/SP2009/IndicatorSummaryReport(Final)120108.doc">Environmental Indicators for the Puget Sound Partnership: A Regional Effort to Select Provisional Indicators (Phase 1) Summary Report</a></li>

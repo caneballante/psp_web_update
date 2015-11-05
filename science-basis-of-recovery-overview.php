@@ -85,10 +85,10 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
-					<li role="presentation"> <a href="#">Evaluating Health</a></li>
-					<li role="presentation"> <a href="#">Evaluating Actions</a></li>
-					<li role="presentation"> <a href="#">Action Agenda</a></li>
-					<li role="presentation"> <a href="#">State of the Sound</a></li>
+					<li role="presentation"> <a href="evaluating-health-of-puget-sound.php">Evaluating Health</a></li>
+					<li role="presentation"> <a href="evaluating-actions-to-recover-puget-sound.php">Evaluating Actions</a></li>
+					<li role="presentation"> <a href="action_agenda_center.php">Action Agenda</a></li>
+					<li role="presentation"> <a href="sos.php" target="new">State of the Sound</a></li>
 					
 						<!-- InstanceEndEditable -->
 			</ul>
@@ -105,8 +105,8 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="#">Adaptive Management Framework</a></li>
-					<li role="presentation"> <a href="#">Guidelines for Review</a></li>
+					<li class="active" role="presentation"> <a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
+					<!--<li role="presentation"> <a href="#">Guidelines for Review</a></li>-->
 	
 						<!-- InstanceEndEditable -->
 			</ul>
