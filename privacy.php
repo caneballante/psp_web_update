@@ -37,8 +37,8 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image1">
-	<div class="overview-quote pull-right">The Puget Sound National Estuary Program brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</div>
+<header class="overview-page-image-style overview-page-image3">
+	
 </header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
@@ -184,20 +184,7 @@ style="mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 'Times New Roman'">@psp
       		<p>&nbsp;</p>
 			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
-				<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
-				<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
-				<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
-				<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
-				<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
