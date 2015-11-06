@@ -106,7 +106,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li class="active" role="presentation"> <a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
-					<!--<li role="presentation"> <a href="#">Guidelines for Review</a></li>-->
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ev7v1rulbc5xjk98qbutq931wlz5tosm">Guidelines for Scientific Review</a></li>
 	
 						<!-- InstanceEndEditable -->
 			</ul>
