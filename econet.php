@@ -79,8 +79,8 @@
 
         	<p>&nbsp;</p>
                   
-            <p><a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="_blank"><img src="images/ECOnet_map.jpg" alt="ECO Network Area Map" name="" border="0" /></a><br />
-                  <a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="_blank">Link to the interactive ECO Net Map</a></p> 
+            <p><img src="images/ECOnet_map.jpg" alt="ECO Network Area Map" name="" border="0" /><br />
+                  <!--<a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="_blank">Link to the interactive ECO Net Map</a>--></p> 
 			<h2>Who are ECO Net Members?</h2>
 								<p>The network consists of more than 470 organizations across the region and has a diverse membership representing non-profit organizations, community groups, learning centers, conservation districts, public and private schools, businesses, local and regional governments, tribes, and individuals. Members work on a wide variety of issues that positively impact the health of the Puget Sound, ranging from ecosystem restoration and environmental health to sustainable communities and healthy economies.</p>
 
@@ -155,7 +155,7 @@
 						<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
 						<li role="presentation"><a href="social-strategies-overview.php">Social Strategies</a></li>
 						<li role="presentation"><a href="http://www.pugetsoundstartshere.org" target="new">Puget Sound Starts Here</a></li>
-						<li role="presentation"><a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="new">Interactive ECO Net Map</a></li>
+						<!----><li role="presentation"><a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="new">Interactive ECO Net Map</a></li>
 				
 						<!-- InstanceEndEditable -->
 			</ul>
