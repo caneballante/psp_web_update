@@ -35,7 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -46,11 +46,7 @@
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -71,28 +67,12 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">2015 Legislative Calendars </h2>
+			<h2 class="margin-0-top">2015 Legislative Updates</h2>
 			<ul>
-				<li><a href="downloads/legislative/2015/2015_CalendarEXTERNALweek1.pdf">Week 1 Calendar</a></li>
-				<li><a href="downloads/legislative/2015/2015_CalendarEXTERNAL week 2 -FINAL2.pdf">Week 2 Calendar</a></li>
-				<li><a href="downloads/legislative/2015/2015_CalendarEXTERNAL week 3 FINAL.pdf">Week 3 Calendar</a></li>
-				<li><a href="downloads/legislative/2015_CalendarEXTERNAL%20Week%204%20FINAL%282%29.pdf">Week 4 Calendar</a></li>
-				<li> </a><a href="  https://app.box.com/s/0hpeyf16o31rz64hwp643hl11nxmnck0">Week 5 Calendar </a></li>
-				<li><a href="https://app.box.com/s/73ks47c7wi56q5sgoe18ta3bpjv8440q">Week 6 Calendar</a></li>
-				<li><a href="https://app.box.com/s/0lmstilx2eaplp72yzrxsz0to0a8d5cr">Week 7 Calendar</a></li>
-				<li><a href="https://app.box.com/s/c3ngeffe9ez902ppzumo52b7j7eyic3c">Week 8 Calendar</a></li>
-				<li><a href="https://app.box.com/s/1b5bmdx2rzwb7m5j89krxohenmzkpbqu">Week 9 Calendar</a></li>
-				<li><a href="https://app.box.com/s/d1z5fbig0jsk0opb8jrl7tdq9a8g1tou">Week 10 Calendar</a></li>
-				<li><a href="https://app.box.com/s/v95epgccc6mhn2bnht3qelalg7cnnos5">Week 11 Calendar</a></li>
-				<li><a href="https://app.box.com/s/gj6oxycvr6f2eejr8e2bet9g2vmkfscd">Week 12 Calendar</a></li>
-				<li><a href="https://app.box.com/s/zmjowjd91q6d3looln29n3nta2tdhdqw">Week 13 Calendar</a></li>
-			</ul>
-			<h2>2015 Legislative Updates</h2>
-			<ul>
-				<li><a href="downloads/legislative/Puget_Sound_Legislative_Updateweek1-2015FINAL.pdf">Week 1 Legislative Update - January 12, 2015</a></li>
-				<li><a href="downloads/legislative/2015/Puget_Sound_Legislative_Updateweek2-2015FINAL.pdf">Week 2 Legislative Update - January 19, 2015</a></li>
-				<li><a href="downloads/legislative/Puget_Sound_Legislative_Updateweek3-FINAL.pdf">Week 3 Legislative Update - January 26, 2015</a></li>
-				<li><a href="downloads/legislative/2015/Puget_Sound_Legislative_Updateweek4-FINAL.pdf">Week 4 Legislative Update - February 2, 2015</a></li>
+				<li><a href="https://pspwa.box.com/s/223vr288axxnpgpyzvxxprjd5k8sk1s9">Week 1 Legislative Update - January 12, 2015</a></li>
+				<li><a href="https://pspwa.box.com/s/sox6bt7x6gh5x7t1g5na0cepth37gcdt">Week 2 Legislative Update - January 19, 2015</a></li>
+				<li><a href="https://pspwa.box.com/s/eq302184lfffrjwa7vhw7tmewl31ixqm">Week 3 Legislative Update - January 26, 2015</a></li>
+				<li>Week 4 Legislative Update - February 2, 2015</li>
 				<li><a href="https://app.box.com/s/223vr288axxnpgpyzvxxprjd5k8sk1s9">Week 5 Legislative Update - February 9, 2015</a></li>
 				<li> <a href="https://app.box.com/s/cwuspu2updtqmrat0klzo5ln8pzvyj3j">Week 6 Legislative Update - February 16, 2015</a></li>
 				<li> <a href="https://app.box.com/s/148id4r6fmgzond2ca5qf6rbyk1q635k">Week 7 Legislative Update - February 23, 2015</a> </li>
@@ -104,56 +84,30 @@
 				<li><a href="https://app.box.com/s/0xmviclyorp3b37oujv7n31ruz1osctz">Special Edition Legislative Update June 5th, 2015</a></li>
 				<li><a href="https://app.box.com/s/aiv24rwhkhestcma4yx24kg52j70fxyj">Final Legislative Update July 10th, 2015</a></li>
 			</ul>
-			<h2>2014 Legislative Updates </h2>
-			<p><a href="http://www.ofm.wa.gov/budget/decisionpackages/1517/478.pdf">Puget Sound Partnership 2015-17 Budget request</a></p>
-			<p><a href="http://www.psp.wa.gov/downloads/legislative/2014_Supplemental_Budget_Letter_Board_Chair_Final_030614.pdf">Letter to the Legislature from the Chair of the Leadership Council recommending investments to advance Puget Sound recovery in the 2014 Supplemental Budget </a></p>
-			<h2>2014 Legislative Updates </h2>
+			<h2>2015 Legislative Calendars </h2>
 			<ul>
-				<li><a href="downloads/legislative/2014/Puget_Sound_Legislative_Update_051414.pdf">May 14, 2014 </a>(PDF)</li>
-				<li><a href="downloads/legislative/2014/Puget_Sound_Legislative_Update_030714_week8-2.pdf">March 7, 2014</a> (PDF)</li>
-				<li><a href="downloads/legislative/2014/Puget_Sound_Legislative_Update_022414_WEEK7_FINAL[1].pdf">February 24, 2014</a> (PDF)</li>
-				<li><a href="downloads/legislative/2014/Puget_Sound_Legislative_Update_020314_week4.pdf">February 3, 2014 </a>(PDF) </li>
-				<li><a href="downloads/legislative/2014/Puget_Sound_Legislative_Update _1_27_14_week3.pdf">January 27, 2014 </a>(PDF) </li>
-				<li><a href="downloads/legislative/2014/Puget_Sound_Legislative_Update _1_21_14_week-FINAL.pdf">January 21, 2014 </a>(PDF) </li>
-				<li><a href="downloads/legislative/2014/Puget_Sound_Legislative_Update _01 13 2014.pdf">January 13, 2014 </a> (PDF) </li>
+				<li>Week 1 Calendar</li>
+				<li><a href="https://pspwa.box.com/s/1b5bmdx2rzwb7m5j89krxohenmzkpbqu">Week 2 Calendar</a></li>
+				<li><a href="https://pspwa.box.com/s/ltis8m34p4qe2v9gdab512op18eiiqtb">Week 3 Calendar</a></li>
+				<li><a href="https://pspwa.box.com/s/wn8i8qhypl2e1dm5hrcsgvo3124y03tp">Week 4 Calendar</a></li>
+				<li><a href="https://pspwa.box.com/s/wn8i8qhypl2e1dm5hrcsgvo3124y03tp">Week 5 Calendar </a></li>
+				<li><a href="https://app.box.com/s/73ks47c7wi56q5sgoe18ta3bpjv8440q">Week 6 Calendar</a></li>
+				<li><a href="https://app.box.com/s/0lmstilx2eaplp72yzrxsz0to0a8d5cr">Week 7 Calendar</a></li>
+				<li><a href="https://app.box.com/s/c3ngeffe9ez902ppzumo52b7j7eyic3c">Week 8 Calendar</a></li>
+				<li><a href="https://app.box.com/s/1b5bmdx2rzwb7m5j89krxohenmzkpbqu">Week 9 Calendar</a></li>
+				<li><a href="https://app.box.com/s/d1z5fbig0jsk0opb8jrl7tdq9a8g1tou">Week 10 Calendar</a></li>
+				<li><a href="https://app.box.com/s/v95epgccc6mhn2bnht3qelalg7cnnos5">Week 11 Calendar</a></li>
+				<li><a href="https://app.box.com/s/gj6oxycvr6f2eejr8e2bet9g2vmkfscd">Week 12 Calendar</a></li>
+				<li><a href="https://app.box.com/s/zmjowjd91q6d3looln29n3nta2tdhdqw">Week 13 Calendar</a></li>
 			</ul>
-			<h2>2013 Legislative Updates </h2>
-			<ul>
-				<li><a href="downloads/legislative/2013/9_18_LegislativeUpdate.pdf">September 19</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/7_9_LegislativeUpdate.pdf">July 10</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/6_28_LegislativeUpdate.pdf">June 28 </a>(PDF)</li>
-				<li><a href="downloads/legislative/2013/6_14_LegislativeUpdate.pdf">June 17</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/4_29_LegislativeUpdate.pdf">April 29</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/4_19_LegislativeUpdate.pdf">April 19 </a>(PDF)</li>
-				<li><a href="downloads/legislative/2013/4_12_LegislativeUpdate.pdf">April 12 </a>(PDF)</li>
-				<li><a href="downloads/legislative/2013/4_5_LegislativeUpdate.pdf">April 5</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/3_29_LegislativeUpdate.pdf">March 29</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/3_22_LegislativeUpdate.pdf">March 22 </a>(PDF)</li>
-				<li><a href="downloads/legislative/2013/3_15_LegislativeUpdate.pdf">March 15 </a>(PDF)</li>
-				<li><a href="downloads/legislative/2013/3_8_LegislativeUpdate.pdf">March 8 </a>(PDF) </li>
-				<li><a href="downloads/legislative/2013/3_1_LegislativeUpdate.pdf">March 1</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/2_22_LegislativeUpdate.pdf">February 22</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/2_15_LegislativeUpdate.pdf">February 15</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/2_8_LegislativeUpdate_2013.pdf">February 8</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/2_4_LegislativeUpdate_Final.pdf">February 1 </a>(PDF)</li>
-				<li><a href="downloads/legislative/2013/PSP_Legisative_Update_Jan25_2013.pdf">January 25</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/PSP_Legisative_Update_Jan18_2013.pdf">January 18 </a>(PDF)</li>
-				<li><a href="downloads/legislative/2013/PSP_Legisative_Update_Jan14_2013.pdf">January 14 - First day of session</a> (PDF)</li>
-			</ul>
-			<p><a href="downloads/legislative/Budget_Summary.pdf">Prioritized ranking of agency decision packages related to Puget Sound</a> (PDF)</p>
-			<p>Letters of support for fully funding the Puget Sound Acquisition and Restoration account at $80 M:</p>
-			<ul>
-				<li><a href="downloads/legislative/PSAR_Honeyford-Nelson-Dunshee-Warnick.pdf">Leadership Council, ECB and Salmon Recovery Board </a>(PDF)</li>
-				<li><a href="downloads/legislative/Tulalip Tribes PSAR support.pdf">Tulalip Tribes </a>(PDF)</li>
-				<li><a href="downloads/legislative/2013/letters/MakahLOS_PSAR.pdf">Makah Tribe </a>(PDF)</li>
-				<li><a href="downloads/legislative/2013/letters/2013PSAR_JSKTletter_Apr24.pdf">Jamestown S'Klallam Tribe </a>(PDF)</li>
-				<li><a href="downloads/legislative/2013/letters/DRMTSupport_PSAR_2013.pdf">Dungeness River Management Team </a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/letters/Snoqualmie Forum Letter to House Re PSAR 04.24.2013.pdf">Snoqualmie Watershed Forum</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/letters/WRIA8_Lower_Cedar_Integrated_Floodplain_letter_Sen_Hill_March2013.pdf">WRIA 8</a> (PDF)</li>
-				<li><a href="downloads/legislative/2013/letters/2013PCRCSupportLetterforPSAR.pdf">Pierce County Regional Council </a>(PDF)</li>
-				<li><a href="downloads/legislative/2013/letters/1SnohomishForumPSARSupport42913.pdf">Snohomish Basin Salmon Recovery Forum</a> (PDF)</li>
-			</ul>
-			<!-- InstanceEndEditable --> </div>
+			
+			<h2>2014 Legislative Materials</h2>
+			<p><a href="https://pspwa.box.com/s/e9rn1ckyd5u1ljol5he0t6obmjxlj35w">View 2014 materials</a></p>
+			<h2>2013 Legislative calenda</h2>
+			<p><a href="https://pspwa.box.com/s/i36bxnm4gogzeaye44345erld870ny5y">View 2013 materials</a></p>
+			<h2>2012 Legislative Updates</h2>
+			<p><a href="https://pspwa.box.com/s/m1ixjryou2m4la3j1sdocfj9umcsws41">View 2012 materials</a></p>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">CONTACT</div>

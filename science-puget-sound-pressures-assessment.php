@@ -95,7 +95,7 @@ To support shared learning and collaboration among partners and across projects,
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcmVzc3VyZWFzc2Vzc21lbnR8Z3g6MzgyYjQyNGFkOWQ4NDY0MQ">2014 PSPA Final Report</a></li>
-					<li><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcmVzc3VyZWFzc2Vzc21lbnR8Z3g6N2I4ZDcwMDdjYTI1Y2VlMg">2014 PSPA Methodology Tech Memo</a></li>
+					<li><a href="https://sites.google.com/site/pressureassessment/documents/PSPA%20MethodologyTech%20Memo%20Labiosa%20et%20al%202014%20FINAL.pdf?attredirects=0&d=1">2014 PSPA Methodology Tech Memo</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
