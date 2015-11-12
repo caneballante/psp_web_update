@@ -83,6 +83,14 @@
 		<div class="row margin-20-top">
 			<div class="col-md-3">
 				<div class="newsbox">
+					<div class="newsbox-text"> <strong>11.9.15</strong><br>
+						PRESS RELEASE<br>
+						PSP's policy advisory body to meet Nov. 12 in Lynnwood<br>
+						<a href="pressreleases/partnership_release.php?id=2322">LEARN MORE</a> </div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="newsbox">
 					<div class="newsbox-text"> <strong>11.2.15</strong><br>
 						PRESS RELEASE<br>
 						2015 State of the Sound report: Analysis of ecosystem recovery shows mixed progress<br>
@@ -96,20 +104,13 @@
 						ENVIRONMENTAL PLANNER<br>
 						<a href="employment.php">LEARN MORE </a></div>
 				</div>
-			</div>
+				</div>
+			
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> <strong>10.12.15</strong><br>
 						SUBMIT A PROPOSAL:<br>
 						Now is the time to develop Near Term Action proposals for the 2016 Action Agenda update. <a href="2016_AA_NTA.php">LEARN MORE</a></div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> <strong>9.22.15</strong><br>
-						EPA REQUEST FOR PROPOSALS:<br>
-						RFP for Strategic Initiative implementation leads for FY2016 Proposals due 11.30.15<br>
-						<a href="http://www2.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">LEARN MORE</a> </div>
 				</div>
 			</div>
 		</div>
