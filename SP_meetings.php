@@ -131,10 +131,13 @@ Tacoma, WA 98421-1801</p></td>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-						<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
-				<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
-Special Assistant,<br>
- 360.628.2423</p>
+							<li>
+					<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
+						<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
+						Special Assistant,<br>
+						360.628.2423</p>
+				</li>
+				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

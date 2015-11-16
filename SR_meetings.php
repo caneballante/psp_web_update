@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,9 +41,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -52,8 +53,7 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
@@ -61,7 +61,6 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Start and end times depend on agenda needs, but meetings generally begin at 10 a.m. and adjourn by 3 p.m. For approximate start and end times for a particular meeting, see the proposed agenda – usually posted online one week prior to the meeting.</p>
 			<table class="table">
@@ -71,18 +70,17 @@
 					<td width="211" class="tableheader">DETAILS</td>
 					<td width="221" class="tableheader">DOCUMENTS</td>
 				</tr>
-				
 				<tr>
 					<td width="78">November 19</td>
 					<td width="105">10:00 a.m. - 3:00p.m.</td>
 					<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
 						410 4th Ave N, <br />
 						Edmonds, WA 98020</td>
-					<td><p><a href="https://pspwa.box.com/s/ai7k8xnnoe0bgffoaovazu2mhy682nx4">Meeting Materials</a></p>
-					</td>
+					<td><p><a href="https://pspwa.box.com/s/ai7k8xnnoe0bgffoaovazu2mhy682nx4">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-				<td colspan="4"><p>PAST MEETINGS</p></td></tr>
+					<td colspan="4"><p>PAST MEETINGS</p></td>
+				</tr>
 				<tr>
 					<td>January 22</td>
 					<td>10:00 a.m. - 3:00p.m.</td>
@@ -128,16 +126,18 @@
 				<br />
 			</p>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
-					<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
-					Special Assistant,<br>
-					360.628.2423</p>
+				<li>
+					<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
+						<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
+						Special Assistant,<br>
+						360.628.2423</p>
+				</li>
+				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
@@ -167,4 +167,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
