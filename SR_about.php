@@ -35,18 +35,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -69,10 +65,10 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Puget Sound Salmon Recovery Council is a regional body of policy decision‐makers for salmon recovery. The role of the Council is to advise the Puget Sound Partnership&rsquo;s Leadership Council on decisions relating to salmon recovery and the implementation of the Puget Sound Chinook Recovery Plan. Recovery Council decisions accomplish the following:</p>
 			<ul>
-				<li>Set policy direction for implementation of the Puget Sound Chinook Recovery Plan;</li>
-				<li>Develop and direct strategic approaches to near‐term issues and actions;</li>
-				<li>Establish allocation policies for capital funding; and</li>
-				<li>Hold others and itself accountable for the implementation of the Recovery Plan.</li>
+				<li>Set policy direction for implementation of the Puget Sound Chinook Recovery Plan</li>
+				<li>Develop and direct strategic approaches to near‐term issues and actions</li>
+				<li>Establish allocation policies for capital funding</li>
+				<li>Hold others and itself accountable for the implementation of the Recovery Plan</li>
 			</ul>
 			<table  class="table">
 				<tr>
