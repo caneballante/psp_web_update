@@ -90,11 +90,13 @@
 				</div>
 			</div>
 			<div class="col-md-3">
+			
+			
 				<div class="newsbox">
-					<div class="newsbox-text"> <strong>11.9.15</strong><br>
+					<div class="newsbox-text"> <strong>11.20.15</strong><br>
 						PRESS RELEASE<br>
-						PSP's policy advisory body to meet Nov. 12 in Lynnwood<br>
-						<a href="pressreleases/partnership_release.php?id=2322" target="new">LEARN MORE</a> </div>
+						Clallam County partners honored for work that helped reopen 728 acres of Dungeness shellfish beds<br>
+						<a href="pressreleases/partnership_release.php?id=2324" target="new">LEARN MORE</a> </div>
 				</div>
 			</div>
 			<div class="col-md-3">
