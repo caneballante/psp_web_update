@@ -81,12 +81,20 @@
 <div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
 	<div class="container">
 		<div class="row margin-20-top">
+				<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> <strong>11.17.15</strong><br>
+						PRESS RELEASE<br>
+						 Statement from the Puget Sound Partnership regarding the 2015 Climate Change in Puget Sound report<br>
+ <a href="pressreleases/partnership_release.php?id=2323" target="new">LEARN MORE</a></div>
+				</div>
+			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> <strong>11.9.15</strong><br>
 						PRESS RELEASE<br>
 						PSP's policy advisory body to meet Nov. 12 in Lynnwood<br>
-						<a href="pressreleases/partnership_release.php?id=2322">LEARN MORE</a> </div>
+						<a href="pressreleases/partnership_release.php?id=2322" target="new">LEARN MORE</a> </div>
 				</div>
 			</div>
 			<div class="col-md-3">
@@ -106,20 +114,14 @@
 				</div>
 				</div>
 			
+		
+		</div>
+		<div class="row light-blue-fill">
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> <strong>10.12.15</strong><br>
 						SUBMIT A PROPOSAL:<br>
 						Now is the time to develop Near Term Action proposals for the 2016 Action Agenda update. <a href="2016_AA_NTA.php">LEARN MORE</a></div>
-				</div>
-			</div>
-		</div>
-		<div class="row light-blue-fill">
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-date">OCT 28</div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL MEETING,<br>
-						PORT OF EVERETT WATERFRONT CENTER</a></div>
 				</div>
 			</div>
 			<div class="col-md-3">
