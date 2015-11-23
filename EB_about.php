@@ -158,7 +158,7 @@
 				            Mark Personius (alternate) <em>Whatcom County</em></p>
 			<p>Northwest Straits Commission<br>
 				            Ginny Broadhurst<br>
-				            Caroline Gibson (alternate)</p>
+				            Lucas Hart (alternate)</p>
 			<p>Canadian Representation<br>
 				            Kaaren Lewis –<em>Assistant Deputy Minister of Environmental Sustainability, BC Public Service</em><br>
 				            Dave Marshall (alternate) – <em>Fraser Basin Council</em></p>
@@ -169,10 +169,13 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
-					<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
-					Special Assistant,<br>
-					360.628.2423</p>
+					<li>
+					<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
+						<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
+						Special Assistant,<br>
+						360.628.2423</p>
+				</li>
+				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

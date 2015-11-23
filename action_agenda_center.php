@@ -76,6 +76,7 @@
 				<li role="presentation"><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
 				<a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a>
 				</li>
+				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

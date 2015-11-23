@@ -99,7 +99,7 @@
 <li>Are you willing to help advance a comprehensive vision and <a href="http://www.psp.wa.gov/action_agenda_center.php">priority actions</a> to protect and enhance the health and vitality of the Puget Sound? </li>
 </ol>
 
-<p>Please direct any questions about ECO Net membership to <a href="mailto:econet@psp.wa.gov">econet@psp.wa.gov.</a></p>
+<p>Please direct any questions about ECO Net membership to <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
 
 
 
@@ -122,7 +122,7 @@
 		<h2>Events &amp; Funding Opportunities </h2>
 			<p><a href="http://www.pugetsoundstartshere.org/events-list/"><strong>Events in your area</strong></a></p>
 		<h2>ECO Net Connections</h2>
-			<p>There are 12 local ECO Net chapters which meet on a regular basis to collaborate and coordinate efforts to provide education, communication and outreach on environmental issues for their area.  <strong><a href="https://pspwa.box.com/s/s22u8gu3f1pdmhw9c731j7no0hs202yq">New members interested in getting involved are encouraged to contact the local ECO Net coordinator.</a></strong></p>
+			<p>There are 12 local ECO Net chapters which meet on a regular basis to collaborate and coordinate efforts to provide education, communication and outreach on environmental issues for their area.  <strong><a href="https://pspwa.box.com/s/8mwtsrfrrkfgtqu43q4jwjhseclfo0nt">New members interested in getting involved are encouraged to contact the local ECO Net coordinator.</a></strong></p>
              <p> Some of the 12 local ECO Net chapters have their own websites listed below.  If your local area is not listed below, use the link above to contact the coordinator in your area.</p>
 				<ul><li><a href="http://keepeconet.weebly.com/ " target="_blank">Kitsap ECO Net</a></li> 
 				<li><a href="http://whidbey-eco.net/" target="_blank">Whidbey ECO Net </a></li>
@@ -155,9 +155,9 @@
 						<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
 						<li role="presentation"><a href="social-strategies-overview.php">Social Strategies</a></li>
 						<li role="presentation"><a href="http://www.pugetsoundstartshere.org" target="new">Puget Sound Starts Here</a></li>
-						<!----><li role="presentation"><a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="new">Interactive ECO Net Map</a></li>
-				
-						<!-- InstanceEndEditable -->
+						<li role="presentation"><a href="http://psp.wa.gov/gis/WebMaps/ECONets/" target="new">Interactive ECO Net Map</a></li>
+						<li><a href="https://pspwa.box.com/s/8mwtsrfrrkfgtqu43q4jwjhseclfo0nt">2015 ECO Net roster</a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-20-top ">CONTACT</div>

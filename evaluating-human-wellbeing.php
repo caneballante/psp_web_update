@@ -78,7 +78,7 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
+			
 					<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
 				
 						<!-- InstanceEndEditable -->
@@ -88,12 +88,10 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/mar_wat/surface.html">Eyes Over Puget Sound</a></li>
-					<li role="presentation"> <a href="http://www.nanoos.org/">NW Association of Networked Ocean Observing Systems (NANOOS)
-</a></li>
-					<li role="presentation"> <a href="http://wdfw.wa.gov/conservation/fisheries/sasi/">WDFW Salmon and Steelhead Inventory</a></li>
-					<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology – Environmental Assessment Program</a></li>
-					<li role="presentation"> <a href="http://www.pnamp.org/">PNAMP</a></li>
+					
+					
+					
+			
 					<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
@@ -103,9 +101,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 						<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
-					<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
-					
-					<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
+				
 			<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
 					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
 						<!-- InstanceEndEditable -->

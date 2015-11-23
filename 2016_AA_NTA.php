@@ -35,7 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -46,11 +46,7 @@
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -115,6 +111,7 @@
 				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
 				<li role="presentation"><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
+				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

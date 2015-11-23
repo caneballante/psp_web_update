@@ -68,7 +68,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Estuaries are places where fresh water and saltwater mix. Puget Sound is the largest estuary, by water volume, in the contiguous United States. Puget Sound  encompasses many other estuaries--including large ones, such as the Duwamish River Estuary, and small ones, found in sheltered bays, inlets and lagoons. </p>
+			<p>Estuaries are places where fresh water and saltwater mix. Puget Sound is the largest estuary, by water volume, in the contiguous United States. Puget Sound  encompasses many other estuaries--including large ones, such as the Duwamish River Estuary, and small ones, found in sheltered bays, inlets, and lagoons. </p>
 <h2>WHY ARE ESTUARIES IMPORTANT?</h2>
 			
 			<p>As transition areas between fresh and saltwater, and land and sea, estuaries are rich in nutrients. They create a nourishing foundation – from plankton to plants – that supports the abundant array of life in Puget Sound. From oysters, clams and crab to salmon, orca and birds, all are sustained by estuaries.</p>
@@ -78,7 +78,7 @@
 					<li>Serve as buffers to protect shorelines from erosion and flooding</li>
 					<li>Filter pollutants, improving water quality </li>
 				</ul>
-				<p>Estuaries are also among the most biologically productive ecosystems on earth, supporting Washington&rsquo;s multi-million dollar shellfish, fishing and estuary-dependent tourism and recreation industries.</p>
+				<p>Estuaries are also among the most biologically productive ecosystems on earth, supporting Washington’s multi-million-dollar shellfish and fishing industries, as well as estuary-dependent tourism and recreation industries.</p>
 <h2>HOW ARE PUGET SOUND ESTUARIES BEING THREATENED?</h2>
 				<p>The <a href=" https://sites.google.com/site/pressureassessment/home" target="new">Puget Sound Pressures Assessment</a> identified 47 stressors affecting Puget Sound, including shoreline hardening, land cover conversion, sea level rise, changes in water flow and quality, pollution, and many more. These stressors threaten plants, fish, shellfish and wildlife; disrupt food webs; degrade and/or reduce aquatic and land habitat; and increase levels of toxic contaminants. </p>
 				<h2>HOW IS THE NEP WORKING TO RECOVERY ESTUARIES?</h2>

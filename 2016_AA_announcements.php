@@ -35,7 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -46,11 +46,7 @@
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -82,16 +78,12 @@
 			<div class="highlightbox">
 				<h3>7/24/2015 - Action Agenda Strategic Initiative Update Workgroup Recommendations </h3>
 				<p>The  Leadership Council will consider and take final action on the 2016/17  Strategic Initiative update on July 29, 2015.  The adopted Strategic Initiatives will be used by the Strategic Initiative Transition Teams to  solicit, review, and prioritize near-term actions for the 2016/17  Action Agenda 2-year Implementation Plan.</p>
-				<p><a href="https://app.box.com/s/d848fprk5ntdk94woywkof9hlc4cr11d"><strong>Download the Management Conference Summary</strong></a></p>
-				<p><strong><a href="https://app.box.com/comment-SI-recommendations">Click here to view public comments</a></strong><br />
+				<p><a href="https://app.box.com/s/d848fprk5ntdk94woywkof9hlc4cr11d"><strong>Download the Management Conference Summary</strong></a><br />
 				</p>
 			</div>
 			<div class="highlightbox margin-20-top">
 				<h3>7/10/2015 - RECRUITING  TECHNICAL EXPERTS FOR STRATEGIC INITIATIVE TRANSITION TEAMS</h3>
-				to launch the 2016/17 Puget Sound Action Agenda update. We are forming three interdisciplinary Transition Teams, and we’re seeking applications from qualified experts to volunteer to participate. Applications are due 11:59 p.m., Sunday, July 19, 2015.
-				</p>
-				<p><a href="https://app.box.com/SITT-recruitment-notice">For details, please read the Recruitment Notice.</a></p>
-			</div>
+				to launch the 2016/17 Puget Sound Action Agenda update. We are forming three interdisciplinary Transition Teams, and we’re seeking applications from qualified experts to volunteer to participate. Applications are due 11:59 p.m., Sunday, July 19, 2015.			</div>
 			<div class="highlightbox margin-20-top">
 				<h3>6/11/2015 - Action Agenda Strategic Initiative Update Workgroup Recommendations </h3>
 				<p>Looking for a way to offer your input into how Puget Sound recovery progresses? A draft report has been prepared with recommendations for focusing Puget Sound recovery investments over the next two years. You are invited to read the report and send us your comments by July 10, 2015.</p>
@@ -110,6 +102,7 @@
 				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
 				<li role="presentation"><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
+				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

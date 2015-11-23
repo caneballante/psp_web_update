@@ -37,8 +37,8 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->S
-<header class="overview-page-image-style overview-page-image10">
+ <!-- InstanceBeginEditable name="overviewphoto" -->
+ <header class="overview-page-image-style overview-page-image10">
 	<div class="overview-quote pull-right">
 		<h3>&nbsp;</h3>
 	</div>
@@ -48,7 +48,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>action agendA  TARGETS<br>
+			<h1>ECOSYSTEM RECOVERY  TARGETS<br>
 			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>

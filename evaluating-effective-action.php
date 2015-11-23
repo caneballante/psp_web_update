@@ -64,7 +64,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">What is Effectiveness Monitoring?</h2>
-			<p>Evaluating data to determine how well restoration and management actions and programs are working to restore Puget Sound.</p>
+			<p>Effectiveness monitoring is the evaluation of data to determine how well restoration and management actions and programs are working to restore Puget Sound.</p>
 			<h2>What is our Framework for Effectiveness Monitoring?</h2>
 			<p>Our approach has two parts. First, we evaluate the effectiveness of actions that have been implemented to restore the ecosystem. Second, we communicate the results to decision makers as they plan the next round of recovery actions. </p>
 			<p>Many restoration and management actions have been effective in restoring ecosystem components and processes in Puget Sound, but much of the evidence of success is found in technical documents that are not easy to access. We are distilling information about what&rsquo;s working to restore Puget Sound from scientific reports. Once vetted by regional experts, Fact Sheets and Narrative Summaries support the implementation of the Action Agenda and accelerate the recovery of Puget Sound.  </p>
