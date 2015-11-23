@@ -85,8 +85,12 @@
 				</tr>
 				<tr>
 					<td>December 3-4</td>
-					<td><p>TBD</p></td>
-					<td>&nbsp;</td>
+					<td><p><a href="https://pspwa.box.com/s/r9l3ygz2if729s7zkhmqri1twt9kjayb" target="_blank">Washington State Capitol Campus</a><br />
+John A. Cherberg Building<br />
+Conference Room A/B/C<br />
+298 - 15th Ave SW<br />
+Olympia, WA 98504</p></td>
+					<td></td>
 				</tr>
 				<tr>
 					<td height="21" colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
