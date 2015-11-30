@@ -45,7 +45,6 @@
 		<div class="col-md-3 padding-40-top"><img src="images/home_roadmap.png" width="264" height="264" alt="satellite view of the Salish Sea" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>ROADMAP TO RECOVERY</h1>
-		
 			<div class="padding-5-bottom"><a href="action_agenda_center.php">ACTION&nbsp;AGENDA OVERVIEW</a></div>
 			<div class="padding-5-bottom"><a href="2014_action_agenda_download.php">2014-15&nbsp;ACTION AGENDA</a></div>
 			<div class="padding-5-bottom"><a href="2016_AA_update.php">2016&nbsp;ACTION&nbsp;AGENDA UPDATE</a></div>
@@ -53,8 +52,9 @@
 		<div class="col-md-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
-			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>			<div class="padding-5-bottom"><a href="PSAR.php">PSAR&nbsp;FUND</a></div>	
-			<div class="padding-5-bottom"><a href="NEP-overview.php">NATIONAL ESTUARY PROGRAM (NEP)</a></div>	
+			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>
+			<div class="padding-5-bottom"><a href="PSAR.php">PSAR&nbsp;FUND</a></div>
+			<div class="padding-5-bottom"><a href="NEP-overview.php">NATIONAL ESTUARY PROGRAM (NEP)</a></div>
 			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY</a></div>
 	</div>
 	<div class="row">
@@ -65,38 +65,33 @@
 			<div class="padding-5-bottom"> <a href="evaluating-health-of-puget-sound.php">EVALUATING&nbsp;THE&nbsp;HEALTH&nbsp;OF PUGET&nbsp;SOUND</a></div>
 			<div class="padding-5-bottom"> <a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING&nbsp;ACTIONS&nbsp;TO RECOVER PUGET&nbsp;SOUND</a></div>
 			<div class="padding-5-bottom"> <a href="science-basis-of-recovery-overview.php">SCIENCE&nbsp;BASIS OF&nbsp;RECOVERY</a> </div>
-			<a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a>
-		</div>
+			<a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
 		<div class="col-md-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
-			
-			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>	
-			<div class="padding-5-bottom"><a href="legislative_updates.php">2015&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>	
-			<div class="padding-5-bottom"><a href="econet.php">ECO NET </a>
+			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
+			<div class="padding-5-bottom"><a href="legislative_updates.php">2015&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
+			<div class="padding-5-bottom"><a href="econet.php">ECO NET </a> </div>
 		</div>
-	</div>
 	</div>
 </div>
 <div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
 	<div class="container">
 		<div class="row margin-20-top">
-				<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> <strong>11.17.15</strong><br>
-						PRESS RELEASE<br>
-						 Statement from the Puget Sound Partnership regarding the 2015 Climate Change in Puget Sound report<br>
- <a href="pressreleases/partnership_release.php?id=2323" target="new">LEARN MORE</a></div>
-				</div>
-			</div>
 			<div class="col-md-3">
-			
-			
 				<div class="newsbox">
 					<div class="newsbox-text"> <strong>11.20.15</strong><br>
 						PRESS RELEASE<br>
 						Clallam County partners honored for work that helped reopen 728 acres of Dungeness shellfish beds<br>
 						<a href="pressreleases/partnership_release.php?id=2324" target="new">LEARN MORE</a> </div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> <strong>11.17.15</strong><br>
+						PRESS RELEASE<br>
+						Statement from the Puget Sound Partnership regarding the 2015 Climate Change in Puget Sound report<br>
+						<a href="pressreleases/partnership_release.php?id=2323" target="new">LEARN MORE</a></div>
 				</div>
 			</div>
 			<div class="col-md-3">
@@ -114,9 +109,7 @@
 						ENVIRONMENTAL PLANNER<br>
 						<a href="employment.php">LEARN MORE </a></div>
 				</div>
-				</div>
-			
-		
+			</div>
 		</div>
 		<div class="row light-blue-fill">
 			<div class="col-md-3">
