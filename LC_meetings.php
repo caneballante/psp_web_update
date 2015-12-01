@@ -35,18 +35,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -85,8 +81,12 @@
 				</tr>
 				<tr>
 					<td>December 3-4</td>
-					<td><p>TBD</p></td>
-					<td>&nbsp;</td>
+					<td><p><a href="https://pspwa.box.com/s/r9l3ygz2if729s7zkhmqri1twt9kjayb" target="_blank">Washington State Capitol Campus</a><br />
+John A. Cherberg Building<br />
+Conference Room A/B/C<br />
+298 - 15th Ave SW<br />
+Olympia, WA 98504</p></td>
+					<td><a href="https://pspwa.box.com/s/cnszl9e74c1crqdp5qik0kmfiwlpfw1l">Meeting Materials</a></td>
 				</tr>
 				<tr>
 					<td height="21" colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
