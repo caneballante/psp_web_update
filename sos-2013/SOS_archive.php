@@ -61,17 +61,17 @@
 								<h4>Related Links</h4>
 						
 
-					<div> <div id="SOS_rellinks"><p><img src="/images/sos-smalltarget.png" /><strong><a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a></strong><br />
+					<div> <div id="SOS_rellinks"><p><img src="images/sos-smalltarget.png" /><strong><a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a></strong><br />
 						<span class="sos_caption">Find the latest data on the Puget Sound’s 21 Vital Signs</span></p></div>
                         
-						<div id="SOS_rellinks"><p><img src="/images/sos-smallmap.png" /><strong><a href="http://www.psp.wa.gov/action_agenda_center.php">The Action Agenda Center</a></strong><br />
+						<div id="SOS_rellinks"><p><img src="images/sos-smallmap.png" /><strong><a href="http://www.psp.wa.gov/action_agenda_center.php">The Action Agenda Center</a></strong><br />
 								<span class="sos_caption">Learn more about the Puget Sound Partnership’s plan for Puget Sound Recovery</span></p></div>
 					
-                    <div id="SOS_rellinks"><p><img src="/images/sos-smallorca.png" /><strong><a href="http://gismanager.rco.wa.gov/ProjectAtlas/?summaryArea[areaName]=Puget+Sound&amp;summaryArea[areaType]=PSP+Boundary&amp;summaryArea[areaShapeId]=NA">The Puget Sound Project Atlas</a></strong><br />
+                    <div id="SOS_rellinks"><p><img src="images/sos-smallorca.png" /><strong><a href="http://gismanager.rco.wa.gov/ProjectAtlas/?summaryArea[areaName]=Puget+Sound&amp;summaryArea[areaType]=PSP+Boundary&amp;summaryArea[areaShapeId]=NA">The Puget Sound Project Atlas</a></strong><br />
 								<span class="sos_caption">An atlas of recovery related projects around Puget Sound</span></p></div>
 						
                         <div id="SOS_rellinks">
-                          <p><img src="/images/sos-smallpie.png" /><strong><a href="http://gismanager.rco.wa.gov/ntaportal">The Puget Sound Report Card</a></strong><br />
+                          <p><img src="images/sos-smallpie.png" /><strong><a href="http://gismanager.rco.wa.gov/ntaportal">The Puget Sound Report Card</a></strong><br />
 								<span class="sos_caption">Up to the minute status on Near Term Actions for Puget Sound Recovery</span></p></div>
 	
 					
