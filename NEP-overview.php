@@ -35,7 +35,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -46,11 +46,7 @@
 <div class="overview-quote pull-right"><h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3></div>
 
  </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -88,11 +84,11 @@
 				</tr>	
 				<tr>
 					<td>Watershed protection and restoration</td>
-					<td>Departments of Commerce and Ecology</td>
+					<td>Washington State Departments of Commerce and Ecology</td>
 				</tr>	
 				<tr>
 					<td>Marine and nearshore protection and restoration</td>
-					<td>Departments of Fish &amp; Wildlife and Natural Resources</td>
+					<td>Washington State Departments of Fish &amp; Wildlife and Natural Resources</td>
 				</tr>	
 				<tr>
 					<td>Tribal capacity and implementation</td>
@@ -100,11 +96,11 @@
 				</tr>	
 				<tr>
 					<td>Toxics and nutrients prevention and reduction</td>
-					<td>Department of Ecology</td>
+					<td>Washington State Department of Ecology</td>
 				</tr>	
 				<tr>
 					<td>Pathogen prevention and reduction</td>
-					<td>Department of Health</td>
+					<td>Washington State Department of Health</td>
 				</tr>								
 				<tr>
 					<td>Stewardship and education</td>
