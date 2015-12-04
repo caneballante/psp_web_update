@@ -63,7 +63,7 @@
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p><strong>Implementation Strategies</strong> are plans for achieving the Puget Sound 2020 <a href="action_agenda_targets.php">Ecosystem Recovery Targets</a>, which are associated with the <a href="http://www.psp.wa.gov/vital_signs/index.php">Puget Sound Vital Signs</a>. The plans are designed to inform the <a href="action_agenda_center.php">Puget Sound Action Agenda</a>, the <a href="sos.php">State of the Sound</a>, the <a href="science-biennial-science-workplan.php">Biennial Science Work Plan</a>, the <a href="https://sites.google.com/a/psemp.org/psemp/">Puget Sound Ecosystem Monitoring Program</a>, and <a href="SR_status.php">salmon recovery planning</a>.</p>
+			<p><strong>Implementation Strategies</strong> are plans for achieving the Puget Sound 2020 <a href="action_agenda_targets.php">Ecosystem Recovery Targets</a>, which are associated with the <a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a>. The plans are designed to inform the <a href="action_agenda_center.php">Puget Sound Action Agenda</a>, the <a href="sos.php">State of the Sound</a>, the <a href="science-biennial-science-workplan.php">Biennial Science Work Plan</a>, the <a href="https://sites.google.com/a/psemp.org/psemp/">Puget Sound Ecosystem Monitoring Program</a>, and <a href="SR_status.php">salmon recovery planning</a>.</p>
 			<p>Each plan accomplishes the following:</p>
 			<ul>
 				<li>Identifies priority approaches for achieving a specific recovery target </li>
