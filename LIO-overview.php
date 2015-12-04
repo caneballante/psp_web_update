@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,7 +27,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 1;
-</script> 
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -40,13 +41,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image13">
-
-
-
- </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style overview-page-image13"> </header>
+<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
 	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
 </div>
@@ -60,41 +57,35 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-local-recovery-efforts.html';?>	
-			<!-- InstanceEndEditable -->
+				<?php include 'includes/ln-local-recovery-efforts.html';?>
+				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			
-						  <p>Local communities around the Puget Sound are working to integrate local efforts to advance the Action Agenda.  Local governments, tribes, non-profit organizations, watershed, marine resource, and salmon recovery groups, interest groups, businesses, educational organizations, and citizens are collaborating to develop and coordinate local integrating organizations that foster implementation of Action Agenda priorities.</p>
-     <p>The local integrating organizations enable communities to guide the implementation of Action Agenda priorities at an ecosystem scale, and to prioritize local actions for investment. </p>
-     <p>To date, the Leadership Council has recognized local integrating organizations in nine geographic areas.  For more information and to contact the local integrating organization in your area see the links below.</p>
-     <p style="font-weight: bold">Local Integrating Organizations:</p>
- 
-     <ul>
-	 <li><a href="http://www.sanjuanlio.com">San Juan Action Agenda Oversight Group </a></li>
-	 <li><a href="http://www.mypugetsound.net/index.php?option=com_community&amp;view=groups&amp;task=viewgroup&amp;groupid=60&amp;Itemid=222">Strait Ecosystem Recovery Network</a></li>
-	 <li><a href="http://www.govlink.org/sc-puget-sound-action-area/Index.htm">South Central Action Area Caucus Group</a></li>
-	 <li><a href="http://www.healthysouthsound.org/">Alliance for a Healthy South Sound</a></li>
-	 <li><a href="http://hccc.wa.gov/">Hood Canal Coordinating Council </a></li>
-	 <li> <a href="http://www.westcentrallio.org">West Central LIO</a></li>
-	 <li><a href="http://wria1project.whatcomcounty.org/">Whatcom LIO</a> (<a href="http://wria1project.whatcomcounty.org/">WRIA 1 Policy Boards</a>)</li>
-	 <li><a href="http://www.islandcountyeh.org/Page/237">Island LIO</a></li>
-	 <li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization"> Snohomish/Stillaguamish LIO </a></li>
-      </ul>
-<h2>2-year Recovery Planning</h2>
-<p>LIOs are currently working to identify local near-term ecosystem recovery priorities through the development of 2-year recovery plans. These plans mirror and contribute to development of the 2016 Puget Sound Action Agenda, describing how LIO actions are helping to achieve regional progress on the Action Agenda’s 22 Vital Signs.</p>		
-<h2>5-year Recovery Planning</h2>
-<p>Between now and September 2016, LIOs are also working to build local, long-term recovery strategies from which high-priority recovery actions can be developed. Similar to the 2-year plans, these 5-year plans will mirror and contribute to Puget Sound Action Agenda updates and explain how LIOs are helping to advance regional progress on the Action Agenda’s 22 Vital Signs.</p>
-
-<!-- InstanceEndEditable --> </div>
-		
+			<p>Local communities around the Puget Sound are working to integrate local efforts to advance the Action Agenda.  Local governments, tribes, non-profit organizations, watershed, marine resource, and salmon recovery groups, interest groups, businesses, educational organizations, and citizens are collaborating to develop and coordinate local integrating organizations that foster implementation of Action Agenda priorities.</p>
+			<p>The local integrating organizations enable communities to guide the implementation of Action Agenda priorities at an ecosystem scale, and to prioritize local actions for investment. </p>
+			<p>To date, the Leadership Council has recognized local integrating organizations in nine geographic areas.  For more information and to contact the local integrating organization in your area see the links below.</p>
+			<p style="font-weight: bold">Local Integrating Organizations:</p>
+			<ul>
+				<li><a href="http://www.sanjuanlio.com">San Juan Action Agenda Oversight Group </a></li>
+				<li><a href="http://www.mypugetsound.net/index.php?option=com_community&amp;view=groups&amp;task=viewgroup&amp;groupid=60&amp;Itemid=222">Strait Ecosystem Recovery Network</a></li>
+				<li><a href="http://www.govlink.org/sc-puget-sound-action-area/Index.htm">South Central Action Area Caucus Group</a></li>
+				<li><a href="http://www.healthysouthsound.org/">Alliance for a Healthy South Sound</a></li>
+				<li><a href="http://hccc.wa.gov/">Hood Canal Coordinating Council </a></li>
+				<li> <a href="http://www.westcentrallio.org">West Central LIO</a></li>
+				<li><a href="http://wria1project.whatcomcounty.org/">Whatcom LIO</a> (<a href="http://wria1project.whatcomcounty.org/">WRIA 1 Policy Boards</a>)</li>
+				<li><a href="http://www.islandcountyeh.org/Page/237">Island LIO</a></li>
+				<li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization"> Snohomish/Stillaguamish LIO </a></li>
+			</ul>
+			<h2>2-year Recovery Planning</h2>
+			<p>LIOs are currently working to identify local near-term ecosystem recovery priorities through the development of 2-year recovery plans. These plans mirror and contribute to development of the 2016 Puget Sound Action Agenda, describing how LIO actions are helping to achieve regional progress on the Action Agenda’s 22 Vital Signs.</p>
+			<h2>5-year Recovery Planning</h2>
+			<p>Between now and September 2016, LIOs are also working to build local, long-term recovery strategies from which high-priority recovery actions can be developed. Similar to the 2-year plans, these 5-year plans will mirror and contribute to Puget Sound Action Agenda updates and explain how LIOs are helping to advance regional progress on the Action Agenda’s 22 Vital Signs.</p>
+			<!-- InstanceEndEditable --> </div>
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
@@ -122,4 +113,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
