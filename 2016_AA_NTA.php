@@ -94,6 +94,7 @@ The regional NTA solicitation is the official request for Near Term Actions for 
 				Download this form to write up your NTA proposal.<br />
 				<br />
 				<strong><a href="https://pspwa.box.com/s/pjl5i0w276loocwr61pf50pvxk9k1ha5" target="new">NTA Submittal Form Instructions</a></strong> <br />
+                <strong><a href="https://pspwa.app.box.com/s/i4hrvxbx05pw6afkm95nw6up9pgh11cl" target="new">NTA Submittal Form Instructions – Addendum #1</a></strong> <br />
 				Full instructions for filling out the NTA Submittal Form.<br />
 				<br />
 				<strong><a href="https://app.smartsheet.com/b/form?EQBCT=9fdf5e520d4e4a958ed1a04210c68a10" target="new">NTA Submittal Portal</a></strong> <br />
