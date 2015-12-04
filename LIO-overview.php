@@ -89,9 +89,9 @@
 	 <li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization"> Snohomish/Stillaguamish LIO </a></li>
       </ul>
 <h2>2-year Recovery Planning</h2>
-<p>LIOs are currently working to identify local near-term ecosystem recovery priorities through the development of 2-year recovery plans. These plans mirror and contribute to development of the 2016 Puget Sound Action Agenda, describing how LIO actions are helping to achieve regional progress on the Action Agenda’s 22 Vital Signs. <a href="LIO-2-year-plan.php">LEARN MORE</a></p>		
+<p>LIOs are currently working to identify local near-term ecosystem recovery priorities through the development of 2-year recovery plans. These plans mirror and contribute to development of the 2016 Puget Sound Action Agenda, describing how LIO actions are helping to achieve regional progress on the Action Agenda’s 22 Vital Signs.</p>		
 <h2>5-year Recovery Planning</h2>
-<p>Between now and September 2016, LIOs are also working to build local, long-term recovery strategies from which high-priority recovery actions can be developed. Similar to the 2-year plans, these 5-year plans will mirror and contribute to Puget Sound Action Agenda updates and explain how LIOs are helping to advance regional progress on the Action Agenda’s 22 Vital Signs. <a href="LIO-5-year-plan.php">LEARN MORE </a></p>
+<p>Between now and September 2016, LIOs are also working to build local, long-term recovery strategies from which high-priority recovery actions can be developed. Similar to the 2-year plans, these 5-year plans will mirror and contribute to Puget Sound Action Agenda updates and explain how LIOs are helping to advance regional progress on the Action Agenda’s 22 Vital Signs.</p>
 
 <!-- InstanceEndEditable --> </div>
 		
