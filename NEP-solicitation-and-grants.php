@@ -88,7 +88,7 @@
 			<p>Click here to receive email notification of funding opportunities through the Lead Organizations. </p>
 			<table width="100%" border="0" cellpadding="0" bordercolor="#89B7D5">
 				<tr>
-					<td><a href="http://psp.us1.list-manage.com/subscribe?u=1e527a1c4505cbd9d6662d091&id=a58a377414"><strong>Sign up to receive RFP notification by email</strong></a></td>
+					<td><a href="sign-up.php"><strong>Sign up to receive RFP notification by email</strong></a></td>
 				</tr>
 			</table>
 			<p>&nbsp;</p>
