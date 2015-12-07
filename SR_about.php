@@ -137,7 +137,8 @@
 				<tr>
 					<td valign="top"></td>
 					<td valign="top"><p>Whatcom County </p></td>
-					<td valign="top"><p><strong>Frank Abart</strong></p></td>
+					<td valign="top"><p><strong>VACANT</strong></p>
+					<p>&nbsp;</p></td>
 					<td valign="top"></td>
 					<td valign="top"></td>
 				</tr>
