@@ -78,6 +78,13 @@
 <div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
 	<div class="container">
 		<div class="row margin-20-top">
+		<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"><strong>12.7.15</strong><br>
+						Online Action Agenda open house starts December 7.<br>
+<a href=" http://pugetsoundactionagendaupdate.publicmeeting.info/" target="newU">PARTICIPATE </a></div>
+				</div>
+			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> <strong>11.20.15</strong><br>
@@ -102,14 +109,7 @@
 						<a href="pressreleases/partnership_release.php?id=2321">LEARN MORE</a> </div>
 				</div>
 			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"><strong>11.2.15</strong><br>
-						JOB OPPORTUNITY:<br>
-						ENVIRONMENTAL PLANNER<br>
-						<a href="employment.php">LEARN MORE </a></div>
-				</div>
-			</div>
+			
 		</div>
 		<div class="row light-blue-fill">
 			<div class="col-md-3">
