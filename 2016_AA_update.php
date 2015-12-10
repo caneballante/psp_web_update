@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,13 +41,13 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image10">
 	<div class="overview-quote pull-right">
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -57,8 +58,7 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
@@ -66,10 +66,13 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox">
-				<h2 class="margin-0-top"><span class="new-red">NEW!</span> 9/21/15 Near Term Action Proposals</h2>
+				<h2 class="margin-0-top"><span class="new-red">NEW!</span> Online Action Agenda open house starts December 7.</h2>
+				<p>As part of the current Action Agenda update process, you can attend our online open house to find out more, learn how you can get involved, and give us your feedback. The open house begins Monday, Dec. 7, and will be available online through Tuesday, Dec. 15, by <a href=" http://pugetsoundactionagendaupdate.publicmeeting.info/" target="newU">clicking on this link. </a></p>
+			</div>
+			<div class="highlightbox margin-20-top">
+				<h2 class="margin-0-top">9/21/15 Near Term Action Proposals</h2>
 				<p>Are you interested in proposing an activity to be included in the Puget Sound Action Agenda? Proposals are due 10 a.m., December 31, 2015. <a href="2016_AA_NTA.php">Find out more.</a></p>
 			</div>
 			<h2>What is in the Action Agenda?</h2>
@@ -97,7 +100,6 @@
 				<li><a href="http://gismanager.rco.wa.gov/ntaportal">Action Agenda Report Card</a></li>
 			</ul>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
@@ -137,4 +139,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
