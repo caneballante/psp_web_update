@@ -80,9 +80,18 @@
 		<div class="row margin-20-top">
 		<div class="col-md-3">
 				<div class="newsbox">
+					<div class="newsbox-text"> <strong>12.10.15</strong><br>
+						PRESS RELEASE<br>
+					 	Puget Sound salmon recovery projects receive more than $33 million<br>
+						<a href="http://www.psp.wa.gov/blog/?p=607" target="new">LEARN MORE</a> </div>
+				</div>
+			</div>
+			
+		<div class="col-md-3">
+				<div class="newsbox">
 					<div class="newsbox-text"><strong>12.7.15</strong><br>
 						Online Action Agenda open house starts December 7.<br>
-<a href=" http://pugetsoundactionagendaupdate.publicmeeting.info/" target="newU">PARTICIPATE </a></div>
+<a href="http://pugetsoundactionagendaupdate.publicmeeting.info/" target="new">PARTICIPATE </a></div>
 				</div>
 			</div>
 			<div class="col-md-3">
@@ -99,14 +108,6 @@
 						PRESS RELEASE<br>
 						Statement from the Puget Sound Partnership regarding the 2015 Climate Change in Puget Sound report<br>
 						<a href="pressreleases/partnership_release.php?id=2323" target="new">LEARN MORE</a></div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> <strong>11.2.15</strong><br>
-						PRESS RELEASE<br>
-						2015 State of the Sound report: Analysis of ecosystem recovery shows mixed progress<br>
-						<a href="pressreleases/partnership_release.php?id=2321">LEARN MORE</a> </div>
 				</div>
 			</div>
 			
