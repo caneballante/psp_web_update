@@ -188,8 +188,9 @@
 			<br>
 			<!--S.E. PERFORMANCE AND EVALUATION-->
 			<h3>Performance and Evaluation</h3>
-			<h5>Vacant</h5>
-			<p> Performance Manager</p>
+			<h5>STEPHANIE FINDLEY</h5>
+			<p> Performance Manager<br />
+				360.464.2008 | <a href="mailto:stephanie.findley@psp.wa.gov">stephanie.findley@psp.wa.gov </a></p>
 			<h5>Alex Mitchell</h5>
 			<p> Performance Management Analyst<br />
 				360.464.1220 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a></p>
