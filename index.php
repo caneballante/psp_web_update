@@ -78,6 +78,13 @@
 <div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
 	<div class="container">
 		<div class="row margin-20-top">
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"><strong>12.16.15</strong><br>
+						Online Action Agenda Open House extended to Dec. 20.<br>
+<a href="http://pugetsoundactionagendaupdate.publicmeeting.info/" target="new">PARTICIPATE </a></div>
+				</div>
+			</div>
 		<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> <strong>12.10.15</strong><br>
@@ -87,13 +94,7 @@
 				</div>
 			</div>
 			
-		<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"><strong>12.7.15</strong><br>
-						Online Action Agenda open house starts December 7.<br>
-<a href="http://pugetsoundactionagendaupdate.publicmeeting.info/" target="new">PARTICIPATE </a></div>
-				</div>
-			</div>
+	
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> <strong>11.20.15</strong><br>
