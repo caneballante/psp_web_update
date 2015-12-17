@@ -68,8 +68,8 @@
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox">
-				<h2 class="margin-0-top"><span class="new-red">NEW!</span> Online Action Agenda open house starts December 7.</h2>
-				<p>As part of the current Action Agenda update process, you can attend our online open house to find out more, learn how you can get involved, and give us your feedback. The open house begins Monday, Dec. 7, and will be available online through Tuesday, Dec. 15, by <a href=" http://pugetsoundactionagendaupdate.publicmeeting.info/" target="newU">clicking on this link. </a></p>
+				<h2 class="margin-0-top"><span class="new-red">NEW!</span> Online Action Agenda Open House extended to Dec. 207.</h2>
+				<p>As part of the current Action Agenda update process, you can attend our online open house to find out more, learn how you can get involved, and give us your feedback. The open house begins Monday, Dec. 7, and will be available online through  Dec. 20th, by <a href=" http://pugetsoundactionagendaupdate.publicmeeting.info/" target="newU">clicking on this link. </a></p>
 			</div>
 			<div class="highlightbox margin-20-top">
 				<h2 class="margin-0-top">9/21/15 Near Term Action Proposals</h2>
