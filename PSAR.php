@@ -104,15 +104,15 @@ Because the projects are thoroughly reviewed, their benefit to improved salmon h
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-			          <li role="presentation"><a href="https://app.box.com/s/5h7adnq2hd7u3srmiqqd">PSAR FUND 2015-17 Ranked List and Map</a></li>
+			          <li role="presentation"><a href="https://app.box.com/s/5h7adnq2hd7u3srmiqqd" target="new">PSAR FUND 2015-17 Ranked List and Map</a></li>
 				
 				
-					 <li role="presentation"><a href="https://app.box.com/s/ii5hkscxa6zk98juwz51">PSAR 2015-17 Project Snapshots Factsheets Individual</a> </li>
-					 <li role="presentation"><a href=" https://app.box.com/s/fct26xzwhsh3co3kuefl">PSAR 2015-17 Project Snapshots Factsheets Combined</a> </li>
-				 <li role="presentation"><a href="https://app.box.com/s/3pmck57jdlx5qho7ikwk">PSAR FUND Fact Sheet</a> </li>
+					 <li role="presentation"><a href="https://app.box.com/s/ii5hkscxa6zk98juwz51" target="new">PSAR 2015-17 Project Snapshots Factsheets Individual</a> </li>
+					 <li role="presentation"><a href=" https://app.box.com/s/fct26xzwhsh3co3kuefl" target="new">PSAR 2015-17 Project Snapshots Factsheets Combined</a> </li>
+				 <li role="presentation"><a href="https://app.box.com/s/3pmck57jdlx5qho7ikwk" target="new">PSAR FUND Fact Sheet</a> </li>
 				
-				 <li role="presentation"><a href="https://app.box.com/s/31rg8lftqjecrrc6erv3">PSAR FUND Fact Sheet 11"x17" printable</a> </li>
-					 <li role="presentation"><a href="https://app.box.com/s/6bec8ax6ruaytrk4d5ms">PSAR 2013-15 Project Map</a> </li>
+				 <li role="presentation"><a href="https://app.box.com/s/31rg8lftqjecrrc6erv3" target="new">PSAR FUND Fact Sheet 11"x17" printable</a> </li>
+					 <li role="presentation"><a href="https://app.box.com/s/6bec8ax6ruaytrk4d5ms" target="new">PSAR 2013-15 Project Map</a> </li>
 				
 				
 						<!-- InstanceEndEditable -->
