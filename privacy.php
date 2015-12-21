@@ -44,7 +44,9 @@
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
-			<h1>PRIVACY POLICY I AM A CONFLICT, no I am conflict</h1>
+
+			<h1>PRIVACY POLICY</h1>
+
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -110,7 +112,7 @@ style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level
         		<h4 class="text"><a 
 name="_Personal_Information_and" id="_Personal_Information_and"></a><span class="text_headline">Personal information and choice </span></h4>
         		<p class="text"><strong>You may choose whether to provide personal information online.</strong><br />
-        				&quot;Personal information&quot; is information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as an individual's name, address, and phone number. A domain name or Internet Protocol address is not considered personal info. </p>
+        				&quot;Personal information&quot; is information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as an individual's name, address, and phone number. A domain name or Internet Protocol address is not considered personal information. </p>
         		<p class="text">We collect no personal information about you unless you voluntarily participate in an activity that asks for information (i.e. sending an email or participating in a survey). If you choose not to participate in these activities, your choice will in no way effect your ability to use any other feature of the Partnership's Web site. </p>
         		<p class="text">If personal information is requested on the Web site or volunteered by the user, state law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.</p>
         		<p class="text">Users are cautioned that the collection of personal information requested from or volunteered by children on-line or by email will be treated the same as information given by an adult, and may be subject to public access.
