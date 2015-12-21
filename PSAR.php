@@ -43,9 +43,9 @@
 
  </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
+<!--<div class="row">
 	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
+</div>-->
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
@@ -113,6 +113,7 @@ Because the projects are thoroughly reviewed, their benefit to improved salmon h
 				
 				 <li role="presentation"><a href="https://app.box.com/s/31rg8lftqjecrrc6erv3" target="new">PSAR FUND Fact Sheet 11"x17" printable</a> </li>
 					 <li role="presentation"><a href="https://app.box.com/s/6bec8ax6ruaytrk4d5ms" target="new">PSAR 2013-15 Project Map</a> </li>
+                     <li role="presentation"><a href="https://pspwa.app.box.com/files/0/f/3135971089/1/f_47216460041" target="new">PSAR Return on Investment 2007-2014</a> </li>
 				
 				
 						<!-- InstanceEndEditable -->
