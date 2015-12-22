@@ -83,13 +83,13 @@
 			
 			<strong><a href="https://app.smartsheet.com/b/form?EQBCT=9fdf5e520d4e4a958ed1a04210c68a10" target="new">NTA Submittal Portal</a></strong> <br />
 				<p>Use this portal to submit your NTA before the deadline at 10am on December 31, 2015. </p>
-		<p> <strong><a href="https://pspwa.app.box.com/s/8cnv9g2dpx2j71azs9wfzmit510ho9s8" target="new">Regional NTA Solicitation</a> <em>(2-Page Summary)</em></strong></p>
+		<p> <strong>Regional NTA Solicitation <em>(2-Page Summary)</em></strong> <a href="https://pspwa.app.box.com/s/8cnv9g2dpx2j71azs9wfzmit510ho9s8" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/8cnv9g2dpx2j71azs9wfzmit510ho9s8.pdf" target="new">direct download</a></p>
 
-		<p>	<strong><a href="https://pspwa.app.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud" target="new">Regional NTA Solicitation</a><em> (full document)</em></strong> </p>
+		<p>	<strong>Regional NTA Solicitation<em> (full document)</em></strong> <a href="https://pspwa.app.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/43heo2w6kb28197m3s3wsw69kkg90oud.pdf" target="new">direct download</a></p>
 				<ul>
-					<li><a href="https://pspwa.app.box.com/s/khe82tfske2rc2vj4323v7qplyoppav4" target="new">Modification of eligibility and process for salmon recovery projects</a> (added 12/1/2015)</li>
-					<li><a href="https://pspwa.app.box.com/s/d9a79c2jko3zu8gujvc4gwb5s9s0cjxw" target="new">Further modification of eligibility and process for salmon recovery projects </a>(added 12/18/2015)</li>
-				<li><a href="https://pspwa.app.box.com/s/16tzs34x1wrnpibmib50v5gzkx5vlzx2" target="new">	Modification of tribal NTA submittal requirements </a>(added 12/18/2015)</li>
+					<li>Modification of eligibility and process for salmon recovery projects (added 12/1/2015) <a href="https://pspwa.app.box.com/s/khe82tfske2rc2vj4323v7qplyoppav4" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/khe82tfske2rc2vj4323v7qplyoppav4.pdf" target="new">direct download</a></li>
+					<li>Further modification of eligibility and process for salmon recovery projects (added 12/18/2015) <a href="https://pspwa.app.box.com/s/d9a79c2jko3zu8gujvc4gwb5s9s0cjxw" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/d9a79c2jko3zu8gujvc4gwb5s9s0cjxw.pdf" target="new">direct download</a></li>
+				<li>	Modification of tribal NTA submittal requirements (added 12/18/2015) <a href="https://pspwa.app.box.com/s/16tzs34x1wrnpibmib50v5gzkx5vlzx2" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/16tzs34x1wrnpibmib50v5gzkx5vlzx2.pdf" target="new">direct download</a></li>
 				</ul>
 			
 			<p>The regional NTA solicitation is the official request for Near Term Actions for the new regional 2-year Implementation Plan component of the Action Agenda. It contains eligibility requirements, submittal requirements, evaluation criteria, regional priorities, and the NTA review process and deadlines.  Modifications to the solicitation are posted above.</p>
@@ -97,9 +97,9 @@
 					<strong><a href="https://pspwa.box.com/shared/static/cbg1fws6j5on4tk23pt152tapurtgqzt.xlsx" target="new">NTA Submittal Form</a></strong><br />
 				Download this form to write up your NTA proposal.<br />
 				<br />
-				<p><strong><a href="https://pspwa.box.com/s/pjl5i0w276loocwr61pf50pvxk9k1ha5" target="new">NTA Submittal Form Instructions</a></strong> </p>
-               <p> <strong><a href="https://pspwa.app.box.com/s/i4hrvxbx05pw6afkm95nw6up9pgh11cl" target="new">NTA Submittal Form Instructions – Addendum #1</a></strong> <strong>(added 11/25/2015)</strong></p>
-				<p><a href="https://pspwa.app.box.com/s/j82037hszac2pq9qempdoyqywgv9h5k4" target="new"><strong>NTA Submittal Form Instructions – Addendum #2</strong></a><strong> (added 12/18/2015)</strong><br />
+				<p><strong>NTA Submittal Form Instructions</strong> <a href="https://pspwa.box.com/s/pjl5i0w276loocwr61pf50pvxk9k1ha5" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/pjl5i0w276loocwr61pf50pvxk9k1ha5.pdf" target="new">direct download</a> </p>
+               <p> <strong>NTA Submittal Form Instructions – Addendum #1</strong> <strong>(added 11/25/2015)</strong> <a href="https://pspwa.app.box.com/s/i4hrvxbx05pw6afkm95nw6up9pgh11cl" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/i4hrvxbx05pw6afkm95nw6up9pgh11cl.pdf" target="new">direct download</a></p>
+				<p><strong>NTA Submittal Form Instructions – Addendum #2</strong><strong> (added 12/18/2015)</strong> <a href="https://pspwa.app.box.com/s/j82037hszac2pq9qempdoyqywgv9h5k4" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/j82037hszac2pq9qempdoyqywgv9h5k4.pdf" target="new">direct download</a><br />
 				Full instructions for filling out the NTA Submittal Form. Addendums to the original instructions are posted above.</p>
 			
 		<p>
