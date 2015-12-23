@@ -78,14 +78,13 @@
 			<p>Proposed NTAs may include new programs, specific projects, scientific investigations, or other types of actions described in this solicitation.</p>
 			<p><strong><u>Deadline</u></strong>: NTA proposals must be submitted through the regional NTA submittal portal by <strong><u>10am on December 31, 2015</u></strong>.</p>
 			<p><strong><u>Important Note</u></strong>: Local entities must first submit and get approval through their Local Integrating Organization (LIO) before submitting through the regional NTA submittal portal.  LIOs will approve those NTA&rsquo;s determined to be consistent with the &ldquo;Early Elements&rdquo; of the LIO&rsquo;s 5-year Ecosystem Recovery Plan. Each LIO has their own process and deadlines for NTA proposals. <strong>You should become familiar with your LIO&rsquo;s process as soon as possible to avoid missing important deadlines.</strong> NTA proposals submitted by local entities that have not been approved by an LIO will not be considered by the Strategic Initiative Transition Teams or recommended for inclusion in the Action Agenda. Contact information for LIOs is provided on the last page of the solicitation. </p>
-			<p>Solicitation Materials:</p>
+			<p><br /><strong>Solicitation Materials:</strong></p>
 			
 			
 			<strong><a href="https://app.smartsheet.com/b/form?EQBCT=9fdf5e520d4e4a958ed1a04210c68a10" target="new">NTA Submittal Portal</a></strong> <br />
-				<p>Use this portal to submit your NTA before the deadline at 10am on December 31, 2015. </p>
-		<p> <strong>Regional NTA Solicitation <em>(2-Page Summary)</em></strong> <a href="https://pspwa.app.box.com/s/8cnv9g2dpx2j71azs9wfzmit510ho9s8" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/8cnv9g2dpx2j71azs9wfzmit510ho9s8.pdf" target="new">direct download</a></p>
-
-		<p>	<strong>Regional NTA Solicitation<em> (full document)</em></strong> <a href="https://pspwa.app.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/43heo2w6kb28197m3s3wsw69kkg90oud.pdf" target="new">direct download</a></p>
+				<p>Use this portal to submit your NTA before the deadline at 10am on December 31, 2015. <br /><br /></p>
+		<p> <strong>Regional NTA Solicitation <em>(2-Page Summary)</em></strong> <a href="https://pspwa.app.box.com/s/8cnv9g2dpx2j71azs9wfzmit510ho9s8" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/8cnv9g2dpx2j71azs9wfzmit510ho9s8.pdf" target="new">direct download</a><br />
+<strong>Regional NTA Solicitation<em> (full document)</em></strong> <a href="https://pspwa.app.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/43heo2w6kb28197m3s3wsw69kkg90oud.pdf" target="new">direct download</a></p>
 				<ul>
 					<li>Modification of eligibility and process for salmon recovery projects (added 12/1/2015) <a href="https://pspwa.app.box.com/s/khe82tfske2rc2vj4323v7qplyoppav4" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/khe82tfske2rc2vj4323v7qplyoppav4.pdf" target="new">direct download</a></li>
 					<li>Further modification of eligibility and process for salmon recovery projects (added 12/18/2015) <a href="https://pspwa.app.box.com/s/d9a79c2jko3zu8gujvc4gwb5s9s0cjxw" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/d9a79c2jko3zu8gujvc4gwb5s9s0cjxw.pdf" target="new">direct download</a></li>
@@ -97,12 +96,12 @@
 					<strong><a href="https://pspwa.box.com/shared/static/cbg1fws6j5on4tk23pt152tapurtgqzt.xlsx" target="new">NTA Submittal Form</a></strong><br />
 				Download this form to write up your NTA proposal.<br />
 				<br />
-				<p><strong>NTA Submittal Form Instructions</strong> <a href="https://pspwa.box.com/s/pjl5i0w276loocwr61pf50pvxk9k1ha5" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/pjl5i0w276loocwr61pf50pvxk9k1ha5.pdf" target="new">direct download</a> </p>
-               <p> <strong>NTA Submittal Form Instructions – Addendum #1</strong> <strong>(added 11/25/2015)</strong> <a href="https://pspwa.app.box.com/s/i4hrvxbx05pw6afkm95nw6up9pgh11cl" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/i4hrvxbx05pw6afkm95nw6up9pgh11cl.pdf" target="new">direct download</a></p>
-				<p><strong>NTA Submittal Form Instructions – Addendum #2</strong><strong> (added 12/18/2015)</strong> <a href="https://pspwa.app.box.com/s/j82037hszac2pq9qempdoyqywgv9h5k4" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/j82037hszac2pq9qempdoyqywgv9h5k4.pdf" target="new">direct download</a><br />
+				<p><strong>NTA Submittal Form Instructions</strong> <a href="https://pspwa.box.com/s/pjl5i0w276loocwr61pf50pvxk9k1ha5" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/pjl5i0w276loocwr61pf50pvxk9k1ha5.pdf" target="new">direct download</a><br />
+               <strong>NTA Submittal Form Instructions – Addendum #1</strong> <strong>(added 11/25/2015)</strong> <a href="https://pspwa.app.box.com/s/i4hrvxbx05pw6afkm95nw6up9pgh11cl" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/i4hrvxbx05pw6afkm95nw6up9pgh11cl.pdf" target="new">direct download</a><br />
+				<strong>NTA Submittal Form Instructions – Addendum #2</strong><strong> (added 12/18/2015)</strong> <a href="https://pspwa.app.box.com/s/j82037hszac2pq9qempdoyqywgv9h5k4" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/j82037hszac2pq9qempdoyqywgv9h5k4.pdf" target="new">direct download</a><br />
 				Full instructions for filling out the NTA Submittal Form. Addendums to the original instructions are posted above.</p>
 			
-		<p>
+		<p><br />
 			<strong><a href="https://pspwa.box.com/s/ym914rupdzwsber2q56c6945q8glq0qd" target="new">NTA Resources</a></strong><br />
 				FAQs, guidance, and resources for NTA owners and LIOs are available here. Check periodically for the latest updates.
 			</p>
