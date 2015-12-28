@@ -68,11 +68,11 @@
 The Science Panel's expertise and advice are critical to the Puget Sound Partnership&rsquo;s efforts to develop a comprehensive, science-based plan to restore Puget Sound. The members, appointed by the Leadership Council, were chosen from the top scientists in Washington State.<br>
 			</p>
 						<p><strong>Chair: John Stein</strong><br />
-								<span style="font-weight: bold">Term:</span> 4 years 11/10/2015<br />
+								<span style="font-weight: bold">Term:</span> 4 years 11/10/2019<br />
 						John Stein is the current Science and Research Director of NOAA Fisheries’ Northwest Fisheries Science Center in Seattle, WA. The Center studies living marine resources (e.g., salmon, groundfish, and killer whales) and their habitats to better understand these resources and their ecosystems to assist resource managers in making sound decisions that build sustainable fisheries, recover endangered and threatened species, and sustain healthy ecosystems, and reduce human health risks. Currently, Dr. Stein oversees science to support ecosystem-based management of the California Current through NOAA’s Integrated Ecosystem Assessment program, as well as the Center’s efforts on impacts of ocean acidification on biological systems in Puget Sound. In addition, Stein serves on the Executive Committee for the West Coast Governors Alliance on Ocean Health and is the US Delegate to the North Pacific Marine Science Organization (PICES).
  </p>
 						<p><strong>Vice-chair: Ken Currens</strong><br />
-                          <span style="font-weight: bold">Term:</span> 4 years 11/10/2015<br />
+                          <span style="font-weight: bold">Term:</span> 4 years 11/10/2019<br />
 Ken Currens is a scientist for the Northwest Indian Fisheries Commission, where he serves as a scientific liaison between the Western Washington Treaty Tribes and the federal government, state agencies, and non-governmental organizations on salmon recovery and ecosystem conservation issues.  He guides a program that provides ecological and genetic analyses for salmon recovery, ecosystem monitoring, and hatchery reform.  From 2010-2012, he served as Science Director for the Puget Sound Partnership.  He was Chair of Washington’s Independent Science Panel (2000-2006), which was created by the Legislature to provide scientific guidance and review on salmon recovery and watershed health issues before the formation of the Washington Academy of Sciences.  He is a member of the Puget Sound Technical Recovery Team (now known as the Regional Implementation Technical Team) since 2000 and provided technical analyses to develop recovery plans for three species of ESA-listed salmon. His research focuses on ecological genetics and population structure of Pacific Northwest fishes and on the use of analytical tools for assessing genetic risks and ecological decision making.  He has served on editorial boards for the North American Journal of Fisheries Management and Fisheries. Dr. Currens received a B.A. in English from the University of Oregon and M.S. and Ph.D. degrees from Oregon State University. </p>
 									 <p><strong>Barbara Bentley</strong><br />
 								<span style="font-weight: bold">Term:</span> 4 years 11/10/2018<br />
@@ -106,7 +106,7 @@ Bob Ewing spent 20 years as the Director of Timberlands Strategic Planning for W
 				  </p>
 						
 						<p><strong>Jan Newton</strong><br />
-								<span style="font-weight: bold">Term:</span> 4 years 11/10/15<br />
+								<span style="font-weight: bold">Term:</span> 4 years 11/10/19<br />
 				  As principal oceanographer at UW’s Applied Physics Laboratory, Newton provides oversight of an observational and modeling study of hypoxia in Hood Canal. Newton also is an assistant professor at UW’s School of Oceanography, where she works with faculty and students to develop and conduct research on biological oceanography of Pacific Northwest coastal and inland waters. </p>
 						<p><strong>Ian Perry</strong><br />
 						  <span style="font-weight: bold">Term</span>: 4 years 11/10/2017						  <br />
