@@ -66,63 +66,76 @@
 			<table class="table">
 				<tr>
 					<td width="78" class="tableheader">DATE</td>
-					<td width="105"  class="tableheader">TIME</td>
 					<td width="211" class="tableheader">DETAILS</td>
 					<td width="221" class="tableheader">DOCUMENTS</td>
 				</tr>
 				<tr>
-					<td width="78">November 19</td>
-					<td width="105">10:00 a.m. - 3:00p.m.</td>
-					<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-						410 4th Ave N, <br />
-						Edmonds, WA 98020</td>
-					<td><p><a href="https://pspwa.box.com/s/ai7k8xnnoe0bgffoaovazu2mhy682nx4">Meeting Materials</a></p></td>
-				</tr>
-				<tr>
-					<td colspan="4"><p>PAST MEETINGS</p></td>
-				</tr>
-				<tr>
-					<td>January 22</td>
-					<td>10:00 a.m. - 3:00p.m.</td>
-					<td><a href="http://www.edmondswa.gov/maps-and-direction.html">Edmonds City Hall, Bracket Rm</a><br />
-						121 5th Ave. North<br />
-						Edmonds, WA </td>
-					<td><p>Temporarily Unavailable</p></td>
-				</tr>
-				<tr>
-					<td width="78"> April 2nd.<br /></td>
-					<td width="105">10:00 a.m. - 3:00p.m.</td>
-					<td>Edmonds Center for the Arts,<br />
-						410 Fourth Ave. North<br />
-						<a href="http://www.edmondscenterforthearts.org/plan-your-visit">Edmonds, WA 98020</a></td>
-					<td><p>Temporarily Unavailable</p></td>
-				</tr>
-				<tr>
-					<td>June 4</td>
-					<td>10:00 a.m. - 3:00p.m.</td>
+					<td width="78"><p>January 28</p></td>
 					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
 							410 4th Ave N, <br />
 							Edmonds, WA 98020</p></td>
-					<td><p>Temporarily Unavailable</p></td>
+					<td><p><a href="https://pspwa.box.com/s/15k73nre88qh9dfnmbths8gglakwy3m3" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td>July 16</td>
-					<td>10:00 a.m. - 3:00p.m.</td>
-					<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-						410 4th Ave N, <br />
-						Edmonds, WA 98020</td>
-					<td><p>Temporarily Unavailable</p></td>
+					<td width="78"><p>March 24</p></td>
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+							410 4th Ave N, <br />
+							Edmonds, WA 98020</p></td>
+					<td><p><a href="https://pspwa.box.com/s/xay6lmopzt9brhudxn1zvviwkdl6q3l0" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td>September 24</td>
-					<td>10:00 a.m. - 3:00p.m.</td>
-					<td><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-						410 4th Ave N, <br />
-						Edmonds, WA 98020</td>
-					<td><p>Temporarily Unavailable</p></td>
+					<td width="78"><p>April 4</p></td>
+					<td><p>(Joint meeting with the Salmon Recovery Council)<br>
+							South Seattle Community College - Georgetown campus<br>
+							6737 Corson Ave. South <br>
+							Seattle, WA 98108</p>
+						</a></td>
+					<td><p><a href="https://pspwa.box.com/s/znnt00d8hctqqeun4zj8cztllyesdzd2" target="new">Meeting Materials</a></p></td>
+				</tr>
+				<tr>
+					<td width="78"><p>May 26</p></td>
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+							410 4th Ave N, <br />
+							Edmonds, WA 98020</p></td>
+					<td><p><a href="https://pspwa.box.com/s/fjsyf54vpu1akdg2qn8g4eh9u9ky0be3" target="new">Meeting Materials</a></p></td>
+				</tr>
+				<tr>
+					<td width="78"><p>June 8</p></td>
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+							410 4th Ave N, <br />
+							Edmonds, WA 98020</p></td>
+					<td><p><a href="https://pspwa.box.com/s/vw4ba6cno6cnc8dp5w95jmp1rio7lkt3" target="new">Meeting Materials</a></p></td>
+				</tr>
+				<tr>
+					<td width="78"><p>July 28</p></td>
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+							410 4th Ave N, <br />
+							Edmonds, WA 98020</p></td>
+					<td><p><a href="https://pspwa.box.com/s/d7ydgiyex4esz9eeuv97ns8jv68vkofe" target="new">Meeting Materials</a></p></td>
+				</tr>
+					<tr>
+					<td width="78"><p>September 22</p></td>
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+							410 4th Ave N, <br />
+							Edmonds, WA 98020</p></td>
+					<td><p><a href="https://pspwa.box.com/s/5lc5nkc99vw20mcinbtxjtbsn149hsxa" target="new">Meeting Materials</a></p></td>
+				</tr>
+					<tr>
+					<td width="78"><p>October 19-20</p></td>
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+							410 4th Ave N, <br />
+							Edmonds, WA 98020</p></td>
+					<td><p><a href="https://pspwa.box.com/s/hdtjpbf76ywd34s56qgg5223x37xenyp" target="new">Meeting Materials</a></p></td>
+				</tr>
+					<tr>
+					<td width="78"><p>December 1</p></td>
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+							410 4th Ave N, <br />
+							Edmonds, WA 98020</p></td>
+					<td><p><a href="https://pspwa.box.com/s/beiluf46cn51digqmul938v25kmq6z20" target="new">Meeting Materials</a></p></td>
 				</tr>
 			</table>
-			<p>* Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls. <br />
+			<p> Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls. <br />
 				<br />
 			</p>
 			<!-- InstanceEndEditable --> </div>
