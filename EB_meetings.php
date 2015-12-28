@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,7 +27,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 5;
-</script> 
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -40,9 +41,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -51,16 +52,14 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-boards.html';?>	
+				<?php include 'includes/ln-boards.html';?>
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Start and end times depend on agenda needs, but meetings and work sessions generally begin at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. Select AGENDA	to view documents related to the meeting. </p>
 			<table width="100%" border="0" class="table">
@@ -69,60 +68,71 @@
 					<td width="220" class="tableheader">LOCATION</td>
 					<td width="251" class="tableheader">PROPOSED AGENDA &amp; SUMMARY</td>
 				</tr>
-				
 				<tr>
-					<td class=""><p>November 12</p></td>
-					<td class=""><p><a href="https://www.google.com/maps/dir/Lynnwood+Convention+Center,+3711+196th+St+SW,+Lynnwood,+WA+98036,+United+States/@47.821491,-122.283608,7z/data=!4m12!1m3!3m2!1s0x0:0x9ba35561d5be79df!2sLynnwood+Convention+Center!4m7!1m0!1m5!1m1!1s0x5490056bed29e9bb:0x9ba35561d5be79df!2m2!1d-122.2836082!2d47.821491?hl=en">Lynnwood Convention Center</a><br />
-							Room: 1D<br />
-							3711 196th St SW<br />
-							Lynwood, WA  98036</p>
-						<p><a href="http://cdn3.assets.sites.launchrocketship.com/e4142ea2-b69a-47f7-a8ff-06d0b6a5b86e/files/91a81d30-6155-4e7a-b4d1-bd2d8a7f47dd/directionsandoverflow.pdf">Directions PDF </a></p>
-						<p></p></td>
-					<td class=""><p><a href="https://pspwa.app.box.com/s/rvo649ycmrhtxbuy9axi8u90ad6x5ukk">Meeting Materials</a></p></td>
+					<td class=""><p>January 14</p></td>
+					<td class=""><p>South Seattle Community College - Georgetown campus<br>
+						6737 Corson Ave. South <br>
+						Seattle, WA 98108
+						</p>
+						</td>
+					<td class=""><p><a href="https://pspwa.box.com/s/rhsi2xiq6xb68nq4lyi8mhec159gg31r" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td  colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
-				</tr>
-				<tr>
-					<td >February 19</td>
-					<td><p><a href="http://theheritageroom-olympia.com/directions-and-parking/" target="_blank">Heritage Room</a><br />
-							604 Water Street<br />
-							Olympia, WA 98501<br />
+					<td ><p>April 4</p></td>
+					<td><p>(Joint meeting with the Salmon Recovery Council)<br>
+						South Seattle Community College - Georgetown campus<br>
+						6737 Corson Ave. South <br>
+						Seattle, WA 98108
 						</p></td>
-					<td><p>Temporarily Unavailable</p></td>
+					<td><p><a href="https://pspwa.box.com/s/rwr5w2tzgvy2vt7tjns5a21ad1u0trc7" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td class=""><p>May 21</p>
+					<td class=""><p>May 19</p>
 						<p>&nbsp;</p></td>
-					<td class=""><p><a href="http://edmondswa.gov/maps-and-direction.html">Edmonds – City Hall - Brackett Room</a><br />
-							3rd Floor<br />
-							121 Fifth Avenue North<br />
-							Edmonds, WA 98020</p></td>
-					<td class=""><p>Temporarily Unavailable</p></td>
+					<td class=""><p>Edmond Center for the Arts<br>
+410 Fourth Ave N<br>
+Edmonds, WA 98020</p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/3ikfsqg753lx1s98at76y2fv3xko6knf" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td class=""><p>July 8 </p></td>
-					<td class=""><p>Edmonds Conference Center<br />
-							Orchid Conference Room<br />
-							201 - Fourth Ave North<br />
-							Edmonds, WA 98020</p></td>
-					<td class=""><p>Temporarily Unavailable</p></td>
+					<td class=""><p>June 8</p></td>
+					<td class=""><p>(Joint meeting with the Salmon Recovery Council)<br>
+						South Seattle Community College - Georgetown campus<br>
+						6737 Corson Ave. South <br>
+						Seattle, WA 98108
+						</p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/s2424likwni9duozrfpsnfo0m5jwtl34" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td class=""><p>September 17</p></td>
-					<td class=""><p>CANCELLED</p></td>
-					<td class=""><p>Temporarily Unavailable</td>
+					<td class=""><p>July 21</p></td>
+					<td class=""><p>Edmond Center for the Arts<br>
+410 Fourth Ave N<br>
+Edmonds, WA 98020</p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/8tdoqox0dxr3vu06jmr0ej144waop5kp" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td class=""><p>September 8</p></td>
+					<td class=""><p>Edmond Center for the Arts<br>
+410 Fourth Ave N<br>
+Edmonds, WA 98020</p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/fb6g49jz8td7hvs34chkflfompf4pw7j" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td class=""><p>November 10</p></td>
+					<td class=""><p>Edmond Center for the Arts<br>
+410 Fourth Ave N<br>
+Edmonds, WA 98020</p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/spg5nxhnyaq10rmw38pk6q8fjndty0sb" target="new">Meeting Materials</a></td>
 				</tr>
 			</table>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li>
-				<?php include 'includes/board_contact.html';?>
+				<li>
+					<?php include 'includes/board_contact.html';?>
 				</li>
 				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li>
 				<!-- InstanceEndEditable -->
@@ -154,4 +164,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
