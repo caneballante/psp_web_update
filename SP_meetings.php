@@ -1,5 +1,6 @@
 &<!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,7 +27,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 7;
-</script> 
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -40,102 +41,108 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <p>&nbsp;</p>
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2015 SCIENCE PANEL MEETINGS</h1>
+			<h1>2016 SCIENCE PANEL MEETINGS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include 'includes/ln-boards.html';?>	
+				<?php include 'includes/ln-boards.html';?>
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-	<p>Start and end times depend on agenda needs, but meetings and work sessions generally begin at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. Select AGENDA	to view documents related to the meeting.	</p>		
-				<table width="100%" border="0" class="table">
-								<tr>
-										<td width="100" class="tableheader">DATE</td>
-										<td width="268" class="tableheader">LOCATION</td>
-										<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
-								</tr>
-					<tr>
-								  <td class="">December 15 – 16</td>
-								  <td class=""><p>South Seattle Community College - Georgetown campus<br>
-								  	6737 Corson Ave. South<br>
-				  	Seattle, WA 98108</p></td> <td class=""><a href="https://pspwa.box.com/s/ddb3z9qx19vc6h8ktj0srhdnldmgd78c">Meeting Materials</a></td> </tr>
-                                    <tr>
-										<td colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
-								</tr>
-<tr>
-										<td class="">February 25 – 26</td>
-										<td class=""><p>Washington State University Research Center<br />
-									    Allmendinger Center<br />
-									    2606 West Pioneer<br />
-									    Puyallup, WA 98371</p></td>
-										<td class="">Temporarily Unavailable</td>
-								</tr>
-								<tr>
-								  <td >April 23</td>
-								  <td><p>Puget Sound Partnership<br />
-								    Center for Urban Waters<br />
-326 East D Street, third floor<br />
-Tacoma, WA 98421-1801</p></td>
-								  <td >Temporarily Unavailable</td>
-						  </tr> 		
-						  <tr>
-								  <td >June 24 – 25</td>
-								  <td><p>Western Washington University<br />
-								  		Viking Union Room 565<br />
-								  		516 High Street<br />
-								  		Bellingham, WA 98225</p></td>
-								  <td >Temporarily Unavailable</td>
-						  </tr> 
-							<tr>
-										<td class="">August 6</td>
-										<td class=""><p>Washington State Capitol<br />
-										  Legislative Building<br />
-										  Columbia Room<br />
-										  416 Sid Snyder Ave SW<br />
-									    Olympia, WA 98504</p></td>
-										<td class="">Temporarily Unavailable</td>
-								</tr>	
-									<tr>
-								  <td class="">October 28</td>
-								  <td class=""><p>Port of Everett Waterfront Center<br />
-								  	Heron Room<br />
-								  	1205 Craftsman Way<br />
-								  	Everett, WA 98201<br />
-							
-									</p></td>
-								  <td class=""><a href="https://pspwa.app.box.com/s/3subpdfqm3t2ymzfhilyocj4yqo0qa3n">Meeting Materials</a></td>
-						  </tr>
-						</table>
-			
+			<p>Start and end times depend on agenda needs, but meetings and work sessions generally begin at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. </p>
+			<table width="100%" border="0" class="table">
+				<tr>
+					<td width="100" class="tableheader">DATE</td>
+					<td width="268" class="tableheader">LOCATION</td>
+					<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
+				</tr>
+				<tr>
+					<td class=""><p>February 10</p></td>
+					<td class=""><p>Washington State University Research Center<br />
+							Allmendinger Center<br />
+							2606 West Pioneer<br />
+							Puyallup, WA 98371</p></td>
+					<td class=""><a href="https://pspwa.box.com/s/pgqs3omw48uozvwqltqffjew352yl6i6" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td class=""><p>March 23</p></td>
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+							410 4th Ave N, <br />
+							Edmonds, WA 98020</p></td>
+						<td class=""><a href="https://pspwa.box.com/s/h0lipdpoo0yuscwz5py5e4jt0g5hf6ak" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td ><p>April 12</p></td>
+					<td><p>Vancouver, BC (added to the Salish Sea Ecosystem Conference)</p></td>
+							<td class=""><a href="https://pspwa.box.com/s/shhygsyx2fefzv30suqxpj161rtwew53" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td ><p>May 11</p></td>
+					<td class=""><p>Washington State University Research Center<br />
+							Allmendinger Center<br />
+							2606 West Pioneer<br />
+							Puyallup, WA 98371</p></td>
+							<td class=""><a href="https://pspwa.box.com/s/8sek7lkq3gt016ow4gy4g0wvdhdin2tg" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td class=""><p>June 2</p></td>
+					<td class=""><p>Webex Only - Short morning meeting</p></td>
+							<td class=""><a href="https://pspwa.box.com/s/jm5r7stlq7pu5gc79i2451jio5pgo2oq" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td class=""><p>June 21-22</p></td>
+					<td class=""><p>University of Washington<br />
+							Applied Physics Lab, Seattle<br />
+						</p></td>
+					<td class=""><a href="https://pspwa.box.com/s/xmmbc20di4a5vxvobnf3z1tjej4djj1t" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td class=""><p>August 24</p></td>
+					<td class=""><p>TBD<br />
+						</p></td>
+					<td class=""><a href="https://pspwa.box.com/s/ook44lszb4xhp4e2dgnf06sdk4oxw1vt" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td class=""><p>October 26</p></td>
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+							410 4th Ave N, <br />
+							Edmonds, WA 98020</p></td>
+					<td class=""><a href="https://pspwa.box.com/s/fhtc35b1mesjs08y5yh5qf9yjiuftyn5" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td class=""><p>December 14-15</p></td>
+					<td><p> South Seattle Community College - Georgetown campus<br>
+							6737 Corson Ave. South <br>
+							Seattle, WA 98108</p>
+						</a></td>
+					<td class=""><a href="https://pspwa.box.com/s/aqy5lf4irg6ll0mzqqq0ap3eyjgdpsck" target="new">Meeting Materials</a></td>
+				</tr>
+			</table>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-							<li>
-				<?php include 'includes/board_contact.html';?>
+				<li>
+					<?php include 'includes/board_contact.html';?>
 				</li>
 				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li>
-						<!-- InstanceEndEditable -->
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
@@ -164,4 +171,5 @@ Tacoma, WA 98421-1801</p></td>
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>

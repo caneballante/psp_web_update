@@ -101,9 +101,10 @@
 				</tr>
 				<tr>
 					<td width="78"><p>June 8</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-							410 4th Ave N, <br />
-							Edmonds, WA 98020</p></td>
+					<td><p>(Joint meeting with the Salmon Recovery Council)<br>
+South Seattle Community College - Georgetown campus<br>
+6737 Corson Ave. South <br>
+Seattle, WA 98108</p></td>
 					<td><p><a href="https://pspwa.box.com/s/vw4ba6cno6cnc8dp5w95jmp1rio7lkt3" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
