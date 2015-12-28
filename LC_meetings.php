@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2015 LEADERSHIP COUNCIL MEETINGS</h1>
+			<h1>2016 LEADERSHIP COUNCIL MEETINGS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -63,7 +63,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p> Start and end times depend on agenda needs. Regular meetings generally begin at 9 a.m. and work sessions at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. The regular meetings and work sessions are free and open to the public. Select AGENDA to view documents related to each meeting. </p>
+			<p> Start and end times depend on agenda needs. Regular meetings generally begin at 9 a.m. and work sessions at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. The regular meetings and work sessions are free and open to the public. </p>
 			<table width="100%" border="0" class="table">
 				<tr>
 					<td width="125" class="tableheader">DATE</td>
@@ -72,65 +72,41 @@
 				</tr>
 				<tr> </tr>
 				<tr>
-					<td>October 15</td>
-					<td>La Conner Country Inn<br />
-						Two Forks conference room<br />
-						107 South 2nd Street<br />
-						La Conner, WA 98257</td>
-					<td><a href="https://pspwa.box.com/s/0vg81qht4pc2pw63njcrkcmp7rsnef7z">Meeting Materials</a></td>
+					<td><p>February 4-5</p></td>
+					<td><p>TBD</p></td>
+					<td><a href="https://pspwa.box.com/s/p9csyudvw0v2z1ecbi096dyilbwm2arg" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td>December 3-4</td>
-					<td><p><a href="https://pspwa.box.com/s/r9l3ygz2if729s7zkhmqri1twt9kjayb" target="_blank">Washington State Capitol Campus</a><br />
-John A. Cherberg Building<br />
-Conference Room A/B/C<br />
-298 - 15th Ave SW<br />
-Olympia, WA 98504</p></td>
+					<td><p>April 28-29</p></td>
+					<td><p>Fort Worden, Commons Conference Room<br>
+						200 Battery Way<br>
+						Port Townsend, WA 98368
+					</p></td>
 
-					<td><a href="https://pspwa.box.com/s/cnszl9e74c1crqdp5qik0kmfiwlpfw1l">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/jmp7li1hmlqau3yug0y2imz5pilngbgi" target="new">Meeting Materials</a></td>
 
 				</tr>
+				
 				<tr>
-					<td height="21" colspan="3" class="tableheader"><strong>PAST MEETINGS</strong></td>
+					<td><p>June 29-30</p></td>
+					<td><p>TBD</p></td>
+					<td><a href="https://pspwa.box.com/s/dz24unsga89ffo4yzlctm4ww7q7xej7l" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td>January 29</td>
-					<td><p>Natural Resources Building<br />
-							Room 172<br />
-							1111 Washington Street SE<br />
-							Olympia, WA 98501-2283 </p></td>
-					<td>Temporarily Unavailable</td>
+					<td><p>August 30-31</p></td>
+					<td><p>TBD</p></td>
+					<td><a href="https://pspwa.box.com/s/6z8l370w7cz4gwk3zlo1t95ypfxbxyz3" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td>March 27</td>
-					<td><p>GA Auditorium, 1st floor<br />
-							General Administration Building<br />
-							210 - 11th Avenue SW<br />
-							Olympia, WA 98501</p></td>
-					<td>Temporarily Unavailable</td>
-				</tr>
-				<tr>
-					<td><p>May 7<br />
-							CANCELLED<br />
-							work session only</p></td>
-					<td><p>Elwha Klallam Heritage Training Center<br />
-							Conference Room<br />
-							401 East 1st Street<br />
-							Port Angeles, WA 98363</p></td>
-					<td>Cancelled<br />
+					<td><p>October 6-7</p></td>
+					<td><p>TBD</p></td>
+					<td><a href="https://pspwa.box.com/s/qu1n0nlvyhclipzvp9ola1dh2glc3354" target="new">Meeting Materials</a><br />
 					</td>
 				</tr>
 				<tr>
-					<td>July 29-30</td>
-					<td><p>Washington State Capitol<br />
-							Legislative Building<br />
-							Columbia Room (1st floor under rotunda)<br />
-							416 Sid Snyder Ave SW<br />
-							Olympia, WA 98504</p></td>
-					<td>Temporarily Unavailable<br />
-						<br />
-						<a href="http://www.tvw.org/index.php?option=com_tvwplayer&amp;eventID=2015070019"> TVW video of Morning Session</a><br />
-						<a href="http://www.tvw.org/index.php?option=com_tvwplayer&amp;eventID=2015070020">TVW video of Afternoon Session</a><br /></td>
+					<td><p>December 6-7</p></td>
+					<td><p>TBD</p></td>
+					<td><a href="https://pspwa.box.com/s/vjmyls3gndnl9p4uffg1d83mfpik1m9v" target="new">Meeting Materials</a><br /></td>
 				</tr>
 			</table>
 	
