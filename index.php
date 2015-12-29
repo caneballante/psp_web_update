@@ -80,92 +80,96 @@
 		<div class="row margin-20-top">
 			<div class="col-md-3">
 				<div class="newsbox">
-					<div class="newsbox-text">
-					<!--news content BOX 1-->
-					<strong>12.10.15</strong><br>
+					<div class="newsbox-text"> 
+						<!--news content BOX 1--> 
+						<strong>12.10.15</strong><br>
 						PRESS RELEASE<br>
-					 	Puget Sound salmon recovery projects receive more than $33 million<br>
-						<a href="http://www.psp.wa.gov/blog/?p=607" target="new">LEARN MORE</a>
-					<!--END news content BOX 1-->
+						Puget Sound salmon recovery projects receive more than $33 million<br>
+						<a href="http://www.psp.wa.gov/blog/?p=607" target="new">LEARN MORE</a> 
+						<!--END news content BOX 1--> 
 					</div>
 				</div>
 			</div>
-		<div class="col-md-3">
+			<div class="col-md-3">
 				<div class="newsbox">
-					<div class="newsbox-text">  
-						<!--news content BOX 2-->
-					<strong>11.20.15</strong><br>
+					<div class="newsbox-text"> 
+						<!--news content BOX 2--> 
+						<strong>11.20.15</strong><br>
 						PRESS RELEASE<br>
 						Clallam County partners honored for work that helped reopen 728 acres of Dungeness shellfish beds<br>
 						<a href="pressreleases/partnership_release.php?id=2324" target="new">LEARN MORE</a> 
-					<!--END news content BOX 2-->
-					
+						<!--END news content BOX 2--> 
+						
 					</div>
 				</div>
 			</div>
-			
-	
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX 3-->
-							<strong>11.17.15</strong><br>
+						<!--news content BOX 3--> 
+						<strong>11.17.15</strong><br>
 						PRESS RELEASE<br>
 						Statement from the Puget Sound Partnership regarding the 2015 Climate Change in Puget Sound report<br>
-						<a href="pressreleases/partnership_release.php?id=2323" target="new">LEARN MORE</a>
-					<!--END news content BOX 3-->
-					
-					
+						<a href="pressreleases/partnership_release.php?id=2323" target="new">LEARN MORE</a> 
+						<!--END news content BOX 3--> 
+						
 					</div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-					<!--news content BOX 4-->
-					<strong>10.12.15</strong><br>
+						<!--news content BOX 4--> 
+						<strong>10.12.15</strong><br>
 						SUBMIT A PROPOSAL:<br>
-						Now is the time to develop Near Term Action proposals for the 2016 Action Agenda update. <a href="2016_AA_NTA.php">LEARN MORE</a>
-					<!--END news content BOX 4-->
+						Now is the time to develop Near Term Action proposals for the 2016 Action Agenda update. <a href="2016_AA_NTA.php">LEARN MORE</a> 
+						<!--END news content BOX 4--> 
 					</div>
 				</div>
 			</div>
-			
 		</div>
 		<div class="row light-blue-fill">
 			<div class="col-md-3">
-				<div class="newsbox">
-						<div class="newsbox-date">JAN<br>
-					14</div>
+				<div class="newsbox"> 
+					<!--news content BOX 5-->
+					<div class="newsbox-date">JAN<br>
+						14</div>
 					<div class="newsbox-text"> <a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
 						MEETING, SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
 					</div>
+					<!--END news content BOX 5--> 
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="newsbox">
+				<div class="newsbox"> 
+					<!--news content BOX 6-->
 					<div class="newsbox-date">JAN<br>
 						28</div>
 					<div class="newsbox-text"> <a href="SR_meetings.php">SALMON RECOVERY COUNCIL<br>
 						MEETING, EDMONDS CENTER FOR THE ARTS</a><br>
 					</div>
+					<!--END news content BOX 6--> 
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="newsbox">
+				<div class="newsbox"> 
+					<!--news content BOX 7-->
 					<div class="newsbox-date">FEB<br>
 						4-5</div>
 					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
 						LOCATION TBD</a></div>
+					<!--END news content BOX 7--> 
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="newsbox">
+				<div class="newsbox"> 
+					<!--news content BOX 8-->
 					<div class="newsbox-date">FEB<br>
 						10</div>
 					<div class="newsbox-text"><a href="SP_meetings.php" target="_self">SCIENCE PANEL MEETING,<br>
 						WASHINGTON STATE UNIVERSITY RESEARCH CENTER, PUYALLUP</a><br>
 					</div>
+					<!--END news content BOX 8--> 
 				</div>
 			</div>
 		</div>
