@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,7 +27,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 4;
-</script> 
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -40,29 +41,29 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image12"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>PARTNERSHIP STAFF</h1>
 			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --></div>
+			<!--ANCHOR LINK above target--> 
+			<a name="executive_team"></a> <!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-psp-overview.html';?>	
+				<?php include 'includes/ln-psp-overview.html';?>
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> 
+			
 			<!--EXECUTIVE TEAM-->
 			<h5 class="margin-0-top">Sheida Sahandy</h5>
 			<p> Executive Director<br />
@@ -76,9 +77,11 @@
 				Office 360.339.8942 | <a href="mailto:tammy.antilla@psp.wa.gov">tammy.antilla@psp.wa.gov</a></p>
 			<h5>Vacant</h5>
 			<p> EPA Liaison</p>
-			<br>
+			<!--ANCHOR LINK spaced 2 br above target--> 
+			<a name="administrative_services"></a> <br>
 			<br>
 			<!--ADMINISTRATIVE SERVICES-->
+			
 			<h2>ADMINISTRATIVE SERVICES</h2>
 			<h5>Jen Benn</h5>
 			<p> Director of Administrative Services<br />
@@ -149,11 +152,11 @@
 			<h5>Erika Lari</h5>
 			<p> Designer<br />
 				253.348.2482 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
-			<br>
-			
-			
+			<!--ANCHOR LINK spaced 2 br above target--> 
+			<a name="science_and_evaluation"></a> <br>
 			<br>
 			<!--SCIENCE AND EVALUATION-->
+			
 			<h2>SCIENCE AND EVALUATION</h2>
 			<h5>Scott Redman</h5>
 			<p> Program Director<br />
@@ -170,7 +173,8 @@
 			<h5>Skadi von Reis</h5>
 			<p> Hershman Marine Policy Fellow<br />
 				253.666.6289 | <a href="mailto:skadi.vonreis@psp.wa.gov">skadi.vonreis@psp.wa.gov</a></p>
-			<br><!--S.E. ECOSYSTEM ASSESSMENT-->
+			<br>
+			<!--S.E. ECOSYSTEM ASSESSMENT-->
 			<h3>Ecosystem Assessment</h3>
 			<h5>Ken Dzinbal</h5>
 			<p> Monitoring Program Manager<br />
@@ -182,9 +186,8 @@
 			<p> Monitoring Program Performance Analyst<br />
 				360.339.5826 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
 			<h5>Elene Dorfmeier</h5>
-			<p> Monitoring Performance Analyst
-				<br>
-			360-464-1217| <a href="mailto:elene.dorfmeier@psp.wa.gov">elene.dorfmeier@psp.wa.gov</a></p>
+			<p> Monitoring Performance Analyst <br>
+				360-464-1217| <a href="mailto:elene.dorfmeier@psp.wa.gov">elene.dorfmeier@psp.wa.gov</a></p>
 			<br>
 			<!--S.E. PERFORMANCE AND EVALUATION-->
 			<h3>Performance and Evaluation</h3>
@@ -194,9 +197,11 @@
 			<h5>Alex Mitchell</h5>
 			<p> Performance Management Analyst<br />
 				360.464.1220 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a></p>
-			<br>
+			<!--ANCHOR LINK spaced 2 br above target--> 
+			<a name="policy_and_planning"></a> <br>
 			<br>
 			<!--POLICY AND PLANNING-->
+			
 			<h2>POLICY AND PLANNING</h2>
 			<h5>Jim Bolger</h5>
 			<p> Program Director<br />
@@ -230,9 +235,11 @@
 			<h5>Dave Ward</h5>
 			<p> Social Strategies Manager<br />
 				425.457.1157 | <a href="mailto:dave.ward@psp.wa.gov">dave.ward@psp.wa.gov</a></p>
-			<br>
+			<!--ANCHOR LINK spaced 2 br above target--> 
+			<a name="local_ecosystem_recovery"></a> <br>
 			<br>
 			<!--LOCAL ECOSYSTEM RECOVERY-->
+			
 			<h2>LOCAL ECOSYSTEM RECOVERY</h2>
 			<h5>Jeanette Dorner</h5>
 			<p> Program Director and Tribal Affairs<br />
@@ -270,27 +277,35 @@
 				360.464.2013 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a></p>
 			<h5>DAN CALVERT</h5>
 			<p> Ecosystem Recovery Coordinator <br />
-				<!--<em>Stillaguamish/Snohomish</em><br />-->
+				<!--<em>Stillaguamish/Snohomish</em><br />--> 
 				360.464.2003 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov</a></p>
 			<h5>AMBER MOORE</h5>
 			<p> Ecosystem Recovery Coordinator <br />
-				<!--<em>Stillaguamish/Snohomish</em><br />-->
+				<!--<em>Stillaguamish/Snohomish</em><br />--> 
 				360.464.1225 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
-			
-			
 			<h5>Bruce Wulkan</h5>
 			<p> Ecosystem Recovery Coordinator <br />
 				<em>South Central, Green and Cedar Watersheds</em><br />
 				360.339.4626 | <a href="mailto:bruce.wulkan@psp.wa.gov">bruce.wulkan@psp.wa.gov</a></p>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-		<div class="right-nav-title">SEE ALSO</div>
+			<div class="right-nav-title margin-0-top ">ON THIS PAGE</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> <a href="#executive_team">EXECUTIVE TEAM</a></li>
+				<li role="presentation"> <a href="#administrative_services">ADMINISTRATIVE SERVICES</a></li>
+				<li role="presentation"> <a href="#science_and_evaluation">SCIENCE AND EVALUATION</a></li>
+				<li role="presentation"> <a href="#policy_and_planning">POLICY AND PLANNING</a></li>
+				<li role="presentation"> <a href="#local_ecosystem_recovery">LOCAL ECOSYSTEM RECOVERY</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-20-top">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="https://app.box.com/s/y0hbuwufc0bwiev42qg6zkk577n8exnw">Organizational Chart</a></li>
-			
 				<li role="presentation"> <a href="sheida-sahandy-bio.php">Director Bio</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
@@ -321,4 +336,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
