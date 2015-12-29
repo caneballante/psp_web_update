@@ -218,8 +218,9 @@
 			<h5>Libby Hudson</h5>
 			<p> Environmental Planner<br />
 				360.464.1227 | <a href="mailto:libby.hudson@psp.wa.gov">libby.hudson@psp.wa.gov</a></p>
-			<h5>VACANT</h5>
-			<p> Environmental Planner</p>
+			<h5>Heather Saunders Benson</h5>
+			<p> Environmental Planner<br />
+				360.464.2005 | <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a></p>
 			<br>
 			<!--P.P. - IMPLEMENTATION STRATEGIES-->
 			<h3>IMPLEMENTATION STRATEGIES</h3>
