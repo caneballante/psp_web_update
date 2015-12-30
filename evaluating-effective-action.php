@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,9 +41,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image25"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -52,8 +53,7 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
@@ -61,7 +61,6 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">What is Effectiveness Monitoring?</h2>
 			<p>Effectiveness monitoring is the evaluation of data to determine how well restoration and management actions and programs are working to restore Puget Sound.</p>
@@ -168,10 +167,17 @@
 					<td><iframe src="https://app.box.com/embed/preview/fdxzgqwtsct1xy4l6ohfpeepjg4ho42a?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/9g3fwng4amb86fz9gxsdujz67ry16c3c">Download the full Skokomish background report</a></p></td>
 				</tr>
+				<!-- report -->
+				<tr>
+					<td colspan="2" class="tablesubheader">Nearshore: Bainbridge</td>
+				</tr>
+				<tr>
+					<td><iframe src="https://app.box.com/embed/preview/nqwl9sp02ypac1ji595pjiuutyys78f6?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
+					<td><p><a href="https://pspwa.box.com/s/01k23a3z0pr8wozfctj6s9o1bws65lf2">Download the full Bainbridge background report</a></p></td>
+				</tr>
 			</table>
 			<p>To propose a project, contact Leska Fore, Science and Evaluation, Puget Sound Partnership: <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a></p>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
@@ -233,4 +239,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
