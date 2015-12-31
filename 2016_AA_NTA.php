@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,13 +41,13 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image10">
 	<div class="overview-quote pull-right">
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -57,8 +58,7 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
@@ -66,7 +66,6 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<P>We are soliciting proposals for Near Term Actions, or NTAs, to be included in the 2016 Action Agenda update. A Near Term Action is an activity that is trackable, measurable, and necessary for Puget Sound recovery. Near Term Actions comprise the core of the Action Agenda. They can be proposed by government agencies and tribes, academic institutions, non-profit organizations, as well as businesses and individuals.</P>
 			<p>The 2016 Action Agenda update will include NTAs that address three of the most critical problems for Puget Sound:</P>
@@ -78,40 +77,37 @@
 			<p>Proposed NTAs may include new programs, specific projects, scientific investigations, or other types of actions described in this solicitation.</p>
 			<p><strong><u>Deadline</u></strong>: NTA proposals must be submitted through the regional NTA submittal portal by <strong><u>10am on December 31, 2015</u></strong>.</p>
 			<p><strong><u>Important Note</u></strong>: Local entities must first submit and get approval through their Local Integrating Organization (LIO) before submitting through the regional NTA submittal portal.  LIOs will approve those NTA&rsquo;s determined to be consistent with the &ldquo;Early Elements&rdquo; of the LIO&rsquo;s 5-year Ecosystem Recovery Plan. Each LIO has their own process and deadlines for NTA proposals. <strong>You should become familiar with your LIO&rsquo;s process as soon as possible to avoid missing important deadlines.</strong> NTA proposals submitted by local entities that have not been approved by an LIO will not be considered by the Strategic Initiative Transition Teams or recommended for inclusion in the Action Agenda. Contact information for LIOs is provided on the last page of the solicitation. </p>
-			<p><br /><strong>Solicitation Materials:</strong></p>
-			
-			
-			<strong><a href="https://app.smartsheet.com/b/form?EQBCT=9fdf5e520d4e4a958ed1a04210c68a10" target="new">NTA Submittal Portal</a></strong> <br />
-				<p>Use this portal to submit your NTA before the deadline at 10am on December 31, 2015. <br /><br /></p>
-		<p> <strong>Regional NTA Solicitation <em>(2-Page Summary)</em></strong> <a href="https://pspwa.app.box.com/s/8cnv9g2dpx2j71azs9wfzmit510ho9s8" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/8cnv9g2dpx2j71azs9wfzmit510ho9s8.pdf" target="new">direct download</a><br />
-<strong>Regional NTA Solicitation<em> (full document)</em></strong> <a href="https://pspwa.app.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/43heo2w6kb28197m3s3wsw69kkg90oud.pdf" target="new">direct download</a></p>
-				<ul>
-					<li>Modification of eligibility and process for salmon recovery projects (added 12/1/2015) <a href="https://pspwa.app.box.com/s/khe82tfske2rc2vj4323v7qplyoppav4" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/khe82tfske2rc2vj4323v7qplyoppav4.pdf" target="new">direct download</a></li>
-					<li>Further modification of eligibility and process for salmon recovery projects (added 12/18/2015) <a href="https://pspwa.app.box.com/s/d9a79c2jko3zu8gujvc4gwb5s9s0cjxw" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/d9a79c2jko3zu8gujvc4gwb5s9s0cjxw.pdf" target="new">direct download</a></li>
-				<li>	Modification of tribal NTA submittal requirements (added 12/18/2015) <a href="https://pspwa.app.box.com/s/16tzs34x1wrnpibmib50v5gzkx5vlzx2" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/16tzs34x1wrnpibmib50v5gzkx5vlzx2.pdf" target="new">direct download</a></li>
-				</ul>
-			
+			<p><br />
+			<strong>Solicitation Materials:</strong></p>
+			<strong><a href="https://pspwa.app.box.com/notes/47700457097?s=3e2qge3icl6mhj9aeccke51iwwbq8hu7" target="new">Dashboard for Submitted NTAs</a></strong> <br />
+			<p>Charts and tables with real-time information about submitted Near Term Actions. <br />
+				<br />
+			</p>
+			<p><strong>NTA Submittal Portal (<em>Now closed - deadline for submittal was 10am on 12/31/2015</em>)</strong></p>
+			<br>
+			<br>
+			<p> <strong>Regional NTA Solicitation <em>(2-Page Summary)</em></strong> <a href="https://pspwa.app.box.com/s/8cnv9g2dpx2j71azs9wfzmit510ho9s8" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/8cnv9g2dpx2j71azs9wfzmit510ho9s8.pdf" target="new">direct download</a><br />
+				<strong>Regional NTA Solicitation<em> (full document)</em></strong> <a href="https://pspwa.app.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/43heo2w6kb28197m3s3wsw69kkg90oud.pdf" target="new">direct download</a></p>
+			<ul>
+				<li>Modification of eligibility and process for salmon recovery projects (added 12/1/2015) <a href="https://pspwa.app.box.com/s/khe82tfske2rc2vj4323v7qplyoppav4" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/khe82tfske2rc2vj4323v7qplyoppav4.pdf" target="new">direct download</a></li>
+				<li>Further modification of eligibility and process for salmon recovery projects (added 12/18/2015) <a href="https://pspwa.app.box.com/s/d9a79c2jko3zu8gujvc4gwb5s9s0cjxw" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/d9a79c2jko3zu8gujvc4gwb5s9s0cjxw.pdf" target="new">direct download</a></li>
+				<li> Modification of tribal NTA submittal requirements (added 12/18/2015) <a href="https://pspwa.app.box.com/s/16tzs34x1wrnpibmib50v5gzkx5vlzx2" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/16tzs34x1wrnpibmib50v5gzkx5vlzx2.pdf" target="new">direct download</a></li>
+			</ul>
 			<p>The regional NTA solicitation is the official request for Near Term Actions for the new regional 2-year Implementation Plan component of the Action Agenda. It contains eligibility requirements, submittal requirements, evaluation criteria, regional priorities, and the NTA review process and deadlines.  Modifications to the solicitation are posted above.</p>
-				<p><br />
-					<strong><a href="https://pspwa.box.com/shared/static/cbg1fws6j5on4tk23pt152tapurtgqzt.xlsx" target="new">NTA Submittal Form</a></strong><br />
+			<p><br />
+				<strong><a href="https://pspwa.box.com/shared/static/cbg1fws6j5on4tk23pt152tapurtgqzt.xlsx" target="new">NTA Submittal Form</a></strong><br />
 				Download this form to write up your NTA proposal.<br />
 				<br />
-				<p><strong>NTA Submittal Form Instructions</strong> <a href="https://pspwa.box.com/s/pjl5i0w276loocwr61pf50pvxk9k1ha5" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/pjl5i0w276loocwr61pf50pvxk9k1ha5.pdf" target="new">direct download</a><br />
-               <strong>NTA Submittal Form Instructions – Addendum #1</strong> <strong>(added 11/25/2015)</strong> <a href="https://pspwa.app.box.com/s/i4hrvxbx05pw6afkm95nw6up9pgh11cl" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/i4hrvxbx05pw6afkm95nw6up9pgh11cl.pdf" target="new">direct download</a><br />
+			<p><strong>NTA Submittal Form Instructions</strong> <a href="https://pspwa.box.com/s/pjl5i0w276loocwr61pf50pvxk9k1ha5" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/pjl5i0w276loocwr61pf50pvxk9k1ha5.pdf" target="new">direct download</a><br />
+				<strong>NTA Submittal Form Instructions – Addendum #1</strong> <strong>(added 11/25/2015)</strong> <a href="https://pspwa.app.box.com/s/i4hrvxbx05pw6afkm95nw6up9pgh11cl" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/i4hrvxbx05pw6afkm95nw6up9pgh11cl.pdf" target="new">direct download</a><br />
 				<strong>NTA Submittal Form Instructions – Addendum #2</strong><strong> (added 12/18/2015)</strong> <a href="https://pspwa.app.box.com/s/j82037hszac2pq9qempdoyqywgv9h5k4" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/j82037hszac2pq9qempdoyqywgv9h5k4.pdf" target="new">direct download</a><br />
 				Full instructions for filling out the NTA Submittal Form. Addendums to the original instructions are posted above.</p>
-			
-		<p><br />
-			<strong><a href="https://pspwa.box.com/s/ym914rupdzwsber2q56c6945q8glq0qd" target="new">NTA Resources</a></strong><br />
-				FAQs, guidance, and resources for NTA owners and LIOs are available here. Check periodically for the latest updates.
-			</p>
-	
-	</li></ul>
-				
-		
-			
+			<p><br />
+				<strong><a href="https://pspwa.box.com/s/ym914rupdzwsber2q56c6945q8glq0qd" target="new">NTA Resources</a></strong><br />
+				FAQs, guidance, and resources for NTA owners and LIOs are available here. Check periodically for the latest updates. </p>
+			</li>
+			</ul>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
@@ -151,4 +147,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
