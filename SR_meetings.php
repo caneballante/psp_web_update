@@ -71,14 +71,14 @@
 				</tr>
 				<tr>
 					<td width="78"><p>January 28</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
 							410 4th Ave N, <br />
 							Edmonds, WA 98020</p></td>
 					<td><p><a href="https://pspwa.box.com/s/15k73nre88qh9dfnmbths8gglakwy3m3" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
 					<td width="78"><p>March 24</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
 							410 4th Ave N, <br />
 							Edmonds, WA 98020</p></td>
 					<td><p><a href="https://pspwa.box.com/s/xay6lmopzt9brhudxn1zvviwkdl6q3l0" target="new">Meeting Materials</a></p></td>
@@ -94,7 +94,7 @@
 				</tr>
 				<tr>
 					<td width="78"><p>May 26</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
 							410 4th Ave N, <br />
 							Edmonds, WA 98020</p></td>
 					<td><p><a href="https://pspwa.box.com/s/fjsyf54vpu1akdg2qn8g4eh9u9ky0be3" target="new">Meeting Materials</a></p></td>
@@ -109,28 +109,28 @@ Seattle, WA 98108</p></td>
 				</tr>
 				<tr>
 					<td width="78"><p>July 28</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
 							410 4th Ave N, <br />
 							Edmonds, WA 98020</p></td>
 					<td><p><a href="https://pspwa.box.com/s/d7ydgiyex4esz9eeuv97ns8jv68vkofe" target="new">Meeting Materials</a></p></td>
 				</tr>
 					<tr>
 					<td width="78"><p>September 22</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
 							410 4th Ave N, <br />
 							Edmonds, WA 98020</p></td>
 					<td><p><a href="https://pspwa.box.com/s/5lc5nkc99vw20mcinbtxjtbsn149hsxa" target="new">Meeting Materials</a></p></td>
 				</tr>
 					<tr>
 					<td width="78"><p>October 19-20</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
 							410 4th Ave N, <br />
 							Edmonds, WA 98020</p></td>
 					<td><p><a href="https://pspwa.box.com/s/hdtjpbf76ywd34s56qgg5223x37xenyp" target="new">Meeting Materials</a></p></td>
 				</tr>
 					<tr>
 					<td width="78"><p>December 1</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
+					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
 							410 4th Ave N, <br />
 							Edmonds, WA 98020</p></td>
 					<td><p><a href="https://pspwa.box.com/s/beiluf46cn51digqmul938v25kmq6z20" target="new">Meeting Materials</a></p></td>
