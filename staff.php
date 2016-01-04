@@ -294,7 +294,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="#executive_team">EXECUTIVE TEAM</a></li>
+				<li role="presentation"> <a href="#executive_team">EXECUTIVE TEAM</a></li>
 				<li role="presentation"> <a href="#administrative_services">ADMINISTRATIVE SERVICES</a></li>
 				<li role="presentation"> <a href="#science_and_evaluation">SCIENCE AND EVALUATION</a></li>
 				<li role="presentation"> <a href="#policy_and_planning">POLICY AND PLANNING</a></li>
