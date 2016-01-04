@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,16 +41,16 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image82">
 	<div class="overview-quote pull-right">
 		<h3></h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-		<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-	</div>
+	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
@@ -59,16 +60,14 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-sos.html';?>
-			<!-- InstanceEndEditable -->
+				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Results of effectiveness studies are being communicated to decisionmakers as they plan the next round of recovery actions. The lessons emerging from these effectiveness studies will make future investments more effective, both in terms of cost and outcomes. </p>
 			<p>Example: Lessons learned about effective habitat restoration</p>
@@ -91,32 +90,32 @@
 			</ul>
 			<p>For more information on the Partnership&rsquo;s Effectiveness Monitoring work, go to: <a href="http://www.psp.wa.gov/effectiveaction.php" title="Effectiveness Monitoring Work">http://www.psp.wa.gov/effectiveaction.php</a></p>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">RELATED LINKS</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-0-top ">RELATED LINKS</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"><a href="https://pspwa.box.com/NTA-status-analysis" target="_blank">NTA Status Analysis</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/NTA-status-analysis" target="_blank">NTA Status Analysis</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/NTA-expenditure" target="_blank">NTA Expenditure &amp; Funding Gaps Analysis</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/HershmanFellowGraziano" target="_blank">Linkages Report</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
-						<!-- InstanceEndEditable -->
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
 				<li role="presentation"> <a href="evaluating-about-NEP-atlas.php">National Estuary Program Project Atlas</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
-						<li role="presentation"> <a href="sos-2015-action-agenda-progress.php#strat">2014 Ecosystem Coordination Board Funding Strategy</a></li>
-						<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="sos-2015-action-agenda-progress.php#strat">2014 Ecosystem Coordination Board Funding Strategy</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/sos-2013/sos2013.php">Past State of the Sound Reports</a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
@@ -145,4 +144,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>

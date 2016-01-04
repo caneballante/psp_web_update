@@ -75,7 +75,8 @@
               <p><a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">Report to the Community</a></p>
               <p><a name="erp"></a><a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">Report on the Puget Sound Vital Signs</a></p>
               <p><a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">Report to the Governor and Legislature</a></p>
-              
+              <p> <a href="http://www.psp.wa.gov/sos-2013/sos2013.php">Past State of the Sound Reports</a></p>
+				
               <h3>ECOSYSTEM RECOVERY PROGRESS</h3>
               <p><a href="sos-2015-ecosystem-recovery-progress.php#avs">About the Vital Signs</a></p>
               <p><a href="sos-2015-ecosystem-recovery-progress.php#progress">Progress</a></p>
