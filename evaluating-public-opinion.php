@@ -76,8 +76,8 @@
 		<!--	<p><a href="downloads/public opinion survey/2013 Gen Opinion Survey Report_FINAL.pdf?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2013 General Opinion Survey (PDF)</a> </p>
 			<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1619&amp;Itemid=172">2012 General Opinion Survey (PDF)</a></p>-->
 			<p><a href="https://www.box.com/s/9b34t0ijy04unm8v27rd">Sound Behavior - Social Capital Index 2012 and supplement</a> </p>
-			<p><a href="downloads/socialbehavior/Sound_Behavior_Index_Summary_3-22-13_kjh.docx">Sound Behavior Index and Social Capital Index summary (PDF)</strong></a></p>
-			<p><a href="downloads/socialbehavior/Developing Indices from Social Capital and Environmental Behavior Survey Data.docx">Developing Indices from Social Capital and Environmental Behavior Survey Data (PDF)</a></p>
+			<p><a href="downloads/socialbehavior/Sound_Behavior_Index_Summary_3-22-13_kjh.docx">Sound Behavior Index and Social Capital Index summary </a></p>
+			<p><a href="downloads/socialbehavior/Developing Indices from Social Capital and Environmental Behavior Survey Data.docx">Developing Indices from Social Capital and Environmental Behavior Survey Data </a></p>
 			<p><a href="https://app.box.com/s/3uxspuzivhhwsfzlf6un">Yard Care and Pesticide Practices: Barriers and Motivators Survey Report </a> </p>
 			<p><a href="https://app.box.com/s/nqem9kfz0u15p82rtsyk">Yard Care and Pesticide Use Focus Groups</a></p>
 			<!--<p> <a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2313&amp;Itemid=238">Tree Planting Survey Report</a></p>
