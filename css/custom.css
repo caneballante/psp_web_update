@@ -281,9 +281,16 @@ p {
 	width: 300px;
 	margin: auto;
 }
-.width-300 {
+/*special case the gov delivery input field on the footer to get it to left align*/
+.width-300-govdelivery {
 	width: 300px;
 	margin: auto;
+}
+@media (max-width: 992px) {
+.width-300-govdelivery {
+	width: 300px;
+	margin-left:0px;
+}
 }
 .width-400 {
 	width: 400px;
