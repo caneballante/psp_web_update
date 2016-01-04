@@ -127,7 +127,7 @@
 			<p><br />
 			</p>
 			<p><strong>Projects Funded by Lead Organizations</strong><br />
-				<a href="https://pspwa.box.com/s/jv7zp8dsaam8i31zko6vhn52yaffejb4">Click here</a> to find a list of projects that Lead Organizations have funded to implement the Puget Sound Action Agenda. <br />
+				<a href="http://psp.wa.gov/gis/NEPAtlas/ShowMeData">Click here</a> to find a list of projects that Lead Organizations have funded to implement the Puget Sound Action Agenda. <br />
 			</p>
 			<table width="100%" border="0" cellpadding="0" bordercolor="#89B7D5">
 				<tr>
