@@ -79,7 +79,7 @@ $num=$stmt->rowCount();
     			<?php include('includes/media_contact.html')?> 
 	  <h2>Latest News Releases</h2>
 	  <div class="news">
-	<table>             
+	<table class="table table-responsive table-striped">             
 <?php
 $rows=$stmt->fetchAll(PDO::FETCH_NUM);
 #print_r($rows);
