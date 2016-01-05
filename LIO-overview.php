@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,18 +35,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image13"> </header>
-<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -57,7 +52,8 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
@@ -65,6 +61,7 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
+		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Local communities around the Puget Sound are working to integrate local efforts to advance the Action Agenda.  Local governments, tribes, non-profit organizations, watershed, marine resource, and salmon recovery groups, interest groups, businesses, educational organizations, and citizens are collaborating to develop and coordinate local integrating organizations that foster implementation of Action Agenda priorities.</p>
 			<p>The local integrating organizations enable communities to guide the implementation of Action Agenda priorities at an ecosystem scale, and to prioritize local actions for investment. </p>
@@ -86,6 +83,7 @@
 			<h2>5-year Recovery Planning</h2>
 			<p>Between now and September 2016, LIOs are also working to build local, long-term recovery strategies from which high-priority recovery actions can be developed. Similar to the 2-year plans, these 5-year plans will mirror and contribute to Puget Sound Action Agenda updates and explain how LIOs are helping to advance regional progress on the Action Agenda’s 22 Vital Signs.</p>
 			<!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
@@ -113,5 +111,4 @@
 
 </script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>
