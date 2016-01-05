@@ -78,9 +78,8 @@ $num=$stmt->rowCount();
 	
     			<?php include('includes/media_contact.html')?> 
 	  <h2>Latest News Releases</h2>
-	  <p>This will work when we launch</p>
-<div class="news">
-<table>             
+	  <div class="news">
+	<table>             
 <?php
 $rows=$stmt->fetchAll(PDO::FETCH_NUM);
 #print_r($rows);
@@ -93,7 +92,7 @@ $row[$rw]=mb_convert_encoding(stripslashes($val), 'UTF-8', 'UTF-8');}
 ?>
 <tr><td width="70">     
 <?php echo $row[1]; ?></td>
-<td><?php echo "<a href='http://www.psp.wa.gov/pressreleases/partnership_release.php?id=".$row[0]."'>".$row[2]."</a></td><td>";	
+<td><?php echo "<a href='http://www.psp.wa.gov/pressreleases/partnership_release.php?id=".$row[0]."'target='new'>".$row[2]."</a></td><td>";	
 #if(!empty($row[3])) { echo $row[3]."</td>";} else {echo "</td>";}
 }
 }
