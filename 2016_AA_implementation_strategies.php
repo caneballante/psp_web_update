@@ -165,7 +165,7 @@
 				<p class="right-nav-contact">For questions about Implementation Strategies:<br />
 					<br>
 					<strong>Todd Hass</strong>, <br>
-					Implementation Mananger,<br>
+					Implementation Manager,<br>
 					<a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>
 				<!-- InstanceEndEditable -->
 			</ul>
