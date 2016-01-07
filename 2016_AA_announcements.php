@@ -69,12 +69,13 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
+			
+			<h2>PAST ANNOUNCEMENTS</h2>
 			<div class="highlightbox">
 				<h3>9/21/15 Near Term Action Proposals</h3>
-				<li><a href="https://pspwa.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud">Solicitation Notice for Near Term Actions </a>(Released 9/21/2015)</li>
+				<li>Solicitation Notice for Near Term Actions (Released 9/21/2015)</li>
 				</ul>
 			</div>
-			<h2>PAST ANNOUNCEMENTS</h2>
 			<div class="highlightbox">
 				<h3>7/24/2015 - Action Agenda Strategic Initiative Update Workgroup Recommendations </h3>
 				<p>The  Leadership Council will consider and take final action on the 2016/17  Strategic Initiative update on July 29, 2015.  The adopted Strategic Initiatives will be used by the Strategic Initiative Transition Teams to  solicit, review, and prioritize near-term actions for the 2016/17  Action Agenda 2-year Implementation Plan.</p>
@@ -83,7 +84,7 @@
 			</div>
 			<div class="highlightbox margin-20-top">
 				<h3>7/10/2015 - RECRUITING  TECHNICAL EXPERTS FOR STRATEGIC INITIATIVE TRANSITION TEAMS</h3>
-				to launch the 2016/17 Puget Sound Action Agenda update. We are forming three interdisciplinary Transition Teams, and we’re seeking applications from qualified experts to volunteer to participate. Applications are due 11:59 p.m., Sunday, July 19, 2015.			</div>
+			<p>	to launch the 2016/17 Puget Sound Action Agenda update. We are forming three interdisciplinary Transition Teams, and we’re seeking applications from qualified experts to volunteer to participate. Applications are due 11:59 p.m., Sunday, July 19, 2015.		</p>	</div>
 			<div class="highlightbox margin-20-top">
 				<h3>6/11/2015 - Action Agenda Strategic Initiative Update Workgroup Recommendations </h3>
 				<p>Looking for a way to offer your input into how Puget Sound recovery progresses? A draft report has been prepared with recommendations for focusing Puget Sound recovery investments over the next two years. You are invited to read the report and send us your comments by July 10, 2015.</p>
