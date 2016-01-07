@@ -120,9 +120,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX 4--> 
-						<strong>10.12.15</strong><br>
+						<!--<strong>10.12.15</strong><br>
 						SUBMIT A PROPOSAL:<br>
-						Now is the time to develop Near Term Action proposals for the 2016 Action Agenda update. <a href="2016_AA_NTA.php">LEARN MORE</a> 
+						Now is the time to develop Near Term Action proposals for the 2016 Action Agenda update. <a href="2016_AA_NTA.php">LEARN MORE</a> -->
 						<!--END news content BOX 4--> 
 					</div>
 				</div>

@@ -67,14 +67,7 @@
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox">
-				<h2 class="margin-0-top"><span class="new-red">NEW!</span> Online Action Agenda Open House extended to Dec. 207.</h2>
-				<p>As part of the current Action Agenda update process, you can attend our online open house to find out more, learn how you can get involved, and give us your feedback. The open house begins Monday, Dec. 7, and will be available online through  Dec. 20th, by <a href=" http://pugetsoundactionagendaupdate.publicmeeting.info/" target="newU">clicking on this link. </a></p>
-			</div>
-			<div class="highlightbox margin-20-top">
-				<h2 class="margin-0-top">9/21/15 Near Term Action Proposals</h2>
-				<p>Are you interested in proposing an activity to be included in the Puget Sound Action Agenda? Proposals are due 10 a.m., December 31, 2015. <a href="2016_AA_NTA.php">Find out more.</a></p>
-			</div>
+			
 			<h2>What is in the Action Agenda?</h2>
 			<p> Several years of <strong>research and effort</strong> have shown three areas of focus that deliver the most progress toward recovery for dollars invested. Termed &ldquo;Strategic Initiatives&rdquo; these <strong>three priority areas</strong> form the basis of the Action Agenda for 2016.</p>
 			<p>The Action Agenda addresses each <strong>Strategic Initiative</strong> by setting targets for recovery that are based on scientific understandings of the ecosystem. The <strong>recovery targets</strong> are used to <strong>guide revisions</strong> to the Action Agenda, <strong>focus actions</strong> to be accomplished right away (<strong>Near Term Actions</strong>), <strong>recommend allocations</strong> of funding and other resources to specific strategies and actions, and <strong>evaluate</strong> Action Agenda implementation.</p>
