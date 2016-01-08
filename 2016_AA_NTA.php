@@ -67,7 +67,7 @@
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<P>We are soliciting proposals for Near Term Actions, or NTAs, to be included in the 2016 Action Agenda update. A Near Term Action is an activity that is trackable, measurable, and necessary for Puget Sound recovery. Near Term Actions comprise the core of the Action Agenda. They can be proposed by government agencies and tribes, academic institutions, non-profit organizations, as well as businesses and individuals.</P>
+			<P>A Near Term Action is an activity that is trackable, measurable, and necessary for Puget Sound recovery. Near Term Actions comprise the core of the Action Agenda. They can be proposed by government agencies and tribes, academic institutions, non-profit organizations, as well as businesses and individuals.</P>
 			<p>The 2016 Action Agenda update will include NTAs that address three of the most critical problems for Puget Sound:</P>
 			<ul>
 				<li>Prevent pollution from stormwater.</li>
@@ -75,17 +75,15 @@
 				<li>Protect and recover shellfish beds.</li>
 			</ul>
 			<p>Proposed NTAs may include new programs, specific projects, scientific investigations, or other types of actions described in this solicitation.</p>
-			<p><strong><u>Deadline</u></strong>: NTA proposals must be submitted through the regional NTA submittal portal by <strong><u>10am on December 31, 2015</u></strong>.</p>
-			<p><strong><u>Important Note</u></strong>: Local entities must first submit and get approval through their Local Integrating Organization (LIO) before submitting through the regional NTA submittal portal.  LIOs will approve those NTA&rsquo;s determined to be consistent with the &ldquo;Early Elements&rdquo; of the LIO&rsquo;s 5-year Ecosystem Recovery Plan. Each LIO has their own process and deadlines for NTA proposals. <strong>You should become familiar with your LIO&rsquo;s process as soon as possible to avoid missing important deadlines.</strong> NTA proposals submitted by local entities that have not been approved by an LIO will not be considered by the Strategic Initiative Transition Teams or recommended for inclusion in the Action Agenda. Contact information for LIOs is provided on the last page of the solicitation. </p>
 			<p><br />
-			<strong>Solicitation Materials:</strong></p>
-			<strong><a href="https://pspwa.app.box.com/notes/47700457097?s=3e2qge3icl6mhj9aeccke51iwwbq8hu7" target="new">Dashboard for Submitted NTAs</a></strong> <br />
+			<strong>More information:</strong></p>
+			<p><strong>NTA Submittal Portal</strong><br>
+The submittal portal is now closed - deadline for submittal was 10am on 12/31/2015</p>
+			<br>
+<strong><a href="https://pspwa.app.box.com/notes/47700457097?s=3e2qge3icl6mhj9aeccke51iwwbq8hu7" target="new">Dashboard for Submitted NTAs</a></strong> <br />
 			<p>Charts and tables with real-time information about submitted Near Term Actions. <br />
 				<br />
 			</p>
-			<p><strong>NTA Submittal Portal (<em>Now closed - deadline for submittal was 10am on 12/31/2015</em>)</strong></p>
-			<br>
-			<br>
 			<p> <strong>Regional NTA Solicitation <em>(2-Page Summary)</em></strong> <a href="https://pspwa.app.box.com/s/8cnv9g2dpx2j71azs9wfzmit510ho9s8" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/8cnv9g2dpx2j71azs9wfzmit510ho9s8.pdf" target="new">direct download</a><br />
 				<strong>Regional NTA Solicitation<em> (full document)</em></strong> <a href="https://pspwa.app.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud" target="new">preview</a> | <a href="https://pspwa.box.com/shared/static/43heo2w6kb28197m3s3wsw69kkg90oud.pdf" target="new">direct download</a></p>
 			<ul>
