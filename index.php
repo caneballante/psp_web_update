@@ -70,7 +70,7 @@
 		<div class="col-md-3 padding-40-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
-			<div class="padding-5-bottom"><a href="legislative_updates.php">2015&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
+			<div class="padding-5-bottom"><a href="legislative_updates.php">2016&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			<div class="padding-5-bottom"><a href="econet.php">ECO NET </a> </div>
 		</div>
 	</div>
@@ -82,10 +82,10 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX 1--> 
-						<strong>12.10.15</strong><br>
-						PRESS RELEASE<br>
-						Puget Sound salmon recovery projects receive more than $33 million<br>
-						<a href="http://www.psp.wa.gov/blog/?p=607" target="new">LEARN MORE</a> 
+						<strong>LEGISLATIVE SESSION </strong><br>
+						WEEK 1<br>
+						View the calender for the first week of the 2016 Legislative session<br>
+						<a href="legislative_updates.php">VIEW</a> 
 						<!--END news content BOX 1--> 
 					</div>
 				</div>
@@ -94,10 +94,10 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX 2--> 
-						<strong>11.20.15</strong><br>
+						<strong>12.10.15</strong><br>
 						PRESS RELEASE<br>
-						Clallam County partners honored for work that helped reopen 728 acres of Dungeness shellfish beds<br>
-						<a href="pressreleases/partnership_release.php?id=2324" target="new">LEARN MORE</a> 
+						Puget Sound salmon recovery projects receive more than $33 million<br>
+						<a href="http://www.psp.wa.gov/blog/?p=607" target="new">LEARN MORE</a> 
 						<!--END news content BOX 2--> 
 						
 					</div>
@@ -107,10 +107,10 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX 3--> 
-						<strong>11.17.15</strong><br>
+						<strong>11.20.15</strong><br>
 						PRESS RELEASE<br>
-						Statement from the Puget Sound Partnership regarding the 2015 Climate Change in Puget Sound report<br>
-						<a href="pressreleases/partnership_release.php?id=2323" target="new">LEARN MORE</a> 
+						Clallam County partners honored for work that helped reopen 728 acres of Dungeness shellfish beds<br>
+						<a href="pressreleases/partnership_release.php?id=2324" target="new">LEARN MORE</a> 
 						<!--END news content BOX 3--> 
 						
 					</div>
@@ -120,9 +120,10 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX 4--> 
-						<!--<strong>10.12.15</strong><br>
-						SUBMIT A PROPOSAL:<br>
-						Now is the time to develop Near Term Action proposals for the 2016 Action Agenda update. <a href="2016_AA_NTA.php">LEARN MORE</a> -->
+						<strong>11.17.15</strong><br>
+						PRESS RELEASE<br>
+						Statement from the Puget Sound Partnership regarding the 2015 Climate Change in Puget Sound report<br>
+						<a href="pressreleases/partnership_release.php?id=2323" target="new">LEARN MORE</a> 
 						<!--END news content BOX 4--> 
 					</div>
 				</div>
