@@ -65,15 +65,16 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox">
 				<h3>1/11/16 Help us develop the next Vital Sign recovery strategies: Floodplains and Land Development / Cover</h3>
-				<p> The Puget Sound Partnership is seeking members for two Interdisciplinary Teams (8 to 10 experts each) to work alongside Puget Sound Partnership, Puget Sound Institute, and Strategy Development Lead staff in jointly developing Implementation Strategies, or strategic plans, to accelerate progress toward meeting two 2020 Vital Sign recovery targets:</p>
+				<p> The Puget Sound Partnership is seeking members for two Interdisciplinary Teams to work alongside Puget Sound Partnership, Puget Sound Institute, and Strategy Development Lead staff in jointly developing Implementation Strategies, or strategic plans, to accelerate progress toward meeting two 2020 Vital Sign recovery targets:</p>
 				<ul>
 					<li><a href="http://www.psp.wa.gov/vitalsigns/flood_plains.php" target="new"> Floodplains Vital Sign </a></li>
 					<li><a href="http://www.psp.wa.gov/vitalsigns/land_cover_and_development.php" target="new">Land Development and Cover Vital Sign </a></li>
 				</ul>
 				<p>The Implementation Strategies will provide the Partnership and others with the ability to align planning and resources towards achieving recovery targets, and inform future iterations of the Action Agenda by emphasizing critical paths for recovery.</p>
 				<p><strong>Application process </strong><br>
-					To be considered for these opportunities, please complete this simple online survey by Monday, Jan. 18, 2016. The survey will allow you to briefly describe your interest and share your qualifications for more information on the recruitment process please click here.</p>
+					To be considered for these opportunities, please complete this simple online survey by Monday, Jan. 25, 2016. The survey will allow you to briefly describe your interest and share your qualifications for more information on the recruitment process please click here.</p>
 				<p><strong>For more information</strong></p>
+				<p>For general information about the recruitment process, <a href="https://pspwa.app.box.com/notes/49104398613?s=p0884n7y29u873lgg2kfadpn7mgkzhvt">click here</a>.</p>
 				<p>Detailed recruitment information for the Interdisciplinary Teams is available at the following links:</p>
 				<ul>
 					<li><a href="https://pspwa.app.box.com/files/0/f/4098648455/1/f_49112310613">Floodplains Implementation Strategy recruitment notice </a></li>
