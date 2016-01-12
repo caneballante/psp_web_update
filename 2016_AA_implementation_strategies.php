@@ -58,12 +58,17 @@
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="2016_AA_implementation_strategies.php">IMPLEMENTATION STRATEGIES</a></li>
+				<li role="presentation" class="active"> <a href="2016_AA_implementation_strategies.php">IMPLEMENTATION STRATEGIES</a></li>
+						<li role="presentation"><a href="implementation_strategies_announcements.php">ANNOUNCEMENTS</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p><strong>Implementation Strategies</strong> (referred to here as &quot;Strategies&quot;) are plans for achieving the 2020 <a href="action_agenda_targets.php">Ecosystem Recovery Targets</a> for the <a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a>. </p>
+		
+		<div class="highlightbox">
+			<h3>1/11/16 HELP US DEVELOP THE NEXT VITAL SIGN IMPLEMENTATION STRATEGIES: FLOODPLAINS AND LAND DEVELOPMENT / COVER.<a href="implementation_strategies_announcements.php"> LEARN MORE</a></h3></div>
+			<p><strong><br>
+			Implementation Strategies</strong> (referred to here as &quot;Strategies&quot;) are plans for achieving the 2020 <a href="action_agenda_targets.php">Ecosystem Recovery Targets</a> for the <a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a>. </p>
 			<p>Each plan accomplishes the following:</p>
 			<ul>
 				<li>Identifies priority approaches for achieving a specific recovery target </li>
@@ -78,7 +83,7 @@
 			<p>The Estuaries and Chinook  Vital Signs are also primarily linked to the<a href="https://pspwa.box.com/s/pekkfqwd3yrei3owp7z0hv1ln7gzfpb7">Habitat Strategic Initiative</a> in the Puget Sound Action Agenda while the Shellfish Beds  Strategy is linked to the <a href="https://pspwa.box.com/s/wq6u6hencdsndpf0qowrfkhimz1dke87">Shellfish Strategic Initiative. </a></p>
 			<p> The Estuary and Shellfish Bed Strategies are being used to establish priorities for action within the Habitat and Shellfish Strategic Initiatives for the <a href="2016_AA_update.php">2016 Action Agenda update</a>, currently under development.</p>
 			<p>These pilot Strategies are testing approaches and generating findings that are contributing to a guidance document for development of future Strategies.</p>
-			<p>We anticipate that the Estuaries and Shellfish Beds Strategies will be finished in January 2016. We expect the Chinook Strategy to be completed in December 2016. </p>
+			<p>We anticipate that the Estuaries and Shellfish Beds Strategies will be finished early in 2016. We expect the Chinook Strategy to be completed in December 2016. </p>
 			<h2>IMPLEMENTATION STRATEGIES FOR THE 2018 ACTION AGENDA SELECTED</h2>
 			<p>In October 2015, the Leadership Council identified the following six Vital Signs on which to focus for upcoming Strategy development:</p>
 			<ul>

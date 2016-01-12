@@ -59,12 +59,13 @@
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
 				<li role="presentation"> <a href="2016_AA_implementation_strategies.php">IMPLEMENTATION STRATEGIES</a></li>
+						<li role="presentation" class="active"><a href="implementation_strategies_announcements.php">ANNOUNCEMENTS</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox">
-				<h3>1/11/16 Help us develop the next Vital Sign recovery strategies: Floodplains and Land Development / Cover</h3>
+				<h3>1/11/16 Help us develop the next Vital Sign IMPLEMENTATION strategies: Floodplains and Land Development / Cover</h3>
 				<p> The Puget Sound Partnership is seeking members for two Interdisciplinary Teams to work alongside Puget Sound Partnership, Puget Sound Institute, and Strategy Development Lead staff in jointly developing Implementation Strategies, or strategic plans, to accelerate progress toward meeting two 2020 Vital Sign recovery targets:</p>
 				<ul>
 					<li><a href="http://www.psp.wa.gov/vitalsigns/flood_plains.php" target="new"> Floodplains Vital Sign </a></li>
@@ -72,13 +73,14 @@
 				</ul>
 				<p>The Implementation Strategies will provide the Partnership and others with the ability to align planning and resources towards achieving recovery targets, and inform future iterations of the Action Agenda by emphasizing critical paths for recovery.</p>
 				<p><strong>Application process </strong><br>
-					To be considered for these opportunities, please complete this simple online survey by Monday, Jan. 25, 2016. The survey will allow you to briefly describe your interest and share your qualifications for more information on the recruitment process please click here.</p>
+					To be considered for these opportunities, please complete the simple online survey below, by Monday, Jan. 25, 2016. The survey will allow you to briefly describe your interest and share your qualifications.</p>
+				<p><a href="https://app.smartsheet.com/b/form?EQBCT=ea9f0e03a5194e04b319509bfe9044a6"><strong>Link to Online Survey </strong></a></p>
 				<p><strong>For more information</strong></p>
-				<p>For general information about the recruitment process, <a href="https://pspwa.app.box.com/notes/49104398613?s=p0884n7y29u873lgg2kfadpn7mgkzhvt">click here</a>.</p>
+				<p>For general information about the recruitment process, <a href="https://pspwa.box.com/s/p0884n7y29u873lgg2kfadpn7mgkzhvt">click here</a>.</p>
 				<p>Detailed recruitment information for the Interdisciplinary Teams is available at the following links:</p>
 				<ul>
 					<li><a href="https://pspwa.app.box.com/files/0/f/4098648455/1/f_49112310613">Floodplains Implementation Strategy recruitment notice </a></li>
-					<li><a href="https://pspwa.app.box.com/files/0/f/4098648455/1/f_49112313637">Land Development and Cover Implementation Strategy recruitment notice</a></li>
+					<li><a href="https://pspwa.box.com/s/4gx24n3nvy8x2ksw2j5l0mqqs9khlp5v">Land Development and Cover Implementation Strategy recruitment notice</a></li>
 				</ul>
 				<p>Additional questions? Please contact Todd Hass, Implementation Manager, at (360) 280.1588 or <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a>.</p>
 			</div>
