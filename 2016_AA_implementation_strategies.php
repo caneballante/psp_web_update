@@ -99,8 +99,8 @@
 			<h2>IMPLEMENTATION STRATEGY RESOURCES AVAILABLE</h2>
 			<p>Draft Strategies have been refined through multiple rounds of technical and stakeholder review. The materials used to develop the test-case Strategies are available in the links below:</p>
 			<ul>
-				<li><a href="https://pspwa.app.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn"><strong>Estuaries Implementation Strategy</strong></a><strong> </strong></li>
-				<li><a href="https://pspwa.app.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz"><strong>Shellfish Beds Implementation Strategy</strong></a></li>
+				<li><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn"><strong>Estuaries Implementation Strategy</strong></a><strong> </strong></li>
+				<li><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz"><strong>Shellfish Beds Implementation Strategy</strong></a></li>
 				<li><strong>Implementation Strategy Guidance Document (coming soon)</strong></li>
 			</ul>
 			<p>Information about the Strategies and related Puget Sound recovery efforts is managed and publicly available in Miradi Share, an online database that supports development, monitoring, and sharing of information among conservation practitioners, project and program managers, and funders. The Miradi Share project files for the test-case Strategies are available in the links below. A user account for Miradi Share is required to view projects. Request a free account at <a href="http://www.miradishare.org/">www.MiradiShare.org</a><strong></strong></p>
