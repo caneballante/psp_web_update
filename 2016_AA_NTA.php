@@ -80,7 +80,7 @@
 			<p><strong>NTA Submittal Portal</strong><br>
 The submittal portal is now closed - deadline for submittal was 10am on 12/31/2015</p>
 			<br>
-<strong><a href="https://pspwa.app.box.com/notes/47700457097?s=3e2qge3icl6mhj9aeccke51iwwbq8hu7" target="new">Dashboard for Submitted NTAs</a></strong> <br />
+<strong><a href="https://pspwa.box.com/s/3e2qge3icl6mhj9aeccke51iwwbq8hu7" target="new">Dashboard for Submitted NTAs</a></strong> <br />
 			<p>Charts and tables with real-time information about submitted Near Term Actions. <br />
 				<br />
 			</p>
