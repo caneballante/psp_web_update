@@ -75,7 +75,10 @@
 			<ul>
 				<li><a href="https://pspwa.box.com/s/xsrcyo7a0inik9yt4ujnuj6e4v3vn18e">Week 1 Calendar</a></li>
 			</ul>
-			<h2>Legislative Updates and Calendar Archives</h2>
+			<h2>Legislative Interest Statements</h2>
+			<ul>
+			<li><a href="https://pspwa.box.com/s/vrgz41jyxyk42qwlxcer4djd7ykve8gh">2015 Legislative Interest Statement</a></li></ul>
+				<h2>Legislative Updates and Calendar Archives</h2>
 			<p><a href="https://pspwa.box.com/s/3fc8pyrlzpwzitsf4gc4hwss8dj5n2zf">View 2015 Materials</a></p>
 		
 			<p><a href="https://pspwa.box.com/s/e9rn1ckyd5u1ljol5he0t6obmjxlj35w">View 2014 materials</a></p>
