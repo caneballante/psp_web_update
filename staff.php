@@ -148,6 +148,9 @@
 			<h5>Laura Blackmore</h5>
 			<p> Partner Engagement Program Director<br />
 				Office 360.339.4627| <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
+                <h5>charisse sonnier</h5>
+			<p> Administrative Assistant<br />
+				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
                <br />
                 <!--PEP - MANAGEMENT CONFERENCE COORDINATION-->
                 <h3>MANAGEMENT CONFERENCE COORDINATION</h3>
@@ -167,9 +170,7 @@
 			<h5>Jeanette Dorner</h5>
 			<p> Program Director and Tribal Affairs<br />
 				360.464.2006 | <a href="mailto:jeanette.dorner@psp.wa.gov">jeanette.dorner@psp.wa.gov </a></p>
-			<h5>charisse sonnier</h5>
-			<p> Administrative Assistant<br />
-				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
+			
 			<br>
 			<!--L.E.R. TEAM 1 -->
 			<h3>ECOSYSTEM RECOVERY TEAM 1</h3>
