@@ -128,20 +128,7 @@
 			<p> IT Specialist <br />
 				360.628.7412 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov </a></p>
 			<br>
-			<!--A.S. - MANAGEMENT CONFERENCE COORDINATION-->
-			<h3>MANAGEMENT CONFERENCE COORDINATION</h3>
-			<h5>Laura Blackmore</h5>
-			<p> Boards Program Director<br />
-				Office 360.339.4627| <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
-			<h5>Dominique Hampton</h5>
-			<p> Special Assistant to the Boards<br />
-				Office 360.464.1229 | <a href="mailto:dominique.hampton@psp.wa.gov">dominique.hampton@psp.wa.gov</a></p>
-			<h5>Alicia Lawver</h5>
-			<p> Public Information Officer &amp; Partnerships Communication Lead<br />
-				360.464.2011 | <a href="mailto:alicia.lawver@psp.wa.gov">alicia.lawver@psp.wa.gov</a></p>
-			<br>
-			
-			<!--A.S. - TECH RESOURCES GROUP-->
+            <!--A.S. - TECH RESOURCES GROUP-->
 			<h3>TECHNOLOGY RESOURCES GROUP</h3>
 			<h5>Jennifer Burke</h5>
 			<p> Data Systems/GIS Manager<br />
@@ -152,6 +139,78 @@
 			<h5>Erika Lari</h5>
 			<p> Designer<br />
 				253.348.2482 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
+                <!--ANCHOR LINK spaced 2 br above target--> 
+			<a name="PEP"></a> <br>
+			<br>
+			<!--PARTNER ENGAGEMENT PROGRAM-->
+            <h2>PARTNER ENGAGEMENT PROGRAM</h2>
+			
+			<h5>Laura Blackmore</h5>
+			<p> Partner Engagement Program Director<br />
+				Office 360.339.4627| <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
+               <br />
+                <!--PEP - MANAGEMENT CONFERENCE COORDINATION-->
+                <h3>MANAGEMENT CONFERENCE COORDINATION</h3>
+			<h5>Dominique Hampton</h5>
+			<p> Special Assistant to the Boards<br />
+				Office 360.464.1229 | <a href="mailto:dominique.hampton@psp.wa.gov">dominique.hampton@psp.wa.gov</a></p>
+			<h5>Alicia Lawver</h5>
+			<p> Public Information Officer &amp; Partnerships Communication Lead<br />
+				360.464.2011 | <a href="mailto:alicia.lawver@psp.wa.gov">alicia.lawver@psp.wa.gov</a></p>
+		
+            	<h5>Vacant</h5>
+			<p>Boards Policy Specialist</p><br />
+			
+			<!--PEP - LOCAL ECOSYSTEM RECOVERY-->
+			
+			<h3>LOCAL ECOSYSTEM RECOVERY</h3>
+			<h5>Jeanette Dorner</h5>
+			<p> Program Director and Tribal Affairs<br />
+				360.464.2006 | <a href="mailto:jeanette.dorner@psp.wa.gov">jeanette.dorner@psp.wa.gov </a></p>
+			<h5>charisse sonnier</h5>
+			<p> Administrative Assistant<br />
+				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
+			<br>
+			<!--L.E.R. TEAM 1 -->
+			<h3>ECOSYSTEM RECOVERY TEAM 1</h3>
+			<h5>Stacy Vynne</h5>
+			<p> Regional Manager<br />
+				360.464.2012 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
+			<h5>Gretchen Glaub</h5>
+			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br />
+				<em>Straits </em><br />
+				360.464.1219 | <a href="mailto:gretchen.glaub@psp.wa.gov">gretchen.glaub@psp.wa.gov</a></p>
+			<h5>Leah Kintner</h5>
+			<p> Ecosystem Recovery Coordinator <br />
+				<em>Skagit, Samish and Whatcom</em> <br />
+				360.480.2880 | <a href="mailto:leah.kitner@psp.wa.gov">leah.kintner@psp.wa.gov</a></p>
+			<h5>Tristan Peter-Contesse</h5>
+			<p> Ecosystem Recovery Coordinator <br />
+				<em>West Sound and Puyallup Watershed</em><br />
+				360.464.2002 | <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a></p>
+			<h5>Suzanna Stoike</h5>
+			<p> Ecosystem Recovery Coordinator &amp; PSAR Program Coordinator<br />
+				<em>Island and San Juans</em><br />
+				360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a></p>
+			<br>
+			<!--L.E.R. TEAM 2 -->
+			<h3>ECOSYSTEM RECOVERY TEAM 2</h3>
+			<h5>Stephanie Suter</h5>
+			<p> Regional Manager<br />
+				360.464.2013 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a></p>
+			<h5>DAN CALVERT</h5>
+			<p> Ecosystem Recovery Coordinator <br />
+				<!--<em>Stillaguamish/Snohomish</em><br />--> 
+				360.464.2003 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov</a></p>
+			<h5>AMBER MOORE</h5>
+			<p> Ecosystem Recovery Coordinator <br />
+				<!--<em>Stillaguamish/Snohomish</em><br />--> 
+				360.464.1225 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
+			<h5>Bruce Wulkan</h5>
+			<p> Ecosystem Recovery Coordinator <br />
+				<em>South Central, Green and Cedar Watersheds</em><br />
+				360.339.4626 | <a href="mailto:bruce.wulkan@psp.wa.gov">bruce.wulkan@psp.wa.gov</a></p>
+			
 			<!--ANCHOR LINK spaced 2 br above target--> 
 			<a name="science_and_evaluation"></a> <br>
 			<br>
@@ -236,58 +295,7 @@
 			<h5>Dave Ward</h5>
 			<p> Social Strategies Manager<br />
 				425.457.1157 | <a href="mailto:dave.ward@psp.wa.gov">dave.ward@psp.wa.gov</a></p>
-			<!--ANCHOR LINK spaced 2 br above target--> 
-			<a name="local_ecosystem_recovery"></a> <br>
-			<br>
-			<!--LOCAL ECOSYSTEM RECOVERY-->
 			
-			<h2>LOCAL ECOSYSTEM RECOVERY</h2>
-			<h5>Jeanette Dorner</h5>
-			<p> Program Director and Tribal Affairs<br />
-				360.464.2006 | <a href="mailto:jeanette.dorner@psp.wa.gov">jeanette.dorner@psp.wa.gov </a></p>
-			<h5>charisse sonnier</h5>
-			<p> Administrative Assistant<br />
-				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
-			<br>
-			<!--L.E.R. TEAM 1 -->
-			<h3>ECOSYSTEM RECOVERY TEAM 1</h3>
-			<h5>Stacy Vynne</h5>
-			<p> Regional Manager<br />
-				360.464.2012 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
-			<h5>Gretchen Glaub</h5>
-			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br />
-				<em>Straits </em><br />
-				360.464.1219 | <a href="mailto:gretchen.glaub@psp.wa.gov">gretchen.glaub@psp.wa.gov</a></p>
-			<h5>Leah Kintner</h5>
-			<p> Ecosystem Recovery Coordinator <br />
-				<em>Skagit, Samish and Whatcom</em> <br />
-				360.480.2880 | <a href="mailto:leah.kitner@psp.wa.gov">leah.kintner@psp.wa.gov</a></p>
-			<h5>Tristan Peter-Contesse</h5>
-			<p> Ecosystem Recovery Coordinator <br />
-				<em>West Sound and Puyallup Watershed</em><br />
-				360.464.2002 | <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a></p>
-			<h5>Suzanna Stoike</h5>
-			<p> Ecosystem Recovery Coordinator &amp; PSAR Program Coordinator<br />
-				<em>Island and San Juans</em><br />
-				360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a></p>
-			<br>
-			<!--L.E.R. TEAM 2 -->
-			<h3>ECOSYSTEM RECOVERY TEAM 2</h3>
-			<h5>Stephanie Suter</h5>
-			<p> Regional Manager<br />
-				360.464.2013 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a></p>
-			<h5>DAN CALVERT</h5>
-			<p> Ecosystem Recovery Coordinator <br />
-				<!--<em>Stillaguamish/Snohomish</em><br />--> 
-				360.464.2003 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov</a></p>
-			<h5>AMBER MOORE</h5>
-			<p> Ecosystem Recovery Coordinator <br />
-				<!--<em>Stillaguamish/Snohomish</em><br />--> 
-				360.464.1225 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
-			<h5>Bruce Wulkan</h5>
-			<p> Ecosystem Recovery Coordinator <br />
-				<em>South Central, Green and Cedar Watersheds</em><br />
-				360.339.4626 | <a href="mailto:bruce.wulkan@psp.wa.gov">bruce.wulkan@psp.wa.gov</a></p>
 			<!-- InstanceEndEditable --> </div>
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">ON THIS PAGE</div>
@@ -296,9 +304,10 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="#executive_team">EXECUTIVE TEAM</a></li>
 				<li role="presentation"> <a href="#administrative_services">ADMINISTRATIVE SERVICES</a></li>
+                <li role="presentation"> <a href="#PEP">PARTNER ENGAGEMENT PROGRAM</a></li>
 				<li role="presentation"> <a href="#science_and_evaluation">SCIENCE AND EVALUATION</a></li>
 				<li role="presentation"> <a href="#policy_and_planning">POLICY AND PLANNING</a></li>
-				<li role="presentation"> <a href="#local_ecosystem_recovery">LOCAL ECOSYSTEM RECOVERY</a></li>
+				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
