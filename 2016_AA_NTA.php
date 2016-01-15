@@ -68,38 +68,32 @@
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<P>A Near Term Action is an activity that is trackable, measurable, and necessary for Puget Sound recovery. Near Term Actions comprise the core of the Action Agenda. They can be proposed by government agencies and tribes, academic institutions, non-profit organizations, as well as businesses and individuals.</P>
-			<p>The 2016 Action Agenda update will include NTAs that address three of the most critical problems for Puget Sound:</P>
-			<ul>
-				<li>Prevent pollution from stormwater.</li>
-				<li>Protect and restore habitat.</li>
-				<li>Protect and recover shellfish beds.</li>
-			</ul>
+			<p>The 2016 Action Agenda update will include NTAs that address three of the most critical problems for Puget Sound:<br>
+				&nbsp;&nbsp;&#8226;&nbsp;&nbsp;Prevent pollution from stormwater.<br>
+				&nbsp;&nbsp;&#8226;&nbsp;&nbsp;Protect and restore habitat.<br>
+				&nbsp;&nbsp;&#8226;&nbsp;&nbsp;Protect and recover shellfish beds.</p>
 			<p>Proposed NTAs may include new programs, specific projects, scientific investigations, or other types of actions described in this solicitation.</p>
 			<p><br />
-			<strong>More information:</strong></p>
+				<strong>More information:</strong></p>
 			<p><strong><a href="https://pspwa.box.com/s/oz6cnwx1h9bil6bbi9xukpgfqjaxgyvm" target="new">NTA Review Process</a></strong> (This link will go live at 5pm on 1/18/2016)<br>
-			View submitted NTA proposals, reviewer feedback, revised NTA proposals, final rankings, and summary information.<br />
+				View submitted NTA proposals, reviewer feedback, revised NTA proposals, final rankings, and summary information.<br />
 				<br />
 			</p>
 			<p> <strong><a href="https://pspwa.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud" target="new">Regional NTA Solicitation</a> <em><a href="https://pspwa.box.com/s/8cnv9g2dpx2j71azs9wfzmit510ho9s8" target="new">(2-Page Summary)</a></em></strong><br />
-			</p>
-			<ul>
-				<li><a href="https://pspwa.box.com/s/khe82tfske2rc2vj4323v7qplyoppav4" target="new">Modification #1: eligibility and process for salmon recovery projects</a></li>
-				<li><a href="https://pspwa.box.com/s/d9a79c2jko3zu8gujvc4gwb5s9s0cjxw" target="new">Modification #2: Additional eligibility and process for salmon recovery projects</a></li>
-				<li><a href="https://pspwa.box.com/s/16tzs34x1wrnpibmib50v5gzkx5vlzx2" target="new"> Modification #3: Tribal NTA submittal requirements</a></li>
-			</ul>
+			
+			&nbsp;&nbsp;&#8226;&nbsp;&nbsp;<a href="https://pspwa.box.com/s/khe82tfske2rc2vj4323v7qplyoppav4" target="new">Modification #1: eligibility and process for salmon recovery projects</a><br>
+				&nbsp;&nbsp;&#8226;&nbsp;&nbsp;<a href="https://pspwa.box.com/s/d9a79c2jko3zu8gujvc4gwb5s9s0cjxw" target="new">Modification #2: Additional eligibility and process for salmon recovery projects</a><br>
+				&nbsp;&nbsp;&#8226;&nbsp;&nbsp;<a href="https://pspwa.box.com/s/16tzs34x1wrnpibmib50v5gzkx5vlzx2" target="new">Modification #3: Tribal NTA submittal requirements</a></p>
 			<p>The regional NTA solicitation is the official request for Near Term Actions for the new regional 2-year Implementation Plan component of the Action Agenda. It contains eligibility requirements, submittal requirements, evaluation criteria, regional priorities, and the NTA review process and deadlines.  Modifications to the solicitation are posted above.</p>
 			<p><br />
 				<strong><a href="https://pspwa.box.com/shared/static/cbg1fws6j5on4tk23pt152tapurtgqzt.xlsx" target="new">NTA Submittal Form</a></strong><br />
 				Download this form to write up your NTA proposal.<br />
 				<br />
 			<p><strong><a href="https://pspwa.box.com/s/pjl5i0w276loocwr61pf50pvxk9k1ha5" target="new">NTA Submittal Form Instructions</a></strong><br />
-			<ul>
-				<li><a href="https://pspwa.box.com/s/i4hrvxbx05pw6afkm95nw6up9pgh11cl" target="new">Addendum #1</a></li>
-				<li><a href="https://pspwa.box.com/s/j82037hszac2pq9qempdoyqywgv9h5k4" target="new">Addendum #2</a></li></ul>
-				<p>Full instructions for filling out the NTA Submittal Form. Addendums to the original instructions are posted above.
-				</p>
-				<p><br />
+			&nbsp;&nbsp;&#8226;&nbsp;&nbsp;<a href="https://pspwa.box.com/s/i4hrvxbx05pw6afkm95nw6up9pgh11cl" target="new">Addendum #1</a><br>
+				&nbsp;&nbsp;&#8226;&nbsp;&nbsp;<a href="https://pspwa.box.com/s/j82037hszac2pq9qempdoyqywgv9h5k4" target="new">Addendum #2</a></p>
+			<p>Full instructions for filling out the NTA Submittal Form. Addendums to the original instructions are posted above. </p>
+			<p><br />
 				<strong><a href="https://pspwa.box.com/s/ym914rupdzwsber2q56c6945q8glq0qd" target="new">NTA Resources</a></strong><br />
 				FAQs, guidance, and resources for NTA owners and LIOs are available here. Check periodically for the latest updates. </p>
 			</li>
