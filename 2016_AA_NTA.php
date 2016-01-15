@@ -77,7 +77,7 @@
 			<p>Proposed NTAs may include new programs, specific projects, scientific investigations, or other types of actions described in this solicitation.</p>
 			<p><br />
 			<strong>More information:</strong></p>
-			<p><strong><a href="https://pspwa.box.com/s/oz6cnwx1h9bil6bbi9xukpgfqjaxgyvm" target="new">NTA Review Process</a></strong><br>
+			<p><strong><a href="https://pspwa.box.com/s/oz6cnwx1h9bil6bbi9xukpgfqjaxgyvm" target="new">NTA Review Process</a></strong> (This link will go live at 5pm on 1/18/2016)<br>
 			View submitted NTA proposals, reviewer feedback, revised NTA proposals, final rankings, and summary information.<br />
 				<br />
 			</p>
