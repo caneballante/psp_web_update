@@ -62,8 +62,8 @@
 		<div class="col-md-3 padding-40-top">
 			<h1>MEASURING RECOVERY</h1>
 			<div class="padding-5-bottom"><a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND EVALUATION&nbsp;OVERVIEW</a></div>
-			<div class="padding-5-bottom"> <a href="evaluating-health-of-puget-sound.php">EVALUATING&nbsp;THE&nbsp;HEALTH&nbsp;OF PUGET&nbsp;SOUND</a></div>
-			<div class="padding-5-bottom"> <a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING&nbsp;ACTIONS&nbsp;TO RECOVER PUGET&nbsp;SOUND</a></div>
+			<div class="padding-5-bottom"> <a href="evaluating-health-of-puget-sound.php">PUGET&nbsp;SOUND&nbsp;HEALTH</a></div>
+			<div class="padding-5-bottom"> <a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING&nbsp;RECOVERY&nbsp;ACTIONS</a></div>
 			<div class="padding-5-bottom"> <a href="science-basis-of-recovery-overview.php">SCIENCE&nbsp;BASIS OF&nbsp;RECOVERY</a> </div>
 			<a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
 		<div class="col-md-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive"/></div>
