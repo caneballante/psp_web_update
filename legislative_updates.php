@@ -69,7 +69,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">2016 Legislative Updates</h2>
 			<ul>
-				<li>Coming soon</li>
+				<li><a href="http://content.govdelivery.com/accounts/WAPSP/bulletins/13128ce" target="_blank">Week 2 Update</a></li>
 			</ul>
 			<h2>2016 Legislative Calendars </h2>
 			<ul>
