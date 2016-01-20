@@ -63,7 +63,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Ecosystem Coordination Board's main role is to advise the Puget Sound Partnership&rsquo;s Leadership Council on carrying out its responsibilities. The Board is made up of 27 members representing specific interests around the Sound.</p>
-			<p><strong>Chair: </strong>Dave Somers<br />
+			<p><strong>Chair: </strong>Will Hall <br />
 			</p>
 			<p><strong>Vice Chair: </strong>Dave Herrera<br />
 			</p>
@@ -90,10 +90,10 @@
 				                        Dave White (alternate) <em>King County</em><br>
 				            South Puget Sound<br>
 				                        Dan Wrye<em> Pierce County</em><br>
-				                        Alex Smith (alternate) Port of Olympia</p>
+				                        John Bolender (alternate) <em>Mason County Conservation District</em></p>
 			<p>Business Interest<br>
 				            Gary Chandler <em>Association of Washington Business</em><br>
-				            Alison Butcher (alternate) <em>Master Builders Association of King and Snohomish Counties</em></p>
+			</p>
 			<p>Small Business Interest<br>
 				            Bill Dewey <em>Taylor Shellfish</em><br>
 				            Bill Taylor (alternate) <em>Taylor Shellfish</em></p>
@@ -136,7 +136,7 @@
 				            Col. John G. Buck <em>U.S Army Corps of Engineers</em><br>
 				            Olton Swanson (alternate) <em>USACE</em></p>
 			<p>Federal Government<br>
-				            Angela Bonifaci <em>Environmental Protection Agency (EPA)</em></p>
+				            Peter Murchie <em>Environmental Protection Agency (EPA)</em></p>
 			<p>Washington State Agencies<br>
 				            Maia Bellon <em>Director, Washington State Department of Ecology</em><br>
 				            Josh Baldi (alternate) <em>Department of Ecology</em></p>

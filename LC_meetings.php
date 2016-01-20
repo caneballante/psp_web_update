@@ -72,8 +72,11 @@
 				</tr>
 				<tr> </tr>
 				<tr>
-					<td><p>February 4-5</p></td>
-					<td><p>TBD</p></td>
+					<td><p>February 4</p></td>
+					<td><p>La Quinta<br>
+					  Oak Conference Room<br>
+					  1425 East 27th Street<br>
+				    Tacoma, WA 98421</p></td>
 					<td><a href="https://pspwa.box.com/s/p9csyudvw0v2z1ecbi096dyilbwm2arg" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
