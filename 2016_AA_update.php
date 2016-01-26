@@ -68,7 +68,7 @@
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox">
-				<h3>1/11/16 HELP US DEVELOP THE NEXT VITAL SIGN IMPLEMENTATION STRATEGIES: FLOODPLAINS AND LAND DEVELOPMENT / COVER.<a href="implementation_strategies_announcements.php"> LEARN MORE</a></h3>
+				<h3>1/26/16 HELP US DEVELOP THE NEXT VITAL SIGN IMPLEMENTATION STRATEGY FOR LAND DEVELOPMENT/COVER.<a href="implementation_strategies_announcements.php"> LEARN MORE</a></h3>
 			</div>
 			<h2>What is in the Action Agenda?</h2>
 			<p> Several years of <strong>research and effort</strong> have shown three areas of focus that deliver the most progress toward recovery for dollars invested. Termed &ldquo;Strategic Initiatives&rdquo; these <strong>three priority areas</strong> form the basis of the Action Agenda for 2016.</p>
