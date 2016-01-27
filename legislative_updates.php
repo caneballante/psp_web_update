@@ -69,10 +69,12 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">2016 Legislative Updates</h2>
 			<ul>
-				<li><a href="http://content.govdelivery.com/accounts/WAPSP/bulletins/13128ce" target="_blank">Week 2 Update</a></li>
+				<li><a href="https://pspwa.box.com/s/u83jyr8f10y01iwu7rcl52uh1eps9n3g" target="_blank">Week 3 Update</a></li>
+                <li><a href="http://content.govdelivery.com/accounts/WAPSP/bulletins/13128ce" target="_blank">Week 2 Update</a></li>
 			</ul>
 			<h2>2016 Legislative Calendars </h2>
 			<ul>
+            <li><a href="https://pspwa.box.com/s/k8e2g6q23yt9j2nuyy1upaecugwxw8h1">Week 3 Calendar</a></li>
             <li><a href="https://pspwa.box.com/s/yaparuuemmuurbhlqvj3l6b1d3g4p1ek">Week 2 Calendar</a></li>
 				<li><a href="https://pspwa.box.com/s/xsrcyo7a0inik9yt4ujnuj6e4v3vn18e">Week 1 Calendar</a></li>
 			</ul>
