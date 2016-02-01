@@ -94,7 +94,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="https://pspwa.box.com/s/mdwgvfhr7zvlq7d3kngxyt7b8uai5pg3" target="new">Puget Sound Acquisition and Restoration (PSAR) large capital projects: request for proposals for the 2017-19 state biennium</a></li>
-				<li role="presentation">Salmon Recovery Council PSAR Policies (Coming Soon)</li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/804inzvuvi1dppiswxh5cbnmqnrevdd7" title="Salmon Recovery Council PSAR Policies" target="_blank">Salmon Recovery Council PSAR Policies</a></li>
 				<li role="presentation"><a href="https://app.box.com/s/5h7adnq2hd7u3srmiqqd" target="new">PSAR FUND 2015-17 Ranked List and Map</a></li>
 				<li role="presentation"><a href="https://app.box.com/s/ii5hkscxa6zk98juwz51" target="new">PSAR 2015-17 Project Snapshots Factsheets Individual</a> </li>
 				<li role="presentation"><a href=" https://app.box.com/s/fct26xzwhsh3co3kuefl" target="new">PSAR 2015-17 Project Snapshots Factsheets Combined</a> </li>
