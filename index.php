@@ -130,10 +130,10 @@ Partnership's policy advisory board will meet Jan. 14 in Seattle<br>
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 5-->
-					<div class="newsbox-date">JAN<br>
-						14</div>
-					<div class="newsbox-text"> <a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
-						MEETING, SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
+					<div class="newsbox-date">FEB<br>
+4-5</div>
+					<div class="newsbox-text"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
+LOCATION TBD</a><a href="EB_meetings.php"></a><br>
 					</div>
 					<!--END news content BOX 5--> 
 				</div>
@@ -141,10 +141,10 @@ Partnership's policy advisory board will meet Jan. 14 in Seattle<br>
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 6-->
-					<div class="newsbox-date">JAN<br>
-						28</div>
-					<div class="newsbox-text"> <a href="SR_meetings.php">SALMON RECOVERY COUNCIL<br>
-						MEETING, EDMONDS CENTER FOR THE ARTS</a><br>
+					<div class="newsbox-date">FEB<br>
+10</div>
+					<div class="newsbox-text"> <a href="SP_meetings.php" target="_self">SCIENCE PANEL MEETING,<br>
+WASHINGTON STATE UNIVERSITY RESEARCH CENTER, PUYALLUP</a><a href="SR_meetings.php"></a><br>
 					</div>
 					<!--END news content BOX 6--> 
 				</div>
@@ -152,20 +152,22 @@ Partnership's policy advisory board will meet Jan. 14 in Seattle<br>
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 7-->
-					<div class="newsbox-date">FEB<br>
-						4-5</div>
-					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
-						LOCATION TBD</a></div>
+					<div class="newsbox-date">MAR<br>
+						24</div>
+					<div class="newsbox-text"><a href="LC_meetings.php">SALMON RECOVERY COUNCIL, <br>
+						EDMOND CENTER FOR THE ARTS
+					</a></div>
 					<!--END news content BOX 7--> 
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 8-->
-					<div class="newsbox-date">FEB<br>
-						10</div>
-					<div class="newsbox-text"><a href="SP_meetings.php" target="_self">SCIENCE PANEL MEETING,<br>
-						WASHINGTON STATE UNIVERSITY RESEARCH CENTER, PUYALLUP</a><br>
+					<div class="newsbox-date">APR<br>
+4</div>
+					<div class="newsbox-text"><a href="LC_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+SOUTH SEATTLE COMMUNITY COLLEGE,<br>
+GEORGETOWN CAMPUS </a><a href="SP_meetings.php" target="_self"></a><br>
 					</div>
 					<!--END news content BOX 8--> 
 				</div>
