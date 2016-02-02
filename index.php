@@ -154,7 +154,7 @@ WASHINGTON STATE UNIVERSITY RESEARCH CENTER, PUYALLUP</a><a href="SR_meetings.ph
 					<!--news content BOX 7-->
 					<div class="newsbox-date">MAR<br>
 						24</div>
-					<div class="newsbox-text"><a href="LC_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
 						EDMOND CENTER FOR THE ARTS
 					</a></div>
 					<!--END news content BOX 7--> 
@@ -165,7 +165,7 @@ WASHINGTON STATE UNIVERSITY RESEARCH CENTER, PUYALLUP</a><a href="SR_meetings.ph
 					<!--news content BOX 8-->
 					<div class="newsbox-date">APR<br>
 4</div>
-					<div class="newsbox-text"><a href="LC_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
 SOUTH SEATTLE COMMUNITY COLLEGE,<br>
 GEORGETOWN CAMPUS </a><a href="SP_meetings.php" target="_self"></a><br>
 					</div>
