@@ -95,10 +95,10 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX 2--> 
 						
-						<strong>1.15.16</strong><br>
+						<strong>2.2.16</strong><br>
 						PRESS RELEASE<br>
-						Statement from Partnership’s Sheida R. Sahandy on Governor Inslee’s Washington Shellfish Initiative<br>
-						<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2327" target="new">LEARN MORE</a> 
+					 	Leadership Council will meet Feb. 4 in Tacoma to discuss Action Agenda, science work plan, stormwater financial assistance<br>
+						<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2328" target="new">LEARN MORE</a> 
 						<!--END news content BOX 2--> 
 						
 					</div>
@@ -107,10 +107,10 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX 3--><strong>1.13.16</strong><br>
-						PRESS RELEASE<br>
-						Partnership's policy advisory board will meet Jan. 14 in Seattle<br>
-						<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2326" target="new">LEARN MORE</a><!--END news content BOX 3--> 
+						<!--news content BOX 3--><strong>1.15.16</strong><br>
+PRESS RELEASE<br>
+Statement from Partnership’s Sheida R. Sahandy on Governor Inslee’s Washington Shellfish Initiative<br>
+<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2327" target="new">LEARN MORE</a> <!--END news content BOX 3--> 
 						
 					</div>
 				</div>
@@ -118,10 +118,10 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX 4--><strong>12.10.15</strong><br>
-						PRESS RELEASE<br>
-						Puget Sound salmon recovery projects receive more than $33 million<br>
-						<a href="http://www.psp.wa.gov/blog/?p=607" target="new">LEARN MORE</a><!--END news content BOX 4--> 
+						<!--news content BOX 4--><strong>1.13.16</strong><br>
+PRESS RELEASE<br>
+Partnership's policy advisory board will meet Jan. 14 in Seattle<br>
+<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2326" target="new">LEARN MORE</a><!--END news content BOX 4--> 
 					</div>
 				</div>
 			</div>
