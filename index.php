@@ -83,8 +83,7 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX 1--> 
 						<strong>LEGISLATIVE SESSION </strong><br>
-						WEEK 1<br>
-						View the calender for the first week of the 2016 Legislative session<br>
+						View the calender and legislative updates for the 2016 Legislative session<br>
 						<a href="legislative_updates.php">VIEW</a> 
 						<!--END news content BOX 1--> 
 					</div>
@@ -95,10 +94,10 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX 2--> 
 						
-						<strong>2.2.16</strong><br>
+						<strong>2.8.16</strong><br>
 						PRESS RELEASE<br>
-					 	Leadership Council will meet Feb. 4 in Tacoma to discuss Action Agenda, science work plan, stormwater financial assistance<br>
-						<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2328" target="new">LEARN MORE</a> 
+					 	Science Panel will meet Feb. 10 in Puyallup<br>
+						<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2329" target="new">LEARN MORE</a> 
 						<!--END news content BOX 2--> 
 						
 					</div>
@@ -107,10 +106,10 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX 3--><strong>1.15.16</strong><br>
+						<!--news content BOX 3--><strong>2.2.16</strong><br>
 PRESS RELEASE<br>
-Statement from Partnership’s Sheida R. Sahandy on Governor Inslee’s Washington Shellfish Initiative<br>
-<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2327" target="new">LEARN MORE</a> <!--END news content BOX 3--> 
+Leadership Council will meet Feb. 4 in Tacoma to discuss Action Agenda, science work plan, stormwater financial assistance<br>
+<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2328" target="new">LEARN MORE</a> <!--END news content BOX 3--> 
 						
 					</div>
 				</div>
@@ -118,10 +117,10 @@ Statement from Partnership’s Sheida R. Sahandy on Governor Inslee’s Washingt
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX 4--><strong>1.13.16</strong><br>
+						<!--news content BOX 4--><strong>1.15.16</strong><br>
 PRESS RELEASE<br>
-Partnership's policy advisory board will meet Jan. 14 in Seattle<br>
-<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2326" target="new">LEARN MORE</a><!--END news content BOX 4--> 
+Statement from Partnership’s Sheida R. Sahandy on Governor Inslee’s Washington Shellfish Initiative<br>
+<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2327" target="new">LEARN MORE</a> <!--END news content BOX 4--> 
 					</div>
 				</div>
 			</div>
@@ -130,10 +129,11 @@ Partnership's policy advisory board will meet Jan. 14 in Seattle<br>
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 5-->
-					<div class="newsbox-date">FEB<br>
-4-5</div>
-					<div class="newsbox-text"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
-LOCATION TBD</a><a href="EB_meetings.php"></a><br>
+					<div class="newsbox-date">FEB<br> 
+					10
+</div>
+					<div class="newsbox-text"><a href="SP_meetings.php" target="_self">SCIENCE PANEL MEETING,<br>
+WASHINGTON STATE UNIVERSITY RESEARCH CENTER, PUYALLUP</a><a href="SR_meetings.php"></a><br>
 					</div>
 					<!--END news content BOX 5--> 
 				</div>
@@ -141,10 +141,11 @@ LOCATION TBD</a><a href="EB_meetings.php"></a><br>
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 6-->
-					<div class="newsbox-date">FEB<br>
-10</div>
-					<div class="newsbox-text"> <a href="SP_meetings.php" target="_self">SCIENCE PANEL MEETING,<br>
-WASHINGTON STATE UNIVERSITY RESEARCH CENTER, PUYALLUP</a><a href="SR_meetings.php"></a><br>
+					<div class="newsbox-date">MAR<br>
+						24
+					</div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+EDMOND CENTER FOR THE ARTS </a><br>
 					</div>
 					<!--END news content BOX 6--> 
 				</div>
@@ -152,22 +153,24 @@ WASHINGTON STATE UNIVERSITY RESEARCH CENTER, PUYALLUP</a><a href="SR_meetings.ph
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 7-->
-					<div class="newsbox-date">MAR<br>
-						24</div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-						EDMOND CENTER FOR THE ARTS
-					</a></div>
+					<div class="newsbox-date">APR<br>
+						4
+					</div>
+					<div class="newsbox-text"><a href="SR_meetings.php"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+SOUTH SEATTLE COMMUNITY COLLEGE,<br>
+GEORGETOWN CAMPUS </a><a href="SP_meetings.php" target="_self"></a></a></div>
 					<!--END news content BOX 7--> 
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 8-->
-					<div class="newsbox-date">APR<br>
-4</div>
-					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-SOUTH SEATTLE COMMUNITY COLLEGE,<br>
-GEORGETOWN CAMPUS </a><a href="SP_meetings.php" target="_self"></a><br>
+					<div class="newsbox-date">APR<br> 
+					28-29
+</div>
+					<div class="newsbox-text"><a href="EB_meetings.php">LEADERSHIP COUNCIL MEETING, <br> 
+						LOCATION: TBD
+</a><a href="SP_meetings.php" target="_self"></a><br>
 					</div>
 					<!--END news content BOX 8--> 
 				</div>
