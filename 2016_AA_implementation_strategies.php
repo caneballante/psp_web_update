@@ -65,8 +65,7 @@
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-		<div class="highlightbox">
-			<h3>1/26/16 HELP US DEVELOP THE NEXT VITAL SIGN IMPLEMENTATION STRATEGY FOR LAND DEVELOPMENT/COVER.<a href="implementation_strategies_announcements.php"> LEARN MORE</a></h3></div>
+		
 			<p><strong><br>
 			Implementation Strategies</strong> (referred to here as &quot;Strategies&quot;) are plans for achieving the 2020 <a href="action_agenda_targets.php">Ecosystem Recovery Targets</a> for the <a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a>. </p>
 			<p>Each plan accomplishes the following:</p>

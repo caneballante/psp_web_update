@@ -67,9 +67,7 @@
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox">
-				<h3>1/26/16 HELP US DEVELOP THE NEXT VITAL SIGN IMPLEMENTATION STRATEGY FOR LAND DEVELOPMENT/COVER.<a href="implementation_strategies_announcements.php"> LEARN MORE</a></h3>
-			</div>
+			
 			<h2>What is in the Action Agenda?</h2>
 			<p> Several years of <strong>research and effort</strong> have shown three areas of focus that deliver the most progress toward recovery for dollars invested. Termed &ldquo;Strategic Initiatives&rdquo; these <strong>three priority areas</strong> form the basis of the Action Agenda for 2016.</p>
 			<p>The Action Agenda addresses each <strong>Strategic Initiative</strong> by setting targets for recovery that are based on scientific understandings of the ecosystem. The <strong>recovery targets</strong> are used to <strong>guide revisions</strong> to the Action Agenda, <strong>focus actions</strong> to be accomplished right away (<strong>Near Term Actions</strong>), <strong>recommend allocations</strong> of funding and other resources to specific strategies and actions, and <strong>evaluate</strong> Action Agenda implementation.</p>

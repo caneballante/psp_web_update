@@ -64,6 +64,7 @@
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		<h2>PAST ANNOUNCEMENTS</h2>
 			<div class="highlightbox">
 				<h3>1/26/16 HELP US DEVELOP THE NEXT VITAL SIGN IMPLEMENTATION STRATEGIES: FLOODPLAINS AND LAND DEVELOPMENT / COVER</h3>
 				<p> The Puget Sound Partnership is seeking members for an Interdisciplinary Teams to work alongside the Puget Sound Partnership, Puget Sound Institute, and Strategy Development Lead staff in jointly developing Implementation Strategy, or strategic plan, to accelerate progress toward meeting the 2020 Vital Sign recovery target for the</p>
