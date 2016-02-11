@@ -107,10 +107,10 @@
 				            Will Hall <em>City of Shoreline Council member</em><br>
 				            Ed Stern (alternate) City of Poulsbo Councilmember</p>
 			<p>Counties<br>
-				            Dave Somers <em>Snohomish County Council member</em><br>
+				            Dave Somers <em>Snohomish County Executive</em><br>
 				            Helen Price Johnson (alternate) Island County Commissioner</p>
 			<p>Port Districts<br>
-				            Bill Bryant <em>Port of Seattle</em><br>
+				            Vacant<br>
 				            Mike McAuley (alternate) <em>Port of Bellingham</em></p>
 			<p>Tribal Government<br>
 				            David Troutt <em>Nisqually Tribe</em><br>
