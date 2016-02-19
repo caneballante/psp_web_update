@@ -74,6 +74,7 @@
 			</ul>
 			<h2>2016 Legislative Calendars </h2>
 			<ul>
+            <li><a href="https://pspwa.box.com/s/sz2cuia2j0xahqmczxbxa2xot9wq0z15">Week 7 Calendar</a></li>
             <li><a href="https://pspwa.box.com/s/xaugfaq1evhj3q2fd8ahg10osi6titf1">Week 6 Calendar</a></li>
             <li><a href="https://pspwa.box.com/s/aq5xbd84jk7mzyw74xh6zxifpr01yv3v">Week 5 Calendar</a></li>
             <li><a href="https://pspwa.box.com/s/uojg8ayny2dvt0dlo2p8xodurj71wdqe">Week 4 Calendar</a></li>
