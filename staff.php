@@ -157,12 +157,14 @@
 			<h5>Dominique Hampton</h5>
 			<p> Special Assistant to the Boards<br />
 				Office 360.464.1229 | <a href="mailto:dominique.hampton@psp.wa.gov">dominique.hampton@psp.wa.gov</a></p>
-			<h5>Alicia Lawver</h5>
+			<h5>vacant</h5>
 			<p> Public Information Officer &amp; Partnerships Communication Lead<br />
-				360.464.2011 | <a href="mailto:alicia.lawver@psp.wa.gov">alicia.lawver@psp.wa.gov</a></p>
+			</p>
 		
-            	<h5>Vacant</h5>
-			<p>Boards Policy Specialist</p><br />
+            	<h5>Tristan Peter-Contesse</h5>
+			<p>Boards Policy Specialist<br>
+		    360.464.2002 | <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a>			</p>
+			<br />
 			
 			<!--PEP - LOCAL ECOSYSTEM RECOVERY-->
 			
@@ -185,10 +187,7 @@
 			<p> Ecosystem Recovery Coordinator <br />
 				<em>Skagit, Samish and Whatcom</em> <br />
 				360.480.2880 | <a href="mailto:leah.kitner@psp.wa.gov">leah.kintner@psp.wa.gov</a></p>
-			<h5>Tristan Peter-Contesse</h5>
-			<p> Ecosystem Recovery Coordinator <br />
-				<em>West Sound and Puyallup Watershed</em><br />
-				360.464.2002 | <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a></p>
+			
 			<h5>Suzanna Stoike</h5>
 			<p> Ecosystem Recovery Coordinator &amp; PSAR Program Coordinator<br />
 				<em>Island and San Juans</em><br />
