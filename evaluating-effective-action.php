@@ -62,18 +62,21 @@
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">WHAT's working in puget sound?</h2>
+			<h2 class="margin-0-top">What’s working to restore Puget Sound?</h2>
 			<p>Many restoration and management actions have been effective in restoring the Puget Sound ecosystem, but scientific results are often reported in technical documents that can be hard to find. We are distilling information about what&rsquo;s working to restore Puget Sound for our partners and decision-makers. By directly connecting effectiveness data to recovery actions, we can highlight successes and improve our strategies by funding actions that are the most effective. Fact Sheets and Background Summaries support implementation of the Action Agenda to accelerate the recovery of Puget Sound.&nbsp;</p>
 			
 			<h2>FACT SHEETS AND NARRATIVE SUMMARIES</h2>
 				<h3>STRATEGIC INITIATIVE: RESTORE AND RE-OPEN SHELLFISH BEDS</h3>
+               
 				<p><a href="#samish">Keeping shellfish beds open by reducing fecal coliform (Samish Basin)</a></p>
 		
 			<h3>STRATEGIC INITIATIVE: PREVENT POLLUTION FROM URBAN STORMWATER RUNOFF</h3>
 				<p><a href="#seattle">Selecting the best wet weather management actions (Seattle Public Utility)</a></p>
 			<h3>STRATEGIC INITIATIVE: PROTECT AND RESTORE HABITAT</h3>
-				<p><a href="#king">Re-establishing native forests on restoration sites (King County)</a></p>
+             
 				
+                <h6><em>ESTUARIES</em></h6>
+                
 				<p><a href="#skagit">Restoring tidal wetlands to support Chinook salmon (South Fork Skagit)</a></p>
 				
 				<p><a href="#fisher">Restoring tidal wetlands to support young salmon and reduce flood damage (Fisher Slough)</a></p>
@@ -83,12 +86,17 @@
 				<p><a href="#nisqually">Creating natural habitat for salmon and other wildlife (Nisqually)</a></p>
 				
 			<p>	<a href="#skokomish">Restoring the estuary to support salmon and reduce flooding (Skokomish)</a></p>
+            
+            
+            <h6><em>NEARSHORE</em></h6>
 				
 				<p><a href="#bainbridge">Removing bulkheads to restore shoreline habitat while protecting residential uses (Bainbridge Island)</a></p>
+                <h6><em>RIPARIAN</em></h6>
+				<p><a href="#king">Re-establishing native forests on restoration sites (King County)</a></p>
 
 			<h2>Fact Sheets and Narrative Summaries </h2>
 			<p>The Action Agenda is the roadmap for recovering Puget Sound and includes three Strategic Initiatives designed to focus recovery efforts. </p>
-			<!-- Strategic Initiative Break -->
+			<!-- Strategic Initiative Break --><a name="samish"></a>
 			<table class="table">
 				<tr>
 					<td colspan="2" class="tableheader"><h3><span class="tableheadertext">Strategic Initiative: Restore and re-open shellfish beds</span></h3></td>
@@ -97,18 +105,18 @@
 				<!-- report -->
 				
 				<tr>
-					<td colspan="2" class="tablesubheader"> Samish Basin <a name="samish"></a></td>
+					<td colspan="2" class="tablesubheader">Keeping shellfish beds open by reducing fecal coliform (Samish Basin)</td>
 				</tr>
 				<tr>
 					<td><iframe src="https://app.box.com/embed/preview/d1ghzzoh6oquks8v7xf3jn8u41l832fa?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/d1ghzzoh6oquks8v7xf3jn8u41l832fa">Download the  Samish Basin fact sheet</a></p>
-					<p><a href="https://app.box.com/s/mbp6ddy24rulke4epmp8ul2xpc7rzeh1">Download the full Samish Basin background report</a></p></td>
+					<p><a href="https://app.box.com/s/mbp6ddy24rulke4epmp8ul2xpc7rzeh1">Download the full Samish Basin background summary</a></p></td>
 				</tr>
 			</table>
 			<br />
 			<br />
 			<!-- Strategic Initiative Break -->
-			
+			<a name="seattle"></a>
 			<table class="table">
 				<tr>
 					<td colspan="2" class="tableheader"><h3><span class="tableheadertext">Strategic Initiative: Prevent pollution from urban stormwater runoff</span></h3></td>
@@ -117,90 +125,101 @@
 				<!-- report -->
 				
 				<tr>
-					<td colspan="2" class="tablesubheader">Seattle Public Utility<a name="seattle"></a></td>
+					<td colspan="2" class="tablesubheader">Selecting the best wet weather management actions (Seattle Public Utility)</td>
 				</tr>
 				<tr>
-					<td><iframe src="https://app.box.com/embed/preview/aqxb4i45t2c2aurndkaffbtjub17l1vm?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
+					<td>&nbsp;</td>
 					<td><p><a href="https://pspwa.box.com/s/aqxb4i45t2c2aurndkaffbtjub17l1vm">Download the Seattle Public Utility fact sheet</a></p>
-					<p><a href="https://pspwa.box.com/s/fo7kv23erzryfqety8h8squul4zurrx7">Download the full Seattle Public Utility background report</a></p></td>
+					<p><a href="https://pspwa.box.com/s/fo7kv23erzryfqety8h8squul4zurrx7">Download the full Seattle Public Utility background summary</a></p></td>
 				</tr>
 			</table>
 			<br />
+			
 			<br />
 			
 			<!-- Strategic Initiative Break -->
 			
-			<table class="table">
+			<a name="skagit"></a><table class="table">
 				
 					<td colspan="2" class="tableheader"><h3><span class="tableheadertext">Strategic Initiative: Protect and restore habitat</span></h3></td>
 					
 					<!-- report -->
 				<tr>
-					<td colspan="2" class="tablesubheader">King County tree planting<a name="king"></a></td>
-				</tr>
-				<tr>
-					<td><iframe src="https://app.box.com/embed/preview/965ygd7b1vcf8oci6p1qiddpy19rl4zp?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
-					<td><p><a href="https://pspwa.box.com/s/965ygd7b1vcf8oci6p1qiddpy19rl4zp">Download the  King County tree planting fact sheet</a></p>
-					<p><a href="https://app.box.com/s/2wi21g2wfs2cl97q4p1tuz7vq005u55u">Download the full King County tree planting background report</a></p></td>
+				
 				</tr>
 				
 				<!-- report -->
+                <tr>
+					<td colspan="2" class="tablesubheader"><em>ESTUARIES</em></td>
+				</tr>
 				<tr>
-					<td colspan="2" class="tablesubheader">Estuaries: South Fork Skagit<a name="skagit"></a></td>
+					<td colspan="2" class="tablesubheader">Restoring tidal wetlands to support Chinook salmon (South Fork Skagit)</td>
 				</tr>
 				<tr>
 					<td><iframe src="https://app.box.com/embed/preview/crre7nvc9ru3z14qegb5zojf1ofjtdon?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/crre7nvc9ru3z14qegb5zojf1ofjtdon">Download the South Fork Skagit fact sheet</a></p>
-					<p><a href="https://app.box.com/s/5mb0of78y5maeaptrf039m106nq908v4">Download the full South Fork Skagit background report</a></p></td>
+					<p><a href="https://app.box.com/s/5mb0of78y5maeaptrf039m106nq908v4">Download the full South Fork Skagit background summary</a></p><a name="fisher"></a></td>
 				</tr>
 				
 				<!-- report -->
 				<tr>
-					<td colspan="2" class="tablesubheader">Estuaries: Fisher Slough<a name="fisher"></a></td>
+					<td colspan="2" class="tablesubheader">Restoring tidal wetlands to support young salmon and reduce flood damage (Fisher Slough)</td>
 				</tr>
 				<tr>
 					<td><iframe src="https://app.box.com/embed/preview/zfbfd0ynmc3wec4cije7a89dop7zsr7k?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/zfbfd0ynmc3wec4cije7a89dop7zsr7k">Download the Fisher Slough fact sheet</a></p>
-					<p><a href="https://app.box.com/s/jk0ivh768r9ber08181fucgppmdq4yi8">Download the full Fisher Slough background report</a></p></td>
+					<p><a href="https://app.box.com/s/jk0ivh768r9ber08181fucgppmdq4yi8">Download the full Fisher Slough background summary</a></p><a name="snohomish"></a></td>
 				</tr>
 				
 				<!-- report -->
 				<tr>
-					<td colspan="2" class="tablesubheader">Estuaries: Snohomish River Delta<a name="snohomish"></a></td>
+					<td colspan="2" class="tablesubheader">Restoring tidal wetlands to support salmon (Snohomish River)</td>
 				</tr>
 				<tr>
 					<td><iframe src="https://app.box.com/embed/preview/0metgv9qsrhge0rlvh61rwucukymasby?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/0metgv9qsrhge0rlvh61rwucukymasby">Download the Snohomish River Delta fact sheet</a></p>
-					<p><a href="https://app.box.com/s/o1mdl5e418bzsv44li8ietciielejzvj">Download the full Snohomish River Delta background report</a></p></td>
+					<p><a href="https://app.box.com/s/o1mdl5e418bzsv44li8ietciielejzvj">Download the full Snohomish River Delta background summary</a></p><a name="nisqually"></a></td>
 				</tr>
 				
 				<!-- report -->
 				<tr>
-					<td colspan="2" class="tablesubheader">Estuaries: Nisqually<a name="nisqually"></a></td>
+					<td colspan="2" class="tablesubheader">Creating natural habitat for salmon and other wildlife (Nisqually)</td>
 				</tr>
 				<tr>
 					<td><iframe src="https://app.box.com/embed/preview/ou1k72pno58cg6169cjxes01ky77pvea?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/ou1k72pno58cg6169cjxes01ky77pvea">Download full Nisqually fact sheet</a></p>
-					<p><a href="https://app.box.com/s/ojz524zw6qcbuz4qengnjv9cjusbrg7j">Download the full Nisqually background report</a></p></td>
+					<p><a href="https://app.box.com/s/ojz524zw6qcbuz4qengnjv9cjusbrg7j">Download the full Nisqually background summary</a></p><a name="skokomish"></a></td>
 				</tr>
 				<!-- report -->
 				<tr>
-					<td colspan="2" class="tablesubheader">Estuaries: Skokomish<a name="skokomish"></a></td>
+					<td colspan="2" class="tablesubheader">Restoring the estuary to support salmon and reduce flooding (Skokomish)</td>
 				</tr>
 				<tr>
 					<td><iframe src="https://app.box.com/embed/preview/fdxzgqwtsct1xy4l6ohfpeepjg4ho42a?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/fdxzgqwtsct1xy4l6ohfpeepjg4ho42a">Download the  Skokomish fact sheet</a></p>
-					<p><a href="https://pspwa.box.com/s/9g3fwng4amb86fz9gxsdujz67ry16c3c">Download the full Skokomish background report</a></p></td>
+					<p><a href="https://pspwa.box.com/s/9g3fwng4amb86fz9gxsdujz67ry16c3c">Download the full Skokomish background summary</a></p><a name="bainbridge"></a></td>
 				</tr>
 				<!-- report -->
+                <tr>
+					<td colspan="2" class="tablesubheader"><em>NEARSHORE</em></td>
+				</tr>
 				<tr>
-					<td colspan="2" class="tablesubheader">Nearshore: Bainbridge<a name="bainbridge"></a></td>
+					<td colspan="2" class="tablesubheader">Removing bulkheads to restore shoreline habitat while protecting residential uses (Bainbridge Island)</td>
 				</tr>
 				<tr>
 					<td><iframe src="https://app.box.com/embed/preview/nqwl9sp02ypac1ji595pjiuutyys78f6?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/nqwl9sp02ypac1ji595pjiuutyys78f6">Download the full Bainbridge fact sheet</a></p>
-					<p><a href="https://pspwa.box.com/s/01k23a3z0pr8wozfctj6s9o1bws65lf2">Download the full Bainbridge background report</a></p></td>
+					<p><a href="https://pspwa.box.com/s/01k23a3z0pr8wozfctj6s9o1bws65lf2">Download the full Bainbridge background summary</a></p><a name="king"></a></td>
 				</tr>
+                <tr>
+					<td colspan="2" class="tablesubheader"><em>RIPARIAN</em></td>
+				</tr>
+                	<tr><td colspan="2" class="tablesubheader">Re-establishing native forests on restoration sites (King County)</td>
+				</tr>
+				<tr>
+					<td><iframe src="https://app.box.com/embed/preview/965ygd7b1vcf8oci6p1qiddpy19rl4zp?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
+					<td><p><a href="https://pspwa.box.com/s/965ygd7b1vcf8oci6p1qiddpy19rl4zp">Download the  King County tree planting fact sheet</a></p>
+					<p><a href="https://app.box.com/s/2wi21g2wfs2cl97q4p1tuz7vq005u55u">Download the full King County tree planting background summary</a></p></td></tr>
 			</table>
 			<p>To propose a project, contact Leska Fore, Science and Evaluation, Puget Sound Partnership: <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a></p>
 			<!-- InstanceEndEditable --> </div>
