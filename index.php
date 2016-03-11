@@ -81,46 +81,40 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
+						<!--news content BOX 1--><strong>3.11.16</strong><br> 
+						<a href="https://pspwa.box.com/s/u4r5jdzgsij4ucvqhjscfa9z94ya5whh">LIST OF 2016 NEAR TERM ACTIONS NOW AVAILABLE </a><br>
+<!--END news content BOX 1--> 
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX 2--><!--END news content BOX 2--> 
+						
+						<strong>3.11.16</strong><br> 
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13b9c15">LEARN ABOUT THE 2016 ACTION AGENDA UPDATE: OPEN HOUSES COMING SOON </a><br>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX 3--><strong>3	.11.16</strong><br> 
+						<a href="https://app.smartsheet.com/b/form?EQBCT=29fe202e3dc74ee69cef305254788d95">HAVE A SUGGESTION FOR IMPROVING ACTION AGENDA PROCESSES?</a><br>
+						<!--END news content BOX 3--> 
+						
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
 						<!--news content BOX 1--> 
 						<strong>LEGISLATIVE SESSION </strong><br>
-						View the calender and legislative updates for the 2016 Legislative session<br>
-						<a href="legislative_updates.php">VIEW</a> 
+						<a href="legislative_updates.php">VIEW THE CALENDAR AND THE LEGISLATIVE UPDATES FOR THE 2016 LEGISLATVE SESSION</a><br>
+
 						<!--END news content BOX 1--> 
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX 2--> 
-						
-						<strong>2.8.16</strong><br>
-						PRESS RELEASE<br>
-					 	Science Panel will meet Feb. 10 in Puyallup<br>
-						<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2329" target="new">LEARN MORE</a> 
-						<!--END news content BOX 2--> 
-						
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX 3--><strong>2.2.16</strong><br>
-PRESS RELEASE<br>
-Leadership Council will meet Feb. 4 in Tacoma to discuss Action Agenda, science work plan, stormwater financial assistance<br>
-<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2328" target="new">LEARN MORE</a> <!--END news content BOX 3--> 
-						
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX 4--><strong>1.15.16</strong><br>
-PRESS RELEASE<br>
-Statement from Partnership’s Sheida R. Sahandy on Governor Inslee’s Washington Shellfish Initiative<br>
-<a href="http://www.psp.wa.gov/pressreleases/partnership_release.php?id=2327" target="new">LEARN MORE</a> <!--END news content BOX 4--> 
 					</div>
 				</div>
 			</div>
@@ -129,11 +123,10 @@ Statement from Partnership’s Sheida R. Sahandy on Governor Inslee’s Washingt
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 5-->
-					<div class="newsbox-date">FEB<br> 
-					10
-</div>
-					<div class="newsbox-text"><a href="SP_meetings.php" target="_self">SCIENCE PANEL MEETING,<br>
-WASHINGTON STATE UNIVERSITY RESEARCH CENTER, PUYALLUP</a><a href="SR_meetings.php"></a><br>
+					<div class="newsbox-date">MAR<br>
+24</div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+EDMOND CENTER FOR THE ARTS </a><br>
 					</div>
 					<!--END news content BOX 5--> 
 				</div>
@@ -141,11 +134,11 @@ WASHINGTON STATE UNIVERSITY RESEARCH CENTER, PUYALLUP</a><a href="SR_meetings.ph
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 6-->
-					<div class="newsbox-date">MAR<br>
-						24
-					</div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-EDMOND CENTER FOR THE ARTS </a><br>
+					<div class="newsbox-date">APR<br>
+4</div>
+					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+SOUTH SEATTLE COMMUNITY COLLEGE,<br>
+GEORGETOWN CAMPUS </a><br>
 					</div>
 					<!--END news content BOX 6--> 
 				</div>
@@ -153,12 +146,13 @@ EDMOND CENTER FOR THE ARTS </a><br>
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 7-->
-					<div class="newsbox-date">APR<br>
-						4
-					</div>
-					<div class="newsbox-text"><a href="SR_meetings.php"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-SOUTH SEATTLE COMMUNITY COLLEGE,<br>
-GEORGETOWN CAMPUS </a><a href="SP_meetings.php" target="_self"></a></a></div>
+					<div class="newsbox-date">APR<br> 
+						12
+</div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SCIENCE PANEL, <br> 
+						VANCOUVER, BC<br>
+						SALISH SEA ECOSYTEM CONFERENCE
+					</a></div>
 					<!--END news content BOX 7--> 
 				</div>
 			</div>
@@ -168,9 +162,8 @@ GEORGETOWN CAMPUS </a><a href="SP_meetings.php" target="_self"></a></a></div>
 					<div class="newsbox-date">APR<br> 
 					28-29
 </div>
-					<div class="newsbox-text"><a href="EB_meetings.php">LEADERSHIP COUNCIL MEETING, <br> 
-						LOCATION: TBD
-</a><a href="SP_meetings.php" target="_self"></a><br>
+					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
+LOCATION: TBD </a><br>
 					</div>
 					<!--END news content BOX 8--> 
 				</div>

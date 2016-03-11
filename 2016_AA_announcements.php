@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,13 +41,13 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image10">
 	<div class="overview-quote pull-right">
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -57,8 +58,7 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
@@ -66,17 +66,28 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
-			
+			<div class="highlightbox">
+				<h3>3/11/2016 - LIST OF 2016 NEAR TERM ACTIONS NOW AVAILABLE</h3>
+<p><a href="https://pspwa.box.com/s/u4r5jdzgsij4ucvqhjscfa9z94ya5whh">View the NTA lists, analysis and other information. These lists will be part of the Draft Action Agenda.</a></p>
+				
+			</div><div class="highlightbox margin-20-top">
+				<h3>3/11/2016 - PUBLIC COMMENT PERIOD BEGINS SOON</h3>
+				<p> The Puget Sound Partnership will host three open houses to provide information about the 2016 Puget Sound Action Agenda Update, including the NTA proposals, and solicit public comment. The update is scheduled to be released at the end of March. An online open house and online survey will also be available for anyone unable to attend an open house in person. </p>
+				<p>Open House dates:</p>
+				<p>Tuesday, April 5 from 5 to 7:30 pm: Edmonds Library Plaza Room, 650 Main Street, Edmonds</p>
+				<p>Thursday, April 7 from 5 to7:30 pm: Center for Urban Waters, 326 East D St, Tacoma</p>
+				<p>Tuesday, April 12 from 5 to 7:30 pm: Best Western Plus, 2300 Market St, Mt. Vernon</p>
+				<p>These facilities are all ADA compliant. If you would like to receive open house information in an alternative format, please contact Kelly Adams at 360-464-1233.</p>
+			</div>
 			<h2>PAST ANNOUNCEMENTS</h2>
 			<div class="highlightbox">
 				<h3>9/21/15 Near Term Action Proposals</h3>
 				<li>Solicitation Notice for Near Term Actions (Released 9/21/2015)</li>
 				</ul>
 			</div>
-			<div class="highlightbox">
+			<div class="highlightbox margin-20-top">
 				<h3>7/24/2015 - Action Agenda Strategic Initiative Update Workgroup Recommendations </h3>
 				<p>The  Leadership Council will consider and take final action on the 2016/17  Strategic Initiative update on July 29, 2015.  The adopted Strategic Initiatives will be used by the Strategic Initiative Transition Teams to  solicit, review, and prioritize near-term actions for the 2016/17  Action Agenda 2-year Implementation Plan.</p>
 				<p><a href="https://app.box.com/s/d848fprk5ntdk94woywkof9hlc4cr11d"><strong>Download the Management Conference Summary</strong></a><br />
@@ -84,7 +95,8 @@
 			</div>
 			<div class="highlightbox margin-20-top">
 				<h3>7/10/2015 - RECRUITING  TECHNICAL EXPERTS FOR STRATEGIC INITIATIVE TRANSITION TEAMS</h3>
-			<p>	to launch the 2016/17 Puget Sound Action Agenda update. We are forming three interdisciplinary Transition Teams, and we’re seeking applications from qualified experts to volunteer to participate. Applications are due 11:59 p.m., Sunday, July 19, 2015.		</p>	</div>
+				<p> to launch the 2016/17 Puget Sound Action Agenda update. We are forming three interdisciplinary Transition Teams, and we’re seeking applications from qualified experts to volunteer to participate. Applications are due 11:59 p.m., Sunday, July 19, 2015. </p>
+			</div>
 			<div class="highlightbox margin-20-top">
 				<h3>6/11/2015 - Action Agenda Strategic Initiative Update Workgroup Recommendations </h3>
 				<p>Looking for a way to offer your input into how Puget Sound recovery progresses? A draft report has been prepared with recommendations for focusing Puget Sound recovery investments over the next two years. You are invited to read the report and send us your comments by July 10, 2015.</p>
@@ -93,7 +105,6 @@
 				<p><strong> Public Comments are closed</strong> </p>
 			</div>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
@@ -133,4 +144,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
