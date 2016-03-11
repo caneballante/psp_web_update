@@ -81,7 +81,8 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX 1--><strong>3.11.16</strong><br> 
+						<!--news content BOX 1--><strong>3.11.16</strong><br>
+						<br> 
 						<a href="https://pspwa.box.com/s/u4r5jdzgsij4ucvqhjscfa9z94ya5whh">LIST OF 2016 NEAR TERM ACTIONS NOW AVAILABLE </a><br>
 <!--END news content BOX 1--> 
 					</div>
@@ -92,7 +93,8 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX 2--><!--END news content BOX 2--> 
 						
-						<strong>3.11.16</strong><br> 
+						<strong>3.11.16<br>
+						</strong><br> 
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13b9c15">LEARN ABOUT THE 2016 ACTION AGENDA UPDATE: OPEN HOUSES COMING SOON </a><br>
 					</div>
 				</div>
@@ -100,7 +102,8 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX 3--><strong>3	.11.16</strong><br> 
+						<!--news content BOX 3--><strong>3	.11.16<br>
+						</strong><br> 
 						<a href="https://app.smartsheet.com/b/form?EQBCT=29fe202e3dc74ee69cef305254788d95">HAVE A SUGGESTION FOR IMPROVING ACTION AGENDA PROCESSES?</a><br>
 						<!--END news content BOX 3--> 
 						
@@ -111,7 +114,8 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX 1--> 
-						<strong>LEGISLATIVE SESSION </strong><br>
+						<strong>LEGISLATIVE SESSION<br>
+						</strong><br>
 						<a href="legislative_updates.php">VIEW THE CALENDAR AND THE LEGISLATIVE UPDATES FOR THE 2016 LEGISLATVE SESSION</a><br>
 
 						<!--END news content BOX 1--> 
