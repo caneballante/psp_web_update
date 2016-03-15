@@ -70,7 +70,8 @@
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
 			<div class="highlightbox">
 				<h3>3/11/2016 - LIST OF 2016 NEAR TERM ACTIONS NOW AVAILABLE</h3>
-<p><a href="https://pspwa.box.com/s/u4r5jdzgsij4ucvqhjscfa9z94ya5whh">View the NTA lists, analysis and other information. These lists will be part of the Draft Action Agenda.</a></p>
+<p>The Strategic Initiative Teams have completed their review, scoring and ranking of nearly 400 Near Term Action proposals submitted by partners from across the Puget Sound region. <a href="https://pspwa.box.com/s/u4r5jdzgsij4ucvqhjscfa9z94ya5whh"><br>
+	View the NTA lists</a></p>
 				
 			</div><div class="highlightbox margin-20-top">
 				<h3>3/11/2016 - PUBLIC COMMENT PERIOD BEGINS SOON</h3>

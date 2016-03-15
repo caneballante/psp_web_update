@@ -159,6 +159,14 @@
 				<li role="presentation"><a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn">Phase One Estuaries Implementation Strategy Materials</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Phase One Shellfish Bed Implementation Strategy Materials</a></li>
+				<li role="presentation">
+				<a href="https://pspwa.box.com/s/gv9mzz427y0de8pd19qk90ib5t4a3074">Implementation Strategy Timeline</a></li>
+				<a href="https://pspwa.box.com/s/w32u39mmbpkn5u6rttb3iogvl52hiwpi">Implementation Strategy Team Selection Summary and Rosters</a></li>
+			
+				
+				
+				
+				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
