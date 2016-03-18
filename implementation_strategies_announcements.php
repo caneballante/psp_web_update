@@ -63,7 +63,7 @@
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2>NEW ANNOUNCEMENTS</h2>
+			<h2 class="padding-0-top margin-0-top">NEW ANNOUNCEMENTS</h2>
 			<!-- ANNOUNCEMENT START --->
 			<div class="highlightbox">
 				<h3>Save the Dates: Implementation Strategy Workshops </h3>

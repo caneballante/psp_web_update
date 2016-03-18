@@ -102,9 +102,9 @@
 				<tr>
 					<td width="78"><p>June 8</p></td>
 					<td><p>(Joint meeting with the Salmon Recovery Council)<br>
-South Seattle Community College - Georgetown campus<br>
-6737 Corson Ave. South <br>
-Seattle, WA 98108</p></td>
+							South Seattle Community College - Georgetown campus<br>
+							6737 Corson Ave. South <br>
+							Seattle, WA 98108</p></td>
 					<td><p><a href="https://pspwa.box.com/s/vw4ba6cno6cnc8dp5w95jmp1rio7lkt3" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
@@ -114,21 +114,21 @@ Seattle, WA 98108</p></td>
 							Edmonds, WA 98020</p></td>
 					<td><p><a href="https://pspwa.box.com/s/d7ydgiyex4esz9eeuv97ns8jv68vkofe" target="new">Meeting Materials</a></p></td>
 				</tr>
-					<tr>
+				<tr>
 					<td width="78"><p>September 22</p></td>
 					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
 							410 4th Ave N, <br />
 							Edmonds, WA 98020</p></td>
 					<td><p><a href="https://pspwa.box.com/s/5lc5nkc99vw20mcinbtxjtbsn149hsxa" target="new">Meeting Materials</a></p></td>
 				</tr>
-					<tr>
-					<td width="78"><p>October 19-20</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
-							410 4th Ave N, <br />
-							Edmonds, WA 98020</p></td>
+				<tr>
+					<td width="78"><p>October 18-19</p></td>
+					<td><p><a href="http://www.seabeck.org/">Seabeck Conference Center</a><br />
+							13395 Lagoon Drive NW, <br>
+							Seabeck, WA  98380</p></td>
 					<td><p><a href="https://pspwa.box.com/s/hdtjpbf76ywd34s56qgg5223x37xenyp" target="new">Meeting Materials</a></p></td>
 				</tr>
-					<tr>
+				<tr>
 					<td width="78"><p>December 1</p></td>
 					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
 							410 4th Ave N, <br />

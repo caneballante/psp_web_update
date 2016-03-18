@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,9 +41,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -51,8 +52,7 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
@@ -60,7 +60,6 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Ecosystem Coordination Board's main role is to advise the Puget Sound Partnership&rsquo;s Leadership Council on carrying out its responsibilities. The Board is made up of 27 members representing specific interests around the Sound.</p>
 			<p><strong>Chair: </strong>Will Hall <br />
@@ -110,8 +109,7 @@
 				            Dave Somers <em>Snohomish County Executive</em><br>
 				            Helen Price Johnson (alternate) Island County Commissioner</p>
 			<p>Port Districts<br>
-				            Vacant<br>
-				            Mike McAuley (alternate) <em>Port of Bellingham</em></p>
+				           Mike McAuley <em>Port of Bellingham</em></p>
 			<p>Tribal Government<br>
 				            David Troutt <em>Nisqually Tribe</em><br>
 				            Jeff Dickison (alternate) <em>Squaxin Island Tribe</em></p>
@@ -159,13 +157,12 @@
 				            Kaaren Lewis –<em>Assistant Deputy Minister of Environmental Sustainability, BC Public Service</em><br>
 				            Dave Marshall (alternate) – <em>Fraser Basin Council</em></p>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li>
+				<li>
 					<?php include 'includes/board_contact.html';?>
 				</li>
 				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li>
@@ -198,4 +195,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
