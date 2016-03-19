@@ -78,6 +78,10 @@ $num=$stmt->rowCount();
 	
     			<?php include('includes/media_contact.html')?> 
 	  <h2>Latest News Releases</h2>
+	  <!--news content BOX--><strong>3.18.16</strong><br>
+						NEWS RELEASE<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13dc539">						Science Panel hears recovery funding update; Salmon Recovery Council discusses ecosystem recovery plans </a><br>
+						<!--END news content BOX--> 
 	  <div class="news">
 	<table class="table table-responsive table-striped">             
 <?php

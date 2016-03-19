@@ -81,31 +81,32 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX 1--><strong>3.11.16</strong><br>
-						<br> 
-						<a href="https://pspwa.box.com/s/u4r5jdzgsij4ucvqhjscfa9z94ya5whh">LIST OF 2016 NEAR TERM ACTIONS NOW AVAILABLE </a><br>
-<!--END news content BOX 1--> 
+						<!--news content BOX--><strong>3.18.16</strong><br>
+						NEWS RELEASE<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13dc539">						Science Panel hears recovery funding update; Salmon Recovery Council discusses ecosystem recovery plans </a><br>
+						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX 2--><!--END news content BOX 2--> 
+						<!--news content BOX--><strong>3.11.16</strong><br>
+						ACTION AGENDA<br>
+						<a href="https://pspwa.box.com/s/u4r5jdzgsij4ucvqhjscfa9z94ya5whh">LIST OF 2016 NEAR TERM ACTIONS NOW AVAILABLE </a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						
 						<strong>3.11.16<br>
-						</strong><br> 
+						</strong>ACTION AGENDA<br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13b9c15">LEARN ABOUT THE 2016 ACTION AGENDA UPDATE: OPEN HOUSES COMING SOON </a><br>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX 3--><strong>3	.11.16<br>
-						</strong><br> 
-						<a href="https://app.smartsheet.com/b/form?EQBCT=29fe202e3dc74ee69cef305254788d95">HAVE A SUGGESTION FOR IMPROVING ACTION AGENDA PROCESSES?</a><br>
-						<!--END news content BOX 3--> 
+						<!--END news content BOX--> 
 						
 					</div>
 				</div>
@@ -113,12 +114,10 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX 1--> 
-						<strong>LEGISLATIVE SESSION<br>
-						</strong><br>
-						<a href="legislative_updates.php">VIEW THE CALENDAR AND THE LEGISLATIVE UPDATES FOR THE 2016 LEGISLATVE SESSION</a><br>
-
-						<!--END news content BOX 1--> 
+						<!--news content BOX--><strong>3	.11.16<br>
+						</strong>ACTION AGENDA<br>
+						<a href="https://app.smartsheet.com/b/form?EQBCT=29fe202e3dc74ee69cef305254788d95">HAVE A SUGGESTION FOR IMPROVING ACTION AGENDA PROCESSES?</a><br>
+						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
@@ -126,48 +125,45 @@
 		<div class="row light-blue-fill">
 			<div class="col-md-3">
 				<div class="newsbox"> 
-					<!--news content BOX 5-->
+					<!--news content BOX-->
 					<div class="newsbox-date">MAR<br>
-24</div>
+						24</div>
 					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-EDMOND CENTER FOR THE ARTS </a><br>
+						EDMOND CENTER FOR THE ARTS </a><br>
 					</div>
-					<!--END news content BOX 5--> 
+					<!--END news content BOX--> 
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox"> 
-					<!--news content BOX 6-->
+					<!--news content BOX-->
 					<div class="newsbox-date">APR<br>
-4</div>
+						4</div>
 					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-SOUTH SEATTLE COMMUNITY COLLEGE,<br>
-GEORGETOWN CAMPUS </a><br>
+						SOUTH SEATTLE COMMUNITY COLLEGE,<br>
+						GEORGETOWN CAMPUS </a><br>
 					</div>
-					<!--END news content BOX 6--> 
+					<!--END news content BOX--> 
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox"> 
-					<!--news content BOX 7-->
-					<div class="newsbox-date">APR<br> 
-						12
-</div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SCIENCE PANEL, <br> 
+					<!--news content BOX-->
+					<div class="newsbox-date">APR<br>
+						12 </div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SCIENCE PANEL, <br>
 						VANCOUVER, BC<br>
-						SALISH SEA ECOSYTEM CONFERENCE
-					</a></div>
-					<!--END news content BOX 7--> 
+						SALISH SEA ECOSYTEM CONFERENCE </a></div>
+					<!--END news content BOX--> 
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content BOX 8-->
-					<div class="newsbox-date">APR<br> 
-					28-29
-</div>
+					<div class="newsbox-date">APR<br>
+						28-29 </div>
 					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
-LOCATION: TBD </a><br>
+						LOCATION: TBD </a><br>
 					</div>
 					<!--END news content BOX 8--> 
 				</div>
@@ -185,7 +181,7 @@ LOCATION: TBD </a><br>
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script>
+<script src="js/custom.js"></script> 
 <!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
