@@ -49,7 +49,7 @@
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>IMPLEMENTATION STRATEGIES</h1>
-			<h1><br>
+			
 			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -66,8 +66,8 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 		
-			<p><strong><br>
-			Implementation Strategies</strong>(referred to here as &quot;Strategies&quot;) are plans for achieving the 2020 <a href="action_agenda_targets.php">Ecosystem Recovery Targets</a> for the <a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a>. </p>
+			<p><strong>
+			Implementation Strategies</strong> (referred to here as &quot;Strategies&quot;) are plans for achieving the 2020 <a href="action_agenda_targets.php">Ecosystem Recovery Targets</a> for the <a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a>. </p>
 			<p>Each plan accomplishes the following:</p>
 			<ul>
 			    <li>Identifies      priority approaches for achieving a specific recovery target</li>
