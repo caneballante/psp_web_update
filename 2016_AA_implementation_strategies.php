@@ -83,7 +83,7 @@
 			 <p> The Estuaries and Chinook Vital Signs are also primarily linked to the<a href="https://pspwa.box.com/s/pekkfqwd3yrei3owp7z0hv1ln7gzfpb7">Habitat Strategic Initiative</a>&nbsp;in the Puget Sound Action Agenda, while the Shellfish Beds Strategy is linked to the&nbsp;<a href="https://pspwa.box.com/s/wq6u6hencdsndpf0qowrfkhimz1dke87">Shellfish Strategic Initiative.</a></p>
 			  <p>The Estuary and Shellfish Bed Strategies are being used to establish priorities for action within the Habitat and Shellfish Strategic Initiatives for the&nbsp;<a href="http://psp.wa.gov/2016_AA_update.php">2016 Action Agenda update</a>, currently under development.</p>
 			  <p>These pilot Strategies are testing approaches and generating findings that are contributing to a guidance document for development of future Strategies.</p>
-		    <p>Phase one of the Estuaries and Shellfish Beds Strategies were completed in early. We expect the Chinook Strategy to be completed in December 2016.</p>
+		    <p>Phase one of the Estuaries and Shellfish Beds Strategies were completed in August 2015. We expect the Chinook Strategy to be completed in December 2016.</p>
 <h2>IMPLEMENTATION STRATEGIES FOR THE 2018 ACTION AGENDA SELECTED</h2>
 			<p>In October 2015, the Leadership Council identified the following six Vital Signs on which to focus for upcoming Strategy development:</p>
             <ul type="disc">
