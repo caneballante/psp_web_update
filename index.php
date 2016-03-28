@@ -70,6 +70,7 @@
 		<div class="col-md-3 padding-40-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
+				<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS</a></div>
 			<div class="padding-5-bottom"><a href="legislative_updates.php">2016&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			<div class="padding-5-bottom"><a href="econet.php">ECO NET </a> </div>
 		</div>
@@ -81,31 +82,31 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX--><strong>3.18.16</strong><br>
-						NEWS RELEASE<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13dc539">						Science Panel hears recovery funding update; Salmon Recovery Council discusses ecosystem recovery plans </a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX--><strong>3.11.16</strong><br>
-						ACTION AGENDA<br>
-						<a href="https://pspwa.box.com/s/u4r5jdzgsij4ucvqhjscfa9z94ya5whh">LIST OF 2016 NEAR TERM ACTIONS NOW AVAILABLE </a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						
-						<strong>3.11.16<br>
+						<strong>3.24.16<br>
 						</strong>ACTION AGENDA<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13b9c15">LEARN ABOUT THE 2016 ACTION AGENDA UPDATE: OPEN HOUSES COMING SOON </a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13f10d0">Public invited to learn about Draft 2016 Action Agenda for Puget Sound</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX--><strong>3.18.16</strong><br>
+						NEWS RELEASE<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13dc539"> Science Panel hears recovery funding update; Salmon Recovery Council discusses ecosystem recovery plans </a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --><strong>3.11.16</strong><br>
+						ACTION AGENDA<br>
+						<a href="https://pspwa.box.com/s/u4r5jdzgsij4ucvqhjscfa9z94ya5whh">LIST OF 2016 NEAR TERM ACTIONS NOW AVAILABLE </a><br>
 						<!--END news content BOX--> 
 						
 					</div>
@@ -125,11 +126,12 @@
 		<div class="row light-blue-fill">
 			<div class="col-md-3">
 				<div class="newsbox"> 
-					<!--news content BOX-->
-					<div class="newsbox-date">MAR<br>
-						24</div>
+				<!--news content BOX-->
+					<div class="newsbox-date">APR<br>
+						4</div>
 					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-						EDMOND CENTER FOR THE ARTS </a><br>
+						SOUTH SEATTLE COMMUNITY COLLEGE,<br>
+						GEORGETOWN CAMPUS </a><br>
 					</div>
 					<!--END news content BOX--> 
 				</div>
@@ -151,7 +153,7 @@
 					<!--news content BOX-->
 					<div class="newsbox-date">APR<br>
 						12 </div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SCIENCE PANEL, <br>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
 						VANCOUVER, BC<br>
 						SALISH SEA ECOSYTEM CONFERENCE </a></div>
 					<!--END news content BOX--> 

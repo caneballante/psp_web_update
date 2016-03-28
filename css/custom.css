@@ -343,7 +343,7 @@ p {
 .highlightbox {
 	background-color: rgba(227,237,249,1.00);
 	border-radius: 1px 30px 1px 30px;
-	padding: 10px;
+	padding: 30px;
 }
 .highlightbox h2 {
 	color: #0a3b5c;

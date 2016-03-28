@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,8 +27,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 6;
-</script> 
-
+</script>
 <?php
 include_once('.newinclude.php');
 $con=new MyPDO();
@@ -50,9 +50,9 @@ $num=$stmt->rowCount();
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image12"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -62,28 +62,26 @@ $num=$stmt->rowCount();
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include 'includes/ln-psp-overview.html';?>	
-				
+				<?php include 'includes/ln-psp-overview.html';?>
 				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		
-	
-    			<?php include('includes/media_contact.html')?> 
-	  <h2>Latest News Releases</h2>
-	  <!--news content BOX--><strong>3.18.16</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13dc539">						Science Panel hears recovery funding update; Salmon Recovery Council discusses ecosystem recovery plans </a><br>
-						<!--END news content BOX--> 
-	  <div class="news">
-	<table class="table table-responsive table-striped">             
-<?php
+			<?php include('includes/media_contact.html')?>
+			<h2>Latest News Releases</h2>
+			<strong>3.24.16<br>
+			</strong><br>
+			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13f10d0">Public invited to learn about Draft 2016 Action Agenda for Puget Sound</a><br>
+			<!--news content BOX--><strong>3.18.16</strong><br>
+			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13dc539"> Science Panel hears recovery funding update; Salmon Recovery Council discusses ecosystem recovery plans </a><br>
+			<!--END news content BOX-->
+			<div class="news">
+				<table class="table table-responsive table-striped">
+					<?php
 $rows=$stmt->fetchAll(PDO::FETCH_NUM);
 #print_r($rows);
 #setlocale(LC_ALL, 'en_US');
@@ -93,19 +91,17 @@ ini_set('mbstring.substitute_character', 32);
 $row[$rw]=mb_convert_encoding(stripslashes($val), 'UTF-8', 'UTF-8');}
 #$row[$rw]=iconv("UTF-8", "ISO-8859-1//IGNORE", $row[$rw]);
 ?>
-<tr><td width="70">     
-<?php echo $row[1]; ?></td>
-<td><?php echo "<a href='http://www.psp.wa.gov/pressreleases/partnership_release.php?id=".$row[0]."'target='new'>".$row[2]."</a></td><td>";	
+					<tr>
+						<td width="70"><?php echo $row[1]; ?></td>
+						<td><?php echo "<a href='http://www.psp.wa.gov/pressreleases/partnership_release.php?id=".$row[0]."'target='new'>".$row[2]."</a></td><td>";	
 #if(!empty($row[3])) { echo $row[3]."</td>";} else {echo "</td>";}
 }
 }
-?></tr>
-	  						</table>
-</div>		
-		
-		
-		<!-- InstanceEndEditable --> </div>
-		
+?>
+					</tr>
+				</table>
+			</div>
+			<!-- InstanceEndEditable --> </div>
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
@@ -133,4 +129,5 @@ $row[$rw]=mb_convert_encoding(stripslashes($val), 'UTF-8', 'UTF-8');}
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
