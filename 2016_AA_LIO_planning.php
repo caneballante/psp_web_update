@@ -76,15 +76,15 @@
 					<strong>September deliverable: </strong>First Elements of the Ecosystem Recovery Plan</li>
 				<li><strong>September to December 2015:</strong> LIOs solicited, reviewed, and approved proposed Near Term Actions. <br>
 					<strong>December deliverables: </strong>2-year Implementation Plan and draft NTAs</li>
-				<li><strong>January to February 2016:</strong> Regional Strategic Initiative Teams evaluated the proposed NTAs; LIOs worked with local NTA owners to revise NTAs, if needed.<br>
+				<li><strong>January to February 2016:</strong> Regional Strategic Initiative Transition Teams evaluated the proposed NTAs; LIOs worked with local NTA owners to revise NTAs, if needed.<br>
 					<strong>February deliverable:</strong> Final NTAs</li>
-				<li><strong>March to September 2016.</strong> LIOs complete development of the comprehensive Ecosystem Recovery Plans.
-				<li><strong>September deliverable:</strong> Final Ecosystem Recovery Plan</li>
+				<li><strong>March to September 2016.</strong> LIOs continue development of the comprehensive Ecosystem Recovery Plans.
+				<li><strong>September deliverable:</strong> Draft Ecosystem Recovery Plan</li>
 			</ul>
-			<p><a href="https://pspwa.box.com/s/a8vn1ml8p9ljvsak2argmeexherg0yvg">Read more details about LIO planning:</a></p>
+			<p>Read more details about LIO planning:</p>
 			<ul>
 				<li>Templates and guidance documents to develop plans and NTAs</li>
-				<li>Current LIO planning documents, including:</li>
+				<li><a href="https://pspwa.app.box.com/notes/58105724105?s=a8vn1ml8p9ljvsak2argmeexherg0yvg">Current LIO planning documents</a>, including:</li>
 				<ul>
 					<li>LIO Profiles</li>
 					<li>First Elements of 5-year Ecosystem Recovery Plans</li>

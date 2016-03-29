@@ -70,7 +70,7 @@
 		<div class="col-md-3 padding-40-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
-				<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS</a></div>
+			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS</a></div>
 			<div class="padding-5-bottom"><a href="legislative_updates.php">2016&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			<div class="padding-5-bottom"><a href="econet.php">ECO NET </a> </div>
 		</div>
@@ -84,9 +84,10 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						
-						<strong>3.24.16<br>
+						<strong>3.28.16<br>
 						</strong>ACTION AGENDA<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13f10d0">Public invited to learn about Draft 2016 Action Agenda for Puget Sound</a><br>
+						<a href="http://PugetSoundActionAgendaUpdate.publicmeeting.info">DRAFT ACTION AGENDA AVAILABLE FOR PUBLIC COMMENT</a><br>
+						
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -104,10 +105,14 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX --><strong>3.11.16</strong><br>
-						ACTION AGENDA<br>
-						<a href="https://pspwa.box.com/s/u4r5jdzgsij4ucvqhjscfa9z94ya5whh">LIST OF 2016 NEAR TERM ACTIONS NOW AVAILABLE </a><br>
-						<!--END news content BOX--> 
+							<!--news content BOX-->
+					<div class="newsbox-date">APR<br>
+						4</div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+						S. SEATTLE COMMUNITY COLLEGE
+					</a><br>
+					</div>
+					<!--END news content BOX--> 
 						
 					</div>
 				</div>
@@ -115,10 +120,13 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX--><strong>3	.11.16<br>
-						</strong>ACTION AGENDA<br>
-						<a href="https://app.smartsheet.com/b/form?EQBCT=29fe202e3dc74ee69cef305254788d95">HAVE A SUGGESTION FOR IMPROVING ACTION AGENDA PROCESSES?</a><br>
-						<!--END news content BOX--> 
+						<div class="newsbox-date">APR<br>
+						4</div>
+					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+						S. SEATTLE COMMUNITY COLLEGE
+					</a><br>
+					</div>
+					<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
@@ -127,30 +135,6 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 				<!--news content BOX-->
-					<div class="newsbox-date">APR<br>
-						4</div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-						SOUTH SEATTLE COMMUNITY COLLEGE,<br>
-						GEORGETOWN CAMPUS </a><br>
-					</div>
-					<!--END news content BOX--> 
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content BOX-->
-					<div class="newsbox-date">APR<br>
-						4</div>
-					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-						SOUTH SEATTLE COMMUNITY COLLEGE,<br>
-						GEORGETOWN CAMPUS </a><br>
-					</div>
-					<!--END news content BOX--> 
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content BOX-->
 					<div class="newsbox-date">APR<br>
 						12 </div>
 					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
@@ -161,7 +145,7 @@
 			</div>
 			<div class="col-md-3">
 				<div class="newsbox"> 
-					<!--news content BOX 8-->
+						<!--news content BOX 8-->
 					<div class="newsbox-date">APR<br>
 						28-29 </div>
 					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
@@ -170,6 +154,7 @@
 					<!--END news content BOX 8--> 
 				</div>
 			</div>
+		
 		</div>
 	</div>
 </div>
