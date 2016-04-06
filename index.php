@@ -77,21 +77,38 @@
 	</div>
 </div>
 <div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
-	<div class="container">
-		<div class="row margin-20-top">
+	<div class="container"> 
+		
+		<!--ROW START-->
+		<div class="row margin-20-top"> 
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						
-						<strong>3.28.16<br>
-						</strong>ACTION AGENDA<br>
-						<a href="http://PugetSoundActionAgendaUpdate.publicmeeting.info">DRAFT ACTION AGENDA AVAILABLE FOR PUBLIC COMMENT</a><br>
-						
+						<strong>4.6.16<br>
+						</strong> <a href="http://www.wwu.edu/salishseaconference/">2016 SALISH SEA ECOSYSTEM CONFERENCE<br>
+						VANCOUVER, BRITISH COLUMBIA<br>
+						APRIL 13-15, 2016  </a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>3.28.16<br>
+						</strong>ACTION AGENDA<br>
+						<a href="http://PugetSoundActionAgendaUpdate.publicmeeting.info">DRAFT ACTION AGENDA AVAILABLE FOR PUBLIC COMMENT</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
@@ -102,39 +119,16 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-							<!--news content BOX-->
-					<div class="newsbox-date">APR<br>
-						4</div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-						S. SEATTLE COMMUNITY COLLEGE
-					</a><br>
-					</div>
-					<!--END news content BOX--> 
-						
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<div class="newsbox-date">APR<br>
-						4</div>
-					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-						S. SEATTLE COMMUNITY COLLEGE
-					</a><br>
-					</div>
-					<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
+			<!--COLUMN END--> 
 		</div>
-		<div class="row light-blue-fill">
+		<!--ROW END--> 
+		<!--ROW START-->
+		<div class="row light-blue-fill"> 
+			
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
-				<!--news content BOX-->
+					<!--news content BOX-->
 					<div class="newsbox-date">APR<br>
 						12 </div>
 					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
@@ -143,21 +137,53 @@
 					<!--END news content BOX--> 
 				</div>
 			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
-						<!--news content BOX 8-->
+					<!--news content -->
 					<div class="newsbox-date">APR<br>
 						28-29 </div>
 					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
 						LOCATION: TBD </a><br>
 					</div>
-					<!--END news content BOX 8--> 
+					<!--END news content--> 
 				</div>
 			</div>
-		
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content -->
+					<div class="newsbox-date">MAY<br>
+						19 </div>
+					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD MEETING, <br>
+						EDMOND CENTER FORTHE ARTS</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content-->
+					<div class="newsbox-date">MAY<br>
+						26</div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL MEETING, <br>
+						EDMOND CENTER FORTHE ARTS</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
 		</div>
+		<!--ROW END--> 
 	</div>
+	<!--CONTAINER END--> 
+	
 </div>
+<!--CONTAINER END--> 
 
 <!-- FOOTER INCLUDE -->
 <?php include 'includes/footer-inc.html';?>
