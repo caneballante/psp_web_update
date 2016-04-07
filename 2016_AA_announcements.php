@@ -67,8 +67,16 @@
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		
+			
+			
+			
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
-				<div class="highlightbox">
+			<div class="highlightbox margin-0-top">
+				<h3>4/1/2016 - Recruitment Notice</h3>
+				<p> <a href="https://pspwa.box.com/s/4eikw4jlyycaypz71gqla7v1pt63d3va">Seeking technical and policy experts to serve on Strategic Initiative Advisory Teams in support of Puget Sound Recovery (Deadline: 4/19/16) </a></p>
+			</div>
+				<div class="highlightbox margin-20-top">
 				<h3>3/28/2016 - Draft 2016 Action Agenda available for public comment</h3>
 
 <p>The <a href="http://PugetSoundActionAgendaUpdate.publicmeeting.info">Draft 2016 Action Agenda for Puget Sound</a> is now available for public review and comment. The public comment period closes midnight, April 29, 2016. </p>

@@ -67,13 +67,14 @@
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			
-			
-					<div class="highlightbox">
+			<div class="highlightbox">
 				<h3>3/28/2016 - DRAFT 2016 ACTION AGENDA AVAILABLE FOR PUBLIC COMMENT</h3>
 				<p>The Draft 2016 Action Agenda for Puget Sound is now available for public review and comment. The public comment period closes midnight, April 29, 2016. Learn about the draft and submit your comments through our online open house, at <a href="http://www.PugetSoundActionAgendaUpdate.publicmeeting.info">PugetSoundActionAgendaUpdate.publicmeeting.info</a> </p>
 			</div>
-			
+			<div class="highlightbox margin-10-top">
+				<h3>4/1/2016 - Recruitment Notice</h3>
+				<p> <a href="https://pspwa.box.com/s/4eikw4jlyycaypz71gqla7v1pt63d3va">Seeking technical and policy experts to serve on Strategic Initiative Advisory Teams in support of Puget Sound Recovery (Deadline: 4/19/16) </a></p>
+			</div>
 			<h2 class="margin-20-top">What is in the Action Agenda?</h2>
 			<p> Several years of <strong>research and effort</strong> have shown three areas of focus that deliver the most progress toward recovery for dollars invested. Termed &ldquo;Strategic Initiatives&rdquo; these <strong>three priority areas</strong> form the basis of the Action Agenda for 2016.</p>
 			<p>The Action Agenda addresses each <strong>Strategic Initiative</strong> by setting targets for recovery that are based on scientific understandings of the ecosystem. The <strong>recovery targets</strong> are used to <strong>guide revisions</strong> to the Action Agenda, <strong>focus actions</strong> to be accomplished right away (<strong>Near Term Actions</strong>), <strong>recommend allocations</strong> of funding and other resources to specific strategies and actions, and <strong>evaluate</strong> Action Agenda implementation.</p>
