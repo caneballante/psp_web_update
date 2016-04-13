@@ -89,9 +89,10 @@
 				<tr>
 					<td class=""><p>May 19</p>
 						<p>&nbsp;</p></td>
-					<td class=""><p>Edmond Center for the Arts<br>
-410 Fourth Ave N<br>
-Edmonds, WA 98020</p></td>
+					<td class=""><p>General Administration (GA) Building, Auditorium<br />
+                    Washington State Capitol Campus<br />
+                     210 - 11th Avenue SW<br />
+                      Olympia, WA 98501</p></td>
 					<td class=""><p><a href="https://pspwa.box.com/s/3ikfsqg753lx1s98at76y2fv3xko6knf" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
