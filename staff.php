@@ -289,9 +289,9 @@
 			<h5>Alexandra Doty</h5>
 			<p> ECO Net Coordinator<br />
 				360.339.5853 | <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
-			<h5>Emily Sanford</h5>
+			<h5>Vacant</h5>
 			<p> Environmental Planner<br />
-				360.628.2426 | <a href="mailto:emily.sanford@psp.wa.gov">emily.sanford@psp.wa.gov</a></p>
+			</p>
 			<h5>Dave Ward</h5>
 			<p> Social Strategies Manager<br />
 				425.457.1157 | <a href="mailto:dave.ward@psp.wa.gov">dave.ward@psp.wa.gov</a></p>
