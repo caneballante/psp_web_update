@@ -86,11 +86,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>4.6.16<br>
-						</strong> CONFERENCE<br>
-					 <a href="http://www.wwu.edu/salishseaconference/">2016 SALISH SEA ECOSYSTEM CONFERENCE<br>
-						VANCOUVER, BRITISH COLUMBIA<br>
-						APRIL 13-15, 2016  </a><br>
+						<strong>4.18.16<br>
+						</strong> BLOG<br>
+					 <a href="http://www.psp.wa.gov/blog/?p=640">SAVING THE GREEN/DUWAMISH RIVER: A MAJOR OPPORTUNITY FOR PUGET SOUND RECOVERY </a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>

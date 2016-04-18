@@ -135,7 +135,7 @@
 				360.464.2009 | <a href="mailto:jennifer.burke@psp.wa.gov">Jennifer.Burke@psp.wa.gov</a></p>
 			<h5>Jon Bridgman</h5>
 			<p> Designer<br />
-				253.666.6290 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
+				206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
 			<h5>Erika Lari</h5>
 			<p> Designer<br />
 				253.348.2482 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
