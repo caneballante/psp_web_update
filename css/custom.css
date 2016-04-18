@@ -60,7 +60,7 @@ a[href^="http"] {
 }
 /*add this style to links that are on the dark blue background*/
 .light-blue-links a {
-	color: #1590cd;
+	color: #2caaed;
 }
 #home-squares a {
 	font-size: 14px;
@@ -423,7 +423,7 @@ intro .brand-heading {
 }
 /*blue link color needs to be lighter on the dark blue*/
 #myModal a {
-	color: #1590cd;
+	color: #2caaed;
 	font-size: 16px
 }
 /*the search text turns white from modal-body-custom I turn it black here*/
