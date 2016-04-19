@@ -92,7 +92,9 @@
 				
 				<tr>
 					<td><p>June 29-30</p></td>
-					<td><p>TBD</p></td>
+					<td><p>South Seattle Community College - Georgetown campus<br>
+						6737 Corson Ave. South<br>
+					Seattle, WA 98108</p></td>
 					<td><a href="https://pspwa.box.com/s/dz24unsga89ffo4yzlctm4ww7q7xej7l" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>

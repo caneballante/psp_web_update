@@ -158,7 +158,7 @@
 					<div class="newsbox-date">APR<br>
 						28-29 </div>
 					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
-						LOCATION: TBD </a><br>
+						LOCATION: SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
