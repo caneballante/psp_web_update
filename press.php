@@ -73,6 +73,9 @@ $num=$stmt->rowCount();
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<?php include('includes/media_contact.html')?>
 			<h2>Latest News Releases</h2>
+			<strong>4.21.16<br>
+			</strong><br>
+			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/144c2ff">Puget Sound Partnership media advisory: Leadership Council to hear status of resident orca, updates to 2016 Action Agenda </a><br>
 			<strong>3.24.16<br>
 			</strong><br>
 			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13f10d0">Public invited to learn about Draft 2016 Action Agenda for Puget Sound</a><br>

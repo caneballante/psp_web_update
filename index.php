@@ -85,16 +85,30 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>4.18.16<br>
-						</strong> BLOG<br>
-					 <a href="http://www.psp.wa.gov/blog/?p=640">SAVING THE GREEN/DUWAMISH RIVER: A MAJOR OPPORTUNITY FOR PUGET SOUND RECOVERY </a><br>
+						<!--news content BOX--> 
+						
+						<strong>4.21.16</strong><br>
+						NEWS RELEASE<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/144c2ff">Puget Sound Partnership media advisory: Leadership Council to hear status of resident orca, updates to 2016 Action Agenda </a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
 			<!--COLUMN END--> 
-						<!--COLUMN START-->
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>4.18.16<br>
+						</strong> BLOG<br>
+						<a href="http://www.psp.wa.gov/blog/?p=640">SAVING THE GREEN/DUWAMISH RIVER: A MAJOR OPPORTUNITY FOR PUGET SOUND RECOVERY </a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
@@ -107,7 +121,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-
+			
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
@@ -121,36 +135,13 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX--><strong>3.18.16</strong><br>
-						NEWS RELEASE<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/13dc539"> Science Panel hears recovery funding update; Salmon Recovery Council discusses ecosystem recovery plans </a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+			
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
 			
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content BOX-->
-					<div class="newsbox-date">APR<br>
-						12 </div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-						VANCOUVER, BC<br>
-						SALISH SEA ECOSYTEM CONFERENCE </a></div>
-					<!--END news content BOX--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
+	
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
@@ -161,6 +152,18 @@
 						LOCATION: SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
 					</div>
 					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+					<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content BOX-->
+					<div class="newsbox-date">MAY<br>
+						11 </div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+						WASHINGTON STATE UNIVERSITY RESEARCH CENTER</a></div>
+					<!--END news content BOX--> 
 				</div>
 			</div>
 			<!--COLUMN END--> 
