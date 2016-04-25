@@ -73,7 +73,7 @@
 			</div>
 			<div class="highlightbox margin-10-top">
 				<h3>4/1/2016 - Recruitment Notice</h3>
-				<p> <a href="https://pspwa.box.com/s/4eikw4jlyycaypz71gqla7v1pt63d3va">Seeking technical and policy experts to serve on Strategic Initiative Advisory Teams in support of Puget Sound Recovery (Deadline: 4/19/16) </a></p>
+				<p> <a href="https://pspwa.box.com/s/4eikw4jlyycaypz71gqla7v1pt63d3va">Seeking technical and policy experts to serve on Strategic Initiative Advisory Teams in support of Puget Sound Recovery (Deadline: 5/2/16) </a></p>
 			</div>
 			<h2 class="margin-20-top">What is in the Action Agenda?</h2>
 			<p> Several years of <strong>research and effort</strong> have shown three areas of focus that deliver the most progress toward recovery for dollars invested. Termed &ldquo;Strategic Initiatives&rdquo; these <strong>three priority areas</strong> form the basis of the Action Agenda for 2016.</p>

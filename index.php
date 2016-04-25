@@ -115,7 +115,7 @@
 						<!--news content BOX --> 
 						<strong>4.1.16<br>
 						</strong> RECRUITMENT NOTICE<br>
-						<a href="https://pspwa.box.com/s/4eikw4jlyycaypz71gqla7v1pt63d3va">Seeking technical and policy experts to serve on Strategic Initiative Advisory Teams in support of Puget Sound Recovery (Deadline: 4/19/16) </a><br>
+						<a href="https://pspwa.box.com/s/4eikw4jlyycaypz71gqla7v1pt63d3va">Seeking technical and policy experts to serve on Strategic Initiative Advisory Teams in support of Puget Sound Recovery (Deadline: 5/2/16) </a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
