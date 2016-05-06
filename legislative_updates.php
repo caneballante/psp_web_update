@@ -69,6 +69,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">2016 Legislative Updates</h2>
 			<ul>
+            <li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/145e4a3">2016 Session Wrap-up</a></li>
             <li><a href="http://content.govdelivery.com/accounts/WAPSP/bulletins/138e220" target="_blank">Week 7 and 8 Update</a></li>
             <li><a href="http://content.govdelivery.com/accounts/WAPSP/bulletins/1361bf5" target="_blank">Week 5 and 6 Update</a></li>
 				<li><a href="http://content.govdelivery.com/accounts/WAPSP/bulletins/1341802" target="_blank">Week 4 Update</a></li>

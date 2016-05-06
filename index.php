@@ -81,6 +81,32 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+        <!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>5.5.16<br>
+						</strong>LEGISLATIVE UPDATES<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/145e4a3">2016 SESSION WRAP-UP</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END-->
+            <!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>5.5.16<br>
+						</strong>SCIENCE PANEL MEETING<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1478066">MEDIA ADVISORY: Puget Sound Partnership Science Panel to meet May 11, hear update on Biennial Science Work Plan</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
@@ -108,33 +134,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>4.1.16<br>
-						</strong> RECRUITMENT NOTICE<br>
-						<a href="https://pspwa.box.com/s/4eikw4jlyycaypz71gqla7v1pt63d3va">Seeking technical and policy experts to serve on Strategic Initiative Advisory Teams in support of Puget Sound Recovery (Deadline: 5/2/16) </a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
 			
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>3.28.16<br>
-						</strong>ACTION AGENDA<br>
-						<a href="http://PugetSoundActionAgendaUpdate.publicmeeting.info">DRAFT ACTION AGENDA AVAILABLE FOR PUBLIC COMMENT</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
 			
 		</div>
 		<!--ROW END--> 
