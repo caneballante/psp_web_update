@@ -87,8 +87,10 @@
 					<td><p><a href="https://pspwa.box.com/s/rwr5w2tzgvy2vt7tjns5a21ad1u0trc7" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td class=""><p>May 19</p>
-						<p>&nbsp;</p></td>
+					<td class=""><p>May 19<br>
+						Partner Summit: 9:30 am - 12:30 pm<br>
+						ECB Meeting: 1 pm - 4 pm					</p>
+					<p>&nbsp;</p></td>
 					<td class=""><p>General Administration (GA) Building, Auditorium<br />
                     Washington State Capitol Campus<br />
                      210 - 11th Avenue SW<br />
