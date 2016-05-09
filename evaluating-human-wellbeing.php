@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,9 +41,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image25"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -52,59 +53,48 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 				<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-eval-health.html';?>	
-			<!-- InstanceEndEditable -->
+				<?php include 'includes/ln-eval-health.html';?>
+				<!-- InstanceEndEditable -->
 			</ul>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-	<p>Of the Partnership’s six goals, specified in  Washington state statute, two address human wellbeing:</p> 
-<ul><li>A healthy human population supported by a healthy Puget Sound that is not threatened by changes in the ecosystem.</li>
-<li>A quality of human life that is sustained by a functioning Puget Sound ecosystem</li></ul>
-<p>In July 2015, the Partnership’s Leadership Council adopted nine new or revised Vital Signs with associated indicators for Human Health and Quality of Life. These Vital Signs address human wellbeing as it relates to people’s engagement with the natural environment of Puget Sound and include familiar aspects of human health that contribute to our wellbeing, such as physical and psychological health, as well as social, cultural, and economic wellbeing and governance, or the way that people participate in decisionmaking.</p> 
-<p>The effort to address human wellbeing within the context of our Puget Sound recovery goals falls within a broader attempt to better understand the aspects of ecosystem recovery that directly affect humans. Understanding the roles that people play helps to ensure a more complete, holistic, and ultimately more successful approach to achieving ecosystem recovery goals.</p>
-
-					
-						
-		<!-- InstanceEndEditable --> </div>
-		
+			<p>Of the Partnership’s six goals, specified in  Washington state statute, two address human wellbeing:</p>
+			<ul>
+				<li>A healthy human population supported by a healthy Puget Sound that is not threatened by changes in the ecosystem.</li>
+				<li>A quality of human life that is sustained by a functioning Puget Sound ecosystem</li>
+			</ul>
+			<p>In July 2015, the Partnership’s Leadership Council adopted nine new or revised Vital Signs with associated indicators for Human Health and Quality of Life. These Vital Signs address human wellbeing as it relates to people’s engagement with the natural environment of Puget Sound and include familiar aspects of human health that contribute to our wellbeing, such as physical and psychological health, as well as social, cultural, and economic wellbeing and governance, or the way that people participate in decisionmaking.</p>
+			<p>The effort to address human wellbeing within the context of our Puget Sound recovery goals falls within a broader attempt to better understand the aspects of ecosystem recovery that directly affect humans. Understanding the roles that people play helps to ensure a more complete, holistic, and ultimately more successful approach to achieving ecosystem recovery goals.</p>
+			<!-- InstanceEndEditable --> </div>
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-			
-					<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
-				
-						<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					
-					
-					
-			
-					<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
-						<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
-				
-			<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
-					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
-						<!-- InstanceEndEditable -->
+				<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/del7mc3w3dmmcyfwmmy9mlldm3zg4ipi" target="new">Human wellbeing Vital Signs</a></li>
+				<!--	<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>--> 
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
@@ -133,4 +123,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
