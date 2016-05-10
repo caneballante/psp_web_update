@@ -81,7 +81,7 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
-        <!--COLUMN START-->
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
@@ -93,20 +93,20 @@
 					</div>
 				</div>
 			</div>
-			<!--COLUMN END-->
-            <!--COLUMN START-->
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<strong>5.5.16<br>
 						</strong>SCIENCE PANEL MEETING<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1478066">MEDIA ADVISORY: Puget Sound Partnership Science Panel to meet May 11, hear update on Biennial Science Work Plan</a><br>
+						CANCELLED <br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
-			<!--COLUMN END-->
+			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
@@ -135,38 +135,11 @@
 			</div>
 			<!--COLUMN END--> 
 			
-			
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
 			
-	
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content -->
-					<div class="newsbox-date">APR<br>
-						28-29 </div>
-					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
-						LOCATION: SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-					<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content BOX-->
-					<div class="newsbox-date">MAY<br>
-						11 </div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-						WASHINGTON STATE UNIVERSITY RESEARCH CENTER</a></div>
-					<!--END news content BOX--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
@@ -188,6 +161,32 @@
 						26</div>
 					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL MEETING, <br>
 						EDMOND CENTER FORTHE ARTS</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content -->
+					<div class="newsbox-date">JUNE<br>
+						2 </div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL MEETING, <br>
+						WEBEX</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content-->
+					<div class="newsbox-date">MAY<br>
+						26</div>
+					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
+						SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
 					</div>
 					<!--END news content--> 
 				</div>

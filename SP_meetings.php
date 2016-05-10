@@ -92,10 +92,7 @@
 				</tr>
 				<tr>
 					<td ><p>May 11</p></td>
-					<td class=""><p>Washington State University Research Center<br />
-							Allmendinger Center<br />
-							2606 West Pioneer<br />
-							Puyallup, WA 98371</p></td>
+					<td class=""><p>CANCELLED</p></td>
 							<td class=""><a href="https://pspwa.box.com/s/8sek7lkq3gt016ow4gy4g0wvdhdin2tg" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
