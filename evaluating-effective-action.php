@@ -108,7 +108,7 @@
 					<td colspan="2" class="tablesubheader">Keeping shellfish beds open by reducing fecal coliform (Samish Basin)</td>
 				</tr>
 				<tr>
-					<td><iframe src="https://app.box.com/embed/preview/d1ghzzoh6oquks8v7xf3jn8u41l832fa?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
+					<td><iframe src="https://app.box.com/embed/preview/d1ghzzoh6oquks8v7xf3jn8u41l832fa?direction=ASC&theme=dark" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/d1ghzzoh6oquks8v7xf3jn8u41l832fa">Download the  Samish Basin fact sheet</a></p>
 					<p><a href="https://app.box.com/s/mbp6ddy24rulke4epmp8ul2xpc7rzeh1">Download the full Samish Basin background summary</a></p></td>
 				</tr>
@@ -128,7 +128,7 @@
 					<td colspan="2" class="tablesubheader">Selecting the best wet weather management actions (Seattle Public Utility)</td>
 				</tr>
 				<tr>
-					<td>&nbsp;</td>
+					<td><iframe src="https://app.box.com/embed/preview/xnb4wh704oqz8du0voozgwuaq2aeoowt?direction=ASC&theme=dark" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/aqxb4i45t2c2aurndkaffbtjub17l1vm">Download the Seattle Public Utility fact sheet</a></p>
 					<p><a href="https://pspwa.box.com/s/fo7kv23erzryfqety8h8squul4zurrx7">Download the full Seattle Public Utility background summary</a></p></td>
 				</tr>
