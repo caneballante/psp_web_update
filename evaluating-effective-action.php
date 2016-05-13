@@ -132,6 +132,14 @@
 					<td><p><a href="https://pspwa.box.com/s/aqxb4i45t2c2aurndkaffbtjub17l1vm">Download the Seattle Public Utility fact sheet</a></p>
 					<p><a href="https://pspwa.box.com/s/fo7kv23erzryfqety8h8squul4zurrx7">Download the full Seattle Public Utility background summary</a></p></td>
 				</tr>
+                <tr>
+                <tr>
+					<td colspan="2" class="tablesubheader">Comparing costs to reduce toxic pollution (City of Tacoma)</td>
+				</tr>
+				<tr>
+					<td><iframe src="https://app.box.com/embed/preview/r5q3kueo20wxkpb7sidp0lm4qohyhspc?direction=ASC&theme=dark" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
+					<td><p><a href="https://pspwa.box.com/s/r5q3kueo20wxkpb7sidp0lm4qohyhspc">Download the City of Tacoma fact sheet</a></p>
+					<p><a href="https://pspwa.box.com/s/r5q3kueo20wxkpb7sidp0lm4qohyhspc">Download the full City of Tacoma background summary</a></p></td></tr>
 			</table>
 			<br />
 			
