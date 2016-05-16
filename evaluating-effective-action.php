@@ -72,6 +72,7 @@
 		
 			<h3>STRATEGIC INITIATIVE: PREVENT POLLUTION FROM URBAN STORMWATER RUNOFF</h3>
 				<p><a href="#seattle">Selecting the best wet weather management actions (Seattle Public Utility)</a></p>
+                <p><a href="#tacoma">Comparing costs to reduce toxic pollution (City of Tacoma)</a></p>
 			<h3>STRATEGIC INITIATIVE: PROTECT AND RESTORE HABITAT</h3>
              
 				
@@ -129,7 +130,7 @@
 				</tr>
 				<tr>
 					<td><iframe src="https://app.box.com/embed/preview/xnb4wh704oqz8du0voozgwuaq2aeoowt?direction=ASC&theme=dark" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
-					<td><p><a href="https://pspwa.box.com/s/aqxb4i45t2c2aurndkaffbtjub17l1vm">Download the Seattle Public Utility fact sheet</a></p>
+					<a name="tacoma"></a><td><p><a href="https://pspwa.box.com/s/aqxb4i45t2c2aurndkaffbtjub17l1vm">Download the Seattle Public Utility fact sheet</a></p>
 					<p><a href="https://pspwa.box.com/s/fo7kv23erzryfqety8h8squul4zurrx7">Download the full Seattle Public Utility background summary</a></p></td>
 				</tr>
                 <tr>
@@ -139,7 +140,7 @@
 				<tr>
 					<td><iframe src="https://app.box.com/embed/preview/r5q3kueo20wxkpb7sidp0lm4qohyhspc?direction=ASC&theme=dark" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/r5q3kueo20wxkpb7sidp0lm4qohyhspc">Download the City of Tacoma fact sheet</a></p>
-					<p><a href="https://pspwa.box.com/s/r5q3kueo20wxkpb7sidp0lm4qohyhspc">Download the full City of Tacoma background summary</a></p></td></tr>
+					<p><a href="https://pspwa.box.com/s/wpoyhbidhspf5dh0wnfib2y2o34trkgl">Download the full City of Tacoma background summary</a></p></td></tr>
 			</table>
 			<br />
 			
