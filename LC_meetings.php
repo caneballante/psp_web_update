@@ -91,7 +91,7 @@
 				</tr>
 				
 				<tr>
-					<td><p>June 29-30</p></td>
+					<td><p>June 29</p></td>
 					<td><p>South Seattle Community College - Georgetown campus<br>
 						6737 Corson Ave. South<br>
 					Seattle, WA 98108</p></td>
