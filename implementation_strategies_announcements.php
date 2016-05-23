@@ -49,7 +49,6 @@
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>IMPLEMENTATION STRATEGIES ANNOUNCEMENTS</h1>
-			<h1> </h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -74,15 +73,18 @@
 				</ul>
 				<p>A third Implementation Strategy, for the <a href="http://www.psp.wa.gov/vitalsigns/salmon.php">Chinook Salmon Vital Sign</a>, is under development with guidance from the Salmon Recovery Council and is expected to be complete in December 2016.</p>
 				<p>An Interdisciplinary Team will develop and review the initial content of each Implementation Strategy. After drafts have been prepared, there will opportunities for partners and stakeholders to get involved.</p>
+				<p>Written materials for the IS workshops and future review will be placed in the relevant public Box folders here:<br>
+					·         <a href="https://pspwa.box.com/s/byjid6ru1sg2b8jjvdghtzd77g2a0u2p">Land Development and Cover</a><br>
+				·         <a href="https://pspwa.box.com/s/1nqgl99h7ggtkb8k1b02xc5h4blsvkr4">Floodplain</a></p>
 				<p><strong>Land Development and Cover Implementation Strategy</strong></p>
 				<ul>
-					<li> <strong>May 3, 2016.</strong> Technical Workshop, location to be determined. </li>
-					<li> <strong>May 24, 2016.</strong> Stakeholder Workshop, location to be determined. </li>
+					<li> <strong>May 16, 2016.</strong> Technical Workshop, Edmonds Center for the Arts, 410 – 4th Avenue North, Edmonds. </li>
+					<li> <strong>May 24, 2016.</strong> Stakeholder Workshop, Edmonds Center for the Arts, 410 – 4th Avenue North, Edmonds.</li>
 				</ul>
 				<p><strong>Floodplains Implementation Strategy</strong></p>
 				<ul>
-					<li> <strong>April 25. </strong>Technical Workshop, location to be determined. </li>
-					<li> <strong>May 18.</strong> Stakeholder Workshop, location to be determined. </li>
+					<li> <strong>April 25. </strong>Technical Workshop, Edmonds Center for the Arts, 410 – 4th Avenue North, Edmonds. </li>
+					<li> <strong>May 18.</strong> Stakeholder Workshop, Edmonds Center for the Arts, 410 – 4th Avenue North, Edmonds. </li>
 				</ul>
 				<p><strong>Chinook Salmon Implementation Strategy</strong></p>
 				<ul>
