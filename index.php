@@ -86,9 +86,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>5.5.16<br>
-						</strong>LEGISLATIVE UPDATES<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/145e4a3">2016 SESSION WRAP-UP</a><br>
+						<strong>5.27.16<br>
+						</strong>ACTION AGENDA<br>
+						<a href="http://pugetsoundactionagendaupdate.publicmeeting.info">RESPONSE TO ACTION AGENDA COMMENTS COMPLETED</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -99,10 +99,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>5.5.16<br>
-						</strong>SCIENCE PANEL MEETING<br>
-						CANCELLED <br>
-						<!--END news content BOX--> 
+						<strong>5.27.16<br>
+						</strong>ACTION AGENDA <br>
+						<a href="http://pugetsoundactionagendaupdate.publicmeeting.info">MANAGEMENT CONFERENCE DRAFT ACTION AGENDA NOW AVAILABLE</a><!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
@@ -111,11 +110,10 @@
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
-						<!--news content BOX--> 
-						
-						<strong>4.21.16</strong><br>
-						NEWS RELEASE<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/144c2ff">Puget Sound Partnership media advisory: Leadership Council to hear status of resident orca, updates to 2016 Action Agenda </a><br>
+						<!--news content BOX --> 
+						<strong>5.5.16<br>
+						</strong>LEGISLATIVE UPDATES<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/145e4a3">2016 SESSION WRAP-UP</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>

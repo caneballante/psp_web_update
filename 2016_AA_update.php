@@ -67,7 +67,17 @@
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			
+			<div class="highlightbox margin-0-top">
+				<h3>5/27/2016 - Response to Action Agenda comments completed</h3>
+				<p> The public comment period on the draft 2016 Action Agenda for Puget Sound was held March 28 to April 29, 2016. During that time, the Puget Sound Partnership hosted an online open house and three in-person open houses to inform the public about the draft Action Agenda and collect feedback. In total, 43 individuals or groups submitted feedback through letters, emails, survey responses, and meeting minutes. This feedback was divided into 363 specific comments (discrete ideas) about the Action Agenda.</p>
+				<p>The Puget Sound Partnership reviewed, summarized, and published a summary of how these comments were addressed. Access the comment response summary, detailed comment matrix, and other documents on the <a href="http://pugetsoundactionagendaupdate.publicmeeting.info">online open house</a>.</p>
+			</div>
+			<div class="highlightbox margin-20-top">
+				<h3>5/27/2016 - Management Conference draft Action Agenda now available</h3>
+				<p> Based on comments received, the Partnership revised the 2016 Action Agenda. The revised version is now available for additional review by the Puget Sound Management Conference before the 2016 Action Agenda is finalized and adopted by the Leadership Council in June 2016.</p>
+				<p><a href="http://pugetsoundactionagendaupdate.publicmeeting.info">Access the Management Conference Draft 2016 Action Agenda</a></p>
+				<p>The Puget Sound Management Conference includes the Puget Sound Partnership, Leadership Council, Ecosystem Coordination Board, and Science Panel; and the broader partnership encompassing the caucuses related to the Ecosystem Coordination Board, Salmon Recovery Council, formal and informal interest groups, watershed groups, individual local governments, and representatives from Canadian agencies and organizations.</p>
+			</div>
 			<h2 class="margin-0-top">What is in the Action Agenda?</h2>
 			<p> Several years of <strong>research and effort</strong> have shown three areas of focus that deliver the most progress toward recovery for dollars invested. Termed &ldquo;Strategic Initiatives&rdquo; these <strong>three priority areas</strong> form the basis of the Action Agenda for 2016.</p>
 			<p>The Action Agenda addresses each <strong>Strategic Initiative</strong> by setting targets for recovery that are based on scientific understandings of the ecosystem. The <strong>recovery targets</strong> are used to <strong>guide revisions</strong> to the Action Agenda, <strong>focus actions</strong> to be accomplished right away (<strong>Near Term Actions</strong>), <strong>recommend allocations</strong> of funding and other resources to specific strategies and actions, and <strong>evaluate</strong> Action Agenda implementation.</p>

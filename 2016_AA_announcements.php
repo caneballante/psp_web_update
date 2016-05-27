@@ -67,33 +67,35 @@
 			</ul>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		
-			
-			
-			
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
+			<div class="highlightbox margin-0-top">
+				<h3>5/27/2016 - Response to Action Agenda comments completed</h3>
+				<p> The public comment period on the draft 2016 Action Agenda for Puget Sound was held March 28 to April 29, 2016. During that time, the Puget Sound Partnership hosted an online open house and three in-person open houses to inform the public about the draft Action Agenda and collect feedback. In total, 43 individuals or groups submitted feedback through letters, emails, survey responses, and meeting minutes. This feedback was divided into 363 specific comments (discrete ideas) about the Action Agenda.</p>
+				<p>The Puget Sound Partnership reviewed, summarized, and published a summary of how these comments were addressed. Access the comment response summary, detailed comment matrix, and other documents on the <a href="http://pugetsoundactionagendaupdate.publicmeeting.info">online open house</a>.</p>
+			</div>
+			<div class="highlightbox margin-20-top">
+				<h3>5/27/2016 - Management Conference draft Action Agenda now available</h3>
+				<p> Based on comments received, the Partnership revised the 2016 Action Agenda. The revised version is now available for additional review by the Puget Sound Management Conference before the 2016 Action Agenda is finalized and adopted by the Leadership Council in June 2016.</p>
+				<p><a href="http://pugetsoundactionagendaupdate.publicmeeting.info">Access the Management Conference Draft 2016 Action Agenda</a></p>
+				<p>The Puget Sound Management Conference includes the Puget Sound Partnership, Leadership Council, Ecosystem Coordination Board, and Science Panel; and the broader partnership encompassing the caucuses related to the Ecosystem Coordination Board, Salmon Recovery Council, formal and informal interest groups, watershed groups, individual local governments, and representatives from Canadian agencies and organizations.</p>
+			</div>
+			<h2>PAST ANNOUNCEMENTS</h2>
 			<div class="highlightbox margin-0-top">
 				<h3>4/1/2016 - Recruitment Notice</h3>
 				<p> <a href="https://pspwa.box.com/s/4eikw4jlyycaypz71gqla7v1pt63d3va">Seeking technical and policy experts to serve on Strategic Initiative Advisory Teams in support of Puget Sound Recovery (Deadline: 5/2/16) </a></p>
 			</div>
-				<div class="highlightbox margin-20-top">
+			<div class="highlightbox margin-20-top">
 				<h3>3/28/2016 - Draft 2016 Action Agenda available for public comment</h3>
-
-<p>The <a href="http://PugetSoundActionAgendaUpdate.publicmeeting.info">Draft 2016 Action Agenda for Puget Sound</a> is now available for public review and comment. The public comment period closes midnight, April 29, 2016. </p>
-<p>To learn about the update, attend our online open house, which includes access to an online comment form:
-	<a href="http://PugetSoundActionAgendaUpdate.publicmeeting.info">PugetSoundActionAgendaUpdate.publicmeeting.info</a></p>
-
-<p>You can also attend an open house in person—see the March 11 announcement, below, for details.</p>
-
-<p>Comments can also be sent by email to <a href="mailto:AAcomment@psp.wa.gov">AAcomment@psp.wa.gov</a> and in writing by mail to the Partnership at: </p>
-<p>Puget Sound Partnership<br>
-ATTN: Kelly Adams<br>
-326 East D Street<br>
-Tacoma, WA 98421
-</p>
-<p><strong>How are comments used?</strong></p>
-<p>Comments collected through this public comment period will be summarized and considered in the development of the final 2016 Action Agenda for Puget Sound and the final SEPA determination. The 2016 Action Agenda update is scheduled for adoption by the Partnership’s Leadership Council in June 2016. </p>
-
+				<p>The <a href="http://PugetSoundActionAgendaUpdate.publicmeeting.info">Draft 2016 Action Agenda for Puget Sound</a> is now available for public review and comment. The public comment period closes midnight, April 29, 2016. </p>
+				<p>To learn about the update, attend our online open house, which includes access to an online comment form: <a href="http://PugetSoundActionAgendaUpdate.publicmeeting.info">PugetSoundActionAgendaUpdate.publicmeeting.info</a></p>
+				<p>You can also attend an open house in person—see the March 11 announcement, below, for details.</p>
+				<p>Comments can also be sent by email to <a href="mailto:AAcomment@psp.wa.gov">AAcomment@psp.wa.gov</a> and in writing by mail to the Partnership at: </p>
+				<p>Puget Sound Partnership<br>
+					ATTN: Kelly Adams<br>
+					326 East D Street<br>
+					Tacoma, WA 98421 </p>
+				<p><strong>How are comments used?</strong></p>
+				<p>Comments collected through this public comment period will be summarized and considered in the development of the final 2016 Action Agenda for Puget Sound and the final SEPA determination. The 2016 Action Agenda update is scheduled for adoption by the Partnership’s Leadership Council in June 2016. </p>
 			</div>
 			<div class="highlightbox margin-20-top">
 				<h3>3/11/2016 - LIST OF 2016 NEAR TERM ACTIONS NOW AVAILABLE</h3>
@@ -109,8 +111,7 @@ Tacoma, WA 98421
 				<p>Tuesday, April 12 from 5 to 7:30 pm: Best Western Plus, 2300 Market St, Mt. Vernon</p>
 				<p>These facilities are all ADA compliant. If you would like to receive open house information in an alternative format, please contact Kelly Adams at 360-464-1233.</p>
 			</div>
-			<h2>PAST ANNOUNCEMENTS</h2>
-			<div class="highlightbox">
+			<div class="highlightbox margin-20-top">
 				<h3>9/21/15 Near Term Action Proposals</h3>
 				<li>Solicitation Notice for Near Term Actions (Released 9/21/2015)</li>
 				</ul>
