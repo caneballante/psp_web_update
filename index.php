@@ -88,24 +88,13 @@
 						<!--news content BOX --> 
 						<strong>5.27.16<br>
 						</strong>ACTION AGENDA<br>
-						<a href="http://pugetsoundactionagendaupdate.publicmeeting.info">RESPONSE TO ACTION AGENDA COMMENTS COMPLETED</a><br>
+						<a href="http://pugetsoundactionagendaupdate.publicmeeting.info">New Management Conference Draft Action Agenda and Public Comment documents now available</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>5.27.16<br>
-						</strong>ACTION AGENDA <br>
-						<a href="http://pugetsoundactionagendaupdate.publicmeeting.info">MANAGEMENT CONFERENCE DRAFT ACTION AGENDA NOW AVAILABLE</a><!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+			
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
