@@ -51,6 +51,7 @@
 			<a href="2016_AA_implementation_strategies.php">IMPLEMENTATION&nbsp;STRATEGIES</a> </div>
 		<div class="col-md-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
+			
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>
 			<div class="padding-5-bottom"><a href="PSAR.php">PSAR&nbsp;FUND</a></div>
@@ -61,13 +62,13 @@
 		<div class="col-md-3 padding-40-top"><img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>MEASURING RECOVERY</h1>
-			<div class="padding-5-bottom"><a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND EVALUATION&nbsp;OVERVIEW</a></div>
-			<div class="padding-5-bottom"> <a href="evaluating-health-of-puget-sound.php">PUGET&nbsp;SOUND&nbsp;HEALTH</a></div>
-			<div class="padding-5-bottom"> <a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING&nbsp;RECOVERY&nbsp;ACTIONS</a></div>
-			<div class="padding-5-bottom"> <a href="science-basis-of-recovery-overview.php">SCIENCE&nbsp;BASIS OF&nbsp;RECOVERY</a> </div>
-			<a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
-		<div class="col-md-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive"/></div>
-		<div class="col-md-3 padding-40-top">
+			<div class="padding-5-bottom"><a href="evaluating-about-report-card.php">REPORT&nbsp;CARD</a></div>
+			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">VITAL&nbsp;SIGNS</a></div>
+			<div class="padding-5-bottom"><a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
+			<div class="padding-5-bottom"><a href="evaluating-PSEMP.php">ECOSYSTEM&nbsp;MONITORING&nbsp;(PSEMP)</a> </div>
+			<a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND EVALUATION&nbsp;OVERVIEW</a></div>
+			<div class="col-md-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive"/></div>
+			<div class="col-md-3 padding-40-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS</a></div>
