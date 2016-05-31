@@ -84,7 +84,7 @@
 				<li>Are you, or your organization, committed to working collaboratively to help improve environmental and community health in the Puget Sound region?</li>
 				<li>Are you willing to help advance a comprehensive vision and <a href="http://www.psp.wa.gov/action_agenda_center.php">priority actions</a> to protect and enhance the health and vitality of the Puget Sound? </li>
 			</ol>
-			<p>Please direct any questions about ECO Net membership to <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
+			<p>Please direct any questions about ECO Net membership to <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
 			<a name="ecobenefits"></a>
 			<h2>What are the Benefits of ECO Net Membership?</h2>
 			<ul>
@@ -121,9 +121,9 @@
 				<li><a href="http://feiromarinelifecenter.org/strait-eco-net/" target="_blank">Strait ECO Net</a></li>
 			</ul>
 			<h2>ECO NET CONTACT</h2>
-			<p>Alexandra Doty</p>
-			<p><a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
-			<p>(360) 819-6870</p>
+			<p>Laura Blackmore</p>
+			<p><a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
+			<p>(360) 339-4627</p>
 			<p><a href="https://pspwa.box.com/s/supkihvxkg574ikgma99x364bsuynds2"><strong>Resources for ECO Net Members</strong></a></p>
 			<!-- InstanceEndEditable --> </div>
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

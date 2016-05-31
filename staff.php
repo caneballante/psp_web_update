@@ -75,8 +75,9 @@
 			<h5>Tammy Antilla</h5>
 			<p> Executive Assistant<br />
 				Office 360.339.8942 | <a href="mailto:tammy.antilla@psp.wa.gov">tammy.antilla@psp.wa.gov</a></p>
-			<h5>Vacant</h5>
-			<p> EPA Liaison</p>
+			<h5>Karin Berkholz</h5>
+			<p> EPA Coordinator<br />
+				Office 360.999.3848 | <a href="mailto:tammy.antilla@psp.wa.gov">karin.berkholz@psp.wa.gov</a></p>
 			<!--ANCHOR LINK spaced 2 br above target--> 
 			<a name="administrative_services"></a> <br>
 			<br>
@@ -85,11 +86,8 @@
 			<h2>ADMINISTRATIVE SERVICES</h2>
 			<h5>Jen Benn</h5>
 			<p> Director of Administrative Services<br />
-				360.464.1231 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a></p>
-			<h5>VACANT</h5>
-			<p> Program Coordinator</p>
-			<br>
-			<!--A.S. - FINANCE-->
+				360.464.1231 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a><br>
+			<!--A.S. - FINANCE-->			</p>
 			<h3>FINANCE</h3>
 			<h5>Ginger Stewart</h5>
 			<p> Chief Financial Officer<br />
@@ -156,9 +154,7 @@
                 <h3>MANAGEMENT CONFERENCE COORDINATION</h3>
 			<h5>Dominique Hampton</h5>
 			<p> Special Assistant to the Boards<br />
-				Office 360.464.1229 | <a href="mailto:dominique.hampton@psp.wa.gov">dominique.hampton@psp.wa.gov</a></p>
-			<h5>vacant</h5>
-			<p> Public Information Officer &amp; Partnerships Communication Lead<br />
+				Office 360.464.1229 | <a href="mailto:dominique.hampton@psp.wa.gov">dominique.hampton@psp.wa.gov</a><br />
 			</p>
 		
             	<h5>Tristan Peter-Contesse</h5>
@@ -210,7 +206,9 @@
 			<p> Ecosystem Recovery Coordinator <br />
 				<em>South Central, Green and Cedar Watersheds</em><br />
 				360.339.4626 | <a href="mailto:bruce.wulkan@psp.wa.gov">bruce.wulkan@psp.wa.gov</a></p>
-			
+			<h5>Alexandra Doty</h5>
+			<p> Project Coordinator <em>(beginning Fall 2016)</em></p>
+            
 			<!--ANCHOR LINK spaced 2 br above target--> 
 			<a name="science_and_evaluation"></a> <br>
 			<br>
@@ -249,10 +247,7 @@
 				360-464-1217| <a href="mailto:elene.dorfmeier@psp.wa.gov">elene.dorfmeier@psp.wa.gov</a></p>
 			<br>
 			<!--S.E. PERFORMANCE AND EVALUATION-->
-			<h3>Performance and Evaluation</h3>
-			<h5>STEPHANIE FINDLEY</h5>
-			<p> Performance Manager<br />
-				360.464.2008 | <a href="mailto:stephanie.findley@psp.wa.gov">stephanie.findley@psp.wa.gov </a></p>
+			<h3>Performance and Evaluation			</h3>
 			<h5>Alex Mitchell</h5>
 			<p> Performance Management Analyst<br />
 				360.464.1220 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a></p>
@@ -286,12 +281,6 @@
 			<h5>Todd Hass</h5>
 			<p> Implementation Manager<br />
 				360.464.1223 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>
-			<h5>Alexandra Doty</h5>
-			<p> ECO Net Coordinator<br />
-				360.339.5853 | <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
-			<h5>Vacant</h5>
-			<p> Environmental Planner<br />
-			</p>
 			<h5>Dave Ward</h5>
 			<p> Social Strategies Manager<br />
 				425.457.1157 | <a href="mailto:dave.ward@psp.wa.gov">dave.ward@psp.wa.gov</a></p>
