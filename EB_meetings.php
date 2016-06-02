@@ -108,9 +108,9 @@
 				</tr>
 				<tr>
 					<td class=""><p>July 21</p></td>
-					<td class=""><p>Edmond Center for the Arts<br>
-410 Fourth Ave N<br>
-Edmonds, WA 98020</p></td>
+					<td class=""><p>South Seattle Community College - Georgetown campus<br>
+6737 Corson Ave. South <br>
+Seattle, WA 98108</p></td>
 					<td class=""><p><a href="https://pspwa.box.com/s/8tdoqox0dxr3vu06jmr0ej144waop5kp" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
