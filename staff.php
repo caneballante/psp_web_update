@@ -72,9 +72,9 @@
 			<h5>Marc Daily</h5>
 			<p> Deputy Director<br />
 				360.339.5861 | <a href="mailto:marc.daily@psp.wa.gov">marc.daily@psp.wa.gov</a></p>
-			<h5>Tammy Antilla</h5>
+			<h5>kelly adams</h5>
 			<p> Executive Assistant<br />
-				Office 360.339.8942 | <a href="mailto:tammy.antilla@psp.wa.gov">tammy.antilla@psp.wa.gov</a></p>
+				Office 360.464.1233 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p>
 			<h5>Karin Berkholz</h5>
 			<p> EPA Coordinator<br />
 				Office 360.999.3848 | <a href="mailto:tammy.antilla@psp.wa.gov">karin.berkholz@psp.wa.gov</a></p>
@@ -260,9 +260,8 @@
 			<h5>Jim Bolger</h5>
 			<p> Program Director<br />
 				360.464.2014 | <a href="mailto:jim.bolger@psp.wa.gov">jim.bolger@psp.wa.gov</a></p>
-			<h5>kelly adams</h5>
-			<p> Administrative Assistant <br />
-				360.464.1233 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p>
+			<h5>vacant</h5>
+			<p> Administrative Assistant </p>
 			<br>
 			<!--P.P. - ACTION AGENDA-->
 			<h3>Action Agenda</h3>
