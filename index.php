@@ -51,7 +51,6 @@
 			<a href="2016_AA_implementation_strategies.php">IMPLEMENTATION&nbsp;STRATEGIES</a> </div>
 		<div class="col-md-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
-			
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>
 			<div class="padding-5-bottom"><a href="PSAR.php">PSAR&nbsp;FUND</a></div>
@@ -67,8 +66,8 @@
 			<div class="padding-5-bottom"><a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
 			<div class="padding-5-bottom"><a href="evaluating-PSEMP.php">ECOSYSTEM&nbsp;MONITORING&nbsp;(PSEMP)</a> </div>
 			<a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND EVALUATION&nbsp;OVERVIEW</a></div>
-			<div class="col-md-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive"/></div>
-			<div class="col-md-3 padding-40-top">
+		<div class="col-md-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive"/></div>
+		<div class="col-md-3 padding-40-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS</a></div>
@@ -132,10 +131,10 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content -->
-					<div class="newsbox-date">MAY<br>
-						19 </div>
-					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD MEETING, <br>
-						EDMOND CENTER FORTHE ARTS</a><br>
+					<div class="newsbox-date">JUNE<br>
+						21-22 </div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL MEETING, <br>
+						UNIVERSITY OF WASHINGTON</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
@@ -145,10 +144,10 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content-->
-					<div class="newsbox-date">MAY<br>
-						26</div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL MEETING, <br>
-						EDMOND CENTER FORTHE ARTS</a><br>
+					<div class="newsbox-date">JUNE<br>
+						29</div>
+					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
+						SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
@@ -158,10 +157,10 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content -->
-					<div class="newsbox-date">JUNE<br>
-						2 </div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL MEETING, <br>
-						WEBEX</a><br>
+					<div class="newsbox-date">JULY<br>
+						21 </div>
+					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+						SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
@@ -171,10 +170,10 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content-->
-					<div class="newsbox-date">MAY<br>
-						26</div>
-					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
-						SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
+					<div class="newsbox-date">JULY<br>
+						28</div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+						EDMOND CENTER FOR THE ARTS</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
