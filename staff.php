@@ -74,7 +74,7 @@
 				360.339.5861 | <a href="mailto:marc.daily@psp.wa.gov">marc.daily@psp.wa.gov</a></p>
 			<h5>kelly adams</h5>
 			<p> Executive Assistant<br />
-				Office 360.464.1233 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p>
+				Office 360.999.3805 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p>
 			<h5>Karin Berkholz</h5>
 			<p> EPA Coordinator<br />
 				Office 360.999.3848 | <a href="mailto:tammy.antilla@psp.wa.gov">karin.berkholz@psp.wa.gov</a></p>
@@ -136,7 +136,7 @@
 				206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
 			<h5>Erika Lari</h5>
 			<p> Designer<br />
-				253.348.2482 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
+				360.999.3806 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
                 <!--ANCHOR LINK spaced 2 br above target--> 
 			<a name="PEP"></a> <br>
 			<br>
