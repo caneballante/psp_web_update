@@ -65,6 +65,25 @@
 			<h2 class="padding-0-top margin-0-top">NEW ANNOUNCEMENTS</h2>
 			<!-- ANNOUNCEMENT START --->
 			<div class="highlightbox">
+				<h3>DRAFT IMPLEMENTATION STRATEGIES AVAILABLE FOR PUBLIC REVIEW: JUNE 13 - 27</h3>
+				<p>The Partnership, in cooperation with the Puget Sound Institute and the Washington State Departments of Commerce and Ecology, has prepared draft Implementation Strategies for two Vital Signs:</p>
+				<ul>
+					<li><a href="http://www.psp.wa.gov/vitalsigns/land_cover_and_development.php">Land Development and Cover Vital Sign</a></li>
+					<li><a href="http://www.psp.wa.gov/vitalsigns/flood_plains.php">Floodplains Vital Sign</a></li>
+				</ul>
+				<p>Drafts of both Implementation Strategies will be available for public review and comment from <strong>June 13 through June 27</strong>. You can find the drafts and comment review matrixes in public Box folders here:
+				<p>
+				<ul>
+					<li><a href="https://pspwa.box.com/v/LDCISPublicReviewDraft">Land Development and Cover</a></li>
+					<li><a href="https://pspwa.box.com/v/FloodplainsISPublicReviewDraft">Floodplains</a></li>
+				</ul>
+				<p>Thank you in advance for your help in refining and improving these strategies!</p>
+			</div>
+			<!-- ANNOUNCEMENT END--->
+			
+			<h2>PAST ANNOUNCEMENTS</h2>
+			<!-- ANNOUNCEMENT START --->
+			<div class="highlightbox">
 				<h3>Save the Dates: Implementation Strategy Workshops </h3>
 				<p>The Partnership, in cooperation with the Puget Sound Institute and the Washington State Departments of Commerce and Ecology, is developing two more Implementation Strategies, expected to be complete in June 2016:</p>
 				<ul>
@@ -74,8 +93,8 @@
 				<p>A third Implementation Strategy, for the <a href="http://www.psp.wa.gov/vitalsigns/salmon.php">Chinook Salmon Vital Sign</a>, is under development with guidance from the Salmon Recovery Council and is expected to be complete in December 2016.</p>
 				<p>An Interdisciplinary Team will develop and review the initial content of each Implementation Strategy. After drafts have been prepared, there will opportunities for partners and stakeholders to get involved.</p>
 				<p>Written materials for the IS workshops and future review will be placed in the relevant public Box folders here:<br>
-					·         <a href="https://pspwa.box.com/s/byjid6ru1sg2b8jjvdghtzd77g2a0u2p">Land Development and Cover</a><br>
-				·         <a href="https://pspwa.box.com/s/1nqgl99h7ggtkb8k1b02xc5h4blsvkr4">Floodplain</a></p>
+					· <a href="https://pspwa.box.com/s/byjid6ru1sg2b8jjvdghtzd77g2a0u2p">Land Development and Cover</a><br>
+					· <a href="https://pspwa.box.com/s/1nqgl99h7ggtkb8k1b02xc5h4blsvkr4">Floodplain</a></p>
 				<p><strong>Land Development and Cover Implementation Strategy</strong></p>
 				<ul>
 					<li> <strong>May 16, 2016.</strong> Technical Workshop, Edmonds Center for the Arts, 410 – 4th Avenue North, Edmonds. </li>
@@ -95,8 +114,6 @@
 				</ul>
 			</div>
 			<!-- ANNOUNCEMENT END--->
-			
-			<h2>PAST ANNOUNCEMENTS</h2>
 			<div class="highlightbox">
 				<h3>1/26/16 HELP US DEVELOP THE NEXT VITAL SIGN IMPLEMENTATION STRATEGIES: FLOODPLAINS AND LAND DEVELOPMENT / COVER</h3>
 				<p> The Puget Sound Partnership is seeking members for an Interdisciplinary Teams to work alongside the Puget Sound Partnership, Puget Sound Institute, and Strategy Development Lead staff in jointly developing Implementation Strategy, or strategic plan, to accelerate progress toward meeting the 2020 Vital Sign recovery target for the</p>
