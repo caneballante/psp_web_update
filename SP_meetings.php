@@ -102,8 +102,11 @@
 				</tr>
 				<tr>
 					<td class=""><p>June 21-22</p></td>
-					<td class=""><p>University of Washington<br />
-							Applied Physics Lab, Seattle<br />
+					<td class=""><p>University of Washington<br>
+					  Applied Physics Lab<br>
+					  Henderson Hall<br>
+					  1013 NE 40th Street<br>
+					  Seattle, WA 98105<br />
 						</p></td>
 					<td class=""><a href="https://pspwa.box.com/s/xmmbc20di4a5vxvobnf3z1tjej4djj1t" target="new">Meeting Materials</a></td>
 				</tr>
