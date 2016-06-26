@@ -68,7 +68,15 @@
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
-			<div class="highlightbox margin-0-top">
+			<h3>6/22/2016 - ADOPTION DRAFT ACTION AGENDA NOW AVAILABLE</h3>
+			<p>The Puget Sound Partnership has prepared an Adoption Draft of the 2016 Action Agenda for Puget Sound that will be considered for adoption at the June 29 Leadership Council meeting. The Science Panel, Ecosystem Coordination Board, and Salmon Recovery Council reviewed the previous Management Conference Draft and their recommendations will be presented to the Leadership Council.</p>
+<ul>
+	<li><a href="http://pugetsoundactionagendaupdate.publicmeeting.info">Access the 2016 Adoption Draft Action Agenda</a></li>
+<li> <a href="http://psp.wa.gov/LC_meetings.php">Access Leadership Council meeting materials</a></li></ul>
+<p>The Puget Sound Management Conference includes the Puget Sound Partnership, Leadership Council, Ecosystem Coordination Board, and Science Panel; and the broader partnership encompassing the caucuses related to the Ecosystem Coordination Board, Salmon Recovery Council, Tribes, formal and informal interest groups, watershed groups, individual local governments, and representatives from Canadian agencies and organizations.
+		</p>
+			<h2>PAST ANNOUNCEMENTS</h2>
+				<div class="highlightbox margin-0-top">
 				<h3>5/27/2016 - Response to Action Agenda comments completed</h3>
 				<p> The public comment period on the draft 2016 Action Agenda for Puget Sound was held March 28 to April 29, 2016. During that time, the Puget Sound Partnership hosted an online open house and three in-person open houses to inform the public about the draft Action Agenda and collect feedback. In total, 43 individuals or groups submitted feedback through letters, emails, survey responses, and meeting minutes. This feedback was divided into 363 specific comments (discrete ideas) about the Action Agenda.</p>
 				<p>The Puget Sound Partnership reviewed, summarized, and published a summary of how these comments were addressed. Access the comment response summary, detailed comment matrix, and other documents on the <a href="http://pugetsoundactionagendaupdate.publicmeeting.info">online open house</a>.</p>
@@ -79,8 +87,7 @@
 				<p><a href="http://pugetsoundactionagendaupdate.publicmeeting.info">Access the Management Conference Draft 2016 Action Agenda</a></p>
 				<p>The Puget Sound Management Conference includes the Puget Sound Partnership, Leadership Council, Ecosystem Coordination Board, and Science Panel; and the broader partnership encompassing the caucuses related to the Ecosystem Coordination Board, Salmon Recovery Council, formal and informal interest groups, watershed groups, individual local governments, and representatives from Canadian agencies and organizations.</p>
 			</div>
-			<h2>PAST ANNOUNCEMENTS</h2>
-			<div class="highlightbox margin-0-top">
+			<div class="highlightbox margin-20-top">
 				<h3>4/1/2016 - Recruitment Notice</h3>
 				<p> <a href="https://pspwa.box.com/s/4eikw4jlyycaypz71gqla7v1pt63d3va">Seeking technical and policy experts to serve on Strategic Initiative Advisory Teams in support of Puget Sound Recovery (Deadline: 5/2/16) </a></p>
 			</div>

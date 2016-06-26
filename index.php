@@ -86,9 +86,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>5.27.16<br>
+						<strong>6.22.16<br>
 						</strong>ACTION AGENDA<br>
-						<a href="http://pugetsoundactionagendaupdate.publicmeeting.info">New Management Conference Draft Action Agenda and Public Comment documents now available</a><br>
+						<a href="http://pugetsoundactionagendaupdate.publicmeeting.info">New Adoption Draft Action Agenda now available</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
