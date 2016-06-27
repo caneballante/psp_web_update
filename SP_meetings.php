@@ -115,9 +115,11 @@
 				</tr>
 				<tr>
 					<td class=""><p>August 24</p></td>
-					<td class=""><p>South Seattle Community College - Georgetown campus<br>
-6737 Corson Ave. South <br>
-Seattle, WA 98108<br />
+					<td class=""><p>University of Washington<br>
+					  Applied Physics Lab - Henderson Hall<br>
+					  Hardisty Conference Room on 6th floor<br>
+					  1013 NE 40th Street<br>
+Seattle, WA 98105<br />
 						</p></td>
 					<td class=""><a href="https://pspwa.box.com/s/ook44lszb4xhp4e2dgnf06sdk4oxw1vt" target="new">Meeting Materials</a></td>
 				</tr>
