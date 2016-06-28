@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -41,13 +40,13 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image98">
 	<div class="overview-quote pull-right">
 		<h3></h3>
 	</div>
 </header>
-<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
 	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
 </div>
@@ -60,14 +59,18 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-sm-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-				<!-- InstanceBeginEditable name="left_nav" -->
+			<div class="nav-leftside-custom">
+				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
+					<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-sos-aa.html';?>
 				<!-- InstanceEndEditable -->
-			</ul>
+				</ul>
+			</div>
 		</div>
+		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h3>Challenges to advancing recovery and opportunities going forward</h3>
 			<p>It  is an ambitious goal to undo 150 years of environmental degradation,  particularly in the context of continuing demands on the ecosystem from population growth and the challenges of remaining competitive in an  every changing global economy. By their very nature, efforts to  strengthen regulations, modify how our communities look and function and  even ask individuals to change their daily habits will face roadblocks along the way. We described a number of our barriers to  implementing the Action Agenda in the 2013 State of the Sound. While we  continue to make progress in addressing these, our experience suggests  that helping our decision-makers and our citizens make &ldquo;Sound Choices&rdquo; in the years ahead will be the key to our success.</p>
@@ -81,6 +84,7 @@
 			<p><strong><u>Challenge:</u></strong> Differences persist with Puget Sound communities over how to balance  the benefits of measures that are necessary to protect our natural resources and reduce  contamination to our groundwater and surface water against the cost of  changing business and land development practices. These conflicts are  especially apparent in our rural agricultural communities and in communities that do not want to restrict growth or limit the use  of private property.  Many of these actions entail significant  sacrifices or seem too costly to one segment of the population, even  when these actions may benefit the whole. Balancing ecosystem recovery needs with competing demands for services such as health,  transportation, education and social welfare will require making  unpopular decisions.</p>
 			<p><strong><u>Recommendation:</u></strong><u> </u>We  need a comprehensive strategy that tips the scale in favor of bearing the costs for recovery to benefit future  generations including new creative approaches to attracting investment  in Puget Sound recovery. We need to work with landowner groups and major  economic interest groups to find &ldquo;win-win&rdquo; solutions that will enable them to prosper in conducting their businesses while  changing practices that contribute to the ongoing degradation of Puget  Sound.</p>
 			<!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
 			<!-- InstanceEndEditable -->
@@ -136,5 +140,4 @@
 
 </script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

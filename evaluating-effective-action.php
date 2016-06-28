@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -41,9 +40,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image25"> </header>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -53,14 +52,18 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-sm-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-				<!-- InstanceBeginEditable name="left_nav" -->
+			<div class="nav-leftside-custom">
+				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
+					<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-eval-health.html';?>
 				<!-- InstanceEndEditable -->
-			</ul>
+				</ul>
+			</div>
 		</div>
+		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">What’s working to restore Puget Sound?</h2>
 			<p>Many restoration and management actions have been effective in restoring the Puget Sound ecosystem, but scientific results are often reported in technical documents that can be hard to find. We are distilling information about what&rsquo;s working to restore Puget Sound for our partners and decision-makers. By directly connecting effectiveness data to recovery actions, we can highlight successes and improve our strategies by funding actions that are the most effective. Fact Sheets and Background Summaries support implementation of the Action Agenda to accelerate the recovery of Puget Sound.&nbsp;</p>
@@ -232,6 +235,7 @@
 			</table>
 			<p>To propose a project, contact Leska Fore, Science and Evaluation, Puget Sound Partnership: <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a></p>
 			<!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
@@ -295,5 +299,4 @@
 
 </script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

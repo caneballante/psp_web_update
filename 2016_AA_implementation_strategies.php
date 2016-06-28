@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -37,13 +36,13 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image10">
 	<div class="overview-quote pull-right">
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -52,15 +51,19 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-sm-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-				<!-- InstanceBeginEditable name="left_nav" -->
+			<div class="nav-leftside-custom">
+				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
+					<!-- InstanceBeginEditable name="left_nav" -->
 				<li role="presentation" class="active"> <a href="2016_AA_implementation_strategies.php">IMPLEMENTATION STRATEGIES</a></li>
 				<li role="presentation"><a href="implementation_strategies_announcements.php">ANNOUNCEMENTS</a></li>
 				<!-- InstanceEndEditable -->
-			</ul>
+				</ul>
+			</div>
 		</div>
+		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p><strong> Implementation Strategies</strong> (referred to here as &quot;Strategies&quot;) are plans for achieving the 2020 <a href="action_agenda_targets.php">Ecosystem Recovery Targets</a> for the <a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a>. </p>
 			<p>Each plan accomplishes the following:</p>
@@ -145,6 +148,7 @@
 			<p>We anticipate that, over time, at least one Strategy, and possibly more, will address each Vital Sign that has a defined recovery target. It remains to be seen whether there will need to be a separate planning effort for each Vital Sign, given that many Vital Signs usually benefit from actions focused on related Vital Signs.</p>
 			<p><strong>Contact:</strong>&nbsp;Todd Hass, Implementation Manager,&nbsp;<a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>
 			<!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
@@ -199,5 +203,4 @@
 
 </script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

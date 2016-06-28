@@ -69,16 +69,18 @@
 	<!-- TemplateEndIf -->
 	<div class="row"> <!-- TemplateBeginIf cond="OptionalRegion5" -->
 		<div class="col-sm-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-				<!-- TemplateBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
-				<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
-				<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
-				<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT FRAMEWORK</a></li>
-				<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
-				<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
-				<!-- TemplateEndEditable -->
-			</ul>
+			<div class="nav-leftside-custom">
+				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
+					<!-- TemplateBeginEditable name="left_nav" -->
+					<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
+					<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
+					<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT FRAMEWORK</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
+					<!-- TemplateEndEditable -->
+				</ul>
+			</div>
 		</div>
 		<!-- TemplateEndIf --> <!-- TemplateBeginIf cond="OptionalRegion6" -->
 		<div class="col-sm-7 padding-20-top content-column"> <!-- TemplateBeginEditable name="6col_content" -->

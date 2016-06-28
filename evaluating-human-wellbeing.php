@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -41,9 +40,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image25"> </header>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -53,14 +52,18 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-sm-3">
-			<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-				<!-- InstanceBeginEditable name="left_nav" -->
+			<div class="nav-leftside-custom">
+				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
+					<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-eval-health.html';?>
 				<!-- InstanceEndEditable -->
-			</ul>
+				</ul>
+			</div>
 		</div>
+		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Of the Partnership’s six goals, specified in  Washington state statute, two address human wellbeing:</p>
 			<ul>
@@ -70,6 +73,7 @@
 			<p>In July 2015, the Partnership’s Leadership Council adopted nine new or revised Vital Signs with associated indicators for Human Health and Quality of Life. These Vital Signs address human wellbeing as it relates to people’s engagement with the natural environment of Puget Sound and include familiar aspects of human health that contribute to our wellbeing, such as physical and psychological health, as well as social, cultural, and economic wellbeing and governance, or the way that people participate in decisionmaking.</p>
 			<p>The effort to address human wellbeing within the context of our Puget Sound recovery goals falls within a broader attempt to better understand the aspects of ecosystem recovery that directly affect humans. Understanding the roles that people play helps to ensure a more complete, holistic, and ultimately more successful approach to achieving ecosystem recovery goals.</p>
 			<!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
@@ -123,5 +127,4 @@
 
 </script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>
