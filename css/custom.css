@@ -60,7 +60,7 @@ a[href^="http"] {
 }
 /*add this style to links that are on the dark blue background*/
 .light-blue-links a {
-	color: #2caaed;
+	color: #1590cd;
 }
 #home-squares a {
 	font-size: 14px;
@@ -343,7 +343,7 @@ p {
 .highlightbox {
 	background-color: rgba(227,237,249,1.00);
 	border-radius: 1px 30px 1px 30px;
-	padding: 30px;
+	padding: 10px;
 }
 .highlightbox h2 {
 	color: #0a3b5c;
@@ -423,7 +423,7 @@ intro .brand-heading {
 }
 /*blue link color needs to be lighter on the dark blue*/
 #myModal a {
-	color: #2caaed;
+	color: #1590cd;
 	font-size: 16px
 }
 /*the search text turns white from modal-body-custom I turn it black here*/
@@ -605,6 +605,9 @@ intro .brand-heading {
 .overview-page-image84 {
 	background: url(../images/inside_image_84.jpg)no-repeat bottom center scroll;
 }
+.overview-page-image99 {
+	background: url(../images/inside_image_99.jpg)no-repeat bottom center scroll;
+}
 .overview-page-image-style {
 	width: 100%;
 	height: 380px;
@@ -665,6 +668,16 @@ intro .brand-heading {
 	text-align: right;
 }
 
+/* hide inactive nested list */
+.nav-leftside-custom .nav ul.nav {
+    display: none;           
+}
+/* show active nested list */
+.nav-leftside-custom .nav>.active>ul.nav {
+    display: block;           
+}
+
+
 /*makes the left nav centered on small screens*/
 @media (max-width: 768px) {
 .nav-leftside-custom {
@@ -707,6 +720,13 @@ intro .brand-heading {
 	color: #0a3b5c;
 	background-color: #fff;
 }
+/*left nav customization of bootstrap nav class*/
+.nav-pills > li > ul > li.active > a, .nav-pills > li > ul >  li.active > a:hover, .nav-pills > li > ul > li.active > a:focus {
+	font-weight: 700;
+	color: #0a3b5c;
+	background-color: #fff;
+}
+
 /*SITE MAP STYLES*/
 .sitemap ul {
 	list-style-type: none;
