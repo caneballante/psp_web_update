@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,7 +26,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 5;
+  	 	navSelected = 1;
+	subNavSelected = 4;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -40,83 +42,61 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image99">
+<!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>ACTION AGENDA INSPIRATIONAL QUOTE OR STATEMENT GOES HERE.</h3>
+		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo.png" width="433" height="89" alt=""/></div>
+	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
 </div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>1.4 HOW DO YOU DEFINE RECOVERY?</h1>
+			<h1>HOW DO YOU DEFINE RECOVERY?</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-action-agenda.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-action-agenda.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">CONTENT TABLE FROM EXCEL</h2>
-			<table cellspacing="0" cellpadding="0">
-				<col width="424">
-				<tr>
-					<td width="424">Key   Points: </td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Like Human Health, we take a bunch of data points (heartbeat, weight, BP).   These are measures of your current health and can also indicate how you will   withstand shocks to your system (a cold, a fall, etc.) Really about resilience but</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Need to have construct and measures to define what Recovery looks like and   describe current status and how these measures are changing over time (LINK to Vital Signs)</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Indicators and targets (LINK to indicators and targets)</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These   drive implementation strategies - Road maps for how, in a deliberate   sequenced way we get from here to those targets (LINK to   IS)</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An   adaptive management process is followed to develop a Plan for Recovery -   founded in science and informed lessons learned <a href="action-agenda-develop-a-plan.php"><strong>(Link to   1.4.1  How do we Plan for Recovery (NEW PAGE))</strong></a><strong></strong></td>
-				</tr>
-					<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are a number of different plans that support Puget Sound recovery.  The Action Agenda provides the common framework for <strong><a href="action-agenda-recovery-plans-integrated.php">integrating recovery plans into a unified effort. (Link to 1.4.2 (NEW PAGE))</a></strong><a href="action-agenda-recovery-plans-integrated.php"></a></td>
-				</tr>
-				
-				   
-				<tr>
-					<td width="424">&nbsp;</td>
-				</tr>
-				<tr>
-					<td width="424">Provide   Link to Action Agenda </td>
-				</tr>
-			</table>
+			<p>Puget Sound recovery—which encompasses protection and restoration—is defined by six recovery goals established by the Washington State Legislature: </p>
+			<p><strong>Healthy human population.</strong> Healthy people are supported by a healthy Puget Sound. </p>
+			<p><strong>Human quality of life.</strong> Our quality of life is sustained by a healthy Puget Sound. </p>
+			<p><strong>Species and food web.</strong> Puget Sound species and the web of life thrive. </p>
+			<p><strong>Protect and restore habitat. </strong>Puget Sound habitat is protected and restored. </p>
+			<p><strong>Water quantity.</strong> Puget Sound rivers and streams flow at levels that support people, fish, and wildlife.</p>
+			<p><strong>Water quality.</strong> Puget Sound marine and fresh waters are clean. </p>
+			<p>The Puget Sound Partnership approaches the recovery process by using an adaptive management framework—a way of learning continuously from past actions to improve future actions. The Partnership adopted a specific adaptive management model in 2008, called the <a href="http://www.cmp-openstandards.org">Open Standards for the Practice of Conservation</a> (Open Standards). The Open Standards framework builds on explicitly structured interactions among decisionmakers, implementers, scientists, and partners to encourage innovation, sharing of successful practices, and adaptation. </p>
+			<p><img src="images/simplified_framework.png" width="450" height="475" alt=""/></p>
+			<ul>
+				<li><strong>Plan.</strong> The Action Agenda is the shared strategic roadmap to recovery. </li>
+				<li><strong>Implement.</strong> Partners implement programs and projects identified in the Action Agenda to support Puget Sound recovery. </li>
+				<li><strong>Evaluate.</strong> Partners track and report on implementation and conduct monitoring to evaluate action effectiveness and progress toward recovery based on shared measurements.</li>
+				<li><strong>Inform.</strong> The Puget Sound Partnership captures and shares knowledge gained from evaluating effectiveness and ecosystem responses. The Partnership then adjusts priorities and adapts action planning based on information gathered through the development, implementation, and evaluation of the previous planning cycle.</li>
+			</ul>
+			<p><a href="https://pspwa.box.com/shared/static/y5d4b6xrx3r2thnqx7in7qzej65v5cqr.pdf">LEARN MORE IN THE COMPREHENSIVE PLAN, CHAPTER 2 (PDF)</a></p>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
+			<div class="right-nav-title margin-0-top ">MORE INFORMATION</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="action-agenda-2016-document.php">2016 Action Agenda Document 2.0</a></li>
-				<li role="presentation"> <a href="#">Vital Signs</a></li>
-				<li role="presentation"> <a href="#">Indicators and Targets (pdf on box?)</a></li>
-				<li role="presentation"> <a href="#">Implementation Strategies (existing page)</a></li>
-				<li role="presentation"> <a href="#">INFOGRAPHIC - vital sign wheel (comp plan fig 2.2) and table 2-1 showing alignment between goals recovery targets and vital signs</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs</a></li>
+				<li role="presentation"> <a href="http://app.leg.wa.gov/RCW/default.aspx?cite=90.71.300">Recovery Goals Established</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/evaluating-health-of-puget-sound.php">Evaluating the Health of Puget Sound</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
@@ -146,4 +126,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>

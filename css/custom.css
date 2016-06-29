@@ -85,7 +85,7 @@ h1 {
 }
 }
 
-/* page-content class is ueed so I can specifically target h1 children in the content areas of inside pages. I'm centering them for mobile*/
+/* page-content class is used so I can specifically target h1 children in the content areas of inside pages. I'm centering them for mobile*/
 @media (max-width: 768px) {
 .page-content h1 {
 	text-align: center;
@@ -608,9 +608,13 @@ intro .brand-heading {
 .overview-page-image99 {
 	background: url(../images/inside_image_99.jpg)no-repeat bottom center scroll;
 }
+.overview-page-image99_sm {
+	background: url(../images/inside_image_99_sm.jpg)no-repeat bottom center scroll;
+}
 .overview-page-image-style {
 	width: 100%;
-	height: 380px;
+	
+	height: 300px;
 	padding: 0;
 	margin-top: 71px;
 	color: #fff;
@@ -620,6 +624,20 @@ intro .brand-heading {
 	background-size: cover;
 	-o-background-size: cover;
 }
+
+.overview-page-image-style_sm {
+	width: 100%;
+	height: 100px;
+	padding: 0;
+	margin-top: 71px;
+	color: #fff;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+
 
 @media (min-width: 768px) and (max-width: 992px) {
 .overview-page-image-style {
@@ -664,19 +682,43 @@ intro .brand-heading {
 }
 /*left nav*/
 .nav-leftside-custom {
-	font-size: 10px;
 	text-align: right;
 }
+
+.nav-leftside-custom a{
+	font-size: 13px;
+}
+/*left subNav*/
+
+.nav-leftside-custom .subLeftNav a{
+	font-size: 11px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
 
 /* hide inactive nested list */
 .nav-leftside-custom .nav ul.nav {
     display: none;           
 }
-/* show active nested list */
-.nav-leftside-custom .nav>.active>ul.nav {
+/* show active nested list - only opens when a sub nav is active - set it this way so the action agenda home page wouldn't show it's subnav*/
+.nav-leftside-custom .nav>.subNavOn>ul.nav {
     display: block;           
 }
 
+/*left nav customization of bootstrap nav class*/
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+	font-weight: 700;
+	color: #0a3b5c;
+	background-color: #fff;
+}
+/*left subnav customization of bootstrap nav class*/
+.nav-pills > li > ul > li.active > a, .nav-pills > li > ul >  li.active > a:hover, .nav-pills > li > ul > li.active > a:focus {
+	font-weight: 500;
+	color: #0a3b5c;
+	background-color: #fff;
+
+}
 
 /*makes the left nav centered on small screens*/
 @media (max-width: 768px) {
@@ -714,18 +756,7 @@ intro .brand-heading {
 .right-nav-contact {
 	font-size: 12px;
 }
-/*left nav customization of bootstrap nav class*/
-.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
-	font-weight: 700;
-	color: #0a3b5c;
-	background-color: #fff;
-}
-/*left nav customization of bootstrap nav class*/
-.nav-pills > li > ul > li.active > a, .nav-pills > li > ul >  li.active > a:hover, .nav-pills > li > ul > li.active > a:focus {
-	font-weight: 700;
-	color: #0a3b5c;
-	background-color: #fff;
-}
+
 
 /*SITE MAP STYLES*/
 .sitemap ul {

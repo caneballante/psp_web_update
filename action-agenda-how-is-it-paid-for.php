@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,7 +26,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 7;
+  	 	navSelected = 1;
+	subNavSelected = 6;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -40,81 +42,65 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image99">
+<!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>ACTION AGENDA INSPIRATIONAL QUOTE OR STATEMENT GOES HERE.</h3>
+		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo.png" width="433" height="89" alt=""/></div>
+	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
 </div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>1.6 HOW IS IT PAID FOR?</h1>
+			<h1>HOW IS IT PAID FOR?</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-action-agenda.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-action-agenda.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<h2 class="margin-0-top">CONTENT TABLE FROM EXCEL</h2>
-			<table cellspacing="0" cellpadding="0">
-				<col width="424">
-				<tr>
-					<td width="424">Key   Points: </td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pie chart showing percentage of   state and federal funding, Funding changes during each new funding cycle.</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Describe NEP briefly </td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Describe ECB funded study which showed the significant lack of funding needed   to support recovery plans..</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Funding requirements per Strategic   Initiative - Show graphs</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [Link to funding strategy]</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   A point about coordinated funding and integrated investment</td>
-				</tr>
-				<tr>
-					<td></td>
-				</tr>
-				<tr>
-					<td width="424">Provide   Link to Action Agenda </td>
-				</tr>
-			</table>
-			<p>&nbsp;</p>
+			<p>The Puget Sound Partnership works closely with partners to develop a dependable and diverse funding strategy that will support Puget Sound recovery today and into the coming decades. Federal, state, local, and tribal governments currently provide much of the funding for Puget Sound recovery actions. Those investments are enhanced by contributions from non-profit, philanthropic, corporate, and market-based funding. Examples of existing federal and state funding programs include:</p>
+			<ul>
+				<li>Federal
+					<ul>
+						<li><a href="https://www.epa.gov/puget-sound">U. S. Environmental Protection Agency—National Estuary Program and Puget Sound Geographic Program</a></li>
+						<li><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/pacific_coastal_salmon_recovery_fund.html">National Oceanic and Atmospheric Administration—Pacific Coastal Salmon Recovery Fund</a></li>
+					
+					</ul>
+				</li>
+					<li>State</li>
+				<li>Puget Sound Acquisition and Restoration Fund
+					<ul>
+						<li><a href="http://www.pugetsoundnearshore.org/esrp/">Estuary and Salmon Restoration Program </a></li>
+						<li><a href="http://www.floodplainsbydesign.org">Floodplains by Design</a></li>
+						<li><a href="http://www.ecy.wa.gov/programs/wq/funding/FundPrgms/Stormwater/oppSW.html">Stormwater Financial Assistance Program</a></li>
+					</ul>
+				</li>
+			</ul>
+			<p>The funding currently available from various sources is insufficient to fund the full costs of recovery efforts included in the Action Agenda. Developing strategies to accomplish funding goals has been an emphasis of the Ecosystem Coordination Board’s Finance Subcommittee, which in 2014 identified an annual funding gap of between $295 and $661 million for actions associated with stormwater, habitat, and shellfish. We can increase our achievements by dedicating additional funding sources, increasing the efficiency and effectiveness of existing sources, and developing innovative, market-based programs.</p>
+			<p><a href="https://pspwa.box.com/shared/static/ze48ycr040cwwbuhndr0ce0b9ggxib1b.pdf">LEARN MORE IN THE COMPREHENSIVE PLAN, CHAPTER 5 (PDF)</a></p>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
+			<div class="right-nav-title margin-0-top ">MORE INFORMATION</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="action-agenda-2106-document">2016 Action Agenda Document 2.0</a></li>
-				<li role="presentation"> <a href="#">Funding Strategy - comp plan ch5 and ECB working group materials</a></li>
-				<li role="presentation"> <a href="action-agenda-2106-document">INFOGRAPHIC - Pie chart on funding sources/proportions - funding needed, funding from various sources, funding gap</a></li>
-			
+				
+				<li role="presentation"> <a href="https://pspwa.app.box.com/files/0/f/5098831006/1/f_41956426473">Strategic Initiative Funding Strategy</a></li>
+				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
@@ -144,4 +130,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>

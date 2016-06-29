@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,7 +26,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 6;
+  	 	navSelected = 1;
+	subNavSelected = 5;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -40,72 +42,56 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image99">
+<!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>ACTION AGENDA INSPIRATIONAL QUOTE OR STATEMENT GOES HERE.</h3>
+		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo.png" width="433" height="89" alt=""/></div>
+	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
 </div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>1.5 HOW DO WE KNOW IT'S WORKING?</h1>
+			<h1>HOW DO WE KNOW IT'S WORKING?</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-action-agenda.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-action-agenda.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">CONTENT TABLE FROM EXCEL</h2>
-			<table cellspacing="0" cellpadding="0">
-				<col width="424">
-				<tr>
-					<td width="424">Key   Points: </td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   We measure our success by improvements to our vital signs. (LINK   to Vital Signs)</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Initial planning and decision-making informed by Science and Strategies   developed to reach recovery targets (LINK to IS)</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   We need to keep measuring/assessing    the effectiveness of those actions, especially as systems change and   course correct. (LINK to Measuring Effectiveness)</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   We do this by getting data from partners (LINK to PSEMP), checking the state of the ecosystem regularly (LINK to the State of the Sound), and   updating the near term action every two years to make sure we are seeking   recovery&rsquo;s highest priorities at any point in time.</td>
-				</tr>
-			</table>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --> </div>
-		
+			<p>The Puget Sound Partnership monitors progress toward ecosystem recovery at two scales—ecosystem health and implementation effectiveness. </p>
+			<h3>ECOSYSTEM HEALTH</h3>
+			<p>To understand the health of the Puget Sound ecosystem and to describe desired future conditions, the Puget Sound Partnership adopted the <a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs</a>, which are measures of ecosystem health directly aligned with the six recovery goals established by the Washington State Legislature. Most Vital Signs are represented by one or more specific metrics—called indicators—that provide information about the condition of the Puget Sound ecosystem. Many of the Vital Sign indicators are further refined by the use of 2020 recovery targets.</p>
+			<p>An understanding of progress toward achieving the Vital Sign recovery targets is assessed from data compiled from a variety of monitoring programs and funding organizations in Puget Sound, including state and federal agencies, tribes, local jurisdictions, and nongovernmental organizations. Technical and scientific experts from those organizations provide the data and oversee the interpretation of the results. Data quality assurance and documentation remain the primary responsibility of the individual contributors.</p>
+			<h3>IMPLEMENTATION EFFECTIVENESS</h3>
+			<p>Project sponsors and partners implement the programs and projects identified in the Action Agenda and monitor the results. Two tools are used to monitor status of implementation activities. The <a href="http://www.psp.wa.gov/gis/ReportCard">Action Agenda Report Card</a> and the <a href="www.psp.wa.gov/action-agenda-puget-sound-recovery-atlas.php">Puget Sound Recovery Atlas</a> track status of Near Term Actions relative to project plans, provide information on projects completed or underway, and assess whether the expected outputs have been produced.</p>
+			<p>By monitoring and assessing effectiveness, the Puget Sound Partnership can describe the return on investment or benefit of recovery efforts. When the return or benefit meets or exceeds expectations, sharing results can encourage more implementation of successful approaches. When the return or benefit does not meet expectations, the recovery approaches can be modified. The knowledge gained is reflected in the biennial updates to the <a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan (PDF)</a>—the strategies, regional priorities, and actions prioritized for the next cycle. </p>
+			<h3>RESULTS</h3>
+			<p>The Partnership reports the current status of both ecosystem health and implementation effectiveness in the <a href="http://www.psp.wa.gov/sos.php">State of the Sound report</a>, updated every 2 years. The report provides a summary of data tracked in the Puget Sound Vital Signs and Action Agenda Report Card to help partners and decisionmakers understand the state of the Puget Sound ecosystem, where progress is being made, where challenges remain, and where future action and focused investment are needed. </p>
+			<a href="https://pspwa.box.com/shared/static/y5d4b6xrx3r2thnqx7in7qzej65v5cqr.pdf">LEARN MORE IN THE COMPREHENSIVE PLAN, CHAPTER 2 (PDF)</a><!-- InstanceEndEditable --> </div>
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
+			<div class="right-nav-title margin-0-top ">MORE INFORMATION</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="action-agenda-2016-document">2016 Action Agenda Document 2.0</a></li>
-				<li role="presentation"> <a href="#">Implementation Strategies (existing)</a></li>
-				<li role="presentation"> <a href="#">Measuring Effectiveness</a></li>
-				<li role="presentation"> <a href="#">PSEMP</a></li>
-				<li role="presentation"> <a href="#">2015 State of the Sound</a></li>
-				<li role="presentation"> <a href="#">Vital Signs</a></li>
-				<li role="presentation"> <a href="#">INFOGRAPHIC - graphics from SOS report on Vital Signs</a></li>
+			
+				<li role="presentation"> <a href="evaluating-actions-to-recover-puget-sound.php">Measuring Effectiveness</a></li>
+				<li role="presentation"> <a href="evaluating-PSEMP.php">PSEMP</a></li>
+				<li role="presentation"> <a href="http://app.leg.wa.gov/RCW/default.aspx?cite=90.71.300">Recovery Goals Established</a></li>
+			
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
@@ -135,4 +121,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>

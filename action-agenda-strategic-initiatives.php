@@ -25,8 +25,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
-	subNavSelected = 1;
+  	 	navSelected = 7;
+	subNavSelected = 0;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -56,7 +56,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>What is the action Agenda?</h1>
+			<h1>STRATEGIC INITIATIVES</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -73,29 +73,31 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<p><img src="images/2015-strategic-icons_final.jpg" width="500" height="210" alt=""/><br>
+Strategic Initiatives prioritize near-term recovery efforts and funding to focus on the most meaningful improvements for Puget Sound. In 2012, the Puget Sound Partnership and its boards (<a href="EB_about.php">Ecosystem Coordination Board</a>, <a href="SP_about.php">Science Panel</a>, and <a href="LC_about.php">Leadership Council</a>) established three Strategic Initiatives: </p>
+			<ul>
+				<li><a href="https://pspwa.box.com/shared/static/pv9inxe1xp1mvzxxu91dyelngoaouv5k.pdf">Stormwater Strategic Initiative: Prevent pollution from urban stormwater runoff </a></li>
+				<li><a href="https://pspwa.box.com/shared/static/ohlajy48cedo8g76f4p4emtulrg2rfzp.pdf">Habitat Strategic Initiative: Protect and restore habitat</a></li>
+				<li><a href="https://pspwa.box.com/shared/static/b374rber1465a4rvr8ndzqu51i07yzc0.pdf">Shellfish Strategic Initiative: Protect and recover shellfish beds</a></li>
+			</ul>
+			<p>The 2016 Action Agenda requires that all proposed Near Term Actions address one of the three Strategic Initiatives.</p>
+			<h3>STORMWATER STRATEGIC INITIATIVE: THE CHALLENGE </h3>
+				<p>Nonpoint sources of pollution, such as stormwater and changes in the hydrology of runoff patterns, are the biggest threats to Puget Sound water quality. Polluted stormwater carries toxins, nutrients, sediment, and bacteria to Puget Sound where these pollutants affect aquatic life and public health. Land development can increase stormwater runoff from impervious surfaces. Climate change and its effects on precipitation and runoff are significant variables in managing stormwater. </p>
+			<h3>HABITAT STRATEGIC INITIATIVE: THE CHALLENGE </h3>
+			<p>	Puget Sound habitat supports a multitude of fish, seabird, invertebrate, and plant species as well as a burgeoning human population. Human impacts on habitat have translated to declines—sometimes over a brief period of time—in many marine species. Habitat loss and decline is closely tied to tribal treaty rights that are at risk. The primary challenges to Puget Sound habitat are as follows. </p>
+			<ul>
+				<li>Hardened shorelines </li>
+				<li>Filled estuaries </li>
+				<li>Channelized rivers and altered floodplains </li>
+				<li>Competition for fresh water </li>
+				<li>Oil and chemical spills </li>
+				<li>Loss of habitat for protected species </li>
+				<li>Vulnerability to climate change </li>
+			</ul>
+			<h3>SHELLFISH STRATEGIC INITIATIVE: THE CHALLENGE</h3>
+				<p>Shellfish make an essential contribution to the culture, recreation, and economy of the Puget Sound region. Northwest tribes have harvested shellfish for about 12,000 years. Commercial shellfish harvests generate about $180 million annually in economic benefits to the state. The filtering and recycling capacities of shellfish are also essential to marine waters. Shellfish beds require excellent water quality, a requirement that is threatened by direct discharges of pollutants as well as stormwater and surface runoff. The rapid pace of ocean acidification exceeds the ocean&rsquo;s capacity to restore pH and chemical balance, causing shellfish to corrode more rapidly. While intensive shellfish aquaculture can supply shellfish to a demanding market, it can stress the Puget Sound ecosystem.</p>
 		
-		<p>The Action Agenda for Puget Sound is our region's shared roadmap for Puget Sound recovery. The plan is organized into two sections:</p>
-<ul>
-<li><a href="https://pspwa.box.com/shared/static/rlhdytkj5wsqb6k2lg9zbjak5tn4cva3.pdf">Comprehensive Plan (PDF)</a>, which outlines long-term priorities and strategies to achieve Puget Sound recovery.</li>
-<li><a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan (PDF)</a>, which details actions related to stormwater, habitat, and shellfish that should begin in the next 2 years to accelerate Puget Sound restoration and protection. </li>
-</ul>
-
-<p>The Action Agenda complements other local or subregional planning processes, such as salmon recovery plans, by identifying a consolidated set of priorities and opportunities for federal, state, local, tribal, and private entities to invest resources and coordinate actions. In particular, the Action Agenda has been developed with the following intentions: </p>
-
-<ul>
-	<li>It is a collective effort developed by diverse partners from state and federal agencies, tribal governments, local governments, and business and environmental groups. </li>
-	<li>It is informed by science through input from regional science experts with a variety of public, private, tribal, and academic affiliations and different technical and geographic areas of focus.</li>
-	<li>It guides effective investment in Puget Sound by constantly assessing the effectiveness of actions and outcomes, tracking progress, and re-prioritizing needs to generate the highest return on investment for recovery at any point in time. </li>
-	<li>It meets the National Estuary Program’s Comprehensive Conservation and Management Plan requirements. The National Estuary Program is the primary method through which the U.S. Environmental Protection Agency provides funding for Puget Sound recovery. 
-	</li>
-</ul>
-
-<p><a href="https://pspwa.box.com/shared/static/atqhfo6htwgasoh9oudtwlfwk3sbu4qe.pdf">LEARN MORE IN THE COMPREHENSIVE PLAN, CHAPTER 1, PAGES 4-5</a> (PDF)</p>
-<p>Action Agenda Details to explore:</p>
-<ul>
-	<li><a href="action-agenda-foundational-components.php">Foundational Components of the Action Agenda</a></li>
-	<li><a href="action-agenda-how-has-it-changed.php">How the Action Agenda Has Changed</a></li>
-</ul>
+			<p>The Strategic Initiatives serve a crucial role in Puget Sound recovery by directing efforts and funding toward priorities that address the most critical threats and opportunities. Strategic Initiatives will increasingly be informed by <a href="http://www.psp.wa.gov/2016_AA_implementation_strategies.php">Implementation Strategies</a>. </p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -103,15 +105,11 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs</a></li>
+				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">2014 Pressure Assessment</a></li>
 			
-			
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/6t0frh4kqizmj8pca59xka8tvnpp3fvh.pdf" target="_blank">Near Term Actions (PDF)</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/fu0q4fn2r7k2kmpyesr183anqq5q3fu0.pdf" target="_blank">Substrategies (PDF)</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/b374rber1465a4rvr8ndzqu51i07yzc0.pdf" target="_blank">Shellfish Strategic Initiative (PDF)</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/ohlajy48cedo8g76f4p4emtulrg2rfzp.pdf" target="_blank">Habitat Strategic Initiative (PDF)</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/pv9inxe1xp1mvzxxu91dyelngoaouv5k.pdf" target="_blank">Stormwater Strategic (PDF)</a></li>
-				<li role="presentation"> <a href="evaluating-effective-action.php">Effectiveness Monitoring</a></li>
-				<li role="presentation"> <a href="https://www.epa.gov/nep" target="_blank">National Estuary Program </a></li>
+				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

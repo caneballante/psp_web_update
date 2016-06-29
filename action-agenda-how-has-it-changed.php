@@ -25,7 +25,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 1;
+	subNavSelected = 1;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -41,9 +42,9 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image99">
+<header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>ACTION AGENDA INSPIRATIONAL QUOTE OR STATEMENT GOES HERE.</h3>
+		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -55,7 +56,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>1.1.2 HOW HAS THE ACTIONA AGENDA CHANGED?</h1>
+			<h1>HOW HAS THE ACTION AGENDA CHANGED?</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -72,31 +73,28 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">CONTENT TABLE FROM EXCEL</h2>
-			<table cellspacing="0" cellpadding="0">
-				<col width="424">
-				<tr>
-					<td width="424">Main   Section - Content</td>
-				</tr>
-				<tr>
-					<td width="424">&nbsp;</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Key changes - from Comp Plan Section 2.6 and   Implementation Plan Ch2</td>
-				</tr>
-			</table>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --> </div>
+	<p>	As our knowledge of the ecosystem and of the effectiveness of recovery actions evolves, the Action Agenda needs to keep pace. How the Action Agenda has been updated and modified since 2008 has improved in many ways based on feedback from partners and on the results of science research and monitoring. </p>
+<p>The figure below shows highlights of how the Action Agenda has evolved over the last ten years.</p>
+<p><img src="images/AA_2015_historical_timeline.jpg" width="600" height="456" alt=""/></p>
+<p>This 2016 Action Agenda builds on past Action Agendas and reflects several new developments that focus and prioritize actions and investments. The changes reflect:</p>
+<ul>
+	<li>A shift in the role of the Puget Sound Partnership to focus more on coordination and supporting Near Term Action owners who have the knowledge, expertise, and on-the-ground networks to excel at implementing projects and actions that contribute to Puget Sound recovery. </li>
+	<li>An emphasis on stewardship strategies in the Near Term Action solicitation and recognizing the important role that the <a href="http://www.psp.wa.gov/LIO-overview.php">Local Integrating Organizations</a> and other partners play in education and outreach. </li>
+</ul>
+<p>The 2016 Action Agenda also begins a transition between being guided by Strategic Initiatives and <a href="http://www.psp.wa.gov/2016_AA_implementation_strategies.php">Implementation Strategies</a>. The Strategic Initiatives are regional priorities that help direct spending and resources. The 2016 Action Agenda requires that all proposed Near Term Actions address one of the three Strategic Initiatives (stormwater, habitat, and shellfish). Implementation Strategies, by contrast, are plans for achieving specific Vital Sign recovery targets. Implementation Strategies are introduced in the 2016 Action Agenda and it is anticipated that their role will increase in subsequent updates to the <em>Implementation Plan</em>.</p>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
+			<div class="right-nav-title margin-0-top ">MORE INFORMATION</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="action-agenda-2016-document">2016 Action Agenda Document 2.0</a></li>
-				<li role="presentation"> <a href="#">Adaptive Management (existing?)</a></li>
-				<li role="presentation"> <a href="#">INFOGRAPHIC - TIMELINE GRAPHIC</a></li>
-				<li role="presentation"> <a href="#">INFOGRAPHIC - ACTION AGENDA CHANGES</a></li>
+				<li role="presentation"> <a href="science-biennial-science-workplan.php">Biennial Science Work Plan</a></li>
+				<li role="presentation"> <a href="science-strategic-science-plan.php">Strategic Science Work Plan</a></li>
+				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">2014 Pressures Assessment</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs</a></li>
+				<li role="presentation"> <a href="action-agenda-archive.php">Action Agenda Archive</a></li>
+				<li role="presentation"> <a href="http://app.leg.wa.gov/RCW/default.aspx?cite=90.71.300">Recovery Goals Established</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

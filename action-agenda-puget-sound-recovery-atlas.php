@@ -43,7 +43,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image99">
 	<div class="overview-quote pull-right">
-		<h3>ACTION AGENDA INSPIRATIONAL QUOTE OR STATEMENT GOES HERE.</h3>
+		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -55,7 +55,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>3.0 PUGET SOUND RECOVERY ATLAS</h1>
+			<h1>PUGET SOUND RECOVERY ATLAS</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -72,30 +72,13 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">CONTENT TABLE FROM EXCEL</h2>
-			<table cellspacing="0" cellpadding="0">
-				<col width="424">
-				<tr>
-					<td width="424">Main   Section</td>
-				</tr>
-				<tr>
-					<td width="424">&nbsp;</td>
-				</tr>
-				<tr>
-					<td width="424">Key   Points: </td>
-				</tr>
-				<tr>
-					<td width="424">Introduce   content presented on this page and how it is created/updated</td>
-				</tr>
-				<tr>
-					<td width="424">Matrix /   Directory with detailed information available via drop-down menu </td>
-				</tr>
-				<tr>
-					<td width="424"></td>
-				</tr>
-			</table>
+			<p>The Puget Sound Recovery Atlas will be developed over time as Implementation Strategies become the focus for Near Term Action development and implementation. In the interim, a suite of Puget Sound Partnership products providwe information on implementation of recovery and protection actions.</p>
+			<p><a href="http://gismanager.rco.wa.gov/ntaportal">The Action Agenda Report Card</a> is an online tool that allows users to track the progress and funding of Near Term Actions (NTAs) included in the 2016 Action Agenda. The Report Card is searchable and allows NTAs to be filtered in a variety of ways including by owner, performance status, Vital Sign and Strategic Initiative. </p>
+			<p>The National Estuary Program (NEP) Atlas is an online and interactive tool composed of maps, tables, graphs, and links to reports pertaining to all NEP-funded activities from 2007 onward. The main purpose of the NEP Atlas is to consistently track and communicate Puget Sound NEP activities and funding that relate to the Puget Sound Action Agenda. </p>
+			<p><a href="http://gismanager.rco.wa.gov/ProjectAtlas/?summaryArea%5bareaName%5d=Puget+Sound&summaryArea%5bareaType%5d=PSP+Boundary&summaryArea%5bareaShapeId%5d=NA">The Project Atlas</a> is a map-based, online tool that allows users to learn more about an important subset of Puget Sound restoration and protection projects financed or tracked by the <a href="http://www.rco.wa.gov/">Washington State Recreation and Conservation Office</a>. Clickable map markers allow users to view detailed information about each project. A range of filters enables searches on projects in specific geographical areas—such as county, legislative district, congressional district and watershed. Projects included in the Project Atlas are also associated with the Puget Sound Vital Signs. </p>
+			<p>In late 2016, the Partnership will start collect information about existing ongoing programs and will provide dynamic access to that information through the Puget Sound Recovery Atlas. This information will be used in developing and adaptively managing the Action Agenda, particularly through Implementation Strategies and the funding strategy for the Action Agenda.</p>
 			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --> </div>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>

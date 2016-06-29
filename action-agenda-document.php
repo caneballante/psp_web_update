@@ -25,8 +25,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
-	subNavSelected = 1;
+  	navSelected = 3;
+	subNavSelected = 0;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -56,7 +56,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>What is the action Agenda?</h1>
+			<h1>Action Agenda download links</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -74,47 +74,48 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-		<p>The Action Agenda for Puget Sound is our region's shared roadmap for Puget Sound recovery. The plan is organized into two sections:</p>
-<ul>
-<li><a href="https://pspwa.box.com/shared/static/rlhdytkj5wsqb6k2lg9zbjak5tn4cva3.pdf">Comprehensive Plan (PDF)</a>, which outlines long-term priorities and strategies to achieve Puget Sound recovery.</li>
-<li><a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan (PDF)</a>, which details actions related to stormwater, habitat, and shellfish that should begin in the next 2 years to accelerate Puget Sound restoration and protection. </li>
-</ul>
-
-<p>The Action Agenda complements other local or subregional planning processes, such as salmon recovery plans, by identifying a consolidated set of priorities and opportunities for federal, state, local, tribal, and private entities to invest resources and coordinate actions. In particular, the Action Agenda has been developed with the following intentions: </p>
+<p>The 2016 Action Agenda for Puget Sound is organized into two sections:</p>
 
 <ul>
-	<li>It is a collective effort developed by diverse partners from state and federal agencies, tribal governments, local governments, and business and environmental groups. </li>
-	<li>It is informed by science through input from regional science experts with a variety of public, private, tribal, and academic affiliations and different technical and geographic areas of focus.</li>
-	<li>It guides effective investment in Puget Sound by constantly assessing the effectiveness of actions and outcomes, tracking progress, and re-prioritizing needs to generate the highest return on investment for recovery at any point in time. </li>
-	<li>It meets the National Estuary Program’s Comprehensive Conservation and Management Plan requirements. The National Estuary Program is the primary method through which the U.S. Environmental Protection Agency provides funding for Puget Sound recovery. 
-	</li>
+	<li><a href="https://pspwa.box.com/shared/static/rlhdytkj5wsqb6k2lg9zbjak5tn4cva3.pdf">Comprehensive Plan (PDF)</a>, which outlines long-term priorities and strategies to achieve Puget Sound recovery. </li>
+	<li><a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan (PDF)</a>, which details actions related to stormwater, habitat, and shellfish that should begin in the next two years to accelerate Puget Sound restoration and protection. </li>
 </ul>
 
-<p><a href="https://pspwa.box.com/shared/static/atqhfo6htwgasoh9oudtwlfwk3sbu4qe.pdf">LEARN MORE IN THE COMPREHENSIVE PLAN, CHAPTER 1, PAGES 4-5</a> (PDF)</p>
-<p>Action Agenda Details to explore:</p>
-<ul>
-	<li><a href="action-agenda-foundational-components.php">Foundational Components of the Action Agenda</a></li>
-	<li><a href="action-agenda-how-has-it-changed.php">How the Action Agenda Has Changed</a></li>
-</ul>
-		<!-- InstanceEndEditable --> </div>
+
+<p>Explore both documents using the links below.</p>
+
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">MORE INFORMATION</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-			
-			
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/6t0frh4kqizmj8pca59xka8tvnpp3fvh.pdf" target="_blank">Near Term Actions (PDF)</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/fu0q4fn2r7k2kmpyesr183anqq5q3fu0.pdf" target="_blank">Substrategies (PDF)</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/b374rber1465a4rvr8ndzqu51i07yzc0.pdf" target="_blank">Shellfish Strategic Initiative (PDF)</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/ohlajy48cedo8g76f4p4emtulrg2rfzp.pdf" target="_blank">Habitat Strategic Initiative (PDF)</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/pv9inxe1xp1mvzxxu91dyelngoaouv5k.pdf" target="_blank">Stormwater Strategic (PDF)</a></li>
-				<li role="presentation"> <a href="evaluating-effective-action.php">Effectiveness Monitoring</a></li>
-				<li role="presentation"> <a href="https://www.epa.gov/nep" target="_blank">National Estuary Program </a></li>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+					<p><a href="https://pspwa.box.com/shared/static/cg9nvl7e49qavig0xnjajvktnzjuhd8p.pdf">Executive Summary (PDF)</a></p>
+					<p><a href="https://pspwa.box.com/shared/static/rlhdytkj5wsqb6k2lg9zbjak5tn4cva3.pdf">Comprehensive Plan (PDF)</a></p>
+					<ul>
+					<li><a href="https://pspwa.box.com/shared/static/atqhfo6htwgasoh9oudtwlfwk3sbu4qe.pdf">Chapter 1 Introduction (PDF)</a></li>
+					<li><a href="https://pspwa.box.com/shared/static/y5d4b6xrx3r2thnqx7in7qzej65v5cqr.pdf">Chapter 2 Framework for Recovery (PDF)</a></li>
+					<li><a href="https://pspwa.box.com/shared/static/uxv2j9om9afz8a7tku0ojigxn5fnep3n.pdf">Chapter 3 Managing Recovery (PDF)</a></li>
+					<li><a href="https://pspwa.box.com/shared/static/29gdef7tey3b81s5wjaow4yjwuil168z.pdf">Chapter 4 Planning Recovery (PDF)</a></li>
+					<li><a href="https://pspwa.box.com/shared/static/ze48ycr040cwwbuhndr0ce0b9ggxib1b.pdf">Chapter 5 Funding (PDF)</a></li>
+					<li><a href="https://pspwa.box.com/shared/static/tdm19k3mpp598vwse0uw3jhcumqlpefv.pdf">Chapter 6 Glossary (PDF)</a></li>
+					</ul>
+					<p><a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan (PDF)</a></p>
+					<ul>
+					<li><a href="https://pspwa.box.com/shared/static/6t0frh4kqizmj8pca59xka8tvnpp3fvh.pdf">Chapter 1 Introduction and Ranked Near Term Actions (PDF)</a></li>
+					<li><a href="https://pspwa.box.com/shared/static/xk5ydvotp1wzsvhy6nyf7rj4625mi7zg.pdf">Chapter 2 Development, Use, and Measurement of the Implementation Plan (PDF)</a></li>
+					<li><a href="https://pspwa.box.com/shared/static/pv9inxe1xp1mvzxxu91dyelngoaouv5k.pdf">Chapter 3 Stormwater Strategic Initiative: Prevent Pollution from Stormwater Runoff (PDF)</a></li>
+					<li><a href="https://pspwa.box.com/shared/static/ohlajy48cedo8g76f4p4emtulrg2rfzp.pdf">Chapter 4 Habitat Strategic Initiative: Protect and Restore Habitat (PDF)</a></li>
+					<li><a href="https://pspwa.box.com/shared/static/b374rber1465a4rvr8ndzqu51i07yzc0.pdf">Chapter 5 Shellfish Strategic Initiative: Protect and Recover Shellfish Beds (PDF)</a></td></li>
+					</li>	
+					<p><a href="https://pspwa.box.com/shared/static/58m7l658wuclega9vv54ysf37vnt4frl.pdf">Appendices (PDF)</a></p>
+					<ul>
+						<li><a href="https://pspwa.box.com/shared/static/fu0q4fn2r7k2kmpyesr183anqq5q3fu0.pdf">Appendix A Strategies and Substrategies</a></li>
+						<li><a href="https://pspwa.box.com/shared/static/c6dpiktiaihvu1qpwv51yma2sjsvs16c.pdf">Appendix B Sub-strategies that Cut Across the 2016 Strategic Initiatives</a></li>
+						<li><a href="https://pspwa.box.com/s/q3ubohlwbk4oe1g7ju5p1ewscwwoflm7">Appendix C Ongoing Programs</a></li>
+					</ul>
+			<p>Visit <a href="action-agenda-archive.php">Action Agenda Archive</a> to access past versions of the Action Agenda.</p>
+
+						
+					
+					<!-- InstanceEndEditable --> </div>
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

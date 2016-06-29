@@ -44,6 +44,9 @@ $(window).resize(function() {
 $( document ).ready(function() {
 	$("#nav"+navSelected).addClass("active");
 	$("#subnav"+subNavSelected).addClass("active");
+	if(subNavSelected>0) {
+		$("#nav"+navSelected).addClass("subNavOn");
+	}
 	console.log("#subnav"+subNavSelected);
 });
 	

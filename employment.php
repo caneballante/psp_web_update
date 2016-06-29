@@ -44,7 +44,7 @@
 <header class="overview-page-image-style overview-page-image12"> </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+	<div class="col-sm-12 orange"></div>
 </div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">

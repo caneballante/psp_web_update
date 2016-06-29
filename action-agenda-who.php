@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,7 +26,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 4;
+  	navSelected = 1;
+	subNavSelected=3;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -40,153 +42,76 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image99">
+<!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>ACTION AGENDA INSPIRATIONAL QUOTE OR STATEMENT GOES HERE.</h3>
+		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo.png" width="433" height="89" alt=""/></div>
+	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
 </div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>1.3 Who makes it?</h1>
+			<h1>Who makes it?</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-action-agenda.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-action-agenda.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">CONTENT TABLE FROM EXCEL</h2>
-			<table cellspacing="0" cellpadding="0">
-				<col width="424">
+			<p>The Puget Sound Partnership was created to steward the work of a broad set of partners toward recovery in a region with a growing, multicultural population. The Partnership boards and entities formally associated with development of the Action Agenda are depicted in the following table.</p>
+			<table class="table">
 				<tr>
-					<td width="424">Key   Points: </td>
+					<td>PUGET SOUND PARTNERSHIP</td>
+					<td>PARTNERS IN PUGET SOUND RECOVERY</td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   We each have a role</td>
-				</tr>
-				<tr>
-					<td width="424"></td>
-				</tr>
-				<tr>
-					<td width="424">Puget   Sound Partnership</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   PSP</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   The backbone</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Holding it all together</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Shared roadmap</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Shared measures</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Support Partners to implement Action Agenda</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Puget Sound Partnership Boards</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   LC – define one sentence (LINK to profiles and statute)</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   ECB – &ldquo;&rdquo;</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   SP – &ldquo;&rdquo;</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   SRC – &ldquo;&rdquo;</td>
-				</tr>
-				<tr>
-					<td width="424"></td>
-				</tr>
-				<tr>
-					<td width="424">Affiliated   Organizations and Work Groups</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Strategic Initiative Leads, and Advisory Team</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   LIO's</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Puget Sound Ecosystem Monitoring Program</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Salmon Recovery and Watershed Groups</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Northwest Straits Commission and Marine Resources Committees</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Environmental Caucus</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Academic Institutions</td>
-				</tr>
-				<tr>
-					<td width="424"></td>
-				</tr>
-				<tr>
-					<td width="424">Governmental   Entities</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Tribes</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Fed</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   State</td>
-				</tr>
-				<tr>
-					<td width="424">o&nbsp;&nbsp;   Cities, Counties, and Special Purpose Districts</td>
-				</tr>
-					<tr>
-					<td width="424">o&nbsp;&nbsp;   Transboundary</td>
-				</tr>
-				<tr>
-					<td width="424"></td>
-				</tr>
-				<tr>
-					<td width="424">Provide   Link to Action Agenda </td>
+					<td><ul>
+							<li><a href="LC_about.php">Leadership Council </a></li>
+							<li><a href="EB_about.php">Ecosystem Coordination Board</a></li>
+							<li><a href="SP_about.php">Science Panel</a></li>
+							<li><a href="SR_about.php">Puget Sound Salmon Recovery Council</a></li>
+							<li>Puget Sound Partnership: Executive Director & Staff</li>
+						</ul></td>
+					<td><ul>
+						<li>Strategic Initiative Leads and Advisory Teams </li>
+						<li><a href="LIO-overview.php">Local Integrating Organizations </a></li>
+						<li><a href="evaluating-PSEMP.php">Puget Sound Ecosystem Monitoring Program</a></li>
+						<li>Salmon Recovery and Watershed groups </li>
+						<li>NW Straits Commission & Marine Resources Committees </li>
+						<li>Environmental Caucus</li>
+						<li>Academic Institutions </li>
+						<li>Federal Caucus</li>
+						<li>State Agencies</li>
+						<li>Local Governments</li>
+						<li>Tribes</li>
+					</ul>						</td>
 				</tr>
 			</table>
+			<p><a href="https://pspwa.box.com/shared/static/uxv2j9om9afz8a7tku0ojigxn5fnep3n.pdf">LEARN MORE IN THE COMPREHENSIVE PLAN, CHAPTER 3, PAGES 24-32 (PDF)</a></p>
+
+
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
+			<div class="right-nav-title margin-0-top ">MORE INFORMATION</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="action-agenda-2016-document.php">2016 Action Agenda Document 2.0</a></li>
-				<li role="presentation"> <a href="#">Management Conference Profiles and Statute (from AA? or new page?)</a></li>
-				<li role="presentation"> <a href="#">Directory of Ongoing Programs 3.0</a></li>
-				<li role="presentation"> <a href="#">INFOGRAPHIC - TABLE FROM COMP PLAN CHAP 3</a></li>
-				<li role="presentation"> <a href="#">Figure 3-2 Decision Process</a></li>
+				
+				<li role="presentation"> <a href="http://app.leg.wa.gov/RCW/default.aspx?cite=90.71.210">Puget Sound Partnership Statute</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
@@ -216,4 +141,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>

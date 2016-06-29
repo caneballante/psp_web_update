@@ -25,7 +25,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 1;
+	subNavSelected = 1;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -41,9 +42,9 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image99">
+<header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>ACTION AGENDA INSPIRATIONAL QUOTE OR STATEMENT GOES HERE.</h3>
+		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -55,7 +56,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>1.1.1 WHAT ARE THE FOUNDATIONAL COMPONENTS OF THE action Agenda</h1>
+			<h1>WHAT ARE THE FOUNDATIONAL COMPONENTS OF THE action Agenda?</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -72,48 +73,45 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">CONTENT TABLE FROM EXCEL</h2>
-			<table cellspacing="0" cellpadding="0">
-				<col width="424">
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Note: Draft list from Sheida&rsquo;s notes</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Adaptive Management - simplified infographic with link to more detailed   graphic and description</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Guiding Principals (what are they and link to expand information shown on   page)</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Goals (what are they and &quot;clink&quot; to expand information shown on   page)</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Recovery Targets (what are they and LINK Comp Plan figure   2.1)</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Vital Signs / Vital Sign Indicators (what are they and link   to graphic/table from Comp Plan CH2)</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Local Recovery Plans (what are they and link to LIO page)</td>
-				</tr>
-				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Ongoing programs (what are they and link to Directory of   Ongoing Programs) </td>
-				</tr>
-			</table>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --> </div>
+			
+			<p>The Action Agenda is comprised of two components: the <em>Comprehensive Plan </em>and the <em>Implementation Plan</em>. </p>
+			<ul>
+				<li>The <strong><em><a href="https://pspwa.box.com/shared/static/rlhdytkj5wsqb6k2lg9zbjak5tn4cva3.pdf">Comprehensive Plan </a></em>(PDF) </strong>charts the course for long-term Puget Sound recovery by outlining overarching strategies for successful protection and restoration, identifying the full scope of actions and funding necessary for recovery, and introducing the approaches by which issues and activities are prioritized, progress is evaluated, and strategies and actions are adapted over time. </li>
+				<li>The <strong><em><a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan </a></em>(PDF)</strong>is the <em>action </em>component of the Action Agenda for the next two years. Based on the fundamental framework and broad strategies described in the <em>Comprehensive Plan</em>, the <em>Implementation Plan </em>defines the suite of Near Term Actions and ongoing programs that are needed in order to make progress toward achieving the 2020 recovery targets for Puget Sound Vital Signs. </li>
+			</ul>
+			<p>Readers can also access supporting materials that provide additional information, references, Local Integrating Organization long‐term recovery plans, two‐year implementation plans, summaries of previous and ongoing planning efforts, and other related topics on the Action Agenda website. <br>
+				The Implementation Plan is organized as follows.</p>
+				
+				
+
+
+
+
+			<ul>
+				<li><strong><a href="https://pspwa.box.com/shared/static/6t0frh4kqizmj8pca59xka8tvnpp3fvh.pdf">Chapter 1 (PDF)</a>, includes three ranked lists of Near Term Actions for the Strategic Initiatives.</strong> A sortable list of the Near Term Actions is available in the Action Agenda Report Card. The remaining chapters then explain how the Near Term Actions were generated and how the information can be used.</li>
+				<li><strong><a href="https://pspwa.box.com/shared/static/xk5ydvotp1wzsvhy6nyf7rj4625mi7zg.pdf">Chapter 2 (PDF)</a>, Development, Use, and Measurement of the Implementation Plan</strong>, describes how the Implementation Plan was developed, how it will be used, and how success will be measured. Additional information that explains the process used to develop the Implementation Plan is available online in the Process Summary.</li>
+				<li><strong><a href="https://pspwa.box.com/shared/static/pv9inxe1xp1mvzxxu91dyelngoaouv5k.pdf">Chapter 3 (PDF)</a>, Stormwater Strategic Initiative: Prevent Pollution from Urban Stormwater Runoff; <a href="https://pspwa.box.com/shared/static/ohlajy48cedo8g76f4p4emtulrg2rfzp.pdf">Chapter 4 (PDF)</a>, Habitat Strategic Initiative: Protect and Restore Habitat; and <a href="https://pspwa.box.com/shared/static/b374rber1465a4rvr8ndzqu51i07yzc0.pdf">Chapter 5 (PDF)</a>, Shellfish Strategic Initiative: Protect and Recover Shellfish Beds</strong>, present the Strategic Initiatives. Each chapter identifies the sub-strategies aligned with each Strategic Initiative and their associated Vital Signs. Each chapter concludes with a list of gaps and barriers that may be addressed as part of future work on the Strategic Initiative</li>
+			</ul>
+			<p><strong>Near Term Actions in the 2016 Action Agenda</strong><br>
+				Near Term Actions are discrete, measurable activities and initiatives that contribute to achieving recovery targets and that can reasonably begin or achieve specific milestones within the next two years. Near Term Actions complement ongoing work and optimize funding and resources by focusing on priorities. <br>
+				A total of 398 proposed Near Term Actions were submitted in December 2015. Each Near Term Action was reviewed and ranked by technical teams established for each Strategic Initiative. The technical team included representatives from state, federal, tribal, local, nonprofit, academic, and private entities. Of those submitted, 364 Near Term Actions met the requirements for inclusion in the Action Agenda. The resulting Near Term Actions, estimated to cost $243 million, focus the Action Agenda on the three Strategic Initiatives as follows: </p>
+			<ul>
+				<li><strong>119 </strong>Near Term Actions relate to the Stormwater Strategic Initiative to prevent pollution from urban stormwater runoff. </li>
+				<li><strong>205 </strong>Near Term Actions relate to the Habitat Strategic Initiative to protect and restore habitat. </li>
+				<li><strong>40 </strong>Near Term Actions relate to the Shellfish Strategic Initiative to protect and recover shellfish beds. </li>
+			</ul>
+			<p><strong>ONGOING PROGRAMS </strong><br>
+				Ongoing programs are continuing efforts that provide regulatory oversight, technical support, implementation resources, or guidance that may have preceded the Action Agenda. They are not considered Near Term Actions because they are not discrete recovery actions—they are <em>ongoing</em>. However, actions that are designed to improve, expand, or otherwise change an ongoing program—can be considered as Near Term Actions. Many ongoing programs are associated with state, federal, tribal, and local land use and environmental regulatory programs and have independent, long-term funding. <a href="https://pspwa.box.com/s/q3ubohlwbk4oe1g7ju5p1ewscwwoflm7">Appendix C, <em>Ongoing Programs (PDF)</em></a><em></em>, provides a list of key ongoing programs that contribute directly to achieving Puget Sound recovery goals.</p>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
+			<div class="right-nav-title margin-0-top ">MORE INFORMATION</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="action-agenda-2016-document">2016 Action Agenda Document 2.0</a></li>
-				<li role="presentation"> <a href="#">Adaptive Management (existing?)</a></li>
-				<li role="presentation"> <a href="#" >Local Integrating Organizations (LIO's) (existing)</a></li>
-				<li role="presentation"> <a href="#">Vital Signs (existing)</a></li>
-				<li role="presentation"> <a href="action-agenda-ongoing-programs">Directory of Ongoing Programs 3.0</a></li>
-				<li role="presentation"> <a href="#">INFOGRAPHIC - Adaptive Management (comp plan 2-1)</a></li>
+		
+				<li role="presentation"> <a href="LIO-overview.php" >Local Integrating Organizations (LIO's) </a></li>
+			
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

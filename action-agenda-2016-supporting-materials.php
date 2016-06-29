@@ -25,7 +25,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
+  	navSelected = 4;
+	subNavSelected = 0;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -41,9 +42,9 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image99">
+<header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>ACTION AGENDA INSPIRATIONAL QUOTE OR STATEMENT GOES HERE.</h3>
+		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -55,7 +56,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2.1 2016 ACTION AGENDA SUPPORTING MATERIALS</h1>
+			<h1>ACTION AGENDA SUPPORTING MATERIALS</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -72,177 +73,247 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">CONTENT TABLE FROM EXCEL</h2>
-			<table cellspacing="0" cellpadding="0">
-				<col width="424">
+			<table border="0" cellspacing="0" cellpadding="0">
 				<tr>
-					<td width="424">Main   Section - Content</td>
+					<td valign="top"><p><strong>Policy and Planning</strong></p></td>
 				</tr>
 				<tr>
-					<td width="424">&nbsp;</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
+						<ul>
+							<li><a href="http://www.psp.wa.gov/vitalsigns/estuaries.php">Estuaries</a></li>
+							<li><a href="http://www.psp.wa.gov/vitalsigns/shellfish_beds_reopened.php">Shellfish</a></li>
+						</ul>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">Policy   and Planning</td>
+					<td valign="top"><ul>
+						<li><a href="https://pspwa.app.box.com/notes/65991499769">Strategic   Initiative Leads and Advisory Groups&nbsp;</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Implementation Strategies</td>
+					<td valign="top"><ul>
+						<li>Strategic Initiative NTA Lists –   Sorted by Sub-strategy  </li>
+						<ul>
+							<li>Shellfish</li>
+							<li>Habitat</li>
+							<li>Stormwater </li>
+						</ul>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">           a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estuaries</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/downloads/2014_action_agenda/Final%202014%20action%20agenda%20update/AppF_HabitatMatrix.pdf">Federal Response- Habitat Matrix</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">         b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Shellfish</td>
+					<td valign="top"><ul>
+						<li><a href="https://www.epa.gov/puget-sound/puget-sound-federal-caucus-memorandum-understanding">Federal Caucus Memorandum of Understanding</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Strategic Initiative Leads and Advisory Groups (Note: site not created yet,   but we anticipate is will be)</td>
+					<td valign="top"><ul>
+						<li><a href="https://pspwa.box.com/s/4sry6c91pid25kdy3ce9717c5zje5u5z">2016 Implementation Plan Development Process Summary</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Strategic Initiative NTA Lists – Sorted by Substrategy  </td>
+					<td valign="top"><ul>
+						<li><a href="https://pspwa.app.box.com/s/m8p8vzlyviq05cwimvbqht30nqzxwkc4">Strategic Initiatives Transition Teams Background &amp;   Timeline</a><u> </u></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">           a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shellfish</td>
+					<td valign="top"><ul>
+						<li><a href="https://pspwa.app.box.com/files/0/f/7142927617/1/f_58433411905">2016 SEPA Checklist and Determination of Non-significance</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">         b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Habitat</td>
+					<td valign="top"><ul>
+						<li><a href="https://pspwa.box.com/s/phl1ytnv0tfputowzpf01ae7okdz66te">Detailed   Comment Matrix</a> and <a href="https://pspwa.box.com/s/scpgjrnrbny8uanhqkhkrg1gm6hthpv4">Comment Response Summary</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">           c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stormwater</td>
+					<td valign="top"><ul>
+						<li><a href="https://pspwa.box.com/s/qwqatl3l3zi4x3ncchizy68auca9xcte">Tribal Habitat Priorities</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Federal Response- Habitat Matrix</td>
+					<td valign="top"><p><strong>Science and Evaluation</strong></p></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Federal caucus MOU</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/science-and-evaluation-overview.php">Science and Evaluation Overview</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   2016 Implementation Plan Development Process Summary</td>
+					<td valign="top"><p><strong>Evaluating the Health of Puget   Sound</strong></p></td>
 				</tr>
 				<tr>
-					<td width="424"><a href="https://pspwa.app.box.com/s/m8p8vzlyviq05cwimvbqht30nqzxwkc4">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Strategic Initiatives Transition Teams Background &amp; Timeline (Note: not   called out in the Implementation Plan, but may be worth including in   supplemental materials) https://pspwa.app.box.com/s/m8p8vzlyviq05cwimvbqht30nqzxwkc4</a></td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   2016 SEPA Checklist, DNS and Summary of Public Comments</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/evaluating-actions-to-recover-puget-sound.php">Evaluating Actions to Recovery Puget Sound</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tribal Habitat Priorities</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/evaluating-about-report-card.php">Action Agenda Report Card</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">&nbsp;</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/evaluating-about-project-atlas.php">Puget Sound Project Atlas</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">Science   and Evaluation</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/evaluating-about-NEP-atlas.php">NEP Atlas</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">&nbsp;</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/sos.php">2015 State of the Sound</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">Evaluating   the Health of Puget Sound</td>
+					<td valign="top"><p><strong>Science Basis of Recovery </strong></p></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Puget Sound Vital Signs</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/science-strategic-science-plan.php">Strategic Science Plan</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Evaluating Recovery Actions</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/science-biennial-science-workplan.php">Biennial Science Work Plan</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">&nbsp;</td>
+					<td valign="top"><ul>
+						<li><a href="https://www.eopugetsound.org/science-review">Puget   Sound Science Update (2011)</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">Evaluating   Actions to Recovery Puget Sound</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/science-puget-sound-pressures-assessment.php">Puget Sound Pressures Assessment (2014)</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Action Agenda Report Card</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/science-adaptive-management-framework.php">Puget Sound Partnership Adaptive Management Framework   (2013)</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Puget Sound Project Atlas</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/science-open-standards.php">Open Standards for the Practice of Conservation</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   NEP Atlas</td>
+					<td valign="top"><p><strong>Local Ecosystem Recovery</strong></p></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   2015 State of the Sound</td>
+					<td valign="top"><ul>
+						<li>Puget Sound Recovery Atlas (<a href="http://www.psp.wa.gov/evaluating-about-report-card.php">Action Agenda Report Card</a> and <a href="http://www.psp.wa.gov/evaluating-about-project-atlas.php">Puget Sound Project Atlas</a>)</li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">&nbsp;</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_I/16_VOLUME_I_PUGETS_SOUND_SALMON_RECOVERY_PLAN.zip">Puget Sound Salmon Recovery Plan</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">Science   Basis of Recovery </td>
+					<td valign="top"><ul>
+						<li><a href="https://pspwa.app.box.com/files/0/f/5844269145/Adopted_by_Reference_SRFB_projects">Adopted by Reference&rdquo; Salmon   Projects Lists</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Strategic Science Plan</td>
+					<td valign="top"><ul>
+						<li><a href="http://psp.wa.gov/LIO-overview.php">Local   Integrating Organizations&nbsp;</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Biennial Science Work Plan</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/2016_AA_LIO_planning.php">2016 Action Agenda Update:&nbsp; LIO Planning Website</a></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Puget Sound Science Update (2011)</td>
+					<td valign="top"><ul>
+						<li><a href="https://pspwa.app.box.com/notes/58105724105?s=a8vn1ml8p9ljvsak2argmeexherg0yvg">Supporting Material for Local Integrating Organization   Recovery Planning Efforts</a>:</li>
+						<ul>
+							<li>LIO Profiles</li>
+							<li>Ecosystem Recovery Plans</li>
+							<li>2-Year Implementation Plans</li>
+						</ul>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Puget Sound Pressures Assessment (2014)</td>
+					<td valign="top"><p><strong>How Is It Paid For</strong></p></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Puget Sound Partnership Adaptive Management Framework (2013)</td>
+					<td valign="top"><ul>
+						<li>Funding Strategy for the Strategic Initiatives   from the 2012-2013 Puget Sound Action Agenda</li>
+						<ul>
+							<li><a href="http://www.psp.wa.gov/downloads/EC2015/Final%20Funding%20Strategy%20Report%20Volume%201_%20Findings%20and%20Recommendations_2014_09_10.pdf">Volume   1:  Summary of Findings and   Recommendations</a></li>
+							<li><a href="http://www.psp.wa.gov/downloads/EC2015/Final%20Funding%20Strategy%20Report%20Volume%202_Technical%20Report_2014_09_10.pdf">Volume 2:    Technical Report</a></li>
+						</ul>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">&nbsp;</td>
+					<td valign="top"><ul>
+						<li><a href="https://pspwa.app.box.com/NTA-expenditure"> NTA Expenditures &amp; Funding Gap Analysis</a><u> </u></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">Local   Ecosystem Recovery</td>
+					<td valign="top"><p><strong>References</strong></p></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Puget Sound Recovery Atlas</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.goia.wa.gov/Government-to-Government/Data/CentennialAccord.htm">Centennial Accord between the Federally Recognized Indian   Tribes in Washington State and the State of Washington. 1989.   http://www.goia.wa.gov/Government-to-Government/Data/CentennialAccord.htm</a><u> </u></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Puget Sound Salmon Recovery Plan</td>
+					<td valign="top"><ul>
+						<li><a href="http://www.epa.gov/sites/production/files/2015-09/documents/2009_12_23_estuaries_pdf_nep_brochure_timeless_new.pdf">National Estuary Program Booklet-   http://www.epa.gov/sites/production/files/2015-09/documents/2009_12_23_estuaries_pdf_nep_brochure_timeless_new.pdf</a><u> </u></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Local Integrating Organizations</td>
+					<td valign="top"><ul>
+						<li><a href="https://fortress.wa.gov/ecy/publications/publications/1201004.pdf">Ecology 2012. Preparing for a Changing Climate: Washington   State&rsquo;s Integrated Climate Response Strategy. https://fortress.wa.gov/ecy/publications/publications/1201004.pdf</a><u> </u></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Local Integrating Organization Recovery Plans (Note: will the LIO pages add a   link to this content?)</td>
+					<td valign="top"><ul>
+						<li><a href="https://cig.uw.edu/publications/state-of-knowledge-climate-change-in-puget-sound/">Mauger, G.S., J.H. Casola, H.A. Morgan, R.L. Strauch, B.   Jones, B. Curry, T.M. Busch Isaksen, L. Whitely Binder, M.B. Krosby, and A.K.   Snover. 2015. State of Knowledge: Climate Change in Puget Sound. Report   prepared for the Puget Sound Partnership and the National Oceanic and   Atmospheric Administration. Climate Impacts Group, University of Washington,   Seattle. doi:10.7915/CIG93777D.   https://cig.uw.edu/publications/state-of-knowledge-climate-change-in-puget-sound/</a><u> </u></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Funding Strategy for the Strategic Initiatives from the 2012-2013 Puget Sound   Action Agenda Volume 1 and 2</td>
+					<td valign="top"><ul>
+						<li><a href="https://fortress.wa.gov/ecy/publications/publications/1201015.pdf">Washington State Blue Ribbon Panel on Ocean Acidification   (2012): Ocean Acidification: From Knowledge to Action, Washington State&rsquo;s   Strategic Response. H. Adelsman and L. Whitely Binder (eds). Washington   Department of Ecology, Olympia, Washington. Publication no. 12-01-015.   https://fortress.wa.gov/ecy/publications/publications/1201015.pdf</a><u> </u></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424"><a href="https://pspwa.app.box.com/NTA-expenditure">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Puget Sound Partnership NTA Expenditures &amp; Funding Gap Analysis-   https://pspwa.app.box.com/NTA-expenditure</a></td>
+					<td valign="top"><ul>
+						<li><a href="http://pcsga.org/wprs/wp-content/uploads/2013/04/Washington-Shellfish-Initiative.pdf">Pacific Coast Shellfish Growers Association. 2011.   Washington Shellfish Initiative. Available: http://pcsga.org/wprs/wp-content/uploads/2013/04/Washington-Shellfish-Initiative.pdf </a><u> </u></li>
+					</ul></td>
 				</tr>
 				<tr>
-					<td width="424"><u>&nbsp;</u></td>
-				</tr>
-				<tr>
-					<td width="424">References</td>
-				</tr>
-				<tr>
-					<td width="424"><a href="http://www.goia.wa.gov/Government-to-Government/Data/CentennialAccord.htm">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Centennial Accord between the Federally Recognized Indian Tribes in   Washington State and the State of Washington. 1989.   http://www.goia.wa.gov/Government-to-Government/Data/CentennialAccord.htm</a></td>
-				</tr>
-				<tr>
-					<td width="424"><a href="http://www.epa.gov/sites/production/files/2015-09/documents/2009_12_23_estuaries_pdf_nep_brochure_timeless_new.pdf">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   National Estuary Program Booklet-   http://www.epa.gov/sites/production/files/2015-09/documents/2009_12_23_estuaries_pdf_nep_brochure_timeless_new.pdf</a></td>
-				</tr>
-				<tr>
-					<td width="424"><a href="https://fortress.wa.gov/ecy/publications/publications/1201004.pdf">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Ecology 2012. Preparing for a Changing Climate: Washington State&rsquo;s Integrated   Climate Response Strategy.   https://fortress.wa.gov/ecy/publications/publications/1201004.pdf</a></td>
-				</tr>
-				<tr>
-					<td width="424"><a href="https://cig.uw.edu/publications/state-of-knowledge-climate-change-in-puget-sound/">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Mauger, G.S., J.H. Casola, H.A. Morgan, R.L. Strauch, B. Jones, B. Curry,   T.M. Busch Isaksen, L. Whitely Binder, M.B. Krosby, and A.K. Snover. 2015.   State of Knowledge: Climate Change in Puget Sound. Report prepared for the   Puget Sound Partnership and the National Oceanic and Atmospheric   Administration. Climate Impacts Group, University of Washington, Seattle.   doi:10.7915/CIG93777D.   https://cig.uw.edu/publications/state-of-knowledge-climate-change-in-puget-sound/</a></td>
-				</tr>
-				<tr>
-					<td width="424"><a href="https://fortress.wa.gov/ecy/publications/publications/1201015.pdf">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Washington State Blue Ribbon Panel on Ocean Acidification (2012): Ocean   Acidification: From Knowledge to Action, Washington State&rsquo;s Strategic   Response. H. Adelsman and L. Whitely Binder (eds). Washington Department of   Ecology, Olympia, Washington. Publication no. 12-01-015.   https://fortress.wa.gov/ecy/publications/publications/1201015.pdf</a></td>
-				</tr>
-				<tr>
-					<td width="424"><a href="http://pcsga.org/wprs/wp-content/uploads/2013/04/Washington-Shellfish-Initiative.pdf">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Pacific Coast Shellfish Growers Association. 2011. Washington Shellfish   Initiative. Available:   http://pcsga.org/wprs/wp-content/uploads/2013/04/Washington-Shellfish-Initiative.pdf </a></td>
-				</tr>
-				<tr>
-					<td width="424"><a href="http://nwifc.org/w/wp-content/uploads/downloads/2011/08/whitepaper628finalpdf.pdf">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   http://nwifc.org/w/wp-content/uploads/downloads/2011/08/whitepaper628finalpdf.pdf</a></td>
-				</tr>
-				<tr>
-					<td width="424"><u>&nbsp;</u></td>
-				</tr>
-				<tr>
-					<td width="424">Archive   2.1.1</td>
+					<td valign="top"><ul>
+						<li><a href="http://nwifc.org/w/wp-content/uploads/downloads/2011/08/whitepaper628finalpdf.pdf">http://nwifc.org/w/wp-content/uploads/downloads/2011/08/whitepaper628finalpdf.pdf</a><u> </u></li>
+					</ul></td>
 				</tr>
 			</table>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --> </div>
+			<div>
+				<div> </div>
+				<div> </div>
+				<div> </div>
+				<div> </div>
+				<div>
+					<p>&nbsp;</p>
+				</div>
+			</div>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
