@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership AA - prototype 1.1</title>
+<title>Puget Sound Partnership Action Agenda - How has the Action agenda changed?</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -44,7 +44,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -81,7 +81,7 @@
 	<li>A shift in the role of the Puget Sound Partnership to focus more on coordination and supporting Near Term Action owners who have the knowledge, expertise, and on-the-ground networks to excel at implementing projects and actions that contribute to Puget Sound recovery. </li>
 	<li>An emphasis on stewardship strategies in the Near Term Action solicitation and recognizing the important role that the <a href="http://www.psp.wa.gov/LIO-overview.php">Local Integrating Organizations</a> and other partners play in education and outreach. </li>
 </ul>
-<p>The 2016 Action Agenda also begins a transition between being guided by Strategic Initiatives and <a href="http://www.psp.wa.gov/2016_AA_implementation_strategies.php">Implementation Strategies</a>. The Strategic Initiatives are regional priorities that help direct spending and resources. The 2016 Action Agenda requires that all proposed Near Term Actions address one of the three Strategic Initiatives (stormwater, habitat, and shellfish). Implementation Strategies, by contrast, are plans for achieving specific Vital Sign recovery targets. Implementation Strategies are introduced in the 2016 Action Agenda and it is anticipated that their role will increase in subsequent updates to the <em>Implementation Plan</em>.</p>
+<p>The 2016 Action Agenda also begins a transition between being guided by Strategic Initiatives and <a href="http://www.psp.wa.gov/2016_AA_implementation_strategies.php">Implementation Strategies</a>. The Strategic Initiatives are regional priorities that help direct spending and resources. The 2016 Action Agenda requires that all proposed <a href="https://pspwa.app.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud">Near Term Actions</a> address one of the three Strategic Initiatives (stormwater, habitat, and shellfish). Implementation Strategies, by contrast, are plans for achieving specific Vital Sign recovery targets. Implementation Strategies are introduced in the 2016 Action Agenda and it is anticipated that their role will increase in subsequent updates to the <em>Implementation Plan</em>.</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

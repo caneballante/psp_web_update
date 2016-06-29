@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership AA - prototype 1.1</title>
+<title>Puget Sound Partnership Action Agenda - How do we know it's working?</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -45,7 +45,7 @@
 <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -77,7 +77,7 @@
 			<p>To understand the health of the Puget Sound ecosystem and to describe desired future conditions, the Puget Sound Partnership adopted the <a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs</a>, which are measures of ecosystem health directly aligned with the six recovery goals established by the Washington State Legislature. Most Vital Signs are represented by one or more specific metrics—called indicators—that provide information about the condition of the Puget Sound ecosystem. Many of the Vital Sign indicators are further refined by the use of 2020 recovery targets.</p>
 			<p>An understanding of progress toward achieving the Vital Sign recovery targets is assessed from data compiled from a variety of monitoring programs and funding organizations in Puget Sound, including state and federal agencies, tribes, local jurisdictions, and nongovernmental organizations. Technical and scientific experts from those organizations provide the data and oversee the interpretation of the results. Data quality assurance and documentation remain the primary responsibility of the individual contributors.</p>
 			<h3>IMPLEMENTATION EFFECTIVENESS</h3>
-			<p>Project sponsors and partners implement the programs and projects identified in the Action Agenda and monitor the results. Two tools are used to monitor status of implementation activities. The <a href="http://www.psp.wa.gov/gis/ReportCard">Action Agenda Report Card</a> and the <a href="www.psp.wa.gov/action-agenda-puget-sound-recovery-atlas.php">Puget Sound Recovery Atlas</a> track status of Near Term Actions relative to project plans, provide information on projects completed or underway, and assess whether the expected outputs have been produced.</p>
+			<p>Project sponsors and partners implement the programs and projects identified in the Action Agenda and monitor the results. Two tools are used to monitor status of implementation activities. The <a href="http://www.psp.wa.gov/gis/ReportCard">Action Agenda Report Card</a> and the <a href="action-agenda-puget-sound-recovery-atlas.php">Puget Sound Recovery Atlas</a> track status of Near Term Actions relative to project plans, provide information on projects completed or underway, and assess whether the expected outputs have been produced.</p>
 			<p>By monitoring and assessing effectiveness, the Puget Sound Partnership can describe the return on investment or benefit of recovery efforts. When the return or benefit meets or exceeds expectations, sharing results can encourage more implementation of successful approaches. When the return or benefit does not meet expectations, the recovery approaches can be modified. The knowledge gained is reflected in the biennial updates to the <a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan (PDF)</a>—the strategies, regional priorities, and actions prioritized for the next cycle. </p>
 			<h3>RESULTS</h3>
 			<p>The Partnership reports the current status of both ecosystem health and implementation effectiveness in the <a href="http://www.psp.wa.gov/sos.php">State of the Sound report</a>, updated every 2 years. The report provides a summary of data tracked in the Puget Sound Vital Signs and Action Agenda Report Card to help partners and decisionmakers understand the state of the Puget Sound ecosystem, where progress is being made, where challenges remain, and where future action and focused investment are needed. </p>

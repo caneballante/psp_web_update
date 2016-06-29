@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership AA - prototype 1.1</title>
+<title>Puget Sound Partnership Action Agenda - Why do we need it?</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -44,7 +44,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -76,9 +76,9 @@
 			<p>Puget Sound is a unique and vital part of our region. It nourishes our health, economy, environment, and quality of life. A healthy Puget Sound is essential to sustaining a vibrant economy, meeting our obligations to treaty rights, and supporting our need for connection to the natural world. But Puget Sound is in trouble. For example:</p>
 
 			<ul>
-				<li>Salmon populations are one-third as abundant as they were in 1908 and continue to decline.</li>
-				<li>Only 64 percent of the major rivers in Puget Sound meet water quality standards.</li>
-				<li>Hundreds of tons of toxic chemicals and metals end up in Puget Sound each year from cars, wood burning, household pesticide use, pharmaceuticals, and air emissions.</li>
+				<li><strong>Salmon populations are one-third as abundant as they were in 1908 and continue to decline.</strong></li>
+				<li><strong>Only 64 percent of the major rivers in Puget Sound meet water quality standards.</strong></li>
+				<li><strong>Hundreds of tons of toxic chemicals and metals end up in Puget Sound each year from cars, wood burning, household pesticide use, pharmaceuticals, and air emissions.</strong></li>
 			</ul>
 
 

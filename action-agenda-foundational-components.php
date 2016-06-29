@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership AA - prototype 1.1</title>
+<title>Puget Sound Partnership Action Agenda - Foundational components</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -44,7 +44,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -79,7 +79,7 @@
 				<li>The <strong><em><a href="https://pspwa.box.com/shared/static/rlhdytkj5wsqb6k2lg9zbjak5tn4cva3.pdf">Comprehensive Plan </a></em>(PDF) </strong>charts the course for long-term Puget Sound recovery by outlining overarching strategies for successful protection and restoration, identifying the full scope of actions and funding necessary for recovery, and introducing the approaches by which issues and activities are prioritized, progress is evaluated, and strategies and actions are adapted over time. </li>
 				<li>The <strong><em><a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan </a></em>(PDF)</strong>is the <em>action </em>component of the Action Agenda for the next two years. Based on the fundamental framework and broad strategies described in the <em>Comprehensive Plan</em>, the <em>Implementation Plan </em>defines the suite of Near Term Actions and ongoing programs that are needed in order to make progress toward achieving the 2020 recovery targets for Puget Sound Vital Signs. </li>
 			</ul>
-			<p>Readers can also access supporting materials that provide additional information, references, Local Integrating Organization long‐term recovery plans, two‐year implementation plans, summaries of previous and ongoing planning efforts, and other related topics on the Action Agenda website. <br>
+			<p>Readers can also access<a href="action-agenda-2016-supporting-materials.php"> supporting materials</a> that provide additional information, references, Local Integrating Organization long‐term recovery plans, two‐year implementation plans, summaries of previous and ongoing planning efforts, and other related topics on the Action Agenda website. <br>
 				The Implementation Plan is organized as follows.</p>
 				
 				
@@ -93,11 +93,11 @@
 				<li><strong><a href="https://pspwa.box.com/shared/static/pv9inxe1xp1mvzxxu91dyelngoaouv5k.pdf">Chapter 3 (PDF)</a>, Stormwater Strategic Initiative: Prevent Pollution from Urban Stormwater Runoff; <a href="https://pspwa.box.com/shared/static/ohlajy48cedo8g76f4p4emtulrg2rfzp.pdf">Chapter 4 (PDF)</a>, Habitat Strategic Initiative: Protect and Restore Habitat; and <a href="https://pspwa.box.com/shared/static/b374rber1465a4rvr8ndzqu51i07yzc0.pdf">Chapter 5 (PDF)</a>, Shellfish Strategic Initiative: Protect and Recover Shellfish Beds</strong>, present the Strategic Initiatives. Each chapter identifies the sub-strategies aligned with each Strategic Initiative and their associated Vital Signs. Each chapter concludes with a list of gaps and barriers that may be addressed as part of future work on the Strategic Initiative</li>
 			</ul>
 			<p><strong>Near Term Actions in the 2016 Action Agenda</strong><br>
-				Near Term Actions are discrete, measurable activities and initiatives that contribute to achieving recovery targets and that can reasonably begin or achieve specific milestones within the next two years. Near Term Actions complement ongoing work and optimize funding and resources by focusing on priorities. <br>
-				A total of 398 proposed Near Term Actions were submitted in December 2015. Each Near Term Action was reviewed and ranked by technical teams established for each Strategic Initiative. The technical team included representatives from state, federal, tribal, local, nonprofit, academic, and private entities. Of those submitted, 364 Near Term Actions met the requirements for inclusion in the Action Agenda. The resulting Near Term Actions, estimated to cost $243 million, focus the Action Agenda on the three Strategic Initiatives as follows: </p>
+				Near Term Actions are discrete, measurable activities and initiatives that contribute to achieving recovery targets and that can reasonably begin or achieve specific milestones within the next two years. Near Term Actions complement ongoing work and optimize funding and resources by focusing on priorities. </p>
+				<p>  A total of 398 proposed Near Term Actions were submitted in December 2015. Of these, the owners of 375 Near Term Actions responded to technical feedback to improve their project plans and their actions continued on to the second phase of review. Subsequently, 363 Near Term Actions met the requirements for inclusion in the Action Agenda. The resulting Near Term Actions, estimated to cost $242 million, focus the Action Agenda on the three Strategic Initiatives as follows: </p>
 			<ul>
 				<li><strong>119 </strong>Near Term Actions relate to the Stormwater Strategic Initiative to prevent pollution from urban stormwater runoff. </li>
-				<li><strong>205 </strong>Near Term Actions relate to the Habitat Strategic Initiative to protect and restore habitat. </li>
+				<li><strong>204 </strong>Near Term Actions relate to the Habitat Strategic Initiative to protect and restore habitat. </li>
 				<li><strong>40 </strong>Near Term Actions relate to the Shellfish Strategic Initiative to protect and recover shellfish beds. </li>
 			</ul>
 			<p><strong>ONGOING PROGRAMS </strong><br>

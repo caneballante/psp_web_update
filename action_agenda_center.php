@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Action Agenda Overview</title>
+<title>Puget Sound Partnership Action Agenda</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -23,63 +23,90 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 1;
+	subNavSelected = 10;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion3" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion4" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion5" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image10"> </header>
-<!-- InstanceEndEditable -->  
+<header class="overview-page-image-style overview-page-image99">
+	<div class="overview-quote pull-right">
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
+	</div>
+</header>
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
-			<h1>ACTION AGENDA OVERVIEW</h1>
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+			<h1>ACTION AGENDA FOR PUGET SOUND</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
-	<div class="row">  
-		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
+	<div class="row"> 
+		<div class="col-sm-3">
+			<div class="nav-leftside-custom">
+				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
+					<!-- InstanceBeginEditable name="left_nav" -->
+					<?php include 'includes/ln-action-agenda.html';?>
+					<!-- InstanceEndEditable -->
+				</ul>
+			</div>
+		</div>
+		 
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<p>The Action Agenda for Puget Sound can be accessed through the navigation links on this page. Content on this and associated web pages provides a high-level summary of content from the Action Agenda and should not be considered part of the official plan.</p>
 			<h2>What is the Action Agenda?</h2>
-			<p>The <strong>Puget Sound Action Agenda</strong> is our region's shared vision for Puget Sound recovery. It identifies key ongoing programs, local priority actions for the various areas of the Sound, and specific actions that must be implemented over the next 2 years to stay on track toward recovery. The Action Agenda results from a collaboration by state and federal agencies, tribal governments, local governments, business and environmental groups, and others. It also serves as the <a href="http://water.epa.gov/type/oceb/nep/index.cfm#ccmp">Comprehensive Conservation and Management Plan</a>, required by the U.S. Environmental Protection Agency for estuaries of national significance.</p>
-			<p>LEARN MORE ABOUT THE:</p>
-			<p> <a href="2014_action_agenda_download.php">2014-2015 ACTION AGENDA</a> | <a href="2016_AA_update.php">2016 ACTION AGENDA UPDATE</a></p>
-			<h2> Why do we need an Action Agenda?</h2>
-			<p> The Action Agenda outlines the regional strategies and specific actions needed to recover Puget Sound. It helps to improve the effectiveness and efficiency of Puget Sound recovery actions by providing a coordinated plan of action for those who are involved in recovery efforts. First implemented in 2008, the Action Agenda identifies priorities and opportunities for federal, state, local, tribal and private entities to invest resources and coordinate actions. <a href="downloads/2014_action_agenda/Final 2014 action agenda update/Section1_RecoveryContext.pdf">LEARN MORE</a></p>
-			<h2>Who sets the Action Agenda?</h2>
-			<p>Developing a master plan for Puget Sound recovery and keeping it current is a huge undertaking, involving hundreds of partners, as well as the public, on regional and local levels. The Leadership Council of the Puget Sound Partnership authorizes the final, agreed upon Action Agenda. You can be involved in the update. <a href="2016_AA_announcements.php">Find out how on our Updates and Announcements page.</a></p>
-			<h2>Who pays for the actions outlined in the Action Agenda?</h2>
-			<p>The U.S. Environmental Protection Agency designated Puget Sound as one of 28 estuaries of national significance under the National Estuary Program. Through this designation, the EPA provides funding to Washington state agencies as Lead Organizations and to the Northwest Indian Fisheries Commission to implement the Puget Sound Action Agenda. The Washington State Legislature also appropriates money every 2 years to help with Puget Sound recovery. Local governments and non-profit organizations also contribute significantly to recovery funding.</p>
-			<p>While EPA and state funding significantly benefits Puget Sound recovery, we need to invest still more if we are to see recovery of Puget Sound.</p>
-			<h2>How has the Action Agenda improved over the years?</h2>
-			<p>The Action Agenda includes a framework for tracking progress toward recovery, which provides feedback about the effectiveness of the Action Agenda. This feedback is used to adapt and adjust the Action Agenda every 2 years. In this way, the Action Agenda stays current and relevant to ever-changing environmental conditions.</p>
-			<p><img class="img-responsive" src="images/AA_2015_historical_timeline.jpg" width="600" height="456" alt=""/></p>
-			<p>How the Action Agenda has been updated and modified since 2008 has improved in many ways based on feedback from partners and on the results of science research and monitoring. A major change occurred this year that will help to make sure that future Action Agenda updates address local conditions more comprehensively than in the past. In early 2015, the Environmental Protection Agency announced a new model for how it will fund recovery actions in Puget Sound. </p>
+			<p>The Action Agenda is our region's shared roadmap for Puget Sound recovery. The plan outlines the regional strategies and specific actions needed to protect and restore Puget Sound. The Action Agenda is a collective effort that is informed by science and guides effective investment in Puget Sound protection and restoration. <a href="action-agenda-what.php"><br>
+			LEARN MORE</a></p>
+			<h2> Why do we need it?</h2>
+			<p>Over the past 150 years, human use and the stresses of emerging threats such as ocean acidification, have caused the degradation of water quality, water quantity, and habitat. The pressures are relentless and continue to take their toll on the Puget Sound ecosystem. Together with our partner agencies, organizations, and citizens, we can protect and restore Puget Sound by using science-informed, prioritized actions—this is what the Action Agenda is designed to do. <a href="action-agenda-why.php"><br>
+			LEARN MORE</a></p>
+			<h2>Who Makes it?</h2>
+			<p> Developing a prioritized, science-informed master plan for Puget Sound recovery requires the contributions of hundreds of partners. The Action Agenda is made possible by the following entities working together with a shared vision for the future of Puget Sound:</p>
+			<ul>
+				<li>The Puget Sound Partnership and its four boards</li>
+				<li>Federal, tribal, state, and local governments </li>
+				<li>Local Integrating Organizations</li>
+				<li>Salmon recovery and watershed groups</li>
+				<li>Environmental non-profits</li>
+				<li>Academic institutions</li>
+			</ul>
+			<a href="action-agenda-who.php">LEARN MORE</a>
+			<h2>How Do you define recovery?</h2>
+			<p>Puget Sound recovery, in the context of the Action Agenda, is an inclusive term that covers the protection and restoration of essential resources and functions. When the Washington State Legislature created the Puget Sound Partnership, it also defined six recovery goals related to healthy human population, human quality of life, species and food web, protect and restore habitat, water quantity, and water quality.
+<a href="action-agenda-define-recovery.php">LEARN MORE</a> about the Partnership’s approach to managing recovery.</p>
+			<h2>How do we know it's working?</h2>
+			<p>The Puget Sound Partnership assesses the effectiveness of recovery efforts by evaluating data to determine how well management actions and programs are working to achieve desired outcomes. The approach to effectiveness monitoring has two parts. First, we evaluate the effectiveness of actions that have already been implemented. Second, we communicate the results to decision-makers as they plan the next round of recovery actions. Several tools are used to communicate results, including the Puget Sound Vital Signs, Action Agenda Report Card, and State of the Sound report.<a href="action-agenda-how-do-we-know-its-working.php">  <br>
+			LEARN MORE</a></p>
+			<h2>How is it paid for?</h2>
+			<p> Puget Sound recovery programs benefit from significant federal, state, and local funding. The Partnership funding strategy aims to develop and secure stable and diverse funding to implement Action Agenda priorities through three approaches: </p>
+
+<p><strong>Get the most from available funding.</strong> Make the most of the available funding by narrowing the focus of implementation efforts to actions that will have the highest potential benefit to recovery efforts. </p>
+<p><strong>Define the funding gap and ways to bridge it.</strong> Gain a clearer picture of the size and nature of the funding gap to develop immediate priorities and inform longer-term efforts to address the gap. </p>
+<p><strong>Refine and implement solutions to bridge the funding gap.</strong> Clearly define and prioritize solutions to fill the funding gap, the steps needed for implementation, and roles and responsibilities. </p>
+<a href="action-agenda-how-is-it-paid-for.php">LEARN MORE</a></p>
 			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
-				<li role="presentation"><a href="2016_AA_update.php">2016 Action Agenda Update</a></li>
-				<li role="presentation"><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
-				<a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a>
-				</li>
-				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

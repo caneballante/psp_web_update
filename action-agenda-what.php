@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership AA - prototype 1.1</title>
+<title>Puget Sound Partnership Action Agenda - What is in the Action Agenda?</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -44,7 +44,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -109,7 +109,7 @@
 				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/fu0q4fn2r7k2kmpyesr183anqq5q3fu0.pdf" target="_blank">Substrategies (PDF)</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/b374rber1465a4rvr8ndzqu51i07yzc0.pdf" target="_blank">Shellfish Strategic Initiative (PDF)</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/ohlajy48cedo8g76f4p4emtulrg2rfzp.pdf" target="_blank">Habitat Strategic Initiative (PDF)</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/pv9inxe1xp1mvzxxu91dyelngoaouv5k.pdf" target="_blank">Stormwater Strategic (PDF)</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/pv9inxe1xp1mvzxxu91dyelngoaouv5k.pdf" target="_blank">Stormwater Strategic Initiative (PDF)</a></li>
 				<li role="presentation"> <a href="evaluating-effective-action.php">Effectiveness Monitoring</a></li>
 				<li role="presentation"> <a href="https://www.epa.gov/nep" target="_blank">National Estuary Program </a></li>
 				<!-- InstanceEndEditable -->

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership AA - prototype 1.1</title>
+<title>Puget Sound Partnership Action Agenda - How is it paid for?</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -45,7 +45,7 @@
 <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -78,16 +78,15 @@
 					<ul>
 						<li><a href="https://www.epa.gov/puget-sound">U. S. Environmental Protection Agency—National Estuary Program and Puget Sound Geographic Program</a></li>
 						<li><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/pacific_coastal_salmon_recovery_fund.html">National Oceanic and Atmospheric Administration—Pacific Coastal Salmon Recovery Fund</a></li>
-					
 					</ul>
 				</li>
-					<li>State</li>
-				<li>Puget Sound Acquisition and Restoration Fund
-					<ul>
-						<li><a href="http://www.pugetsoundnearshore.org/esrp/">Estuary and Salmon Restoration Program </a></li>
-						<li><a href="http://www.floodplainsbydesign.org">Floodplains by Design</a></li>
-						<li><a href="http://www.ecy.wa.gov/programs/wq/funding/FundPrgms/Stormwater/oppSW.html">Stormwater Financial Assistance Program</a></li>
-					</ul>
+				<li>State</li>
+				<ul>
+					<li><a href="PSAR.php">Puget Sound Acquisition and Restoration Fund</a>
+					<li><a href="http://www.pugetsoundnearshore.org/esrp/">Estuary and Salmon Restoration Program </a></li>
+					<li><a href="http://www.floodplainsbydesign.org">Floodplains by Design</a></li>
+					<li><a href="http://www.ecy.wa.gov/programs/wq/funding/FundPrgms/Stormwater/oppSW.html">Stormwater Financial Assistance Program</a></li>
+				</ul>
 				</li>
 			</ul>
 			<p>The funding currently available from various sources is insufficient to fund the full costs of recovery efforts included in the Action Agenda. Developing strategies to accomplish funding goals has been an emphasis of the Ecosystem Coordination Board’s Finance Subcommittee, which in 2014 identified an annual funding gap of between $295 and $661 million for actions associated with stormwater, habitat, and shellfish. We can increase our achievements by dedicating additional funding sources, increasing the efficiency and effectiveness of existing sources, and developing innovative, market-based programs.</p>
@@ -98,9 +97,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				
-				<li role="presentation"> <a href="https://pspwa.app.box.com/files/0/f/5098831006/1/f_41956426473">Strategic Initiative Funding Strategy</a></li>
-				
+				<li role="presentation"> <a href="http://www.psp.wa.gov/downloads/EC2015/Final%20Funding%20Strategy%20Report%20Volume%201_%20Findings%20and%20Recommendations_2014_09_10.pdf">Strategic Initiative Funding Strategy</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

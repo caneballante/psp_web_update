@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership AA - prototype 1.1</title>
+<title>Puget Sound Partnership Action Agenda - Supporting Materials</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -44,7 +44,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>This leaner, scientifically-grounded, strategic plan is a call to action</h3>
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -81,8 +81,8 @@
 					<td valign="top"><ul>
 						<li><a href="http://www.psp.wa.gov/2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
 						<ul>
-							<li><a href="http://www.psp.wa.gov/vitalsigns/estuaries.php">Estuaries</a></li>
-							<li><a href="http://www.psp.wa.gov/vitalsigns/shellfish_beds_reopened.php">Shellfish</a></li>
+							<li><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn">Estuaries</a></li>
+							<li><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Shellfish</a></li>
 						</ul>
 					</ul></td>
 				</tr>
