@@ -122,9 +122,7 @@
 			<h5>Greg Tudor</h5>
 			<p> IT Operations Manager<br />
 				360.902.3018 | <a href="mailto:greg.tudor@psp.wa.gov">greg.tudor@psp.wa.gov </a></p>
-			<h5>Marc Turnbow</h5>
-			<p> IT Administrator<br />
-				360.789.4989 | <a href="mailto:marc.turnbow@psp.wa.gov">marc.turnbow@psp.wa.gov </a></p>
+	
 			<h5>Eric Green</h5>
 			<p> IT Specialist <br />
 				360.628.7412 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov </a></p>
@@ -205,10 +203,7 @@
 			<p> Ecosystem Recovery Coordinator <br />
 				<!--<em>Stillaguamish/Snohomish</em><br />--> 
 				360.464.1225 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
-			<h5>Bruce Wulkan</h5>
-			<p> Ecosystem Recovery Coordinator <br />
-				<em>South Central, Green and Cedar Watersheds</em><br />
-				360.339.4626 | <a href="mailto:bruce.wulkan@psp.wa.gov">bruce.wulkan@psp.wa.gov</a></p>
+			
 			<h5>Alexandra Doty</h5>
 			<p> Project Coordinator <em>(beginning Fall 2016)</em></p>
             
@@ -221,9 +216,7 @@
 			<h5>Scott Redman</h5>
 			<p> Program Director<br />
 				360.464.1230 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
-			<h5>Ron Thom</h5>
-			<p> Senior Science Advisor<br />
-				360.681.3657 | <a href="mailto:ron.thom@psp.wa.gov">ron.thom@psp.wa.gov </a></p>
+		
 			<br>
 			<!--S.E. ADAPTIVE MANAGEMENT-->
 			<h3>Adaptive Management</h3>
@@ -283,9 +276,7 @@
 			<h5>Todd Hass</h5>
 			<p> Implementation Manager<br />
 				360.464.1223 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>
-			<h5>Dave Ward</h5>
-			<p> Social Strategies Manager<br />
-				425.457.1157 | <a href="mailto:dave.ward@psp.wa.gov">dave.ward@psp.wa.gov</a></p>
+		
 			
 			<!-- InstanceEndEditable --> </div>
 		
@@ -307,7 +298,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://app.box.com/s/y0hbuwufc0bwiev42qg6zkk577n8exnw">Organizational Chart</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/j07w99dmsihozciphtq4h4wyr0t0hzxa">Organizational Chart</a></li>
 				<li role="presentation"> <a href="sheida-sahandy-bio.php">Director Bio</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
