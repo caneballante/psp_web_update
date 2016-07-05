@@ -44,7 +44,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>There's work to be done - let's roll up our sleeves, together, and get to it
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->

@@ -86,9 +86,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>6.22.16<br>
+						<strong>6.29.16<br>
 						</strong>ACTION AGENDA<br>
-						<a href="http://pugetsoundactionagendaupdate.publicmeeting.info">New Adoption Draft Action Agenda now available</a><br>
+						<a href="action_agenda_center.php">LEADERSHIP COUNCIL ADOPTS 2016 ACTION AGENDA FOR PUGET SOUND </a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
