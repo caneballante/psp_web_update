@@ -37,7 +37,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -48,7 +48,11 @@
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+		<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+	</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -63,8 +67,8 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-sos.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-sos.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
@@ -109,40 +113,39 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="#avs">About the Puget Sound Vital Signs</a></li>
+					<li role="presentation"> <a href="#avs">About the Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="#progress">Progress</a></li>
 				<li role="presentation"> <a href="#kf">Key Findings</a></li>
 				<li role="presentation"> <a href="#lf">Looking Forward</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">RELATED DOWNLOADS</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">RELATED DOWNLOADS</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
-                        <li role="presentation"> <a href="https://pspwa.box.com/2015-vitalsigns-table" target="_blank">Vital Signs Progress Summary</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/2015-vitalsigns-table" target="_blank">Vital Signs Progress Summary</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-indicator-table" target="_blank">Vital Sign Indicators' Category of Progress</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
-                <li role="presentation"> <a href="https://pspwa.box.com/SOS2015-VS-FiguresTables" title="Figures and Tables for Presentations" target="_blank">Figures and Tables for Presentations</a></li>
-						<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="https://pspwa.box.com/SOS2015-VS-FiguresTables" title="Figures and Tables for Presentations" target="_blank">Figures and Tables for Presentations</a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns/index" target="_blank">Vital Signs Website</a></li>
-                <li role="presentation"> <a href="http://www.psp.wa.gov/psp_web_update/evaluating-PSEMP.php" target="_blank">Puget Sound Ecosystem Monitoring Program</a></li>
-                <li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/psp_web_update/evaluating-PSEMP.php" target="_blank">Puget Sound Ecosystem Monitoring Program</a></li>
+				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
-                <li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
-                <li role="presentation"> <a href="http://cses.washington.edu/cig/" target="_blank">Climate Change Institute</a></li>
-                <li role="presentation"> <a href="http://environment.uw.edu/research/major-initiatives/ocean-acidification/washington-ocean-acidification-center/" target="_blank">Washington Ocean Acidification Center</a></li>
-				
+				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
+				<li role="presentation"> <a href="http://cses.washington.edu/cig/" target="_blank">Climate Change Institute</a></li>
+				<li role="presentation"> <a href="http://environment.uw.edu/research/major-initiatives/ocean-acidification/washington-ocean-acidification-center/" target="_blank">Washington Ocean Acidification Center</a></li>
 				<li role="presentation"> <a href="http://www.eopugetsound.org/" target="_blank">Encyclopedia of Puget Sound</a></li>
-						<!-- InstanceEndEditable -->
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
