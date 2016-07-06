@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,7 +26,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 3;
+  	 navSelected = 3;
+	subNavSelected = 4;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -40,16 +42,16 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image81">
 	<div class="overview-quote pull-right">
 		<h3></h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-		<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-	</div>
+	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+</div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
@@ -59,18 +61,16 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/ln-sos-aa.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-sos.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p><a href="https://pspwa.box.com/science-panel-comments" title="Science panel comments on implementing the Action Agenda and findings from the Monitoring Program (download)">Science panel comments on implementing the Action Agenda and findings from the Monitoring Program (download)</a> </p>
 			<p>Science Panel comments address three key objectives:</p>
@@ -91,7 +91,6 @@
 			<p> It is worth noting that in many ways the Puget Sound region is leading the country in ecosystem recovery, especially in incorporating human wellbeing explicitly into the science and implementation of recovery actions. As we look beyond 2020, the region can expect to have a stronger scientific foundation for recovery and a rich set of information to chart the course for the next phase of restoring the Sound and building the ecosystem resilience to adapt to climate change. </p>
 			<p>Near Term Actions in the 2012 and 2014 Action Agendas were expected to be implemented in a 2- to 3-year time frame. However, most of the 2012 Action Agenda NTAs were not completed in 2 years, and more than 25 percent made insufficient or no progress at all. </p>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
 			<!-- InstanceEndEditable -->
@@ -106,19 +105,18 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-							<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
-							<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
-							<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
-							<li role="presentation"> <a href="evaluating-about-NEP-atlas.php">National Estuary Program Project Atlas</a></li>
-							<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
-							<li role="presentation"> <a href="sos-2015-action-agenda-progress.php#strat">2014 Ecosystem Coordination Board Funding Strategy</a></li>
-							<li role="presentation"> <a href="http://www.psp.wa.gov/sos-2013/sos2013.php">Past State of the Sound Reports</a></li>
-				
-						<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
+				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
+				<li role="presentation"> <a href="evaluating-about-NEP-atlas.php">National Estuary Program Project Atlas</a></li>
+				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
+				<li role="presentation"> <a href="sos-2015-action-agenda-progress.php#strat">2014 Ecosystem Coordination Board Funding Strategy</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/sos-2013/sos2013.php">Past State of the Sound Reports</a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
@@ -147,4 +145,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
