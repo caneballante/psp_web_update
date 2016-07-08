@@ -43,10 +43,7 @@ $(window).resize(function() {
 	// JQuery to set the appropriate left nav item to "active". navSelected and subNavSelected is set in the html head and matches the order with that page appears in the nav	
 $( document ).ready(function() {
 	$("#nav"+navSelected).addClass("active");
+	$("#nav"+navSelected).addClass("subNavOn");
 	$("#subnav"+subNavSelected).addClass("active");
-	if(subNavSelected>=0) {
-		$("#nav"+navSelected).addClass("subNavOn");
-	}
-	console.log("#subnav"+subNavSelected);
 });
 	

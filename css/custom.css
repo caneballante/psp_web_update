@@ -605,6 +605,9 @@ intro .brand-heading {
 .overview-page-image84 {
 	background: url(../images/inside_image_84.jpg)no-repeat bottom center scroll;
 }
+.overview-page-image90 {
+	background: url(../images/inside_image_84.jpg)no-repeat bottom center scroll;
+}
 .overview-page-image99 {
 	background: url(../images/inside_image_99.jpg)no-repeat bottom center scroll;
 }
@@ -692,8 +695,8 @@ intro .brand-heading {
 
 .nav-leftside-custom .subLeftNav a{
 	font-size: 11px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
 }
 
 
