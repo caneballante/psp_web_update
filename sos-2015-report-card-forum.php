@@ -110,7 +110,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 						<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></li>
+				<li role="presentation"> <a href="http://psp.wa.gov/gis/ReportCard/" target="_blank">Action Agenda Report Card</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
 				<li role="presentation"> <a href="evaluating-about-NEP-atlas.php">National Estuary Program Project Atlas</a></li>
 				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>

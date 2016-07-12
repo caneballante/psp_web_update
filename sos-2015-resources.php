@@ -102,7 +102,7 @@
              
               <h3>PSP WEB TOOLS</h3>
               
-              <p><a href="http://gismanager.rco.wa.gov/ntaportal" target="_blank">Action Agenda Report Card</a></p>
+              <p><a href="http://psp.wa.gov/gis/ReportCard/" target="_blank">Action Agenda Report Card</a></p>
               <p><a name="or"></a><a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></p>
               <p><a href="evaluating-about-NEP-atlas.php">National Estuary Program Atlas</a></p>
               <p><a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></p>

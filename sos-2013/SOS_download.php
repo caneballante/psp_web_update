@@ -42,7 +42,7 @@
 					<span class="sos_caption">An atlas of recovery related projects around Puget Sound</span></p>
 			</div>
 			<div id="SOS_rellinks">
-				<p><img src="images/sos-smallpie.png" /><strong><a href="http://gismanager.rco.wa.gov/ntaportal">The Puget Sound Report Card</a></strong><br />
+				<p><img src="images/sos-smallpie.png" /><strong><a href="http://psp.wa.gov/gis/ReportCard/">The Puget Sound Report Card</a></strong><br />
 					<span class="sos_caption">Up to the minute status on Near Term Actions for Puget Sound Recovery</span></p>
 			</div>
 			<br />
