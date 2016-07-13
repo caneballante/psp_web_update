@@ -78,26 +78,25 @@
 			<h5>kelly adams</h5>
 			<p> Executive Assistant<br />
 				Office 360.464.1233 | Cell 360.999.3805 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p>
-			<h5>Karin Berkholz</h5>
+			<h5>Karin BerkholTz</h5>
 			<p> EPA Coordinator<br />
-				Office 360.999.3848 | <a href="mailto:karin.berkholz@psp.wa.gov">karin.berkholz@psp.wa.gov</a></p>
+				Office 360.999.3848 | <a href="mailto:karin.berkholtz@psp.wa.gov">karin.berkholtz@psp.wa.gov</a></p>
 			<!--ANCHOR LINK spaced 2 br above target--> 
-			<a name="administrative_services"></a> <br>
+			<a name="administrative_services"></a> 
 			<br>
 			<!--ADMINISTRATIVE SERVICES-->
 			
 			<h2>ADMINISTRATIVE SERVICES</h2>
 			<h5>Jen Benn</h5>
 			<p> Director of Administrative Services<br />
-				360.464.1231 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a><br>
-			<!--A.S. - FINANCE-->			</p>
-			<h3>FINANCE</h3>
+				360.464.1231 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a></p><br>
+			<!--A.S. - OPERATIONS-->			
+			<h3>OPERATIONS</h3>
 			<h5>Ginger Stewart</h5>
 			<p> Chief Financial Officer<br />
-				360.464.1218 | <a href="mailto:ginger.stewart@psp.wa.gov">ginger.stewart@psp.wa.gov</a></p>
-			<h5>Debbie Lewandowsky</h5>
-			<p> Administrative Assistant<br />
-				360.464.1232 | <a href="mailto:debbie.lewandowsky@psp.wa.gov">debbie.lewandowsky@psp.wa.gov</a></p>
+				360.464.1218 | <a href="mailto:ginger.stewart@psp.wa.gov">ginger.stewart@psp.wa.gov</a></p><br />
+            <!--A.S. - FISCAL-->
+            <h3>FISCAL</h3>	    
 			<h5>Becky DeBoer</h5>
 			<p> Fiscal Program Manager<br />
 				360.464.1226 | <a href="mailto:becky.deboer@psp.wa.gov">becky.deboer@psp.wa.gov</a></p>
@@ -107,39 +106,52 @@
 			<h5>Audra Benedict</h5>
 			<p> Fiscal Analyst<br />
 				360-464-2004 | <a href="mailto:audrapsp.benedict@psp.wa.gov">audrapsp.benedict@psp.wa.gov</a></p>
-			<br>
-			<!--A.S. - GOVERNMENT AFFAIRS-->
-			<h3>GOVERNMENT RELATIONS</h3>
-			<h5>Jeff Parsons</h5>
-			<p> Legislative Policy Director<br />
-				360.464.1221 | <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p>
-			<h5>Cathy Cochrane</h5>
-			<p> Policy Communications Lead<br />
-				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a></p>
-			<br>
+		<br />
+			
+            <!--A.S. - ADMINISTRATION-->
+            <h3>ADMINISTRATION</h3>
+            <h5>Debbie Lewandowsky</h5>
+			<p> Administrative Assistant<br />
+				360.464.1232 | <a href="mailto:debbie.lewandowsky@psp.wa.gov">debbie.lewandowsky@psp.wa.gov</a></p>
+            <h5>charisse sonnier</h5>
+			<p> Administrative Assistant<br />
+				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
+            <h5>VACANT</h5>
+			<p> Administrative Assistant</p><br />
 			<!--A.S. - IT OPERATIONS-->
 			<h3>IT OPERATIONS</h3>
-			<h5>Greg Tudor</h5>
+			<h5>VACANT</h5>
+			<p> IT Manager</p>
+            
+            <h5>Greg Tudor</h5>
 			<p> IT Operations Manager<br />
 				360.902.3018 | <a href="mailto:greg.tudor@psp.wa.gov">greg.tudor@psp.wa.gov </a></p>
 	
 			<h5>Eric Green</h5>
 			<p> IT Specialist <br />
 				360.628.7412 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov </a></p>
-			<br>
-            <!--A.S. - TECH RESOURCES GROUP-->
-			<h3>TECHNOLOGY RESOURCES GROUP</h3>
-			<h5>Jennifer Burke</h5>
-			<p> Data Systems/GIS Manager<br />
-				360.464.2009 | <a href="mailto:jennifer.burke@psp.wa.gov">Jennifer.Burke@psp.wa.gov</a></p>
+			<br />
+            
+            <!--A.S. - GOVERNMENT AFFAIRS-->
+			<h3>GOVERNMENT RELATIONS</h3>
+			<h5>Jeff Parsons</h5>
+			<p> Legislative Policy Director<br />
+				360.464.1221 | <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p><br />
+			
+            <!--A.S. - COMMUNICATIONS-->
+			<h3>COMMUNICATIONS</h3>
 			<h5>Jon Bridgman</h5>
 			<p> Designer<br />
 				206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
 			<h5>Erika Lari</h5>
 			<p> Designer<br />
 				360.999.3806 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
+                <h5>Cathy Cochrane</h5>
+			<p>Communications Lead<br />
+				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a></p>
+			<br>
                 <!--ANCHOR LINK spaced 2 br above target--> 
-			<a name="PEP"></a> <br>
+			<a name="PEP"></a>
 			<br>
 			<!--PARTNER ENGAGEMENT PROGRAM-->
             <h2>PARTNER ENGAGEMENT PROGRAM</h2>
@@ -147,10 +159,8 @@
 			<h5>Laura Blackmore</h5>
 			<p> Partner Engagement Program Director<br />
 				Office 360.339.4627| <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
-                <h5>charisse sonnier</h5>
-			<p> Administrative Assistant<br />
-				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
-               <br />
+              
+        <br />
                 <!--PEP - MANAGEMENT CONFERENCE COORDINATION-->
                 <h3>MANAGEMENT CONFERENCE COORDINATION</h3>
 			<h5>Dominique Hampton</h5>
@@ -208,7 +218,7 @@
 			<p> Project Coordinator <em>(beginning Fall 2016)</em></p>
             
 			<!--ANCHOR LINK spaced 2 br above target--> 
-			<a name="science_and_evaluation"></a> <br>
+			<a name="science_and_evaluation"></a>
 			<br>
 			<!--SCIENCE AND EVALUATION-->
 			
@@ -219,13 +229,13 @@
 		
 			<br>
 			<!--S.E. ADAPTIVE MANAGEMENT-->
-			<h3>Adaptive Management</h3>
+			<h3>Adaptive Systems</h3>
 			<h5>Kari Stiles</h5>
-			<p> Adaptive Management Scientist<br />
+			<p> Adaptive Systems Manager<br />
 				360.464.4845 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a></p>
-			<h5>Skadi von Reis</h5>
-			<p> Hershman Marine Policy Fellow<br />
-				253.666.6289 | <a href="mailto:skadi.vonreis@psp.wa.gov">skadi.vonreis@psp.wa.gov</a></p>
+                <h5>Jennifer Burke</h5>
+			<p> Data Systems/GIS Manager<br />
+				360.464.2009 | <a href="mailto:jennifer.burke@psp.wa.gov">Jennifer.Burke@psp.wa.gov</a></p>
 			<br>
 			<!--S.E. ECOSYSTEM ASSESSMENT-->
 			<h3>Ecosystem Assessment</h3>
@@ -241,6 +251,9 @@
 			<h5>Elene Dorfmeier</h5>
 			<p> Monitoring Performance Analyst <br>
 				360-464-1217| <a href="mailto:elene.dorfmeier@psp.wa.gov">elene.dorfmeier@psp.wa.gov</a></p>
+                	<h5>Skadi von Reis</h5>
+			<p> Hershman Marine Policy Fellow<br />
+				253.666.6289 | <a href="mailto:skadi.vonreis@psp.wa.gov">skadi.vonreis@psp.wa.gov</a></p>
 			<br>
 			<!--S.E. PERFORMANCE AND EVALUATION-->
 			<h3>Performance and Evaluation			</h3>
@@ -248,7 +261,7 @@
 			<p> Performance Management Analyst<br />
 				360.464.1220 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a></p>
 			<!--ANCHOR LINK spaced 2 br above target--> 
-			<a name="policy_and_planning"></a> <br>
+			<a name="policy_and_planning"></a>
 			<br>
 			<!--POLICY AND PLANNING-->
 			
@@ -256,21 +269,19 @@
 			<h5>Jim Bolger</h5>
 			<p> Program Director<br />
 				360.464.2014 | <a href="mailto:jim.bolger@psp.wa.gov">jim.bolger@psp.wa.gov</a></p>
-			<h5>vacant</h5>
-			<p> Administrative Assistant </p>
 			<br>
 			<!--P.P. - ACTION AGENDA-->
 			<h3>Action Agenda</h3>
 			<h5>Peter Best</h5>
 			<p> Planning Manager <br />
 				360.464.1234 | <a href="mailto:peter.best@psp.wa.gov">peter.best@psp.wa.gov</a></p>
-			<h5>vacant</h5>
-			<p> Environmental Planner<br />
-			</p>
+			
 			<h5>Heather Saunders Benson</h5>
 			<p> Environmental Planner<br />
 				360.464.2005 | <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a></p>
-			<br>
+			<h5>vacant</h5>
+			<p> Environmental Planner<br />
+			</p><br>
 			<!--P.P. - IMPLEMENTATION STRATEGIES-->
 			<h3>IMPLEMENTATION STRATEGIES</h3>
 			<h5>Todd Hass</h5>

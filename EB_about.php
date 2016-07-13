@@ -79,12 +79,12 @@
 				                        Ron Wesen <em>Skagit County Commissioner</em><br>
 				                        Bill Blake (alternate) <em>City of Arlington</em><br>
 				            Hood Canal<br>
-				                        Teri King <em>Washington Sea Grant</em><br>
-				                        Scott Brewer (alternate) <em>Hood Canal Coordination Council</em><br>
+					                        Scott Brewer <em>Hood Canal Coordination Council</em><br>
+				                        Haley Harguth (alternate) <em>Hood Canal Coordination Council</em><br>
 				            North Central Puget Sound<br>
 				                        Charlotte Garrido <em>Kitsap County Commissioner</em><br>
-				                        Kathleen Peters (alternate) <em>Kitsap County</em><br>
-				                        Patty Charnas (alternate) <em>Kitsap County</em><br>
+				                        Kathleen Peters (alternate) <em>Kitsap County</em><br />
+				
 				            South Central Puget Sound<br>
 				                        Dow Constantine <em>King County Executive</em><br>
 				                        Fred Jarrett (alternate) <em>King County</em><br>
@@ -94,8 +94,10 @@
 				                        Dan Wrye<em> Pierce County</em><br>
 				                        John Bolender (alternate) <em>Mason County Conservation District</em></p>
 			<p>Business Interest<br>
-				            Gary Chandler <em>Association of Washington Business</em><br>
-			</p>
+				            Gary Chandler <em>Association of Washington Business</em><br />
+							 
+				            Brandon Houskeeper (alternate) <em>Association of Washington Business</em></p>
+	
 			<p>Small Business Interest<br>
 				            Bill Dewey <em>Taylor Shellfish</em><br>
 				            Bill Taylor (alternate) <em>Taylor Shellfish</em></p>
@@ -135,7 +137,7 @@
 				            Elizabeth Babcock (alternate) <em>NOAA</em></p>
 			<p>Federal Government<br>
 				            Col. John G. Buck <em>U.S Army Corps of Engineers</em><br>
-				            Olton Swanson (alternate) <em>USACE</em></p>
+				            Damon Lilly (alternate) <em>USACE</em></p>
 			<p>Federal Government<br>
 				            Peter Murchie <em>Environmental Protection Agency (EPA)</em><br>
 				            Angela Bonifaci (alternate)<em>Environmental Protection Agency (EPA)</p>
