@@ -80,7 +80,34 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+			 <!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>7.21.16<br>
+						</strong>NEWS RELEASE<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/157d7e6" target="_blank">GOVERNOR INSLEE APPOINTS DEBORAH JENSEN TO PUGET SOUND PARTNERSHIP'S LEADERSHIP COUNCIL</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+            
 			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>7.21.16<br>
+						</strong> BLOG<br>
+						<a href="http://www.psp.wa.gov/blog/?p=652">PSAR FUNDS SUPPORT EELGRASS RESTORATION, PROJECT EARNS NOAA EXCELLENCE IN RESTORATION AWARD</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+            <!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
@@ -102,19 +129,6 @@
 						<strong>5.5.16<br>
 						</strong>LEGISLATIVE UPDATES<br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/145e4a3">2016 SESSION WRAP-UP</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>4.18.16<br>
-						</strong> BLOG<br>
-						<a href="http://www.psp.wa.gov/blog/?p=640">SAVING THE GREEN/DUWAMISH RIVER: A MAJOR OPPORTUNITY FOR PUGET SOUND RECOVERY </a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
