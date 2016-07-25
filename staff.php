@@ -239,9 +239,6 @@
 			<br>
 			<!--S.E. ECOSYSTEM ASSESSMENT-->
 			<h3>Ecosystem Assessment</h3>
-			<h5>Ken Dzinbal</h5>
-			<p> Monitoring Program Manager<br />
-				360.464.1222 | <a href="mailto:ken.dzinbal@psp.wa.gov">ken.dzinbal@psp.wa.gov</a></p>
 			<h5>Leska Fore</h5>
 			<p> Monitoring Program Performance Analyst<br />
 				<a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a></p>
