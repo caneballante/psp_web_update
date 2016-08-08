@@ -106,7 +106,7 @@
 				            Heather Trim (alternate) <em>Futurewise</em></p>
 			<p>Environmental Interest 2<br>
 				            Chris Wilke <em>Puget Soundkeeper Alliance</em><br>
-				            Darcy Nonemacher (alternate) <em>Washington Environmental Council</em></p>
+				            Mindy Roberts (alternate) <em>Washington Environmental Council</em></p>
 			<p>Cities<br>
 				            Will Hall <em>City of Shoreline Council member</em><br>
 				            Ed Stern (alternate) City of Poulsbo Councilmember</p>

@@ -185,33 +185,40 @@
 			<h3>ECOSYSTEM RECOVERY TEAM 1</h3>
 			<h5>Stacy Vynne</h5>
 			<p> Regional Manager<br />
+            <em>Hood Canal (interim), South Central LIO (interim)</em><br />
 				360.464.2012 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
 			<h5>Gretchen Glaub</h5>
 			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br />
-				<em>Straits </em><br />
+				<em>Straits LIO, North Olympic Lead Entity, Hood Canal
+</em><br />
 				360.464.1219 | <a href="mailto:gretchen.glaub@psp.wa.gov">gretchen.glaub@psp.wa.gov</a></p>
 			<h5>Leah Kintner</h5>
 			<p> Ecosystem Recovery Coordinator <br />
-				<em>Skagit, Samish and Whatcom</em> <br />
+				<em>Skagit, Samish Skagit/Samish, WRIA 1, Whatcom LIO, WRIA 9 Lead Entity
+</em> <br />
 				360.480.2880 | <a href="mailto:leah.kitner@psp.wa.gov">leah.kintner@psp.wa.gov</a></p>
 			
 			<h5>Suzanna Stoike</h5>
 			<p> Ecosystem Recovery Coordinator &amp; PSAR Program Coordinator<br />
-				<em>Island and San Juans</em><br />
+				<em>Island, San Juan Islands, WRIA 8 Lead Entity
+</em><br />
 				360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a></p>
 			<br>
 			<!--L.E.R. TEAM 2 -->
 			<h3>ECOSYSTEM RECOVERY TEAM 2</h3>
 			<h5>Stephanie Suter</h5>
 			<p> Regional Manager<br />
+            <em>South Sound LIO</em><br />
 				360.464.2013 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a></p>
 			<h5>DAN CALVERT</h5>
 			<p> Ecosystem Recovery Coordinator <br />
-				<!--<em>Stillaguamish/Snohomish</em><br />--> 
+				<em>Stillaguamish/Snohomish, Puyallup/White Lead Entity
+</em><br /> 
 				360.464.2003 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov</a></p>
 			<h5>AMBER MOORE</h5>
 			<p> Ecosystem Recovery Coordinator <br />
-				<!--<em>Stillaguamish/Snohomish</em><br />--> 
+				<em>West Sound Lead Entity, West Central LIO, WRIA 13 and 14 Lead Entities, Nisqually Lead Entity
+</em><br /> 
 				360.464.1225 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
 			
 			<h5>Alexandra Doty</h5>

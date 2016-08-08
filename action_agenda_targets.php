@@ -69,8 +69,8 @@
 	<p>Setting targets was a critical part of the  Action Agenda. In 2012, The Partnership adopted ecosystem recovery targets as policy statements that reflect the region's commitments to and expectations for recovery, or a measurable path to recovery, by 2020. Targets are based on scientific understandings of the ecosystem.</p>
   <p>The Partnership will use targets to guide revisions to the Action Agenda, focus near-term actions, recommend allocations of funding and other resources to specific strategies and actions, and to evaluate Action Agenda implementation. The Partnership intends for all entities implementing the Action Agenda to make use of these targets as they identify and design activities that contribute to ecosystem recovery, allocate funding and other resources for Puget Sound recovery, and evaluate the effects of their investments and activities.</p>
   <h2>Information on Specific 2020 Targets</h2>
-  <p><a href="downloads/AA2011/2011_Targets_11_03_11.pdf"><strong>Approved Targets (PDF)</strong></a><br />
-      <a href="http://www.psp.wa.gov/LC_resolutions.php"><strong>Leadership Council Resolutions</strong></a><br />
+  <p><a href="https://pspwa.box.com/s/wbgkbj075bfqybi21qiajixn1jokpllu"><strong>Approved Targets (PDF)</strong></a><br />
+      <a href="https://pspwa.app.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o/1/5383574177"><strong>Leadership Council Resolutions</strong></a><br />
       <strong><a href="downloads/AA2011/TargetBackgroundJune2011.pdf">Overview of the 2020 Targets(PDF)</a></strong></p>
   <p><strong>Interim Targets</strong></p>
   <p>The purpose of adopting interim targets is to provide shorter timeframes for measuring progress towards achieving the 2020 targets that can inform adaptive management of the overall Action Agenda.  At their October 25 and 26, 2012 meeting, the Leadership Council adopted the following interim targets.</p>
