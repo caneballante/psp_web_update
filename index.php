@@ -144,8 +144,8 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content -->
-					<div class="newsbox-date">JUNE<br>
-						21-22 </div>
+					<div class="newsbox-date">AUG<br>
+						24 </div>
 					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL MEETING, <br>
 						UNIVERSITY OF WASHINGTON</a><br>
 					</div>
@@ -157,10 +157,10 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content-->
-					<div class="newsbox-date">JUNE<br>
-						29</div>
+					<div class="newsbox-date">AUG<br>
+						30-31</div>
 					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
-						SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
+						CANCELLED</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
@@ -170,11 +170,10 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content -->
-					<div class="newsbox-date">JULY<br>
-						21 </div>
+					<div class="newsbox-date">SEP<br>
+						8 </div>
 					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-						SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
-						CANCELLED
+						EDMOND CENTER FOR THE ARTS</a><br>
 						<br>
 					</div>
 					<!--END news content--> 
@@ -185,8 +184,8 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content-->
-					<div class="newsbox-date">JULY<br>
-						28</div>
+					<div class="newsbox-date">SEP<br>
+						22</div>
 					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
 						EDMOND CENTER FOR THE ARTS</a><br>
 					</div>

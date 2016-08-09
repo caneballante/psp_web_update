@@ -101,7 +101,7 @@
 				</tr>
 				<tr>
 					<td><p>August 30-31</p></td>
-					<td><p>TBD</p></td>
+					<td><p>CANCELLED</p></td>
 					<td><a href="https://pspwa.box.com/s/6z8l370w7cz4gwk3zlo1t95ypfxbxyz3" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
