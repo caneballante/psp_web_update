@@ -116,8 +116,9 @@
             <h5>charisse sonnier</h5>
 			<p> Administrative Assistant<br />
 				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
-            <h5>VACANT</h5>
-			<p> Administrative Assistant</p><br />
+            <h5>jennifer haegele</h5>
+			<p> Administrative Assistant<br />
+            360.339.8942 | <a href="mailto:jennifer.haegele@psp.wa.gov">jennifer.haegele@psp.wa.gov</a></p></p>
 			<!--A.S. - IT OPERATIONS-->
 			<h3>IT OPERATIONS</h3>
 			<h5>VACANT</h5>
