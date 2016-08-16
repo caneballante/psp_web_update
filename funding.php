@@ -31,7 +31,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -42,11 +42,7 @@
 <div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
 
  </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -79,11 +75,9 @@ This page contains current contract and grant opportunities, as well as valuable
 
 
  <h2>Sole-Source Contract Notification</h2>
-	
-			<p><a href="https://pspwa.box.com/shared/static/321m6x69wb4chhxt0ckcrneav3hnk3nm.docx">
-				10-26-15 Secure services from the Washington State Association of Counties (WSAC) to engage and inform Counties and Cities, to collaboratively assist Puget Sound Partnership in restoration priorities and implementation of the Action Agenda. 
-			</a></p>
-			 <p><a href="https://pspwa.box.com/shared/static/ndhzsrtd50uguyjxs03czb67dpfbcp7q.docx">10-15-15 Triangle Associates: Secure services from the Triangle Associates to continue with Phase 2 of the Integration Action Planning efforts between the Local Integrating Organizations (LIO) and the ECO Nets in all nine geographical areas.</a>    		</p>
+ 
+<p> <a href="https://pspwa.box.com/s/5kmsz9dd9ytblqxt4htvar9dc3j1u88e">08-16-16 The Puget Sound Partnership (Partnership), a Washington State Agency, contemplates awarding one sole-source contract to ICF Jones & Stokes, Inc. to perform an After Action Review (AAR) of the 2016 Action Agenda processes and a Needs Assessment for the Comprehensive Plan component of the Action Agenda. The reviews are a directive of the Partnership’s Leadership Council and is in addition to the work that ICF is currently performing.  This agreement will provide support for these two efforts to be conducted concurrently as a means to provide input to the 2018 Action Agenda Update process.</a></p>
+ 
 			 
 		<!-- InstanceEndEditable --> </div>
 		
