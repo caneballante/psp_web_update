@@ -95,7 +95,7 @@
             <h6><em>NEARSHORE</em></h6>
 				
 				<p><a href="#bainbridge">Removing bulkheads to restore shoreline habitat while protecting residential uses (Bainbridge Island)</a></p>
-                <p><a href="#permits">Using permits to protect nearshore property and fish habitat (King, San Juan, and Kitsap counties)</a></p>
+                <p><a href="#permits">Nearshore regulations are put in place to ensure shoreline property and nearshore habitat are protected (Kitsap, King, and San Juan counties)</a></p>
                 <h6><em>RIPARIAN</em></h6>
 				<p><a href="#king">Re-establishing native forests on restoration sites (King County)</a></p>
 
@@ -225,8 +225,12 @@
 					<p><a href="https://pspwa.box.com/s/01k23a3z0pr8wozfctj6s9o1bws65lf2">Download the full Bainbridge background summary</a></p><a name="permits"></a></td>
 				</tr>
                 <tr>
+					<td colspan="2" class="tablesubheader">Nearshore regulations are put in place to ensure shoreline property and nearshore habitat are protected (Kitsap, King, and San Juan counties)</td>
+				</tr>
+                <tr>
 					<td><iframe src="https://app.box.com/embed/preview/5pr1kn18brxgstjvrzirtte0q9w35fnr?direction=ASC&theme=dark" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
-					<td><p><a href="https://pspwa.box.com/s/5pr1kn18brxgstjvrzirtte0q9w35fnr">Download the full nearshore property permits fact sheet</a></p><a name="king"></a></td>
+					<td><p><a href="https://pspwa.box.com/s/5pr1kn18brxgstjvrzirtte0q9w35fnr">Download the full nearshore regulations fact sheet</a></p>
+                    <p><a href="https://pspwa.box.com/s/o14atf6c4plbojvbp2rpvxzlo5bko271">Download the full nearshore regulations background summary</a></p><a name="king"></a></td>
 				</tr>
                 <tr>
 					<td colspan="2" class="tablesubheader"><em>RIPARIAN</em></td>
