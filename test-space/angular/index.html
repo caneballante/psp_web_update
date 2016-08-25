@@ -46,7 +46,20 @@
 		<h4>Reviews</h4>
 		<p>asjdlaksjdlasjdlaskjdalsjdaskljd</p>
 	</div>
-	
 </section>
+<form name="reviewForm" ng-controller="ReviewController as reviewCtrl">
+	<blockquote> <b>stars: {{reviewCtrl.review.stars}}</b> <br>
+{{reviewCtrl.review.body}} <br>
+<cite>by: {{reviewCtrl.review.author}}</cite> </blockquote>
+	<select ng-model="reviewCtrl.review.stars">
+		<option value="1">1 star</option>
+		<option value="2">2 star</option>
+		<option value="3">3 star</option>
+	</select>
+	<textarea ng-model="reviewCtrl.review.body"></textarea>
+	<label>by:</label>
+	<input ng-model="reviewCtrl.review.author" type="email" />
+	<input type="submit" value="Submit" />
+</form>
 </body>
 </html>

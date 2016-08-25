@@ -7,7 +7,12 @@ var app = angular.module('store', []);
 app.controller('StoreController', function() {
 	this.products = gems;
 	});
+
+app.controller('ReviewController', function() {
+	this.review = [];
+	});
 	
+		
 app.controller('PanelController', function() {
 	this.tab = 1;
 	this.selectTab = function (setTab) {
