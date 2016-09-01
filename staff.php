@@ -118,7 +118,7 @@
 				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
             <h5>jennifer haegele</h5>
 			<p> Administrative Assistant<br />
-            360.339.8942 | <a href="mailto:jennifer.haegele@psp.wa.gov">jennifer.haegele@psp.wa.gov</a></p></p>
+            360.339.8942 | <a href="mailto:jennifer.haegele@psp.wa.gov">jennifer.haegele@psp.wa.gov</a></p><br />
 			<!--A.S. - IT OPERATIONS-->
 			<h3>IT OPERATIONS</h3>
 			<h5>VACANT</h5>
@@ -171,18 +171,10 @@
 		
             	<h5>Tristan Peter-Contesse</h5>
 			<p>Boards Policy Specialist<br>
-		    360.464.2002 | <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a>			</p>
-			<br />
+		    360.464.2002 | <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a></p><br />
 			
 			<!--PEP - LOCAL ECOSYSTEM RECOVERY-->
-			
-			<h3>LOCAL ECOSYSTEM RECOVERY</h3>
-			<h5>Jeanette Dorner</h5>
-			<p> Program Director and Tribal Affairs<br />
-				360.464.2006 | <a href="mailto:jeanette.dorner@psp.wa.gov">jeanette.dorner@psp.wa.gov </a></p>
-			
-			<br>
-			<!--L.E.R. TEAM 1 -->
+			<!--L.E.R. TEAM 1 -->			
 			<h3>ECOSYSTEM RECOVERY TEAM 1</h3>
 			<h5>Stacy Vynne</h5>
 			<p> Regional Manager<br />
@@ -271,10 +263,8 @@
 			<!--POLICY AND PLANNING-->
 			
 			<h2>POLICY AND PLANNING</h2>
-			<h5>Jim Bolger</h5>
-			<p> Program Director<br />
-				360.464.2014 | <a href="mailto:jim.bolger@psp.wa.gov">jim.bolger@psp.wa.gov</a></p>
-			<br>
+			
+
 			<!--P.P. - ACTION AGENDA-->
 			<h3>Action Agenda</h3>
 			<h5>Peter Best</h5>
