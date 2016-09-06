@@ -75,6 +75,8 @@
 				                        Phil Johnson (alternate) <em>Jefferson County Commissioner</em><br>
 				            The San Juan Islands<br>
 				                        Jamie Stephens <em>Action Area Representative (San Juan LIO)</em><br>
+                				                        Marta Green (alternate) <em>Action Area Representative (San Juan LIO)</em><br>
+
 				            Whidbey Island<br>
 				                        Ron Wesen <em>Skagit County Commissioner</em><br>
 				                        Bill Blake (alternate) <em>City of Arlington</em><br>
@@ -140,7 +142,7 @@
 				            Damon Lilly (alternate) <em>USACE</em></p>
 			<p>Federal Government<br>
 				            Peter Murchie <em>Environmental Protection Agency (EPA)</em><br>
-				            Angela Bonifaci (alternate)<em>Environmental Protection Agency (EPA)</p>
+				            Angela Adams (alternate)<em>Environmental Protection Agency (EPA)</p>
 			
 			<p>Washington State Agencies<br>
 				            Maia Bellon <em>Director, Washington State Department of Ecology</em><br>
