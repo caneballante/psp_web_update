@@ -70,7 +70,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<h2 class="margin-0-top">Employment opportunities</h2>
-		<p>There are no current openings.</p><!-- InstanceEndEditable --> </div>
+		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1513084/environmental-planner-ems1">Environmental Planner - Full-time</a></p><!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 		<div class="right-nav-title">SEE ALSO</div>

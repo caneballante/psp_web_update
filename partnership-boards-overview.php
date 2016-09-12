@@ -65,9 +65,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p><strong><a href="https://pspwa.box.com/s/6t7za33era03yo5s5h7t3rt56l2m7ex0">Draft 2016-18 Biennial Science Work Plan</a></strong></p>
-            <p>The draft 2016-28 Biennial Science Work Plan is out for public comment. Comments are welcomed through August 15 and can be submitted to <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a>.</p>
-            
+			
             <p><strong>Overview</strong></p>
             <p>The Puget Sound Partnership&rsquo;s four boards support and guide the agency in its charge of mobilizing and accelerating the science-based effort to protect and restore Puget Sound.  <br>
 1.              Leadership Council<br>
