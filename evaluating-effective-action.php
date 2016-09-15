@@ -96,6 +96,9 @@
 				
 				<p><a href="#bainbridge">Removing bulkheads to restore shoreline habitat while protecting residential uses (Bainbridge Island)</a></p>
                 <p><a href="#permits">Nearshore regulations are put in place to ensure shoreline property and nearshore habitat are protected (Kitsap, King, and San Juan counties)</a></p>
+                <p><a href="#cornet">Restoring Nearshore Habitat and Improving Public Access (Island County)</a></p>
+                <p><a href="#seahurst">Restoring natural shoreline and public beach access in an urban park (King County)</a></p>
+                <p><a href="#weaverling">Removing bulkheads to protect property and create habitat for forage fish (Skagit County)</a></p>
                 <h6><em>RIPARIAN</em></h6>
 				<p><a href="#king">Re-establishing native forests on restoration sites (King County)</a></p>
 
@@ -113,7 +116,7 @@
 					<td colspan="2" class="tablesubheader">Keeping shellfish beds open by reducing fecal coliform (Samish Basin)</td>
 				</tr>
 				<tr>
-					<td><iframe src="https://app.box.com/embed/preview/d1ghzzoh6oquks8v7xf3jn8u41l832fa?direction=ASC&theme=dark" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
+					<td><iframe src="https://app.box.com/embed/preview/d1ghzzoh6oquks8v7xf3jn8u41l832fa?direction=ASC&theme=dark" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/d1ghzzoh6oquks8v7xf3jn8u41l832fa">Download the  Samish Basin fact sheet</a></p>
 					<p><a href="https://app.box.com/s/mbp6ddy24rulke4epmp8ul2xpc7rzeh1">Download the full Samish Basin background summary</a></p></td>
 				</tr>
@@ -133,7 +136,7 @@
 					<td colspan="2" class="tablesubheader">Selecting the best wet weather management actions (Seattle Public Utility)</td>
 				</tr>
 				<tr>
-					<td><iframe src="https://app.box.com/embed/preview/xnb4wh704oqz8du0voozgwuaq2aeoowt?direction=ASC&theme=dark" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
+					<td><iframe src="https://app.box.com/embed/preview/xnb4wh704oqz8du0voozgwuaq2aeoowt?direction=ASC&theme=dark" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
 					<a name="tacoma"></a><td><p><a href="https://pspwa.box.com/s/aqxb4i45t2c2aurndkaffbtjub17l1vm">Download the Seattle Public Utility fact sheet</a></p>
 					<p><a href="https://pspwa.box.com/s/fo7kv23erzryfqety8h8squul4zurrx7">Download the full Seattle Public Utility background summary</a></p></td>
 				</tr>
@@ -142,7 +145,7 @@
 					<td colspan="2" class="tablesubheader">Comparing costs to reduce toxic pollution (City of Tacoma)</td>
 				</tr>
 				<tr>
-					<td><iframe src="https://app.box.com/embed/preview/r5q3kueo20wxkpb7sidp0lm4qohyhspc?direction=ASC&theme=dark" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
+					<td><iframe src="https://app.box.com/embed/preview/r5q3kueo20wxkpb7sidp0lm4qohyhspc?direction=ASC&theme=dark" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
 					<td><p><a href="https://pspwa.box.com/s/r5q3kueo20wxkpb7sidp0lm4qohyhspc">Download the City of Tacoma fact sheet</a></p>
 					<p><a href="https://pspwa.box.com/s/wpoyhbidhspf5dh0wnfib2y2o34trkgl">Download the full City of Tacoma background summary</a></p></td></tr>
 			</table>
@@ -157,9 +160,7 @@
 					<td colspan="2" class="tableheader"><h3><span class="tableheadertext">Strategic Initiative: Protect and restore habitat</span></h3></td>
 					
 					<!-- report -->
-				<tr>
 				
-				</tr>
 				
 				<!-- report -->
                 <tr>
@@ -200,7 +201,7 @@
 				</tr>
 				<tr>
 					<td><iframe src="https://app.box.com/embed/preview/ou1k72pno58cg6169cjxes01ky77pvea?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
-					<td><p><a href="https://pspwa.box.com/s/ou1k72pno58cg6169cjxes01ky77pvea">Download full Nisqually fact sheet</a></p>
+					<td><p><a href="https://pspwa.box.com/s/ou1k72pno58cg6169cjxes01ky77pvea">Download Nisqually fact sheet</a></p>
 					<p><a href="https://app.box.com/s/ojz524zw6qcbuz4qengnjv9cjusbrg7j">Download the full Nisqually background summary</a></p><a name="skokomish"></a></td>
 				</tr>
 				<!-- report -->
@@ -221,7 +222,7 @@
 				</tr>
 				<tr>
 					<td><iframe src="https://app.box.com/embed/preview/nqwl9sp02ypac1ji595pjiuutyys78f6?theme=dark" width="330" height="200" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></td>
-					<td><p><a href="https://pspwa.box.com/s/nqwl9sp02ypac1ji595pjiuutyys78f6">Download the full Bainbridge fact sheet</a></p>
+					<td><p><a href="https://pspwa.box.com/s/nqwl9sp02ypac1ji595pjiuutyys78f6">Download the Bainbridge fact sheet</a></p>
 					<p><a href="https://pspwa.box.com/s/01k23a3z0pr8wozfctj6s9o1bws65lf2">Download the full Bainbridge background summary</a></p><a name="permits"></a></td>
 				</tr>
                 <tr>
@@ -229,9 +230,33 @@
 				</tr>
                 <tr>
 					<td><iframe src="https://app.box.com/embed/preview/5pr1kn18brxgstjvrzirtte0q9w35fnr?direction=ASC&theme=dark" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
-					<td><p><a href="https://pspwa.box.com/s/5pr1kn18brxgstjvrzirtte0q9w35fnr">Download the full nearshore regulations fact sheet</a></p>
-                    <p><a href="https://pspwa.box.com/s/o14atf6c4plbojvbp2rpvxzlo5bko271">Download the full nearshore regulations background summary</a></p><a name="king"></a></td>
+					<td><p><a href="https://pspwa.box.com/s/5pr1kn18brxgstjvrzirtte0q9w35fnr">Download the nearshore regulations fact sheet</a></p>
+                    <p><a href="https://pspwa.box.com/s/o14atf6c4plbojvbp2rpvxzlo5bko271">Download the full nearshore regulations background summary</a></p><a name="cornet"></a></td>
 				</tr>
+                <tr>
+                  <td colspan="2">Restoring Nearshore Habitat and Improving Public Access (Island County)</td>
+                </tr>
+                <tr>
+                  <td><iframe src="https://app.box.com/embed/preview/lfjnwi3xwh89em081qirt4a3bir6plrx?direction=ASC&theme=dark" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
+                  <td><p><a href="https://pspwa.box.com/s/lfjnwi3xwh89em081qirt4a3bir6plrx">Download the Cornet Bay fact sheet</a></p>
+                  <p><a href="https://pspwa.box.com/s/vzszypbkle09zi0usgblrs18skh26w4t">Download the full Cornet Bay background summary</a><a name="seahurst"></a></p></td>
+                </tr>
+                <tr>
+                  <td colspan="2">Restoring natural shoreline and public beach access in an urban park (King County)</td>
+                </tr>
+                <tr>
+                  <td><iframe src="https://app.box.com/embed/preview/s963p6j2sgmouhvafexkghz0q8jyt8qz?direction=ASC&theme=dark" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
+                  <td><p><a href="https://pspwa.box.com/s/3m4o0rs7eqcejh53r02nbcghz4hinw21">Download the Seahurst fact sheet</a></p>
+                  <p><a href="https://pspwa.box.com/s/s963p6j2sgmouhvafexkghz0q8jyt8qz">Download the full Seahurst background summary</a><a name="weaverling"></a></p></td>
+                </tr>
+                <tr>
+                  <td colspan="2">Removing bulkheads to protect property and create habitat for forage fish (Skagit County)</td>
+                </tr>
+                <tr>
+                  <td><iframe src="https://app.box.com/embed/preview/iy6bnulm7cmojkulnvf657whxp2lgemf?direction=ASC&theme=dark" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
+                  <td><p><a href="https://pspwa.box.com/s/iy6bnulm7cmojkulnvf657whxp2lgemf">Download the Weaverling Spit fact sheet</a></p>
+                  <p><a href="https://pspwa.box.com/s/udj3lk9tty6hca8c6nfz70xcsuxadgae">Download the full Weaverling Spit Background Summary</a><a name="king"></a></p></td>
+                </tr>
                 <tr>
 					<td colspan="2" class="tablesubheader"><em>RIPARIAN</em></td>
 				</tr>
