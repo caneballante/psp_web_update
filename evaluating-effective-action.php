@@ -246,8 +246,8 @@
                 </tr>
                 <tr>
                   <td><iframe src="https://app.box.com/embed/preview/s963p6j2sgmouhvafexkghz0q8jyt8qz?direction=ASC&theme=dark" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
-                  <td><p><a href="https://pspwa.box.com/s/3m4o0rs7eqcejh53r02nbcghz4hinw21">Download the Seahurst fact sheet</a></p>
-                  <p><a href="https://pspwa.box.com/s/s963p6j2sgmouhvafexkghz0q8jyt8qz">Download the full Seahurst background summary</a><a name="weaverling"></a></p></td>
+                  <td><p><a href="https://pspwa.box.com/s/s963p6j2sgmouhvafexkghz0q8jyt8qz">Download the Seahurst fact sheet</a></p>
+                  <p><a href="https://pspwa.box.com/s/3m4o0rs7eqcejh53r02nbcghz4hinw21">Download the full Seahurst background summary</a><a name="weaverling"></a></p></td>
                 </tr>
                 <tr>
                   <td colspan="2">Removing bulkheads to protect property and create habitat for forage fish (Skagit County)</td>
