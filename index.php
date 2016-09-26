@@ -144,10 +144,10 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content -->
-					<div class="newsbox-date">AUG<br>
-						24 </div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL MEETING, <br>
-						UNIVERSITY OF WASHINGTON</a><br>
+					<div class="newsbox-date">OCT<br>
+						6 </div>
+					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
+						BELLEVUE COMMUNITY COLLEGE</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
@@ -157,10 +157,10 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content-->
-					<div class="newsbox-date">AUG<br>
-						30-31</div>
-					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL MEETING, <br>
-						CANCELLED</a><br>
+					<div class="newsbox-date">OCT<br>
+						18-19</div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+						SEABECK CONFERENCE CENTER</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
@@ -170,10 +170,10 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content -->
-					<div class="newsbox-date">SEP<br>
-						8 </div>
-					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-						EDMOND CENTER FOR THE ARTS</a><br>
+					<div class="newsbox-date">OCT<br>
+						26 </div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+						UNIVERSITY OF WASHINGTON</a><br>
 						<br>
 					</div>
 					<!--END news content--> 
@@ -184,9 +184,9 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content-->
-					<div class="newsbox-date">SEP<br>
-						22</div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					<div class="newsbox-date">NOV<br>
+						10</div>
+					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
 						EDMOND CENTER FOR THE ARTS</a><br>
 					</div>
 					<!--END news content--> 

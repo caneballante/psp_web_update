@@ -105,8 +105,12 @@
 					<td><a href="https://pspwa.box.com/s/6z8l370w7cz4gwk3zlo1t95ypfxbxyz3" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>October 6-7</p></td>
-					<td><p>TBD</p></td>
+					<td><p>October 6</p></td>
+					<td><p>Bellevue Community College<br>
+						Building B<br>
+						B201 Boardroom<br>
+						3000 Landerholm Circle SE<br>
+					Bellevue, WA 98007-6484</p></td>
 					<td><a href="https://pspwa.box.com/s/qu1n0nlvyhclipzvp9ola1dh2glc3354" target="new">Meeting Materials</a><br />
 					</td>
 				</tr>
