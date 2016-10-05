@@ -180,11 +180,9 @@
 			<p> Regional Manager<br />
             <em>Hood Canal (interim), South Central LIO (interim)</em><br />
 				360.464.2012 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
-			<h5>Gretchen Glaub</h5>
-			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br />
-				<em>Straits LIO, North Olympic Lead Entity, Hood Canal
-</em><br />
-				360.464.1219 | <a href="mailto:gretchen.glaub@psp.wa.gov">gretchen.glaub@psp.wa.gov</a></p>
+			<h5>vacant</h5>
+			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator
+	</p>
 			<h5>Leah Kintner</h5>
 			<p> Ecosystem Recovery Coordinator <br />
 				<em>Skagit, Samish Skagit/Samish, WRIA 1, Whatcom LIO, WRIA 9 Lead Entity
@@ -248,9 +246,7 @@
 			<h5>Elene Dorfmeier</h5>
 			<p> Monitoring Performance Analyst <br>
 				360-464-1217| <a href="mailto:elene.dorfmeier@psp.wa.gov">elene.dorfmeier@psp.wa.gov</a></p>
-                	<h5>Skadi von Reis</h5>
-			<p> Hershman Marine Policy Fellow<br />
-				253.666.6289 | <a href="mailto:skadi.vonreis@psp.wa.gov">skadi.vonreis@psp.wa.gov</a></p>
+                
 			<br>
 			<!--S.E. PERFORMANCE AND EVALUATION-->
 			<h3>Performance and Evaluation			</h3>
