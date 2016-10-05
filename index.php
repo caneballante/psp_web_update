@@ -147,8 +147,8 @@
 					<div class="newsbox-date">OCT<br>
 						6 </div>
 					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
-						BELLEVUE COMMUNITY COLLEGE</a><br>
-					</div>
+					  SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
+				  </div>
 					<!--END news content--> 
 				</div>
 			</div>
