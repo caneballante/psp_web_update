@@ -115,7 +115,12 @@
 				</tr>
 				<tr>
 					<td><p>December 6-7</p></td>
-					<td><p>TBD</p></td>
+					<td><p>Kitsap County<br>
+					  Commissioners' Chamber<br>
+					  614 Division Street<br>
+					  Port Orchard, WA 98366</p>
+					  <p>12/6 is meeting.<br>
+				    12/7 is tour.</p></td>
 					<td><a href="https://pspwa.box.com/s/vjmyls3gndnl9p4uffg1d83mfpik1m9v" target="new">Meeting Materials</a><br /></td>
 				</tr>
 			</table>
