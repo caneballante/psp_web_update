@@ -126,8 +126,8 @@ Seattle, WA 98105<br />
 				<tr>
 					<td class=""><p>October 26</p></td>
 					<td><p>University of Washington<br>
-Applied Physics Lab<br>
-Henderson Hall<br>
+Applied Physics Lab - Henderson Hall<br>
+Hardisty Conference Room on 6th floor<br>
 1013 NE 40th Street<br>
 Seattle, WA 98105</p></td>
 					<td class=""><a href="https://pspwa.box.com/s/fhtc35b1mesjs08y5yh5qf9yjiuftyn5" target="new">Meeting Materials</a></td>

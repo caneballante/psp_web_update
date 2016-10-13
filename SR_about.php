@@ -265,7 +265,7 @@
 				<tr>
 					<td valign="top"><p><strong>Environment</strong></p></td>
 					<td valign="top"><p>Washington Environmental Council </p></td>
-					<td valign="top"><p><strong>Margaret Clancy</strong></p></td>
+					<td valign="top"><p><strong>Mindy Roberts</strong></p></td>
 					<td valign="top"></td>
 					<td valign="top"></td>
 				</tr>

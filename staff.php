@@ -239,7 +239,7 @@
 			<h3>Ecosystem Assessment</h3>
 			<h5>Leska Fore</h5>
 			<p> Monitoring Program Performance Analyst<br />
-				<a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a></p>
+				206.708.5048 | <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a></p>
 			<h5>Nathalie Hamel</h5>
 			<p> Monitoring Program Performance Analyst<br />
 				360.339.5826 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
