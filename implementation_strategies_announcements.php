@@ -66,6 +66,22 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="padding-0-top margin-0-top">NEW ANNOUNCEMENTS</h2>
+            <!-- ANNOUNCEMENT START --->
+        <div class="highlightbox">
+		  <h3>Help us develop the Shoreline Armoring Vital Sign Implementation Strategy</h3>
+			<p>The Habitat Strategic Initiative Team is seeking members for an Interdisciplinary Team to help develop an Implementation Strategy, or recovery and protection strategy, which accelerates progress toward meeting the <a href="http://www.psp.wa.gov/vitalsigns/shoreline_armoring.php">Shoreline Armoring 2020 Vital Sign</a> targets across the Puget Sound. Participants will work alongside the Habitat Strategic Initiative Leads, Puget Sound Partnership, Puget Sound Institute, and others in this effort. </p>
+                <p>Implementation Strategies will help the region align planning and resources toward achieving shared recovery and protection targets. They will be used to inform future iterations of the Action Agenda by identifying critical priorities for recovery or protection. <a href="https://pspwa.box.com/v/PublicIS-ShoreArmoring">Learn more</a> about Shoreline Armoring Implementation Strategy partners and development.</p>
+                <p><strong>Statement of Interest</strong> <br>
+                  To be considered for the Interdisciplinary Team, please complete a simple online <a href="https://app.smartsheet.com/b/form?EQBCT=030f05ec99644f34a2ccaee4a25e1c26">statement of interest</a> by <strong>Monday, October 31, 2016</strong>. The form will allow you to briefly describe your interest and share your qualifications.</p>
+                <p><strong>For more information</strong> <br>
+                  For information regarding the Interdisciplinary Team expectations and recruitment process as well as other ways to get involved in or contribute to development of the Implementation Strategy, please see our <a href="https://pspwa.box.com/s/9wwymkfilskeg8ycy4tleavkt4qiosj9">recruitment letter</a>.</p>
+                <p>Additional questions? <br>
+                  Please contact Jennifer Griffiths, Technical Lead, Habitat Strategic Initiative<br>
+  <a href="mailto:jennifer.griffiths@dfw.wa.gov">jennifer.griffiths@dfw.wa.gov</a></p>
+                <p>You can also sign up to receive periodic Shoreline Armoring Implementation Strategy updates. <a href="https://app.smartsheet.com/b/form?EQBCT=bf96d911a70b4cfaac6831f0ad1b4c60">Sign me up!</a></p>
+          </div>
+			<!-- ANNOUNCEMENT END--->
+            <h2>PAST ANNOUNCEMENTS</h2>
 			<!-- ANNOUNCEMENT START --->
 			<div class="highlightbox">
 				<h3>DRAFT IMPLEMENTATION STRATEGIES AVAILABLE FOR PUBLIC REVIEW: JUNE 13 - 27</h3>
@@ -84,7 +100,7 @@
 			</div>
 			<!-- ANNOUNCEMENT END--->
 			
-			<h2>PAST ANNOUNCEMENTS</h2>
+			
 			<!-- ANNOUNCEMENT START --->
 			<div class="highlightbox">
 				<h3>Save the Dates: Implementation Strategy Workshops </h3>
