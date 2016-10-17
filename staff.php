@@ -213,7 +213,8 @@
 				360.464.1225 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
 			
 			<h5>Alexandra Doty</h5>
-			<p> Project Coordinator <em>(beginning Fall 2016)</em></p>
+			<p> Project Coordinator<br />
+        360.810.6870 | <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
             
 			<!--ANCHOR LINK spaced 2 br above target--> 
 			<a name="science_and_evaluation"></a>
