@@ -124,9 +124,9 @@
 				<li><a href="http://feiromarinelifecenter.org/strait-eco-net/" target="_blank">Strait ECO Net</a></li>
 			</ul>
 			<h2>ECO NET CONTACT</h2>
-			<p>Laura Blackmore</p>
-			<p><a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
-			<p>(360) 339-4627</p>
+			<p>Alexandra Doty</p>
+			<p><a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
+			<p>(360) 280-6664</p>
 			<p><a href="https://pspwa.box.com/s/supkihvxkg574ikgma99x364bsuynds2"><strong>Resources for ECO Net Members</strong></a></p>
 			<!-- InstanceEndEditable --> </div>
 		
