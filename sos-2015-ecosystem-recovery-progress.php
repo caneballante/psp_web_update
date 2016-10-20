@@ -139,7 +139,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns/index" target="_blank">Vital Signs Website</a></li>
 				<li role="presentation"> <a href="http://www.psp.wa.gov/psp_web_update/evaluating-PSEMP.php" target="_blank">Puget Sound Ecosystem Monitoring Program</a></li>
-				<li role="presentation"> <a href="http://gismanager.rco.wa.gov/ProjectAtlas" target="_blank">Puget Sound Project Atlas</a></li>
+				<li role="presentation"> <a href="http://psp.wa.gov/gis/RecoveryAtlas/" target="_blank">Puget Sound Project Atlas</a></li>
 				<li role="presentation"> <a href="http://psp.wa.gov/gis/ReportCard/" target="_blank">Action Agenda Report Card</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
 				<li role="presentation"> <a href="http://cses.washington.edu/cig/" target="_blank">Climate Change Institute</a></li>
