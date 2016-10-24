@@ -83,7 +83,7 @@
 			<ul>
 				<li>The progress of Puget Sound ecosystem recovery in key areas. </li>
 				<li>That more than 70 percent of the Near Term Actions are complete or moving forward. </li>
-				<li>The progress s in linking ecosystem status to recovery efforts. </li>
+				<li>The progress in linking ecosystem status to recovery efforts. </li>
 			</ul>
 			<p>However, many Vital Signs have no changed or are even deteriorating relative to the goals. Given these findings, the Science Panel notes additional actions are needed to maintain and increase the rate of recovery. </p>
 			<p>The Science Panel also notes that future NTAs can be improved by matching their scale to the 2-year implementation period, and by ensuring that the number of NTAs does not expand beyond the region&rsquo;s capacity to fund and complete within the 2-year implementation window.</p>
