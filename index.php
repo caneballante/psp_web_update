@@ -80,6 +80,34 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+		     <!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>11.8.16<br>
+						</strong>MEDIA ADVISORY<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1711796">ECOSYSTEM COORDINATION BOARD TO DISCUSS ACTION AGENDA UPDATES, FUNDING...</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>11.7.16<br>
+						</strong>BLOG<br>
+						<a href="http://www.psp.wa.gov/blog/?p=707">NO DISCHARGE ZONE HELPS PROTECT PUGET SOUND WATER QUALITY</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
+			
 			 <!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
@@ -107,80 +135,15 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-            <!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>6.29.16<br>
-						</strong>ACTION AGENDA<br>
-						<a href="action_agenda_center.php">LEADERSHIP COUNCIL ADOPTS 2016 ACTION AGENDA FOR PUGET SOUND </a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+       
 			
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>5.5.16<br>
-						</strong>LEGISLATIVE UPDATES<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/145e4a3">2016 SESSION WRAP-UP</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+		
 			
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
-			
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content -->
-					<div class="newsbox-date">OCT<br>
-						6 </div>
-					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
-					  SOUTH SEATTLE COMMUNITY COLLEGE</a><br>
-				  </div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content-->
-					<div class="newsbox-date">OCT<br>
-						18-19</div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-						SEABECK CONFERENCE CENTER</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content -->
-					<div class="newsbox-date">OCT<br>
-						26 </div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-						UNIVERSITY OF WASHINGTON</a><br>
-						<br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
+				<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content-->
@@ -193,6 +156,49 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content-->
+					<div class="newsbox-date">DEC<br>
+						1</div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+						EDMONDS CENTER FOR THE ARTS</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content -->
+					<div class="newsbox-date">DEC<br>
+						6-7 </div>
+					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
+					  KITSAP COUNTY COMMISSIONERS CHAMBER</a><br>
+				  </div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content -->
+					<div class="newsbox-date">DEC<br>
+						14-15 </div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+SOUTH SEATTLE COMMUNITY COLLEGE<br>
+						UNIVERSITY OF WASHINGTON</a><br>
+						<br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+		
 		</div>
 		<!--ROW END--> 
 	</div>
