@@ -8,9 +8,9 @@ $( function() {
 		orientation: "vertical",
 		slide: function( event, ui ) {
 			$( "#amount" ).val( "$" + ui.value + " mil" );
-			markerSetter(ui.value);
-			markerRemover(ui.value);
-		
+			markerRemover();
+			markerTurnOn(ui.value);
+					
 		}
 	});
 	//sets value first time before any sliding is done
@@ -19,18 +19,8 @@ $( function() {
   
 //Google map  
 var map;
-var marker;
 var markers = [];
-/*function initMap() {
-        var myLatLng = {lat: 47.886881, lng: -122.302551};
-		var map = new google.maps.Map(document.getElementById('map'), {
-          center: myLatLng,
-          zoom: 7,
-		  mapTypeId: 'terrain'
-        });	
-		google.maps.event.addDomListener(document.getElementById('clickme'), 'click', markerSetter);
-      };
-	  */
+
 function initMap() {	  
  var mapOptions = {
         zoom: 5,
@@ -39,12 +29,12 @@ function initMap() {
     };
 
     map = new google.maps.Map(document.getElementById('map'), mapOptions);
-	google.maps.event.addDomListener(document.getElementById('clickme'), 'click', markerSetter);
-	google.maps.event.addDomListener(document.getElementById('clickmeremove'), 'click', markerRemover);
-	//markerSetter(5);	
+	google.maps.event.addDomListener(document.getElementById('clickMe'), 'click', markerSetter);
+	google.maps.event.addDomListener(document.getElementById('clickMeRemover'), 'click', markerRemover);
+	google.maps.event.addDomListener(document.getElementById('clickMeTurnOn'), 'click', markerTurnOn);
 }
-	  
-function markerSetter (fundingLevel) {	
+//Creates all the markers and adds them to the array	  
+function markerSetter () {	
 	var coords = [
 		new google.maps.LatLng(59.32522, 18.07002),
 		new google.maps.LatLng(59.45522, 18.12002),
@@ -53,26 +43,23 @@ function markerSetter (fundingLevel) {
 		new google.maps.LatLng(59.36344, 18.36346),
 		new google.maps.LatLng(59.56562, 18.33002)];
 
-    for (var i = 0; i <= fundingLevel; i++) {
+    for (var i = 0; i <= 5; i++) {
         var marker = new google.maps.Marker({
             map: map,
             position: coords[i]
         });
         markers.push(marker);
     }
-	
 }
-
-function markerRemover (fundingLevel) {
-	marker.setMap(null);
-
-	/*for (var i = fundingLevel; i <= 5; i++) {
+//turns all of them off, but doesn't remove them from the array
+function markerRemover () {
+	for (var i = 0; i <= 5; i++) {
 		markers[i].setMap(null);
     }
-	var howMany = 5-fundingLevel;
-	console.log("howMany=" +howMany);
-	markers.splice(fundingLevel+1,howMany);
-*/
 }
-
-
+//turns them on after they are already in the array
+ function markerTurnOn (sliderValue) {
+	for (var i = 0; i <= sliderValue; i++) {
+		markers[i].setMap(map);
+    }
+}
