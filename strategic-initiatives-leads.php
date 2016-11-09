@@ -62,16 +62,16 @@
 			</div>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Three Strategic Initiatives are emphasized as priority topics with issues critical to Puget Sound recovery within the Action Agenda - Stormwater, Habitat and Shellfish. Leads, described below, have been established for each Strategic Initiative. The SI Leads each facilitate an Advisory Team made up of technical and policy experts in the region, as well as work in coordination with one another and the Puget Sound Partnership, make and manage subawards, and implement work approved in the Action Agenda Implementation Plan.</p>
+			<p>Three Strategic Initiatives are emphasized as priority topics with issues critical to Puget Sound recovery within the Action Agenda - Stormwater, Habitat, and Shellfish. Leads, described below, have been established for each Strategic Initiative. The SI Leads each facilitate an Advisory Team made up of technical and policy experts in the region, as well as work in coordination with one another, the Puget Sound Partnership, EPA , Tribes, Local Integrating Organizations and others throughout the region. SI Leads manage sub-awards which implement work approved in the Action Agenda Implementation Plan.</p>
 			<p>Together the SI Leads and Advisory Teams are key to the development and implementation of the Action Agenda and have the following responsibilities:</p>
 			<ul>
-				<li>Identify regional recovery and protection priorities</li>
-				<li>Coordinate responses to issues that affect all three Strategic Initiatives (cross-cutting issues)</li>
-				<li>Establish the appropriate sequences of actions to lead from present conditions to long term goals</li>
-				<li>Solicit, identify, review and prioritize local and regional Near Term Actions</li>
-				<li>Develop and apply evaluation criteria for the review of Near Term Actions</li>
-				<li>Administration of National Estuary Program funds to implement priorities identified in the Action Agenda</li>
-				<li>Oversee development and adaptive management of Implementation Strategies</li>
+				<li> Identify regional recovery and protection priorities </li>
+				<li>Coordinate responses to issues that affect all three Strategic Initiatives (cross-cutting issues) </li>
+				<li>Establish the appropriate sequences of actions to lead from present conditions to long term goals </li>
+				<li>Solicit, identify, review and prioritize local and regional Near Term Actions </li>
+				<li>Develop and apply evaluation criteria for the review of Near Term Actions </li>
+				<li> Administration of National Estuary Program funds to implement priorities identified in the Action Agenda </li>
+				<li>Oversee development and adaptive management of Implementation Strategies </li>
 			</ul>
 			<p><a href="https://pspwa.box.com/s/il5i70rwisqvqqkunhq7nua3kh8klk0u">Draft Timeline</a> (Last Updated August 31, 2016)</p>
 			<p>Draft NTA Funding Recommendations for NEP Funding (anticipated November 10, 2016)	:</p>
@@ -92,18 +92,19 @@
 					<tr>
 						<td><br>
 							Derek Day, <br>
-							360-407-7612</td>
+							dday461@ecy.wa.gov</td>
 						<td>Ecology</td>
 						<td>Lead</td>
 					</tr>
 					<tr>
 						<td>Heidi Siegelbaum, <br>
-							253-445-4502</td>
+							heidi.siegelbaum@wsu.edu</td>
 						<td>WA Stormwater Center at WSU</td>
 						<td>Supporting</td>
 					</tr>
 					<tr>
-						<td>Doug Peters</td>
+						<td>Doug Peters<br>
+							doug.peters@commerce.wa.gov</td>
 						<td>Commerce</td>
 						<td>Supporting</td>
 					</tr>
@@ -122,42 +123,39 @@
 					<tr>
 						<td><br>
 							Julie Watson, <br>
-						360-902-2580</td>
+							julie.watson@dfw.wa.gov</td>
 						<td>WDFW</td>
 						<td>Policy Co-Lead</td>
 					</tr>
 					<tr>
 						<td>Kirsten Feifel, <br>
-						360-902-1055</td>
+							kirsten.feifel@dnr.wa.gov</td>
 						<td>DNR</td>
 						<td>Policy Co-Lead </td>
 					</tr>
 					<tr>
 						<td>Jennifer Griffiths,<br>
-360-902-2212</td>
+							jennifer.griffiths@dfw.wa.gov</td>
 						<td>WDFW</td>
 						<td>Technical Co-Lead</td>
 					</tr>
-						<tr>
+					<tr>
 						<td>Libby Gier,<br>
-360-902-1589</td>
+							libby.gier@dnr.wa.gov</td>
 						<td>DNR</td>
 						<td>Technical Co-Lead</td>
 					</tr>
-						<tr>
-						<td>Kayla Jenkins,<br>
-360-902-8136</td>
+					<tr>
+						<td>Kayla Jenkins,<br></td>
 						<td>WDFW</td>
 						<td>Budget Analyst</td>
 					</tr>
 				</tbody>
 			</table>
 			<p><a href="https://pspwa.box.com/s/airlh6ihqoaira2dv7pux6ic5s0xx5ik">Habitat SIAT Roster</a></p>
-			
 			<h2>Shellfish Strategic Initiative</h2>
-			
 			<p>Leads:  Led by the Washington State Department of Health (Health) in partnership with the Departments of Ecology (Ecology) and Agriculture (Agriculture)</p>
-		<table class="table">
+			<table class="table">
 				<tbody>
 					<tr>
 						<td>Contact</td>
@@ -165,16 +163,15 @@
 						<td>Lead/Co-Lead/Supporting Agency</td>
 					</tr>
 					<tr>
-						<td>
-							Emily Sanford, <br>
-							360-236-3319</td>
+						<td> Emily Sanford, <br>
+							emily.sanford@doh.wa.gov</td>
 						<td>Health</td>
 						<td>Lead</td>
 					</tr>
 					<tr>
 						<td>Stuart Glasoe, <br>
-							360-236-3377</td>
-						<td>health</td>
+							stuart.glasoe@doh.wa.gov</td>
+						<td>Health</td>
 						<td>Lead </td>
 					</tr>
 					<tr>
@@ -182,14 +179,14 @@
 						<td>Ecology</td>
 						<td>Supporting</td>
 					</tr>
-						<tr>
+					<tr>
 						<td>Ginny Prest</td>
 						<td>Agriculture</td>
 						<td>Supporting</td>
 					</tr>
 				</tbody>
 			</table>
-			<p><a href="https://pspwa.box.com/s/gvjqtfbw0c4sjaz1y7ho2aet41ui0nt3">Shellfish SIAT Roster</a></p> 
+			<p><a href="https://pspwa.box.com/s/gvjqtfbw0c4sjaz1y7ho2aet41ui0nt3">Shellfish SIAT Roster</a></p>
 			<!-- InstanceEndEditable --> </div>
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
