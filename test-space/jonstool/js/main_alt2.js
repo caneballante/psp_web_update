@@ -9,14 +9,11 @@ $( function() {
 		slide: function( event, ui ) {
 			$( "#amount" ).val( "$" + ui.value + " mil" );
 			showHideMarkers(ui.value);
-			
-			//markerRemover();
-			//markerTurnOn(ui.value);
-					
-		}
+			showFunding(ui.value);
+			}
 	});
 	//sets value first time before any sliding is done
-	$( "#amount" ).val( "$" + $( "#slider" ).slider( "value" ) +" mil" );
+	$( "#amount" ).val( "$" + $( "#slider" ).slider( "value" ) +" milly" );
 });
 
 /*var data {
@@ -32,8 +29,8 @@ var projects = [
 		longitude: -123.1301177,
 		latitude: 48.14267633,
 		level: 15,
-		leadEntity: "North Olympic Peninsula" , 
-		sponsor: "Clallam Co Community Dev" ,
+		leadEntity: "North Olympic Peninsula", 
+		sponsor: "Clallam Co Community Dev",
 		marker: null,
 		funding: 3000000,
 		benefit: "placeholder benefits go here"
@@ -49,7 +46,7 @@ var projects = [
 		funding: 10255524,
 		benefit: "placeholder benefits go here"
 	},
-		{
+	{
 		name: "Leque Island Estuary Restoration Construction",
 		longitude: -122.3871211,
 		latitude: 48.23340306,
@@ -60,7 +57,7 @@ var projects = [
 		funding: 6630991,
 		benefit: "placeholder benefits go here"
 	},
-{
+	{
 		name: "Downey Farmstead Side Channel Restoration",
 		longitude: -122.2621026,
 		latitude: 47.3770995,
@@ -71,7 +68,7 @@ var projects = [
 		funding: 4835743,
 		benefit: "placeholder benefits go here"
 	},
-{
+	{
 		name: "USACE Skokomish Ecosystem Restoration Support 2",
 		longitude: -123.2700932,
 		latitude: 47.32813197,
@@ -82,7 +79,7 @@ var projects = [
 		funding: 6441322,
 		benefit: "placeholder benefits go here"
 	},
-{
+	{
 		name: "Pearson Shoreline",
 		longitude: -122.3536139,
 		latitude: 47.9517951,
@@ -93,7 +90,7 @@ var projects = [
 		funding: 1250000,
 		benefit: "placeholder benefits go here"
 	},
-{
+	{
 		name: "NF Nooksack (Xwqélém) Farmhouse Ph 4 Restoration",
 		longitude: -122.1276787,
 		latitude: 48.90305006,
@@ -104,7 +101,7 @@ var projects = [
 		funding: 3304422,
 		benefit: "placeholder benefits go here"
 	},
-{
+	{
 		name: "Clear Creek Targeted Acquisition",
 		longitude: -122.3826295,
 		latitude: 47.23032901,
@@ -181,7 +178,7 @@ var projects = [
 		funding: 1250000,
 		benefit: "placeholder benefits go here"
 	},
-{
+	{
 		name: "Hansen Creek Reach 5 Restoration",
 		longitude: -122.2007297,
 		latitude: 48.51534414,
@@ -192,7 +189,7 @@ var projects = [
 		funding: 3681245,
 		benefit: "placeholder benefits go here"
 	},
-{
+	{
 		name: "Upper SF and Tributaries Corridor Acquisition",
 		longitude: -122.122693,
 		latitude: 48.68120111,
@@ -203,7 +200,7 @@ var projects = [
 		funding: 1872911,
 		benefit: "placeholder benefits go here"
 	},
-{
+	{
 		name: "Morse Creek Riparian Conservation",
 		longitude: -123.350133,
 		latitude: 48.06971636,
@@ -214,7 +211,7 @@ var projects = [
 		funding: 1107550,
 		benefit: "placeholder benefits go here"
 	},
-{
+	{
 		name: "Harper Estuary Bridge Construction",
 		longitude: -122.5161102,
 		latitude: 47.51689853,
@@ -235,7 +232,7 @@ function initMarkers() {
 	$.each(projects, function(i, project) {
 		project['marker'] = new google.maps.Marker({
 				map: null,
-				position: new google.maps.LatLng(project['longitude'], project['latitude'])
+				position: new google.maps.LatLng( project['latitude'], project['longitude'])
 			});
 	});
 }
@@ -244,15 +241,29 @@ function showHideMarkers(level) {
 	$.each(projects, function(i, project) {
 		if(project['level'] <= level) {
 			project['marker'].setMap(map);
+			var fundingProject = project['funding'];
+			console.log (fundingProject);
 		} else {
 			project['marker'].setMap(null);	
 		}
 	});
 }
 
+
+function showFunding(level) {
+	$.each(projects, function(i, project) {
+		if(project['level'] <= level) {
+			var fundingProject = project['funding'];
+			var fundingTotal = var fundingTotal + var fundingProject;
+			console.log (fundingTotal);
+		} else {
+		}
+	});
+}
+
 function initMap() {	  
  	var mapOptions = {
-        zoom: 5,
+        zoom: 8,
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         center: new google.maps.LatLng(48.14267633, -123.1301177)
     };
