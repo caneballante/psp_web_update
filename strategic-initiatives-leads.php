@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Strategic Initiatives Leads</title>
+<title>Puget Sound Partnership Action Agenda - Strategic Initiatives</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -24,6 +23,11 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	 	navSelected = 8;
+	subNavSelected = 0;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -32,35 +36,42 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image10">
-	<div class="overview-quote pull-right"> </div>
+ <!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style_sm overview-page-image99_sm">
+	<div class="overview-quote pull-right">
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
+	</div>
 </header>
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
+</div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> STRATEGIC INITIATIVES LEADS</h1>
+			<h1>STRATEGIC INITIATIVES LEADS</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<li role="presentation"> <a href="2014_action_agenda_download.php">2014-15 ACTION AGENDA</a></li>
-					<li class="active" role="presentation"> <a href="action_agenda_strategic_initiatives.php">STRATEGIC INITIATIVES</a></li>
-					<!-- InstanceEndEditable -->
+				<?php include 'includes/ln-action-agenda.html';?>
+				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
+		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Three Strategic Initiatives are emphasized as priority topics with issues critical to Puget Sound recovery within the Action Agenda - Stormwater, Habitat, and Shellfish. Leads, described below, have been established for each Strategic Initiative. The SI Leads each facilitate an Advisory Team made up of technical and policy experts in the region, as well as work in coordination with one another, the Puget Sound Partnership, EPA , Tribes, Local Integrating Organizations and others throughout the region. SI Leads manage sub-awards which implement work approved in the Action Agenda Implementation Plan.</p>
 			<p>Together the SI Leads and Advisory Teams are key to the development and implementation of the Action Agenda and have the following responsibilities:</p>
@@ -76,9 +87,11 @@
 			<p><a href="https://pspwa.box.com/s/il5i70rwisqvqqkunhq7nua3kh8klk0u">Draft Timeline</a> (Last Updated August 31, 2016)</p>
 			<p>Draft NTA Funding Recommendations for NEP Funding (anticipated November 10, 2016)	:</p>
 			<ul>
-				<li>Stormwater</li>
-				<li>Habitat</li>
-				<li>Shellfish </li>
+				<li>Stormwater Funding Recommendations: <a href="https://pspwa.box.com/s/cagij5t8h3a6d6t284efzi63suqoxvh6">https://pspwa.box.com/s/cagij5t8h3a6d6t284efzi63suqoxvh6</a></li>
+				
+					<li>Habitat Funding Recommendations: <a href="https://pspwa.box.com/s/43f6y75owijsmvm9x8m39ahex4admya4">https://pspwa.box.com/s/43f6y75owijsmvm9x8m39ahex4admya4</a></li>
+				
+				<li>Shellfish Funding Recommendations: <a href="https://pspwa.box.com/s/eo0hp0zxj4plk01lcfd1l4atlnsyiwh2">https://pspwa.box.com/s/eo0hp0zxj4plk01lcfd1l4atlnsyiwh2</a></li>
 			</ul>
 			<h2>Stormwater Strategic Initiative</h2>
 			<p>Leads:  Led by the Washington State Department of Ecology (Ecology) in partnership with the Washington Stormwater Center at Washington State University (WSU), and the Department of Commerce (Commerce)</p>
@@ -187,17 +200,18 @@
 				</tbody>
 			</table>
 			<p><a href="https://pspwa.box.com/s/gvjqtfbw0c4sjaz1y7ho2aet41ui0nt3">Shellfish SIAT Roster</a></p>
-			<!-- InstanceEndEditable --> </div>
+		<!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title">SEE ALSO</div>
+			<div class="right-nav-title margin-0-top ">MORE INFORMATION</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-				<li role="presentation"><a href="2016_AA_update.php">2016 Action Agenda Update</a></li>
-				<li role="presentation"><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
-				<li role="presentation"><a href="http://wa-geoservices.maps.arcgis.com/apps/Viewer/index.html?appid=4a40b5acc8884b849dd3c8dd65c2d985">Action Area Maps</a></li>
-				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
+				<li role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs</a></li>
+				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">2014 Pressure Assessment</a></li>
+			
+				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
@@ -227,5 +241,4 @@
 
 </script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>
