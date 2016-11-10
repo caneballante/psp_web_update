@@ -80,6 +80,20 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+		
+		<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>11.9.16<br>
+						</strong> EMPLOYMENT<br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1583131/chief-financial-officer-11473">CHIEF FINANCIAL OFFICER - FULL TIME</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
 		     <!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
@@ -122,19 +136,7 @@
 			</div>
 			<!--COLUMN END--> 
             
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>7.21.16<br>
-						</strong> BLOG<br>
-						<a href="http://www.psp.wa.gov/blog/?p=652">PSAR FUNDS SUPPORT EELGRASS RESTORATION, PROJECT EARNS NOAA EXCELLENCE IN RESTORATION AWARD</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+			
        
 			
 		
