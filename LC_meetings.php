@@ -117,7 +117,8 @@
 					<td><p>December 6-7</p></td>
 					<td><p>Kitsap County<br>
 					  Commissioners' Chamber<br>
-					  614 Division Street<br>
+					  619 Division Street<br>
+					  Administration Building<br />
 					  Port Orchard, WA 98366</p>
 					  <p>12/6 is meeting.<br>
 				    12/7 is tour.</p></td>
