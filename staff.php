@@ -184,7 +184,7 @@
 			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br />
 			<em>Hood Canal, Straits, North Olympic Lead Entity
 </em> <br />
-				360.522.0546 | <a href="mailto:erin.ryan-peñeula@psp.wa.gov">erin.ryan-peñeula@psp.wa.gov</a>
+				360.522.0546 | <a href="mailto:erin.ryan-peneula@psp.wa.gov">erin.ryan-peneula@psp.wa.gov</a>
 	</p>
 			<h5>Leah Kintner</h5>
 			<p> Ecosystem Recovery Coordinator <br />
