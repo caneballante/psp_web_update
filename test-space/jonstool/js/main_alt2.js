@@ -1,3 +1,20 @@
+// Extend the default Number object with a formatMoney() method:
+// usage: someVar.formatMoney(decimalPlaces, symbol, thousandsSeparator, decimalSeparator)
+// defaults: (2, "$", ",", ".")
+Number.prototype.formatMoney = function(places, symbol, thousand, decimal) {
+	places = !isNaN(places = Math.abs(places)) ? places : 2;
+	symbol = symbol !== undefined ? symbol : "$";
+	thousand = thousand || ",";
+	decimal = decimal || ".";
+	var number = this, 
+	    negative = number < 0 ? "-" : "",
+	    i = parseInt(number = Math.abs(+number || 0).toFixed(places), 10) + "",
+	    j = (j = i.length) > 3 ? j % 3 : 0;
+	return symbol + negative + (j ? i.substr(0, j) + thousand : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + thousand) + (places ? decimal + Math.abs(number - i).toFixed(places).slice(2) : "");
+};
+
+
+
 
 $( function() {
 	$("#slider").slider({
@@ -7,20 +24,15 @@ $( function() {
 		step: 1,
 		orientation: "vertical",
 		slide: function( event, ui ) {
-			$( "#amount" ).val( "$" + ui.value + " mil" );
 			showHideMarkers(ui.value);
-			showFunding(ui.value);
+			
 			}
 	});
 	//sets value first time before any sliding is done
-	$( "#amount" ).val( "$" + $( "#slider" ).slider( "value" ) +" milly" );
+	$( "#amount" ).val( "$" + $( "#slider" ).slider( "value" ));
 });
 
-/*var data {
-	title: '',
-	projects: projects
-	
-}*/
+
 
 // our data
 var projects = [
@@ -29,165 +41,124 @@ var projects = [
 		longitude: -123.1301177,
 		latitude: 48.14267633,
 		level: 15,
-		leadEntity: "North Olympic Peninsula", 
-		sponsor: "Clallam Co Community Dev",
 		marker: null,
-		funding: 3000000,
-		benefit: "placeholder benefits go here"
+		funding: 3000000
+	
 	},
 	{
 		name: "Lower Russell Levee Setback & Habitat Restoration",
 		longitude: -122.2670343,
 		latitude: 47.40911133,
 		level: 6,
-		leadEntity: "WRIA 9/ King County" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 10255524,
-		benefit: "placeholder benefits go here"
+		funding: 10255524
+	
 	},
 	{
 		name: "Leque Island Estuary Restoration Construction",
 		longitude: -122.3871211,
 		latitude: 48.23340306,
 		level: 18,
-		leadEntity: "Stillaguamish / Dept of Fish & Wildlife" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 6630991,
-		benefit: "placeholder benefits go here"
+		funding: 6630991
+	
 	},
 	{
 		name: "Downey Farmstead Side Channel Restoration",
 		longitude: -122.2621026,
 		latitude: 47.3770995,
 		level: 1,
-		leadEntity: "WRIA 9/ City of Kent" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 4835743,
-		benefit: "placeholder benefits go here"
+		funding: 4835743
 	},
 	{
 		name: "USACE Skokomish Ecosystem Restoration Support 2",
 		longitude: -123.2700932,
 		latitude: 47.32813197,
 		level: 10,
-		leadEntity: "Hood Canal / Mason Conservation District" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 6441322,
-		benefit: "placeholder benefits go here"
+		funding: 6441322
 	},
 	{
 		name: "Pearson Shoreline",
 		longitude: -122.3536139,
 		latitude: 47.9517951,
 		level: 12,
-		leadEntity: "WRIA 6 / Whidbey Camano Land Trust" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 1250000,
-		benefit: "placeholder benefits go here"
+		funding: 1250000
 	},
 	{
 		name: "NF Nooksack (Xwqélém) Farmhouse Ph 4 Restoration",
 		longitude: -122.1276787,
 		latitude: 48.90305006,
 		level: 4,
-		leadEntity: "WRIA 1 / Nooksack Indian Tribe" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 3304422,
-		benefit: "placeholder benefits go here"
+		funding: 3304422
+
 	},
 	{
 		name: "Clear Creek Targeted Acquisition",
 		longitude: -122.3826295,
 		latitude: 47.23032901,
 		level: 17,
-		leadEntity: "Pierce Co Water Programs Div" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 6400000,
-		benefit: "placeholder benefits go here"
+		funding: 6400000
 	},
 {
 		name: "Kilisut Harbor Restoration 2016",
 		longitude: -122.700705,
 		latitude: 48.01826489,
 		level: 11,
-		leadEntity: "Hood Canal / North Olympic Salmon Coalition" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 4093665,
-		benefit: "placeholder benefits go here"
+		funding: 4093665
 	},
 {
 		name: "West Oakland Bay Restoration",
 		longitude: -123.0911308,
 		latitude: 47.21092124,
 		level: 9,
-		leadEntity: "Mason Conservation / Squaxin Island Tribe" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 3225750,
-		benefit: "placeholder benefits go here"
+		funding: 3225750
 	},
 {
 		name: "Barnum Point Acquisition",
 		longitude:-122.4594265,
 		latitude: 48.19755439,
 		level: 13,
-		leadEntity: "WRIA 6 / Whidbey Camano Land Trust" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 2186728,
-		benefit: "placeholder benefits go here"
+		funding: 2186728
 	},
 {
 		name: "Chico Bridge - Keta restore",
 		longitude: 	-122.7090953,
 		latitude: 47.59280209,
 		level: 2,
-		leadEntity: "West Sound / Suquamish Tribe" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 3442400,
-		benefit: "placeholder benefits go here"
+		funding: 3442400
 	},
 {
 		name: "Middle Fork Nooksack Fish Passage",
 		longitude: -122.0744804,
 		latitude: 48.7718476,
 		level: 3,
-		leadEntity: "WRIA 1/ City of Bellingham" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 10904369,
-		benefit: "placeholder benefits go here"
+		funding: 10904369
 	},
 {
 		name: "Dungeness Off-Channel Reservoir: Final Design",
 		longitude: -123.1407178,
 		latitude: 48.05338022,
 		level: 16,
-		leadEntity: "North Olympic Peninsula / Clallam Conservation District" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 1250000,
-		benefit: "placeholder benefits go here"
+		funding: 1250000
 	},
 	{
 		name: "Hansen Creek Reach 5 Restoration",
 		longitude: -122.2007297,
 		latitude: 48.51534414,
 		level: 7,
-		leadEntity: "Skagit / Skagit County Public Works" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 3681245,
-		benefit: "placeholder benefits go here"
+		funding: 3681245
 	},
 	{
 		name: "Upper SF and Tributaries Corridor Acquisition",
@@ -205,66 +176,70 @@ var projects = [
 		longitude: -123.350133,
 		latitude: 48.06971636,
 		level: 14,
-		leadEntity: "North Olympic Peninsula / North Olympic Land Trust" , 
-		sponsor: "sponsor" ,
 		marker: null,
-		funding: 1107550,
-		benefit: "placeholder benefits go here"
+		funding: 1107550
 	},
 	{
 		name: "Harper Estuary Bridge Construction",
 		longitude: -122.5161102,
 		latitude: 47.51689853,
 		level: 8,
-		leadEntity: "West Sound / Kitsap County" , 
-		sponsor: "sponsor" ,
 		marker: null,
 		funding: 2469844,
-		benefit: "placeholder benefits go here"
 	}
 
 ];
   
 //Google map  
 var map;
-
+//initialize markers and add list of projects in rank order to table  
 function initMarkers() {
 	$.each(projects, function(i, project) {
-		project['marker'] = new google.maps.Marker({
-				map: null,
-				position: new google.maps.LatLng( project['latitude'], project['longitude'])
+		$.each(projects, function(z, projectz) {	
+			if(projectz['level'] === i) {
+				//funding conversion - im passing 0 decimal places as a parameter
+				var fundingConverted = (projectz['funding']).formatMoney(0);
+				$('#'+i+' td.rank').html(projectz['level']);
+				$('#'+i+' td.project').html(projectz['name']);
+				$('#'+i+' td.funding').html(fundingConverted);
+				} 
+			});		
+			project['marker'] = new google.maps.Marker({
+			map: null,
+			position: new google.maps.LatLng( project['latitude'], project['longitude'])
 			});
 	});
 }
 
-function showHideMarkers(level) {
+function showHideMarkers(sliderLevel) {
+	var fundingTotal = 0;
 	$.each(projects, function(i, project) {
-		if(project['level'] <= level) {
+		if(project['level'] <= sliderLevel) {
 			project['marker'].setMap(map);
-			var fundingProject = project['funding'];
-			console.log (fundingProject);
+			var fundingProject = (project['funding']);
+			fundingTotal = fundingTotal + fundingProject;
+			//funding conversion - im passing 0 decimal places as a parameter
+			$( "#amount" ).val( fundingTotal.formatMoney(0));
+			var rankProject = (project['level']);
+			$('#'+rankProject+' td.rank').css("color", "#000");
+			$('#'+rankProject+' td.project').css("color", "#000");
+			$('#'+rankProject+' td.funding').css("color", "#000");
 		} else {
+			var rankProject = (project['level']);
 			project['marker'].setMap(null);	
+			$('#'+rankProject+' td.rank').css("color", "#999");
+			$('#'+rankProject+' td.project').css("color", "#999");
+			$('#'+rankProject+' td.funding').css("color", "#999");
 		}
+		
 	});
-}
 
-
-function showFunding(level) {
-	$.each(projects, function(i, project) {
-		if(project['level'] <= level) {
-			var fundingProject = project['funding'];
-			var fundingTotal = var fundingTotal + var fundingProject;
-			console.log (fundingTotal);
-		} else {
-		}
-	});
 }
 
 function initMap() {	  
  	var mapOptions = {
         zoom: 8,
-        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        mapTypeId: google.maps.MapTypeId.SATELLITE,
         center: new google.maps.LatLng(48.14267633, -123.1301177)
     };
 	
@@ -274,4 +249,21 @@ function initMap() {
 
     map = new google.maps.Map(document.getElementById('map'), mapOptions);
 	
+	var kmlLayer = new google.maps.KmlLayer({
+		
+    url: 'http://www.psp.wa.gov/test-space/jonstool/kml/psleg3.kmz',
+	suppressInfoWindows: true
+	});
+	
+	kmlLayer.addListener('click', function(kmlEvent) {
+    var text = kmlEvent.featureData.name;
+    showInContentWindow(text);
+  });
+
+  function showInContentWindow(text) {
+    var sidediv = document.getElementById('content-window');
+    sidediv.innerHTML = text;
+  }
+	kmlLayer.setMap(map);
 }
+

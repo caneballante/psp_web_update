@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>washington state leg</name>
+		<description><![CDATA[leg boundaries test]]></description>
+		<NetworkLink>
+			<name>washington state leg</name>
+			<Link>
+				<href>http://www.google.com/maps/d/u/0/kml?forcekml=1&amp;mid=1UV1iYQSnnyhpif1zg43iUJpVkF0</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
