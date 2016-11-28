@@ -202,6 +202,10 @@ function initMarkers() {
 				$('#'+i+' td.rank').html(projectz['level']);
 				$('#'+i+' td.project').html(projectz['name']);
 				$('#'+i+' td.funding').html(fundingConverted);
+				$('#'+i).click(function(){
+				showHideMarkers(i);
+				console.log("potato soup" + rankProject);
+			});
 				} 
 			});		
 			project['marker'] = new google.maps.Marker({
@@ -224,6 +228,7 @@ function showHideMarkers(sliderLevel) {
 			$('#'+rankProject+' td.rank').css("color", "#000");
 			$('#'+rankProject+' td.project').css("color", "#000");
 			$('#'+rankProject+' td.funding').css("color", "#000");
+			
 		} else {
 			var rankProject = (project['level']);
 			project['marker'].setMap(null);	
