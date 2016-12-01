@@ -92,9 +92,9 @@
 				360.464.1231 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a></p><br>
 			<!--A.S. - OPERATIONS-->			
 			<h3>OPERATIONS</h3>
-			<h5>Ginger Stewart</h5>
+			<h5>vacant</h5>
 			<p> Chief Financial Officer<br />
-				360.464.1218 | <a href="mailto:ginger.stewart@psp.wa.gov">ginger.stewart@psp.wa.gov</a></p><br />
+			</p><br />
             <!--A.S. - FISCAL-->
             <h3>FISCAL</h3>	    
 			<h5>Becky DeBoer</h5>
