@@ -92,9 +92,9 @@
 				360.464.1231 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a></p><br>
 			<!--A.S. - OPERATIONS-->			
 			<h3>OPERATIONS</h3>
-			<h5>Ginger Stewart</h5>
+			<h5>vacant</h5>
 			<p> Chief Financial Officer<br />
-				360.464.1218 | <a href="mailto:ginger.stewart@psp.wa.gov">ginger.stewart@psp.wa.gov</a></p><br />
+			</p><br />
             <!--A.S. - FISCAL-->
             <h3>FISCAL</h3>	    
 			<h5>Becky DeBoer</h5>
@@ -178,10 +178,13 @@
 			<h3>ECOSYSTEM RECOVERY TEAM 1</h3>
 			<h5>Stacy Vynne</h5>
 			<p> Regional Manager<br />
-            <em>Hood Canal (interim), South Central LIO (interim)</em><br />
+            <em> South Central LIO</em><br />
 				360.464.2012 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
-			<h5>vacant</h5>
-			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator
+			<h5>Erin ryan-peÑuela</h5>
+			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br />
+			<em>Hood Canal, Straits, North Olympic Lead Entity
+</em> <br />
+				360.522.0546 | <a href="mailto:erin.ryan-peneula@psp.wa.gov">erin.ryan-peneula@psp.wa.gov</a>
 	</p>
 			<h5>Leah Kintner</h5>
 			<p> Ecosystem Recovery Coordinator <br />
@@ -271,8 +274,9 @@
 			<h5>Heather Saunders Benson</h5>
 			<p> Environmental Planner<br />
 				360.464.2005 | <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a></p>
-			<h5>vacant</h5>
+			<h5>JENNIFER POULIOTTE</h5>
 			<p> Environmental Planner<br />
+			360.522.0545 | <a href="mailto:jennifer.pouliotte@psp.wa.gov">jennifer.pouliotte@psp.wa.gov</a>
 			</p><br>
 			<!--P.P. - IMPLEMENTATION STRATEGIES-->
 			<h3>IMPLEMENTATION STRATEGIES</h3>
