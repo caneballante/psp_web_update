@@ -28,6 +28,7 @@
 
 <!-- map -->
 <div class="container-fluid">
+
 	<div class="row blue">
 		<div class="col-md-2"><img src="images/2015_PSAR-final-mark.png" width="233" height="117" alt=""/></div>
 		<div class="col-md-10">
@@ -36,19 +37,14 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-1">
-		<div id="slider"></div>
-		</div>
 		<div class="col-md-5">
-		
-			
-		<table class="table" id="rankTable">
+			<table class="table">
 				<tr>
-					<th>RANK</th>
-					<th>PROJECT</th>
-					<th class"right-align">PROJECT COST</th>
-					<th class"right-align">TOTAL 2017-19 <br>
-						PSAR FUND AMOUNT</th>
+					<td>RANK</td>
+					<td>PROJECT</td>
+					<td class"right-align">PROJECT COST</td>
+					<td class"right-align">TOTAL 2017-19 <br>
+						PSAR FUND AMOUNT</td>
 				</tr>
 				<tr id="1">
 					<td class="rank"></td>
@@ -158,13 +154,28 @@
 					<td class="funding"></td>
 					<td class="totalfunding"></td>
 				</tr>
-			</table>	
+			</table>
 		</div>
-		<div id="map" class="col-md-6"></div>
+		<div id="map" class="col-md-7"></div>
+		
 	</div>
 	<div class="row">
+		<div class="col-md-3">
+			<p>
+				<label for="amount">PSAR FUNDING LEVEL</label>
+				<input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+			</p>
+			<div id="slider"></div>
+		</div>
+		<div id="content-window" class="col-md-9">
+		
+		<!--RANGESLIDER -->
+ <h1>Vertical orientation support</h1>
+<input type="range" data-orientation="vertical">
+<output></output>
+<!--END RANGESLIDER-->	
 
-		<div id="content-window" class="col-md-9"> </div>
+</div>
 	</div>
 </div>
 <!-- /container --> 
@@ -174,6 +185,7 @@
 <script src="js/vendor/jquery-ui.js"></script> 
 <script src="js/vendor/bootstrap.min.js"></script> 
 <script src="js/main_alt2.js"></script> 
+<script src="js/rangeslider.js"></script> 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDhDXQXkyOVIEluUUq7LDurQVOwz6BYKvs&callback=initMap"
     async defer></script>
 </body>

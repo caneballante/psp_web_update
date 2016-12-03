@@ -68,88 +68,23 @@
 			<h2 class="padding-0-top margin-0-top">NEW ANNOUNCEMENTS</h2>
             <!-- ANNOUNCEMENT START --->
         <div class="highlightbox">
-		  <h3>Help us develop the Shoreline Armoring Vital Sign Implementation Strategy</h3>
-			<p>The Habitat Strategic Initiative Team is seeking members for an Interdisciplinary Team to help develop an Implementation Strategy, or recovery and protection strategy, which accelerates progress toward meeting the <a href="http://www.psp.wa.gov/vitalsigns/shoreline_armoring.php">Shoreline Armoring 2020 Vital Sign</a> targets across the Puget Sound. Participants will work alongside the Habitat Strategic Initiative Leads, Puget Sound Partnership, Puget Sound Institute, and others in this effort. </p>
-                <p>Implementation Strategies will help the region align planning and resources toward achieving shared recovery and protection targets. They will be used to inform future iterations of the Action Agenda by identifying critical priorities for recovery or protection. <a href="https://pspwa.box.com/v/PublicIS-ShoreArmoring">Learn more</a> about Shoreline Armoring Implementation Strategy partners and development.</p>
+		  <h3>11.28.16 <br>
+		  	HELP US DEVELOP VITAL SIGN IMPLEMENTATION STRATEGIES FOR THE BENTHIC INDEX OF BIOTIC INTEGRITY AND TOXICS IN FISH</h3>
+			<p>The Stormwater Strategic Initiative Lead Team is seeking members for two Interdisciplinary Teams to help develop Implementation Strategies, or recovery and protection strategies, which accelerate progress toward meeting both the <a href="http://www.psp.wa.gov/vitalsigns/fresh_water_quality_indicator3.php">Benthic Index of Biotic Integrity (B-IBI)</a> and <a href="http://www.psp.wa.gov/vitalsigns/toxics_in_fish.php">Toxics in Fish</a> 2020 Vital Sign targets across the Puget Sound. Participants will work alongside the Stormwater Strategic Initiative Leads, Puget Sound Partnership, Puget Sound Institute, and others in this effort.</p>
+<p>Implementation Strategies will help the region align planning and resources toward achieving shared recovery and protection targets. They will be used to inform future iterations of the Action Agenda by identifying critical priorities for recovery or protection. Two IDT groups (B-IBI and Toxics in Fish) composed of 12-15 experts with diverse perspectives will shape the development and prioritization of protection and restoration pathways for each Vital Sign target.
+</p>
                 <p><strong>Statement of Interest</strong> <br>
-                  To be considered for the Interdisciplinary Team, please complete a simple online <a href="https://app.smartsheet.com/b/form?EQBCT=030f05ec99644f34a2ccaee4a25e1c26">statement of interest</a> by <strong>Monday, October 31, 2016</strong>. The form will allow you to briefly describe your interest and share your qualifications.</p>
+                  To be considered for the Interdisciplinary Team, please complete a simple online <a href="https://app.smartsheet.com/b/form?EQBCT=3c0fbeef404a445781f1303de653648e">statement of interest</a> by <strong>Monday, December 12, 2016</strong>. The form will allow you to briefly describe your interest and share your qualifications.</p>
                 <p><strong>For more information</strong> <br>
-                  For information regarding the Interdisciplinary Team expectations and recruitment process as well as other ways to get involved in or contribute to development of the Implementation Strategy, please see our <a href="https://pspwa.box.com/s/9wwymkfilskeg8ycy4tleavkt4qiosj9">recruitment letter</a>.</p>
+                 For information regarding Interdisciplinary Team expectations and the recruitment process as well as other ways to get involved in or contribute to development of these Implementation Strategies, please see our <a href="https://pspwa.box.com/s/rkk7g3vte37gyxdsgef8a4lts7no2nxh">flyer</a> and recruitment letters for <a href="https://pspwa.box.com/s/hd7pn6ks0ao98p908oscuunq0c5d41u3">B-IBI</a> or <a href="https://pspwa.box.com/s/tekx6d0focta39xyky0wadgmrv915vf1">Toxics in Fish</a>.</p>
                 <p>Additional questions? <br>
-                  Please contact Jennifer Griffiths, Technical Lead, Habitat Strategic Initiative<br>
-  <a href="mailto:jennifer.griffiths@dfw.wa.gov">jennifer.griffiths@dfw.wa.gov</a></p>
-                <p>You can also sign up to receive periodic Shoreline Armoring Implementation Strategy updates. <a href="https://app.smartsheet.com/b/form?EQBCT=bf96d911a70b4cfaac6831f0ad1b4c60">Sign me up!</a></p>
+                  Please contact Gary Myers, Technical Lead, Stormwater Strategic Initiative<br>
+				<a href="mailto:Gary.Myers@ECY.wa.gov">Gary.Myers@ECY.wa.gov </a> </a></p>
+                <p>You can also sign up to receive periodic B-IBI and Toxics in Fish Implementation Strategy updates.<a href="https://app.smartsheet.com/b/form?EQBCT=a73afb49b300455aa701f1fa13ba0e5f">Sign me up!</a></p>
           </div>
 			<!-- ANNOUNCEMENT END--->
-            <h2>PAST ANNOUNCEMENTS</h2>
-			<!-- ANNOUNCEMENT START --->
-			<div class="highlightbox">
-				<h3>DRAFT IMPLEMENTATION STRATEGIES AVAILABLE FOR PUBLIC REVIEW: JUNE 13 - 27</h3>
-				<p>The Partnership, in cooperation with the Puget Sound Institute and the Washington State Departments of Commerce and Ecology, has prepared draft Implementation Strategies for two Vital Signs:</p>
-				<ul>
-					<li><a href="http://www.psp.wa.gov/vitalsigns/land_cover_and_development.php">Land Development and Cover Vital Sign</a></li>
-					<li><a href="http://www.psp.wa.gov/vitalsigns/flood_plains.php">Floodplains Vital Sign</a></li>
-				</ul>
-				<p>Drafts of both Implementation Strategies will be available for public review and comment from <strong>June 13 through June 27</strong>. You can find the drafts and comment review matrixes in public Box folders here:
-				<p>
-				<ul>
-					<li><a href="https://pspwa.box.com/v/LDCISPublicReviewDraft">Land Development and Cover</a></li>
-					<li><a href="https://pspwa.box.com/v/FloodplainsISPublicReviewDraft">Floodplains</a></li>
-				</ul>
-				<p>Thank you in advance for your help in refining and improving these strategies!</p>
-			</div>
-			<!-- ANNOUNCEMENT END--->
-			
-			
-			<!-- ANNOUNCEMENT START --->
-			<div class="highlightbox">
-				<h3>Save the Dates: Implementation Strategy Workshops </h3>
-				<p>The Partnership, in cooperation with the Puget Sound Institute and the Washington State Departments of Commerce and Ecology, is developing two more Implementation Strategies, expected to be complete in June 2016:</p>
-				<ul>
-					<li><a href="http://www.psp.wa.gov/vitalsigns/land_cover_and_development.php">Land Development and Cover Vital Sign</a></li>
-					<li><a href="http://www.psp.wa.gov/vitalsigns/flood_plains.php">Floodplains Vital Sign</a></li>
-				</ul>
-				<p>A third Implementation Strategy, for the <a href="http://www.psp.wa.gov/vitalsigns/salmon.php">Chinook Salmon Vital Sign</a>, is under development with guidance from the Salmon Recovery Council and is expected to be complete in December 2016.</p>
-				<p>An Interdisciplinary Team will develop and review the initial content of each Implementation Strategy. After drafts have been prepared, there will opportunities for partners and stakeholders to get involved.</p>
-				<p>Written materials for the IS workshops and future review will be placed in the relevant public Box folders here:<br>
-					· <a href="https://pspwa.box.com/s/byjid6ru1sg2b8jjvdghtzd77g2a0u2p">Land Development and Cover</a><br>
-					· <a href="https://pspwa.box.com/s/1nqgl99h7ggtkb8k1b02xc5h4blsvkr4">Floodplain</a></p>
-				<p><strong>Land Development and Cover Implementation Strategy</strong></p>
-				<ul>
-					<li> <strong>May 16, 2016.</strong> Technical Workshop, Edmonds Center for the Arts, 410 – 4th Avenue North, Edmonds. </li>
-					<li> <strong>May 24, 2016.</strong> Stakeholder Workshop, Edmonds Center for the Arts, 410 – 4th Avenue North, Edmonds.</li>
-				</ul>
-				<p><strong>Floodplains Implementation Strategy</strong></p>
-				<ul>
-					<li> <strong>April 25. </strong>Technical Workshop, Edmonds Center for the Arts, 410 – 4th Avenue North, Edmonds. </li>
-					<li> <strong>May 18.</strong> Stakeholder Workshop, Edmonds Center for the Arts, 410 – 4th Avenue North, Edmonds. </li>
-				</ul>
-				<p><strong>Chinook Salmon Implementation Strategy</strong></p>
-				<ul>
-					<li> <strong>April 5.</strong> Watershed Synthesis Workshop, Edmonds. </li>
-					<li><strong>May 12.</strong> Regional Product Technical Workshop, Edmonds. </li>
-					<li><strong>June (date to be determined). </strong>Regional Product Stakeholder Workshop, Edmonds. </li>
-					<li><strong>October 18-19,</strong> Regional Product Stakeholder Workshop, Seabeck (tentative). </li>
-				</ul>
-			</div>
-			<!-- ANNOUNCEMENT END--->
-			<div class="highlightbox">
-				<h3>1/26/16 HELP US DEVELOP THE NEXT VITAL SIGN IMPLEMENTATION STRATEGIES: FLOODPLAINS AND LAND DEVELOPMENT / COVER</h3>
-				<p> The Puget Sound Partnership is seeking members for an Interdisciplinary Teams to work alongside the Puget Sound Partnership, Puget Sound Institute, and Strategy Development Lead staff in jointly developing Implementation Strategy, or strategic plan, to accelerate progress toward meeting the 2020 Vital Sign recovery target for the</p>
-				<ul>
-					<li><a href="http://www.psp.wa.gov/vitalsigns/land_cover_and_development.php" target="new">Land Development and Cover Vital Sign </a></li>
-				</ul>
-				<p>The Implementation Strategy will provide the Partnership and others with the ability to align planning and resources towards achieving recovery targets, and inform future iterations of the Action Agenda by emphasizing critical paths for recovery. We recruited a similar IDT to develop a Floodplains Implementation Strategy – that recruitment period has closed.</p>
-				<p><strong>Application process </strong><br>
-					To be considered for this opportunity, please complete the simple online survey below, by Monday, February 8, 2016. The survey will allow you to briefly describe your interest and share your qualifications.</p>
-				<p><a href="https://app.smartsheet.com/b/form?EQBCT=4b0149545c39415186eb925fe6f29b07"><strong>Link to Online Survey </strong></a></p>
-				<p><strong>For more information</strong></p>
-				<p>For general information about the recruitment process</p>
-				<ul>
-					<li><a href="https://pspwa.box.com/s/blmqqfef3r9i7b0y77dct6jolszhojff">Land Development and Cover Implementation Strategy recruitment notice</a></li>
-				</ul>
-				<p>Additional questions? Please contact Todd Hass, Implementation Manager, at (360) 280.1588 or <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a>.</p>
-			</div>
+            <h2>&nbsp;</h2>
+            <div class="highlightbox">            	</div>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

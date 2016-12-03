@@ -15,8 +15,7 @@ Number.prototype.formatMoney = function(places, symbol, thousand, decimal) {
 
 
 
-
-$( function() {
+$(function() {
 	$("#slider").slider({
 		value:0,
 		min: 0,
@@ -25,14 +24,30 @@ $( function() {
 		orientation: "vertical",
 		slide: function( event, ui ) {
 			showHideMarkers(ui.value);
-			
+			changeSliderHeight();
 			}
 	});
 	//sets value first time before any sliding is done
 	$( "#amount" ).val( "$" + $( "#slider" ).slider( "value" ));
 });
 
+function changeSliderHeight() {
+	var tableHeight = $('#rankTable').height(); 
+    var thHeight = $('#rankTable th').height(); 
+ 	var sliderHeight = tableHeight-thHeight;
+	console.log(thHeight);
+	$('#slider').css('min-height', sliderHeight+'px');
+	$('#slider').css('margin-top', thHeight+'px');
+};  
+function changeMapHeight() {
+	var tableHeight = $('#rankTable').height(); 
+	$('#map').css('min-height', tableHeight+'px');
+}; 
 
+$(window).resize(function () {
+    changeSliderHeight();
+	changeMapHeight();
+});
 
 // our data
 var projects = [
@@ -204,7 +219,6 @@ function initMarkers() {
 				$('#'+i+' td.funding').html(fundingConverted);
 				$('#'+i).click(function(){
 				showHideMarkers(i);
-				console.log("potato soup" + rankProject);
 			});
 				} 
 			});		
@@ -213,6 +227,8 @@ function initMarkers() {
 			position: new google.maps.LatLng( project['latitude'], project['longitude'])
 			});
 	});
+	//once the table is populated I call the function to set the slider height equal to the table height
+	changeSliderHeight();
 }
 
 function showHideMarkers(sliderLevel) {
@@ -222,9 +238,13 @@ function showHideMarkers(sliderLevel) {
 			project['marker'].setMap(map);
 			var fundingProject = (project['funding']);
 			fundingTotal = fundingTotal + fundingProject;
+			//fundingTotal = fundingTotal + fundingProject;
 			//funding conversion - im passing 0 decimal places as a parameter
-			$( "#amount" ).val( fundingTotal.formatMoney(0));
+		//	$( "#amount" ).val( fundingTotal.formatMoney(0));
+			//Sets the total funding into the total funding td
+		
 			var rankProject = (project['level']);
+			$('#'+sliderLevel+' td.totalfunding').html(fundingTotal.formatMoney(0));
 			$('#'+rankProject+' td.rank').css("color", "#000");
 			$('#'+rankProject+' td.project').css("color", "#000");
 			$('#'+rankProject+' td.funding').css("color", "#000");
@@ -232,9 +252,21 @@ function showHideMarkers(sliderLevel) {
 		} else {
 			var rankProject = (project['level']);
 			project['marker'].setMap(null);	
+			$('#'+rankProject+' td.totalfunding').html("poop");
 			$('#'+rankProject+' td.rank').css("color", "#999");
 			$('#'+rankProject+' td.project').css("color", "#999");
 			$('#'+rankProject+' td.funding').css("color", "#999");
+		}
+		if(project['level'] === sliderLevel) {
+			
+			//funding conversion - im passing 0 decimal places as a parameter
+			$( "#amount" ).val( fundingTotal.formatMoney(0));
+			//Sets the total funding into the total funding td
+			$('#'+sliderLevel+' td.totalfunding').html(fundingTotal.formatMoney(0));
+			$('#'+sliderLevel+' td.totalfunding').addClass('totalFundingText');
+			
+		} else {	
+			$('#'+rankProject+' td.totalfunding').html(" ");
 		}
 		
 	});

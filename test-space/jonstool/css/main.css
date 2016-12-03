@@ -3,9 +3,26 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+html {
+
+}
+
 body {
+	font-family: 'prenton', san-serif;
 	height: 100%;
 	padding-bottom: 20px;
+	font-size:1.3em;
+}
+
+td { vertical-align:bottom;
+}
+p {
+font-size: 20px;}
+h1 {
+	font-size:16px;
+}
+h2 {
+	font-size:14px;
 }
 #map {
 	height: 700px;
@@ -23,20 +40,26 @@ body {
 .white {
 	color: #ffffff;
 }
-h1 {
-	font-size:16px;
-}
-h2 {
-	font-size:14px;
+
+.right-align {
+	text-align:right;
 }
 
+.totalFundingText {
+	font-size:20px;
+	font-weight: bold;
+	color:#337ada;
+}
+
+.totalFunding {
+	font-size:24px;
+	color:#337ada;
+}
 
 
-
-
-
-
-
+.padding-10-all {
+	padding: 50px;
+}
 
 
 

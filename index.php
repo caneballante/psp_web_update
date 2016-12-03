@@ -80,7 +80,20 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
-		
+		 <!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>11.28.16<br>
+						</strong>ANNOUNCEMENT<br>
+						<a href="implementation_strategies_announcements.php" target="_blank">HELP US DEVELOP VITAL SIGN IMPLEMENTATION STRATEGIES FOR THE BENTHIC INDEX OF BIOTIC INTEGRITY AND TOXICS IN FISH</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+            
 		<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
@@ -122,20 +135,7 @@
 			<!--COLUMN END--> 
 			
 			
-			 <!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>7.21.16<br>
-						</strong>NEWS RELEASE<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/157d7e6" target="_blank">GOVERNOR INSLEE APPOINTS DEBORAH JENSEN TO PUGET SOUND PARTNERSHIP'S LEADERSHIP COUNCIL</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-            
+			
 			
        
 			
