@@ -312,10 +312,12 @@ function showHideMarkers(sliderLevel) {
 	});
 
 }
-
+//Modal Manager Function
 function modalManager (who) {
 	console.log("modalManager ran = " +who);	
+	$('#myModal').modal('show');
 }
+//Map Initializer Function
 function initMap() {	  
  	var mapOptions = {
         zoom: 8,
