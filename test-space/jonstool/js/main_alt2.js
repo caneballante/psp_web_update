@@ -241,7 +241,7 @@ function initMarkers() {
         // <area> element 'poly' which traces out a polygon as a series of X,Y points.
         // The final coordinate closes the poly by connecting to the first coordinate.
         var shape = {
-          coords: [1, 1, 1, 20, 18, 20, 18, 1],
+          coords: [1, 1, 1, 40, 40, 40, 40, 1, 1, 1],
           type: 'poly'
         };
 	$.each(projects, function(i, project) {
@@ -267,8 +267,7 @@ function initMarkers() {
 			position: new google.maps.LatLng( project['latitude'], project['longitude'])
 		});
 		project['marker'].addListener('click', function() {
-			console.log("marker listener ran");
-			//modalManager(i);
+			modalManager(i);
 		 });
 	});
 	//once the table is populated I call the function to set the slider height equal to the table height
