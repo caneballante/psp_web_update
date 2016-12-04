@@ -56,11 +56,23 @@ h2 {
 	color:#337ada;
 }
 
-
 .padding-10-all {
-	padding: 50px;
+	padding: 10px;
 }
 
 
+ 
+.ui-slider-vertical {
+    width: 1.8em;
+    height: 100px;
+}
 
-
+.ui-slider .ui-slider-handle {
+    position: absolute;
+    z-index: 2;
+    width: 2.2em;
+    height: 2.1em;
+    cursor: default;
+    -ms-touch-action: none;
+    touch-action: none;
+}

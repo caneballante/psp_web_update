@@ -1,3 +1,17 @@
+/*!
+ * jQuery UI Touch Punch 0.2.3
+ *
+ * Copyright 2011–2014, Dave Furfero
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ *
+ * Depends:
+ *  jquery.ui.widget.js
+ *  jquery.ui.mouse.js
+ */
+!function(a){function f(a,b){if(!(a.originalEvent.touches.length>1)){a.preventDefault();var c=a.originalEvent.changedTouches[0],d=document.createEvent("MouseEvents");d.initMouseEvent(b,!0,!0,window,1,c.screenX,c.screenY,c.clientX,c.clientY,!1,!1,!1,!1,0,null),a.target.dispatchEvent(d)}}if(a.support.touch="ontouchend"in document,a.support.touch){var e,b=a.ui.mouse.prototype,c=b._mouseInit,d=b._mouseDestroy;b._touchStart=function(a){var b=this;!e&&b._mouseCapture(a.originalEvent.changedTouches[0])&&(e=!0,b._touchMoved=!1,f(a,"mouseover"),f(a,"mousemove"),f(a,"mousedown"))},b._touchMove=function(a){e&&(this._touchMoved=!0,f(a,"mousemove"))},b._touchEnd=function(a){e&&(f(a,"mouseup"),f(a,"mouseout"),this._touchMoved||f(a,"click"),e=!1)},b._mouseInit=function(){var b=this;b.element.bind({touchstart:a.proxy(b,"_touchStart"),touchmove:a.proxy(b,"_touchMove"),touchend:a.proxy(b,"_touchEnd")}),c.call(b)},b._mouseDestroy=function(){var b=this;b.element.unbind({touchstart:a.proxy(b,"_touchStart"),touchmove:a.proxy(b,"_touchMove"),touchend:a.proxy(b,"_touchEnd")}),d.call(b)}}}(jQuery);
+
+
+
 // Extend the default Number object with a formatMoney() method:
 // usage: someVar.formatMoney(decimalPlaces, symbol, thousandsSeparator, decimalSeparator)
 // defaults: (2, "$", ",", ".")
@@ -15,9 +29,11 @@ Number.prototype.formatMoney = function(places, symbol, thousand, decimal) {
 
 
 
+// PSAR CUSTOM JAVASCRIPT
 $(function() {
 	$("#slider").slider({
-		value:0,
+		//set value at 17 so the slider starts at the top
+		value:17,
 		min: 0,
 		max: 17,
 		step: 1,
@@ -32,11 +48,14 @@ $(function() {
 });
 
 function changeSliderHeight() {
+	//I want the slider to only slide next to the portion of the table with the list and not the headers
 	var tableHeight = $('#rankTable').height(); 
     var thHeight = $('#rankTable th').height(); 
  	var sliderHeight = tableHeight-thHeight;
 	console.log(thHeight);
+	//sets the slider height to match the table height minus the header
 	$('#slider').css('min-height', sliderHeight+'px');
+	//sets the top margin to be the height of the header
 	$('#slider').css('margin-top', thHeight+'px');
 };  
 function changeMapHeight() {
@@ -119,7 +138,7 @@ var projects = [
 		marker: null,
 		funding: 6400000
 	},
-{
+	{
 		name: "Kilisut Harbor Restoration 2016",
 		longitude: -122.700705,
 		latitude: 48.01826489,
@@ -127,7 +146,7 @@ var projects = [
 		marker: null,
 		funding: 4093665
 	},
-{
+	{
 		name: "West Oakland Bay Restoration",
 		longitude: -123.0911308,
 		latitude: 47.21092124,
@@ -135,7 +154,7 @@ var projects = [
 		marker: null,
 		funding: 3225750
 	},
-{
+	{
 		name: "Barnum Point Acquisition",
 		longitude:-122.4594265,
 		latitude: 48.19755439,
@@ -143,7 +162,7 @@ var projects = [
 		marker: null,
 		funding: 2186728
 	},
-{
+	{
 		name: "Chico Bridge - Keta restore",
 		longitude: 	-122.7090953,
 		latitude: 47.59280209,
@@ -151,7 +170,7 @@ var projects = [
 		marker: null,
 		funding: 3442400
 	},
-{
+	{
 		name: "Middle Fork Nooksack Fish Passage",
 		longitude: -122.0744804,
 		latitude: 48.7718476,
@@ -159,7 +178,7 @@ var projects = [
 		marker: null,
 		funding: 10904369
 	},
-{
+	{
 		name: "Dungeness Off-Channel Reservoir: Final Design",
 		longitude: -123.1407178,
 		latitude: 48.05338022,
@@ -209,7 +228,26 @@ var projects = [
 var map;
 //initialize markers and add list of projects in rank order to table  
 function initMarkers() {
+	   var image = {
+          url: 'images/project_marker.png',
+          // This marker is 20 pixels wide by 32 pixels high.
+          size: new google.maps.Size(40, 40),
+          // The origin for this image is (0, 0).
+          origin: new google.maps.Point(0, 0),
+          // The anchor for this image is the base of the flagpole at (0, 32).
+          anchor: new google.maps.Point(10, 32)
+        };
+        // Shapes define the clickable region of the icon. The type defines an HTML
+        // <area> element 'poly' which traces out a polygon as a series of X,Y points.
+        // The final coordinate closes the poly by connecting to the first coordinate.
+        var shape = {
+          coords: [1, 1, 1, 20, 18, 20, 18, 1],
+          type: 'poly'
+        };
 	$.each(projects, function(i, project) {
+		//this runs a check on every increment of i to assign the projects in rank order in the project 
+		//list table. when i is 1 it goes through the whole list and finds rank 1 and assigns it the 
+		//appropriate spot and functionality.
 		$.each(projects, function(z, projectz) {	
 			if(projectz['level'] === i) {
 				//funding conversion - im passing 0 decimal places as a parameter
@@ -218,37 +256,41 @@ function initMarkers() {
 				$('#'+i+' td.project').html(projectz['name']);
 				$('#'+i+' td.funding').html(fundingConverted);
 				$('#'+i).click(function(){
-				showHideMarkers(i);
-			});
-				} 
-			});		
-			project['marker'] = new google.maps.Marker({
+					showHideMarkers(i);
+				});
+			} 
+		});		
+		project['marker'] = new google.maps.Marker({
 			map: null,
+			icon: image,
+			shape: shape,
 			position: new google.maps.LatLng( project['latitude'], project['longitude'])
-			});
+		});
+		project['marker'].addListener('click', function() {
+			console.log("marker listener ran");
+			//modalManager(i);
+		 });
 	});
 	//once the table is populated I call the function to set the slider height equal to the table height
 	changeSliderHeight();
 }
 
 function showHideMarkers(sliderLevel) {
+	//need to inverse the slider 
+	sliderLevel = -(sliderLevel-17)
 	var fundingTotal = 0;
 	$.each(projects, function(i, project) {
 		if(project['level'] <= sliderLevel) {
 			project['marker'].setMap(map);
+			
+			//along with setting the markers, this function sets the funding levels. Here it is grabbing the funding amt for the project
 			var fundingProject = (project['funding']);
 			fundingTotal = fundingTotal + fundingProject;
-			//fundingTotal = fundingTotal + fundingProject;
-			//funding conversion - im passing 0 decimal places as a parameter
-		//	$( "#amount" ).val( fundingTotal.formatMoney(0));
-			//Sets the total funding into the total funding td
-		
 			var rankProject = (project['level']);
 			$('#'+sliderLevel+' td.totalfunding').html(fundingTotal.formatMoney(0));
 			$('#'+rankProject+' td.rank').css("color", "#000");
 			$('#'+rankProject+' td.project').css("color", "#000");
-			$('#'+rankProject+' td.funding').css("color", "#000");
-			
+			$('#'+rankProject+' td.funding').css("color", "#000");		
 		} else {
 			var rankProject = (project['level']);
 			project['marker'].setMap(null);	
@@ -263,8 +305,7 @@ function showHideMarkers(sliderLevel) {
 			$( "#amount" ).val( fundingTotal.formatMoney(0));
 			//Sets the total funding into the total funding td
 			$('#'+sliderLevel+' td.totalfunding').html(fundingTotal.formatMoney(0));
-			$('#'+sliderLevel+' td.totalfunding').addClass('totalFundingText');
-			
+			$('#'+sliderLevel+' td.totalfunding').addClass('totalFundingText');		
 		} else {	
 			$('#'+rankProject+' td.totalfunding').html(" ");
 		}
@@ -273,34 +314,29 @@ function showHideMarkers(sliderLevel) {
 
 }
 
+function modalManager (who) {
+	console.log("modalManager ran = " +who);	
+}
 function initMap() {	  
  	var mapOptions = {
         zoom: 8,
         mapTypeId: google.maps.MapTypeId.SATELLITE,
         center: new google.maps.LatLng(48.14267633, -123.1301177)
     };
-	
-	
-
 	initMarkers();
-
     map = new google.maps.Map(document.getElementById('map'), mapOptions);
-	
-	var kmlLayer = new google.maps.KmlLayer({
-		
-    url: 'http://www.psp.wa.gov/test-space/jonstool/kml/psleg3.kmz',
-	suppressInfoWindows: true
+	var kmlLayer = new google.maps.KmlLayer({	
+		url: 'http://www.psp.wa.gov/test-space/jonstool/kml/psleg3.kmz',
+		suppressInfoWindows: true
 	});
-	
 	kmlLayer.addListener('click', function(kmlEvent) {
-    var text = kmlEvent.featureData.name;
-    showInContentWindow(text);
-  });
-
-  function showInContentWindow(text) {
-    var sidediv = document.getElementById('content-window');
-    sidediv.innerHTML = text;
-  }
+		var text = kmlEvent.featureData.name;
+		showInContentWindow(text);
+	});
+	function showInContentWindow(text) {
+		var sidediv = document.getElementById('content-window');
+		sidediv.innerHTML = text;
+	}
 	kmlLayer.setMap(map);
 }
 
