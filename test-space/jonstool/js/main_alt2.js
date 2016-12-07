@@ -33,9 +33,9 @@ Number.prototype.formatMoney = function(places, symbol, thousand, decimal) {
 $(function() {
 	$("#slider").slider({
 		//set value at 17 so the slider starts at the top
-		value:17,
+		value:0,
 		min: 0,
-		max: 17,
+		max: 18,
 		step: 1,
 		orientation: "vertical",
 		slide: function( event, ui ) {
@@ -220,7 +220,16 @@ var projects = [
 		level: 8,
 		marker: null,
 		funding: 2469844,
+	},
+	{
+		name: "Base PSAR Grant",
+		longitude: -122.5161102,
+		latitude: 47.51689853,
+		level: 0,
+		marker: null,
+		funding: 30000000,
 	}
+
 
 ];
   
@@ -276,7 +285,7 @@ function initMarkers() {
 
 function showHideMarkers(sliderLevel) {
 	//need to inverse the slider 
-	sliderLevel = -(sliderLevel-17)
+	//sliderLevel = -(sliderLevel-17)
 	var fundingTotal = 0;
 	$.each(projects, function(i, project) {
 		if(project['level'] <= sliderLevel) {
@@ -320,7 +329,7 @@ function modalManager (who) {
 //Map Initializer Function
 function initMap() {	  
  	var mapOptions = {
-        zoom: 8,
+        zoom: 9,
         mapTypeId: google.maps.MapTypeId.SATELLITE,
         center: new google.maps.LatLng(48.14267633, -123.1301177)
     };
@@ -339,5 +348,6 @@ function initMap() {
 		sidediv.innerHTML = text;
 	}
 	kmlLayer.setMap(map);
+	changeMapHeight();
 }
 
