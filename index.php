@@ -32,7 +32,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h1 class="brand-heading">TOGETHER, WE'RE pROTECTING THE NATION'S LARGEST ESTUARY</h1>
+					<h1 class="brand-heading">TOGETHER, WE'RE PROTECTING THE NATION'S LARGEST ESTUARY</h1>
 					<div class="learn-more-box"><a href="puget-sound-recovery.php">LEARN MORE</a></div>
 				</div>
 			</div>
