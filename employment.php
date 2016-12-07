@@ -74,8 +74,8 @@
 		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1583131/chief-financial-officer-11473">Chief Financial Officer - Full-time</a></p>
 		
 		
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1513084/environmental-planner-ems1">Environmental Planner - Full-time</a></p>
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1546061/ecosystem-recovery-coordinator-exempt-10005">Ecosystem Recovery Coordinator - Full-time</a></p>
+		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1600200/administrative-assistant-3-12198">Administrative Assistant 3 - Full-time</a></p>
+		<p>&nbsp;</p>
 		
 		
 		<!-- InstanceEndEditable --> </div>

@@ -80,6 +80,33 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+			     <!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>12.6.16<br>
+						</strong>MEDIA ADVISORY<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/177b149">GOVERNOR INSLEE NAMES JAY MANNING AS PUGET SOUND PARTNERSHIP LEADERSHIP COUNCIL CHAIR</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>12.6.16<br>
+						</strong>BLOG<br>
+						<a href="http://www.psp.wa.gov/blog/?p=729">LEADERSHIP COUNCIL BIDS FAREWELL TO LONG-TIME CHAIR, MARTHA KONGSGAARD</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
 		 <!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
@@ -101,39 +128,15 @@
 						<!--news content BOX --> 
 						<strong>11.9.16<br>
 						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1583131/chief-financial-officer-11473">CHIEF FINANCIAL OFFICER - FULL TIME</a><br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1583131/chief-financial-officer-11473">CHIEF FINANCIAL OFFICER</a><br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1600200/administrative-assistant-3-12198">ADMINISTRATIVE ASSISTANT 3
+						</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
 			<!--COLUMN END--> 
-		     <!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>11.8.16<br>
-						</strong>MEDIA ADVISORY<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1711796">ECOSYSTEM COORDINATION BOARD TO DISCUSS ACTION AGENDA UPDATES, FUNDING...</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>11.7.16<br>
-						</strong>BLOG<br>
-						<a href="http://www.psp.wa.gov/blog/?p=707">NO DISCHARGE ZONE HELPS PROTECT PUGET SOUND WATER QUALITY</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			
+	
 			
 			
 			
