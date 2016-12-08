@@ -81,21 +81,15 @@
 			<h5>Karin BerkholTz</h5>
 			<p> EPA Coordinator<br />
 				Office 360.999.3848 | <a href="mailto:karin.berkholtz@psp.wa.gov">karin.berkholtz@psp.wa.gov</a></p>
-			<!--ANCHOR LINK spaced 2 br above target--> 
-			<a name="administrative_services"></a> 
+			<a name="operations"></a>
 			<br>
-			<!--ADMINISTRATIVE SERVICES-->
-			
-			<h2>ADMINISTRATIVE SERVICES</h2>
-			<h5>Jen Benn</h5>
-			<p> Director of Administrative Services<br />
-				360.464.1231 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a></p><br>
-			<!--A.S. - OPERATIONS-->			
-			<h3>OPERATIONS</h3>
+			<!--OPERATIONS--><!--ANCHOR LINK spaced 2 br above target--> 
+   		
+			<h2>OPERATIONS</h2>
 			<h5>vacant</h5>
 			<p> Chief Financial Officer<br />
 			</p><br />
-            <!--A.S. - FISCAL-->
+            <!-- FISCAL-->
             <h3>FISCAL</h3>	    
 			<h5>Becky DeBoer</h5>
 			<p> Fiscal Program Manager<br />
@@ -108,7 +102,7 @@
 				360-464-2004 | <a href="mailto:audrapsp.benedict@psp.wa.gov">audrapsp.benedict@psp.wa.gov</a></p>
 		<br />
 			
-            <!--A.S. - ADMINISTRATION-->
+            <!--ADMINISTRATION-->
             <h3>ADMINISTRATION</h3>
             <h5>Debbie Lewandowsky</h5>
 			<p> Administrative Assistant<br />
@@ -118,8 +112,18 @@
 				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
             <h5>jennifer haegele</h5>
 			<p> Administrative Assistant<br />
-            360.339.8942 | <a href="mailto:jennifer.haegele@psp.wa.gov">jennifer.haegele@psp.wa.gov</a></p><br />
-			<!--A.S. - IT OPERATIONS-->
+            360.339.8942 | <a href="mailto:jennifer.haegele@psp.wa.gov">jennifer.haegele@psp.wa.gov</a></p>
+	    <a name="administrative_services"></a><br />
+			
+			  <!--ADMINISTRATIVE SERVICES-->
+			  
+	    
+			<h2>COMMUNICATION &amp; ADVANCEMENT</h2>
+			<h5>Jen Benn</h5>
+			<p> Director of Communication &amp; Advancement<br />
+				360.464.1231 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a></p><br>
+			
+		<!--A.S. - IT OPERATIONS-->
 			<h3>IT OPERATIONS</h3>
 			<h5>VACANT</h5>
 			<p> IT Manager</p>
@@ -150,7 +154,7 @@
                 <h5>Cathy Cochrane</h5>
 			<p>Communications Lead<br />
 				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a></p>
-			<br>
+			
                 <!--ANCHOR LINK spaced 2 br above target--> 
 			<a name="PEP"></a>
 			<br>
@@ -294,7 +298,8 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="#executive_team">EXECUTIVE TEAM</a></li>
-				<li role="presentation"> <a href="#administrative_services">ADMINISTRATIVE SERVICES</a></li>
+				<li role="presentation"> <a href="#operations">OPERATIONS</a></li>
+				<li role="presentation"> <a href="#administrative_services">COMMUNICATION &amp; ADVANCEMENT</a></li>
                 <li role="presentation"> <a href="#PEP">PARTNER ENGAGEMENT PROGRAM</a></li>
 				<li role="presentation"> <a href="#science_and_evaluation">SCIENCE AND EVALUATION</a></li>
 				<li role="presentation"> <a href="#policy_and_planning">POLICY AND PLANNING</a></li>
