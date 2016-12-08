@@ -99,7 +99,7 @@
             <h3>FISCAL</h3>	    
 			<h5>Becky DeBoer</h5>
 			<p> Fiscal Program Manager<br />
-				360.464.1226 | <a href="mailto:becky.deboer@psp.wa.gov">becky.deboer@psp.wa.gov</a></p>
+				360.999.3804 | <a href="mailto:becky.deboer@psp.wa.gov">becky.deboer@psp.wa.gov</a></p>
 			<h5>Arjean Travis</h5>
 			<p> Grants, Contracts, and Compliance Manager<br />
 				360.464.2001 | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov</a></p>
@@ -137,13 +137,13 @@
 			<h3>GOVERNMENT RELATIONS</h3>
 			<h5>Jeff Parsons</h5>
 			<p> Legislative Policy Director<br />
-				360.464.1221 | <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p><br />
+				360.999.3803 | <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p><br />
 			
             <!--A.S. - COMMUNICATIONS-->
 			<h3>COMMUNICATIONS</h3>
 			<h5>Jon Bridgman</h5>
 			<p> Designer<br />
-				206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
+				360.999.3847 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
 			<h5>Erika Lari</h5>
 			<p> Designer<br />
 				360.999.3806 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
@@ -159,19 +159,19 @@
 			
 			<h5>Laura Blackmore</h5>
 			<p> Partner Engagement Program Director<br />
-				Office 360.339.4627| <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
+				Office 360.339.4627 | <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
               
         <br />
                 <!--PEP - MANAGEMENT CONFERENCE COORDINATION-->
                 <h3>MANAGEMENT CONFERENCE COORDINATION</h3>
 			<h5>Dominique Hampton</h5>
 			<p> Special Assistant to the Boards<br />
-				Office 360.464.1229 | <a href="mailto:dominique.hampton@psp.wa.gov">dominique.hampton@psp.wa.gov</a><br />
+				Office 360.628.2423 | <a href="mailto:dominique.hampton@psp.wa.gov">dominique.hampton@psp.wa.gov</a><br />
 			</p>
 		
             	<h5>Tristan Peter-Contesse</h5>
 			<p>Boards Policy Specialist<br>
-		    360.464.2002 | <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a></p><br />
+		    360.584.5328 | <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a></p><br />
 			
 			<!--PEP - LOCAL ECOSYSTEM RECOVERY-->
 			<!--L.E.R. TEAM 1 -->			
@@ -179,7 +179,8 @@
 			<h5>Stacy Vynne</h5>
 			<p> Regional Manager<br />
             <em> South Central LIO</em><br />
-				360.464.2012 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
+				360.489.2112 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
+				
 			<h5>Erin ryan-peÑuela</h5>
 			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br />
 			<em>Hood Canal, Straits, North Olympic Lead Entity
@@ -203,20 +204,20 @@
 			<h5>Stephanie Suter</h5>
 			<p> Regional Manager<br />
             <em>South Sound LIO</em><br />
-				360.464.2013 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a></p>
+				360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a></p>
 			<h5>DAN CALVERT</h5>
 			<p> Ecosystem Recovery Coordinator <br />
 				<em>Stillaguamish/Snohomish, Puyallup/White Lead Entity
 </em><br /> 
-				360.464.2003 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov</a></p>
+				360.789.3165 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov</a></p>
 			<h5>AMBER MOORE</h5>
 			<p> Ecosystem Recovery Coordinator <br />
 				<em>West Sound Lead Entity, West Central LIO, WRIA 13 and 14 Lead Entities, Nisqually Lead Entity
 </em><br /> 
-				360.464.1225 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
+				360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
 			
 			<h5>Alexandra Doty</h5>
-			<p> Project Coordinator<br />
+			<p> Projects Coordinator<br />
         360.280.6664 | <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
             
 			<!--ANCHOR LINK spaced 2 br above target--> 
@@ -234,10 +235,10 @@
 			<h3>Adaptive Systems</h3>
 			<h5>Kari Stiles</h5>
 			<p> Adaptive Systems Manager<br />
-				360.464.4845 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a></p>
+				360.489.2114 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a></p>
                 <h5>Jennifer Burke</h5>
 			<p> Data Systems/GIS Manager<br />
-				360.464.2009 | <a href="mailto:jennifer.burke@psp.wa.gov">Jennifer.Burke@psp.wa.gov</a></p>
+				360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a></p>
 			<br>
 			<!--S.E. ECOSYSTEM ASSESSMENT-->
 			<h3>Ecosystem Assessment</h3>
@@ -246,10 +247,10 @@
 				206.708.5048 | <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a></p>
 			<h5>Nathalie Hamel</h5>
 			<p> Monitoring Program Performance Analyst<br />
-				360.339.5826 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
+				360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
 			<h5>Elene Dorfmeier</h5>
 			<p> Monitoring Performance Analyst <br>
-				360-464-1217| <a href="mailto:elene.dorfmeier@psp.wa.gov">elene.dorfmeier@psp.wa.gov</a></p>
+				360-819-6018 | <a href="mailto:elene.dorfmeier@psp.wa.gov">elene.dorfmeier@psp.wa.gov</a></p>
                 
 			<br>
 			<!--S.E. PERFORMANCE AND EVALUATION-->
@@ -269,7 +270,7 @@
 			<h3>Action Agenda</h3>
 			<h5>Peter Best</h5>
 			<p> Planning Manager <br />
-				360.464.1234 | <a href="mailto:peter.best@psp.wa.gov">peter.best@psp.wa.gov</a></p>
+				360.628.2369 | <a href="mailto:peter.best@psp.wa.gov">peter.best@psp.wa.gov</a></p>
 			
 			<h5>Heather Saunders Benson</h5>
 			<p> Environmental Planner<br />
@@ -282,7 +283,7 @@
 			<h3>IMPLEMENTATION STRATEGIES</h3>
 			<h5>Todd Hass</h5>
 			<p> Implementation Manager<br />
-				360.464.1223 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>
+				360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>
 		
 			
 			<!-- InstanceEndEditable --> </div>
