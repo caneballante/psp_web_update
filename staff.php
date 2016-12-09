@@ -187,13 +187,13 @@
 				
 			<h5>Erin ryan-peÑuela</h5>
 			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br />
-			<em>Hood Canal, Straits, North Olympic Lead Entity
+			<em>Hood Canal, Straits, North Olympic Peninsula Lead Entity
 </em> <br />
 				360.522.0546 | <a href="mailto:erin.ryan-peneula@psp.wa.gov">erin.ryan-peneula@psp.wa.gov</a>
 	</p>
 			<h5>Leah Kintner</h5>
 			<p> Ecosystem Recovery Coordinator <br />
-				<em>Skagit, Samish Skagit/Samish, WRIA 1, Whatcom LIO, WRIA 9 Lead Entity
+				<em>Skagit/Samish, WRIA 1 Lead Entity, Whatcom LIO, WRIA 9 Lead Entity
 </em> <br />
 				360.480.2880 | <a href="mailto:leah.kitner@psp.wa.gov">leah.kintner@psp.wa.gov</a></p>
 			
@@ -222,28 +222,34 @@
 			
 			<h5>Alexandra Doty</h5>
 			<p> Projects Coordinator<br />
+       <em>LIO Special Projects
+</em><br /> 
         360.280.6664 | <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
             
 			<!--ANCHOR LINK spaced 2 br above target--> 
-			<a name="science_and_evaluation"></a>
+			<a name="adaptive"></a>
 			<br>
-			<!--SCIENCE AND EVALUATION-->
 			
-			<h2>SCIENCE AND EVALUATION</h2>
-			<h5>Scott Redman</h5>
-			<p> Program Director<br />
-				360.464.1230 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
-		
-			<br>
-			<!--S.E. ADAPTIVE MANAGEMENT-->
-			<h3>Adaptive Systems</h3>
+			<!--ADAPTIVE MANAGEMENT-->
+			<h2>Adaptive Systems</h2>
 			<h5>Kari Stiles</h5>
 			<p> Adaptive Systems Manager<br />
 				360.489.2114 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a></p>
                 <h5>Jennifer Burke</h5>
 			<p> Data Systems/GIS Manager<br />
 				360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a></p>
+		
+				<!--ANCHOR LINK spaced 2 br above target--> 
+			<a name="science_and_evaluation"></a>
 			<br>
+			<!--SCIENCE AND EVALUATION-->
+			<h2>SCIENCE AND EVALUATION</h2>
+			<h5>Scott Redman</h5>
+			<p> Program Director<br />
+				360.464.1230 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
+		
+			<br>
+			
 			<!--S.E. ECOSYSTEM ASSESSMENT-->
 			<h3>Ecosystem Assessment</h3>
 			<h5>Leska Fore</h5>
@@ -300,6 +306,8 @@
 				<li role="presentation"> <a href="#executive_team">EXECUTIVE TEAM</a></li>
 				<li role="presentation"> <a href="#operations">OPERATIONS</a></li>
 				<li role="presentation"> <a href="#administrative_services">COMMUNICATION &amp; ADVANCEMENT</a></li>
+                               <li role="presentation"> <a href="#adaptive">ADAPTIVE SYSTEMS</a></li>
+
                 <li role="presentation"> <a href="#PEP">PARTNER ENGAGEMENT PROGRAM</a></li>
 				<li role="presentation"> <a href="#science_and_evaluation">SCIENCE AND EVALUATION</a></li>
 				<li role="presentation"> <a href="#policy_and_planning">POLICY AND PLANNING</a></li>
