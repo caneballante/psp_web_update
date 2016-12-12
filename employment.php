@@ -74,8 +74,6 @@
 		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1583131/chief-financial-officer-11473">Chief Financial Officer - Full-time</a></p>
 		
 		
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1600200/administrative-assistant-3-12198">Administrative Assistant 3 - Full-time</a></p>
-		<p>&nbsp;</p>
 		
 		
 		<!-- InstanceEndEditable --> </div>

@@ -129,8 +129,7 @@
 						<strong>11.9.16<br>
 						</strong> EMPLOYMENT<br>
 						<a href="https://www.governmentjobs.com/careers/washington/jobs/1583131/chief-financial-officer-11473">CHIEF FINANCIAL OFFICER</a><br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1600200/administrative-assistant-3-12198">ADMINISTRATIVE ASSISTANT 3
-						</a><br>
+						
 						<!--END news content BOX--> 
 					</div>
 				</div>
