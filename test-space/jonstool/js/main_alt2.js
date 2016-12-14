@@ -49,12 +49,13 @@ $(function() {
 function changeSliderHeight() {
 	//I want the slider to only slide next to the portion of the table with the list and not the headers
 	var tableHeight = $('#rankTable').height(); 
-    var thHeight = $('#rankTable th').height(); 
- 	var sliderHeight = tableHeight-thHeight;
+    var thHeight = ($('#rankTable th').height()+40); 
+ 	var sliderHeight = (tableHeight-thHeight)-15;
 	//sets the slider height to match the table height minus the header
 	$('#slider').css('min-height', sliderHeight+'px');
 	//sets the top margin to be the height of the header
-	$('#slider').css('margin-top', thHeight+'px');
+	$('#slider').css('margin-top', thHeight +'px');
+	
 };  
 function changeMapHeight() {
 	var tableHeight = $('#rankTable').height(); 
@@ -311,16 +312,6 @@ function showHideMarkers(sliderLevel) {
 			$('#'+rankProject+' td.project').css("color", "#999");
 			$('#'+rankProject+' td.funding').css("color", "#999");
 		}
-	/*	if(project['level'] === sliderLevel) {
-			//Sets the total funding into the total funding td
-			$('#totalFunding').html(fundingTotal.formatMoney(0));
-			$('#totalFunding').addClass('totalFundingText');		
-			$('#'+rankProject+' td.totalfunding').html(fundingTotal.formatMoney(0));
-			$('#'+rankProject+' td.totalfunding').addClass('totalFundingText');		
-		} else {	
-			//$('#'+rankProject+' td.totalfunding').html(" ");
-		}
-		*/
 	});
 
 }

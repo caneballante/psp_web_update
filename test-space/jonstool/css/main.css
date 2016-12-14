@@ -78,7 +78,7 @@ h2 {
 
  
 .ui-slider-vertical {
-    width: 1.8em;
+    width: .2em;
     height: 100px;
 }
 
@@ -90,4 +90,15 @@ h2 {
     cursor: default;
     -ms-touch-action: none;
     touch-action: none;
+}
+
+.ui-widget.ui-widget-content {
+    border: 1px solid #555;
+	
+}
+
+.ui-slider-vertical .ui-slider-handle {
+    left: -1em;
+    margin-left: 0;
+    margin-bottom: -.6em;
 }
