@@ -59,6 +59,21 @@ h2 {
 .padding-10-all {
 	padding: 10px;
 }
+.padding-20-left {
+	padding-left:: 20px;
+}
+.padding-30-left {
+	padding-left:: 30px;
+}
+
+.padding-40-left {
+	padding-left:: 40px;
+}
+
+.padding-50-left {
+	padding-left:: 50px;
+}
+
 
 
  
