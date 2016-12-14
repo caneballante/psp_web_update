@@ -32,7 +32,7 @@ Number.prototype.formatMoney = function(places, symbol, thousand, decimal) {
 // PSAR CUSTOM JAVASCRIPT
 $(function() {
 	$("#slider").slider({
-		//set value at 17 so the slider starts at the top
+		//set value at 18 so the slider starts at the top
 		value:0,
 		min: 0,
 		max: 18,
@@ -40,11 +40,10 @@ $(function() {
 		orientation: "vertical",
 		slide: function( event, ui ) {
 			showHideMarkers(ui.value);
+			//making the projects bold or larger can make the table taller. I check for this after the slider slides and change the height to match the table
 			changeSliderHeight();
 			}
 	});
-	//sets value first time before any sliding is done
-	$( "#amount" ).val( "$" + $( "#slider" ).slider( "value" ));
 });
 
 function changeSliderHeight() {
@@ -52,7 +51,6 @@ function changeSliderHeight() {
 	var tableHeight = $('#rankTable').height(); 
     var thHeight = $('#rankTable th').height(); 
  	var sliderHeight = tableHeight-thHeight;
-	console.log(thHeight);
 	//sets the slider height to match the table height minus the header
 	$('#slider').css('min-height', sliderHeight+'px');
 	//sets the top margin to be the height of the header
@@ -202,8 +200,7 @@ var projects = [
 		leadEntity: "WRIA 1 / Whatcom Land Trust" , 
 		sponsor: "sponsor" ,
 		marker: null,
-		funding: 1872911,
-		benefit: "placeholder benefits go here"
+		funding: 1872911
 	},
 	{
 		name: "Morse Creek Riparian Conservation",
@@ -223,8 +220,9 @@ var projects = [
 	},
 	{
 		name: "Base PSAR Grant",
-		longitude: -122.5161102,
-		latitude: 47.51689853,
+		//set this longitude off the map as a hack to not show the base grant as a location
+		longitude: -130.78892707,
+		latitude: 47.97222614,
 		level: 0,
 		marker: null,
 		funding: 30000000,
@@ -237,6 +235,7 @@ var projects = [
 var map;
 //initialize markers and add list of projects in rank order to table  
 function initMarkers() {
+	   //sets a custom image for the flag/marker on the map
 	   var image = {
           url: 'images/project_marker.png',
           // This marker is 20 pixels wide by 32 pixels high.
@@ -268,56 +267,60 @@ function initMarkers() {
 					showHideMarkers(i);
 				});
 			} 
-		});		
+		});
+		//initialize all the markers but turn them off		
 		project['marker'] = new google.maps.Marker({
 			map: null,
 			icon: image,
 			shape: shape,
 			position: new google.maps.LatLng( project['latitude'], project['longitude'])
 		});
+		//add a listener to open the modal 
 		project['marker'].addListener('click', function() {
 			modalManager(i);
 		 });
 	});
-	//once the table is populated I call the function to set the slider height equal to the table height
+	//once the table is populated I call the function to set the slider and map height equal to the table height
 	changeSliderHeight();
+	changeMapHeight();
+	//runs show hide markers to initialize the list with all grey but the base funding
+	showHideMarkers(0);
 }
 
 function showHideMarkers(sliderLevel) {
-	//need to inverse the slider 
-	//sliderLevel = -(sliderLevel-17)
+	console.log ("new stuff uploaded");
 	var fundingTotal = 0;
 	$.each(projects, function(i, project) {
 		if(project['level'] <= sliderLevel) {
 			project['marker'].setMap(map);
 			
-			//along with setting the markers, this function sets the funding levels. Here it is grabbing the funding amt for the project
+			//along with setting the markers, this function sets the total funding levels. Here it is grabbing the funding amt for the project
 			var fundingProject = (project['funding']);
 			fundingTotal = fundingTotal + fundingProject;
 			var rankProject = (project['level']);
-			$('#'+sliderLevel+' td.totalfunding').html(fundingTotal.formatMoney(0));
 			$('#'+rankProject+' td.rank').css("color", "#000");
 			$('#'+rankProject+' td.project').css("color", "#000");
-			$('#'+rankProject+' td.funding').css("color", "#000");		
+			$('#'+rankProject+' td.funding').css("color", "#000");	
+			$('#totalFunding').html(fundingTotal.formatMoney(0));
+			$('#totalFunding').addClass('totalFundingText');	
 		} else {
+			//rankProject has to be set in both if and else as it only runs one or the other
 			var rankProject = (project['level']);
 			project['marker'].setMap(null);	
-			$('#'+rankProject+' td.totalfunding').html("poop");
-			$('#'+rankProject+' td.rank').css("color", "#999");
+			$('#'+rankProject+' td.rank').css("color", "#333");
 			$('#'+rankProject+' td.project').css("color", "#999");
 			$('#'+rankProject+' td.funding').css("color", "#999");
 		}
-		if(project['level'] === sliderLevel) {
-			
-			//funding conversion - im passing 0 decimal places as a parameter
-			$( "#amount" ).val( fundingTotal.formatMoney(0));
+	/*	if(project['level'] === sliderLevel) {
 			//Sets the total funding into the total funding td
-			$('#'+sliderLevel+' td.totalfunding').html(fundingTotal.formatMoney(0));
-			$('#'+sliderLevel+' td.totalfunding').addClass('totalFundingText');		
+			$('#totalFunding').html(fundingTotal.formatMoney(0));
+			$('#totalFunding').addClass('totalFundingText');		
+			$('#'+rankProject+' td.totalfunding').html(fundingTotal.formatMoney(0));
+			$('#'+rankProject+' td.totalfunding').addClass('totalFundingText');		
 		} else {	
-			$('#'+rankProject+' td.totalfunding').html(" ");
+			//$('#'+rankProject+' td.totalfunding').html(" ");
 		}
-		
+		*/
 	});
 
 }
