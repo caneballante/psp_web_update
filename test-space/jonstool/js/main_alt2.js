@@ -266,6 +266,7 @@ function initMarkers() {
 				$('#'+i+' td.funding').html(fundingConverted);
 				$('#'+i).click(function(){
 					showHideMarkers(i);
+					modalManager(i);
 				});
 			} 
 		});
@@ -289,24 +290,20 @@ function initMarkers() {
 }
 
 function showHideMarkers(sliderLevel) {
-	console.log ("new stuff uploaded");
 	var fundingTotal = 0;
 	$.each(projects, function(i, project) {
+		var rankProject = (project['level']);
 		if(project['level'] <= sliderLevel) {
-			project['marker'].setMap(map);
-			
+			var rankProject = (project['level']);project['marker'].setMap(map);
 			//along with setting the markers, this function sets the total funding levels. Here it is grabbing the funding amt for the project
 			var fundingProject = (project['funding']);
 			fundingTotal = fundingTotal + fundingProject;
-			var rankProject = (project['level']);
 			$('#'+rankProject+' td.rank').css("color", "#000");
 			$('#'+rankProject+' td.project').css("color", "#000");
 			$('#'+rankProject+' td.funding').css("color", "#000");	
 			$('#totalFunding').html(fundingTotal.formatMoney(0));
 			$('#totalFunding').addClass('totalFundingText');	
 		} else {
-			//rankProject has to be set in both if and else as it only runs one or the other
-			var rankProject = (project['level']);
 			project['marker'].setMap(null);	
 			$('#'+rankProject+' td.rank').css("color", "#333");
 			$('#'+rankProject+' td.project').css("color", "#999");
@@ -319,6 +316,13 @@ function showHideMarkers(sliderLevel) {
 function modalManager (who) {
 	console.log("modalManager ran = " +who);	
 	$('#myModal').modal('show');
+	$.each(projects, function(i, project) {
+		var rankProject = (project['level']);
+		if(project['level'] === who) {
+			$('#modalTitle').html(project['name']);
+			console.log(project['name']);
+		}
+	});	
 }
 //Map Initializer Function
 function initMap() {	  
