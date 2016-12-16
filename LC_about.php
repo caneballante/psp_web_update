@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,7 +27,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 2;
-</script> 
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -40,9 +41,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -52,40 +53,33 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include 'includes/ln-boards.html';?>	
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-boards.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Leadership Council is the governing body of the Puget Sound Partnership. Its seven members are leading citizens chosen from around the Sound and appointed by the governor to serve four-year terms. Martha Kongsgaard serves as Chair.<br>
 			</p>
-			<h2>Chair: Martha Kongsgaard</h2>
-			<p><strong>Term:</strong> Four-year term, ends June 25, 2018<br />
-				<strong>Biography:</strong> Martha Kongsgaard was born and raised in Napa, Calif., to a family of jurists, grape growers and cattle ranchers. Kongsgaard, a lawyer, married Peter Goldman in 1988 and collaborated with him to found the Kongsgaard-Goldman Foundation which has invested in not for profit environmental, social justice and arts organizations in the Pacific Northwest and Alaska. Her community activities have included participation on the boards of Earthjustice, Islandwood, The Ruckelshaus Center, Friends of the Waterfront, The Future of the Law Institute, Friends of the Methow, UW’s College of the Environment and the Puget Sound Institute. Kongsgaard has served as the president of Philanthropy Northwest and currently chairs the Board of the Washington Women’s Foundation. In addition to chairing the Leadership Council of the Puget Sound Partnership, she serves as Chair of the Marine Resource Advisory Council for Governor Inslee.  Martha and Peter live in West Seattle across the street from the nation’s largest estuary, Puget Sound, in the house where they raised their three now grown sons. </p>
-			<h2>Vice Chair: Jay Manning</h2>
+			<h2>Chair: Jay Manning</h2>
 			<p><strong>Term: </strong>Four-year term, ends June 25, 2017<br />
 				<strong>Biography:</strong> Jay has been working on restoring Puget Sound for most of his career.  Jay, currently a partner with Cascadia Law Group, spent many years working for the State of Washington, first in the Ecology Division of the Washington Attorney General’s Office and later as Director of the Department of Ecology. During his time at Ecology, Jay made Puget Sound restoration one of the agency’s highest priorities. Gov. Gregoire also appointed Jay to co-chair, with Bill Ruckelshause and Billy Frank Jr., of the original Puget Sound Partnership – the stakeholder group that recommended the creation of the Partnership as a state agency. Later, as Chief of Staff for Gov. Gregoire’s administration, Jay worked hard to maintain the administration’s focus on Puget Sound as the state went through the recession.  Jay has a degree in political science from Eastern Washington University and earned his law degree from the University of Oregon. </p>
-
-<h2><strong>Member:</strong> Russell Hepfer</h2>
+			<h2>Vice Chair: Stephanie Solien</h2>
+			<p><strong>Term: </strong>Four-year term, ends June 25, 2017<br />
+				<strong>Biography:</strong> Stephanie has been director of the bi-partisan Women’s Campaign Fund and worked as staff in the U.S. House of Representatives, and the U.S. Senate. She also ran the D.C. office for Gov. Booth Gardner. Stephanie served as national political director for the Bill Clinton Presidential campaign in 1992 and was a lead strategist of President Clinton’s successful 1993 Pacific Northwest Forest Summit in Portland, Ore. In the Clinton Administration she served as Assistant to Secretary Bruce Babbit for Intergovenmental and Congressional Affairs in the U.S. Department of the Interior. She also served as chair of the Washington Conservation Voters from 1998-2001.In 2011, Stephanie consulted with Climate Solutions and the Seattle Chamber of Commerce on creating jobs in the energy efficiency sector and served as Environmental Co-Chair of the Seattle Chamber of Commerce’s Leadership Conference. Stephanie has a degree in journalism from the University of Maryland and her Master of Public Administration from the University of Washington’s Evans School of Public Affairs.</p>
+			<h2><strong>Member:</strong> Russell Hepfer</h2>
 			<p><strong>Term:</strong> Four year term, ends June 25, 2018<br />
 				<strong>Biography:</strong> Russell Hepfer, a Lower Elwha Klallam Tribe member, grew up on the Lower Elwha Klallam Reservation and has exercised his treaty harvest rights for his entire life, harvesting fish and shellfish, including geoduck.
 				He taught himself how to fish and then passed those skills on to several of his sons and a nephew. Russell started in natural resources as a water quality technician in 1995, then soon was asked to represent his tribe as a commissioner on the Northwest Indian Fisheries Commission.</p>
 			<p>While serving the commission for the past 18 years, he has also served on his tribal council for 16 years, formerly as chair and currently as vice chair. Since 2005, he has served as his tribe's delegate to the Indian Policy Advisory Committee for the Washington State Department of Social & Health Services. He has also been his tribe's delegate to the Coast Salish Gathering since its inception in 2006. When he's not working, he loves spending time in the outdoors, camping and fishing. </p>
-					<h2>Member: DEBORAH JENSEN</h2>
+			<h2>Member: DEBORAH JENSEN</h2>
 			<p><strong>Term:</strong> Three-year term, ends June 25, 2019<br />
 				<strong>Biography:</strong> Deborah Jensen has extensive experience as an executive leading conservation and scientific organizations in Washington state and internationally. Named by Seattle Business Magazine as a recipient of the 2015 Executive Excellence Award and by the Puget Sound Business Journal as a recipient of the 2009 Women of Influence Award, Ms. Jensen currently serves as principal for Jensen and Associates. The firm offers consulting services on business and conservation strategy, organizational change, and board development. She is also a Distinguished Practitioner in Residence at the University of Washington, College of the Environment. From 2002 to 2015, Ms. Jensen shepherded the 100-year-old Woodland Park Zoo in its transition to nonprofit management and built strong education and conservation programs. Before moving to the Northwest, she served as Vice President of The Nature Conservancy&rsquo;s Conservation Science Division, at its world headquarters, in Arlington, Virginia. She holds masters and doctorate degrees in Energy and Resources and an undergraduate degree in Botany from the University of California Berkeley. Ms. Jensen&rsquo;s community involvement includes serving as current Vice-Chair of the Washington Wildlife and Recreation Coalition. She has also served as a member of the Seattle Community Development Roundtable; member of the Board of Directors, Association of Zoos and Aquariums; and as President and Board member, Society for Conservation Biology. </p>
-		
-			<h2>Member: Stephanie Solien</h2>
-			<p><strong>Term: </strong>Four-year term, ends June 25, 2017<br />
-				<strong>Biography:</strong> Stephanie has been director of the bi-partisan Women’s Campaign Fund and worked as staff in the U.S. House of Representatives, and the U.S. Senate. She also ran the D.C. office for Gov. Booth Gardner. Stephanie served as national political director for the Bill Clinton Presidential campaign in 1992 and was a lead strategist of President Clinton’s successful 1993 Pacific Northwest Forest Summit in Portland, Ore. In the Clinton Administration she served as Assistant to Secretary Bruce Babbit for Intergovenmental and Congressional Affairs in the U.S. Department of the Interior. She also served as chair of the Washington Conservation Voters from 1998-2001.In 2011, Stephanie consulted with Climate Solutions and the Seattle Chamber of Commerce on creating jobs in the energy efficiency sector and served as Environmental Co-Chair of the Seattle Chamber of Commerce’s Leadership Conference. Stephanie has a degree in journalism from the University of Maryland and her Master of Public Administration from the University of Washington’s Evans School of Public Affairs.</p>
 			<h2>Member: Sue Taoka</h2>
 			<p><strong>Term:</strong> Four-year term, ends June   25, 2018<br />
 				<strong>Biography:</strong> Sue Taoka is currently an Executive Vice President at Craft3, a nonprofit, non-bank lender that provides business, septic repair and energy-efficiency loans in Washington and Oregon. She is based out of the Seattle office developing strategies that provide access to capital that strengthens the resilience of distressed and immigrant communities.  She also focuses on organizational infrastructure improving the health and resilience of Craft3.</p>
@@ -95,14 +89,13 @@
 			<p><strong>Term: </strong>Four-year term, ends June 25, 2017<br />
 				<strong>Biography:</strong> Jim Wilcox was born in Tacoma, Wash., and grew up, lived, and worked at the family farm near Roy on the Nisqually River all his life. Jim attended Yelm High School and graduated from University of Puget Sound with a B.A. in History. He focused on a career in the dairy division of Wilcox Farms until that division was sold in 2008. He is the former chairman of the Wilcox Farms board of directors, and is retired from day-to-day management. Before his retirement, Jim supported the effort to get Wilcox Farms certified as salmon safe and helped convert much of the farm to organic practices to protect the Nisqually River. In the early 1980s, Jim served on the Nisqually River Task Force, which created the Nisqually River Council, now one of the oldest watershed councils west of the Mississippi. He also served as a board member and president of Greater Lakes Mental Health; was a volunteer fireman for 30 years; has been a participant, board member, and president of the Washington Agriculture and Forestry Leadership Foundation; and has served on many trade groups and industry councils. Jim currently serves on the boards of the Nisqually River Foundation and the Washington Food Industry Scholarship Foundation, and is a council member with the Alliance for a Healthy South Sound.  When not working, Jim enjoys Puget Sound&rsquo;s many outdoor bounties, including skiing in the winter and sailing on the Salish Sea in the summer. </p>
 			<!-- InstanceEndEditable --> </div>
-		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li>
-				<?php include 'includes/board_contact.html';?>
+					<?php include 'includes/board_contact.html';?>
 				</li>
 				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li>
 				<!-- InstanceEndEditable -->
@@ -134,4 +127,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
