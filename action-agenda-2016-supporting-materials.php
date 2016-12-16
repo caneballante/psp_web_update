@@ -162,9 +162,9 @@
 						<li><a href="http://www.psp.wa.gov/evaluating-about-report-card.php">Action Agenda Report Card</a></li>
 					</ul></td>
 				</tr>
-				<tr>
+				<tr>c
 					<td valign="top"><ul>
-						<li><a href="http://www.psp.wa.gov/evaluating-about-project-atlas.php">Puget Sound Project Atlas</a></li>
+						<li><a href="http://www.psp.wa.gov/evaluating-about-recovery-atlas.php">Puget Sound Recovery Atlas</a></li>
 					</ul></td>
 				</tr>
 				<tr>
@@ -215,7 +215,7 @@
 				</tr>
 				<tr>
 					<td valign="top"><ul>
-						<li>Puget Sound Recovery Atlas (<a href="http://www.psp.wa.gov/evaluating-about-report-card.php">Action Agenda Report Card</a> and <a href="http://www.psp.wa.gov/evaluating-about-project-atlas.php">Puget Sound Project Atlas</a>)</li>
+						<li>Puget Sound Recovery Atlas (<a href="http://www.psp.wa.gov/evaluating-about-report-card.php">Action Agenda Report Card</a> and <a href="http://www.psp.wa.gov/evaluating-about-recovery-atlas.php">Puget Sound Recovery Atlas</a>)</li>
 					</ul></td>
 				</tr>
 				<tr>

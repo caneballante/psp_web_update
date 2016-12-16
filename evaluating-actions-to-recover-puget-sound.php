@@ -70,8 +70,8 @@
 			<p>Several online tools offer accessible opportunities to track the recovery actions and activities taking place throughout the Sound:</p>
 <h2>REPORT CARD</h2>
 			<p>We report on the status and funding of the Action Agenda&rsquo;s Near Term Actions in the Action Agenda Report Card. This online tool allows users to find out more about specific actions, or groups of actions, with a range of helpful filters and search options. <a href="evaluating-about-report-card.php">Learn more</a></p>
-			<h2>PROJECT ATLAS</h2>
-			<p>The Puget Sound Project Atlas helps you learn more about an important subset of Puget Sound restoration and protection projects that are financed or tracked by the Washington State Recreation and Conservation Office. <a href="evaluating-about-project-atlas.php">Learn More</a></p>
+			<h2>Recovery ATLAS</h2>
+			<p>The Puget Sound Recovery Atlas helps you learn more about an important subset of Puget Sound restoration and protection projects that are financed or tracked by the Washington State Recreation and Conservation Office. <a href="evaluating-about-recovery-atlas.php">Learn More</a></p>
 			<h2>NEP ATLAS</h2>
 			<p>The NEP Atlas is a compilation of interactive maps, graphs, and tables of activities funded beginning in 2007 by the National Estuary Program (NEP) of the U.S. Environmental Protection Agency. <a href="evaluating-about-NEP-atlas.php">Learn more</a></p>
 			<h2> PUBLIC OPINION RESEARCH</h2>

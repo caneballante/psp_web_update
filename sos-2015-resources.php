@@ -105,7 +105,7 @@
               <p><a href="http://psp.wa.gov/gis/ReportCard/" target="_blank">Action Agenda Report Card</a></p>
               <p><a name="or"></a><a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></p>
               <p><a href="evaluating-about-NEP-atlas.php">National Estuary Program Atlas</a></p>
-              <p><a href="http://psp.wa.gov/gis/RecoveryAtlas/" target="_blank">Puget Sound Project Atlas</a></p>
+              <p><a href="http://psp.wa.gov/gis/RecoveryAtlas/" target="_blank">Puget Sound Recovery Atlas</a></p>
               
               <h3>OTHER RESOURCES</h3>
               
