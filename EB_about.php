@@ -146,7 +146,7 @@
 			
 			<p>Washington State Agencies<br>
 				            Maia Bellon <em>Director, Washington State Department of Ecology</em><br>
-				            Josh Baldi (alternate) <em>Department of Ecology</em></p>
+				            Tom Laurie (alternate) <em>Department of Ecology</em></p>
 			<p>Washington State Agencies<br>
 				            Jim Unsworth <em>Director, Washington Department of Fish and Wildlife</em><br>
 				            Jeff Davis (alternate) <em>Department of Fish and Wildlife</em><br>

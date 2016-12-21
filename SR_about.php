@@ -413,7 +413,7 @@
 					<td valign="top"><p><strong>Ecology</strong></p></td>
 					<td valign="top"><p>Ecology</p></td>
 					<td valign="top"><p><strong>Maia Bellon</strong></p></td>
-					<td valign="top"><p>Josh Baldi</p></td>
+					<td valign="top"><p>Joe Burcar</p></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>

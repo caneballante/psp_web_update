@@ -141,11 +141,11 @@
 				</tr>
 				<tr>
 					<td>Snohomish Watershed</td>
-					<td>Morgan Ruff, Tulalip Tribes, Snohomish Basin Capital Program Coordinator<br /></td>
-					<td>360-716-4636<br />
+					<td>Gretchen Glaub, Snohomish Basin Salmon Recovery Forum<br /></td>
+					<td>425-330-0311 <br />
 						<br />
 						<br /></td>
-					<td><a class="small-links" href="mailto:mruff@tulaliptribes-nsn.gov">mruff@tulaliptribes-nsn.gov</a>
+					<td><a class="small-links" href="mailto:gretchen.glaub@snoco.org">gretchen.glaub@snoco.org</a>
 						&nbsp;</td>
 				</tr>
 				<tr>
