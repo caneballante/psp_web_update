@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2016 ECOSYSTEM COORDINATION BOARD MEETINGS</h1>
+			<h1>2017 ECOSYSTEM COORDINATION BOARD MEETINGS</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -72,66 +72,39 @@
 					<td width="251" class="tableheader">PROPOSED AGENDA &amp; SUMMARY</td>
 				</tr>
 				<tr>
-					<td class=""><p>January 14</p></td>
-					<td class=""><p>South Seattle Community College - Georgetown campus<br>
-						6737 Corson Ave. South <br>
-						Seattle, WA 98108
-						</p>
+					<td class=""><p>March 2</p></td>
+					<td class=""><p>General Administration (GA) Building, Auditorium<br>
+					  1st floor<br>
+Washington State Capitol Campus<br>
+210 - 11th Avenue SW<br>
+Olympia, WA 98501</p>
 						</td>
-					<td class=""><p><a href="https://pspwa.box.com/s/rhsi2xiq6xb68nq4lyi8mhec159gg31r" target="new">Meeting Materials</a></p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/9ts3wzgz4bta9jzlwjjly7xcie7i6ku3" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td ><p>April 4</p></td>
-					<td><p>(Joint meeting with the Salmon Recovery Council)<br>
-						South Seattle Community College - Georgetown campus<br>
-						6737 Corson Ave. South <br>
-						Seattle, WA 98108
-						</p></td>
-					<td><p><a href="https://pspwa.box.com/s/rwr5w2tzgvy2vt7tjns5a21ad1u0trc7" target="new">Meeting Materials</a></p></td>
+					<td ><p>June 15</p></td>
+					<td><p>Edmonds Center for the Arts<br>
+					  410 Fourth Ave N<br>
+				    Edmonds, WA 98020</p></td>
+					<td><p><a href="https://pspwa.box.com/s/zhbxyg1rywahw7bu31osm0a2e89x9wox" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td class=""><p>May 19<br>
-						Partner Summit: 9:30 am - 12:30 pm<br>
-						ECB Meeting: 1 pm - 4 pm					</p>
-					<p>&nbsp;</p></td>
-					<td class=""><p>General Administration (GA) Building, Auditorium<br />
-                    Washington State Capitol Campus<br />
-                     210 - 11th Avenue SW<br />
-                      Olympia, WA 98501</p></td>
-					<td class=""><p><a href="https://pspwa.box.com/s/3ikfsqg753lx1s98at76y2fv3xko6knf" target="new">Meeting Materials</a></p></td>
+					<td><p>August 24					</p></td>
+					<td class=""><p>Edmonds Center for the Arts<br>
+					  410 Fourth Ave N<br>
+				    Edmonds, WA 98020</p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/ycqipgq6093i5in6jioe2fccu0aq92sh" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td class=""><p>June 8</p></td>
-					<td class=""><p>(Joint meeting with the Salmon Recovery Council)<br>
-						South Seattle Community College - Georgetown campus<br>
-						6737 Corson Ave. South <br>
-						Seattle, WA 98108
-						</p></td>
-					<td class=""><p><a href="https://pspwa.box.com/s/s2424likwni9duozrfpsnfo0m5jwtl34" target="new">Meeting Materials</a></p></td>
+					<td height="125" class=""><p>November 8</p></td>
+					<td class=""><p>Edmonds Center for the Arts<br>
+					  410 Fourth Ave N<br>
+				    Edmonds, WA 98020</p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/ztjl8ggvcpp473ls4wo8zwkiqpog1zhx" target="new">Meeting Materials</a></p></td>
 				</tr>
-				<tr>
-					<td class=""><p>July 21</p>
-					<p class="alert-danger">CANCELLED</p></td>
-					<td class=""><p>South Seattle Community College - Georgetown campus<br>
-6737 Corson Ave. South <br>
-Seattle, WA 98108</p></td>
-					<td class=""><p></td>
-				</tr>
-				<tr>
-					<td class=""><p>September 8</p></td>
-					<td class=""><p>Edmond Center for the Arts<br>
-410 Fourth Ave N<br>
-Edmonds, WA 98020</p></td>
-					<td class=""><p><a href="https://pspwa.box.com/s/fb6g49jz8td7hvs34chkflfompf4pw7j" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td class=""><p>November 10</p></td>
-					<td class=""><p>Edmond Center for the Arts<br>
-410 Fourth Ave N<br>
-Edmonds, WA 98020</p></td>
-					<td class=""><p><a href="https://pspwa.box.com/s/spg5nxhnyaq10rmw38pk6q8fjndty0sb" target="new">Meeting Materials</a></td>
-				</tr>
-			</table>
+				
+				
+		</table>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

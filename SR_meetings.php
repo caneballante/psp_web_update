@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2016 SALMON RECOVERY COUNCIL MEETINGS</h1>
+			<h1>2017 SALMON RECOVERY COUNCIL MEETINGS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -66,77 +66,59 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Start and end times depend on agenda needs, but meetings generally begin at 10 a.m. and adjourn by 3 p.m. For approximate start and end times for a particular meeting, see the proposed agenda – usually posted online one week prior to the meeting.</p>
-			<table class="table">
+		<table width="100%" border="0" class="table">
 				<tr>
-					<td width="78" class="tableheader">DATE</td>
-					<td width="211" class="tableheader">DETAILS</td>
-					<td width="221" class="tableheader">DOCUMENTS</td>
+					<td width="125" class="tableheader">DATE</td>
+					<td width="243" class="tableheader">LOCATION</td>
+					<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
+				</tr>
+				<tr> </tr>
+				<tr>
+					<td><p>January 26</p></td>
+					<td><p>Edmonds Center for the Arts<br>
+					  410 Fourth Ave N<br>
+				    Edmonds, WA 98020</p></td>
+					<td><a href="https://pspwa.box.com/s/5xsgb2e6mge79837j8rcd95e8cwquh5w" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td width="78"><p>January 28</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
-							410 4th Ave N, <br />
-							Edmonds, WA 98020</p></td>
-					<td><p><a href="https://pspwa.box.com/s/15k73nre88qh9dfnmbths8gglakwy3m3" target="new">Meeting Materials</a></p></td>
+					<td><p>March 23</p></td>
+					<td><p>Village Green Community Center<br>
+					  26159 Dulay Road NE<br>
+				    Kingston, WA 98346</p></td>
+
+					<td><a href="https://pspwa.box.com/s/2ymg6pds94bityzusndntq0gyareaecn" target="new">Meeting Materials</a></td>
+
+				</tr>
+				
+				<tr>
+					<td><p>May 25</p></td>
+					<td><p>Edmonds Center for the Arts<br>
+					  410 Fourth Ave N<br>
+				    Edmonds, WA 98020</p></td>
+					<td><a href="https://pspwa.box.com/s/cm6kajint72xiyo3k0ypytdhxpigy44l" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td width="78"><p>March 24</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
-							410 4th Ave N, <br />
-							Edmonds, WA 98020</p></td>
-					<td><p><a href="https://pspwa.box.com/s/xay6lmopzt9brhudxn1zvviwkdl6q3l0" target="new">Meeting Materials</a></p></td>
+					<td><p>July 27</p></td>
+					<td><p>Edmonds Center for the Arts<br>
+					  410 Fourth Ave N<br>
+				    Edmonds, WA 98020</p></td>
+					<td><a href="https://pspwa.box.com/s/lmwtom54gqoqtz93yufw2jd87ionsqud" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td width="78"><p>April 4</p></td>
-					<td><p>(Joint meeting with the Salmon Recovery Council)<br>
-							South Seattle Community College - Georgetown campus<br>
-							6737 Corson Ave. South <br>
-							Seattle, WA 98108</p>
-						</a></td>
-					<td><p><a href="https://pspwa.box.com/s/znnt00d8hctqqeun4zj8cztllyesdzd2" target="new">Meeting Materials</a></p></td>
+					<td><p>September 28</p></td>
+					<td><p>Edmonds Center for the Arts<br>
+					  410 Fourth Ave N<br>
+					  Edmonds, WA 98020<br>
+					</p></td>
+					<td><a href="https://pspwa.box.com/s/joacdsc29fsfachvliubefu2yi1dm817" target="new">Meeting Materials</a><br />
+					</td>
 				</tr>
 				<tr>
-					<td width="78"><p>May 26</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
-							410 4th Ave N, <br />
-							Edmonds, WA 98020</p></td>
-					<td><p><a href="https://pspwa.box.com/s/fjsyf54vpu1akdg2qn8g4eh9u9ky0be3" target="new">Meeting Materials</a></p></td>
-				</tr>
-				<tr>
-					<td width="78"><p>June 8</p></td>
-					<td><p>(Joint meeting with the Salmon Recovery Council)<br>
-							South Seattle Community College - Georgetown campus<br>
-							6737 Corson Ave. South <br>
-							Seattle, WA 98108</p></td>
-					<td><p><a href="https://pspwa.box.com/s/vw4ba6cno6cnc8dp5w95jmp1rio7lkt3" target="new">Meeting Materials</a></p></td>
-				</tr>
-				<tr>
-					<td width="78"><p>July 28</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
-							410 4th Ave N, <br />
-							Edmonds, WA 98020</p></td>
-					<td><p><a href="https://pspwa.box.com/s/d7ydgiyex4esz9eeuv97ns8jv68vkofe" target="new">Meeting Materials</a></p></td>
-				</tr>
-				<tr>
-					<td width="78"><p>September 22</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
-							410 4th Ave N, <br />
-							Edmonds, WA 98020</p></td>
-					<td><p><a href="https://pspwa.box.com/s/5lc5nkc99vw20mcinbtxjtbsn149hsxa" target="new">Meeting Materials</a></p></td>
-				</tr>
-				<tr>
-					<td width="78"><p>October 18-19</p></td>
-					<td><p><a href="http://www.seabeck.org/">Seabeck Conference Center</a><br />
-							13395 Lagoon Drive NW, <br>
-							Seabeck, WA  98380</p></td>
-					<td><p><a href="https://pspwa.box.com/s/hdtjpbf76ywd34s56qgg5223x37xenyp" target="new">Meeting Materials</a></p></td>
-				</tr>
-				<tr>
-					<td width="78"><p>December 1</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmonds Center for the Arts</a><br />
-							410 4th Ave N, <br />
-							Edmonds, WA 98020</p></td>
-					<td><p><a href="https://pspwa.box.com/s/beiluf46cn51digqmul938v25kmq6z20" target="new">Meeting Materials</a></p></td>
+					<td height="124"><p>November 30</p></td>
+					<td><p>Edmonds Center for the Arts<br>
+					  410 Fourth Ave N<br>
+				    Edmonds, WA 98020</p></td>
+					<td><a href="https://pspwa.box.com/s/x4h2n5lq8ox2o4gbnr9hesn1mlo8ailh" target="new">Meeting Materials</a><br /></td>
 				</tr>
 			</table>
 			<p> Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls. <br />

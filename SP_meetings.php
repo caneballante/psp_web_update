@@ -48,7 +48,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2016 SCIENCE PANEL MEETINGS</h1>
+			<h1>2017 SCIENCE PANEL MEETINGS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -69,77 +69,59 @@
 			<p>Start and end times depend on agenda needs, but meetings and work sessions generally begin at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. </p>
 			<table width="100%" border="0" class="table">
 				<tr>
-					<td width="100" class="tableheader">DATE</td>
-					<td width="268" class="tableheader">LOCATION</td>
+					<td width="125" class="tableheader">DATE</td>
+					<td width="243" class="tableheader">LOCATION</td>
 					<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
 				</tr>
+				<tr> </tr>
 				<tr>
-					<td class=""><p>February 10</p></td>
-					<td class=""><p>Washington State University Research Center<br />
-							Allmendinger Center<br />
-							2606 West Pioneer<br />
-							Puyallup, WA 98371</p></td>
-					<td class=""><a href="https://pspwa.box.com/s/pgqs3omw48uozvwqltqffjew352yl6i6" target="new">Meeting Materials</a></td>
+					<td><p>February 16</p></td>
+					<td><p>South Seattle Community College - Georgetown campus<br>
+					  6737 Corson Ave South<br>
+				    Seattle, WA 98108</p></td>
+					<td><a href="https://pspwa.box.com/s/fhb5i1efw31q527m12b5fkj1dt9wqiie" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td class=""><p>March 23</p></td>
-					<td><p><a href="http://www.edmondscenterforthearts.org/index">Edmond Center for the Arts</a><br />
-							410 4th Ave N, <br />
-							Edmonds, WA 98020</p></td>
-						<td class=""><a href="https://pspwa.box.com/s/h0lipdpoo0yuscwz5py5e4jt0g5hf6ak" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td ><p>April 12</p></td>
-					<td><p>Vancouver, BC (added to the Salish Sea Ecosystem Conference)</p></td>
-							<td class=""><a href="https://pspwa.box.com/s/shhygsyx2fefzv30suqxpj161rtwew53" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td ><p>May 11</p></td>
-					<td class=""><p>CANCELLED</p></td>
-							<td class=""><a href="https://pspwa.box.com/s/8sek7lkq3gt016ow4gy4g0wvdhdin2tg" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td class=""><p>June 2</p></td>
-					<td class=""><p>Webex Only - Short morning meeting</p></td>
-							<td class=""><a href="https://pspwa.box.com/s/jm5r7stlq7pu5gc79i2451jio5pgo2oq" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td class=""><p>June 21-22</p></td>
-					<td class=""><p>University of Washington<br>
-					  Applied Physics Lab<br>
-					  Henderson Hall<br>
-					  1013 NE 40th Street<br>
-					  Seattle, WA 98105<br />
-						</p></td>
-					<td class=""><a href="https://pspwa.box.com/s/xmmbc20di4a5vxvobnf3z1tjej4djj1t" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td class=""><p>August 24</p></td>
-					<td class=""><p>University of Washington<br>
+					<td><p>May 18</p></td>
+					<td><p>University of Washington<br>
 					  Applied Physics Lab - Henderson Hall<br>
 					  Hardisty Conference Room on 6th floor<br>
 					  1013 NE 40th Street<br>
-Seattle, WA 98105<br />
-						</p></td>
-					<td class=""><a href="https://pspwa.box.com/s/ook44lszb4xhp4e2dgnf06sdk4oxw1vt" target="new">Meeting Materials</a></td>
+				    Seattle, WA 98105</p></td>
+
+					<td><a href="https://pspwa.box.com/s/7uz9j59dsoqqf4xvvlb08xdpjlskd3fz" target="new">Meeting Materials</a></td>
+
 				</tr>
+				
 				<tr>
-					<td class=""><p>October 26</p></td>
+					<td><p>July 19/20</p></td>
 					<td><p>University of Washington<br>
-Applied Physics Lab - Henderson Hall<br>
-Hardisty Conference Room on 6th floor<br>
-1013 NE 40th Street<br>
-Seattle, WA 98105</p></td>
-					<td class=""><a href="https://pspwa.box.com/s/fhtc35b1mesjs08y5yh5qf9yjiuftyn5" target="new">Meeting Materials</a></td>
+					  Applied Physics Lab - Henderson Hall<br>
+					  Hardisty Conference Room on 6th floor<br>
+					  1013 NE 40th Street<br>
+				    Seattle, WA 98105</p></td>
+					<td><a href="https://pspwa.box.com/s/xbsj2swu0af5qyerwiewbcv283lmtdcf" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td class=""><p>December 14-15</p></td>
-					<td><p> South Seattle Community College - Georgetown campus<br>
-							6737 Corson Ave. South <br>
-							Seattle, WA 98108</p>
-						</a></td>
-					<td class=""><a href="https://pspwa.box.com/s/aqy5lf4irg6ll0mzqqq0ap3eyjgdpsck" target="new">Meeting Materials</a></td>
+					<td><p>October 19</p></td>
+					<td><p>Edmonds Center for the Arts<br>
+					  University of Washington<br>
+					  Applied Physics Lab - Henderson Hall<br>
+					  Hardisty Conference Room on 6th floor<br>
+					  1013 NE 40th Street<br>
+				    Seattle, WA 98105</p></td>
+					<td><a href="https://pspwa.box.com/s/xlkl8za2mbizpjbh9yjvghv5ru1txmxs" target="new">Meeting Materials</a></td>
 				</tr>
+				<tr>
+					<td><p>December 12/13</p></td>
+					<td><p>South Seattle Community College - Georgetown campus<br>
+6737 Corson Ave South <br>
+Seattle, WA 98108<br>
+					</p></td>
+					<td><a href="https://pspwa.box.com/s/lan4bpgu54dsf0x429xkuqk7vc2ouev8" target="new">Meeting Materials</a><br />
+					</td>
+				</tr>
+				
 			</table>
 			<!-- InstanceEndEditable --> </div>
 		

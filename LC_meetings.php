@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2016 LEADERSHIP COUNCIL MEETINGS</h1>
+			<h1>2017 LEADERSHIP COUNCIL MEETINGS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -74,56 +74,38 @@
 				</tr>
 				<tr> </tr>
 				<tr>
-					<td><p>February 4</p></td>
-					<td><p>La Quinta<br>
-					  Oak Conference Room<br>
-					  1425 East 27th Street<br>
-				    Tacoma, WA 98421</p></td>
-					<td><a href="https://pspwa.box.com/s/p9csyudvw0v2z1ecbi096dyilbwm2arg" target="new">Meeting Materials</a></td>
+					<td><p>March 29/30</p></td>
+					<td><p>General Administration (GA) Building, Auditorium<br>
+					  1st floor<br>
+Washington State Capitol Campus<br>
+210 - 11th Avenue SW<br>
+Olympia, WA 98501</p></td>
+					<td><a href="https://pspwa.box.com/s/1mcoazaph4pglnoix7ayp25wmn72fkru" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>April 28-29</p></td>
-					<td><p>Fort Worden, Commons Conference Room<br>
-						200 Battery Way<br>
-						Port Townsend, WA 98368
-					</p></td>
+					<td><p>June 21/22</p></td>
+					<td><p>Padilla Bay National Estuarine Research Reserve<br>
+					  10441 Bayview-Edison Road<br>
+Mount Vernon, WA 98273-9668 </p></td>
 
-					<td><a href="https://pspwa.box.com/s/jmp7li1hmlqau3yug0y2imz5pilngbgi" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/5hzguw7pn7uimmlod1i1biva898ynpw4" target="new">Meeting Materials</a></td>
 
 				</tr>
 				
 				<tr>
-					<td><p>June 29</p></td>
+					<td><p>September 20/21</p></td>
+					<td><p>Port Gamble S'Klallam Tribe<br>
+				    Kingston, WA</p></td>
+					<td><a href="https://pspwa.box.com/s/8usghkkfomgbxf5i804pmx08ugi5lww3" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td><p>December 5/6</p></td>
 					<td><p>South Seattle Community College - Georgetown campus<br>
-						6737 Corson Ave. South<br>
-					Seattle, WA 98108</p></td>
-					<td><a href="https://pspwa.box.com/s/dz24unsga89ffo4yzlctm4ww7q7xej7l" target="new">Meeting Materials</a></td>
+6737 Corson Ave South <br>
+Seattle, WA 98108</p></td>
+					<td><a href="https://pspwa.box.com/s/6yl8jqebs7t8dxfi5566szgbmf1aong6" target="new">Meeting Materials</a></td>
 				</tr>
-				<tr>
-					<td><p>August 30-31</p></td>
-					<td><p>CANCELLED</p></td>
-					<td><a href="https://pspwa.box.com/s/6z8l370w7cz4gwk3zlo1t95ypfxbxyz3" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td><p>October 6</p></td>
-					<td><p>South Seattle Community College - Georgetown campus<br>
-					  6737 Corson Ave. South <br>
-					  Seattle, WA 98108<br>
-					</p></td>
-					<td><a href="https://pspwa.box.com/s/qu1n0nlvyhclipzvp9ola1dh2glc3354" target="new">Meeting Materials</a><br />
-					</td>
-				</tr>
-				<tr>
-					<td><p>December 6-7</p></td>
-					<td><p>Kitsap County<br>
-					  Commissioners' Chamber<br>
-					  619 Division Street<br>
-					  Administration Building<br />
-					  Port Orchard, WA 98366</p>
-					  <p>12/6 is meeting.<br>
-				    12/7 is tour.</p></td>
-					<td><a href="https://pspwa.box.com/s/vjmyls3gndnl9p4uffg1d83mfpik1m9v" target="new">Meeting Materials</a><br /></td>
-				</tr>
+				
 			</table>
 	
 			<!-- InstanceEndEditable --> </div>
