@@ -1,0 +1,38 @@
+{
+  "layers": [
+    {
+      "name": "prism_gis_v.PSP.PSP_IntegratedNearshorePlatform",
+      "layer": {
+        "url": "http://gismanager.rco.wa.gov/arcgis/rest/services/PSP/WAPSP_IntegratedNearshorePlatform/FeatureServer/0"
+      },
+      "selectionSymbol": {
+        "color": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "width": 0.75,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      },
+      "show": true
+    },
+    {
+      "name": "Drift Cells",
+      "layer": {
+        "url": "http://services.arcgis.com/6lCKYNJLvwTXqrmp/arcgis/rest/services/WAECY_DriftCells/FeatureServer/0"
+      },
+      "show": true
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": false
+}

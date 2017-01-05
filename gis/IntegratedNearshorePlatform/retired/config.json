@@ -1,0 +1,190 @@
+{
+  "theme": {
+    "name": "TabTheme",
+    "styles": [
+      "default",
+      "simpleblue"
+    ]
+  },
+  "portalUrl": "http://wa-geoservices.maps.arcgis.com/",
+  "appId": "WILYgMT4j5Jox8z4",
+  "title": "Integrated Nearshore Platform",
+  "subtitle": "A tool for Planners",
+  "logo": "images/PSP-logo-reverse-rgb.png",
+  "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
+  "links": [
+    {
+      "label": "Click here for a HELP file",
+      "url": "http://www.psp.wa.gov/gis/IntegratedNearshorePlatform/help.htm"
+    }
+  ],
+  "widgetOnScreen": {
+    "widgets": [
+      {
+        "uri": "themes/TabTheme/widgets/Header/Widget",
+        "positionRelativeTo": "browser",
+        "position": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "height": 44
+        },
+        "id": "themes/TabTheme/widgets/Header/Widget_1",
+        "name": "Header",
+        "isThemeWidget": true,
+        "label": "Integrated Nearshore Platform for Protection and Restoration of Forage Fish Spawning Areas"
+      },
+      {
+        "uri": "themes/TabTheme/widgets/Footer/Widget",
+        "positionRelativeTo": "browser",
+        "position": {
+          "left": 0,
+          "right": 0,
+          "bottom": 0,
+          "height": 24
+        },
+        "id": "themes/TabTheme/widgets/Footer/Widget_2",
+        "name": "Footer",
+        "isThemeWidget": true,
+        "label": "Credits: Puget Sound Partnership, WA Dept of Ecology, WA Dept of Fish and Wildlife, ESA, Inc., and EPA"
+      },
+      {
+        "uri": "themes/TabTheme/widgets/SidebarController/Widget",
+        "positionRelativeTo": "browser",
+        "position": {
+          "left": 0,
+          "top": 44,
+          "bottom": 24
+        },
+        "id": "themes/TabTheme/widgets/SidebarController/Widget_3",
+        "name": "SidebarController",
+        "isThemeWidget": true,
+        "label": "Sidebar Controller"
+      },
+      {
+        "uri": "widgets/HomeButton/Widget",
+        "position": {
+          "left": 7,
+          "top": 75
+        },
+        "id": "widgets/HomeButton/Widget_4",
+        "positionRelativeTo": "map",
+        "name": "HomeButton",
+        "label": "Home Button"
+      },
+      {
+        "label": "Select a basemap",
+        "uri": "widgets/BasemapGallery/Widget",
+        "position": {
+          "right": 60,
+          "top": 45,
+          "width": 430,
+          "height": 410
+        },
+        "id": "widgets/BasemapGallery/Widget_5",
+        "positionRelativeTo": "map",
+        "name": "BasemapGallery"
+      },
+      {
+        "uri": "widgets/AttributeTable/Widget",
+        "id": "widgets/AttributeTable/Widget_6",
+        "position": {
+          "left": 0,
+          "top": 0
+        },
+        "positionRelativeTo": "map",
+        "name": "AttributeTable",
+        "label": "Attribute Table",
+        "config": "widgets/AttributeTable/config_Attribute Table.json"
+      }
+    ],
+    "panel": {
+      "uri": "jimu/BaseWidgetPanel",
+      "positionRelativeTo": "map"
+    }
+  },
+  "map": {
+    "3D": false,
+    "2D": true,
+    "position": {
+      "top": 44,
+      "right": 0,
+      "bottom": 24,
+      "left": 55
+    },
+    "itemId": "1b801890d9694fff8e40797a7b21ea6f",
+    "mapOptions": {
+      "extent": {
+        "xmin": -14038359.57339883,
+        "ymin": 5836968.14495469,
+        "xmax": -13265428.343379168,
+        "ymax": 6336560.5618265765,
+        "spatialReference": {
+          "wkid": 102100
+        }
+      }
+    },
+    "id": "map",
+    "portalUrl": "http://wa-geoservices.maps.arcgis.com"
+  },
+  "widgetPool": {
+    "panel": {
+      "uri": "themes/TabTheme/panels/TabPanel/Panel",
+      "positionRelativeTo": "browser",
+      "position": {
+        "top": 44,
+        "left": 0,
+        "bottom": 22
+      }
+    },
+    "widgets": [
+      {
+        "label": "Legend",
+        "uri": "widgets/Legend/Widget",
+        "id": "widgets/Legend/Widget_8",
+        "name": "Legend",
+        "index": 2,
+        "config": "widgets/Legend/config_Legend.json"
+      },
+      {
+        "label": "LayerList",
+        "uri": "widgets/LayerList/Widget",
+        "id": "widgets/LayerList/Widget_11",
+        "name": "LayerList",
+        "index": 3,
+        "config": "widgets/LayerList/config_LayerList.json"
+      },
+      {
+        "name": "Query",
+        "label": "Find an area of interest - Categories are 0 to 5 quantiles",
+        "isThemeWidget": false,
+        "uri": "widgets/Query/Widget",
+        "index": 4,
+        "id": "widgets/Query/Widget_12",
+        "config": "widgets/Query/config_Find an area of interest - Categories are 0 to 5 quantiles.json"
+      },
+      {
+        "name": "Measurement",
+        "label": "Measurement",
+        "isThemeWidget": false,
+        "uri": "widgets/Measurement/Widget",
+        "index": 5,
+        "id": "widgets/Measurement/Widget_13"
+      },
+      {
+        "name": "Print",
+        "label": "Print",
+        "isThemeWidget": false,
+        "uri": "widgets/Print/Widget",
+        "index": 6,
+        "id": "widgets/Print/Widget_14"
+      }
+    ],
+    "groups": []
+  },
+  "httpProxy": {
+    "useProxy": true,
+    "url": "/proxy.js"
+  },
+  "widgetManifestsMerged": true
+}

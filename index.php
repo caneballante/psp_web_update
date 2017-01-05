@@ -70,7 +70,7 @@
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS</a></div>
-			<div class="padding-5-bottom"><a href="legislative_updates.php">2016&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
+			<div class="padding-5-bottom"><a href="legislative_updates.php">2017&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			<div class="padding-5-bottom"><a href="econet.php">ECO NET </a> </div>
 		</div>
 	</div>
@@ -78,8 +78,67 @@
 <div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
 	<div class="container"> 
 		
+			<!--ROW START-->
+		<div class="row margin-20-top"> 
+					     <!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>12.15.16<br>
+						</strong>STAY INFORMED<br>
+						<a href="sign-up.php">SIGN UP TO RECEIVE 2017 LEGISLATIVE UPDATES</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+
+			     <!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>12.15.16<br>
+						</strong>LEGISLATIVE SESSION<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/177b149">INFORMATION ON  HOW THE 2017 SESSION WILL AFFECT PUGET SOUND</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+					     <!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>12.14.16<br>
+						</strong>NEWS FROM AROUND THE SOUND<br>
+						<a href="sign-up.php">VIEW THE LATEST NEWS ABOUT PUGET SOUND RECOVERY</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+
+			     <!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>12.15.16<br>
+						</strong>LEGISLATIVE SESSION<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/17962bd">PUGET SOUND PARTNERSHIP SCIENCE PANEL TO REVIEW ROLE OF SCIENCE IN PUGET SOUND RECOVERY EFFORTS</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+
+
 			     <!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
