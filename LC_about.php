@@ -64,7 +64,7 @@
 			</div>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Leadership Council is the governing body of the Puget Sound Partnership. Its seven members are leading citizens chosen from around the Sound and appointed by the governor to serve four-year terms. Martha Kongsgaard serves as Chair.<br>
+			<p>The Leadership Council is the governing body of the Puget Sound Partnership. Its seven members are leading citizens chosen from around the Sound and appointed by the governor to serve four-year terms. Jay Manning serves as Chair.<br>
 			</p>
 			<h2>Chair: Jay Manning</h2>
 			<p><strong>Term: </strong>Four-year term, ends June 25, 2017<br />
