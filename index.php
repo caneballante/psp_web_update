@@ -78,68 +78,24 @@
 <div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
 	<div class="container"> 
 		
-			<!--ROW START-->
+		<!--ROW START-->
 		<div class="row margin-20-top"> 
-					     <!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>12.15.16<br>
-						</strong>STAY INFORMED<br>
-						<a href="sign-up.php">SIGN UP TO RECEIVE 2017 LEGISLATIVE UPDATES</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-
-			     <!--COLUMN START-->
+			
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<strong>12.15.16<br>
 						</strong>LEGISLATIVE SESSION<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/177b149">INFORMATION ON  HOW THE 2017 SESSION WILL AFFECT PUGET SOUND</a><br>
+						<a href="Legislative_updates.php">VIEW WEEK 1 CALENDAR AND UPDATES</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
 			<!--COLUMN END--> 
 			
-		<!--ROW START-->
-		<div class="row margin-20-top"> 
-					     <!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>12.14.16<br>
-						</strong>NEWS FROM AROUND THE SOUND<br>
-						<a href="sign-up.php">VIEW THE LATEST NEWS ABOUT PUGET SOUND RECOVERY</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-
-			     <!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>12.15.16<br>
-						</strong>LEGISLATIVE SESSION<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/17962bd">PUGET SOUND PARTNERSHIP SCIENCE PANEL TO REVIEW ROLE OF SCIENCE IN PUGET SOUND RECOVERY EFFORTS</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-
-
-			     <!--COLUMN START-->
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
@@ -152,6 +108,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
+			
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
@@ -166,21 +123,7 @@
 			</div>
 			<!--COLUMN END--> 
 			
-		 <!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>11.28.16<br>
-						</strong>ANNOUNCEMENT<br>
-						<a href="implementation_strategies_announcements.php" target="_blank">HELP US DEVELOP VITAL SIGN IMPLEMENTATION STRATEGIES FOR THE BENTHIC INDEX OF BIOTIC INTEGRITY AND TOXICS IN FISH</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-            
-		<!--COLUMN START-->
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
@@ -194,37 +137,17 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-	
-			
-			
-			
-       
-			
-		
 			
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
-				<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content-->
-					<div class="newsbox-date">NOV<br>
-						10</div>
-					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-						EDMOND CENTER FOR THE ARTS</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content-->
-					<div class="newsbox-date">DEC<br>
-						1</div>
+					<div class="newsbox-date">JAN<br>
+						26</div>
 					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
 						EDMONDS CENTER FOR THE ARTS</a><br>
 					</div>
@@ -236,11 +159,27 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content -->
-					<div class="newsbox-date">DEC<br>
-						6-7 </div>
-					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
-					  KITSAP COUNTY COMMISSIONERS CHAMBER</a><br>
-				  </div>
+					<div class="newsbox-date">FEB<br>
+						16 </div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+						SOUTH SEATTLE COMMUNITY COLLEGE, GEORGETOWN CAMPUS<br>
+						</a><br>
+						<br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content-->
+					<div class="newsbox-date">MAR<br>
+						2</div>
+					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+						WASHINGTON STATE CAPITOL<br>
+						</a><br>
+					</div>
 					<!--END news content--> 
 				</div>
 			</div>
@@ -250,18 +189,17 @@
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content -->
-					<div class="newsbox-date">DEC<br>
-						14-15 </div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-SOUTH SEATTLE COMMUNITY COLLEGE<br>
-						UNIVERSITY OF WASHINGTON</a><br>
-						<br>
+					<div class="newsbox-date">MAR<br>
+						29-30 </div>
+					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
+						WASHINGTON STATE CAPITOL, <br>
+						GA BUILDING</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
 			</div>
 			<!--COLUMN END--> 
-		
+			
 		</div>
 		<!--ROW END--> 
 	</div>
