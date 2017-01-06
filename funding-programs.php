@@ -31,7 +31,7 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -42,17 +42,12 @@
 <div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
 
  </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>PUGET SOUND FUNDING PROGRAMS</h1>
-			<p>&nbsp;</p>
+			<h1>SCIENCE BASIS FOR RECOVERY</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -75,7 +70,7 @@
 						 <h2>Puget Sound Acquisition and Restoration (PSAR) Fund</h2>
 			<p>The Puget Sound Acquisition and Restoration (PSAR) fund was established through the Governor&rsquo;s Office and Washington State Legislature in 2007, to support the implementation of high-priority salmon habitat restoration and protection projects. In coordination with the Recreation and Conservation Office, local partners, and the Puget Sound Salmon Recovery Council, the Partnership mobilizes support for PSAR requests in each Washington State biennial. <a href="PSAR.php">LEARN MORE</a></p>
 			<h2>Pacific Coast Salmon Recovery Fund (PCSRF)</h2>
-<p>The Pacific Coastal Salmon Recovery Fund (PCSRF) was established by Congress in 2000 to reverse the declines of Pacific salmon and steelhead, supporting conservation efforts in California, Oregon, Washington, Idaho, and Alaska. Through the Washington Salmon Recovery Funding Board and in coordination with the Recreation and Conservation Office, the Partnership works with salmon recovery Lead Entities to identify and prioritize the highest priority projects to receive PCSRF funds in Puget Sound every year. <a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/pacific_coastal_salmon_recovery_fund.html">LEARN MORE</a></p>
+<p>The Pacific Coastal Salmon Recovery Fund (PCSRF) was established by Congress in 2000 to reverse the declines of Pacific salmon and steelhead, supporting conservation efforts in California, Oregon, Washington, Idaho, and Alaska. Through the Washington Salmon Recovery Funding Board and in coordination with the Recreation and Conservation Office, the Partnership works with salmon recovery Lead Entities to identify and prioritize the highest priority projects to receive PCSRF funds in Puget Sound every year. <a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/pacific_coastal_salmon_recovery_fund.html" target="new">LEARN MORE</a></p>
 						  <p>&nbsp;</p>
 						  <p>&nbsp;</p>
 						  <p>&nbsp;</p>
