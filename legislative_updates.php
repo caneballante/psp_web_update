@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,13 +41,13 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image14">
 	<div class="overview-quote pull-right">
 		<h3>&nbsp;</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -56,53 +57,36 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-gov.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-gov.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">2016 Legislative Updates</h2>
+			<h2 class="margin-0-top">2017 Legislative Updates</h2>
 			<ul>
-            <li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/145e4a3">2016 Session Wrap-up</a></li>
-            <li><a href="http://content.govdelivery.com/accounts/WAPSP/bulletins/138e220" target="_blank">Week 7 and 8 Update</a></li>
-            <li><a href="http://content.govdelivery.com/accounts/WAPSP/bulletins/1361bf5" target="_blank">Week 5 and 6 Update</a></li>
-				<li><a href="http://content.govdelivery.com/accounts/WAPSP/bulletins/1341802" target="_blank">Week 4 Update</a></li>
-                <li><a href="https://pspwa.box.com/s/u83jyr8f10y01iwu7rcl52uh1eps9n3g" target="_blank">Week 3 Update</a></li>
-                <li><a href="http://content.govdelivery.com/accounts/WAPSP/bulletins/13128ce" target="_blank">Week 2 Update</a></li>
+				<li>Coming soon</li>
 			</ul>
-			<h2>2016 Legislative Calendars </h2>
+			<h2>2017 Legislative Calendars </h2>
 			<ul>
-            <li><a href="https://pspwa.box.com/s/oent46xqchss2x0ybdn6gntc43n7pz5g">Week 8 Calendar</a></li>
-            <li><a href="https://pspwa.box.com/s/sz2cuia2j0xahqmczxbxa2xot9wq0z15">Week 7 Calendar</a></li>
-            <li><a href="https://pspwa.box.com/s/xaugfaq1evhj3q2fd8ahg10osi6titf1">Week 6 Calendar</a></li>
-            <li><a href="https://pspwa.box.com/s/aq5xbd84jk7mzyw74xh6zxifpr01yv3v">Week 5 Calendar</a></li>
-            <li><a href="https://pspwa.box.com/s/uojg8ayny2dvt0dlo2p8xodurj71wdqe">Week 4 Calendar</a></li>
-            <li><a href="https://pspwa.box.com/s/k8e2g6q23yt9j2nuyy1upaecugwxw8h1">Week 3 Calendar</a></li>
-            <li><a href="https://pspwa.box.com/s/yaparuuemmuurbhlqvj3l6b1d3g4p1ek">Week 2 Calendar</a></li>
-				<li><a href="https://pspwa.box.com/s/xsrcyo7a0inik9yt4ujnuj6e4v3vn18e">Week 1 Calendar</a></li>
+				<li><a href="https://pspwa.box.com/s/p4ptoocamm47uhh8ff5g9ou7m8dmphjw">Week 1 Calendar</a></li>
 			</ul>
-        <h2>Puget Sound Notes</h2>
-            <ul><li><a href="http://content.govdelivery.com/accounts/WAPSP/bulletins/132d06e" target="_blank">Puget Sound Note: SB 6287, concerning the definition of hydraulic projects</a></li></ul>
 			<h2>Legislative Interest Statements</h2>
 			<ul>
-			<li><a href="https://pspwa.box.com/s/vrgz41jyxyk42qwlxcer4djd7ykve8gh">2015 Legislative Interest Statement</a></li></ul>
-				<h2>Legislative Updates and Calendar Archives</h2>
+				<li><a href="https://pspwa.box.com/s/vrgz41jyxyk42qwlxcer4djd7ykve8gh">2015 Legislative Interest Statement</a></li>
+			</ul>
+			<h2>Legislative Updates and Calendar Archives</h2>
+			<p><a href="https://pspwa.box.com/s/j3mzkwul1l0txf9idjp9jarpl74ikfzx">View 2016 Materials</a></p>
 			<p><a href="https://pspwa.box.com/s/3fc8pyrlzpwzitsf4gc4hwss8dj5n2zf">View 2015 Materials</a></p>
-		
 			<p><a href="https://pspwa.box.com/s/e9rn1ckyd5u1ljol5he0t6obmjxlj35w">View 2014 materials</a></p>
-		
-			<p><a href="https://pspwa.box.com/s/i36bxnm4gogzeaye44345erld870ny5y">View 2013 materials</a>			</p>
+			<p><a href="https://pspwa.box.com/s/i36bxnm4gogzeaye44345erld870ny5y">View 2013 materials</a> </p>
 			<p><a href="https://pspwa.box.com/s/m1ixjryou2m4la3j1sdocfj9umcsws41">View 2012 materials</a></p>
-		<!-- InstanceEndEditable --> </div>
-		
+			<!-- InstanceEndEditable --> </div>
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">CONTACT</div>
 			<!-- InstanceEndEditable -->
@@ -113,7 +97,12 @@
 					<strong>Jeff Parsons</strong>, <br>
 					Legislative Policy Director,<br>
 					<a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a><br>
-					360.464.1221</p>
+					360.999.3803<br>
+					<br>
+					<strong>Cathy Cochrane</strong>, <br>
+					Communication Lead,<br>
+					<a href="mailto:jeff.parsons@psp.wa.gov">catherine.cochrane@psp.wa.gov</a><br>
+					360.790.7958 </p>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
@@ -143,4 +132,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
