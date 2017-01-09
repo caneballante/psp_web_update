@@ -78,7 +78,7 @@
 			</ul>
 			<h2>Legislative Interest Statements</h2>
 			<ul>
-				<li><a href="https://pspwa.box.com/s/vrgz41jyxyk42qwlxcer4djd7ykve8gh">2015 Legislative Interest Statement</a></li>
+				<li><a href="https://pspwa.box.com/s/vrgz41jyxyk42qwlxcer4djd7ykve8gh">Legislative Interest Statement</a></li>
 			</ul>
 			<h2>Legislative Updates and Calendar Archives</h2>
 			<p><a href="https://pspwa.box.com/s/j3mzkwul1l0txf9idjp9jarpl74ikfzx">View 2016 Materials</a></p>

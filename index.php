@@ -86,16 +86,31 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>12.15.16<br>
+						<strong>1.9.17<br>
 						</strong>LEGISLATIVE SESSION<br>
-						<a href="Legislative_updates.php">VIEW WEEK 1 CALENDAR AND UPDATES</a><br>
+						<a href="legislative_updates.php">VIEW WEEK 1 CALENDAR AND UPDATES</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
 			<!--COLUMN END--> 
 			
+		
+			
 			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>1.8.17<br>
+						</strong>E-CLIPS<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/17e9931">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+				<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
@@ -103,20 +118,6 @@
 						<strong>12.6.16<br>
 						</strong>MEDIA ADVISORY<br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/177b149">GOVERNOR INSLEE NAMES JAY MANNING AS PUGET SOUND PARTNERSHIP LEADERSHIP COUNCIL CHAIR</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>12.6.16<br>
-						</strong>BLOG<br>
-						<a href="http://www.psp.wa.gov/blog/?p=729">LEADERSHIP COUNCIL BIDS FAREWELL TO LONG-TIME CHAIR, MARTHA KONGSGAARD</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
