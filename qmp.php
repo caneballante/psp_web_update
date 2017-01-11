@@ -31,18 +31,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -57,16 +53,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="partnership-boards-overview.php">PARTNERSHIP BOARDS OVERVIEW</a></li>
-				<li role="presentation"> <a href="LC_about.php">ABOUT THE LEADERSHIP COUNCIL</a></li>
-				<li role="presentation"> <a href="LC_meetings.php">LEADERSHIP COUNCIL MEETINGS AND AGENDAS</a></li>
-				<li class="active" role="presentation"> <a href="EB_about.php">ABOUT THE ECOSYSTEM COORDINATION BOARD</a></li>
-				<li role="presentation"> <a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD MEETINGS AND AGENDAS</a></li>
-				<li role="presentation"> <a href="SP_about.php">ABOUT THE SCIENCE PANEL</a></li>
-				<li role="presentation"> <a href="SP_meetings.php">SCIENCE PANEL MEETINGS AND AGENDAS</a></li>
-				<li role="presentation"> <a href="SR_about.php">ABOUT THE SALMON RECOVERY COUNCIL</a></li>
-				<li role="presentation"> <a href="SR_meetings.php">THE SALMON RECOVERY COUNCIL MEETINGS AND AGENDAS</a></li>
-	
+					<?php include 'includes/ln-eval-actions.html';?>
 			<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -97,10 +84,10 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-						<p class="right-nav-contact">For questions about the Partnership's Councils, Boards and Panels contact :<br />
-				<a href="mailto:dominique.hampton@psp.wa.gov"><strong>Dominique Hampton</strong></a>, <br>
-Special Assistant,<br>
- 360.628.2423</p>
+						<p class="right-nav-contact">For questions about the Partnership's QMP contact :<br />
+				<a href="mailto:karin.berkholtz@psp.wa.gov"><strong>Karin Berkholtz</strong></a>, <br>
+EPA Coordinator,<br>
+ 360.999.3848</p>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
