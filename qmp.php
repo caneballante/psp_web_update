@@ -88,6 +88,7 @@
 				<a href="mailto:karin.berkholtz@psp.wa.gov"><strong>Karin Berkholtz</strong></a>, <br>
 EPA Coordinator,<br>
  360.999.3848</p>
+						<p class="right-nav-contact">&nbsp;</p>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
