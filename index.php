@@ -131,9 +131,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>11.9.16<br>
+						<strong>1.25.17<br>
 						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1583131/chief-financial-officer-11473">CHIEF FINANCIAL OFFICER</a><br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1641021/fiscal-division-manager-exempt-00694">FISCAL DIVISION MANAGER</a><br>
 						
 						<!--END news content BOX--> 
 					</div>
