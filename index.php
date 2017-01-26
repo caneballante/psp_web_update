@@ -80,7 +80,23 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
-				<!--COLUMN START-->
+					<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>1.26.17<br>
+						</strong>BLOG<br>
+						<a href="http://www.psp.wa.gov/blog/?p=743" target="new">NATIONAL ESTUARY PROGRAM GRANTS PLAY SIGNIFICANT ROLE IN PUGET SOUND RECOVERY</a><br>
+						
+						
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
@@ -126,6 +142,12 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
+		
+			
+		</div>
+		<!--ROW END--> 
+		<!--ROW START-->
+		<div class="row light-blue-fill"> 
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
@@ -140,11 +162,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			
-		</div>
-		<!--ROW END--> 
-		<!--ROW START-->
-		<div class="row light-blue-fill"> 
+		
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
@@ -188,7 +206,13 @@
 			</div>
 			<!--COLUMN END--> 
 			
-			<!--COLUMN START-->
+			
+			
+		</div>
+		<!--ROW END--> 
+		<!--ROW START-->
+		<div class="row light-blue-fill"> 
+		<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content -->
