@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,7 +27,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 5;
-</script> 
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -40,9 +41,9 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
+<!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image12"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
 	<div class="col-sm-12 orange"></div>
 </div>
@@ -56,36 +57,39 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	
-	<div class="row"> 
+	<div class="row">
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-psp-overview.html';?>	
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-psp-overview.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
-		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<h2 class="margin-0-top">Employment opportunities</h2>
-		
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1641021/fiscal-division-manager-exempt-00694">Fiscal Division Manager- Full-time</a></p>
-		
-		
-		
-		
-		<!-- InstanceEndEditable --> </div>
-		
+			<h2 class="margin-0-top">Employment opportunities</h2>
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1641021/fiscal-division-manager-exempt-00694">Fiscal Division Manager- Full-time</a></p>
+			<!-- InstanceEndEditable --> </div>
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-		<div class="right-nav-title">SEE ALSO</div>
+			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="http://agency.governmentjobs.com/washington/default.cfm" target="new">careers.wa.gov</a></li>
-			
-				
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-20-top ">CONTACT</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li>
+					<p>kelly adams<br>
+						HR Liason<br />
+						Office 360.464.1233 <br>
+						Cell 360.999.3805 <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p>
+				</li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
@@ -115,4 +119,5 @@
 
 </script>
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
