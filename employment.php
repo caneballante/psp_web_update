@@ -86,7 +86,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li>
 					<p>kelly adams<br>
-						HR Liason<br />
+						HR Liaison<br />
 						Office 360.464.1233 <br>
 						Cell 360.999.3805 <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p>
 				</li>

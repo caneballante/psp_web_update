@@ -122,7 +122,7 @@
 						<!--news content BOX --> 
 						<strong>1.17.17<br>
 						</strong>LEGISLATIVE SESSION<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/181607e" target="new">WEEK 3 LEGISLATIVE CALENDAR</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1831017" target="new">WEEK 4 LEGISLATIVE CALENDAR</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>

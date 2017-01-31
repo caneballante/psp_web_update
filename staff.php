@@ -76,7 +76,7 @@
 			<p> Deputy Director<br />
 				360.339.5861 | <a href="mailto:marc.daily@psp.wa.gov">marc.daily@psp.wa.gov</a></p>
 			<h5>kelly adams</h5>
-			<p> Executive Assistant, HR Liason<br />
+			<p> Executive Assistant, HR Liaison<br />
 				Office 360.464.1233 | Cell 360.999.3805 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p>
 			<h5>Karin BerkholTz</h5>
 			<p> EPA Coordinator<br />
