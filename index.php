@@ -153,6 +153,20 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<strong>2.2.17<br>
+						</strong> EMPLOYMENT<br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1649530/chief-operating-officer-ems3?department[0]=Puget%20Sound%20Partnership&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs">CHIEF OPERATING OFFICER</a><br>
+						
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<strong>1.25.17<br>
 						</strong> EMPLOYMENT<br>
 						<a href="https://www.governmentjobs.com/careers/washington/jobs/1641021/fiscal-division-manager-exempt-00694">FISCAL DIVISION MANAGER</a><br>
@@ -191,6 +205,13 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
+		
+			
+			
+		</div>
+		<!--ROW END--> 
+		<!--ROW START-->
+		<div class="row light-blue-fill"> 
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
@@ -206,12 +227,6 @@
 			</div>
 			<!--COLUMN END--> 
 			
-			
-			
-		</div>
-		<!--ROW END--> 
-		<!--ROW START-->
-		<div class="row light-blue-fill"> 
 		<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
