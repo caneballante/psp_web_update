@@ -79,9 +79,10 @@
 				<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/17fcb93">Week 2 </a></li>
 				<li><a href="https://pspwa.box.com/s/p4ptoocamm47uhh8ff5g9ou7m8dmphjw">Week 1 </a></li>
 			</ul>
-			<h2>Legislative Interest Statements</h2>
+			<h2>Legislative POLICY GUIDANCE</h2>
 			<ul>
 				<li><a href="https://pspwa.box.com/s/vrgz41jyxyk42qwlxcer4djd7ykve8gh">Legislative Interest Statement</a></li>
+				<li><a href="https://pspwa.box.com/s/xdc1s2dap4j5ncrwi7b4ewbmey2q9106">2017 Legislative Agenda</a></li>
 			</ul>
 			<h2>Legislative Updates and Calendar Archives</h2>
 			<p><a href="https://pspwa.box.com/s/j3mzkwul1l0txf9idjp9jarpl74ikfzx">View 2016 Materials</a></p>
