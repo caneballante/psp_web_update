@@ -74,6 +74,7 @@
 			</ul>
 			<h2>2017 Legislative Calendars </h2>
 			<ul>
+			<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1854494" target="new">Week 5</a></li>
 			<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1831017" target="new">Week 4</a></li>
 				<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/181607e">Week 3</a></li>
 				<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/17fcb93">Week 2 </a></li>
