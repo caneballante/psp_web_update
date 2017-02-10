@@ -72,9 +72,9 @@
 			<p> Executive Director<br />
 				360.464.1228 | <a href="mailto:sheida.sahandy@psp.wa.gov">sheida.sahandy@psp.wa.gov</a>
 			
-			<h5>Marc Daily</h5>
+			<!--<h5>Marc Daily</h5>
 			<p> Deputy Director<br />
-				360.339.5861 | <a href="mailto:marc.daily@psp.wa.gov">marc.daily@psp.wa.gov</a></p>
+				360.339.5861 | <a href="mailto:marc.daily@psp.wa.gov">marc.daily@psp.wa.gov</a></p>-->
 			<h5>kelly adams</h5>
 			<p> Executive Assistant, HR Liaison<br />
 				Office 360.464.1233 | Cell 360.999.3805 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p>

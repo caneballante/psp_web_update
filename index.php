@@ -120,9 +120,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>2.5.17<br>
+						<strong>2.9.17<br>
 						</strong>LEGISLATIVE SESSION<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1854494" target="new">WEEK 5 LEGISLATIVE CALENDAR</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1864bd8" target="new">WEEK 6 LEGISLATIVE CALENDAR</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
