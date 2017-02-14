@@ -85,9 +85,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>1.26.17<br>
-						</strong>BLOG<br>
-						<a href="http://www.psp.wa.gov/blog/?p=743" target="new">NATIONAL ESTUARY PROGRAM GRANTS PLAY SIGNIFICANT ROLE IN PUGET SOUND RECOVERY</a><br>
+						<strong>2.14.17<br>
+						</strong>MEDIA ADVISORY<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1873f71" target="new">PUGET SOUND PARTNERSHIP SCIENCE PANEL TO DISCUSS NET PEN AQUACULTURE, ACTION AGENDA</a><br>
 						
 						
 						<!--END news content BOX--> 
@@ -148,6 +148,21 @@
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
+		<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>1.26.17<br>
+						</strong>BLOG<br>
+						<a href="http://www.psp.wa.gov/blog/?p=743" target="new">NATIONAL ESTUARY PROGRAM GRANTS PLAY SIGNIFICANT ROLE IN PUGET SOUND RECOVERY</a><br>
+						
+						
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
@@ -190,7 +205,14 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			<!--COLUMN START-->
+			
+			
+			
+		</div>
+		<!--ROW END--> 
+		<!--ROW START-->
+		<div class="row light-blue-fill"> 
+		<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
 					<!--news content -->
@@ -206,12 +228,6 @@
 			</div>
 			<!--COLUMN END--> 
 		
-			
-			
-		</div>
-		<!--ROW END--> 
-		<!--ROW START-->
-		<div class="row light-blue-fill"> 
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
