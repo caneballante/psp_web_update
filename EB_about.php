@@ -72,7 +72,7 @@
 			<p><strong>ACTION AREAS</strong><br>
 				            Strait of Juan De Fuca<br>
 				                        Steve Tharinger <em> Action Area representative</em><br>
-				                        Phil Johnson (alternate) <em>Jefferson County Commissioner</em><br>
+				                        Kate Dean(alternate) <em>Jefferson County Commissioner</em><br>
 				            The San Juan Islands<br>
 				                        Jamie Stephens <em>Action Area Representative (San Juan LIO)</em><br>
                 				                        Marta Green (alternate) <em>Action Area Representative (San Juan LIO)</em><br>
@@ -81,8 +81,8 @@
 				                        Ron Wesen <em>Skagit County Commissioner</em><br>
 				                        Bill Blake (alternate) <em>City of Arlington</em><br>
 				            Hood Canal<br>
-					                        Scott Brewer <em>Hood Canal Coordination Council</em><br>
-				                        Haley Harguth (alternate) <em>Hood Canal Coordination Council</em><br>
+					                        Scott Brewer <em>Hood Canal Coordinating Council</em><br>
+				                        Haley Harguth (alternate) <em>Hood Canal Coordinating Council</em><br>
 				            North Central Puget Sound<br>
 				                        Charlotte Garrido <em>Kitsap County Commissioner</em><br>
 				                        Kathleen Peters (alternate) <em>Kitsap County</em><br />
@@ -105,7 +105,7 @@
 				            Bill Taylor (alternate) <em>Taylor Shellfish</em></p>
 			<p>Environmental Interest 1<br>
 				            Jessie Israel <em> The Nature Conservancy</em><br>
-				            Heather Trim (alternate) <em>Futurewise</em></p>
+				            Heather Trim (alternate) <em>Zero Waste Washington</em></p>
 			<p>Environmental Interest 2<br>
 				            Chris Wilke <em>Puget Soundkeeper Alliance</em><br>
 				            Mindy Roberts (alternate) <em>Washington Environmental Council</em></p>
@@ -121,7 +121,7 @@
 				            David Troutt <em>Nisqually Tribe</em><br>
 				            Jeff Dickison (alternate) <em>Squaxin Island Tribe</em></p>
 			<p>Tribal Government<br>
-				            Randy Kinley <em>Lummi Nation</em><br>
+				            Vacant<em></em><br>
 				            Pat Stevenson (alternate) <em>Stillaguamish Tribe</em></p>
 			<p>Tribal Government<br>
 				            Dave Herrera <em>Skokomish Tribe</em><br>
@@ -129,13 +129,13 @@
 			<p>Legislative Caucus<br>
 				            Strom Peterson <em>21st District, Washington State House of Representatives</em></p>
 			<p>Legislative Caucus<br>
-				            Shelly Short <em>7th District, Washington State House of Representatives</em></p>
+				            Shelly Short <em>7th District, Washington State Senate</em></p>
 			<p>Legislative Caucus<br>
 				            Steve Litzow <em>41st District, Washington State Senate</em></p>
 			<p>Legislative Caucus<br>
 				            Christine Rolfes <em>23rd District, Washington State Senate</em></p>
 			<p>Federal Government<br>
-				            Will Stelle <em>National Oceanic and Atmospheric Administration (NOAA)</em><br>
+				            Barry Thom <em>National Oceanic and Atmospheric Administration (NOAA)</em><br>
 				            Elizabeth Babcock (alternate) <em>NOAA</em></p>
 			<p>Federal Government<br>
 				            Col. John G. Buck <em>U.S Army Corps of Engineers</em><br>
@@ -152,7 +152,7 @@
 				            Jeff Davis (alternate) <em>Department of Fish and Wildlife</em><br>
 				            David Price (alternate) <em>Department of Fish and Wildlife</em></p>
 			<p>Washington State Agencies<br>
-				            Peter Goldmark <em>Commissioner of Public Lands, Washington Department of Natural Resources</em><br>
+				            Hilary Franz <em>Commissioner of Public Lands, Washington Department of Natural Resources</em><br>
 				            Kirsten Feifel (alternate) <em>Department of Natural Resources</em></p>
 			<p><strong>EX-OFFICIO REPRESENTATIVES</strong><br>
 				Whatcom LIO<br>
@@ -160,7 +160,7 @@
 				            Steve Jilk (alternate) <em>Whatcom County PUD</em><br>
 				            Mark Personius (alternate) <em>Whatcom County</em></p>
 			<p>Northwest Straits Commission<br>
-				            Ginny Broadhurst<br>
+				            Rich Childers<br>
 				            Lucas Hart (alternate)</p>
 			<p>Canadian Representation<br>
 				            Kaaren Lewis –<em>Assistant Deputy Minister of Environmental Sustainability, BC Public Service</em><br>
