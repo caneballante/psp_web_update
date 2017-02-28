@@ -307,6 +307,12 @@ p {
 	color: #ffffff;
 	margin-top: 20px;
 }
+.jobbox {
+	height: 148px;
+	background-color: #00293e;
+	color: #ffffff;
+	margin-top: 20px;
+}
 
 /* make the news boxes a little shorter on mobile*/
 @media (max-width: 768px) {

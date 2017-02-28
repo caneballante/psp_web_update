@@ -85,9 +85,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>2.14.17<br>
-						</strong>MEDIA ADVISORY<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1873f71" target="new">PUGET SOUND PARTNERSHIP SCIENCE PANEL TO DISCUSS NET PEN AQUACULTURE, ACTION AGENDA</a><br>
+						<strong>2.16.17<br>
+						</strong>BLOG<br>
+						<a href="http://www.psp.wa.gov/blog/?p=760" target="new">NEW ACTION AGENDA REPORT CARD GETS AN A+</a><br>
 						
 						
 						<!--END news content BOX--> 
@@ -134,9 +134,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>2.20.17<br>
+						<strong>2.26.17<br>
 						</strong>E-CLIPS<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/188416b" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/189b5d2" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -148,24 +148,27 @@
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
-		<!--COLUMN START-->
+		
+			
+			
+						<!--COLUMN START-->
 			<div class="col-md-3">
-				<div class="newsbox">
+				<div class="jobbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>1.26.17<br>
-						</strong>BLOG<br>
-						<a href="http://www.psp.wa.gov/blog/?p=743" target="new">NATIONAL ESTUARY PROGRAM GRANTS PLAY SIGNIFICANT ROLE IN PUGET SOUND RECOVERY</a><br>
-						
+						<strong>2.26.17<br>
+						</strong> EMPLOYMENT<br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget%20Sound%20Partnership&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs">PLANNING DIVISION MANAGER</a><br>
 						
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
 			<!--COLUMN END--> 
+			
 			<!--COLUMN START-->
 			<div class="col-md-3">
-				<div class="newsbox">
+				<div class="jobbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<strong>2.2.17<br>
@@ -177,9 +180,10 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
+			
 			<!--COLUMN START-->
 			<div class="col-md-3">
-				<div class="newsbox">
+				<div class="jobbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<strong>1.25.17<br>
@@ -191,6 +195,15 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
+		
+		
+			
+			
+			
+		</div>
+		<!--ROW END--> 
+		<!--ROW START-->
+		<div class="row light-blue-fill"> 
 		
 			<!--COLUMN START-->
 			<div class="col-md-3">
@@ -207,11 +220,6 @@
 			<!--COLUMN END--> 
 			
 			
-			
-		</div>
-		<!--ROW END--> 
-		<!--ROW START-->
-		<div class="row light-blue-fill"> 
 		<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
