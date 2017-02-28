@@ -306,12 +306,14 @@ p {
 	background-color: #0a3b5c;
 	color: #ffffff;
 	margin-top: 20px;
+	border-radius: 10px;
 }
 .jobbox {
 	height: 148px;
 	background-color: #00293e;
 	color: #ffffff;
 	margin-top: 20px;
+	border-radius: 10px;
 }
 
 /* make the news boxes a little shorter on mobile*/

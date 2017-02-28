@@ -80,7 +80,24 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
-					<!--COLUMN START-->
+				
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>2.27.17<br>
+						</strong>MEDIA ADVISORY<br>
+						<a href="http://www.psp.wa.gov/blog/?p=760" target="new">PUGET SOUND ECOSYSTEM COORDINATION BOARD TO DISCUSS FUNDING THE ACTION AGENDA</a><br>
+						
+						
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+						
+			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
@@ -128,7 +145,15 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-				
+	
+		
+			
+		</div>
+		<!--ROW END--> 
+		<!--ROW START-->
+		<div class="row light-blue-fill"> 
+		
+						
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
@@ -142,14 +167,6 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-		
-			
-		</div>
-		<!--ROW END--> 
-		<!--ROW START-->
-		<div class="row light-blue-fill"> 
-		
-			
 			
 						<!--COLUMN START-->
 			<div class="col-md-3">
@@ -205,36 +222,7 @@
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
 		
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content-->
-					<div class="newsbox-date">JAN<br>
-						26</div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-						EDMONDS CENTER FOR THE ARTS</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
 			
-			
-		<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content -->
-					<div class="newsbox-date">FEB<br>
-						16 </div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-						SOUTH SEATTLE COMMUNITY COLLEGE, GEORGETOWN CAMPUS<br>
-						</a><br>
-						<br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
 		
 			<!--COLUMN START-->
 			<div class="col-md-3">
@@ -251,6 +239,20 @@
 			</div>
 			<!--COLUMN END--> 
 			
+					<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content-->
+					<div class="newsbox-date">MAR<br>
+						23</div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+						VILLAGE GREEN COMMUNITY CENTER</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
 		<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox"> 
@@ -260,6 +262,25 @@
 					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
 						WASHINGTON STATE CAPITOL, <br>
 						GA BUILDING</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
+	
+			
+			
+		<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content -->
+					<div class="newsbox-date">MAY<br>
+						18 </div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+						UNIVERSITY OF WASHINGTON APPLIED PHYSICS LAB<br>
+						</a><br>
+						<br>
 					</div>
 					<!--END news content--> 
 				</div>
