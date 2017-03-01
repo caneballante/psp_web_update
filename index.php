@@ -88,7 +88,7 @@
 						<!--news content BOX --> 
 						<strong>2.27.17<br>
 						</strong>MEDIA ADVISORY<br>
-						<a href="http://www.psp.wa.gov/blog/?p=760" target="new">PUGET SOUND ECOSYSTEM COORDINATION BOARD TO DISCUSS FUNDING THE ACTION AGENDA</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18a3fd2" target="new">PUGET SOUND ECOSYSTEM COORDINATION BOARD TO DISCUSS FUNDING THE ACTION AGENDA</a><br>
 						
 						
 						<!--END news content BOX--> 
