@@ -77,15 +77,36 @@
 				360.339.5861 | <a href="mailto:marc.daily@psp.wa.gov">marc.daily@psp.wa.gov</a></p>-->
 			<h5>kelly adams</h5>
 			<p> Executive Assistant, HR Liaison<br />
-				Office 360.464.1233 | Cell 360.999.3805 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p>
-			<h5>Karin BerkholTz</h5>
-			<p> EPA Coordinator<br />
-				Office 360.999.3848 | <a href="mailto:karin.berkholtz@psp.wa.gov">karin.berkholtz@psp.wa.gov</a></p>
+				Office 360.464.1233 | Cell 360.999.3805 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p><br />
+				<h3>GOVERNMENT RELATIONS</h3>
+			<h5>Jeff Parsons</h5>
+			<p> Legislative Policy Director<br />
+				360.999.3803 | <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p><br />
+			
+            <!--A.S. - COMMUNICATIONS-->
+			<h3>COMMUNICATIONS</h3>
+			<h5>Jon Bridgman</h5>
+			<p> Designer<br />
+				360.999.3847 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
+			<h5>Erika Lari</h5>
+			<p> Designer<br />
+				360.999.3806 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
+                <h5>Cathy Cochrane</h5>
+			<p>Communications Lead<br />
+				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a></p>
+			
+		
 			<a name="operations"></a>
 			<br>
 			<!--OPERATIONS--><!--ANCHOR LINK spaced 2 br above target--> 
    		
 			<h2>OPERATIONS</h2>
+			<h5>Rick Berman</h5>
+			<p>Interim Chief Operating Officer<br />
+				Office 360.339.5861 | Cell 360.688.8284 | <a href="mailto:rick.berman@psp.wa.gov">rick.berman@psp.wa.gov</a></p>
+				<h5>Karin BerkholTz</h5>
+			<p> EPA Coordinator<br />
+				Office 360.999.3848 | <a href="mailto:karin.berkholtz@psp.wa.gov">karin.berkholtz@psp.wa.gov</a></p>
 			<h5>vacant</h5>
 			<p> Fiscal Division Manager<br />
 			</p><br />
@@ -110,18 +131,13 @@
             <h5>charisse sonnier</h5>
 			<p> Administrative Assistant<br />
 				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
-            <h5>VACANT</h5>
+            <h5>BREYANNA DEMARCO</h5>
 			<p> Administrative Assistant<br />
+			360.339.8942 | <a href="mailto:breyanna.demarco@psp.wa.gov">breyanna.demarco@psp.wa.gov</a></p>
 			</p>
 	    <a name="administrative_services"></a><br />
 			
-			  <!--ADMINISTRATIVE SERVICES-->
-			  
-	    
-			<h2>COMMUNICATION &amp; ADVANCEMENT</h2>
-			<h5>Jen Benn</h5>
-			<p> Director of Communication &amp; Advancement<br />
-				360.464.1231 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a></p><br>
+			
 			
 		<!--A.S. - IT OPERATIONS-->
 			<h3>IT OPERATIONS</h3>
@@ -135,25 +151,9 @@
 			<h5>Eric Green</h5>
 			<p> IT Specialist <br />
 				360.628.7412 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov </a></p>
-			<br />
+		
             
             <!--A.S. - GOVERNMENT AFFAIRS-->
-			<h3>GOVERNMENT RELATIONS</h3>
-			<h5>Jeff Parsons</h5>
-			<p> Legislative Policy Director<br />
-				360.999.3803 | <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p><br />
-			
-            <!--A.S. - COMMUNICATIONS-->
-			<h3>COMMUNICATIONS</h3>
-			<h5>Jon Bridgman</h5>
-			<p> Designer<br />
-				360.999.3847 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
-			<h5>Erika Lari</h5>
-			<p> Designer<br />
-				360.999.3806 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
-                <h5>Cathy Cochrane</h5>
-			<p>Communications Lead<br />
-				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a></p>
 			
                 <!--ANCHOR LINK spaced 2 br above target--> 
 			<a name="PEP"></a>
@@ -224,7 +224,13 @@
 			<p> Projects Coordinator<br />
        <em>LIO Special Projects
 </em><br /> 
-        360.280.6664 | <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
+        360.280.6664 | <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p><br />
+			<h5>Jen Benn</h5>
+            <p> Mobilizing Funding<br />
+              253.380.7284 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a></p>
+         
+           
+           
             
 			<!--ANCHOR LINK spaced 2 br above target--> 
 			<a name="adaptive"></a>
@@ -305,7 +311,6 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="#executive_team">EXECUTIVE TEAM</a></li>
 				<li role="presentation"> <a href="#operations">OPERATIONS</a></li>
-				<li role="presentation"> <a href="#administrative_services">COMMUNICATION &amp; ADVANCEMENT</a></li>
                                <li role="presentation"> <a href="#adaptive">ADAPTIVE SYSTEMS</a></li>
 
                 <li role="presentation"> <a href="#PEP">PARTNER ENGAGEMENT PROGRAM</a></li>
