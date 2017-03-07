@@ -81,21 +81,7 @@
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
 				
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>2.27.17<br>
-						</strong>MEDIA ADVISORY<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18a3fd2" target="new">PUGET SOUND ECOSYSTEM COORDINATION BOARD TO DISCUSS FUNDING THE ACTION AGENDA</a><br>
-						
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+		
 						
 			<!--COLUMN START-->
 			<div class="col-md-3">
@@ -137,16 +123,29 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>2.16.17<br>
+						<strong>3.6.17<br>
 						</strong>LEGISLATIVE SESSION<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/187dd5a" target="new">WEEK 7 LEGISLATIVE CALENDAR</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18acf49" target="new">WEEK 8 LEGISLATIVE CALENDAR</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
 			<!--COLUMN END--> 
 	
-		
+		<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>3.6.17<br>
+						</strong>E-CLIPS<br>
+						<a href=" https://content.govdelivery.com/accounts/WAPSP/bulletins/18b5a82" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
 			
 		</div>
 		<!--ROW END--> 
@@ -154,19 +153,6 @@
 		<div class="row light-blue-fill"> 
 		
 						
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>2.26.17<br>
-						</strong>E-CLIPS<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/189b5d2" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
 			
 						<!--COLUMN START-->
 			<div class="col-md-3">
@@ -224,20 +210,6 @@
 		
 			
 		
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox"> 
-					<!--news content-->
-					<div class="newsbox-date">MAR<br>
-						2</div>
-					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-						WASHINGTON STATE CAPITOL<br>
-						</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
 			
 					<!--COLUMN START-->
 			<div class="col-md-3">
@@ -281,6 +253,22 @@
 						UNIVERSITY OF WASHINGTON APPLIED PHYSICS LAB<br>
 						</a><br>
 						<br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
+			
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox"> 
+					<!--news content-->
+					<div class="newsbox-date">JUN<br>
+						15</div>
+					<div class="newsbox-text"><a href="EB_meetings.php">EDMONDS CENTER FOR THE ARTS, <br>
+						EDMONDS<br>
+						</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
