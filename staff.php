@@ -78,23 +78,32 @@
 			<h5>kelly adams</h5>
 			<p> Executive Assistant, HR Liaison<br />
 				Office 360.464.1233 | Cell 360.999.3805 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p><br />
-				<h3>GOVERNMENT RELATIONS</h3>
-			<h5>Jeff Parsons</h5>
-			<p> Legislative Policy Director<br />
-				360.999.3803 | <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p><br />
+		
 			
-            <!--A.S. - COMMUNICATIONS-->
+	  <!--A.S. - COMMUNICATIONS-->
 			<h3>COMMUNICATIONS</h3>
+		     
+		        <h5>Cathy Cochrane (media contact)</h5>
+				<p>Communications Lead<br />
+				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a></p>
+			
+			
+			
 			<h5>Jon Bridgman</h5>
 			<p> Designer<br />
 				360.999.3847 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
 			<h5>Erika Lari</h5>
 			<p> Designer<br />
-				360.999.3806 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p>
-                <h5>Cathy Cochrane</h5>
-			<p>Communications Lead<br />
-				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a></p>
+				360.999.3806 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p><br>
+         
+				
+						
+			<h3>GOVERNMENT RELATIONS</h3>
+			<h5>Jeff Parsons</h5>
+			<p> Legislative Policy Director<br />
+				360.999.3803 | <a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p><br />
 			
+        
 		
 			<a name="operations"></a>
 			<br>
