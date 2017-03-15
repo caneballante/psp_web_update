@@ -125,7 +125,7 @@
 						<!--news content BOX --> 
 						<strong>3.6.17<br>
 						</strong>LEGISLATIVE SESSION<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18acf49" target="new">WEEK 8 LEGISLATIVE CALENDAR</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18c5f71" target="new">WEEK 10 LEGISLATIVE CALENDAR</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
