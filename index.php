@@ -139,10 +139,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>3.13.17<br>
+						<strong>3.19.17<br>
 						</strong>E-CLIPS<br>
-						<a href=" 
-https://content.govdelivery.com/accounts/WAPSP/bulletins/18cc0d8" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18e912b" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -187,20 +186,6 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/18cc0d8" target="new">N
 			</div>
 			<!--COLUMN END--> 
 			
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="jobbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>1.25.17<br>
-						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1641021/fiscal-division-manager-exempt-00694">FISCAL DIVISION MANAGER</a><br>
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
 		
 		
 			

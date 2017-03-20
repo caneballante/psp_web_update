@@ -77,7 +77,7 @@
 						
 						
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1649530/chief-operating-officer-ems3?department[0]=Puget%20Sound%20Partnership&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs">Chief Operating Officer</a></p>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1641021/fiscal-division-manager-exempt-00694">Fiscal Division Manager- Full-time</a></p>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --> </div>
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
