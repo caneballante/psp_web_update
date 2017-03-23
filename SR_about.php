@@ -97,7 +97,7 @@
 				<tr>
 					<td valign="top"><p><strong>Counties</strong></p></td>
 					<td valign="top"><p>Washington Association of Counties</p></td>
-					<td valign="top"><p><strong>Vacant</strong></p></td>
+					<td valign="top"><p><strong>Ken Dahlstedt</strong></p></td>
 					<td valign="top"><p>&nbsp;</p></td>
 					<td valign="top"></td>
 				</tr>
@@ -119,8 +119,8 @@
 					<td valign="top"><p><strong>Nisqually Watershed</strong></p></td>
 					<td valign="top"><p>Nisqually Tribe</p></td>
 					<td valign="top"><p><strong>Chris Ellings</strong></p></td>
-					<td valign="top"></td>
-					<td valign="top"></td>
+					<td valign="top"><p>Ashley Von Essen</p></td>
+					<td valign="top"><p>Justin Hall</p></td>
 				</tr>
 				<tr>
 					<td valign="top"><p><strong>Nooksack Watershed</strong></p></td>
@@ -132,14 +132,14 @@
 				<tr>
 					<td valign="top"></td>
 					<td valign="top"><p>Lummi Nation</p></td>
-					<td valign="top"><p><strong>Randy Kinley</strong></p></td>
+					<td valign="top"><p><strong>Vacant</strong></p></td>
 					<td valign="top"><p>Alan Chapman</p></td>
-					<td valign="top"></td>
+					<td valign="top"><p>Lisa Cook</p></td>
 				</tr>
 				<tr>
 					<td valign="top"></td>
 					<td valign="top"><p>Whatcom County </p></td>
-					<td valign="top"><p><strong>VACANT</strong></p>
+					<td valign="top"><p><strong>Vacant</strong></p>
 					<p>&nbsp;</p></td>
 					<td valign="top"></td>
 					<td valign="top"></td>
@@ -168,8 +168,8 @@
 				<tr>
 					<td valign="top"><p><strong>Skagit Watershed</strong></p></td>
 					<td valign="top"><p>Skagit Watershed Council</p></td>
-					<td valign="top"><p><strong>Ken Dahlstedt</strong></p></td>
-					<td valign="top"><p>Richard Brocksmith</p></td>
+					<td valign="top"><p><strong>Richard Brocksmith</strong></p></td>
+					<td valign="top"><p>Steve Hinton</p></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>
@@ -182,8 +182,8 @@
 				<tr>
 					<td valign="top"><p><strong>South Sound Watershed</strong></p></td>
 					<td valign="top"><p>Thurston County</p></td>
-					<td valign="top"><p><strong>Sandra Romero</strong></p></td>
-					<td valign="top"><p>Cindy Wilson</p></td>
+					<td valign="top"><p><strong>Cindy Wilson</strong></p></td>
+					<td valign="top"><p>Amy Hatch-Winecka</p></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>
@@ -191,7 +191,7 @@
 					<td valign="top"><p>City of Arlington </p></td>
 					<td valign="top"><p><strong>Bill Blake</strong></p></td>
 					<td valign="top"><p>Pat Stevenson</p></td>
-					<td valign="top"></td>
+					<td valign="top"><p>Donald (Kit) Crump</p></td>
 				</tr>
 				<tr>
 					<td valign="top"><p><strong>West Sound Watersheds</strong></p></td>
@@ -202,17 +202,17 @@
 				</tr>
 				<tr>
 					<td valign="top"><p><strong>Lake WA/Cedar/Sammamish Watershed</strong></p></td>
-					<td valign="top"><p>City of Bothell</p></td>
-					<td valign="top"><p><strong>Andy Rheaume</strong></p></td>
+					<td valign="top"><p>City of Bellevue</p></td>
+					<td valign="top"><p><strong>John Stokes</strong></p></td>
 					<td valign="top"><p>Jason Mulvihill-Kuntz<strong></strong></p></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>
 					<td valign="top"><p><strong>Green/Duwamish Watershed</strong></p></td>
-					<td valign="top"></td>
+					<td valign="top"><p>City of Tukwila Council</p></td>
 					<td valign="top"><p><strong>Dennis Robertson</strong></p></td>
 					<td valign="top"><p>Doug Osterman</p></td>
-					<td valign="top"></td>
+					<td valign="top"><p>Jason Wilkinson</p></td>
 				</tr>
 				<tr>
 					<td colspan="2" valign="top"><p><strong>BUSINESS   &amp; AGRICULTURE</strong></p></td>
@@ -230,14 +230,14 @@
 				<tr>
 					<td valign="top"><p><strong>Business</strong></p></td>
 					<td valign="top"><p>WFPA</p></td>
-					<td valign="top"><p><strong>VACANT</strong></p></td>
+					<td valign="top"><p><strong>Vacant</strong></p></td>
 					<td valign="top"></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>
 					<td valign="top"><p><strong>ESA Business Coalition</strong></p></td>
 					<td valign="top"><p>Master Builders' Association</p></td>
-					<td valign="top"><p><strong>VACANT</strong></p></td>
+					<td valign="top"><p><strong>Vacant</strong></p></td>
 					<td valign="top"></td>
 					<td valign="top"></td>
 				</tr>
@@ -272,8 +272,8 @@
 				<tr>
 					<td valign="top"><p><strong>Environment</strong></p></td>
 					<td valign="top"><p>Futurewise</p></td>
-					<td valign="top"><p><strong>Hilary Franz</strong></p></td>
-					<td valign="top"><p>Heather Trim</p></td>
+					<td valign="top"><p><strong>Vacant</strong></p></td>
+					<td valign="top"><p>&nbsp;</p></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>
@@ -286,21 +286,21 @@
 				<tr>
 					<td valign="top"><p><strong>EPA</strong></p></td>
 					<td valign="top"><p>EPA</p></td>
-					<td valign="top"><p><strong>Dennis McLerran</strong></p></td>
+					<td valign="top"><p><strong>Vacant</strong></p></td>
+					<td valign="top"><p>Peter Murchie</p></td>
 					<td valign="top"><p>Angela Adams</p></td>
-					<td valign="top"></td>
 				</tr>
 				<tr>
 					<td valign="top"><p><strong>USFWS</strong></p></td>
 					<td valign="top"><p>USFWS</p></td>
-					<td valign="top"><p><strong>VACANT</strong></p></td>
-					<td valign="top"><p>Curtis Tanner<strong></strong></p></td>
+					<td valign="top"><p><strong>Vacant</strong></p></td>
+					<td valign="top"><p>Molly Good<strong></strong></p></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>
 					<td valign="top"><p><strong>NOAA</strong></p></td>
 					<td valign="top"><p>NOAA</p></td>
-					<td valign="top"><p><strong>Will Stelle</strong></p></td>
+					<td valign="top"><p><strong>Vacant</strong></p></td>
 					<td valign="top"><p>Elizabeth Babcock</p></td>
 					<td valign="top"></td>
 				</tr>
@@ -328,15 +328,15 @@
 				<tr>
 					<td valign="top"><p><strong>Tribal</strong></p></td>
 					<td valign="top"><p>Lummi Nation</p></td>
-					<td valign="top"><p><strong>Randy Kinley</strong></p></td>
-					<td valign="top"></td>
-					<td valign="top"></td>
+					<td valign="top"><p><strong>Vacant</strong></p></td>
+					<td valign="top"><p>Alan Chapman</p></td>
+					<td valign="top"><p>Lisa Cook</p></td>
 				</tr>
 				<tr>
 					<td valign="top"><p><strong>Tribal</strong></p></td>
 					<td valign="top"><p>Makah Tribe</p></td>
 					<td valign="top"><p><strong>Stephanie Martin</strong></p></td>
-					<td valign="top"></td>
+					<td valign="top"><p>Dana Sarff</p></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>
@@ -349,7 +349,7 @@
 				<tr>
 					<td valign="top"><p><strong>Tribal</strong></p></td>
 					<td valign="top"><p>Nooksack Tribe</p></td>
-					<td valign="top"><p><strong>Bob Kelly</strong></p></td>
+					<td valign="top"><p><strong>Vacant</strong></p></td>
 					<td valign="top"></td>
 					<td valign="top"></td>
 				</tr>
@@ -363,7 +363,7 @@
 				<tr>
 					<td valign="top"><p><strong>Tribal</strong></p></td>
 					<td valign="top"><p>Point No Point Treaty Council</p></td>
-					<td valign="top"><p><strong>Thom Johnson</strong></p></td>
+					<td valign="top"><p><strong>Vacant</strong></p></td>
 					<td valign="top"></td>
 					<td valign="top"></td>
 				</tr>
@@ -392,7 +392,7 @@
 					<td valign="top"><p><strong>Tribal</strong></p></td>
 					<td valign="top"><p>Tulalip Tribe</p></td>
 					<td valign="top"><p><strong>Terry Williams</strong></p></td>
-					<td valign="top"></td>
+					<td valign="top"><p>Morgan Ruff</p></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>
@@ -405,8 +405,8 @@
 				<tr>
 					<td valign="top"><p><strong>WDNR</strong></p></td>
 					<td valign="top"><p>WDNR</p></td>
-					<td valign="top"><p><strong>Peter Goldmark</strong></p></td>
-					<td valign="top"></td>
+					<td valign="top"><p><strong>Hilary Franz</strong></p></td>
+					<td valign="top"><p>Kirsten Feifel</p></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>
@@ -420,8 +420,8 @@
 					<td valign="top"><p><strong>WDFW</strong></p></td>
 					<td valign="top"><p>WDFW</p></td>
 					<td valign="top"><p><strong>Dave Price</strong></p></td>
-					<td valign="top"><p>Jennifer Quan</p></td>
-					<td valign="top"><p>Kirk Lakey</p></td>
+					<td valign="top"><p>&nbsp;</p></td>
+					<td valign="top"><p>&nbsp;</p></td>
 				</tr>
 				<tr>
 					<td valign="top"><p><strong>WSCC</strong></p></td>
@@ -433,7 +433,7 @@
 				<tr>
 					<td valign="top"><p><strong>PSP</strong></p></td>
 					<td valign="top"><p>PSP</p></td>
-					<td valign="top"><p><strong>Martha Kongsgaard</strong></p></td>
+					<td valign="top"><p><strong>Vacant</strong></p></td>
 					<td valign="top"><p>Sheida Sahandy</p></td>
 					<td valign="top"></td>
 				</tr>
