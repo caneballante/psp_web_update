@@ -55,11 +55,22 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column">
-			<p><strong>Plan to be counted as someone who stands up for Puget Sound protection and recovery!</strong></p>
+			<div class="highlightbox margin-0-top">
+				<h3>3/23/2017 - New Information!</h3>
+				<p> Hello Partners -
+Thank you for joining the annual Puget Sound Day on the Hill!  It promises to be an exciting visit.
+We have a limited number of rooms being held for a limited period of time for at the Marriott Residence Inn that is located at 1199 Vermont Ave NW.  We need to let them know if you want a room by MARCH 31, 2017.  This hotel is located about 4 blocks from the McPherson Metro, which links up to the Capitol South Metro stop. 
+Since we are going out there in high season (cherry blossoms and all), we wanted to make sure you have a lodging option in town.  Please advise me ASAP if you would like to have a room held for you and for which nights at <a href="mailto:Kelly.adams@psp.wa.gov">Kelly.adams@psp.wa.gov</a>. </p>
+			</div>
+		
+		
+		
+		
+			<h3>Plan to be counted as someone who stands up for Puget Sound protection and recovery!</h3>
 	<p>Join fellow Washingtonians in raising the profile of Puget Sound in Washington, DC. </p>
 	<p>Congressman Denny Heck and Congressman Derek Kilmer will welcome the group to the Third Annual Puget Sound Day on the Hill at an opening reception on the evening of Monday, May 1.</p>
 <p>	On Tuesday, May 2, our group will meet with Members of Congress, Senators, experts and federal agency officials to bring more attention to America&rsquo;s largest estuary by sharing the challenges we are facing and the successes we achieve every day. Optional meetings may be scheduled for the morning of Wednesday, May 3. </p>
-<p>	<strong>Please mark your calendars and join us in Washington, DC on May 1-3. </strong></p>
+			<h3>Please mark your calendars and join us in Washington, DC on May 1-3. </h3>
 	<p>In the meantime, if you plan to participate in Puget Sound Day on the Hill this year, RSVP to <a href="mailto:PSDOTH@psp.wa.gov">PSDOTH@psp.wa.gov</a> to receive updates on the event.</p>
 </div>
 		
