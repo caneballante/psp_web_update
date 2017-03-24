@@ -108,7 +108,7 @@
 						<!--news content BOX --> 
 						<strong>1.17.17<br>
 						</strong>LEGISLATIVE SESSION<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18085f3" target="new"> WEEK 1 LEGISLATIVE UPDATE (1.14.17)</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18f987d" target="new"> MID-TERM LEGISLATIVE UPDATE (3.24.17)</a><br>
 						
 						
 						<!--END news content BOX--> 
