@@ -172,21 +172,7 @@
 			</div>
 			<!--COLUMN END--> 
 			
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="jobbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>2.2.17<br>
-						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1649530/chief-operating-officer-ems3?department[0]=Puget%20Sound%20Partnership&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs">CHIEF OPERATING OFFICER</a><br>
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			
+		
 		
 		
 			
