@@ -98,7 +98,7 @@
 			<p>Business Interest<br>
 				            Gary Chandler <em>Association of Washington Business</em><br />
 							 
-				            Brandon Houskeeper (alternate) <em>Association of Washington Business</em></p>
+				            Mary Catherine McAleer (alternate) <em>Association of Washington Business</em></p>
 	
 			<p>Small Business Interest<br>
 				            Bill Dewey <em>Taylor Shellfish</em><br>

@@ -85,28 +85,14 @@
 				
 		
 						
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>2.16.17<br>
-						</strong>BLOG<br>
-						<a href="http://www.psp.wa.gov/blog/?p=760" target="new">NEW ACTION AGENDA REPORT CARD GETS AN A+</a><br>
-						
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+			
 			
 			<!--COLUMN START-->
 			<div class="col-md-3">
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>1.17.17<br>
+						<strong>3.24.17<br>
 						</strong>LEGISLATIVE SESSION<br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18f987d" target="new"> MID-TERM LEGISLATIVE UPDATE (3.24.17)</a><br>
 						
@@ -125,9 +111,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>3.6.17<br>
+						<strong>3.26.17<br>
 						</strong>LEGISLATIVE SESSION<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18c5f71" target="new">WEEK 10 LEGISLATIVE CALENDAR</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18fbf20" target="new">WEEK 12 LEGISLATIVE CALENDAR</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -139,9 +125,24 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>3.19.17<br>
+						<strong>3.26.17<br>
 						</strong>E-CLIPS<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18e912b" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/19024d6" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>2.16.17<br>
+						</strong>BLOG<br>
+						<a href="http://www.psp.wa.gov/blog/?p=760" target="new">NEW ACTION AGENDA REPORT CARD GETS AN A+</a><br>
+						
+						
 						<!--END news content BOX--> 
 					</div>
 				</div>

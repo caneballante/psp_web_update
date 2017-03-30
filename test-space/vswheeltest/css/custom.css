@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.wheel-container {
+	position: relative;
+}
+#baseImage {
+	position: absolute;
+	top: 40px;
+	left: 40px;
+}
+
+#loadImage {
+	position: absolute;
+	top: 80px;
+	left: 80px;
+}
