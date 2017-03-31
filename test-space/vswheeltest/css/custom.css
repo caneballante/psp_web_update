@@ -7,12 +7,12 @@
 }
 #baseImage {
 	position: absolute;
-	top: 40px;
-	left: 40px;
+	top: 0px;
+	left: 0px;
 }
 
-#loadImage {
+#vs1 {
 	position: absolute;
-	top: 80px;
-	left: 80px;
+	top: 0px;
+	left: 0px;
 }

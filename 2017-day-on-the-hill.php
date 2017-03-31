@@ -57,10 +57,7 @@
 		<div class="col-sm-7 padding-20-top content-column">
 			<div class="highlightbox margin-0-top">
 				<h3>3/23/2017 - New Information!</h3>
-				<p> Hello Partners -
-Thank you for joining the annual Puget Sound Day on the Hill!  It promises to be an exciting visit.
-We have a limited number of rooms being held for a limited period of time for at the Marriott Residence Inn that is located at 1199 Vermont Ave NW.  We need to let them know if you want a room by MARCH 31, 2017.  This hotel is located about 4 blocks from the McPherson Metro, which links up to the Capitol South Metro stop. 
-Since we are going out there in high season (cherry blossoms and all), we wanted to make sure you have a lodging option in town.  Please advise me ASAP if you would like to have a room held for you and for which nights at <a href="mailto:Kelly.adams@psp.wa.gov">Kelly.adams@psp.wa.gov</a>. </p>
+				<p> Hello Partners - Thank you for joining the annual Puget Sound Day on the Hill! It promises to be an exciting visit. We have a limited number of rooms being held at the <a href="http://www.morrisonclark.com">Morrison Clark Historic Inn</a> located at 1101 L Street NW. For room reservations, please contact <a href="mailto:Kelly.adams@psp.wa.gov">Kelly.adams@psp.wa.gov</a>. </p></p>
 			</div>
 		
 		
