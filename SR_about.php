@@ -169,7 +169,7 @@
 					<td valign="top"><p><strong>Skagit Watershed</strong></p></td>
 					<td valign="top"><p>Skagit Watershed Council</p></td>
 					<td valign="top"><p><strong>Richard Brocksmith</strong></p></td>
-					<td valign="top"><p>Steve Hinton</p></td>
+					<td valign="top"><p>&nbsp;</p></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>
@@ -388,6 +388,13 @@
 					<td valign="top"></td>
 					<td valign="top"></td>
 				</tr>
+				<tr>
+					<td valign="top"><p><strong>Tribal</strong></p></td>
+				  <td valign="top"><p>Swinomish &amp; Sauk-Suiattle</p></td>
+					<td valign="top"><p><strong>Steve Hinton</strong></p></td>
+				  <td valign="top">&nbsp;</td>
+				  <td valign="top"></td>
+			  </tr>
 				<tr>
 					<td valign="top"><p><strong>Tribal</strong></p></td>
 					<td valign="top"><p>Tulalip Tribe</p></td>
