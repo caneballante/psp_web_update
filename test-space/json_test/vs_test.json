@@ -1,0 +1,20 @@
+// JSON Document
+
+{
+	"vitalSigns": [{
+		"name": "Onsite Sewage",
+		"indicatorNum": "1",
+		"indicatorArr": "vs1_indicator_list",
+		"status": "making progress"
+	}, {
+		"name": "Shellfish Beds",
+		"indicatorNum": "1",
+		"indicatorArr": "vs2_indicator_list",
+		"status": "making some progress"
+	}, {
+		"name": "Outdoor Activities",
+		"indicatorNum": "0",
+		"indicatorArr": "vs3_indicator_list",
+		"status": "no data"
+	}]
+}

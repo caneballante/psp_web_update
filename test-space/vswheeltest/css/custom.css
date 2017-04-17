@@ -11,7 +11,13 @@
 	left: 0px;
 }
 
-#vs1 {
+.selectImg {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+    display: none;
+}
+.transImg {
 	position: absolute;
 	top: 0px;
 	left: 0px;
