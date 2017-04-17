@@ -162,6 +162,21 @@
 				<div class="jobbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<strong>3.14.17<br>
+						</strong> EMPLOYMENT<br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget Sound Partnership&sort=PositionTitle|Ascending&pagetype=jobOpportunitiesJobshttps://www.governmentjobs.com/careers/washington/jobs/1713876/fiscal-analyst-3-ap-ar-travel-03437">FISCAL ANALYST 3</a><br>
+						
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
+								<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="jobbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<strong>2.26.17<br>
 						</strong> EMPLOYMENT<br>
 						<a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget%20Sound%20Partnership&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs">PLANNING DIVISION MANAGER</a><br>
@@ -171,8 +186,6 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			
-		
 		
 		
 			

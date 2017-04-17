@@ -194,10 +194,7 @@
 			<h5>Todd Hass</h5>
 			<p> Special Projects Liasion<br />
 				360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>
-            <h5>Jen Benn</h5>
-            <p> Mobilizing Funding<br />
-              253.380.7284 | <a href="mailto:jen.benn@psp.wa.gov">jen.benn@psp.wa.gov</a></p>
-         
+           
            
           
 

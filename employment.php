@@ -70,7 +70,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">Employment opportunities</h2>
 			
-			
+		<p>	<a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget Sound Partnership&sort=PositionTitle|Ascending&pagetype=jobOpportunitiesJobshttps://www.governmentjobs.com/careers/washington/jobs/1713876/fiscal-analyst-3-ap-ar-travel-03437">FISCAL ANALYST 3</a></p>
 			
 						<p><a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget%20Sound%20Partnership&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs">Planning Division Manager</a></p>
 						
