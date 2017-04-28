@@ -87,21 +87,7 @@
 						
 			
 			
-			<!--COLUMN START-->
-			<div class="col-md-3">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>3.24.17<br>
-						</strong>LEGISLATIVE SESSION<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18f987d" target="new"> MID-TERM LEGISLATIVE UPDATE (3.24.17)</a><br>
-						
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+	
 			
 			
 		
@@ -111,9 +97,24 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>3.26.17<br>
+						<strong>4.27.17<br>
+						</strong>NEWS RELEASE<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/196d3d8" target="new">PUGET SOUND DAY ON THE HILL DRAWS PUGET SOUND LEADERS TO WASHINGTON, D.C., MAY 1-3 </a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+					<!--COLUMN START-->
+			<div class="col-md-3">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>3.24.17<br>
 						</strong>LEGISLATIVE SESSION<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18fbf20" target="new">WEEK 12 LEGISLATIVE CALENDAR</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18f987d" target="new"> MID-TERM LEGISLATIVE UPDATE (3.24.17)</a><br>
+						
+						
 						<!--END news content BOX--> 
 					</div>
 				</div>
