@@ -154,14 +154,54 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
+			
+•	2016-2018 Action Agenda
+
+•	Estuaries Implementation Strategy 
+•	Shellfish Bed Implementation Strategy 
+•	Floodplains Implementation Strategy
+•	Land Development and Cover Implementation Strategy
+•	Eelgrass Recovery Strategy (pilot)
+
+•	Chinook Salmon Implementation Strategy DRAFT Materials
+•	Shoreline Armoring Implementation Strategy DRAFT Materials
+•	B-IBI Implementation Strategy DRAFT Materials
+•	Toxics in Fish Implementation Strategy DRAFT Materials
+
+•	Implementation Strategies Overview Article (EoPS) 
+•	Implementation Strategy General Timeline and Team Structure
+•	Interdisciplinary Team (IDT) Rosters
+•	Implementation Strategy Guidelines
+•	Puget Sound Recovery Terms and Classification Systems
+
 				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
+				<li role="presentation"><a href="2016-18-action-agenda-update.php">2016-18 Action Agenda</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn">Estuaries Implementation Strategy</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Shellfish Bed Implementation Strategy</a></li>
+				<li role="presentation"><a href="#">Floodplains Implementation Strategy</a></li>
+				<li role="presentation"> <a href="#">Land Development and Cover Implementation Strategy</a></li>
+				<li role="presentation"><a href="#">Eelgrass Recovery Strategy (pilot)</a></li>
+				<li role="presentation"><a href="#">Chinook Salmon Implementation Strategy DRAFT Materials</a></li>
+				<li role="presentation"><a href="#">Shoreline Armoring Implementation Strategy DRAFT Materials</a></li>
+				<li role="presentation"><a href="#">Chinook Salmon Implementation Strategy DRAFT Materials</a></li>
+				<li role="presentation"><a href="#">B-IBI Implementation Strategy DRAFT Materials</a></li>
+				<li role="presentation"><a href="#">Toxics in Fish Implementation Strategy DRAFT Materials</a></li>
+				<li role="presentation"><a href="https://eopugetsound.org/magazine/is/implementation-strategies">Implementation Strategies Overview Article (EoPS)</a></li>
+				<li role="presentation"><a href="#">Implementation Strategy General Timeline and Team Structure</a></li>
+				<li role="presentation"><a href="#">Interdisciplinary Team (IDT) Rosters</a></li>
+				<li role="presentation"><a href="#">Implementation Strategy Guidelines</a></li>
+				<li role="presentation"><a href="#">Puget Sound Recovery Terms and Classification Systems</a></li>
+				
+				
+				<!--<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+				<li role="presentation"><a href="2016-18-action-agenda-update.php">2016-18 Action Agenda</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn">Phase One Estuaries Implementation Strategy Materials</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Phase One Shellfish Bed Implementation Strategy Materials</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/gv9mzz427y0de8pd19qk90ib5t4a3074">Implementation Strategy Timeline</a></li>
-				<a href="https://pspwa.box.com/s/w32u39mmbpkn5u6rttb3iogvl52hiwpi">Implementation Strategy Team Selection Summary and Rosters</a>
-				</li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/w32u39mmbpkn5u6rttb3iogvl52hiwpi">Implementation Strategy Team Selection Summary and Rosters</a></li>
+				
+				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>-->
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -169,11 +209,12 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p class="right-nav-contact">For questions about Implementation Strategies:<br />
+				<p class="right-nav-contact">For general questions about Implementation Strategies: <br />
 					<br>
-					<strong>Todd Hass</strong>, <br>
-					Implementation Manager,<br>
-					<a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>
+					<strong>Heather Benson</strong>, <br>
+					<a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a><br>
+<br>
+For questions about specific Implementation Strategies, see contact information for each Implementation Strategy.</p>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
