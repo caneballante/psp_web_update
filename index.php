@@ -32,10 +32,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h1 class="brand-heading">you’re invited<br>
+					<h1 class="brand-heading"><br>
 						<strong>2017 Puget Sound Day on The Hill</strong></h1>
 					<p>WASHINGTON DC | MAY 1-3</p>
-					<div class="learn-more-box"><a href="2017-day-on-the-hill.php">LEARN MORE</a></div>
+					<div class="learn-more-box"><a href="2017-day-on-the-hill.php">SEE PHOTOS</a></div>
 				</div>
 			</div>
 		</div>
