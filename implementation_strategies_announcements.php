@@ -57,7 +57,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="2016_AA_implementation_strategies.php">IMPLEMENTATION STRATEGIES</a></li>
+				<li role="presentation"> <a href="implementation_strategies.php">IMPLEMENTATION STRATEGIES</a></li>
 				<li role="presentation" class="active"><a href="implementation_strategies_announcements.php">ANNOUNCEMENTS</a></li>
 				<!-- InstanceEndEditable -->
 				</ul>
@@ -88,27 +88,16 @@
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
-				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn">Phase One Estuaries Implementation Strategy Materials</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Phase One Shellfish Bed Implementation Strategy Materials</a></li>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-20-top ">CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p class="right-nav-contact">For questions about Implementation Strategies:<br />
+								<p class="right-nav-contact">For general questions about Implementation Strategies: <br />
 					<br>
-					<strong>Todd Hass</strong>, <br>
-					Implementation Manager,<br>
-					<a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>
+					<strong>Heather Benson</strong>, <br>
+					<a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a><br>
+<br>
+For questions about specific Implementation Strategies, see contact information for each Implementation Strategy.</p>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

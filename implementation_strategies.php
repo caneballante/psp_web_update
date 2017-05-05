@@ -115,18 +115,19 @@
             <p>Four new Strategies are planned for completion in 2017 so that they can be used to inform development of the 2018 Action Agenda and the 2018 Science Work Plan.</p>
             <strong><p>Shoreline Armoring</p></strong>
             <p>The Habitat SI Lead is guiding development of a Strategy to address the 2020 indicator target for the Shoreline Armoring Vital Sign. </p>
-            <p>For more information: please contact Jennifer Griffiths, <a href="meilto:jennifer.griffiths@dfw.wa.gov">jennifer.griffiths@dfw.wa.gov</a>, Technical Lead for the Habitat Strategic Initiative at the Washington Department of Fish and Wildlife. (<em>Shoreline armoring content currently under development.</em>)</p>
+            <p>For more information: please contact Jennifer Griffiths, <a href="mailto:jennifer.griffiths@dfw.wa.gov">jennifer.griffiths@dfw.wa.gov</a>, Technical Lead for the Habitat Strategic Initiative at the Washington Department of Fish and Wildlife. </p>
             <strong><p>Fresh Water Quality and Toxics in Fish</p></strong>
             <p>The Stormwater SI Lead is guiding development of Strategies to address the Benthic Index of Biotic Integrity (B-IBI) indicator for the Freshwater Quality Vital Sign, as well as the 2020 indicator target for Toxics in Fish Vital Sign. </p>
-            <p>For more information, contact Gary Myers, <a href="mailto:Gary.Myers@ECY.wa.gov">Gary.Myers@ECY.wa.gov</a>, Implementation Strategy Lead for the Stormwater Strategic Initiative at the Department of Ecology. B-IBI and Toxics in Fish content under development.</p>
+            <p>For more information, contact Gary Myers, <a href="mailto:Gary.Myers@ECY.wa.gov">Gary.Myers@ECY.wa.gov</a>, Implementation Strategy Lead for the Stormwater Strategic Initiative at the Department of Ecology.</p>
             <strong><p>Chinook Salmon</p></strong>
             <p>The Partnership is guiding development of the Implementation Strategy for the 2020 indicator target to address the Chinook Salmon Vital Sign, to be completed in the spring of 2017. 
-            For more information please contact Stacy Vynne at <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a>. Chinook content under development. </p> 
+            For more information please contact Stacy Vynne at <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a>.</p> 
             <strong><p>Partially complete Strategies</p></strong>
             <p>The following four partially complete Strategies will be further developed in coming years to inform Action Agenda, Science Work Plan and other planning and funding decisions.</p> 
             <p>Contact the leads for these Strategies for more information:</p>
-            <ul>Shellfish Beds, Emily Sanford, Shellfish Strategic Initiative, <a href="mailto:Emily.Sanford@doh.wa.gov">Emily.Sanford@doh.wa.gov</a>
-<li>Estuaries, Jennifer Griffiths, Habitat Strategic Initiative, <a href="mailto:Jennifer.Griffiths@wdfw.wa.gov">Jennifer.Griffiths@wdfw.wa.gov</a></li>
+            <ul>
+				<li>Shellfish Beds, Emily Sanford, Shellfish Strategic Initiative, <a href="mailto:Emily.Sanford@doh.wa.gov">Emily.Sanford@doh.wa.gov</a></li>
+				<li>Estuaries, Jennifer Griffiths, Habitat Strategic Initiative, <a href="mailto:Jennifer.Griffiths@wdfw.wa.gov">Jennifer.Griffiths@wdfw.wa.gov</a></li>
                 <li>Land Development, Libby Gier, Habitat Strategic Initiative, <a href="mailto:Libby.Gier@dnr.wa.gov">Libby.Gier@dnr.wa.gov</a></li>
                 <li>Floodplains, Libby Gier, Habitat Strategic Initiative, <a href="mailto:Libby.Gier@dnr.wa.gov">Libby.Gier@dnr.wa.gov</a></li>
             </ul>
@@ -134,32 +135,32 @@
             <h2>IMPLEMENTATION STRATEGY RESOURCES AVAILABLE</h2>
             <p>Strategies associated with the Habitat Strategic Initiative:</p>
             <ul>
-                <li>Estuaries</li>
+                <li><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn">Estuaries</a></li>
                 <li><a href="https://pspwa.box.com/s/x4y58p5epo6hzo347nvu4z7ujdzbb0fz">Floodplains</a></li>
                 <li><a href="https://pspwa.box.com/s/oiotvoj7iotbu62lm3yhn9iww0c18bcr">Land development and cover—ecologically important lands</a></li>
-                <li>Shoreline armoring (drafts under development)</li>
+                <li><a href="https://pspwa.box.com/v/ShorelineArmoringIS-Public">Shoreline armoring (drafts under development)</a></li>
             </ul>
             <p>Strategies associated with the Shellfish Strategic Initiative:</p>
             <uL>
-                <li>Shellfish beds</li>
+                <li><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Shellfish beds</a></li>
             </uL>
             <p>Strategies associated with the Stormwater Strategic Initiative:</p>
             <uL>
-                <li>Freshwater quality—B-IBI (drafts under development)</li>
-                <li>Toxics in fish (drafts under development)</li>
+                <li><a href="https://pspwa.box.com/v/BIBI-IS-Public">Freshwater quality—B-IBI (drafts under development)</a></li>
+                <li><a href="https://pspwa.box.com/v/ToxicsInFishIS-Public">Toxics in fish (drafts under development)</a></li>
             </uL>
             <p>Strategies managed by the Puget Sound Partnership</p>
             <uL>
-                <li>Chinook salmon (Drafts under development)</li>
+                <li><a href="https://pspwa.app.box.com/folder/7862354657">Chinook salmon (Drafts under development)</a></li>
             </uL>
             <p>Additional information about the Strategies and related Puget Sound recovery efforts is managed and publicly available in <a href="http://www.MiradiShare.org">Miradi Share</a>™, an online database that supports development, monitoring, and sharing of information among conservation practitioners, project and program managers, and funders. Miradi project files for all completed Strategies are available in the links below. A free user account for Miradi Share is required to view projects. Request a free account at <a href="http://www.MiradiShare.org">www.MiradiShare.org</a>, and contact Kari Stiles at <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a> for access to Puget Sound content.</p>
             <ul>
-            	<li>Estuaries Miradi Project </li>
-            	<li>Shellfish Beds Miradi Project</li>
-            	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2016-00033/">Floodplains Miradi</a> Project</li>
-            	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2016-00034/">Land Development and Cover</a> Miradi Project</li>
-            	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00033/">Shoreline Armoring</a> Miradi Project</li>
-            	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00034/">Benthic Index of Biotic Integrity (B-IBI)</a> Miradi Project</li>
+            	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00007/">Estuaries Miradi Project </a></li>
+            	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00004/">Shellfish Beds Miradi Project</a></li>
+            	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2016-00033/">Floodplains Miradi Project</a> </li>
+            	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2016-00034/">Land Development and Cover Miradi Project</a></li>
+            	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00033/">Shoreline Armoring Miradi Project</a> </li>
+            	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00034/">Benthic Index of Biotic Integrity (B-IBI) Miradi Project</a></li>
            	</ul>
 			<a name="frequently-asked-questions"></a>
             <h2>FREQUENTLY ASKED QUESTIONS</h2>
@@ -237,21 +238,20 @@
 				<li role="presentation"><a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
 
 
-				<li role="presentation"><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn">Estuaries Implementation Strategy</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Shellfish Bed Implementation Strategy</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/x4y58p5epo6hzo347nvu4z7ujdzbb0fz">Floodplains Implementation Strategy</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/oiotvoj7iotbu62lm3yhn9iww0c18bcr">Land Development and Cover Implementation Strategy</a></li>
-				<li role="presentation"><a href="#">Eelgrass Recovery Strategy (pilot)</a></li>
-				<li role="presentation"><a href="#">Chinook Salmon Implementation Strategy DRAFT Materials</a></li>
-				<li role="presentation"><a href="#">Shoreline Armoring Implementation Strategy DRAFT Materials</a></li>
-				<li role="presentation"><a href="#">Chinook Salmon Implementation Strategy DRAFT Materials</a></li>
-				<li role="presentation"><a href="#">B-IBI Implementation Strategy DRAFT Materials</a></li>
-				<li role="presentation"><a href="#">Toxics in Fish Implementation Strategy DRAFT Materials</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn">Estuaries (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Shellfish Bed (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/x4y58p5epo6hzo347nvu4z7ujdzbb0fz">Floodplains (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/oiotvoj7iotbu62lm3yhn9iww0c18bcr">Land Development and Cover (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/yyiswccgjw4ogcqhr06bqsm5jtlm9aah">Eelgrass Recovery pilot (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.app.box.com/folder/7862354657">Chinook Salmon draft (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/ShorelineArmoringIS-Public">Shoreline Armoring draft (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/BIBI-IS-Public">B-IBI draft (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/ToxicsInFishIS-Public">Toxics in Fish draft (IS)</a></li>
 				<li role="presentation"><a href="https://eopugetsound.org/magazine/is/implementation-strategies">Implementation Strategies Overview Article (EoPS)</a></li>
-				<li role="presentation"><a href="#">Implementation Strategy General Timeline and Team Structure</a></li>
-				<li role="presentation"><a href="#">Interdisciplinary Team (IDT) Rosters</a></li>
+				<li role="presentation"><a href=" https://pspwa.box.com/v/IS-general-info">Implementation Strategy General Timeline and Team Structure</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/IDT-rosters">Interdisciplinary Team (IDT) Rosters</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/bq07r238npsl4og2ke0r4c19ab9rl7n3">Implementation Strategy Guidelines</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/6iqzpm57nde1tzvde5uu3cwfuibmhmmv">Puget Sound Recovery Terms and Classification Systems</a></li>
+			
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
