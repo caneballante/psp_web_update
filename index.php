@@ -126,9 +126,9 @@
 				<div class="newsbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>3.26.17<br>
+						<strong>5.8.17<br>
 						</strong>E-CLIPS<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/19024d6" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/198fe02" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
