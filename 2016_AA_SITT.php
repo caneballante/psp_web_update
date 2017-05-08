@@ -104,7 +104,7 @@
 				<li><a href="https://pspwa.box.com/s/gfhf1hg9iq33x9qjr9igkdmadcltj7ag">Team Orientation Workshop Proceedings</a></li>
 				<li><a href="https://pspwa.box.com/s/zcm1r1wm1w5674qvoaxiuzmem319xcvu">Recruitment and Selection Process Summary </a></li>
 				<li><a href="2016_AA_strategic-initiatives-update.php">Strategic Initiatives</a></li>
-				<li><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
+				<li><a href="implementation-strategies.php">Implementation Strategies</a></li>
 				<li><a href="2016_AA_LIO_planning.php">Local Integrating Organization (LIO) planning</a></li>
 			</ul>
 			<!-- InstanceEndEditable --> </div>
@@ -116,7 +116,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
 				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
-				<li role="presentation"><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"><a href="implementation-strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
 				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
 				<!-- InstanceEndEditable -->

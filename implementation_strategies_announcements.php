@@ -57,7 +57,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="implementation_strategies.php">IMPLEMENTATION STRATEGIES</a></li>
+				<li role="presentation"> <a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a></li>
 				<li role="presentation" class="active"><a href="implementation_strategies_announcements.php">ANNOUNCEMENTS</a></li>
 				<!-- InstanceEndEditable -->
 				</ul>

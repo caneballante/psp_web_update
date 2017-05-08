@@ -98,7 +98,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
 				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
-				<li role="presentation"><a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"><a href="implementation-strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>

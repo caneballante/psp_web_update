@@ -49,7 +49,7 @@
 			<h1>ROADMAP TO RECOVERY</h1>
 			<div class="padding-5-bottom"><a href="action_agenda_center.php">ACTION&nbsp;AGENDA&nbsp;FOR&nbsp;PUGET&nbsp;SOUND</a></div>
 			<div class="padding-5-bottom"><a href="2016_AA_update.php">2016&nbsp;ACTION&nbsp;AGENDA&nbsp;UPDATE</a></div>
-			<a href="2016_AA_implementation_strategies.php">IMPLEMENTATION&nbsp;STRATEGIES</a> </div>
+			<a href="implementation_strategies.php">IMPLEMENTATION&nbsp;STRATEGIES</a> </div>
 		<div class="col-md-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive"/></div>
 		<div class="col-md-3 padding-40-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>

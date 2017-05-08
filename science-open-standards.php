@@ -87,7 +87,7 @@
 					<li role="presentation"> <a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
 					<!--<li role="presentation"> <a href="#">Chinook Monitoring &amp; Adaptive Management</a></li>-->
 					<li role="presentation"> <a href="2016_AA_LIO_planning.php">LIO Planning</a></li>
-					<li role="presentation"> <a href="2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
+					<li role="presentation"> <a href="implementation-strategies.php">Implementation Strategies</a></li>
 		
 						<!-- InstanceEndEditable -->
 			</ul>

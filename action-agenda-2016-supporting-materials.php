@@ -79,7 +79,7 @@
 				</tr>
 				<tr>
 					<td valign="top"><ul>
-						<li><a href="http://www.psp.wa.gov/2016_AA_implementation_strategies.php">Implementation Strategies</a></li>
+						<li><a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
 						<ul>
 							<li><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn">Estuaries</a></li>
 							<li><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Shellfish</a></li>
