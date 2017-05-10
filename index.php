@@ -35,7 +35,7 @@
 					<h1 class="brand-heading"><br>
 						<strong>2017 Puget Sound Day on The Hill</strong></h1>
 					<p>WASHINGTON DC | MAY 1-3</p>
-					<div class="learn-more-box"><a href="2017-day-on-the-hill.php">SEE PHOTOS</a></div>
+					<div class="learn-more-box"><a href="2017-day-on-the-hill.php">LEARN MORE</a></div>
 				</div>
 			</div>
 		</div>
