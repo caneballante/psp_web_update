@@ -308,20 +308,6 @@ p {
 	margin-top: 20px;
 	border-radius: 10px;
 }
-.jobbox {
-	height: 148px;
-	background-color: #00293e;
-	color: #ffffff;
-	margin-top: 20px;
-	border-radius: 10px;
-}
-
-/* make the news boxes a little shorter on mobile*/
-@media (max-width: 768px) {
-.newsbox {
-	height: 120px;
-}
-}
 /*hover color for the newsbox div - jquery makes it clickable*/
 .newsbox:hover {
 	background-color: rgba(245,180,50,1.00);
@@ -347,6 +333,31 @@ p {
 	font-weight: 900px;
 	letter-spacing: 1px;
 }
+.newsbox-with-img{
+	height: 320px;
+}
+.jobbox {
+	background-color: #00293e;
+	color: #ffffff;
+}
+.calendarbox {
+	background-color: #F18B20;
+	color: #ffffff;
+}
+.calendarbox a {
+	color: #ffffff;
+}
+
+/* make the news boxes a little shorter on mobile*/
+@media (max-width: 768px) {
+	.newsbox {
+		height: 120px;
+	}
+	.newsbox-with-img{
+		height: 320px;
+	}
+}
+
 /*Highlight a piece of content in a blue box!*/
 .highlightbox {
 	background-color: rgba(227,237,249,1.00);
