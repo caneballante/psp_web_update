@@ -60,7 +60,7 @@ a[href^="http"] {
 }
 /*add this style to links that are on the dark blue background*/
 .light-blue-links a {
-	color: #1590cd;
+	color: #1ab3ff;
 }
 #home-squares a {
 	font-size: 14px;
@@ -309,12 +309,16 @@ p {
 	border-radius: 10px;
 }
 /*hover color for the newsbox div - jquery makes it clickable*/
-.newsbox:hover {
+/*.newsbox:hover {
 	background-color: rgba(245,180,50,1.00);
-}
+	color: #00293e;
+}*/
 .newsbox a {
-	color: #1590cd;
+	color: #1ab3ff;
 }
+/*.newsbox a:hover {
+	color: #00293e;
+}*/
 .newsbox-date {
 	height: 45px;
 	width: 54px;
@@ -442,7 +446,7 @@ intro .brand-heading {
 }
 /*blue link color needs to be lighter on the dark blue*/
 #myModal a {
-	color: #1590cd;
+	color: #1ab3ff;
 	font-size: 16px
 }
 /*the search text turns white from modal-body-custom I turn it black here*/
