@@ -306,7 +306,7 @@ p {
 	background-color: #0a3b5c;
 	color: #ffffff;
 	margin-top: 20px;
-	border-radius: 10px;
+	border-radius: 0px 15px 15px 15px;
 }
 /*hover color for the newsbox div - jquery makes it clickable*/
 /*.newsbox:hover {

@@ -54,7 +54,7 @@
 		<div class="col-sm-3 padding-10-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>
-			<div class="padding-5-bottom"><a href="PSAR.php">PSAR&nbsp;FUND</a></div>
+			<div class="padding-5-bottom"><a href="PSAR.php">PUGET SOUND ACQUISITION AND RECOVERY(PSAR)&nbsp;FUND</a></div>
 			<div class="padding-5-bottom"><a href="NEP-overview.php">NATIONAL ESTUARY PROGRAM (NEP)</a></div>
 			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY</a></div>
 	</div>
@@ -87,7 +87,20 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive" src="images/news-images/press-release-dennis-mclarren-appointed-to-leadership-council.jpg"  alt=""/> <strong>5.11.17<br>
+						<img class="img-responsive img-rounded" src="images/news-images/press-release-puget-sound-day-on-the-hill-2017.jpg"  alt=""/> <strong>5.17.17<br>
+						</strong>GOVERNOR'S OFFICE<br>
+						<a href="2017-day-on-the-hill.php">PUGET SOUND RECOVERY LEADERS TRAVEL TO D.C., ASK FOR SUPPORT FROM CONGRESS </a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 	
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/press-release-dennis-mclarren-appointed-to-leadership-council.jpg"  alt=""/> <strong>5.11.17<br>
 						</strong>NEWS RELEASE<br>
 						<a href="2017-day-on-the-hill.php">
 						GOVERNOR INSLEE APPOINTS DENNIS MCLERRAN TO PUGET SOUND PARTNERSHIP LEADERSHIP COUNCIL
@@ -99,25 +112,13 @@
 				
 			</div>
 			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive" src="images/news-images/press-release-puget-sound-day-on-the-hill-2017.jpg"  alt=""/> <strong>4.27.17<br>
-						</strong>NEWS RELEASE<br>
-						<a href="2017-day-on-the-hill.php">PUGET SOUND DAY ON THE HILL DRAWS PUGET SOUND LEADERS TO WASHINGTON, D.C., MAY 1-3 </a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 		
+				
 				<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive" src="images/news-images/e-clips-puget-sound.jpg"  alt=""/> 
+						<img class="img-responsive img-rounded" src="images/news-images/e-clips-puget-sound.jpg"  alt=""/> 
 						<strong>5.8.17<br>
 						</strong>E-CLIPS<br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/198fe02" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
