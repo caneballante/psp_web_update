@@ -11,7 +11,7 @@ $(document).ready(function () {
 			
 
 			var items = data.items.map(function (item) {
-				var item_linebreak = item;
+				var item_linebreak = item.replace("/n", "< /b>");
 				return item_linebreak.key + ': ' + item.value;
 			});
 			

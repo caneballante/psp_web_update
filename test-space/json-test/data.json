@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "key": "JSON I love you.\r\n But you strangle my expression.\\nThis is so much better.",
+      "key": "JSON I love you.\\n But you strangle my expression.\\nThis is so much better.",
       "value": 100
     },{
       "key": "Second",

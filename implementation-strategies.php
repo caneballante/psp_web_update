@@ -250,7 +250,7 @@
 				<li role="presentation"><a href="https://eopugetsound.org/magazine/is/implementation-strategies">Implementation Strategies Overview Article (EoPS)</a></li>
 				<li role="presentation"><a href=" https://pspwa.box.com/v/IS-general-info">Implementation Strategy General Timeline and Team Structure</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/IDT-rosters">Interdisciplinary Team (IDT) Rosters</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/bq07r238npsl4og2ke0r4c19ab9rl7n3">Implementation Strategy Guidelines</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/IS-Guidance">Implementation Strategy Guidelines</a></li>
 			
 				<!-- InstanceEndEditable -->
 			</ul>
