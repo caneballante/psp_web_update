@@ -49,7 +49,7 @@
 			<h1>ROADMAP TO RECOVERY</h1>
 			<div class="padding-5-bottom"><a href="action_agenda_center.php">ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
 			<div class="padding-5-bottom"><a href="2016_AA_update.php">2016&nbsp;ACTION AGENDA&nbsp;UPDATE</a></div>
-			<a href="implementation_strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
+			<a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
 		<div class="col-sm-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive img-rounded"/></div>
 		<div class="col-sm-3 padding-10-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
@@ -119,9 +119,9 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/e-clips-puget-sound.jpg"  alt=""/> 
-						<strong>5.8.17<br>
+						<strong>5.30.17<br>
 						</strong>E-CLIPS<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/198fe02" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/19e1687" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -167,9 +167,9 @@
 				<div class="newsbox jobbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>3.14.17<br>
+						<strong>5.15.17<br>
 						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington?department[0]=Puget Sound Partnership&sort=PositionTitle|Ascending&pagetype=jobOpportunitiesJobs&jobId=1649530&jobName=chief-operating-officer-ems3&tab=1">CHIEF OPERATING OFFICER</a><br>
+						<a href="https://www.governmentjobs.com/careers/washington?department[0]=Puget Sound Partnership&sort=PositionTitle|Ascending&pagetype=jobOpportunitiesJobs&jobId=1649530&jobName=chief-operating-officer-ems3&tab=1" target="new">CHIEF OPERATING OFFICER</a><br>
 						
 						<!--END news content BOX--> 
 					</div>
@@ -184,7 +184,7 @@
 						<!--news content BOX --> 
 						<strong>3.14.17<br>
 						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget Sound Partnership&sort=PositionTitle|Ascending&pagetype=jobOpportunitiesJobshttps://www.governmentjobs.com/careers/washington/jobs/1713876/fiscal-analyst-3-ap-ar-travel-03437">FISCAL ANALYST 3</a><br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget Sound Partnership&sort=PositionTitle|Ascending&pagetype=jobOpportunitiesJobshttps://www.governmentjobs.com/careers/washington/jobs/1713876/fiscal-analyst-3-ap-ar-travel-03437" target="new">FISCAL ANALYST 3</a><br>
 						
 						<!--END news content BOX--> 
 					</div>
@@ -199,7 +199,7 @@
 						<!--news content BOX --> 
 						<strong>2.26.17<br>
 						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget%20Sound%20Partnership&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs">PLANNING DIVISION MANAGER</a><br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget%20Sound%20Partnership&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs" target="new">PLANNING DIVISION MANAGER</a><br>
 						
 						<!--END news content BOX--> 
 					</div>
@@ -215,37 +215,7 @@
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">MAY<br>
-						18 </div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-						UNIVERSITY OF WASHINGTON APPLIED PHYSICS LAB<br>
-						</a><br>
-						<br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
 			
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content-->
-					<div class="newsbox-date">MAY<br>
-						25</div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-						EDMOND CENTER FOR THE ARTS,<br>
-						EDMONDS
-					</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
 			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
@@ -280,7 +250,37 @@
 			</div>
 			<!--COLUMN END--> 
 			
-	
+	<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">JUL<br>
+						19-20 </div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+						UNIVERSITY OF WASHINGTON APPLIED PHYSICS LAB<br>
+						</a><br>
+						<br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content-->
+					<div class="newsbox-date">JUL<br>
+						27</div>
+					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+						EDMOND CENTER FOR THE ARTS,<br>
+						EDMONDS
+					</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
 			
 			
 		
