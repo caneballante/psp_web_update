@@ -1,33 +1,30 @@
-/*$.getJSON( "data.json", function( data ) {
- // console.log(data);
- var myData = (data);
- console.log(myData.items[0].key);  
-});*/
 $(document).ready(function () {
-	$('#get-data').click(function () {
-		var showData = $('#show-data');
+  $('#get-data').click(function () {
+    var showData = $('#show-data');
 
-		$.getJSON('data.json', function (data) {
-			
+    $.getJSON('datay.json', function (data) {
+      console.log(data);
 
-			var items = data.items.map(function (item) {
-				var item_linebreak = item.replace("/n", "< /b>");
-				return item_linebreak.key + ': ' + item.value;
-			});
-			
-			console.log(items);
-			console.log("nnn");
-			showData.empty();
+      var items = data.items.map(function (item) {
+        return item.key + ': ' + item.value;
+      });
+		
+		console.log(items);
 
-			if (items.length) {
-				/*var content = '<p>' + items.join('</p><p>') + '</p>';
-				var list = $('<div />').html(content);
-				showData.append(list);*/
-				showData.append(items[0]);
-				
-			}
-		});
+      showData.empty();
 
-		showData.text('Loading the woot JSON file.');
-	});
-});
+      if (items.length) {
+        var content = '<p>' + items.join('</p><p>') + '</p>';
+		console.log("i am content = "+content);
+		var iLoveReturns = content.replace(new RegExp('~B', 'g'), '<br>');  
+		console.log("i am iLoveReturns = "+iLoveReturns);
+		console.log(typeof iLoveReturns);
+        var list = $('<div />').html(iLoveReturns);
+        showData.append(list);
+      }
+    });
+	  console.log("i ranne")
+    showData.text('Loading the woot JSON file.');
+  });
+});// JavaScript Document
+
