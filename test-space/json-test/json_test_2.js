@@ -38,8 +38,17 @@ $(document).ready(function () {
 		$('#show-assessment').html(vsAssessHtml);
 		
 		//rating
-		var vsRating = (dataVS['vitalSign']['progress-rating']);
-		console.log(vsRating);
+		//this does not work to pull out an array
+		//var vsRating = (dataVS['vitalSign']['progress-rating']);
+		//console.log(vsRating);
+		
+		$.each((dataVS['vitalSign']['progress_rating']), function(i, rating) {
+			console.log("rating = "+rating);
+			
+		});
+		
+		
+		
 		
 		//highlights
 		var vsHighlights = (dataVS['vitalSign']['highlights']);
