@@ -2,51 +2,62 @@ $(document).ready(function () {
 	var dataJS;
 	$('#get-data').click(function () {
    	
-		$.getJSON('vital_test1.json', function (data) {
-		dataJS = data;
-		dataTest();
-	});
-	  /*var content = '<p>' + items.join('</p><p>') + '</p>';
-
-	var iLoveReturns = content.replace(new RegExp('~B', 'g'), '<br>');  
-	console.log("i am iLoveReturns = "+iLoveReturns);
-	console.log(typeof iLoveReturns);
-	var list = $('<div />').html(iLoveReturns);
-	showData.append(list);*/
-
+		$.getJSON('vs_headings.json', function (data) {
+		headingsVS = data;
+		vsHeadingsShow();
+		});
+		
+		$.getJSON('vs_shoreline_armoring.json', function (data) {
+		dataVS = data;
+		vsDataShow();
+		});
   });
-	function dataTest () {
+	function vsDataShow () {
 		
-		var vsGoal = (dataJS['vitalSign']['goal']);
-		var vsName = (dataJS['vitalSign']['name']);
-		var vsLead = (dataJS['vitalSign']['lead']);
-		var vsWhat = (dataJS['vitalSign']['what']);
-		
-		var vsAssess = (dataJS['vitalSign']['assessment']);
-		var vsAssessFmt = vsAssess.replace(new RegExp('~B', 'g'), '<br>');
-		var vsAssessHtml = '<p>' + vsAssessFmt + '</p>';
-		
-		var vsRating = (dataJS['vitalSign']['rating']);
-		var vsHighlights = (dataJS['vitalSign']['highlights']);
-		var vsLinks = (dataJS['vitalSign']['links']);
-		var vsHighlightPhoto = (dataJS['vitalSign']['highlight_photo']);
-		
+		//goal
+		var vsGoal = (dataVS['vitalSign']['goal']);
 		$('#show-goal').html(vsGoal);
+		
+		//name
+		var vsName = (dataVS['vitalSign']['name']);
 		$('#show-name').html(vsName);
+		
+		//lead
+		var vsLead = (dataVS['vitalSign']['lead']);
 		$('#show-lead').html(vsLead);
+		
+		//what
+		var vsWhat = (dataVS['vitalSign']['what']);
 		$('#show-what').html(vsWhat);
 		
-		/*$.each(vsAssessHtml.split("\n"), function(index, value) { 
-			$('#show-assessment').append("p").text(value);
-		});
-			*/	
+		//assessment
+		var vsAssess = (dataVS['vitalSign']['assessment']);
+		var vsAssessSafe = vsAssess.replace(new RegExp('<', 'g'), 'DELETED');
+		var vsAssessFmt = vsAssessSafe.replace(new RegExp('~B', 'g'), '</li><li>');
+		var vsAssessHtml = '<ul><li>' + vsAssessFmt + '</li></ul>';
 		$('#show-assessment').html(vsAssessHtml);
-		$('#show-highlight').html(vsHighlights);
+		
+		//rating
+		var vsRating = (dataVS['vitalSign']['rating']);
+		
+		//highlights
+		var vsHighlights = (dataVS['vitalSign']['highlights']);
+		var vsHighlightsSafe = vsHighlights.replace(new RegExp('<', 'g'), 'DELETED');
+		var vsHighlightsFmt = vsHighlightsSafe.replace(new RegExp('~P', 'g'), '</p><p>');
+		var vsHighlightsHtml = '<p>' + vsHighlightsFmt + '</p>';
+		$('#show-highlight').html(vsHighlightsHtml);
+		
+		//links
+		var vsLinks = (dataVS['vitalSign']['links']);
 		$('#show-highlight-photo').html(vsLinks);
+		
+		//highlight photos
+		var vsHighlightPhoto = (dataVS['vitalSign']['highlight_photo']);
 		$('#show-links').html(vsHighlightPhoto);
 		
-		console.log("test1")
-		
+	}
+	function vsHeadingsShow () {
+		console.log("headings on the way")
 	}
 });
 

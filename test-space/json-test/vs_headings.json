@@ -1,0 +1,16 @@
+{
+	"vitalSign-headings": 
+		{
+		"goal-heading": "Vital Sign Goal",
+		"name-heading": "Vital Sign Name",
+		"lead-heading": "Lead",
+		"what-heading" : "What is this Vital Sign",
+		"assessment-heading" : "Assessment of Vital Sign",
+		"progress_rating-heading" : "Progress Rating",
+		"numberindicators-heading": "Number of Indicators",
+		"indicators-heading": "Indicators in this Vital Sign",
+		"highlights-heading" : "Highlights",
+		"links-heading" : "Related Links"
+	}
+
+}
