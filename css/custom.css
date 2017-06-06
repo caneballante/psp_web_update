@@ -258,6 +258,9 @@ p {
 .margin-150-right {
 	margin-right: 150px;
 }
+.margin-20-left {
+	margin-left: 20px;
+}
 /*align*/
 .align-right {
 	text-align: right;
@@ -300,7 +303,13 @@ p {
 	width: 500px;
 	margin: auto;
 }
+
+.floatright{
+	float: right;
+}
+
 /*news boxes on homepage*/
+
 .newsbox {
 	height: 148px;
 	background-color: #0a3b5c;
@@ -624,6 +633,9 @@ intro .brand-heading {
 }
 .overview-page-image100 {
 	background: url(../images/home_image5_DOH.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image101 {
+	background: url(../images/inside_image_101.jpg)no-repeat bottom center scroll;
 }
 
 
