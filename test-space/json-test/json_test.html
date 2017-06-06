@@ -1,28 +1,35 @@
 <!doctype html>
 <html>
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
-<script src="json_test_2.js"></script>
-<meta charset="UTF-8">
-<title>JSON test</title>
+	<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
+	<script src="json_test_2.js"></script>
+	<meta charset="UTF-8">
+	<title>JSON test</title>
+	<script> var whatVS = "vs_shoreline_armoring.json";
+	</script>
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+	</head>
 
-
-<link href="css/style.css" rel="stylesheet" type="text/css">
-</head>
-   
-<body>
- <a href="#" id="get-data">Get JSON data</a>
-   <div id="show-goal"></div>
-   <div id="show-name"></div>
-   <div id="show-lead"></div>
-   <div id="show-what"></div>
-   <div id="show-assessment"></div>
-   <div id="show-rating"></div>
-   <canvas id="myChart" width="400" height="400"></canvas>
-   <div id="show-highlight"></div>
-   <div id="show-highlight-photo"></div>
-   <div id="show-links"></div>
-</body>
-
+	<body>
+		<a href="#" id="get-data">Get JSON data</a>
+		<div id="show-goal-heading" class="heading"></div>
+		<div id="show-goal"></div>
+		<div id="show-name-heading" class="heading"></div>
+		<div id="show-name"></div>
+		<div id="show-lead-heading" class="heading"></div>
+		<div id="show-lead"></div>
+		<div id="show-what-heading" class="heading"></div>
+		<div id="show-what"></div>
+		<div id="show-assessment-heading" class="heading"></div>
+		<div id="show-assessment"></div>
+		<div id="show-rating-heading" class="heading"> </div>
+		<div id="show-rating"></div>
+		<canvas id="myChart" width="200" height="200"></canvas>
+		<div id="show-highlight-heading class="heading""></div>
+		<div id="show-highlight"></div>
+		<div id="show-highlight-photo"></div>
+		<div id="show-links-heading class="heading""></div>
+		<div id="show-links"></div>
+	</body>
 </html>

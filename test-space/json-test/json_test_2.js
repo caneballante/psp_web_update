@@ -1,20 +1,22 @@
 $(document).ready(function () {	
 	var dataJS;
+	var ratingArray = [];
 	$('#get-data').click(function () {
    		//load headings
-		$.getJSON('vs_headings.json', function (data) {
-		headingsVS = data;
+		$.getJSON('vs_headings.json', function (data1) {
+		headingsVS = data1;
 		vsHeadingsShow();
 		});
 		//load vital sign data
-		$.getJSON('vs_shoreline_armoring.json', function (data) {
-		dataVS = data;
+		$.getJSON(whatVS, function (data2) {
+		dataVS = data2;
 		vsDataShow();
 		});
-  });
+  	});
 	function vsDataShow () {
-		
+		console.log("server is working");
 		//goal
+
 		var vsGoal = (dataVS['vitalSign']['goal']);
 		$('#show-goal').html(vsGoal);
 		
@@ -38,17 +40,10 @@ $(document).ready(function () {
 		$('#show-assessment').html(vsAssessHtml);
 		
 		//rating
-		//this does not work to pull out an array
-		//var vsRating = (dataVS['vitalSign']['progress-rating']);
-		//console.log(vsRating);
-		
 		$.each((dataVS['vitalSign']['progress_rating']), function(i, rating) {
-			console.log("rating = "+rating);
-			
+			ratingArray.push(rating);
 		});
-		
-		
-		
+		buildChart(ratingArray);
 		
 		//highlights
 		var vsHighlights = (dataVS['vitalSign']['highlights']);
@@ -67,43 +62,57 @@ $(document).ready(function () {
 		
 	}
 	function vsHeadingsShow () {
-		console.log("headings on the way")
+		console.log(headingsVS);
+		var vsGoalHeading = $('<p>' + (headingsVS['vitalSign-headings']['goal-heading']) + '<p>');
+		$('#show-goal-heading').html(vsGoalHeading);
+		vsAddStyles ();
 	}
-	var ctx = document.getElementById("myChart").getContext('2d');
-	var myChart = new Chart(ctx, {
-		type: 'bar',
-		data: {
-			labels: ["Making Progress", "Making Some Progress", "Not Changing", "Getting Somewhat Worse", "Getting Worse"],
-			datasets: [{
-				label: 'Percentage',
-				data: [0, 70, 15, 15, 0],
-				backgroundColor: [
-					'rgba(255, 99, 132, 0.2)',
-					'rgba(54, 162, 235, 0.2)',
-					'rgba(255, 206, 86, 0.2)',
-					'rgba(75, 192, 192, 0.2)',
-					'rgba(153, 102, 255, 0.2)'
-					
-				],
-				borderColor: [
-					'rgba(255,99,132,1)',
-					'rgba(54, 162, 235, 1)',
-					'rgba(255, 206, 86, 1)',
-					'rgba(75, 192, 192, 1)',
-					'rgba(153, 102, 255, 1)'
-				],
-				borderWidth: 1
-			}]
-		},
-		options: {
-			scales: {
-				yAxes: [{
-					ticks: {
-						beginAtZero:true
-					}
+	
+	function vsAddStyles () {
+		console.log("addstyles ran");
+		$('#show-goal-heading > p').addClass('.heading');
+		$('#show-goal-heading > p').css("color", "#333");
+	}
+	
+		
+	
+	function buildChart (ratingArray){
+			var ctx = document.getElementById("myChart").getContext('2d');
+			var myChart = new Chart(ctx, {
+			type: 'bar',
+			data: {
+				labels: ["Making Progress", "Making Some Progress", "Not Changing", "Getting Somewhat Worse", "Getting Worse"],
+				datasets: [{
+					label: 'Percentage',
+					data: ratingArray,
+					backgroundColor: [
+						'rgba(255, 99, 132, 0.2)',
+						'rgba(54, 162, 235, 0.2)',
+						'rgba(255, 206, 86, 0.2)',
+						'rgba(75, 192, 192, 0.2)',
+						'rgba(153, 102, 255, 0.2)'
+
+					],
+					borderColor: [
+						'rgba(255,99,132,1)',
+						'rgba(54, 162, 235, 1)',
+						'rgba(255, 206, 86, 1)',
+						'rgba(75, 192, 192, 1)',
+						'rgba(153, 102, 255, 1)'
+					],
+					borderWidth: 1
 				}]
+			},
+			options: {
+				scales: {
+					yAxes: [{
+						ticks: {
+							beginAtZero:true
+						}
+					}]
+				}
 			}
-		}
-	});
+		});
+	};
 });
 
