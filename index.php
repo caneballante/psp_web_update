@@ -102,7 +102,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/press-release-dennis-mclarren-appointed-to-leadership-council.jpg"  alt=""/> <strong>5.11.17<br>
 						</strong>NEWS RELEASE<br>
-						<a href="2017-day-on-the-hill.php">
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/199f6ff">
 						GOVERNOR INSLEE APPOINTS DENNIS MCLERRAN TO PUGET SOUND PARTNERSHIP LEADERSHIP COUNCIL
 						</a><br>
 						<!--END news content BOX--> 
