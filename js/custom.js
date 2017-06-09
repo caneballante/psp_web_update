@@ -3,8 +3,9 @@
 $(document).ready(function () {
 	$("#nav" + navSelected).addClass("active");
 	$("#nav" + navSelected).addClass("subNavOn");
-	$("#subnav" + subNavSelected).addClass("active");
-
+	if (subNavSelected != "non"){
+		$("#subnav" + subNavSelected).addClass("active");
+	}
 
 	$.getJSON('json/newsreleases.json', function (data) {
 		newsReleasesData = data;
