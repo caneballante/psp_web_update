@@ -99,15 +99,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="https://pspwa.box.com/s/q5wmppvzecgq51llexwmk64jzcfs1uy3">Puget Sound Acquisition and Restoration (PSAR) Benefiting People and the Environment (fact sheet)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/t5rcb4va7ozzhjhetgorffdf7alonshg">Puget Sound Acquisition and Restoration (PSAR) Ranked Project List and Map</a></li>
-				<!--<li role="presentation"><a href="https://pspwa.box.com/s/mdwgvfhr7zvlq7d3kngxyt7b8uai5pg3" target="new">Puget Sound Acquisition and Restoration (PSAR) large capital projects: request for proposals for the 2017-19 state biennium</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/804inzvuvi1dppiswxh5cbnmqnrevdd7" title="Salmon Recovery Council PSAR Policies" target="_blank">Salmon Recovery Council PSAR Policies</a></li>
-				<li role="presentation"><a href="https://app.box.com/s/5h7adnq2hd7u3srmiqqd" target="new">PSAR FUND 2015-17 Ranked List and Map</a></li>
-				<li role="presentation"><a href="https://app.box.com/s/ii5hkscxa6zk98juwz51" target="new">PSAR 2015-17 Project Snapshots Factsheets Individual</a> </li>
-				<li role="presentation"><a href=" https://app.box.com/s/fct26xzwhsh3co3kuefl" target="new">PSAR 2015-17 Project Snapshots Factsheets Combined</a> </li>
-				<li role="presentation"><a href="https://app.box.com/s/3pmck57jdlx5qho7ikwk" target="new">PSAR FUND Fact Sheet</a> </li>
-				<li role="presentation"><a href="https://app.box.com/s/31rg8lftqjecrrc6erv3" target="new">PSAR FUND Fact Sheet 11"x17" printable</a> </li>
-				<li role="presentation"><a href="https://app.box.com/s/6bec8ax6ruaytrk4d5ms" target="new">PSAR 2013-15 Project Map</a> </li>
-				<li role="presentation"><a href="https://pspwa.app.box.com/files/0/f/3135971089/1/f_47216460041" target="new">PSAR Return on Investment 2007-2015</a> </li>-->
+				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
