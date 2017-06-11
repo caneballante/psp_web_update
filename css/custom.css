@@ -92,12 +92,13 @@ h1 {
 }
 }
 h2 {
-	font-size: 16px;
+	font-size: 22px;
 	font-weight: 900;
 	/*border-bottom: solid #777 1px;*/
 	margin-top: 50px;
 	padding-bottom: 25px;
 	margin-bottom: 0px;
+	color: #0a3b5c;
 }
 h3 {
 	font-size: 12px;
@@ -105,7 +106,7 @@ h3 {
 }
 p {
 	font-size: 15px;
-	line-height: 1.8;
+	line-height: 1.9;
 	font-family: georgia, times, serif;
 }
 /* ul, ol, and a styles nested in "content-column" to keep them seperate from all the navigation styles */
