@@ -87,6 +87,19 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/announcement-salish-sea-conference-seagull.jpg"  alt=""/> <strong>6.11.17<br>
+						</strong>CALL FOR SESSIONS!<br>
+						<a href="2017-day-on-the-hill.php">2018 SALISH SEA CONFERENCE APRIL 4-6: SUBMITAL FOR SESSIONS JULY 14TH, 2017 </a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 	
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/press-release-puget-sound-day-on-the-hill-2017.jpg"  alt=""/> <strong>5.17.17<br>
 						</strong>GOVERNOR'S OFFICE<br>
 						<a href="2017-day-on-the-hill.php">PUGET SOUND RECOVERY LEADERS TRAVEL TO D.C., ASK FOR SUPPORT FROM CONGRESS </a><br>
@@ -127,36 +140,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>3.24.17<br>
-						</strong>LEGISLATIVE SESSION<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18f987d" target="new"> MID-TERM LEGISLATIVE UPDATE (3.24.17)</a><br>
-						
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>2.16.17<br>
-						</strong>BLOG<br>
-						<a href="http://www.psp.wa.gov/blog/?p=760" target="new">NEW ACTION AGENDA REPORT CARD GETS AN A+</a><br>
-						
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+			
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
