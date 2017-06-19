@@ -128,8 +128,9 @@
 			<h5>Arjean Travis</h5>
 			<p> Grants, Contracts, and Compliance Manager<br />
 				360.464.2001 | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov</a></p>
-			<h5>vacant</h5>
-			<p> Fiscal Analyst<br /></p>
+			<h5>Phan Doan</h5>
+			<p> Fiscal Analyst<br />
+				360.464.2004 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov</a></p>
 		<br />
 			
             <!--ADMINISTRATION-->
@@ -140,10 +141,10 @@
             <h5>charisse sonnier</h5>
 			<p> Administrative Assistant<br />
 				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
-            <h5>BREYANNA DEMARCO</h5>
+            <h5>Vacant</h5>
 			<p> Administrative Assistant<br />
-			360.339.8942 | <a href="mailto:breyanna.demarco@psp.wa.gov">breyanna.demarco@psp.wa.gov</a></p>
-			</p>
+		</p>
+			
 	    <a name="administrative_services"></a><br />
 			
 			
