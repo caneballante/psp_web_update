@@ -1,28 +1,64 @@
 {
 	"news-releases": {
+		"release21": {
+			"date": "May 17, 2017",
+			"link": "<a href:'https://lnks.gd/2/3hmb9h' target='new'> Puget Sound Partnership Media Advisory: Science Panel to hear updates on landowner incentive programs, State of the Sound report</a>"
+		},
 		"release20": {
 			"date": "May 11, 2017",
-			"link": "<a href:'https://content.govdelivery.com/accounts/WAPSP/bulletins/199f6ff'> Puget Sound Partnership News Release: Governor Inslee appoints Dennis McLerran to Puget Sound Partnership Leadership Council</a>"
+			"link": "<a href:'https://content.govdelivery.com/accounts/WAPSP/bulletins/199f6ff 'target='new'> Puget Sound Partnership News Release: Governor Inslee appoints Dennis McLerran to Puget Sound Partnership Leadership Council</a>"
 		},
 		"release19": {
 			"date": "April 27, 2017",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/196d3d8'>Puget Sound Day on the Hill draws Puget Sound leaders to Washington, D.C., May 1-3 </a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/196d3d8' target='new'>Puget Sound Day on the Hill draws Puget Sound leaders to Washington, D.C., May 1-3 </a>"
+		},
+		"release22": {
+			"date": "March 28, 2017",
+			"link": "<a href='https://lnks.gd/2/3RNp65' target='new'>Puget Sound Partnership Media Advisory: Leadership Council to discuss Action Agenda update, tour restoration sites</a>"
+		},
+		"release23": {
+			"date": "March 21, 2017",
+			"link": "<a href='https://lnks.gd/2/3PBnv2' target='new'>Puget Sound Partnership Media Advisory: Puget Sound Partnership Media Advisory: Salmon Recovery Council to review plans for Chinook Salmon recovery</a>"
+		},
+		"release24": {
+			"date": "February 28, 2017",
+			"link": "<a href='https://lnks.gd/2/3J8RTM' target='new'>Puget Sound Partnership Media Advisory: Ecosystem Coordination Board to discuss Action Agenda funding</a>"
 		},
 		"release18": {
 			"date": "February 14, 2017",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/1873f71' target='new'>Puget Sound Partnership Science Panel to discuss net pen aquaculture, Action Agenda</a>"
 		},
+		"release25": {
+			"date": "January 25, 2017",
+			"link": "<a href='https://lnks.gd/2/38dnbw' target='new'>Puget Sound Partnership media advisory: Salmon Recovery Council to discuss Chinook salmon recovery and funding distribution</a>"
+		},
+		"release26": {
+			"date": "December 13, 2016",
+			"link": "<a href='https://lnks.gd/2/2wj5j6' target='new'>Puget Sound Partnership Media Advisory: Science Panel to review role of science in Puget Sound recovery efforts</a>"
+		},
 		"release17": {
 			"date": "December 6, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/177b149'>Governor Inslee names Jay Manning as Puget Sound Partnership Leadership Council Chair</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/177b149' target='new'>Governor Inslee names Jay Manning as Puget Sound Partnership Leadership Council Chair</a>"
+		},
+		"release27": {
+			"date": "December 5, 2016",
+			"link": "<a href='https://lnks.gd/2/2tdX-V'>Puget Sound Partnership media advisory: Leadership Council to bid farewell to retiring chairperson, Martha Kongsgaard</a>"
+		},
+		"release28": {
+			"date": "November 30, 2016",
+			"link": "<a href='https://lnks.gd/2/2t2HwM' target='new'>Puget Sound Partnership media advisory: Salmon Recovery Council to discuss funding for Puget Sound recovery projects</a>"
+		},
+		"release28": {
+			"date": "November 8, 2016",
+			"link": "<a href='https://lnks.gd/2/2mp5dB' target='new'>Media Advisory: Ecosystem Coordination Board to discuss Action Agenda updates, funding at Nov. 10 meeting</a>"
 		},
 		"release16": {
 			"date": "October 24, 2016",
-			"link": "<a href:'https://content.govdelivery.com/accounts/WAPSP/bulletins/16d7688'> Puget Sound Partnership Science Panel to discuss climate vulnerability assessment, other Puget Sound issues</a>"
+			"link": "<a href:'https://content.govdelivery.com/accounts/WAPSP/bulletins/16d7688' target='new'> Puget Sound Partnership Science Panel to discuss climate vulnerability assessment, other Puget Sound issues</a>"
 		},
 		"release15": {
 			"date": "October 6, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/1695666'>Media Advisory: Puget Sound Partnership's Leadership Council to discuss salmon recovery and more at Oct. 6 meeting</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/1695666' target='new'>Media Advisory: Puget Sound Partnership's Leadership Council to discuss salmon recovery and more at Oct. 6 meeting</a>"
 		},
 		"release14": {
 			"date": "September 20, 2016",
@@ -34,55 +70,55 @@
 		},
 		"release12": {
 			"date": "August 23, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/15ef44c'>Media advisory: Puget Sound Partnership Science Panel to discuss Science Work Plan, coastal resilience, sea-level rise</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/15ef44c' target='new'>Media advisory: Puget Sound Partnership Science Panel to discuss Science Work Plan, coastal resilience, sea-level rise</a>"
 		},
 		"release11": {
 			"date": "July 21, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/157d7e6'>News release: Governor Inslee appoints Deborah Jensen to Puget Sound Partnership’s Leadership Council</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/157d7e6' target='new'>News release: Governor Inslee appoints Deborah Jensen to Puget Sound Partnership’s Leadership Council</a>"
 		},
 		"release10": {
 			"date": "June 24, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/1516532'>Media Advisory: Puget Sound Partnership Leadership Council to consider adoption of 2016 Puget Sound Action Agenda at June 29 meeting</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/1516532' target='new'>Media Advisory: Puget Sound Partnership Leadership Council to consider adoption of 2016 Puget Sound Action Agenda at June 29 meeting</a>"
 		},
 		"release9": {
 			"date": "June 17, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/1501d66'>Media advisory: Science Panel to discuss Biennial Science Work Plan, Marine Survival Project, Implementation Strategies</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/1501d66' target='new'>Media advisory: Science Panel to discuss Biennial Science Work Plan, Marine Survival Project, Implementation Strategies</a>"
 		},
 		"release8": {
 			"date": "June 7, 2016",
-			"link": "<a href=https://content.govdelivery.com/accounts/WAPSP/bulletins/14dfb76'>Puget Sound Partnership media advisory: Puget Sound Salmon Recovery Council and Ecosystem Coordination Board to discuss 2016 Action Agenda</a>"
+			"link": "<a href=https://content.govdelivery.com/accounts/WAPSP/bulletins/14dfb76' target='new'>Puget Sound Partnership media advisory: Puget Sound Salmon Recovery Council and Ecosystem Coordination Board to discuss 2016 Action Agenda</a>"
 		},
 		"release7": {
 			"date": "May 31, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/14c958b'>Puget Sound Partnership media advisory: Science Panel to discuss updates to Action Agenda</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/14c958b' target='new'>Puget Sound Partnership media advisory: Science Panel to discuss updates to Action Agenda</a>"
 		},
 		"release6": {
 			"date": "May 24, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/14b4461'>Puget Sound Partnership Media Advisory: Salmon Recovery Council to meet May 26, discuss funding requests</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/14b4461' target='new'>Puget Sound Partnership Media Advisory: Salmon Recovery Council to meet May 26, discuss funding requests</a>"
 		},
 		"release5": {
 			"date": "March 19, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/149d6d2'>Puget Sound Partnership Media Advisory: Ecosystem Coordination Board to meet May 19, discuss work plan</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/149d6d2' target='new'>Puget Sound Partnership Media Advisory: Ecosystem Coordination Board to meet May 19, discuss work plan</a>"
 		},
 		"release4": {
 			"date": "May 11, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/14862dc'>Puget Sound Partnership Media Advisory: Science Panel meeting for May 11 cancelled</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/14862dc' target='new'>Puget Sound Partnership Media Advisory: Science Panel meeting for May 11 cancelled</a>"
 		},
 		"release3": {
 			"date": "March 11, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/1478066'>Puget Sound Partnership Media Advisory: Science Panel to meet May 11, in Puyallup</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/1478066' target='new'>Puget Sound Partnership Media Advisory: Science Panel to meet May 11, in Puyallup</a>"
 		},
 		"release2": {
 			"date": "April 21, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/144c2ff'>Puget Sound Partnership media advisory: Leadership Council to hear status of resident orca, updates to 2016 Action Agenda </a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/144c2ff' target='new'>Puget Sound Partnership media advisory: Leadership Council to hear status of resident orca, updates to 2016 Action Agenda </a>"
 		},
 		"release1": {
 			"date": "March 24, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/13f10d0'>Public invited to learn about Draft 2016 Action Agenda for Puget Sound</a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/13f10d0' target='new'>Public invited to learn about Draft 2016 Action Agenda for Puget Sound</a>"
 		},
 		"release0": {
 			"date": "March 18, 2016",
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/13dc539'> Science Panel hears recovery funding update; Salmon Recovery Council discusses ecosystem recovery plans </a>"
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/13dc539' target='new'> Science Panel hears recovery funding update; Salmon Recovery Council discusses ecosystem recovery plans </a>"
 		}
 
 	}
