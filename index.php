@@ -146,21 +146,23 @@
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
 		
-		<!--COLUMN START-->
+		
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox jobbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>5.15.17<br>
+						<strong>3.14.17<br>
 						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington?department[0]=Puget Sound Partnership&sort=PositionTitle|Ascending&pagetype=jobOpportunitiesJobs&jobId=1649530&jobName=chief-operating-officer-ems3&tab=1" target="new">CHIEF OPERATING OFFICER</a><br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget Sound Partnership&sort=PositionTitle|Ascending&pagetype=jobOpportunitiesJobshttps://www.governmentjobs.com/careers/washington/jobs/1713876/fiscal-analyst-3-ap-ar-travel-03437" target="new">FISCAL ANALYST 3</a><br>
 						
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			<!--COLUMN START-->
+			
+								<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox jobbox">
 					<div class="newsbox-text"> 
@@ -174,6 +176,11 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
+		
+		
+			
+			
+			
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
