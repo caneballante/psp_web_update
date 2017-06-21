@@ -146,7 +146,20 @@
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
 		
-		
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox jobbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<strong>6.21.17<br>
+						</strong> EMPLOYMENT<br>
+						<a href="https://www.governmentjobs.com/careers/washington?department[0]=Puget Sound Partnership&sort=PositionTitle|Ascending&pagetype=jobOpportunitiesJobs&jobId=1649530&jobName=chief-operating-officer-ems3&tab=1" target="new">CHIEF OPERATING OFFICER</a><br>
+						
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox jobbox">
