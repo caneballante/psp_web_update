@@ -60,7 +60,7 @@ a[href^="http"] {
 }
 /*add this style to links that are on the dark blue background*/
 .light-blue-links a {
-	color: #1590cd;
+	color: #1ab3ff;
 }
 #home-squares a {
 	font-size: 14px;
@@ -140,6 +140,9 @@ p {
 }
 .blue-fill {
 	background-color: #0a3b5c;
+}
+.very-light-blue-fill {
+	background-color: #c2e6ff;
 }
 .white {
 	color: #fff;
@@ -304,41 +307,28 @@ p {
 	width: 500px;
 	margin: auto;
 }
-
 .floatright{
 	float: right;
 }
-
 /*news boxes on homepage*/
-
 .newsbox {
 	height: 148px;
 	background-color: #0a3b5c;
 	color: #ffffff;
 	margin-top: 20px;
-	border-radius: 10px;
-}
-.jobbox {
-	height: 148px;
-	background-color: #00293e;
-	color: #ffffff;
-	margin-top: 20px;
-	border-radius: 10px;
-}
-
-/* make the news boxes a little shorter on mobile*/
-@media (max-width: 768px) {
-.newsbox {
-	height: 120px;
-}
+	border-radius: 0px 15px 15px 15px;
 }
 /*hover color for the newsbox div - jquery makes it clickable*/
-.newsbox:hover {
+/*.newsbox:hover {
 	background-color: rgba(245,180,50,1.00);
-}
+	color: #00293e;
+}*/
 .newsbox a {
-	color: #1590cd;
+	color: #1ab3ff;
 }
+/*.newsbox a:hover {
+	color: #00293e;
+}*/
 .newsbox-date {
 	height: 45px;
 	width: 54px;
@@ -357,6 +347,31 @@ p {
 	font-weight: 900px;
 	letter-spacing: 1px;
 }
+.newsbox-with-img{
+	height: 320px;
+}
+.jobbox {
+	background-color: #00293e;
+	color: #ffffff;
+}
+.calendarbox {
+	background-color: #F18B20;
+	color: #ffffff;
+}
+.calendarbox a {
+	color: #ffffff;
+}
+
+/* make the news boxes a little shorter on mobile*/
+@media (max-width: 768px) {
+	.newsbox {
+		height: 120px;
+	}
+	.newsbox-with-img{
+		height: 320px;
+	}
+}
+
 /*Highlight a piece of content in a blue box!*/
 .highlightbox {
 	background-color: rgba(227,237,249,1.00);
@@ -441,7 +456,7 @@ intro .brand-heading {
 }
 /*blue link color needs to be lighter on the dark blue*/
 #myModal a {
-	color: #1590cd;
+	color: #1ab3ff;
 	font-size: 16px
 }
 /*the search text turns white from modal-body-custom I turn it black here*/
@@ -638,6 +653,16 @@ intro .brand-heading {
 .overview-page-image101 {
 	background: url(../images/inside_image_101.jpg)no-repeat bottom center scroll;
 }
+.overview-page-image102 {
+	background: url(../images/inside_image_102.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image103 {
+	background: url(../images/inside_image_103.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image104 {
+	background: url(../images/inside_image_104.jpg)no-repeat bottom center scroll;
+}
+
 
 
 .overview-page-image-style {

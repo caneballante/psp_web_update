@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Local Integrating Organizations Overview</title>
+<title>Puget Sound Partnership - 2016 Action Agenda Update</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,7 +25,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
+  	navSelected = 3;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -41,14 +41,19 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image13"> </header>
+<header class="overview-page-image-style overview-page-image104">
+	<div class="overview-quote pull-right">
+		<h3>&nbsp;</h3>
+	</div>
+</header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>LOCAL INTEGRATING ORGANIZATIONS (LIOs)</h1>
-			<p>&nbsp;</p>
+			<h1>2016 action agenda UPDATE:<br>
+				UPDATES AND ANNOUNCEMENTS <br>
+			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -58,35 +63,30 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-local-recovery-efforts.html';?>
+				<?php include 'includes/ln-2018-AA.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Local communities around the Puget Sound are working to integrate local efforts to advance the Action Agenda.  Local governments, tribes, non-profit organizations, watershed, marine resource, and salmon recovery groups, interest groups, businesses, educational organizations, and citizens are collaborating to develop and coordinate local integrating organizations that foster implementation of Action Agenda priorities. To learn more about how Local Integrating Organizations are contributing to regional recovery planning efforts, please visit the<a href="2016_AA_LIO_planning.php"> 2016 ACTION AGENDA UPDATE: LIO PLANNING</a> page.</p>
-			<p>The local integrating organizations enable communities to guide the implementation of Action Agenda priorities at an ecosystem scale, and to prioritize local actions for investment. </p>
-			<p>To date, the Leadership Council has recognized local integrating organizations in nine geographic areas.  For more information and to contact the local integrating organization in your area see the links below.</p>
-			<p style="font-weight: bold">Local Integrating Organizations:</p>
-			<ul>
-				<li><a href="http://www.sanjuanlio.com" target="new">San Juan Action Agenda Oversight Group </a></li>
-				<li><a href="http://www.govlink.org/sc-puget-sound-action-area/Index.htm" target="new">South Central Action Area Caucus Group</a></li>
-				<li><a href="http://www.healthysouthsound.org/" target="new">Alliance for a Healthy South Sound</a></li>
-				<li><a href="http://hccc.wa.gov/" target="new">Hood Canal Coordinating Council </a></li>
-				<li> <a href="http://www.westcentrallio.org" target="new">West Central LIO</a></li>
-				<li><a href="http://wria1project.whatcomcounty.org/" target="new">Whatcom LIO</a> (<a href="http://wria1project.whatcomcounty.org/" target="new">WRIA 1 Policy Boards</a>)</li>
-				<li>Strait Ecosystem Recovery Network (website in development)</li>
-				<li><a href="http://www.islandcountywa.gov/Health/DNR/ILIO/Pages/Home.aspx" target="new">Island LIO</a></li>
-				
-				
+			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
 			
-				<li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization" target="new"> Snohomish/Stillaguamish LIO </a></li>
-			</ul>
-			<h2>&nbsp;</h2>
 			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
+				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
+				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
