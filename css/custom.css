@@ -265,6 +265,9 @@ p {
 .margin-20-left {
 	margin-left: 20px;
 }
+.margin-20-all {
+	margin: 20px;
+}
 /*align*/
 .align-right {
 	text-align: right;
@@ -274,6 +277,9 @@ p {
 }
 .align-center {
 	text-align: center;
+}
+.underline {
+	text-decoration-line: underline;
 }
 .auto-size {
 	width: 100%;

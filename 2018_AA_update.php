@@ -52,8 +52,6 @@
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>2018 action agenda UPDATE</h1>
-			<h1><br>
-			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -72,21 +70,21 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 			<h2 class="margin-0-top">What is in the Action Agenda?</h2>
-			<p>The Action Agenda for Puget Sound is the shared roadmap to recovering our nation's largest estuary– it identifies the goals and strategies for recovery and describes how the work of many partner organizations contributes to improving the health of Puget Sound.</p>
+			<p>The Action Agenda for Puget Sound charts the course to recovery our nation's largest estuary–it identifies the goals and strategies for recovery and describes how the work of many partner organizations contributes to improving the health of Puget Sound.</p>
 			<p>The 2018 update is expected to result in a more focused Action Agenda designed to accelerate Puget Sound recovery. The Action Agenda comprises two components: the <em>Comprehensive Plan</em> and the <em>Implementation Plan</em>.</p>
 			<ul>
-				<li> The <strong>Comprehensive Plan</strong>provides the roadmap for long-term Puget Sound recovery by outlining overarching strategies for successful protection and restoration, identifying the full scope of actions and funding necessary for recovery, and introducing the approaches by which issues and activities are prioritized, progress is evaluated, and strategies and actions are adapted over time.  The 2018 update will include only minor revisions to the <em>Comprehensive Plan</em>.  A major revision to the <em>Comprehensive plan</em> will be part of the 2022 Action Agenda update. </li>
-				<li>The<strong> Implementation Plan</strong> is the<em>&nbsp;action</em>&nbsp;component of the Action Agenda. It represents the collective effort focused on Puget Sound recovery for the next four years (2018-2022). Based on the fundamental framework and broad strategies described in the&nbsp;<em>Comprehensive Plan</em>, the&nbsp;<em>Implementation Plan</em>&nbsp;defines the suite of Near Term Actions and ongoing programs that will ensure the progress necessary over the next four years to advance recovery for the <em>Puget Sound Vital Signs</em>.  The 2018 update will include a major revision to the <em>Implementation plan</em>. </li>
+				<li> The <strong>Comprehensive Plan </strong>charts the course for long-term Puget Sound recovery by outlining overarching strategies for successful protection and restoration, identifying the full scope of actions and funding necessary for recovery, and introducing the approaches by which issues and activities are prioritized, progress is evaluated, and strategies and actions are adapted over time.  The 2018 update will include only minor revisions to the <em>Comprehensive Plan</em>.  A major revision to the <em>Comprehensive Plan</em> will be part of the 2022 Action Agenda update. </li>
+				<li>The<strong> Implementation Plan</strong> is the<em>&nbsp;action</em>&nbsp;component of the Action Agenda. It represents the collective effort focused on Puget Sound recovery for the next 4 years (2018&#8212;2022). Based on the fundamental framework and broad strategies described in the&nbsp;Comprehensive Plan, the&nbsp;Implementation Plan&nbsp;defines the suite of Near Term Actions and ongoing programs that will ensure the progress necessary over the next 4 years to advance recovery for the Puget Sound Vital Signs.  The 2018 update will include a major revision to the Implementation Plan. </li>
 			</ul>
 			<p> All actions are informed by science and are designed to contribute toward achieving our recovery goals to improve Puget Sound.   </p>
-			<p>The Action Agenda's Implementation Plan focuses implementation into three <a href="2016_AA_strategic-initiatives-update.php">Strategic Initiatives</a>:</p>
+			<p>The Action Agenda's Implementation Plan focuses implementation into three Strategic Initiatives:</p>
 			<ul>
-				<li>Prevent pollution from stormwater runoff</li>
-				<li>Protect and restore habitat</li>
-				<li> Protect and recovery shellfish beds</li>
+				<li>Prevent pollution from <strong>stormwater</strong> runoff</li>
+				<li>Protect and restore <strong>habitat</strong></li>
+				<li> Protect and recover<strong> shellfish</strong> beds</li>
 			</ul>
 			<p>These initiatives represent priorities for Puget Sound, balancing ecological, economic and human wellbeing factors to focus on actions that make the greatest progress toward ecosystem recovery targets for the time and resources spent. The Strategic Initiatives help direct spending and resources, and guide the Partnership&rsquo;s work with partners to increase funding, seek policy changes, report successes and challenges, and educate and engage people in the recovery effort.</p>
-			<p>The Implementation Plan includes a suite of priority&nbsp;<strong>Near Term Actions</strong>&nbsp;to ensure recovery progress within the Strategic Initiatives over the next four years. Near Term Actions are new, expanded, or enhanced programs, specific projects, or scientific investigations. The Implementation Plan also includes ongoing programs that are part of existing Puget Sound recovery efforts and are aligned within the Strategic Initiatives. </p>
+			<p>The Implementation Plan includes a suite of priority&nbsp;<strong>Near Term Actions</strong>&nbsp;to ensure recovery progress within the Strategic Initiatives over the next 4 years. Near Term Actions are new, expanded, or enhanced programs, specific projects, or scientific investigations. The Implementation Plan also includes ongoing programs that are part of existing Puget Sound recovery efforts and are aligned within the Strategic Initiatives. </p>
 			<h2>HOW DO ACTIONS GET INCLUDED IN THE ACTION AGENDA?</h2>
 			<p><a href="2018_AA_solicitation_for_NTAs.php">Near Term Actions (NTAs)</a> will be solicited in September 2017.  Government organizations (tribal, federal, state, local, special purpose districts), academic institutions, businesses, and non-profit organizations may sponsor NTAs and propose them for inclusion in the Action Agenda. Where proposed actions align with the priorities selected for the three Strategic Initiatives and meet other threshold criteria, they may be prioritized for inclusion in the Action Agenda.</p>
 			<div>
