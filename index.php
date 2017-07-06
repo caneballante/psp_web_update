@@ -46,7 +46,7 @@
 		<div class="col-sm-3 padding-10-top">
 			<h1>ROADMAP TO RECOVERY</h1>
 			<div class="padding-5-bottom"><a href="action_agenda_center.php">ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
-			<div class="padding-5-bottom"><a href="2016_AA_update.php">2016&nbsp;ACTION AGENDA&nbsp;UPDATE</a></div>
+			<div class="padding-5-bottom"><a href="2018_AA_update.php"><span class="orange"><strong>NEW! </strong></span>2018&nbsp;ACTION AGENDA&nbsp;UPDATE</a></div>
 			<a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
 		<div class="col-sm-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive img-rounded"/></div>
 		<div class="col-sm-3 padding-10-top">
@@ -80,6 +80,21 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt=""/> 
+						<strong>7.5.17<br>
+						</strong>
+						<a href="2018_AA_solicitation_for_NTAs.php" target="new">PUBLIC COMMENT PERIOD FOR THE DRAFT SOLICITATION FOR NEAR TERM ACTIONS (NTAs) FOR THE 2018-2022 IMPLEMENTATION PLAN RUNS 7/6 to 7/27/17</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -124,20 +139,7 @@
 			</div>
 			<!--COLUMN END--> 
 				
-				<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/e-clips-puget-sound.jpg"  alt=""/> 
-						<strong>5.30.17<br>
-						</strong>E-CLIPS<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/19e1687" target="new">NEWS FROM AROUND THE SOUND RELATED TO PUGET SOUND RECOVERY</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+				
 			
 		</div>
 		<!--ROW END--> 
