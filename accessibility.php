@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - 2018 Action Agenda Update Announcements</title>
+<title>Accessibility Policy</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,8 +25,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 3;
-</script>
+  	navSelected = 8;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -41,7 +41,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image104">
+<header class="overview-page-image-style overview-page-image8">
 	<div class="overview-quote pull-right">
 		<h3>&nbsp;</h3>
 	</div>
@@ -51,9 +51,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2018 action agenda UPDATE:<br>
-				UPDATES AND ANNOUNCEMENTS <br>
-			</h1>
+			<h1>ACCESSIBILITY POLICY</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -63,30 +62,32 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-2018-AA.html';?>
+				<?php include 'includes/ln-psp-overview.html';?>	
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
+			<h2 class="margin-0-top">OUR COMMITMENT TO ACCESSIBILITY</h2>
+			<p>The Puget Sound Partnership (PSP) recognizes the importance of using technology to provide information and services to carry out our mission. As such, RCO is committed to ensuring our Web sites, documents, and application systems are accessible to the public and Washington State employees, including individuals with disabilities</p>
+			<h2>GUIDELINES AND STANDARDS</h2>
+			<p>PSP strives to meet the Washington State Office of the Chief Information Officer (OCIO)<a href="https://ocio.wa.gov/policy/accessibility" target="_blank"> Policy 188 Accessibility</a>, <a href="http://ocio.wa.gov/policy/minimum-accessibility-standard" target="_blank">188.10 Minimum Accessibility Standards, </a>and the <a href="http://www.w3.org/TR/WCAG20/" target="_blank">Web Content Accessibility Guidelines (WCAG) 2.0</a>, Level AA compliance, including the guidelines associated with these principles:</p>
+			<ol>
+				<li><strong>Perceivable:</strong> Information and user interface components must be presentable to users in ways they can perceive.</li>
+				<li><strong>Operable:</strong> User interface components and navigation must be operable.</li>
+				<li><strong>Understandable:</strong> Information and the operation of user interface must be understandable.</li>
+				<li><strong>Robust:</strong> Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.</li>
+			</ol>
+			<h2>Need assistance with our Web sites or want to report an accessibility issue?</h2>
+			<p>Please contact the PSP Accessibility Coordinator with information on Web sites, documents, or application systems that are not fully accessible to you, along with the type of accommodation that you need. The Accessibility Coordinator will review your accessibility request, contact the responsible agency staff, determine how to best meet your accessibility request, and respond to you within five (5) business days with the access or information that you need, and the plan to improve accessibility in the future. </p>
+			<h3>Contact Us</h3>
+			<p><a href="mailto:rick.berman@psp.wa.gov">Accessibility Coordinator</a>,<br>
+			360.999.3847</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
-				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
-				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
-				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

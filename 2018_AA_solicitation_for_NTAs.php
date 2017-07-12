@@ -66,9 +66,11 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Puget Sound Partnership is accepting public comments on the draft Solicitation for Near Term Actions (NTAs) for the 2018-2022 Action Agenda Implementation Plan. The public comment period will be open from July 6 to July 27, 2017. </p>
-			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/jx0clew5vaxayzsxxl8731ccbhef926h" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan.</strong></a></p>
-			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/dlbviqehuki93ccsoodhcjt80p443ndh" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan Appendix A: Regional Priorities</strong></a><br>
-			<em class="small">Please note that the Draft Regional Priorities for the Chinook Vital Sign are still being finalized. The Draft Solicitation will be updated as soon as the Chinook Regional Priorities are available and an email notification will be sent out. Comments on other sections of the Solicitation can still be submitted in the interim.</em></p>
+			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/jx0clew5vaxayzsxxl8731ccbhef926h" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan (UPDATED July 12, 2017)</strong></a>
+				<em><br>
+				Revised on July 12, 2017 with a limited change regarding NTA eligibility.</em></p>
+			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/dlbviqehuki93ccsoodhcjt80p443ndh" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan Appendix A: Regional Priorities (UPDATED July 12, 2017)</strong></a><br>
+			<em>The update adds Regional Priorities for the Chinook Vital Sign.</em></p>
 			<h2>How can I provide comments?</h2>
 			<p><a href="2018_AA_NTA_draft_comment_form.php"><strong>File your comments by using this online form.</strong></a><br>
 				<br>
