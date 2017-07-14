@@ -92,10 +92,7 @@
 			<h5>Jon Bridgman</h5>
 			<p> Designer<br />
 				360.999.3847 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
-			<h5>Erika Lari</h5>
-			<p> Designer<br />
-				360.999.3806 | <a href="mailto:erika.lari@psp.wa.gov">erika.lari@psp.wa.gov</a></p><br>
-         
+		<br>
 				
 						
 			<h3>GOVERNMENT RELATIONS</h3>
@@ -242,9 +239,9 @@
 			
 
 			<!--P.P. - ACTION AGENDA-->
-			<h5>Peter Best</h5>
+			<h5>Vacant</h5>
 			<p> Action Agenda Manager <br />
-				360.628.2369 | <a href="mailto:peter.best@psp.wa.gov">peter.best@psp.wa.gov</a>			</p>
+				</p>
 			<h3>ECOSYSTEM RECOVERY TEAM 1</h3>
             <h5>Stacy Vynne</h5>
             <p> Regional Manager<br />
