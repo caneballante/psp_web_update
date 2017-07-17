@@ -69,7 +69,7 @@
 			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/jx0clew5vaxayzsxxl8731ccbhef926h" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan (UPDATED July 12, 2017)</strong></a>
 				<em><br>
 				Revised on July 12, 2017 with a limited change regarding NTA eligibility.</em></p>
-			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/dlbviqehuki93ccsoodhcjt80p443ndh" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan Appendix A: Regional Priorities (UPDATED July 12, 2017)</strong></a><br>
+			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/dlbviqehuki93ccsoodhcjt80p443ndh" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan APPENDIX A: REGIONAL PRIORITIES (UPDATED July 12, 2017)</strong></a><br>
 			<em>The update adds Regional Priorities for the Chinook Vital Sign.</em></p>
 			<h2>How can I provide comments?</h2>
 			<p><a href="2018_AA_NTA_draft_comment_form.php"><strong>File your comments by using this online form.</strong></a><br>

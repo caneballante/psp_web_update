@@ -126,10 +126,10 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/press-release-dennis-mclarren-appointed-to-leadership-council.jpg"  alt=""/> <strong>5.11.17<br>
-						</strong>NEWS RELEASE<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/199f6ff">
-						GOVERNOR INSLEE APPOINTS DENNIS MCLERRAN TO PUGET SOUND PARTNERSHIP LEADERSHIP COUNCIL
+						<img class="img-responsive img-rounded" src="images/news-images/e-clips-puget-sound.jpg"  alt=""/> <strong>7.14.17<br>
+						</strong>E-CLIPS<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1aa1ad4">
+						NEWS FROM AROUND THE SOUND
 						</a><br>
 						<!--END news content BOX--> 
 					</div>
