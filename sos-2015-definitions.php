@@ -90,7 +90,7 @@
 				<li>Estimates costs of achieving the recovery target.</li>
 			</ul>
 			<h3>Near Term Actions (NTAs)</h3>
-			<p>Discrete, measurable actions that clearly contribute to achieving the recovery targets and which can reasonably be accomplished within 2 years.  The status of NTAs can be found on the interactive <a href="http://psp.wa.gov/gis/ReportCard/" title="Action Agenda Report Card website" target="_blank">Action Agenda Report Card website</a> and reported in the State of the Sound: Report to the Governor and Legislature. </p>
+			<p>Discrete, measurable actions that clearly contribute to achieving the recovery targets and which can reasonably be accomplished within 2 years.  The status of NTAs can be found on the interactive <a href="http://www.psp.wa.gov/gis/ReportCard/" title="Action Agenda Report Card website" target="_blank">Action Agenda Report Card website</a> and reported in the State of the Sound: Report to the Governor and Legislature. </p>
 			<h3>Ongoing programs</h3>
 			<p>Continuing efforts—including regulatory, oversight, technical support, guidance, or other efforts—are distinguished from Near Term Actions because they are not discrete recovery actions.</p>
 			<h3>Performance management</h3>
@@ -136,7 +136,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="http://psp.wa.gov/gis/ReportCard/" target="_blank">Action Agenda Report Card</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/gis/ReportCard/" target="_blank">Action Agenda Report Card</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
 				<li role="presentation"> <a href="http://www.psp.wa.gov/sos-2013/sos2013.php">Past State of the Sound Reports</a></li>
 				

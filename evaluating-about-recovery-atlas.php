@@ -65,7 +65,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p><a href="http://psp.wa.gov/gis/RecoveryAtlas/">The Recovery Atlas</a> is a map-based, online tool that allows users to learn more about an important subset of Puget Sound restoration and protection projects financed or tracked by the <a href="http://www.rco.wa.gov/">Washington State Recreation and Conservation Office</a>. Clickable map markers allow users to view detailed information about each project. A range of filters enables searches on projects in specific geographical areas—such as county, legislative district, congressional district and watershed. Projects included in the Recovery Atlas are also associated with the Puget Sound Vital Signs. This enables users to isolate projects associated with a specific Vital Sign or group of Vital Signs. </p>
+			<p><a href="http://www.psp.wa.gov/gis/RecoveryAtlas/">The Recovery Atlas</a> is a map-based, online tool that allows users to learn more about an important subset of Puget Sound restoration and protection projects financed or tracked by the <a href="http://www.rco.wa.gov/">Washington State Recreation and Conservation Office</a>. Clickable map markers allow users to view detailed information about each project. A range of filters enables searches on projects in specific geographical areas—such as county, legislative district, congressional district and watershed. Projects included in the Recovery Atlas are also associated with the Puget Sound Vital Signs. This enables users to isolate projects associated with a specific Vital Sign or group of Vital Signs. </p>
 <p>&nbsp;</p>
 			<p>&nbsp;</p>
 			<p>&nbsp;</p>

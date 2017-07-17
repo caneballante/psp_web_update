@@ -110,10 +110,10 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="http://psp.wa.gov/gis/ReportCard/" target="_blank">Action Agenda Report Card</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/gis/ReportCard/" target="_blank">Action Agenda Report Card</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>
 				<li role="presentation"> <a href="evaluating-about-NEP-atlas.php">National Estuary Program Project Atlas</a></li>
-				<li role="presentation"> <a href="http://psp.wa.gov/gis/RecoveryAtlas/" target="_blank">Puget Sound Recovery Atlas</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/gis/RecoveryAtlas/" target="_blank">Puget Sound Recovery Atlas</a></li>
 				<li role="presentation"> <a href="sos-2015-action-agenda-progress.php#strat">2014 Ecosystem Coordination Board Funding Strategy</a></li>
 				<li role="presentation"> <a href="http://www.psp.wa.gov/sos-2013/sos2013.php">Past State of the Sound Reports</a></li>
 				<!-- InstanceEndEditable -->
