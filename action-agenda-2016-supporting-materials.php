@@ -137,6 +137,11 @@
 					</ul></td>
 				</tr>
 				<tr>
+					<td valign="top"><ul>
+						<li><a href="http://www.psp.wa.gov/science-adaptive-management-framework.php">Common results-based management framework</a> (adaptive management)</li>
+					</ul></td>
+				</tr>
+				<tr>
 					<td valign="top"><p><strong>Science and Evaluation</strong></p></td>
 				</tr>
 				<tr>
@@ -162,7 +167,7 @@
 						<li><a href="http://www.psp.wa.gov/evaluating-about-report-card.php">Action Agenda Report Card</a></li>
 					</ul></td>
 				</tr>
-				<tr>c
+				<tr>
 					<td valign="top"><ul>
 						<li><a href="http://www.psp.wa.gov/evaluating-about-recovery-atlas.php">Puget Sound Recovery Atlas</a></li>
 					</ul></td>

@@ -75,7 +75,7 @@
 			<li>Build conceptual cause-and-effect models of how strategies and actions can address pressures and ecosystem components</li>
 			<li>Identify expected results that form the basis for evaluating progress toward ecosystem recovery</li>
 		</ul>
-<p>Since 2009, the Partnership has used the Open Standards to develop Vital Sign indicators, describe sources of pressure and stressors on Puget Sound ecosystems, describe Chinook salmon recovery efforts and LIO planning priorities, and identify the roadmap for achieving Vital Sign indicator targets through use of Implementation Strategies.</p>
+<p>Since 2009, the Partnership has used the Open Standards to develop Vital Sign indicators, describe sources of pressure and stressors on Puget Sound ecosystems, describe Chinook salmon recovery efforts and LIO planning priorities, and identify the roadmap for achieving Vital Sign indicator targets through use of Implementation Strategies.<a href="science-adaptive-management-framework.php"> LEARN MORE</a></p>
 </p>
 		<!-- InstanceEndEditable --> </div>
 		
@@ -88,6 +88,8 @@
 					<!--<li role="presentation"> <a href="#">Chinook Monitoring &amp; Adaptive Management</a></li>-->
 					<li role="presentation"> <a href="2016_AA_LIO_planning.php">LIO Planning</a></li>
 					<li role="presentation"> <a href="implementation-strategies.php">Implementation Strategies</a></li>
+					<li role="presentation"><a href="science-adaptive-management-framework.php">Adaptive Management Framework: a results-based approach to managing Puget Sound recovery</a></li>
+			
 		
 						<!-- InstanceEndEditable -->
 			</ul>

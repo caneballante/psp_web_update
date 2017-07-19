@@ -47,7 +47,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>ADAPTIVE MANAGEMENT FRAMEWORK</h1>
+			<h1>ADAPTIVE MANAGEMENT FRAMEWORK:<br>
+A results-based approach to managing Puget Sound recovery</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -65,12 +66,47 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<p>The Puget Sound Partnership uses an adaptive approach to ecosystem recovery. This approach helps to accommodate the profound uncertainties about how the complex social-ecological system of Puget Sound responds to stresses and to management interventions.</p>
-		<p>The Adaptive Management Framework describes our approach to adaptive management. The Framework is applied by the Partnership and by our partners who implement the Action Agenda with the goal of improving the practice of science-based recovery of the Puget Sound ecosystem. <a href="https://pspwa.box.com/s/z8ftg6hvgk0c7ewy7j6whd5zi62idhye" target="new">DOWNLOAD </a></p>
-
-		<!-- InstanceEndEditable --> </div>
+		<p>The Puget Sound Partnership uses a results-based—or adaptive—approach to managing ecosystem recovery. This approach helps to ensure that decisions about ecosystem recovery priorities are based on the best available information about the effectiveness of management investments. This approach also helps accommodate the profound uncertainties about how the Puget Sound ecosystem―human and ecological―responds to stresses and to different management efforts.</p>
+			<p>The Adaptive Management Framework describes our approach to results-based management. The Framework is applied by the Partnership and by our partners who implement the Action Agenda with the goal of improving the practice of science-based recovery of the Puget Sound ecosystem.<a href="https://pspwa.box.com/s/z8ftg6hvgk0c7ewy7j6whd5zi62idhye">DOWNLOAD</a></p>
+			<p>Consistent with the <a href="http://cmp-openstandards.org/"><em>Open Standards for the Practice of Conservation</em></a>,&nbsp;the Partnership and partners have developed standards and best practices for building, evaluating, and adaptively managing ecosystem recovery plans. Applied at all levels of Puget Sound recovery—from the Action Agenda and Implementation Strategies to local planning at the Local Integrating Organization (LIO) and watershed scales—use of these <a href="https://pspwa.box.com/v/AdaptiveManagementTOC">common adaptive management standards</a> increases shared learning, supports integration across scales and topic areas, and maximizes the effectiveness of our collective actions. </p>
+			<p>Since 2009, the Partnership has been developing, testing, and improving adaptive management standards with input from many partners. These standards will continue to be improved over time as we learn more about coordinating recovery efforts. </p>
+			<p>The standards include common taxonomies for elements of recovery efforts, including Vital Signs, pressures, activities, and barriers to recovery, as well as common decision processes to describe and document the current context, describe theories of change associated with recovery strategies, and document the criteria for identifying priorities. <a href="https://pspwa.box.com/v/AdaptiveManagementTOC">LEARN MORE</a></p>
+<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="implementation-strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"> <a href="evaluating-vital-signs.php">Vital Signs</a></li>
+				
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="http://cmp-openstandards.org">Open Standards for Practice of Conservation</a></li>
+				<li role="presentation"> <a href="http://www.conservationmeasures.org">Conservation Measures Partnership</a></li>
+				<li role="presentation"> <a href="https://www.miradishare.org">Miradi Share</a></li>
+		
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-20-top ">RELATED RESOURCES</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="https://pspwa.box.com/s/z8ftg6hvgk0c7ewy7j6whd5zi62idhye">Adaptive Management Framework</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/v/AdaptiveManagementTOC">Adaptive Management Standards</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/v/AdaptiveManagementTOC">Miradi Resources</a></li>
+				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">Puget Sound Pressures Assessment</a></li>
+				
+				<!-- InstanceEndEditable -->
+			</ul>
+		<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

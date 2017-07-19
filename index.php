@@ -47,7 +47,9 @@
 			<h1>ROADMAP TO RECOVERY</h1>
 			<div class="padding-5-bottom"><a href="action_agenda_center.php">ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
 			<div class="padding-5-bottom"><a href="2018_AA_update.php"><span class="orange"><strong>NEW! </strong></span>2018&nbsp;ACTION AGENDA&nbsp;UPDATE</a></div>
-			<a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
+			<div class="padding-5-bottom"><a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
+			<div class="padding-5-bottom"><a href="science-adaptive-management-framework.php">RESULTS-BASED MANAGEMENT</a></div>
+		</div>
 		<div class="col-sm-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive img-rounded"/></div>
 		<div class="col-sm-3 padding-10-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
@@ -80,6 +82,19 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/press-release-science-panel.jpg"  alt=""/> <strong>7.17.17<br>
+						</strong>NEWS RELEASE<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1aaa28b">PUGET SOUND PARTNERSHIP SCIENCE PANEL TO DISCUSS DRAFT 2017 STATE OF THE SOUND REPORT</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 	
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -108,19 +123,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 	
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/press-release-puget-sound-day-on-the-hill-2017.jpg"  alt=""/> <strong>5.17.17<br>
-						</strong>GOVERNOR'S OFFICE<br>
-						<a href="2017-day-on-the-hill.php">PUGET SOUND RECOVERY LEADERS TRAVEL TO D.C., ASK FOR SUPPORT FROM CONGRESS </a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 	
+		
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -146,35 +149,8 @@
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
 		
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox jobbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>6.21.17<br>
-						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington?department[0]=Puget Sound Partnership&sort=PositionTitle|Ascending&pagetype=jobOpportunitiesJobs&jobId=1649530&jobName=chief-operating-officer-ems3&tab=1" target="new">CHIEF OPERATING OFFICER</a><br>
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox jobbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>3.14.17<br>
-						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget Sound Partnership&sort=PositionTitle|Ascending&pagetype=jobOpportunitiesJobshttps://www.governmentjobs.com/careers/washington/jobs/1713876/fiscal-analyst-3-ap-ar-travel-03437" target="new">FISCAL ANALYST 3</a><br>
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			
+		
+		
 								<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox jobbox">

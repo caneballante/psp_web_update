@@ -78,7 +78,7 @@
                 <li>Assesses and combines elements of local and regional recovery efforts, ongoing programs, Near Term Actions from the <a href="http://psp.wa.gov/action_agenda_center.php">Puget Sound Action Agenda</a>, and results from the <a href="http://wdfw.wa.gov/grants/ps_marine_nearshore/files/2014_puget_sound_pressures_assessment.pdf">Puget Sound Pressure Assessment</a></li>
                 <li>Builds on existing knowledge and lessons learned from previous and current recovery efforts</li>
             </ul>
-           <p>Implementation Strategies are developed using the common adaptive framework for Puget Sound recovery based on the Open Standards for the Practice of Conservation. <a href="http://psp.wa.gov/science-adaptive-management-framework.php">LEARN MORE</a></p>
+           <p>Implementation Strategies are developed by use of a results-based (adaptive) management framework for Puget Sound recovery. This framework is founded on the Open Standards for the Practice of Conservation. <a href="http://psp.wa.gov/science-adaptive-management-framework.php">LEARN MORE</a>           </p>
            <p>The following Strategies, though not fully complete, are available for use:</p>
            <ul>
                 <li>Estuaries</li>
@@ -251,6 +251,7 @@
 				<li role="presentation"><a href=" https://pspwa.box.com/v/IS-general-info">Implementation Strategy General Timeline and Team Structure</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/IDT-rosters">Interdisciplinary Team (IDT) Rosters</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/IS-Guidance">Implementation Strategy Guidelines</a></li>
+				<li role="presentation"><a href="science-adaptive-management-framework.php">Adaptive Management Framework: a results-based approach to managing Puget Sound recovery</a></li>
 			
 				<!-- InstanceEndEditable -->
 			</ul>

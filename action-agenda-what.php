@@ -88,6 +88,7 @@
 	<li>It guides effective investment in Puget Sound by constantly assessing the effectiveness of actions and outcomes, tracking progress, and re-prioritizing needs to generate the highest return on investment for recovery at any point in time. </li>
 	<li>It meets the National Estuary Program’s Comprehensive Conservation and Management Plan requirements. The National Estuary Program is the primary method through which the U.S. Environmental Protection Agency provides funding for Puget Sound recovery. 
 	</li>
+	<li>It is built on shared learning brought about by the use of common language and a common results-based (adaptive) management framework. <a href="science-adaptive-management-framework.php">LEARN MORE</a></li>
 </ul>
 
 <p><a href="https://pspwa.box.com/shared/static/atqhfo6htwgasoh9oudtwlfwk3sbu4qe.pdf">LEARN MORE IN THE COMPREHENSIVE PLAN, CHAPTER 1, PAGES 4-5</a> (PDF)</p>
@@ -112,6 +113,8 @@
 				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/pv9inxe1xp1mvzxxu91dyelngoaouv5k.pdf" target="_blank">Stormwater Strategic Initiative (PDF)</a></li>
 				<li role="presentation"> <a href="evaluating-effective-action.php">Effectiveness Monitoring</a></li>
 				<li role="presentation"> <a href="https://www.epa.gov/nep" target="_blank">National Estuary Program </a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/science-adaptive-management-framework.php" target="_blank">Adaptive Management Framework: A results-based approach to managing Puget Sound recovery</a></li>
+				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
