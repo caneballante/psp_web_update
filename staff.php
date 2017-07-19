@@ -138,8 +138,10 @@
             <h5>charisse sonnier</h5>
 			<p> Administrative Assistant<br />
 				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
-            <h5>Vacant</h5>
+            <h5>priscilla bellnavis</h5>
 			<p> Administrative Assistant<br />
+			
+			360.339.8942| <a href="mailto:priscilla.bellnavis@psp.wa.gov">priscilla.bellnavis@psp.wa.gov</a></p>
 		</p>
 			
 	    <a name="administrative_services"></a><br />
