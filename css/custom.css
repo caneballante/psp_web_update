@@ -101,8 +101,9 @@ h2 {
 	color: #0a3b5c;
 }
 h3 {
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: 900;
+	line-height: 2em;
 }
 p {
 	font-size: 15px;

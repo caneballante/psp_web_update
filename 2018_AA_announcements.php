@@ -71,8 +71,16 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
-			
-			<!-- InstanceEndEditable --> </div>
+			<div class="highlightbox margin-0-top">
+				<h3>7.25.2017 <br>
+					<br>
+				Time line extended for the Solicitation for Near Term Actions for the 2018-2022 Action Agenda Implementation Plan </h3>
+				<p>The Partnership has heard from its partners that the current timeline for the release of the final Solicitation for Near Term Actions does not allow adequate time for quality work and discussion.  We agree, and therefore, are extending the deadlines for the Solicitation </p>
+				<p>We have adjusted the deadline for <a href="http://www.psp.wa.gov/2018_AA_solicitation_for_NTAs.php">public comments</a> on the draft Solicitation to August 4th, 2017, and we are targeting November 2017 for release of the final Solicitation. </p>
+				<p>After additional consultation with affected partners, we will release a new detailed schedule for adoption of the <a href="http://www.psp.wa.gov/2018_AA_update.php">2018-2022 Action Agenda</a> by early September 2017. </p>
+				<p>For any questions on the timeline extension please contact Heather Benson (<a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a>). </p>				
+			</div>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>

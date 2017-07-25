@@ -101,9 +101,9 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt=""/> 
-						<strong>7.5.17<br>
+						<strong>7.25.17<br>
 						</strong>
-						<a href="2018_AA_solicitation_for_NTAs.php" target="new">PUBLIC COMMENT PERIOD FOR THE DRAFT SOLICITATION FOR NEAR TERM ACTIONS (NTAs) FOR THE 2018-2022 IMPLEMENTATION PLAN RUNS 7/6 to 7/27/17</a><br>
+						<a href="2018_AA_solicitation_for_NTAs.php" target="new">TIME LINE EXTENDED FOR THE SOLICITATION FOR NEAR TERM ACTIONS FOR THE 2018-2022 ACTION AGENDA IMPLEMENTATION PLAN </a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -149,7 +149,19 @@
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
 		
-		
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/innovation-stories.jpg"  alt=""/> 
+						</strong>PUGET SOUND INNOVATION STORIES<br>
+						<a href="https://pugetsoundinnovationstories.blog/">LEARN ABOUT THE PEOPLE AND PROJECTS SAVING THE SOUND</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END-->
 		
 								<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">

@@ -65,7 +65,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Puget Sound Partnership is accepting public comments on the draft Solicitation for Near Term Actions (NTAs) for the 2018-2022 Action Agenda Implementation Plan. The public comment period will be open from July 6 to July 27, 2017. </p>
+			<p>The Puget Sound Partnership is accepting public comments on the draft Solicitation for Near Term Actions (NTAs) for the 2018-2022 Action Agenda Implementation Plan. <strong>The comment period has now been extended to August 4th.</strong> </p>
 			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/jx0clew5vaxayzsxxl8731ccbhef926h" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan (UPDATED July 12, 2017)</strong></a>
 				<em><br>
 				Revised on July 12, 2017 with a limited change regarding NTA eligibility.</em></p>
@@ -114,7 +114,7 @@
 			<h2>What is a Near Term Action? </h2>
 			<p>A Near Term Action is an activity that is trackable, measureable, and necessary for Puget Sound recovery. Near Term Actions comprise the core of the Action Agenda. They can be proposed by government agencies and tribes, academic institutions, and non-profit organizations, as well as by businesses and individuals. Proposed NTAs may include new programs, specific projects, scientific investigations, or other types of actions described in this solicitation.</p>
 			<h2>How are comments used? </h2>
-			<p>Comments collected during the public comment period will be summarized and considered in the development of the final Solicitation for Near Term Actions. The Leadership Council will consider adopting the final Solicitation at the Council&rsquo;s regularly scheduled meeting in September 2017.  </p>
+			<p>Comments collected during the public comment period will be summarized and considered in the development of the final Solicitation for Near Term Actions. </p>
 			
 
 			<!-- InstanceEndEditable --> </div>
