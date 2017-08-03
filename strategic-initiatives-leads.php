@@ -85,7 +85,19 @@
 				<li>Oversee development and adaptive management of Implementation Strategies </li>
 			</ul>
 			<p><a href="https://pspwa.box.com/s/il5i70rwisqvqqkunhq7nua3kh8klk0u">Draft Timeline</a> (Last Updated August 31, 2016)</p>
-			<p>Draft NTA Funding Recommendations for NEP Funding (anticipated November 10, 2016)	:</p>
+		
+			
+				
+			<p>DRAFT NTA Funding Recommendations for NEP Funding:</p>
+			<p>2017</p>
+			<ul>
+				<li>Stormwater Funding Recommendations: <a href="https://pspwa.box.com/s/ptju32y859lwkr1uj6f99vodki5ss2tg">https://pspwa.box.com/s/ptju32y859lwkr1uj6f99vodki5ss2tg</a></li>
+				
+					<li>Habitat Funding Recommendations: <a href="https://pspwa.box.com/s/bhfyp76dtvecq3cqtojfotzlipyyjsa9">https://pspwa.box.com/s/bhfyp76dtvecq3cqtojfotzlipyyjsa9</a></li>
+				
+				<li>Shellfish Funding Recommendations: <a href="https://pspwa.box.com/s/ugs1l24yjbbwwwbgfh22zhucj05cnf1g">https://pspwa.box.com/s/ugs1l24yjbbwwwbgfh22zhucj05cnf1g</a></li>
+			</ul>
+			<p>2016</p>
 			<ul>
 				<li>Stormwater Funding Recommendations: <a href="https://pspwa.box.com/s/cagij5t8h3a6d6t284efzi63suqoxvh6">https://pspwa.box.com/s/cagij5t8h3a6d6t284efzi63suqoxvh6</a></li>
 				
@@ -181,17 +193,7 @@
 						<td>Health</td>
 						<td>Lead</td>
 					</tr>
-					<tr>
-						<td>Stuart Glasoe, <br>
-							stuart.glasoe@doh.wa.gov</td>
-						<td>Health</td>
-						<td>Lead </td>
-					</tr>
-					<tr>
-						<td>Ron Cummings</td>
-						<td>Ecology</td>
-						<td>Supporting</td>
-					</tr>
+			
 					<tr>
 						<td>Ginny Prest</td>
 						<td>Agriculture</td>
