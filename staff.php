@@ -106,10 +106,13 @@
 			<!--OPERATIONS--><!--ANCHOR LINK spaced 2 br above target--> 
    		
 			<h2>OPERATIONS &amp; INTERNAL PERFORMANCE</h2>
-			<h5>Rick Berman</h5>
+				<h5>Brent Barnes</h5>
+			<p>Chief Operating Officer<br />
+				Office 360.339.5861 | Cell 360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a></p>
+				<h5>Rick Berman</h5>
 			<p>Interim Chief Operating Officer<br />
-				Office 360.339.5861 | Cell 360.688.8284 | <a href="mailto:rick.berman@psp.wa.gov">rick.berman@psp.wa.gov</a></p>
-				<h5>Karin BerkholTz</h5>
+				Cell 360.688.8284 | <a href="mailto:rick.berman@psp.wa.gov">rick.berman@psp.wa.gov</a></p>
+			<h5>Karin BerkholTz</h5>
 			<p> EPA Coordinator<br />
 				Office 360.999.3848 | <a href="mailto:karin.berkholtz@psp.wa.gov">karin.berkholtz@psp.wa.gov</a></p>
 	
