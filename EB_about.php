@@ -64,107 +64,105 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Ecosystem Coordination Board's main role is to advise the Puget Sound Partnership&rsquo;s Leadership Council on carrying out its responsibilities. The Board is made up of 27 members representing specific interests around the Sound.</p>
-			<p><strong>Chair: </strong>Will Hall <br />
+			<p>The Ecosystem Coordination Board's main role is to advise the Puget Sound Partnership&rsquo;s Leadership Council on carrying out its responsibilities. The Board is made up of 27 members representing specific interests around the Sound.<br>
 			</p>
-			<p><strong>Vice Chair: </strong>Dave Herrera<br />
-			</p>
-			<p><strong>ACTION AREAS</strong><br>
-				            Strait of Juan De Fuca<br>
-				                        Steve Tharinger <em> Action Area representative</em><br>
-				                        Kate Dean(alternate) <em>Jefferson County Commissioner</em><br>
-				            The San Juan Islands<br>
-				                        Jamie Stephens <em>Action Area Representative (San Juan LIO)</em><br>
-                				                        Marta Green (alternate) <em>Action Area Representative (San Juan LIO)</em><br>
-
-				            Whidbey Island<br>
-				                        Ron Wesen <em>Skagit County Commissioner</em><br>
-				                        Bill Blake (alternate) <em>City of Arlington</em><br>
-				            Hood Canal<br>
-					                        Scott Brewer <em>Hood Canal Coordinating Council</em><br>
-				                        Haley Harguth (alternate) <em>Hood Canal Coordinating Council</em><br>
-				            North Central Puget Sound<br>
-				                        Charlotte Garrido <em>Kitsap County Commissioner</em><br>
-				                        Kathleen Peters (alternate) <em>Kitsap County</em><br />
-				
-				            South Central Puget Sound<br>
-				                        Dow Constantine <em>King County Executive</em><br>
-				                        Fred Jarrett (alternate) <em>King County</em><br>
-				                        Christie True (alternate) <em>King County</em><br>
-				                        Dave White (alternate) <em>King County</em><br>
-				            South Puget Sound<br>
-				                        Dan Wrye<em> Pierce County</em><br>
-				                        John Bolender (alternate) <em>Mason County Conservation District</em></p>
-			<p>Business Interest<br>
-				            Gary Chandler <em>Association of Washington Business</em><br />
-							 
-				            Mary Catherine McAleer (alternate) <em>Association of Washington Business</em></p>
-	
-			<p>Small Business Interest<br>
-				            Bill Dewey <em>Taylor Shellfish</em><br>
-				            Bill Taylor (alternate) <em>Taylor Shellfish</em></p>
-			<p>Environmental Interest 1<br>
-				            Jessie Israel <em> The Nature Conservancy</em><br>
-				            Heather Trim (alternate) <em>Zero Waste Washington</em></p>
-			<p>Environmental Interest 2<br>
-				            Chris Wilke <em>Puget Soundkeeper Alliance</em><br>
-				            Mindy Roberts (alternate) <em>Washington Environmental Council</em></p>
-			<p>Cities<br>
-				            Will Hall <em>City of Shoreline Council member</em><br>
-				            Ed Stern (alternate) City of Poulsbo Councilmember</p>
-			<p>Counties<br>
-				            Dave Somers <em>Snohomish County Executive</em><br>
-				            Helen Price Johnson (alternate) Island County Commissioner</p>
-			<p>Port Districts<br>
-				           Mike McAuley <em>Port of Bellingham</em></p>
-			<p>Tribal Government<br>
-				            David Troutt <em>Nisqually Tribe</em><br>
-				            Jeff Dickison (alternate) <em>Squaxin Island Tribe</em></p>
-			<p>Tribal Government<br>
-				            Vacant<em></em><br>
-				            Pat Stevenson (alternate) <em>Stillaguamish Tribe</em></p>
-			<p>Tribal Government<br>
-				            Dave Herrera <em>Skokomish Tribe</em><br>
-				            Randy Harder (alternate) <em>Point No Point Treaty Council</em></p>
-			<p>Legislative Caucus<br>
-				            Strom Peterson <em>21st District, Washington State House of Representatives</em></p>
-			<p>Legislative Caucus<br>
-				            Shelly Short <em>7th District, Washington State Senate</em></p>
-			<p>Legislative Caucus<br>
-				            Steve Litzow <em>41st District, Washington State Senate</em></p>
-			<p>Legislative Caucus<br>
-				            Christine Rolfes <em>23rd District, Washington State Senate</em></p>
-			<p>Federal Government<br>
-				            Barry Thom <em>National Oceanic and Atmospheric Administration (NOAA)</em><br>
-				            Elizabeth Babcock (alternate) <em>NOAA</em></p>
-			<p>Federal Government<br>
-				            Col. John G. Buck <em>U.S Army Corps of Engineers</em><br>
-				            Damon Lilly (alternate) <em>USACE</em></p>
-			<p>Federal Government<br>
-				            Peter Murchie <em>Environmental Protection Agency (EPA)</em><br>
-				            Angela Adams (alternate)<em>Environmental Protection Agency (EPA)</p>
+			<p><strong>Chair: </strong>Will Hall <br /></p>
+			<p><strong>Vice Chair: </strong>Dave Herrera<br /></p>
+			<strong>ACTION AREAS</strong><br>
+				   <p><strong>Strait of Juan De Fuca</strong><br>
+				    Steve Tharinger <em>(Four year term ends 6/30/2021) Action Area representative</em><br>
+				    Kate Dean(alternate) <em>Jefferson County Commissioner</em></p>
+				  <p> <strong>The San Juan Islands</strong><br>
+				Jamie Stephens <em>(Four year term ends 6/30/2021) Action Area Representative (San Juan LIO)</em><br>
+ 				Marta Green (alternate) <em>Action Area Representative (San Juan LIO)</em></p>
+				<p><strong>Whidbey Island</strong><br>
+				Ron Wesen (Four year term ends 6/30/2018) <em>Skagit County Commissioner</em><br>
+				Bill Blake (alternate) <em>City of Arlington</em></p>
+			<p> <strong>Hood Canal</strong><br>
+					Scott Brewer <em>(Four year term ends 6/30/2020) Hood Canal Coordinating Council</em><br>
+				Haley Harguth (alternate) <em>Hood Canal Coordinating Council</em></p>
+			    <p><strong>North Central Puget Sound</strong><br>
+				    Charlotte Garrido <em>(Four year term ends 6/30/2019) Kitsap County Commissioner</em><br>
+				    Kathleen Peters (alternate) <em>Kitsap County</em></p>
+				  <p> <strong>South Central Puget Sound</strong><br>
+				     Dow Constantine <em>(Four year term ends 6/30/2018) King County Executive</em><br>
+				    Fred Jarrett (alternate) <em>King County</em><br>
+				    Christie True (alternate) <em>King County</em><br>
+				    Dave White (alternate) <em>King County</em></p>
+				  <p> <strong>South Puget Sound</strong><br>
+				    Dan Wrye<em> (Four year term ends 6/30/2019) Pierce County</em><br>
+				    John Bolender (alternate) <em>Mason County Conservation District</em></p>
+			<p><strong>Business Interest</strong><br>
+				   Gary Chandler <em>(Four year term ends 6/30/2021) Association of Washington Business</em><br />	Mary Catherine McAleer (alternate) <em>Association of Washington Business</em></p>
+			<p><strong>Small Business Interest</strong><br>
+				   Bill Dewey <em>(Four year term ends 6/30/2020) Taylor Shellfish</em><br>
+				   Bill Taylor (alternate) <em>Taylor Shellfish</em></p>
+			<p><strong>Environmental Interest 1</strong><br>
+				   Jessie Israel <em>(Four year term ends 6/30/2019) The Nature Conservancy</em><br>
+				   Heather Trim (alternate) <em>Zero Waste Washington</em></p>
+			<p><strong>Environmental Interest 2</strong><br>
+				   Chris Wilke <em>(Four year term ends 6/30/2018) Puget Soundkeeper Alliance</em><br>
+				   Mindy Roberts (alternate) <em>Washington Environmental Council</em></p>
+			<p><strong>Cities</strong><br>
+				   Will Hall <em>(Four year term ends 6/30/2019) City of Shoreline Council member</em><br>
+				   Ed Stern (alternate) City of Poulsbo Councilmember</p>
+			<p><strong>Counties</strong><br>
+				Helen Price Johnson <em>(Four year term ends 6/30/2021) Island County Commissioner</em><br>
+							Alternate TBD</p>
+			<p><strong>Port Districts</strong><br>
+				   Mike McAuley <em>(Four year term ends 6/30/2020) Port of Bellingham</em><br>
+			Fred Felleman <em>(Alternate) Port	Commisioner</em>	</p>
+			<p><strong>Tribal Government</strong><br>
+				   David Troutt <em>Nisqually Tribe</em><br>
+				   Jeff Dickison (alternate) <em>Squaxin Island Tribe</em></p>
+			<p><strong>Tribal Government</strong><br>
+				   Vacant<em></em><br>
+				   Pat Stevenson (alternate) <em>Stillaguamish Tribe</em></p>
+			<p><strong>Tribal Government</strong><br>
+				   Dave Herrera <em>Skokomish Tribe</em><br>
+				   Randy Harder (alternate) <em>Point No Point Treaty Council</em></p>
+			<p><strong>Legislative Caucus</strong><br>
+				   Strom Peterson <em>21st District, Washington State House of Representatives</em></p>
+			<p><strong>Legislative Caucus</strong><br>
+				   Shelly Short <em>7th District, Washington State Senate</em></p>
+			<p><strong>Legislative Caucus</strong><br>
+				   Steve Litzow <em>41st District, Washington State Senate</em></p>
+			<p><strong>Legislative Caucus</strong><br>
+				   Christine Rolfes <em>23rd District, Washington State Senate</em></p>
+			<p><strong>Federal Government</strong><br>
+				   Barry Thom <em>National Oceanic and Atmospheric Administration (NOAA)</em><br>
+				   Elizabeth Babcock (alternate) <em>NOAA</em></p>
+			<p><strong>Federal Government</strong><br>
+				   Col. John G. Buck <em>U.S Army Corps of Engineers</em><br>
+				   Damon Lilly (alternate) <em>USACE</em></p>
+			<p><strong>Federal Government</strong><br>
+				   Peter Murchie <em>Environmental Protection Agency (EPA)</em><br>
+				Angela Adams (alternate)<em> Environmental Protection Agency (EPA)</em></p>
 			
-			<p>Washington State Agencies<br>
-				            Maia Bellon <em>Director, Washington State Department of Ecology</em><br>
-				            Tom Laurie (alternate) <em>Department of Ecology</em></p>
-			<p>Washington State Agencies<br>
-				            Jim Unsworth <em>Director, Washington Department of Fish and Wildlife</em><br>
-				            Jeff Davis (alternate) <em>Department of Fish and Wildlife</em><br>
-				            David Price (alternate) <em>Department of Fish and Wildlife</em></p>
-			<p>Washington State Agencies<br>
-				            Hilary Franz <em>Commissioner of Public Lands, Washington Department of Natural Resources</em><br>
-				            Kirsten Feifel (alternate) <em>Department of Natural Resources</em></p>
+			<p><strong>Washington State Agencies</strong><br>
+				   Maia Bellon <em>Director, Washington State Department of Ecology</em><br>
+				   Tom Laurie (alternate) <em>Department of Ecology</em></p>
+			<p><strong>Washington State Agencies</strong><br>
+				   Jim Unsworth <em>Director, Washington Department of Fish and Wildlife</em><br>
+				   Jeff Davis (alternate) <em>Department of Fish and Wildlife</em><br>
+				   David Price (alternate) <em>Department of Fish and Wildlife</em></p>
+			<p><strong>Washington State Agencies</strong><br>
+				   Hilary Franz <em>Commissioner of Public Lands, Washington Department of Natural Resources</em><br>
+				   Kirsten Feifel (alternate) <em>Department of Natural Resources</em></p>
 			<p><strong>EX-OFFICIO REPRESENTATIVES</strong><br>
-				Whatcom LIO<br>
-				            Bill Knutzen<br>
-				            Steve Jilk (alternate) <em>Whatcom County PUD</em><br>
-				            Mark Personius (alternate) <em>Whatcom County</em></p>
-			<p>Northwest Straits Commission<br>
-				            Rich Childers<br>
-				            Lucas Hart (alternate)</p>
-			<p>Canadian Representation<br>
-				            Kaaren Lewis –<em>Assistant Deputy Minister of Environmental Sustainability, BC Public Service</em><br>
-				            Dave Marshall (alternate) – <em>Fraser Basin Council</em></p>
+				<strong>Whatcom LIO</strong><br>
+				 Steve Jilk (alternate) <em>(Four year term ends 6/30/2021) Whatcom County PUD</em><br>
+				   Mark Personius (alternate) <em>Whatcom County</em></p>
+			<p><strong>Northwest Straits Commission</strong><br>
+				   Rich Childers<br>
+				   Lucas Hart (alternate)</p>
+			<p><strong>Canadian Representation</strong><br>
+				   Kaaren Lewis –<em>Assistant Deputy Minister of Environmental Sustainability, BC Public Service</em><br>
+				   Dave Marshall (alternate) – <em>Fraser Basin Council</em></p>
+				   
+				   
+				   
+				
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

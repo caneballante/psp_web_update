@@ -65,24 +65,12 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Puget Sound Partnership is accepting public comments on the draft Solicitation for Near Term Actions (NTAs) for the 2018-2022 Action Agenda Implementation Plan. <strong>The comment period has now been extended to August 4th.</strong> </p>
+			<p>The Puget Sound Partnership is accepting public comments on the draft Solicitation for Near Term Actions (NTAs) for the 2018-2022 Action Agenda Implementation Plan. <strong>The comment period is closed.</strong> </p>
 			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/jx0clew5vaxayzsxxl8731ccbhef926h" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan (UPDATED July 12, 2017)</strong></a>
 				<em><br>
 				Revised on July 12, 2017 with a limited change regarding NTA eligibility.</em></p>
 			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/dlbviqehuki93ccsoodhcjt80p443ndh" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan APPENDIX A: REGIONAL PRIORITIES (UPDATED July 31, 2017)</strong></a><br>
 			<em>The update includes revised Regional Priorities for the Chinook Vital Sign.</em></p>
-			<h2>How can I provide comments?</h2>
-			<p><a href="2018_AA_NTA_draft_comment_form.php"><strong>File your comments by using this online form.</strong></a><br>
-				<br>
-			If you are unable to use the online form to submit comments, you may send them by email to <a href="mailto:AAcomment@psp.wa.gov">AAcomment@psp.wa.gov</a> or by standard mail to the Partnership at the following address: 
-			</p>
-			<p><strong><br>
-				Puget Sound Partnership </strong><br>
-				ATTN: Jennifer Pouliotte, Environmental Planner <br>
-				326 East D Street <br>
-			Tacoma, WA 98421 </p>
-			<p>Comments can also be provided in person at one of the Partnership&rsquo;s Council and Board meetings. Details about all Leadership Council and Board meetings can be found on the Puget Sound Partnership&rsquo;s <a href="partnership-boards-overview.php">webpage</a>. </p>
-<p>Please submit comments by only one method. </p>
 			<h2>What is the purpose of the solicitation? </h2>
 			<p>The purpose of this solicitation is to facilitate the development and review of NTAs for the 2018-2022 Implementation Plan component of the Action Agenda. Criteria that support regional priorities for advancing Puget Sound ecosystem recovery will be used to evaluate the proposed NTAs. Regional priorities are outlined in the Draft Solicitation and represent the priorities for change that the Management Conference will advocate to achieve through efforts to expand funding, increase alignment among funding sources, and address the barriers to implementing NTAs. </p>
 			<p>	The Draft Solicitation contains the following: </p>

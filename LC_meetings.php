@@ -91,7 +91,16 @@ Mount Vernon, WA 98273-9668 </p></td>
 					<td><a href="https://pspwa.box.com/s/5hzguw7pn7uimmlod1i1biva898ynpw4" target="new">Meeting Materials</a></td>
 
 				</tr>
-				
+				8/16/17 
+Under Location:
+
+				<tr>
+					<td><p>August 16</p></td>
+					<td><p>Informational session<br>
+Teleconference, call 1.877.668.4493,<br>
+ Access Code 926 276 343</p></td>
+					<td><a href="https://pspwa.box.com/s/uaq9zym6lr3saz82lsky7ciy0243atvj" target="new">Meeting Materials</a></td>
+				</tr>
 				<tr>
 					<td><p>September 20/21</p></td>
 					<td><p>Port Gamble S'Klallam Tribe<br>

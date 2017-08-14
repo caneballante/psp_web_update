@@ -95,34 +95,9 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 	
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt=""/> 
-						<strong>7.25.17<br>
-						</strong>
-						<a href="2018_AA_solicitation_for_NTAs.php" target="new">TIME LINE EXTENDED FOR THE SOLICITATION FOR NEAR TERM ACTIONS FOR THE 2018-2022 ACTION AGENDA IMPLEMENTATION PLAN </a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
 			
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/announcement-salish-sea-conference-seagull.jpg"  alt=""/> <strong>6.11.17<br>
-						</strong>CALL FOR SESSIONS!<br>
-						<a href="http://www.wwu.edu/salishseaconference/call-for-sessions.shtml">2018 SALISH SEA CONFERENCE APRIL 4-6: SUBMITAL FOR SESSIONS JULY 28TH, 2017 </a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 	
+			
+			
 		
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
@@ -144,10 +119,7 @@
 				
 				
 			
-		</div>
-		<!--ROW END--> 
-		<!--ROW START-->
-		<div class="row light-blue-fill"> 
+		
 		
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
@@ -163,22 +135,22 @@
 			</div>
 			<!--COLUMN END-->
 		
-								<!--COLUMN START-->
+		
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox jobbox">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<strong>2.26.17<br>
+						<strong>8.14.17<br>
 						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1673775/planning-division-manager-ems3?department[0]=Puget%20Sound%20Partnership&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs" target="new">PLANNING DIVISION MANAGER</a><br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1817929/special-assistant-to-the-boards-exempt-2017-07310">SPECIAL ASSISTANT TO THE BOARDS</a><br>
 						
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
 			<!--COLUMN END--> 
-		
-		
+	
 			
 			
 			
