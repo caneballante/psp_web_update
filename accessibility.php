@@ -70,7 +70,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">OUR COMMITMENT TO ACCESSIBILITY</h2>
-			<p>The Puget Sound Partnership (PSP) recognizes the importance of using technology to provide information and services to carry out our mission. As such, RCO is committed to ensuring our Web sites, documents, and application systems are accessible to the public and Washington State employees, including individuals with disabilities</p>
+			<p>The Puget Sound Partnership (PSP) recognizes the importance of using technology to provide information and services to carry out our mission. As such, PSP is committed to ensuring our Web sites, documents, and application systems are accessible to the public and Washington State employees, including individuals with disabilities</p>
 			<h2>GUIDELINES AND STANDARDS</h2>
 			<p>PSP strives to meet the Washington State Office of the Chief Information Officer (OCIO)<a href="https://ocio.wa.gov/policy/accessibility" target="_blank"> Policy 188 Accessibility</a>, <a href="http://ocio.wa.gov/policy/minimum-accessibility-standard" target="_blank">188.10 Minimum Accessibility Standards, </a>and the <a href="http://www.w3.org/TR/WCAG20/" target="_blank">Web Content Accessibility Guidelines (WCAG) 2.0</a>, Level AA compliance, including the guidelines associated with these principles:</p>
 			<ol>
@@ -82,8 +82,8 @@
 			<h2>Need assistance with our Web sites or want to report an accessibility issue?</h2>
 			<p>Please contact the PSP Accessibility Coordinator with information on Web sites, documents, or application systems that are not fully accessible to you, along with the type of accommodation that you need. The Accessibility Coordinator will review your accessibility request, contact the responsible agency staff, determine how to best meet your accessibility request, and respond to you within five (5) business days with the access or information that you need, and the plan to improve accessibility in the future. </p>
 			<h3>Contact Us</h3>
-			<p><a href="mailto:rick.berman@psp.wa.gov">Accessibility Coordinator</a>,<br>
-			360.999.3847</p>
+			<p><a href="mailto:brent.barnes@psp.wa.gov">Accessibility Coordinator</a>,<br>
+			 360.339.5861</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		

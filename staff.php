@@ -76,9 +76,9 @@
 			<!--<h5>Marc Daily</h5>
 			<p> Deputy Director<br />
 				360.339.5861 | <a href="mailto:marc.daily@psp.wa.gov">marc.daily@psp.wa.gov</a></p>-->
-			<h5>kelly adams</h5>
+			<h5>Vacant</h5>
 			<p> Executive Assistant, HR Liaison<br />
-				Office 360.464.1233 | Cell 360.999.3805 | <a href="mailto:kelly.adams@psp.wa.gov">kelly.adams@psp.wa.gov</a></p><br />
+			</p><br />
 		
 	  <!--A.S. - COMMUNICATIONS-->
 			<h3>COMMUNICATIONS</h3>
@@ -108,10 +108,7 @@
 			<h2>OPERATIONS &amp; INTERNAL PERFORMANCE</h2>
 				<h5>Brent Barnes</h5>
 			<p>Chief Operating Officer<br />
-				Office 360.339.5861 | Cell 360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a></p>
-				<h5>Rick Berman</h5>
-			<p>Interim Chief Operating Officer<br />
-				Cell 360.688.8284 | <a href="mailto:rick.berman@psp.wa.gov">rick.berman@psp.wa.gov</a></p>
+				Office 360.339.5861 | Cell 360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a>			</p>
 			<h5>Karin BerkholTz</h5>
 			<p> EPA Coordinator<br />
 				Office 360.999.3848 | <a href="mailto:karin.berkholtz@psp.wa.gov">karin.berkholtz@psp.wa.gov</a></p>

@@ -82,6 +82,20 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+					<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/salmon.jpg"  alt=""/> <strong>8.18.17<br>
+						</strong>BLOG<br>
+						<a href="https://medium.com/@pspartnership/lets-make-sure-salmon-recovery-decisions-happen-at-home-not-in-d-c-b2140eefccb7">LET’S MAKE SURE SALMON RECOVERY DECISIONS HAPPEN AT HOME, NOT IN D.C.</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 	
+			
 				<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
