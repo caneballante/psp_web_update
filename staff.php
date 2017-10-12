@@ -72,13 +72,13 @@
 		<h5>Sheida Sahandy</h5>
 			<p> Executive Director<br />
 				360.464.1228 | <a href="mailto:sheida.sahandy@psp.wa.gov">sheida.sahandy@psp.wa.gov</a>
-			
+			</p>
 			<!--<h5>Marc Daily</h5>
 			<p> Deputy Director<br />
 				360.339.5861 | <a href="mailto:marc.daily@psp.wa.gov">marc.daily@psp.wa.gov</a></p>-->
-			<h5>Vacant</h5>
-			<p> Executive Assistant, HR Liaison<br />
-			</p><br />
+			<h5>Denise Ross</h5>
+			<p> Executive Assistant<br />
+				360.464.1233 | <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p><br />
 		
 	  <!--A.S. - COMMUNICATIONS-->
 			<h3>COMMUNICATIONS</h3>
@@ -132,9 +132,9 @@
 			
             <!--ADMINISTRATION-->
             <h3>ADMINISTRATION</h3>
-            <h5>Debbie Lewandowsky</h5>
+           <!-- <h5>Debbie Lewandowsky</h5>
 			<p> Administrative Assistant<br />
-				360.464.1232 | <a href="mailto:debbie.lewandowsky@psp.wa.gov">debbie.lewandowsky@psp.wa.gov</a></p>
+				360.464.1232 | <a href="mailto:debbie.lewandowsky@psp.wa.gov">debbie.lewandowsky@psp.wa.gov</a></p>-->
             <h5>charisse sonnier</h5>
 			<p> Administrative Assistant<br />
 				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
@@ -206,91 +206,93 @@
 			<h5>Scott Redman</h5>
 			<p> Program Director<br />
 				360.464.1230 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
-		
 			<br>
 			<!--ADAPTIVE MANAGEMENT-->
 			<h3>Adaptive Systems</h3>
 			<h5>Kari Stiles</h5>
-			<p> Adaptive Systems Manager<br />
-				360.489.2114 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a></p>
-                <h5>Jennifer Burke</h5>
-			<p> Data Systems/GIS Manager<br />
-				360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a></p>
-			<!--S.E. ECOSYSTEM ASSESSMENT-->
+			<p> Adaptive Systems Manager<br/> 360.489.2114 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a>
+			</p>
+			<h5>Jennifer Burke</h5>
+			<p> Data Systems/GIS Manager<br/> 360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a>
+			</p>
+					<!--S.E. ECOSYSTEM ASSESSMENT-->
 			<h3>Ecosystem Assessment</h3>
 			<h5>Leska Fore</h5>
-			<p> Monitoring Program Performance Analyst<br />
-				206.708.5048 | <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a>			</p>
-			<h5>Elene Dorfmeier</h5>
-			<p> Monitoring Performance Analyst <br>
-				360-819-6018 | <a href="mailto:elene.dorfmeier@psp.wa.gov">elene.dorfmeier@psp.wa.gov</a></p>
-                
+			<p> Monitoring Program Performance Analyst<br/> 206.708.5048 | <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a> </p>
+			<h5>Elene Trujillo</h5>
+			<p> Monitoring Performance Analyst <br> 360-819-6018 | <a href="mailto:elene.dorfmeier@psp.wa.gov">elene.dorfmeier@psp.wa.gov</a>
+			</p>
+
 			<br>
 			<!--S.E. PERFORMANCE AND EVALUATION-->
 			<h3>Performance and Evaluation			</h3>
 			<h5>Alex Mitchell</h5>
-			<p> Performance Management Analyst<br />
-				360.464.1220 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a></p>
+			<p> Performance Management Analyst<br/> 360.464.1220 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a>
+			</p>
 			<h5>Nathalie Hamel</h5>
-            <p> Monitoring Program Performance Analyst<br />
-              360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a>			<!--ANCHOR LINK spaced 2 br above target--> 
-			<a name="policy_and_planning"></a>
-			<br>
-			<!--POLICY AND PLANNING-->			</p>
-            <h2>INTEGRATED PLANNING</h2>
-			
+			<p> Monitoring Program Performance Analyst<br/> 360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a>
+				<!--ANCHOR LINK spaced 2 br above target-->
+				<a name="policy_and_planning"></a>
+				<br>
+				<!--POLICY AND PLANNING-->
+			</p>
+			<h2>INTEGRATED PLANNING</h2>
+			<h5>Jennifer Lee</h5>
+			<p>Policy and Planning Director<br/> 360.464.2008 | <a href="mailto:jennifer.lee@psp.wa.gov">jennifer.lee@psp.wa.gov</a>
+			</p>
 
 			<!--P.P. - ACTION AGENDA-->
+
+
 			<h5>Heather Saunders Benson</h5>
-			<p> Action Agenda Manager <br />
-              360.464.2005 | <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a><br />
-            </p>
-			<h3>ECOSYSTEM RECOVERY TEAM 1</h3>
-            <h5>Stacy Vynne</h5>
-            <p> Regional Manager<br />
-              <em> South Central LIO</em><br />
-              360.489.2112 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
-            <h5>Erin ryan-peÑuela</h5>
-            <p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br />
-              <em>Hood Canal, Straits, North Olympic Peninsula Lead Entity </em> <br />
-              360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a> </p>
-            <h5>Leah Kintner</h5>
-            <p> Ecosystem Recovery Coordinator <br />
-              <em>Skagit/Samish, WRIA 1 Lead Entity, Whatcom LIO, WRIA 9 Lead Entity </em> <br />
-              360.480.2880 | <a href="mailto:leah.kitner@psp.wa.gov">leah.kintner@psp.wa.gov</a></p>
-            <h5>Suzanna Stoike</h5>
-            <p> Ecosystem Recovery Coordinator &amp; PSAR Program Coordinator<br />
-              <em>Island, San Juan Islands, WRIA 8 Lead Entity </em><br />
-              360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a></p>
-            <h5>JENNIFER POULIOTTE</h5>
-            <p> Environmental Planner<br />
-              360.522.0545 | <a href="mailto:jennifer.pouliotte@psp.wa.gov">jennifer.pouliotte@psp.wa.gov</a></p>
-            <p><br>
-              <!--L.E.R. TEAM 2 -->
-            </p>
-            <h3>ECOSYSTEM RECOVERY TEAM 2</h3>
-            <h5>Stephanie Suter</h5>
-            <p> Regional Manager<br />
-              <em>South Sound LIO</em><br />
-              360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a></p>
-            <h5>DAN CALVERT</h5>
-            <p> Ecosystem Recovery Coordinator <br />
-              <em>Stillaguamish/Snohomish, Puyallup/White Lead Entity </em><br />
-              360.789.3165 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov</a></p>
-            <h5>AMBER MOORE</h5>
-            <p> Ecosystem Recovery Coordinator <br />
-              <em>West Sound Lead Entity, West Central LIO, WRIA 13 and 14 Lead Entities, Nisqually Lead Entity </em><br />
-              360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
-            <h5>Alexandra Doty</h5>
-            <p> Projects Coordinator<br />
-              <em>LIO Special Projects </em><br />
-              360.280.6664 | <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
-            <h5>Vacant</h5>
-            <p> Environmental Planner<br />
-            	<br />
-            </p>
-            <p>&nbsp;</p>
-			<h5>&nbsp;</h5><br>
+			<p> Action Agenda Manager <br/> 360.464.2005 | <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a><br/>
+			</p>
+			<h5>Dan Calvert</h5>
+			<p> Ecosystem Recovery Coordinator <br/>
+				<em>Stillaguamish/Snohomish, Puyallup/White Lead Entity </em><br/> 360.789.3165 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov</a>
+			</p>
+			<h5>Alexandra Doty</h5>
+			<p> Projects Coordinator<br/>
+				<em>LIO Special Projects </em><br/> 360.280.6664 | <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a>
+			</p>
+
+			<h5>Leah Kintner</h5>
+			<p>Regional Manager<br/> 360.480.2880 | <a href="mailto:leah.kitner@psp.wa.gov">leah.kintner@psp.wa.gov</a>
+			</p>
+
+			<h5>Amber Moore</h5>
+			<p> Ecosystem Recovery Coordinator <br/>
+				<em>West Sound Lead Entity, West Central LIO, WRIA 13 and 14 Lead Entities, Nisqually Lead Entity </em><br/> 360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a>
+			</p>
+
+			<h5>Erin ryan-peÑuela</h5>
+			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br/>
+				<em>Hood Canal, Straits, North Olympic Peninsula Lead Entity </em> <br/> 360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a> </p>
+
+			<h5>Jennifer Pouliotte</h5>
+			<p> Environmental Planner<br/> 360.522.0545 | <a href="mailto:jennifer.pouliotte@psp.wa.gov">jennifer.pouliotte@psp.wa.gov</a>
+			</p>
+			<p>
+
+			<h5>Suzanna Stoike</h5>
+			<p> Ecosystem Recovery Coordinator &amp; PSAR Program Coordinator<br/>
+				<em>Island, San Juan Islands, WRIA 8 Lead Entity </em><br/> 360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a>
+			</p>
+
+			<h5>Stephanie Suter</h5>
+			<p> Regional Manager<br/>
+				<em>South Sound LIO</em><br/> 360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a>
+			</p>
+
+			<h5>Stacy Vynne</h5>
+			<p> Salmon Recovery Manager<br />
+			  360.489.2112 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
+
+			 <h5>Vacant</h5>
+			<p> Environmental Planner<br />
+				<br />
+			</p>
+
 			<!--P.P. - IMPLEMENTATION STRATEGIES-->
 		
 		

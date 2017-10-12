@@ -72,7 +72,7 @@
 			<p>Communication is a crucial part of Puget Sound recovery, whether you are informing decision-makers about policy actions or encouraging the public to adopt estuary-friendly behaviors. Effective communication, however, can be challenging. This is especially true when conveying the complex, long-term recovery efforts that National Estuary Program funding frequently supports. </p>
 			<p>Our collective story about Puget Sound recovery is more powerful when informed by the people who are doing this great work! To that end, we&rsquo;ve created a suite of communications tools and best practices designed to enhance and support your work, while helping us capture a cohesive and compelling story about the National Estuary Program. <br>
 			</p>
-			<p>National Estuary Program funding recipients – please email <a href="mailto:catherine.cochrane@psp.wa.gov">Catherine Cochrane</a> to receive the toolkit&rsquo;s templates, worksheets and other resources. </p>
+			<p>National Estuary Program funding recipients – <a href="https://pspwa.box.com/s/xzkj83f0911alkmov2s0dn5vysyfg517">click here to download  the toolkit&rsquo;s templates, worksheets and other resources. </a> </p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

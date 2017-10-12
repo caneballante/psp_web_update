@@ -47,6 +47,7 @@ a[href^="http"] {
 /*added as a way to remove the icon in special cases. Used on the social icons*/
 .no-icon a[href^="http"] {
 	background: none;
+	
 	padding-left: 0px;
 }
 /*created this to make some email addresses smaller to fit in a table on the lead entities page*/

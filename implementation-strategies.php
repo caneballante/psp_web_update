@@ -151,7 +151,7 @@
             </uL>
             <p>Strategies managed by the Puget Sound Partnership</p>
             <uL>
-                <li><a href="https://pspwa.app.box.com/folder/7862354657">Chinook salmon (Drafts under development)</a></li>
+                <li><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook salmon (Drafts under development)</a></li>
             </uL>
             <p>Additional information about the Strategies and related Puget Sound recovery efforts is managed and publicly available in <a href="http://www.MiradiShare.org">Miradi Share</a>™, an online database that supports development, monitoring, and sharing of information among conservation practitioners, project and program managers, and funders. Miradi project files for all completed Strategies are available in the links below. A free user account for Miradi Share is required to view projects. Request a free account at <a href="http://www.MiradiShare.org">www.MiradiShare.org</a>, and contact Kari Stiles at <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a> for access to Puget Sound content.</p>
             <ul>
@@ -243,7 +243,7 @@
 				<li role="presentation"><a href="https://pspwa.box.com/s/x4y58p5epo6hzo347nvu4z7ujdzbb0fz">Floodplains (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/oiotvoj7iotbu62lm3yhn9iww0c18bcr">Land Development and Cover (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/yyiswccgjw4ogcqhr06bqsm5jtlm9aah">Eelgrass Recovery pilot (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.app.box.com/folder/7862354657">Chinook Salmon draft (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook Salmon draft (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/ShorelineArmoringIS-Public">Shoreline Armoring draft (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/BIBI-IS-Public">B-IBI draft (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/ToxicsInFishIS-Public">Toxics in Fish draft (IS)</a></li>

@@ -108,6 +108,12 @@ Teleconference, call 1.877.668.4493,<br>
 					<td><a href="https://pspwa.box.com/s/8usghkkfomgbxf5i804pmx08ugi5lww3" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
+					<td><p>November 1</p></td>
+					<td><p>Special Leadership Council meeting by teleconference.<br>
+				   Call in information TBD</p></td>
+					<td></td>
+				</tr>
+				<tr>
 					<td><p>December 5/6</p></td>
 					<td><p>South Seattle Community College - Georgetown campus<br>
 6737 Corson Ave South <br>

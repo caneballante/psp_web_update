@@ -1,0 +1,37 @@
+<script type="text/javascript">
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+</script>
+
+
+<div id="jumpMenu" class="fltrt">
+		<form name="form" id="indicatorJumpForm">
+				<select name="jumpMenu1" id="jumpMenu1" title="Indicators menu" onchange="MM_jumpMenu('parent',this,0)">
+						<option>Choose a Vital Sign</option>
+						<option value="index.php">Vital Sign Wheel</option>
+						<option value="onsite_sewage.php">On-site Sewage Systems</option>
+						<option value="swimming_beaches.php">Swimming Beaches</option>
+						<option value="shellfish_beds_reopened.php">Shellfish Beds Reopened</option>
+						<option value="puget_sound_quality_of_life_index.php">Puget Sound Quality of Life Index</option>
+						<option value="sound_behavior_index.php">Puget Sound Behavior Index</option>
+						<option value="recreational_fishing_permit_sales.php">Recreational Fishing Permit Sales</option>
+						<option value="commercial_fisheries_harvest.php">Commercial Fisheries Harvest</option>
+						<option value="salmon.php">Chinook Salmon</option>
+						<option value="orcas.php">Orcas</option>
+						<option value="pacific_herring.php">Pacific Herring</option>
+						<option value="birds.php">Birds</option>
+						<option value="shoreline_armoring.php">Shoreline Armoring</option>
+						<option value="eelgrass.php">Eelgrass</option>
+						<option value="land_cover_and_development.php">Land Development and Cover</option>
+						<option value="flood_plains.php">Floodplains</option>
+						<option value="estuaries.php">Estuaries</option>
+						<option value="summer_stream_flows.php">Summer Stream Flows</option>
+						<option value="marine_water_quality.php">Marine Water Quality</option>
+						<option value="fresh_water_quality.php">Fresh Water Quality</option>
+						<option value="marine_sediment_quality.php">Marine Sediment Quality</option>
+						<option value="toxics_in_fish.php">Toxics in Fish</option>
+				</select>
+		</form>
+</div>

@@ -87,7 +87,7 @@
 				<li>Are you, or your organization, committed to working collaboratively to help improve environmental and community health in the Puget Sound region?</li>
 				<li>Are you willing to help advance a comprehensive vision and <a href="http://www.psp.wa.gov/action_agenda_center.php">priority actions</a> to protect and enhance the health and vitality of the Puget Sound? </li>
 			</ol>
-			<p>Please direct any questions about ECO Net membership to <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
+			<p>Please direct any questions about ECO Net membership to <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a></p>
 			<a name="ecobenefits"></a>
 			<h2>What are the Benefits of ECO Net Membership?</h2>
 			<ul>

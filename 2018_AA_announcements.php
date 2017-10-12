@@ -72,6 +72,25 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
 			<div class="highlightbox margin-0-top">
+			
+			
+			
+				<h3>Updated Schedule for the Solicitation of Near Term Actions and Adoption of 2018-2022 Puget Sound Action Agenda </h3>
+
+				<p>The Puget Sound Partnership heard from partners that the original timeline for the release of the Solicitation for Near Term Actions for the 2018-2022 Action Agenda did not allow adequate time for quality work and discussion. In response to these concerns, we have extended the timeline, and associated deadlines, for the Solicitation.  The new schedule provides more time for quality work and collaboration, which will enable us to collectively make successful progress toward our Puget Sound recovery goals.  Details of the new schedule are outlined below.
+
+				<ol>
+					<li>The <strong>Solicitation</strong> for Near Term Actions for the 2018-2022 Action Agenda is expected be released in <strong>mid-November 2017</strong>.  The Solicitation will include deadlines and will provide detail on the NTA development and review process.</li>
+					<li>The period for <strong>NTA development</strong> will occur between <strong>mid-November 2017 and the end of March 2018.  Pre-registration</strong> for all NTAs will be due around <strong>December 22, 2017</strong>.</li>
+					<li>The period of <strong>NTA review </strong>will occur between <strong>April and July 2018.</strong></li>
+					<li>The period of <strong>Action Agenda development</strong>, review, public comment, and revision will occur between <strong>April and December of 2018</strong>.</li>
+					<li>The <strong>2018-2022 Action Agenda</strong> is anticipated to be adopted and published in <strong>December 2018</strong>.</li>
+				</ol> 
+				<p>We are dedicated to continually improving the Action Agenda and to building strong partnerships so that we can collectively and successfully make progress towards our Puget Sound recovery goals.  We are confident that these adjustments are an important step toward building an Action Agenda that better addresses all of our needs and is responsive to partner input.</p>
+
+				<p>For any questions on the timeline extension, please contact the Action Agenda Planning Manager, Heather Saunders Benson, by email at <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a>, or by phone at 360.819.0409.</p>
+			</div>
+			<div class="highlightbox margin-20-top">
 				<h3>7.25.2017 <br>
 					<br>
 				Time line extended for the Solicitation for Near Term Actions for the 2018-2022 Action Agenda Implementation Plan </h3>

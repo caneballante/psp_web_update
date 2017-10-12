@@ -1,0 +1,41 @@
+<script type="text/javascript">
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+</script>
+
+<div id="title">
+		<blockquote>
+				<p><a href="http://www.psp.wa.gov/vitalsigns/index.php" title="Puget Sound Vital Signs"><img src="images/vital_signs.png" alt="Puget Sound VItal Signs link to homepage" width="305" height="97" border="0" /></a></p>
+		</blockquote>
+</div>
+<div id="jumpMenu" class="fltrt">
+		<form name="form" id="indicatorJumpForm">
+				<select name="jumpMenu1" id="jumpMenu1" title="Indicators menu" onchange="MM_jumpMenu('parent',this,0)">
+						<option>PICK A VITAL SIGN TO EXPLORE</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/index.php">Vital Sign Wheel</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/onsite_sewage.php">On-site Sewage Systems</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/swimming_beaches.php">Swimming Beaches</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/shellfish_beds_reopened.php">Shellfish Beds Reopened</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/puget_sound_quality_of_life_index.php">Puget Sound Quality of Life Index</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/sound_behavior_index.php">Puget Sound Behavior Index</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/recreational_fishing_permit_sales.php">Recreational Fishing Permit Sales</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/commercial_fisheries_harvest.php">Commercial Fisheries Harvest</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/salmon.php">Chinook Salmon</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/orcas.php">Orcas</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/pacific_herring.php">Pacific Herring</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/birds.php">Birds</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/shoreline_armoring.php">Shoreline Armoring</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/eelgrass.php">Eelgrass</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/land_cover_and_development.php">Land Development and Cover</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/flood_plains.php">Floodplains</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/estuaries.php">Estuaries</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/summer_stream_flows.php">Summer Stream Flows</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/marine_water_quality.php">Marine Water Quality</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/fresh_water_quality.php">Fresh Water Quality</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/marine_sediment_quality.php">Marine Sediment Quality</option>
+						<option value="http://www.psp.wa.gov/vitalsigns/toxics_in_fish.php">Toxics in Fish</option>
+				</select>
+		</form>
+</div>

@@ -149,20 +149,7 @@
 			</div>
 			<!--COLUMN END-->
 
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox jobbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>9.11.17<br>
-						</strong> EMPLOYMENT<br>
-						<a href="		https://www.governmentjobs.com/careers/washington/jobs/1845529/administrative-assistant-4">ADMINISTRATIVE ASSISTANT 4</a><br>
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+	
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox jobbox">
@@ -201,13 +188,25 @@
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
 			
-			
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">NOV<br>
+						1 </div>
+					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
+						TELECONFERENCE CALL </a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content-->
-					<div class="newsbox-date">JUN<br>
-						15</div>
+					<div class="newsbox-date">NOV<br>
+						8</div>
 					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
 						EDMONDS CENTER FOR THE ARTS, <br>
 						EDMONDS<br>
@@ -219,44 +218,12 @@
 			<!--COLUMN END--> 
 		
 			
-			
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">JUN<br>
-						21-22 </div>
-					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
-						PADILLA BAY RESEARCH RESERVE, <br>
-						MOUNT VERNON</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			
-	<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">JUL<br>
-						19-20 </div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-						UNIVERSITY OF WASHINGTON APPLIED PHYSICS LAB<br>
-						</a><br>
-						<br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content-->
-					<div class="newsbox-date">JUL<br>
-						27</div>
+					<div class="newsbox-date">NOV<br>
+						30</div>
 					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
 						EDMOND CENTER FOR THE ARTS,<br>
 						EDMONDS
@@ -266,6 +233,27 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
+		
+			
+	<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">DEC<br>
+						12-13 </div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+						SOUTH SEATTLE COMMUNITY COLLEGE<br>
+						GEORGETOWN CAMPUS
+						<br>
+						</a><br>
+						<br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			
+			
 			
 			
 		

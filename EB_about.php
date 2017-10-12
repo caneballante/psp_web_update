@@ -154,8 +154,8 @@
 				 Steve Jilk (alternate) <em>(Four year term ends 6/30/2021) Whatcom County PUD</em><br>
 				   Mark Personius (alternate) <em>Whatcom County</em></p>
 			<p><strong>Northwest Straits Commission</strong><br>
-				   Rich Childers<br>
-				   Lucas Hart (alternate)</p>
+				   Rich Childers <em>Director</em><br>
+				   Lucas Hart (alternate) <em>Marine Program Manager</em></p>
 			<p><strong>Canadian Representation</strong><br>
 				   Kaaren Lewis –<em>Assistant Deputy Minister of Environmental Sustainability, BC Public Service</em><br>
 				   Dave Marshall (alternate) – <em>Fraser Basin Council</em></p>
