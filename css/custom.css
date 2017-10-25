@@ -13,7 +13,7 @@ body {
 }
 html {
 	-webkit-text-size-adjust: 100%;
-	-ms-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100% ;
 }
 /*this is part of type-kit - hides the font until it's loaded - FOUT*/
 .wf-loading h1, h2 {
@@ -669,6 +669,9 @@ intro .brand-heading {
 }
 .overview-page-image104 {
 	background: url(../images/inside_image_104.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image105 {
+	background: url(../images/inside_image_105.jpg)no-repeat bottom center scroll;
 }
 
 

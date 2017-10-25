@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Leadership Council Meetings and Agendas</title>
+<title>Puget Sound Partnership -State of the Sound Archive</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,8 +25,10 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 3;
-</script> 
+  	/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 2;
+	subNavSelected = 0;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -35,20 +37,23 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->  
+<header class="overview-page-image-style overview-page-image105"></header>
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+		<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2017-SOS-banner-logo.png" width="372" height="46" alt=""/></div>
+	</div>
+<!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2017 LEADERSHIP COUNCIL MEETINGS</h1>
-			<p>&nbsp;</p>
+			<h1>State of the SOUND ARCHIVE</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -58,81 +63,61 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include 'includes/ln-boards.html';?>	
+				<?php include 'includes/ln-sos-TS2017.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p> Start and end times depend on agenda needs. Regular meetings generally begin at 9 a.m. and work sessions at 10 a.m. For approximate start and end times for a particular meeting or work session, see the proposed agenda &#8211; usually posted online one week prior to the meeting. The regular meetings and work sessions are free and open to the public. </p>
-			<table width="100%" border="0" class="table">
-				<tr>
-					<td width="125" class="tableheader">DATE</td>
-					<td width="243" class="tableheader">LOCATION</td>
-					<td width="251" class="tableheader">AGENDA &amp; SUMMARY</td>
-				</tr>
-				<tr> </tr>
-				<tr>
-					<td><p>March 29/30</p></td>
-					<td><p>General Administration (GA) Building, Auditorium<br>
-					  1st floor<br>
-Washington State Capitol Campus<br>
-210 - 11th Avenue SW<br>
-Olympia, WA 98501</p></td>
-					<td><a href="https://pspwa.box.com/s/1mcoazaph4pglnoix7ayp25wmn72fkru" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td><p>June 21/22</p></td>
-					<td><p>Padilla Bay National Estuarine Research Reserve<br>
-					  10441 Bayview-Edison Road<br>
-Mount Vernon, WA 98273-9668 </p></td>
-
-					<td><a href="https://pspwa.box.com/s/5hzguw7pn7uimmlod1i1biva898ynpw4" target="new">Meeting Materials</a></td>
-
-				</tr>
-				8/16/17 
-Under Location:
-
-				<tr>
-					<td><p>August 16</p></td>
-					<td><p>Informational session<br>
-Teleconference, call 1.877.668.4493,<br>
- Access Code 926 276 343</p></td>
-					<td><a href="https://pspwa.box.com/s/uaq9zym6lr3saz82lsky7ciy0243atvj" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td><p>September 20/21</p></td>
-					<td><p>Port Gamble S'Klallam Tribe<br>
-				    Kingston, WA</p></td>
-					<td><a href="https://pspwa.box.com/s/8usghkkfomgbxf5i804pmx08ugi5lww3" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td><p>November 1</p></td>
-					<td><p>Special Leadership Council meeting by teleconference.<br>
-				   Call in information TBD</p></td>
-					<td><a href="https://pspwa.box.com/s/r8g6o61ndlk2664lo4q0knk3n1p4e3fb" target="new">Meeting Materials</a>
-				</tr>
-				<tr>
-					<td><p>December 5/6</p></td>
-					<td><p>South Seattle Community College - Georgetown campus<br>
-6737 Corson Ave South <br>
-Seattle, WA 98108</p></td>
-					<td><a href="https://pspwa.box.com/s/6yl8jqebs7t8dxfi5566szgbmf1aong6" target="new">Meeting Materials</a></td>
-				</tr>
-				
-			</table>
+			
+<h3>2015 State of the Sound</h3>
+<ul>
+	<li><a href="https://pspwa.box.com/2015-SOS-community-report">Report the the Community</a></li>
+	<li><a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">Report on the Puget Sound Vital Signs</a></li>
+	<li><a href="https://pspwa.box.com/2015-SOS-governor-report">Report to the Governor and Legislature</a></li>
+</ul>
+	<h3>2013 State of the Sound</h3>
+<ul>
+	<li><a href="https://pspwa.box.com/s/vr2e2349jqsvhvruq9w1">2013 State of the Sound</a></li>
+	<li><a href="https://pspwa.box.com/s/vxu6nhzs10s8dotu3if1">Appendices</a></li>
+</ul>
+	<h3>2012 State of the Sound</h3>
+<ul>
+	<li><a href="https://pspwa.box.com/s/z4zt9jmhvznznz0k77m97tryjwv1nj4u">2012 State of the Sound</a></li>
+	<li><a href="https://pspwa.box.com/s/m0q7q4fy7jtp0dpm40z1woaqumytska1">Appendices</a></li>
+</ul>
+	<h3>2009 State of the Sound</h3>
+<ul>
+	<li><a href="https://pspwa.box.com/s/9rnznhun4xilib2ta7au51tpkrtwc7bg">2009 State of the Sound</a></li>
+	<li><a href="https://pspwa.box.com/s/t5b5z0zu28puki5rtcm9sm208cqfkdeg">Appendices</a></li>
+</ul>	
 	
-			<!-- InstanceEndEditable --> </div>
+	
+	
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-0-top ">STATE OF THE SOUND DATA SOURCES</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li><?php include 'includes/board_contact.html';?>
-				</li>
-				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li><!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="vitalsigns/index.php" target="_blank">Vital Signs</a></li>
+				<li role="presentation"> <a href="action_agenda_center.php" target="_blank">Action Agenda</a></li>
+				<li role="presentation"> <a href="evaluating-about-report-card.php" target="_blank">Report Card</a></li>
+				<li role="presentation"> <a href="evaluating-effective-action.php" target="_blank">Effectiveness</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-20-top ">PARTNER REPORTS</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/governors-report-2016/">2016 State of the Salmon</a></li>
+				<li role="presentation"> <a href="https://nwifc.org/publications/state-of-our-watersheds/" target="_blank">2016 State of our Watersheds</a></li>
+			
+             
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>

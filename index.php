@@ -82,33 +82,26 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+				
 					<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/salmon.jpg"  alt=""/> <strong>8.18.17<br>
+						<img class="img-responsive img-rounded" src="images/news-images/dan-oneil.jpg"  alt=""/> <strong>10.13.17<br>
 						</strong>BLOG<br>
-						<a href="https://medium.com/@pspartnership/lets-make-sure-salmon-recovery-decisions-happen-at-home-not-in-d-c-b2140eefccb7">LET’S MAKE SURE SALMON RECOVERY DECISIONS HAPPEN AT HOME, NOT IN D.C.</a><br>
+						<a href="https://medium.com/puget-sound-partnership/farewell-dan-oneal-2525bfbf540a">FAREWELL DAN O'NEAL</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
 			</div>
 			<!--COLUMN END--> 	
 			
-				<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/press-release-science-panel.jpg"  alt=""/> <strong>7.17.17<br>
-						</strong>NEWS RELEASE<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1aaa28b">PUGET SOUND PARTNERSHIP SCIENCE PANEL TO DISCUSS DRAFT 2017 STATE OF THE SOUND REPORT</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 	
+				
+				
+				
+			
+			
 			
 			
 			
@@ -118,9 +111,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/e-clips-puget-sound.jpg"  alt=""/> <strong>7.14.17<br>
+						<img class="img-responsive img-rounded" src="images/news-images/e-clips-puget-sound.jpg"  alt=""/> <strong>10.16.17<br>
 						</strong>E-CLIPS<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1aa1ad4">
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1bdbf40">
 						NEWS FROM AROUND THE SOUND
 						</a><br>
 						<!--END news content BOX--> 
@@ -150,34 +143,8 @@
 			<!--COLUMN END-->
 
 	
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox jobbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>9.6.17<br>
-						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1843516/environmental-planner-ems1?department[0]=Puget%20Sound%20Partnership&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs">ENVIRONMENTAL PLANNER</a><br>
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox jobbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<strong>8.14.17<br>
-						</strong> EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1817929/special-assistant-to-the-boards-exempt-2017-07310">SPECIAL ASSISTANT TO THE BOARDS</a><br>
-						
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+	
+	
 			
 	
 			
