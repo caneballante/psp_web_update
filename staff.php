@@ -135,14 +135,19 @@
            <!-- <h5>Debbie Lewandowsky</h5>
 			<p> Administrative Assistant<br />
 				360.464.1232 | <a href="mailto:debbie.lewandowsky@psp.wa.gov">debbie.lewandowsky@psp.wa.gov</a></p>-->
-            <h5>charisse sonnier</h5>
-			<p> Administrative Assistant<br />
-				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
+        
             <h5>priscilla bellnavis</h5>
 			<p> Administrative Assistant<br />
 			
 			360.339.8942| <a href="mailto:priscilla.bellnavis@psp.wa.gov">priscilla.bellnavis@psp.wa.gov</a></p>
 		</p>
+		    <h5>Jennifer Goodenough</h5>
+			<p> Administrative Assistant<br />
+				360.628.0050 | <a href="mailto:Jennifer.goodenough@psp.wa.gov">jennifer.goodenough@psp.wa.gov</a></p>  
+				
+			<h5>charisse sonnier</h5>
+			<p> Administrative Assistant<br />
+				360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a></p>
 			
 	    <a name="administrative_services"></a><br />
 			

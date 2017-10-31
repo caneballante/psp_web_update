@@ -32,8 +32,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
- 					<h1 class="brand-heading">TOGETHER, WE'RE PROTECTING THE NATION'S LARGEST ESTUARY</h1>
- 					<div class="learn-more-box"><a href="puget-sound-recovery.php">LEARN MORE</a></div>
+ 					<h1 class="brand-heading">2017 State of the sound</h1>
+ 					<div class="learn-more-box"><a href="sos.php">LEARN MORE</a></div>
  				</div>
 			</div>
 		</div>
@@ -82,6 +82,21 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+							
+					<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/announcement-shoreline-armoring.jpg"  alt=""/> <strong>10.30.17<br>
+						</strong>ANNOUNCEMENT<br>
+						<a href="implementation_strategies_announcements.php">DRAFT SHORELINE ARMORING IMPLEMENTATION STRATEGY PUBLIC COMMENT:10/30/17 – 11/30/17</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END--> 	
+			
 				
 					<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">

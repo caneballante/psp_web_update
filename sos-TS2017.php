@@ -82,30 +82,30 @@
 		<li>Who funds Puget Sound recovery?</li>
 		<li>What is needed to see more progress in Puget Sound recovery?</li>
 	</ul>
- <h2>WHAT DOES THE 2017 STATE OF THE SOUND TELL US ABOUT THE STATUS OF THE RECOVERY EFFORT?</h2>
-<h4>We now have a better understanding of what’s needed and how to do it, and we know how to keep learning. </h4>
-<p>We have come far in better understanding the unique aspects of Puget Sound recovery, something which was previously uncharted territory, and we now better understand what has to be done and how to do it in a smart, efficient, and effective way.  </p>
-<h4>Meaningful and innovative work has been—and continues to be—accomplished. </h4>
-<p>Great projects by our partners continue to move the Puget Sound recovery community toward our shared goals, and the Partnership is supporting these partners in planning, funding, and learning.</p>
-<h4>Progress has to happen faster. </h4>
-<p>For Puget Sound recovery and protection to make the progress necessary to meet recovery goals, an investment many times above the norms of the past must be made. The pressures on our ecosystem are great―we need more commitment, and from a larger portion of society.  As it now stands, the 2020 goals will not be met. </p>
-<h2>WHERE DO I FIND THE DATA THAT SUPPORTS THE ANALYSIS IN THE STATE OF THE SOUND? </h2>
+ <h2>HOW IS THE RECOVERY EFFORT GOING?</h2>
+	<ul>
+		<li>While always learning, we now better understand what needs to be done to ensure a thriving and sustainable Puget Sound ecosystem. And we see how to achieve our goals in ever smarter, and more efficient and effective ways.</li>
+		<li>Meaningful and innovative work has been—and continues to be—accomplished. It is the daily hard work of our partners that moves the region toward a sustainable ecosystem. The Partnership supports these partners in planning, funding, and learning.</li>
+		<li>The pressures on our ecosystem are great―an investment that is many times above past commitments, and from a larger portion of society, must be secured to safeguard what we treasure. Broader support for improved policies that protect and sustain Puget Sound is also needed. As it now stands, the 2020 goals will not be met.</li>
+	</ul>
+	<h2><strong><span lang="EN">WHERE DO I FIND SUPPORTING DATA</span></strong>? </h2>
 <p>Links to specific data sources that support the statements made in the State of the Sound:</p>
 <ul>
 	<li><a href="evaluating-vital-signs.php">Vital Signs</a></li>
 	<li><a href="action_agenda_center.php">Action Agenda</a></li>
 	<li><a href="evaluating-about-report-card.php">Report Card</a></li>
+	<li><a href="https://pspwa.box.com/s/jy7279qsas85olkvglh2y7w9ilmnsfb7">Additional Near Term Action (NTA) information</a></li>
 	<li><a href="evaluating-effective-action.php">Effectiveness</a></li>
-	<li>Recovery story references</li>
-	<li>Reports and resources mentioned on the citations page (list of reports hyperlinked to PDF)</li>
+	<li><a href="https://pspwa.box.com/s/nbhsddz1cn8t9gl5cat7s2tyfbked57d">Recovery story references</a></li>
+	<li>Reports and resources mentioned on the citations page</li>
 		<ul>
-			<li>Encyclopedia of Puget Sound’s capture of significant recent papers</li>
-			<li>Results Washington, Goal 3—Sustainable Energy and a Clean Environment</li>
-			<li>Puget Sound Ecosystem Monitoring Program (PSEMP) Ecosystem Monitoring Inventories</li>
-			<li>Inventory of ongoing or recent science activities from the 2016-2018 Science Work Plan</li>
-			<li>Puget Sound Marine Waters annual overviews, produced by the PSEMP Marine Waters Workgroup</li>
-			<li>2016 Salish Sea Toxics Monitoring Review, produced by the PSEMP Toxics Workgroup</li>
-			<li>Preliminary Climate Change Assessment for the Puget Sound Partnership, produced by the University of Washington Climate Impacts Group</li></ul>
+			<li><a href="https://www.eopugetsound.org">Encyclopedia of Puget Sound’s capture of significant recent papers</a></li>
+			<li><a href="http://www.results.wa.gov/what-we-do/measure-results/sustainable-energy-clean-environment/goal-map">Results Washington, Goal 3—Sustainable Energy and a Clean Environment</a></li>
+			<li><a href="https://sites.google.com/a/psemp.org/psemp/monitoring-inventories-gap-analyses">Puget Sound Ecosystem Monitoring Program (PSEMP) Ecosystem Monitoring Inventories</a></li>
+			<li><a href="http://www.psp.wa.gov/science-biennial-science-workplan.php">Inventory of ongoing or recent science activities from the 2016-2018 Science Work Plan</a></li>
+			<li><a href="http://www.psp.wa.gov/PSmarinewatersoverview.php">Puget Sound Marine Waters annual overviews, produced by the PSEMP Marine Waters Workgroup</a></li>
+			<li><a href="https://www.eopugetsound.org/articles/2016-salish-sea-toxics-monitoring-review-selection-research">2016 Salish Sea Toxics Monitoring Review, produced by the PSEMP Toxics Workgroup</a></li>
+			<li><a href="https://cig.uw.edu/publications/preliminary-climate-change-assessment-for-the-puget-sound-partnership/">Preliminary Climate Change Assessment for the Puget Sound Partnership, produced by the University of Washington Climate Impacts Group</a></li></ul>
 	<li>Partner reports</li>
 		<ul>
 			<li><a href="http://stateofsalmon.wa.gov/governors-report-2016/">2016 State of Salmon </a></li>
@@ -120,7 +120,7 @@
 
 <h2>TO TAKE AWAY, DOWNLOAD AND PRINT AND SHARE </h2>
 <ul>
-	<li>2017 State of the Sound fact sheet</li>
+	<li><a href="https://pspwa.box.com/s/5u2jawn8129lpy5nckz0gmhcbeu3rm9o">2017 State of the Sound fact sheet</a></li>
 	<li><a href="https://pspwa.box.com/s/itv1vn99ssosatz5vg8ql50mx0icfi2c">Vital Sign status overview</a></li>
 	<li><a href="https://pspwa.box.com/s/1qrwymghgg8tx6lloluljvgura9nw2ca">Shorelines Recovery Story </a></li>
 	<li><a href="https://pspwa.box.com/s/ko7ddqqxyyye3zl9kpk915sdt9jwq3by">Shellfish Recovery Story</a></li>

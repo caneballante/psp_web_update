@@ -66,8 +66,25 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="padding-0-top margin-0-top">NEW ANNOUNCEMENTS</h2>
-            <!-- ANNOUNCEMENT START --->
+            
+                        <!-- ANNOUNCEMENT START --->
         <div class="highlightbox">
+		  <h3>10.30.17 <br>
+		  	Draft Shoreline Armoring Implementation Strategy available for Public Comment: October 30 – November 30, 2017</h3>
+			<p>The <a href="https://pugetsoundestuary.wa.gov/about/strategic-initiatives/">Habitat Strategic Initiative</a> team, in partnership with the Washington Department of Fish &amp; Wildlife, Washington Department of Natural Resources, Puget Sound Partnership, Puget Sound Institute, and an <a href="https://pspwa.box.com/s/bzqt9amrn5nz8nrtzlvwkak7z9w66jw5">Interdisciplinary Team</a> of experts, has been developing the Shoreline Armoring Implementation Strategy to maximize progress towards reducing <a href="http://www.psp.wa.gov/vitalsigns/shoreline_armoring.php">shoreline armor in Puget Sound</a>. To learn more, watch a <a href="https://pspwa.box.com/s/73du68az13r83gxnhs2ac256boj3aamv">brief video</a> on the development of the Implementation Strategy and read our <a href="https://pspwa.box.com/s/94l5kleynxsguyu6x0a40wxyz10qmtbz">fact sheet</a>. </p>
+			<p>The Shoreline Armoring Implementation Strategy draft will be available for public review and comment from <strong><u>October 30 through November 30</u></strong>. </p>
+			<p>You can find the Implementation Strategy draft documents in a public Box folder: <a href="https://pspwa.box.com/s/26torgsst4arol01ljzy1vxjeg2gy5d3">https://pspwa.box.com/s/26torgsst4arol01ljzy1vxjeg2gy5d3</a>. The primary document is the <a href="https://pspwa.box.com/s/8aoi05npjh5ffs6or6qmwye1g4hc1yk5">narrative</a> with supporting material available in the <a href="https://pspwa.box.com/s/ay3ud4mpnuble82j2fk41w4i66h6btar">appendices</a>.</p>
+			<p>There are two opportunities to provide feedback:</p>
+			<ul>
+				<li>Complete a <a href="https://www.surveymonkey.com/r/ShorelineArmoringISquestionnaire">brief questionnaire</a>. </li>
+				<li>Use the downloadable <a href="https://pspwa.box.com/s/xzzjuijacbtblz6qfw0vmhy2vao10dwp">comment form</a> to provide detailed, individual comments on the Implementation Strategy. Instructions for submission are provided in the form.</li>
+			</ul>
+			<p>Please contact Jennifer Griffiths (jennifer.griffiths@dfw.wa.gov) if you have any questions and please share this opportunity with others you think might be interested.&nbsp;</p>
+			<p>Thank you in advance for your help in refining and improving this Implementation Strategy!</p>
+		</div>
+			<!-- ANNOUNCEMENT END--->
+       <!-- ANNOUNCEMENT START --->
+        <div class="highlightbox margin-20-top">
 		  <h3>11.28.16 <br>
 		  	HELP US DEVELOP VITAL SIGN IMPLEMENTATION STRATEGIES FOR THE BENTHIC INDEX OF BIOTIC INTEGRITY AND TOXICS IN FISH</h3>
 			<p>The Stormwater Strategic Initiative Lead Team is seeking members for two Interdisciplinary Teams to help develop Implementation Strategies, or recovery and protection strategies, which accelerate progress toward meeting both the <a href="http://www.psp.wa.gov/vitalsigns/fresh_water_quality_indicator3.php">Benthic Index of Biotic Integrity (B-IBI)</a> and <a href="http://www.psp.wa.gov/vitalsigns/toxics_in_fish.php">Toxics in Fish</a> 2020 Vital Sign targets across the Puget Sound. Participants will work alongside the Stormwater Strategic Initiative Leads, Puget Sound Partnership, Puget Sound Institute, and others in this effort.</p>
