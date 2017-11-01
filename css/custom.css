@@ -162,6 +162,12 @@ p {
 .padding-10-all {
 	padding: 10px 10px 10px 10px;
 }
+.padding-20-all {
+	padding: 20px 20px 20px 20px;
+}
+.padding-30-all {
+	padding: 30px 30px 30px 30px ;
+}
 /*padding top*/
 .padding-0-top {
 	padding-top: 0px;
@@ -269,6 +275,12 @@ p {
 }
 .margin-20-all {
 	margin: 20px;
+}
+.border-top {
+	border-top: dotted 1px #434343;
+}
+.border-bottom {
+	border-bottom: dotted 1px #434343;
 }
 /*align*/
 .align-right {
