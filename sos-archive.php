@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - State of the Sound</title>
+<title>Puget Sound Partnership -State of the Sound Archive</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,13 +25,14 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	  	navSelected = 2;
-	subNavSelected = 2;
+  	/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 2;
+	subNavSelected = 0;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion3" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
@@ -42,84 +43,73 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image77">
-	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
-</header>
+<header class="overview-page-image-style overview-page-image105"></header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-		<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
+		<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2017-SOS-banner-logo.png" width="372" height="46" alt=""/></div>
 	</div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
-	<div class="row">
-		<div class="col-sm-3 padding-20-top"></div>
-		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>HUMAN WELLBEING INDICATORS</h1>
-			<!-- InstanceEndEditable --></div>
-		<div class="col-sm-2 padding-20-top"></div>
-	</div>
-	
 	<div class="row"> 
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-sos.html';?>
+				<?php include 'includes/ln-sos-TS2017.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-				<p>Experts in conservation and environmental policy around the world recognize that humans must be explicitly integrated into plans for environmental protection and restoration to make real progress toward ecosystem recovery. 
-				Over the past 3 years, Partnership staff has teamed up with its Science Panel and regional scientists to better understand the benefits residents derive from a healthy Puget Sound, as well as the complex role people play in the protection and restoration of the ecosystem. </p>
-			<p>Through a series of pilot projects in three local areas—Hood Canal, the Puyallup Watershed, and Whatcom County—and subsequent collaboration with partners and social scientists, the team built on existing human wellbeing indicators and developed a revised list of Vital Signs and indicators dedicated to human wellbeing. </p>
-			<p>In 2015, the Puget Sound Partnership’s Leadership Council adopted a new set of wellbeing indicators designed to better support the integration of human wellbeing in all levels of Puget Sound recovery planning and evaluation, from the watershed to the regional scale.</p>
-			<p>New and revised Vital Signs that will be used for future reporting include:</p>
-			<h6>Healthy Human Population</h6>
-			<ul>
-				<li>Onsite Sewage Systems</li>
-				<li>Harvestable Shellfish Beds</li>
-				<li>Outdoor Activities</li>
-				<li>Local Foods</li>
-				<li>Air Quality</li>
-				<li>Drinking Water</li>
-			</ul>
-			<h6>Human Quality of Life</h6>
-			<ul>
-				<li>Sound Stewardship</li>
-				<li>Economic Vitality</li>
-				<li>Good Governance</li>
-				<li>Sense of Place</li>
-				<li>Cultural Practices</li>
-			</ul>
-			<!-- InstanceEndEditable --> </div>
+			<h2 class="margin-0-top">State of the Sound archive</h1>
+<h3>2015 State of the Sound</h3>
+<ul>
+	<li><a href="https://pspwa.box.com/2015-SOS-community-report">Report the the Community</a></li>
+	<li><a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">Report on the Puget Sound Vital Signs</a></li>
+	<li><a href="https://pspwa.box.com/2015-SOS-governor-report">Report to the Governor and Legislature</a></li>
+</ul>
+	<h3>2013 State of the Sound</h3>
+<ul>
+	<li><a href="https://pspwa.box.com/s/vr2e2349jqsvhvruq9w1">2013 State of the Sound</a></li>
+	<li><a href="https://pspwa.box.com/s/vxu6nhzs10s8dotu3if1">Appendices</a></li>
+</ul>
+	<h3>2012 State of the Sound</h3>
+<ul>
+	<li><a href="https://pspwa.box.com/s/z4zt9jmhvznznz0k77m97tryjwv1nj4u">2012 State of the Sound</a></li>
+	<li><a href="https://pspwa.box.com/s/m0q7q4fy7jtp0dpm40z1woaqumytska1">Appendices</a></li>
+</ul>
+	<h3>2009 State of the Sound</h3>
+<ul>
+	<li><a href="https://pspwa.box.com/s/9rnznhun4xilib2ta7au51tpkrtwc7bg">2009 State of the Sound</a></li>
+	<li><a href="https://pspwa.box.com/s/t5b5z0zu28puki5rtcm9sm208cqfkdeg">Appendices</a></li>
+</ul>	
+	
+	
+	
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">RELATED DOWNLOADS</div>
+			<div class="right-nav-title margin-0-top ">STATE OF THE SOUND DATA SOURCES</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://pspwa.box.com/2015-vitalsigns-table" target="_blank">Vital Signs Progress Summary</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/2015-indicator-table" target="_blank">Vital Sign Indicators' Category of Progress</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">2015 State of the Sound: Report on the Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-governor-report" target="_blank">2015 State of the Sound: Report to the Governor and the Legislature</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/2015-SOS-community-report" target="_blank">2015 State of the Sound: Report to the Community</a></li>
+				<li role="presentation"> <a href="vitalsigns/index.php" target="_blank">Vital Signs</a></li>
+				<li role="presentation"> <a href="action_agenda_center.php" target="_blank">Action Agenda</a></li>
+				<li role="presentation"> <a href="evaluating-about-report-card.php" target="_blank">Report Card</a></li>
+				<li role="presentation"> <a href="evaluating-effective-action.php" target="_blank">Effectiveness</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">PARTNER REPORTS</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="http://cses.washington.edu/cig/" target="_blank">Climate Change Institute</a></li>
-				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns">Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="http://www.psp.wa.gov/gis/ReportCard/" target="_blank">Action Agenda Report Card</a></li>
-				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda Center</a></li>	
-				<li role="presentation"> <a href="http://www.psp.wa.gov/sos-2013/sos2013.php">Past State of the Sound Reports</a></li>
-									<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/governors-report-2016/">2016 State of the Salmon</a></li>
+				<li role="presentation"> <a href="https://nwifc.org/publications/state-of-our-watersheds/" target="_blank">2016 State of our Watersheds</a></li>
+			
+             
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership -State of the Sound Archive</title>
+<title>Puget Sound Partnership -State of the Sound User Survey</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -26,13 +26,13 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 3;
 	subNavSelected = 0;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion3" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
@@ -43,21 +43,17 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image105"></header>
+<header class="overview-page-image-style overview-page-image105">
+	<div class="overview-quote pull-right">
+	
+	</div>
+</header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
 		<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2017-SOS-banner-logo.png" width="372" height="46" alt=""/></div>
 	</div>
 <!-- InstanceEndEditable -->
 <div class="container page-content padding-50-bottom">
-	<div class="row">
-		<div class="col-sm-3 padding-20-top"></div>
-		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>State of the SOUND ARCHIVE</h1>
-			<!-- InstanceEndEditable --></div>
-		<div class="col-sm-2 padding-20-top"></div>
-	</div>
-	
 	<div class="row"> 
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
@@ -71,27 +67,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-<h3>2015 State of the Sound</h3>
-<ul>
-	<li><a href="https://pspwa.box.com/2015-SOS-community-report">Report the the Community</a></li>
-	<li><a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">Report on the Puget Sound Vital Signs</a></li>
-	<li><a href="https://pspwa.box.com/2015-SOS-governor-report">Report to the Governor and Legislature</a></li>
-</ul>
-	<h3>2013 State of the Sound</h3>
-<ul>
-	<li><a href="https://pspwa.box.com/s/vr2e2349jqsvhvruq9w1">2013 State of the Sound</a></li>
-	<li><a href="https://pspwa.box.com/s/vxu6nhzs10s8dotu3if1">Appendices</a></li>
-</ul>
-	<h3>2012 State of the Sound</h3>
-<ul>
-	<li><a href="https://pspwa.box.com/s/z4zt9jmhvznznz0k77m97tryjwv1nj4u">2012 State of the Sound</a></li>
-	<li><a href="https://pspwa.box.com/s/m0q7q4fy7jtp0dpm40z1woaqumytska1">Appendices</a></li>
-</ul>
-	<h3>2009 State of the Sound</h3>
-<ul>
-	<li><a href="https://pspwa.box.com/s/9rnznhun4xilib2ta7au51tpkrtwc7bg">2009 State of the Sound</a></li>
-	<li><a href="https://pspwa.box.com/s/t5b5z0zu28puki5rtcm9sm208cqfkdeg">Appendices</a></li>
-</ul>	
+	<script>(function(t,e,c,n){var o,s,i;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(c),s=o[o.length-1],i=e.createElement(c),i.type="text/javascript",i.async=!0,i.id=n,i.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/cr5AUhK8Idh0P0c_2FZUPVjn87Smf4LwRQ9Ni7iySEG3tgh_2BTCFrgPexFkC6k5d6Sy.js"].join(""),s.parentNode.insertBefore(i,s))})(window,document,"script","smcx-sdk");</script><a style="font: 12px Helvetica, sans-serif; color: #999; text-decoration: none;" href=https://www.surveymonkey.com> Create your survey with SurveyMonkey </a>
 	
 	
 	

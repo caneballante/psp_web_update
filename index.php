@@ -64,7 +64,7 @@
 			<h1>MEASURING RECOVERY</h1>
 			<div class="padding-5-bottom"><a href="evaluating-about-report-card.php">REPORT&nbsp;CARD</a></div>
 			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">VITAL&nbsp;SIGNS</a></div>
-			<div class="padding-5-bottom"><a href="sos.php">2015&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
+			<div class="padding-5-bottom"><a href="sos.php">2017&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
 			<div class="padding-5-bottom"><a href="evaluating-PSEMP.php">ECOSYSTEM&nbsp;MONITORING (PSEMP)</a> </div>
 			<a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND EVALUATION&nbsp;OVERVIEW</a></div>
 		<div class="col-sm-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive img-rounded"/></div>

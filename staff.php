@@ -138,8 +138,7 @@
         
             <h5>priscilla bellnavis</h5>
 			<p> Administrative Assistant<br />
-			
-			360.339.8942| <a href="mailto:priscilla.bellnavis@psp.wa.gov">priscilla.bellnavis@psp.wa.gov</a></p>
+				360.339.8942| <a href="mailto:priscilla.bellnavis@psp.wa.gov">priscilla.bellnavis@psp.wa.gov</a></p>
 		</p>
 		    <h5>Jennifer Goodenough</h5>
 			<p> Administrative Assistant<br />
@@ -187,7 +186,7 @@
 			      
 			<h5>Deborah Hagen</h5>
 			<p> Special Assistant to the Boards<br />
-			 Office 360.628.2423 |
+			 Office 360.819.0057 |
 				 <a href="mailto:deborah.hagen">deborah.hagen@psp.wa.gov</a><br />
 			</p>
 		
@@ -232,7 +231,7 @@
 			<h5>Leska Fore</h5>
 			<p> Monitoring Program Performance Analyst<br/> 206.708.5048 | <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a> </p>
 			<h5>Elene Trujillo</h5>
-			<p> Monitoring Performance Analyst <br> 360-819-6018 | <a href="mailto:elene.dorfmeier@psp.wa.gov">elene.dorfmeier@psp.wa.gov</a>
+			<p> Monitoring Performance Analyst <br> 360-819-6018 | <a href="mailto:elene.trujillo@psp.wa.gov">elene.trujillo@psp.wa.gov</a>
 			</p>
 
 			<br>
