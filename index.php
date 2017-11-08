@@ -46,7 +46,7 @@
 		<div class="col-sm-3 padding-10-top">
 			<h1>ROADMAP TO RECOVERY</h1>
 			<div class="padding-5-bottom"><a href="action_agenda_center.php">ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
-			<div class="padding-5-bottom"><a href="2018_AA_update.php"><span class="orange"><strong>NEW! </strong></span>2018&nbsp;ACTION AGENDA&nbsp;UPDATE</a></div>
+			<div class="padding-5-bottom"><a href="2018_AA_update.php"><span class="orange"><strong>NEW! </strong></span>2018-2022&nbsp;ACTION AGENDA&nbsp;UPDATE</a></div>
 			<div class="padding-5-bottom"><a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
 			<div class="padding-5-bottom"><a href="science-adaptive-management-framework.php">RESULTS-BASED MANAGEMENT</a></div>
 		</div>
@@ -151,6 +151,36 @@
 						<img class="img-responsive img-rounded" src="images/news-images/innovation-stories.jpg"  alt=""/> 
 						</strong>PUGET SOUND INNOVATION STORIES<br>
 						<a href="https://pugetsoundinnovationstories.blog/">LEARN ABOUT THE PEOPLE AND PROJECTS SAVING THE SOUND</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END-->
+
+	
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					
+						</strong>EMPLOYMENT<br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1886883/ecosystem-recovery-coordinator-exempt">ECOSYSTEM RECOVERY COORDINATOR</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END-->
+
+	
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						
+						</strong>EMPLOYMENT<br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1887453/communications-specialist-exempt">COMMUNICATION SPECIALIST</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>

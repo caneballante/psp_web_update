@@ -17,9 +17,8 @@ $(document).ready(function () {
 		$.each((newsReleasesData['news-releases']), function (i, newsReleases) {
 			var newsDate = (newsReleases['date']);
 			var newsLink = (newsReleases['link']);
-			var newsShow = '<p>' + newsDate + " : " + newsLink + '</p>';
+			var newsShow = '<p>' + newsDate + ':' + newsLink + '</p>';
 			$('#newsDiv').append(newsShow);
-			console.log(newsShow);
 		});
 	};
 

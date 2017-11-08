@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Employment Opportunities</title>
+<title>Puget Sound Partnership - 2018 Action Agenda Update Who Is Involved</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -26,7 +25,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 5;
+  	navSelected = 2;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -36,62 +35,53 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image12"> </header>
-<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"></div>
-</div>
-<!-- InstanceEndEditable -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style overview-page-image104">
+	<div class="overview-quote pull-right">
+		<h3>&nbsp;</h3>
+	</div>
+</header>
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>EMPLOYMENT OPPORTUNITIES</h1>
-			<p>&nbsp;</p>
+			<h1>2018-2022 action agenda UPDATE:<br>
+				WHO IS INVOLVED <br>
+			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/ln-psp-overview.html';?>
-					<!-- InstanceEndEditable -->
+				<?php include 'includes/ln-2018-AA.html';?>
+				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
+		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">Employment opportunities</h2>
-			<a href="https://www.governmentjobs.com/careers/washington/jobs/1887453/communications-specialist-exempt">COMMUNICATION SPECIALIST</a><br>
-				<a href="https://www.governmentjobs.com/careers/washington/jobs/1886883/ecosystem-recovery-coordinator-exempt">ECOSYSTEM RECOVERY COORDINATOR</a><br>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --> </div>
+		<img class="img-responsive" src="images/action-agenda/Action-agenda-NTA-process.png" width="1000" height="1294" alt=""/> <!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="http://agency.governmentjobs.com/washington/default.cfm" target="new">careers.wa.gov</a></li>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-20-top ">CONTACT</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li>
-					<p>Denis Ross<br>
-						HR Liaison<br />
-						Office 360.464.1233 <br>
-						<a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p>
-				</li>
+				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
+				<li role="presentation"><a href="implementation-strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
+				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
@@ -121,5 +111,4 @@
 
 </script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

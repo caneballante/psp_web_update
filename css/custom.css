@@ -63,6 +63,9 @@ a[href^="http"] {
 .light-blue-links a {
 	color: #1ab3ff;
 }
+.white-links a {
+	color: #fff;
+}
 #home-squares a {
 	font-size: 14px;
 	font-weight: 100;
@@ -276,6 +279,12 @@ p {
 .margin-20-all {
 	margin: 20px;
 }
+.margin-30-all {
+	margin: 30px;
+}
+.margin-40-all {
+	margin: 30px;
+}
 .border-top {
 	border-top: dotted 1px #434343;
 }
@@ -326,6 +335,12 @@ p {
 .width-500 {
 	width: 500px;
 	margin: auto;
+}
+.rounded-corners {
+	 border-radius: 25px;
+}
+.border-thick-blue {
+	 border: solid #0a3b5c 3px;
 }
 .floatright{
 	float: right;

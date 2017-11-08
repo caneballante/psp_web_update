@@ -1,7 +1,7 @@
 $(document).ready(function () {	
-	$.getJSON('json/newsreleases.json', function (data) {
-			newsReleasesData = data;
+	$.getJSON('json/newsreleases.json', function (newsReleasesData) {
 			newsReleaseShow();
+			console.log(newsReleasesData);
 		});
 
 
