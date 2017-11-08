@@ -72,12 +72,14 @@
 				   <p><strong>Strait of Juan De Fuca</strong><br>
 				    Steve Tharinger <em>(Four year term ends 6/30/2021) Action Area representative</em><br>
 				    Kate Dean(alternate) <em>Jefferson County Commissioner</em></p>
-				  <p> <strong>The San Juan Islands</strong><br>
-				Jamie Stephens <em>(Four year term ends 6/30/2021) Action Area Representative (San Juan LIO)</em><br>
- 				Marta Green (alternate) <em>Action Area Representative (San Juan LIO)</em></p>
+				
+				<p>	<strong>Whatcom LIO</strong><br>
+				 Steve Jilk (alternate) <em>(Four year term ends 6/30/2021) Whatcom County PUD</em><br>
+				   Mark Personius (alternate) <em>Whatcom County</em></p>
+				
 				<p><strong>Whidbey Island</strong><br>
 				Ron Wesen (Four year term ends 6/30/2018) <em>Skagit County Commissioner</em><br>
-				Bill Blake (alternate) <em>City of Arlington</em></p>
+				Bill Blake (alternate) <em>Skagit Conservation District</em></p>
 			<p> <strong>Hood Canal</strong><br>
 					Scott Brewer <em>(Four year term ends 6/30/2020) Hood Canal Coordinating Council</em><br>
 				Haley Harguth (alternate) <em>Hood Canal Coordinating Council</em></p>
@@ -90,8 +92,11 @@
 				    Christie True (alternate) <em>King County</em><br>
 				    Dave White (alternate) <em>King County</em></p>
 				  <p> <strong>South Puget Sound</strong><br>
-				    Dan Wrye<em> (Four year term ends 6/30/2019) Pierce County</em><br>
-				    John Bolender (alternate) <em>Mason County Conservation District</em></p>
+				    Vacant<br>
+				    John Bolender (alternate) <em>Mason County Conservation District</em><br>
+				   Jeff Barney (alternate) <br>
+				    Tom Kantz (alternate)<br>
+</p>
 			<p><strong>Business Interest</strong><br>
 				   Gary Chandler <em>(Four year term ends 6/30/2021) Association of Washington Business</em><br />	Mary Catherine McAleer (alternate) <em>Association of Washington Business</em></p>
 			<p><strong>Small Business Interest</strong><br>
@@ -131,9 +136,10 @@
 				   Christine Rolfes <em>23rd District, Washington State Senate</em></p>
 			<p><strong>Federal Government</strong><br>
 				   Barry Thom <em>National Oceanic and Atmospheric Administration (NOAA)</em><br>
-				   Elizabeth Babcock (alternate) <em>NOAA</em></p>
+				   Elizabeth Babcock (alternate) <em>NOAA</em><br>
+				  David Price(alternate) <em>NOAA</em></p>
 			<p><strong>Federal Government</strong><br>
-				   Col. John G. Buck <em>U.S Army Corps of Engineers</em><br>
+				Vacant<br>
 				   Damon Lilly (alternate) <em>USACE</em></p>
 			<p><strong>Federal Government</strong><br>
 				   Peter Murchie <em>Environmental Protection Agency (EPA)</em><br>
@@ -141,18 +147,23 @@
 			
 			<p><strong>Washington State Agencies</strong><br>
 				   Maia Bellon <em>Director, Washington State Department of Ecology</em><br>
-				   Tom Laurie (alternate) <em>Department of Ecology</em></p>
+				   Tom Laurie (alternate) <em>Department of Ecology</em><br>
+				     Melissa Gildersleeve (alternate)
+			<em>Department of Ecology</em></p>
+			
 			<p><strong>Washington State Agencies</strong><br>
 				   Jim Unsworth <em>Director, Washington Department of Fish and Wildlife</em><br>
 				   Jeff Davis (alternate) <em>Department of Fish and Wildlife</em><br>
-				   David Price (alternate) <em>Department of Fish and Wildlife</em></p>
+				    Julie Watson (alternate) <em>Department of Fish and Wildlife</em><br>
+				     Justin Allegro (alternate) <em>Department of Fish and Wildlife</em><br>
+				  
 			<p><strong>Washington State Agencies</strong><br>
 				   Hilary Franz <em>Commissioner of Public Lands, Washington Department of Natural Resources</em><br>
 				   Kirsten Feifel (alternate) <em>Department of Natural Resources</em></p>
-			<p><strong>EX-OFFICIO REPRESENTATIVES</strong><br>
-				<strong>Whatcom LIO</strong><br>
-				 Steve Jilk (alternate) <em>(Four year term ends 6/30/2021) Whatcom County PUD</em><br>
-				   Mark Personius (alternate) <em>Whatcom County</em></p>
+			<p><strong>EX-OFFICIO REPRESENTATIVES</strong><br></p>
+			  <p> <strong>The San Juan Islands</strong><br>
+				Jamie Stephens <em>(Four year term ends 6/30/2021) Action Area Representative (San Juan LIO)</em><br>
+ 				Marta Green (alternate) <em>Action Area Representative (San Juan LIO)</em></p>
 			<p><strong>Northwest Straits Commission</strong><br>
 				   Rich Childers <em>Director</em><br>
 				   Lucas Hart (alternate) <em>Marine Program Manager</em></p>
