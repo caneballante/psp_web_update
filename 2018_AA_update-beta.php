@@ -69,12 +69,15 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-			<h2 class="margin-0-top">What is in the Action Agenda?</h2>
+				<div class="highlightbox margin-0-top">
+				<p class="margin-10-top padding-10-all"><strong>NEW!</strong> The Puget Sound Partnership is now accepting Near Term Action (NTA) proposals for the 2018-2022 Action Agenda <a href="2018_AA_announcements-beta.php">LEARN MORE</a></p>
+				</div>
+			<h2 class="margin-20-top">What is in the Action Agenda?</h2>
 			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it identifies the goals and strategies for recovery and describes how the work of many partner organizations contributes to improving the health of Puget Sound.</p>
 <p>The 2018-2022 update is expected to result in a more focused Action Agenda, designed to accelerate Puget Sound recovery. The Action Agenda comprises two components: the <em>Comprehensive Plan</em> and the <em>Implementation Plan</em>.</p>
 <ul>
 				<li> The <strong>Comprehensive Plan </strong>charts the course for long-term Puget Sound recovery by outlining overarching strategies for successful protection and restoration.  The 2018–2022 update will include minor revisions to the <em>Comprehensive Plan</em> published in 2016.  A major revision to the <em>Comprehensive Plan</em> will be part of the 2022–2026 Action Agenda update. </li>
-				<li>The<strong> Implementation Plan</strong>is the<em>&nbsp;action</em>&nbsp;component of the Action Agenda. It represents the collective effort to advance Puget Sound recovery over the next 4 years (2018—2022). Based on the fundamental framework and broad strategies described in the&nbsp;Comprehensive Plan, the&nbsp;Implementation Plan&nbsp;defines the suite of Near Term Actions (NTAs) and ongoing programs that will advance recovery over the next 4 years. Near Term Actions are new, expanded, or enhanced programs, specific projects, or scientific investigations. The Implementation Plan also includes ongoing programs that are part of existing Puget Sound recovery efforts and are aligned within the Strategic Initiatives. </li>
+				<li>The<strong> Implementation Plan</strong> is the<em> action</em> component of the Action Agenda. It represents the collective effort to advance Puget Sound recovery over the next 4 years (2018—2022). Based on the fundamental framework and broad strategies described in the Comprehensive Plan, the Implementation Plan defines the suite of Near Term Actions (NTAs) and ongoing programs that will advance recovery over the next 4 years. Near Term Actions are new, expanded, or enhanced programs, specific projects, or scientific investigations. The Implementation Plan also includes ongoing programs that are part of existing Puget Sound recovery efforts and are aligned within the Strategic Initiatives. </li>
 			</ul>
 			<p>Recovery activities are focused on three Strategic Initiatives:</p>
 			<ul>
@@ -84,18 +87,18 @@
 			</ul>
 			<p>These initiatives represent priorities for Puget Sound, balancing ecological, economic and human wellbeing factors to focus on actions that make the greatest progress toward ecosystem recovery targets for the time and resources spent. The Strategic Initiatives help direct spending and resources, and they guide the Partnership&rsquo;s work with partners to increase funding, seek policy changes, report successes and challenges, and educate and engage people in the recovery effort. </p>
 			<h2>HOW DO ACTIONS GET INCLUDED IN THE ACTION AGENDA?</h2>
-			<p>The Puget Sound Partnership is currently soliciting <a href="http://www.psp.wa.gov/2018_AA_solicitation_for_NTAs.php">Near Term Actions (NTAs)</a> (<a href="Solicitation%2520for%2520Near%2520Term%2520Actions%2520(NTAs)%2520for%2520the%25202018%E2%80%932022%2520Implementation%2520Plan">Solicitation for Near Term Actions (NTAs) for the 2018–2022 Implementation Plan</a>).  Important deadlines for submitting an NTA proposal, also called an NTA Fact Sheet, include the following:</p>
+			<p>The Puget Sound Partnership is currently soliciting <a href="http://www.psp.wa.gov/2018_AA_solicitation_for_NTAs.php">Near Term Actions (NTAs)</a> (<a href="Solicitation%2520for%2520Near%2520Term%2520Actions%2520(NTAs)%2520for%2520the%25202018%E2%80%932022%2520Implementation%2520Plan">Solicitation for Near Term Actions for the 2018–2022 Action Agenda</a>).  Important deadlines for submitting an NTA proposal, also called an NTA Fact Sheet, include the following:</p>
 			<ul>
-				<li>December 22, 2017. Deadline to preregister an NTA Fact Sheet submittal</li>
-				<li>March 30, 2018. Deadline to submit the final NTA Fact Sheet</li>
+				<li><strong>December 22, 2017</strong>. Deadline to preregister an NTA Fact Sheet submittal</li>
+				<li><strong>March 30, 2018</strong>. Deadline to submit the final NTA Fact Sheet</li>
 			</ul>
 			<p>Government organizations (tribal, federal, state, local, special purpose districts), academic institutions, businesses, and non-profit organizations may sponsor NTAs and propose them for inclusion in the Action Agenda. Where proposed actions align with the priorities selected for the three Strategic Initiatives and meet other threshold criteria, they may be prioritized for inclusion in the Action Agenda.			</p>
 			<div>
 				<div> </div>
 			</div>
-<h2>WHAT WAS THE PROCESS FOR UPDATING THE 2018-2022 ACTION AGENDA?</h2>
-			<p>The process for updating the Action Agenda occurs over the following eight standard phases on an 18-month schedule beginning February 2017 and ending December 2018</p>
-			<p><img class="img-responsive" src="images/2018-action-agenda-update-process.jpg" width="715" height="442" alt=""/></p>
+<h2>WHAT iS THE PROCESS FOR UPDATING THE 2018-2022 ACTION AGENDA?</h2>
+			<p>The figure below describes the steps for developing and submitting Near Term Action proposals.</p>
+			<p><img class="img-responsive" src="images/action-agenda/Action-agenda-NTA-process.png" width="873" height="1056" alt=""/></p>
 			<h2>HOW DO WE KNOW WHETHER THE ACTION AGENDA IS EFFECTIVE?</h2>
 			<p><a href="http://www.psp.wa.gov/vitalsigns/">Puget Sound Vital Signs</a> and <a href="http://www.psp.wa.gov/action_agenda_targets.php">recovery targets</a> measure how well the Action Agenda is working to recover our ecosystem. If data on the ground show that we&rsquo;ve made progress toward a recovery target, we will know that the Action Agenda is working. We report on our progress in the biennial <a href="http://www.psp.wa.gov/os.php">State of the Sound report</a>. Effectiveness monitoring tools and publications include:</p>
 			<ul>
@@ -119,10 +122,9 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-
-				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
-				<li role="presentation"><a href="implementation-strategies.php">Implementation Strategies</a></li>
+					<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
+				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
 				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
 				<!-- InstanceEndEditable -->

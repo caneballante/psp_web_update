@@ -51,7 +51,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2018 action agenda UPDATE:<br>
+			<h1>2018 action agendA:<br>
 				UPDATES AND ANNOUNCEMENTS <br>
 			</h1>
 			<!-- InstanceEndEditable --></div>
@@ -73,17 +73,35 @@
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
 			<div class="highlightbox margin-0-top">
 				
-				<h3>The Puget Sound Partnership is now accepting Near Term Action (NTA) proposals for the 2018-2022 Action Agenda</h3>
-				<p>Please visit this <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">link</a> to learn how to submit an NTA proposal.  deadlines for submitting an NTA proposal, also called an NTA Fact Sheet, include the following:</p>
+				<h3>The Puget Sound Partnership is now accepting Near Term Action (NTA) proposals for the 2018-2022 Action Agenda </h3>
+				<p>Please visit this <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">link</a> to learn how to submit an NTA proposal. Deadlines for submitting an NTA proposal, also called an NTA Fact Sheet, include the following:</p>
 				<ul>
-					<li>December 22, 2017. Deadline to preregister an NTA Fact Sheet submittal</li>
-					<li>March 30, 2018. Deadline to submit the final NTA Fact Sheet</li>
+					<li><strong>December 22, 2017.</strong> Deadline to preregister an NTA Fact Sheet submittal</li>
+					<li><strong>March 30, 2018</strong>. Deadline to submit the final NTA Fact Sheet</li>
 				</ul>
-				<p><a href="Solicitation%2520for%2520Near%2520Term%2520Actions%2520(NTAs)%2520for%2520the%25202018%E2%80%932022%2520Implementation%2520Plan"><strong>Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda</strong></a><strong> </strong></p>
-				<p><a href="https://pspwa.box.com/s/7t7c4eszegdqh5gu5koirndiy0nr96vc"><strong>Access APPENDIX A: REGIONAL PRIORITIES</strong></a> of the solicitation</p>
-				<p><a href="https://pspwa.box.com/s/1myfmr5zwktptqcci7vmji34pov3hwmx"><strong>Access APPENDIX B: LIO NTA DEVELOPMENT AND REVIEW PROCESS</strong></a><strong> of the solicitation</strong></p>
-				<p><a href="http://www.psp.wa.gov/2018_AA_NTA_submittal_tool.php"><strong>Access the online NTA submittal tool</strong></a><strong> to start drafting your NTA. </strong></p>
-				<p>&nbsp;</p>
+			
+			
+			
+				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue"> 
+				
+			<div class="no-icon"> <a  href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d"><img class="floatright margin-10-all" src="images/action-agenda/solicitation-cover.jpg" width="200" height="257" alt=""/></a></div>
+
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda</a></strong></p>
+				
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/7t7c4eszegdqh5gu5koirndiy0nr96vc">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX A: REGIONAL PRIORITIES </a></strong></p>
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/1myfmr5zwktptqcci7vmji34pov3hwmx">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX B: LIO NTA DEVELOPMENT AND REVIEW PROCESS </a></strong></p>
+				<hr />
+				<p class="white-links">NTA submissions will be accepted through the online  NTA submittal tool. <br>
+					<a href="http://www.psp.wa.gov/gis/NTATool/NTASubmission.html"><strong>Access the online  NTA submittal tool to start drafting your NTA. </strong></a><strong> </strong> <br></p>
+					<hr />
+				<p class="white-links">The Partnership appreciates all of the feedback received following the public comment period on the draft Solicitation for Near Term Actions for the 2018-2022 Action Agenda. <br>
+				<a href="https://pspwa.box.com/s/xqdcol6pcegjuctqr6yqb295svndg7n3"><strong>Access the Public Comment Summaries and Responses for the draft Solicitation for Near Term Actions. </strong></a><strong> </strong><br>
+				<strong><a href="https://pspwa.box.com/s/lpyx331wnsh4bpvr49w5bv7dcs9w4ksi">Access the companion Detailed Comment Matrix.  </a></strong><br></p>
+			</div>	
+			<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
+				<p class="white-links"><a href="https://pspwa.box.com/s/z4tvz9ttze71o0fua4at1ov0ucvjp0wz"><strong>Access Frequently asked questions about the Solicitation for Near Term Actions</strong></a></p>
+			</div>
+			
 				<p>For information about NTA proposal requirements and how to submit an NTA proposal, please plan to attend the webinars described below.</p>
 				<h3>WEBINAR: Regional Priorities</h3>
 				<p>To learn about the Regional Priorities and Regional Priority approaches, attend the webinar on Monday, November 20, 2017. The webinar, which takes place from 10 a.m. to noon, also provides the opportunity to ask questions about NTA proposal requirements and discuss issues with Partnership staff and Strategic Initiative Leads.<strong> </strong></p>
@@ -168,7 +186,7 @@ MTID=m704291def723440cd5ebcd098518d19d</a></p>
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
+				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
 				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
 				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>

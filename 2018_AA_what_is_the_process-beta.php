@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Solicitation for Near Term Actions for the 2018-2022 Implementation Plan</title>
+<title>Puget Sound Partnership - 2018 Action Agenda Update Who Is Involved</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,7 +25,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 5;
+  	navSelected = 2;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -40,15 +40,21 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->	
-	<header class="overview-page-image-style overview-page-image104"> </header>
+ <!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style overview-page-image104">
+	<div class="overview-quote pull-right">
+		<h3>&nbsp;</h3>
+	</div>
+</header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> SUBMIT NEAR TERM ACTION PROPOSALS</h1>
-		<!-- InstanceEndEditable --></div>
+			<h1>2018-2022 action agenda UPDATE:<br>
+				WHAT IS THE PROCESS<br>
+			</h1>
+			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -64,49 +70,20 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Partnership is accepting NTA proposals through an online submittal tool. </p>
-			<p>To be considered for adoption into the 2018-2022 Action Agenda, NTAs must be preregistered by December 22, 2017, with final proposal submitted by March 30, 2018 via the online submittal tool. Required fields for preregistration are indicated in the submittal tool. </p>
-			<div class="orange-fill margin-40-top margin-40-right margin-40-bottom margin-0-left rounded-corners padding-10-all border-thick-blue">
-				<p class="white-links">
-					<a href="http://www.psp.wa.gov/gis/NTATool/NTASubmission.html"><strong>Access NTA submittal tool</strong></a><strong></strong></p></div>
-			<p>A Word template of the NTA Fact Sheet is available for people who would like to develop their NTA proposal offline. <strong>However, preregistration and final submittal must be completed via the online tool to be considered for the 2018-2022 Action Agenda so any content developed in Word will need to be copied and pasted into the online tool</strong>.</p>
-			<div class="orange-fill margin-40-top margin-40-right margin-40-bottom margin-0-left rounded-corners padding-10-all border-thick-blue">
-				<p class="white-links"><a href="https://pspwa.box.com/s/ip9t386d2m3aljzhblbry4nc9ykwesat"><strong>Access NTA Fact Sheet word template</strong></a></p>
-			</div>
-			
-			
-			<p>Regional Priority approaches have been integrated into the online submittal tool and are also available in an online searchable database </p>
-			<div class="orange-fill margin-40-top margin-40-right margin-40-bottom margin-0-left rounded-corners padding-10-all border-thick-blue">
-				<p class="white-links"><a href="http://www.psp.wa.gov/gis/NTATool/RegionalPriorities.html"><strong>Access Regional Priority Approaches database</strong></a></p>
-			</div>
-			
-			
-			<p>All information in the submittal tool is considered draft and can be updated at any time during the NTA development process. NTAs will only be considered final following final submission, due on March 30, 2018.   </p>
-			<p>In response to feedback following the 2016-2017 NTA solicitation process, the Partnership has incorporated many process improvements into the NTA online submittal tool and the structure of the NTA Fact Sheet. Key differences between the 2016-2017 and 2018-2022 solicitation process include: </p>
-			<ul>
-				<li>A streamlined online submittal tool where people can manage multiple NTAs and collaborate online. </li>
-				<li>A feature is included in the NTA submittal tool that allows the owner of a 2016–2017 Action Agenda NTA to migrate a portion of the information from that NTA into the new 2018 Fact Sheet format.</li>
-				<li>An online preregistration process to capture basic preliminary (draft) information early in the NTA development process. This step is intended to support NTA administration, coordination and collaboration. </li>
-				<li>Regional Priority approaches have been integrated into the online submittal tool and are also available in an online searchable database (link). </li>
-				<li><a href="https://pspwa.box.com/s/ip9t386d2m3aljzhblbry4nc9ykwesat">A Word template</a> is available for people who would like to draft their NTA offline. </li>
-			</ul>
-			<div>
-				<div> </div>
-				<div> </div>
-				<div> </div>
-				<div> </div>
-			</div>
-<p>&nbsp;</p>
-			
-
-		<!-- InstanceEndEditable --> </div>
+		<div class="highlightbox margin-0-top">
+				<p class="margin-10-top padding-10-all"><strong>NEW!</strong> The Puget Sound Partnership is now accepting Near Term Action (NTA) proposals for the 2018-2022 Action Agenda <a href="2018_AA_announcements-beta.php">LEARN MORE</a></p>
+				</div>
+				
+			<p>The figures below describes the steps and timeline for developing and submitting Near Term Action proposals</p>
+		<img class="img-responsive" src="images/action-agenda/Action-agenda-NTA-process.png" width="873" height="1056" alt=""/><br>
+		<img class="img-responsive" src="images/action-agenda/Action-agenda-NTA-process3.png" width="900" height="1165" alt=""/><!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-									<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+			<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
 				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
 				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>

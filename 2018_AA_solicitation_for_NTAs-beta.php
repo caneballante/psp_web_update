@@ -67,18 +67,24 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Puget Sound Partnership is now soliciting Near Term Actions (NTAs)for the 2018-2022 Action Agenda.</p>
 			
-			<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
-				<p align="center" class="white-links"><strong><a href="https://pspwa.box.com/s/7t7c4eszegdqh5gu5koirndiy0nr96vc">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda</a></strong></p>
-				<p align="center" class="white-links"><strong><a href="https://pspwa.box.com/s/1myfmr5zwktptqcci7vmji34pov3hwmx">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX A: REGIONAL PRIORITIES </a></strong></p>
-				<p align="center" class="white-links"><strong><a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX B: LIO NTA DEVELOPMENT AND REVIEW PROCESS </a></strong></p>
-			</div>	
-		
-			<p>NTA submissions will be accepted through the online NTA submission tool. <br>
-				<a href="http://www.psp.wa.gov/2018_AA_NTA_submittal_tool.php"><strong>Access the online NTA submission tool to start drafting your NTA. </strong></a><strong> </strong> <br>
-				The Partnership appreciates all of the feedback received following the public comment period on the draft Solicitation for Near Term Actions for the 2018-2022 Action Agenda. <br>
+		<div class="orange-fill margin-10-top margin-10-right margin-10-bottom rounded-corners padding-10-all border-thick-blue"> 
+				
+			<div class="no-icon"> <a  href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d"><img class="floatright margin-10-all" src="images/action-agenda/solicitation-cover.jpg" width="200" height="257" alt=""/></a></div>
+
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda</a></strong></p>
+				
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/7t7c4eszegdqh5gu5koirndiy0nr96vc">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX A: REGIONAL PRIORITIES </a></strong></p>
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/1myfmr5zwktptqcci7vmji34pov3hwmx">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX B: LIO NTA DEVELOPMENT AND REVIEW PROCESS </a></strong></p>
+				<hr />
+				<p class="white-links">NTA submissions will be accepted through the online  NTA submittal tool. <br>
+					<a href="http://www.psp.wa.gov/gis/NTATool/NTASubmission.html"><strong>Access the online  NTA submittal tool to start drafting your NTA. </strong></a><strong> </strong> <br></p>
+					<hr />
+				<p class="white-links">The Partnership appreciates all of the feedback received following the public comment period on the draft Solicitation for Near Term Actions for the 2018-2022 Action Agenda. <br>
 				<a href="https://pspwa.box.com/s/xqdcol6pcegjuctqr6yqb295svndg7n3"><strong>Access the Public Comment Summaries and Responses for the draft Solicitation for Near Term Actions. </strong></a><strong> </strong><br>
-				<strong>Access the companion Detailed Comment Matrix.  </strong><br>
-				<strong>WHAT IS THE PURPOSE OF THE SOLICITATION?&nbsp;</strong><br>
+				<strong><a href="https://pspwa.box.com/s/lpyx331wnsh4bpvr49w5bv7dcs9w4ksi">Access the companion Detailed Comment Matrix.  </a></strong><br></p>
+			</div>	
+	<br><br>
+				<p><strong>WHAT IS THE PURPOSE OF THE SOLICITATION?&nbsp;</strong><br>
 				The purpose of this solicitation is to facilitate the development and review of NTAs for the 2018-2022 Action Agenda. Criteria that support Regional Priorities for advancing Puget Sound ecosystem recovery will be used to evaluate the proposed NTAs. <br>
 				The solicitation contains the following:&nbsp;</p>
 			<ul>
@@ -88,7 +94,9 @@
 				<li>Deadlines for submitting NTA proposals and the process for reviewing them&nbsp;</li>
 			</ul>
 			<p><strong>WHAT ARE REGIONAL PRIORITIES?&nbsp;</strong><br>
-				The NTA solicitation includes a summary of the Regional Priorities that provide focus for the actions that address the most significant problems and create meaningful improvements for Puget Sound. Prioritizing recovery efforts for the 2018-2022 Action Agenda began by identifying the Area of Focus Vital Signs for the solicitation of NTAs. The 2018-2022 Area of Focus Vital Signs encompass the following.</p>
+				The NTA solicitation includes a summary of the Regional Priorities that provide focus for the actions that address the most significant problems and create meaningful improvements for Puget Sound. Prioritizing recovery efforts for the 2018-2022 Action Agenda began by identifying the Area of Focus Vital Signs for the solicitation of NTAs. </p>
+				
+				<p>The 2018-2022 Area of Focus Vital Signs encompass the following:</p>
 			<ul>
 				<li>Chinook (and other salmon)</li>
 				<li>Estuaries (and pocket estuaries)</li>
@@ -105,21 +113,33 @@
 			<p><strong>WHAT IS A NEAR TERM ACTION?&nbsp;</strong><br>
 				Many types of discrete, measurable actions can be considered as NTAs. The term &ldquo;action&rdquo; is broadly defined to include capital or non-capital projects, initiatives, or programs. NTAs can also be large or small in scale and can be a portion (or phase) of a larger, longer-term effort. For this update, the following three categories of actions are considered to be NTAs:</p>
 			<ul type="disc">
-				<li><strong>New actions</strong> that achieve new recovery outcomes. These are discrete, short-term actions      such as pilots, studies and investigations, or protection and/or      restoration projects. These could also be new one-time investments aimed      at launching a new ongoing program.  </li>
-				<li><strong>Expansions or      enhancements of existing programs </strong>to achieve      greater recovery outcomes. These are discrete actions aimed at expanding      the scope or scale of an existing program (not maintenance of current      level of scope or scale). Examples include:</li>
+				<li><strong>New actions</strong> that achieve new recovery outcomes. These are discrete, short-term actions such as pilots, studies and investigations, or protection and/or restoration projects. These could also be new one-time investments aimed      at launching a new ongoing program.  </li>
+				<li><strong>Expansions or enhancements of existing programs </strong>to achieve greater recovery outcomes. These are discrete actions aimed at expanding the scope or scale of an existing program (not maintenance of current      level of scope or scale). Examples include:</li>
 				<ul type="circle">
-					<li>Expanding       the geographic scope of an existing action (such as project to purchase       additional equipment to expand the use of existing best management       practices to additional watershed basins).</li>
-					<li>Expanding       the level of effort or capacity of an existing action (such as project to       acquire additional classroom space to double the number of trainings per       year).</li>
-					<li>Enhancing       the effectiveness of procedures, equipment, or personnel (such as project       to evaluate and improve the effectiveness of an existing       regulatory/enforcement program).</li>
+					<li>Expanding the geographic scope of an existing action (such as project to purchase additional equipment to expand the use of existing best management practices to additional watershed basins).</li>
+					<li>Expanding the level of effort or capacity of an existing action (such as project to acquire additional classroom space to double the number of trainings per year).</li>
+					<li>Enhancing the effectiveness of procedures, equipment, or personnel (such as project to evaluate and improve the effectiveness of an existing regulatory/enforcement program).</li>
 				</ul>
-				<li><strong>Continuation      of an ongoing action that currently lacks secure ongoing funding to      maintain baseline operations</strong> (such as      project to acquire funding for a critical program that is operating on      year-to-year grant funding).		</li>
+				<li><strong>Continuation of an ongoing action that currently lacks secure ongoing funding to maintain baseline operations</strong> (such as project to acquire funding for a critical program that is operating on year-to-year grant funding).	</li>
 			</ul>
 			<p>&nbsp;</p>
 			
 
 		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
+				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
+				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

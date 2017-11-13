@@ -70,16 +70,16 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<img class="img-responsive" src="images/action-agenda/Action-agenda-NTA-process.png" width="1000" height="1294" alt=""/> <!-- InstanceEndEditable --> </div>
+		<img class="img-responsive" src="images/action-agenda/Action-agenda-NTA-process.png" width="873" height="1056" alt=""/> <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
-				<li role="presentation"><a href="implementation-strategies.php">Implementation Strategies</a></li>
+			<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
+				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
 				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
 				<!-- InstanceEndEditable -->

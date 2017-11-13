@@ -59,6 +59,12 @@ a[href^="http"] {
 	font-size: 13px;
 	font-weight: 900;
 }
+.san-serif-link a {
+	font-family: 'prenton', san-serif !important;
+	font-size: 17px!important;
+	font-weight: 500;
+}
+
 /*add this style to links that are on the dark blue background*/
 .light-blue-links a {
 	color: #1ab3ff;
@@ -251,6 +257,9 @@ p {
 .margin-20-top {
 	margin-top: 20px;
 }
+.margin-40-top {
+	margin-top: 40px;
+}
 .margin-50-top {
 	margin-top: 50px;
 }
@@ -267,14 +276,29 @@ p {
 .margin-20-right {
 	margin-right: 20px;
 }
+.margin-40-right {
+	margin-right: 40px;
+}
 .margin-50-right {
 	margin-right: 50px;
 }
 .margin-150-right {
 	margin-right: 150px;
 }
+.margin-40-bottom {
+	margin-bottom: 40px;
+}
+.margin-0-left {
+	margin-left: 0px;
+}
+.margin-10-left {
+	margin-left: 10px;
+}
 .margin-20-left {
 	margin-left: 20px;
+}
+.margin-10-all {
+	margin: 10px;
 }
 .margin-20-all {
 	margin: 20px;
@@ -284,6 +308,9 @@ p {
 }
 .margin-40-all {
 	margin: 30px;
+}
+.line-height-tight {
+	line-height: 10px;
 }
 .border-top {
 	border-top: dotted 1px #434343;
