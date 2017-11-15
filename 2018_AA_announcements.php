@@ -51,7 +51,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2018 action agenda UPDATE:<br>
+			<h1>2018 action agendA:<br>
 				UPDATES AND ANNOUNCEMENTS <br>
 			</h1>
 			<!-- InstanceEndEditable --></div>
@@ -72,24 +72,103 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
 			<div class="highlightbox margin-0-top">
+				
+				<h3>The Puget Sound Partnership is now accepting Near Term Action (NTA) proposals for the 2018-2022 Action Agenda </h3>
+				<p>Please visit this <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">link</a> to learn how to submit an NTA proposal. Deadlines for submitting an NTA proposal, also called an NTA Fact Sheet, include the following:</p>
+				<ul>
+					<li><strong>December 22, 2017.</strong> Deadline to preregister an NTA Fact Sheet submittal</li>
+					<li><strong>March 30, 2018</strong>. Deadline to submit the final NTA Fact Sheet</li>
+				</ul>
 			
 			
+			
+				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue"> 
+				
+			<div class="no-icon"> <a  href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d"><img class="floatright margin-10-all" src="images/action-agenda/solicitation-cover.jpg" width="200" height="257" alt=""/></a></div>
+
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda</a></strong></p>
+				
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/7t7c4eszegdqh5gu5koirndiy0nr96vc">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX A: REGIONAL PRIORITIES </a></strong></p>
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/1myfmr5zwktptqcci7vmji34pov3hwmx">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX B: LIO NTA DEVELOPMENT AND REVIEW PROCESS </a></strong></p>
+				<hr />
+				<p class="white-links">NTA submissions will be accepted through the online  NTA submittal tool. <br>
+					<a href="http://www.psp.wa.gov/gis/NTATool/NTASubmission.html"><strong>Access the online  NTA submittal tool to start drafting your NTA. </strong></a><strong> </strong> <br></p>
+					<hr />
+				<p class="white-links">The Partnership appreciates all of the feedback received following the public comment period on the draft Solicitation for Near Term Actions for the 2018-2022 Action Agenda. <br>
+				<a href="https://pspwa.box.com/s/xqdcol6pcegjuctqr6yqb295svndg7n3"><strong>Access the Public Comment Summaries and Responses for the draft Solicitation for Near Term Actions. </strong></a><strong> </strong><br>
+				<strong><a href="https://pspwa.box.com/s/lpyx331wnsh4bpvr49w5bv7dcs9w4ksi">Access the companion Detailed Comment Matrix.  </a></strong><br></p>
+			</div>	
+			<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
+				<p class="white-links"><a href="https://pspwa.box.com/s/z4tvz9ttze71o0fua4at1ov0ucvjp0wz"><strong>Access Frequently asked questions about the Solicitation for Near Term Actions</strong></a></p>
+			</div>
+			
+				<p>For information about NTA proposal requirements and how to submit an NTA proposal, please plan to attend the webinars described below.</p>
+				<h3>WEBINAR: Regional Priorities</h3>
+				<p>To learn about the Regional Priorities and Regional Priority approaches, attend the webinar on Monday, November 20, 2017. The webinar, which takes place from 10 a.m. to noon, also provides the opportunity to ask questions about NTA proposal requirements and discuss issues with Partnership staff and Strategic Initiative Leads.<strong> </strong></p>
+				<p class="align-center">To attend, click on the button below or go to: <br>
+					<a href="https://watech.webex.com/watech/j.php?MTID=m704291def723440cd5ebcd098518d19d">https://watech.webex.com/watech/j.php?<br>
+MTID=m704291def723440cd5ebcd098518d19d</a></p>
+				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
+					<p align="center" class="white-links"><a href="https://watech.webex.com/watech/j.php?MTID=m704291def723440cd5ebcd098518d19d"><strong>Join the Webinar: Regional Priorities</strong><br>
+						<strong>November 20, 2017</strong><br>
+						<strong>10 a.m. to noon</strong></a></p>
+				</div>
+				
+			
+				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
+					<p align="center" class="white-links"><a href="https://watech.webex.com/watech/j.php?MTID=m1145341c1dcd31cd994ceb0509704ad0"><strong>Audio connection</strong><br>
+							<strong>+1-855-929-3239 Toll-Free</strong><br>
+							<strong>Access code: 808 102 745</strong></a></p>
+				</div>
+				
+				<h3>WEBINAR: How to Submit an NTA Proposal</h3>
+				<p>To learn about the process for preregistering an NTA and submitting an NTA proposal, attend the webinar on Tuesday, November 28, 2017. The webinar, which takes place from 9 a.m. to 10 a.m., also provides the opportunity to ask questions about the NTA submittal process. Partnershipstaff will be available for up to an additional 2 hours to answer questions if needed. To attend, click on the button below or go to: <br>
+					<a href="https://watech.webex.com/watech/j.php?MTID=m34fa6554df78458a52eaed6980d04258">https://watech.webex.com/watech/j.php?MTID=m34fa65<br>
+54df78458a52eaed6980d04258</a> <br>
+						</p>
+				
+				
+				
+				
+				
+				
+				
+				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
+					<p align="center" class="white-links"><a href="https://watech.webex.com/watech/j.php?MTID=m34fa6554df78458a52eaed6980d04258"><strong>Join the Webinar: <br>
+							How to submit an NTA proposal</strong><br>
+						<strong>November 28, 2017</strong><br>
+						<strong>9 a.m. to 10 a.m.</strong></a></p>
+				</div>
+				
+			
+				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
+					<p align="center" class="white-links"><a href="https://watech.webex.com/watech/j.php?MTID=m1145341c1dcd31cd994ceb0509704ad0"><strong>Audio connection</strong><br>
+							<strong>+1-855-929-3239 Toll-Free</strong><br>
+							<strong>Access code: 809 798 837</strong></a></p>
+				</div>
+			
+				<p><strong>Questions?</strong><br>
+					If you are unable to attend the webinars, require accommodations to access any material, and/or have questions about submitting an NTA proposal, please contact Jennifer Pouliotte by email at <a href="mailto:jennifer.pouliotte@psp.wa.gov">action.agenda@psp.wa.gov</a> or by phone at 360-522-0545.  </p>
+				</div>
+			
+				
+			<div class="highlightbox margin-20-top">
 			
 				<h3>Updated Schedule for the Solicitation of Near Term Actions and Adoption of 2018-2022 Puget Sound Action Agenda </h3>
 
-				<p>The Puget Sound Partnership heard from partners that the original timeline for the release of the Solicitation for Near Term Actions for the 2018-2022 Action Agenda did not allow adequate time for quality work and discussion. In response to these concerns, we have extended the timeline, and associated deadlines, for the Solicitation.  The new schedule provides more time for quality work and collaboration, which will enable us to collectively make successful progress toward our Puget Sound recovery goals.  Details of the new schedule are outlined below.
+				<p>The Puget Sound Partnership heard from partners that the original timeline for the release of the Solicitation for Near Term Actions for the 2018-2022 Action Agenda did not allow adequate time for quality work and discussion. In response to these concerns, we have extended the timeline, and associated deadlines, for the solicitation. The new schedule provides more time for quality work and collaboration, which will enable us to collectively make successful progress toward our Puget Sound recovery goals. Details of the new schedule are outlined below.</p>
 
 				<ol>
-					<li>The <strong>Solicitation</strong> for Near Term Actions for the 2018-2022 Action Agenda is expected be released in <strong>mid-November 2017</strong>.  The Solicitation will include deadlines and will provide detail on the NTA development and review process.</li>
-					<li>The period for <strong>NTA development</strong> will occur between <strong>mid-November 2017 and the end of March 2018.  Pre-registration</strong> for all NTAs will be due around <strong>December 22, 2017</strong>.</li>
-					<li>The period of <strong>NTA review </strong>will occur between <strong>April and July 2018.</strong></li>
-					<li>The period of <strong>Action Agenda development</strong>, review, public comment, and revision will occur between <strong>April and December of 2018</strong>.</li>
-					<li>The <strong>2018-2022 Action Agenda</strong> is anticipated to be adopted and published in <strong>December 2018</strong>.</li>
-				</ol> 
-				<p>We are dedicated to continually improving the Action Agenda and to building strong partnerships so that we can collectively and successfully make progress towards our Puget Sound recovery goals.  We are confident that these adjustments are an important step toward building an Action Agenda that better addresses all of our needs and is responsive to partner input.</p>
-
-				<p>For any questions on the timeline extension, please contact the Action Agenda Planning Manager, Heather Saunders Benson, by email at <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a>, or by phone at 360.819.0409.</p>
-			</div>
+					<li>The&nbsp;<strong>Solicitation</strong>&nbsp;for      Near Term Actions for the 2018-2022 Action Agenda is expected be released in&nbsp;<strong>mid-November 2017</strong>. The solicitation will include deadlines and will provide detail on the NTA development and review process.</li>
+					<li>The period for&nbsp;<strong>NTA development</strong>&nbsp;will occur between&nbsp;<strong>mid-November 2017 and the end of March 2018.      Pre-registration</strong>&nbsp;for      all NTAs will be due on&nbsp;<strong>December 22, 2017</strong>.</li>
+					<li>The period of&nbsp;<strong>NTA review</strong><strong>&nbsp;</strong>will occur between&nbsp;<strong>April and July 2018.</strong></li>
+					<li>The period of&nbsp;<strong>Action Agenda development</strong>, review, public comment, and revision will occur between&nbsp;<strong>April and December of 2018</strong>.</li>
+					<li>The&nbsp;<strong>2018-2022 Action Agenda</strong>&nbsp;is anticipated to be adopted and published in&nbsp;<strong>December 2018</strong>.</li>
+				</ol>
+			
+				<p>We are dedicated to continually improving the Action Agenda and to building strong partnerships so that we can collectively and successfully make progress towards our Puget Sound recovery goals. We are confident that these adjustments are an important step toward building an Action Agenda that better addresses all of our needs and is responsive to partner input.</p><p>
+				For any questions on the timeline extension, please contact the Action Agenda Planning Manager, Heather Saunders Benson, by email at&nbsp;<a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a>, or by phone at 360.819.0409.</p>
+</div>
 			<div class="highlightbox margin-20-top">
 				<h3>7.25.2017 <br>
 					<br>
@@ -107,7 +186,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
+				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
 				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
 				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>

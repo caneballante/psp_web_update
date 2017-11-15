@@ -47,8 +47,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> DRAFT Solicitation for Near Term Actions for the 2018-2022 ACTION AGENDA Implementation Plan</h1>
-			<p>&nbsp;</p>
+			<h1> Solicitation for Near Term Actions for the 2018-2022 ACTION AGENDA </h1>
+			
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -65,49 +65,84 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Puget Sound Partnership is accepting public comments on the draft Solicitation for Near Term Actions (NTAs) for the 2018-2022 Action Agenda Implementation Plan. <strong>The comment period is closed.</strong> </p>
-			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/jx0clew5vaxayzsxxl8731ccbhef926h" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan (UPDATED July 12, 2017)</strong></a>
-				<em><br>
-				Revised on July 12, 2017 with a limited change regarding NTA eligibility.</em></p>
-			<p class= "very-light-blue-fill padding-10-all margin-20-all"><a href="https://pspwa.box.com/s/dlbviqehuki93ccsoodhcjt80p443ndh" target="new"><strong>Access the Draft Solicitation for Near Term Actions for the 2018-2022 Implementation Plan APPENDIX A: REGIONAL PRIORITIES (UPDATED July 31, 2017)</strong></a><br>
-			<em>The update includes revised Regional Priorities for the Chinook Vital Sign.</em></p>
-			<h2>What is the purpose of the solicitation? </h2>
-			<p>The purpose of this solicitation is to facilitate the development and review of NTAs for the 2018-2022 Implementation Plan component of the Action Agenda. Criteria that support regional priorities for advancing Puget Sound ecosystem recovery will be used to evaluate the proposed NTAs. Regional priorities are outlined in the Draft Solicitation and represent the priorities for change that the Management Conference will advocate to achieve through efforts to expand funding, increase alignment among funding sources, and address the barriers to implementing NTAs. </p>
-			<p>	The Draft Solicitation contains the following: </p>
-			<ul>
-				<li>Regional priorities for ecosystem recovery for the next 4-year phase of the Action Agenda</li>
-				<li>Eligibility requirements and submittal requirements and organizations proposing NTAs</li>
-				<li>Evaluation criteria for including NTAs in the 2018-2022 Action Agenda Implementation Plan</li>
-				<li>Deadlines for submitting NTA proposals and the process for reviewing them. </li>
-			</ul>
-			<p>We are inviting comments on all components of the Draft Solicitation.</p>
-			<h2>What are regional priorities? </h2>
-			<p>The Draft Solicitation includes a summary of the regional priorities that provide focus for the actions that address the most significant problems and create meaningful improvements for Puget Sound. Prioritizing recovery efforts for the 2018-2022 Action Agenda Implementation Plan began by identifying the Area of Focus Vital Signs for the solicitation of NTAs. The Area of Focus Vital Signs for this solicitation encompass the following Vital Signs for which we most want to accelerate recovery over the next 4 years.</p>
-	
-			<div>
-				<ul>
-					<li>Chinook (and other salmon)</li>
-					<li>Estuaries (and pocket estuaries)</li>
-					<li>Floodplains</li>
-					<li>Freshwater Quality</li>
-					<li>Land Development &amp; Cover</li>
-					<li>Marine Water Quality</li>
-					<li>Shellfish Beds</li>
-					<li>Shoreline Armoring</li>
-					<li>Summer Stream Flows</li>
-					<li>Toxics in Fish</li>
-				</ul>
+			<p class="margin-0-top">The Puget Sound Partnership is now soliciting Near Term Actions (NTAs)for the 2018-2022 Action Agenda.</p>
+			
+		<div class="orange-fill margin-10-top margin-10-right margin-10-bottom rounded-corners padding-10-all border-thick-blue"> 
+				
+			<div class="no-icon"> <a  href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d"><img class="floatright margin-10-all" src="images/action-agenda/solicitation-cover.jpg" width="200" height="257" alt=""/></a></div>
+
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda</a></strong></p>
+				
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/7t7c4eszegdqh5gu5koirndiy0nr96vc">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX A: REGIONAL PRIORITIES </a></strong></p>
+				<p class="white-links"><strong><a href="https://pspwa.box.com/s/1myfmr5zwktptqcci7vmji34pov3hwmx">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX B: LIO NTA DEVELOPMENT AND REVIEW PROCESS </a></strong></p>
+				<hr />
+				<p class="white-links">NTA submissions will be accepted through the online  NTA submittal tool. <br>
+					<a href="http://www.psp.wa.gov/gis/NTATool/NTASubmission.html"><strong>Access the online  NTA submittal tool to start drafting your NTA. </strong></a><strong> </strong> <br></p>
+					<hr />
+				<p class="white-links">The Partnership appreciates all of the feedback received following the public comment period on the draft Solicitation for Near Term Actions for the 2018-2022 Action Agenda. <br>
+				<a href="https://pspwa.box.com/s/xqdcol6pcegjuctqr6yqb295svndg7n3"><strong>Access the Public Comment Summaries and Responses for the draft Solicitation for Near Term Actions. </strong></a><strong> </strong><br>
+				<strong><a href="https://pspwa.box.com/s/lpyx331wnsh4bpvr49w5bv7dcs9w4ksi">Access the companion Detailed Comment Matrix.  </a></strong><br></p>
+			</div>	
+			<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
+				<p class="white-links"><a href="https://pspwa.box.com/s/z4tvz9ttze71o0fua4at1ov0ucvjp0wz"><strong>Access Frequently asked questions about the Solicitation for Near Term Actions</strong></a></p>
 			</div>
-			<p>Regional priorities describe the specific approaches, interim outcomes, and action ideas that are a priority for advancing the recovery of the Area of Focus Vital Signs over the next 4 years. During the public comment period, Local Integrating Organizations (LIOs) will also add local context to the regional priorities, in order to customize how actions will be implemented in each local area. </p>
-			<h2>What is a Near Term Action? </h2>
-			<p>A Near Term Action is an activity that is trackable, measureable, and necessary for Puget Sound recovery. Near Term Actions comprise the core of the Action Agenda. They can be proposed by government agencies and tribes, academic institutions, and non-profit organizations, as well as by businesses and individuals. Proposed NTAs may include new programs, specific projects, scientific investigations, or other types of actions described in this solicitation.</p>
-			<h2>How are comments used? </h2>
-			<p>Comments collected during the public comment period will be summarized and considered in the development of the final Solicitation for Near Term Actions. </p>
+	<br><br>
+				<p><strong>WHAT IS THE PURPOSE OF THE SOLICITATION?&nbsp;</strong><br>
+				The purpose of this solicitation is to facilitate the development and review of NTAs for the 2018-2022 Action Agenda. Criteria that support Regional Priorities for advancing Puget Sound ecosystem recovery will be used to evaluate the proposed NTAs. <br>
+				The solicitation contains the following:&nbsp;</p>
+			<ul>
+				<li>Regional Priorities and Regional Priority approaches for ecosystem recovery over the next 4-year phase of the Action Agenda</li>
+				<li>Eligibility requirements and submittal requirements for organizations proposing NTAs</li>
+				<li>Evaluation criteria for including NTAs in the 2018-2022 Action Agenda </li>
+				<li>Deadlines for submitting NTA proposals and the process for reviewing them&nbsp;</li>
+			</ul>
+			<p><strong>WHAT ARE REGIONAL PRIORITIES?&nbsp;</strong><br>
+				The NTA solicitation includes a summary of the Regional Priorities that provide focus for the actions that address the most significant problems and create meaningful improvements for Puget Sound. Prioritizing recovery efforts for the 2018-2022 Action Agenda began by identifying the Area of Focus Vital Signs for the solicitation of NTAs. </p>
+				
+				<p>The 2018-2022 Area of Focus Vital Signs encompass the following:</p>
+			<ul>
+				<li>Chinook (and other salmon)</li>
+				<li>Estuaries (and pocket estuaries)</li>
+				<li>Floodplains</li>
+				<li>Freshwater Quality</li>
+				<li>Land Development &amp; Cover</li>
+				<li>Marine Water Quality</li>
+				<li>Shellfish Beds</li>
+				<li>Shoreline Armoring</li>
+				<li>Summer Stream Flows</li>
+				<li>Toxics in Fish</li>
+			</ul>
+			<p>&ldquo;Regional Priorities&rdquo; is the term used to describe the specific approaches, interim outcomes, and action ideas that are a priority for the recovery of the Area of Focus Vital Signs over the next 4 years. &ldquo;Regional Priority approaches&rdquo; provide a description of how the Regional Priority should be addressed. LIOs have added local context to the Regional Priority approaches, as appropriate, in order to customize how they will be implemented in each LIO geography. &ldquo;Local context&rdquo; is the term used to describe additional specificity and guidance provided to potential NTA proponents for how a Regional Priority is expected to be proposed for and implemented in a given LIO area.  </p>
+			<p><strong>WHAT IS A NEAR TERM ACTION?&nbsp;</strong><br>
+				Many types of discrete, measurable actions can be considered as NTAs. The term &ldquo;action&rdquo; is broadly defined to include capital or non-capital projects, initiatives, or programs. NTAs can also be large or small in scale and can be a portion (or phase) of a larger, longer-term effort. For this update, the following three categories of actions are considered to be NTAs:</p>
+			<ul type="disc">
+				<li><strong>New actions</strong> that achieve new recovery outcomes. These are discrete, short-term actions such as pilots, studies and investigations, or protection and/or restoration projects. These could also be new one-time investments aimed      at launching a new ongoing program.  </li>
+				<li><strong>Expansions or enhancements of existing programs </strong>to achieve greater recovery outcomes. These are discrete actions aimed at expanding the scope or scale of an existing program (not maintenance of current      level of scope or scale). Examples include:</li>
+				<ul type="circle">
+					<li>Expanding the geographic scope of an existing action (such as project to purchase additional equipment to expand the use of existing best management practices to additional watershed basins).</li>
+					<li>Expanding the level of effort or capacity of an existing action (such as project to acquire additional classroom space to double the number of trainings per year).</li>
+					<li>Enhancing the effectiveness of procedures, equipment, or personnel (such as project to evaluate and improve the effectiveness of an existing regulatory/enforcement program).</li>
+				</ul>
+				<li><strong>Continuation of an ongoing action that currently lacks secure ongoing funding to maintain baseline operations</strong> (such as project to acquire funding for a critical program that is operating on year-to-year grant funding).	</li>
+			</ul>
+			<p>&nbsp;</p>
 			
 
-			<!-- InstanceEndEditable --> </div>
+		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
+				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
+				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

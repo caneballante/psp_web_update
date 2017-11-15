@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - 2018 Action Agenda Update Who Is Involved</title>
+<title>Puget Sound Partnership - Solicitation for Near Term Actions for the 2018-2022 Implementation Plan</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,7 +25,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 5;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -40,21 +40,15 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image104">
-	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
-</header>
+ <!-- InstanceBeginEditable name="overviewphoto" -->	
+	<header class="overview-page-image-style overview-page-image104"> </header>
 <!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2018 action agenda UPDATE:<br>
-				WHO IS INVOLVED <br>
-			</h1>
-			<!-- InstanceEndEditable --></div>
+			<h1> SUBMIT NEAR TERM ACTION PROPOSALS</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -70,63 +64,51 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">What is the Partnership’s role in updating the Action Agenda?</h2>
-			<p>The Puget Sound Partnership serves a backbone role in updating the Action Agenda. This means that the Partnership is responsible for:</p>
+			<p>The Partnership is accepting NTA proposals through an online submittal tool. </p>
+			<p>To be considered for adoption into the 2018-2022 Action Agenda, NTAs must be preregistered by December 22, 2017, with final proposal submitted by March 30, 2018 via the online submittal tool. Required fields for preregistration are indicated in the submittal tool. </p>
+			<div class="orange-fill margin-40-top margin-40-right margin-40-bottom margin-0-left rounded-corners padding-10-all border-thick-blue">
+				<p class="white-links">
+					<a href="http://www.psp.wa.gov/gis/NTATool/NTASubmission.html"><strong>Access NTA submittal tool</strong></a><strong></strong></p></div>
+			<p>A Word template of the NTA Fact Sheet is available for people who would like to develop their NTA proposal offline. However, please note that <strong>preregistration and final submittal must be completed via the online tool by December 22, 2017 and March 30, 2018, respectively, to be considered for the 2018-2022 Action Agenda</strong>.</p>
+			<div class="orange-fill margin-40-top margin-40-right margin-40-bottom margin-0-left rounded-corners padding-10-all border-thick-blue">
+				<p class="white-links"><a href="https://pspwa.box.com/s/ip9t386d2m3aljzhblbry4nc9ykwesat"><strong>Access NTA Fact Sheet word template</strong></a></p>
+			</div>
+			
+			
+			<p>Regional Priority approaches have been integrated into the online submittal tool and are also available in an online searchable database. </p>
+			<div class="orange-fill margin-40-top margin-40-right margin-40-bottom margin-0-left rounded-corners padding-10-all border-thick-blue">
+				<p class="white-links"><a href="http://www.psp.wa.gov/gis/NTATool/RegionalPriorities.html"><strong>Access Regional Priority Approaches database</strong></a></p>
+			</div>
+			
+			
+			<p>All information in the submittal tool is considered draft and can be updated at any time during the NTA development process. NTAs will only be considered final following final submission, due on March 30, 2018.   </p>
+			<p>In response to feedback following the 2016-2017 NTA solicitation process, the Partnership has incorporated many process improvements into the NTA online submittal tool and the structure of the NTA Fact Sheet. Key differences between the 2016-2017 and 2018-2022 solicitation process include: </p>
 			<ul>
-				<li> Coordinating with local, state, federal, tribal, business, and non-governmental partners </li>
-				<li>Facilitating public comment and response </li>
-				<li>Gathering local priorities through Local Integrating Organizations </li>
-				<li>Reviewing updated material with the Science Panel and Ecosystem Coordination Board </li>
-				<li>Clearly communicating the updates			</li>
+				<li>A streamlined online submittal tool where people can manage multiple NTAs and collaborate online. </li>
+				<li>A feature is included in the NTA submittal tool that allows the owner of a 2016–2017 Action Agenda NTA to migrate a portion of the information from that NTA into the new 2018 Fact Sheet format.</li>
+				<li>An online preregistration process to capture basic preliminary (draft) information early in the NTA development process. This step is intended to support NTA administration, coordination and collaboration. </li>
+				<li>Regional Priority approaches have been integrated into the online submittal tool and are also available in an online searchable database (link). </li>
+				<li><a href="https://pspwa.box.com/s/ip9t386d2m3aljzhblbry4nc9ykwesat">A Word template</a> is available for people who would like to draft their NTA offline. </li>
 			</ul>
-			<h2> What is the role of the Leadership Council, Ecosystem Coordination Board, and Science Panel? </h2>
-			<ul>
-				<li><strong>Science Panel and Ecosystem Coordination Board</strong></li>
-				<ul>
-					<li>Review and discuss proposed revisions to Strategic Initiatives</li>
-					<li>Review and rank proposed Near Term Actions</li>
-					<li>Review discuss Implementation Strategies associated with approved Near Term Actions</li>
-				</ul>
-				<li><strong>Leadership Council</strong></li>
-				<ul>
-					<li>Review recommendations forwarded by the Science Panel and Ecosystem Coordination Board</li>
-					<li>Determine final approval of revisions to Strategic Initiatives, Near Term Actions, and Implementation Strategies</li>
-				</ul>
-			</ul>
-			<h2>What is the role of recovery partners?</h2>
-			<ul>
-				<li><strong>Local organizations and groups</strong></li>
-				<ul>
-					<li>Offer suggestions for Near Term Actions.<br />
-					</li>
-					<li>Develop localized Action Agenda that integrates with the Puget Sound Action Agenda.<br />
-					</li>
-					<li>Connect with local residents to understand the needs and concerns of the people who live in Puget Sound.</li>
-					<li>Read the documents up for discussion and submit comments during the public comment period </li>
-					<li>Attend meetings to learn more and offer feedback.</li>
-					<li>Stay informed. Keep in touch with your Ecosystem Recovery Coordinator at the Partnership </li>
-				</ul>
-				<li><strong>Regional organizations and groups</strong></li>
-				<li><strong>State Agencies</strong></li>
-			</ul>
-			<h2>What is the role of the public?</h2>
-			<p>There are several ways <strong>you can give your input</strong> into Action Agenda updates:</p>
-			<ul>
-				<li><strong>Connect </strong>with your local watershed recovery group. </li>
-				<li><strong>Read</strong> the documents up for discussion and submit your comments during the public comment period. </li>
-				<li><strong>Attend </strong>a public meeting to learn more and give us feedback.</li>
-				<li><strong>Stay informed.</strong> Sign up for Action Agenda newsletters, E-clips, Facebook, Twitter </li>
-			</ul>
-			<!-- InstanceEndEditable --> </div>
+			<div>
+				<div> </div>
+				<div> </div>
+				<div> </div>
+				<div> </div>
+			</div>
+<p>&nbsp;</p>
+			
+
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title">SEE ALSO</div>
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
-				<li role="presentation"><a href="implementation-strategies.php">Implementation Strategies</a></li>
+									<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
+				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
 				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
 				<!-- InstanceEndEditable -->
