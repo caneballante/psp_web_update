@@ -83,7 +83,7 @@
 				<a href="https://pspwa.box.com/s/xqdcol6pcegjuctqr6yqb295svndg7n3"><strong>Access the Public Comment Summaries and Responses for the draft Solicitation for Near Term Actions. </strong></a><strong> </strong><br>
 				<strong><a href="https://pspwa.box.com/s/lpyx331wnsh4bpvr49w5bv7dcs9w4ksi">Access the companion Detailed Comment Matrix.  </a></strong><br></p>
 			</div>	
-			<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
+			<div class="orange-fill margin-10-top margin-10-right margin-10-bottom  rounded-corners padding-10-all border-thick-blue">
 				<p class="white-links"><a href="https://pspwa.box.com/s/z4tvz9ttze71o0fua4at1ov0ucvjp0wz"><strong>Access Frequently asked questions about the Solicitation for Near Term Actions</strong></a></p>
 			</div>
 	<br><br>
