@@ -71,7 +71,7 @@
 			<h2 class="margin-0-top">EXECUTIVE MANAGEMENT &amp; STRATEGY</h2>
 		<h5>Sheida Sahandy</h5>
 			<p> Executive Director<br />
-				360.464.1228 | <a href="mailto:sheida.sahandy@psp.wa.gov">sheida.sahandy@psp.wa.gov</a>
+				360.464.1233 | <a href="mailto:sheida.sahandy@psp.wa.gov">sheida.sahandy@psp.wa.gov</a>
 			</p>
 			<!--<h5>Marc Daily</h5>
 			<p> Deputy Director<br />
@@ -266,6 +266,14 @@
 			<p> Projects Coordinator<br/>
 				<em>LIO Special Projects </em><br/> 360.280.6664 | <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a>
 			</p>
+			<h5>Don Gourlie</h5>
+			<p>Environmental Planner<br/>
+				 360.688.3253 | <a href="don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>
+			</p>
+			<h5>Mike Johnson</h5>
+			<p>Environmental Planner<br/>
+				 360.688.4049 | <a href="mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov</a>
+			</p>
 
 			<h5>Leah Kintner</h5>
 			<p>Regional Manager<br/> 360.480.2880 | <a href="mailto:leah.kitner@psp.wa.gov">leah.kintner@psp.wa.gov</a>
@@ -298,11 +306,6 @@
 			<h5>Stacy Vynne</h5>
 			<p> Salmon Recovery Manager<br />
 			  360.489.2112 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
-
-			 <h5>Vacant</h5>
-			<p> Environmental Planner<br />
-				<br />
-			</p>
 
 			<!--P.P. - IMPLEMENTATION STRATEGIES-->
 		
