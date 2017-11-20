@@ -148,6 +148,7 @@
 			<p><strong>Washington State Agencies</strong><br>
 				   Maia Bellon <em>Director, Washington State Department of Ecology</em><br>
 				   Tom Laurie (alternate) <em>Department of Ecology</em><br>
+				 Tom Buroker (alternate) <em>Department of Ecology</em><br>
 				     Melissa Gildersleeve (alternate)
 			<em>Department of Ecology</em></p>
 			
@@ -168,11 +169,10 @@
 				   Rich Childers <em>Director</em><br>
 				   Lucas Hart (alternate) <em>Marine Program Manager</em></p>
 			<p><strong>Canadian Representation</strong><br>
-				   Kaaren Lewis –<em>Assistant Deputy Minister of Environmental Sustainability, BC Public Service</em><br>
+				   Jennifer McGuire –<em>Assistant Deputy Minister of Environmental Sustainability, BC Public Service</em><br>
 				   Dave Marshall (alternate) – <em>Fraser Basin Council</em></p>
 				   
-				   
-				   
+				 
 				
 			<!-- InstanceEndEditable --> </div>
 		

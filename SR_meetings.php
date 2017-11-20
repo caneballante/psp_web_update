@@ -115,9 +115,11 @@
 				</tr>
 				<tr>
 					<td height="124"><p>November 30</p></td>
-					<td><p>Edmonds Center for the Arts<br>
-					  410 Fourth Ave N<br>
-				    Edmonds, WA 98020</p></td>
+					
+					<td><p>Port Gamble S’Klallam Longhouse<br>
+					31964 Little Boston Rd NE<br>
+					Kingston, WA 98346</p></td>
+				
 					<td><a href="https://pspwa.box.com/s/x4h2n5lq8ox2o4gbnr9hesn1mlo8ailh" target="new">Meeting Materials</a><br /></td>
 				</tr>
 			</table>
