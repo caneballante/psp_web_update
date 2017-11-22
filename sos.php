@@ -68,7 +68,11 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			<h2 class="margin-0-top">WHAT IS THE STATE OF THE SOUND REPORT? </h2>
-			<div class="floatright"><a href="https://pspwa.box.com/s/pcmq1ik1otenheklg5sucz7bkmkpjphq"><img src="images/2017-sos-cover.png" width="330" height="270" alt=""/></a><br><p class="text-right"><a href="https://pspwa.box.com/s/pcmq1ik1otenheklg5sucz7bkmkpjphq">download 2017 State of the Sound (PDF)</a></p></div>
+			<div class="floatright"><a href="https://pspwa.box.com/s/pcmq1ik1otenheklg5sucz7bkmkpjphq"><img src="images/2017-sos-cover.png" width="330" height="270" alt=""/></a><br><p class="text-right"><a href="https://pspwa.box.com/s/pcmq1ik1otenheklg5sucz7bkmkpjphq">download 2017 State of the Sound (PDF)</a></p>
+				<p class="text-right"><a href="https://pspwa.box.com/s/5u2jawn8129lpy5nckz0gmhcbeu3rm9o">download 2017 State of the Sound Executive Summary (PDF)</a>
+			
+			
+			</div>
 <p>As a national and tribal treasure, Puget Sound is worthy of our every effort for protection. Such effort requires the coordination and collaboration of hundreds of partners in planning, prioritizing, and undertaking the actions needed to recover and sustain Puget Sound.</p>
 <p>The biennial State of the Sound report is intended to help our partners and decision makers better understand how well the recovery effort is going. It also responds specifically to state statute (RCW 90.71.370(3)).</p>
 
@@ -120,7 +124,7 @@
 
 <h2>TO TAKE AWAY, DOWNLOAD AND PRINT AND SHARE </h2>
 <ul>
-	<li><a href="https://pspwa.box.com/s/5u2jawn8129lpy5nckz0gmhcbeu3rm9o">2017 State of the Sound fact sheet</a></li>
+	<li><a href="https://pspwa.box.com/s/5u2jawn8129lpy5nckz0gmhcbeu3rm9o">2017 State of the Sound Executive Summary and Next Steps</a></li>
 	<li><a href="https://pspwa.box.com/s/itv1vn99ssosatz5vg8ql50mx0icfi2c">Vital Sign status overview</a></li>
 	<li><a href="https://pspwa.box.com/s/1qrwymghgg8tx6lloluljvgura9nw2ca">Shorelines Recovery Story </a></li>
 	<li><a href="https://pspwa.box.com/s/16jyv0ksrwqzqzolsokna5kui6a32kvlI">Shellfish Recovery Story</a></li>

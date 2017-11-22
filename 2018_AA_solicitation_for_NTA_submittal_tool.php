@@ -66,8 +66,13 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Partnership is accepting NTA proposals through an online submittal tool. </p>
 			<p>To be considered for adoption into the 2018-2022 Action Agenda, NTAs must be preregistered by December 22, 2017, with final proposal submitted by March 30, 2018 via the online submittal tool. Required fields for preregistration are indicated in the submittal tool. </p>
+			
+			<p>NOTE: If you are on the State Network system you may experience slow connectivity preventing your access to the tool. Currently these issues appear to be limited to Washington State employees. The Partnership and WATECH are working to resolve the issue.</p>
+			
+			
 			<div class="orange-fill margin-40-top margin-40-right margin-40-bottom margin-0-left rounded-corners padding-10-all border-thick-blue">
 				<p class="white-links">
+					
 					<a href="http://www.psp.wa.gov/gis/NTATool/NTASubmission.html"><strong>Access NTA submittal tool</strong></a><strong></strong></p></div>
 			<p>A Word template of the NTA Fact Sheet is available for people who would like to develop their NTA proposal offline. However, please note that <strong>preregistration and final submittal must be completed via the online tool by December 22, 2017 and March 30, 2018, respectively, to be considered for the 2018-2022 Action Agenda</strong>.</p>
 			<div class="orange-fill margin-40-top margin-40-right margin-40-bottom margin-0-left rounded-corners padding-10-all border-thick-blue">

@@ -105,20 +105,14 @@
 				<p>For information about NTA proposal requirements and how to submit an NTA proposal, please plan to attend the webinars described below.</p>
 				<h3>WEBINAR: Regional Priorities</h3>
 				<p>To learn about the Regional Priorities and Regional Priority approaches, attend the webinar on Monday, November 20, 2017. The webinar, which takes place from 10 a.m. to noon, also provides the opportunity to ask questions about NTA proposal requirements and discuss issues with Partnership staff and Strategic Initiative Leads.<strong> </strong></p>
-				<p class="align-center">To attend, click on the button below or go to: <br>
-					<a href="https://watech.webex.com/watech/j.php?MTID=m704291def723440cd5ebcd098518d19d">https://watech.webex.com/watech/j.php?<br>
-MTID=m704291def723440cd5ebcd098518d19d</a></p>
+				</p>
 				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
-					<p align="center" class="white-links"><a href="https://watech.webex.com/watech/j.php?MTID=m704291def723440cd5ebcd098518d19d"><strong>Join the Webinar: Regional Priorities</strong><br>
-						<strong>November 20, 2017</strong><br>
-						<strong>10 a.m. to noon</strong></a></p>
+					<p align="center" class="white-links"><a href="https://pspwa.box.com/s/7x65sk769jdcfdspxfixgjfsdxnfsa4w"><strong>Access the Recorded Regional Priorities Webinar here</a></p>
 				</div>
 				
 			
 				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
-					<p align="center" class="white-links"><a href="https://watech.webex.com/watech/j.php?MTID=m1145341c1dcd31cd994ceb0509704ad0"><strong>Audio connection</strong><br>
-							<strong>+1-855-929-3239 Toll-Free</strong><br>
-							<strong>Access code: 808 102 745</strong></a></p>
+					<p align="center" class="white-links"><a href="https://pspwa.box.com/s/jnpr0ya4xr2zmb9mydhmvuc96lliih55"><strong>Access the PowerPoint Presentation for the Regional Priorities Webinar here</strong></a></p>
 				</div>
 				
 				<h3>WEBINAR: How to Submit an NTA Proposal</h3>
