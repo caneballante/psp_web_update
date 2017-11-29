@@ -104,22 +104,21 @@
 			
 				<p>For information about NTA proposal requirements and how to submit an NTA proposal, please plan to attend the webinars described below.</p>
 				<h3>WEBINAR: Regional Priorities</h3>
-				<p>To learn about the Regional Priorities and Regional Priority approaches, attend the webinar on Monday, November 20, 2017. The webinar, which takes place from 10 a.m. to noon, also provides the opportunity to ask questions about NTA proposal requirements and discuss issues with Partnership staff and Strategic Initiative Leads.<strong> </strong></p>
+				<p>To learn about the Regional Priorities and Regional Priority approaches, attend the webinar on Monday, November 20, 2017. The webinar, which takes place from 10 a.m. to noon, also provides the opportunity to ask questions about NTA proposal requirements and discuss issues with Partnership staff and Strategic Initiative Leads.</p>
 				</p>
 				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
-					<p align="center" class="white-links"><a href="https://pspwa.box.com/s/7x65sk769jdcfdspxfixgjfsdxnfsa4w"><strong>Access the Recorded Regional Priorities Webinar here</a></p>
+					<p align="center" class="white-links"><a href="https://pspwa.box.com/s/7x65sk769jdcfdspxfixgjfsdxnfsa4w">Access the Recorded Regional Priorities Webinar here</a></p>
 				</div>
 				
 			
 				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
-					<p align="center" class="white-links"><a href="https://pspwa.box.com/s/jnpr0ya4xr2zmb9mydhmvuc96lliih55"><strong>Access the PowerPoint Presentation for the Regional Priorities Webinar here</strong></a></p>
+					<p align="center" class="white-links"><a href="https://pspwa.box.com/s/jnpr0ya4xr2zmb9mydhmvuc96lliih55">Access the PowerPoint Presentation for the Regional Priorities Webinar here</a></p>
 				</div>
 				
 				<h3>WEBINAR: How to Submit an NTA Proposal</h3>
-				<p>To learn about the process for preregistering an NTA and submitting an NTA proposal, attend the webinar on Tuesday, November 28, 2017. The webinar, which takes place from 9 a.m. to 10 a.m., also provides the opportunity to ask questions about the NTA submittal process. Partnershipstaff will be available for up to an additional 2 hours to answer questions if needed. To attend, click on the button below or go to: <br>
-					<a href="https://watech.webex.com/watech/j.php?MTID=m34fa6554df78458a52eaed6980d04258">https://watech.webex.com/watech/j.php?MTID=m34fa65<br>
-54df78458a52eaed6980d04258</a> <br>
-						</p>
+				<p>To learn about the process for preregistering an NTA and submitting an NTA proposal, attend the webinar on Tuesday, November 28, 2017. The webinar, which takes place from 9 a.m. to 10 a.m., also provides the opportunity to ask questions about the NTA submittal process. Partnershipstaff will be available for up to an additional 2 hours to answer questions if needed. To attend, click on the button below or go to: 
+					<br>
+				</p>
 				
 				
 				
@@ -128,17 +127,12 @@
 				
 				
 				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
-					<p align="center" class="white-links"><a href="https://watech.webex.com/watech/j.php?MTID=m34fa6554df78458a52eaed6980d04258"><strong>Join the Webinar: <br>
-							How to submit an NTA proposal</strong><br>
-						<strong>November 28, 2017</strong><br>
-						<strong>9 a.m. to 10 a.m.</strong></a></p>
+					<p align="center" class="white-links"><a href="https://pspwa.box.com/s/pirviks3cdjlj6hv7pmefxlisftepiiz">Access the recorded webinar: How to Submit an NTA Proposal</a></p>
 				</div>
 				
 			
 				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
-					<p align="center" class="white-links"><a href="https://watech.webex.com/watech/j.php?MTID=m1145341c1dcd31cd994ceb0509704ad0"><strong>Audio connection</strong><br>
-							<strong>+1-855-929-3239 Toll-Free</strong><br>
-							<strong>Access code: 809 798 837</strong></a></p>
+					<p align="center" class="white-links"><a href=" https://pspwa.box.com/s/wzs8ndqxa1x8rytpialfbgisnq5wnwjr">Access the PowerPoint presentation</a></p>
 				</div>
 			
 				<p><strong>Questions?</strong><br>

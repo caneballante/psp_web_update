@@ -78,7 +78,11 @@
                 <p><a href="#tacoma">Comparing costs to reduce toxic pollution (City of Tacoma)</a></p>
 			<h3>STRATEGIC INITIATIVE: PROTECT AND RESTORE HABITAT</h3>
              
-				
+					
+                <h6><em>FLOODPLAINS</em></h6>
+                
+				<p><a href="#kingcountyfloodplains"><span class="tablesubheader">Reducing flood risk and creating habitat for young salmon (King County)</span></a></p>
+			
                 <h6><em>ESTUARIES</em></h6>
                 
 				<p><a href="#skagit">Restoring tidal wetlands to support Chinook salmon (South Fork Skagit)</a></p>
@@ -159,7 +163,19 @@
 				
 					<td colspan="2" class="tableheader"><h3><span class="tableheadertext">Strategic Initiative: Protect and restore habitat</span></h3></td>
 					
-					<!-- report -->
+						<!-- report -->
+                <tr>
+					<td colspan="2" class="tablesubheader"><em>FLOODPLAINS</em></td>
+				</tr>
+				<tr>
+					<td colspan="2" class="tablesubheader">Reducing flood risk and creating habitat for young salmon (King County)</td>
+				</tr>
+				<tr>
+					<td>  <iframe src="https://app.box.com/embed/s/541z806esben17lozk5vx6ztn9ua2gnc?theme=dark" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> </td>
+					<td><p><a href="https://pspwa.box.com/s/crre7nvc9ru3z14qegb5zojf1ofjtdonhttps://pspwa.box.com/s/541z806esben17lozk5vx6ztn9ua2gnc">Download the King County floodplains fact sheet</a><a name="kingcountyfloodplains"></a></p>
+					</td>
+				</tr>
+				
 				
 				
 				<!-- report -->

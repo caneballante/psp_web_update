@@ -135,10 +135,10 @@
             <h2>IMPLEMENTATION STRATEGY RESOURCES AVAILABLE</h2>
             <p>Strategies associated with the Habitat Strategic Initiative:</p>
             <ul>
-                <li><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn">Estuaries</a></li>
-                <li><a href="https://pspwa.box.com/s/x4y58p5epo6hzo347nvu4z7ujdzbb0fz">Floodplains</a></li>
-                <li><a href="https://pspwa.box.com/s/oiotvoj7iotbu62lm3yhn9iww0c18bcr">Land development and cover—ecologically important lands</a></li>
-                <li><a href="https://pspwa.box.com/v/ShorelineArmoringIS-Public">Shoreline armoring (drafts under development)</a></li>
+                <li><a href="https://pspwa.box.com/v/est-readme">Estuaries</a></li>
+                <li><a href="https://pspwa.box.com/v/floodplains-readme">Floodplains</a></li>
+                <li><a href="https://pspwa.box.com/v/ldc-readme">Land development and cover—ecologically important lands</a></li>
+                <li><a href="https://pspwa.box.com/v/sa-readme">Shoreline armoring (drafts under development)</a></li>
             </ul>
             <p>Strategies associated with the Shellfish Strategic Initiative:</p>
             <uL>
@@ -238,13 +238,13 @@
 				<li role="presentation"><a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
 
 
-				<li role="presentation"><a href="https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn">Estuaries (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/est-readme">Estuaries (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Shellfish Bed (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/x4y58p5epo6hzo347nvu4z7ujdzbb0fz">Floodplains (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/oiotvoj7iotbu62lm3yhn9iww0c18bcr">Land Development and Cover (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/floodplains-readme">Floodplains (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/ldc-readme">Land Development and Cover (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/yyiswccgjw4ogcqhr06bqsm5jtlm9aah">Eelgrass Recovery pilot (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook Salmon draft (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/v/ShorelineArmoringIS-Public">Shoreline Armoring draft (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/sa-readme">Shoreline Armoring draft (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/BIBI-IS-Public">B-IBI draft (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/ToxicsInFishIS-Public">Toxics in Fish draft (IS)</a></li>
 				<li role="presentation"><a href="https://eopugetsound.org/magazine/is/implementation-strategies">Implementation Strategies Overview Article (EoPS)</a></li>

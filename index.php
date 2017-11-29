@@ -171,48 +171,12 @@
 				</div>
 			</div>
 			<!--COLUMN END-->
-
-	
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						
-						</strong>EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1887453/communications-specialist-exempt">COMMUNICATION SPECIALIST</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END-->
-
-	
-	
-	
-			
-	
-			
-			
-			
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill"> 
 			
-				<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">NOV<br>
-						1 </div>
-					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
-						TELECONFERENCE CALL </a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
+			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
@@ -237,15 +201,26 @@
 					<div class="newsbox-date">NOV<br>
 						30</div>
 					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-						EDMOND CENTER FOR THE ARTS,<br>
-						EDMONDS
+						 PORT GAMBLE S’KLALLAM LONGHOUSE IN KINGSTON
 					</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
 			</div>
 			<!--COLUMN END--> 
-		
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">DEC<br>
+						6 </div>
+					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
+						SOUTH SEATTLE COMMUNITY COLLEGE GEORGETOWN</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
 			
 	<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
@@ -254,9 +229,7 @@
 					<div class="newsbox-date">DEC<br>
 						12-13 </div>
 					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-						SOUTH SEATTLE COMMUNITY COLLEGE<br>
-						GEORGETOWN CAMPUS
-						<br>
+						UNIVERSITY OF WASHINGTON CAMPUS<br>
 						</a><br>
 						<br>
 					</div>
