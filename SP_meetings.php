@@ -114,9 +114,18 @@
 				</tr>
 				<tr>
 					<td><p>December 12/13</p></td>
-					<td><p>South Seattle Community College - Georgetown campus<br>
-6737 Corson Ave South <br>
-Seattle, WA 98108<br>
+					<td><p>12/12 meeting location:</p>
+						<p>University of Washington Ethnic Cultural Center<br>
+							3931 Brooklyn Ave NE<br>
+						Seattle, 98105</p>
+						<p>&nbsp;</p>
+						<p>12/13 meeting location:</p>
+						<p>University of Washington<br>
+Applied Physics Lab - Henderson Hall<br>
+Hardisty Conference Room on 6th floor<br>
+1013 NE 40th Street<br>
+Seattle, WA 98105</p>
+						<p><br>
 					</p></td>
 					<td><a href="https://pspwa.box.com/s/lan4bpgu54dsf0x429xkuqk7vc2ouev8" target="new">Meeting Materials</a><br />
 					</td>

@@ -87,7 +87,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li>
-					<p>Denis Ross<br>
+					<p>Denise Ross<br>
 						HR Liaison<br />
 						Office 360.464.1233 <br>
 						<a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p>

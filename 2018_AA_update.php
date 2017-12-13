@@ -87,7 +87,7 @@
 			</ul>
 			<p>These initiatives represent priorities for Puget Sound, balancing ecological, economic and human wellbeing factors to focus on actions that make the greatest progress toward ecosystem recovery targets for the time and resources spent. The Strategic Initiatives help direct spending and resources, and they guide the Partnership&rsquo;s work with partners to increase funding, seek policy changes, report successes and challenges, and educate and engage people in the recovery effort. </p>
 			<h2>HOW DO ACTIONS GET INCLUDED IN THE ACTION AGENDA?</h2>
-			<p>The Puget Sound Partnership is currently soliciting <a href="http://www.psp.wa.gov/2018_AA_solicitation_for_NTAs.php">Near Term Actions (NTAs)</a> (<a href="Solicitation%2520for%2520Near%2520Term%2520Actions%2520(NTAs)%2520for%2520the%25202018%E2%80%932022%2520Implementation%2520Plan">Solicitation for Near Term Actions for the 2018–2022 Action Agenda</a>).  Important deadlines for submitting an NTA proposal, also called an NTA Fact Sheet, include the following:</p>
+			<p>The Puget Sound Partnership is currently soliciting <a href="http://www.psp.wa.gov/2018_AA_solicitation_for_NTAs.php">Near Term Actions (NTAs)</a>. Important deadlines for submitting an NTA proposal, also called an NTA Fact Sheet, include the following:</p>
 			<ul>
 				<li><strong>December 22, 2017</strong>. Deadline to preregister an NTA Fact Sheet submittal</li>
 				<li><strong>March 30, 2018</strong>. Deadline to submit the final NTA Fact Sheet</li>

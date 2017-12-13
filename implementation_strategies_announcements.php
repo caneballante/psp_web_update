@@ -69,10 +69,10 @@
             
                         <!-- ANNOUNCEMENT START --->
         <div class="highlightbox">
-		  <h3>10.30.17 <br>
-		  	Draft Shoreline Armoring Implementation Strategy available for Public Comment: October 30 – November 30, 2017</h3>
+		  <h3>UPDATED 11.30.17 (ORIGINAL DATE 10.30.17 )<br>
+		  	EXTENDED THROUGH DECEMBER 8TH: Draft Shoreline Armoring Implementation Strategy available for Public Comment</h3>
 			<p>The <a href="https://pugetsoundestuary.wa.gov/about/strategic-initiatives/">Habitat Strategic Initiative</a> team, in partnership with the Washington Department of Fish &amp; Wildlife, Washington Department of Natural Resources, Puget Sound Partnership, Puget Sound Institute, and an <a href="https://pspwa.box.com/s/bzqt9amrn5nz8nrtzlvwkak7z9w66jw5">Interdisciplinary Team</a> of experts, has been developing the Shoreline Armoring Implementation Strategy to maximize progress towards reducing <a href="http://www.psp.wa.gov/vitalsigns/shoreline_armoring.php">shoreline armor in Puget Sound</a>. To learn more, watch a <a href="https://pspwa.box.com/s/73du68az13r83gxnhs2ac256boj3aamv">brief video</a> on the development of the Implementation Strategy and read our <a href="https://pspwa.box.com/s/94l5kleynxsguyu6x0a40wxyz10qmtbz">fact sheet</a>. </p>
-			<p>The Shoreline Armoring Implementation Strategy draft will be available for public review and comment from <strong><u>October 30 through November 30</u></strong>. </p>
+			<p>The Shoreline Armoring Implementation Strategy draft will be available for public review and comment extended through December 8th<strong><u></u></strong>. </p>
 			<p>You can find the Implementation Strategy draft documents in a public Box folder: <a href="https://pspwa.box.com/s/26torgsst4arol01ljzy1vxjeg2gy5d3">https://pspwa.box.com/s/26torgsst4arol01ljzy1vxjeg2gy5d3</a>. The primary document is the <a href="https://pspwa.box.com/s/8aoi05npjh5ffs6or6qmwye1g4hc1yk5">narrative</a> with supporting material available in the <a href="https://pspwa.box.com/s/ay3ud4mpnuble82j2fk41w4i66h6btar">appendices</a>.</p>
 			<p>There are two opportunities to provide feedback:</p>
 			<ul>

@@ -116,8 +116,7 @@
 				</div>
 				
 				<h3>WEBINAR: How to Submit an NTA Proposal</h3>
-				<p>To learn about the process for preregistering an NTA and submitting an NTA proposal, attend the webinar on Tuesday, November 28, 2017. The webinar, which takes place from 9 a.m. to 10 a.m., also provides the opportunity to ask questions about the NTA submittal process. Partnershipstaff will be available for up to an additional 2 hours to answer questions if needed. To attend, click on the button below or go to: 
-					<br>
+				<p>To learn about the process for preregistering an NTA and submitting an NTA proposal, attend the webinar on Tuesday, November 28, 2017. The webinar, which takes place from 9 a.m. to 10 a.m., also provides the opportunity to ask questions about the NTA submittal process. Partnershipstaff will be available for up to an additional 2 hours to answer questions if needed. <br>
 				</p>
 				
 				
@@ -132,7 +131,7 @@
 				
 			
 				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue">
-					<p align="center" class="white-links"><a href=" https://pspwa.box.com/s/wzs8ndqxa1x8rytpialfbgisnq5wnwjr">Access the PowerPoint presentation</a></p>
+					<p align="center" class="white-links"><a href="https://pspwa.box.com/s/wzs8ndqxa1x8rytpialfbgisnq5wnwjr">Access the PowerPoint presentation</a></p>
 				</div>
 			
 				<p><strong>Questions?</strong><br>
