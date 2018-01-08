@@ -69,7 +69,8 @@
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">Employment opportunities</h2>
-			<a href="https://www.governmentjobs.com/careers/washington/jobs/1887453/communications-specialist-exempt">COMMUNICATION SPECIALIST</a><br>
+				<a href="https://www.governmentjobs.com/careers/washington/jobs/1942459/environmental-planner-4-project">ENVIRONMENTAL PLANNER 4</a><br>
+<a href="https://www.governmentjobs.com/careers/washington/jobs/1903599/monitoring-lead-exempt">MONITORING LEAD</a><br>
 				<a href="https://www.governmentjobs.com/careers/washington/jobs/1886883/ecosystem-recovery-coordinator-exempt">ECOSYSTEM RECOVERY COORDINATOR</a><br>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --> </div>

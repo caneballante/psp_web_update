@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2017 ECOSYSTEM COORDINATION BOARD MEETINGS</h1>
+			<h1>2018 ECOSYSTEM COORDINATION BOARD MEETINGS</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -72,35 +72,37 @@
 					<td width="251" class="tableheader">PROPOSED AGENDA &amp; SUMMARY</td>
 				</tr>
 				<tr>
-					<td class=""><p>March 2</p></td>
-					<td class=""><p>General Administration (GA) Building, Auditorium<br>
-					  1st floor<br>
-Washington State Capitol Campus<br>
-210 - 11th Avenue SW<br>
-Olympia, WA 98501</p>
+					<td class=""><p>Feb 15</p></td>
+					<td class=""><p>Lacey Community Center<br>
+						6729 Pacific Avenue<br>
+						Lacey, WA 98503
+					</p>
 						</td>
-					<td class=""><p><a href="https://pspwa.box.com/s/9ts3wzgz4bta9jzlwjjly7xcie7i6ku3" target="new">Meeting Materials</a></p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/pw5gbu3h2qbgdoo4rjadpiw5zo22n2id" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td ><p>June 15</p></td>
-					<td><p>Edmonds Center for the Arts<br>
-					  410 Fourth Ave N<br>
-				    Edmonds, WA 98020</p></td>
-					<td><p><a href="https://pspwa.box.com/s/zhbxyg1rywahw7bu31osm0a2e89x9wox" target="new">Meeting Materials</a></p></td>
+					<td ><p>May 17</p></td>
+					<td><p>South Seattle Community College Georgetown<br>
+						6737 Corson Ave South<br>
+						Seattle, WA 98108<br>
+					(potential join meeting with SRC)</p></td>
+					<td><p><a href="https://pspwa.box.com/s/vcge08e94r83axazqqlyszwtft20hsxi" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td><p>August 24					</p></td>
-					<td class=""><p>Edmonds Center for the Arts<br>
-					  410 Fourth Ave N<br>
-				    Edmonds, WA 98020</p></td>
-					<td class=""><p><a href="https://pspwa.box.com/s/ycqipgq6093i5in6jioe2fccu0aq92sh" target="new">Meeting Materials</a></p></td>
+					<td><p>August 23					</p></td>
+					<td class=""><p>South Seattle Community College Georgetown<br>
+						6737 Corson Ave South<br>
+						Seattle, WA 98108<br>
+					(potential join meeting with SRC)</p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/3er109drf37cgdp0ap2f1tkipw7fa3qx" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td height="125" class=""><p>November 8</p></td>
-					<td class=""><p>Edmonds Center for the Arts<br>
-					  410 Fourth Ave N<br>
-				    Edmonds, WA 98020</p></td>
-					<td class=""><p><a href="https://pspwa.box.com/s/ztjl8ggvcpp473ls4wo8zwkiqpog1zhx" target="new">Meeting Materials</a></p></td>
+					<td height="125" class=""><p>October 25</p></td>
+					<td class=""><p>South Seattle Community College Georgetown<br>
+						6737 Corson Ave South<br>
+						Seattle, WA 98108<br>
+					(potential join meeting with SRC)</p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/gvuagthqvdq3f709pow1s6jnwrmj36wt" target="new">Meeting Materials</a></p></td>
 				</tr>
 				
 				
@@ -115,7 +117,9 @@ Olympia, WA 98501</p>
 				<li>
 					<?php include 'includes/board_contact.html';?>
 				</li>
-				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li>
+				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></li>
+				<li><a href="https://pspwa.box.com/s/bfm8f68v65ybnwht7fx9rwrd33nb5shd">Board's 2018 meeting calendar</a></li>
+				<li><a href="https://pspwa.box.com/s/87rfvgjwf6wahymd806v7lrkh0a89zjt">Puget Sound Environmental Caucus members </a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

@@ -64,11 +64,9 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top">
-				<p class="margin-10-top padding-10-all"><strong>UPDATE!</strong> On December 16, 2017 at 9am the NTA submittal tool will experience a brief disruption. If you are working in the tool at that time, that content may be lost. This disruption is only expected to last a few minutes.</p>
-				</div>
 			
-			<p>&nbsp;</p>
+			
+			
 			<p>The Partnership is accepting NTA proposals through an online submittal tool. </p>
 			<p>To be considered for adoption into the 2018-2022 Action Agenda, NTAs must be preregistered by December 22, 2017, with final proposal submitted by March 30, 2018 via the online submittal tool. Required fields for preregistration are indicated in the submittal tool. </p>
 			

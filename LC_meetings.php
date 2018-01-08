@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2017 LEADERSHIP COUNCIL MEETINGS</h1>
+			<h1>2018 LEADERSHIP COUNCIL MEETINGS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -74,52 +74,36 @@
 				</tr>
 				<tr> </tr>
 				<tr>
-					<td><p>March 29/30</p></td>
-					<td><p>General Administration (GA) Building, Auditorium<br>
-					  1st floor<br>
-Washington State Capitol Campus<br>
-210 - 11th Avenue SW<br>
-Olympia, WA 98501</p></td>
-					<td><a href="https://pspwa.box.com/s/1mcoazaph4pglnoix7ayp25wmn72fkru" target="new">Meeting Materials</a></td>
+					<td><p>March 28/29</p></td>
+					<td><p>Washington State University<br>
+						2606 West Pioneer<br>
+					Puyallup, WA 98371</p></td>
+					<td><a href="https://pspwa.box.com/s/99h4z3oa9wfqs6sba56noz43ehty06mn" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>June 21/22</p></td>
-					<td><p>Padilla Bay National Estuarine Research Reserve<br>
-					  10441 Bayview-Edison Road<br>
-Mount Vernon, WA 98273-9668 </p></td>
+					<td><p>June 12/13</p></td>
+					<td><p>Tentatively at North Cascades Environmental Learning Center<br>
+					(near Diablo/Ross lakes)</p></td>
 
-					<td><a href="https://pspwa.box.com/s/5hzguw7pn7uimmlod1i1biva898ynpw4" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/yinkhf1j2fu9fhgjwk76j7tkknl5g56r" target="new">Meeting Materials</a></td>
 
 				</tr>
 				8/16/17 
 Under Location:
 
 				<tr>
-					<td><p>August 16</p></td>
-					<td><p>Informational session<br>
-Teleconference, call 1.877.668.4493,<br>
- Access Code 926 276 343</p></td>
-					<td><a href="https://pspwa.box.com/s/uaq9zym6lr3saz82lsky7ciy0243atvj" target="new">Meeting Materials</a></td>
+					<td><p>September 12/13</p></td>
+					<td><p>Tentatively Anacortes</p></td>
+					<td><a href="https://pspwa.box.com/s/8m2mdydxvniyuoz42x8fs4j9pqc4023r" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>September 20/21</p></td>
-					<td><p>Port Gamble S'Klallam Tribe<br>
-				    Kingston, WA</p></td>
-					<td><a href="https://pspwa.box.com/s/8usghkkfomgbxf5i804pmx08ugi5lww3" target="new">Meeting Materials</a></td>
+					<td><p>December 4/5</p></td>
+					<td><p>South Seattle Community College Georgetown<br>
+						6737 Corson Ave South <br>
+					Seattle, WA 98108</p></td>
+					<td><a href="https://pspwa.box.com/s/6i4fr9opajczewctzhyji4c7psohl3rm" target="new">Meeting Materials</a></td>
 				</tr>
-				<tr>
-					<td><p>November 1</p></td>
-					<td><p>Special Leadership Council meeting by teleconference.<br>
-				   Call in information TBD</p></td>
-					<td><a href="https://pspwa.box.com/s/r8g6o61ndlk2664lo4q0knk3n1p4e3fb" target="new">Meeting Materials</a>
-				</tr>
-				<tr>
-					<td><p>December 5/6</p></td>
-					<td><p>South Seattle Community College - Georgetown campus<br>
-6737 Corson Ave South <br>
-Seattle, WA 98108</p></td>
-					<td><a href="https://pspwa.box.com/s/6yl8jqebs7t8dxfi5566szgbmf1aong6" target="new">Meeting Materials</a></td>
-				</tr>
+			
 				
 			</table>
 	
@@ -132,7 +116,10 @@ Seattle, WA 98108</p></td>
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 						<li><?php include 'includes/board_contact.html';?>
 				</li>
-				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li><!-- InstanceEndEditable -->
+					<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></li>
+				<li><a href="https://pspwa.box.com/s/bfm8f68v65ybnwht7fx9rwrd33nb5shd">Board's 2018 meeting calendar</a></li>
+				<li><a href="https://pspwa.box.com/s/87rfvgjwf6wahymd806v7lrkh0a89zjt">Puget Sound Environmental Caucus members </a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>

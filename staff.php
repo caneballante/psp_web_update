@@ -90,8 +90,12 @@
 			
 			
 			<h5>Jon Bridgman</h5>
-			<p> Designer<br />
+			<p> Senior Designer<br />
 				360.999.3847 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
+		<br>
+				<h5>Julia Luna</h5>
+			<p> Communication Specialist<br />
+				360.999.9673 | <a href="mailto:julia.luna@psp.wa.gov">julia.luna@psp.wa.gov</a></p>
 		<br>
 				
 						
@@ -116,9 +120,9 @@
             <!-- FISCAL-->
            
             <h3>FISCAL</h3>	    
-		<h5>danielle cruver</h5>
+		<h5>Vacant</h5>
 			<p> Fiscal Division Manager<br />
-			360.870.1467 | <a href="mailto:danielle.cruver@psp.wa.gov">danielle.cruver@psp.wa.gov</a></p>
+			</p>
 		<h5>Becky DeBoer</h5>
 			<p> Fiscal Program Manager<br />
 				360.999.3804 | <a href="mailto:becky.deboer@psp.wa.gov">becky.deboer@psp.wa.gov</a></p>
@@ -260,11 +264,11 @@
 			</p>
 			<h5>Dan Calvert</h5>
 			<p> Ecosystem Recovery Coordinator <br/>
-				<em>Stillaguamish/Snohomish, Puyallup/White Lead Entity </em><br/> 360.789.3165 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov</a>
+				<em>Puyallup/White, Nisqually, WRIA 13 and 14</em><br/> 360.789.3165 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov</a>
 			</p>
 			<h5>Alexandra Doty</h5>
-			<p> Projects Coordinator<br/>
-				<em>LIO Special Projects </em><br/> 360.280.6664 | <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a>
+			<p> Project Coordinator<br/>
+				<em>South Central, LIO Special Projects </em><br/> 360.280.6664 | <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a>
 			</p>
 			<h5>Don Gourlie</h5>
 			<p>Environmental Planner<br/>
@@ -276,26 +280,26 @@
 			</p>
 
 			<h5>Leah Kintner</h5>
-			<p>Regional Manager<br/> 360.480.2880 | <a href="mailto:leah.kitner@psp.wa.gov">leah.kintner@psp.wa.gov</a>
+			<p>Regional Manager<br>
+				<em>Whatcom, WRIA 1</em><br/> 360.480.2880 | <a href="mailto:leah.kintner@psp.wa.gov">leah.kintner@psp.wa.gov</a>
 			</p>
 
 			<h5>Amber Moore</h5>
 			<p> Ecosystem Recovery Coordinator <br/>
-				<em>West Sound Lead Entity, West Central LIO, WRIA 13 and 14 Lead Entities, Nisqually Lead Entity </em><br/> 360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a>
+				<em>West Sound, West Central, WRIA 8 and 9</em><br/> 360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a>
 			</p>
 
 			<h5>Erin ryan-peÑuela</h5>
 			<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br/>
-				<em>Hood Canal, Straits, North Olympic Peninsula Lead Entity </em> <br/> 360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a> </p>
+			<em>Hood Canal, Straits, North Olympic Peninsula  </em> <br/> 360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a> </p>
 
 			<h5>Jennifer Pouliotte</h5>
 			<p> Environmental Planner<br/> 360.522.0545 | <a href="mailto:jennifer.pouliotte@psp.wa.gov">jennifer.pouliotte@psp.wa.gov</a>
 			</p>
-			<p>
-
+			
 			<h5>Suzanna Stoike</h5>
 			<p> Ecosystem Recovery Coordinator &amp; PSAR Program Coordinator<br/>
-				<em>Island, San Juan Islands, WRIA 8 Lead Entity </em><br/> 360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a>
+				<em>Island, San Juan Islands</em><br/> 360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a>
 			</p>
 
 			<h5>Stephanie Suter</h5>

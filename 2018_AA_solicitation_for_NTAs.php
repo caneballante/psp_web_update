@@ -137,7 +137,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
 				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
-				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"><a href="implementation-strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
 				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
 				<!-- InstanceEndEditable -->

@@ -69,9 +69,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-				<div class="highlightbox margin-0-top">
-				<p class="margin-10-top padding-10-all"><strong>NEW!</strong> The Puget Sound Partnership is now accepting Near Term Action (NTA) proposals for the 2018-2022 Action Agenda <a href="2018_AA_solicitation_for_NTAs.php">LEARN MORE</a></p>
-				</div>
+				
 			<h2 class="margin-20-top">What is in the Action Agenda?</h2>
 			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it identifies the goals and strategies for recovery and describes how the work of many partner organizations contributes to improving the health of Puget Sound.</p>
 <p>The 2018-2022 update is expected to result in a more focused Action Agenda, designed to accelerate Puget Sound recovery. The Action Agenda comprises two components: the <em>Comprehensive Plan</em> and the <em>Implementation Plan</em>.</p>
@@ -124,7 +122,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
 				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
-				<li role="presentation"><a href="implementation_strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"><a href="implementation-strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">Action Area Maps</a></li>
 				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
 				<!-- InstanceEndEditable -->

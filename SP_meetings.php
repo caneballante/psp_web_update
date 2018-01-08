@@ -48,7 +48,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2017 SCIENCE PANEL MEETINGS</h1>
+			<h1>2018 SCIENCE PANEL MEETINGS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -75,59 +75,48 @@
 				</tr>
 				<tr> </tr>
 				<tr>
-					<td><p>February 16</p></td>
-					<td><p>South Seattle Community College - Georgetown campus<br>
-					  6737 Corson Ave South<br>
-				    Seattle, WA 98108</p></td>
-					<td><a href="https://pspwa.box.com/s/fhb5i1efw31q527m12b5fkj1dt9wqiie" target="new">Meeting Materials</a></td>
+					<td><p>February 28</p></td>
+					<td><p>University of Washington<br>
+Applied Physics Lab - Henderson Hall<br>
+Hardisty Conference Room on 6th floor<br>
+1013 NE 40th Street<br>
+Seattle, WA 98105</p></td>
+					<td><a href="https://pspwa.box.com/s/58potlxo6dsmsgqdjikxln2daa58j27l" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>May 18</p></td>
+					<td><p>April 25/26</p></td>
 					<td><p>University of Washington<br>
 					  Applied Physics Lab - Henderson Hall<br>
 					  Hardisty Conference Room on 6th floor<br>
 					  1013 NE 40th Street<br>
 				    Seattle, WA 98105</p></td>
 
-					<td><a href="https://pspwa.box.com/s/7uz9j59dsoqqf4xvvlb08xdpjlskd3fz" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/58potlxo6dsmsgqdjikxln2daa58j27l" target="new">Meeting Materials</a></td>
 
 				</tr>
 				
 				<tr>
-					<td><p>July 19/20</p></td>
+					<td><p>July 11/12</p></td>
+					<td><p>Tenatively Bellingham</p></td>
+					<td><a href="https://pspwa.box.com/s/2x8suekjxtcj4brcapvbmrv4p55n7i24" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td><p>October 9/10</p></td>
 					<td><p>University of Washington<br>
-					  Applied Physics Lab - Henderson Hall<br>
-					  Hardisty Conference Room on 6th floor<br>
-					  1013 NE 40th Street<br>
-				    Seattle, WA 98105</p></td>
-					<td><a href="https://pspwa.box.com/s/xbsj2swu0af5qyerwiewbcv283lmtdcf" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td><p>October 19</p></td>
-					<td><p>Edmonds Center for the Arts<br>
-					  University of Washington<br>
-					  Applied Physics Lab - Henderson Hall<br>
-					  Hardisty Conference Room on 6th floor<br>
-					  1013 NE 40th Street<br>
-				    Seattle, WA 98105</p></td>
-					<td><a href="https://pspwa.box.com/s/xlkl8za2mbizpjbh9yjvghv5ru1txmxs" target="new">Meeting Materials</a></td>
-				</tr>
-				<tr>
-					<td><p>December 12/13</p></td>
-					<td><p>12/12 meeting location:</p>
-						<p>University of Washington Ethnic Cultural Center<br>
-							3931 Brooklyn Ave NE<br>
-						Seattle, 98105</p>
-						<p>&nbsp;</p>
-						<p>12/13 meeting location:</p>
-						<p>University of Washington<br>
 Applied Physics Lab - Henderson Hall<br>
 Hardisty Conference Room on 6th floor<br>
 1013 NE 40th Street<br>
-Seattle, WA 98105</p>
+Seattle, WA 98105</p></td>
+					<td><a href="https://pspwa.box.com/s/bt8lzwwx5jmb01mkjr1lgmbnr2bbf8m8" target="new">Meeting Materials</a></td>
+				</tr>
+				<tr>
+					<td><p>December 12/13</p></td>
+					<td><p>South Seattle Community College - Georgetown campus<br>
+6737 Corson Ave South<br>
+Seattle, WA 98108</p>
 						<p><br>
 					</p></td>
-					<td><a href="https://pspwa.box.com/s/lan4bpgu54dsf0x429xkuqk7vc2ouev8" target="new">Meeting Materials</a><br />
+					<td><a href="https://pspwa.box.com/s/jvhch5hyk786hv5xw8rjwav7g4mvo6bu" target="new">Meeting Materials</a><br />
 					</td>
 				</tr>
 				
@@ -142,7 +131,9 @@ Seattle, WA 98105</p>
 				<li>
 					<?php include 'includes/board_contact.html';?>
 				</li>
-				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li>
+				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></li>
+				<li><a href="https://pspwa.box.com/s/bfm8f68v65ybnwht7fx9rwrd33nb5shd">Board's 2018 meeting calendar</a></li>
+				<li><a href="https://pspwa.box.com/s/87rfvgjwf6wahymd806v7lrkh0a89zjt">Puget Sound Environmental Caucus members </a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

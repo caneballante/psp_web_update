@@ -34,6 +34,7 @@
 				<div class="col-md-8 col-md-offset-2">
  					<h1 class="brand-heading">2017 State of the sound</h1>
  					<div class="learn-more-box"><a href="sos.php">LEARN MORE</a></div>
+					
  				</div>
 			</div>
 		</div>
@@ -72,7 +73,7 @@
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS</a></div>
-			<div class="padding-5-bottom"><a href="legislative_updates.php">2017&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
+			<div class="padding-5-bottom"><a href="legislative_updates.php">2018&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			<div class="padding-5-bottom"><a href="econet.php">ECO NET </a> </div>
 		</div>
 	</div>
@@ -88,9 +89,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/announcement-shoreline-armoring.jpg"  alt=""/> <strong>10.30.17<br>
-						</strong>ANNOUNCEMENT<br>
-						<a href="implementation_strategies_announcements.php">DRAFT SHORELINE ARMORING IMPLEMENTATION STRATEGY PUBLIC COMMENT:10/30/17 – 11/30/17</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt=""/>2018 LEGISLATIVE CALENDAR<br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d08868">WEEK 1 <br>
+JANUARY 8 – 12, 2018</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -166,6 +167,32 @@
 					
 						</strong>EMPLOYMENT<br>
 						<a href="https://www.governmentjobs.com/careers/washington/jobs/1886883/ecosystem-recovery-coordinator-exempt">ECOSYSTEM RECOVERY COORDINATOR</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END-->
+	<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					
+						</strong>EMPLOYMENT<br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1903599/monitoring-lead-exempt">MONITORING LEAD</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END-->
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					
+						</strong>EMPLOYMENT<br>
+						<a href="https://www.governmentjobs.com/careers/washington/jobs/1942459/environmental-planner-4-project">ENVIRONMENTAL PLANNER 4</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>

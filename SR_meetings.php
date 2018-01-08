@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2017 SALMON RECOVERY COUNCIL MEETINGS</h1>
+			<h1>2018 SALMON RECOVERY COUNCIL MEETINGS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -74,53 +74,53 @@
 				</tr>
 				<tr> </tr>
 				<tr>
-					<td><p>January 26</p></td>
-					<td><p>Edmonds Center for the Arts<br>
-					  410 Fourth Ave N<br>
-				    Edmonds, WA 98020</p></td>
-					<td><a href="https://pspwa.box.com/s/5xsgb2e6mge79837j8rcd95e8cwquh5w" target="new">Meeting Materials</a></td>
+					<td><p>January 25</p></td>
+					<td><p>St. Placid Priory<br>
+					500 College Street NE<br>
+					Lacey, WA 98346</p></td>
+					<td><a href="https://pspwa.box.com/s/gw2s642nmdfm6pa7n7hx35uupib53131" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>March 23</p></td>
+					<td><p>March 22</p></td>
 					<td><p>Village Green Community Center<br>
 					  26159 Dulay Road NE<br>
 				    Kingston, WA 98346</p></td>
 
-					<td><a href="https://pspwa.box.com/s/2ymg6pds94bityzusndntq0gyareaecn" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/lyxg88h6pn8ely569g7fje912xzwg8lh" target="new">Meeting Materials</a></td>
 
 				</tr>
 				
 				<tr>
-					<td><p>May 25</p></td>
+					<td><p>May 24</p></td>
 					<td><p>Edmonds Center for the Arts<br>
 					  410 Fourth Ave N<br>
 				    Edmonds, WA 98020</p></td>
-					<td><a href="https://pspwa.box.com/s/cm6kajint72xiyo3k0ypytdhxpigy44l" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/b7l6n3f5mwxefnd56poel39bu220c2dj" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>July 27</p></td>
-					<td><p>Edmonds Center for the Arts<br>
-					  410 Fourth Ave N<br>
-				    Edmonds, WA 98020</p></td>
-					<td><a href="https://pspwa.box.com/s/lmwtom54gqoqtz93yufw2jd87ionsqud" target="new">Meeting Materials</a></td>
+					<td><p>July 26</p></td>
+					<td><p>Port Gamble S’Klallam Longhouse<br>
+31964 Little Boston Rd NE<br>
+Kingston, WA 98346</p></td>
+					<td><a href="https://pspwa.box.com/s/a5t6pzfm3daweljvu8bko5y393to9dp0" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>September 28</p></td>
+					<td><p>September 27</p></td>
 					<td><p>Edmonds Center for the Arts<br>
 					  410 Fourth Ave N<br>
 					  Edmonds, WA 98020<br>
 					</p></td>
-					<td><a href="https://pspwa.box.com/s/joacdsc29fsfachvliubefu2yi1dm817" target="new">Meeting Materials</a><br />
-					</td>
+					<td><a href="https://pspwa.box.com/s/8ijcfo4ryyfw7sn3ovuagttdrgiue0ia">Meeting Materials<br />
+					</a></td>
 				</tr>
 				<tr>
-					<td height="124"><p>November 30</p></td>
+					<td height="124"><p>November 15</p></td>
 					
 					<td><p>Port Gamble S’Klallam Longhouse<br>
 					31964 Little Boston Rd NE<br>
 					Kingston, WA 98346</p></td>
 				
-					<td><a href="https://pspwa.box.com/s/x4h2n5lq8ox2o4gbnr9hesn1mlo8ailh" target="new">Meeting Materials</a><br /></td>
+					<td><a href="https://pspwa.box.com/s/klrhtnvtjkm0vggp0z0el79nxikb19aa" target="new">Meeting Materials</a><br /></td>
 				</tr>
 			</table>
 			<p> Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls. <br />
@@ -136,7 +136,9 @@
 				<li>
 					<?php include 'includes/board_contact.html';?>
 				</li>
-				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></li>
+				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></li>
+				<li><a href="https://pspwa.box.com/s/bfm8f68v65ybnwht7fx9rwrd33nb5shd">Board's 2018 meeting calendar</a></li>
+				<li><a href="https://pspwa.box.com/s/87rfvgjwf6wahymd806v7lrkh0a89zjt">Puget Sound Environmental Caucus members </a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
