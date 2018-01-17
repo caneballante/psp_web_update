@@ -35,18 +35,14 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image17"> </header>
-<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-sm-12 orange"><img src="file:///Macintosh HD/Users/jonbridgman/Desktop/files/sites/psp/2015-SOS-banner-logo.png" width="433" height="89" alt=""/></div>
-</div>
-<!-- InstanceEndEditable -->
+<!-- InstanceEndEditable -->  
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -72,7 +68,10 @@
 			<p>Washington State employee self service:<br />
 	<a href="http://www.dop.wa.gov/payroll/ESS/Pages/default.aspx">http://www.dop.wa.gov/payroll/ESS/Pages/default.aspx</a></p>
 <p>Communication and web related requests:<br />
-<a href="https://app.smartsheet.com/b/form?EQBCT=31444158036444a488a55a64f1e6f970">communication request form</a></p>
+<a href="https://app.smartsheet.com/b/form?EQBCT=31444158036444a488a55a64f1e6f970">Communication request form</a><br>
+
+<a href="http://publish.smartsheet.com/d320b7d498224ef0aa8fd441d8110a75">View the communication request list</a></p>	
+			
 	<p>Employee webmail:<br />
 	
 <a href="https://mobile.wa.gov" target="_blank">https://mobile.wa.gov</a>	
