@@ -90,9 +90,9 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt=""/>2018 LEGISLATIVE CALENDAR<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d08868">WEEK 1 
-JAN 8 – 12, 2018</a><br><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d281f5">WEEK 2 
-JAN 15 – 19, 2018</a><br>
+						
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d43afb">WEEK 3 
+JAN 22 – 26, 2018</a><br>
 						
 						
 						<!--END news content BOX--> 

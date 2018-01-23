@@ -68,27 +68,16 @@
 			</div>
 		</div>
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">2017 Legislative Updates</h2>
-			<ul>
-				<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18085f3">11.14 Update</a></li>
-			</ul>
-			<h2>2017 Legislative Calendars </h2>
-			<ul>
-				<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/18f987d">Mid-term Legislative Update</a></li>
-<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/187dd5a" target="new">Week 7</a></li>
-						<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1854494" target="new">Week 6</a></li>
-			<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1854494" target="new">Week 5</a></li>
-			<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1831017" target="new">Week 4</a></li>
-				<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/181607e">Week 3</a></li>
-				<li><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/17fcb93">Week 2 </a></li>
-				<li><a href="https://pspwa.box.com/s/p4ptoocamm47uhh8ff5g9ou7m8dmphjw">Week 1 </a></li>
-			</ul>
-			<h2>Legislative POLICY GUIDANCE</h2>
-			<ul>
-				<li><a href="https://pspwa.box.com/s/vrgz41jyxyk42qwlxcer4djd7ykve8gh">Legislative Interest Statement</a></li>
-				<li><a href="https://pspwa.box.com/s/xdc1s2dap4j5ncrwi7b4ewbmey2q9106">2017 Legislative Agenda</a></li>
-			</ul>
+			<h2 class="margin-0-top">2018 Legislative Calendars </h2>
+			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d08868">WEEK 1 
+JAN 8 – 12, 2018</a><br><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d281f5">WEEK 2 
+JAN 15 – 19, 2018</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d43afb">WEEK 3 
+JAN 22 – 26, 2018</a><br>
 			<h2>Legislative Updates and Calendar Archives</h2>
+			
+			
+			<p><a href="https://pspwa.box.com/s/nf1s6fv3pikty2elkk9nxobhz0jj3gha">View 2017 Materials</a></p>
 			<p><a href="https://pspwa.box.com/s/j3mzkwul1l0txf9idjp9jarpl74ikfzx">View 2016 Materials</a></p>
 			<p><a href="https://pspwa.box.com/s/3fc8pyrlzpwzitsf4gc4hwss8dj5n2zf">View 2015 Materials</a></p>
 			<p><a href="https://pspwa.box.com/s/e9rn1ckyd5u1ljol5he0t6obmjxlj35w">View 2014 materials</a></p>

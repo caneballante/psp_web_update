@@ -165,7 +165,7 @@
 	
 			<h5>Eric Green</h5>
 			<p> IT Specialist <br />
-				360.628.7412 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov </a></p>
+				253.666.6288 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov </a></p>
 		
             
             <!--A.S. - GOVERNMENT AFFAIRS-->
@@ -268,15 +268,15 @@
 			</p>
 			<h5>Alexandra Doty</h5>
 			<p> Project Coordinator<br/>
-				<em>South Central, LIO Special Projects </em><br/> 360.280.6664 | <a href="alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a>
+				<em>South Central, LIO Special Projects </em><br/> 360.280.6664 | <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a>
 			</p>
 			<h5>Don Gourlie</h5>
 			<p>Environmental Planner<br/>
-				 360.688.3253 | <a href="don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>
+				 360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>
 			</p>
 			<h5>Mike Johnson</h5>
 			<p>Environmental Planner<br/>
-				 360.688.4049 | <a href="mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov</a>
+				 360.688.4049 | <a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov</a>
 			</p>
 
 			<h5>Leah Kintner</h5>
