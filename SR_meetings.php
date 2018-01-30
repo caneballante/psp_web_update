@@ -82,9 +82,10 @@
 				</tr>
 				<tr>
 					<td><p>March 22</p></td>
-					<td><p>Village Green Community Center<br>
-					  26159 Dulay Road NE<br>
-				    Kingston, WA 98346</p></td>
+					<td><p>South Seattle Community College<br>
+					 Gene J. Colin Education Hall<br>
+					6737 Corson Avenue South<br>
+				    Seattle, WA 98108</p></td>
 
 					<td><a href="https://pspwa.box.com/s/lyxg88h6pn8ely569g7fje912xzwg8lh" target="new">Meeting Materials</a></td>
 

@@ -91,8 +91,8 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt=""/>2018 LEGISLATIVE CALENDAR<br>
 						
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d43afb">WEEK 3 
-JAN 22 – 26, 2018</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d5edaa">WEEK 4 
+JAN 29 – FEB 2, 2018</a><br>
 						
 						
 						<!--END news content BOX--> 
@@ -107,9 +107,9 @@ JAN 22 – 26, 2018</a><br>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/dan-oneil.jpg"  alt=""/> <strong>10.13.17<br>
-						</strong>BLOG<br>
-						<a href="https://medium.com/puget-sound-partnership/farewell-dan-oneal-2525bfbf540a">FAREWELL DAN O'NEAL</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/press-release-olympia-aerial.jpg"  alt=""/> <strong>2018 LEGISLATIVE UPDATE<br>
+						</strong>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d66b90">JANUARY 29th</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -211,11 +211,10 @@ JAN 22 – 26, 2018</a><br>
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content-->
-					<div class="newsbox-date">NOV<br>
-						8</div>
+					<div class="newsbox-date">FEB<br>
+						15</div>
 					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
-						EDMONDS CENTER FOR THE ARTS, <br>
-						EDMONDS<br>
+						LACEY COMMUNITY CENTER<br>
 						</a><br>
 					</div>
 					<!--END news content--> 
@@ -224,14 +223,30 @@ JAN 22 – 26, 2018</a><br>
 			<!--COLUMN END--> 
 		
 			
+	
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">FEB<br>
+						28 </div>
+					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+						UNIVERSITY OF WASHINGTON CAMPUS<br>
+						</a><br>
+						<br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+					<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
 					<!--news content-->
-					<div class="newsbox-date">NOV<br>
-						30</div>
+					<div class="newsbox-date">MAR<br>
+						22</div>
 					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-						 PORT GAMBLE S’KLALLAM LONGHOUSE IN KINGSTON
+						 SOUTH SEATTLE COMMUNITY COLLEGE
 					</a><br>
 					</div>
 					<!--END news content--> 
@@ -242,33 +257,15 @@ JAN 22 – 26, 2018</a><br>
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">DEC<br>
-						6 </div>
+					<div class="newsbox-date">MAR<br>
+						28/29 </div>
 					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
-						SOUTH SEATTLE COMMUNITY COLLEGE GEORGETOWN</a><br>
+						WASHINGTON STATE UNIVERSITY, PUYALLUP</a><br>
 					</div>
 					<!--END news content--> 
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			
-	<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">DEC<br>
-						12-13 </div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-						UNIVERSITY OF WASHINGTON CAMPUS<br>
-						</a><br>
-						<br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			
-			
 			
 			
 		

@@ -126,7 +126,7 @@
             <p>The following four partially complete Strategies will be further developed in coming years to inform Action Agenda, Science Work Plan and other planning and funding decisions.</p> 
             <p>Contact the leads for these Strategies for more information:</p>
             <ul>
-				<li>Shellfish Beds, Emily Sanford, Shellfish Strategic Initiative, <a href="mailto:Emily.Sanford@doh.wa.gov">Emily.Sanford@doh.wa.gov</a></li>
+				<li>Shellfish Beds, Clara Hard, Shellfish Strategic Initiative, <a href="mailto:clara.hard@doh.wa.gov">clara.hard@doh.wa.gov</a></li>
 				<li>Estuaries, Jennifer Griffiths, Habitat Strategic Initiative, <a href="mailto:Jennifer.Griffiths@wdfw.wa.gov">Jennifer.Griffiths@wdfw.wa.gov</a></li>
                 <li>Land Development, Libby Gier, Habitat Strategic Initiative, <a href="mailto:Libby.Gier@dnr.wa.gov">Libby.Gier@dnr.wa.gov</a></li>
                 <li>Floodplains, Libby Gier, Habitat Strategic Initiative, <a href="mailto:Libby.Gier@dnr.wa.gov">Libby.Gier@dnr.wa.gov</a></li>

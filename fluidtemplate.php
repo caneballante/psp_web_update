@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-5-template-fluid.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Government Relations</title>
+<title>Puget Sound Partnership - Draft Home Page</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -24,99 +23,77 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-<script>
-/*this  variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
-</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion2" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image14">
-	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
+ <!-- InstanceBeginEditable name="overviewphoto" -->
+<header class="overview-page-image-style overview-page-image1">
+	<div class="overview-quote pull-right">The Puget Sound National Estuary Program brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</div>
 </header>
+<!-- InstanceEndEditable -->  
+<div class="row">
+	<div class="col-sm-12 margin-50-top">&nbsp;</div>
+</div>
+<!-- END IMAGE HEADER --> 
+<!-- START MAIN CONTENT CONTAINER --> 
+<!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"></div>
+</div>
 <!-- InstanceEndEditable -->
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>LEGISLATIVE UPDATES</h1>
-			<p>&nbsp;</p>
+			<h1>SCIENCE BASIS FOR RECOVERY</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-sm-2 padding-20-top"></div>
+		<div class="col-sm-2 padding-20-top"><!-- InstanceBeginEditable name="EditRegion12" --><img src="images/PSAR/PSAR-logo.jpg" width="233" height="119" alt=""/><!-- InstanceEndEditable --></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/ln-gov.html';?>
+					<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
+					<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
+					<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
+					<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT FRAMEWORK</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+					<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
 					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
+		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		
-			
-				
-			
-				<h2 class="margin-0-top">2018 Legislative Updates</h2>
-			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d66b90">JANUARY 29th</a></p>
-			
-			
-		
-			<h2 class="margin-20-top">2018 Legislative Calendars </h2>
-			
-			
-			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d08868">WEEK 1 
-JAN 8 – 12, 2018</a><br><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d281f5">WEEK 2 
-JAN 15 – 19, 2018</a><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d43afb">WEEK 3 
-JAN 22 – 26, 2018</a><br>
-			
-			
-				<h2 class="margin-20-top">2018 Legislative Agenda</h2>
-			<p><a href="https://pspwa.box.com/s/eotk0itkj6v3zulbdki1n6urrfet7cjw">2018 Legislative Agenda</a></p>
-			<br>
-			
-			<h2>Legislative Updates and Calendar Archives</h2>
-			
-			
-			<p><a href="https://pspwa.box.com/s/nf1s6fv3pikty2elkk9nxobhz0jj3gha">View 2017 Materials</a></p>
-			<p><a href="https://pspwa.box.com/s/j3mzkwul1l0txf9idjp9jarpl74ikfzx">View 2016 Materials</a></p>
-			<p><a href="https://pspwa.box.com/s/3fc8pyrlzpwzitsf4gc4hwss8dj5n2zf">View 2015 Materials</a></p>
-			<p><a href="https://pspwa.box.com/s/e9rn1ckyd5u1ljol5he0t6obmjxlj35w">View 2014 materials</a></p>
-			<p><a href="https://pspwa.box.com/s/i36bxnm4gogzeaye44345erld870ny5y">View 2013 materials</a> </p>
-			<p><a href="https://pspwa.box.com/s/m1ixjryou2m4la3j1sdocfj9umcsws41">View 2012 materials</a></p>
+			<p>The Puget Sound Partnership is developing a strategic science program to support the science-based recovery of the Puget Sound ecosystem by 2020. </p>
+			<h2>STATE OF THE SOUND</h2>
+			<p>The Partnership is required to produce a State of the Sound report every two years. The statutory reporting requirements are to document the current status of the ecosystem, as well as status of implementation and funding. This information can be used to inform decisions about changes to funding, programs, or policies that might accelerate the regional progress towards ecosystem recovery, including more efficient use of resources. LEARN MORE</p>
+			<p>Additional information about science programs and activities are available from our page on science resources.</p>
 			<!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">CONTACT</div>
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p class="right-nav-contact">For questions about Goverment Relations:<br />
-					<br>
-					<strong>Jeff Parsons</strong>, <br>
-					Legislative Policy Director,<br>
-					<a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a><br>
-					360.999.3803<br>
-					<br>
-					<strong>Cathy Cochrane</strong>, <br>
-					Communication Lead,<br>
-					<a href="mailto:jeff.parsons@psp.wa.gov">catherine.cochrane@psp.wa.gov</a><br>
-					360.790.7958 </p>
+				<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
+				<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
+				<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
+				<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
+				<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
+				<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
@@ -146,5 +123,4 @@ JAN 22 – 26, 2018</a><br>
 
 </script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

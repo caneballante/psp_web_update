@@ -188,17 +188,12 @@
 						<td>Lead/Co-Lead/Supporting Agency</td>
 					</tr>
 					<tr>
-						<td> Emily Sanford, <br>
-							emily.sanford@doh.wa.gov</td>
+						<td> Clara Hard<br>
+							clara.hard@doh.wa.gov</td>
 						<td>Health</td>
 						<td>Lead</td>
 					</tr>
 			
-					<tr>
-						<td>Ginny Prest</td>
-						<td>Agriculture</td>
-						<td>Supporting</td>
-					</tr>
 				</tbody>
 			</table>
 			<p><a href="https://pspwa.box.com/s/gvjqtfbw0c4sjaz1y7ho2aet41ui0nt3">Shellfish SIAT Roster</a></p>
