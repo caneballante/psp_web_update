@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -42,18 +41,18 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
 		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
 	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
 </div>
 <!-- InstanceEndEditable -->
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
@@ -61,7 +60,8 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
@@ -71,6 +71,7 @@
 				</ul>
 			</div>
 		</div>
+		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Puget Sound Partnership works closely with partners to develop a dependable and diverse funding strategy that will support Puget Sound recovery today and into the coming decades. Federal, state, local, and tribal governments currently provide much of the funding for Puget Sound recovery actions. Those investments are enhanced by contributions from non-profit, philanthropic, corporate, and market-based funding. Examples of existing federal and state funding programs include:</p>
 			<ul>
@@ -92,6 +93,7 @@
 			<p>The funding currently available from various sources is insufficient to fund the full costs of recovery efforts included in the Action Agenda. Developing strategies to accomplish funding goals has been an emphasis of the Ecosystem Coordination Board’s Finance Subcommittee, which in 2014 identified an annual funding gap of between $295 and $661 million for actions associated with stormwater, habitat, and shellfish. We can increase our achievements by dedicating additional funding sources, increasing the efficiency and effectiveness of existing sources, and developing innovative, market-based programs.</p>
 			<p><a href="https://pspwa.box.com/shared/static/ze48ycr040cwwbuhndr0ce0b9ggxib1b.pdf">LEARN MORE IN THE COMPREHENSIVE PLAN, CHAPTER 5 (PDF)</a></p>
 			<!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">MORE INFORMATION</div>
 			<!-- InstanceEndEditable -->
@@ -127,5 +129,4 @@
 
 </script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

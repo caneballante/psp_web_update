@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -41,10 +40,10 @@
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
-<!-- InstanceBeginEditable name="overviewphoto" -->
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image4"> </header>
-<!-- InstanceEndEditable -->
-<div class="container page-content padding-50-bottom">
+<!-- InstanceEndEditable -->  
+<div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
@@ -53,7 +52,8 @@
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
-	<div class="row">
+	
+	<div class="row"> 
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
@@ -63,6 +63,7 @@
 				</ul>
 			</div>
 		</div>
+		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Leadership Council is the governing body of the Puget Sound Partnership. Its seven members are leading citizens chosen from around the Sound and appointed by the governor to serve four-year terms. Jay Manning serves as Chair.<br>
 			</p>
@@ -92,6 +93,7 @@
 			<p><strong>Term: </strong>Four-year term, ends June 25, 2017<br />
 				<strong>Biography:</strong> Jim Wilcox was born in Tacoma, Wash., and grew up, lived, and worked at the family farm near Roy on the Nisqually River all his life. Jim attended Yelm High School and graduated from University of Puget Sound with a B.A. in History. He focused on a career in the dairy division of Wilcox Farms until that division was sold in 2008. He is the former chairman of the Wilcox Farms board of directors, and is retired from day-to-day management. Before his retirement, Jim supported the effort to get Wilcox Farms certified as salmon safe and helped convert much of the farm to organic practices to protect the Nisqually River. In the early 1980s, Jim served on the Nisqually River Task Force, which created the Nisqually River Council, now one of the oldest watershed councils west of the Mississippi. He also served as a board member and president of Greater Lakes Mental Health; was a volunteer fireman for 30 years; has been a participant, board member, and president of the Washington Agriculture and Forestry Leadership Foundation; and has served on many trade groups and industry councils. Jim currently serves on the boards of the Nisqually River Foundation and the Washington Food Industry Scholarship Foundation, and is a council member with the Alliance for a Healthy South Sound.  When not working, Jim enjoys Puget Sound&rsquo;s many outdoor bounties, including skiing in the winter and sailing on the Salish Sea in the summer. </p>
 			<!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">BOARD CONTACT</div>
 			<!-- InstanceEndEditable -->
@@ -132,5 +134,4 @@
 
 </script>
 </body>
-<!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>

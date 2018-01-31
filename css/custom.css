@@ -209,6 +209,9 @@ p {
 .padding-20-right {
 	padding-right: 20px;
 }
+.padding-40-right {
+	padding-right: 40px;
+}
 /*padding bottom*/
 .padding-5-bottom {
 	padding-bottom: 5px;
@@ -307,7 +310,10 @@ p {
 	margin: 30px;
 }
 .margin-40-all {
-	margin: 30px;
+	margin: 40px;
+}
+.margin-40-right {
+	margin-right: 40px;
 }
 .line-height-tight {
 	line-height: 10px;
@@ -897,13 +903,15 @@ intro .brand-heading {
 	overflow: hidden;
 	padding-bottom: 100%;
 }
-
-
-
 .iframe-actionagenda iframe{
 	position: absolute;
   top:0;
   left: 0;
   width: 100%;
   height: 100%;
+}
+.sidebarbox {
+	float: right;
+	width: 30%;
+	border: solid 1px #288A1F;
 }

@@ -10,6 +10,7 @@
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
+<link href="css/custom-erika.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -29,13 +30,12 @@
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion3" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion9" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -50,9 +50,9 @@
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
-		<div class="col-sm-7 padding-20-top padding-0-left"><!-- InstanceBeginEditable name="EditRegion12" -->
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>NEAR TERM ACTION SUBMITTALS</h1>
-		<!-- InstanceEndEditable --></div>
+			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -67,7 +67,7 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
+		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<p>Preregistration of Near Term Action (NTA) Fact Sheets for the 2018–2022 Action Agenda is now complete. </p>
 			
 			<p>To be considered for adoption into the 2018–2022 Action Agenda, NTAs must have been preregistered by December 22, 2017. Final NTA Fact Sheets must be submitted by March 30, 2018, via the <a href="http://www.psp.wa.gov/gis/NTATool/NTASubmission.html">online Fact Sheet tool</a>.  </p>

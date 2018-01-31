@@ -47,7 +47,7 @@
 	</div>
 </header>
 <!-- InstanceEndEditable -->  
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
@@ -73,12 +73,12 @@
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
 			<div class="highlightbox margin-0-top">
 				<p><strong>Dear Partner in Puget Sound Recovery,</strong></p>
-			<p>Preregistration for Near Term Actions (NTA) to be included in the 2018–2022 Action Agenda is now closed.  <strong>More than 800 NTA preregistrations were received by the December 22 deadline!</strong> Thank you to everyone who preregistered, and for your continued support for Puget Sound recovery. <strong></strong><br>
+				<p>Preregistration for Near Term Actions (NTA) to be included in the 2018–2022 Action Agenda is now closed.  <strong>More than 800 NTA preregistrations were received by the December 22 deadline!</strong> Thank you to everyone who preregistered, and for your continued support for Puget Sound recovery. <strong></strong><br>
 				Information about the preregistered NTAs is now publically available on the Partnership&rsquo;s website through a <a href="http://www.psp.wa.gov/2018_AA_preregistrations.php">searchable database, downloadable spreadsheet</a>, and <a href="http://www.psp.wa.gov/2018_AA_preregistration_map.php">online map</a>. A diversity of organizations preregistered NTAs, including federal, state, local, and tribal government agencies; non-governmental organizations; academic institutions; foundations; and private businesses. Most of the Regional Priorities outlined in <a href="http://www.psp.wa.gov/2018_AA_solicitation_for_NTAs.php">the NTA Solicitation</a> are represented in the NTAs, as are all regions of Puget Sound. <br>
 				Now that preregistration is complete, NTA managers should be working on completing NTA Fact Sheets, which are due no later than March 30, 2018. Use the online Fact Sheet tool to make sure all required information is included in the final submission.  In addition, please refer to <a href="http://www.psp.wa.gov/2018_AA_solicitation_for_NTAs.php">the Solicitation</a> for specific deadlines related to the review processes of Local Integrating Organizations (LIOs). Those NTAs proposed for implementation in one or two LIO geographies must be reviewed by the applicable LIOs. The deadline for submitting a complete draft of the NTA Fact Sheet to LIOs is February 6, 2018. <br>
 				All information in the online NTA Fact Sheet tool is considered draft until the March 30, 2018 deadline. Draft and final Fact Sheets are viewable by the Partnership, LIO coordinators and Strategic Initiative Leads.<br>
 				NTA Fact Sheets will be considered final <em>once the submission process is complete, no later than </em><strong>the March 30, 2018 </strong>deadline. The NTA manager may continue to edit and modify the NTA Fact Sheet until the deadline, but it cannot be changed after that. <br>
-	<strong>Questions?</strong><br>
+				<strong>Questions?</strong><br>
 				If you require accommodations to access any material, or if you have questions about submitting an NTA Fact Sheet, please contact Jennifer Pouliotte by email at <a href="mailto:jennifer.pouliotte@psp.wa.gov">action.agenda@psp.wa.gov</a> or by phone at 360-522-0545.  <br>
 				If you have questions about the Regional Priorities outlined in the NTA Solicitation, or about the LIO review process, please see the contacts section on pages 24-25 of <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">the NTA Solicitation</a>.  <br>
 				View <a href="https://pspwa.box.com/s/z4tvz9ttze71o0fua4at1ov0ucvjp0wz">Frequently Asked Questions</a> on the Partnership&rsquo;s website. </p>

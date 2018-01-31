@@ -47,7 +47,7 @@
 	</div>
 </header>
 <!-- InstanceEndEditable -->  
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
 			<h1>emerging issues in puget sound</h1>
@@ -56,7 +56,7 @@
 	</div>
 	
 	<div class="row">  
-		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
+		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 		<!--TOPIC STARTS HERE -->	
  
 			<h2>THE HIRST DECISION</h2>

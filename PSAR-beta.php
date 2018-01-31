@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Social Strategies</title>
+<title>Puget Sound Partnership - PSAR Fund</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -37,17 +37,17 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image15">
-
+<header class="overview-page-image-style overview-page-image7">
+	<div class="overview-quote pull-right">
+		<h3>Investing in habitat restoration to bring back Puget Sound’s dynamic natural systems – for salmon, people, and community</h3>
+	</div>
 </header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SOCIAL  STRATEGIES</h1>
-			<h1><br>
-			</h1>
+			<h1>PUGET SOUND ACQUISITION AND RESTORATION (PSAR) FUND</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -58,36 +58,33 @@
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
 				
-				<li role="presentation"><a href="social-strategies-overview.php">SOCIAL STRATEGIES</a></li>
+				<li class="active" role="presentation"> <a href="PSAR.php">Puget Sound Recovery and Acquisition Fund (PSAR)</a></li>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		
-	<p>	Many of our common, everyday behaviors and practices seem benign on their own, but when multiplied by 4.5 million residents the cumulative effects are harmful to Puget Sound. Reversing the trend by fostering beneficial behaviors and reducing damaging behaviors—stewardship, in other words—is a key step recovering Puget Sound.</p> 
-
-<p>From 2010 through June 2015, the U.S. Environmental Protection Agency provided $6 million in Puget Sound National Estuary Program funds to the Puget Sound Partnership to support regionwide programs in stewardship and education. The Partnership’s Stewardship and Outreach Program distributed these funds through more than 168 contracts to local and regional projects that aligned with the Puget Sound Action Agenda. </p>
-
-<p>The Stewardship and Outreach Program focused on a three-part model:</p>
-<ul><li>Issue awareness and understanding</li>
-<li>Changing practices and behaviors </li>
-<li>Social and institutional infrastructure</li></ul>
-
-<p>Program staff worked with a coalition of hundreds of organizations to ensure that the grants increased capacity, advanced public education and involvement priorities, and created and supported behavior change programs across the Puget Sound Region. The coalition also established shared measurements with which to evaluate stewardship and outreach programs. </p>
-
-<p>Although the EPA funding has expired, the social science theories that formed the grant program continue to guide our efforts in developing social strategies for inclusion in the Action Agenda.</p>
-<!-- InstanceEndEditable --> </div>
+			<div class="highlightbox margin-0-top">
+				<p class="padding-10-all">ANNOUNCEMENT 1/31/2018 <br> 2018 PSAR large cap request for proposals released. <a href="https://pspwa.box.com/v/2018PSAR">Click here to view materials</a></p>
+			
+			</div>
+			<div class="sidebarbox">Test content test content </div>
+			<p class="margin-20-top">The Puget Sound Acquisition and Restoration (PSAR) fund supports projects that recover salmon and protect and recover salmon habitat in Puget Sound. The state legislature appropriates money for PSAR every 2 years in the Capital Budget. PSAR is co-managed by the Puget Sound Partnership and the Recreation and Conservation Office. Local entities identify and propose PSAR projects. The Salmon Recovery Funding Board prioritizes projects for funding.</p>
+	<div class='tableauPlaceholder' id='viz1515716811990' style='position: relative'><noscript><a href='http:&#47;&#47;www.psp.wa.gov&#47;gis&#47;PSAR&#47;PSAR'><img alt='Puget Sound Acquisition &amp; Restoration Fund ' src='http:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PS&#47;PSARtest&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PSARtest&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='http:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PS&#47;PSARtest&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1515716811990');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*1.77)+'px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title">RELATED DOCUMENTS</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="evaluating-public-opinion.php">Public Opinion Research</a></li>
-					<li class="active" role="presentation"> <a href="econet.php">ECO Net</a></li>
-						<!-- InstanceEndEditable -->
+				<li role="presentation"><a href="https://pspwa.box.com/s/q5wmppvzecgq51llexwmk64jzcfs1uy3">Puget Sound Acquisition and Restoration (PSAR) Benefiting People and the Environment (fact sheet)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/t5rcb4va7ozzhjhetgorffdf7alonshg">Puget Sound Acquisition and Restoration (PSAR) Ranked Project List and Map</a></li>
+					
+			
+				
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>

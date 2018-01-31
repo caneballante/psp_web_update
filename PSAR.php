@@ -29,8 +29,8 @@
 <!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
@@ -43,12 +43,11 @@
 	</div>
 </header>
 <!-- InstanceEndEditable -->  
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>PSAR FUND</h1>
-			<p>&nbsp;</p>
+			<h1>PUGET SOUND ACQUISITION AND RESTORATION (PSAR) FUND</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -58,51 +57,23 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="funding-programs.php">Puget Sound Funding Programs</a></li>
-				<li class="active" role="presentation"> <a href="PSAR.php">Puget Sound Recovery and Acquisition Fund (PSAR)</a></li>
+				
+				<li class="active" role="presentation"> <a href="PSAR.php">PUGET SOUND ACQUISITION AND RESTORATION OVERVIEW</a></li>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Puget Sound Acquisition and Restoration program was created in 2007 to help implement the most important habitat protection and restoration priorities for Puget Sound. Funding is appropriated by the Legislature through the Salmon Recovery Funding Board. The Puget Sound Partnership works with local entities to identify and prioritize projects. This funding is critical to advancing the most effective projects throughout our region.</p>
-			<h2>Why is PSAR an effective investment?</h2>
-			<p><strong>PSAR-funded projects restore critical habitat and salmon populations to Puget Sound. </strong> Because the projects are thoroughly reviewed, their benefit to improved salmon habitat in Puget Sound is significant. Since 2007, when PSAR fund was initiated, <strong>more than 300</strong> critical habitat projects have been completed. PSAR projects are developed with the input and review of scientists and environmental planners, who use <strong>monitoring data</strong> collected from key habitat indicators to inform project selection and completion.</p>
-			<ul>
-				<li><strong>PSAR-funded projects benefit local communities. The projects:</strong></li>
-				<ul>
-					<li>Are <strong>locally vetted</strong> and locally supported</li>
-					<li>Are <strong>endorsed</strong> by citizens, cities, counties, tribes, non-profit organizations, and government agencies</li>
-					<li>Evolve from <strong>hours of volunteer effort</strong> in planning and labor</li>
-					<li>Produce <strong>significant community pride</strong>—and investment—in habitat restoration</li>
-					<li>Generate <strong>local jobs</strong></li>
-					<li>Improve <strong>public access</strong> to Puget Sound</li>
-					<li><strong>Reduce the risk of floods</strong> and damage to private property</li>
-				</ul>
-			</ul>
-			<ul>
-				<li><strong>PSAR projects make efficient use of public money. </strong></li>
-			</ul>
-			<p>Every $1 million invested in PSAR projects means at least 17 jobs and over $3 million in economic activity. For the 2013-15 biennium, PSAR projects produced 845 jobs.PSAR projects completed in the 2013-15 biennium restored and protected: 1,289 estuary and nearshore acres, 770 floodplain acres, and 14 river and stream miles.</p>
-			<p>To be eligible for funding, proposed projects must first advance through a series of <strong>rigorous, science-driven reviews</strong>. The reviews occur at the local and regional level and ensure that all PSAR projects align with the <strong>Puget Sound Salmon Recovery Plan</strong>, as well as with the Puget Sound Partnership&rsquo;s ecosystem recovery targets, listed in the <strong>Action Agenda</strong>.<br />
-			</p>
-			<p><em>Staff with the Puget Sound Partnership manage the PSAR grant fund program; PSAR funds are administered through the Washington State Recreation and Conservation Office. For more information about the funding process, or to apply for a PSAR grant, go to <a href="http://www.rco.wa.gov/grants/salmon.shtml">http://www.rco.wa.gov/grants/salmon.shtml</a></em><br />
-			</p>
-			<p><img src="images/RCO.jpg" width="200" height="52" alt=""/></p>
+		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
+				<div class="highlightbox margin-0-top">
+				<p class="padding-10-all">ANNOUNCEMENT 1/31/2018 <br> 2018 PSAR large cap request for proposals released. <a href="https://pspwa.box.com/v/2018PSAR">Click here to view materials</a></p>
+			
+			</div>
+			<p class="margin-20-top">The Puget Sound Acquisition and Restoration (PSAR) fund supports projects that recover salmon and protect and recover salmon habitat in Puget Sound. The state legislature appropriates money for PSAR every 2 years in the Capital Budget. PSAR is co-managed by the Puget Sound Partnership and the Recreation and Conservation Office. Local entities identify and propose PSAR projects. The Salmon Recovery Funding Board prioritizes projects for funding.</p>
+	<div class='tableauPlaceholder' id='viz1517430460664' style='position: relative'><noscript><a href='http:&#47;&#47;www.psp.wa.gov&#47;PSAR.php'><img alt='Puget Sound Acquisition &amp; Restoration Fund ' src='http:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;2R&#47;2RSXBHGW7&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;2RSXBHGW7' /> <param name='toolbar' value='yes' /><param name='static_image' value='http:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;2R&#47;2RSXBHGW7&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='tabs' value='no' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1517430460664');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*1.77)+'px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title">RELATED DOCUMENTS</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="https://pspwa.box.com/s/q5wmppvzecgq51llexwmk64jzcfs1uy3">Puget Sound Acquisition and Restoration (PSAR) Benefiting People and the Environment (fact sheet)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/t5rcb4va7ozzhjhetgorffdf7alonshg">Puget Sound Acquisition and Restoration (PSAR) Ranked Project List and Map</a></li>
-				
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

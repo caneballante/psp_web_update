@@ -41,7 +41,7 @@
 	
 </header>
 <!-- InstanceEndEditable -->  
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
 
@@ -52,7 +52,7 @@
 	</div>
 	
 	<div class="row">  
-		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
+		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 				<p class="text">Thank you for visiting Puget Sound Partnership ( the Partnerhship) and reviewing our Privacy Notice. This notice addresses the collection, use and security of and access to information that may be obtained through use of this Web site. This notice covers the following topics:</p>
         		<ul type="disc">
         				<ul type="circle">

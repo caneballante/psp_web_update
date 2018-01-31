@@ -10,6 +10,7 @@
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
+<link href="css/custom-erika.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -29,13 +30,12 @@
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion3" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion9" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -50,9 +50,9 @@
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
-		<div class="col-sm-7 padding-20-top padding-0-left"><!-- InstanceBeginEditable name="EditRegion12" -->
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>NEAR TERM ACTION PREREGISTRATIONS</h1>
-		<!-- InstanceEndEditable --></div>
+			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -67,7 +67,7 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
+		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<p>Preregistration for Near Term Actions (NTAs) for the 2018–2022 Action Agenda is now complete.  The Partnership received 804 NTA preregistrations from a diversity of organizations, including federal, state, local, and tribal government agencies; non-governmental organizations; academic institutions; foundations; and private businesses. Preregistered NTAs address most of the Regional Priorities outlined in the NTA solicitation, and represent all regions of Puget Sound.</p>
 			<p><a href="https://pspwa.box.com/s/3kprdekaqfb4qwfc50m9b47586yhezo0"><strong>Access the </strong>Excel™ <strong>spreadsheet of all preregistered NTAs</strong></a><strong>.</strong></p>
 			<p>The preregistration spreadsheet displays the content of all the preregistered NTAs, including project descriptions, geographies, and contact information. The spreadsheet does not reflect edits or changes that may have been made after preregistration. </p>

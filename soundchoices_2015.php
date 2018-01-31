@@ -39,7 +39,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image18"> </header>
 <!-- InstanceEndEditable -->  
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
 			<h1>SOUND CHOICES - 2015</h1>
@@ -48,7 +48,7 @@
 	</div>
 	
 	<div class="row">  
-		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
+		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<h2>Local Government Decisions and the health of puget sound</h2>
 			<p>How do the everyday decisions of local governments impact water quality, habitat, and the health of Puget Sound? With a focus on stormwater, land use and routine government operations, local officials will confidently be able to answer the question:</p>
 			<p>“As an elected official, what should I consider in my everyday decisions to advance recovery of the Sound?” </p>

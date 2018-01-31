@@ -51,7 +51,7 @@
 	<div class="col-sm-12 orange"></div>
 </div>
 <!-- TemplateEndEditable --><!-- TemplateEndIf -->
-<div class="container page-content padding-50-bottom"><!-- TemplateBeginIf cond="OptionalRegion3" -->
+<div class="container-fluid page-content padding-50-bottom"><!-- TemplateBeginIf cond="OptionalRegion3" -->
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- TemplateBeginEditable name="6col_header" -->
@@ -90,7 +90,7 @@
 			<p>Additional information about science programs and activities are available from our page on science resources.</p>
 			<!-- TemplateEndEditable --> </div>
 		<!-- TemplateEndIf --><!-- TemplateBeginIf cond="OptionalRegion7" -->
-		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left"> <!-- TemplateBeginEditable name="9col_content" -->
+		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- TemplateBeginEditable name="9col_content" -->
 			<p>The Puget Sound Partnership is developing a strategic science program to support the science-based recovery of the Puget Sound ecosystem by 2020. </p>
 			<h2>STATE OF THE SOUND</h2>
 			<p>The Partnership is required to produce a State of the Sound report every two yeauo funding, programs, or policies that might accelerate the regional progress towards ecosystem recovery, including more efficient use of resources. LEARN MORE</p>

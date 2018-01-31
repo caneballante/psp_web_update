@@ -53,7 +53,7 @@
 <!-- END IMAGE HEADER --> 
 <!-- START MAIN CONTENT CONTAINER --> 
 
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->

@@ -43,7 +43,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image32"> </header>
 <!-- InstanceEndEditable -->  
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
@@ -106,7 +106,7 @@ A results-based approach to managing Puget Sound recovery</h1>
 				
 				<!-- InstanceEndEditable -->
 			</ul>
-		<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
