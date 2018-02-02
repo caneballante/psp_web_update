@@ -312,9 +312,19 @@ p {
 .margin-40-all {
 	margin: 40px;
 }
-.margin-40-right {
-	margin-right: 40px;
+.margin-0-bottom {
+	margin-bottom: 0px;
 }
+.margin-10-bottom {
+	margin-bottom: 10px;
+}
+.margin-20-bottom {
+	margin-bottom: 20px;
+}
+.margin-30-bottom {
+	margin-bottom: 30px;
+}
+
 .line-height-tight {
 	line-height: 10px;
 }
@@ -443,7 +453,7 @@ p {
 /*Highlight a piece of content in a blue box!*/
 .highlightbox {
 	background-color: rgba(227,237,249,1.00);
-	border-radius: 1px 30px 1px 30px;
+	border-radius: 1px 30px 1px 1px;
 	padding: 10px;
 }
 .highlightbox h2 {
@@ -912,6 +922,6 @@ intro .brand-heading {
 }
 .sidebarbox {
 	float: right;
-	width: 30%;
-	border: solid 1px #288A1F;
+	width: 45%;
+	//border: solid 1px #288A1F;
 }

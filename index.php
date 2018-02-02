@@ -91,8 +91,8 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt=""/>2018 LEGISLATIVE CALENDAR<br>
 						
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d5edaa">WEEK 4 
-JAN 29 – FEB 2, 2018</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d7b1b1">WEEK 5 
+FEB 5– FEB 9 2018</a><br>
 						
 						
 						<!--END news content BOX--> 
@@ -142,11 +142,6 @@ JAN 29 – FEB 2, 2018</a><br>
 				
 			</div>
 			<!--COLUMN END--> 
-				
-				
-			
-		
-		
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -155,47 +150,6 @@ JAN 29 – FEB 2, 2018</a><br>
 						<img class="img-responsive img-rounded" src="images/news-images/innovation-stories.jpg"  alt=""/> 
 						</strong>PUGET SOUND INNOVATION STORIES<br>
 						<a href="https://pugetsoundinnovationstories.blog/">LEARN ABOUT THE PEOPLE AND PROJECTS SAVING THE SOUND</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END-->
-
-	
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					
-						</strong>EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1886883/ecosystem-recovery-coordinator-exempt">ECOSYSTEM RECOVERY COORDINATOR</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END-->
-	<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					
-						</strong>EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1903599/monitoring-lead-exempt">MONITORING LEAD</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					
-						</strong>EMPLOYMENT<br>
-						<a href="https://www.governmentjobs.com/careers/washington/jobs/1942459/environmental-planner-4-project">ENVIRONMENTAL PLANNER 4</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
