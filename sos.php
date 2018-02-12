@@ -127,7 +127,7 @@
 	<li><a href="https://pspwa.box.com/s/5u2jawn8129lpy5nckz0gmhcbeu3rm9o">2017 State of the Sound Executive Summary and Next Steps</a></li>
 	<li><a href="https://pspwa.box.com/s/itv1vn99ssosatz5vg8ql50mx0icfi2c">Vital Sign status overview</a></li>
 	<li><a href="https://pspwa.box.com/s/1qrwymghgg8tx6lloluljvgura9nw2ca">Shorelines Recovery Story </a></li>
-	<li><a href="https://pspwa.box.com/s/16jyv0ksrwqzqzolsokna5kui6a32kvlI">Shellfish Recovery Story</a></li>
+	<li><a href="https://pspwa.box.com/s/16jyv0ksrwqzqzolsokna5kui6a32kvl">Shellfish Recovery Story</a></li>
 	<li><a href="https://pspwa.box.com/s/dqfhkr8jxjpor1p77f9g1vvq1qmk009m">Floodplains Recovery Story</a></li>
 	<li><a href="https://pspwa.box.com/s/ko7ddqqxyyye3zl9kpk915sdt9jwq3by">Stormwater Recovery Story</a></li>
 </ul>

@@ -60,13 +60,7 @@
 				
 					<li class="active" role="presentation"> <a href="PSAR.php">Puget Sound Recovery and Acquisition Fund</a></li>
 					
-				</ul>
-			</div>
-			<br><br><br>
-			<div class="right-nav-title margin-0-top align-right padding-10-right">SEE ALSO</div>
-			<div>
-				<ul>
-					<li class="align-right padding-10-right">test </li>
+		
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -90,20 +84,7 @@
 	<div class='tableauPlaceholder' id='viz1515716811990' style='position: relative'><noscript><a href='http:&#47;&#47;www.psp.wa.gov&#47;gis&#47;PSAR&#47;PSAR'><img alt='Puget Sound Acquisition &amp; Restoration Fund ' src='http:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PS&#47;PSARtest&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PSARtest&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='http:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PS&#47;PSARtest&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1515716811990');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*1.77)+'px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="#">SCIENCE BASIS OF RECOVERY</a></li>
-				<li role="presentation"> <a href="#">STRATEGIC SCIENCE PLAN</a></li>
-				<li role="presentation"> <a href="#">SCIENCE WORKPLAN</a></li>
-				<li role="presentation"> <a href="#">ADAPTIVE MANAGEMENT WORKPLAN</a></li>
-				<li role="presentation"> <a href="#">PUGET SOUND PRESSURE ASSESSMENT</a></li>
-				<li role="presentation"> <a href="#">PUGET SOUND SCIENCE UPDATES</a></li>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

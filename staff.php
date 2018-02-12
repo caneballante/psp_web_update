@@ -291,6 +291,7 @@
 		
 			<h5>Erin Murray</h5>
 			<p> Ecosystem Recovery Coordinator <br/>
+				<em>Skagit/Samish, Snohomish/Stillaguamish LEs and LIO</em>
 				360.742.7434 | <a href="mailto:erin.murray@psp.wa.gov">erin.murray@psp.wa.gov</a>
 			</p>
 

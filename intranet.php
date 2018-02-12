@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - 2018-2022 Action Agenda NTA preregistrations</title>
+<title>Puget Sound Partnership Action Agenda - How do we know it's working?</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,33 +25,37 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 6;
+  	 	navSelected = 1;
+	subNavSelected = 5;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion3" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion4" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image104">
+<header class="overview-page-image-style_sm overview-page-image99_sm">
 	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-sm-3 padding-20-top"></div>
-		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>NEAR TERM ACTION PREREGISTRATIONS</h1>
+		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
+			<h1>INTRANET</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -61,49 +65,16 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-2018-AA.html';?>
-				<!-- InstanceEndEditable -->
+					
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-			<p>Preregistration for Near Term Actions (NTAs) for the 2018–2022 Action Agenda is now complete.  The Partnership received 804 NTA preregistrations from a diversity of organizations, including federal, state, local, and tribal government agencies; non-governmental organizations; academic institutions; foundations; and private businesses. Preregistered NTAs address most of the Regional Priorities outlined in the NTA solicitation, and represent all regions of Puget Sound.</p>
-			<p><a href="https://pspwa.box.com/s/3kprdekaqfb4qwfc50m9b47586yhezo0"><strong>Access the Excel™ spreadsheet of all preregistered NTAs (updated 1.23.2018 – fixed truncated long text fields)</strong></a></p>
-			<p>The preregistration spreadsheet displays the content of all the preregistered NTAs, including project descriptions, geographies, and contact information. The spreadsheet does not reflect edits or changes that may have been made after preregistration. </p>
-			<p>The preregistered NTAs are searchable by Vital Sign, Regional Priority, Local Integrating Organization area by using the search fields, as noted below. <br>
-				<a href="2018_AA_preregistration_map.php">A map of preregistered NTAs is also available on our website.</a></p>
-			
-
-			<!-- Nav tabs -->
-<ul class="nav nav-tabs" role="tablist">
-  <li class="active"><a href="#full-list" role="tab" data-toggle="tab">Full list of preregistered NTAs</a></li>
-  <li><a href="#profile" role="tab" data-toggle="tab">Search list by Vital Signs and Regional Priorities</a></li>
-  <li><a href="#messages" role="tab" data-toggle="tab">Search list by Local Areas/LIOs</a></li>
-  
-</ul>
-
-<!-- Tab panes -->
-<div class="tab-content">
-	 <!--tab 1 -->
-  <div class="tab-pane active  iframe-actionagenda" id="full-list">	
-	<iframe src="/includes/caspio-iframe-1.html" style="border:none;" width="100%" height="100% "allowfullscreen></iframe></div>
-  <!--tab 2 -->
-	
-
-	<div class="tab-pane iframe-actionagenda" id="profile">
-		<iframe src="/includes/caspio-iframe-2.html" style="border:none;" width="100%" height="100% "allowfullscreen></iframe>
-	</div>
-  <!--tab 3 -->
-	<div class="tab-pane iframe-actionagenda" id="messages">
-	<iframe src="/includes/caspio-iframe-3.html" style="border:none;" width="100%" height="100% "allowfullscreen></iframe>
-	</div>
-
-</div>
-			
-			
-		
-		<!-- InstanceEndEditable --> </div>
+			<h2>Box Links</h2>
+			<p>&nbsp;</p>
+			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>

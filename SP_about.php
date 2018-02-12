@@ -85,6 +85,7 @@
 		<!--START MEMBER-->
 		<p><strong>Nick Bond</strong><br />
 		 <strong>Term: </strong>4 years 11/10/21<br />
+			Dr. Robert E. Bilby has conducted research on stream ecosystems, salmon and the effects of forestry on both since 1975.  He currently is the Senior Science Advisor for Weyerhaeuser Company and is responsible for coordinating environmental research on company forest lands and developing collaborative programs with federal, academic and ENGO research organizations.  Prior to assuming his current position, Bilby managed the Western Environmental Forestry Research Program for Weyerhaeuser and in the late 1990s managed the Watershed Processes Program at NOAA’s Northwest Fisheries Science Center in Seattle.  He is an affiliate professor in the University of Washington’s College of the Environment.  Bilby’s research has included investigation of the role of large wood in streams and the impact of forest management on this material, response of stream trophic systems to disturbances, relationships between habitat characteristics and salmon productivity and the contribution that spawning salmon make to the nutrient capital and productivity of streams.  He received a B.S. in zoology from the University of Rhode Island and a Ph.D. in aquatic ecology from Cornell University.
 		</p>
 		<!--END MEMBER-->	
 		<!--START MEMBER-->

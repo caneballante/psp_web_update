@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Government Relations</title>
+<title>Puget Sound Partnership - PSAR Fund</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -23,27 +23,23 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-<script>
-/*this  variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
-</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image14">
+<header class="overview-page-image-style overview-page-image7">
 	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
+		<h3>Investing in habitat restoration to bring back Puget Sound’s dynamic natural systems – for salmon, people, and community</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  
@@ -51,8 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>LEGISLATIVE UPDATES</h1>
-			<p>&nbsp;</p>
+			<h1>PUGET SOUND ACQUISITION AND RESTORATION (PSAR) FUND</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -62,69 +57,36 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/ln-gov.html';?>
-					<!-- InstanceEndEditable -->
+				
+				<li class="active" role="presentation"> <a href="PSAR.php">PSAR OVERVIEW</a></li>
+				<li class="active" role="presentation"> <a href="PSAR-resources.php">PSAR RESOURCES</a></li>
+				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 		
+			<p class="margin-20-top"><strong>2018 PSAR LARGE CAP REQUEST FOR PROPOSALS</strong></p>
+			<p class=""><a href="https://pspwa.box.com/v/2018PSAR">View materials</a></p>
 			
-				
-			
-				<h2 class="margin-0-top">2018 Legislative Updates</h2>
-			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d66b90">JANUARY 29th</a></p>
-			
-			
+			<p class="margin-20-top"><strong>PSAR PROJECT CLOSE-UP FACT SHEETS</strong></p>
+			<p class=""><a href="https://pspwa.box.com/s/lnestm5eu9qhftfgi3nmsh5ke3wxxhd1">Ala Spit restoration, Whidbey Island</a></p>
+			<p class=""><a href="https://pspwa.box.com/s/cfm1ffrc56w3pfbob5vh5t2ujhhdq22q">Deschutes watershed and Kennedy-Goldsborough watershed</a></p>
+			<p class=""><a href="https://pspwa.box.com/s/6swr9ogwf2gd2pedlhw85bahl1n57aq6">Fennel creek restoration and Calistoga seback levee</a></p>
+			<p class=""><a href="https://pspwa.box.com/s/kr5barpl3k6uecnkptbcesu07bek7bs1">Fir Island farm estuary restoration</a></p>
+			<p class=""><a href="https://pspwa.box.com/s/glxylvox0w5nx7lttaju097ag45vy6vr">Lyre river estuary and Nelson creek protection</a></p>
+			<p class=""><a href="https://pspwa.box.com/s/z99ytzscgyhdh6smy7yix1i30fplo41y">McSorley creek</a></p>
+			<p class=""><a href="https://pspwa.box.com/s/fd1mi48zcqsgrl3ajuov60dhd6jv5l37">Milwaukee dock eelgrass restoration project</a></p>
+			<p class=""><a href="https://pspwa.box.com/s/filidznq5ybqcrqw5fhd764e1t3jxbvh">Qwuloolt estuary restoration project</a></p>
+			<p class=""><a href="https://pspwa.box.com/s/1rjoc2333p5z5h36ulm7o693t2a3neld">San Juan Islands Cascade creek</a></p>
+			<p class=""><a href="https://pspwa.box.com/s/ob22ncmooxzqeswojgpyl9r4acfff3je">West Bainbridge shoreline protection project</a></p>
+
+			<p class="margin-20-top"><strong>INNOVATION RECOVERY STORIES</strong></p>
+			<p>Organizations from across Washington State are coming together to stand up for Puget Sound protection and recovery.  The stories on this site are curated from partners and community members who are each investing in keeping this place great.<a href="https://pugetsoundinnovationstories.blog">VIEW BLOG</a></p>
+		<!-- InstanceEndEditable --> </div>
 		
-			<h2 class="margin-20-top">2018 Legislative Calendars </h2>
-			
-			
-			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d08868">WEEK 1 
-JAN 8 – 12, 2018</a><br><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d281f5">WEEK 2 
-JAN 15 – 19, 2018</a><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d43afb">WEEK 3 
-JAN 22 – 26, 2018</a><br>
-				<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d5edaa">WEEK 4 
-JAN 29 – FEB 2, 2018</a><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d7b1b1">WEEK 5 
-FEB 5– FEB 9 2018</a><br>
-			
-				<h2 class="margin-20-top">2018 Legislative Agenda</h2>
-			<p><a href="https://pspwa.box.com/s/eotk0itkj6v3zulbdki1n6urrfet7cjw">2018 Legislative Agenda</a></p>
-			<br>
-			
-			<h2>Legislative Updates and Calendar Archives</h2>
-			
-			
-			<p><a href="https://pspwa.box.com/s/nf1s6fv3pikty2elkk9nxobhz0jj3gha">View 2017 Materials</a></p>
-			<p><a href="https://pspwa.box.com/s/j3mzkwul1l0txf9idjp9jarpl74ikfzx">View 2016 Materials</a></p>
-			<p><a href="https://pspwa.box.com/s/3fc8pyrlzpwzitsf4gc4hwss8dj5n2zf">View 2015 Materials</a></p>
-			<p><a href="https://pspwa.box.com/s/e9rn1ckyd5u1ljol5he0t6obmjxlj35w">View 2014 materials</a></p>
-			<p><a href="https://pspwa.box.com/s/i36bxnm4gogzeaye44345erld870ny5y">View 2013 materials</a> </p>
-			<p><a href="https://pspwa.box.com/s/m1ixjryou2m4la3j1sdocfj9umcsws41">View 2012 materials</a></p>
-			<!-- InstanceEndEditable --> </div>
-		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">CONTACT</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p class="right-nav-contact">For questions about Goverment Relations:<br />
-					<br>
-					<strong>Jeff Parsons</strong>, <br>
-					Legislative Policy Director,<br>
-					<a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a><br>
-					360.999.3803<br>
-					<br>
-					<strong>Cathy Cochrane</strong>, <br>
-					Communication Lead,<br>
-					<a href="mailto:jeff.parsons@psp.wa.gov">catherine.cochrane@psp.wa.gov</a><br>
-					360.790.7958 </p>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
