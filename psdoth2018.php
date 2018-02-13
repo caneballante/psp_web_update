@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Science and Evaluation Overview</title>
+<title>Puget Sound Partnership - 2017 Puget Sound Day on the Hill</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -23,6 +23,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 1;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -31,39 +35,60 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image32"> </header>
-<!-- InstanceEndEditable -->  
+<header class="overview-page-image-style overview-page-image106"> </header>
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-40-left"> <!-- InstanceBeginEditable name="9col_header" -->
-			<h1>SCIENCE AND EVALUATION OVERVIEW</h1>
+				
+	<h1>2018 PUGET SOUND DAY ON THE HILL,<br>
+SAVE THE DATE!<br>
+MAY 3rd 2018
+	</h1>
+		
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row">  
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-			<h2 class="margin-0-top">EVALUATING RECOVERY </h2>
-			<p>Central to the science-based recovery of Puget Sound is the development and use of a shared system of measurement and evaluation that allows assessment of ecosystem health, implementation of recovery actions, and determination of how recovery efforts affect ecosystem conditions. The Puget Sound Partnership coordinates this assessment activity and summarizes findings in the State of the Sound report. Coordination and reporting help to hold us accountable to one another, convey the impacts of actions and investments, and provide the information that fuels adaptation of recovery efforts.</p>
-			<div class="padding-50-left"><h2>Evaluating the health of Puget Sound </h2>
-			<p>The Puget Sound Partnership’s goals for ecosystem recovery relate to human wellbeing, species and food webs, habitats, water quantity, and water quality.  </p>
-			<p><em>Are we achieving our goals?  What is occurring in the system that might affect our ability to achieve these goals? Are recovery efforts producing the expected changes in the ecosystem? </em></p> 
-			<p>Efforts to answer these questions and better understand the pressures and other factors that affect recovery are monitored by the Puget Sound Ecosystem Monitoring Program, which is coordinated by the Partnership. <a href="evaluating-health-of-puget-sound.php">Learn more</a></p>
-			<h2>Evaluating actions to recover Puget Sound </h2>
-			<p><em>Are actions being implemented as planned? Are requested funds provided for projects and activities? Do activities produce their expected products?</em> The Puget Sound Partnership has developed tools and assessment approaches to answer these questions. <a href="evaluating-actions-to-recover-puget-sound.php">Learn more</a></p>
-		<h2>2015 STATE OF THE SOUND</h2>
-			<p>Every 2 years, the Partnership develops reports on the State of the Sound to summarize the findings from ecosystem monitoring program and the progress in implementing the Action Agenda. See the 2015 State of the Sound. <a href="sos.php">Learn more </a></p></div>
-	<h2>SCIENCE BASIS OF RECOVERY</h2>
-			<p>Scientific information guides the region’s work to design and carry out efforts to recover the Puget Sound ecosystem. Scientific processes help us understand how to proceed in the face of profound uncertainties about how the ecosystem responds to stresses and management interventions. The Puget Sound Partnership Science Panel and science & evaluation program provide guidance about how to apply scientific information and processes to foster ecosystem recovery.<a href="science-basis-of-recovery-overview.php"> Learn more</a></p>
-		<!-- InstanceEndEditable --> </div>
+			
+ 
+			
+			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">2017 PUGET SOUND DAY ON THE HILL LINKS </div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+			
+			
+				<li role="presentation"> <a href="https://pspwa.box.com/s/e5jydxjf23owaft02whpkhu17igjbdrd">Governor Inslee letter of support for federal Puget Sound recovery investments</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/l8cbkwjx6c0uzhj7pdvljvdi56pqz8f4">Multi-state support for Pacific Coastal Salmon Recovery Fund</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/8vn21gf0do1bv25z6808tvdfni9e1nhp">Puget Sound fact sheet</a></li>
+				<li role="presentation"> <a href="https://pugetsoundinnovationstories.blog">Puget Sound innovation stories</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/cgy4fzfwmd40u5h2uj1r9608fr5fjbzx">Letter of support</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/yh5cyeks0ab35zp4f5lhmowdu4tcezsg">Participant list</a></li>
+								<li role="presentation"> <a href="https://pspwa.box.com/s/9fa0mjavl80b0nizhgkp2aahmo8eigh1">Puget Sound Day on the Hill Komo Interview with Sheida Sahandy</a></li>
+				
+				
+				
+			<!--	<li role="presentation"> <a href="#">KOMO radio interview with Sheida Sahandy</a></li>-->
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

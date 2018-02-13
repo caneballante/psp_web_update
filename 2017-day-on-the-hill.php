@@ -49,7 +49,7 @@
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
-		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
+		<div class="col-sm-10 padding-20-top padding-40-left"> <!-- InstanceBeginEditable name="9col_header" -->
 				
 	<h1>2017 PUGET SOUND DAY ON THE HILL, MAY 1-3</h1>
 		
