@@ -244,6 +244,9 @@ p {
 .padding-50-left {
 	padding-left: 50px;
 }
+.padding-60-left {
+	padding-left: 60px;
+}
 
 @media (max-width: 768px) {
 .mobile-padding-20-left {
@@ -299,6 +302,9 @@ p {
 }
 .margin-20-left {
 	margin-left: 20px;
+}
+.margin-40-left {
+	margin-left: 40px;
 }
 .margin-10-all {
 	margin: 10px;

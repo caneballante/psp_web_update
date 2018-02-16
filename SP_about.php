@@ -104,6 +104,7 @@
 		<!--START MEMBER-->
 		<p><strong>Eddy Kennedy</strong><br />
 		 <strong>Term: </strong>4 years 11/10/21<br />
+		Eddy Kennedy’s research experience over the past 17 years has had a strong focus on aquaculture and coastal management issues.  For seven years ending in 2016, he managed a research section in DFO’s Maritimes Region on the east coast of Canada with a focus on coastal habitat ecology and the potential impacts of human pressures on marine ecosystem components.  In his current role as Division Manager for the Ecosystem Science Division, Fisheries and Oceans Canada in the Pacific Region, which he started in October 2016, he is responsible for managing research and monitoring activities that enhance knowledge on the structure and function of aquatic ecosystems (including Strait of Georgia) and that support improved understanding of the impacts of stressors on ecosystem components as well as options to mitigate or manage such impacts.   The various research programs, which span the marine and freshwater environments, aim to incorporate ecosystem considerations into decision making.  These programs include mitigating risks to the recovery of the Southern Resident Killer Whales, understanding ecosystem conditions that impact wild salmon populations, enhancing marine conservation planning, mitigating potential impacts of aquaculture, aquatic invasive species, and characterizing ecosystem baselines upon which management decisions can be made to mitigate potential stressors and to maintain ecosystem structure, function, and resilience.
 		</p>
 		<!--END MEMBER-->	
 		<!--START MEMBER-->                      
@@ -126,7 +127,7 @@
 		<p><strong>Timothy Quinn</strong><br />
 		<span style="font-weight: bold">Term:</span> 4 years 11/10/18<br />
 		Chief scientist of the WDFW’s habitat program since 1999, Quinn also is a member of <br />
-		The Evergreen State College’s adjunct faculty, where he teaches in the Master’s in Environmental Studies program. Quinn recently served on the Science Working G
+		The Evergreen State College’s adjunct faculty, where he teaches in the Master’s in Environmental Studies program. Quinn recently served on the Science Working Group that came up with scientific underpinnings and a technical framework for the development of the Puget Sound Partnership.</p>
 		<!--END MEMBER-->
 		<!--START MEMBER-->	
 		<p><strong>John Stark</strong><br />
@@ -134,7 +135,7 @@
 		John Stark is the Director of the Washington State University, Puyallup Research and Extension Center. John is also the Director of the Washington Stormwater Center and a member of the Puget Sound Partnership Science Panel. Additionally, John is a Professor and runs the Ecotoxicology Program at WSU. John's research deals with protection of endangered species and ecological risk assessment of pollutants with particular emphasis on the effects of pollutants on salmon and their food.  Recent projects involve determination of the effects of polluted stormwater runoff on salmon and invertebrate health. John has published over 120 peer-reviewed papers in scientific journals, numerous book chapters, and a book on ecological risk assessment entitled "Demographic Toxicity: Methods in Ecological Risk Assessment". </p>
 		<!--END MEMBER-->
 		<!--START MEMBER-->		 
-		<strong>Terre Satterfield</strong><br />
+		<p><strong>Terre Satterfield</strong><br />
 		<span style="font-weight: bold">Term</span>: 4 years 11/10/2021 <br />
 		Terre Satterfield is an interdisciplinary social scientist; professor of culture, risk and the environment; and director of the University of British Columbia&rsquo;s Institute for Resources, Environment and Sustainability.<br />
 		Her research concerns sustainable thinking and action in the context of environmental assessment and decision making. She studies natural resource controversies; culture and cultural ecosystem services; and the perceived risk of new technologies. She has worked primarily on tensions between indigenous communities and the state and/or regulatory dilemmas regarding new technologies.</p>

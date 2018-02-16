@@ -97,7 +97,10 @@ Seattle, WA 98105</p></td>
 				
 				<tr>
 					<td><p>July 11/12</p></td>
-					<td><p>Tenatively Bellingham</p></td>
+					<td><p>Western Washington University<br>
+						Viking Union Room 462A/B<br>
+						516 High Street<br>
+					Bellingham, WA 98225</p></td>
 					<td><a href="https://pspwa.box.com/s/2x8suekjxtcj4brcapvbmrv4p55n7i24" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
