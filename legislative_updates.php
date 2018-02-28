@@ -75,7 +75,7 @@
 			
 				<h2 class="margin-0-top">2018 Legislative Updates</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d66b90">JANUARY 29th</a></p>
-			
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1dcb479">FEBRUARY 21st</a></p>
 			
 		
 			<h2 class="margin-20-top">2018 Legislative Calendars </h2>
@@ -90,6 +90,8 @@ JAN 22 – 26, 2018</a><br>
 JAN 29 – FEB 2, 2018</a><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d7b1b1">WEEK 5 
 FEB 5– FEB 9 2018</a><br>
+			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1db7501">WEEK 8:  
+FEB 19– FEB 23 2018</a>
 			
 				<h2 class="margin-20-top">2018 Legislative Agenda</h2>
 			<p><a href="https://pspwa.box.com/s/eotk0itkj6v3zulbdki1n6urrfet7cjw">2018 Legislative Agenda</a></p>

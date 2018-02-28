@@ -91,8 +91,8 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt=""/>2018 LEGISLATIVE CALENDAR<br>
 						
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d7b1b1">WEEK 5 
-FEB 5– FEB 9 2018</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1db7501">WEEK 8:  
+FEB 19– FEB 23 2018</a><br>
 						
 						
 						<!--END news content BOX--> 
@@ -109,7 +109,7 @@ FEB 5– FEB 9 2018</a><br>
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/press-release-olympia-aerial.jpg"  alt=""/> <strong>2018 LEGISLATIVE UPDATE<br>
 						</strong>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d66b90">JANUARY 29th</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1dcb479">FEBRUARY 21st</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -130,10 +130,10 @@ FEB 5– FEB 9 2018</a><br>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/e-clips-puget-sound.jpg"  alt=""/> <strong>10.16.17<br>
-						</strong>E-CLIPS<br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1bdbf40">
-						NEWS FROM AROUND THE SOUND
+						<img class="img-responsive img-rounded" src="images/news-images/press-release-puget-sound-day-on-the-hill-2017.jpg"  alt=""/> <strong>SAVE THE DATE!</strong><br>
+						<a href="psdoth2018.php">
+						PUGET SOUND DAY ON THE<br>
+							MAY 23rd 2018
 						</a><br>
 						<!--END news content BOX--> 
 					</div>

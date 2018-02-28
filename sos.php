@@ -69,7 +69,8 @@
 			
 			<h2 class="margin-0-top">WHAT IS THE STATE OF THE SOUND REPORT? </h2>
 			<div class="floatright"><a href="https://pspwa.box.com/s/pcmq1ik1otenheklg5sucz7bkmkpjphq"><img src="images/2017-sos-cover.png" width="330" height="270" alt=""/></a><br><p class="text-right"><a href="https://pspwa.box.com/s/pcmq1ik1otenheklg5sucz7bkmkpjphq">download 2017 State of the Sound (PDF)</a></p>
-				<p class="text-right"><a href="https://pspwa.box.com/s/5u2jawn8129lpy5nckz0gmhcbeu3rm9o">download 2017 State of the Sound Executive Summary (PDF)</a>
+			<p class="text-right"><a href="https://pspwa.box.com/s/5u2jawn8129lpy5nckz0gmhcbeu3rm9o">download 2017 State of the Sound Executive Summary (PDF)</a>
+			<p class="text-right"><a href="https://pspwa.app.box.com/s/6skoj478lnfrdv4qj1tap5rftnth4u86">download 2017 State of the Sound Overview Powerpoint</a>
 			
 			
 			</div>
@@ -121,8 +122,8 @@
 <p>Several of our board and council members have volunteered to deliver presentation about the State of the Sound to groups and organizations, as requested. For scheduling requests, please contact Cathy Cochrane, Communications Lead, at 360-790-7958.
 </p>
 
-
-<h2>TO TAKE AWAY, DOWNLOAD AND PRINT AND SHARE </h2>
+<p><a href="https://pspwa.app.box.com/s/6skoj478lnfrdv4qj1tap5rftnth4u86">download 2017 State of the Sound overview powerpoint</a>
+<p><a href="https://pspwa.app.box.com/s/g7jddc0r39mtvm0yvkqbry2ah62cu0bz">download 2017 State of the Sound Vital Signs webinar powerpoint</a><h2>TO TAKE AWAY, DOWNLOAD AND PRINT AND SHARE </h2>
 <ul>
 	<li><a href="https://pspwa.box.com/s/5u2jawn8129lpy5nckz0gmhcbeu3rm9o">2017 State of the Sound Executive Summary and Next Steps</a></li>
 	<li><a href="https://pspwa.box.com/s/itv1vn99ssosatz5vg8ql50mx0icfi2c">Vital Sign status overview</a></li>
