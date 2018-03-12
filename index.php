@@ -32,8 +32,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
- 					<h1 class="brand-heading">2017 State of the sound</h1>
- 					<div class="learn-more-box"><a href="sos.php">LEARN MORE</a></div>
+ 					<h1 class="brand-heading">Puget Sound Day On The Hill<br>
+ 						MAY 23rd, 2018<br>
+ 						WASHINGTON DC
+					</h1>
+ 					<div class="learn-more-box"><a href="psdoth2018.php">LEARN MORE</a></div>
 					
  				</div>
 			</div>
@@ -55,7 +58,7 @@
 		<div class="col-sm-3 padding-10-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>
-			<div class="padding-5-bottom"><a href="PSAR.php">PUGET SOUND ACQUISITION AND RECOVERY(PSAR)&nbsp;FUND</a></div>
+			<div class="padding-5-bottom"><a href="PSAR.php"><span class="orange"><strong>NEW! </strong></span>PUGET SOUND ACQUISITION AND RECOVERY(PSAR)&nbsp;FUND</a></div>
 			<div class="padding-5-bottom"><a href="NEP-overview.php">NATIONAL ESTUARY PROGRAM (NEP)</a></div>
 			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY</a></div>
 	</div>
@@ -109,7 +112,7 @@ FEB 19– FEB 23 2018</a><br>
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/press-release-olympia-aerial.jpg"  alt=""/> <strong>2018 LEGISLATIVE UPDATE<br>
 						</strong>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1dcb479">FEBRUARY 21st</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1dfcfda">March 5th, 2018</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>

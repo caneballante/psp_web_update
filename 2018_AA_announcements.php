@@ -72,6 +72,40 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
 			<div class="highlightbox margin-0-top">
+				<h3>JOIN OUR TEAM: Review proposals for Puget Sound recovery!</h3>
+				<p><strong>The Puget Sound Partnership and the </strong><a href="http://www.psp.wa.gov/strategic-initiatives-leads.php"><strong>Strategic Initiative Leads</strong></a><strong> are looking for reviewers who have the expertise to help review and rate the Puget Sound recovery activities proposed for inclusion in the </strong><a href="http://www.psp.wa.gov/2018_AA_update.php"><strong>2018–2022 Action Agenda</strong></a><strong>. </strong><strong> </strong></p>
+				<p>Do you have a special interest in the recovery of Puget Sound?<br>
+					Are you an expert in science, policy, management, or planning?<br>
+					Would you like to connect with like-minded professionals to choose the best recovery actions?</p>
+				<p><a href="http://bit.ly/2FgF6Ky"><strong>Fill out this quick form by March 30, 2018, to be considered for participation.</strong></a></p>
+				<h3>Who is eligible?</h3>
+				<p>We are looking for reviewers from public and private sectors, non-profits, and academia from throughout the Sound who have expertise in:  </p>
+				<ul>
+					<li>Protection and restoration of habitat, including shoreline armoring, education and incentive programs, research and monitoring, land use planning, and growth management </li>
+					<li>Salmon protection and recovery, including outreach, education, and capacity building; policy and regulation; science and monitoring; and prioritization of protection and restoration actions </li>
+				</ul>
+				<h3>What is involved in being a reviewer?</h3>
+				<p>We are asking all reviewers to participate in a <strong>2-day workshop, June 6-7, </strong>to: </p>
+				<ul>
+					<li>Discuss face-to-face with other reviewers the benefits and final evaluations of project proposals</li>
+					<li>Learn more about recovery priorities and efforts across Puget Sound</li>
+					<li>Benefit from networking with other professionals engaged in Puget Sound recovery </li>
+				</ul>
+				<p>The will take place June 6-7 at the <a href="https://www.seabeck.org/">Seabeck Conference Center</a> on the Kitsap Peninsula. The cost is free to participants, including one overnight stay (June 6) and all meals. </p>
+				<p>We are also asking reviewers to be available for the following:</p>
+				<ul>
+					<li>One webinar, covering the review process. The webinar will be recorded and available on the Partnership&rsquo;s website. </li>
+					<li>About 10-20 hours of independent review time before the 2-day workshop. </li>
+					<li>Additional conference calls, as needed </li>
+				</ul>
+				<p>Questions? <br>
+					Please contact:<br>
+					Habitat: Julie Watson (<a href="mailto:julie.watson@dfw.wa.gov">julie.watson@dfw.wa.gov</a>)<br>
+					Chinook: Amber Moore (<a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a>)<br>
+					General/Other: Jennifer Pouliotte (<a href="mailto:action.agenda@psp.wa.gov">action.agenda@psp.wa.gov</a>)</p>
+<p>&nbsp;</p>
+			</div>
+			<div class="highlightbox margin-20-top">
 				<p><strong>Dear Partner in Puget Sound Recovery,</strong></p>
 				<p>Preregistration for Near Term Actions (NTA) to be included in the 2018–2022 Action Agenda is now closed.  <strong>More than 800 NTA preregistrations were received by the December 22 deadline!</strong> Thank you to everyone who preregistered, and for your continued support for Puget Sound recovery. <strong></strong><br>
 				Information about the preregistered NTAs is now publically available on the Partnership&rsquo;s website through a <a href="http://www.psp.wa.gov/2018_AA_preregistrations.php">searchable database, downloadable spreadsheet</a>, and <a href="http://www.psp.wa.gov/2018_AA_preregistration_map.php">online map</a>. A diversity of organizations preregistered NTAs, including federal, state, local, and tribal government agencies; non-governmental organizations; academic institutions; foundations; and private businesses. Most of the Regional Priorities outlined in <a href="http://www.psp.wa.gov/2018_AA_solicitation_for_NTAs.php">the NTA Solicitation</a> are represented in the NTAs, as are all regions of Puget Sound. <br>

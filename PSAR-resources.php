@@ -70,6 +70,9 @@
 			<p class="margin-20-top"><strong>2018 PSAR LARGE CAP REQUEST FOR PROPOSALS</strong></p>
 			<p class=""><a href="https://pspwa.box.com/v/2018PSAR">View materials</a></p>
 			
+			<p class="margin-20-top"><strong>PSAR OVERVIEW</strong></p>
+			<p><a href="https://pspwa.box.com/s/p9sost25mwfwazmz79ahuhva5mon7i2z" target="new"><img src="images/PSAR/psar-overview.jpg" width="200" height="311" alt=""/></a></p>
+			<p>&nbsp; </p>
 			<p class="margin-20-top"><strong>PSAR PROJECT CLOSE-UP FACT SHEETS</strong></p>
 			<p class=""><a href="https://pspwa.box.com/s/lnestm5eu9qhftfgi3nmsh5ke3wxxhd1">Ala Spit restoration, Whidbey Island</a></p>
 			<p class=""><a href="https://pspwa.box.com/s/cfm1ffrc56w3pfbob5vh5t2ujhhdq22q">Deschutes watershed and Kennedy-Goldsborough watershed</a></p>
@@ -83,7 +86,10 @@
 			<p class=""><a href="https://pspwa.box.com/s/ob22ncmooxzqeswojgpyl9r4acfff3je">West Bainbridge shoreline protection project</a></p>
 
 			<p class="margin-20-top"><strong>INNOVATION RECOVERY STORIES</strong></p>
-			<p>Organizations from across Washington State are coming together to stand up for Puget Sound protection and recovery.  The stories on this site are curated from partners and community members who are each investing in keeping this place great.<a href="https://pugetsoundinnovationstories.blog">VIEW BLOG</a></p>
+			<p>Organizations from across Washington State are coming together to stand up for Puget Sound protection and recovery.  The stories on this site are curated from partners and community members who are each investing in keeping this place great.<a href="https://pugetsoundinnovationstories.blog">VIEW BLOG</a></p><br><br>	<p><strong>For more information contact:</strong></p>
+			<h5>SUZANNA STOIKE</h5>
+			<p> PSAR Program Coordinator<br>
+			360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov</a></p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>

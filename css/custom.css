@@ -377,6 +377,17 @@ p {
 	margin-left:0px;
 }
 }
+.width-300-govdelivery-doth {
+	width: 300px;
+	margin-left: 20px;
+}
+@media (max-width: 992px) {
+.width-300-govdelivery-doth {
+	width: 300px;
+	margin-left:20px;
+	margin-bottom:30px;
+}
+}
 .width-400 {
 	width: 400px;
 	margin: auto;
@@ -497,8 +508,9 @@ p {
 	vertical-align: middle;
 }
 /*sets text size on the jumbotron*/
-intro .brand-heading {
+.intro h1 {
 	font-size: 40px;
+	text-shadow: 2px 2px #000;
 }
 .intro .learn-more-box {
 	width: 150px;
