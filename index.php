@@ -87,25 +87,23 @@
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
 							
-					<!--COLUMN START-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt=""/>2018 LEGISLATIVE CALENDAR<br>
-						
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1db7501">WEEK 8:  
-FEB 19– FEB 23 2018</a><br>
-						
-						
+						<img class="img-responsive img-rounded" src="images/news-images/press-release-orca.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e27144">
+						PUGET SOUND PARTNERSHIP TO SERVE KEY ROLE IN SOUTHERN RESIDENT ORCA TASK FORCE
+						</a><br>
 						<!--END news content BOX--> 
 					</div>
+					<div class="clearfix"></div>
 				</div>
-			</div>
-			<!--COLUMN END--> 	
-			
 				
-					<!--COLUMN START-->
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -122,7 +120,6 @@ FEB 19– FEB 23 2018</a><br>
 				
 				
 				
-			
 			
 			
 			
