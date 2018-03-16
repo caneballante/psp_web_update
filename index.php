@@ -108,9 +108,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/press-release-olympia-aerial.jpg"  alt=""/> <strong>2018 LEGISLATIVE UPDATE<br>
+						<img class="img-responsive img-rounded" src="images/news-images/press-release-olympia-aerial.jpg"  alt=""/> <strong>2018 LEGISLATIVE WRAP-UP<br>
 						</strong>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1dfcfda">March 5th, 2018</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e2b6e0">March 16th, 2018</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>

@@ -28,15 +28,6 @@
   	var navSelected = 6;
 	var subNavSelected = "non";
 </script>
-<?php
-include_once('.newinclude.php');
-$con=new MyPDO();
-$qry = "SELECT id,DATE_FORMAT(dateCreated, '%m-%d-%Y') as CreationDate,title,org,storyLink,pspRel FROM story WHERE pspRel='true' AND dateCreated > '20111231' and dateCreated < '20151231' ORDER BY dateCreated DESC ";
-$stmt=$con->prepare($qry);
-
-if($stmt->execute()) { 
-$num=$stmt->rowCount();
-?>
 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -79,32 +70,7 @@ $num=$stmt->rowCount();
 			<?php include('includes/media_contact.html')?>
 			<h2>Latest News Releases</h2>
 			<div id="newsDiv"></div>
-			
-			
-	
 
-			<div class="news">
-				<table class="table table-responsive table-striped">
-					<?php
-$rows=$stmt->fetchAll(PDO::FETCH_NUM);
-#print_r($rows);
-#setlocale(LC_ALL, 'en_US');
-foreach($rows as $row) {
-foreach($row as $rw=>$val) {
-ini_set('mbstring.substitute_character', 32);
-$row[$rw]=mb_convert_encoding(stripslashes($val), 'UTF-8', 'UTF-8');}
-#$row[$rw]=iconv("UTF-8", "ISO-8859-1//IGNORE", $row[$rw]);
-?>
-					<tr>
-						<td width="70"><?php echo $row[1]; ?></td>
-						<td><?php echo "<a href='http://www.psp.wa.gov/pressreleases/partnership_release.php?id=".$row[0]."'target='new'>".$row[2]."</a></td><td>";	
-#if(!empty($row[3])) { echo $row[3]."</td>";} else {echo "</td>";}
-}
-}
-?>
-					</tr>
-				</table>
-			</div>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
