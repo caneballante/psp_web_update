@@ -104,23 +104,12 @@
 			</div>
 
 			<div class="col-sm-2 padding-20-top padding-0-right">
-				<div class="right-nav-title margin-0-top ">2017 PUGET SOUND DAY ON THE HILL LINKS </div>
+				<div class="right-nav-title margin-0-top ">2018 PUGET SOUND DAY ON THE HILL LINKS </div>
 				<ul class="nav-rightside-custom">
-					<li role="presentation"> <a href="https://pspwa.box.com/s/e5jydxjf23owaft02whpkhu17igjbdrd">2017 Governor Inslee letter of support for federal Puget Sound recovery investments</a>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/x6pz3i4wqbwzmx8pcjrkqp6zkvk7o1is">Congressional letter of support for the National Estuary Program (NEP)</a>
 					</li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/l8cbkwjx6c0uzhj7pdvljvdi56pqz8f4">2017 Multi-state support for Pacific Coastal Salmon Recovery Fund</a>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/9cswkefkra7g93ag4ep7p38h4ka66f4w">Congressional letter of support for Puget Sound appropriations</a>
 					</li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/8vn21gf0do1bv25z6808tvdfni9e1nhp">2017 Puget Sound fact sheet</a>
-					</li>
-					<li role="presentation"> <a href="https://pugetsoundinnovationstories.blog">Puget Sound innovation stories</a>
-					</li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/cgy4fzfwmd40u5h2uj1r9608fr5fjbzx">2017 Letter of support</a>
-					</li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/yh5cyeks0ab35zp4f5lhmowdu4tcezsg">2017 Participant list</a>
-					</li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/9fa0mjavl80b0nizhgkp2aahmo8eigh1">2017 Puget Sound Day on the Hill Komo Interview with Sheida Sahandy</a>
-					</li>
-
 
 
 					<!--	<li role="presentation"> <a href="#">KOMO radio interview with Sheida Sahandy</a></li>-->

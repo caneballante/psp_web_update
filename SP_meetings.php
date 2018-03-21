@@ -84,14 +84,14 @@ Seattle, WA 98105</p></td>
 					<td><a href="https://pspwa.box.com/s/58potlxo6dsmsgqdjikxln2daa58j27l" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>April 25/26</p></td>
+					<td><p>April 25</p></td>
 					<td><p>University of Washington<br>
 					  Applied Physics Lab - Henderson Hall<br>
 					  Hardisty Conference Room on 6th floor<br>
 					  1013 NE 40th Street<br>
 				    Seattle, WA 98105</p></td>
 
-					<td><a href="https://pspwa.box.com/s/58potlxo6dsmsgqdjikxln2daa58j27l" target="new">Meeting Materials</a></td>
+					<td><a href="hhttps://pspwa.box.com/s/8psg1ph28snzbxhvhipo1pnh9n6rb3nj" target="new">Meeting Materials</a></td>
 
 				</tr>
 				
@@ -135,7 +135,7 @@ Seattle, WA 98108</p>
 					<?php include 'includes/board_contact.html';?>
 				</li>
 				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></li>
-				<li><a href="https://pspwa.box.com/s/bfm8f68v65ybnwht7fx9rwrd33nb5shd">Board's 2018 meeting calendar</a></li>
+				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Board's 2018 meeting calendar</a></li>
 				<li><a href="https://pspwa.box.com/s/87rfvgjwf6wahymd806v7lrkh0a89zjt">Puget Sound Environmental Caucus members </a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
