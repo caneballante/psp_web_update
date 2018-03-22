@@ -408,6 +408,9 @@ p {
 .border-thick-blue {
 	 border: solid #0a3b5c 3px;
 }
+.border-thin-blue {
+	 border: solid #0a3b5c 1px;
+}
 .floatright{
 	float: right;
 }

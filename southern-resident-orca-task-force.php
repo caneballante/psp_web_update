@@ -45,35 +45,159 @@
 	<div class="container-fluid page-content padding-50-bottom">
 		<div class="row">
 			<div class="col-sm-10 margin-40-left  padding-20-top padding-40-left">
-				<h1>SOUTHERN RESIDENT ORCA TASK FORCE ESTABLISHED BY GOVERNOR			</h1>
+				<h1>Coordinated effort underway to protect and recover Southern Resident Orca 			</h1>
 			</div>
 			<div class="col-sm-2 padding-20-top"></div>
 		</div>
 
 		<div class="row">
 			<div class="col-sm-9 margin-40-left padding-20-top padding-40-right content-column mobile-padding-20-left">
-				<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
+					<div class="width-300-govdelivery-doth border-thin-blue floatright padding-10-all">
 					
-					<p>For more information, see the <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">Executive Order</a> and the <a href="https://medium.com/wagovernor/inslee-signs-executive-order-to-protect-orcas-chinook-salmon-8eb97d00b41d">Governor&rsquo;s Blog</a> on the Orca Recovery Task Force.</p>
-					</div>
-				<p>Intensified efforts to protect southern resident orcas are underway. On March 14, Gov. Jay Inslee announced an <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">executive order</a> directing immediate statewide action to benefit southern resident orcas. Puget Sound&rsquo;s southern resident orca population numbers at just 76 animals, the fewest in more than three decades. This alarming decline signals that the southern resident population is in severe jeopardy and at risk of extinction if no action is taken. </p>
-				<p>The governor&rsquo;s executive order outlines several short and long term actions designed to address major risks to orcas, including the lack of Chinook salmon, vessel traffic that produce excessive noise and disrupt the orca&rsquo;s feeding efforts, toxic pollutants that can contribute to their poor health, and instructs state agencies to take immediate steps to identify long-term solutions that will help recover both salmon and orca. The order also establishes a task force to coordinate with British Columbia, Oregon, California, Idaho, and Alaska in developing policy recommendations at the regional, state, and federal levels. The Governor has asked the Puget Sound Partnership and Washington Department of Fish and Wildlife to team up in leading support for the Task Force, with assistance from the Office of Financial Management and the Governor&rsquo;s Policy Office. At the Governor&rsquo;s request, Stephanie Solien, vice chair of the Puget Sound Partnership Leadership Council, will co-chair the task force, along with Les Purce, former president of Evergreen State College.</p>
-				<p>The Partnership&rsquo;s technical and policy expertise aligns with the Task Force directives included in the Executive Order, which address, among other things, salmon recovery and removing toxins from the marine environment. Healthy salmon runs are a critical component of orca health. The Partnership&rsquo;s Leadership Council serves as the regional organization directed in state statute to plan and guide salmon recovery in Puget Sound. The Partnership also has long recognized polluted stormwater runoff as a major source of contamination to the marine environment and a threat to orcas. Partnership staff routinely advocate for projects and policies that will reduce such pollution. In addition, Partnership staff are involved in oil spill prevention efforts throughout Puget Sound. Oil spills are also considered major threats to orcas. With collective support from the governor and Washington state agencies, saving orca and salmon from extinction is a number one priority.</p>
-				<p>The National Atmospheric and Oceanographic Administration&rsquo;s <a href="http://noaa.maps.arcgis.com/apps/Cascade/index.html?appid=3405e6637bf74e998d4ebe992c54f613">Orca Story board</a> tells the story of the southern resident orca populations on the west coast. </p>
-			<h3 class="margin-10-top">OTHER NEWS RELATED TO THE ORCA RECOVERY TASK FORCE</h3>
-			<ul>
-						<li><a href="https://www.seattletimes.com/seattle-news/environment/critically-endangered-orcas-have-governors-tribes-attention/">Critically endangered orcas have governor&rsquo;s, tribe&rsquo;s attention</a> (Seattle Times)</li>
-						<li><a href="http://www.ifiberonenewsradio.com/news/local_news/puget-sound-partnership-to-serve-key-role-in-orca-task/article_6ccb8f62-294a-11e8-b785-af84bc675cc4.html">Puget Sound Partnership to serve key role in Orca task force</a> (Mason County News)</li>
-						<li><a href="http://www.king5.com/article/tech/science/environment/washington-state-senate-passes-orca-protection-bills/281-525177337">Washington state Senate passes orca protection bills</a> (King5 News) </li>
-					</ul>
-<p> </p>
-				<p> </p>
-				<p> </p>
+					<p><em>Page content last updated: <br>
+					March 22nd, 2018</em>
+
+				</div>
+			
+				<p>On March 14, 2018, Governor Jay Inslee signed an <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">Executive Order</a> directing immediate statewide action to benefit Southern Resident orcas, which are considered to be in imminent danger of extinction. <a href="https://www.tvw.org/watch/?eventID=2018031115">View a video recording of the signing ceremony.</a></p>
+				<p><strong><a href="#actions">View state agency actions requested by the Governor</a></strong></p>
+				<h3>Orca recovery Task Force established</h3>
+				<p>The Executive Order  establishes a task force to coordinate with British Columbia, Oregon, California, Idaho, and Alaska in developing policy recommendations at the regional, state, and federal levels. The Governor has asked the Puget Sound Partnership and WDFW to team up in leading support for the Task Force, with assistance from the Office of Financial Management and the Governor&rsquo;s Policy Office. At the Governor&rsquo;s request, Stephanie Solien, vice chair of the Puget Sound Partnership Leadership Council, will co-chair the task force, along with Les Purce, former president of Evergreen State College. Members will include representatives of 12 state agencies and offices, along with representatives of native tribes, federal and local governments, and the private and non-profit sectors. Each of the four state legislative causes will be invited to appoint a member. WDFW and the Puget Sound Partnership will organize staff and subject-matter experts to support the task force.</p>
+				
+			<h3>Southern Resident orca—endangered since 2005</h3>
+				<p>
+					Southern Resident orcas have been protected in the U.S. since 1972 under the federal <a href="http://www.nmfs.noaa.gov/pr/laws/mmpa/">Marine Mammal Protection Act (MMPA)</a>, but continued population declines resulted in southern residents being listed as endangered in 2005 under the federal <a href="http://www.nmfs.noaa.gov/pr/laws/esa/">Endangered Species Act (ESA)</a>. In Canada, they are listed as endangered under the <a href="https://www.canada.ca/en/environment-climate-change/services/environmental-enforcement/acts-regulations/about-species-at-risk-act.html">Species at Risk Act</a>.<strong><u></u></strong></p>
+				<p>
+					Despite these protections, the population has fallen sharply over the past 20 years, from 98 in 1995 to 76 in 2018—a 22-percent decline. This represents the fewest Southern Resident orcas in more than three decades. </p><p>
+					Three primary factors threaten southern residents: a lack of prey, principally Chinook salmon; toxic contaminants; and disturbance from noise and vessel traffic.</p>
+	<h3>Recovery of orca depends on recovery of Chinook salmon</h3>
+				<p>
+					Chinook salmon comprise a large proportion of the diet of southern resident orcas. Reduced chinook runs undermine the ability of Southern Resident orcas to reproduce and recover. The Executive Order also aims to make prey more abundant for the orcas by creating healthier Chinook salmon runs.</p>
+				<a name="actions"></a>
+				<p>
+					Chinook salmon need a healthy and dependable environment in which to travel and reproduce, but are threatened by habitat loss, toxic pollutants (particularly those in stormwater runoff), streams blocked by development, predators, and newly arriving invasive fish. The loss of habitat and diminished water quality are key threats that led to the listing of Chinook salmon as a federally endangered species almost 20 years ago.</p>
+					
+				
+					
+	<h3>Executive Order requires immediate state agency action</h3>
+				<p>The Executive Order details immediate action on the part of several state agencies, as summarized in the following table.</p>
+			
+	<table class="table" border="0">
+	<tbody>
+		<tr>
+			<th scope="col">Due Date</th>
+			<th scope="col">Agencies involved</th>
+			<th scope="col">Action</th>
+			<th scope="col">Contact</th>
+		</tr>
+		<tr>
+			<td><p>April 30, 2018</p></td>
+			<td><p>WDFW and Parks</p></td>
+			<td><p>Increase enforcement and education concerning vessels and Chinook salmon fisheries</p></td>
+			<td><p>Bruce Botka<br>
+				360-902-2262<br>
+				<a href="milto:Bruce.botka@wdfw.wa.gov">Bruce.botka@wdfw.wa.gov</a> </p></td>
+		</tr>
+		<tr>
+			<td><p>April 30, 2018</p></td>
+			<td><p>Ecology</p></td>
+			<td><p>Expand training programs that teach whale-watching vessels how to assist in the event of an oil spill</p></td>
+			<td><p>Contact information coming soon</p>
+				<br></td>
+		</tr>
+		<tr>
+			<td><p>April 30, 2018</p></td>
+			<td><p>WDFW</p></td>
+			<td><p>Review and amend, as needed, 2018 recreational and commercial fishing regulations prioritizing protection of key areas and fish runs for Southern Resident orca recovery</p></td>
+			<td><p>Bruce Botka<br>
+				360-902-2262<br>
+				<a href="mailto:Bruce.botka@wdfw.wa.gov">Bruce.botka@wdfw.wa.gov </a></p></td>
+		</tr>
+		<tr>
+			<td><p>April 30, 2018</p></td>
+			<td><p>WDFW</p></td>
+			<td><p>Explore options and develop a proposal to alter fish food used in state hatcheries to limit the amount of polychlorinated biphenyls (PCBs) in the prey of Southern Resident orca</p></td>
+			<td><p>Bruce Botka<br>
+				360-902-2262<br>
+				<a href="mailto:Bruce.botka@wdfw.wa.gov">Bruce.botka@wdfw.wa.gov </a></p></td>
+		</tr>
+		<tr>
+			<td><p>July 1, 2018</p></td>
+			<td><p>Partnership, WDFW, Parks, DOL, GSRO</p></td>
+			<td><p>Prioritize existing outreach resources to support Southern Resident orca recovery. Collaborate with the Governor&rsquo;s Office to develop a public education program and identify needed resources.</p></td>
+			<td><p>Contact information coming soon</p></td>
+		</tr>
+		<tr>
+			<td><p>July 31, 2018</p></td>
+			<td><p>WDFW (with review by the Partnership and GSRO)</p></td>
+			<td><p>identify high priorities for Southern Resident orcas and adjust programs if needed</p></td>
+			<td><p>Bruce Botka<br>
+				360-902-2262<br>
+				<a href="mailto:Bruce.botka@wdfw.wa.gov">Bruce.botka@wdfw.wa.gov </a></p></td>
+		</tr>
+		<tr>
+			<td><p>July 31, 2018</p></td>
+				
+			<td><p>Ecology</p></td>
+			<td><p>Prioritize funding for stormwater mitigation projects that contribute to southern resident recovery</p></td>
+			<td><p>Contact information coming soon.</p></td>
+		</tr>
+		<tr>
+			<td><p>December 15, 2018</p></td>
+			<td><p>Partnership, WDFW, GSRO</p></td>
+			<td><p>Demonstrate how Chinook recovery projects benefit Southern Resident orca recovery for the Pacific Coast Salmon Recovery Fund, the Puget Sound Acquisition and Restoration Program, the Estuary and Salmon Restoration program, and the Washington Coastal Restoration Initiative</p></td>
+			<td><p>Cathy Cochrane, <br>
+360-790-7058<br>
+<a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a>			</p></td>
+		</tr>
+	</tbody>
+</table>
+	<p>WDFW = Washington Department of Fish and Wildlife<br>
+		GSRO = Governor&rsquo;s Salmon Recovery Office<br>
+		DOL = Washington Department of Licensing<br>
+		Ecology = Washington Department of Ecology<br>
+		Partnership = Puget Sound Partnership<br>
+		Parks = Washington State Parks and Recreation Commission</p>
+
+<h3>TASK FORCE SCHEDULE</h3>
+		<ul>
+			<li>Initial meeting: To be scheduled in April or May 2018</li>
+		<li>Draft report due: October 1, 2018</li>
+		<li>Complete report due: November 1, 2018 (includes recommendations)</li>
+			<li>Followup report due: October 1, 2019 (outlines progress, lessons learned, outstanding needs)</li>
+			</ul>
+		<h3>FOR MORE INFORMATION</h3>
+			<p><strong>National Oceanic and Atmospheric Administration (NOAA) Fisheries:</strong> federal agency responsible for enforcing the Marine Mammal Protection Act and implementing federal actions to recovery Southern Resident orca</p>
+			<p><a href="http://www.nmfs.noaa.gov/pr/species/mammals/whales/killer-whale.html">http://www.nmfs.noaa.gov/pr/species/mammals/whales/killer-whale.html</a> </p>
+			<p><strong>Washington Department of Fish and Wildlife:</strong> state agency responsible for protecting Washington State&rsquo;s fish and wildlife</p>
+<p><a href="https://wdfw.wa.gov/conservation/endangered/marine_mammals.html">https://wdfw.wa.gov/conservation/endangered/marine_mammals.html</a></p>
+		<p><strong>Washington State Department of Ecology:</strong> state agency responsible for protecting the quality of Washington&rsquo;s marine and fresh waters</p>
+		<ul>
+			<li>Water and shorelines programs: <a href="https://ecology.wa.gov/Water-Shorelines">https://ecology.wa.gov/Water-Shorelines</a></li>
+			<li>Oil spill prevention, preparedness, and response: <a href="https://ecology.wa.gov/Spills-Cleanup">https://ecology.wa.gov/Spills-Cleanup</a>  </li>
+		</ul>
+		<p><strong>Governor&rsquo;s Salmon Recovery Office:</strong> housed within the state&rsquo;s Recreation and Conservation Office, GSRO is charged with coordinating a statewide salmon recovery plan</p>
+		<p>	<a href="https://rco.wa.gov/salmon_recovery/gsro.shtml">https://rco.wa.gov/salmon_recovery/gsro.shtml</a></p>
 			</div>
 
 			
+		<div class="col-sm-2 padding-20-top padding-0-right">
+				<div class="right-nav-title margin-0-top ">CONTACT</div>
+				<ul class="nav-rightside-custom">
+					<li role="presentation"> <p>Cathy Cochrane,<br>
+						Communications Lead
+						<br>
+360-790-7058<br>
+<a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a>			</p>
+					</li>
+
+
+				
+				</ul>
+			</div>
 		</div>
 		<!--END OF ROW -->
+
 	</div>
 	<!--END OF CONTENT CONTAINER -->
 

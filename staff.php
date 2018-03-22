@@ -286,13 +286,13 @@
 
 			<h5>Amber Moore</h5>
 			<p> Ecosystem Recovery Coordinator <br/>
-			<em>West Sound, West Central, WRIA 8 and 9</em><br/> 360.819.0420 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a>
+			<em>West Sound, West Central, WRIA 8 and 9</em><br/> 360.742.7434  | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a>
 			</p>
 		
 			<h5>Erin Murray</h5>
 			<p> Ecosystem Recovery Coordinator <br/>
-				<em>Skagit/Samish, Snohomish/Stillaguamish LEs and LIO</em>
-				360.742.7434 | <a href="mailto:erin.murray@psp.wa.gov">erin.murray@psp.wa.gov</a>
+				<em>Skagit/Samish, Snohomish/Stillaguamish LEs and LIO</em><br>
+				360.819.0420 | <a href="mailto:erin.murray@psp.wa.gov">erin.murray@psp.wa.gov</a>
 			</p>
 
 			<h5>Erin ryan-peÑuela</h5>
