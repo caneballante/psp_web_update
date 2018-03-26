@@ -54,9 +54,13 @@
 			<div class="col-sm-9 margin-40-left padding-20-top padding-40-right content-column mobile-padding-20-left">
 					<div class="width-300-govdelivery-doth border-thin-blue floatright padding-10-all">
 					
-					<p><em>Page content last updated: <br>
-					March 22nd, 2018</em>
+					<p><strong>Please direct all questions to the Governors office:</strong>	<br>
+					Jaime Smith <br>
+					Executive Director of Communications<br>
+					360-902-4136<br>
+					<a href="mailto:jaime.smith@gov.wa.gov">jaime.smith@gov.wa.gov</a>
 
+									
 				</div>
 			
 				<p>On March 14, 2018, Governor Jay Inslee signed an <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">Executive Order</a> directing immediate statewide action to benefit Southern Resident orcas, which are considered to be in imminent danger of extinction. <a href="https://www.tvw.org/watch/?eventID=2018031115">View a video recording of the signing ceremony.</a></p>
@@ -68,8 +72,9 @@
 				<p>
 					Southern Resident orcas have been protected in the U.S. since 1972 under the federal <a href="http://www.nmfs.noaa.gov/pr/laws/mmpa/">Marine Mammal Protection Act (MMPA)</a>, but continued population declines resulted in southern residents being listed as endangered in 2005 under the federal <a href="http://www.nmfs.noaa.gov/pr/laws/esa/">Endangered Species Act (ESA)</a>. In Canada, they are listed as endangered under the <a href="https://www.canada.ca/en/environment-climate-change/services/environmental-enforcement/acts-regulations/about-species-at-risk-act.html">Species at Risk Act</a>.<strong><u></u></strong></p>
 				<p>
-					Despite these protections, the population has fallen sharply over the past 20 years, from 98 in 1995 to 76 in 2018—a 22-percent decline. This represents the fewest Southern Resident orcas in more than three decades. </p><p>
-					Three primary factors threaten southern residents: a lack of prey, principally Chinook salmon; toxic contaminants; and disturbance from noise and vessel traffic.</p>
+					Despite these protections, the population has fallen sharply over the past 20 years, from 98 in 1995 to 76 in 2018—a 22-percent decline. This represents the fewest Southern Resident orcas in more than three decades. </p>
+				<p>
+					Three primary factors threaten southern residents: a lack of prey, principally Chinook salmon; toxic contaminants; and disturbance from vessel noise and  traffic.</p>
 	<h3>Recovery of orca depends on recovery of Chinook salmon</h3>
 				<p>
 					Chinook salmon comprise a large proportion of the diet of southern resident orcas. Reduced chinook runs undermine the ability of Southern Resident orcas to reproduce and recover. The Executive Order also aims to make prey more abundant for the orcas by creating healthier Chinook salmon runs.</p>
@@ -88,76 +93,58 @@
 			<th scope="col">Due Date</th>
 			<th scope="col">Agencies involved</th>
 			<th scope="col">Action</th>
-			<th scope="col">Contact</th>
-		</tr>
+			</tr>
 		<tr>
 			<td><p>April 30, 2018</p></td>
 			<td><p>WDFW and Parks</p></td>
 			<td><p>Increase enforcement and education concerning vessels and Chinook salmon fisheries</p></td>
-			<td><p>Bruce Botka<br>
-				360-902-2262<br>
-				<a href="milto:Bruce.botka@wdfw.wa.gov">Bruce.botka@wdfw.wa.gov</a> </p></td>
-		</tr>
+			</tr>
 		<tr>
 			<td><p>April 30, 2018</p></td>
 			<td><p>Ecology</p></td>
 			<td><p>Expand training programs that teach whale-watching vessels how to assist in the event of an oil spill</p></td>
-			<td><p>Contact information coming soon</p>
-				<br></td>
-		</tr>
+			</tr>
 		<tr>
 			<td><p>April 30, 2018</p></td>
 			<td><p>WDFW</p></td>
 			<td><p>Review and amend, as needed, 2018 recreational and commercial fishing regulations prioritizing protection of key areas and fish runs for Southern Resident orca recovery</p></td>
-			<td><p>Bruce Botka<br>
-				360-902-2262<br>
-				<a href="mailto:Bruce.botka@wdfw.wa.gov">Bruce.botka@wdfw.wa.gov </a></p></td>
-		</tr>
+			</tr>
 		<tr>
 			<td><p>April 30, 2018</p></td>
 			<td><p>WDFW</p></td>
 			<td><p>Explore options and develop a proposal to alter fish food used in state hatcheries to limit the amount of polychlorinated biphenyls (PCBs) in the prey of Southern Resident orca</p></td>
-			<td><p>Bruce Botka<br>
-				360-902-2262<br>
-				<a href="mailto:Bruce.botka@wdfw.wa.gov">Bruce.botka@wdfw.wa.gov </a></p></td>
-		</tr>
+			</tr>
 		<tr>
 			<td><p>July 1, 2018</p></td>
 			<td><p>Partnership, WDFW, Parks, DOL, GSRO</p></td>
-			<td><p>Prioritize existing outreach resources to support Southern Resident orca recovery. Collaborate with the Governor&rsquo;s Office to develop a public education program and identify needed resources.</p></td>
-			<td><p>Contact information coming soon</p></td>
-		</tr>
+			<td><p>Prioritize existing outreach resources to support Southern Resident orca recovery. Collaborate with the Governor&rsquo;s Office to develop a public education program and identify needed resources</p></td>
+			</tr>
 		<tr>
 			<td><p>July 31, 2018</p></td>
 			<td><p>WDFW (with review by the Partnership and GSRO)</p></td>
 			<td><p>identify high priorities for Southern Resident orcas and adjust programs if needed</p></td>
-			<td><p>Bruce Botka<br>
-				360-902-2262<br>
-				<a href="mailto:Bruce.botka@wdfw.wa.gov">Bruce.botka@wdfw.wa.gov </a></p></td>
-		</tr>
+			</tr>
 		<tr>
 			<td><p>July 31, 2018</p></td>
 				
 			<td><p>Ecology</p></td>
 			<td><p>Prioritize funding for stormwater mitigation projects that contribute to southern resident recovery</p></td>
-			<td><p>Contact information coming soon.</p></td>
-		</tr>
+			</tr>
 		<tr>
 			<td><p>December 15, 2018</p></td>
 			<td><p>Partnership, WDFW, GSRO</p></td>
 			<td><p>Demonstrate how Chinook recovery projects benefit Southern Resident orca recovery for the Pacific Coast Salmon Recovery Fund, the Puget Sound Acquisition and Restoration Program, the Estuary and Salmon Restoration program, and the Washington Coastal Restoration Initiative</p></td>
-			<td><p>Cathy Cochrane, <br>
-360-790-7058<br>
-<a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a>			</p></td>
-		</tr>
+			</tr>
 	</tbody>
 </table>
-	<p>WDFW = Washington Department of Fish and Wildlife<br>
-		GSRO = Governor&rsquo;s Salmon Recovery Office<br>
+	<p>
+		
 		DOL = Washington Department of Licensing<br>
 		Ecology = Washington Department of Ecology<br>
-		Partnership = Puget Sound Partnership<br>
-		Parks = Washington State Parks and Recreation Commission</p>
+		GSRO = Governor&rsquo;s Salmon Recovery Office<br>
+		Parks = Washington State Parks and Recreation Commission<br>
+		The Partnership = Puget Sound Partnership</p>
+		WDFW = Washington Department of Fish and Wildlife<br>
 
 <h3>TASK FORCE SCHEDULE</h3>
 		<ul>
@@ -180,22 +167,19 @@
 		<p>	<a href="https://rco.wa.gov/salmon_recovery/gsro.shtml">https://rco.wa.gov/salmon_recovery/gsro.shtml</a></p>
 			</div>
 
-			
+	<!--		
 		<div class="col-sm-2 padding-20-top padding-0-right">
 				<div class="right-nav-title margin-0-top ">CONTACT</div>
 				<ul class="nav-rightside-custom">
 					<li role="presentation"> <p>Cathy Cochrane,<br>
 						Communications Lead
 						<br>
-360-790-7058<br>
-<a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a>			</p>
+						360-790-7058<br>
+						<a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a>			</p>
 					</li>
-
-
-				
 				</ul>
 			</div>
-		</div>
+		</div>-->
 		<!--END OF ROW -->
 
 	</div>

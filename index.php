@@ -86,6 +86,22 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/net-pen.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e470d6">
+						Leadership Council to hear findings on Cypress Island net pen failure
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END--> 
 							
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
@@ -142,6 +158,8 @@
 				
 			</div>
 			<!--COLUMN END--> 
+	
+			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">

@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Puget sound partnership Funding opportunities</h1>
+			<h1> Funding opportunities</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -76,7 +76,7 @@ This page contains current contract and grant opportunities, as well as valuable
 
  <h2>Sole-Source Contract Notification</h2>
  
-<p> <a href="https://pspwa.box.com/s/5kmsz9dd9ytblqxt4htvar9dc3j1u88e">08-16-16 The Puget Sound Partnership (Partnership), a Washington State Agency, contemplates awarding one sole-source contract to ICF Jones & Stokes, Inc. to perform an After Action Review (AAR) of the 2016 Action Agenda processes and a Needs Assessment for the Comprehensive Plan component of the Action Agenda. The reviews are a directive of the Partnership’s Leadership Council and is in addition to the work that ICF is currently performing.  This agreement will provide support for these two efforts to be conducted concurrently as a means to provide input to the 2018 Action Agenda Update process.</a></p>
+<p> <a href="https://pspwa.box.com/s/dw0ttw8diybl9b7maceagyzhiebaqtle">03-26-18 The Puget Sound Partnership (Partnership), a Washington State Agency, contemplates awarding one sole-source contract to Sitka Technology Group to improve Miradi Share reporting and communication tools and capacity, particularly related to Local Integrating Organizations (LIO) plan content and syntheses (as specified in EPA work plan, Subtask C1).</a></p>
  
 			 
 		<!-- InstanceEndEditable --> </div>
