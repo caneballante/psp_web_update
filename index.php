@@ -86,6 +86,22 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/fed-delegation.jpg"  alt=""/> <strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/washington-congressional-delegation-comes-through-for-puget-sound-federal-funding-for-recovery-5e9f6a95872e">
+						Washington Congressional Delegation Comes Through for Puget Sound: Federal Funding for Recovery Maintained
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -132,15 +148,6 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 	
-			
-				
-				
-				
-			
-			
-			
-			
-		
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -158,8 +165,6 @@
 				
 			</div>
 			<!--COLUMN END--> 
-	
-			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -176,77 +181,65 @@
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
-		<div class="row light-blue-fill"> 
-			
-			
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content-->
-					<div class="newsbox-date">FEB<br>
-						15</div>
-					<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
-						LACEY COMMUNITY CENTER<br>
-						</a><br>
-					</div>
-					<!--END news content--> 
+		<div class="row light-blue-fill">
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">MAR<br> 28/29 </div>
+				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
+							WASHINGTON STATE UNIVERSITY, PUYALLUP</a><br>
 				</div>
+				<!--END news content-->
 			</div>
-			<!--COLUMN END--> 
-		
-			
-	
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">FEB<br>
-						28 </div>
-					<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-						UNIVERSITY OF WASHINGTON CAMPUS<br>
-						</a><br>
-						<br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-					<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content-->
-					<div class="newsbox-date">MAR<br>
-						22</div>
-					<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-						 SOUTH SEATTLE COMMUNITY COLLEGE
-					</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">MAR<br>
-						28/29 </div>
-					<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
-						WASHINGTON STATE UNIVERSITY, PUYALLUP</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			
-			
-		
-			
 		</div>
-		<!--ROW END--> 
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">APR<br> 25 </div>
+				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+							UNIVERSITY OF WASHINGTON CAMPUS<br>
+							</a><br>
+					<br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">MAY<br> 17
+				</div>
+				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
+							LACEY COMMUNITY CENTER<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">MAy<br> 24
+				</div>
+				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+							 SOUTH SEATTLE COMMUNITY COLLEGE
+						</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
 	</div>
-	<!--CONTAINER END--> 
-	
+	<!--ROW END-->
+	</div>
+<!--CONTAINER END--> 
 </div>
 <!--CONTAINER END--> 
 

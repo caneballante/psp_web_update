@@ -241,11 +241,14 @@
 			<br>
 			<!--S.E. PERFORMANCE AND EVALUATION-->
 			<h3>Performance and Evaluation			</h3>
-			<h5>Alex Mitchell</h5>
+		<h5>Nathalie Hamel</h5>
+			<p> Monitoring Program Performance Analyst<br/> 360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
+		<h5>Jenna Judge</h5>
+			<p> Monitoring Lead for the Puget Sound Partnership and PSEMP<br/> 360.870.1467| <a href="mailto:jenna.judge@psp.wa.gov">jenna.judge@psp.wa.gov</a></p>
+		<h5>Alex Mitchell</h5>
 			<p> Performance Management Analyst<br/> 360.464.1220 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a>
 			</p>
-			<h5>Nathalie Hamel</h5>
-			<p> Monitoring Program Performance Analyst<br/> 360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a>
+			
 				<!--ANCHOR LINK spaced 2 br above target-->
 				<a name="policy_and_planning"></a>
 				<br>

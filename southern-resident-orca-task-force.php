@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Puget Sound Partnership - 2017 Puget Sound Day on the Hill</title>
+	<title>Puget Sound Partnership - Southern Resident Orca Task Force</title>
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet" type="text/css">
@@ -52,9 +52,9 @@
 
 		<div class="row">
 			<div class="col-sm-9 margin-40-left padding-20-top padding-40-right content-column mobile-padding-20-left">
-					<div class="width-300-govdelivery-doth border-thin-blue floatright padding-10-all">
+					<div class="width-300-govdelivery-doth border-thin-blue floatright padding-10-all margin-30-bottom">
 					
-					<p><strong>Please direct all questions to the Governors office:</strong>	<br>
+					<p><strong>Please direct all press enquiries to the Governors office:</strong>	<br>
 					Jaime Smith <br>
 					Executive Director of Communications<br>
 					360-902-4136<br>
