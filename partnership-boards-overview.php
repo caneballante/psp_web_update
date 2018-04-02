@@ -67,12 +67,12 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
             <p><strong>Overview</strong></p>
-            <p>The Puget Sound Partnership&rsquo;s four boards support and guide the agency in its charge of mobilizing and accelerating the science-based effort to protect and restore Puget Sound.  <br>
+            <p>The Puget Sound Partnership&rsquo;s boards support and guide the agency in its charge of mobilizing and accelerating the science-based effort to protect and restore Puget Sound.  They consist of:  <br>
 1.              Leadership Council<br>
 2.              Ecosystem Coordination Board<br>
 3.              Science Panel<br>
-4.              Puget Sound Salmon Recovery Council</p>
-			<p>These four boards are integral to the agency&rsquo;s role as a backbone organization.</p>
+            </p>
+			<p>The Leadership Council is also the statutorily designated regional salmon recovery organization for Puget Sound and is advised by the Puget Sound Salmon Recovery Council on matters related to salmon recovery. The board system and its networks are integral to the success of Puget Sound restoration and protection effort.</p>
 			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></p>
 			<p>Washington State has over 200 boards and commissions to which the Governor appoints citizen members. Appointees are responsible for advising the Governor, the legislature, and state agencies. For more information on board and commission appointments visit <a href="http://governor.wa.gov/boards/default.aspx">http://governor.wa.gov/boards/default.aspx</a></p>
 <p><br>

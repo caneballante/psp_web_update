@@ -66,18 +66,25 @@
 				<p>On March 14, 2018, Governor Jay Inslee signed an <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">Executive Order</a> directing immediate statewide action to benefit Southern Resident orcas, which are considered to be in imminent danger of extinction. <a href="https://www.tvw.org/watch/?eventID=2018031115">View a video recording of the signing ceremony.</a></p>
 				<p><strong><a href="#actions">View state agency actions requested by the Governor</a></strong></p>
 				<h3>Orca recovery Task Force established</h3>
-				<p>The Executive Order  establishes a task force to coordinate with British Columbia, Oregon, California, Idaho, and Alaska in developing policy recommendations at the regional, state, and federal levels. The Governor has asked the Puget Sound Partnership and WDFW to team up in leading support for the Task Force, with assistance from the Office of Financial Management and the Governor&rsquo;s Policy Office. At the Governor&rsquo;s request, Stephanie Solien, vice chair of the Puget Sound Partnership Leadership Council, will co-chair the task force, along with Les Purce, former president of Evergreen State College. Members will include representatives of 12 state agencies and offices, along with representatives of native tribes, federal and local governments, and the private and non-profit sectors. Each of the four state legislative causes will be invited to appoint a member. WDFW and the Puget Sound Partnership will organize staff and subject-matter experts to support the task force.</p>
+				<p>The Executive Order  establishes a task force to coordinate with British Columbia, Oregon, California, Idaho, and Alaska in developing policy recommendations at the regional, state, and federal levels. The Governor has asked the Puget Sound Partnership and Washington Department of Fish and Wildlife (WDFW) to team up in leading support for the task force, with assistance from the Office of Financial Management and the Governor&rsquo;s Policy Office. At the Governor&rsquo;s request, Stephanie Solien, vice chair of the Puget Sound Partnership Leadership Council, will co-chair the task force, along with Les Purce, formerly president of Evergreen State College and mayor of Pocatello, Idaho. Members will include representatives of 12 state agencies and offices, along with representatives of native tribes, federal and local governments, and the private, academic, and non-profit sectors. Each of the four state legislative caucuses will be invited to appoint a member. WDFW and the Puget Sound Partnership will organize staff and subject-matter experts to support the task force.</p>
+				<h3>TASK FORCE SCHEDULE</h3>
+				<ul>
+					<li>Initial meeting: To be scheduled in April or May 2018</li>
+					<li>Draft report due: October 1, 2018</li>
+					<li>Complete report due: November 1, 2018 (includes recommendations)</li>
+					<li>Followup report due: October 1, 2019 (outlines progress, lessons learned, outstanding needs)</li>
+				</ul>
 				
 			<h3>Southern Resident orca—endangered since 2005</h3>
 				<p>
-					Southern Resident orcas have been protected in the U.S. since 1972 under the federal <a href="http://www.nmfs.noaa.gov/pr/laws/mmpa/">Marine Mammal Protection Act (MMPA)</a>, but continued population declines resulted in southern residents being listed as endangered in 2005 under the federal <a href="http://www.nmfs.noaa.gov/pr/laws/esa/">Endangered Species Act (ESA)</a>. In Canada, they are listed as endangered under the <a href="https://www.canada.ca/en/environment-climate-change/services/environmental-enforcement/acts-regulations/about-species-at-risk-act.html">Species at Risk Act</a>.<strong><u></u></strong></p>
+					Southern Resident orcas have been protected in the U.S. since 1972 under the federal <a href="http://www.nmfs.noaa.gov/pr/laws/mmpa/">Marine Mammal Protection Act (MMPA)</a>, but continued population declines resulted in the orcas being listed as endangered in 2005 under the federal <a href="http://www.nmfs.noaa.gov/pr/laws/esa/">Endangered Species Act (ESA)</a>. In Canada, they are listed as endangered under the <a href="https://www.canada.ca/en/environment-climate-change/services/environmental-enforcement/acts-regulations/about-species-at-risk-act.html">Species at Risk Act</a>.<strong><u></u></strong></p>
 				<p>
 					Despite these protections, the population has fallen sharply over the past 20 years, from 98 in 1995 to 76 in 2018—a 22-percent decline. This represents the fewest Southern Resident orcas in more than three decades. </p>
 				<p>
-					Three primary factors threaten southern residents: a lack of prey, principally Chinook salmon; toxic contaminants; and disturbance from vessel noise and  traffic.</p>
+					Three primary factors threaten the orcas: a lack of prey, principally Chinook salmon; toxic contaminants; and disturbance from vessel noise and  traffic.</p>
 	<h3>Recovery of orca depends on recovery of Chinook salmon</h3>
 				<p>
-					Chinook salmon comprise a large proportion of the diet of southern resident orcas. Reduced chinook runs undermine the ability of Southern Resident orcas to reproduce and recover. The Executive Order also aims to make prey more abundant for the orcas by creating healthier Chinook salmon runs.</p>
+					Chinook salmon comprise a large proportion of the diet of Southern Resident orcas. Reduced Chinook runs undermine the ability of the orcas to reproduce and recover. The Executive Order also aims to make prey more abundant for the orcas by creating healthier Chinook salmon runs.</p>
 				<a name="actions"></a>
 				<p>
 					Chinook salmon need a healthy and dependable environment in which to travel and reproduce, but are threatened by habitat loss, toxic pollutants (particularly those in stormwater runoff), streams blocked by development, predators, and newly arriving invasive fish. The loss of habitat and diminished water quality are key threats that led to the listing of Chinook salmon as a federally endangered species almost 20 years ago.</p>
@@ -146,17 +153,11 @@
 		The Partnership = Puget Sound Partnership</p>
 		WDFW = Washington Department of Fish and Wildlife<br>
 
-<h3>TASK FORCE SCHEDULE</h3>
-		<ul>
-			<li>Initial meeting: To be scheduled in April or May 2018</li>
-		<li>Draft report due: October 1, 2018</li>
-		<li>Complete report due: November 1, 2018 (includes recommendations)</li>
-			<li>Followup report due: October 1, 2019 (outlines progress, lessons learned, outstanding needs)</li>
-			</ul>
+
 		<h3>FOR MORE INFORMATION</h3>
-			<p><strong>National Oceanic and Atmospheric Administration (NOAA) Fisheries:</strong> federal agency responsible for enforcing the Marine Mammal Protection Act and implementing federal actions to recovery Southern Resident orca</p>
+			<p><strong>National Oceanic and Atmospheric Administration (NOAA) Fisheries:</strong> federal agency responsible for enforcing the Marine Mammal Protection Act and implementing federal actions to recover Southern Resident orcas</p>
 			<p><a href="http://www.nmfs.noaa.gov/pr/species/mammals/whales/killer-whale.html">http://www.nmfs.noaa.gov/pr/species/mammals/whales/killer-whale.html</a> </p>
-			<p><strong>Washington Department of Fish and Wildlife:</strong> state agency responsible for protecting Washington State&rsquo;s fish and wildlife</p>
+			<p><strong>Washington Department of Fish and Wildlife:</strong> state agency responsible for protecting Washington state&rsquo;s fish and wildlife</p>
 <p><a href="https://wdfw.wa.gov/conservation/endangered/marine_mammals.html">https://wdfw.wa.gov/conservation/endangered/marine_mammals.html</a></p>
 		<p><strong>Washington State Department of Ecology:</strong> state agency responsible for protecting the quality of Washington&rsquo;s marine and fresh waters</p>
 		<ul>

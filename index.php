@@ -43,6 +43,14 @@
 		</div>
 	</div>
 </header>
+	<div class="container-fluid">
+	<div class="row"> 
+		<div class="col-xs-12 orange-fill">
+			<h3 class="align-center white margin-5-bottom">GOVERNOR ANNOUNCES SOUTHERN RESIDENT ORCA TASK FORCE</h2>
+			<p class="align-center white-links margin-20-bottom"><a href="southern-resident-orca-task-force.php">LEARN MORE</a></p>
+		</div>
+	</div>
+</div>
 <div class="container padding-40-bottom" id="home-squares">
 	<div class="row"> 
 		<!--non breaking spaces keep the links from breaking into two lines-->

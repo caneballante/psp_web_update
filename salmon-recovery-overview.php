@@ -70,9 +70,9 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-		<p>On January 1, 2008, The Puget Sound Partnership Act, Section 49(3), RCW 77.85.090(3) designated the Partnership to serve as the regional salmon recovery organization for Puget Sound salmon species, except Hood Canal Summer Chum. As the regional salmon recovery entity, the Partnership leads implementation of a community-based, scientifically rigorous, and regionally significant recovery plan that was built through a multi-year stakeholder process.</p>
+		<p>On January 1, 2008, The Puget Sound Partnership Act, Section 49(3), RCW 77.85.090(3) designated  the Puget Sound Partnership's Leadership Council to serve as the regional salmon recovery organization for Puget Sound salmon species, except Hood Canal Summer Chum. As the regional salmon recovery entity, the Leadership Council leads implementation of a community-based, scientifically rigorous, and regionally significant recovery plan that was built through a multi-year stakeholder process.</p>
 <h2>What’s Happening</h2>
-<p>In close coordination with NOAA Fisheries, the Puget Sound Salmon Recovery Council, salmon recovery Lead Entities, and other partners, the Partnership is adaptively managing implementation of the Chinook Recovery Plan and supporting NOAA in the development of a Puget Sound Steelhead Recovery Plan. <a href="salmon-recovery-status.php">LEARN MORE</a></p>
+<p>In close coordination with NOAA Fisheries, the Puget Sound Salmon Recovery Council, salmon recovery Lead Entities, and other partners, the Leadership Council is adaptively managing implementation of the Chinook Recovery Plan and supporting NOAA in the development of a Puget Sound Steelhead Recovery Plan. <a href="salmon-recovery-status.php">LEARN MORE</a></p>
 <h2>Watershed Recovery Plans</h2>
 <p>The Puget Sound Chinook Recovery Plan is organized with a regional chapter (Volume I), 14 watershed-specific chapters, and a nearshore chapter (Volume II). The plan includes strategies and actions associated with marine and freshwater habitat protection and restoration, hatchery management, and harvest management. <a href="salmon-watershed-recovery-plans.php">LEARN MORE</a></p>
 <h2>Four Year Work Plans</h2>
