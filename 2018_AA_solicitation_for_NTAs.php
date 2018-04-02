@@ -65,7 +65,9 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p class="margin-0-top">The Puget Sound Partnership is now soliciting Near Term Actions (NTAs)for the 2018-2022 Action Agenda.</p>
+			<p class="margin-0-top">The solicitation for Near Terms Actions (NTAs) for the 2018–2022 Action Agenda is now closed. Thank you to all who developed and submitted an NTA proposal. Review of the NTAs begins April 2, 2018, and ends July 13, 2018. The Partnership will post an electronic version of the procedural record to our website  by August 1, 2018. The record will include a list of all NTAs submitted, links to the final NTA Fact Sheets, and documentation of the NTA reviews.</p>
+		
+			
 			
 		<div class="orange-fill margin-10-top margin-10-right margin-10-bottom rounded-corners padding-10-all border-thick-blue"> 
 				
@@ -76,9 +78,7 @@
 				<p class="white-links"><strong><a href="https://pspwa.box.com/s/7t7c4eszegdqh5gu5koirndiy0nr96vc">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX A: REGIONAL PRIORITIES </a></strong></p>
 				<p class="white-links"><strong><a href="https://pspwa.box.com/s/1myfmr5zwktptqcci7vmji34pov3hwmx">Access the Solicitation for Near Term Actions for the 2018-2022 Action Agenda APPENDIX B: LIO NTA DEVELOPMENT AND REVIEW PROCESS </a></strong></p>
 				<hr />
-				<p class="white-links">NTA submissions will be accepted through the online  NTA submittal tool. <br>
-					<a href="http://www.psp.wa.gov/gis/NTATool/NTASubmission.html"><strong>Access the online  NTA submittal tool to start drafting your NTA. </strong></a><strong> </strong> <br></p>
-					<hr />
+			
 				<p class="white-links">The Partnership appreciates all of the feedback received following the public comment period on the draft Solicitation for Near Term Actions for the 2018-2022 Action Agenda. <br>
 				<a href="https://pspwa.box.com/s/xqdcol6pcegjuctqr6yqb295svndg7n3"><strong>Access the Public Comment Summaries and Responses for the draft Solicitation for Near Term Actions. </strong></a><strong> </strong><br>
 				<strong><a href="https://pspwa.box.com/s/lpyx331wnsh4bpvr49w5bv7dcs9w4ksi">Access the companion Detailed Comment Matrix.  </a></strong><br></p>
