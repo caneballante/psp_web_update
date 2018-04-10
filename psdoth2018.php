@@ -98,10 +98,17 @@
 				<p><a href="https://www.ihg.com/kimptonhotels/hotels/us/en/reservation">Kimpton Hotel Monaco Washington D.C.</a> – 27 minutes from Capitol Campus; on direct route via Red Line Metro</p>
 				<p><a href="http://www.phoenixparkhotel.com/">Phoenix Park Hotel</a> – within walking distance from Capitol Campus; on direct route via DC Circulator Metro</p>
 				<p><em>Note: Per diem rate rooms are limited and may be sold out at any time.</em></p>
-				<p> </p>
-				<p> </p>
-				<p> </p>
-			</div>
+				<p><strong>Other recommended hotels near Capitol Hill (not currently offering per diem)</strong></p>
+				<p><a href="https://www.jdvhotels.com/hotels/washington-dc/washington/liaison-capitol-hill">Liaison Capitol Hill DC</a><br>
+				</p>
+				<p><a href="https://washingtondc.regency.hyatt.com/en/hotel/home.html">Hyatt Regency Washington on Capitol Hill</a><br>
+				</p>
+				<p><a href="https://www.ihg.com/holidayinn/hotels/us/en/washington/wassm/hoteldetail?cm_mmc=YextLocal-_-USA-_-WASSM">Holiday Inn Washington-Capitol </a><br>
+				</p>
+				<p><a href="http://www.hotelgeorge.com/">Kimpton George Hotel<br>
+				</a></p>
+			
+			</a></div>
 
 			<div class="col-sm-2 padding-20-top padding-0-right">
 				<div class="right-nav-title margin-0-top ">2018 PUGET SOUND DAY ON THE HILL LINKS </div>

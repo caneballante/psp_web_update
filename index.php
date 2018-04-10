@@ -153,7 +153,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/press-release-orca.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e27144">
-						PUGET SOUND PARTNERSHIP TO SERVE KEY ROLE IN SOUTHERN RESIDENT ORCA TASK FORCE
+						Puget Sound Partnership to serve key role in Southern Resident Orca Task Force
 						</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -197,22 +197,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/salish-sea.jpg"  alt=""/> 
-						</strong>EVENT<br>
-						<a href="https://wp.wwu.edu/salishseaconference/">2018 SALISH SEA CONFERENCE</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/innovation-stories.jpg"  alt=""/> 
-						</strong>PUGET SOUND INNOVATION STORIES<br>
-						<a href="https://pugetsoundinnovationstories.blog/">LEARN ABOUT THE PEOPLE AND PROJECTS SAVING THE SOUND</a><br>
+						<strong>PUGET SOUND INNOVATION STORIES<br></strong>
+						<a href="https://pugetsoundinnovationstories.blog/">Learn about the people and projects saving the Sound</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -222,18 +209,7 @@
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill">
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
-				<div class="newsbox-date">MAR<br> 28/29 </div>
-				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
-							WASHINGTON STATE UNIVERSITY, PUYALLUP</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
+	
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
@@ -266,11 +242,24 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">MAy<br> 24
+				<div class="newsbox-date">MAY<br> 24
 				</div>
 				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
 							 SOUTH SEATTLE COMMUNITY COLLEGE
 						</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">JUN<br> 
+				12 </div>
+				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
+				SHORELINE</a><br>
 				</div>
 				<!--END news content-->
 			</div>

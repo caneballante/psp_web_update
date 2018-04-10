@@ -81,9 +81,9 @@
 					<td><a href="https://pspwa.box.com/s/99h4z3oa9wfqs6sba56noz43ehty06mn" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>June 12/13</p></td>
-					<td><p>Tentatively at North Cascades Environmental Learning Center<br>
-					(near Diablo/Ross lakes)</p></td>
+					<td><p>June 12</p></td>
+					<td><p>Tentatively at Shoreline, Wa<br>
+					</p></td>
 
 					<td><a href="https://pspwa.box.com/s/yinkhf1j2fu9fhgjwk76j7tkknl5g56r" target="new">Meeting Materials</a></td>
 

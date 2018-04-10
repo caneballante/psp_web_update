@@ -75,6 +75,7 @@ a[href^="http"] {
 #home-squares a {
 	font-size: 14px;
 	font-weight: 100;
+	line-height: 1.2em;
 }
 .learn-more-box a {
 	color: #fff;
