@@ -94,6 +94,22 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/blog-no-discharge.jpg"  alt=""/> <strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/just-in-time-for-wa-shellfish-week-no-discharge-zone-is-cause-for-celebration-8bbe8c866978">
+						Just in time for WA Shellfish Week, ‘No Discharge Zone’ is cause for celebration
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END--> 
 				<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -231,7 +247,7 @@
 				<div class="newsbox-date">MAY<br> 17
 				</div>
 				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
-							LACEY COMMUNITY CENTER<br>
+							SOUTH SEATTLE COMMUNITY COLLEGE<br>
 							</a><br>
 				</div>
 				<!--END news content-->
@@ -242,11 +258,11 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">MAY<br> 24
+				<div class="newsbox-date">MAY<br> 
+				31
 				</div>
 				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-							 SOUTH SEATTLE COMMUNITY COLLEGE
-						</a><br>
+							 EDMOND CENTER FOR THE ARTS</a><br>
 				</div>
 				<!--END news content-->
 			</div>

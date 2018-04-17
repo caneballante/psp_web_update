@@ -92,7 +92,7 @@
 				</tr>
 				
 				<tr>
-					<td><p>May 24</p></td>
+					<td><p>May 31</p></td>
 					<td><p>Edmonds Center for the Arts<br>
 					  410 Fourth Ave N<br>
 				    Edmonds, WA 98020</p></td>

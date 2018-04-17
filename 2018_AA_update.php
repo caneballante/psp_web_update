@@ -120,6 +120,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"><a href="http://www.psp.wa.gov/gis/NTATool/RegionalPriorities">Regional Priorities for the 2018-2022 Action Agenda</a></li>
 					<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
 				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
 				<li role="presentation"><a href="implementation-strategies.php">Implementation Strategies</a></li>
