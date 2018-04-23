@@ -94,6 +94,23 @@
 		
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+			
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/sea-turtle.jpg"  alt=""/> <strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/celebrating-earth-day-with-action-to-end-plastic-pollution-82c9d3f6caea">
+						4/18 - Celebrating Earth Day with action to end plastic pollution
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -101,7 +118,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/blog-no-discharge.jpg"  alt=""/> <strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/just-in-time-for-wa-shellfish-week-no-discharge-zone-is-cause-for-celebration-8bbe8c866978">
-						Just in time for WA Shellfish Week, ‘No Discharge Zone’ is cause for celebration
+						4/12 - Just in time for WA Shellfish Week, ‘No Discharge Zone’ is cause for celebration
 						</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -117,7 +134,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/fed-delegation.jpg"  alt=""/> <strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/washington-congressional-delegation-comes-through-for-puget-sound-federal-funding-for-recovery-5e9f6a95872e">
-						Washington Congressional Delegation Comes Through for Puget Sound: Federal Funding for Recovery Maintained
+						3/23 - Washington Congressional Delegation Comes Through for Puget Sound: Federal Funding for Recovery Maintained
 						</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -133,7 +150,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/toby-murray.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e5171a">
-						Governor Inslee appoints Toby Murray to Puget Sound Partnership's Leadership Council
+						3/27 - Governor Inslee appoints Toby Murray to Puget Sound Partnership's Leadership Council
 						</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -152,7 +169,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/net-pen.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e470d6">
-						Leadership Council to hear findings on Cypress Island net pen failure
+						3/23 - Leadership Council to hear findings on Cypress Island net pen failure
 						</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -169,7 +186,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/press-release-orca.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e27144">
-						Puget Sound Partnership to serve key role in Southern Resident Orca Task Force
+						3/15 - Puget Sound Partnership to serve key role in Southern Resident Orca Task Force
 						</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -183,9 +200,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/press-release-olympia-aerial.jpg"  alt=""/> <strong>2018 LEGISLATIVE WRAP-UP<br>
+						<img class="img-responsive img-rounded" src="images/news-images/press-release-olympia-aerial.jpg"  alt=""/> <strong>2018 LEGISLATIVE SESSION<br>
 						</strong>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e2b6e0">March 16th, 2018</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e2b6e0">March 16th, 2018 - Legislative wrap-up</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
@@ -198,8 +215,8 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/press-release-puget-sound-day-on-the-hill-2017.jpg"  alt=""/> <strong>SAVE THE DATE!</strong><br>
 						<a href="psdoth2018.php">
-						PUGET SOUND DAY ON THE<br>
-							MAY 23rd 2018
+						Puget Sound Day on the Hill<br>
+							May 23rd 2018
 						</a><br>
 						<!--END news content BOX--> 
 					</div>

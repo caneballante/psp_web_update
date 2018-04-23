@@ -73,7 +73,8 @@
 					<!-- /input-group --> 
 				</div>
 				<p>Once again, the President has proposed a budget to Congress that zeroes out all federal funding for Puget Sound recovery. Last year, we spoke up, and Congress listened. Join us again this year as we travel to Washington D.C. for Puget Sound Day on The Hill, May 23. We will meet with key decision makers to let them know the benefits a healthy Puget Sound brings to the entire nation, as well as to our region</p>
-				<p><strong> <a href="https://goo.gl/forms/9pEzgetK67ksbJn13">Please RSVP to attend by following this link. </a></strong><strong> </strong></p>
+				<p><strong> <a href="https://goo.gl/forms/9pEzgetK67ksbJn13">Please RSVP to attend by following this link </a></strong><strong> </strong></p>
+				<p><strong> <a href="https://pspwa.box.com/s/5tl2r1pfydu10n58uoiqrxzuz9defxg0">April 20 PSDOTH Planning Meeting Materials</a></strong><strong> </strong></p>
 				<h3>Basic Itinerary</h3>
 				<p><em>Tuesday May 22</em>: arrival, evening reception</p>
 				<p><em>Wednesday May 23</em>: all day group meeting with congressional and agency leaders; smaller breakout events </p>

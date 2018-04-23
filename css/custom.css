@@ -429,7 +429,8 @@ p {
 	color: #00293e;
 }*/
 .newsbox a {
-	color: #1ab3ff;
+	color: #93dbff;
+	font-size: 14px;
 }
 /*.newsbox a:hover {
 	color: #00293e;
@@ -465,6 +466,7 @@ p {
 }
 .calendarbox a {
 	color: #ffffff;
+	font-size: 12px;
 }
 
 /* make the news boxes a little shorter on mobile*/
