@@ -161,7 +161,7 @@
 					<td valign="top"><p><strong>Snohomish Watershed</strong></p></td>
 					<td valign="top"><p>Sound Salmon Solutions and Snohomish County</p></td>
 					<td valign="top"><p><strong>Rodney Pond</strong></p></td>
-					<td valign="top"><p>Keith Brinkley</p></td>
+					<td valign="top"><p>Keith Binkley</p></td>
 					<td valign="top"></td>
 				</tr>
 				<tr>

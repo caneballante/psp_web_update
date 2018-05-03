@@ -65,6 +65,17 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		    <div class="highlightbox">
+		  		  <h3>UPDATED 4.25.18 Shoreline Armoring Implementation Strategy available </h3>
+			
+			<p>A new Shoreline Armoring Implementation Strategy that aims to reduce <a href="http://www.psp.wa.gov/vitalsigns/shoreline_armoring.php" target="_blank">shoreline armoring in Puget Sound</a> is now final following public comment and external review. The <a href="https://pugetsoundestuary.wa.gov/about/strategic-initiatives/" target="_blank">Habitat Strategic Initiative</a> team developed the strategy in partnership with the Washington Department of Fish &amp; Wildlife, Washington Department of Natural Resources, Puget Sound Partnership, Puget Sound Institute, and an <a href="https://pspwa.box.com/s/bzqt9amrn5nz8nrtzlvwkak7z9w66jw5" target="_blank">Interdisciplinary Team of experts</a>.</p>
+		  	<p>Learn more about the Implementation Strategy:</p>
+		  	<p>·         Check out our <a href="https://pspwa.box.com/s/7txtkxd550twoxi31jbtjnxlmh595lsv" target="_blank">poster</a> presented at the Salish Sea Ecosystem Conference</p>
+		  	<p>·         Read our <a href="https://pspwa.box.com/s/94l5kleynxsguyu6x0a40wxyz10qmtbz" target="_blank">fact sheet</a></p>
+		  	<p>·         Read the <a href="https://pspwa.box.com/s/tddkkijelt53bvlom2z1xi0xl5xkacp7" target="_blank">executive summary</a> and <a href="https://pspwa.box.com/s/8aoi05npjh5ffs6or6qmwye1g4hc1yk5" target="_blank">narrative</a></p>
+		  	<p>·         Find links to <a href="https://pspwa.box.com/v/sa-readme" target="_blank">all supporting materials</a></p>
+			</div>
+            <p>&nbsp;</p>
             <p><strong>Implementation Strategies</strong> (Strategies) are plans for accelerating progress toward the 2020 <a href="action_agenda_targets.php">ecosystem recovery targets</a> for the <a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a>. The Strategies are developed collaboratively with technical, professional, and policy experts and with local and regional input. An overview of the Strategies is available at the <a href="https://www.eopugetsound.org/magazine/is/implementation-strategies">Encyclopedia of Puget Sound</a> website.</p>
             <p>Each Strategy accomplishes the following</p>
             <ul>

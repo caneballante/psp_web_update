@@ -91,7 +91,7 @@ Seattle, WA 98105</p></td>
 					  1013 NE 40th Street<br>
 				    Seattle, WA 98105</p></td>
 
-					<td><a href="hhttps://pspwa.box.com/s/8psg1ph28snzbxhvhipo1pnh9n6rb3nj" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/8psg1ph28snzbxhvhipo1pnh9n6rb3nj" target="new">Meeting Materials</a></td>
 
 				</tr>
 				

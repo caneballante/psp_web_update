@@ -69,6 +69,16 @@
             
                         <!-- ANNOUNCEMENT START --->
         <div class="highlightbox">
+		  		  <h3>UPDATED 4.25.18 Shoreline Armoring Implementation Strategy available </h3>
+			
+			<p>A new Shoreline Armoring Implementation Strategy that aims to reduce <a href="http://www.psp.wa.gov/vitalsigns/shoreline_armoring.php" target="_blank">shoreline armoring in Puget Sound</a> is now final following public comment and external review. The <a href="https://pugetsoundestuary.wa.gov/about/strategic-initiatives/" target="_blank">Habitat Strategic Initiative</a> team developed the strategy in partnership with the Washington Department of Fish &amp; Wildlife, Washington Department of Natural Resources, Puget Sound Partnership, Puget Sound Institute, and an <a href="https://pspwa.box.com/s/bzqt9amrn5nz8nrtzlvwkak7z9w66jw5" target="_blank">Interdisciplinary Team of experts</a>.</p>
+		  	<p>Learn more about the Implementation Strategy:</p>
+		  	<p>·         Check out our <a href="https://pspwa.box.com/s/7txtkxd550twoxi31jbtjnxlmh595lsv" target="_blank">poster</a> presented at the Salish Sea Ecosystem Conference</p>
+		  	<p>·         Read our <a href="https://pspwa.box.com/s/94l5kleynxsguyu6x0a40wxyz10qmtbz" target="_blank">fact sheet</a></p>
+		  	<p>·         Read the <a href="https://pspwa.box.com/s/tddkkijelt53bvlom2z1xi0xl5xkacp7" target="_blank">executive summary</a> and <a href="https://pspwa.box.com/s/8aoi05npjh5ffs6or6qmwye1g4hc1yk5" target="_blank">narrative</a></p>
+		  	<p>·         Find links to <a href="https://pspwa.box.com/v/sa-readme" target="_blank">all supporting materials</a></p>
+			</div>
+			<div class="highlightbox margin-20-top">
 		  <h3>UPDATED 11.30.17 (ORIGINAL DATE 10.30.17 )<br>
 		  	EXTENDED THROUGH DECEMBER 8TH: Draft Shoreline Armoring Implementation Strategy available for Public Comment</h3>
 			<p>The <a href="https://pugetsoundestuary.wa.gov/about/strategic-initiatives/">Habitat Strategic Initiative</a> team, in partnership with the Washington Department of Fish &amp; Wildlife, Washington Department of Natural Resources, Puget Sound Partnership, Puget Sound Institute, and an <a href="https://pspwa.box.com/s/bzqt9amrn5nz8nrtzlvwkak7z9w66jw5">Interdisciplinary Team</a> of experts, has been developing the Shoreline Armoring Implementation Strategy to maximize progress towards reducing <a href="http://www.psp.wa.gov/vitalsigns/shoreline_armoring.php">shoreline armor in Puget Sound</a>. To learn more, watch a <a href="https://pspwa.box.com/s/73du68az13r83gxnhs2ac256boj3aamv">brief video</a> on the development of the Implementation Strategy and read our <a href="https://pspwa.box.com/s/94l5kleynxsguyu6x0a40wxyz10qmtbz">fact sheet</a>. </p>

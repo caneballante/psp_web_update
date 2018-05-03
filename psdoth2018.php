@@ -82,9 +82,14 @@
 				<p>Please note that participants are responsible for making travel and accommodation arrangements.</p>
 				<p>As we get closer to the trip, Puget Sound Partnership will host two planning and preparation meetings at the Center for Urban Waters in Tacoma to discuss and refine messages for the trip and finalize logistics. Agendas and call-in numbers will be provided in advance, although in-person attendance is highly recommended.</p>
 		
-				<p><strong>2018 Group Planning Meetings</strong></p>
-				<p>Planning Meeting 1:  Friday April 20, 9 am - 12 pm, Center for Urban Waters, Tacoma</p>
-				<p>Planning Meeting 2:  Wednesday May 9, 1-4 pm, Center for Urban Waters, Tacoma</p>
+				<h3><strong>2018 Group Planning Meetings</strong></h3>
+				<p><strong>Planning Meeting 1:</strong>  Friday April 20, 9 am - 12 pm, Center for Urban Waters, Tacoma</p>
+				<ul>
+					<li>Please send any additional suggested edits or feedback on the 1-page leave behind as well as the sign-on letter to <a href="mailto:marie@cascadiaconsulting.com">marie@cascadiaconsulting.com</a> and cc Sheida Sahandy by <strong>COB Friday, 4/27</strong>. </li>
+					<li>Visit this <a href="https://docs.google.com/spreadsheets/d/1RkPBsq4Ir5xj0rooU6P-1gAU-4khzUlwax06I9pk9lU/edit?usp=sharing">link</a> to review our list of potential signatories to the support letter. Feel free to edit this sheet directly and add more organizations as well as sign up to contact those organizations. We will provide the letter and directions for signing on once it is finalized. </li>
+					<li>Please RSVP to <a href="mailto:Denise.Ross@pspwa.gov">Denise.Ross@pspwa.gov</a> and let her know if you will be attending the next planning meeting (May 9, 1-4 pm at the Center for Urban Waters) in person or calling in. An agenda and meeting packet with call-in info will be sent out in advance.				</li>
+				</ul>
+				<p><strong>Planning Meeting 2:</strong>  Wednesday May 9, 1-4 pm, Center for Urban Waters, Tacoma</p>
 				<h3>Travel Information</h3>
 				<p>Alaska Airlines is offering a five percent discount to PSDOH18 attendees!</p>
 				<p><strong>Use discount code:</strong> <strong>ECMZ518</strong>
@@ -118,7 +123,9 @@
 					</li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/9cswkefkra7g93ag4ep7p38h4ka66f4w">Congressional letter of support for Puget Sound appropriations</a>
 					</li>
-
+					<div class="right-nav-title margin-20-top ">THANKS FOR SUPPORTING THE 2018 PUGET SOUND DAY ON THE HILL </div>
+					<div>
+					<img class="img-responsive" src="images/psdoth2018.jpg" width="200" height="398" alt=""/>
 
 					<!--	<li role="presentation"> <a href="#">KOMO radio interview with Sheida Sahandy</a></li>-->
 				</ul>

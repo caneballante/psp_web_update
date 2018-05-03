@@ -66,14 +66,55 @@
 				<p>On March 14, 2018, Governor Jay Inslee signed an <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">Executive Order</a> directing immediate statewide action to benefit Southern Resident orcas, which are considered to be in imminent danger of extinction. <a href="https://www.tvw.org/watch/?eventID=2018031115">View a video recording of the signing ceremony.</a></p>
 				<p><strong><a href="#actions">View state agency actions requested by the Governor</a></strong></p>
 				<h3>Orca recovery Task Force established</h3>
-				<p>The Executive Order  establishes a task force to coordinate with British Columbia, Oregon, California, Idaho, and Alaska in developing policy recommendations at the regional, state, and federal levels. The Governor has asked the Puget Sound Partnership and Washington Department of Fish and Wildlife (WDFW) to team up in leading support for the task force, with assistance from the Office of Financial Management and the Governor&rsquo;s Policy Office. At the Governor&rsquo;s request, Stephanie Solien, vice chair of the Puget Sound Partnership Leadership Council, will co-chair the task force, along with Les Purce, formerly president of Evergreen State College and mayor of Pocatello, Idaho. Members will include representatives of 12 state agencies and offices, along with representatives of native tribes, federal and local governments, and the private, academic, and non-profit sectors. Each of the four state legislative caucuses will be invited to appoint a member. WDFW and the Puget Sound Partnership will organize staff and subject-matter experts to support the task force.</p>
+				<p><span lang="EN">The Executive Order establishes a task force to coordinate with British Columbia, Oregon, California, Idaho, and Alaska in developing policy recommendations at the regional, state, and federal levels. The Governor asked the Puget Sound Partnership and Washington Department of Fish and Wildlife (WDFW) to team up in leading support for the task force, with assistance from the Office of Financial Management and the Governor&rsquo;s Policy Office. At the Governor&rsquo;s request, Stephanie Solien, vice chair of the Puget Sound Partnership Leadership Council, will co-chair the task force, along with Thomas (Les) Purce, formerly president of Evergreen State College and mayor of Pocatello, Idaho. </span><span lang="EN">The Governor invited Task Force participation from members of the legislature; the Government of Canada; representatives from tribal, federal, local and other state governments; the private sector; and the non-profit sector.  The Task Force also includes designees from WDFW, the Partnership, and many other state agencies.</span></p>
 				<h3>TASK FORCE SCHEDULE</h3>
-				<ul>
-					<li>Initial meeting: To be scheduled in April or May 2018</li>
-					<li>Draft report due: October 1, 2018</li>
-					<li>Complete report due: November 1, 2018 (includes recommendations)</li>
-					<li>Followup report due: October 1, 2019 (outlines progress, lessons learned, outstanding needs)</li>
+				<ul><li>
+					<p>Initial meeting: May 1, 2018, 10 to 4:30, Lacey Community Center, 6729 Pacific Avenue SE, Lacey, WA</p>
+					<p>The Governor&rsquo;s Office will post the meeting agenda on Governor Inslee&rsquo;s website before the meeting:<a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force</a>				</p>
+				</li>
+					<li>
+						<p>Draft report due: October 1, 2018</p>
+					</li>
+					<li>
+						<p>Complete report due: November 1, 2018 (includes recommendations)</p>
+					</li>
+					<li>
+						<p>Followup report due: October 1, 2019 (outlines progress, lessons learned, outstanding needs)</p>
+					</li>
 				</ul>
+				<h3>TASK FORCE MEMBERS</h3>
+				<p><span lang="EN">Phil Anderson, Pacific Salmon Council</span></p>
+				<p><span lang="EN">Ken Balcomb, Center for Whale Research</span></p>
+				<p><span lang="EN">Lynne Barre, National Oceanic and Atmospheric Administration</span></p>
+				<p><span lang="EN">Maia Bellon, Washington State Department of Ecology</span></p>
+				<p><span lang="EN">Gary Chandler, Association of Washington Business</span></p>
+				<p><span lang="EN">Kaleen Cottingham, Washington State Recreation and Conservation Office</span></p>
+				<p><span lang="EN">Mark Doumit, Washington Forest Protection Association</span></p>
+				<p><span lang="EN">Ron Garner, Puget Sound Anglers</span></p>
+				<p><span lang="EN">Joe Gaydos, The SeaDoc Society</span></p>
+				<p><span lang="EN">Brendan Flynn, Commercial Fisherman</span></p>
+				<p><span lang="EN">Jeff Friedman, Pacific Whale Watch Association</span></p>
+				<p><span lang="EN">Will Hall, City of Shoreline</span></p>
+				<p><span lang="EN">George Harris, NW Marine Trade Association</span></p>
+				<p><span lang="EN">Andy Hover, Okanogan County</span></p>
+				<p><span lang="EN">Chairman Jay Julius, Lummi Nation</span></p>
+				<p><span lang="EN">B.J. Kieffer, Spokane Tribe</span></p>
+				<p><span lang="EN">Kathy Pittis, Port of Anacortes</span></p>
+				<p><span lang="EN">Sen. Kevin Ranker (D), District 40, Orcas Island</span></p>
+				<p><span lang="EN">Mindy Roberts, Washington Environmental Council</span></p>
+				<p><span lang="EN">Sheida Sahandy, Puget Sound Partnership</span></p>
+				<p><span lang="EN">Amy Scarton, Washington State Department of Transportation</span></p>
+				<p><span lang="EN">Ron Schulz, Washington State Conservation Commission</span></p>
+				<p><span lang="EN">Evan Sheffels, Washington State Farm Bureau</span></p>
+				<p><span lang="EN">Brad Smith, Washington Fish and Wildlife Commission</span></p>
+				<p><span lang="EN">Butch Smith, Ilwaco Charters</span></p>
+				<p><span lang="EN">Jamie Stephens, San Juan County</span></p>
+				<p><span lang="EN">Kristin Swenddal, Washington State Department of Natural Resources</span></p>
+				<p><span lang="EN">Trina Wellman, Northern Economics, Inc.</span></p>
+				<p><span lang="EN">Jacques White, Long Live The Kings</span></p>
+				<p><span lang="EN">Amy Windrope, Washington Department of Fish and Wildlife</span></p>
+				<p><span lang="EN">Chairman Tom Wooten, Samish Indian Nation</span></p>
+				<p> </p>
 				
 			<h3>Southern Resident orca—endangered since 2005</h3>
 				<p>
