@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Puget Sound Vital Signs</title>
+<title>Puget Sound Partnership - About the Puget Sound</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -26,7 +26,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 2;
-</script>
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -41,13 +41,13 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image25"> </header>
+<header class="overview-page-image-style overview-page-image108"> </header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Puget Sound Vital signs</h1>
+			<h1>PEOPLE AND PUGET SOUND </h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -58,59 +58,25 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/ln-eval-health.html';?>
-	
+				<?php include 'includes/ln-psp-recovery.html';?>	
+				
 			<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		
-			<h2 class="margin-0-top">PUGET SOUND VITAL SIGNS</h2>
-			<p>The Puget Sound Vital Signs gauge the health of Puget Sound and guide our assessment of the progress made toward ecosystem recovery goals. Each Vital Sign represents an important component of the ecosystem; each component is represented by one or more indicators. Vital Sign indicators are used to measure and report important, specific aspects of the Puget Sound ecology and human wellbeing, while targets associated with indicators are policy statements that define desired future outcomes.</p>
-			<p>.  <a href="/vitalsigns/index.php">Visit the Puget Sound Vital Signs web site.</a></p>
 			
-			<p><a href="https://pspwa.app.box.com/s/g7jddc0r39mtvm0yvkqbry2ah62cu0bz">download  2017 Vital Signs webinar powerpoint</a> <img class="img-responsive" src="images/vitalsigns_wheel.png" width="600" height="602" alt=""/> <!-- InstanceEndEditable --> </div>
+			<p>People and Puget Sound are inseparably linked—we depend on and directly affect our region&rsquo;s ecosystems, of which we are a part. The health of our communities, economies, and physical, psychological, social, and cultural systems are directly linked to our environment. The way in which we manage and make decisions about the environment and our structures and processes of governance also affect human wellbeing. For these reasons, human wellbeing—both our health and quality of life—is also important to the health of Puget Sound. </p>
+<p>Each Vital Sign has measures to track progress toward goals, objectives, and recovery targets. The Human Wellbeing Vital Sign indicators track and reflect important aspects of human wellbeing related to the environment in Puget Sound. They highlight the connections between human and natural systems and the condition of the Puget Sound ecosystem. These indicators include familiar aspects of human health, like clean air, water, and food, as well as other aspects of quality of life such as economic vitality, cultural wellbeing, and sense of place. <a href="evaluating-human-wellbeing.php">Read more about human wellbeing and how it is being addressed within Puget Sound recovery</a>.</p>
+<p>To address the many challenges facing Puget Sound, comprehensive strategies for recovery—called Implementation Strategies—are being developed for some of the Puget Sound Vital Signs. Most of the environmental challenges of Puget Sound involve people and the decisions they make. Actions intended to benefit people in the short-term can have unintended long-term consequences. Because human and natural systems are inextricably linked, efforts to recover Puget Sound must consider the underlying social and ecological systems. <a href="social-strategies-overview.php">Read about the stewardship and outreach efforts of our partners and the Partnership </a></p>
+<div>
+	<div> </div>
+	<div> </div>
+</div>
+		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
-					<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
-				
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
-				<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology</a></li>
-				<li role="presentation"> <a href="https://www.dnr.wa.gov">WA Dept of Natural Resources</a></li>
-				<li role="presentation"> <a href="https://www.doh.wa.gov/CommunityandEnvironment">WA Dept of Health</a></li>
-				<li role="presentation"> <a href="https://wdfw.wa.gov/">WA Dept of Fish and Wildlife</a></li>
-				<li role="presentation"> <a href="http://www.whaleresearch.com">Center for Whale Research</a></li>
-				
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
-				<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
-					<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
-					
-					<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
-					<li></li>
-			<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
-					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

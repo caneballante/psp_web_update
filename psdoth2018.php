@@ -56,6 +56,8 @@
 		<div class="row">
 			<div class="col-sm-9 margin-40-left padding-20-top padding-40-right content-column mobile-padding-20-left">
 				<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
+					
+					
 					<h3 class="margin-10-top">SIGN UP TO RECEIVE UPDATES FOR PUGET SOUND DAY ON THE HILL </h3>
 					<p><em>Make sure to check the "Puget Sound Day on the Hill" box</em>
 <!-- input-group -->
@@ -74,7 +76,16 @@
 				</div>
 				<p>Once again, the President has proposed a budget to Congress that zeroes out all federal funding for Puget Sound recovery. Last year, we spoke up, and Congress listened. Join us again this year as we travel to Washington D.C. for Puget Sound Day on The Hill, May 23. We will meet with key decision makers to let them know the benefits a healthy Puget Sound brings to the entire nation, as well as to our region</p>
 				<p><strong> <a href="https://goo.gl/forms/9pEzgetK67ksbJn13">Please RSVP to attend by following this link </a></strong><strong> </strong></p>
-				<p><strong> <a href="https://pspwa.box.com/s/5tl2r1pfydu10n58uoiqrxzuz9defxg0">April 20 PSDOTH Planning Meeting Materials</a></strong><strong> </strong></p>
+				<p><strong> <a href="https://pspwa.box.com/s/nhhl1wjjpzj4zgyqzj2rmxgeuq605u7e">May 9th PSDOTH Planning Meeting Materials</a></strong><strong> </strong></p>
+				
+				<h3>SIGN THE LETTER OF SUPPORT</h3>
+				<p>To demonstrate even broader support for the fourth annual Puget Sound Day on the Hill on May 23rd, we’re asking leading organizations in the region to join us by signing on to the letter. </p>
+ 
+<p>To be included as an official signatory to the letter, please provide the requested information at the following <a href="https://goo.gl/forms/ZUjA3Hj6M5Oa9dMf1">link</a>. Enter your name, title, and organization exactly as you would like it to appear in the letter.</p>
+				
+				<p><a href="https://pspwa.box.com/s/3n4w7d0awq5k9psubake1o4czvpr39fr">Read the Puget Sound Letter of Support</a></p>
+				<p><a href="https://goo.gl/forms/ZUjA3Hj6M5Oa9dMf1">Sign the Puget Sound Letter of Support</a></p>
+				
 				<h3>Basic Itinerary</h3>
 				<p><em>Tuesday May 22</em>: arrival, evening reception</p>
 				<p><em>Wednesday May 23</em>: all day group meeting with congressional and agency leaders; smaller breakout events </p>

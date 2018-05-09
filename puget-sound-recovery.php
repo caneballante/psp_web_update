@@ -41,7 +41,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image23"> </header>
+<header class="overview-page-image-style overview-page-image108"> </header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -58,7 +58,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-psp-overview.html';?>	
+				<?php include 'includes/ln-psp-recovery.html';?>	
 				
 			<!-- InstanceEndEditable -->
 				</ul>
@@ -67,22 +67,42 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top"> WHAT IS PUGET SOUND?</h2>
-<p>Puget Sound is a deep fjord estuary located within the broader Salish Sea, south of the border between the United States and Canada. As a saltwater body, it is far from being uniform: each basin, carved by recessing glaciers more than 10,000 years ago, varies in its physical, chemical, and biological properties. Together they contain an astounding diversity of life.</p>
-<p>For the purposes of Puget Sound ecosystem recovery, Puget Sound is defined as all saltwaters inside the international boundary line between Washington and British Columbia and lying east of the junction of the Pacific Ocean and the Strait of Juan de Fuca. It also includes the entire watershed—the rivers and streams that drain into Puget Sound, the lands that drain into those surface waters, as well as the Strait of Juan de Fuca and the San Juan islands. </p>
-<p>Considered the largest estuary by volume in the United States (with perhaps the exception of unexplored estuaries in Alaska), the Puget Sound is deep and vast, a complex ecosystem encompassing mountains, farmlands, cities, rivers, forests, and wetlands.</p>
-<p>Humans have long relied on the Puget Sound watershed for healthy food and clean water and the other services it provides, like reducing the impact of droughts and floods. Puget Sound supports a large part of our state&rsquo;s economy and provides vital recreational, spiritual, and other essential quality of life benefits. </p>
-<strong><a href="http://www.eopugetsound.org" target="new">Encyclopedia of Puget Sound</a></strong>  |  <strong><a href="http://www.eopugetsound.org/articles/2015-puget-sound-fact-book" target="new">Puget Sound Fact Book</a></strong><a href="#">
-</p>
-</a>
+			<p>Puget Sound is a deep fjord estuary that lies within the broader Salish Sea. As a saltwater body, it is far from being uniform: each basin, carved by retreating glaciers more than 10,000 years ago, varies in its physical, chemical, and biological properties. Together, the basins contain an astounding diversity of life.</p>
+			<p>For the purposes of Puget Sound ecosystem recovery, Puget Sound is the area from the snowcaps to the whitecaps, including the watersheds and saltwaters east of the Pacific Ocean and south of the international boundary with Canada. Considered the largest estuary by volume in the United States (with perhaps the exception of unexplored estuaries in Alaska), Puget Sound is a complex ecosystem encompassing mountains, farmlands, cities, rivers, forests, and wetlands.</p>
+			<p>Humans have long relied on the Puget Sound watershed for healthy food and clean water and the other services it provides. Puget Sound supports a large part of our state’s economy and provides vital recreational, spiritual, and other essential quality of life benefits. </p>
+			<strong><a href="http://www.eopugetsound.org" target="new">Encyclopedia of Puget Sound</a></strong>  |  <strong><a href="http://www.eopugetsound.org/articles/2015-puget-sound-fact-book" target="new">Puget Sound Fact Book</a></strong><a href="#"></p></a>
 			<h2>WHAT IS THE PROBLEM?</h2>
-				<p>Human use over the past century has damaged Puget Sound. </p>
-				<p>The Puget Sound region is experiencing degradation of water quality, water quantity, and habitat. Many species are in decline, while the human population keeps growing, bringing with it more land development, more infrastructure, and more pollution. And the threat of climate change is ever-present, with warmer streams and ocean waters, reduced snowpack, more extreme weather events, and increased fires and floods. As a result, the pressures on the ecosystem are relentless and continue to take their toll on Puget Sound and the wellbeing of residents around the region.</p>
-			<p>Puget Sound will never be the same as it was 100 years ago. But the future wellbeing of Puget Sound and residents around the region is being defined by today&rsquo;s actions. </p>
-	<strong><a href="sos.php">State of the Sound</a></strong> | <strong><a href="http://www.psp.wa.gov/vitalsigns/" target="new">Puget Sound Vital Signs</a></strong>
-	</p>
-	</a>		<!-- InstanceEndEditable --> </div>
+			<p>Human actions over the past century have damaged Puget Sound. These actions have degraded the water quality, water quantity, and habitats of the region, including the natural resources on which people depend. </p>
+			<p>People are drawn to the vibrant economy and landscape of Puget Sound. As the regional population grows, it brings changes to these landscapes through increased land development, infrastructure, and pollutants. The threat of climate change is ever-present, with warmer streams and ocean waters, reduced snowpack, more extreme weather events, and increased fires and floods. As a result, the pressures on the ecosystem relentlessly continue to take their toll on Puget Sound and the communities supported by it.</p>
+			<p>Puget Sound will never be the same as it was 100 years ago. But the future wellbeing of Puget Sound and residents around the region is being defined by today&rsquo;s actions. Together, as communities and individuals, we can accelerate the recovery of Puget Sound and protect its health for the benefit of everyone.</p>
+			<strong><a href="sos.php">State of the Sound</a></strong> | <strong><a href="evaluating-vital-signs.php" target="new">Puget Sound Vital Signs</a></strong>| <strong><a href="http://www.psp.wa.gov/people-and-puget-sound.php">People and Puget Sound </a></strong></p></a>
+			<h2>WHAT ARE WE DOING TO RECOVERY PUGET SOUND?</h2>
+			<p>As a backbone organization, the Partnership works with hundreds of state, local, and tribal partners to chart a course to recovery, track shared measures of recovery, and support the work that protects and recovers Puget Sound. </p>
+			<p>Along with our partners, we are addressing the six goals of recovery:</p>
+			<ul>
+				<li>Healthy human population </li>
+				<li>Vibrant quality of life</li>
+				<li>Thriving species and food web</li>
+				<li>Protected and restored habitat</li>
+				<li>Abundant water quantity</li>
+				<li>Healthy water quality</li>
+			</ul>
+			<p>We build a shared vision for recovery through the Action Agenda, which identifies the top priority actions or programs to stay on course to recovery. Regional Implementation Strategies  help us identify how best to achieve recovery, as well as identify the biggest challenges to recovery and the monitoring and research needs that help to inform and improve recovery. </p>
+			<p><a href="puget-sound-partnership.php">About the Partnership </a>| <a href="action_agenda_center.php">Action Agenda</a> | <a href="implementation-strategies.php">Implementation Strategies</a></p>
+		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="action_agenda_center.php">About the Partnership</a></li>
+				<li role="presentation"> <a href="#">Action Agenda</a></li>
+				<li role="presentation"> <a href="implementation-strategies.php">Implementation Strategies</a></li>
+			
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
