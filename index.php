@@ -258,20 +258,7 @@
 		<!--ROW START-->
 		<div class="row light-blue-fill">
 	
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
-				<div class="newsbox-date">APR<br> 25 </div>
-				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-							UNIVERSITY OF WASHINGTON CAMPUS<br>
-							</a><br>
-					<br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
+	
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
@@ -308,6 +295,20 @@
 				12 </div>
 				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
 				SHORELINE</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">July<br> 11-12</div>
+				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+							WESTERN WASHINGTON UNIVERSITY<br>
+							</a><br>
+					<br>
 				</div>
 				<!--END news content-->
 			</div>
