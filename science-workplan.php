@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>biennial science work plan</h1>
+			<h1>science work plan</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -66,7 +66,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		 
-		 <p>State statute requires that every 2 years the Puget Sound Partnership produce a Biennial Science Work Plan (BSWP). The goals of the BSWP are to:</p>
+		 <p>State statute changed in 2018 and now requires that every 4 years the Puget Sound Partnership produce a  Science Work Plan. Previously the the Science Work Plan was produced every 2 years. The goals of the Science Work Plan are to:</p>
 			<ul>
 				<li>Assess how well ongoing research addresses decision-critical uncertainties relating to the recovery of Puget Sound</li>
 				<li>Identify additional science needs to support ecosystem recovery</li>
@@ -89,7 +89,8 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-		<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
+				<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
+	
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

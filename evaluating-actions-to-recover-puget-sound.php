@@ -75,7 +75,7 @@
 			<h2>NEP ATLAS</h2>
 			<p>The NEP Atlas is a compilation of interactive maps, graphs, and tables of activities funded beginning in 2007 by the National Estuary Program (NEP) of the U.S. Environmental Protection Agency. <a href="evaluating-about-NEP-atlas.php">Learn more</a></p>
 			<h2> PUBLIC OPINION RESEARCH</h2>
-			<p>The Partnership received funding from the U.S. Environmental Protection Agency to conduct a series of public opinion surveys to inform the future direction of our programs and activities. <a href="evaluating-public-opinion.php">Learn more </a></p>
+			<p>The Partnership received funding from the U.S. Environmental Protection Agency to conduct a series of public opinion surveys to inform the future direction of our programs and activities. <a href="social-science-research.php">Learn more </a></p>
 			<h2>AGENCY PERFORMANCE MANAGEMENT</h2>
 			<p>Coming soon.</p>
 			<h2> Effectiveness Monitoring</h2>

@@ -89,7 +89,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="science-biennial-science-workplan.php">Biennial Science Work Plan</a></li>
+				<li role="presentation"> <a href="science-workplan.php">Biennial Science Work Plan</a></li>
 				<li role="presentation"> <a href="science-strategic-science-plan.php">Strategic Science Work Plan</a></li>
 				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">2014 Pressures Assessment</a></li>
 				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs</a></li>

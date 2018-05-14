@@ -80,7 +80,7 @@
 				
 				<h3>ATTENDEE MATERIALS</h3>
 				<ul>
-					<li><a href="https://pspwa.box.com/s/0xhze4jkjufi9trb5frgmxghi9x7kb5y">DRAFT Attendee list (current as of 5/10/18)</a></li>
+					<li><a href="https://pspwa.box.com/s/0xhze4jkjufi9trb5frgmxghi9x7kb5y">DRAFT Attendee list (current as of 5/14/18)</a></li>
 					<li><a href="https://pspwa.box.com/s/joqdu7meu36ktl3w7f29zpmdy5isjkze">DRAFT Schedule (5/10/18)</a></li>
 					<li><a href="https://pspwa.box.com/s/cvkj1hv7262lmassjtfo0j9gj0ovktsj">Puget Sound Day on the Hill fact sheet (draft 5/10/18)</a></li>
 					<li><a href="https://pspwa.box.com/s/3n4w7d0awq5k9psubake1o4czvpr39fr">Puget Sound Letter of Support</a></li>
