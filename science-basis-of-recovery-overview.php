@@ -65,18 +65,21 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<p>Scientific advice and review, scientific synthesis, and strategic investments in research, modeling, and monitoring contribute to the science basis for Puget Sound ecosystem recovery.</p>
-			<p>The Puget Sound Partnership’s approach to strategic science planning, adaptive management, and decision support are introduced through several tools and guiding documents:</p>
-			<ul>
+		<p>Scientific advice and review, scientific synthesis, and strategic investments in research, modeling, and monitoring contribute to the science basis for Puget Sound ecosystem recovery.			</p>
+		<p>While the Puget Sound Partnership Science Panel and Science &amp; Evaluation Program coordinate the science-based recovery of the Puget Sound ecosystem, scientific contributions come from many individuals and institutions across all sectors. This coordination includes the regular convening and input from the Social Science Advisory Committee and the Salmon Science Advisory Committee, and contributions from the Puget Sound Ecosystem Monitoring Program. </p>
+		<p>The Puget Sound Partnership&rsquo;s approach to strategic science planning, adaptive management, and decision support are introduced through several tools and guiding documents:</p>
+<ul>
 				<li>Strategic Science Plan</li>
-				<li>Biennial Science Work Plan</li>
+				<li>Science Work Plan</li>
+				<li>Puget Sound Science Review</li>
 				<li>Adaptive Management Framework</li>
 				<li>Open Standards</li>
-				<li>Science-based decisionmaking</li>
+				<li>Science-based decision-making</li>
+				<li>Implementation Strategies</li>
 				<li>Puget Sound Pressures Assessment</li>
+				<li>Social Science Research and Efforts</li>
 			</ul>
-		<p>	While the Puget Sound Partnership Science Panel and Science & Evaluation Program coordinate the science-based recovery of the Puget Sound ecosystem, scientific contributions come from many individuals and institutions across all sectors. </p>
-		<p>In 2009 and 2010, the Partnership commissioned scientists to prepare the peer-reviewed Puget Sound Science Review, a synthesis now presented as a key feature of the Encyclopedia of Puget Sound.</p>
+		<p>&nbsp;</p>
 			
 		</p>
 		<!-- InstanceEndEditable --> </div>
@@ -91,6 +94,8 @@
 					<li role="presentation"> <a href="evaluating-actions-to-recover-puget-sound.php">Evaluating Actions</a></li>
 					<li role="presentation"> <a href="action_agenda_center.php">Action Agenda</a></li>
 					<li role="presentation"> <a href="sos.php" target="new">State of the Sound</a></li>
+							<li role="presentation"> <a href="implementation-strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"> <a href="evaluating-vital-signs.php">Vital Signs</a></li>
 					
 						<!-- InstanceEndEditable -->
 			</ul>

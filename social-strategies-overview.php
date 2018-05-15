@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SOCIAL  STRATEGIES</h1>
+			<h1>SOCIAL STRATEGIES</h1>
 			<h1><br>
 			</h1>
 			<!-- InstanceEndEditable --></div>
@@ -85,7 +85,7 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="evaluating-public-opinion.php">Public Opinion Research</a></li>
+					<li class="active" role="presentation"> <a href="social-science-research.php">Social science research and efforts</a></li>
 					<li class="active" role="presentation"> <a href="econet.php">ECO Net</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>

@@ -76,8 +76,19 @@
 				</div>
 				<p>Once again, the President has proposed a budget to Congress that zeroes out all federal funding for Puget Sound recovery. Last year, we spoke up, and Congress listened. Join us again this year as we travel to Washington D.C. for Puget Sound Day on The Hill, May 23. We will meet with key decision makers to let them know the benefits a healthy Puget Sound brings to the entire nation, as well as to our region</p>
 				<p><strong> <a href="https://goo.gl/forms/9pEzgetK67ksbJn13">Please RSVP to attend by following this link </a></strong><strong> </strong></p>
-				<p><strong> <a href="https://pspwa.box.com/s/nhhl1wjjpzj4zgyqzj2rmxgeuq605u7e">May 9th PSDOTH Planning Meeting Materials</a></strong><strong> </strong></p>
 				
+				
+				<h3>ATTENDEE MATERIALS</h3>
+				<ul>
+					<li><a href="https://pspwa.box.com/s/0xhze4jkjufi9trb5frgmxghi9x7kb5y">DRAFT Attendee list (current as of 5/14/18)</a></li>
+					<li><a href="https://pspwa.box.com/s/joqdu7meu36ktl3w7f29zpmdy5isjkze">DRAFT Schedule (5/10/18)</a></li>
+					<li><a href="https://pspwa.box.com/s/yq2zu4vkcu71d1tr566epb0gkeqh1gio">Welcome Letter</a></li>
+					<li><a href="https://pspwa.box.com/s/cvkj1hv7262lmassjtfo0j9gj0ovktsj">Puget Sound Day on the Hill fact sheet</a></li>
+					<li><a href="https://pspwa.box.com/s/3n4w7d0awq5k9psubake1o4czvpr39fr">Puget Sound Letter of Support</a></li>
+					<li><a href="https://pspwa.box.com/s/adszi5onja2ek0p8tiz3nubcqrsoyrkv">Sensitive issues contact information</a></li>
+					<li><a href="https://pspwa.box.com/s/7k9t2lut2j78f6eg02eonltbimnuhmki">Happy Hour Invitation</a></li>
+					<li><a href="https://pspwa.box.com/s/6gvzmtqpy7vg5dcmd8p7i80khdcqma7f">Post event survey</a></li>
+				</ul>
 				<h3>SIGN THE LETTER OF SUPPORT</h3>
 				<p>To demonstrate even broader support for the fourth annual Puget Sound Day on the Hill on May 23rd, we’re asking leading organizations in the region to join us by signing on to the letter. </p>
  
@@ -94,6 +105,7 @@
 				<p>As we get closer to the trip, Puget Sound Partnership will host two planning and preparation meetings at the Center for Urban Waters in Tacoma to discuss and refine messages for the trip and finalize logistics. Agendas and call-in numbers will be provided in advance, although in-person attendance is highly recommended.</p>
 		
 				<h3><strong>2018 Group Planning Meetings</strong></h3>
+				<p>&nbsp;</p>
 				<p><strong>Planning Meeting 1:</strong>  Friday April 20, 9 am - 12 pm, Center for Urban Waters, Tacoma</p>
 				<ul>
 					<li>Please send any additional suggested edits or feedback on the 1-page leave behind as well as the sign-on letter to <a href="mailto:marie@cascadiaconsulting.com">marie@cascadiaconsulting.com</a> and cc Sheida Sahandy by <strong>COB Friday, 4/27</strong>. </li>
@@ -101,6 +113,7 @@
 					<li>Please RSVP to <a href="mailto:Denise.Ross@pspwa.gov">Denise.Ross@pspwa.gov</a> and let her know if you will be attending the next planning meeting (May 9, 1-4 pm at the Center for Urban Waters) in person or calling in. An agenda and meeting packet with call-in info will be sent out in advance.				</li>
 				</ul>
 				<p><strong>Planning Meeting 2:</strong>  Wednesday May 9, 1-4 pm, Center for Urban Waters, Tacoma</p>
+				<p><strong> <a href="https://pspwa.box.com/s/nhhl1wjjpzj4zgyqzj2rmxgeuq605u7e">May 9th PSDOTH Planning Meeting Materials</a></strong><strong> </strong></p>
 				<h3>Travel Information</h3>
 				<p>Alaska Airlines is offering a five percent discount to PSDOH18 attendees!</p>
 				<p><strong>Use discount code:</strong> <strong>ECMZ518</strong>

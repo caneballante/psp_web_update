@@ -65,26 +65,28 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The state&rsquo;s goals to restore and protect Puget Sound are ambitious and must be guided by reliable, high-quality scientific data to be successful. The Partnership&rsquo;s support for environmental monitoring is based on our need to:</p>
-			<ul>
-				<li>Track the status of key ecosystem components and attributes</li>
-				<li>Assess the effectiveness of our restoration and protection actions</li>
-				<li>Evaluate progress toward recovery</li>
-				<li>Support adaptive management processes and decisionmaking at many scales </li>
+			<p>A healthy Puget Sound means having a healthy human population, a vibrant human quality of life, thriving species and food webs, protected and restored habitat, healthy water quality, and abundant water quantity. Efforts to recover Puget Sound to health must be guided by reliable, high-quality scientific information about the health of Puget Sound and progress toward recovery. </p>
+			<p>With data provided by our partners, the Partnership uses monitoring information to: </p>
+<ul>
+				<li>Track ecosystem conditions and progress toward recovery, measured via the Vital Sign and indicators</li>
+				<li>Assess human wellbeing as a part of the ecosystem and the recovery effort</li>
+				<li>Assess the effectiveness of restoration and protection actions</li>
+				<li>Support adaptive management processes and decision making at many scales </li>
 			</ul>
-			<p>We rely on several initiatives and monitoring partnerships to provide the data that serves as the foundation for our recovery and protection actions.</p>
+			<p>The Partnership coordinates these activities through the Puget Sound Ecosystem Monitoring Program (PSEMP).</p>
+			<h2>THE PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP)</h2>
+			<p>Monitoring in Puget Sound is conducted by many state and federal agencies, local governments, tribes, citizen groups, and others. While every monitoring organization has its unique mandates and objectives, the Puget Sound Ecosystem Monitoring Program, or PSEMP, serves as an overarching, voluntary body of representatives sharing a common goal to coordinate, improve, and focus these many efforts in support of our common desire to protect and recover Puget Sound. PSEMP does this by providing a venue for discussion, collaboration, coordination, collective guidance, and communication among monitoring agencies and organizations operating at a variety of scales. <a href="evaluating-PSEMP.php">LEARN MORE</a></p>
 			<h2>PUGET SOUND VITAL SIGNS</h2>
-			<p>To track progress toward recovery goals for Puget Sound, the Partnership chose a specific set of measures called the Puget Sound Vital Signs. The Vital Signs gauge the health of Puget Sound in a way that is scientifically valid and also resonates with the public. Tracking and reporting of Vital Signs is the foundation of the shared measurement system the Partnership relies on to show collective impact.  <a href="http://www.psp.wa.gov/vitalsigns/">LEARN MORE </a></p>
-			<div>
-				<div>
-					<h2>EFFECTIVENESS MONITORING</h2>
-					<p>Many restoration and management actions have been effective in restoring ecosystem components and processes in Puget Sound, but much of the evidence of success is found in technical documents that are not easy to access. We are reviewing scientific reports to distill information about what&rsquo;s working to restore Puget Sound. This information, once vetted by regional experts, is presented in fact sheets and narrative summaries that can be used to help develop effective programs and projects that align with the Puget Sound Action Agenda and accelerate the recovery of Puget Sound.&nbsp; <a href="evaluating-effective-action.php">LEARN MORE</a></p>
-					<h2>THE PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP)</h2>
-					<p>Environmental monitoring in Puget Sound is conducted by many state and federal agencies, local governments, tribes, citizen groups, and others. While every monitoring organization has its unique mandates and objectives, the Puget Sound Ecosystem Monitoring Program, or PSEMP, serves as an overarching, voluntary body of representatives sharing a common goal to coordinate, improve, and focus these many efforts in support of our common desire to protect and recover Puget Sound.  PSEMP does this by providing a venue for discussion, collaboration, coordination, collective guidance, and communication among monitoring agencies and organizations operating at a variety of scales. <a href="evaluating-PSEMP.php">LEARN MORE</a></p>
-					<h2>HUMAN WELLBEING</h2>
-					<p> In July 2015, the Partnership’s Leadership Council adopted nine new or revised Vital Signs with associated indicators for Human Health and Quality of Life. These Vital Signs address human wellbeing as it relates to people’s engagement with the natural environment of Puget Sound and include familiar aspects of human health that contribute to our wellbeing, such as physical and psychological health, as well as social, cultural, and economic wellbeing and governance, or the way that people participate in decisionmaking. <a href="evaluating-human-wellbeing.php">LEARN MORE</a></p>
-				</div>
-			</div>
+			<p>The Vital Signs gauge the health of Puget Sound in a way that is scientifically valid and also resonates with the public. The Partnership tracks 25 Vital Signs to report on progress toward the six recovery goals. The Vital Signs represent overarching measures for determining the health of Puget Sound.  <a href="http://www.psp.wa.gov/evaluating-vital-signs.php">LEARN MORE </a></p>
+			<h2>HUMAN WELLBEING</h2>
+			<p>The Human Wellbeing Vital Signs address the recovery goals for healthy human population and vibrant human quality of life, particularly as these goals relate to how people engage with the natural environment of Puget Sound. The Human Wellbeing Vital Signs include familiar topics such as physical and psychological health, as well as governance, social, cultural, and economic wellbeing.  <a href="http://www.psp.wa.gov/evaluating-human-wellbeing.php">LEARN MORE </a></p>
+		
+			<h2>EFFECTIVENESS MONITORING</h2>
+			<p>Many restoration and management actions have been effective in restoring ecosystem components and processes in Puget Sound, but much of the evidence of success is found in technical documents that are not easy to access. Partnership staff finds and reviews these documents to collect information about what’s working to restore Puget Sound. This information, once vetted by regional experts, is presented in fact sheets and narrative summaries that can be used to help develop effective recovery programs and projects. <a href="evaluating-effective-action.php">LEARN MORE</a></p>
+
+			<h2>ADAPTIVE MANAGEMENT FRAMEWORK </h2>
+			<p>The Partnership uses a results-based—or adaptive—approach to managing ecosystem recovery. This approach helps to ensure that decisions about ecosystem recovery priorities are based on the best available information about the effectiveness of management investments. This approach also helps accommodate the profound uncertainties about how Puget Sound responds to stresses and to different management efforts. <a href="science-adaptive-management-framework.php">LEARN MORE</a></p>
+
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -114,7 +116,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
+				<li class="active" role="presentation"> <a href="sos.php">2017 State of the Sound</a></li>
 				<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
 				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/" target="new">State of the Salmon</a></li>
 				<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>

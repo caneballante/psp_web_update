@@ -223,7 +223,7 @@
 			<a name="Will-Implementation-Strategies-be-developed-for-all-Vital-Signs"></a>
 			<h3>WILL IMPLEMENTATION STRATEGIES BE DEVELOPED FOR ALL VITAL SIGNS?</h3>
 			<p>We anticipate that, over time, at least one Strategy, and possibly more, will address each Vital Sign that has a defined recovery target. It remains to be seen whether there will need to be a separate planning effort for each Vital Sign, given that many Vital Signs usually benefit from actions focused on related Vital Signs.</p>
-			<p>Contact: Heather Benson, Implementation Strategy Lead, <a href="Heather.Benson@psp.wa.gov">Heather.Benson@psp.wa.gov</a></p>
+			<p>Contact: Mike Johnson, Environmental Planner and Implementation Strategy Manager, <a href="mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov</a></p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -263,6 +263,7 @@
 				<li role="presentation"><a href="https://pspwa.box.com/v/IDT-rosters">Interdisciplinary Team (IDT) Rosters</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/IS-Guidance">Implementation Strategy Guidelines</a></li>
 				<li role="presentation"><a href="science-adaptive-management-framework.php">Adaptive Management Framework: a results-based approach to managing Puget Sound recovery</a></li>
+				<li role="presentation"><a href="evaluating-human-wellbeing.php">Human Wellbeing Overview</a></li>
 			
 				<!-- InstanceEndEditable -->
 			</ul>
@@ -273,8 +274,8 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<p class="right-nav-contact">For general questions about Implementation Strategies: <br />
 					<br>
-					<strong>Heather Benson</strong>, <br>
-					<a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a><br>
+					<strong>Mike Johnson</strong>, <br>
+					<a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov</a><br>
 <br>
 For questions about specific Implementation Strategies, see contact information for each Implementation Strategy.</p>
 				<!-- InstanceEndEditable -->

@@ -65,21 +65,30 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Of the Partnership’s six goals, specified in  Washington state statute, two address human wellbeing:</p>
+			<p>Of the Partnership&rsquo;s six recovery goals specified in Washington State statute (RCW 90.71.300), two address human wellbeing:</p>
 			<ul>
-				<li>A healthy human population supported by a healthy Puget Sound that is not threatened by changes in the ecosystem.</li>
+				<li>A healthy human population that is supported by a healthy Puget Sound and is not threatened by changes in the ecosystem</li>
 				<li>A quality of human life that is sustained by a functioning Puget Sound ecosystem</li>
 			</ul>
-			<p>In July 2015, the Partnership’s Leadership Council adopted nine new or revised Vital Signs with associated indicators for Human Health and Quality of Life. These Vital Signs address human wellbeing as it relates to people’s engagement with the natural environment of Puget Sound and include familiar aspects of human health that contribute to our wellbeing, such as physical and psychological health, as well as social, cultural, and economic wellbeing and governance, or the way that people participate in decisionmaking.</p>
-			<p>The effort to address human wellbeing within the context of our Puget Sound recovery goals falls within a broader attempt to better understand the aspects of ecosystem recovery that directly affect humans. Understanding the roles that people play helps to ensure a more complete, holistic, and ultimately more successful approach to achieving ecosystem recovery goals.</p>
-			<!-- InstanceEndEditable --> </div>
+			<p>The Human Wellbeing Vital Signs directly relate to people&rsquo;s interactions with the natural environment of Puget Sound and include familiar aspects of human health, such as clean air and access to local foods. They also include key measures of psychological and cultural wellbeing, like sense of place and ability to participate in cultural practices related to the environment. <a href="https://pspwa.box.com/s/d2vbgz1nracbrlcoaxxglwybk1jbxnpz" target="new">View the Human Wellbeing Vital Signs and Indicators for Puget Sound Recovery Technical Memorandum.</a></p>
+			<p>The effort to address human wellbeing within the context of our Puget Sound recovery goals falls within a broader attempt to better understand the full spectrum of roles that people play in ecosystem recovery. Understanding the human dimensions of Puget Sound recovery helps to ensure a more complete, holistic, and ultimately more successful approach to achieving ecosystem goals.</p>
+			<p>An  Integrated Conceptual Model for Ecosystem Recovery  provides a framework for understanding the diverse roles that people play in Puget Sound health. The balanced design of the model gives equal importance to the conditions of human wellbeing and ecosystems, showing that we can&rsquo;t have one without the other. <a href="https://www.eopugetsound.org/research/ecosystem-based-management-social-science/integrated-conceptual-model-ecosystem-recovery-0" target="new">You can learn more about the Integrated Conceptual Model for Ecosystem Recovery at the Encylopedia of Puget Sound. </a></p>
+			
+			<img class="img-responsive" src="images/science-figures/integrated-ecosystem-recovery-conceptual-model.jpg" width="788" height="546" alt=""/>
+
+			<p><a href="http://www.ourhoodcanal.org/" target="new">To learn how local partners are addressing human wellbeing, see the Hood Canal Coordinating Council&rsquo;s Our Hood Canal report.</a></p>
+			<p><a href="https://www.eopugetsound.org/terms/16" target="new">To learn more about human wellbeing studies and research in Puget Sound, see the Encyclopedia of Puget Sound.</a></p>
+		
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="science-basis-of-recovery-overview.php">Science Basis for Recovery</a></li>
 				<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="sos.php">State of the Sound</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -88,6 +97,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
+				<li role="presentation"> <a href="http://www.ourhoodcanal.org/">Hood Canal Coordinating Council: Our Hood Canalw</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -95,8 +105,11 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
+				
 				<li role="presentation"> <a href="https://pspwa.box.com/s/del7mc3w3dmmcyfwmmy9mlldm3zg4ipi" target="new">Human wellbeing Vital Signs</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/d2vbgz1nracbrlcoaxxglwybk1jbxnpz">Human Wellbeing Vital Signs and Indicators for Puget Sound Recovery Technical Memorandum</a></li>
+				<li role="presentation"> <a href="https://www.eopugetsound.org/research/ecosystem-based-management-social-science/integrated-conceptual-model-ecosystem-recovery-0">Integrated Conceptual Model of Ecosystem Recovery</a></li>
+				
 				<!--	<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>--> 
 				<!-- InstanceEndEditable -->
 			</ul>

@@ -140,7 +140,7 @@
 					<td colspan="2" class="tablesubheader">Selecting the best wet weather management actions (Seattle Public Utility)</td>
 				</tr>
 				<tr>
-					<td><iframe src="https://app.box.com/embed/preview/xnb4wh704oqz8du0voozgwuaq2aeoowt?direction=ASC&theme=dark" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
+					<td><iframe src="https://pspwa.app.box.com/embed/s/aqxb4i45t2c2aurndkaffbtjub17l1vm" width="330" height="200" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe></td>
 					<a name="tacoma"></a><td><p><a href="https://pspwa.box.com/s/aqxb4i45t2c2aurndkaffbtjub17l1vm">Download the Seattle Public Utility fact sheet</a></p>
 					<p><a href="https://pspwa.box.com/s/fo7kv23erzryfqety8h8squul4zurrx7">Download the full Seattle Public Utility background summary</a></p></td>
 				</tr>

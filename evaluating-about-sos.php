@@ -65,7 +65,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Puget Sound Partnership is charged with preparing a State of the Sound Report every two years to inform the legislature and the public on the status of the restoration effort, including how the ecosystem has been responding to the measures adopted and our success in implementing the actions proposed. The State of the Sound also reports on our accomplishments in the use of state and other funding and recommendations on what other measures are necessary to sustain the recovery effort. <a href="sos.php">To learn more visit the 2015 State of the Sound.</a></p>
+			<p>The Puget Sound Partnership is charged with preparing a State of the Sound Report every two years to inform the legislature and the public on the status of the restoration effort, including how the ecosystem has been responding to the measures adopted and our success in implementing the actions proposed. The State of the Sound also reports on our accomplishments in the use of state and other funding and recommendations on what other measures are necessary to sustain the recovery effort. <a href="sos.php">To learn more visit the 2017 State of the Sound.</a></p>
 			<p>&nbsp;</p>
 			<p>&nbsp;</p>
 			<p>&nbsp;</p>
