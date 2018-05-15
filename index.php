@@ -91,9 +91,25 @@
 </div>
 <div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
 	<div class="container"> 
-		
+		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/Jen-lee-Salish.jpg"  alt=""/> <strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/building-transboundary-community-solutions-to-protect-the-salish-sea-756b4bbc5635">
+						5/11 - Building transboundary community solutions to protect the Salish Sea
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
