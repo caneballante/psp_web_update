@@ -109,7 +109,7 @@
 			</ul>
 			<p>For more information, please contact:</p>
 			<p> <br />
-				Colin Hume, ECY: <a href="mailto:chum461@ECY.WA.GOV">chum461@ECY.WA.GOV</a>, 425.649.7139<br />
+				Carrie Byron, ECY: <a href="mailto:chum461@ECY.WA.GOV">carrie.byron@ecy.wa.gov</a>, 425.649.4451<br />
 				<br />
 				Doug Peters, Department of Commerce: <a href="mailto:doug.peters@commerce.wa.gov">doug.peters@commerce.wa.gov</a>, 360.725.3046</p>
 			<p> </p>

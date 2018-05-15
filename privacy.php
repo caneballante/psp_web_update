@@ -75,7 +75,7 @@ style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l2 level
 style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l2 level2 lfo3; tab-stops: list 1.0in"><a href="#_Disclaimer">Disclaimer</a> </li>
             		<li class="text" 
 style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l2 level2 lfo3; tab-stops: list 1.0in"><a 
-href="#_PSWQAT_Contact_Information">PSP contact iInformation</a>
+href="#_PSWQAT_Contact_Information">Puget Sound Partnership contact information</a>
             				<O:P></O:P>
             				</li>
           		</ul>
