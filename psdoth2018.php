@@ -80,14 +80,17 @@
 				
 				<h3>ATTENDEE MATERIALS</h3>
 				<ul>
-					<li><a href="https://pspwa.box.com/s/0xhze4jkjufi9trb5frgmxghi9x7kb5y">DRAFT Attendee list (current as of 5/14/18)</a></li>
-					<li><a href="https://pspwa.box.com/s/joqdu7meu36ktl3w7f29zpmdy5isjkze">DRAFT Schedule (5/10/18)</a></li>
-					<li><a href="https://pspwa.box.com/s/yq2zu4vkcu71d1tr566epb0gkeqh1gio">Welcome Letter</a></li>
+					<li><a href="https://pspwa.box.com/s/0xhze4jkjufi9trb5frgmxghi9x7kb5y">DRAFT attendee list (current as of 5/14/18)</a></li>
+					<li><a href="https://pspwa.box.com/s/joqdu7meu36ktl3w7f29zpmdy5isjkze">DRAFT schedule (5/10/18)</a></li>
+					<li><a href="https://pspwa.box.com/s/yq2zu4vkcu71d1tr566epb0gkeqh1gio">Welcome letter</a></li>
 					<li><a href="https://pspwa.box.com/s/cvkj1hv7262lmassjtfo0j9gj0ovktsj">Puget Sound Day on the Hill fact sheet</a></li>
-					<li><a href="https://pspwa.box.com/s/3n4w7d0awq5k9psubake1o4czvpr39fr">Puget Sound Letter of Support</a></li>
+					<li><a href="https://pspwa.box.com/s/3n4w7d0awq5k9psubake1o4czvpr39fr">Puget Sound letter of support</a></li>
 					<li><a href="https://pspwa.box.com/s/adszi5onja2ek0p8tiz3nubcqrsoyrkv">Sensitive issues contact information</a></li>
-					<li><a href="https://pspwa.box.com/s/7k9t2lut2j78f6eg02eonltbimnuhmki">Happy Hour Invitation</a></li>
+					<li><a href="https://pspwa.box.com/s/7k9t2lut2j78f6eg02eonltbimnuhmki">Happy hour invitation</a></li>
 					<li><a href="https://pspwa.box.com/s/6gvzmtqpy7vg5dcmd8p7i80khdcqma7f">Post event survey</a></li>
+					<li><a href="https://pspwa.box.com/s/oz0daiohmu9edx9y85jdyrhenx27bkxd">Panel discussion - invitePuget Sound: A Case Study of Innovations &amp;
+Partnerships for Estuary Restoration</a></li>
+					
 				</ul>
 				<h3>SIGN THE LETTER OF SUPPORT</h3>
 				<p>To demonstrate even broader support for the fourth annual Puget Sound Day on the Hill on May 23rd, we’re asking leading organizations in the region to join us by signing on to the letter. </p>
