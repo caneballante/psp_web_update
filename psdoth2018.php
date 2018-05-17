@@ -88,8 +88,7 @@
 					<li><a href="https://pspwa.box.com/s/adszi5onja2ek0p8tiz3nubcqrsoyrkv">Sensitive issues contact information</a></li>
 					<li><a href="https://pspwa.box.com/s/7k9t2lut2j78f6eg02eonltbimnuhmki">Happy hour invitation</a></li>
 					<li><a href="https://pspwa.box.com/s/6gvzmtqpy7vg5dcmd8p7i80khdcqma7f">Post event survey</a></li>
-					<li><a href="https://pspwa.box.com/s/oz0daiohmu9edx9y85jdyrhenx27bkxd">Panel discussion - invitePuget Sound: A Case Study of Innovations &amp;
-Partnerships for Estuary Restoration</a></li>
+					<li><a href="https://pspwa.box.com/s/oz0daiohmu9edx9y85jdyrhenx27bkxd">Panel discussion invite - Puget Sound: A Case Study of Innovations &amp;Partnerships for Estuary Restoration</a></li>
 					
 				</ul>
 				<h3>SIGN THE LETTER OF SUPPORT</h3>
