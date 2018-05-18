@@ -99,6 +99,22 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/orca-news-release.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1f086bc">
+						5/16 - Northwest leaders travel to Washington D.C. for ‘Puget Sound Day on The Hill’
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END--> 
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/Jen-lee-Salish.jpg"  alt=""/> <strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/building-transboundary-community-solutions-to-protect-the-salish-sea-756b4bbc5635">
 						5/11 - Building transboundary community solutions to protect the Salish Sea
