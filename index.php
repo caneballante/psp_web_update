@@ -350,32 +350,7 @@
 	<!--ROW END-->
 	<!--ROW START-->
 	<div class="row light-blue-fill">
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox">
-				<div class="newsbox-text"> 
-					<!--news content BOX --> 
-
-					</strong>EMPLOYMENT<br>
-					<a href="https://www.governmentjobs.com/careers/washington/jobs/2026357/environmental-planner-1-project">ENVIRONMENTAL PLANNER 1 (PROJECT)</a><br>
-					<!--END news content BOX--> 
-				</div>
-			</div>
-		</div>
-		<!--COLUMN END-->
-	<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox">
-				<div class="newsbox-text"> 
-					<!--news content BOX --> 
-
-					</strong>EMPLOYMENT<br>
-					<a href="https://www.governmentjobs.com/careers/washington/jobs/2022164/puget-sound-acquisition-and-restoration-program-manager-exempt">PUGET SOUND ACQUISITION AND RESTORATION PROGRAM MANAGER (EXEMPT)</a><br>
-					<!--END news content BOX--> 
-				</div>
-			</div>
-		</div>
-		<!--COLUMN END-->
+		
 		
 	</div>
 	<!--ROW END-->
