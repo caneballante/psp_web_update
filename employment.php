@@ -70,8 +70,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">Employment opportunities</h2>
-				<a href="https://www.governmentjobs.com/careers/washington/jobs/2022164/puget-sound-acquisition-and-restoration-program-manager-exempt">PUGET SOUND ACQUISITION AND RESTORATION PROGRAM MANAGER (EXEMPT)</a><br><br>
-			<a href="https://www.governmentjobs.com/careers/washington/jobs/2026357/environmental-planner-1-project">ENVIRONMENTAL PLANNER 1 (PROJECT)</a>
+				
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
