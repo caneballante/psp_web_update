@@ -1,12 +1,5 @@
-dwsync.xml
+*.xml
 *.DS_Store
 downloads/*
 _notes/*
 _notes/dwsync.xml
-*.xml
-
-_notes/dwsync.xml
-
-*.xml
-
-*.xml
