@@ -80,11 +80,12 @@
 				
 				<h3>ATTENDEE MATERIALS</h3>
 				<ul>
-					<li><a href="https://pspwa.box.com/s/0xhze4jkjufi9trb5frgmxghi9x7kb5y">Attendee list (current as of 5/14/18)</a></li>
-					<li><a href="https://pspwa.box.com/s/joqdu7meu36ktl3w7f29zpmdy5isjkze">Draft Schedule (5/18/18)</a></li>
+					<li><a href="https://pspwa.box.com/s/0xhze4jkjufi9trb5frgmxghi9x7kb5y">Attendee list (5/22/18)</a></li>
+					<li><a href="https://pspwa.box.com/s/joqdu7meu36ktl3w7f29zpmdy5isjkze">Schedule (5/22/18)</a></li>
+					<li><a href="https://pspwa.box.com/s/5bu75xwv3564un6tebbe2n2nujvim70b">Small group assignments</a></li>
 					<li><a href="https://pspwa.box.com/s/yq2zu4vkcu71d1tr566epb0gkeqh1gio">Welcome letter</a></li>
 					<li><a href="https://pspwa.box.com/s/cvkj1hv7262lmassjtfo0j9gj0ovktsj">Puget Sound Day on the Hill fact sheet</a></li>
-					<li><a href="https://pspwa.box.com/s/3n4w7d0awq5k9psubake1o4czvpr39fr">Puget Sound letter of support</a></li>
+					<li><a href="https://pspwa.box.com/s/3n4w7d0awq5k9psubake1o4czvpr39fr">Puget Sound letter of support with signatories (signatories current as of 5/21/18)</a></li>
 					<li><a href="https://pspwa.box.com/s/adszi5onja2ek0p8tiz3nubcqrsoyrkv">Sensitive issues contact information</a></li>
 					<li><a href="https://pspwa.box.com/s/7k9t2lut2j78f6eg02eonltbimnuhmki">Happy hour invitation</a></li>
 					<li><a href="https://pspwa.box.com/s/6gvzmtqpy7vg5dcmd8p7i80khdcqma7f">Post event survey</a></li>
@@ -92,39 +93,19 @@
 					
 				</ul>
 				<h3>SIGN THE LETTER OF SUPPORT</h3>
-				<p>To demonstrate even broader support for the fourth annual Puget Sound Day on the Hill on May 23rd, we’re asking leading organizations in the region to join us by signing on to the letter. </p>
- 
-<p>To be included as an official signatory to the letter, please provide the requested information at the following <a href="https://goo.gl/forms/ZUjA3Hj6M5Oa9dMf1">link</a>. Enter your name, title, and organization exactly as you would like it to appear in the letter.</p>
+				<p>To demonstrate even broader support for the fourth annual Puget Sound Day on the Hill on May 23rd, we’re asking leading organizations in the region to join us by signing on to the letter. 
+ 				To be included as an official signatory to the letter, please provide the requested information at the following <a href="https://goo.gl/forms/ZUjA3Hj6M5Oa9dMf1">link</a>. Enter your name, title, and organization exactly as you would like it to appear in the letter.</p>
 				
-				<p><a href="https://pspwa.box.com/s/3n4w7d0awq5k9psubake1o4czvpr39fr">Read the Puget Sound Letter of Support</a></p>
-				<p><a href="https://goo.gl/forms/ZUjA3Hj6M5Oa9dMf1">Sign the Puget Sound Letter of Support</a></p>
+				<p><a href="https://pspwa.box.com/s/3n4w7d0awq5k9psubake1o4czvpr39fr">Read the Puget Sound Letter of Support</a> | <a href="https://goo.gl/forms/ZUjA3Hj6M5Oa9dMf1">Sign the Puget Sound Letter of Support</a></p>
 				
 				<h3>Basic Itinerary</h3>
 				<p><em>Tuesday May 22</em>: arrival, evening reception</p>
+				<p><em>Tuesday May 22</em>: night tour of the capitol with Rep. Kilmer at 8:30 p.m.</p>
 				<p><em>Wednesday May 23</em>: all day group meeting with congressional and agency leaders; smaller breakout events </p>
 				<p><em>Thursday, May 24</em>: small group meetings/panels, afternoon/evening departure</p>
-				<p>Please note that participants are responsible for making travel and accommodation arrangements.</p>
-				<p>As we get closer to the trip, Puget Sound Partnership will host two planning and preparation meetings at the Center for Urban Waters in Tacoma to discuss and refine messages for the trip and finalize logistics. Agendas and call-in numbers will be provided in advance, although in-person attendance is highly recommended.</p>
-		
-				<h3><strong>2018 Group Planning Meetings</strong></h3>
-				<p>&nbsp;</p>
-				<p><strong>Planning Meeting 1:</strong>  Friday April 20, 9 am - 12 pm, Center for Urban Waters, Tacoma</p>
-				<ul>
-					<li>Please send any additional suggested edits or feedback on the 1-page leave behind as well as the sign-on letter to <a href="mailto:marie@cascadiaconsulting.com">marie@cascadiaconsulting.com</a> and cc Sheida Sahandy by <strong>COB Friday, 4/27</strong>. </li>
-					<li>Visit this <a href="https://docs.google.com/spreadsheets/d/1RkPBsq4Ir5xj0rooU6P-1gAU-4khzUlwax06I9pk9lU/edit?usp=sharing">link</a> to review our list of potential signatories to the support letter. Feel free to edit this sheet directly and add more organizations as well as sign up to contact those organizations. We will provide the letter and directions for signing on once it is finalized. </li>
-					<li>Please RSVP to <a href="mailto:Denise.Ross@pspwa.gov">Denise.Ross@pspwa.gov</a> and let her know if you will be attending the next planning meeting (May 9, 1-4 pm at the Center for Urban Waters) in person or calling in. An agenda and meeting packet with call-in info will be sent out in advance.				</li>
-				</ul>
-				<p><strong>Planning Meeting 2:</strong>  Wednesday May 9, 1-4 pm, Center for Urban Waters, Tacoma</p>
-				<p><strong> <a href="https://pspwa.box.com/s/nhhl1wjjpzj4zgyqzj2rmxgeuq605u7e">May 9th PSDOTH Planning Meeting Materials</a></strong><strong> </strong></p>
-				<h3>Travel Information</h3>
-				<p>Alaska Airlines is offering a five percent discount to PSDOH18 attendees!</p>
-				<p><strong>Use discount code:</strong> <strong>ECMZ518</strong>
-				</p>
-				<p>Departure City(s): Any Alaska Airlines/Horizon Air US or Canadian city</p>
-				<p>Arrival City(s): Washington, DC (DCA or IAD) or Baltimore, Maryland</p>
-				<p>Not Included: Prudhoe Bay, Alaska; Hawaii, Mexico or Costa Rica</p>
-				<p>Valid for travel between May 18 - June 1, 2018</p>
-
+				<br>
+<br>
+<p>Please note that participants are responsible for making travel and accommodation arrangements.</p>
 				<p>To use your Discount Code, go online to <a href="http://www.alaskaair.com/">alaskaair.com</a> and input the Discount Code when searching for flights.</p>
 				<p><strong>Recommended Hotels Offering Government Per Diem:</strong></p>
 				<p><a href="https://www.ihg.com/kimptonhotels/hotels/us/en/reservation">Kimpton Hotel Monaco Washington D.C.</a> – 27 minutes from Capitol Campus; on direct route via Red Line Metro</p>
