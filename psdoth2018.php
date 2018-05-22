@@ -83,12 +83,16 @@
 					<li><a href="https://pspwa.box.com/s/0xhze4jkjufi9trb5frgmxghi9x7kb5y">Attendee list (5/22/18)</a></li>
 					<li><a href="https://pspwa.box.com/s/joqdu7meu36ktl3w7f29zpmdy5isjkze">Schedule (5/22/18)</a></li>
 					<li><a href="https://pspwa.box.com/s/5bu75xwv3564un6tebbe2n2nujvim70b">Small group assignments</a></li>
-					<li><a href="https://pspwa.box.com/s/yq2zu4vkcu71d1tr566epb0gkeqh1gio">Welcome letter</a></li>
+					<li><a href="https://pspwa.box.com/s/psnqljmtu67o8fnr227hn9mhqqq4nf29"> Capitol Hill meeting instructions</a></li>
+<li><a href="https://pspwa.box.com/s/yq2zu4vkcu71d1tr566epb0gkeqh1gio">Welcome letter</a></li>
 					<li><a href="https://pspwa.box.com/s/cvkj1hv7262lmassjtfo0j9gj0ovktsj">Puget Sound Day on the Hill fact sheet</a></li>
 					<li><a href="https://pspwa.box.com/s/3n4w7d0awq5k9psubake1o4czvpr39fr">Puget Sound letter of support with signatories (signatories current as of 5/21/18)</a></li>
 					<li><a href="https://pspwa.box.com/s/adszi5onja2ek0p8tiz3nubcqrsoyrkv">Sensitive issues contact information</a></li>
 					<li><a href="https://pspwa.box.com/s/7k9t2lut2j78f6eg02eonltbimnuhmki">Happy hour invitation</a></li>
-					<li><a href="https://pspwa.box.com/s/6gvzmtqpy7vg5dcmd8p7i80khdcqma7f">Post event survey</a></li>
+					<li><a href="https://pspwa.box.com/s/i1qhjfv8y361ufqijf7k6t3njkfj7qd5">Social media plan</a> </li>
+					<li><a href="https://pspwa.box.com/s/j96pt7y5z9g3nho2bvoen4hmo6camxhu">Restaurants near the Capitol</a> </li>
+					<li><a href="https://pspwa.box.com/s/za6focyp9efojp1funttyl9gt5imsnyf">Tips for a successful Day on the Hill</a></li>
+<li><a href="https://pspwa.box.com/s/6gvzmtqpy7vg5dcmd8p7i80khdcqma7f">Post event survey</a></li>
 					<li><a href="https://pspwa.box.com/s/oz0daiohmu9edx9y85jdyrhenx27bkxd">Panel discussion invite - Puget Sound: A Case Study of Innovations &amp;Partnerships for Estuary Restoration</a></li>
 					
 				</ul>
