@@ -99,9 +99,9 @@
 				<p><a href="https://pspwa.box.com/s/3n4w7d0awq5k9psubake1o4czvpr39fr">Read the Puget Sound Letter of Support</a> | <a href="https://goo.gl/forms/ZUjA3Hj6M5Oa9dMf1">Sign the Puget Sound Letter of Support</a></p>
 				
 				<h3>Basic Itinerary</h3>
-				<p><em>Tuesday May 22</em>: arrival, evening reception</p>
-				<p><em>Tuesday May 22</em>: night tour of the capitol with Rep. Kilmer at 8:30 p.m.</p>
-				<p><em>Wednesday May 23</em>: all day group meeting with congressional and agency leaders; smaller breakout events </p>
+				<p><em>Tuesday, May 22</em>: arrival, evening reception</p>
+				<p><em>Tuesday, May 22</em>: night tour of the capitol with Rep. Kilmer at 8:30 p.m.</p>
+				<p><em>Wednesday, May 23</em>: all day group meeting with congressional and agency leaders; smaller breakout events </p>
 				<p><em>Thursday, May 24</em>: small group meetings/panels, afternoon/evening departure</p>
 				<br>
 <br>
