@@ -83,32 +83,46 @@
 					</li>
 				</ul>
 				<h3>TASK FORCE MEMBERS</h3>
+				
 				<p><span lang="EN">Phil Anderson, Pacific Salmon Council</span></p>
+				<p><span lang="EN">JT Austin, Governor's Office</span></p>
 				<p><span lang="EN">Ken Balcomb, Center for Whale Research</span></p>
 				<p><span lang="EN">Lynne Barre, National Oceanic and Atmospheric Administration</span></p>
 				<p><span lang="EN">Maia Bellon, Washington State Department of Ecology</span></p>
+				<p><span lang="EN">Rep. Brian Blake (D), Legislative District 19, Aberdeen</span></p>
+				<p><span lang="EN">Chad Bowechop, Makah Tribe</span></p>
+				<p><span lang="EN">Bryce Campbell, Global Affairs Canada</span></p>
 				<p><span lang="EN">Gary Chandler, Association of Washington Business</span></p>
+				<p><span lang="EN">Karen Condon, Colville Confederated Tribes</span></p>
 				<p><span lang="EN">Kaleen Cottingham, Washington State Recreation and Conservation Office</span></p>
+				<p><span lang="EN">Jeff Dickison, Squaxin Island Trivbe</span></p>
 				<p><span lang="EN">Mark Doumit, Washington Forest Protection Association</span></p>
+				<p><span lang="EN">Chairman Leonard Forsman, Suquamish Tribe</span></p>
 				<p><span lang="EN">Ron Garner, Puget Sound Anglers</span></p>
 				<p><span lang="EN">Joe Gaydos, The SeaDoc Society</span></p>
+				<p><span lang="EN">Cecilia Gobin, Northwest Indian Fisheries Commission</span></p>
 				<p><span lang="EN">Brendan Flynn, Commercial Fisherman</span></p>
 				<p><span lang="EN">Jeff Friedman, Pacific Whale Watch Association</span></p>
-				<p><span lang="EN">Will Hall, City of Shoreline</span></p>
+				<p><span lang="EN">Mayor Will Hall, City of Shoreline</span></p>
 				<p><span lang="EN">George Harris, NW Marine Trade Association</span></p>
-				<p><span lang="EN">Andy Hover, Okanogan County</span></p>
+				<p><span lang="EN">Commissioner Andy Hover, Okanogan County</span></p>
 				<p><span lang="EN">Chairman Jay Julius, Lummi Nation</span></p>
 				<p><span lang="EN">B.J. Kieffer, Spokane Tribe</span></p>
-				<p><span lang="EN">Kathy Pittis, Port of Anacortes</span></p>
-				<p><span lang="EN">Sen. Kevin Ranker (D), District 40, Orcas Island</span></p>
+				<p><span lang="EN">Rep. Drew MacEwen (R), Legislative District 35, Union</span></p>
+				<p><span lang="EN">Paul McCollum, Port Gamble S’Klallam Tribe</span></p>
+				<p><span lang="EN">Kelly McLain, Washington State Department of Agriculture</span></p>
+				<p><span lang="EN">Virginia Painter, Washington State Parks</span></p>
+				<p><span lang="EN">Commissioner Kathy Pittis, Port of Anacortes</span></p>
+				<p><span lang="EN">Sen. Kevin Ranker (D), Legislative District 40, Orcas Island</span></p>
 				<p><span lang="EN">Mindy Roberts, Washington Environmental Council</span></p>
 				<p><span lang="EN">Sheida Sahandy, Puget Sound Partnership</span></p>
+				<p><span lang="EN">Donna Sandstrom, The Whale Trail</span></p>
 				<p><span lang="EN">Amy Scarton, Washington State Department of Transportation</span></p>
 				<p><span lang="EN">Ron Schulz, Washington State Conservation Commission</span></p>
 				<p><span lang="EN">Evan Sheffels, Washington State Farm Bureau</span></p>
 				<p><span lang="EN">Brad Smith, Washington Fish and Wildlife Commission</span></p>
 				<p><span lang="EN">Butch Smith, Ilwaco Charters</span></p>
-				<p><span lang="EN">Jamie Stephens, San Juan County</span></p>
+				<p><span lang="EN">Commissioner Jamie Stephens, San Juan County</span></p>
 				<p><span lang="EN">Kristin Swenddal, Washington State Department of Natural Resources</span></p>
 				<p><span lang="EN">Trina Wellman, Northern Economics, Inc.</span></p>
 				<p><span lang="EN">Jacques White, Long Live The Kings</span></p>
