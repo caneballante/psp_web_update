@@ -82,8 +82,9 @@
 				</tr>
 				<tr>
 					<td><p>June 12</p></td>
-					<td><p>Tentatively at Shoreline, Wa<br>
-					</p></td>
+					<td><p>North City Water Districts<br>
+						1519 NE 177th Street<br>
+					Shoreline, WA 98155</p></td>
 
 					<td><a href="https://pspwa.box.com/s/yinkhf1j2fu9fhgjwk76j7tkknl5g56r" target="new">Meeting Materials</a></td>
 
@@ -93,7 +94,9 @@ Under Location:
 
 				<tr>
 					<td><p>September 12/13</p></td>
-					<td><p>Tentatively Anacortes</p></td>
+					<td><p>Brickworks<br>
+						150 Nichols Street<br>
+					Friday Harbor, WA 98250</p></td>
 					<td><a href="https://pspwa.box.com/s/8m2mdydxvniyuoz42x8fs4j9pqc4023r" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
