@@ -70,6 +70,14 @@
 				<h3>TASK FORCE SCHEDULE</h3>
 				<ul><li>
 					<p>Initial meeting: May 1, 2018, 10 to 4:30, Lacey Community Center, 6729 Pacific Avenue SE, Lacey, WA</p>
+					<p>View the meeting via TVW archives:
+						<p>Morning session:</p> <a href="https://www.tvw.org/watch/?eventID=2018051003">
+						https://www.tvw.org/watch/?eventID=2018051003</a>				</p>
+
+				<p>Afternoon session:</p> <a href="https://www.tvw.org/watch/?eventID=2018051004 ">
+						https://www.tvw.org/watch/?eventID=2018051004 </a>	
+ 
+					
 					<p>The Governor&rsquo;s Office will post the meeting agenda on Governor Inslee&rsquo;s website before the meeting:<a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force</a>				</p>
 				</li>
 					<li>
