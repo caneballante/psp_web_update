@@ -78,7 +78,7 @@
 						https://www.tvw.org/watch/?eventID=2018051004 </a>	
  
 					
-					<p>The Governor&rsquo;s Office will post the meeting agenda on Governor Inslee&rsquo;s website before the meeting:<a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force</a>				</p>
+					
 				</li>
 					<li>
 						<p>Draft report due: October 1, 2018</p>
@@ -89,6 +89,11 @@
 					<li>
 						<p>Followup report due: October 1, 2019 (outlines progress, lessons learned, outstanding needs)</p>
 					</li>
+			<li>
+						<p>Schedules and agendas for all Task Force and Working Group meetings are posted on Governor Inslee’s website at
+							<a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force</a>				</p></p>
+					</li>
+			
 				</ul>
 				<h3>TASK FORCE MEMBERS</h3>
 				
