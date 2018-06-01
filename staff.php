@@ -316,9 +316,7 @@
 				<em>South Sound LIO</em><br/> 360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a>
 			</p>
 
-			<h5>Stacy Vynne</h5>
-			<p> Salmon Recovery Manager<br />
-			  360.489.2112 | <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a></p>
+			
 
 			<!--P.P. - IMPLEMENTATION STRATEGIES-->
 		
