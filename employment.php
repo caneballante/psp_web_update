@@ -74,6 +74,10 @@
 			<p> Closes June 19, 2018 <br />
 				
 			</p>
+				<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2100126/ecosystem-recovery-coordinator-exempt">Ecosystem Recovery Coordinator</a></p>		
+			<p> Closes June 19, 2018 <br />
+				
+			</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

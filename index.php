@@ -58,7 +58,7 @@
 		<div class="col-sm-3 padding-10-top">
 			<h1>ROADMAP TO RECOVERY</h1>
 			<div class="padding-5-bottom"><a href="action_agenda_center.php">ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
-			<div class="padding-5-bottom"><a href="2018_AA_update.php"><span class="orange"><strong>NEW! </strong></span>2018-2022&nbsp;ACTION AGENDA&nbsp;UPDATE</a></div>
+			<div class="padding-5-bottom"><a href="2018_AA_update.php">2018-2022&nbsp;ACTION AGENDA&nbsp;UPDATE</a></div>
 			<div class="padding-5-bottom"><a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
 			<div class="padding-5-bottom"><a href="science-adaptive-management-framework.php">RESULTS-BASED MANAGEMENT</a></div>
 		</div>
@@ -66,7 +66,7 @@
 		<div class="col-sm-3 padding-10-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>
-			<div class="padding-5-bottom"><a href="PSAR.php"><span class="orange"><strong>NEW! </strong></span>PUGET SOUND ACQUISITION AND RECOVERY(PSAR)&nbsp;FUND</a></div>
+			<div class="padding-5-bottom"><a href="PSAR.php">PUGET SOUND ACQUISITION AND RECOVERY(PSAR)&nbsp;FUND</a></div>
 			<div class="padding-5-bottom"><a href="NEP-overview.php">NATIONAL ESTUARY PROGRAM (NEP)</a></div>
 			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY</a></div>
 	</div>
