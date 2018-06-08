@@ -100,8 +100,8 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/orca-news-release.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1f086bc">
-						5/16 - Northwest leaders travel to Washington D.C. for ‘Puget Sound Day on The Hill’
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1f5f69a">
+						6/8 - Leadership Council to consider vision for Puget Sound recovery beyond 2020
 						</a><br>
 						<!--END news content BOX--> 
 					</div>
