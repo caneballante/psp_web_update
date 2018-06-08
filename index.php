@@ -92,6 +92,22 @@
 <div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
 	<div class="container"> 
 		<!--copy column to column to create new blog post-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/press-release-orca.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e27144">
+						3/15 - Puget Sound Partnership to serve key role in Southern Resident Orca Task Force
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+			<!--COLUMN END--> 
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
 				<!--COLUMN START-->
@@ -100,8 +116,8 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/orca-news-release.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1f086bc">
-						5/16 - Northwest leaders travel to Washington D.C. for ‘Puget Sound Day on The Hill’
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1f5f3b8">
+						6/8 - Leadership Council to hear update from Southern Resident Orca Recovery Task Force
 						</a><br>
 						<!--END news content BOX--> 
 					</div>
