@@ -350,7 +350,32 @@
 	<!--ROW END-->
 	<!--ROW START-->
 	<div class="row light-blue-fill">
-		
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox">
+				<div class="newsbox-text"> 
+					<!--news content BOX --> 
+
+					</strong>EMPLOYMENT<br>
+					<a href="https://www.governmentjobs.com/careers/washington/jobs/2100126/ecosystem-recovery-coordinator-exempt">Ecosystem Recovery Coordinator (EXEMPT)</a><br>
+					<!--END news content BOX--> 
+				</div>
+			</div>
+		</div>
+		<!--COLUMN END-->
+	<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox">
+				<div class="newsbox-text"> 
+					<!--news content BOX --> 
+
+					</strong>EMPLOYMENT<br>
+					<a href="https://www.governmentjobs.com/careers/washington/jobs/2099536/salmon-recovery-manager-exempt">Salmon Recovery Manager (EXEMPT)</a><br>
+					<!--END news content BOX--> 
+				</div>
+			</div>
+		</div>
+		<!--COLUMN END-->
 		
 	</div>
 	<!--ROW END-->
