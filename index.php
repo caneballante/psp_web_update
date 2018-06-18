@@ -94,6 +94,22 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+					<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/seabeck-group.jpg"  alt=""/> <strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/2018-action-agenda-nta-review-camp-a-huge-success-bf88ef2588cb">
+						6/18 - 2018 Action Agenda NTA Review “Camp” a huge success!
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 				<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
