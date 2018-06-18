@@ -52,17 +52,18 @@
 
 		<div class="row">
 			<div class="col-sm-9 margin-40-left padding-20-top padding-40-right content-column mobile-padding-20-left">
-					<div class="width-300-govdelivery-doth border-thin-blue floatright padding-10-all margin-30-bottom">
-					
+				<div class="width-300-govdelivery-doth border-thin-blue floatright padding-10-all margin-30-bottom">
+					<p><a href="https://public.govdelivery.com/accounts/WAPSP/subscriber/new?qsp=WAPSP_1+">Sign up for information on the Southern Resident Orca Task Force</a>						
+					<hr>				
 					<p><strong>Please direct all press enquiries to the Governors office:</strong>	<br>
 					Jaime Smith <br>
 					Executive Director of Communications<br>
 					360-902-4136<br>
-					<a href="mailto:jaime.smith@gov.wa.gov">jaime.smith@gov.wa.gov</a>
-
-									
+					<a href="mailto:jaime.smith@gov.wa.gov">jaime.smith@gov.wa.gov</a></p>
+					<hr>
+					<p><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">Governor’s orca recovery webpage</a></p>
 				</div>
-			
+
 				<p>On March 14, 2018, Governor Jay Inslee signed an <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">Executive Order</a> directing immediate statewide action to benefit Southern Resident orcas, which are considered to be in imminent danger of extinction. <a href="https://www.tvw.org/watch/?eventID=2018031115">View a video recording of the signing ceremony.</a></p>
 				<p><strong><a href="#actions">View state agency actions requested by the Governor</a></strong></p>
 				<h3>Orca recovery Task Force established</h3>
