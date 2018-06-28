@@ -45,8 +45,8 @@
 	<div class="container-fluid page-content padding-50-bottom">
 		<div class="row">
 			<div class="col-sm-10 margin-40-left  padding-20-top padding-40-left">
-				<h1>2018 PUGET SOUND DAY ON THE HILL<br>
-		MAY 23rd 2018</h1>
+				<h1>2018 PUGET SOUND DAY ON THE HILL was a success!<br>
+		MAY 23, 2018</h1>
 
 				<p>&nbsp;</p>
 			</div>
@@ -106,13 +106,13 @@ The trip culminated on Thursday afternoon with a lunch panel presentation and di
 				<li>
                 The Senate Appropriations Committee passed an appropriation bill which <b>adds $5 million to PCSRF for a total of $70 million for FY19</b>. The bill now awaits a vote by the full Senate and consideration by the House.</li>
 				<li><a href=https://www.usace.army.mil/Missions/Civil-Works/Budget/>
-					   The US Army Corps of Engineers work plan was released </a>and it includes</li><br>
+					   The US Army Corps of Engineers work plan was released </a>and it includes:</li>
 	<ul>
 <li>$200k for the Puget Sound Nearshore Ecosystem Restoration Program (PSNERP) Project Engineering/Design (PED)</li>
 <li>An additional <b>$13M for Lake Washington Ship Canal (read Ballard Locks!)</b></li>
 <li>New start feasibility for Tacoma Harbor
-New start feasibility for Mill Creek
-$1M PED funds for Skokomish</li></ul>
+<li>New start feasibility for Mill Creek</li>
+		<li>$1M PED funds for Skokomish</li></ul>
 				
                 If you were not able to attend this year, don’t forget to thank someone who did! We would not be able to maintain the support we get, and build the foundation for the support we need, without this kind of engagement and participation. We expect to begin planning for PSDOTH 2019 in the late fall and hope to see you in D.C. next year!
   </p>
