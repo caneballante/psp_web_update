@@ -98,7 +98,7 @@
 			<p>The figure below describes the steps for developing and submitting Near Term Action proposals.</p>
 			<p><img class="img-responsive" src="images/action-agenda/Action-agenda-NTA-process.png" width="873" height="1056" alt=""/></p>
 			<h2>HOW DO WE KNOW WHETHER THE ACTION AGENDA IS EFFECTIVE?</h2>
-			<p><a href="http://www.psp.wa.gov/vitalsigns/">Puget Sound Vital Signs</a> and <a href="http://www.psp.wa.gov/action_agenda_targets.php">recovery targets</a> measure how well the Action Agenda is working to recover our ecosystem. If data on the ground show that we&rsquo;ve made progress toward a recovery target, we will know that the Action Agenda is working. We report on our progress in the biennial <a href="http://www.psp.wa.gov/os.php">State of the Sound report</a>. Effectiveness monitoring tools and publications include:</p>
+			<p><a href="http://www.psp.wa.gov/vitalsigns/">Puget Sound Vital Signs</a> and <a href="http://www.psp.wa.gov/action_agenda_targets.php">recovery targets</a> measure how well the Action Agenda is working to recover our ecosystem. If data on the ground show thatß we&rsquo;ve made progress toward a recovery target, we will know that the Action Agenda is working. We report on our progress in the biennial <a href="http://www.psp.wa.gov/sos.php">State of the Sound report</a>. Effectiveness monitoring tools and publications include:</p>
 			<ul>
 				<li> <a href="https://sites.google.com/a/psemp.org/psemp/news-and-announcements/secondpsempquarterlynewsletterissued">Puget Sound Ecosystem Monitoring Program</a></li>
 				<li> <a href="https://sites.google.com/site/pressureassessment/home">Puget Sound Pressure Assessment</a></li>
