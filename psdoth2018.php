@@ -74,7 +74,7 @@
 					</form>
 					<!-- /input-group --> 
 				</div>
-				<h3>Day on the Hill RECAP</h3>
+				<h3 class="margin-0-top">Day on the Hill RECAP</h3>
 				<p>Thank you for doing your part in making Puget Sound Day on the Hill 2018 a success! The feedback we’ve received has been very positive, and I am proud of the great work our group was able to accomplish. Here’s a quick recap:</p>
 				<ul>
 					<li>
