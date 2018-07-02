@@ -23,6 +23,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+	<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 9;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -53,7 +57,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/ln-eval-actions.html';?>
+					<?php include 'includes/ln-psp-overview.html';?>	
 			<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -61,10 +65,16 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-						<p>The Puget Sound Partnership is the state agency charged with overseeing the restoration of Puget Sound. This work requires the Partnership to compile, assess, collect, and report on environmental and other data and technical information. The Partnership also uses this data and technical information to inform the public, make decisions, recommend actions, measure performance, and track implementation.</p>
-						<p>The Puget Sound Partnership’s Quality Management Plan describes the agency’s processes and policies to ensure that the quality of the data and technical information that is gathered corresponds with the actions and decisions undertaken by the Partnership.</p>
-						<p>The Puget Sound Partnership’s first, and current, QMP was approved by the Partnership and the U.S. Environmental Protection Agency in April 2014.</p>
+						<p>The Puget Sound Partnership (Partnership) adopted Policy A-700 as its quality assurance policy on August 9, 2013. That policy establishes the agency’s Quality Assurance program, specifying that it applies to all aspects of Partnership operations and to all employees, and contractors who collect data, analyze data, or conduct modeling. The policy includes definitions, provides guidelines for scientific review, and describes the quality assurance responsibilities of the agency.</p><p>
+						The Partnership adopted its Quality Management Plan in 2014. The plan describes the level of quality the agency aspires to, describes how that level of quality applies to external partners, and lays out the processes for managing quality across all Partnership functions.</p><p>
+						The Partnership completed a review of the Quality Management Program in June 2016, based on activity from April 2015 to April 2016 to determine: (a) if the Partnership’s Quality Management Plan conforms to U.S. Environmental Protection Agency (EPA) requirements, (b) if all projects or work assignments that require quality assurance project plan (QAPP) waivers or project plans have them, (c) assess whether Partnership staff follows the QMP, and (d) what steps could be taken to improve the Partnership’s quality management system.</p><p>
+						The Quality Assurance Program specifies that every three years the Partnership prepares a status report on quality assurance and quality control information. This is the first such report. Topics covered in this report include an overview of the Quality Management Plan, a description of the agency’s Quality Management Program, including training provided to agency staff, meetings of the agency quality team, technical assistance to agency staff, subawardees and contractors, and description of issues, personnel needs and other information requested specifically by agency leadership.</p>
 						<p style="font-weight: bold">Download</p>
+						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/xc02hgx2rm81kswquy7w31gceen1lo49">2017 Quality Report to Management</a></p>
+						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/g6vgiuczqgiawv8jbf24e86fbxmy62ob">2017 Quality Training</a></p>
+						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/fcs3ggeiv7z1yz04gjxu78sxatwogs4j">2016 QAPP Training</a></p>
+						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/kzd0lvbizx5r842z0t8vx3th7spimfpg">2016 Quality Management Plan</a></p>
+			<p style="font-weight: bold">&nbsp;</p>
 						<p style="font-weight: bold"><a href="downloads/2014_qmp/Quality Management Plan April 2014_with_appendices.pdf">Quality Management Plan April 2014 (with appendices)</a>						</p>
 						<ul>
 								<li><a href="downloads/2014_qmp/Quality Management Plan April 2014.pdf" style="font-weight: bold">Quality Management Plan April 2014</a></li>

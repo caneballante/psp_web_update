@@ -62,7 +62,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include 'includes/ln-salmon.html';?>	
+			<?php include 'includes/ln-salmon-beta.html';?>	
 			<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -71,13 +71,13 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 		<p>Using the Puget Sound Salmon Recovery Plan as a guide, the Partnership is committed to working with local stakeholders and communities, tribes, businesses, anglers, agriculture, environmental interest groups, and state and federal agencies to identify, sequence, prioritize, and implement projects and programs to recover salmon in Puget Sound. Salmon recovery work in Puget Sound watersheds is the cornerstone of broader Puget Sound recovery efforts. The Partnership coordinates and funds both local salmon recovery and large-scale protection and restoration efforts through the Puget Sound Acquisition and Restoration (PSAR) program. </p>
-		<h2>Salmon recovery honors tribal treaty rights.</h2>
+		<h4>Salmon recovery honors tribal treaty rights.</h4>
 		<p>Treaties signed in the 1850s granted tribes &ldquo;the right of taking fish from all usual and accustomed grounds and stations… in common with all citizens.&rdquo; The 1974 Supreme Court ruling, known as the Boldt Decision, re-affirmed the tribes' treaty reserved fishing rights. Today, the tribes and Washington State co-manage salmon recovery and habitat protection. In Puget Sound, the Partnership works with the tribes to achieve our shared goals to recover salmon. </p>
-		<h2>Healthy salmon populations benefit Puget Sound residents.</h2>
+		<h4>Healthy salmon populations benefit Puget Sound residents.</h4>
 		<p>Healthy salmon runs mean more salmon for harvest. Restoring and protecting salmon habitat also preserves opportunities for fishing, rafting, wildlife viewing, hunting, and hiking. Salmon habitat restoration leverages federal funding to stimulate local economies.</p>
-		<h2>Salmon are a key part of Puget Sound's food web. </h2>
+		<h4>Salmon are a key part of Puget Sound's food web. </h4>
 		<p>The health of salmon populations reflects the overall health of Puget Sound. Chinook salmon, steelhead, and bull trout are listed as threatened under the Endangered Species Act and the 22 remaining populations of Chinook salmon are dangerously below federal recovery goals. Southern Resident orcas depend on Chinook salmon for food, along with many other marine mammals, birds, and fish. <br> 
-		<h3>WHO'S INVOLVED?</h3>
+		<h2>WHO'S INVOLVED?</h2>
 		<p>The <strong>Puget Sound Partnership</strong> is the state agency leading the region's collective effort to restore and protect Puget Sound. The Leadership Council, the governing body of the Puget Sound Partnership, serves as the <a href="http://app.leg.wa.gov/rcw/default.aspx?cite=77.85.090">regional</a> organization for Puget Sound salmon recovery (with the exception of Hood Canal Summer Chum).</p>
 		<p>To advance salmon recovery efforts in Puget Sound, the Partnership:</p>
 		<ul>
@@ -87,7 +87,7 @@
 			<li>Evaluates what's working to restore salmon populations to select the most effective actions for protecting and restoring salmon. </li>
 		</ul>
 		<p>The Partnership serves as the backbone organization by coordinating, aligning, and tracking the collaborative efforts of regional, tribal, and local partners to recover salmon populations throughout Puget Sound. </p>
-		<h2>Roles of our partners in salmon recovery </h2>
+		<h4>Roles of our partners in salmon recovery </h4>
 		<p><a href="http://www.psp.wa.gov/LC_about.php"><strong>The Leadership Council</strong></a><strong> </strong>is a seven-member panel appointed by the Governor that makes decisions relating to salmon recovery and the implementation of the Puget Sound Salmon Recovery Plan. </p>
 		<p><strong>The Puget Sound Tribal Management Conference </strong>is a forum where Tribes participate in the Puget Sound Action Agenda update process, set priorities for Puget Sound recovery, and provide direct input into the National Estuary Program decision framework. The Tribal Management Conference was instrumental in shaping the priorities (or &ldquo;bold actions&rdquo;) of the Chinook Salmon Implementation Strategy. The Northwest Indian Fisheries Commission produces the <a href="https://nwifc.org/publications/state-of-our-watersheds/">State of Our Watersheds</a> to report progress and challenges for salmon recovery.<br>
 		Links:</p>
@@ -96,17 +96,17 @@
 		<p><a href="https://www.rco.wa.gov/salmon_recovery/gsro.shtml"><strong>Governor's Salmon Recovery Office</strong></a><strong> (GSRO) and </strong><a href="https://www.rco.wa.gov/salmon_recovery/gsro.shtml"><strong>Recreation and Conservation Office</strong></a><strong> (RCO)</strong> are critical state agencies coordinating the statewide salmon recovery effort.  Salmon Recovery Planning Act (<a href="http://app.leg.wa.gov/rcw/default.aspx?cite=77.85.090">RCW.77.85</a>) established the GSRO, to work statewide with salmon recovery organizations (including the Partnership) to ensure that salmon recovery plans are consistent with the Salmon Recovery Planning Act.</p>
 		<p><a href="http://www.westcoast.fisheries.noaa.gov/publications/status_reviews/salmon_steelhead/2016_status_review.html"><strong>The National Oceanic and Atmospheric Administration</strong></a> <strong>(NOAA)</strong> leads the steelhead recovery planning effort and reviews the status of listed salmon and steelhead under the Endangered Species Act (ESA) every 5 years. NOAA works closely with the Partnership to manage <a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/puget_sound_chinook_recovery_plan.html">Chinook</a> and <a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/overview_puget_sound_steelhead_recovery_2.html">steelhead</a> recovery plans for the Puget Sound.<br>
 			        
-		<h3>What are our goals for salmon recovery?</h3>
+		<h2>What are our goals for salmon recovery?</h2>
 		<p>Salmon recovery in Puget Sound has been guided over the years by collaborative processes. The <a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/puget_sound_chinook_recovery_plan.html">Puget Sound Salmon Recovery Plan</a> was developed in 2005 by regional experts and adopted by NOAA Fisheries in 2007 to meet obligations under the Endangered Species Act. Subsequently, local experts in each watershed worked together to craft 16 individual chapters of the Recovery Plan to specify local recovery goals, priority recovery actions, and monitoring needs. </p>
 		<p>In 2014, the Chinook Monitoring and Adaptive Management project translated the 16 salmon recovery chapters into a common framework to develop a common language for tracking progress and reporting on feedback on the effectiveness of the recovery efforts. In 2017, the <a href="http://www.psp.wa.gov/implementation-strategies.php">Chinook Salmon Implementation Strategy</a> consolidated strategies from the 2005 Puget Sound Salmon Recovery Plan to reflect lessons learned in the last 10 years. The Implementation Strategy and the Puget Sound Salmon Recovery Plan cover the same geographic area, but their targets differ. While the Puget Sound Salmon Recovery Plan largely focuses on specific salmon habitats needed to support Chinook salmon, the Chinook Salmon Implementation Strategy concentrates on the regional support necessary to enable watersheds to implement recovery strategies in their local areas. These recovery planning efforts are now linked with each other and with the Puget Sound Action Agenda so that changes in one will inform changes in the others.</p>
 		<p>&nbsp;</p>
 		<div><img src="images/2018-salmon-plan-graphic.jpg" width="510" height="215" alt=""/></div>
 		<p><em>The Puget Sound Salmon Recovery Plan includes 16 individual recovery plans (chapters) for each watershed, nearshore habitat recovery plan, and an overall regional recovery plan. The Chinook Salmon Implementation Strategy builds on the Salmon Recovery Plan to develop a common framework for regional recovery.</em></p>
 		<p>&nbsp;</p>
-		<h2>Puget Sound Salmon Recovery Goals</h2>
+		<h4>Puget Sound Salmon Recovery Goals</h4>
 		<p>The Puget Sound Salmon Recovery Plan articulates two goals. The first goal states that Puget Sound will &ldquo;Recover self-sustaining, harvestable salmon runs in a manner that contributes to the overall health of Puget Sound and its watersheds and allows us to enjoy and use this precious resource in concert with our region's economic vitality and prosperity&rdquo; (<a href="http://www.westcoast.fisheries.noaa.gov/publications/recovery_planning/salmon_steelhead/domains/puget_sound/chinook/pugetsoundchinookrecoveryplan_wo_exec_summary.pdf">Puget Sound Salmon Recovery Plan 2005</a>). The second goal was articulated in the 2007 National Marine Fisheries Service supplemental plan, and states &ldquo;Recovery of salmonid populations must achieve two goals: (1) the recovery and delisting of salmonids listed under the provisions of the ESA, and (2) the restoration of the meaningful exercise of tribal fishing rights&rdquo; (<a href="http://www.westcoast.fisheries.noaa.gov/publications/recovery_planning/salmon_steelhead/domains/puget_sound/chinook/ps-supplement.pdf">National Marine Fisheries Service 2007</a>). </p>
 		<p>Using the Puget Sound Salmon Recovery Plan as a guide, the Partnership is working with regional partners to implement projects and programs to recover salmon and meet the obligations under the ESA. NOAA Fisheries is working closely with the Partnership, as well as federal, state, tribal, and local partners to implement the recovery plan.</p>
-		<h2>Puget Sound Chinook Vital Sign Recovery Goals</h2>
+		<h4>Puget Sound Chinook Vital Sign Recovery Goals</h4>
 		<p>The Puget Sound regional experts have defined <a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Sign Indicators</a> to track the health of the ecosystem. Targets for those indicators represent recovery goals. The recovery target for the <a href="http://www.psp.wa.gov/vitalsigns/salmon.php">Chinook Salmon Vital Sign</a> is to &ldquo;stop the overall decline and start seeing improvement in wild Chinook abundance in two to four populations in each Puget Sound biogeographic region.<em>&rdquo;</em> To date, there is little sign of recovery of Puget Sound Chinook salmon populations and most remain far below their recovery planning targets. The Chinook salmon <a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategy</a> was developed to meet the Vital Sign target using a collaborative process to identify innovative ideas to accelerate salmon recovery, develop guidance for science and monitoring, and define recovery priorities and actions to achieve the Chinook salmon Vital Sign target. </p>
 		<p><a href="https://pspwa.app.box.com/file/236938255710">Regional priorities</a> for Puget Sound Chinook include:</p>
 		<ul>
@@ -117,10 +117,10 @@
 			<li>Support science and monitoring efforts that build and expand our understanding of Puget Sound salmon recovery;</li>
 			<li>Develop a viable and effective funding strategy for protection and restoration.</li>
 		</ul>
-		<h3>WHAT HAVE WE LEARNED SO FAR?</h3>
-		<h2>Adaptively Managing Recovery </h2>
+		<h2>WHAT HAVE WE LEARNED SO FAR?</h2>
+		<h4>Adaptively Managing Recovery </h4>
 		<p>The Partnership uses the Monitoring and Adaptive Management program is designed to evaluate progress toward recovery and to make changes in strategies or recovery efforts as a result of monitoring. In the 2005 Puget Sound Salmon Recovery Plan, <a href="https://pspwa.box.com/s/9nlhk69nac4qx309hu2n63ff8bwt7b85">key ecological attributes</a>, or characteristics necessary for salmon recovery, were defined for salmonid populations. In 2014, the Partnership worked with local and regional experts to define a shared set of habitat indicators, called <a href="https://pspwa.box.com/s/ot7zwpdci5o7hipu913m64sj6ly8rwca">Common Indicators</a>, to be reported across Puget Sound. A common set of measureable indicators enables the region to understand how successful each watershed is in implementing its recovery chapter and tell a clear regional story about recovery that is directly tied to evaluating the success of the recovery plan.</p>
-		<h2>Outcomes, effectiveness and accountability</h2>
+		<h4>Outcomes, effectiveness and accountability</h4>
 		<p>The Partnership's <a href="http://www.psp.wa.gov/evaluating-effective-action.php">Effectiveness Monitoring Program</a> evaluates how effective our restoration actions are to restore the Puget Sound ecosystem. The effectiveness assessment program has documented the positive effects of recovery actions in the following habitats:</p>
 		<ul>
 			<li>Nearshore restoration projects that remove hard armor and add proper size sand to the beach commonly result in usable forage fish spawning habitat for species like surf smelt and sand lance;</li>
@@ -143,7 +143,7 @@
 			<li><a href="https://pugetsoundinnovationstories.blog/">Puget Sound Innovative Stories</a></li>
 			<li><a href="http://www.psp.wa.gov/evaluating-effective-action.php">Puget Sound Partnership Effectiveness Monitoring Program</a></li>
 		</ul>
-		<h2>Key Documents and Programs for Puget Sound Salmon Recovery</h2>
+		<h4>Key Documents and Programs for Puget Sound Salmon Recovery</h4>
 		<p><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/puget_sound_chinook_recovery_plan.html"><strong>The Puget Sound Salmon Recovery Plan</strong></a> includes strategies and actions for habitat protection and restoration, hatchery management, and harvest management and is organized as a regional chapter (Volume I), 16 watershed-specific chapters, and a nearshore chapter (Volume II). The original plan included 14 chapters, but since 2005, the Skokomish and Elwha chapters have been completed.</p>
 		<p><strong>Local Salmon Recovery Chapters</strong><strong> </strong>are developed from individual Puget Sound watersheds and make up Volume II of the Puget Sound Recovery Plan. These chapters provide strategies to accelerate salmon habitat recovery locally and recommends specific and achievable projects, programs, and policies that can be implemented.<strong></strong></p>
 		<p><a href="https://pspwa.box.com/v/PublicIS-Chinook"><strong>The Chinook Implementation Strategy</strong></a> was developed by many key salmon recovery partners in the Puget Sound including: the Partnership, the Tribal Management Conference, and Puget Sound Salmon Recovery Council. The plan sets recovery priorities and actions for the Action Agenda and guides local planning for development and implementation of watershed recovery plans. </p>
