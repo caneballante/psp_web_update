@@ -41,7 +41,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image8">
+<header class="overview-page-image-style overview-page-image109">
 	<div class="overview-quote pull-right"></div>
 </header>
 <!-- InstanceEndEditable -->  
@@ -60,7 +60,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include 'includes/ln-salmon-beta.html';?>	
+			<?php include 'includes/ln-salmon.html';?>	
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -82,129 +82,132 @@
 					
 				</tr>
 				<tr>
-					<td>Green/Duwamish Watershed</td>
-					<td>Doug Osterman, WRIA 9/King County </td>
+					<td>Lake Washington/Cedar/<br>
+						Sammamish </td>
+					<td>Jason Mulvihill-Kuntz, King County</td>
+					<td>206-477-4780</td>
+					<td><a class="small-links" href="mailto:jason.mulvihill-kuntz@kingcounty.gov">jason.mulvihill-kuntz@kingcounty.gov</a></td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/LAKE_WASHINGTON_CEDAR_SAMMAMMISH.zip">2005 WRIA 8 Chapter</a></td>
+					<td><a href="http://www.govlink.org/watersheds/8/reports/chinook-plan-update.aspx">2017 WRIA 8 Chapter</a></td>
+				</tr>
+				<tr>
+					<td>Green/Duwamish </td>
+					<td>Doug Osterman, King County </td>
 					<td>206-477-4793</td>
 					<td><a class="small-links" href="mailto:doug.osterman@kingcounty.gov">doug.osterman@kingcounty.gov</a></td>
-					<td>text</td>
-					<td>text</td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/GREEN_DUWAMISH.zip">2005 WRIA 9 Chapter</a></td>
+					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td>Hood Canal Watershed</td>
-					<td>Scott Brewer, Exec Dir</td>
+					<td>Hood Canal </td>
+					<td>Scott Brewer, Hood Canal Coordinating Council</td>
 					<td>360-531-0575</td>
 					<td><a class="small-links" href="mailto:sbrewer@hccc.wa.gov">sbrewer@hccc.wa.gov</a></td>
-					<td>&nbsp;</td>
+					<td><a href="http://hccc.wa.gov/sites/default/files/resources/downloads/Skok_Recovery_Plan-formatted_final_draft.pdf">2010 Skokomish Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td>Island Watershed</td>
+					<td>Island </td>
 					<td>Dawn Pucci, Island County</td>
 					<td>360-678-7916</td>
 					<td><a class="small-links"href="mailto:d.pucci@co.island.wa.us">d.pucci@co.island.wa.us</a></td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-				</tr>
-				<tr>
-					<td>Lake Washington/Cedar/<br>
-						Sammamish Watershed</td>
-					<td>Jason Mulvihill-Kuntz, WRIA 8/King County</td>
-					<td>206-477-4780</td>
-					<td><a class="small-links" href="mailto:jason.mulvihill-kuntz@kingcounty.gov">jason.mulvihill-kuntz@kingcounty.gov</a></td>
-					<td>&nbsp;</td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/ISLAND.zip">2005 Island Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
+				
 				<tr>
-					<td>Nisqually River Watershed</td>
-					<td>Ashley Von Essen</td>
+					<td>Nisqually River </td>
+					<td>Ashley Von Essen, Nisqually Indian Tribe</td>
 					<td>360-456-5221</td>
 					<td><a class="small-links" href="mailto:vonessen.ashley@nisqually-nsn.gov">vonessen.ashley@nisqually-nsn.gov</a></td>
-					<td>&nbsp;</td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/NISQUALLY.zip">2005 Nisqually Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td>Nooksack Watershed </td>
-					<td>Becky Peterson</td>
+					<td>Nooksack  </td>
+					<td>Becky Peterson, volunteer</td>
 					<td>360-392-1301         </td>
 					<td><a class="small-links" href="mailto:genevaconsulting@comcast.net" target="_blank">genevaconsulting@comcast.net</a> </td>
-					<td>&nbsp;</td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/NOOKSACK.zip">2005 Nooksack Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td>North Olympic Peninsula Watershed</td>
-					<td>Cheryl Baumann, N. Olympic Peninsula Lead Entity for Salmon</td>
+					<td>North Olympic Peninsula </td>
+					<td>Cheryl Baumann, Clallam County</td>
 					<td>360-417-2326</td>
 					<td><a class="small-links" href="mailto:cbaumann@co.clallam.wa.us">cbaumann@co.clallam.wa.us</a></td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
+					<td>2005 Elwha Chapter</td>
+					<td>2005 Dungeness Chapter</td>
 				</tr>
 				<tr>
-					<td>Puyallup/White &amp; Chambers/Clover Watersheds</td>
+					<td>Puyallup/White &amp; Chambers/Clover </td>
 					<td>Lisa Spurrier, Pierce County</td>
 					<td>253-798-6158</td>
 					<td><a class="small-links" href="mailto:lspurri@co.pierce.wa.us">lspurri@co.pierce.wa.us</a></td>
-					<td>&nbsp;</td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/PUYALLUP_WHITE_AND_CHAMBERS_CLOVER.zip">2005 PuyallupWhite Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td>San Juan Watershed</td>
+					<td>San Juan </td>
 					<td>Byron Rot, San Juan County</td>
 					<td>360-370-7593</td>
 					<td><a class="small-links" href="mailto:byronr@sanjuanco.com">byronr@sanjuanco.com</a></td>
-					<td>&nbsp;</td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/SAN_JUAN.zip">2005 San Juan Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td>Skagit Watershed</td>
+					<td>Skagit </td>
 					<td>Richard Brocksmith, Skagit Watershed Council </td>
 					<td>360-826-2164</td>
 					<td><a class="small-links" href="mailto:rbrocksmith@skagitwatershed.org" target="_blank">rbrocksmith@skagitwatershed.org</a></td>
-					<td>&nbsp;</td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/SKAGIT.zip">2005 Skagit Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td>Snohomish Watershed</td>
-					<td>Gretchen Glaub, Snohomish Basin Salmon Recovery Forum<br /></td>
+					<td>Snohomish </td>
+					<td>Gretchen Glaub, Snohomish County<br /></td>
 					<td>425-330-0311 <br />
 						<br />
 						<br /></td>
 					<td><a class="small-links" href="mailto:gretchen.glaub@snoco.org">gretchen.glaub@snoco.org</a>
 						&nbsp;</td>
-					<td>&nbsp;</td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/SNOHOMISH.zip">2005 Snohomish Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td>South Sound Watersheds</td>
+					<td>South Sound </td>
 					<td>Amy Hatch-Winecka, Mason County Conservation District/
 						Thurston County Conservation District</td>
-					<td>360-754-3588, Ext. 103</td>
-					<td><a class="small-links" href="mailto:AmyHW@thurstoncd.com">AmyHW@thurstoncd.com</a></td>
-					<td>&nbsp;</td>
+					<td>Amy 360-754-3588 x103; Jennifer 360-427-9436 x101</td>
+					<td><a href="mailto:AmyHW@thurstoncd.com">AmyHW@thurstoncd.com; jholderman@masoncd.org</a><a class="small-links" href="mailto:AmyHW@thurstoncd.com"></a></td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/SOUTHSOUND.zip">2005 So Sound Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td>Stillaguamish Watershed</td>
-					<td>Donald “Kit” Crump<br />
-							Senior Planner-PW<br />
-							Coordinator, Stillaguamish River Salmon Recovery Co-Lead Entity<br />
+					<td>Stillaguamish </td>
+					<td>Donald “Kit” Crump, Stillaguamish Watershed Council<br />
 						</td>
 					<td>425-388-3464 Ext. 4658</td>
 					<td><a class="small-links" href=" Donald.Crump@snoco.org"> Donald.Crump@snoco.org</a></td>
-					<td>&nbsp;</td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/STILLAGUAMISH.zip">2005 Stillaguamish Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td>West Sound Watersheds</td>
-					<td>Marian Berejikian</td>
-					<td>&nbsp;</td>
-					<td> <a class="small-links" href="mberejikian@co.kitsap.wa.us" target="_blank">mberejikian@co.kitsap.wa.us</a></td>
-					<td>&nbsp;</td>
+					<td>West Sound/East Kitsap</td>
+					<td>Kathy Peters and Kirvie Mesebeluu-Yobech, Kitsap County</td>
+					<td>Kathy 360-337-4679; Kirvie 360-337-5777</td>
+					<td> <a href="mailto:kpeters@co.kitsap.wa.us">kpeters@co.kitsap.wa.us; kyobech@co.kitsap.wa.us</a><a class="small-links" href="mberejikian@co.kitsap.wa.us" target="_blank"></a></td>
+					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/EAST_KITSAP_WEST_SOUND.zip">2005 West Sound Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 			</table>
+			<p>Lead Entity Contact list and Chapter links last updated April 2018</p>
+			<p>Please note that this list is intended to be representative but not comprehensive of all the critical organizations and agencies working in the watershed for salmon recovery.</p>
+
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<p>&nbsp;</p>
 			<div class="right-nav-title">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
