@@ -307,8 +307,8 @@
 			</p>
 			
 			<h5>Suzanna Stoike</h5>
-			<p> Ecosystem Recovery Coordinator &amp; PSAR Program Coordinator<br/>
-				<em>Island, San Juan Islands</em><br/> 360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a>
+			<p>PSAR Program Manager<br/>
+				 360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a>
 			</p>
 
 			<h5>Stephanie Suter</h5>
