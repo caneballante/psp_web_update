@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SOCIAL STRATEGIES</h1>
+			<h1>SOCIAL APPROACHES</h1>
 			<h1><br>
 			</h1>
 			<!-- InstanceEndEditable --></div>
@@ -58,7 +58,7 @@
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
 				
-				<li role="presentation"><a href="social-strategies-overview.php">SOCIAL STRATEGIES</a></li>
+				<li role="presentation"><a href="social-approaches-overview.php">SOCIAL APPROACHES</a></li>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -66,19 +66,30 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-	<p>	Many of our common, everyday behaviors and practices seem benign on their own, but when multiplied by 4.5 million residents the cumulative effects are harmful to Puget Sound. Reversing the trend by fostering beneficial behaviors and reducing damaging behaviors—stewardship, in other words—is a key step recovering Puget Sound.</p> 
-
-<p>From 2010 through June 2015, the U.S. Environmental Protection Agency provided $6 million in Puget Sound National Estuary Program funds to the Puget Sound Partnership to support regionwide programs in stewardship and education. The Partnership’s Stewardship and Outreach Program distributed these funds through more than 168 contracts to local and regional projects that aligned with the Puget Sound Action Agenda. </p>
-
-<p>The Stewardship and Outreach Program focused on a three-part model:</p>
-<ul><li>Issue awareness and understanding</li>
-<li>Changing practices and behaviors </li>
-<li>Social and institutional infrastructure</li></ul>
-
-<p>Program staff worked with a coalition of hundreds of organizations to ensure that the grants increased capacity, advanced public education and involvement priorities, and created and supported behavior change programs across the Puget Sound Region. The coalition also established shared measurements with which to evaluate stewardship and outreach programs. </p>
-
-<p>Although the EPA funding has expired, the social science theories that formed the grant program continue to guide our efforts in developing social strategies for inclusion in the Action Agenda.</p>
-<!-- InstanceEndEditable --> </div>
+	<p>Each of us is inseparably linked to Puget Sound through the many ways we interact with our natural environment. All Puget Sound residents are valuable and necessary participants in Puget Sound recovery efforts.</p>
+			
+<p>Our many everyday actions and behaviors may seem benign on their own, but when combined with the actions of over 4 million residents in the Puget Sound region, the cumulative effects can have a harmful impact to our health and the health of the Puget Sound. Fostering beneficial activities and reducing damaging behaviors is a key step toward recovering Puget Sound and maintaining a healthy environment that everyone enjoys. </p>
+			
+<p>Social approaches are the applied methods and actions that focus on Puget Sound residents&rsquo; attitudes and behaviors affecting Puget Sound recovery. These approaches include education, outreach, public engagement, stewardship, social marketing, technical assistance, and enforcement, among others. </p>
+			
+<p>The Partnership supports integration of social approaches throughout the Action Agenda and Implementation Strategies, in order to build public and political support for implementation of many types of projects, and to ensure resiliency for future Puget Sound recovery efforts. </p>
+			
+<h2>Enabling Partners</h2>
+			
+<p>The Partnership engages Puget Sound residents primarily through our networks of local partners. Our partners include Local Integrating Organizations (LIOs), salmon recovery Lead Entities (LEs), Marine Resource Committees (MRCs), and Education, Communication, and Outreach Networks (ECO Nets), among many others. The Partnership supports local partners who are the practitioners of social approaches, and ensures that local partners have the necessary resources to effectively engage people in their local areas. Here are some of the ways we support and enable our partners: </p>
+<ul>
+  <li>The Partnership supports LIOs that coordinate planning and implementation of local ecosystem recovery efforts. <a href="http://www.psp.wa.gov/LIO-overview.php">LEARN MORE</a>. </li>
+  <li>In order to better support local ecosystem recovery, the Partnership is conducting a comprehensive synthesis of the LIO Ecosystem Recovery Plans. <a href="https://pspwa.box.com/v/LIOSynthesisReportLinks">LEARN MORE</a>. </li>
+  <li>ECO Net chapters operate in select counties around Puget Sound. The Partnership supports the ECO Net chapters&rsquo; participation in local ecosystem recovery and the Action Agenda. <a href="https://pspwa.box.com/v/ECONetInfo">LEARN MORE</a>.  </li>
+  <li><em>Puget Sound Starts Here</em> is a collaborative campaign that connects individual Puget Sound residents to ways to help recover Puget Sound. The Partnership is a member of the <em>Puget Sound Starts Here</em> steering committee. <a href="http://www.pugetsoundstartshere.org/">LEARN MORE</a>. </li>
+  <li>The Partnership houses and periodically updates resources to assist partners who are implementing social approaches. <a href="https://pspwa.box.com/v/PartnerResources">LEARN MORE</a>. </li>
+</ul>
+    <h2>History of Stewardship at the Partnership</h2>
+			
+  <p>From 2010 through September 2015, the U.S. Environmental Protection Agency provided $6 million in National Estuary Program funds to the Puget Sound Partnership to support region wide programs in stewardship and education. The Stewardship and Outreach Program at the Partnership worked with hundreds of local and regional partner organizations to address issue awareness and understanding, change harmful practices and behaviors, and strengthen social and institutional infrastructure. <a href="https://pspwa.box.com/v/StewardshipFinalReport">LEARN MORE</a>.</p>
+      
+<p>Although the EPA funding for the Stewardship and Outreach Program has ended, the theories that formed the grant program continue to guide Partnership efforts in developing social approaches for inclusion in the Action Agenda and throughout local ecosystem recovery efforts. </p>
+        <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title margin-0-top ">SEE ALSO</div>

@@ -81,7 +81,7 @@
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS</a></div>
 			<div class="padding-5-bottom"><a href="legislative_updates.php">2018&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
-			<div class="padding-5-bottom"><a href="econet.php">ECO NET </a> </div>
+			
 		</div>
 	</div>
 </div>
