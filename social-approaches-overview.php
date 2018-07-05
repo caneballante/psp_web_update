@@ -96,9 +96,51 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="social-science-research.php">Social science research and efforts</a></li>
-					<li class="active" role="presentation"> <a href="econet.php">ECO Net</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/people-and-puget-sound.php">People and Puget Sound</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/evaluating-human-wellbeing.php">Human Wellbeing</a></li>
+				<li role="presentation"> <a href="social-science-research.php">Social science research and efforts</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/action_agenda_center.php">Action Agenda</a></li>
+				<li role="presentation"> <a href="http://www.psp.wa.gov/implementation-strategies.php">Implentation Strategies</a></li>
+				<li role="presentation"> <a href="https://medium.com/puget-sound-partnership">Puget Sound Partnership Blog</a></li>
+					
 						<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-10-top ">RELATED DOCUMENTS</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+		
+				<li role="presentation"> <a href="https://pspwa.box.com/v/StewardshipFinalReport">Stewardship Final Report</a></li>
+				<li role="presentation"> <a href="https://www.eopugetsound.org/research/ecosystem-based-management-social-science/integrated-conceptual-model-ecosystem-recovery-0">Integrated Concetual Model of Ecosystem Recovery</a></li>
+				
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-10-top ">PARNTER LINKS</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+			
+				<li role="presentation"> <a href="https://www.pugetsoundstartshere.org/">Puget Sound Starts Here</a></li>
+				
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-10-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+			
+				<li><p class="right-nav-contact">For more imformation contact:<br />
+	   <strong>Alexandra Doty, <br>
+Project Coordinator <br>
+	   </strong>	    <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a><br>
+	360.628.2423<br>
+
+</p></li>
+				
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
