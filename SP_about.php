@@ -84,9 +84,10 @@
 		<!--END MEMBER-->	
 		<!--START MEMBER-->
 		<p><strong>Nick Bond</strong><br />
-		 <strong>Term: </strong>4 years 11/10/21<br />
-		
-		</p>
+	    <strong>Term: </strong>4 years 11/10/21</p>
+		<p>Nick Bond is Washington State&rsquo;s Climatologist and is a senior research scientist with the Joint Institute for the Study of Atmosphere and Ocean (JISAO) of the University of Washington (UW) and also is an affiliate associate professor with the Department of Atmospheric Sciences at UW. His research is on a broad range of topics with a focus on the weather and climate of the Pacific Northwest, and the linkages between the climate and marine ecosystems of the North Pacific. He has a PhD in Atmospheric Sciences from the UW.
+		  
+	    </p>
 		<!--END MEMBER-->	
 		<!--START MEMBER-->
 		<p><strong>Nives Dolšak</strong><br />
