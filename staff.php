@@ -180,7 +180,15 @@
 			<p> Deputy Director<br />
 				Office 360.339.4627 | <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
               
-        <br />
+        	<br />
+			<!--ADAPTIVE MANAGEMENT-->
+			<h3>Adaptive Systems</h3>
+			<h5>Kari Stiles</h5>
+			<p> Adaptive Systems Manager<br/> 360.489.2114 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a>
+			</p>
+			<h5>Jennifer Burke</h5>
+			<p> Data Systems/GIS Manager<br/> 360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a>
+			</p><br>
                 <!--PEP - MANAGEMENT CONFERENCE COORDINATION-->
                 <h3>BOARDS PROGRAM</h3>
 			<h5>Dominique Hampton</h5>
@@ -201,8 +209,7 @@
 			
 			<!--PEP - LOCAL ECOSYSTEM RECOVERY-->
 			<!--L.E.R. TEAM 1 -->			
-			<h3><br />
-           	</h3>
+			
 			<h3>PARTNER SUPPORT</h3>
 			<h5>Todd Hass</h5>
 			<p> Special Projects Liasion<br />
@@ -222,14 +229,7 @@
 			<p> Program Director<br />
 				360.464.1230 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
 			<br>
-			<!--ADAPTIVE MANAGEMENT-->
-			<h3>Adaptive Systems</h3>
-			<h5>Kari Stiles</h5>
-			<p> Adaptive Systems Manager<br/> 360.489.2114 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a>
-			</p>
-			<h5>Jennifer Burke</h5>
-			<p> Data Systems/GIS Manager<br/> 360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a>
-			</p>
+			
 					<!--S.E. ECOSYSTEM ASSESSMENT-->
 			<h3>Ecosystem Assessment</h3>
 			<h5>Leska Fore</h5>
