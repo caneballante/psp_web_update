@@ -70,9 +70,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<div class="highlightbox margin-0-top">
-				<p class="margin-10-top padding-10-all"><strong>NEW!</strong> The Puget Sound Partnership is now accepting Near Term Action (NTA) proposals for the 2018-2022 Action Agenda <a href="2018_AA_solicitation_for_NTAs.php">LEARN MORE</a></p>
-				</div>
+	
 				
 			<p>The figures below describe the steps and timeline for developing and submitting Near Term Action proposals.</p>
 		<img class="img-responsive" src="images/action-agenda/Action-agenda-NTA-process.png" width="873" height="1056" alt=""/><br>
