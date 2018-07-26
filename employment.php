@@ -70,12 +70,9 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">Employment opportunities</h2>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2099536/salmon-recovery-manager-exempt">Salmon Recovery Manager</a></p>		
-			<p> Closes June 19, 2018 <br />
-				
-			</p>
-				<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2100126/ecosystem-recovery-coordinator-exempt">Ecosystem Recovery Coordinator</a></p>		
-			<p> Closes June 19, 2018 <br />
+		
+				<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2150599/ecosystem-recovery-coordinator-exempt">Ecosystem Recovery Coordinator</a></p>		
+			<p> Closes August 2, 2018 <br />
 				
 			</p>
 			<!-- InstanceEndEditable --> </div>

@@ -123,7 +123,7 @@ FEB 19– FEB 23 2018</a>
 					<br>
 					<strong>Cathy Cochrane</strong>, <br>
 					Communication Lead,<br>
-					<a href="mailto:jeff.parsons@psp.wa.gov">catherine.cochrane@psp.wa.gov</a><br>
+					<a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a><br>
 					360.790.7958 </p>
 				<!-- InstanceEndEditable -->
 			</ul>
