@@ -76,9 +76,9 @@ The submitted NTAs are searchable by Vital Sign, Regional Priority, Local Integr
 
 			<!-- Nav tabs -->
 <ul class="nav nav-tabs" role="tablist">
-  <li class="active"><a href="#full-list" role="tab" data-toggle="tab">Full list of preregistered NTAs</a></li>
-  <li><a href="#profile" role="tab" data-toggle="tab">Search list by Vital Signs and Regional Priorities</a></li>
-  <li><a href="#messages" role="tab" data-toggle="tab">Search list by Local Areas/LIOs</a></li>
+  <li class="active"><a href="#full-list" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'full list');">Full list of preregistered NTAs</a></li>
+  <li><a href="#profile" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'vital signs and priorities');">Search list by Vital Signs and Regional Priorities</a></li>
+  <li><a href="#messages" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'lIOs');">Search list by Local Areas/LIOs</a></li>
   
 </ul>
 
