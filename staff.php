@@ -166,6 +166,10 @@
 			<h5>Eric Green</h5>
 			<p> IT Specialist <br />
 				253.666.6288 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov </a></p>
+			
+			<h5>Justine Sharp</h5>
+			<p> IT Specialist <br />
+				360.490-9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov </a></p>
 		
             
             <!--A.S. - GOVERNMENT AFFAIRS-->
