@@ -67,7 +67,13 @@
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<div class="highlightbox margin-0-top">
-				<p class="padding-10-all">ANNOUNCEMENT 1/31/2018 <br> 2018 PSAR large cap request for proposals released. <a href="https://pspwa.box.com/v/2018PSAR">Click here to view materials</a></p>
+				<p class="padding-10-all"><strong>8/6/18: The <a href="https://pspwa.box.com/s/hx547fnjdzm57bnk5knyswnbxmlt3aj9">2019-21 PSAR large capital ranked list</a> is announced</strong>.<br>
+					The 2019-21 Puget Sound Acquisition and Restoration (PSAR) large capital review and ranking process is complete and the draft ranked project list is attached. This prioritized list of 13 projects represents the work of countless sponsors and partners in developing these impressive projects, as well as 32 subject matter experts who provided a fair and honest evaluation. <br>
+					Next steps:<br>
+					•	PSP will submit this draft ranked list to RCO on August 15th. <br>
+					•	On September 14th, the Salmon Recovery Council Executive Committee will consider the draft ranked list and have the opportunity to recommend re-ordering of the list based on the criteria listed in the PSAR large capital RFP.<br>
+					•	PSP will present the original ranked list and the adjusted list (if one was created by the SRC EC) for discussion and final recommendation by the SRC at its September 27th meeting.<br>
+				•	Final ranked lists are due to RCO on November 7th.<a href="https://pspwa.box.com/v/2018PSAR">Click here to view materials</a></p>
 			
 			</div>
 			<div class="sidebarbox margin-20-top margin-20-left margin-20-bottom padding-10-all orange-fill">
@@ -121,7 +127,7 @@
 		
 		<p><strong>For more information contact:</strong></p>
 			<h5>SUZANNA STOIKE</h5>
-			<p> PSAR Program Coordinator<br>
+			<p> PSAR Program Manager<br>
 			360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov</a></p>
 			<p>&nbsp;</p>
 			<div>
