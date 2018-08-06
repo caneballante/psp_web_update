@@ -70,7 +70,7 @@
 				<p><span lang="EN">The Executive Order establishes a task force to coordinate with British Columbia, Oregon, California, Idaho, and Alaska in developing policy recommendations at the regional, state, and federal levels. The Governor asked the Puget Sound Partnership and Washington Department of Fish and Wildlife (WDFW) to team up in leading support for the task force, with assistance from the Office of Financial Management and the Governor&rsquo;s Policy Office. At the Governor&rsquo;s request, Stephanie Solien, vice chair of the Puget Sound Partnership Leadership Council, will co-chair the task force, along with Thomas (Les) Purce, formerly president of Evergreen State College and mayor of Pocatello, Idaho. </span><span lang="EN">The Governor invited Task Force participation from members of the legislature; the Government of Canada; representatives from tribal, federal, local and other state governments; the private sector; and the non-profit sector.  The Task Force also includes designees from WDFW, the Partnership, and many other state agencies.</span></p>
 				<h3>TASK FORCE SCHEDULE</h3>
 				<ul><li>
-					<p>Initial meeting: May 1, 2018, 10 to 4:30, Lacey Community Center, 6729 Pacific Avenue SE, Lacey, WA</p>
+					<p>First meeting: May 1, 2018, 10 to 4:30, Lacey Community Center, 6729 Pacific Avenue SE, Lacey, WA</p>
 					<p>View the meeting via TVW archives:
 						<p>Morning session:</p> <a href="https://www.tvw.org/watch/?eventID=2018051003">
 						https://www.tvw.org/watch/?eventID=2018051003</a>				</p>
@@ -81,8 +81,17 @@
 					
 					
 				</li>
-					<li>
-						<p>Draft report due: October 1, 2018</p>
+				  <li>Second meeting: June 14, 2018, 2018, Olympia, WA</li>
+				  <li><p>Third meeting: August 7, 2018, Wenathee, WA</p>
+					<p>View the meeting via TVW archives:
+						<p>Morning session:</p> <a href="https://www.tvw.org/watch/?eventID=2018081016">
+						https://www.tvw.org/watch/?eventID=2018081016</a>				</p>
+
+				<p>Afternoon session:</p> <a href="https://www.tvw.org/watch/?eventID=2018081017">
+						https://www.tvw.org/watch/?eventID=2018081017 </a>	
+			      </li>
+				  <li>
+					  <p>Draft report due: October 1, 2018</p>
 					</li>
 					<li>
 						<p>Complete report due: November 1, 2018 (includes recommendations)</p>
