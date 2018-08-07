@@ -73,7 +73,8 @@
 					•	PSP will submit this draft ranked list to RCO on August 15th. <br>
 					•	On September 14th, the Salmon Recovery Council Executive Committee will consider the draft ranked list and have the opportunity to recommend re-ordering of the list based on the criteria listed in the PSAR large capital RFP.<br>
 					•	PSP will present the original ranked list and the adjusted list (if one was created by the SRC EC) for discussion and final recommendation by the SRC at its September 27th meeting.<br>
-				•	Final ranked lists are due to RCO on November 7th.<a href="https://pspwa.box.com/v/2018PSAR">Click here to view materials</a></p>
+				•	Final ranked lists are due to RCO on November 7th.<a href="https://pspwa.box.com/v/2018PSAR"><br>
+				Click here to view the RFP and review criteria</a></p>
 			
 			</div>
 			<div class="sidebarbox margin-20-top margin-20-left margin-20-bottom padding-10-all orange-fill">
