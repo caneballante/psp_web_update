@@ -34,7 +34,9 @@
 				<div class="col-md-8 col-md-offset-2">
  					<h1>COORDINATED EFFORT UNDERWAY TO PROTECT AND RECOVER SOUTHERN RESIDENT ORCA</h1>
  					<h1 class="brand-heading">&nbsp;</h1>
- 					<div class="learn-more-box"><a href="southern-resident-orca-task-force.php">LEARN MORE</a></div>
+ 					<div class="learn-more-box"><a href="southern-resident-orca-task-force.php">LEARN MORE</a></div>  
+					
+					<div class="white-links">WATCH THE AUGUST 7th MEETING: <a href="https://www.tvw.org/watch/?eventID=2018081016">MORNING SESSION</a> |  <a href="https://www.tvw.org/watch/?eventID=2018081017">AFTERNOON SESSION</a></div>
 					
  				</div>
 			</div>
@@ -90,7 +92,22 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
-				<!--COLUMN START-->
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/nooksack.jpg"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="https://pspwa.box.com/s/hx547fnjdzm57bnk5knyswnbxmlt3aj9">
+						8/6 - Draft 2019-2021 PSAR large cap project list announced</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 

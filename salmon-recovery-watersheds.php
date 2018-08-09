@@ -104,7 +104,7 @@
 					<td>360-271-4722</td>
 					<td><a class="small-links" href="mailto:aolivas@hccc.wa.gov">aolivas@hccc.wa.gov</a></td>
 					<td><a href="http://hccc.wa.gov/sites/default/files/resources/downloads/Skok_Recovery_Plan-formatted_final_draft.pdf">2010 Skokomish Chapter</a></td>
-					<td><p><a href="https://pspwa.box.com/s/uvyhcxu9nhpmng1l47kt0knadcx31jew">2017 Skykomish Chapter</a></p></td>
+					<td><p><a href="https://pspwa.box.com/s/uvyhcxu9nhpmng1l47kt0knadcx31jew">2017 Skokomish Chapter</a></p></td>
 				</tr>
 				<tr>
 					<td>Island </td>

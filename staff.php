@@ -166,6 +166,10 @@
 			<h5>Eric Green</h5>
 			<p> IT Specialist <br />
 				253.666.6288 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov </a></p>
+			
+			<h5>Justine Sharp</h5>
+			<p> IT Specialist <br />
+				360.490-9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov </a></p>
 		
             
             <!--A.S. - GOVERNMENT AFFAIRS-->
@@ -288,8 +292,7 @@
 			</p>
 
 			<h5>Amber Moore</h5>
-			<p> Ecosystem Recovery Coordinator <br/>
-			<em>West Sound, West Central, WRIA 8 and 9</em><br/> 360.742.7434  | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a>
+			<p> Salmon Recovery Manager<br/> 360.742.7434  | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a>
 			</p>
 		
 			<h5>Erin Murray</h5>
