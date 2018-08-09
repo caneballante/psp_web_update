@@ -82,7 +82,8 @@
 					
 				</li>
 				  <li>Second meeting: June 14, 2018, 2018, Olympia, WA</li>
-				  <li><p>Third meeting: August 7, 2018, Wenathee, WA</p>
+				  <li>
+				    <p>Third meeting: August 7, 2018, Wenatchee, WA</p>
 					<p>View the meeting via TVW archives:
 						<p>Morning session:</p> <a href="https://www.tvw.org/watch/?eventID=2018081016">
 						https://www.tvw.org/watch/?eventID=2018081016</a>				</p>
