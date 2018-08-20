@@ -208,7 +208,7 @@
 		
 		
             	<h5>Tristan Peter-Contesse</h5>
-			<p>Boards Policy Specialist<br>
+			<p>Boards Program Manager<br>
 		    360.584.5328 | <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a></p><br />
 			
 			<!--PEP - LOCAL ECOSYSTEM RECOVERY-->

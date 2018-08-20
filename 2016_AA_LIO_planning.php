@@ -68,7 +68,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Puget Sound Partnership and the EPA are working with local communities to support the actions and programs identified as high priority for the long-term health of local watersheds and Puget Sound. Over the next year and a half, the EPA is therefore funding development of <strong>Ecosystem Recovery Plans</strong> and associated <strong>2-year Implementation Plans</strong> for each of the region’s local collaborative groups, or Local Integrating Organizations (LIO). Proposals for <strong>2016 Near Term Actions (NTAs) </strong>were developed as part of this planning effort and tie the local plans to the Puget Sound Action Agenda—the regional shared recovery plan. </p>
+			<p>The Puget Sound Partnership and the EPA are working with local communities to support the actions and programs identified as high priority for the long-term health of local watersheds and Puget Sound. The EPA funded development of <strong><a href="https://pspwa.app.box.com/v/LIORecoveryPlan06-30-2017">Ecosystem Recovery Plans</a></strong> and associated <strong>2-year Implementation Plans</strong> for each of the region’s local collaborative groups, or Local Integrating Organizations (LIO). Proposals for <strong>2016 Near Term Actions (NTAs) </strong>were developed as part of this planning effort and tie the local plans to the Puget Sound Action Agenda—the regional shared recovery plan. </p>
 			<h2>2-YEAR IMPLEMENTATION PLANS</h2>
 			<p>LIOs recently completed local 2-year Implementation Plans, which identify local ecosystem recovery actions that can be undertaken in the near term to address ecosystem recovery priorities. These plans contribute to  the 2016 Puget Sound Action Agenda by describing how the local NTAs are helping to achieve regional progress on the Action Agenda’s 22 Vital Signs.</p>
 			<h2>ECOSYSTEM RECOVERY PLANS</h2>
@@ -100,7 +100,15 @@
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title">SEE ALSO</div>
+			<div class="right-nav-title">DOWNLOADS</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"><a href="https://pspwa.box.com/v/LIORecoveryPlan06-30-2017">LIO Ecosytem recovery plans</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-10-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
@@ -108,7 +116,7 @@
 				<li role="presentation"><a href="2014_action_agenda_download.php">2014-15 Action Agenda</a></li>
 				<li role="presentation"><a href="implementation-strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/" target="new">LIO Planning Area Maps</a></li>
-				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
+				<li role="presentation"><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

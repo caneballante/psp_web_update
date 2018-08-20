@@ -67,7 +67,7 @@
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<div class="highlightbox margin-0-top">
-				<p class="padding-10-all"><strong>8/6/18: The <a href="https://pspwa.box.com/s/hx547fnjdzm57bnk5knyswnbxmlt3aj9">2019-21 PSAR large capital ranked list</a> is announced</strong>.<br>
+				<p class="padding-10-all"><strong>Updated 8/20/18: The <a href="https://pspwa.box.com/s/hx547fnjdzm57bnk5knyswnbxmlt3aj9">2019-21 PSAR large capital ranked list</a> is announced</strong>.<br>
 					The 2019-21 Puget Sound Acquisition and Restoration (PSAR) large capital review and ranking process is complete and the draft ranked project list is attached. This prioritized list of 13 projects represents the work of countless sponsors and partners in developing these impressive projects, as well as 32 subject matter experts who provided a fair and honest evaluation. <br>
 					Next steps:<br>
 					•	PSP will submit this draft ranked list to RCO on August 15th. <br>

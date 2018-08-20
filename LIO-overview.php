@@ -76,7 +76,7 @@
 				<li><a href="http://hccc.wa.gov/" target="new">Hood Canal Coordinating Council </a></li>
 				<li> <a href="http://www.westcentrallio.org" target="new">West Central LIO</a></li>
 				<li><a href="http://wria1project.whatcomcounty.org/" target="new">Whatcom LIO</a> (<a href="http://wria1project.whatcomcounty.org/" target="new">WRIA 1 Policy Boards</a>)</li>
-				<li>Strait Ecosystem Recovery Network (website in development)</li>
+				<li><a href="http://www.straiternlio.org/">Strait Ecosystem Recovery Network </a></li>
 				<li><a href="http://www.islandcountywa.gov/Health/DNR/ILIO/Pages/Home.aspx" target="new">Island LIO</a></li>
 				
 				

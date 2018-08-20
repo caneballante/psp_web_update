@@ -36,7 +36,7 @@
  					<h1 class="brand-heading">&nbsp;</h1>
  					<div class="learn-more-box"><a href="southern-resident-orca-task-force.php">LEARN MORE</a></div>  
 					
-					<div class="white-links">WATCH THE AUGUST 7th MEETING: <a href="https://www.tvw.org/watch/?eventID=2018081016">MORNING SESSION</a> |  <a href="https://www.tvw.org/watch/?eventID=2018081017">AFTERNOON SESSION</a></div>
+					<div class="white-links"></div>
 					
  				</div>
 			</div>

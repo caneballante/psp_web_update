@@ -62,9 +62,14 @@
 					<a href="mailto:jaime.smith@gov.wa.gov">jaime.smith@gov.wa.gov</a></p>
 					<hr>
 					<p><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">Governor’s orca recovery webpage</a></p>
+					<hr>
+					<p><a href="https://pspwa.box.com/v/orca-task-force-boating-guide">Orca Task Force Boating Guidelines</a> (released 8.17.18)</p>
+					<p><a href="https://pspwa.box.com/v/orca-task-force-boating-guide"><img src="images/orca-task-force-boating-guidelines.jpg" width="230" height="290" alt=""/></a></p>
 				</div>
-
+				
 				<p>On March 14, 2018, Governor Jay Inslee signed an <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">Executive Order</a> directing immediate statewide action to benefit Southern Resident orcas, which are considered to be in imminent danger of extinction. <a href="https://www.tvw.org/watch/?eventID=2018031115">View a video recording of the signing ceremony.</a></p>
+				
+
 				<p><strong><a href="#actions">View state agency actions requested by the Governor</a></strong></p>
 				<h3>Orca recovery Task Force established</h3>
 				<p><span lang="EN">The Executive Order establishes a task force to coordinate with British Columbia, Oregon, California, Idaho, and Alaska in developing policy recommendations at the regional, state, and federal levels. The Governor asked the Puget Sound Partnership and Washington Department of Fish and Wildlife (WDFW) to team up in leading support for the task force, with assistance from the Office of Financial Management and the Governor&rsquo;s Policy Office. At the Governor&rsquo;s request, Stephanie Solien, vice chair of the Puget Sound Partnership Leadership Council, will co-chair the task force, along with Thomas (Les) Purce, formerly president of Evergreen State College and mayor of Pocatello, Idaho. </span><span lang="EN">The Governor invited Task Force participation from members of the legislature; the Government of Canada; representatives from tribal, federal, local and other state governments; the private sector; and the non-profit sector.  The Task Force also includes designees from WDFW, the Partnership, and many other state agencies.</span></p>
