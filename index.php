@@ -252,6 +252,19 @@
 				</div>
 			</div>
 			<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/stat-of-salmon.jpg"  alt=""/> 
+						<strong>STATE OF SALMON IN WATERSHEDS 2016<br></strong>
+						<a href="https://stateofsalmon.wa.gov">Can you imagine a Washington State without salmon?</a><br>
+						<!--END news content BOX--> 
+					</div>
+				</div>
+			</div>
+			<!--COLUMN END-->
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
@@ -262,10 +275,11 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">MAY<br> 17
+				<div class="newsbox-date">SEP<br> 
+				12-13
 				</div>
-				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
-							SOUTH SEATTLE COMMUNITY COLLEGE<br>
+				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
+							FRIDAY HARBOR<br>
 							</a><br>
 				</div>
 				<!--END news content-->
@@ -276,8 +290,8 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">MAY<br> 
-				31
+				<div class="newsbox-date">SEP<br> 
+				27
 				</div>
 				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
 							 EDMOND CENTER FOR THE ARTS</a><br>
@@ -290,10 +304,10 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">JUN<br> 
-				12 </div>
-				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
-				SHORELINE</a><br>
+				<div class="newsbox-date">OCT<br> 
+				9-10 </div>
+				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+				UNIVERSITY OF WASHINGTON</a><br>
 				</div>
 				<!--END news content-->
 			</div>
@@ -303,9 +317,10 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">July<br> 11-12</div>
-				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-							WESTERN WASHINGTON UNIVERSITY<br>
+				<div class="newsbox-date">OCT<br> 
+				25</div>
+				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+							SOUTH SEATTLE COMMUNITY COLLEGE, GEORGETOWN <br>
 							</a><br>
 					<br>
 				</div>
