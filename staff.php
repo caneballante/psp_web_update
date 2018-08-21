@@ -91,7 +91,7 @@
 			
 			<h5>Jon Bridgman</h5>
 			<p> Senior Designer<br />
-				360.999.3847 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
+				206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a></p>
 		
 				<h5>Julia Luna</h5>
 			<p> Communication Specialist<br />
