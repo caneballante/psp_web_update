@@ -195,11 +195,7 @@
 			</p><br>
                 <!--PEP - MANAGEMENT CONFERENCE COORDINATION-->
                 <h3>BOARDS PROGRAM</h3>
-			<h5>Dominique Hampton</h5>
-			<p> Special Assistant to the Boards<br />
-				Office 360.628.2423 | <a href="mailto:dominique.hampton@psp.wa.gov">dominique.hampton@psp.wa.gov</a><br />
-			</p>
-			      
+			
 			<h5>Deborah Hagen</h5>
 			<p> Special Assistant to the Boards<br />
 			 Office 360.819.0057 |
