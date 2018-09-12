@@ -70,57 +70,14 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Puget Sound&rsquo;s National Estuary Program is a voluntary, place-based initiative that brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</p><p>
-			The U.S. Congress designated Puget Sound as an Estuary of National Significance because it is critical to the environmental and economic well-being of the nation. In 2007, Washington passed authorizing legislation to create the Puget Sound Partnership, a state agency dedicated to clean up and restore the environmental health of Puget Sound by the year 2020.</p>
-<h2>PARTNERS</h2>
-			
-			<p>In 2009, the U.S. Environmental Protection Agency&rsquo;s (EPA) National Estuary Program selected and funded six Washington state agencies and the Northwest Indian Fisheries Commission to develop and implement six-year strategies to protect and restore Puget Sound in the following categories</p>
-			<table class="table">
-				<tr>
-					<td><strong>Puget Sound Recovery Focus</strong></td>
-					<td><strong>Lead organization(s)</strong></td>
-				</tr>
-				<tr>
-					<td>Action Agenda implementation</td>
-					<td>Puget Sound Partnership</td>
-				</tr>	
-				<tr>
-					<td>Watershed protection and restoration</td>
-					<td>Washington State Departments of Commerce and Ecology</td>
-				</tr>	
-				<tr>
-					<td>Marine and nearshore protection and restoration</td>
-					<td>Washington State Departments of Fish &amp; Wildlife and Natural Resources</td>
-				</tr>	
-				<tr>
-					<td>Tribal capacity and implementation</td>
-					<td>Northwest Indian Fisheries Commission</td>
-				</tr>	
-				<tr>
-					<td>Toxics and nutrients prevention and reduction</td>
-					<td>Washington State Department of Ecology</td>
-				</tr>	
-				<tr>
-					<td>Pathogen prevention and reduction</td>
-					<td>Washington State Department of Health</td>
-				</tr>								
-				<tr>
-					<td>Stewardship and education</td>
-					<td>Puget Sound Partnership</td>
-				</tr>					
-	</table>		
-			<p>As the current funding cycle (2010 to 2016) nears its conclusion, focus areas will shift to shellfish, stormwater, and habitat, with lead organizations participating in this transition.  </p>
-				<p>Lead organizations re-distribute National Estuary Program funds to local and regional projects, engaging nearly 800 organizations in the care of Puget Sound. Projects are selected that:</p>
-				<ul>
-					<li>Align with Puget Sound Action Agenda priorities</li>
-					<li>Support local recovery priorities</li>
-					<li>Advance ecosystem recovery targets set by the Puget Sound Partnership </li>
-				</ul>
-				<p>Together with the Environmental Protection Agency, lead organizations have worked tirelessly to maximize and leverage National Estuary Program dollars, and seek tangible on-the-ground results. </p>
-				<h2>The National Estuary Program and Puget Sound recovery</h2>
-				<p>Puget Sound recovery is governed by the Action Agenda, a comprehensive conservation and management plan that outlines the regional strategies and specific actions needed to recover the second largest estuary in the country. Progress is tracked through more than 20 Vital Signs, indicators with specific recovery targets that help the region measure progress. </p><p>
-				Since 2010, the Puget Sound National Estuary Program has supported innovation and the wisdom of local communities who know their ecosystems best, advancing Puget Sound recovery in creative and sometimes unexpected ways. This federal funding source has helped hundreds of projects align and expand their efforts to recover Puget Sound. Now, the region is better positioned to accelerate the pace of recovery and address persistent threats.<strong></strong></p>
-<!-- InstanceEndEditable --> </div>
+			<p>Congress created the <a href="https://www.epa.gov/nep/overview-national-estuary-program">National Estuary Program</a> in 1987. Twenty years later, in 2007, Congress designated Puget Sound as an Estuary of National Significance because it is critical to the environmental and economic well-being of the nation. Also In 2007, Washington passed legislation creating the Puget Sound Partnership, a state agency dedicated to protecting and restoring Puget Sound.</p>
+			<p>The Puget Sound National Estuary Program is a non-regulatory initiative and a forum for engaging and aligning diverse organizations in partnership to create, implement and monitor approaches to achieve economic and environmental health of the Puget Sound. These organizations include federal agencies, tribal governments and organizations, state agencies, regional entities, local governments, not-for-profit organizations, higher education, the private sector, and people from around the Puget Sound region. </p>
+			<p>Collectively, the governments, organizations, businesses, and individuals engaged in Puget Sound recovery are called the <a href="http://www.psp.wa.gov/downloads/2014_action_agenda/Final%202014%20action%20agenda%20update/AppA_Mngmnt-Conference.pdf">Management Conference</a>. Using a collaborative, consensus-building approach, the Management Conference engages in developing and implementing the<a href="http://psp.wa.gov/action_agenda_center.php"> Puget Sound Action Agenda</a>. The Action Agenda serves as the Puget Sound Comprehensive Conservation and Management Plan. It aligns and integrates regional conditions, builds upon local input and supports both local and regional priorities for protection and recovery of Puget Sound. </p>
+			<p>In 2016, <a href="https://www.epa.gov/puget-sound">Region X of the Environmental Protection Agency (EPA)</a> implemented a funding model intended to accelerate recovery and protection of Puget Sound. Under this model, the Puget Sound Partnership acts as a convener of the Puget Sound Management Conference and curates the <a href="http://www.psp.wa.gov/2018_AA_update.php">Puget Sound Action Agenda</a>. The funding model supports the Partnership, the <a href="https://nwifc.org/">Northwest Indian Fisheries Commission</a>, and three strategic initiatives – habitat, shellfish, and stormwater managed by state agencies, the <a href="http://www.psp.wa.gov/strategic-initiatives-leads.php">Strategic Initiative leads</a>. Those aligned under the EPA funding model work to maximize and leverage National Estuary Program dollars, and seek tangible on-the-ground results.</p>
+			<div>
+				<div> </div>
+			</div>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
