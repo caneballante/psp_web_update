@@ -145,7 +145,7 @@
 		</ul>
 		<h4>Key Documents and Programs for Puget Sound Salmon Recovery</h4>
 		<p><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/puget_sound_chinook_recovery_plan.html"><strong>The Puget Sound Salmon Recovery Plan</strong></a> includes strategies and actions for habitat protection and restoration, hatchery management, and harvest management and is organized as a regional chapter (Volume I), 16 watershed-specific chapters, and a nearshore chapter (Volume II). The original plan included 14 chapters, but since 2005, the Skokomish and Elwha chapters have been completed.</p>
-		<p><strong>Local Salmon Recovery Chapters</strong><strong> </strong>are developed from individual Puget Sound watersheds and make up Volume II of the Puget Sound Recovery Plan. These chapters provide strategies to accelerate salmon habitat recovery locally and recommends specific and achievable projects, programs, and policies that can be implemented.<strong></strong></p>
+		<p><strong><a href="salmon-recovery-watersheds.php">Local Salmon Recovery Chapters</a></strong><strong> </strong>are developed from individual Puget Sound watersheds and make up Volume II of the Puget Sound Recovery Plan. These chapters provide strategies to accelerate salmon habitat recovery locally and recommends specific and achievable projects, programs, and policies that can be implemented.<strong></strong></p>
 		<p><a href="https://pspwa.box.com/v/PublicIS-Chinook"><strong>The Chinook Implementation Strategy</strong></a> was developed by many key salmon recovery partners in the Puget Sound including: the Partnership, the Tribal Management Conference, and Puget Sound Salmon Recovery Council. The plan sets recovery priorities and actions for the Action Agenda and guides local planning for development and implementation of watershed recovery plans. </p>
 		<p><a href="https://pspwa.box.com/s/6e4u4wbdkmcqh7v4nj762n50n3v0douu"><strong>Four Year Work Plans</strong></a> are developed every biennium by lead entities to describe each lead entity's accomplishments during the previous year, identify the current status of recovery actions, and to propose future actions and any changes in recovery strategies in the next 4 years necessary to implement the local salmon recovery chapters. Technical and policy reviews of each watershed's four-year work plan update are conducted by regional experts to evaluate the consistency and appropriate sequencing of actions with the Puget Sound Salmon Recovery Plan, as well as to identify support at both the watershed and regional scale for overcoming barriers to implementation. </p>
 		<p>The <a href="https://pspwa.box.com/v/Phase1MAMReports"><strong>Chinook Monitoring &amp; Adaptive Management</strong></a> report is a comprehensive adaptive management and monitoring component developed for the Puget Sound. This project engaged all 16 watershed chapter areas and the Puget Sound Salmon Recovery Council to develop one standardized monitoring and adaptive management framework. This framework is used to assess and respond to the status of Chinook salmon populations and their habitats in the Puget Sound. It also acts as an adaptive management system for Puget Sound Chinook salmon recovery. </p>
@@ -162,8 +162,12 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 						<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
 				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/k50wb4xz16sbbzfjz8zcutfrqnfvhdc3">Lead Entity guidance on Chinook salmon and climate change</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/aikkubhd6at4eo7yibqdsmvdrwcsrr4z">Lead Entity guidance on Chinook salmon and climate change flow chart</a></li>
+				<li role="presentation"><a href="http://www.psp.wa.gov/shared-salmon-strategy/index.htm">Shared Salmon Strategy archived website</a></li>
 				
-						<!-- InstanceEndEditable -->
+				
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>

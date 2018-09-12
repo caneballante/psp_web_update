@@ -72,6 +72,25 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">LATEST ANNOUNCEMENTS</h2>
 			<div class="highlightbox margin-0-top">
+				<h3>DRAFT 2018-2022 Action Agenda available for public comment</h3>
+				<p>The Draft 2018-2022 Action Agenda for Puget Sound is now available for public review and comment. <a href="2018_AA_public_draft.php">Click here</a> for background on the Action Agenda and for directions on how to comment. Comments must be submitted by midnight October 15, 2018.</p>
+				<div class="orange-fill margin-40-all rounded-corners padding-10-all border-thick-blue"> 
+					<p class="white-links white">Access the DRAFT 2018-2022 Action Agenda:</p>
+						<ul>
+							
+							<li class="white-links white"><a class="large-links" href="https://pspwa.box.com/s/osxaeqg19fevxu5n3k8xnjytzkwol512">Full PDF download</a></li>
+							<li class="white-links white"><a class="large-links" href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">Comprehensive Plan</a></li>
+							<li class="white-links white"><a class="large-links" href="https://pspwa.box.com/s/uxtx0uv2fqsnglbv2cgahs8o52mtsdzb">Implementation Plan</a></li>
+							<li class="white-links white"><a href="https://pspwa.box.com/s/xb3xoidt1eyiv6flwxwz5fdbbpgbgnao">Tiered List of Near Tearm Actions</a></li>
+						</ul>
+				</div>
+				<p>Comments collected through this public comment period will be summarized and considered in the development of the final 2018-2022 Action Agenda for Puget Sound. The 2018-2022 Action Agenda update is scheduled for adoption by the Partnership&rsquo;s Leadership Council in December 2018. </p>
+				<div>
+					<div> </div>
+					<div> </div>
+				</div>
+			</div>
+			<div class="highlightbox margin-10-top">
 				<h3>JOIN OUR TEAM: Review proposals for Puget Sound recovery!</h3>
 				<p><strong>The Puget Sound Partnership and the </strong><a href="http://www.psp.wa.gov/strategic-initiatives-leads.php"><strong>Strategic Initiative Leads</strong></a><strong> are looking for reviewers who have the expertise to help review and rate the Puget Sound recovery activities proposed for inclusion in the </strong><a href="http://www.psp.wa.gov/2018_AA_update.php"><strong>2018–2022 Action Agenda</strong></a><strong>. </strong><strong> </strong></p>
 				<p>Do you have a special interest in the recovery of Puget Sound?<br>

@@ -54,6 +54,9 @@ a[href^="http"] {
 .small-links {
 	font-size: 12px !important;
 }
+.large-links {
+	font-size: 18px !important;
+}
 .bold-link a {
 	color: #00A4F6;
 	font-size: 13px;
@@ -483,7 +486,7 @@ p {
 .highlightbox {
 	background-color: rgba(227,237,249,1.00);
 	border-radius: 1px 30px 1px 1px;
-	padding: 10px;
+	padding: 20px;
 }
 .highlightbox h2 {
 	color: #0a3b5c;

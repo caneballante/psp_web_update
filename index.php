@@ -97,6 +97,21 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/draft-action-agenda.jpg"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="2018_AA_public_draft.php">
+						8/31 - 2018-2022 Draft Action Agenda available for comment</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/nooksack.jpg"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
 						<a href="https://pspwa.box.com/s/hx547fnjdzm57bnk5knyswnbxmlt3aj9">
 						8/6 - Draft 2019-2021 PSAR large cap project list announced</a><br>
