@@ -122,7 +122,7 @@
 		<h2>PSAR PROJECT BENEFITS </h2>
 		<p><strong>PSAR benefits extend beyond the local ecosystem:</strong></p>
 		<ul>
-			<li>Every $1 million invested in watershed restoration produces more than 16 new or sustained jobs roughtly $2.5 million in total economic activity. </li>
+			<li>Every $1 million invested in watershed restoration produces more than 16 new or sustained jobs roughly $2.5 million in total economic activity. </li>
 			<li>80 percent of the funds invested in restoration projects stays in the county where the projects are located, providing needed cash in more rural and distressed counties. </li>
 		</ul><br><br>
 		
