@@ -118,13 +118,11 @@
 				
 			<h5>Todd hass</h5>
 			<p> Special Projects Liaison<br />
-				360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a></p>
-			
-	    <a name="administrative_services"></a><br />
+				360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br />
 			
 			
 			
-		<!--A.S. - IT OPERATIONS-->
+		<!--A.S. - IT OPERATIONS-->			</p>
 			<h3>communications Program</h3>
             
             <h5>Cathy Cochrane</h5>
@@ -245,10 +243,8 @@
 				360.464.1232 | <a href="mailto:debbie.lewandowsky@psp.wa.gov">debbie.lewandowsky@psp.wa.gov</a></p>-->
         <h5>Karin Berkholtz</h5>
         <p> EPA Program Manager<br />
-          Office 360.999.3848| <a href="mailto:karin.berkholtz@psp.wa.gov">karin.berkholtz@psp.wa.gov</a></p>
-        </p>
-        <a name="administrative_services"></a><br />
-        <!--A.S. - IT OPERATIONS-->
+          Office 360.999.3848| <a href="mailto:karin.berkholtz@psp.wa.gov">karin.berkholtz@psp.wa.gov</a><br />
+        <!--A.S. - IT OPERATIONS-->        </p>
         <h3>fiscal Program</h3>
         <h5>Diamatris Winston</h5>
         <p>Fiscal Division Manager<br />
