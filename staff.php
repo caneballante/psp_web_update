@@ -273,6 +273,11 @@
 			<p> Project Coordinator<br/>
 				<em>South Central, LIO Special Projects </em><br/> 360.280.6664 | <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a>
 			</p>
+			<h5>Laura Ferguson</h5>
+			<p>Ecosystem Recovery Coordinator<br/>
+			<em>Island County and San Juan Islands </em><br/> 
+				 360.918.3388 | <a href="mailto:Laura.ferguson@psp.wa.gov">laura.ferguson@psp.wa.gov</a>
+			</p>
 			<h5>Don Gourlie</h5>
 			<p>Environmental Planner<br/>
 				 360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>
