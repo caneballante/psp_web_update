@@ -45,7 +45,7 @@
 	<div class="container-fluid page-content padding-50-bottom">
 		<div class="row">
 			<div class="col-sm-10 margin-40-left  padding-20-top padding-40-left">
-				<h1>RECOVERY OF SOUTHERN RESIDENTS ORCAS</h1>
+				<h1>RECOVERY OF SOUTHERN RESIDENT ORCAS</h1>
 			</div>
 			<div class="col-sm-2 padding-20-top"></div>
 		</div>
