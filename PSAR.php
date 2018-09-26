@@ -79,11 +79,11 @@
 			</div>
 			<div class="sidebarbox margin-20-top margin-20-left margin-20-bottom padding-10-all orange-fill">
 				<h3 class="margin-0-top">PSAR ACCOMPLISHMENTS</h3>
-					<p>$167.6 million invested in Puget Sound recovery<br>
-					River shoreline restored: <strong>4,614 acres</strong><br>
-					Estuary habitat restored<strong>: 2,723 acres</strong><br>
-					Watershed habitat protected: <strong>9,620 acres</strong><br>
-					Fish passage restored: <strong>69 river miles</strong></p>
+					<p>$199.7 million invested in Puget Sound recovery<br>
+					River shoreline restored: <strong>5,952 acres</strong><br>
+					Estuary habitat restored<strong>: 3,040 acres</strong><br>
+					Watershed habitat protected: <strong>10,701 acres</strong><br>
+					Fish passage restored: <strong>80 river miles</strong></p>
 			</div>
 			<p class="margin-20-top"><strong>Investing in habitat restoration and protection to bring back Puget Sound's natural systems-for salmon, people and community</strong></p>
 			<p class="margin-20-top">The Puget Sound Acquisition and Restoration (PSAR) fund supports projects that recover salmon and protect and recover salmon habitat in Puget Sound. The state legislature appropriates money for PSAR every 2 years in the Capital Budget. PSAR is co-managed by the Puget Sound Partnership and the Recreation and Conservation Office. Local entities identify and propose PSAR projects. The Salmon Recovery Funding Board prioritizes projects for funding.</p>
