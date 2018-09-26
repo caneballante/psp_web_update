@@ -82,7 +82,7 @@
 				<p>&nbsp;</p>
 				<h2>Southern resident orcas prefer salmon</h2>
 				<p>Year-round, southern resident orcas depend heavily on Chinook salmon for food. Chinook salmon are listed as threatened under the Endangered Species Act and many of the remaining populations are far below federal recovery goals.</p>
-				<p>The Puget Sound Partnership&rsquo;s Leadership Council is the designated regional salmon recovery organization for Puget Sound and is advised by the Puget Sound Salmon Recovery Council, both boards are supported by the Partnership. Since 2007, the Puget Sound Acquisition and Restoration (PSAR) program has provided more than $200 M to recover salmon habitat by restoring more than 2,700 acres of estuarine habitat, protecting over 9600 acres of land, and opening almost 70 miles of stream for fish passage. </p>
+				<p>The Puget Sound Partnership&rsquo;s Leadership Council is the designated regional salmon recovery organization for Puget Sound and is advised by the Puget Sound Salmon Recovery Council, both boards are supported by the Partnership. Since 2007, the Puget Sound Acquisition and Restoration (PSAR) program has provided more than $200 M to recover salmon habitat by restoring more than 3,000 acres of estuarine habitat, protecting over 10,000 acres of land, and opening almost 80 miles of stream for fish passage. </p>
 				<p>The Puget Sound Partnership works across Puget Sound to plan, fund, and implement recovery actions by:</p>
 				<ul>
 					<li>Collaborating with federal, tribal, state, and local partners to develop recovery plans as part of the Action Agenda for Puget Sound.</li>
