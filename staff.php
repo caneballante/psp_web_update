@@ -78,13 +78,13 @@
 				360.339.5861 | <a href="mailto:marc.daily@psp.wa.gov">marc.daily@psp.wa.gov</a></p>-->
 			<h5>Denise Ross</h5>
 			<p> Executive Assistant<br />
-				360.464.1233 | <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p><br />
+				360.464.1233 | <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a><br />
 		
-	  <!--A.S. - COMMUNICATIONS-->
-			<h3>GOVERNTMENTAL RELATIONS</h3>
+	  <!--A.S. - COMMUNICATIONS-->			</p>
+			<h3>GOVERNMENTAL RELATIONS</h3>
 		     
 		        <h5>JEFF PARSONS</h5>
-				<p>Legislative Policay Director<br />
+				<p>Legislative Policy Director<br />
 				360.999.3803 | <a href="mailto:jeff.parson@psp.wa.gov">jeff.parsons@psp.wa.gov</a><br />
 			
         
@@ -110,9 +110,8 @@
         
             <h5>Tristan peter-contesse</h5>
 			<p> Boards Program Manager<br />
-				360.594.5328| <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a></p>
-		</p>
-		    <h5>Deborah Hagen</h5>
+				360.594.5328| <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a>		    </p>
+			<h5>Deborah Hagen</h5>
 			<p> Special Assistant to the Boards<br />
 				Office 360.819.0057 | <a href="mailto:deborah.hagen@psp.wa.gov">deborah.hagen@psp.wa.gov</a></p>  
 				
@@ -126,15 +125,15 @@
 			<h3>communications Program</h3>
             
             <h5>Cathy Cochrane</h5>
-			<p>Communcations Coordinator (Media Contact)<br />
+			<p>Communications Lead (Media Contact)<br />
 				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov </a></p>
 	
 			<h5>Jon Bridgman</h5>
-			<p> Senior Designer<br />
+			<p>Visual Communications Lead<br />
 				206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov </a></p>
 			
 			<h5>Julia luna</h5>
-			<p> Communcations Specialist <br />
+			<p> Communications Specialist <br />
 				360.999.9673 | <a href="mailto:julia.luna@psp.wa.gov">julia.luna@psp.wa.gov </a></p>
 		<h3>INtegrated Planning Program</h3>
 			<h5>Jennifer lee</h5>
@@ -171,8 +170,8 @@
             <p>PSAR Program Manager<br />
         360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a></p>
             <h5>Dan Calvert</h5>
-        <p>Ecosystem Recovery Coordinator</p>
-            <p><em>Puyallup/White, Nisqually, WRIA 13 and 14</em><br />
+        <p>Ecosystem Recovery Coordinator<br>
+          <em>Puyallup/White, Nisqually, WRIA 13 and 14</em><br />
         360.360.789.3165 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov </a></p>
             <h5>Alexandra Doty</h5>
             <p>Project Coordinator<br>
@@ -199,16 +198,17 @@
 			<h5>Scott Redman</h5>
 			<p> Program Director<br />
 				360.464.1230 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
-			<h5>Nathalie Hamel</h5>
+			<h5>Leska Fore</h5>
+            <p> Monitoring Program Performance Analyst<br/>
+              206.708.5048 | <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a>			</p>
+            <h5>Nathalie Hamel</h5>
             <p> Monitoring Program Performance Analyst<br/>
               360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
         <h5>Jenna Judge</h5>
         <p> Monitoring Lead for the Puget Sound Partnership and PSEMP<br/>
               360.870.1467| <a href="mailto:jenna.judge@psp.wa.gov">jenna.judge@psp.wa.gov</a><br>
-		  </p>
-            <h5>Leska Fore</h5>
-			<p> Monitoring Program Performance Analyst<br/> 206.708.5048 | <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a> </p>
-			<h5>Alex Mitchell</h5>
+        </p>
+        <h5>Alex Mitchell</h5>
             <p> Performance Management Analyst<br/>
               360.464.1220 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a>			</p>
             <h5>Elene Trujillo</h5>
@@ -276,15 +276,14 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 
-							<li role="presentation"> <a href="#executive_team">EXECUTIVE MANAGEMENT &amp; STRATEGY</a></li>
-                              	<li role="presentation"> <a href="#operations">OPERATIONS &amp; INTERNAL PERFORMANCE</a></li>
+							<li role="presentation"> <a href="#executive_team">EXECUTIVE DIRECTOR'S OFFICE</a></li>
+                              	<li role="presentation"> <a href="#operations">EXTERNAL OPERATIONS DIVISION</a></li>
                               	                           
 
 
                            
-                <li role="presentation"> <a href="#PEP">ENGAGEMENT &amp; PARTNER SUPPORT</a></li>
-				<li role="presentation"> <a href="#science_and_evaluation">SCIENCE AND EVALUATION</a></li>
-				<li role="presentation"> <a href="#policy_and_planning">INTEGRATED PLANNING</a></li>
+                <li role="presentation"> <a href="#PEP">SCIENCE AND EVALUATION</a></li>
+				<li role="presentation"> <a href="#science_and_evaluation">INTERNAL OPERATIONS DIVISION</a></li>
 				
 				<!-- InstanceEndEditable -->
 			</ul>
