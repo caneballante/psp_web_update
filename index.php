@@ -92,11 +92,12 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
-		<!--COLUMN START-->
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+<<<<<<< HEAD
 						<img class="img-responsive img-rounded" src="images/news-images/smith-island.jpg"  alt=""/> <strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/smith-island-estuary-restoration-df5680ce4499">
 						10/9 - Smith Island Restoration 
@@ -108,6 +109,41 @@
 				
 			</div>
 		<!--COLUMN END--><!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/draft-action-agenda.jpg"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="2018_AA_public_draft.php">
+						8/31 - 2018-2022 Draft Action Agenda available for comment</a><br>
+=======
+						<img class="img-responsive img-rounded" src="images/news-images/j50.jpg"  alt=""/> <strong>STATEMENT</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/statement-from-the-co-chairs-of-gov-inslees-southern-resident-orca-task-force-on-the-death-of-j50-f02691ecd396">
+						9/16 - Statement from the co-chairs of the Southern Resident Orca Task Force on the death of J50</a><br>
+>>>>>>> 487089719518d7078f6b73cebf70329ba3af987b
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/illabot.jpg"  alt=""/> <strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/illabot-creek-restoration-project-47812b2d3a0d">
+						9/13 - Illabot Creek Restoration Project</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -134,7 +170,6 @@
 					</div>
 					<div class="clearfix"></div>
 				</div>
-				
 			</div>
 		<!--COLUMN END-->
 		<!--COLUMN START-->
@@ -185,88 +220,8 @@
 				
 			</div>
 		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/seabeck-group.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/2018-action-agenda-nta-review-camp-a-huge-success-bf88ef2588cb">
-						6/18 - 2018 Action Agenda NTA Review “Camp” a huge success!
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/orca-news-release.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1f5f69a">
-						6/8 - Leadership Council to consider vision for Puget Sound recovery beyond 2020
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END--> 
-				<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/Jen-lee-Salish.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/building-transboundary-community-solutions-to-protect-the-salish-sea-756b4bbc5635">
-						5/11 - Building transboundary community solutions to protect the Salish Sea
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/plunge-group.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/plunging-into-puget-sound-f511459e9813">
-						5/8 - Plunging into Puget Sound
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END--> 
-	
-							
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/press-release-orca.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e27144">
-						3/15 - Puget Sound Partnership to serve key role in Southern Resident Orca Task Force
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-			<!--COLUMN END--> 
+
+		
 	
 			
 			<!--COLUMN START-->
@@ -301,35 +256,8 @@
 		<div class="row light-blue-fill">
 	
 	
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content-->
-				<div class="newsbox-date">SEP<br> 
-				12-13
-				</div>
-				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
-							FRIDAY HARBOR<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content-->
-				<div class="newsbox-date">SEP<br> 
-				27
-				</div>
-				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-							 EDMOND CENTER FOR THE ARTS</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
+
+	
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
@@ -353,6 +281,35 @@
 							SOUTH SEATTLE COMMUNITY COLLEGE, GEORGETOWN <br>
 							</a><br>
 					<br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">NOV<br> 
+				15
+				</div>
+				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Port Gamble S&rsquo;Klallam Longhouse</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">DEC<br> 
+				4-5
+				</div>
+				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
+					South Seattle Community College Georgetown<br>
+							</a><br>
 				</div>
 				<!--END news content-->
 			</div>
