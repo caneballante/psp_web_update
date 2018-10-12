@@ -97,9 +97,30 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+<<<<<<< HEAD
+						<img class="img-responsive img-rounded" src="images/news-images/smith-island.jpg"  alt=""/> <strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/smith-island-estuary-restoration-df5680ce4499">
+						10/9 - Smith Island Restoration 
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END--><!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/draft-action-agenda.jpg"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="2018_AA_public_draft.php">
+						8/31 - 2018-2022 Draft Action Agenda available for comment</a><br>
+=======
 						<img class="img-responsive img-rounded" src="images/news-images/j50.jpg"  alt=""/> <strong>STATEMENT</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/statement-from-the-co-chairs-of-gov-inslees-southern-resident-orca-task-force-on-the-death-of-j50-f02691ecd396">
 						9/16 - Statement from the co-chairs of the Southern Resident Orca Task Force on the death of J50</a><br>
+>>>>>>> 487089719518d7078f6b73cebf70329ba3af987b
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>

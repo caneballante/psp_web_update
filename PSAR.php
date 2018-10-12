@@ -78,7 +78,11 @@
 			</div>
 			<div class="sidebarbox margin-20-top margin-20-left margin-20-bottom padding-10-all orange-fill">
 				<h3 class="margin-0-top">PSAR ACCOMPLISHMENTS</h3>
-					<p >$199.7 million invested in Puget Sound recovery<br>
+<<<<<<< HEAD
+					<p >$200 million invested in Puget Sound recovery<br>
+=======
+					<p>$200 million invested in Puget Sound recovery<br>
+>>>>>>> b9623ddba540ec743e54ab3619ff6d7e297e281a
 					River shoreline restored: <strong>5,952 acres</strong><br>
 					Estuary habitat restored<strong>: 3,040 acres</strong><br>
 					Watershed habitat protected: <strong>10,701 acres</strong><br>
