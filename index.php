@@ -185,22 +185,7 @@
 				
 			</div>
 		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/seabeck-group.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/2018-action-agenda-nta-review-camp-a-huge-success-bf88ef2588cb">
-						6/18 - 2018 Action Agenda NTA Review “Camp” a huge success!
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
+
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -217,56 +202,11 @@
 				
 			</div>
 		<!--COLUMN END--> 
-				<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/Jen-lee-Salish.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/building-transboundary-community-solutions-to-protect-the-salish-sea-756b4bbc5635">
-						5/11 - Building transboundary community solutions to protect the Salish Sea
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
 				
-			</div>
-		<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/plunge-group.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/plunging-into-puget-sound-f511459e9813">
-						5/8 - Plunging into Puget Sound
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END--> 
+		
 	
 							
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/press-release-orca.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e27144">
-						3/15 - Puget Sound Partnership to serve key role in Southern Resident Orca Task Force
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-			<!--COLUMN END--> 
+	
 	
 			
 			<!--COLUMN START-->
@@ -282,22 +222,10 @@
 				</div>
 			</div>
 			<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/stat-of-salmon.jpg"  alt=""/> 
-						<strong>STATE OF SALMON IN WATERSHEDS 2016<br></strong>
-						<a href="https://stateofsalmon.wa.gov">Can you imagine a Washington State without salmon?</a><br>
-						<!--END news content BOX--> 
-					</div>
-				</div>
-			</div>
-			<!--COLUMN END-->
+			
 		</div>
 		<!--ROW END--> 
-			<!--ROW START-->
+		<!--ROW START-->
 		<div class="row light-blue-fill">
 	
 	
