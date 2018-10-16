@@ -297,39 +297,12 @@
 			<!--COLUMN END-->
 		</div>
 		<!--ROW END--> 
-		<!--ROW START-->
+			<!--ROW START-->
 		<div class="row light-blue-fill">
 	
 	
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content-->
-				<div class="newsbox-date">SEP<br> 
-				12-13
-				</div>
-				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
-							FRIDAY HARBOR<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content-->
-				<div class="newsbox-date">SEP<br> 
-				27
-				</div>
-				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-							 EDMOND CENTER FOR THE ARTS</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
+
+	
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
@@ -353,6 +326,35 @@
 							SOUTH SEATTLE COMMUNITY COLLEGE, GEORGETOWN <br>
 							</a><br>
 					<br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">NOV<br> 
+				15
+				</div>
+				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Port Gamble S&rsquo;Klallam Longhouse</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">DEC<br> 
+				4-5
+				</div>
+				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
+					South Seattle Community College Georgetown<br>
+							</a><br>
 				</div>
 				<!--END news content-->
 			</div>
