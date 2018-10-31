@@ -229,10 +229,7 @@
         <h3>ADministrative Support Team</h3>
         <h5>jennifer goodenough</h5>
         <p> Administrative Supervisor<br />
-        360.628.0050 | <a href="mailto:jennifer.goodenough@psp.wa.gov">jennifer.goodenough@psp.wa.gov</a></p>
-        <h5>Priscilla Bellnavis</h5>
-        <p>Administrative Assistant<br />
-        360.339.8942 | <a href="mailto:priscilla.ballnavis@psp.wa.gov">priscilla.ballnavis@psp.wa.gov</a></p>
+        360.628.0050 | <a href="mailto:jennifer.goodenough@psp.wa.gov">jennifer.goodenough@psp.wa.gov</a>        </p>
         <h5>Charisse Sonnier</h5>
         <p>Administrative Assistant<br />
           360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a><br />

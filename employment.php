@@ -69,10 +69,9 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">Employment opportunities</h2>
-		
-			
-			<!-- InstanceEndEditable --> </div>
+			<h2 class="margin-0-top">Employment opportunities<br>
+	    </h2>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>
