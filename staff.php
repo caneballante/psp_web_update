@@ -142,7 +142,7 @@
             <h3>Planning team</h3>
             <h5>Heather Saunders benson</h5>
             <p>Planning Manager<br />
-              360.688.4174 | <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov </a></p>
+              360.819.0409 | <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov </a></p>
             <h5>mike johnson</h5>
         <p>Implementation Strategies Manager and Environmental Planner<br />
               360.688.4049 | <a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov </a></p>
