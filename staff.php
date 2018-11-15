@@ -168,7 +168,7 @@
         360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov </a></p>
             <h5>suzanna smith (Stoike)</h5>
             <p>PSAR Program Manager<br />
-        360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov </a></p>
+        360.701.4604 | <a href="mailto:suzanna.smith@psp.wa.gov">suzanna.smith@psp.wa.gov </a></p>
             <h5>Dan Calvert</h5>
         <p>Ecosystem Recovery Coordinator<br>
           <em>Puyallup/White, Nisqually, WRIA 13 and 14</em><br />
