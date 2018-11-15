@@ -116,7 +116,7 @@
 					<li role="presentation"> <p>Cathy Cochrane,<br>
 						Communications Lead
 						<br>
-						360-790-7058<br>
+						360-790-7958<br>
 						<a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a>			</p>
 					</li>
 				</ul>
