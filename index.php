@@ -92,7 +92,24 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+	
 		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/sheida-task-force.jpg"  alt=""/> <strong>STATEMENT</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/statement-from-director-sheida-sahandy-on-the-final-recommendations-of-the-governors-southern-5fd34236f9ea">
+						11/16 - Statement from Director Sheida Sahandy on the final recommendations of the Governor’s Southern Resident Orca Task Force 
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+					<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -107,7 +124,8 @@
 				</div>
 				
 			</div>
-		<!--COLUMN END--><!--COLUMN START-->
+		<!--COLUMN END-->
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
