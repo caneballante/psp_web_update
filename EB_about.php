@@ -92,7 +92,7 @@
 				    Christie True (alternate) <em>King County</em><br>
 				    Dave White (alternate) <em>King County</em></p>
 				  <p> <strong>South Puget Sound</strong><br>
-				    Derek Young (<em>Four year term ends 6/308/2021)Pierce County Council </em><br>
+				    Derek Young (<em>Four year term ends 6/30/2021)Pierce County Council </em><br>
 </p>
 			<p><strong>Business Interest</strong><br>
 				   Gary Chandler <em>(Four year term ends 6/30/2021) Association of Washington Business</em><br />	Mary Catherine McAleer (alternate) <em>Association of Washington Business</em></p>
