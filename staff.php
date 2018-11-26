@@ -222,7 +222,7 @@
 	    <!--P.P. - IMPLEMENTATION STRATEGIES-->		</p>
 		<h2>internal OPERATIONS DIVISION</h2>
         <h5>Brent Barnes</h5>
-        <p>Cheif Operating Officer<br />
+        <p>Chief Operating Officer<br />
           Office 360.339.5861 | Cell 360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a>
   <!-- FISCAL-->
         </p>
