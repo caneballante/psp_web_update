@@ -92,7 +92,7 @@
 				    Christie True (alternate) <em>King County</em><br>
 				    Dave White (alternate) <em>King County</em></p>
 				  <p> <strong>South Puget Sound</strong><br>
-				    Derek Young (<em>Four year term ends 6/30/2021)Pierce County Council </em><br>
+				    Derek Young (<em>Four year term ends 6/30/2019) Pierce County Council </em><br>
 </p>
 			<p><strong>Business Interest</strong><br>
 				   Gary Chandler <em>(Four year term ends 6/30/2021) Association of Washington Business</em><br />	Mary Catherine McAleer (alternate) <em>Association of Washington Business</em></p>
@@ -112,7 +112,7 @@
 				Helen Price Johnson <em>(Four year term ends 6/30/2021) Island County Commissioner</em><br>
 							Alternate TBD</p>
 			<p><strong>Port Districts</strong><br>
-			Fred Felleman <em>(Four year term ends 60/30/2020) Port	of Seattle Commisioner</em>	</p>
+			Fred Felleman <em>(Four year term ends 6/30/2020) Port	of Seattle Commisioner</em>	</p>
 			<p><strong>Tribal Government 1</strong><br>
 				   David Troutt <em>Nisqually Tribe</em><br>
 				   Jeff Dickison (alternate) <em>Squaxin Island Tribe</em></p>
