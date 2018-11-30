@@ -97,10 +97,11 @@
                 <li>Floodplains</li>
                 <li>Land development and cover</li>
                 <li>Eelgrass</li>
+                
+                <li>Chinook salmon</li>
            	</ul>
            <p>The following Strategies are currently under development and expected to be completed in 2017:</p>
            <ul>
-                <li>Chinook salmon</li>
                 <li>Shoreline armoring</li>
                 <li>Benthic Index of Biotic Integrity (B-IBI) (one of three indicators for the Freshwater Quality Vital Sign)</li>
                 <li>Toxics in fish</li>
@@ -132,7 +133,7 @@
             <p>For more information, contact Gary Myers, <a href="mailto:Gary.Myers@ECY.wa.gov">Gary.Myers@ECY.wa.gov</a>, Implementation Strategy Lead for the Stormwater Strategic Initiative at the Department of Ecology.</p>
             <strong><p>Chinook Salmon</p></strong>
             <p>The Partnership is guiding development of the Implementation Strategy for the 2020 indicator target to address the Chinook Salmon Vital Sign, to be completed in the spring of 2017. 
-            For more information please contact Stacy Vynne at <a href="mailto:stacy.vynne@psp.wa.gov">stacy.vynne@psp.wa.gov</a>.</p> 
+            For more information please contact Amber Moore at <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a>.</p> 
             <strong><p>Partially complete Strategies</p></strong>
             <p>The following four partially complete Strategies will be further developed in coming years to inform Action Agenda, Science Work Plan and other planning and funding decisions.</p> 
             <p>Contact the leads for these Strategies for more information:</p>
@@ -162,7 +163,7 @@
             </uL>
             <p>Strategies managed by the Puget Sound Partnership</p>
             <uL>
-                <li><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook salmon (Drafts under development)</a></li>
+                <li><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook salmon </a></li>
             </uL>
             <p>Additional information about the Strategies and related Puget Sound recovery efforts is managed and publicly available in <a href="http://www.MiradiShare.org">Miradi Share</a>™, an online database that supports development, monitoring, and sharing of information among conservation practitioners, project and program managers, and funders. Miradi project files for all completed Strategies are available in the links below. A free user account for Miradi Share is required to view projects. Request a free account at <a href="http://www.MiradiShare.org">www.MiradiShare.org</a>, and contact Kari Stiles at <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a> for access to Puget Sound content.</p>
             <ul>
