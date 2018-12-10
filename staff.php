@@ -108,9 +108,9 @@
 			<p> Administrative Assistant<br />
 				360.464.1232 | <a href="mailto:debbie.lewandowsky@psp.wa.gov">debbie.lewandowsky@psp.wa.gov</a></p>-->
         
-            <h5>Tristan peter-contesse</h5>
+            <h5>Tristan contesse</h5>
 			<p> Boards Program Manager<br />
-				360.594.5328| <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.peter-contesse@psp.wa.gov</a>		    </p>
+				360.594.5328| <a href="mailto:tristan.peter-contesse@psp.wa.gov">tristan.contesse@psp.wa.gov</a>		    </p>
 			<h5>Deborah Hagen</h5>
 			<p> Special Assistant to the Boards<br />
 				Office 360.819.0057 | <a href="mailto:deborah.hagen@psp.wa.gov">deborah.hagen@psp.wa.gov</a></p>  
