@@ -99,6 +99,22 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/MRC-Conference.jpg"  alt=""/> <strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/20th-annual-mrc-conference-3923bcf91ac8">
+						12/17 - 20th Annual MRC Conference 
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/sheida-task-force.jpg"  alt=""/> <strong>STATEMENT</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/statement-from-director-sheida-sahandy-on-the-final-recommendations-of-the-governors-southern-5fd34236f9ea">
 						11/16 - Statement from Director Sheida Sahandy on the final recommendations of the Governor’s Southern Resident Orca Task Force 
@@ -126,21 +142,7 @@
 				
 			</div>
 		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/draft-action-agenda.jpg"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="2018_AA_public_draft.php">
-						8/31 - 2018-2022 Draft Action Agenda available for comment</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
+			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
