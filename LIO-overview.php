@@ -65,33 +65,36 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Local communities around the Puget Sound are working to integrate local efforts to advance the Action Agenda.  Local governments, tribes, non-profit organizations, watershed, marine resource, and salmon recovery groups, interest groups, businesses, educational organizations, and citizens are collaborating to develop and coordinate local integrating organizations that foster implementation of Action Agenda priorities. To learn more about how Local Integrating Organizations are contributing to regional recovery planning efforts, please visit the<a href="2016_AA_LIO_planning.php"> 2016 ACTION AGENDA UPDATE: LIO PLANNING</a> page.</p>
-			<p>The local integrating organizations enable communities to guide the implementation of Action Agenda priorities at an ecosystem scale, and to prioritize local actions for investment. </p>
-			<p>To date, the Leadership Council has recognized local integrating organizations in nine geographic areas.  For more information and to contact the local integrating organization in your area see the links below.</p>
+			<p>Local Integrating Organizations are local forums that meet regularly throughout the year to collaboratively work to develop, coordinate, and implement strategies and actions that that contribute to the protection and recovery of the local ecosystem. Up until December 2018, there were nine LIOs. In Dec of 2018, the Leadership Council approved a tenth LIO, the Puyallup-White River LIO (PWR LIO).</p>
+			<p>Each LIO regularly updates their 5-year Ecosystem Recovery Plan that outlines specific strategies and actions that guide local ecosystem recovery and advises regional scale recovery.</p>
+			<p>The LIOs committees are recognized as the local expert bodies for ecosystem recovery. While each LIO structure may differ as a result of the needs of the specific geography, most have an executive committee and a technical committee. Members may include elected officials, tribal staff, city and county government staff, non-profit organizations, land trusts and conservation districts, marine resource committees, local businesses, interest groups, citizens, and educational organizations.</p>
+			<p>Each LIO coordinates with local salmon recovery bodies and other ecosystem recovery entities to align local priorities and goals.</p>
+			<p>The Puget Sound Partnership supports LIOs through capacity funding, resources, and liaison support via Ecosystem Recovery Coordinators (Puget Sound Partnership Staff)</p>
 			<p style="font-weight: bold">Local Integrating Organizations:</p>
 			<ul>
 				<li><a href="http://www.sanjuanlio.com" target="new">San Juan Action Agenda Oversight Group </a></li>
 				<li><a href="http://www.govlink.org/sc-puget-sound-action-area/Index.htm" target="new">South Central Action Area Caucus Group</a></li>
 				<li><a href="http://www.healthysouthsound.org/" target="new">Alliance for a Healthy South Sound</a></li>
-				<li><a href="http://hccc.wa.gov/" target="new">Hood Canal Coordinating Council </a></li>
+				<li><a href="http://hccc.wa.gov/content/near-term-actions" target="new">Hood Canal Coordinating Council </a></li>
 				<li> <a href="http://www.westcentrallio.org" target="new">West Central LIO</a></li>
 				<li><a href="http://wria1project.whatcomcounty.org/" target="new">Whatcom LIO</a> (<a href="http://wria1project.whatcomcounty.org/" target="new">WRIA 1 Policy Boards</a>)</li>
 				<li><a href="http://www.straiternlio.org/">Strait Ecosystem Recovery Network </a></li>
 				<li><a href="http://www.islandcountywa.gov/Health/DNR/ILIO/Pages/Home.aspx" target="new">Island LIO</a></li>
-				
-				
-			
-				<li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization" target="new"> Snohomish/Stillaguamish LIO </a></li>
+				<li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization" target="new">Snohomish/Stillaguamish LIO </a></li>
+				<li><a href="http://theprwc.org/" target="new">Puyallup-White River LIO (PWR LIO)</a></li>
 			</ul>
-			<h2>&nbsp;</h2>
-			<!-- InstanceEndEditable --> </div>
+			<p><img class="img-responsive" src="images/LIOsPresentation.png" width="1000" height="900" alt=""/></p>
+			<p>This LIO map does not yet include the nw Puyallup-White River LIO</p>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="https://pspwa.box.com/v/ECONetInfo">ECO NET INFORMATION</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/nxli7o61pnjxx4rkmo7nokcjh9huc0kf">LIO Ecosystem Recovery Plans</a></li>
+				<li class="active" role="presentation"> <a href="http://psp.wa.gov/gis/LocalAreas/">LIO Geography Maps</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/v/ECONetInfo">ECO Net Information</a></li>
 				
 				<!-- InstanceEndEditable -->
 			</ul>

@@ -66,7 +66,8 @@
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>
 			<div class="padding-5-bottom"><a href="PSAR.php">PUGET SOUND ACQUISITION AND RECOVERY(PSAR)&nbsp;FUND</a></div>
 			<div class="padding-5-bottom"><a href="NEP-overview.php">NATIONAL ESTUARY PROGRAM (NEP)</a></div>
-			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY</a></div>
+			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY&nbsp;&amp;&nbsp;LOCAL&nbsp;INTEGRATING ORGANIZATIONS&nbsp;(LIOs)
+</a></div>
 	</div>
 	<div class="row">
 		<div class="col-sm-3 padding-40-top"><img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive img-rounded"/></div>
@@ -81,7 +82,7 @@
 		<div class="col-sm-3 padding-10-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
-			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS</a></div>
+			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL&nbsp;INTEGRATING&nbsp;ORGANIZATIONS&nbsp;(LIOs)</a></div>
 			<div class="padding-5-bottom"><a href="legislative_updates.php">2018&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			
 		</div>
@@ -254,22 +255,9 @@
 			<div class="newsbox calendarbox">
 				<!--news content -->
 				<div class="newsbox-date">OCT<br> 
-				9-10 </div>
-				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-				UNIVERSITY OF WASHINGTON</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
-				<div class="newsbox-date">OCT<br> 
 				25</div>
 				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-							SOUTH SEATTLE COMMUNITY COLLEGE, GEORGETOWN <br>
+								South Seattle Community College, Georgetown<br>
 							</a><br>
 					<br>
 				</div>
@@ -299,7 +287,22 @@
 				4-5
 				</div>
 				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
-					South Seattle Community College Georgetown<br>
+					South Seattle Community College, Georgetown<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+			
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">DEC<br> 
+				12-13 </div>
+				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+				South Seattle Community College, Georgetown<br>
 							</a><br>
 				</div>
 				<!--END news content-->
