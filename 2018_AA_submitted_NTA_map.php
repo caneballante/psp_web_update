@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership Action Agenda - Download</title>
+<title>Action Agenda Near Term Actions</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,9 +25,9 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 3;
-	subNavSelected = 0;
+  	navSelected = 5;
 </script>
+<meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -42,7 +42,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style_sm overview-page-image99_sm">
+<header class="overview-page-image-style overview-page-image99">
 	<div class="overview-quote pull-right">
 		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
@@ -56,7 +56,9 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Action Agenda download links</h1>
+			<h1><span class="h1-small">2018-2022 ACTION AGENDA FOR PUGET SOUND </span><br>
+				MAP OF NEAR TERM ACTIONS
+			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -66,55 +68,19 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-action-agenda.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-action-agenda.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		
-<p>The 2016 Action Agenda for Puget Sound is organized into two sections:</p>
+			<p>The map below shows the locations of all Near Term Actions (NTAs) in the 2018-2022 Action Agenda. </p>
+			<p>The map differentiates between local NTAs (implemented in two or fewer local areas), or regional NTAs (implemented in three or more local areas). For non-site specific actions (such as planning or desk-top mapping), the location indicates the office location where the funds will be spent if the NTA were to be funded. All projects are only indicated by one map coordinate, so the location indicated on the map below may not reflect the full geographic scope of the NTA. </p>
+<div class='tableauPlaceholder' id='viz1524065176090' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NT&#47;NTA2018Map&#47;2018-2022NTAs&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NTA2018Map&#47;2018-2022NTAs' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NT&#47;NTA2018Map&#47;2018-2022NTAs&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1524065176090');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='850px';vizElement.style.height='1127px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+ 
 
-<ul>
-	<li><a href="https://pspwa.box.com/shared/static/rlhdytkj5wsqb6k2lg9zbjak5tn4cva3.pdf">Comprehensive Plan (PDF)</a>, which outlines long-term priorities and strategies to achieve Puget Sound recovery. </li>
-	<li><a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan (PDF)</a>, which details actions related to stormwater, habitat, and shellfish that should begin in the next two years to accelerate Puget Sound restoration and protection. </li>
-</ul>
-
-
-<p>Explore both documents using the links below.</p>
-
-		<p><a href="https://pspwa.box.com/shared/static/h2ysd0bz8a1yxagtgkdaikqr1czl0owz.pdf">Complete Action Agenda (PDF)</a></p>
-		<p><a href="https://pspwa.box.com/shared/static/4i189rr8tvqc0930gqz1kgmbptpalhml.pdf">Letter from the Leadership Council (PDF)</a></p>
-			<p><a href="https://pspwa.box.com/shared/static/cg9nvl7e49qavig0xnjajvktnzjuhd8p.pdf">Executive Summary (PDF)</a></p>
-					<p><a href="https://pspwa.box.com/shared/static/rlhdytkj5wsqb6k2lg9zbjak5tn4cva3.pdf">Comprehensive Plan (PDF)</a></p>
-					<ul>
-					<li><a href="https://pspwa.box.com/shared/static/atqhfo6htwgasoh9oudtwlfwk3sbu4qe.pdf">Chapter 1 Introduction (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/y5d4b6xrx3r2thnqx7in7qzej65v5cqr.pdf">Chapter 2 Framework for Recovery (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/uxv2j9om9afz8a7tku0ojigxn5fnep3n.pdf">Chapter 3 Managing Recovery (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/29gdef7tey3b81s5wjaow4yjwuil168z.pdf">Chapter 4 Planning Recovery (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/ze48ycr040cwwbuhndr0ce0b9ggxib1b.pdf">Chapter 5 Funding (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/tdm19k3mpp598vwse0uw3jhcumqlpefv.pdf">Chapter 6 Glossary (PDF)</a></li>
-					</ul>
-					<p><a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan (PDF)</a></p>
-					<ul>
-					<li><a href="https://pspwa.box.com/shared/static/6t0frh4kqizmj8pca59xka8tvnpp3fvh.pdf">Chapter 1 Introduction and Ranked Near Term Actions (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/xk5ydvotp1wzsvhy6nyf7rj4625mi7zg.pdf">Chapter 2 Development, Use, and Measurement of the Implementation Plan (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/pv9inxe1xp1mvzxxu91dyelngoaouv5k.pdf">Chapter 3 Stormwater Strategic Initiative: Prevent Pollution from Stormwater Runoff (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/ohlajy48cedo8g76f4p4emtulrg2rfzp.pdf">Chapter 4 Habitat Strategic Initiative: Protect and Restore Habitat (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/b374rber1465a4rvr8ndzqu51i07yzc0.pdf">Chapter 5 Shellfish Strategic Initiative: Protect and Recover Shellfish Beds (PDF)</a></td></li>
-					</li>	
-					<p><a href="https://pspwa.box.com/shared/static/58m7l658wuclega9vv54ysf37vnt4frl.pdf">Appendices (PDF)</a></p>
-					<ul>
-						<li><a href="https://pspwa.box.com/shared/static/fu0q4fn2r7k2kmpyesr183anqq5q3fu0.pdf">Appendix A Strategies and Substrategies</a></li>
-						<li><a href="https://pspwa.box.com/shared/static/c6dpiktiaihvu1qpwv51yma2sjsvs16c.pdf">Appendix B Sub-strategies that Cut Across the 2016 Strategic Initiatives</a></li>
-						<li><a href="https://pspwa.box.com/s/q3ubohlwbk4oe1g7ju5p1ewscwwoflm7">Appendix C Ongoing Programs</a></li>
-					</ul>
-			<p>Visit <a href="action-agenda-archive.php">Action Agenda Archive</a> to access past versions of the Action Agenda.</p>
-
-						
-					
-					<!-- InstanceEndEditable --> </div>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>

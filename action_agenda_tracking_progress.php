@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Action Agenda - Archive</title>
+<title>Puget Sound Partnership Action Agenda</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,7 +25,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 8;
+  	navSelected = 3;
 </script>
 <meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
 <!-- InstanceEndEditable -->
@@ -56,7 +56,9 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>PAST ACTION AGENDAS	</h1>
+			<h1><span class="h1-small">2018-2022 ACTION AGENDA FOR PUGET SOUND </span><br>
+				TRACKING PUGET SOUND RECOVERY
+			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -73,17 +75,27 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Past versions of the Action Agenda <br>
-				<br>
-		<p><a href="https://pspwa.box.com/shared/static/h2ysd0bz8a1yxagtgkdaikqr1czl0owz.pdf">2016  Action Agenda (PDF)</a></p>
-	<a href="http://www.psp.wa.gov/downloads/2014_action_agenda/Final%202014%20action%20agenda%20update/2014-2015_Action_Agenda_for_Puget_Sound.pdf">2014/15 Action Agenda Complete (PDF)</a><br>
-				<a href="https://pspwa.box.com/s/g5qwigy618rjqbsdyrpzkoli7v8m86pb">2012-13 Action Agenda</a> <br>
-			<a href="https://pspwa.box.com/s/kuhc0eyk1rkxcd0mt53q79c0d8jt09wn">2008-09 Action Agenda</a></p>
-			<h2 class="margin-0-top">&nbsp;</h2>
-<h2 class="margin-10-top">&nbsp;</h2>
-			<div>
-				<div> </div>
-			</div>
+			<p>The Puget Sound Partnership monitors progress toward ecosystem recovery at two scales—ecosystem health and progress status of recovery efforts.</p>
+			<h2>Ecosystem Health</h2> 
+			<p>The recovery community tracks&nbsp;<a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs</a>, which are measures of ecosystem health directly aligned with the six recovery goals established by the Washington State Legislature. Most Vital Signs are represented by one or more specific metrics—called indicators—that provide information about the condition of the Puget Sound ecosystem. Many of the Vital Sign indicators are further refined by the use of 2020 recovery targets.</p>
+			<h2>Priority PROJECTS FOR ReCOVErY</h2>
+			<p>The <a href="http://www.psp.wa.gov/2018_AA_submitted_NTA.php">list of Near Term Actions</a> in the 2018-2022 Action Agenda is searchable by owner organization, Vital Sign, geography, or Regional Priority. These Near Term Actions can also be viewed in an <a href="http://www.psp.wa.gov/2018_AA_submitted_NTA_map.php">online map</a>.</p>
+			<h2>Project and Program Status </h2>
+			<p>Project sponsors and partners implement the programs and projects identified in the Action Agenda and monitor the results of the recovery actions. </p>
+			<ul>
+				<li>The <a href="http://www.psp.wa.gov/gis/ReportCard/">Action Agenda Report Card</a> reports on the status and funding of the 2016-2018 Action Agenda Near Term Actions. This online tool allows users to find out more about specific actions, or groups of actions, with a range of helpful filters and search options. </li>
+				<li>The <a href="http://www.psp.wa.gov/gis/RecoveryAtlas/">Puget Sound Recovery Atlas</a> tracks completed Puget Sound restoration and protection projects from 1985 to 2016 that received funding from the <a href="https://www.rco.wa.gov/grants/index.shtml">Washington State Recreation and Conservation Office</a>. Projects included in the Recovery Atlas have been associated with the Puget Sound Vital Signs.</li>
+			</ul>
+			<h2>Implementation Effectiveness</h2>
+				<p>The Partnership uses information from monitoring recovery efforts and assessing their effectiveness to describe the return on investment or benefit of recovery efforts. When the return or benefit meets or exceeds expectations, sharing results can encourage more implementation of successful approaches. When the return or benefit does not meet expectations, the recovery approaches can be modified. </p>
+				<p>The Partnership&rsquo;s <a href="http://www.psp.wa.gov/evaluating-effective-action.php">effectiveness program</a> reviews scientific reports to distill information about what&rsquo;s working to restore Puget Sound. This information, once vetted by regional experts, is presented in fact sheets and narrative summaries that can be used to help develop effective programs and projects that align with the Puget Sound Action Agenda and accelerate the recovery of Puget Sound.</p>
+				<h2>Other Reporting</h2>
+				<p>The <a href="http://psp.wa.gov/gis/NEPAtlas/Home">NEP Atlas</a> is a compilation of interactive maps, graphs and tables of activities funded beginning in 2017 by the National Estuary Program (NEP) of the U.S. Environmental Protection Agency.</p>
+				<h2>Results</h2>
+				<p>	The Partnership reports the current status of both ecosystem health and implementation effectiveness in the&nbsp;<a href="http://www.psp.wa.gov/sos.php">State of the Sound report</a>, updated every 2 years. The report provides a summary of data tracked in the Puget Sound Vital Signs and Action Agenda Report Card to help partners and decision makers understand the state of the Puget Sound ecosystem, where progress is being made, where challenges remain, and where future action and focused investment are needed.</p>
+				<p>Go to Chapter 4 of the <a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">2018-2022 Comprehensive Plan</a>, &ldquo;Framework for recovering Puget Sound,&rdquo; to learn more about the efforts to track and report on progress.</p>
+			
+			</a></p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>

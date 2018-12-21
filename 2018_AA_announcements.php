@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership Action Agenda - How has the Action agenda changed?</title>
+<title>Puget Sound Partnership Action Agenda</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,9 +25,10 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
-	subNavSelected = 1;
+  	navSelected = 2;
+	
 </script>
+<meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -42,21 +43,23 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style_sm overview-page-image99_sm">
+<header class="overview-page-image-style overview-page-image99">
 	<div class="overview-quote pull-right">
 		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-	<div class="col-xs-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo.png" width="433" height="89" alt=""/></div>
+	<div class="col-xs-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
 </div>
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>HOW HAS THE ACTION AGENDA CHANGED?</h1>
+			<h1><span class="h1-small">2018-2022 ACTION AGENDA FOR PUGET SOUND </span><br>
+				UPDATES AND ANNOUNCEMENTS
+			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -66,38 +69,25 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-action-agenda.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-action-agenda.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-	<p>	As our knowledge of the ecosystem and of the effectiveness of recovery actions evolves, the Action Agenda needs to keep pace. How the Action Agenda has been updated and modified since 2008 has improved in many ways based on feedback from partners and on the results of science research and monitoring. </p>
-<p>The figure below shows highlights of how the Action Agenda has evolved over the last ten years.</p>
-<p><img src="images/AA_2015_historical_timeline.jpg" width="600" height="456" alt=""/></p>
-<p>This 2016 Action Agenda builds on past Action Agendas and reflects several new developments that focus and prioritize actions and investments. The changes reflect:</p>
-<ul>
-	<li>A shift in the role of the Puget Sound Partnership to focus more on coordination and supporting Near Term Action owners who have the knowledge, expertise, and on-the-ground networks to excel at implementing projects and actions that contribute to Puget Sound recovery. </li>
-	<li>An emphasis on stewardship strategies in the Near Term Action solicitation and recognizing the important role that the <a href="http://www.psp.wa.gov/LIO-overview.php">Local Integrating Organizations</a> and other partners play in education and outreach. </li>
-</ul>
-<p>The 2016 Action Agenda also begins a transition between being guided by Strategic Initiatives and <a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a>. The Strategic Initiatives are regional priorities that help direct spending and resources. The 2016 Action Agenda requires that all proposed <a href="https://pspwa.app.box.com/s/43heo2w6kb28197m3s3wsw69kkg90oud">Near Term Actions</a> address one of the three Strategic Initiatives (stormwater, habitat, and shellfish). Implementation Strategies, by contrast, are plans for achieving specific Vital Sign recovery targets. Implementation Strategies are introduced in the 2016 Action Agenda and it is anticipated that their role will increase in subsequent updates to the <em>Implementation Plan</em>.</p>
+			<div class="highlightbox margin-0-top">
+			<p>On December 5, 2018, the Leadership Council reviewed the recommendations from the Ecosystem Recovery Board, Salmon Recovery Council and Science Panel, as well as input received from advisory boards, tribes, and the public and unanimously recommended the adoption of the 2018-2022 Action Agenda. </p>
+			<p>	As part of its proposal, the Leadership Council asked that the Southern Resident Orca Vital Sign be added as a priority Vital Sign for this 4 year period.  Bringing the Task Force recommendations into the sphere of the Action Agenda is essential to leverage existing efforts and momentum and to identify the actions that can have the largest benefit for both Southern Resident orcas and the Puget Sound ecosystem as a whole.</p>
+				<p>	This Action Agenda could not have been made without the dedication and work of all of our partners and broader recovery community. The 2018-2022 Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it complements and incorporates the work of many local and regional partners from around Puget Sound to describe strategies and specific actions needed to recover Puget Sound.  </p>
+<p>	<a href="http://www.psp.wa.gov/action_agenda_center.php">Access the 2018-2022 Action Agenda </a></p>
+				<p>Access the 2018-2022 Action Agenda<a href="https://pspwa.box.com/s/j6t41vvuiwmf9bmlkrw6d8047jrwze9l"> Public Comment and Response Summary</a> and the <a href="https://pspwa.box.com/s/0d9az308y3vqc8l3ob56l3wjoktbmz4y">Detailed Comment Matrix</a></p> </div>
+ 
+
+			
 		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">MORE INFORMATION</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="science-workplan.php">Biennial Science Work Plan</a></li>
-				<li role="presentation"> <a href="science-strategic-science-plan.php">Strategic Science Work Plan</a></li>
-				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">2014 Pressures Assessment</a></li>
-				<li role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs</a></li>
-				<li role="presentation"> <a href="action-agenda-archive.php">Action Agenda Archive</a></li>
-				<li role="presentation"> <a href="http://app.leg.wa.gov/RCW/default.aspx?cite=90.71.300">Recovery Goals Established</a></li>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

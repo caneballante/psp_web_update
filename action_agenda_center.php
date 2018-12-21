@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>ACTION AGENDA FOR PUGET SOUND</h1>
+			<h1>2018-2022 ACTION AGENDA FOR PUGET SOUND</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -74,38 +74,39 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Action Agenda for Puget Sound can be accessed through the navigation links on this page. Content on this and associated web pages provides a high-level summary of content from the Action Agenda and should not be considered part of the official plan.</p>
-			<h2>What is the Action Agenda?</h2>
+			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it complements and incorporates the work of many partners from around Puget Sound to describe regional strategies and specific actions needed to recover Puget Sound. These strategies and actions provide opportunities for federal, state, local, tribal, and private entities to better invest resources and coordinate actions.</p>
+			<table border="0">
+				<tbody>
+					<tr>
+						<td><img class="img-responsive" src="images/2019-2022-actionagenda-cover.jpg" width="550" height="430" alt=""/></td>
+						<td>
+							<p><a href="https://pspwa.box.com/s/osxaeqg19fevxu5n3k8xnjytzkwol512">Download the full 2018 – 2022 Action Agenda</a> <br>
+							<a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">Download only the 2018 – 2022 Action Agenda Comprehensive Plan</a> <br>
+							<a href="https://pspwa.box.com/s/uxtx0uv2fqsnglbv2cgahs8o52mtsdzb">Download only the 2018 – 2022 Action Agenda Implementation Plan</a> <br>
+							<a href="https://pspwa.box.com/s/xb3xoidt1eyiv6flwxwz5fdbbpgbgnao">Download only the tiered list of Near Term Actions</a></p>
+						</td>
+						
+					</tr>
+				</tbody>
+			</table>
+			
+			<h2>What is INSIDE the 2018—2022 Action Agenda?</h2>
 			<p>The Action Agenda is our region's shared roadmap for Puget Sound recovery. The plan outlines the regional strategies and specific actions needed to protect and restore Puget Sound. The Action Agenda is a collective effort that is informed by science and guides effective investment in Puget Sound protection and restoration. <a href="action-agenda-what.php"><br>
-			LEARN MORE</a></p>
-			<h2> Why do we need it?</h2>
-			<p>Over the past 150 years, human use and the stresses of emerging threats such as ocean acidification, have caused the degradation of water quality, water quantity, and habitat. The pressures are relentless and continue to take their toll on the Puget Sound ecosystem. Together with our partner agencies, organizations, and citizens, we can protect and restore Puget Sound by using science-informed, prioritized actions—this is what the Action Agenda is designed to do. <a href="action-agenda-why.php"><br>
-			LEARN MORE</a></p>
-			<h2>Who Makes it?</h2>
-			<p> Developing a prioritized, science-informed master plan for Puget Sound recovery requires the contributions of hundreds of partners. The Action Agenda is made possible by the following entities working together with a shared vision for the future of Puget Sound:</p>
-			<ul>
-				<li>The Puget Sound Partnership and its four boards</li>
-				<li>Federal, tribal, state, and local governments </li>
-				<li>Local Integrating Organizations</li>
-				<li>Salmon recovery and watershed groups</li>
-				<li>Environmental non-profits</li>
-				<li>Academic institutions</li>
-			</ul>
-			<a href="action-agenda-who.php">LEARN MORE</a>
-			<h2>How Do you define recovery?</h2>
-			<p>Puget Sound recovery, in the context of the Action Agenda, is an inclusive term that covers the protection and restoration of essential resources and functions. When the Washington State Legislature created the Puget Sound Partnership, it also defined six recovery goals related to healthy human population, human quality of life, species and food web, protect and restore habitat, water quantity, and water quality.
-<a href="action-agenda-define-recovery.php">LEARN MORE</a> about the Partnership’s approach to managing recovery.</p>
-			<h2>How do we know it's working?</h2>
-			<p>The Puget Sound Partnership assesses the effectiveness of recovery efforts by evaluating data to determine how well management actions and programs are working to achieve desired outcomes. The approach to effectiveness monitoring has two parts. First, we evaluate the effectiveness of actions that have already been implemented. Second, we communicate the results to decision-makers as they plan the next round of recovery actions. Several tools are used to communicate results, including the Puget Sound Vital Signs, Action Agenda Report Card, and State of the Sound report.<a href="action-agenda-how-do-we-know-its-working.php">  <br>
-			LEARN MORE</a></p>
-			<h2>How is it paid for?</h2>
-			<p> Puget Sound recovery programs benefit from significant federal, state, and local funding. The Partnership funding strategy aims to develop and secure stable and diverse funding to implement Action Agenda priorities through three approaches: </p>
-
-<p><strong>Get the most from available funding.</strong> Make the most of the available funding by narrowing the focus of implementation efforts to actions that will have the highest potential benefit to recovery efforts. </p>
-<p><strong>Define the funding gap and ways to bridge it.</strong> Gain a clearer picture of the size and nature of the funding gap to develop immediate priorities and inform longer-term efforts to address the gap. </p>
-<p><strong>Refine and implement solutions to bridge the funding gap.</strong> Clearly define and prioritize solutions to fill the funding gap, the steps needed for implementation, and roles and responsibilities. </p>
-<a href="action-agenda-how-is-it-paid-for.php">LEARN MORE</a></p>
-			<!-- InstanceEndEditable --> </div>
+			</a></p>
+			<p>The Action Agenda comprises two components: </p>
+			<ol>
+				<li><strong>The Comprehensive Plan </strong>outlines overarching strategies for successful protection and restoration. It describes how issues and activities are prioritized, progress is evaluated, and strategies and actions are adapted over time. </li>
+				<li><strong>The Implementation Plan</strong> is the action component of the Action Agenda. It defines the suite of Regional Priorities and management approaches <a href="http://www.psp.wa.gov/2018_AA_submitted_NTA.php">called Near Term Actions</a> that will advance Puget Sound recovery over the next 4 years. Near Term Actions can be new, expanded, or enhanced programs, specific projects, or scientific investigations. The Implementation Planalso includes ongoing programs that are part of existing Puget Sound recovery efforts.</li>
+			</ol>
+			<h2>How does this Action Agenda advance recovery of Southern Resident orcas? </h2>
+			<p>The health of the Southern Resident orcas can tell us a lot about Puget Sound. They are one of Puget Sound&rsquo;s top predators and therefore rely on a healthy Puget Sound ecosystem for their survival. Since 2015, however, no Southern Resident orca newborn has survived, and the population faces the possibility of extinction. Three key threats are driving this crisis: food availability, toxic contaminants, and disturbance from noise and vessel traffic. If our Southern Residents are to survive, urgent and immediate action must happen now.</p>
+			<p>In 2018, Governor Jay Inslee formed the <a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">Southern Resident Orca Task Force</a> to recommend the most effective short-term and long-term actions to recover orcas. In November 2018, the Task Force <a href="https://www.governor.wa.gov/sites/default/files/OrcaTaskForce_reportandrecommendations_11.16.18.pdf">recommended 36 actions</a> to address the threats to the Southern Residents. </p>
+			<p><strong><em>The final recommendations of the Task Force align with the goals and strategies of the Action Agenda. </em></strong>The Action Agenda for Puget Sound provides a critical library of actions and programs that support the Task Force priorities for orca recovery. These actions and programs are developed, proposed, and sponsored by local and regional organizations that are ready to begin the work outlined in the Action Agenda.</p>
+<p><a href="https://pspwa.box.com/s/xbk15foydilcws6f7f5426iktb99nzei">Download the Southern Resident Orca and Action Agenda Fact Sheet</a> </p>
+<p><a href="https://www.governor.wa.gov/sites/default/files/OrcaTaskForce_reportandrecommendations_11.16.18.pdf">Access Year 1 recommendations of the Governor&rsquo;s Southern Residence Orca Task Force  </a></p>
+			<p><a href="action-agenda-what.php"><br>
+			</a></p>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
