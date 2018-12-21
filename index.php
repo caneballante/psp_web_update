@@ -93,6 +93,23 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+				
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2017.png"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="http://www.psp.wa.gov/PSmarinewatersoverview.php">
+						12/19 - Puget Sound Marine Waters Report Released 
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 	
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
@@ -142,95 +159,7 @@
 				
 			</div>
 		<!--COLUMN END-->
-			
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/nooksack.jpg"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="https://pspwa.box.com/s/hx547fnjdzm57bnk5knyswnbxmlt3aj9">
-						8/6 - Draft 2019-2021 PSAR large cap project list announced</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
 		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/orca-news-release.jpg"  alt=""/> <strong>STATEMENT</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/statement-from-sheida-sahandy-puget-sound-partnership-executive-director-on-the-death-of-newborn-f343fd851a2c">
-						7/25 - Statement from Sheida Sahandy, Puget Sound Partnership Executive Director, on the death of newborn orca calf
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-				<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/denny-heck.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/thank-you-congressman-heck-d45616ee65c4">
-						7/18 - Thank You Congressman Heck!
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/fir-island.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/fir-island-farm-restoration-project-ed1157efd080">
-						7/12 - Fir Island Farm restoration project
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/orca-news-release.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1f5f69a">
-						6/8 - Leadership Council to consider vision for Puget Sound recovery beyond 2020
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END--> 
-				
-		
-	
-							
-	
-	
-			
-			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -248,10 +177,6 @@
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill">
-	
-	
-
-	
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
