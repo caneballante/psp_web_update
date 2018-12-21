@@ -103,6 +103,7 @@
 							<tr>
 								<td valign="top"><ul type="disc">
 									<li><a href="http://www.psp.wa.gov/southern-resident-orca-task-force.php">Governors Southern        Resident Orca Task Force</a></li>
+									<li><a href="https://www.governor.wa.gov/sites/default/files/OrcaTaskForce_reportandrecommendations_11.16.18.pdf">Year 1 recommendations of the Governor&rsquo;s Southern Residence Orca Task Force  </a></li>
 								</ul></td>
 							</tr>
 							<tr>
