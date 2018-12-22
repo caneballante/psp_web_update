@@ -111,7 +111,7 @@
 						NW Straits Commission &amp; Marine Resources Committees<br>
 						Environmental Caucus<br>
 						Academic Institutions</p></td>
-					<td valign="top"><p>Federal Puget Sound Task Force<br>
+					<td valign="top"><p>Puget Sound Federal  Task Force<br>
 						Tribes<br>
 						State agencies<br>
 						Local governments<br>
