@@ -166,9 +166,7 @@
               <em>South Sound</em>
               <br />
         360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov </a></p>
-            <h5>suzanna smith (Stoike)</h5>
-            <p>PSAR Program Manager<br />
-        360.701.4604 | <a href="mailto:suzanna.smith@psp.wa.gov">suzanna.smith@psp.wa.gov </a></p>
+
             <h5>Dan Calvert</h5>
         <p>Ecosystem Recovery Coordinator<br>
           <em>Puyallup/White, Nisqually, WRIA 13 and 14</em><br />
@@ -226,18 +224,20 @@
           Office 360.339.5861 | Cell 360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a>
   <!-- FISCAL-->
         </p>
-        <h3>ADministrative Support Team</h3>
+        <h3>Administrative Support Team</h3>
         <h5>jennifer goodenough</h5>
         <p> Administrative Supervisor<br />
         360.628.0050 | <a href="mailto:jennifer.goodenough@psp.wa.gov">jennifer.goodenough@psp.wa.gov</a>        </p>
         <h5>Charisse Sonnier</h5>
         <p>Administrative Assistant<br />
           360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a><br />
-          <!--ADMINISTRATION-->        </p>
+         </p>
+		   <h5>Ami Hollingsworth</h5>
+        <p>Administrative Assistant<br />
+          360.464.1218 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
+         </p>
         <h3>epa program</h3>
-        <!-- <h5>Debbie Lewandowsky</h5>
-			<p> Administrative Assistant<br />
-				360.464.1232 | <a href="mailto:debbie.lewandowsky@psp.wa.gov">debbie.lewandowsky@psp.wa.gov</a></p>-->
+     
         <h5>Karin Berkholtz</h5>
         <p> EPA Program Manager<br />
           Office 360.999.3848| <a href="mailto:karin.berkholtz@psp.wa.gov">karin.berkholtz@psp.wa.gov</a><br />
