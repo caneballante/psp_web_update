@@ -73,7 +73,7 @@
 		John Stein is the former Science and Research Director of NOAA Fisheries' Northwest Fisheries Science Center in Seattle, WA, and is currently Scientist Emeritus with NOAA Fisheries. The Center&rsquo;s scientific responsibilities are for living marine resources (e.g., salmon, groundfish, and killer whales) and their habitats of the Pacific Northwest (e.g., salmon) and along the west coast (e.g., groundfish). The improved understanding of these resources and their ecosystems is used to support resource managers in making sound decisions that build sustainable fisheries, recover endangered and threatened species, and sustain healthy ecosystems and coastal economies. He has authored over 75 publications and is an affiliate faculty member in the University of Washington&rsquo;s School of Aquatic and Fisheries Sciences, and is currently the Vice-Chair of PICES (North Pacific Marine Science Organization) a multinational organization of Pacific Rim countries. At NOAA, in addition to his duties as Science Center Director he co-directed NOAA Fisheries California Current Integrated Ecosystem Assessment with the director of the SW Fisheries Science, was the federal co-lead for Marine Planning on the west coast under the National Ocean Policy, and the lead for NOAA's Seafood Safety Program in response to the Deepwater Horizon oil spill.</p>
 		<!--END MEMBER-->
 		<!--START MEMBER-->
-		<p><strong>Vice-chair: Ken Currens</strong><br />
+		<p><strong>Co-Vice Chair: Ken Currens</strong><br />
 		<span style="font-weight: bold">Term:</span> 4 years 11/10/2019<br />
 		Ken Currens is a scientist for the Northwest Indian Fisheries Commission, where he serves as a scientific liaison between the Western Washington Treaty Tribes and the federal government, state agencies, and non-governmental organizations on salmon recovery and ecosystem conservation issues.  He guides a program that provides ecological and genetic analyses for salmon recovery, ecosystem monitoring, and hatchery reform.  From 2010-2012, he served as Science Director for the Puget Sound Partnership.  He was Chair of Washington’s Independent Science Panel (2000-2006), which was created by the Legislature to provide scientific guidance and review on salmon recovery and watershed health issues before the formation of the Washington Academy of Sciences.  He is a member of the Puget Sound Technical Recovery Team (now known as the Regional Implementation Technical Team) since 2000 and provided technical analyses to develop recovery plans for three species of ESA-listed salmon. His research focuses on ecological genetics and population structure of Pacific Northwest fishes and on the use of analytical tools for assessing genetic risks and ecological decision making.  He has served on editorial boards for the North American Journal of Fisheries Management and Fisheries. Dr. Currens received a B.A. in English from the University of Oregon and M.S. and Ph.D. degrees from Oregon State University. </p>
 		<!--END MEMBER-->
@@ -98,10 +98,13 @@
 		<p>Nives holds a BA in Economics from the University of Ljubljana, Slovenia, and a Joint Ph.D. from the School of Public &amp; Environmental Affairs and Department of Political Science Indiana University, Bloomington.</p>
 		<!--END MEMBER-->
 		<!--START MEMBER-->
-		<p><strong>Robert Ewing</strong><br />
-		<span style="font-weight: bold">Term:</span> 4 years 11/10/2018<br />
+		<p><strong>Co-Vice Chair Robert Ewing</strong><br />
+		<span style="font-weight: bold">Term:</span> 4 years 11/10/2022<br />
 		Bob Ewing spent 20 years as the Director of Timberlands Strategic Planning for Weyerhaeuser. Before his recent retirement, Bob was responsible for the development, implementation and tracking of strategic management plans for all of Weyerhaeuser’s forestland, including forests in Washington, Oregon, seven southeastern states, Canada, and additional international locations. This work included evaluation of forest conditions, modeling forest productivity and health, developing vegetation management and harvest plans, and monitoring the effects of forest practices on forest ecosystem values. Prior to joining Weyerhaeuser, Bob worked for the California Department of Forestry and Fire Protection as head of their resource assessment and strategic planning programs. Bob has a PhD in Wildland Resource Science from the University of California, Berkeley.</p>
-        <!--END MEMBER-->
+		<p><strong>Colin Grier<br />
+	    Term: </strong>4 years 11/10/2022<strong><br />
+</strong>Colin Grier is currently an Associate Professor in the Department of Anthropology at Washington State University. He is a broadly trained anthropological archaeologist, with an analytical focus on zooarchaeology (the analysis of animal remains) in the context of studying human-environmental interactions over the long-term. Grier&rsquo;s research include: 1) the reconstruction of past salmon-fishing practices in the Salish Sea, utilizing ancient DNA analysis of salmon bone to reconstruct the structure and timing of indigenous salmon fisheries, 2) reconstructing past practices that promoted sustainability and resilience among indigenous peoples of, Northwest Coast of North America, Korean Peninsula and Pacific Rim. He received a BA in Anthropology (with first class honors), from McGill University Québec, Canada and a PhD in Anthropology from Arizona State University.</p>
+<!--END MEMBER-->
 		<!--START MEMBER-->
 		<p><strong>Eddy Kennedy</strong><br />
 		 <strong>Term: </strong>4 years 11/10/21<br />
@@ -113,11 +116,11 @@
 		<span style="font-weight: bold">Term</span>: 4 years 11/10/2021<br />
 		 Labiosa has worked as a Research Physical Scientist with USGS since 2001, specializing in watershed/ecosystems management decision analysis and decision support. He has extensive ecological experience and knowledge of Puget Sound serving as the project manager and PI for the Puget Sound Ecosystem Portfolio Model project – a model-based evaluation of ecosystem services and metrics of human well-being as influenced by land use change and regional-scale coastal anthropogenic modifications. Prior to working for USGS, he worked for the U.S. Environmental Protection Agency's Office of Water in Washington, D.C. </p>
 		<!--END MEMBER-->
-		<!--START MEMBER-->						
-		<p><strong>Wayne Landis<br />
-		Term: </strong>4 years 11/10/18<strong><br />
-		</strong>Since 1989, Wayne Landis has been the Director of the Institute of Environmental Toxicology, part of the Huxley College of the Environment at Western Washington University.  He has extensive experience in environmental toxicology, population modeling and regional scale environmental risk assessment.  Recent projects include calculating the risk due to whirling disease to trout in the American Southwest, the calculation of risk due to invasive species in Puget Sound and the Chesapeake Bay, the application of risk assessment to forestry management and the development of a risk based decision framework for the mercury contaminated South River, Virginia.<br />
-		</p>
+		<!--START MEMBER-->
+		<p><strong>Paul Mayer</strong><br>
+		  <strong>Term</strong>: 4 years 11/10/2022<br>
+		  Paul Mayer is the Ecological Effects Branch Chief for EPA&rsquo;s Western Ecology Division. Paul has extensive research experience in the Chesapeake Bay region; where he led studies of stream restoration and stormwater management in urban ecosystems that parallel those of Puget Sound. His wetland ecosystems work at organismal levels, microbial, and biogeochemical levels focused on employing ecological indictors of recovery after restoration. For the past 15 years he has been deeply involved in research on stream ecology and how restoration can improve or recover biological functions even in highly altered urban landscapes in the Chesapeake Bay and elsewhere. Paul is broadly trained in biology and ecology, with degrees in Zoology, Wildlife Management, and Conservation Biology. </p>
+<br />
 		<!--END MEMBER-->
 		<!--START MEMBER-->					
 		<p><strong>Jan Newton</strong><br />
@@ -126,32 +129,30 @@
 		<!--END MEMBER-->
 		<!--START MEMBER-->					
 		<p><strong>Timothy Quinn</strong><br />
-		<span style="font-weight: bold">Term:</span> 4 years 11/10/18<br />
-		Chief scientist of the WDFW’s habitat program since 1999, Quinn also is a member of <br />
-		The Evergreen State College’s adjunct faculty, where he teaches in the Master’s in Environmental Studies program. Quinn recently served on the Science Working Group that came up with scientific underpinnings and a technical framework for the development of the Puget Sound Partnership.</p>
+		<span style="font-weight: bold">Term:</span> 4 years 11/10/2022<br />
+		Chief scientist of the WDFW’s habitat program since 1999, Quinn also is a member of The Evergreen State College’s adjunct faculty, where he teaches in the Master’s in Environmental Studies program. Quinn recently served on the Science Working Group that came up with scientific underpinnings and a technical framework for the development of the Puget Sound Partnership.</p>
 		<!--END MEMBER-->
-		<!--START MEMBER-->	
-		<p><strong>John Stark</strong><br />
-		<span style="font-weight: bold">Term:</span> 4 years 11/10/18<br />
-		John Stark is the Director of the Washington State University, Puyallup Research and Extension Center. John is also the Director of the Washington Stormwater Center and a member of the Puget Sound Partnership Science Panel. Additionally, John is a Professor and runs the Ecotoxicology Program at WSU. John's research deals with protection of endangered species and ecological risk assessment of pollutants with particular emphasis on the effects of pollutants on salmon and their food.  Recent projects involve determination of the effects of polluted stormwater runoff on salmon and invertebrate health. John has published over 120 peer-reviewed papers in scientific journals, numerous book chapters, and a book on ecological risk assessment entitled "Demographic Toxicity: Methods in Ecological Risk Assessment". </p>
-		<!--END MEMBER-->
+		<!--START MEMBER--><!--END MEMBER-->
 		<!--START MEMBER-->		 
 		<p><strong>Terre Satterfield</strong><br />
 		<span style="font-weight: bold">Term</span>: 4 years 11/10/2021 <br />
 		Terre Satterfield is an interdisciplinary social scientist; professor of culture, risk and the environment; and director of the University of British Columbia&rsquo;s Institute for Resources, Environment and Sustainability.<br />
 		Her research concerns sustainable thinking and action in the context of environmental assessment and decision making. She studies natural resource controversies; culture and cultural ecosystem services; and the perceived risk of new technologies. She has worked primarily on tensions between indigenous communities and the state and/or regulatory dilemmas regarding new technologies.</p>
-        <p>Her work has been published in journals such as: <em>Nature; Global Environmental Change; Ecological Applications, Ecology and Society; Journal of Environmental Management; Biosciences; Society and Natural Resources; Land Economics; Science and Public Policy; Ecological Economics; Environmental Values; </em>and <em>Risk Analysis. </em>Her books include: <em>The Anatomy of a Conflict: Emotion, Knowledge and Identity in Old Growth Forests</em>; <em>What&rsquo;s Nature Worth?</em> (with Scott Slovic); and <em>The Earthscan Reader in Environmental Values </em>(with Linda Kalof)<em>.</em><br />
+        <p>Her work has been published in journals such as: <em>Nature; Global Environmental Change; Ecological Applications, Ecology and Society; Journal of Environmental Management; Biosciences; Society and Natural Resources; Land Economics; Science and Public Policy; Ecological Economics; Environmental Values; </em>and <em>Risk Analysis. </em>Her books include: <em>The Anatomy of a Conflict: Emotion, Knowledge and Identity in Old Growth Forests</em>; <em>What&rsquo;s Nature Worth?</em> (with Scott Slovic); and <em>The Earthscan Reader in Environmental Values </em>(with Linda Kalof)<em>.</em></p>
+        <p><strong>Ruth Sofield</strong><br>
+          <strong>Term</strong>: 4 years 11/10/2022 <br>
+Ruth Sofield is an Associate Professor of Environmental Toxicology and Chemistry in the Huxley College of the Environment at Western Washington University. She has worked on projects that include: 1) genetically based tolerance to pollutant exposure in marine systems with the NOAA Ecotoxicology Branch, CCHEBR in Charleston, South Carolina, 2) development of groundwater WET tests with photoactive pollutants with the Washington State DOE, 3) understanding humic and fulvic acid interactions with Ag nanoparticles and the effects on chemical speciation and toxicity with Eawag in Dübendorf, Switzerland, and 4) metal contamination and effects in mining systems in Colorado, Idaho, Washington, and British Columbia with agencies including USGS and USEPA. She received her BA in Biology from West Virginia University and PhD in Environmental Science and Engineering from Colorado School of Mines. <br />
         </p>
 		<!--END MEMBER-->
 		<!--START MEMBER-->	
         <p><strong>Eric Strecker</strong><br />
-		<span style="font-weight: bold">Term:</span> 4 years 11/10/2018<br />
+		<span style="font-weight: bold">Term:</span> 4 years 11/10/2022<br />
 		Eric Strecker, P.E., B.C.E.E., is a Principal Water Resources Engineer and Fisheries Biologist with Geosyntec Consultants in Portland, Oregon.  He focuses on the design, monitoring, and evaluation of sustainable stormwater best management practices (BMPs), the development of major project and watershed master plans and the overall assessment and management planning to protect aquatic resources. He has provided technical direction and assistance to public and private sector clients in stormwater master planning, National Pollutant Discharge Elimination System (NPDES) permitting, Total Maximum Daily Loads (TMDLs), surface water pollution assessment and control, and Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) and Resource Conservation and Recovery ACT (RCRA) surface water compliance orders for almost 30 years.</p>
 		<p>He continues to advance the state of the practice by conducting as a Principal or Co-Principal Investigator applied national and local research studies on sustainable stormwater management for the U.S. EPA, U.S. Federal Highway Administration, Water Environment Research Foundation, and National Cooperative Highway Research Program, as well as state and local research efforts. Mr. Strecker was recognized by the American Society of Civil Engineers for his work on BMP technology applications with the 2003 Civil Engineering State-of-the-Art Award. In addition to his work on guidance documents for urban stormwater management, Mr. Strecker has written more the 50 publications on stormwater planning, low impact development approaches, and the effectiveness of BMP technologies.  He likes to fish; a lot.</p>
         <!--END MEMBER-->
 		<!--START MEMBER-->	
 		<p><strong> Katharine Wellman</strong><br />
-        <span style="font-weight: bold">Term: </span>4 years 11/10/18<br />
+        <span style="font-weight: bold">Term: </span>4 years 11/10/2022<br />
 		Wellman has 20 years of experience as a social scientist in the marine estuarine environment. Currently a marine environmental economist with Northern Economics, Inc., Wellman has also held positions at NOAA and Battelle Memorial Institute.</p>
         <!--END MEMBER-->
 		<!--START MEMBER-->	 
