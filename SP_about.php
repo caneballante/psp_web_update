@@ -79,7 +79,7 @@
 		<!--END MEMBER-->
 			<!--START MEMBER-->
 		<p><strong>Bob Bilby</strong><br />
-		 <strong>Term: </strong>4 years 11/10/21<br />
+		 <strong>Term: </strong>4 years 11/10/2021<br />
 		Dr. Robert E. Bilby has conducted research on stream ecosystems, salmon and the effects of forestry on both since 1975.  He currently is the Senior Science Advisor for Weyerhaeuser Company and is responsible for coordinating environmental research on company forest lands and developing collaborative programs with federal, academic and ENGO research organizations.  Prior to assuming his current position, Bilby managed the Western Environmental Forestry Research Program for Weyerhaeuser and in the late 1990s managed the Watershed Processes Program at NOAA’s Northwest Fisheries Science Center in Seattle.  He is an affiliate professor in the University of Washington’s College of the Environment.  Bilby’s research has included investigation of the role of large wood in streams and the impact of forest management on this material, response of stream trophic systems to disturbances, relationships between habitat characteristics and salmon productivity and the contribution that spawning salmon make to the nutrient capital and productivity of streams.  He received a B.S. in zoology from the University of Rhode Island and a Ph.D. in aquatic ecology from Cornell University.</p>
 		<!--END MEMBER-->	
 		<!--START MEMBER-->
@@ -107,7 +107,7 @@
 <!--END MEMBER-->
 		<!--START MEMBER-->
 		<p><strong>Eddy Kennedy</strong><br />
-		 <strong>Term: </strong>4 years 11/10/21<br />
+		 <strong>Term: </strong>4 years 11/10/2021<br />
 		Eddy Kennedy’s research experience over the past 17 years has had a strong focus on aquaculture and coastal management issues.  For seven years ending in 2016, he managed a research section in DFO’s Maritimes Region on the east coast of Canada with a focus on coastal habitat ecology and the potential impacts of human pressures on marine ecosystem components.  In his current role as Division Manager for the Ecosystem Science Division, Fisheries and Oceans Canada in the Pacific Region, which he started in October 2016, he is responsible for managing research and monitoring activities that enhance knowledge on the structure and function of aquatic ecosystems (including Strait of Georgia) and that support improved understanding of the impacts of stressors on ecosystem components as well as options to mitigate or manage such impacts.   The various research programs, which span the marine and freshwater environments, aim to incorporate ecosystem considerations into decision making.  These programs include mitigating risks to the recovery of the Southern Resident Killer Whales, understanding ecosystem conditions that impact wild salmon populations, enhancing marine conservation planning, mitigating potential impacts of aquaculture, aquatic invasive species, and characterizing ecosystem baselines upon which management decisions can be made to mitigate potential stressors and to maintain ecosystem structure, function, and resilience.
 		</p>
 		<!--END MEMBER-->	
@@ -124,7 +124,7 @@
 		<!--END MEMBER-->
 		<!--START MEMBER-->					
 		<p><strong>Jan Newton</strong><br />
-		<span style="font-weight: bold">Term:</span> 4 years 11/10/19<br />
+		<span style="font-weight: bold">Term:</span> 4 years 11/10/2019<br />
 		As principal oceanographer at UW’s Applied Physics Laboratory, Newton provides oversight of an observational and modeling study of hypoxia in Hood Canal. Newton also is an assistant professor at UW’s School of Oceanography, where she works with faculty and students to develop and conduct research on biological oceanography of Pacific Northwest coastal and inland waters. </p>
 		<!--END MEMBER-->
 		<!--START MEMBER-->					
