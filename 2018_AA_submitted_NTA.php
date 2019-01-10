@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - 2018-2022 Action Agenda NTA preregistrations</title>
+<title>Puget Sound Partnership Action Agenda</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,33 +25,40 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 6;
+  	navSelected = 4;
 </script>
+<meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image104">
+<header class="overview-page-image-style overview-page-image99">
 	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-xs-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SUBMITTED NEAR TERM ACTIONS</h1>
+			<h1><span class="h1-small">2018-2022 ACTION AGENDA FOR PUGET SOUND </span><br>
+				NEAR TERM ACTIONS
+			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -61,27 +68,27 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-2018-AA.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-action-agenda.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-		<p><strong>The review of 635 Near Term Actions is now complete!</strong><strong> </strong>
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<p><strong>The 2018-2022 Action Agenda includes 631 actions that are ready to get underway that advance the Action Agenda&rsquo;s  Regional Priorities. </strong></p>
+			<p>Local and regional experts in habitat restoration, shellfish bed protection and recovery, stormwater pollution, and salmon recovery&nbsp;<a href="https://medium.com/puget-sound-partnership/2018-action-agenda-nta-review-camp-a-huge-success-bf88ef2588cb">came together</a>&nbsp;to review and rank Near Term Actions for inclusion in the 2018-2022 Action Agenda. </p>
+			<p>Regardless of ranking, <strong><em>all NTAs in the 2018-2022 Action Agenda are considered high priority</em></strong> and important and necessary to accelerate Puget Sound recovery during the next 4 years. The highest ranked actions (tier 4) are considered to be best aligned with the Action Agenda. </p>
+			<p><a href="#what">What is a Near Term Action? </a>|<a href="#how"> How were NTAs solicited?</a></p>
 			
-	  <p>Local and regional experts in habitat restoration, shellfish, stormwater pollution, and salmon recovery <a href="https://medium.com/puget-sound-partnership/2018-action-agenda-nta-review-camp-a-huge-success-bf88ef2588cb">came together</a> to review NTAs using the criteria provided in the <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">Solicitation</a>. NTAs are ranked from 1 to 4, with 4 being the highest. NTAs ranked 2, 3, or 4 will be recommended for adoption into the 2018-2022 Action Agenda and are listed below. NTAs that received a final rank score of 1 are not included in this published list. Summaries from the regional and local evaluations for each NTA can be found by selecting the link adjacent to the NTA Tier.  </p>      
-<p> <a href="#appeal">APPEALING AN NTA EVALUATION | </a><a href="#procedural">NTA PROCEDURAL RECORDS</a> </p>
-			
-<!-- Nav tabs -->
+			<!-- Nav tabs -->
 <ul class="nav nav-tabs" role="tablist">
-  <li class="active"><a href="#1" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'Recommended');">Recommended NTAs</a></li>
+  <li class="active"><a href="#1" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'Recommended');">All 2018 NTAs</a></li>
   <li><a href="#2" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'Tier');">By Tier</a></li>
   <li><a href="#3" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'Vital sign');">By Vital Sign</a></li>
   <li><a href="#4" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'Owner');">By Owner</a></li>
   <li><a href="#5" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'LIO');">by LIO</a></li>
   <li><a href="#6" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'Priority');">By Regional Priority Approach</a></li>
-  <li><a href="#7" role="tab" data-toggle="tab"onClick="ga('send', 'event', 'ntaviewer', 'click', 'Submitted');">Submitted NTAs</a></li>
+ 
   
 </ul>
 
@@ -111,32 +118,20 @@
 	<div class="tab-pane iframe-actionagenda" id="6">
 		<iframe name="Public Recommended Results_rpa" title="Public Recommended Results_rpa" src="https://c4esh335.caspio.com/dp/8ab35000ebe6b53259bf4fbdba75">Sorry, but your browser does not support frames.</iframe>
 	</div>
-  <!--tab 7 -->
-	<div class="tab-pane iframe-actionagenda" id="7">
-		<iframe name="Public Submitted List" title="Public Submitted List" src="https://c4esh335.caspio.com/dp/8ab3500078174df21f8a4ef58cd0">Sorry, but your browser does not support frames.</iframe>
-	</div>
-
 
 </div>
-			<div id="appeal"></div><div id="procedural"></div>
-			<h2>How to appeal the evaluation of an nta</h2>
-			<p>If an NTA owner would like to appeal the process for the ranking of their NTA, they may submit a petition using <a href="https://pspwa.box.com/s/xjsrzbw0ziubi5f0ul3ov9g5o8ik36mj">this form.</a><strong> Petitions must be received by 5:00 pm (PST), Wednesday, August 15, 2018</strong>. The Partnership will confirm receipt via email.</p>
-<P>Petition forms should be emailed to:  <br>
-            Heather Saunders Benson, Action Agenda Manager <br>
-            <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a></p>
-        <p>A committee of the chairs and vice-chairs of the Partnership&rsquo;s boards will review and adjudicate the petitions by <strong>Tuesday, August 24, 2018</strong>. The committee will review concerns about process only in accordance with the procedures stated in the <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">2018-2022 Action Agenda Solicitation for Near Term Actions</a>. 
-                                                                                                                                        <br>
-          If you have any questions, please contact: <strong>Heather Saunders Benson, 360.464.2005</strong></p>
+			<span id="what"></span>
+			<h2>WHAT IS A NEAR TERM ACTION?</h2>
+			<p>Many types of discrete, measurable actions constitute NTAs. The term &ldquo;action&rdquo; is broadly defined to include projects, initiatives, or programs. NTAs can also be large or small in scale and can be a portion (or phase) of a larger, longer-term effort. For the 2018-2022 Action Agenda, the following three categories of actions are considered to be NTAs:</p>
+			<ul type="disc">
+				<li><strong>New actions</strong>&nbsp;that achieve new recovery      outcomes. These may also be new one-time investments aimed at launching a      new ongoing program.&nbsp;</li>
+				<li><strong>Expansions      or enhancements of existing programs&nbsp;</strong>to achieve better recovery      outcomes. These are discrete actions aimed at expanding the scope or scale      of an existing program (not maintenance of current level of scope or      scale). </li>
+				<li><strong>Continuation      of an ongoing action that currently lacks secure ongoing funding to      maintain baseline operations</strong>,      such as a project to acquire funding for a critical program that is      operating on year-to-year grant funding.</li>
+			</ul>
+			<span id="how"></span>
+			<h2>HOW WERE NEAR TERM ACTIONS SOLICITED? </h2>
+			<p>The NTAs in the 2018-2022 Action Agenda were regionally reviewed and ranked from 1 to 4, with 4 being the highest, based on an assessment conducted by regional and local experts. NTAs were reviewed against four consistent criteria: 1) whether the action is aligned with Regional Priorities that are included in the Action Agenda, 2) whether the groups proposing to undertake the action have the necessary skills and capacity, 3) whether the cost, timeframe, and technical approach of the action are reasonable, and 4) whether the action will contribute to Puget Sound recovery. </p>
 
-			<h2>NTA Procedural Records </h2>
-			<p>Procedural records for the regional Strategic Initiative Advisory Teams and the Local Integrating Organizations review process can be accessed <a href="https://pspwa.box.com/s/aqpd94v0gxu88y3wv1fqkoa58a5q1s8n">here.</a></p>
-			
-<p>A full roster of the Strategic Initiative Advisory Teams and Local Integrating Organizations reviewers can be accessed <a href="https://pspwa.box.com/s/exl0ld9juo59v6lbychnkw8jtty4p4rt">here.</a></p>
-	
-
-	
-			
-		
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>

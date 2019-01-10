@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - 2016 Action Agenda Update</title>
+<title>Puget Sound Partnership Action Agenda</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,8 +25,10 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
+navSelected = 1;
+	subNavSelected = 10;
 </script>
+<meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -35,23 +37,27 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image104">
+<header class="overview-page-image-style overview-page-image99">
 	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
+		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-xs-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2018-2022 action agenda UPDATE</h1>
+			<h1>2018-2022 ACTION AGENDA FOR PUGET SOUND</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -61,74 +67,47 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-2018-AA.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-action-agenda.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it complements and incorporates the work of many partners from around Puget Sound to describe regional strategies and specific actions needed to recover Puget Sound. These strategies and actions provide opportunities for federal, state, local, tribal, and private entities to better invest resources and coordinate actions.</p>
+			<table border="0">
+				<tbody>
+					<tr>
+						<td><img class="img-responsive" src="images/2019-2022-actionagenda-cover.jpg" width="550" height="430" alt=""/></td>
+						<td>
+							<p><a href="https://pspwa.box.com/s/osxaeqg19fevxu5n3k8xnjytzkwol512">Download the full 2018 – 2022 Action Agenda</a> <br>
+							<a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">Download only the 2018 – 2022 Action Agenda Comprehensive Plan</a> <br>
+							<a href="https://pspwa.box.com/s/uxtx0uv2fqsnglbv2cgahs8o52mtsdzb">Download only the 2018 – 2022 Action Agenda Implementation Plan</a> <br>
+							<a href="https://pspwa.box.com/s/xb3xoidt1eyiv6flwxwz5fdbbpgbgnao">Download only the tiered list of Near Term Actions</a></p>
+						</td>
+						
+					</tr>
+				</tbody>
+			</table>
+			
+			<h2>What is INSIDE the 2018—2022 Action Agenda?</h2>
+			<p>The Action Agenda is our region's shared strategy for Puget Sound recovery. The plan outlines the regional strategies and specific actions needed to protect and restore Puget Sound. The Action Agenda is a collective effort that is informed by science and guides effective investment in Puget Sound protection and restoration. <a href="action-agenda-what.php"><br>
+			</a></p>
+			<p>The Action Agenda comprises two components: </p>
+			<ol>
+				<li><strong>The Comprehensive Plan </strong>outlines overarching strategies for successful protection and restoration. It describes how issues and activities are prioritized, progress is evaluated, and strategies and actions are adapted over time. </li>
+				<li><strong>The Implementation Plan</strong> is the action component of the Action Agenda. It defines a suite of Regional Priorities that will advance Puget Sound recovery over the next 4 years, and <a href="2018_AA_submitted_NTA.php">Near Term Action</a> that  align with them. Near Term Actions can be new, expanded, or enhanced programs, specific projects, or scientific investigations. The Implementation Planalso includes ongoing programs that are part of existing Puget Sound recovery efforts.</li>
+			</ol>
+			<h2>How does this Action Agenda advance recovery of Southern Resident orcas? </h2>
+			<p>The health of the Southern Resident orcas can tell us a lot about Puget Sound. They are one of Puget Sound&rsquo;s top predators and therefore rely on a healthy Puget Sound ecosystem for their survival. Since 2015, however, no Southern Resident orca newborn has survived, and the population faces the possibility of extinction. Three key threats are driving this crisis: food availability, toxic contaminants, and disturbance from noise and vessel traffic. If our Southern Residents are to survive, urgent and immediate action must happen now.</p>
+			<p>In 2018, Governor Jay Inslee formed the <a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">Southern Resident Orca Task Force</a> to recommend the most effective short-term and long-term actions to recover orcas. In November 2018, the Task Force <a href="https://www.governor.wa.gov/sites/default/files/OrcaTaskForce_reportandrecommendations_11.16.18.pdf">recommended 36 actions</a> to address the threats to the Southern Residents. </p>
+			<p><strong><em>The final recommendations of the Task Force align with the goals and strategies of the Action Agenda. </em></strong>The Action Agenda for Puget Sound provides a critical library of actions and programs that support the Task Force priorities for orca recovery. These actions and programs are developed, proposed, and sponsored by local and regional organizations that are ready to begin the work outlined in the Action Agenda.</p>
+			<p><a href="https://www.governor.wa.gov/sites/default/files/OrcaTaskForce_reportandrecommendations_11.16.18.pdf">Access Year 1 recommendations of the Governor&rsquo;s Southern Residence Orca Task Force  </a></p>
+			<p><a href="action-agenda-what.php"><br>
+			</a></p>
+		<!-- InstanceEndEditable --> </div>
 		
-				
-			<h2 class="margin-20-top">What is in the Action Agenda?</h2>
-			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it identifies the goals and strategies for recovery and describes how the work of many partner organizations contributes to improving the health of Puget Sound.</p>
-<p>The 2018-2022 update is expected to result in a more focused Action Agenda, designed to accelerate Puget Sound recovery. The Action Agenda comprises two components: the <em>Comprehensive Plan</em> and the <em>Implementation Plan</em>.</p>
-<ul>
-				<li> The <strong>Comprehensive Plan </strong>charts the course for long-term Puget Sound recovery by outlining overarching strategies for successful protection and restoration.  The 2018–2022 update will include minor revisions to the <em>Comprehensive Plan</em> published in 2016.  A major revision to the <em>Comprehensive Plan</em> will be part of the 2022–2026 Action Agenda update. </li>
-				<li>The<strong> Implementation Plan</strong> is the<em> action</em> component of the Action Agenda. It represents the collective effort to advance Puget Sound recovery over the next 4 years (2018—2022). Based on the fundamental framework and broad strategies described in the Comprehensive Plan, the Implementation Plan defines the suite of Near Term Actions (NTAs) and ongoing programs that will advance recovery over the next 4 years. Near Term Actions are new, expanded, or enhanced programs, specific projects, or scientific investigations. The Implementation Plan also includes ongoing programs that are part of existing Puget Sound recovery efforts and are aligned within the Strategic Initiatives. </li>
-			</ul>
-			<p>Recovery activities are focused on three Strategic Initiatives:</p>
-			<ul>
-				<li>Prevent pollution from <strong>stormwater</strong> runoff</li>
-				<li>Protect and restore <strong>habitat</strong></li>
-				<li> Protect and recover<strong> shellfish</strong> beds</li>
-			</ul>
-			<p>These initiatives represent priorities for Puget Sound, balancing ecological, economic and human wellbeing factors to focus on actions that make the greatest progress toward ecosystem recovery targets for the time and resources spent. The Strategic Initiatives help direct spending and resources, and they guide the Partnership&rsquo;s work with partners to increase funding, seek policy changes, report successes and challenges, and educate and engage people in the recovery effort. </p>
-			<h2>HOW DO ACTIONS GET INCLUDED IN THE ACTION AGENDA?</h2>
-			<p>The Puget Sound Partnership is currently soliciting <a href="http://www.psp.wa.gov/2018_AA_solicitation_for_NTAs.php">Near Term Actions (NTAs)</a>. Important deadlines for submitting an NTA proposal, also called an NTA Fact Sheet, include the following:</p>
-			<ul>
-				<li><strong>December 22, 2017</strong>. Deadline to preregister an NTA Fact Sheet submittal</li>
-				<li><strong>March 30, 2018</strong>. Deadline to submit the final NTA Fact Sheet</li>
-			</ul>
-			<p>Government organizations (tribal, federal, state, local, special purpose districts), academic institutions, businesses, and non-profit organizations may sponsor NTAs and propose them for inclusion in the Action Agenda. Where proposed actions align with the priorities selected for the three Strategic Initiatives and meet other threshold criteria, they may be prioritized for inclusion in the Action Agenda.			</p>
-			<div>
-				<div> </div>
-			</div>
-<h2>WHAT iS THE PROCESS FOR UPDATING THE 2018-2022 ACTION AGENDA?</h2>
-			<p>The figure below describes the steps for developing and submitting Near Term Action proposals.</p>
-			<p><img class="img-responsive" src="images/action-agenda/Action-agenda-NTA-process.png" width="873" height="1056" alt=""/></p>
-			<h2>HOW DO WE KNOW WHETHER THE ACTION AGENDA IS EFFECTIVE?</h2>
-			<p><a href="http://www.psp.wa.gov/vitalsigns/">Puget Sound Vital Signs</a> and <a href="http://www.psp.wa.gov/action_agenda_targets.php">recovery targets</a> measure how well the Action Agenda is working to recover our ecosystem. If data on the ground show thatß we&rsquo;ve made progress toward a recovery target, we will know that the Action Agenda is working. We report on our progress in the biennial <a href="http://www.psp.wa.gov/sos.php">State of the Sound report</a>. Effectiveness monitoring tools and publications include:</p>
-			<ul>
-				<li> <a href="https://sites.google.com/a/psemp.org/psemp/news-and-announcements/secondpsempquarterlynewsletterissued">Puget Sound Ecosystem Monitoring Program</a></li>
-				<li> <a href="https://sites.google.com/site/pressureassessment/home">Puget Sound Pressure Assessment</a></li>
-				<li> <a href="http://www.psp.wa.gov/sos.php">State of the Sound</a></li>
-				<li> <a href="http://www.psp.wa.gov/vitalsigns/">Vital Signs</a></li>
-				<li> <a href="http://www.psp.wa.gov/gis/ReportCard/">Action Agenda Report Card</a></li>
-			</ul>
-		
-		
-			<div>
-				<div> </div>
-				<div> </div>
-			</div>
-<p>&nbsp;</p>
-			<!-- InstanceEndEditable --> </div>
-		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="http://www.psp.wa.gov/gis/NTATool/RegionalPriorities">Regional Priorities for the 2018-2022 Action Agenda</a></li>
-					<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-				<li role="presentation"><a href="action-agenda-document.php">2016-18 Action Agenda</a></li>
-				<li role="presentation"><a href="implementation-strategies.php">Implementation Strategies</a></li>
-				<li role="presentation"><a href="http://psp.wa.gov/gis/LocalAreas/">LIO Geography Maps</a></li>
-				<li><a href="action_agenda_targets.php">Ecosystem Recovery Targets</a></li>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

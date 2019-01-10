@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership Action Agenda - Download</title>
+<title>Puget Sound Partnership Action Agenda</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -26,8 +26,8 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 3;
-	subNavSelected = 0;
 </script>
+<meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -42,7 +42,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style_sm overview-page-image99_sm">
+<header class="overview-page-image-style overview-page-image99">
 	<div class="overview-quote pull-right">
 		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
 	</div>
@@ -56,7 +56,9 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Action Agenda download links</h1>
+			<h1><span class="h1-small">2018-2022 ACTION AGENDA FOR PUGET SOUND </span><br>
+				TRACKING PUGET SOUND RECOVERY
+			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -66,55 +68,33 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-action-agenda.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-action-agenda.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		
-<p>The 2016 Action Agenda for Puget Sound is organized into two sections:</p>
-
-<ul>
-	<li><a href="https://pspwa.box.com/shared/static/rlhdytkj5wsqb6k2lg9zbjak5tn4cva3.pdf">Comprehensive Plan (PDF)</a>, which outlines long-term priorities and strategies to achieve Puget Sound recovery. </li>
-	<li><a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan (PDF)</a>, which details actions related to stormwater, habitat, and shellfish that should begin in the next two years to accelerate Puget Sound restoration and protection. </li>
-</ul>
-
-
-<p>Explore both documents using the links below.</p>
-
-		<p><a href="https://pspwa.box.com/shared/static/h2ysd0bz8a1yxagtgkdaikqr1czl0owz.pdf">Complete Action Agenda (PDF)</a></p>
-		<p><a href="https://pspwa.box.com/shared/static/4i189rr8tvqc0930gqz1kgmbptpalhml.pdf">Letter from the Leadership Council (PDF)</a></p>
-			<p><a href="https://pspwa.box.com/shared/static/cg9nvl7e49qavig0xnjajvktnzjuhd8p.pdf">Executive Summary (PDF)</a></p>
-					<p><a href="https://pspwa.box.com/shared/static/rlhdytkj5wsqb6k2lg9zbjak5tn4cva3.pdf">Comprehensive Plan (PDF)</a></p>
-					<ul>
-					<li><a href="https://pspwa.box.com/shared/static/atqhfo6htwgasoh9oudtwlfwk3sbu4qe.pdf">Chapter 1 Introduction (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/y5d4b6xrx3r2thnqx7in7qzej65v5cqr.pdf">Chapter 2 Framework for Recovery (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/uxv2j9om9afz8a7tku0ojigxn5fnep3n.pdf">Chapter 3 Managing Recovery (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/29gdef7tey3b81s5wjaow4yjwuil168z.pdf">Chapter 4 Planning Recovery (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/ze48ycr040cwwbuhndr0ce0b9ggxib1b.pdf">Chapter 5 Funding (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/tdm19k3mpp598vwse0uw3jhcumqlpefv.pdf">Chapter 6 Glossary (PDF)</a></li>
-					</ul>
-					<p><a href="https://pspwa.box.com/shared/static/mb0f4hcd4p2lrrkmvo21969zmdf504sm.pdf">Implementation Plan (PDF)</a></p>
-					<ul>
-					<li><a href="https://pspwa.box.com/shared/static/6t0frh4kqizmj8pca59xka8tvnpp3fvh.pdf">Chapter 1 Introduction and Ranked Near Term Actions (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/xk5ydvotp1wzsvhy6nyf7rj4625mi7zg.pdf">Chapter 2 Development, Use, and Measurement of the Implementation Plan (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/pv9inxe1xp1mvzxxu91dyelngoaouv5k.pdf">Chapter 3 Stormwater Strategic Initiative: Prevent Pollution from Stormwater Runoff (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/ohlajy48cedo8g76f4p4emtulrg2rfzp.pdf">Chapter 4 Habitat Strategic Initiative: Protect and Restore Habitat (PDF)</a></li>
-					<li><a href="https://pspwa.box.com/shared/static/b374rber1465a4rvr8ndzqu51i07yzc0.pdf">Chapter 5 Shellfish Strategic Initiative: Protect and Recover Shellfish Beds (PDF)</a></td></li>
-					</li>	
-					<p><a href="https://pspwa.box.com/shared/static/58m7l658wuclega9vv54ysf37vnt4frl.pdf">Appendices (PDF)</a></p>
-					<ul>
-						<li><a href="https://pspwa.box.com/shared/static/fu0q4fn2r7k2kmpyesr183anqq5q3fu0.pdf">Appendix A Strategies and Substrategies</a></li>
-						<li><a href="https://pspwa.box.com/shared/static/c6dpiktiaihvu1qpwv51yma2sjsvs16c.pdf">Appendix B Sub-strategies that Cut Across the 2016 Strategic Initiatives</a></li>
-						<li><a href="https://pspwa.box.com/s/q3ubohlwbk4oe1g7ju5p1ewscwwoflm7">Appendix C Ongoing Programs</a></li>
-					</ul>
-			<p>Visit <a href="action-agenda-archive.php">Action Agenda Archive</a> to access past versions of the Action Agenda.</p>
-
-						
-					
-					<!-- InstanceEndEditable --> </div>
+			<p>The Puget Sound Partnership monitors progress toward ecosystem recovery at two scales—ecosystem health and progress status of recovery efforts.</p>
+			<h2>Ecosystem Health</h2> 
+			<p>The recovery community tracks&nbsp;<a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs</a>, which are measures of ecosystem health directly aligned with the six recovery goals established by the Washington State Legislature. Most Vital Signs are represented by one or more specific metrics—called indicators—that provide information about the condition of the Puget Sound ecosystem. Many of the Vital Sign indicators are further refined by the use of 2020 recovery targets.			</p>
+			<h2>Project and Program Status </h2>
+			<p>Project sponsors and partners implement the programs and projects identified in the Action Agenda and monitor the results of the recovery actions. </p>
+			<ul>
+				<li>The <a href="http://www.psp.wa.gov/gis/ReportCard/">Action Agenda Report Card</a> reports on the status and funding of the 2016-2018 Action Agenda Near Term Actions. This online tool allows users to find out more about specific actions, or groups of actions, with a range of helpful filters and search options. </li>
+				<li>The <a href="http://www.psp.wa.gov/gis/RecoveryAtlas/">Puget Sound Recovery Atlas</a> tracks completed Puget Sound restoration and protection projects from 1985 to 2016 that received funding from the <a href="https://www.rco.wa.gov/grants/index.shtml">Washington State Recreation and Conservation Office</a>. Projects included in the Recovery Atlas have been associated with the Puget Sound Vital Signs.</li>
+			</ul>
+			<h2>Implementation Effectiveness</h2>
+				<p>The Partnership uses information from monitoring recovery efforts and assessing their effectiveness to describe the return on investment or benefit of recovery efforts. When the return or benefit meets or exceeds expectations, sharing results can encourage more implementation of successful approaches. When the return or benefit does not meet expectations, the recovery approaches can be modified. </p>
+				<p>The Partnership&rsquo;s <a href="http://www.psp.wa.gov/evaluating-effective-action.php">effectiveness program</a> reviews scientific reports to distill information about what&rsquo;s working to restore Puget Sound. This information, once vetted by regional experts, is presented in fact sheets and narrative summaries that can be used to help develop effective programs and projects that align with the Puget Sound Action Agenda and accelerate the recovery of Puget Sound.</p>
+				<h2>Other Reporting</h2>
+				<p>The <a href="http://psp.wa.gov/gis/NEPAtlas/Home">NEP Atlas</a> is a compilation of interactive maps, graphs and tables of activities funded beginning in 2017 by the National Estuary Program (NEP) of the U.S. Environmental Protection Agency.</p>
+				<h2>Results</h2>
+				<p>	The Partnership reports the current status of both ecosystem health and implementation effectiveness in the&nbsp;<a href="http://www.psp.wa.gov/sos.php">State of the Sound report</a>, updated every 2 years. The report provides a summary of data tracked in the Puget Sound Vital Signs and Action Agenda Report Card to help partners and decision makers understand the state of the Puget Sound ecosystem, where progress is being made, where challenges remain, and where future action and focused investment are needed.</p>
+				<p>Go to Chapter 4 of the <a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">2018-2022 Comprehensive Plan</a>, &ldquo;Framework for recovering Puget Sound,&rdquo; to learn more about the efforts to track and report on progress.</p>
+			
+			</a></p>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
