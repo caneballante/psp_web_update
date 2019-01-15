@@ -196,10 +196,10 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">OCT<br> 
-				25</div>
+				<div class="newsbox-date">FEB<br>
+			  21</div>
 				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-								South Seattle Community College, Georgetown<br>
+				    St Placid Priory, Lacey, WA<br>
 							</a><br>
 					<br>
 				</div>
@@ -211,11 +211,11 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">NOV<br> 
-				15
+				<div class="newsbox-date">JAN<br> 
+				17
 				</div>
 				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					Port Gamble S&rsquo;Klallam Longhouse</a><br>
+					Lacey Community Center</a><br>
 				</div>
 				<!--END news content-->
 			</div>
@@ -225,11 +225,10 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">DEC<br> 
-				4-5
-				</div>
+				<div class="newsbox-date">MAR<br>
+			  13</div>
 				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
-					South Seattle Community College, Georgetown<br>
+				    Red Lion Hotel, Olympia, WA<br>
 							</a><br>
 				</div>
 				<!--END news content-->
@@ -241,10 +240,10 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">DEC<br> 
-				12-13 </div>
+				<div class="newsbox-date">FEB<br>
+			  6</div>
 				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-				South Seattle Community College, Georgetown<br>
+			    University of Washington, Applied Physics Lab/Henderson Hall<br>
 							</a><br>
 				</div>
 				<!--END news content-->
