@@ -74,52 +74,49 @@
 				</tr>
 				<tr> </tr>
 				<tr>
-					<td><p>January 25</p></td>
-					<td><p>St. Placid Priory<br>
-					500 College Street NE<br>
-					Lacey, WA 98346</p></td>
+					<td><p>January 17</p></td>
+					<td><p>Lacey Community Center</p>
+				    <p>6729 Pacific Ave SE, Olympia, WA 98503</p></td>
 					<td><a href="https://pspwa.box.com/s/gw2s642nmdfm6pa7n7hx35uupib53131" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>March 22</p></td>
-					<td><p>South Seattle Community College<br>
-					 Gene J. Colin Education Hall<br>
-					6737 Corson Avenue South<br>
-				    Seattle, WA 98108</p></td>
+					<td><p>March 28</p></td>
+					<td><p>Port Gamble S’Klallam Longhouse<br>
+31964 Little Boston Rd NE<br>
+Kingston, WA 98346</p></td>
 
 					<td><a href="https://pspwa.box.com/s/lyxg88h6pn8ely569g7fje912xzwg8lh" target="new">Meeting Materials</a></td>
 
 				</tr>
 				
 				<tr>
-					<td><p>May 31</p></td>
+					<td><p>May 23</p></td>
 					<td><p>Edmonds Center for the Arts<br>
 					  410 Fourth Ave N<br>
 				    Edmonds, WA 98020</p></td>
 					<td><a href="https://pspwa.box.com/s/b7l6n3f5mwxefnd56poel39bu220c2dj" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>July 26</p></td>
-					<td><p>Port Gamble S’Klallam Longhouse<br>
-31964 Little Boston Rd NE<br>
-Kingston, WA 98346</p></td>
+					<td><p>July 25</p></td>
+					<td><p>South Seattle Community College, Georgetown</p>
+				    <p>6737 Corson Ave S, Seattle, WA 98108</p></td>
 					<td><a href="https://pspwa.box.com/s/a5t6pzfm3daweljvu8bko5y393to9dp0" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>September 27</p></td>
-					<td><p>Edmonds Center for the Arts<br>
-					  410 Fourth Ave N<br>
-					  Edmonds, WA 98020<br>
+					<td><p>September 26</p></td>
+					<td><p>Port Gamble S’Klallam Longhouse<br>
+31964 Little Boston Rd NE<br>
+Kingston, WA 98346<br>
 					</p></td>
 					<td><a href="https://pspwa.box.com/s/8ijcfo4ryyfw7sn3ovuagttdrgiue0ia">Meeting Materials<br />
 					</a></td>
 				</tr>
 				<tr>
-					<td height="124"><p>November 15</p></td>
+					<td height="124"><p>November 21</p></td>
 					
-					<td><p>Port Gamble S’Klallam Longhouse<br>
-					31964 Little Boston Rd NE<br>
-					Kingston, WA 98346</p></td>
+					<td><p>Edmonds Center for the Arts<br>
+410 Fourth Ave N<br>
+Edmonds, WA 98020</p></td>
 				
 					<td><a href="https://pspwa.box.com/s/klrhtnvtjkm0vggp0z0el79nxikb19aa" target="new">Meeting Materials</a><br /></td>
 				</tr>

@@ -98,6 +98,22 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22765b0">
+						
+						JANUARY 14 – 18, 2019 
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END--><!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2017.png"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
 						<a href="http://www.psp.wa.gov/PSmarinewatersoverview.php">
 						12/19 - Puget Sound Marine Waters Report Released 

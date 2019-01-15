@@ -148,10 +148,7 @@
               360.688.4049 | <a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov </a></p>
             <h5>Don GOurlie</h5>
             <p>Environmental Planner<br />
-              360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov </a></p>
-            <h5>Jennifer POuliotte</h5>
-            <p>Environmental Planner<br />
-              360.522.0545 | <a href="mailto:jennifer.pouliotte@psp.wa.gov">jennifer.pouliotte@psp.wa.gov </a></p>
+              360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov </a>            </p>
             <h3>ecosystem recovery team</h3>
             <h5>Amber Moore</h5>
             <p>Salmon Recovery Manager<br />
