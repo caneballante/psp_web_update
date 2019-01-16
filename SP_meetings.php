@@ -75,7 +75,7 @@
 				</tr>
 				<tr> </tr>
 				<tr>
-					<td><p>February 28</p></td>
+					<td><p>February 6</p></td>
 					<td><p>University of Washington<br>
 Applied Physics Lab - Henderson Hall<br>
 Hardisty Conference Room on 6th floor<br>
@@ -84,7 +84,7 @@ Seattle, WA 98105</p></td>
 					<td><a href="https://pspwa.box.com/s/58potlxo6dsmsgqdjikxln2daa58j27l" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>April 25</p></td>
+					<td><p>April 24-25</p></td>
 					<td><p>University of Washington<br>
 					  Applied Physics Lab - Henderson Hall<br>
 					  Hardisty Conference Room on 6th floor<br>
@@ -96,15 +96,12 @@ Seattle, WA 98105</p></td>
 				</tr>
 				
 				<tr>
-					<td><p>July 11/12</p></td>
-					<td><p>Western Washington University<br>
-						Viking Union Room 462A/B<br>
-						516 High Street<br>
-					Bellingham, WA 98225</p></td>
+					<td><p>July 17-18</p></td>
+					<td><p>Bellingham, WA </p></td>
 					<td><a href="https://pspwa.box.com/s/2x8suekjxtcj4brcapvbmrv4p55n7i24" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>October 9/10</p></td>
+					<td><p>October 16-17</p></td>
 					<td><p>University of Washington<br>
 Applied Physics Lab - Henderson Hall<br>
 Hardisty Conference Room on 6th floor<br>
@@ -113,11 +110,8 @@ Seattle, WA 98105</p></td>
 					<td><a href="https://pspwa.box.com/s/bt8lzwwx5jmb01mkjr1lgmbnr2bbf8m8" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>December 12/13</p></td>
-					<td><p>South Seattle Community College - Georgetown campus<br>
-6737 Corson Ave South<br>
-Seattle, WA 98108</p>
-						<p><br>
+					<td><p>December 17-18</p></td>
+					<td><p>Tacoma, WA<br>
 					</p></td>
 					<td><a href="https://pspwa.box.com/s/jvhch5hyk786hv5xw8rjwav7g4mvo6bu" target="new">Meeting Materials</a><br />
 					</td>
