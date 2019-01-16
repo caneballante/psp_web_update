@@ -83,7 +83,7 @@
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL&nbsp;INTEGRATING&nbsp;ORGANIZATIONS&nbsp;(LIOs)</a></div>
-			<div class="padding-5-bottom"><a href="legislative_updates.php">2018&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
+			<div class="padding-5-bottom"><a href="legislative_updates.php">2019&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			
 		</div>
 	</div>
@@ -98,7 +98,7 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
+						<img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> <strong>LEGISLATIVE SESSION CALENDAR</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22765b0">
 						
 						JANUARY 14 – 18, 2019 
