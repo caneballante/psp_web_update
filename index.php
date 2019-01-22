@@ -98,10 +98,10 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22765b0">
+						<img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> <strong>WEEK 2</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/228ff40">
 						
-						JANUARY 14 – 18, 2019 
+						JANUARY 21 - 29, 2019 
 						</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -110,6 +110,20 @@
 				
 			</div>
 		<!--COLUMN END--><!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/dan-blog.jpg"  alt=""/> <strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/farmers-and-fish-in-puget-sound-choosing-a-future-for-both-45b8630922d9">
+						1/11 - Farmers and Fish in Puget Sound: Choosing a Future for Both 
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div><!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
