@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -83,7 +83,7 @@
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL&nbsp;INTEGRATING&nbsp;ORGANIZATIONS&nbsp;(LIOs)</a></div>
-			<div class="padding-5-bottom"><a href="legislative_updates.php">2018&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
+			<div class="padding-5-bottom"><a href="legislative_updates.php">2019&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			
 		</div>
 	</div>
@@ -98,8 +98,13 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+<<<<<<< HEAD
 						<img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> <strong>WEEK 2</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/228ff40">
+=======
+						<img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> <strong>LEGISLATIVE SESSION CALENDAR</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22765b0">
+>>>>>>> 86ac1989f043491820584ab25513bddb24bd0d74
 						
 						JANUARY 21 - 29, 2019 
 						</a><br>

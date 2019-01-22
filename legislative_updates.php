@@ -72,33 +72,26 @@
 		
 			
 				
+			<h2 class="margin-0-top">2019 Legislative SESSION</h2>
+			<h3 class="margin-0-top"> Legislative CALENDAR</h3>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22765b0">JANUARY 14 – 18, 2019 </a></p>
+				
+			<h3 class="margin-20-top"> DocuMENTS</h3>
+			<p>	<a href="https://pspwa.box.com/s/1j96ygpaotgs83wczy2lcx4kf4ahvdzz">Orca Task Force handout</a></p>
 			
-				<h2 class="margin-0-top">2018 Legislative Updates</h2>
+			
+			
+			<h2>Legislative Updates and Calendar Archives</h2>
+			<h3 class="margin-0-top">2018 Legislative Updates</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d66b90">JANUARY 29th</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1dcb479">FEBRUARY 21st</a></p>
 				<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1dfcfda">MARCH 5th</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e2b6e0">MARCH 16th</a></p>
-		
-			<h2 class="margin-20-top">2018 Legislative Calendars </h2>
+
 			
-			
-			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d08868">WEEK 1 
-JAN 8 – 12, 2018</a><br><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d281f5">WEEK 2 
-JAN 15 – 19, 2018</a><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d43afb">WEEK 3 
-JAN 22 – 26, 2018</a><br>
-				<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d5edaa">WEEK 4 
-JAN 29 – FEB 2, 2018</a><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d7b1b1">WEEK 5 
-FEB 5– FEB 9 2018</a><br>
-			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1db7501">WEEK 8:  
-FEB 19– FEB 23 2018</a>
-			
-				<h2 class="margin-20-top">2018 Legislative Agenda</h2>
+				<h3 class="margin-20-top">2018 Legislative Agenda</h3>
 			<p><a href="https://pspwa.box.com/s/eotk0itkj6v3zulbdki1n6urrfet7cjw">2018 Legislative Agenda</a></p>
 			<br>
-			
-			<h2>Legislative Updates and Calendar Archives</h2>
 			
 			
 			<p><a href="https://pspwa.box.com/s/nf1s6fv3pikty2elkk9nxobhz0jj3gha">View 2017 Materials</a></p>
