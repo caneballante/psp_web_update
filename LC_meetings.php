@@ -77,13 +77,13 @@
 					<td><p>March 13</p></td>
 					<td><p>Red Lion Hotel<br>
 				    2300 Evergreen Park Dr SW, Olympia, WA 98502</p></td>
-					<td><a href="https://pspwa.box.com/s/99h4z3oa9wfqs6sba56noz43ehty06mn" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.app.box.com/folder/62234893381" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
 					<td><p>June 11-12</p></td>
 					<td><p>Red Cedar Hall, Sequim/the straights</p></td>
 
-					<td><a href="https://pspwa.box.com/s/yinkhf1j2fu9fhgjwk76j7tkknl5g56r" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.app.box.com/folder/62445627527" target="new">Meeting Materials</a></td>
 
 				</tr>
 				8/16/17 
@@ -92,12 +92,12 @@ Under Location:
 				<tr>
 					<td><p>October 1-2</p></td>
 					<td><p>Seattle, WA</p></td>
-					<td><a href="https://pspwa.box.com/s/8m2mdydxvniyuoz42x8fs4j9pqc4023r" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.app.box.com/folder/62818903007" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
 					<td><p>December 3</p></td>
 					<td><p>Bremerton, WA</p></td>
-					<td><a href="https://pspwa.box.com/s/6i4fr9opajczewctzhyji4c7psohl3rm" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.app.box.com/folder/62821814995" target="new">Meeting Materials</a></td>
 				</tr>
 			
 				
