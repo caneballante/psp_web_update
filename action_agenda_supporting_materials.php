@@ -81,6 +81,7 @@
 						<table border="0" cellspacing="0" cellpadding="0">
 							<tr>
 								<td valign="top"><ul type="disc">
+									<li><a href="http://www.psp.wa.gov/implementation-strategies.php">2018-2022 Action Agenda Overview</a></li>
 									<li><a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation        Strategies</a></li>
 								</ul></td>
 							</tr>
@@ -104,6 +105,7 @@
 								<td valign="top"><ul type="disc">
 									<li><a href="http://www.psp.wa.gov/southern-resident-orca-task-force.php">Governors Southern        Resident Orca Task Force</a></li>
 									<li><a href="https://www.governor.wa.gov/sites/default/files/OrcaTaskForce_reportandrecommendations_11.16.18.pdf">Year 1 recommendations of the Governor&rsquo;s Southern Residence Orca Task Force  </a></li>
+									<li><a href="https://pspwa.app.box.com/file/359049107229">Southern Resident Orca Recovery Fact Sheet  </a></li>
 								</ul></td>
 							</tr>
 							<tr>
