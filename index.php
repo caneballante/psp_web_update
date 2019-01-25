@@ -100,10 +100,10 @@
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
 					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22765b0">
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22a8891">
 
 						
-						 Week 2: January 21 - 29, 2019 
+						 Week 3: January 28 - February 1, 2019 
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>
