@@ -67,12 +67,7 @@
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<div class="highlightbox margin-0-top">
-				<p class="padding-10-all"><strong>Updated 10/12/18: The <a href="https://pspwa.box.com/s/hx547fnjdzm57bnk5knyswnbxmlt3aj9">2019-21 PSAR large capital ranked list</a> is announced</strong>.				
-				<p class="padding-10-all"><a href="PSAR-resources.php">View PSAR project fact sheets</a><br>
-				<p> The review and ranking process for the 2019-2021 Puget Sound Acquisition and Restoration (PSAR) regionally significant project proposals was completed in September 2018 and the draft list was approved by the Leadership Council on October 8, 2018. The Salmon Recovery Funding Board will consider the list for final approval on December 5-6, 2018. The prioritized list of 11 projects represents the work of countless sponsors and partners in developing these projects, as well as 32 subject matter experts who evaluated the proposals.<br>
-				<a href="https://pspwa.box.com/v/2018PSAR">
-				Click here to view the RFP and review criteria</a> </p>
-			
+				<p class="padding-10-all"><a href="PSAR-resources.php"> PSAR project fact sheets</a><br>				
 			</div>
 			<div class="sidebarbox margin-20-top margin-20-left margin-20-bottom padding-10-all orange-fill">
 				<h3 class="margin-0-top">PSAR ACCOMPLISHMENTS</h3>
