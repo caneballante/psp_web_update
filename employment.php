@@ -72,14 +72,10 @@
 		<h2 class="margin-0-top">Employment opportunities<br>
 		</h2>
 		<p>
-		<a href="https://www.governmentjobs.com/careers/washington/jobs/2253935/administrative-assistant-3"><br>
-	    Administrative Assistant 3</a><br>
-			<i>Position closes November 13</i>
-	  </p>	<p>
-		<a href="https://www.governmentjobs.com/careers/washington/jobs/2254201/monitoring-performance-analyst-exempt-part-time-non-permanent"><br>
-	    Monitoring Performance Analyst (Part-Time/Non-Permanent)</a><br>
-			<i>Position closes November 27</i>
-	  </p>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2333553/ecosystem-recovery-coordinator-exempt"><br>
+	    Ecosystem Recovery Coordinator</a><br>
+			<i>Position closes February 11</i>
+	  </p>	
 		<p>&nbsp;</p>
 		<!-- InstanceEndEditable --> </div>
 		
