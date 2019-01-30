@@ -71,6 +71,11 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<h2 class="margin-0-top">Employment opportunities<br>
 		</h2>
+			<p>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2335804/puget-sound-acquisition-and-restoration-program-manager-exempt"><br>
+	    PSAR Program Manager</a><br>
+			<i>Position closes February 12</i>
+	  </p>	
 		<p>
 		<a href="https://www.governmentjobs.com/careers/washington/jobs/2333553/ecosystem-recovery-coordinator-exempt"><br>
 	    Ecosystem Recovery Coordinator</a><br>
