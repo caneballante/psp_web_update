@@ -84,11 +84,11 @@
 							<hr>
 							<p>
 							
-								<a href="https://pspwa.box.com/s/osxaeqg19fevxu5n3k8xnjytzkwol512">Download the full 2018 – 2022 Action Agenda</a> <br>
+							  <a href="https://pspwa.box.com/s/osxaeqg19fevxu5n3k8xnjytzkwol512">Download the full 2018 – 2022 Action Agenda</a> <br>
 							<a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">Download only the 2018 – 2022 Action Agenda Comprehensive Plan</a> <br>
 							<a href="https://pspwa.box.com/s/uxtx0uv2fqsnglbv2cgahs8o52mtsdzb">Download only the 2018 – 2022 Action Agenda Implementation Plan</a> <br>
-							<a href="https://pspwa.box.com/s/xb3xoidt1eyiv6flwxwz5fdbbpgbgnao">Download only the tiered list of Near Term Actions</a>
-								<a href="https://pspwa.app.box.com/file/359049107229">Download the Orca Recovery Factsheet.</a></p>
+							<a href="https://pspwa.box.com/s/xb3xoidt1eyiv6flwxwz5fdbbpgbgnao">Download only the tiered list of Near Term Actions</a><br>
+								<a href="https://pspwa.app.box.com/file/359049107229">Download the Orca Recovery Factsheet</a></p>
 							
 							
 						</td>
