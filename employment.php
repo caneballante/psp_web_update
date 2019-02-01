@@ -71,15 +71,20 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<h2 class="margin-0-top">Employment opportunities<br>
 		</h2>
-		<p>
-		<a href="https://www.governmentjobs.com/careers/washington/jobs/2253935/administrative-assistant-3"><br>
-	    Administrative Assistant 3</a><br>
-			<i>Position closes November 13</i>
+			<p>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2338121/environmental-planner-4-project"><br>
+	    Environmental Planner 4 (Project)</a><br>
+			<i>Position closes February 21</i>
 	  </p>	<p>
-		<a href="https://www.governmentjobs.com/careers/washington/jobs/2254201/monitoring-performance-analyst-exempt-part-time-non-permanent"><br>
-	    Monitoring Performance Analyst (Part-Time/Non-Permanent)</a><br>
-			<i>Position closes November 27</i>
-	  </p>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2335804/puget-sound-acquisition-and-restoration-program-manager-exempt"><br>
+	    PSAR Program Manager</a><br>
+			<i>Position closes February 12</i>
+	  </p>	
+		<p>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2333553/ecosystem-recovery-coordinator-exempt"><br>
+	    Ecosystem Recovery Coordinator</a><br>
+			<i>Position closes February 11</i>
+	  </p>	
 		<p>&nbsp;</p>
 		<!-- InstanceEndEditable --> </div>
 		
