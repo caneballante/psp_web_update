@@ -81,7 +81,7 @@ Applied Physics Lab - Henderson Hall<br>
 Hardisty Conference Room on 6th floor<br>
 1013 NE 40th Street<br>
 Seattle, WA 98105</p></td>
-					<td><a href="https://pspwa.app.box.com/folder/62253066495" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/y0u5r3hikk6r4w29ao50yq8l60udwhdw" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
 					<td><p>April 24-25</p></td>
@@ -91,14 +91,14 @@ Seattle, WA 98105</p></td>
 					  1013 NE 40th Street<br>
 				    Seattle, WA 98105</p></td>
 
-					<td><a href="https://pspwa.app.box.com/folder/62252793621" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/ht6vn47c4w7mu3xiqsex724tbka4gvgg" target="new">Meeting Materials</a></td>
 
 				</tr>
 				
 				<tr>
 					<td><p>July 17-18</p></td>
 					<td><p>Bellingham, WA </p></td>
-					<td><a href="https://pspwa.app.box.com/folder/62252946884" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/wijmxl7vv0qhf3qi1o2kxus5rgpqc3rq" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
 					<td><p>October 16-17</p></td>
@@ -107,13 +107,13 @@ Applied Physics Lab - Henderson Hall<br>
 Hardisty Conference Room on 6th floor<br>
 1013 NE 40th Street<br>
 Seattle, WA 98105</p></td>
-					<td><a href="https://pspwa.app.box.com/folder/62253030877" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/dgajq92c0zkyxgii5wd75n5qyhq5or5i" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
 					<td><p>December 17-18</p></td>
 					<td><p>Tacoma, WA<br>
 					</p></td>
-					<td><a href="https://pspwa.app.box.com/folder/62253150578" target="new">Meeting Materials</a><br />
+					<td><a href="https://pspwa.box.com/s/mfrg2aaxbbcrvj9t0h4l0g9q7eufnizk" target="new">Meeting Materials</a><br />
 					</td>
 				</tr>
 				

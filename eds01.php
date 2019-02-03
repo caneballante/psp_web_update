@@ -59,7 +59,8 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> <img class="pull-right" src="images/sahandy_headshot01.jpg" width="130" height="148" alt=""/>
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> <div class="pull-right padding-10-left" ><img src="images/sheida-sahandy-smith-island.jpg" width="400" height="494" alt=""/><br>
+			<caption class="padding-0-left">Sheida Sahandy speaking the Smith Island Restoration celebration.</caption></div>
 			<p class="margin-0-top"><strong>Executive Director Statement Template</strong><br>
 			Puget Sound Partnership</p>
 			<p>Sheida R. Sahandy was appointed by Washington Gov. Jay Inslee in January 2014 as executive director of the Puget Sound Partnership, the state agency leading the recovery of Puget Sound.</p>
