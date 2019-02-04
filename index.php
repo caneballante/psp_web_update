@@ -118,7 +118,7 @@
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
 					<strong>MEDIA ADVISORY</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22c69d1">
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22c7bfc">
 
 						
 						Puget Sound Partnership's Science Panel to hear update on legislative priorities for 2019 at February meeting

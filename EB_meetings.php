@@ -78,7 +78,7 @@
 					  <p>Lacey, WA 98516<br>
 					  </p>
 						</td>
-					<td class=""><p><a href="https://pspwa.app.box.com/folder/62445094462" target="new">Meeting Materials</a></p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/pzbcpfl48lqmzkkm4sl59gscfja4w922" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
 					<td ><p>May 16</p></td>
@@ -86,7 +86,7 @@
 						6737 Corson Ave South<br>
 						Seattle, WA 98108<br>
 					</p></td>
-					<td><p><a href="https://pspwa.app.box.com/folder/62446368298" target="new">Meeting Materials</a></p></td>
+					<td><p><a href="https://pspwa.box.com/s/pzmd767i1728xhq0m7109v1aa9eg6uk6" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
 					<td><p>August 15</p></td>
@@ -94,7 +94,7 @@
 						6737 Corson Ave South<br>
 						Seattle, WA 98108<br>
 					</p></td>
-					<td class=""><p><a href="https://pspwa.app.box.com/folder/62446320027" target="new">Meeting Materials</a></p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/qamh9pxmqi5ht8b0dvjdpkfqx3tkrtsp" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
 					<td height="125" class=""><p>November 13</p></td>
@@ -102,7 +102,7 @@
 						6737 Corson Ave South<br>
 						Seattle, WA 98108<br>
 					</p></td>
-					<td class=""><p><a href="https://pspwa.app.box.com/folder/62446014187" target="new">Meeting Materials</a></p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/pdzf5jtxpxs0xr1tjt5e03on9nk7pq9i" target="new">Meeting Materials</a></p></td>
 				</tr>
 				
 				

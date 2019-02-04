@@ -77,7 +77,7 @@
 					<td><p>January 17</p></td>
 					<td><p>Lacey Community Center</p>
 				    <p>6729 Pacific Ave SE, Olympia, WA 98503</p></td>
-					<td><a href="https://pspwa.app.box.com/folder/62446004089" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/xs7sgacsb4ovrcy0b10zi9xzjst1un5a" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
 					<td><p>March 28</p></td>
@@ -85,7 +85,7 @@
 31964 Little Boston Rd NE<br>
 Kingston, WA 98346</p></td>
 
-					<td><a href="https://pspwa.app.box.com/folder/62446630113" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/w7i065djegej5nztb5mx5327hg2pdi60" target="new">Meeting Materials</a></td>
 
 				</tr>
 				
@@ -94,13 +94,13 @@ Kingston, WA 98346</p></td>
 					<td><p>Edmonds Center for the Arts<br>
 					  410 Fourth Ave N<br>
 				    Edmonds, WA 98020</p></td>
-					<td><a href="https://pspwa.app.box.com/folder/62446915884" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/gnr34tb11g3ro104rbqyxdgwr0xi7fwl" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
 					<td><p>July 25</p></td>
 					<td><p>South Seattle Community College, Georgetown</p>
 				    <p>6737 Corson Ave S, Seattle, WA 98108</p></td>
-					<td><a href="https://pspwa.app.box.com/folder/62445263187" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/e81yfggzk1g2rtc3v1ql5bb19munjabq" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
 					<td><p>September 26</p></td>
@@ -108,7 +108,7 @@ Kingston, WA 98346</p></td>
 31964 Little Boston Rd NE<br>
 Kingston, WA 98346<br>
 					</p></td>
-					<td><a href="https://pspwa.app.box.com/folder/62445008310" target="new">Meeting Materials<br />
+					<td><a href="https://pspwa.box.com/s/24ziju8dsnvllhi7ospl1l953tu95oh5" target="new">Meeting Materials<br />
 					</a></td>
 				</tr>
 				<tr>
@@ -118,7 +118,7 @@ Kingston, WA 98346<br>
 410 Fourth Ave N<br>
 Edmonds, WA 98020</p></td>
 				
-					<td><a href="https://pspwa.app.box.com/folder/62446223532" target="new">Meeting Materials</a><br /></td>
+					<td><a href="https://pspwa.box.com/s/yxawho6rx7ah57r2quhxgxfk53nmtltx" target="new">Meeting Materials</a><br /></td>
 				</tr>
 			</table>
 			<p> Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls. <br />
