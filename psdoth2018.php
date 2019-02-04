@@ -38,7 +38,7 @@
 <body>
 	<?php include 'includes/modal-inc.html';?>
 	<!-- START IMAGE HEADER -->
-	<header class="overview-page-image-style overview-page-image106"> </header>
+	<header class="overview-page-image-style overview-page-image110"> </header>
 	<div class="row">
 		<div class="col-sm-12 orange"></div>
 	</div>
