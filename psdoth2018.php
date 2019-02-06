@@ -58,21 +58,29 @@
 				<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
 					
 					
-					<h3 class="margin-10-top">SIGN UP TO RECEIVE UPDATES FOR PUGET SOUND DAY ON THE HILL </h3>
-					<p><em>Make sure to check the "Puget Sound Day on the Hill" box</em>
-<!-- input-group -->
-					<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" method="post">
-						<div style="margin:0;padding:0;display:inline">
-							<input name="utf8" type="hidden" value="&#x2713;" />
-							<input name="authenticity_token" type="hidden" value="fXc9Agz7AcvdGFrlZjdPUw+SlYejhPQacu3TIB3KBAQ=" />
-						</div>
-						<div class="input-group">
-							<input type="text" class="form-control" id="email" name="email" type="text" placeholder="your email..."/>
-							<span class="input-group-btn">
-							<button class="btn btn-default" name="commit" type="submit" value="Submit">SUBMIT</button>
-							</span> </div>
-					</form>
-					<!-- /input-group --> 
+					<form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="nOYBKnmWNQvieUlEVV4W6duHYH0RnJgtlvjmL4+9PgYyAL3d7msuMDW3SKUDVIM4+JB2/yCASiTVzcv4a1KTyQ==" />
+<input type="hidden" name="topic_id" id="topic_id" value="WAPSP_126" />
+<fieldset>
+<legend>
+<span class="margin-10-top">SIGN UP TO RECEIVE UPDATES FOR PUGET SOUND DAY ON THE HIL</span>
+</legend>
+
+<ol class='form'>
+<li class='email_fields' style='display: block'>
+<label for="email"><img class="required" src="https://content.govdelivery.com/images/required.gif" alt="Required" />Email Address</label>
+<input type="text" name="email" id="email" class="long" />
+
+</li>
+</ol>
+<div class='button_panel'>
+<input type="submit" name="commit" value="Submit" class="form_button" />
+</div>
+</fieldset>
+</form>
+
+
+
+
 				</div>
 				<h3 class="margin-0-top">Day on the Hill RECAP</h3>
 				<p>Thank you for doing your part in making Puget Sound Day on the Hill 2018 a success! The feedback we’ve received has been very positive, and I am proud of the great work our group was able to accomplish. Here’s a quick recap:</p>

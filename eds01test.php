@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership</title>
+<title>Puget Sound Partnership - Sheida Sahandy Bio</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -62,7 +62,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 	 <div class="pull-right padding-20-left padding-20-bottom" ><img src="images/sheida-sahandy-smith-island.jpg" width="400" height="494" alt=""/><br>
-			<caption class="padding-0-left">Sheida Sahandy speaking at the Smith Island Restoration celebration.</caption></div>
+			<caption class="padding-0-left">Sheida Sahandy speaking the Smith Island Restoration celebration.</caption></div>
 			
 			
 			<p>Five years ago today I joined an organization that was struggling against a herculean challenge—to chart a course for the recovery of the nation&rsquo;s largest estuary and the state&rsquo;s cherished jewel—the Puget Sound. Since then, we have accomplished great things together. It is with gratitude for the opportunity provided to me by Governor Inslee, intense pride about our accomplishments, and optimism for the future, that I share with you that I have tendered my resignation, effective May 3.</p>
@@ -76,9 +76,7 @@
 			<p>Sheida R. Sahandy</p>
 			<p>After May 4: <br>
 				(206) 375-1277<br>
-				<a href="mailto:sheida_sahandy@KSG04.harvard.edu">sheida_sahandy@KSG04.harvard.edu</a></p>
-			
-			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">view news release</a></p>
+				sheida_sahandy@KSG04.harvard.edu</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>

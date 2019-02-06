@@ -93,42 +93,8 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+			
 			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/snow.jpg"  alt=""/> 
-					<strong>MEDIA ADVISORY</strong><br>
-						<a href="http://www.psp.wa.gov/SP_meetings.php">
-							 Feb 6 Science Panel meeting cancelled due to inclement weather
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement-01.jpg"  alt=""/> 
-					<strong>NEWS RELEASE</strong><br>
-						<a href="
-https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
-							 Sheida Sahandy, Executive Director of the Puget Sound Partnership, stepping down 
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
-		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -136,7 +102,7 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
 					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement-01.jpg"  alt=""/> 
 					<strong>EXECUTIVE DIRECTOR STATEMENT</strong><br>
 						<a href="eds01.php">
-							 Letter from Sheida Sahandy, Executive Director Puget Sound Partnership 
+							 2.4.19 Sheida Sahandy, Executive Director of the Puget Sound Partnership stepping down 
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -300,7 +266,7 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
 				<div class="newsbox-date">FEB<br>
 			  6</div>
 				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-			    CANCELLED DUE TO INCLEMENT WEATHER<br>
+			    University of Washington, Applied Physics Lab/Henderson Hall<br>
 							</a><br>
 				</div>
 				<!--END news content-->
