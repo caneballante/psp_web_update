@@ -74,7 +74,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it complements and incorporates the work of many partners from around Puget Sound to describe regional strategies and specific actions needed to recover Puget Sound. These strategies and actions provide opportunities for federal, state, local, tribal, and private entities to better invest resources and coordinate actions</p>
+			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it complements and incorporates the work of many partners from around Puget Sound to describe regional strategies and specific actions needed to recover Puget Sound. These strategies and actions provide opportunities for federal, state, local, tribal, and private entities to better invest resources and coordinate actions.</p>
 			<table border="0">
 				<tbody>
 					<tr>
