@@ -78,6 +78,7 @@
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/228ff40">Week 2, January 21 – 25, 2019 </a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22a8891">Week 3, January 28 – February 1, 2019 </a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22c2cc2">Week 4, February 4 - 8, 2019 </a></p>
+				<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22dd2fd">Week 5, February 11 - 15, 2019 </a></p>
 				<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS</h3>
 			<p>	<a href="https://pspwa.app.box.com/s/h5rw0jyp9xjwi3l854xw2qxu6samxa25">January 25, 2019</a></p>
 			<p>	<a href="https://pspwa.app.box.com/s/9bglxd0hxnqkxb20vh3njtnxmj8gii83">February 1, 2019</a></p>
