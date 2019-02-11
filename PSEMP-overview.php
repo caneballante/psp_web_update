@@ -67,7 +67,19 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
-								<p>PSEMP operates through a Steering Committee and (currently) 12 technical workgroups that span a range of topics: marine water quality, freshwater quality, nearshore systems, forage fish and food webs, salmon, birds, marine mammals, toxics, stormwater, modeling, terrestrial systems, and diseases. For more information, contacts, meeting schedules, and products from PSEMP, see our website  <a href="https://sites.google.com/a/psemp.org/psemp/home">https://sites.google.com/a/psemp.org/psemp/home</a></p>
+		<div class="floatright"><a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/PSPartnership?ref_src=twsrc%5Etfw">Tweets by PSPartnership</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>	
+			
+			<p>The Puget Sound Ecosystem Monitoring Program (PSEMP) brings together diverse partners – from state, federal, tribal and local government agencies, non-governmental organizations, watershed groups, businesses, academia, Local Integrating Organizations (LIOs), and other private and volunteer groups and organizations – with the goal of coordinating data collection, findings and assessments that are most relevant to Puget Sound recovery. PSEMP convenes topical work groups to support a coordinated approach to monitoring, data sharing, and assessment to facilitate communication among the many organizations involved in monitoring ecosystem conditions, including biophysical and human wellbeing. Findings from monitoring and assessment directly support the Partnership&rsquo;s processes for evaluating and prioritizing recovery efforts. Bringing partners and information together to better understand ecosystem level interactions is more important than ever, and PSEMP has a key role to play. <br>
+To achieve this mission, PSEMP has adopted the following <strong><u>objectives</u></strong>:</p>
+								<ol>
+									<li>Create and maintain forums to increase <strong><em>collaboration</em></strong> across monitoring programs to improve effectiveness and efficiency of monitoring programs and their ability to meet the information needs of planners, managers, and decision-makers. Organize and synthesize the data being gathered by existing monitoring programs to increase access to available information, and highlight priority knowledge gaps to be filled. </li>
+									<li>Support <strong><em>adaptive management</em></strong> of recovery efforts by: evaluating the effectiveness of recovery actions and approaches so that those actions can be prioritized; engaging PSEMP members in planning processes such as Implementation Strategies (Figure 3); and facilitating the exchange of knowledge among PSEMP members and with planners, managers, and decision-makers (Figure 2). </li>
+									<li>Improve <strong><em>communication</em></strong> within the monitoring and assessment community and to audiences specified in a new communications plan in order to improve access to and use of credible information in decisions about Puget Sound recovery efforts.</li>
+									
+			</ol>
+			<div><img src="images/PSEMP/2018-psemp-figures-1.jpg" width="900" height="653" alt=""/></div>
+			<div><img src="images/PSEMP/2018-psemp-figures-2.jpg" width="1000" height="1294" alt=""/></div>
+			<div><img src="images/PSEMP/2018-psemp-figures-3.jpg" width="1000" height="1294" alt=""/></div>
 					
 						
 		<!-- InstanceEndEditable --> </div>

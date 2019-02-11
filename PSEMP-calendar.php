@@ -67,49 +67,12 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
-								<p>PSEMP operates through a Steering Committee and (currently) 12 technical workgroups that span a range of topics: marine water quality, freshwater quality, nearshore systems, forage fish and food webs, salmon, birds, marine mammals, toxics, stormwater, modeling, terrestrial systems, and diseases. For more information, contacts, meeting schedules, and products from PSEMP, see our website  <a href="https://sites.google.com/a/psemp.org/psemp/home">https://sites.google.com/a/psemp.org/psemp/home</a></p>
-					
+								<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/bae0c513b86740ebb63d44f3da7dd2ee"></IFRAME>
+						<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=2f0dbaf883174394aaf130567aed1146"></IFRAME>
 						
 		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
-					<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
-				
-						<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
-				<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/mar_wat/surface.html">Eyes Over Puget Sound</a></li>
-					<li role="presentation"> <a href="http://www.nanoos.org/">NW Association of Networked Ocean Observing Systems (NANOOS)
-</a></li>
-					<li role="presentation"> <a href="http://wdfw.wa.gov/conservation/fisheries/sasi/">WDFW Salmon and Steelhead Inventory</a></li>
-					<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology – Environmental Assessment Program</a></li>
-					<li role="presentation"> <a href="http://www.pnamp.org/">PNAMP</a></li>
-					<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
-						<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
-				<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
-					<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
-					
-					<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
-			<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
-					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
-						<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
