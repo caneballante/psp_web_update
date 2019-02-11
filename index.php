@@ -98,10 +98,10 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/snow.jpg"  alt=""/> 
-					<strong>MEDIA ADVISORY</strong><br>
-						<a href="http://www.psp.wa.gov/SP_meetings.php">
-							 Feb 6 Science Panel meeting cancelled due to inclement weather
+					  <img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt=""/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="psdoth2019.php">
+							 Puget Sound Day on the Hill <br>Save the date: May 14-16, 2019
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>

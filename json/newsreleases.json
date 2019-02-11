@@ -2,7 +2,7 @@
 	"news-releases": {
 	
 		"release61": {
-			"date": "February 1, 2018",
+			"date": "February 1, 2019",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/22c7bfc'>Science Panel to hear updates on 2019 legislative session</a>"
 		},	
 		"release60": {
@@ -69,11 +69,7 @@
 			"date": "July 25, 2018",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/20139be'>Statement from Sheida Sahandy, Puget Sound Partnership Executive Director, on the death of newborn orca calf</a>"
 		},
-<<<<<<< HEAD
-	"release44": {
-=======
 		"release44": {
->>>>>>> 656721da7cc606523db85e7a6854f5d58f37f0d0
 			"date": "July 19, 2018",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/1ffdfa2'>Salmon Recovery Council to discuss regional salmon recovery priorities</a>"
 		},
