@@ -98,7 +98,6 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-<<<<<<< HEAD
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
 					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22f17cd">
@@ -124,12 +123,6 @@
 
 						
 						 Week 5: February 11 - 15, 2019 
-=======
-					  <img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt=""/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="psdoth2019.php">
-							 Puget Sound Day on the Hill <br>Save the date: May 14-16, 2019
->>>>>>> 843aa9c72dbe84695e7f0b6c48b151bc57dc4a42
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -156,15 +149,23 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
 				
 			</div>
 		<!--COLUMN END-->
+			
+								 
+			
+			
+			
+			
+			
+			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/snow.jpg"  alt=""/> 
-					<strong>MEDIA ADVISORY</strong><br>
-						<a href="http://www.psp.wa.gov/SP_meetings.php">
-							 Feb 6 Science Panel meeting cancelled due to inclement weather
+						<img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt=""/> 
+						<strong>ANNOUNCEMENT</strong><br>
+						<a href="psdoth2019.php">
+						 Puget Sound Day on the Hill <br>Save the date: May 14-16, 2019
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>
