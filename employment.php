@@ -78,7 +78,7 @@
 	  </p>	<p>
 		<a href="https://www.governmentjobs.com/careers/washington/jobs/2335804/puget-sound-acquisition-and-restoration-program-manager-exempt"><br>
 	    PSAR Program Manager</a><br>
-			<i>Position closes February 12</i>
+			<i>Position closes February 19</i>
 	  </p>	
 		<p>
 		<a href="https://www.governmentjobs.com/careers/washington/jobs/2333553/ecosystem-recovery-coordinator-exempt"><br>
