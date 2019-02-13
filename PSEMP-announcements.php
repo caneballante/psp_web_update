@@ -66,45 +66,53 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-	
-								<p>PSEMP operates through a Steering Committee and (currently) 12 technical workgroups that span a range of topics: marine water quality, freshwater quality, nearshore systems, forage fish and food webs, salmon, birds, marine mammals, toxics, stormwater, modeling, terrestrial systems, and diseases. For more information, contacts, meeting schedules, and products from PSEMP, see our website  <a href="https://sites.google.com/a/psemp.org/psemp/home">https://sites.google.com/a/psemp.org/psemp/home</a></p>
-					
-						
+		<div class="highlightbox margin-0-top">
+			<p><strong>PSEMP Strategic Plan Approved!</strong></p>
+			<p>posted Nov 1, 2018, 1:06 PM by Jenna Judge</p>
+			<p>Thank you to everyone who participated in discussions, helped review, and otherwise contributed to the<a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi"> 2018-2022 PSEMP Strategic Plan</a>. The document was approved by the PSEMP Steering Committee on October 19, 2018, for final adoption at their November 13, 2018 meeting. The Puget Sound Partnership Executive Director also approves the plan and will support its implementation.</p>
+			<p>Help spread the word and share with your networks. Work Group Leads, please circulate this announcement to your work group lists!</p>
+
+			<p><strong>Next Steps to Put the Plan in Motion</strong></p>
+			<p>The strategic plan outlines some next steps for PSEMP, including those that we can start pursuing now, and those that rely on additional funding and capacity to pursue.</p>
+			<ul>
+				<li>The process to develop 2019 work plans for the Steering Committee and work groups will begin at the Nov 13 Steering Committee meeting. We will discuss and start to prioritize goals for the monitoring network in 2019, and outline work plan guidance that will be further refined by the Work Group Leads. Work plans will be informed by needs communicated by participating organizations and coordinated with the Science Panel's 2019 Science Work Plan.</li>
+				<li>The Partnership submitted a <a href="https://abr.ofm.wa.gov/budget/decision-packages/v1?budgetSession=2019-21:R&agencyCode=478&versionCode=AR&decisionPackageCode=05&budgetLevel=PL">funding request</a> to the Governor and Legislature, for the 2019-2021 biennium, to put this plan in motion, and meet a growing need for timely, relevant, and credible information that directly links scientific findings to management decisions.</li>
+			</ul>
+			<p>We are looking forward to working together to put this plan in motion, feel free to contact<a href="jenna.judge@psp.wa.gov"> Jenna Judge </a>with any questions.</p>
+			</div>			
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
+					<div class="right-nav-title">KEY DOCUMENTS</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
-					<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+						<li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k">2019 Work Plans</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ep1nzf6z1m1gelayymem2s655e1gp9dt">2018 Annual Reports</a></li>
 				
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
+					<div class="right-nav-title margin-20-top ">INFORMATION, MEETING MATERIALS, AND PRODUCTS</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/mar_wat/surface.html">Eyes Over Puget Sound</a></li>
-					<li role="presentation"> <a href="http://www.nanoos.org/">NW Association of Networked Ocean Observing Systems (NANOOS)
-</a></li>
-					<li role="presentation"> <a href="http://wdfw.wa.gov/conservation/fisheries/sasi/">WDFW Salmon and Steelhead Inventory</a></li>
-					<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology – Environmental Assessment Program</a></li>
-					<li role="presentation"> <a href="http://www.pnamp.org/">PNAMP</a></li>
-					<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
-						<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
-				<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
-					<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
-					
-					<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
+					<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/86oo43bbqkt1admq9mqvojd4not34ymq">Steering Committee</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/lstqdjdso8mrkmochibra43v0c00ruvp">Work Group Leads</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/kp7whducarb2cmqz7bq0g5t2n4w9kgeo">Diseases Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ravjcp7pcz013tk85zn0hk09evsqt6ka">Forage Fish and Food Webs Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/pcej7t03u4u7pj7u6mm6c1jfeor4f62q">Freshwater Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/oo2oj798qsfujinke9h21gaduse48p4o">Human Wellbeing Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/w7qxob29wmynivgd583fv565xozotesm">Marine Birds Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/gmxsxeqp1jcnv8ksbmrfwz7smtk6m888">Marine Mammals Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/zayx704xj6on9jkyx537odwjvdnvc8yb">Marine Waters Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/fkdwyue99osutzbvxhv4scdkln9035hs">Modelling Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ynx4sfghdkej2742qszfygaj3f7fxjqr">Nearshore Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/53irh164jl4aca6i4vs9ajtlyfmxkj5b">Salmonids Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/8ws0tu5uzjbf6xoxwy2s1o2j8lnkf5gg">Spatial Ecology Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/0v5w3d02xbbp4r9liqc8hmfrev0bm950">Stormwater Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/br3qtepghqm321dw0vo3f46q2kejelb1">Toxics Work Group</a></li>
 			<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
 					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
 						<!-- InstanceEndEditable -->

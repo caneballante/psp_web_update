@@ -67,46 +67,60 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
-								<p>PSEMP operates through a Steering Committee and (currently) 12 technical workgroups that span a range of topics: marine water quality, freshwater quality, nearshore systems, forage fish and food webs, salmon, birds, marine mammals, toxics, stormwater, modeling, terrestrial systems, and diseases. For more information, contacts, meeting schedules, and products from PSEMP, see our website  <a href="https://sites.google.com/a/psemp.org/psemp/home">https://sites.google.com/a/psemp.org/psemp/home</a></p>
+		
+			
+			<p>The Puget Sound Ecosystem Monitoring Program (PSEMP) brings together diverse partners – from state, federal, tribal and local government agencies, non-governmental organizations, watershed groups, businesses, academia, Local Integrating Organizations (LIOs), and other private and volunteer groups and organizations – with the goal of coordinating data collection, findings and assessments that are most relevant to Puget Sound recovery. PSEMP convenes topical work groups to support a coordinated approach to monitoring, data sharing, and assessment to facilitate communication among the many organizations involved in monitoring ecosystem conditions, including biophysical and human wellbeing. Findings from monitoring and assessment directly support the Partnership&rsquo;s processes for evaluating and prioritizing recovery efforts. Bringing partners and information together to better understand ecosystem level interactions is more important than ever, and PSEMP has a key role to play. <br>
+To achieve this mission, PSEMP has adopted the following <strong><u>objectives</u></strong>:</p>
+								<ol>
+									<li>Create and maintain forums to increase <strong><em>collaboration</em></strong> across monitoring programs to improve effectiveness and efficiency of monitoring programs and their ability to meet the information needs of planners, managers, and decision-makers. Organize and synthesize the data being gathered by existing monitoring programs to increase access to available information, and highlight priority knowledge gaps to be filled. </li>
+									<li>Support <strong><em>adaptive management</em></strong> of recovery efforts by: evaluating the effectiveness of recovery actions and approaches so that those actions can be prioritized; engaging PSEMP members in planning processes such as Implementation Strategies (Figure 3); and facilitating the exchange of knowledge among PSEMP members and with planners, managers, and decision-makers (Figure 2). </li>
+									<li>Improve <strong><em>communication</em></strong> within the monitoring and assessment community and to audiences specified in a new communications plan in order to improve access to and use of credible information in decisions about Puget Sound recovery efforts.</li>
+									
+			</ol>
+			<div>
+				<p><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-1.jpg" width="900" height="653" alt=""/></p>
+				<p>AM cycle figure: The Partnership&rsquo;s Adaptive Management Framework and the work PSEMP does to support it. For further elaboration on the ways in which parts of the PSEMP network contribute to Vital Signs, effectiveness assessment, and Implementation Strategies, see Appendix 1 of the <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a>. For more on the Adaptive Management Framework and the partners involved, see the <a href="action_agenda_center.php">Action Agenda</a>. (can you link the text for strategic plan and action agenda so people can click over to those references?)</p>
+			</div>
+			<div><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-2.jpg" width="1000" height="1294" alt=""/>
+				<p> PSEMP is a coordinated network that is supported by the Puget Sound Partnership. The Partnership provides staff support for coordination and product development. Many of the participating organizations shown also have members serving as Work Group Leads or on the Steering Committee.</p>
+			</div>
+			<div><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-3.jpg" width="1000" height="1294" alt=""/>
+			<p>Partners play complementary roles to accelerate the collective effort to recover and sustain Puget Sound. The partners and roles with the most direct linkages to PSEMP are shown here, however there are many more links that exist and additional links to build.</p></div>
 					
 						
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
+					<div class="right-nav-title">KEY DOCUMENTS</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
-					<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k">2019 Work Plans</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ep1nzf6z1m1gelayymem2s655e1gp9dt">2018 Annual Reports</a></li>
 				
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
+					<div class="right-nav-title margin-20-top ">INFORMATION, MEETING MATERIALS, AND PRODUCTS</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/mar_wat/surface.html">Eyes Over Puget Sound</a></li>
-					<li role="presentation"> <a href="http://www.nanoos.org/">NW Association of Networked Ocean Observing Systems (NANOOS)
-</a></li>
-					<li role="presentation"> <a href="http://wdfw.wa.gov/conservation/fisheries/sasi/">WDFW Salmon and Steelhead Inventory</a></li>
-					<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology – Environmental Assessment Program</a></li>
-					<li role="presentation"> <a href="http://www.pnamp.org/">PNAMP</a></li>
-					<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
-						<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
-				<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
-					<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
-					
-					<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
-			<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
-					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
+					<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/86oo43bbqkt1admq9mqvojd4not34ymq">Steering Committee</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/lstqdjdso8mrkmochibra43v0c00ruvp">Work Group Leads</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/kp7whducarb2cmqz7bq0g5t2n4w9kgeo">Diseases Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ravjcp7pcz013tk85zn0hk09evsqt6ka">Forage Fish and Food Webs Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/pcej7t03u4u7pj7u6mm6c1jfeor4f62q">Freshwater Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/oo2oj798qsfujinke9h21gaduse48p4o">Human Wellbeing Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/w7qxob29wmynivgd583fv565xozotesm">Marine Birds Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/gmxsxeqp1jcnv8ksbmrfwz7smtk6m888">Marine Mammals Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/zayx704xj6on9jkyx537odwjvdnvc8yb">Marine Waters Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/fkdwyue99osutzbvxhv4scdkln9035hs">Modelling Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ynx4sfghdkej2742qszfygaj3f7fxjqr">Nearshore Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/53irh164jl4aca6i4vs9ajtlyfmxkj5b">Salmonids Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/8ws0tu5uzjbf6xoxwy2s1o2j8lnkf5gg">Spatial Ecology Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/0v5w3d02xbbp4r9liqc8hmfrev0bm950">Stormwater Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/br3qtepghqm321dw0vo3f46q2kejelb1">Toxics Work Group</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

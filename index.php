@@ -98,6 +98,7 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+<<<<<<< HEAD
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
 					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22f17cd">
@@ -123,6 +124,12 @@
 
 						
 						 Week 5: February 11 - 15, 2019 
+=======
+					  <img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt=""/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="psdoth2019.php">
+							 Puget Sound Day on the Hill <br>Save the date: May 14-16, 2019
+>>>>>>> 843aa9c72dbe84695e7f0b6c48b151bc57dc4a42
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>
