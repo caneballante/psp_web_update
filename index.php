@@ -165,7 +165,7 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
 						<img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt=""/> 
 						<strong>ANNOUNCEMENT</strong><br>
 						<a href="psdoth2019.php">
-						 Puget Sound Day on the Hill <br>Save the date: May 14-16, 2019
+						8 Puget Sound Day on the Hill <br>Save the date: May 14-16, 2019
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>
