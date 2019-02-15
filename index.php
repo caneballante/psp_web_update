@@ -24,6 +24,7 @@
 <body>
 
 <!-- logo and menu and modal navigation gets included here -->
+&nbsp;
 <?php include 'includes/modal-inc.html';?>
 
 <!-- Intro Header -->
@@ -93,6 +94,25 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
+					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22fc0a6">
+
+						
+						 Week 6: February 18 - 22, 2019 
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -112,25 +132,7 @@
 				
 			</div>
 		<!--COLUMN END-->	
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
-					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22dd2fd">
-
-						
-						 Week 5: February 11 - 15, 2019 
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
+		
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
