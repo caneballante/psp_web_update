@@ -99,6 +99,24 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
+					<strong>MEDIA ADVISORY</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22f5f66">
+2/19 - Ecosystem Coordination Board to hear update on 2019 legislative priorities at February meeting	
+					
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
 					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22fc0a6">
