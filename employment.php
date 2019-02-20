@@ -69,9 +69,12 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<h2 class="margin-0-top">Employment opportunities<br>
-		</h2>
-			<p>
+			
+		<h2 class="margin-0-top">Employment opportunities</h2>
+		<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
+		  <h3>We are an Employer of Choice</h3> <a href="https://pspwa.box.com/s/vz6c25aqiogr2fuyq6lqqcr5yitzr6y0"><img src="images/news-images/emp-of-choice.jpg" width="300" height="225" alt=""/></a> 
+			</div>
+		<p>
 		<a href="https://www.governmentjobs.com/careers/washington/jobs/2338121/environmental-planner-4-project"><br>
 	    Environmental Planner 4 (Project)</a><br>
 			<i>Position closes February 21</i>
@@ -86,6 +89,7 @@
 			<i>Position closes February 11</i>
 	  </p>	
 		<p>&nbsp;</p>
+			
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
