@@ -71,7 +71,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
-		<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
+		<div class=" border-thick-blue floatright padding-10-all">
 		 <p><h3>We are an Employer of Choice</h3></p> <a href="https://pspwa.box.com/s/vz6c25aqiogr2fuyq6lqqcr5yitzr6y0"><img src="images/news-images/emp-of-choice.jpg" width="300" height="225" alt=""/></a> 
 			</div>
 		<p>
