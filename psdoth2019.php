@@ -63,7 +63,7 @@
 						<input type="hidden" name="authenticity_token" value="nOYBKnmWNQvieUlEVV4W6duHYH0RnJgtlvjmL4+9PgYyAL3d7msuMDW3SKUDVIM4+JB2/yCASiTVzcv4a1KTyQ==" />
 						<input type="hidden" name="topic_id" id="topic_id" value="WAPSP_126" />
 						<fieldset>
-							<legend> <span class="margin-10-top">SIGN UP TO RECEIVE UPDATES FOR PUGET SOUND DAY ON THE HIL</span> </legend>
+							<legend> <span class="margin-10-top">SIGN UP TO RECEIVE UPDATES FOR PUGET SOUND DAY ON THE HILL</span> </legend>
 							<ol class='form'>
 								<li class='email_fields' style='display: block'>
 									<label for="email"><img class="required" src="https://content.govdelivery.com/images/required.gif" alt="Required" />Email Address</label>
