@@ -80,9 +80,11 @@
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22c2cc2">Week 4, February 4 - 8, 2019 </a></p>
 				<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22dd2fd">Week 5, February 11 - 15, 2019 </a></p>
 					<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22fc0a6">Week 6, February 18 - 22, 2019 </a></p>
-			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2316d89">Week 7, February 25 - March 1, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/233335b">Week 7, February 25 - March 1, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2316d89">Week 8, March 4 - March 8, 2019 </a></p>
 				<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER</h3>
 				<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22f17cd">Legislative Update, February 12, 2019</a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2338800">Legislative Update, March 1, 2019</a></p>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS</h3>
 			<p>	<a href="https://pspwa.app.box.com/s/h5rw0jyp9xjwi3l854xw2qxu6samxa25">January 25, 2019</a></p>
 			<p>	<a href="https://pspwa.app.box.com/s/9bglxd0hxnqkxb20vh3njtnxmj8gii83">February 1, 2019</a></p>
