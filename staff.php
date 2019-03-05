@@ -174,8 +174,8 @@
         360.280.6664| <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov </a></p>
             <h5>Laura Ferguson</h5>
             <p>Ecosystem Recovery Coordinator<br>
-              <em>San Juan Islands</em><br />
-        360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov </a></p>
+              <em>San Juan Islands and Island County</em><br />
+        3360.819.3388 | <a href="mailto:laura.ferguson@psp.wa.gov">laura.ferguson@psp.wa.gov </a></p>
             <h5>Erin Murray</h5>
             <p>Ecosystem Recovery Coordinator<br>
               <em>Skagit/Samish, Snohomish/Stillaguamish</em><br />
