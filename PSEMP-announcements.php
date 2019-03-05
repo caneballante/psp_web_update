@@ -67,8 +67,15 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<div class="highlightbox margin-0-top">
+			<p><strong>PSEMP Steering Committee Call for New Members</strong></p>
+			<p>February 25, 2019</p>
+			<p><strong>Please see this </strong><a href="https://pspwa.box.com/s/k86r5r32x87lmk5znsts0thxgnpiqpo7" target="_blank" rel="noopener"><strong>call for applicants</strong></a><strong> for the PSEMP Steering Committee!</strong>The PSEMP SC is seeking new members to increase representation across sectors, geographies, and expertise, to help PSEMP in fulfilling its mission and advancing its objectives to support collaboration, adaptive management, and communication in the context of Puget Sound recovery. The call for applicants includes important background information on PSEMP, the role of the Steering Committee, and what we value in Steering Committee members. Please apply if interested and help us spread the word and encourage potential applicants to submit a letter of interest (see <a href="https://pspwa.box.com/s/k86r5r32x87lmk5znsts0thxgnpiqpo7" target="_blank" rel="noopener">instructions here</a>) by <strong>March 31, 2019</strong>.</p>
+
+			<p>&nbsp;</p>
+		</div>	
+		<div class="highlightbox margin-20-top">
 			<p><strong>PSEMP Strategic Plan Approved!</strong></p>
-			<p>posted Nov 1, 2018, 1:06 PM by Jenna Judge</p>
+			<p>November 1, 2018</p>
 			<p>Thank you to everyone who participated in discussions, helped review, and otherwise contributed to the<a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi"> 2018-2022 PSEMP Strategic Plan</a>. The document was approved by the PSEMP Steering Committee on October 19, 2018, for final adoption at their November 13, 2018 meeting. The Puget Sound Partnership Executive Director also approves the plan and will support its implementation.</p>
 			<p>Help spread the word and share with your networks. Work Group Leads, please circulate this announcement to your work group lists!</p>
 
@@ -79,7 +86,7 @@
 				<li>The Partnership submitted a <a href="https://abr.ofm.wa.gov/budget/decision-packages/v1?budgetSession=2019-21:R&agencyCode=478&versionCode=AR&decisionPackageCode=05&budgetLevel=PL">funding request</a> to the Governor and Legislature, for the 2019-2021 biennium, to put this plan in motion, and meet a growing need for timely, relevant, and credible information that directly links scientific findings to management decisions.</li>
 			</ul>
 			<p>We are looking forward to working together to put this plan in motion, feel free to contact<a href="jenna.judge@psp.wa.gov"> Jenna Judge </a>with any questions.</p>
-			</div>			
+		</div>			
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -98,21 +105,21 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/86oo43bbqkt1admq9mqvojd4not34ymq">Steering Committee</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/lstqdjdso8mrkmochibra43v0c00ruvp">Work Group Leads</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/kp7whducarb2cmqz7bq0g5t2n4w9kgeo">Diseases Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/ravjcp7pcz013tk85zn0hk09evsqt6ka">Forage Fish and Food Webs Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/pcej7t03u4u7pj7u6mm6c1jfeor4f62q">Freshwater Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/oo2oj798qsfujinke9h21gaduse48p4o">Human Wellbeing Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/w7qxob29wmynivgd583fv565xozotesm">Marine Birds Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/gmxsxeqp1jcnv8ksbmrfwz7smtk6m888">Marine Mammals Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/zayx704xj6on9jkyx537odwjvdnvc8yb">Marine Waters Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/fkdwyue99osutzbvxhv4scdkln9035hs">Modelling Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/ynx4sfghdkej2742qszfygaj3f7fxjqr">Nearshore Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/53irh164jl4aca6i4vs9ajtlyfmxkj5b">Salmonids Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/8ws0tu5uzjbf6xoxwy2s1o2j8lnkf5gg">Spatial Ecology Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/0v5w3d02xbbp4r9liqc8hmfrev0bm950">Stormwater Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/br3qtepghqm321dw0vo3f46q2kejelb1">Toxics Work Group</a></li>
+					<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/5f7aymlldxt4wqsfmcutmy3iz3h6l3ts">Steering Committee</a></li>
+					<li role="presentation"><a href="https://pspwa.box.com/s/fwgkthne46pdhxqladgg0zf5se2ui61p">Work Group Leads</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/8yiq86nl46w3sea0jdtjktnku7vs1qsk">Diseases Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd">Forage Fish and Food Webs Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub">Freshwater Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/epnzs7r158zq3pq0wtqb9u8tyzecjps3">Human Wellbeing Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/vyx3oq4ilqtz2d0te8sj3we14fo03blz">Marine Birds Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ltd6c5kmlv0g9kgzce4n571anvk09kef">Marine Mammals Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/5lq9cfr18b13p7zno86n9yor2uin3vra">Marine Waters Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/1cjl3znjgx9bplmrk7h2qhpqjw52zndy">Modelling Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/wgbl9zmrov2nd4qdor5iwvlnkckg6hac">Nearshore Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5">Salmonids Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz">Spatial Ecology Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d">Stormwater Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm">Toxics Work Group</a></li>
 			<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
 					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
 						<!-- InstanceEndEditable -->

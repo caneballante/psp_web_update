@@ -47,7 +47,6 @@ a[href^="http"] {
 /*added as a way to remove the icon in special cases. Used on the social icons*/
 .no-icon a[href^="http"] {
 	background: none;
-	
 	padding-left: 0px;
 }
 /*created this to make some email addresses smaller to fit in a table on the lead entities page*/
@@ -75,6 +74,7 @@ a[href^="http"] {
 .white-links a {
 	color: #fff;
 }
+
 #home-squares a {
 	font-size: 14px;
 	font-weight: 100;
@@ -791,6 +791,9 @@ p {
 .overview-page-image110 {
 	background: url(../images/inside_image_110.jpg)no-repeat bottom center scroll;
 }
+.overview-page-image111 {
+	background: url(../images/inside_image_111.jpg)no-repeat bottom center scroll;
+}
 
 
 .overview-page-image-style {
@@ -971,4 +974,10 @@ p {
 	float: right;
 	width: 45%;
 	//border: solid 1px #288A1F;
+}
+.PSEMP-blue {
+	color: #3C6E8C;
+}
+.PSEMP-green {
+	color: #7C9A90;
 }

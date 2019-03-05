@@ -66,9 +66,8 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-	
-								<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/bae0c513b86740ebb63d44f3da7dd2ee"></IFRAME>
-						<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=2f0dbaf883174394aaf130567aed1146"></IFRAME>
+	<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=9e1264a977d644e5b1c7b4fa1b02d03d"></IFRAME>
+						
 						
 		<!-- InstanceEndEditable --> </div>
 		
