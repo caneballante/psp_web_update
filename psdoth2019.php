@@ -56,7 +56,7 @@
 
 		<div class="row">
 			<div class="col-sm-9 margin-40-left padding-20-top padding-40-right content-column mobile-padding-20-left">
-				<p class="">Join us again this year as we travel to Washington D.C. for Puget Sound Day on The Hill, May 14-16. We will meet with key decision makers to let them know the benefits a healthy Puget Sound brings to the entire nation, as well as to our region</p>
+				<p class="">Join us again this year as we travel to Washington D.C. for Puget Sound Day on The Hill, May 14-16. We will meet with key decision-makers about the benefits a healthy Puget Sound brings to the entire nation, as well as to our region</p>
 				<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
 					<form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" accept-charset="UTF-8" method="post">
 						<input name="utf8" type="hidden" value="&#x2713;" />

@@ -121,8 +121,8 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 								<p class="right-nav-contact">For general questions about Implementation Strategies: <br />
 					<br>
-					<strong>Heather Benson</strong>, <br>
-					<a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a><br>
+					<strong>Heather Saunders</strong>, <br>
+					<a href="mailto:heather.saunders@psp.wa.gov">heather.saunders@psp.wa.gov</a><br>
 <br>
 For questions about specific Implementation Strategies, see contact information for each Implementation Strategy.</p>
 				<!-- InstanceEndEditable -->
