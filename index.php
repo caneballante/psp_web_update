@@ -95,6 +95,25 @@
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
 		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox newsbox-with-img">
+				<div class="newsbox-text"> 
+					<!--news content BOX --> 
+				  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
+				<strong>MEDIA ADVISORY</strong><br>
+					<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/235dff4">
+
+
+					Puget Sound Partnership's Leadership Council to hear updates on legislative priorities at March meeting
+				  </a><br>
+					<!--END news content BOX--> 
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+		</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
