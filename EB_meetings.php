@@ -81,7 +81,7 @@
 					<td class=""><p><a href="https://pspwa.box.com/s/pzbcpfl48lqmzkkm4sl59gscfja4w922" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td ><p>May 16</p></td>
+					<td ><p>May 29</p></td>
 					<td><p>South Seattle Community College Georgetown<br>
 						6737 Corson Ave South<br>
 						Seattle, WA 98108<br>

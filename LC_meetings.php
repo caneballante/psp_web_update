@@ -81,7 +81,7 @@
 				</tr>
 				<tr>
 					<td><p>June 11-12</p></td>
-					<td><p>Red Cedar Hall, Sequim/the straights</p></td>
+					<td><p>Mt. Vernon, WA</p></td>
 
 					<td><a href="https://pspwa.box.com/s/o411dqh61n4g20dmi0g76hul510wk0tl" target="new">Meeting Materials</a></td>
 
