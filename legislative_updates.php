@@ -86,6 +86,7 @@
 				<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER</h3>
 				<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22f17cd">Legislative Update, February 12, 2019</a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2338800">Legislative Update, March 1, 2019</a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23823660">Legislative Update, March 20, 2019</a></p>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS</h3>
 			<p>	<a href="https://pspwa.app.box.com/s/h5rw0jyp9xjwi3l854xw2qxu6samxa25">January 25, 2019</a></p>
 			<p>	<a href="https://pspwa.app.box.com/s/9bglxd0hxnqkxb20vh3njtnxmj8gii83">February 1, 2019</a></p>
@@ -94,7 +95,7 @@
 			<p>	<a href="https://pspwa.app.box.com/s/g2gx7q2mvjmeg7thqk7wnw6f06kdp7vh">March 1, 2019</a></p>
 			<p>	<a href="https://pspwa.app.box.com/s/ghwu0jxrtwgrtp2ndmc1uig31pef4i62h">March 8, 2019</a></p>
 			<p>	<a href="https://pspwa.app.box.com/s/6e08nxtjbzhzvkv03cdsasiq56eujk77">March 15, 2019</a></p>
-			
+			<p>	<a href="https://pspwa.app.box.com/s/g2gx7q2mvjmeg7thqk7wnw6f06kdp7vh">March 15, 2019</a></p>
 				
 			<h3 class="margin-20-top"> DocuMENTS</h3>
 			<p>	<a href="https://pspwa.box.com/s/1j96ygpaotgs83wczy2lcx4kf4ahvdzz">Orca Task Force handout</a></p>
