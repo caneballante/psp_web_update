@@ -93,7 +93,45 @@
 	<div class="container"> 
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
-		<div class="row margin-20-top"> 
+		<div class="row margin-20-top">
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
+					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2382366">
+
+						
+						 March 20, 2019 
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
+					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/236b6a3">
+
+						
+						 Week 10: March 18 - March 22, 2019 
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox newsbox-with-img">
@@ -113,44 +151,8 @@
 
 		</div>
 		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
-					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/234f720">
-
-						
-						 Week 9: March 11 - March 15, 2019 
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
-					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2338800">
-
-						
-						 March 1, 2019 
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
+		
+			
 				
 				<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">

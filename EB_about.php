@@ -88,9 +88,8 @@
 				    Kathleen Peters (alternate) <em>Kitsap County</em></p>
 				  <p> <strong>South Central Puget Sound</strong><br>
 				     Dow Constantine <em>(Four year term ends 6/30/2022) King County Executive</em><br>
-				    Fred Jarrett (alternate) <em>King County</em><br>
-				    Christie True (alternate) <em>King County</em><br>
-				    Dave White (alternate) <em>King County</em></p>
+				    Josh Baldi(alternate) <em>King County</em><br>
+				  </p>
 				  <p> <strong>South Puget Sound</strong><br>
 				    Derek Young (<em>Four year term ends 6/30/2019) Pierce County Council </em><br>
 </p>
@@ -131,9 +130,9 @@
 				   Christine Rolfes <em>23rd District, Washington State Senate</em></p>
 			<p><strong>Federal Government</strong><br>
 				   Elizabeth Babcock <em>National Oceanic and Atmospheric Administration (NOAA)</em><br>
-				  David Price(alternate) <em>NOAA</em></p>
+				  David Price (alternate) <em>NOAA</em></p>
 			<p><strong>Federal Government</strong><br>
-				Vacant <em>USACE</em></p>
+				Laura Boerner <em>United States Army Corps of Engineers (USACE)</em></p>
 			<p><strong>Federal Government</strong><br>
 				   Peter Murchie <em>Environmental Protection Agency (EPA)</em><br>
 				Angela Adams (alternate)<em> Environmental Protection Agency (EPA)</em></p>
@@ -145,9 +144,11 @@
 				     Melissa Gildersleeve (alternate)
 			<em>Department of Ecology</em></p>
 			
-			<p><strong>Washington State Agencies</strong><br>
-Vacant<em> Washington Department of Fish and Wildlife</em><br>
-				  
+			<p><strong>Washington State Agencies</strong><br> 
+			Jeff Davis
+<em> Washington Department of Fish and Wildlife (WDFW)</em><br>
+				  Julie Watson
+(alternate) <em> WDFW</em><br>
 			<p><strong>Washington State Agencies</strong><br>
 				   Hilary Franz <em>Commissioner of Public Lands, Washington Department of Natural Resources</em><br>
 				   Kirsten Feifel (alternate) <em>Department of Natural Resources</em></p>
