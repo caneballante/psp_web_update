@@ -56,6 +56,7 @@
 
 		<div class="row">
 			<div class="col-sm-9 margin-40-left padding-20-top padding-40-right content-column mobile-padding-20-left">
+				<p class=""><a href="http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTgwMzA2Ljg2NTIzNDAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE4MDMwNi44NjUyMzQwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3MzAwNjMyJmVtYWlsaWQ9c2hlaWRhLnNhaGFuZHlAcHNwLndhLmdvdiZ1c2VyaWQ9c2hlaWRhLnNhaGFuZHlAcHNwLndhLmdvdiZmbD0mZXh0cmE9TXVsdGl2YXJpYXRlSWQ9JiYm&&&100&&&https://goo.gl/forms/9pEzgetK67ksbJn13"><strong>Click here to register for the 2019 Puget Sound Day on the Hill</strong></a></p>
 				<p class="">Join us again this year as we travel to Washington D.C. for Puget Sound Day on The Hill, May 14-16. We will meet with key decision-makers about the benefits a healthy Puget Sound brings to the entire nation, as well as to our region</p>
 				<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
 					<form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" accept-charset="UTF-8" method="post">
@@ -94,7 +95,7 @@
 				<p>As the trip approaches, the Puget Sound Partnership will host two planning and preparation meetings at the Center for Urban Waters in Tacoma to discuss and refine messages for the trip and finalize logistics. Agendas and call-in numbers will be provided in advance, although in-person attendance is highly recommended.</p>
 				<ul>
 					<li><strong>Planning Meeting 1</strong>:  Tuesday, April 16, 9 am - 12 pm, Center for Urban Waters, Tacoma</li>
-					<li><strong>Planning Meeting 2</strong>:  Wednesday May 8, 1 - 4 pm, Center for Urban Waters, Tacoma</li>
+					<li><strong>Planning Meeting 2</strong>:  Wednesday May 1, 1 - 4 pm, Center for Urban Waters, Tacoma</li>
 				</ul>
 				<p>Please contact Marie Novak <u><a href="mailto:marie@cascadiaconsulting.com" target="_blank" title="" rel="noopener">marie@cascadiaconsulting.com</a></u> with questions.</p>
 				<br>

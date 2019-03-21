@@ -131,7 +131,24 @@
 				</div>
 				
 			</div>
-		<!--COLUMN END-->
+		<!--COLUMN END-->			
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt=""/> 
+						<strong>ANNOUNCEMENT</strong><br>
+						<a href="psdoth2019.php">
+					 	Register now for Puget Sound Day on the Hill! <br>May 14-16, 2019
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox newsbox-with-img">
@@ -200,24 +217,7 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
 			
 			
 			
-			
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt=""/> 
-						<strong>ANNOUNCEMENT</strong><br>
-						<a href="psdoth2019.php">
-						8 Puget Sound Day on the Hill <br>Save the date: May 14-16, 2019
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
+	
 			
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
