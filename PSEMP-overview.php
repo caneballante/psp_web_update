@@ -89,29 +89,29 @@
 						
 					</tr>
 					<tr>
-						<td colspan="2" class="no-icon"><a href="https://pspwa.box.com/s/5f7aymlldxt4wqsfmcutmy3iz3h6l3ts">Steering Committee</a></td>
-						<td colspan="2" class="no-icon"><a href="https://pspwa.box.com/s/fwgkthne46pdhxqladgg0zf5se2ui61p">Work Group Leads</a></td>
+						<td colspan="2" class="no-icon"><a href="https://pspwa.box.com/s/5f7aymlldxt4wqsfmcutmy3iz3h6l3ts" target="new">Steering Committee</a></td>
+						<td colspan="2" class="no-icon"><a href="https://pspwa.box.com/s/fwgkthne46pdhxqladgg0zf5se2ui61p" target="new">Work Group Leads</a></td>
 					</tr>
 					<tr>
 						<td colspan="4"><h3 class="PSEMP-green">WORK GROUPS</h3></td>
 					</tr>
 					<tr>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd">Forage Fish and Food Webs Work Group</a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub">Freshwater Work Group</a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/epnzs7r158zq3pq0wtqb9u8tyzecjps3">Human Wellbeing Work Group</a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/vyx3oq4ilqtz2d0te8sj3we14fo03blz">Marine Birds Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd" target="new">Forage Fish and Food Webs Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub" target="new">Freshwater Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/epnzs7r158zq3pq0wtqb9u8tyzecjps3" target="new">Human Wellbeing Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/vyx3oq4ilqtz2d0te8sj3we14fo03blz" target="new">Marine Birds Work Group</a></td>
 					</tr>
 					<tr>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/ltd6c5kmlv0g9kgzce4n571anvk09kef">Marine Mammals Work Group</a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/5lq9cfr18b13p7zno86n9yor2uin3vra">Marine Waters Work Group</a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/1cjl3znjgx9bplmrk7h2qhpqjw52zndy">Modeling Work Group</a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/wgbl9zmrov2nd4qdor5iwvlnkckg6hac">Nearshore Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/ltd6c5kmlv0g9kgzce4n571anvk09kef" target="new">Marine Mammals Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/5lq9cfr18b13p7zno86n9yor2uin3vra" target="new">Marine Waters Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/1cjl3znjgx9bplmrk7h2qhpqjw52zndy" target="new">Modeling Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/wgbl9zmrov2nd4qdor5iwvlnkckg6hac" target="new">Nearshore Work Group</a></td>
 					</tr>
 					<tr>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5">Salmonids Work Group</a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz">Spatial Ecology Work Group</a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d">Stormwater Work Group</a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm">Toxics Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5" target="new">Salmonids Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz" target="new">Spatial Ecology Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater Work Group</a></td>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics Work Group</a></td>
 						
 					</tr>
 				
@@ -153,21 +153,21 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/5f7aymlldxt4wqsfmcutmy3iz3h6l3ts">Steering Committee</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/fwgkthne46pdhxqladgg0zf5se2ui61p">Work Group Leads</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/8yiq86nl46w3sea0jdtjktnku7vs1qsk">Diseases Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd">Forage Fish and Food Webs Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub">Freshwater Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/epnzs7r158zq3pq0wtqb9u8tyzecjps3">Human Wellbeing Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/vyx3oq4ilqtz2d0te8sj3we14fo03blz">Marine Birds Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/ltd6c5kmlv0g9kgzce4n571anvk09kef">Marine Mammals Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/5lq9cfr18b13p7zno86n9yor2uin3vra">Marine Waters Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/1cjl3znjgx9bplmrk7h2qhpqjw52zndy">Modelling Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/wgbl9zmrov2nd4qdor5iwvlnkckg6hac">Nearshore Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5">Salmonids Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz">Spatial Ecology Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d">Stormwater Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm">Toxics Work Group</a></li>
+						<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/5f7aymlldxt4wqsfmcutmy3iz3h6l3ts" target="new">Steering Committee</a></li>
+					<li role="presentation"><a href="https://pspwa.box.com/s/fwgkthne46pdhxqladgg0zf5se2ui61p" target="new">Work Group Leads</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/8yiq86nl46w3sea0jdtjktnku7vs1qsk" target="new">Diseases Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd" target="new">Forage Fish and Food Webs Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub" target="new">Freshwater Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/epnzs7r158zq3pq0wtqb9u8tyzecjps3" target="new">Human Wellbeing Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/vyx3oq4ilqtz2d0te8sj3we14fo03blz" target="new">Marine Birds Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ltd6c5kmlv0g9kgzce4n571anvk09kef" target="new">Marine Mammals Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/5lq9cfr18b13p7zno86n9yor2uin3vra" target="new">Marine Waters Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/1cjl3znjgx9bplmrk7h2qhpqjw52zndy" target="new">Modelling Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/wgbl9zmrov2nd4qdor5iwvlnkckg6hac" target="new">Nearshore Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5" target="new">Salmonids Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz" target="new">Spatial Ecology Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics Work Group</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
