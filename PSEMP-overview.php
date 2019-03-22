@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - PSEMP</title>
+<title>Puget Sound Partnership - PSEMP overview</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -69,14 +69,14 @@
 	
 		
 			<div class="pull-right"><img src="images/PSEMP/PSEMP_logo.jpg" width="277" height="303" alt=""/></div>
-			<p>The Puget Sound Ecosystem Monitoring Program (PSEMP) brings together diverse partners – from state, federal, tribal and local government agencies, non-governmental organizations, watershed groups, businesses, academia, Local Integrating Organizations (LIOs), and other private and volunteer groups and organizations – with the goal of coordinating data collection, findings and assessments that are most relevant to Puget Sound recovery. PSEMP convenes topical work groups to support a coordinated approach to monitoring, data sharing, and assessment to facilitate communication among the many organizations involved in monitoring ecosystem conditions, including biophysical and human wellbeing. Findings from monitoring and assessment directly support the Partnership&rsquo;s processes for evaluating and prioritizing recovery efforts. Bringing partners and information together to better understand ecosystem level interactions is more important than ever, and PSEMP has a key role to play. </p>
-			<p>To achieve this mission, PSEMP has adopted the following <strong><u>objectives</u></strong>:</p>
+			<p>The Puget Sound Ecosystem Monitoring Program&rsquo;s (PSEMP) mission is to convene a collaborative network of subject matter experts who organize, synthesize, and communicate scientific information from many monitoring organizations and different parts of the ecosystem to directly address management and science questions critical to recovery of the ecosystem. </p>
+<p>To achieve this mission, PSEMP has  the following <strong><u>objectives</u></strong>:</p>
 			<ol>
-				<li>Create and maintain forums to increase <strong><em>collaboration</em></strong> across monitoring programs to improve effectiveness and efficiency of monitoring programs and their ability to meet the information needs of planners, managers, and decision-makers. Organize and synthesize the data being gathered by existing monitoring programs to increase access to available information, and highlight priority knowledge gaps to be filled. </li>
-				<li>Support <strong><em>adaptive management</em></strong> of recovery efforts by: evaluating the effectiveness of recovery actions and approaches so that those actions can be prioritized; engaging PSEMP members in planning processes such as Implementation Strategies (Figure 3); and facilitating the exchange of knowledge among PSEMP members and with planners, managers, and decision-makers (Figure 2). </li>
-				<li>Improve <strong><em>communication</em></strong> within the monitoring and assessment community and to audiences specified in a new communications plan in order to improve access to and use of credible information in decisions about Puget Sound recovery efforts.</li>
+				<li><em><u>Increase collaboration</u></em> across monitoring programs by creating and maintaining forums for open communication, data sharing, synthesis, and effectiveness assessment.</li>
+				<li><em><u>Support&nbsp;adaptive management</u></em>&nbsp;of recovery efforts by facilitating dialogue among PSEMP participants, planners, managers, and decision-makers.</li>
+				<li><em><u>I</u></em><em><u>mprove&nbsp;communication</u></em>&nbsp;within and beyond the monitoring and assessment community to improve access to credible information to guide recovery decisions.</li>
 			</ol>
-			<p>&nbsp;</p>
+			<p>The Puget Sound Partnership supports and assists PSEMP and facilitates communication among the Partnership's programs, the Puget Sound Science Panel, the Ecosystem Coordination Board, the Leadership Council, and the Salmon Recovery Council. The monitoring program is called for in the Partnership's enabling statute (RCW 90.71.290)</p>
 
 			<table class="table-responsive table" width="100%" border="0">
 				<tbody>
@@ -121,21 +121,21 @@
 			<div>
 				<div class="floatright"><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-1.jpg" width="324" height="235" alt=""/><p><a href="images/PSEMP/2018-psemp-figures-1.jpg" target="_blank">view full size image</a></p></div>
 				<h4>ADAPTIVE MANAGEMENT CYCLE</h4>
-				<p>The Partnership&rsquo;s Adaptive Management Framework and the work PSEMP does to support it. For further elaboration on the ways in which parts of the PSEMP network contribute to Vital Signs, effectiveness assessment, and Implementation Strategies, see Appendix 1 of the <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a>. For more on the Adaptive Management Framework and the partners involved, see the <a href="action_agenda_center.php">Action Agenda</a>.</p>
+				<p>This figure illustrates some of the ways PSEMP supports the <a href="https://www.psp.wa.gov/action_agenda_center.php">Partnership&rsquo;s Adaptive management Framework</a>. For details on how the PSEMP network contributes to Vital Signs, effectiveness assessment, and Implementation Strategies, see Appendix 1 of the <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a>.			</p>
 			</div>
 			<hr/>
-			<div class="floatright"><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-2.jpg" width="357" height="461" alt=""/><p><a href="images/PSEMP/2018-psemp-figures-2.jpg" target="_blank">view full size image</a></p></div>
-				<h4>A COORDINATED NETWORK</h4>
-			<p> PSEMP is a coordinated network that is supported by the Puget Sound Partnership. The Partnership provides staff support for coordination and product development. Many of the participating organizations shown also have members serving as Work Group Leads or on the Steering Committee.</p>
 			
-			<div class="clearfix"></div>
+				<h4>A COORDINATED NETWORK</h4>
+			<p>PSEMP is a coordinated network that supported by Puget Sound Partnership staff. Many of the participating organizations also have members who serve as Work Group leads or on the Steering Committee.<strong> </strong></p>
+			<div>
+				<div> </div>
+			</div>
+<div class="clearfix"></div>
 			<hr/>
 			<div class="floatright"><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-3.jpg" width="352" height="363" alt=""/><p><a href="images/PSEMP/2018-psemp-figures-3.jpg" target="_blank">view full size image</a></p></div>
 			<h4>ROLES IN PSEMP</h4>
-			<p>Partners play complementary roles to accelerate the collective effort to recover and sustain Puget Sound. The partners and roles with the most direct linkages to PSEMP are shown here, however there are many more links that exist and additional links to build.</p>
-					
-						
-		<!-- InstanceEndEditable --> </div>
+			<p>Partners play complementary roles to accelerate the collective effort to recover and sustain Puget Sound. The partners and roles with the most direct linkages to PSEMP are shown here, we are working to strengthen these linkages and continue to expand them.</p>
+<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title">KEY DOCUMENTS</div>
