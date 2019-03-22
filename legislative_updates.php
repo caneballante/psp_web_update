@@ -83,6 +83,8 @@
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/233335b">Week 7, February 25 - March 1, 2019 </a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2316d89">Week 8, March 4 - March 8, 2019 </a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/234f720">Week 9, March 11 - March 15, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/236b6a3">Week 10, March 18 - March 29, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2387bef">Week 11, March 25 - March 22, 2019 </a></p>
 				<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER</h3>
 				<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22f17cd">Legislative Update, February 12, 2019</a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2338800">Legislative Update, March 1, 2019</a></p>
