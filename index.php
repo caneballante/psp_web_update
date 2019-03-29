@@ -101,10 +101,10 @@
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
 					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2387bef">
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23a54df">
 
 						
-						 Week 11: March 25 - March 29, 2019 
+						 Week 12: April 1 - 5, 2019 
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>
