@@ -65,7 +65,7 @@
 		<div class="col-sm-3 padding-10-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>
-			<div class="padding-5-bottom"><a href="PSAR.php">PUGET SOUND ACQUISITION AND RECOVERY(PSAR)&nbsp;FUND</a></div>
+			<div class="padding-5-bottom"><a href="PSAR.php">PUGET SOUND ACQUISITION AND RESTORATION(PSAR)&nbsp;FUND</a></div>
 			<div class="padding-5-bottom"><a href="NEP-overview.php">NATIONAL ESTUARY PROGRAM (NEP)</a></div>
 			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY&nbsp;&amp;&nbsp;LOCAL&nbsp;INTEGRATING ORGANIZATIONS&nbsp;(LIOs)
 </a></div>
@@ -308,34 +308,8 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill">
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content-->
-				<div class="newsbox-date">MAR<br>
-			  13</div>
-				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
-				    Red Lion Hotel, Olympia<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content-->
-				<div class="newsbox-date">MAR<br> 
-				28
-				</div>
-				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					Port Gamble S&rsquo;Klallam Longhouse</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
+	
+		
 			<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
@@ -366,8 +340,34 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
 		</div>
 		<!--COLUMN END-->
 		
-	
-			
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">MAY<br> 
+				23
+				</div>
+				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Edmonds Center for the Arts, Edmonds,WA</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+				<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">JUN<br>
+			  11-12</div>
+				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
+				    Mt. Vernon, WA<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
 		
 	</div>
 	<!--ROW END-->
