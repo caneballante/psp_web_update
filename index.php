@@ -101,10 +101,10 @@
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
 					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23a54df">
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23c074a">
 
 						
-						 Week 12: April 1 - 5, 2019 
+						 Week 13: April 8 - 12, 2019 
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>

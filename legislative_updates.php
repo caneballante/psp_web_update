@@ -86,6 +86,7 @@
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/236b6a3">Week 10, March 18 - 22, 2019 </a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2387bef">Week 11, March 25 - 29, 2019 </a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23a54df">Week 12, April 1 - 5, 2019 </a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23c074a">Week 13, April 8 - 13, 2019 </a></p>
 				<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER</h3>
 				<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22f17cd">Legislative Update, February 12, 2019</a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2338800">Legislative Update, March 1, 2019</a></p>
@@ -101,6 +102,7 @@
 			<p>	<a href="https://pspwa.app.box.com/s/g2gx7q2mvjmeg7thqk7wnw6f06kdp7vh">March 15, 2019</a></p>
 			<p>	<a href="https://pspwa.app.box.com/s/9r5l0mem87uckj4wg0zu1cu4hbahf3qr">March 22, 2019</a></p>
 			<p>	<a href="https://pspwa.app.box.com/s/t2xinyfs0k177w9hflbmrmbga0t1memm">March 29, 2019</a></p>
+			<p>	<a href="https://pspwa.box.com/s/tjqr54nhh6bwj9cv993avidub7diijjp">April 5, 2019</a></p>
 				
 			<h3 class="margin-20-top"> DocuMENTS</h3>
 			<p>	<a href="https://pspwa.box.com/s/1j96ygpaotgs83wczy2lcx4kf4ahvdzz">Orca Task Force handout</a></p>
