@@ -65,7 +65,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Tracking and evaluating Puget Sound ecosystem recovery efforts as they are carried out is key to holding partners accountable, understanding successes and challenges, and supporting changes to the work. We track the progress and funding of hundreds of <a href="http://www.psp.wa.gov/2016_AA_NTA.php">Near Term Actions</a> owned by a range of Puget Sound partners. <a href="https://pspwa.box.com/s/okbinjro65v7aqxgup7at83j2wbk4o7y">Learn more about why Near Term Action reporting improves the Action Agenda and helps recover Puget Sound in this 1-page summary</a>.</p>
+			<p>Tracking and evaluating Puget Sound ecosystem recovery efforts as they are carried out is key to holding partners accountable, understanding successes and challenges, and supporting changes to the work. We track the progress and funding of hundreds of <a href="https://psp.wa.gov/2018_AA_submitted_NTA.php">Near Term Actions</a> owned by a range of Puget Sound partners. <a href="https://pspwa.box.com/s/okbinjro65v7aqxgup7at83j2wbk4o7y">Learn more about why Near Term Action reporting improves the Action Agenda and helps recover Puget Sound in this 1-page summary</a>.</p>
 				<p>Evaluating the progress of these actions is a critical tool not only for informing the management of recovery efforts, but is also a requirement in the Partnership&rsquo;s founding legislation and an important statutory component of the biennial State of the Sound report.</p>
 			<p>Several online tools offer accessible opportunities to track the recovery actions and activities taking place throughout the Sound:</p>
 <h2>REPORT CARD</h2>

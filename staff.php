@@ -127,7 +127,7 @@
 			<h3>communications Program</h3>
             
             <h5>Cathy Cochrane</h5>
-			<p>Communications Lead (Media Contact)<br />
+			<p>Communications Lead <br />
 				360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov </a></p>
 	
 			<h5>Jon Bridgman</h5>
@@ -135,7 +135,7 @@
 				206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov </a></p>
 			
 			<h5>Julia luna</h5>
-			<p> Communications Specialist <br />
+			<p> Communications Specialist (Media Contact)<br />
 				360.999.9673 | <a href="mailto:julia.luna@psp.wa.gov">julia.luna@psp.wa.gov </a></p>
 		<h3>INtegrated Planning Program</h3>
 			<h5>Jennifer lee</h5>
