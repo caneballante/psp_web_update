@@ -89,8 +89,13 @@
 				<h3 class="margin-0-top">Travel and AccomModations</h3>
 				<p>Participants are responsible for arranging their own travel and accommodations. Alaska Airlines has provided a 5% percent discount Code: <strong>ECMC352. </strong>To use the Discount Code, go online to <a href="http://www.alaskaair.com/">alaskaair.com</a> and input the Discount Code when searching for flights. The discount will be applied to any flights meeting the contract parameters. By clicking the &ldquo;?&rdquo; next to the discount code box after entering the code you may view a detailed description of the rules.</p>
 
-				<p>Recommended hotel offering government per diem rates (Sold out for Wednesday night): <a href="https://www.phoenixparkhotel.com/">https://www.phoenixparkhotel.com/</a></p>
-				<p>Here are suggested hotels that may or may not be offering government per diem:</p>
+				<p>Hotels offering government per diem rates</p>
+				<p><a href="https://www.phoenixparkhotel.com/">Phoenix Park Hotel/</a><br>
+					
+					
+					<a href="https://www.marriott.com/hotels/travel/wasus-courtyard-washington-dc-us-capitol/">Marriott Washington DC/US Capitol</a> <br>
+					<a href="https://www.marriott.com/hotels/travel/wasmc-washington-marriott-at-metro-center/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe">Washington Marriott at Metro Center</a></p>
+<p>Here are suggested hotels that may or may not be offering government per diem:</p>
 				<p><strong>Hyatt Regency Washington on Capitol Hill</strong></p>
 				<ul type="disc">
 					<li>(202) 737-1234</li>
@@ -127,7 +132,7 @@
 				<h3>PARTICIPATE IN THE 2019 GROUP PLANNING MEETINGS</h3>
 				<p>As the trip approaches, the Puget Sound Partnership will host two planning and preparation meetings at the Center for Urban Waters in Tacoma to discuss and refine messages for the trip and finalize logistics. Agendas and call-in numbers will be provided in advance, although in-person attendance is highly recommended.</p>
 				<ul>
-					<li><strong>Planning Meeting 1</strong>:  Tuesday, April 16, 9 am - 12 pm, Center for Urban Waters, Tacoma</li>
+					<li><strong>Planning Meeting 1</strong>:  Tuesday, April 16, 9 am - 12 pm, Center for Urban Waters, Tacoma - <a href="https://pspwa.box.com/s/5gosw1che1y06vr4ona53nywyy5tj95g">MEETING MATERIALS</a></li>
 					<li><strong>Planning Meeting 2</strong>:  Wednesday May 1, 1 - 4 pm, Center for Urban Waters, Tacoma</li>
 				</ul>
 				<p>Please contact Marie Novak <u><a href="mailto:marie@cascadiaconsulting.com" target="_blank" title="" rel="noopener">marie@cascadiaconsulting.com</a></u> with questions.</p>
