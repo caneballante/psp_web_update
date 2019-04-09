@@ -89,7 +89,40 @@
 				<h3 class="margin-0-top">Travel and AccomModations</h3>
 				<p>Participants are responsible for arranging their own travel and accommodations. Alaska Airlines has provided a 5% percent discount Code: <strong>ECMC352. </strong>To use the Discount Code, go online to <a href="http://www.alaskaair.com/">alaskaair.com</a> and input the Discount Code when searching for flights. The discount will be applied to any flights meeting the contract parameters. By clicking the &ldquo;?&rdquo; next to the discount code box after entering the code you may view a detailed description of the rules.</p>
 
-				<p>Recommended hotel offering government per diem rates: <a href="https://www.phoenixparkhotel.com/">https://www.phoenixparkhotel.com/</a></p>
+				<p>Recommended hotel offering government per diem rates (Sold out for Wednesday night): <a href="https://www.phoenixparkhotel.com/">https://www.phoenixparkhotel.com/</a></p>
+				<p>Here are suggested hotels that may or may not be offering government per diem:</p>
+				<p><strong>Hyatt Regency Washington on Capitol Hill</strong></p>
+				<ul type="disc">
+					<li>(202) 737-1234</li>
+				</ul>
+				<p><strong>Kimpton George Hotel</strong></p>
+				<ul type="disc">
+					<li>(202) 347-4200</li>
+					<li>0.6mi</li>
+				</ul>
+				<p><strong>Hampton Inn Washington – Downtown – Convention Center DC</strong></p>
+				<ul type="disc">
+					<li>+1-202-842-2500</li>
+					<li>1.3- 1.4mi</li>
+				</ul>
+				<p><strong>Hyatt House Washington</strong></p>
+				<ul type="disc">
+					<li>(202) 554-1234</li>
+					<li>1.7- 2.0mi</li>
+				</ul>
+				<p><strong>Mandarin Oriental Washington DC </strong></p>
+				<ul type="disc">
+					<li>(202) 554-8588</li>
+					<li>1.6- 1.9mi</li>
+				</ul>
+				<p><strong>Embassy Suites by Hilton Washington DC – Convention Center</strong></p>
+				<p>·        (202) 739-2001</p>
+				<p>·        1.6- 1.8mi</p>
+				<p><strong>Holiday Inn Washington Capitol</strong></p>
+				<ul type="disc">
+					<li>(202) 479-4000</li>
+					<li>1.0- 1.3mi</li>
+				</ul>
 				<hr>
 				<h3>PARTICIPATE IN THE 2019 GROUP PLANNING MEETINGS</h3>
 				<p>As the trip approaches, the Puget Sound Partnership will host two planning and preparation meetings at the Center for Urban Waters in Tacoma to discuss and refine messages for the trip and finalize logistics. Agendas and call-in numbers will be provided in advance, although in-person attendance is highly recommended.</p>
