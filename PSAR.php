@@ -119,9 +119,9 @@
 		</ul><br><br>
 		
 		<p><strong>For more information contact:</strong></p>
-			<h5>SUZANNA STOIKE</h5>
+			<h5>CARRIE BYRON</h5>
 			<p> PSAR Program Manager<br>
-			360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov</a></p>
+			360.515.6054 | <a href="mailto:carrie.byron@psp.wa.gov">carrie.byron@psp.wa.gov</a></p>
 			<p>&nbsp;</p>
 			<div>
 				<div> </div>

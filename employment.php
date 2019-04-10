@@ -75,15 +75,11 @@
 		 <p><h3>We are an Employer of Choice</h3></p> <a href="https://pspwa.box.com/s/mw6gfajvrw6ce5cpjkegafcwtde62pyo"><img src="images/news-images/emp-of-choice.jpg" width="300" height="225" alt=""/></a> 
 			</div>
 		<p>
-		<a href="https://www.governmentjobs.com/careers/washington/jobs/2382258/accounting-and-budget-program-manager-exempt"><br>
-	    Accounting and Budget Program Manager</a><br>
-			<i>Position closes March 27</i>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2401513/planning-program-director"><br>
+	    Planning Program Director</a><br>
+			<i>Position closes April 24</i>
 	  </p>	
-		<p>
-		<a href="https://www.governmentjobs.com/careers/washington/jobs/2338121/environmental-planner-4-project"><br>
-	    Environmental Planner 4 (Project)</a><br>
-			<i>Position closes March 17</i>
-	  </p>	
+		
 	
 		<p>&nbsp;</p>
 			
