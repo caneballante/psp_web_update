@@ -72,34 +72,35 @@
 			<p class="margin-20-top"><strong>PSAR RAPID RESPONSE REVOLVING FUND</strong></p>
 			<p>The Puget Sound Rapid Response Revolving Fund ("Rapid Response Fund") is designed provide rapid access to funds for urgent and essential strategic habitat acquisitions within the Puget Sound.  <a href="https://pspwa.app.box.com/s/ldbd9kv051ltriyw7kj5la7avfpg9sho">View criteria for the Rapid Response Fund here.</a></p>
 			<p class="margin-20-top"><strong>PSAR 2019-2021 OVERVIEW</strong></p>
-			<p><a href="https://pspwa.box.com/s/wgu6mw3afazp02axap5biim58c1471rv" target="new"><img src="images/PSAR/psar-overview.jpg" width="200" height="311" alt=""/></a></p>
+			<!-- Use the direct link option in box to make these downloadable on the phone - this also keeps the item from being viewed in box -->
+			<p><a href="https://pspwa.box.com/shared/static/wgu6mw3afazp02axap5biim58c1471rv.pdf" target="new"><img src="images/PSAR/psar-overview.jpg" width="200" height="311" alt=""/></a></p>
 			<p>&nbsp; </p>
 			<p class="margin-20-top"><strong>2019-2021 PSAR FACT SHEETS</strong></p>
-			<p><a href="https://pspwa.box.com/s/uuj6bhv8zfi0prowa0mnqnfqdikbtb97">PSAR LOCALLY SIGNIFICANT PROJECTS BASE FUNDING BUDGET 2019-2021</a></p>
-			<p><a href="https://pspwa.box.com/s/kw6bgtplbvh35ghduz6kvwldei9sznf0">PSAR ranked list</a></p>
-			<p><a href="https://pspwa.box.com/s/set6qkpri5s96q8qxrxowx5eb2kavz7t">Ranked #1 of 11 : Middle Fork Nooksack River Fish Passage Project</a></p>
-			<p><a href="https://pspwa.box.com/s/afcnbw3m8a6xo9cp989qt0ayuwd7qz85">Ranked #2 of 11 : Dungeness River Floodplain Restoration</a></p>
-			<p><a href="https://pspwa.box.com/s/wavbcosltw3qvmpcxydnule2xud6g9ny">Ranked #3 of 11 : Riverbend Floodplain Restoration</a></p>
-			<p><a href="https://pspwa.box.com/s/hlphlit6zefjz5anjhlenn5glvs2bixn">Ranked #4 of 11 : Skokomish River USACE Project Implementation</a></p>
-			<p><a href="https://pspwa.box.com/s/yejkrpt3xyvddcg1ymf6k7sc9abb6yq5">Ranked #5 of 11 : Pearson Shoreline Protection</a></p>
-			<p><a href="https://pspwa.box.com/s/j2tzwolbg5icjuzflus4ry3wqu9giydp">Ranked #6 of 11 : Skookum Creek Conservation</a></p>
-			<p><a href="https://pspwa.box.com/s/akurhds7okweudgxl3yw6qds45opza9r">Ranked #7 of 11 : Downey Farmstead Restoration</a></p>
-			<p><a href="https://pspwa.box.com/s/z9txg18gqq0dppimhmoi3ulqev4g3tbq">Ranked #8 of 11 : Lower Big Beef Creek Acquisitions</a></p>
-			<p><a href="https://pspwa.box.com/s/nuu34qms4rwxv8cyvs5175uwiot0zhw6">Ranked #9 of 11 : Stillaguamish Delta Acquisition</a></p>
-			<p><a href="https://pspwa.box.com/s/krtqmpl1k03o98kfqprjyzpdz7qykat8">Ranked #10 of 11 : Shelton Harbor Estuary Restoration</a></p>
-			<p><a href="https://pspwa.box.com/s/xc2y35w84vrzf7nvo97z0q4n6dtjrul5">Ranked #11 of 11 : Harper Estuary Armor Removal and Bridge</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/uuj6bhv8zfi0prowa0mnqnfqdikbtb97.pdf">PSAR LOCALLY SIGNIFICANT PROJECTS BASE FUNDING BUDGET 2019-2021</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/kw6bgtplbvh35ghduz6kvwldei9sznf0.pdf">*PSAR ranked list</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/set6qkpri5s96q8qxrxowx5eb2kavz7t.pdf">Ranked #1 of 11 : Middle Fork Nooksack River Fish Passage Project</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/afcnbw3m8a6xo9cp989qt0ayuwd7qz85.pdf">Ranked #2 of 11 : Dungeness River Floodplain Restoration</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/wavbcosltw3qvmpcxydnule2xud6g9ny.pdf">Ranked #3 of 11 : Riverbend Floodplain Restoration</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/hlphlit6zefjz5anjhlenn5glvs2bixn.pdf">Ranked #4 of 11 : Skokomish River USACE Project Implementation</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/yejkrpt3xyvddcg1ymf6k7sc9abb6yq5.pdf">Ranked #5 of 11 : Pearson Shoreline Protection</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/j2tzwolbg5icjuzflus4ry3wqu9giydp.pdf">Ranked #6 of 11 : Skookum Creek Conservation</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/akurhds7okweudgxl3yw6qds45opza9r.pdf">Ranked #7 of 11 : Downey Farmstead Restoration</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/z9txg18gqq0dppimhmoi3ulqev4g3tbq.pdf">Ranked #8 of 11 : Lower Big Beef Creek Acquisitions</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/nuu34qms4rwxv8cyvs5175uwiot0zhw6.pdf">Ranked #9 of 11 : Stillaguamish Delta Acquisition</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/krtqmpl1k03o98kfqprjyzpdz7qykat8.pdf">Ranked #10 of 11 : Shelton Harbor Estuary Restoration</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/xc2y35w84vrzf7nvo97z0q4n6dtjrul5.pdf">Ranked #11 of 11 : Harper Estuary Armor Removal and Bridge</a></p>
 			
 			<p class="margin-20-top"><strong>PREVIOUS PSAR PROJECT FACT SHEETS</strong></p>
-			<p class=""><a href="https://pspwa.box.com/s/lnestm5eu9qhftfgi3nmsh5ke3wxxhd1">Ala Spit restoration, Whidbey Island</a></p>
-			<p class=""><a href="https://pspwa.box.com/s/cfm1ffrc56w3pfbob5vh5t2ujhhdq22q">Deschutes watershed and Kennedy-Goldsborough watershed</a></p>
-			<p class=""><a href="https://pspwa.box.com/s/6swr9ogwf2gd2pedlhw85bahl1n57aq6">Fennel creek restoration and Calistoga seback levee</a></p>
-			<p class=""><a href="https://pspwa.box.com/s/kr5barpl3k6uecnkptbcesu07bek7bs1">Fir Island farm estuary restoration</a></p>
-			<p class=""><a href="https://pspwa.box.com/s/glxylvox0w5nx7lttaju097ag45vy6vr">Lyre river estuary and Nelson creek protection</a></p>
-			<p class=""><a href="https://pspwa.box.com/s/z99ytzscgyhdh6smy7yix1i30fplo41y">McSorley creek</a></p>
-			<p class=""><a href="https://pspwa.box.com/s/fd1mi48zcqsgrl3ajuov60dhd6jv5l37">Milwaukee dock eelgrass restoration project</a></p>
-			<p class=""><a href="https://pspwa.box.com/s/filidznq5ybqcrqw5fhd764e1t3jxbvh">Qwuloolt estuary restoration project</a></p>
-			<p class=""><a href="https://pspwa.box.com/s/1rjoc2333p5z5h36ulm7o693t2a3neld">San Juan Islands Cascade creek</a></p>
-			<p class=""><a href="https://pspwa.box.com/s/ob22ncmooxzqeswojgpyl9r4acfff3je">West Bainbridge shoreline protection project</a></p>
+			<p class=""><a href="https://pspwa.box.com/shared/static/lnestm5eu9qhftfgi3nmsh5ke3wxxhd1.pdf">Ala Spit restoration, Whidbey Island</a></p>
+			<p class=""><a href="https://pspwa.box.com/shared/static/cfm1ffrc56w3pfbob5vh5t2ujhhdq22q.pdf">Deschutes watershed and Kennedy-Goldsborough watershed</a></p>
+			<p class=""><a href="https://pspwa.box.com/shared/static/6swr9ogwf2gd2pedlhw85bahl1n57aq6.pdf">Fennel creek restoration and Calistoga seback levee</a></p>
+			<p class=""><a href="https://pspwa.box.com/shared/static/kr5barpl3k6uecnkptbcesu07bek7bs1.pdf">Fir Island farm estuary restoration</a></p>
+			<p class=""><a href="https://pspwa.box.com/shared/static/glxylvox0w5nx7lttaju097ag45vy6vr.pdf">Lyre river estuary and Nelson creek protection</a></p>
+			<p class=""><a href="https://pspwa.box.com/shared/static/z99ytzscgyhdh6smy7yix1i30fplo41y.pdf">McSorley creek</a></p>
+			<p class=""><a href="https://pspwa.box.com/shared/static/fd1mi48zcqsgrl3ajuov60dhd6jv5l37.pdf">Milwaukee dock eelgrass restoration project</a></p>
+			<p class=""><a href="https://pspwa.box.com/shared/static/filidznq5ybqcrqw5fhd764e1t3jxbvh.pdf">Qwuloolt estuary restoration project</a></p>
+			<p class=""><a href="https://pspwa.box.com/shared/static/1rjoc2333p5z5h36ulm7o693t2a3neld.pdf">San Juan Islands Cascade creek</a></p>
+			<p class=""><a href="https://pspwa.box.com/shared/static/ob22ncmooxzqeswojgpyl9r4acfff3je.pdf">West Bainbridge shoreline protection project</a></p>
 
 			<p class="margin-20-top"><strong>INNOVATION RECOVERY STORIES</strong></p>
 			<p>Organizations from across Washington State are coming together to stand up for Puget Sound protection and recovery.  The stories on this site are curated from partners and community members who are each investing in keeping this place great.<a href="https://pugetsoundinnovationstories.blog">VIEW BLOG</a></p><br><br>	<p class="margin-20-top"><strong>2018 PSAR LARGE CAP REQUEST FOR PROPOSALS</strong></p>
