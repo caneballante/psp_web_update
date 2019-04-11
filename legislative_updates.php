@@ -141,12 +141,7 @@
 					<a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a><br>
 					360.999.3803</p>
 				<hr>
-					<p>Cathy Cochrane, <br>
-					Communication Lead,<br>
-					<a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a><br>
-					360.790.7958 </p>
-				<hr>
-					<p>Olympia Office<br>
+				<p>Olympia Office<br>
 					1110 Capitol Way South<br>
 					Olympia, WA  98501</p>
 				
