@@ -103,10 +103,10 @@
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
 					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23c074a">
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23db69c">
 
 						
-						 Week 13: April 8 - 12, 2019 
+						 Week 14: April 15 - 19, 2019 
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>
