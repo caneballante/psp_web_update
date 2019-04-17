@@ -75,6 +75,11 @@
 		 <p><h3>We are an Employer of Choice</h3></p> <a href="https://pspwa.box.com/s/mw6gfajvrw6ce5cpjkegafcwtde62pyo"><img src="images/news-images/emp-of-choice.jpg" width="300" height="225" alt=""/></a> 
 			</div>
 		<p>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2419115/project-coordinator-exempt"><br>
+	    Program Coordinatoor</a><br>
+			<i>Position closes April 30</i>
+	  </p>	
+		<p>
 		<a href="https://www.governmentjobs.com/careers/washington/jobs/2401513/planning-program-director"><br>
 	    Planning Program Director</a><br>
 			<i>Position closes April 24</i>
