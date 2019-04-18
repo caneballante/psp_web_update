@@ -92,6 +92,7 @@
 				<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22f17cd">Legislative Update, February 12, 2019</a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2338800">Legislative Update, March 1, 2019</a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2382366">Legislative Update, March 20, 2019</a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23ea875">Legislative Update, April 16, 2019</a></p>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS</h3>
 			<p>	<a href="https://pspwa.app.box.com/s/h5rw0jyp9xjwi3l854xw2qxu6samxa25">January 25, 2019</a></p>
 			<p>	<a href="https://pspwa.app.box.com/s/9bglxd0hxnqkxb20vh3njtnxmj8gii83">February 1, 2019</a></p>
