@@ -132,7 +132,7 @@
 				<h3>PARTICIPATE IN THE 2019 GROUP PLANNING MEETINGS</h3>
 				<p>As the trip approaches, the Puget Sound Partnership will host two planning and preparation meetings at the Center for Urban Waters in Tacoma to discuss and refine messages for the trip and finalize logistics. Agendas and call-in numbers will be provided in advance, although in-person attendance is highly recommended.</p>
 				<ul>
-					<li><strong>Planning Meeting 1</strong>:  Tuesday, April 16, 9 am - 12 pm, Center for Urban Waters, Tacoma - <a href="https://pspwa.box.com/s/5gosw1che1y06vr4ona53nywyy5tj95g">MEETING MATERIALS</a></li>
+					<li><strong>Planning Meeting 1</strong>:  Tuesday, April 16, 8:30 am - 11:30 am, Center for Urban Waters, Tacoma - <a href="https://pspwa.box.com/s/5gosw1che1y06vr4ona53nywyy5tj95g">MEETING MATERIALS</a></li>
 					<li><strong>Planning Meeting 2</strong>:  Wednesday May 1, 1 - 4 pm, Center for Urban Waters, Tacoma</li>
 				</ul>
 				<p>Please contact Marie Novak <u><a href="mailto:marie@cascadiaconsulting.com" target="_blank" title="" rel="noopener">marie@cascadiaconsulting.com</a></u> with questions.</p>
