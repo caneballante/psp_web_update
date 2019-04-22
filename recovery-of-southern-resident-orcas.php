@@ -113,11 +113,11 @@
 		<div class="col-sm-2 padding-20-top padding-0-right">
 				<div class="right-nav-title margin-0-top ">CONTACT</div>
 				<ul class="nav-rightside-custom">
-					<li role="presentation"> <p>Cathy Cochrane,<br>
-						Communications Lead
+					<li role="presentation"> <p>Julia Luna,<br>
+						Media Contact
 						<br>
-						360-790-7958<br>
-						<a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov</a>			</p>
+						360-999-9673<br>
+						<a href="mailto:julia.luna@psp.wa.gov">julia.luna@psp.wa.gov</a>			</p>
 					</li>
 				</ul>
 			</div>

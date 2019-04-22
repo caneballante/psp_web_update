@@ -103,10 +103,10 @@
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
 					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23ea875">
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23f7430">
 
 						
-						 April 16, 2019 
+						 April 19, 2019 
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -122,10 +122,10 @@
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
 					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23db69c">
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23f9570">
 
 						
-						 Week 14: April 15 - 19, 2019 
+						 Week 15: April 22 - 26, 2019 
 					  </a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -134,25 +134,25 @@
 				
 			</div>
 		<!--COLUMN END-->	
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
-					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2382366">
+		
+				<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox newsbox-with-img">
+				<div class="newsbox-text"> 
+					<!--news content BOX --> 
+				  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
+				<strong>MEDIA ADVISORY</strong><br>
+					<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23fa71f">
 
-						
-						 March 20, 2019 
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
+Puget Sound Partnership's Science Panel to hear updates on Vital Sign revision project at April meeting
+				  </a><br>
+					<!--END news content BOX--> 
 				</div>
-				
+				<div class="clearfix"></div>
 			</div>
-		<!--COLUMN END-->	
+
+		</div>
+		<!--COLUMN END-->
 						
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">

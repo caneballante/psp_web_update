@@ -86,10 +86,10 @@ Seattle, WA 98105</p></td>
 				<tr>
 					<td><p>April 24-25</p></td>
 					<td><p>University of Washington<br>
-					  Applied Physics Lab - Henderson Hall<br>
-					  Hardisty Conference Room on 6th floor<br>
-					  1013 NE 40th Street<br>
-				    Seattle, WA 98105</p></td>
+					  Oceanography Teaching Building<br>
+					  Room 155<br>
+					  1503 NE Boat Stree<br>
+				    Seattle, WA 98195</p></td>
 
 					<td><a href="https://pspwa.box.com/s/ht6vn47c4w7mu3xiqsex724tbka4gvgg" target="new">Meeting Materials</a></td>
 
