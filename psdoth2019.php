@@ -144,19 +144,18 @@
 				<p>As the trip approaches, the Puget Sound Partnership will host two planning and preparation meetings at the Center for Urban Waters in Tacoma to discuss and refine messages for the trip and finalize logistics. Agendas and call-in numbers will be provided in advance, although in-person attendance is highly recommended.</p>
 				<ul>
 					<li><strong>Planning Meeting 1</strong>:  Tuesday, April 16, 8:30 am - 11:30 am, Center for Urban Waters, Tacoma - <a href="https://pspwa.box.com/s/5gosw1che1y06vr4ona53nywyy5tj95g">MEETING MATERIALS</a></li>
-					<li><strong>Planning Meeting 2</strong>:  Wednesday May 1, 1 - 4 pm, Center for Urban Waters, Tacoma</li>
+					<li><strong>Planning Meeting 2</strong>:  Wednesday May 1, 1 - 4 pm, Center for Urban Waters, Tacoma - <a href="https://pspwa.box.com/shared/static/dro0xpf6rh6v046efk0ky12c26mb4px5.pdf">MEETING MATERIALS</a></li>
 				</ul>
 				<p>Please contact Marie Novak <u><a href="mailto:marie@cascadiaconsulting.com" target="_blank" title="" rel="noopener">marie@cascadiaconsulting.com</a></u> with questions.</p>
 				<br>
 			</div>
 
 			<div class="col-sm-2 padding-20-top padding-0-right">
-				<div class="right-nav-title margin-0-top ">2018 PUGET SOUND DAY ON THE HILL LINKS </div>
+				<div class="right-nav-title margin-0-top ">2019 PUGET SOUND DAY ON THE HILL MATERIALS </div>
 				<ul class="nav-rightside-custom">
-					<li role="presentation"> <a href="https://pspwa.box.com/s/x6pz3i4wqbwzmx8pcjrkqp6zkvk7o1is">Congressional letter of support for the National Estuary Program (NEP)</a>
+					<li role="presentation"> <a href="https://pspwa.box.com/shared/static/dro0xpf6rh6v046efk0ky12c26mb4px5.pdf">Planning meeting #2, May 1st - materials</a></li>
 					</li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/9cswkefkra7g93ag4ep7p38h4ka66f4w">Congressional letter of support for Puget Sound appropriations</a>
-					</li>
+				
 					
 					<div>
 
