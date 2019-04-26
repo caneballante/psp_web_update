@@ -56,17 +56,18 @@
 
 		<div class="row">
 			<div class="col-sm-9 margin-40-left padding-20-top padding-40-right content-column mobile-padding-20-left">
-				<p class=""><a href="http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTgwMzA2Ljg2NTIzNDAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE4MDMwNi44NjUyMzQwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3MzAwNjMyJmVtYWlsaWQ9c2hlaWRhLnNhaGFuZHlAcHNwLndhLmdvdiZ1c2VyaWQ9c2hlaWRhLnNhaGFuZHlAcHNwLndhLmdvdiZmbD0mZXh0cmE9TXVsdGl2YXJpYXRlSWQ9JiYm&&&100&&&https://goo.gl/forms/9pEzgetK67ksbJn13"><strong>Click here to register for the 2019 Puget Sound Day on the Hill</strong></a></p>
-				<p class="">Join us again this year as we travel to Washington D.C. for Puget Sound Day on The Hill, May 14-16. We will meet with key decision-makers about the benefits a healthy Puget Sound brings to the entire nation, as well as to our region</p>
-				<p class="">We thank Alaska Airlines for its support of Puget Sound Day on the Hill. Alaska Airlines has provided a 5% percent discount Code: <strong>ECMC352. </strong> <span><img src="images/alaska-airlines.jpg" width="200" height="107" alt=""/></span>
-				</spam></p>
 				<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
+					<h3><a href="http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTgwMzA2Ljg2NTIzNDAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE4MDMwNi44NjUyMzQwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3MzAwNjMyJmVtYWlsaWQ9c2hlaWRhLnNhaGFuZHlAcHNwLndhLmdvdiZ1c2VyaWQ9c2hlaWRhLnNhaGFuZHlAcHNwLndhLmdvdiZmbD0mZXh0cmE9TXVsdGl2YXJpYXRlSWQ9JiYm&&&100&&&https://goo.gl/forms/9pEzgetK67ksbJn13">Click here to register for the 2019 Puget Sound Day on the Hill</a></h3>
+					<hr>
+			
+					
+					
 					<form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" accept-charset="UTF-8" method="post">
 						<input name="utf8" type="hidden" value="&#x2713;" />
 						<input type="hidden" name="authenticity_token" value="nOYBKnmWNQvieUlEVV4W6duHYH0RnJgtlvjmL4+9PgYyAL3d7msuMDW3SKUDVIM4+JB2/yCASiTVzcv4a1KTyQ==" />
 						<input type="hidden" name="topic_id" id="topic_id" value="WAPSP_126" />
 						<fieldset>
-							<legend> <span class="margin-10-top">SIGN UP TO RECEIVE UPDATES FOR PUGET SOUND DAY ON THE HILL</span> </legend>
+							<p> <span class="margin-0-top">SIGN UP TO RECEIVE UPDATES FOR PUGET SOUND DAY ON THE HILL</span> </p>
 							<ol class='form'>
 								<li class='email_fields' style='display: block'>
 									<label for="email"><img class="required" src="https://content.govdelivery.com/images/required.gif" alt="Required" />Email Address</label>
@@ -79,6 +80,11 @@
 						</fieldset>
 					</form>
 				</div>
+					<p class="">Join us again this year as we travel to Washington D.C. for Puget Sound Day on The Hill, May 14-16. We will meet with key decision-makers about the benefits a healthy Puget Sound brings to the entire nation, as well as to our region</p>
+				<h3>Sign on to the 2019 Puget Sound Letter of Support</h3>
+				<p>To demonstrate even broader support at Puget Sound Day on the Hill, we&rsquo;re asking leading organizations in the region to join us by signing on to this <a href="https://pspwa.box.com/shared/static/p2de7c0k20e49mecq7exqi51rqvifv34.pdf">letter of support</a> articulating the challenges and needs for Puget Sound recovery. </p>
+				<p>Sign on to the letter <a href="https://forms.gle/UQE1nvKN62cVBJop6">here</a>.				</p>
+				
 				<h3>Tenative Itinerary</h3>
 				
 				<ul>
@@ -89,6 +95,9 @@
 				</ul>
 				<hr>
 				<h3 class="margin-0-top">Travel and AccomModations</h3>
+				<p>We thank Alaska Airlines for its support of Puget Sound Day on the Hill. Alaska Airlines has provided a 5% percent discount Code: <strong>ECMC352. </strong> <span><img src="images/alaska-airlines.jpg" width="200" height="107" alt=""/></span>
+					</spam>
+				</p>
 				<p>Participants are responsible for arranging their own travel and accommodations. Alaska Airlines has provided a 5% percent discount Code: <strong>ECMC352. </strong>To use the Discount Code, go online to <a href="http://www.alaskaair.com/">alaskaair.com</a> and input the Discount Code when searching for flights. The discount will be applied to any flights meeting the contract parameters. By clicking the &ldquo;?&rdquo; next to the discount code box after entering the code you may view a detailed description of the rules.</p>
 
 				<p>Hotels offering government per diem rates</p>
@@ -135,19 +144,18 @@
 				<p>As the trip approaches, the Puget Sound Partnership will host two planning and preparation meetings at the Center for Urban Waters in Tacoma to discuss and refine messages for the trip and finalize logistics. Agendas and call-in numbers will be provided in advance, although in-person attendance is highly recommended.</p>
 				<ul>
 					<li><strong>Planning Meeting 1</strong>:  Tuesday, April 16, 8:30 am - 11:30 am, Center for Urban Waters, Tacoma - <a href="https://pspwa.box.com/s/5gosw1che1y06vr4ona53nywyy5tj95g">MEETING MATERIALS</a></li>
-					<li><strong>Planning Meeting 2</strong>:  Wednesday May 1, 1 - 4 pm, Center for Urban Waters, Tacoma</li>
+					<li><strong>Planning Meeting 2</strong>:  Wednesday May 1, 1 - 4 pm, Center for Urban Waters, Tacoma - <a href="https://pspwa.box.com/shared/static/dro0xpf6rh6v046efk0ky12c26mb4px5.pdf">MEETING MATERIALS</a></li>
 				</ul>
 				<p>Please contact Marie Novak <u><a href="mailto:marie@cascadiaconsulting.com" target="_blank" title="" rel="noopener">marie@cascadiaconsulting.com</a></u> with questions.</p>
 				<br>
 			</div>
 
 			<div class="col-sm-2 padding-20-top padding-0-right">
-				<div class="right-nav-title margin-0-top ">2018 PUGET SOUND DAY ON THE HILL LINKS </div>
+				<div class="right-nav-title margin-0-top ">2019 PUGET SOUND DAY ON THE HILL MATERIALS </div>
 				<ul class="nav-rightside-custom">
-					<li role="presentation"> <a href="https://pspwa.box.com/s/x6pz3i4wqbwzmx8pcjrkqp6zkvk7o1is">Congressional letter of support for the National Estuary Program (NEP)</a>
+					<li role="presentation"> <a href="https://pspwa.box.com/shared/static/dro0xpf6rh6v046efk0ky12c26mb4px5.pdf">Planning meeting #2, May 1st - materials</a></li>
 					</li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/9cswkefkra7g93ag4ep7p38h4ka66f4w">Congressional letter of support for Puget Sound appropriations</a>
-					</li>
+				
 					
 					<div>
 
