@@ -254,7 +254,9 @@ p {
 .padding-60-left {
 	padding-left: 60px;
 }
-
+.padding-70-left {
+	padding-left: 70px;
+}
 @media (max-width: 768px) {
 .mobile-padding-20-left {
 	padding-left: 20px;
