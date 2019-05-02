@@ -68,7 +68,7 @@
 			<br>
 To support shared learning and collaboration among partners and across projects, the Partnership has developed two taxonomies describing the <u>sources of pressure </u>and related <u>stressors</u> on the Puget Sound ecosystem. </p>
 		<p>In 2014 the Puget Sound Partnership finished the first PSPA evaluation using a methodology developed by advisors from the Partnership Science Panel. The 2014 PSPA involved a systematic, expert-based evaluation of the potential effects of stressors identified in the PSPA on identified ecosystem endpoints, such as habitats, species, or ecological processes.</p>
-		<p>Results and more information are available at the project web site: &nbsp; <a href="https://sites.google.com/site/pressureassessment/home">https://sites.google.com/site/pressureassessment/home</a></p>
+		<p>Results and more information are available at the project web site: &nbsp; <a href="https://pspwa.box.com/s/xs5djj16vm4foq5xe2e1lmg3oz42eetk">Puget Sound Pressures Assessment</a></p>
 <p>&nbsp;</p>
 </p>
 		<!-- InstanceEndEditable --> </div>
