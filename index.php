@@ -101,6 +101,24 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/Director-Blackmore.jpg"  alt=""/> 
+					<strong>NEWS RELEASE</strong><br>
+						<a href="
+https://content.govdelivery.com/accounts/WAPSP/bulletins/2423f78">
+							 May 1, 2019: Laura Blackmore Named Executive Director of Puget Sound Partnership 
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
 					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23f7430">
