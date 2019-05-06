@@ -84,7 +84,7 @@
 						<td colspan="5"><h3>For more information about each group in the PSEMP Network, please click on the links below</h3></td>
 					</tr>
 					<tr>
-						<td rowspan="6"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
+						<td rowspan="7"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
 						<td colspan="4"class="no-icon"><h3 class="PSEMP-blue">COORDINATING BODIES</h3></td>
 						
 					</tr>
@@ -96,22 +96,29 @@
 						<td colspan="4"><h3 class="PSEMP-green">WORK GROUPS</h3></td>
 					</tr>
 					<tr>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/8yiq86nl46w3sea0jdtjktnku7vs1qsk" target="new">Diseases </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd" target="new">Forage Fish and Food Webs </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub" target="new">Freshwater </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/epnzs7r158zq3pq0wtqb9u8tyzecjps3" target="new">Human Wellbeing </a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/vyx3oq4ilqtz2d0te8sj3we14fo03blz" target="new">Marine Birds </a></td>
 					</tr>
 					<tr>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/vyx3oq4ilqtz2d0te8sj3we14fo03blz" target="new">Marine Birds </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/ltd6c5kmlv0g9kgzce4n571anvk09kef" target="new">Marine Mammals </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/5lq9cfr18b13p7zno86n9yor2uin3vra" target="new">Marine Waters </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/1cjl3znjgx9bplmrk7h2qhpqjw52zndy" target="new">Modeling </a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/wgbl9zmrov2nd4qdor5iwvlnkckg6hac" target="new">Nearshore </a></td>
 					</tr>
 					<tr>
+						<td class="no-icon"><a href="https://pspwa.box.com/s/wgbl9zmrov2nd4qdor5iwvlnkckg6hac" target="new">Nearshore </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5" target="new">Salmonids </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz" target="new">Spatial Ecology </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater </a></td>
+						
+					</tr>
+					<tr>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics </a></td>
+						<td class="no-icon">&nbsp;</td>
+						<td class="no-icon">&nbsp;</td>
+						<td class="no-icon">&nbsp;</td>
 						
 					</tr>
 				
@@ -169,6 +176,17 @@
 					<li role="presentation"> <a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics Work Group</a></li>
 						<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-20-top ">RELATED INFORMATION</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="https://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/action_agenda_center.php">2018-2022 Action Agenda For Puget Sound</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/science-and-evaluation-overview.php">Puget Sound Partnership Science and Evaluation Overview</a></li>
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>

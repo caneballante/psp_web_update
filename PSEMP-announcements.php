@@ -124,6 +124,17 @@
 					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
 						<!-- InstanceEndEditable -->
 			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-20-top ">RELATED INFORMATION</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="https://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/action_agenda_center.php">2018-2022 Action Agenda For Puget Sound</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/science-and-evaluation-overview.php">Puget Sound Partnership Science and Evaluation Overview</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 

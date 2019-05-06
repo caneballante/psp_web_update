@@ -70,8 +70,7 @@
 		
 			<h3 class="margin-0-top">2017 PUGET SOUND MARINE WATERS OVERVIEW</h3> 
 			<span class="floatright padding-20-left no-icon"><a href="https://pspwa.box.com/shared/static/xzvxtmxv0lpomphceiotcwmr77ul75q7.pdf"><img src="images/ps-marinewater-2017.png" width="330" height="260" alt=""/></a> 
-  <p class="padding-10-left">Click on the image to download <br>
-Puget Sound Marine Waters 2017 Overview.</p></span>
+  <p class="padding-10-left">Click on the image to download</p></span>
 			<br>
 			<P class="margin-0-top">A new report finds that Puget Sound’s unusually warm water temperatures that prevailed throughout the West Coast since 2014 finally returned to normal in 2017. Although water temperatures recovered, life within those waters has not. In general, biological observations within Puget Sound revealed that the abundance of many marine animals throughout the food web are still lower than usual. In addition, the region experienced both the wettest spring and driest summer ever recorded in 2017.</P>
  
@@ -79,6 +78,14 @@ Puget Sound Marine Waters 2017 Overview.</p></span>
  
 			<p>The work group looked at a number of environmental indicators, including plankton, water quality, climate, and marine life that when, considered together, provide both a long-term view and current assessment of the Sound’s health.</p>
 <p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
+			
+			<hr>
+			<h3 class="margin-30-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h3> 
+			<span class="floatright padding-20-left no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="300" height="355" alt=""/></a> 
+  <p class="padding-10-left">Click on the image to view</p></span>
+			<br>
+			<P class="margin-0-top">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea. </p>
+
 <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -113,6 +120,18 @@ Puget Sound Marine Waters 2017 Overview.</p></span>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics Work Group</a></li>
 						<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-20-top ">RELATED INFORMATION</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="https://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/action_agenda_center.php">2018-2022 Action Agenda For Puget Sound</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/science-and-evaluation-overview.php">Puget Sound Partnership Science and Evaluation Overview</a></li>
+			
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
