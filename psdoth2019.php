@@ -84,15 +84,21 @@
 				<h3>Sign on to the 2019 Puget Sound Letter of Support</h3>
 				<p>To demonstrate even broader support at Puget Sound Day on the Hill, we&rsquo;re asking leading organizations in the region to join us by signing on to this <a href="https://pspwa.box.com/shared/static/p2de7c0k20e49mecq7exqi51rqvifv34.pdf">letter of support</a> articulating the challenges and needs for Puget Sound recovery. </p>
 				<p>Sign on to the letter <a href="https://forms.gle/UQE1nvKN62cVBJop6">here</a>.				</p>
+				<hr>
 				
-				<h3>Tenative Itinerary</h3>
+				<h3 class="margin-0-top">Materials</h3>
+				<p><a href="https://pspwa.box.com/shared/static/5m0o4iagqifdh0lpkns33petvdyl2nod.pdf">Schedule</a></p>
+				<p><a href="https://pspwa.box.com/shared/static/2otna5iuzn46asrh5d6a2q5zf75yne6t.pdf">Social media plan</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/fjq9dfnjjcwweg6hpef8xk1tfn2rft51.zip">Social media images</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/3gqy949jp997pzrpm077orb64pgz0uen.pdf">Fact sheet</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/pocm2qpi0yy89g51eoikgs0ltay0zcx4.pdf">Capitol meeting instructions and map</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/8w3glhxmobtneeutvi5u9stvkox2l5m0.pdf">Welcome reception invite</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/0c42p217bm1dbgik9saflsga9iswngz7.pdf">May 16th Congressional estuary lunch panel</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/byy7glqnx99v6pklrbyzhigbgg0tncup.pdf">Welcome letter</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/v2m34j89j10cwfqkpd22u3nnmgpk4qjy.pdf">Puget Sound letter of support</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/2jg7q8cveh58znny2wk6whh82a1g2k94.pdf">Tip sheet</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/y9oz34c5wcblks5afmugql9xer78dw98.pdf">Restaurants near the Capitol</a></p><p></p>
 				
-				<ul>
-					<li><strong>Monday May 13</strong>: Suggested travel day, evening welcome reception for state salmon recovery leaders</li>
-					<li><strong>Tuesday May 14</strong>: Agency meetings and evening reception</li>
-					<li><strong>Wednesday May 15</strong>: All-day, large group meeting with Congressional and agency leaders</li>
-					<li><strong>Thursday, May 16</strong>: Small group meetings and/or panels, suggested afternoon/evening departure </li>
-				</ul>
 				<hr>
 				<h3 class="margin-0-top">Travel and AccomModations</h3>
 				<p>We thank Alaska Airlines for its support of Puget Sound Day on the Hill. Alaska Airlines has provided a 5% percent discount Code: <strong>ECMC352. </strong> <span><img src="images/alaska-airlines.jpg" width="200" height="107" alt=""/></span>
