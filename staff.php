@@ -151,6 +151,9 @@
             <h5>Don GOurlie</h5>
             <p>Environmental Planner<br />
               360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov </a>            </p>
+			<h5>Kaitlin Harris</h5>
+            <p>Environmental Planner (Project)<br />
+              360.480.0787 | <a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov </a>            </p>
             <h3>ecosystem recovery team</h3>
             <h5>Amber Moore</h5>
             <p>Salmon Recovery Manager<br />
@@ -189,6 +192,9 @@
         <p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br/>
               <em>Hood Canal, Straits, North Olympic Peninsula </em> <br/>
               360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a></p>
+			<h5>Amelia Wells</h5>
+            <p>Project Coordinator<br />
+        360.790.9869 | <a href="mailto:amelia.wells@psp.wa.gov">amelia.wells@psp.wa.gov </a></p>
             <p><!--A.S. - GOVERNMENT AFFAIRS-->
 			
                 <!--ANCHOR LINK spaced 2 br above target--> 
@@ -248,8 +254,8 @@
         <h5>Diamatris Winston</h5>
         <p>Fiscal Division Manager<br />
           360.464.1231 | <a href="mailto:diamatris.winston@psp.wa.gov">diamatris.winston@psp.wa.gov </a></p>
-        <h5>vacant</h5>
-        <p> Fiscal Program Manager<br />
+        <h5>MARIA BOJORQUEZ</h5>
+        <p>Accounting and Budget Program Manager<br />360.791.0533 | <a href="mailto:maria.bojorquez@psp.wa.gov">maria.bojorquez@psp.wa.gov </a>
         </p>
         <h5>Arjean Travis</h5>
         <p> Grants, Contracts, and Compliance Manager<br />
