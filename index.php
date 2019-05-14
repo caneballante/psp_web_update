@@ -96,6 +96,24 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top">
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
+					<strong>NEWS RELEASE</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/243b974">
+5/8: Northwest leaders travel to Washington D.C. for ‘Puget Sound Day on The Hill’ together with ‘Salmon Days’
+					
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
