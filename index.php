@@ -96,7 +96,26 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top">
-				<!--COLUMN START-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
+					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2428582">
+
+						
+						 May 2, 2019 
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
