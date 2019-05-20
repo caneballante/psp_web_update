@@ -83,7 +83,7 @@
 				
 				<h3 class="margin-0-top">Materials</h3>
 				<p><a href="https://pspwa.box.com/shared/static/5m0o4iagqifdh0lpkns33petvdyl2nod.pdf">Schedule </a><span class="new-red">NEW 5/14 - 1:00 PM EST</span></p>
-				<p><a href="https://pspwa.box.com/shared/static/cgammcr3rgg8rbuyyf28zvelb86fi23h.pdf">Small group assignments </a><span class="new-red">NEW 5/14 - 1:00 PM EST</span></p>
+				<p><a href="https://pspwa.box.com/shared/static/cgammcr3rgg8rbuyyf28zvelb86fi23h.pdf">Small group assignments </a><span class="new-red">NEW 5/15 - 12:00 PM EST</span></p>
 				<p><a href="https://pspwa.box.com/shared/static/2otna5iuzn46asrh5d6a2q5zf75yne6t.pdf">Social media plan</a></p><p></p>
 				<p><a href="https://pspwa.box.com/shared/static/fjq9dfnjjcwweg6hpef8xk1tfn2rft51.zip">Social media images</a></p><p></p>
 				<p><a href="https://pspwa.box.com/shared/static/3gqy949jp997pzrpm077orb64pgz0uen.pdf">Puget Sound Day on the Hill fact sheet</a></p><p></p>
