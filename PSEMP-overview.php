@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>DRAFT PSEMP</h1>
+			<h1>PSEMP OVERVIEW</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -125,23 +125,21 @@
 				</tbody>
 			</table>
 			<hr/>
-			<div>
-				<div class="floatright"><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-1.jpg" width="324" height="235" alt=""/><p><a href="images/PSEMP/2018-psemp-figures-1.jpg" target="_blank">view full size image</a></p></div>
-				<h4>ADAPTIVE MANAGEMENT CYCLE</h4>
-				<p>This figure illustrates some of the ways PSEMP supports the <a href="https://www.psp.wa.gov/action_agenda_center.php">Partnership&rsquo;s Adaptive management Framework</a>. For details on how the PSEMP network contributes to Vital Signs, effectiveness assessment, and Implementation Strategies, see Appendix 1 of the <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a>.			</p>
-			</div>
-			<hr/>
 			
-				<h4>A COORDINATED NETWORK</h4>
-			<p>PSEMP is a coordinated network that supported by Puget Sound Partnership staff. Many of the participating organizations also have members who serve as Work Group leads or on the Steering Committee.<strong> </strong></p>
-			<div>
-				<div> </div>
-			</div>
-<div class="clearfix"></div>
+			<div class="floatright"><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-3.jpg" width="352" height="363" alt=""/><p class="align-center"><a href="images/PSEMP/2018-psemp-figures-3.jpg" target="_blank">view full size image</a></p></div>
+			
+			<h4>Collaboration</h4>
+			<p>PSEMP is a coordinated network that is supported by Partnership staff, funding from the Partnership for Work Group Coordinators, and by in-kind contributions of participating organizations, especially those who serve as Work Group Leads or on the Steering Committee. The monitoring network is an integrated part of the overall network of partners that play complementary roles to accelerate Puget Sound recovery. The partners and roles with the most direct linkages to PSEMP are shown in the diagram at right, and we are continually seeking to strengthen these linkages and expand them.</p>
+			<div class="clearfix"></div>
 			<hr/>
-			<div class="floatright"><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-3.jpg" width="352" height="363" alt=""/><p><a href="images/PSEMP/2018-psemp-figures-3.jpg" target="_blank">view full size image</a></p></div>
-			<h4>ROLES IN PSEMP</h4>
-			<p>Partners play complementary roles to accelerate the collective effort to recover and sustain Puget Sound. The partners and roles with the most direct linkages to PSEMP are shown here, we are working to strengthen these linkages and continue to expand them.</p>
+			<div class="floatright"><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-1.jpg" width="324" height="235" alt=""/><p class="align-center"><a href="images/PSEMP/2018-psemp-figures-1.jpg" target="_blank">view full size image</a></p></div>
+			<h4>Adaptive Management</h4>
+			<p>By working in close coordination and collaboration with our partners, the expertise, assessments, and products coming out of the PSEMP network provides the relevant, credible, and timely information needed to support adaptive management of recovery efforts. <span lang="EN">This figure illustrates some of the ways PSEMP supports the <a href="https://www.psp.wa.gov/action_agenda_center.php">Partnership&rsquo;s Adaptive management Framework</a>. For details on how the PSEMP network contributes to Vital Signs, effectiveness assessment, and Implementation Strategies, see Appendix 1 of the <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a>.</span></p>
+			<hr/>
+			<h4>Communication</h4>
+			<p> In order for PSEMP to be a high performing network that delivers on the above objectives of collaboration and adaptive management, strategic communication is essential. PSEMP is developing a communications plan in coordination with the Partnership&rsquo;s communication strategy that will better equip the monitoring and assessment community to share information and facilitate data-driven recovery decisions.</p>
+			
+			
 <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -149,9 +147,9 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k">2019 Work Plans</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/ep1nzf6z1m1gelayymem2s655e1gp9dt">2018 Annual Reports</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi" target="new">PSEMP Strategic Plan</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k" target="new">2019 Work Plans</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ep1nzf6z1m1gelayymem2s655e1gp9dt" target="new">2018 Annual Reports</a></li>
 				
 						<!-- InstanceEndEditable -->
 			</ul>
