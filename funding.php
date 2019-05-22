@@ -76,7 +76,7 @@ This page contains current contract and grant opportunities, as well as valuable
 
  <h2>Sole-Source Contract Notification</h2>
  
-<p> <a href="https://pspwa.box.com/s/hpwrvstebi7menc3e9uldx29mplwtyr2">11-13-18 - The Puget Sound Partnership (Partnership), a Washington State Agency, contemplates awarding one sole-source contract to Sitka Technology Group, LLC. to build upon initial Puget Sound information platform implementation as described in Phase Two of RFQQ 2018-128 and agreement #2018-45. Initial system implementation is enabling cloud-based indicator data management and basic online reporting for the Vital Signs and their indicators and has identified a need for enhanced online reporting functionality to support the full diversity of Vital Sign indicators as well as increased workflow support for web-based indicator data inputs, updates and quality assurance. </a></p>
+<iframe src="https://pspwa.app.box.com/embed/s/neuz5umsrp82r4t2dyxjiuq2mfioaeow?showParentPath=false&sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
  
 			 
 		<!-- InstanceEndEditable --> </div>
