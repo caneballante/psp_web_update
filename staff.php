@@ -69,9 +69,9 @@
 			
 			<!--EXECUTIVE TEAM-->
 			<h2 class="margin-0-top">EXECUTIVE DIRECTOR'S OFFICE</h2>
-		<h5>Sheida Sahandy</h5>
-			<p> Executive Director<br />
-				360.464.1233 | <a href="mailto:sheida.sahandy@psp.wa.gov">sheida.sahandy@psp.wa.gov</a>
+		<h5>LAURA BLACKMORE</h5>
+			<p>Executive Director<br />
+				Office 360.339.4627 | <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a>      </p>
 			</p>
 			<!--<h5>Marc Daily</h5>
 			<p> Deputy Director<br />
@@ -91,9 +91,9 @@
 		
 			<!--OPERATIONS--><!--ANCHOR LINK spaced 2 br above target-->			</p>
 			<h2>EXTERNAL OPERATIONS DIVISION</h2>
-				<h5>LAURA BLACKMORE</h5>
+				<h5>Vacant</h5>
 			<p>Deputy Director<br />
-				Office 360.339.4627 | <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a><!-- FISCAL-->        </p>
+			</p>
 		<h3>ADAPTIVE SYSTEMS PROGRAM</h3>	    
 		<h5>KARI STILES</h5>
 			<p> Adaptive Systems Manager<br />
@@ -298,7 +298,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="https://pspwa.box.com/s/x69yrpovb3658iugtnik6gf0aidjaogs">Organizational Chart</a></li>
-				<li role="presentation"> <a href="sheida-sahandy-bio.php">Director Bio</a></li>
+				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
