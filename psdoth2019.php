@@ -75,73 +75,19 @@
 						</fieldset>
 					</form>
 				</div>
-					<p class="">Join us again this year as we travel to Washington D.C. for Puget Sound Day on The Hill, May 14-16. We will meet with key decision-makers about the benefits a healthy Puget Sound brings to the entire nation, as well as to our region</p>
-				<h3>Sign on to the 2019 Puget Sound Letter of Support</h3>
-				<p>To demonstrate even broader support at Puget Sound Day on the Hill, we&rsquo;re asking leading organizations in the region to join us by signing on to this <a href="https://pspwa.box.com/shared/static/p2de7c0k20e49mecq7exqi51rqvifv34.pdf">letter of support</a> articulating the challenges and needs for Puget Sound recovery. </p>
-				<p>Sign on to the letter <a href="https://forms.gle/UQE1nvKN62cVBJop6">here</a>.				</p>
-				<hr>
-				
+					
 				<h3 class="margin-0-top">Materials</h3>
-				<p><a href="https://pspwa.box.com/shared/static/5m0o4iagqifdh0lpkns33petvdyl2nod.pdf">Schedule </a><span class="new-red">NEW 5/14 - 1:00 PM EST</span></p>
-				<p><a href="https://pspwa.box.com/shared/static/cgammcr3rgg8rbuyyf28zvelb86fi23h.pdf">Small group assignments </a><span class="new-red">NEW 5/15 - 12:00 PM EST</span></p>
-				<p><a href="https://pspwa.box.com/shared/static/2otna5iuzn46asrh5d6a2q5zf75yne6t.pdf">Social media plan</a></p><p></p>
-				<p><a href="https://pspwa.box.com/shared/static/fjq9dfnjjcwweg6hpef8xk1tfn2rft51.zip">Social media images</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/q2p7l954cwp2ecnglbywwl0rb8qk7owa.zip">Presentations </a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/5m0o4iagqifdh0lpkns33petvdyl2nod.pdf">Schedule </a></p><p></p>
 				<p><a href="https://pspwa.box.com/shared/static/3gqy949jp997pzrpm077orb64pgz0uen.pdf">Puget Sound Day on the Hill fact sheet</a></p><p></p>
-				<p><a href="https://pspwa.box.com/shared/static/q5dqkmm2eay6hl96i8eqnmuix471vamp.pdf">Pacific Coast Salmon Recovery Fund fact sheet</a></p>
-				<p><a href="https://pspwa.box.com/shared/static/pocm2qpi0yy89g51eoikgs0ltay0zcx4.pdf">Capitol meeting instructions and map</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/q5dqkmm2eay6hl96i8eqnmuix471vamp.pdf">Pacific Coast Salmon Recovery Fund fact sheet</a></p><p></p>
 				<p><a href="https://pspwa.box.com/shared/static/8w3glhxmobtneeutvi5u9stvkox2l5m0.pdf">Welcome reception invite</a></p><p></p>
 				<p><a href="https://pspwa.box.com/shared/static/0c42p217bm1dbgik9saflsga9iswngz7.pdf">May 16th Congressional estuary lunch panel</a></p><p></p>
 				<p><a href="https://pspwa.box.com/shared/static/byy7glqnx99v6pklrbyzhigbgg0tncup.pdf">Welcome letter</a></p><p></p>
-				<p><a href="https://pspwa.box.com/shared/static/v2m34j89j10cwfqkpd22u3nnmgpk4qjy.pdf">Puget Sound letter of support</a></p><p></p>
-				<p><a href="https://pspwa.box.com/shared/static/2jg7q8cveh58znny2wk6whh82a1g2k94.pdf">Tip sheet</a></p><p></p>
-				<p><a href="https://pspwa.box.com/shared/static/y9oz34c5wcblks5afmugql9xer78dw98.pdf">Restaurants near the Capitol</a></p><p></p>
+				<p><a href="https://pspwa.box.com/shared/static/p2de7c0k20e49mecq7exqi51rqvifv34.pdf">Puget Sound letter of support</a></p><p></p>
 				
 				<hr>
-				<h3 class="margin-0-top">Travel and AccomModations</h3>
-				<p>We thank Alaska Airlines for its support of Puget Sound Day on the Hill. Alaska Airlines has provided a 5% percent discount Code: <strong>ECMC352. </strong> <span><img src="images/alaska-airlines.jpg" width="200" height="107" alt=""/></span>
-					</spam>
-				</p>
-				<p>Participants are responsible for arranging their own travel and accommodations. Alaska Airlines has provided a 5% percent discount Code: <strong>ECMC352. </strong>To use the Discount Code, go online to <a href="http://www.alaskaair.com/">alaskaair.com</a> and input the Discount Code when searching for flights. The discount will be applied to any flights meeting the contract parameters. By clicking the &ldquo;?&rdquo; next to the discount code box after entering the code you may view a detailed description of the rules.</p>
-
-				<p>Hotels offering government per diem rates</p>
-				<p><a href="https://www.phoenixparkhotel.com/">Phoenix Park Hotel/</a><br>
-					
-					
-					<a href="https://www.marriott.com/hotels/travel/wasus-courtyard-washington-dc-us-capitol/">Marriott Washington DC/US Capitol</a> <br>
-					<a href="https://www.marriott.com/hotels/travel/wasmc-washington-marriott-at-metro-center/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe">Washington Marriott at Metro Center</a></p>
-<p>Here are suggested hotels that may or may not be offering government per diem:</p>
-				<p><strong>Hyatt Regency Washington on Capitol Hill</strong></p>
-				<ul type="disc">
-					<li>(202) 737-1234</li>
-				</ul>
-				<p><strong>Kimpton George Hotel</strong></p>
-				<ul type="disc">
-					<li>(202) 347-4200</li>
-					<li>0.6mi</li>
-				</ul>
-				<p><strong>Hampton Inn Washington – Downtown – Convention Center DC</strong></p>
-				<ul type="disc">
-					<li>+1-202-842-2500</li>
-					<li>1.3- 1.4mi</li>
-				</ul>
-				<p><strong>Hyatt House Washington</strong></p>
-				<ul type="disc">
-					<li>(202) 554-1234</li>
-					<li>1.7- 2.0mi</li>
-				</ul>
-				<p><strong>Mandarin Oriental Washington DC </strong></p>
-				<ul type="disc">
-					<li>(202) 554-8588</li>
-					<li>1.6- 1.9mi</li>
-				</ul>
-				<p><strong>Embassy Suites by Hilton Washington DC – Convention Center</strong></p>
-				<p>·        (202) 739-2001</p>
-				<p>·        1.6- 1.8mi</p>
-				<p><strong>Holiday Inn Washington Capitol</strong></p>
-				<ul type="disc">
-					<li>(202) 479-4000</li>
-					<li>1.0- 1.3mi</li>
-				</ul>
+				<h3 class="margin-0-top">&nbsp;</h3>
 				<h3>&nbsp;</h3>
 <br>
 			</div>

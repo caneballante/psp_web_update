@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+.homeimg {
+	max-width: 100%; height: auto
+}
+
+.blue {
+	background-color: aquamarine;
+}
+
+@media only screen and (max-width: 1024px) {
+	.hide {
+		display: none;
+	}
+}
