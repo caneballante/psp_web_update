@@ -96,6 +96,25 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top">
+					<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTH.jpg"  alt=""/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/good-news-from-washington-d-c-6a8b680f79af">
+5/28:Good News from Washington, D.C.
+
+					
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 				<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -114,6 +133,7 @@
 				
 			</div>
 		<!--COLUMN END-->
+			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
