@@ -101,7 +101,7 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTH.jpg"  alt=""/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTh.jpg"  alt=""/> 
 					<strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/good-news-from-washington-d-c-6a8b680f79af">
 5/28:Good News from Washington, D.C.
