@@ -116,7 +116,7 @@
 				Office 360.819.0057 | <a href="mailto:deborah.hagen@psp.wa.gov">deborah.hagen@psp.wa.gov</a></p>  
 				<h5>Jillian Reitz</h5>
 			<p> Boards Policy Specialist<br />
-				360.701.0681 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p> 
+				360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p> 
 			<h5>Todd hass</h5>
 			<p> Special Projects Liaison<br />
 				360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br />
