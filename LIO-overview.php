@@ -81,7 +81,7 @@
 				<li><a href="http://www.straiternlio.org/">Strait Ecosystem Recovery Network </a></li>
 				<li><a href="http://www.islandcountywa.gov/Health/DNR/ILIO/Pages/Home.aspx" target="new">Island LIO</a></li>
 				<li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization" target="new">Snohomish/Stillaguamish LIO </a></li>
-				<li><a href="http://theprwc.org/" target="new">Puyallup-White River LIO (PWR LIO)</a></li>
+				<li><a href="https://www.piercecountywa.gov/6341/PWR-LIO" target="new">Puyallup-White River LIO (PWR LIO)</a></li>
 			</ul>
 			<p><img class="img-responsive" src="images/LIOsPresentation.png" width="1000" height="900" alt=""/></p>
 			<p>This LIO map does not yet include the nw Puyallup-White River LIO</p>
