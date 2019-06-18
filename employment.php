@@ -84,7 +84,11 @@
 	   Special Projects Assistant</a><br>
 			<i>Position closes June 27</i>
 	  </p>	
-	
+	<p>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2476028/ecosystem-recovery-coordinator-exempt"><br>
+	   Ecosystem Recovery Coordinator</a><br>
+			<i>Position closes July 2</i>
+	  </p>
 		
 	
 		<p>&nbsp;</p>

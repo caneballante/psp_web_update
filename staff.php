@@ -192,10 +192,7 @@
         <p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br/>
               <em>Hood Canal, Straits, North Olympic Peninsula </em> <br/>
               360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a></p>
-			<h5>Amelia Wells</h5>
-            <p>Project Coordinator<br />
-        360.790.9869 | <a href="mailto:amelia.wells@psp.wa.gov">amelia.wells@psp.wa.gov </a></p>
-            <p><!--A.S. - GOVERNMENT AFFAIRS-->
+			<!--A.S. - GOVERNMENT AFFAIRS-->
 			
                 <!--ANCHOR LINK spaced 2 br above target--> 
 			    <a name="PEP"></a><br>
