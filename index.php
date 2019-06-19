@@ -153,25 +153,7 @@
 			</div>
 		<!--COLUMN END-->
 			
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
-					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2428582">
 
-						
-						 May 2, 2019 
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -190,221 +172,7 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/2423f78">
 				
 			</div>
 		<!--COLUMN END-->	
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
-					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23f7430">
-
-						
-						 April 19, 2019 
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
-					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23f9570">
-
-						
-						 Week 15: April 22 - 26, 2019 
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
 		
-				<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox newsbox-with-img">
-				<div class="newsbox-text"> 
-					<!--news content BOX --> 
-				  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
-				<strong>MEDIA ADVISORY</strong><br>
-					<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23fa71f">
-
-Puget Sound Partnership's Science Panel to hear updates on Vital Sign revision project at April meeting
-				  </a><br>
-					<!--END news content BOX--> 
-				</div>
-				<div class="clearfix"></div>
-			</div>
-
-		</div>
-		<!--COLUMN END-->
-						
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt=""/> 
-						<strong>ANNOUNCEMENT</strong><br>
-						<a href="psdoth2019.php">
-					 	Register now for Puget Sound Day on the Hill! <br>May 14-16, 2019
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox newsbox-with-img">
-				<div class="newsbox-text"> 
-					<!--news content BOX --> 
-				  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
-				<strong>MEDIA ADVISORY</strong><br>
-					<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/235dff4">
-
-
-					Puget Sound Partnership's Leadership Council to hear updates on legislative priorities at March meeting
-				  </a><br>
-					<!--END news content BOX--> 
-				</div>
-				<div class="clearfix"></div>
-			</div>
-
-		</div>
-		<!--COLUMN END-->
-		
-			
-				
-				<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2325336">
-2/25 - PSEMP Steering Committee call for new members	
-					
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
-					
-			
-		
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement-01.jpg"  alt=""/> 
-					<strong>NEWS RELEASE</strong><br>
-						<a href="
-https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
-							 Sheida Sahandy, Executive Director of the Puget Sound Partnership, stepping down 
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			
-								 
-			
-			
-			
-			
-			
-	
-			
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement-01.jpg"  alt=""/> 
-					<strong>EXECUTIVE DIRECTOR STATEMENT</strong><br>
-						<a href="eds01.php">
-							 Letter from Sheida Sahandy, Executive Director Puget Sound Partnership 
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
-	
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox newsbox-with-img">
-				<div class="newsbox-text"> 
-					<!--news content BOX --> 
-				  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
-				<strong>MEDIA ADVISORY</strong><br>
-					<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22c7bfc">
-
-
-					Puget Sound Partnership's Science Panel to hear update on legislative priorities for 2019 at February meeting
-				  </a><br>
-					<!--END news content BOX--> 
-				</div>
-				<div class="clearfix"></div>
-			</div>
-
-		</div>
-		<!--COLUMN END--><!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/dan-blog.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/farmers-and-fish-in-puget-sound-choosing-a-future-for-both-45b8630922d9">
-						1/11 - Farmers and Fish in Puget Sound: Choosing a Future for Both 
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-			<!--COLUMN END-->
-		
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/sheida-task-force.jpg"  alt=""/> <strong>STATEMENT</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/statement-from-director-sheida-sahandy-on-the-final-recommendations-of-the-governors-southern-5fd34236f9ea">
-						11/16 - Statement from Director Sheida Sahandy on the final recommendations of the Governor’s Southern Resident Orca Task Force 
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-	
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -429,8 +197,8 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">APR<br>
-			  24-25</div>
+				<div class="newsbox-date">JUL<br>
+			  17-18</div>
 				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
 					University of Washington<br>
 							</a><br>
@@ -442,9 +210,23 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">JUL<br> 
+				25
+				</div>
+				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Edmonds Center for the Arts, Edmonds,WA</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">MAY<br>
-			  16</div>
+				<div class="newsbox-date">AUG<br>
+			  15</div>
 				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
 					South Seattle Community College Georgetown<br>
 							</a><br>
@@ -455,26 +237,13 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
 		</div>
 		<!--COLUMN END-->
 		
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content-->
-				<div class="newsbox-date">MAY<br> 
-				23
-				</div>
-				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					Edmonds Center for the Arts, Edmonds,WA</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
+	
 				<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">JUN<br>
-			  11-12</div>
+				<div class="newsbox-date">OCT<br>
+			  1-2</div>
 				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
 				    Mt. Vernon, WA<br>
 							</a><br>
