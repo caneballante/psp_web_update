@@ -77,6 +77,7 @@
 				</div>
 					
 				<h3 class="margin-0-top">Materials</h3>
+				<p>Thank you to all of our partners who made this year’s Puget Sound Day on the Hill and Salmon Days on the Hill so successful! We had more than 70 people participate this year, making this the best attended Puget Sound Day on the Hill event to date. We were able to have effective conversations with federal decision-makers and you can read more about it <a href=https://medium.com/puget-sound-partnership/good-news-from-washington-d-c-6a8b680f79af>here.</a></p>
 				<p><a href="https://pspwa.box.com/shared/static/q2p7l954cwp2ecnglbywwl0rb8qk7owa.zip">Presentations </a></p><p></p>
 				<p><a href="https://pspwa.box.com/shared/static/5m0o4iagqifdh0lpkns33petvdyl2nod.pdf">Schedule </a></p><p></p>
 				<p><a href="https://pspwa.box.com/shared/static/3gqy949jp997pzrpm077orb64pgz0uen.pdf">Puget Sound Day on the Hill fact sheet</a></p><p></p>

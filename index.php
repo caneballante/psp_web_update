@@ -34,7 +34,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
  					<h1>2019 PUGET SOUND DAY ON THE HILL<br>
-						May 14-16, WASHINGTON D.C.</h1>
+						 WASHINGTON D.C.</h1>
  					<p>&nbsp;</p>
  					<h1 class="brand-heading">&nbsp;</h1>
  					<div class="learn-more-box"><a href="psdoth2019.php">LEARN MORE</a></div>  
