@@ -75,16 +75,20 @@
 		 <p><h3>We are an Employer of Choice</h3></p> <a href="https://pspwa.box.com/s/mw6gfajvrw6ce5cpjkegafcwtde62pyo"><img src="images/news-images/emp-of-choice.jpg" width="300" height="225" alt=""/></a> 
 			</div>
 		<p>
-		<a href="https://www.governmentjobs.com/careers/washington/jobs/2447331/deputy-director-exempt"><br>
-	    Deputy Director (Exempt)</a><br>
-			<i>Position closes May 27</i>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2471726/monitoring-network-coordinator-exempt"><br>
+	   Monitoring Network Coordinator (Exempt)</a><br>
+			<i>Position closes July 7</i>
 	  </p>	
 		<p>
-		<a href="https://www.governmentjobs.com/careers/washington/jobs/2442833/assistant-science-director-exempt"><br>
-	    Assistant Science Director (Exempt)</a><br>
-			<i>Position closes May 27</i>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2477021/special-projects-assistant"><br>
+	   Special Projects Assistant</a><br>
+			<i>Position closes June 27</i>
 	  </p>	
-	
+	<p>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2476028/ecosystem-recovery-coordinator-exempt"><br>
+	   Ecosystem Recovery Coordinator</a><br>
+			<i>Position closes July 2</i>
+	  </p>
 		
 	
 		<p>&nbsp;</p>
