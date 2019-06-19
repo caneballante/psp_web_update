@@ -66,15 +66,57 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<div class="highlightbox margin-0-top">
-			<p><strong>PSEMP Steering Committee Call for New Members</strong></p>
-			<p>February 25, 2019</p>
-			<p><strong>Please see this </strong><a href="https://pspwa.box.com/s/k86r5r32x87lmk5znsts0thxgnpiqpo7" target="_blank" rel="noopener"><strong>call for applicants</strong></a><strong> for the PSEMP Steering Committee!</strong>The PSEMP SC is seeking new members to increase representation across sectors, geographies, and expertise, to help PSEMP in fulfilling its mission and advancing its objectives to support collaboration, adaptive management, and communication in the context of Puget Sound recovery. The call for applicants includes important background information on PSEMP, the role of the Steering Committee, and what we value in Steering Committee members. Please apply if interested and help us spread the word and encourage potential applicants to submit a letter of interest (see <a href="https://pspwa.box.com/s/k86r5r32x87lmk5znsts0thxgnpiqpo7" target="_blank" rel="noopener">instructions here</a>) by <strong>March 31, 2019</strong>.</p>
+			<div class="highlightbox margin-0-top">
+			  <h3>Help us recruit a Monitoring Network Coordinator!</h3>
+			  <p>June 12, 2019</p>
+		
+			<p align="left">The Puget Sound Partnership is recruiting a<strong> <a href="https://www.governmentjobs.com/careers/washington/jobs/2471726/monitoring-network-coordinator-exempt" target="_blank" title="" rel="noopener">Monitoring Network Coordinator </a></strong>to work closely with ecosystem monitoring partners (PSEMP) to bring forward the best available information in a way that spans boundaries between science, recovery planning, natural resource management, and policy.</p>
+			<p align="center"><strong>Please help us spread the word and encourage qualified candidates to apply! <br>
+			  The job posting closes on July 7, 2019.</strong></p>
+			<p align="left"><a href="https://www.governmentjobs.com/careers/washington/jobs/2471726/monitoring-network-coordinator-exempt">https://www.governmentjobs.com/careers/washington/jobs/2471726/monitoring-network-coordinator-exempt</a></p>
+			<p align="center"><strong>Work Group Leads, please send to your work group email lists! </strong></p>
+			<p align="left"> </p>
+			<p align="left">*note: if you forward this bulletin, please delete the subscriber services links below, otherwise someone could unsubscribe you from this list<strong>.</strong></p>
 
 			<p>&nbsp;</p>
 		</div>	
 		<div class="highlightbox margin-20-top">
-			<p><strong>PSEMP Strategic Plan Approved!</strong></p>
+			<h3>New Steering Committee Members, new website, new job openings at the Partnership, and more!</h3>
+			<p>May 22, 2019</p>
+	
+			<p align="left"><strong>We are thrilled to welcome the following new members and alternates to the PSEMP SC!</strong></p>
+			<ul>
+			  <li>*Helen Berry, alternate for DNR</li>
+			  <li>Kevin Buckley, Seattle Public Utilities</li>
+			  <li>Anita Fichthorn, Northwest Seaport Alliance</li>
+			  <li>*Cinde Donoghue, DNR (in place of Pete Dowty)</li>
+			  <li>Jennifer Griffiths, WDFW (in place of Jim West)</li>
+			  <li>Marguerite Pappaioanou, UW School of Public Health</li>
+			  <li>Tony Paulson, City of University Place</li>
+			  <li>David Price, NOAA</li>
+			  <li>*Heather Saunders, alternate for Puget Sound Partnership</li>
+			  <li>David Troutt, Nisqually Tribe</li>
+			  <li>Carla Vincent, alternate for Pierce County</li>
+			  <li>Todd Woodard, Samish Indian Nation</li>
+		  </ul>
+			<p align="center"><strong>The Steering Committee meeting on May 14 was well attended by new and established members alike, you can <a href="https://pspwa.box.com/s/q3t9tk4xk1she2d39qfi2zmf1uxhlg8l" target="_blank" title="" rel="noopener">read the meeting summary here</a>, which includes <a href="https://pspwa.box.com/s/hcmnlowj3st2ynqkghihfce5chc47ezp" target="_blank" title="" rel="noopener">updates from work groups and partners</a>, and a presentation from the Toxics Work Group. Be sure to check out the <a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis" target="_blank" title="" rel="noopener">toxics monitoring synthesis!</a></strong></p>
+		  <blockquote>
+			  <p align="center"><strong>Find more information on PSEMP, the Steering Committee, and Work Groups on the <br>
+			    </strong><strong><a href="https://psp.wa.gov/PSEMP-overview.php" target="_blank" title="" rel="noopener">NEW PSEMP WEBSITE</a>! <br>
+			      *</strong><em>We have migrated everything off the old website and will be retiring it soon. Some parts of the new site are a work in progress, so we appreciate your patience and your feedback as we work to improve visibility and accessibility of PSEMP activities and products.</em></p>
+		  </blockquote>
+
+		  <p>&nbsp;</p>
+			</div>	
+		<div class="highlightbox margin-20-top">
+			<h3>PSEMP Steering Committee Call for New Members</h3>
+			<p>February 25, 2019</p>
+			<p><strong>Please see this </strong><a href="https://pspwa.box.com/s/k86r5r32x87lmk5znsts0thxgnpiqpo7" target="_blank" rel="noopener"><strong>call for applicants</strong></a><strong> for the PSEMP Steering Committee!</strong>The PSEMP SC is seeking new members to increase representation across sectors, geographies, and expertise, to help PSEMP in fulfilling its mission and advancing its objectives to support collaboration, adaptive management, and communication in the context of Puget Sound recovery. The call for applicants includes important background information on PSEMP, the role of the Steering Committee, and what we value in Steering Committee members. Please apply if interested and help us spread the word and encourage potential applicants to submit a letter of interest (see <a href="https://pspwa.box.com/s/k86r5r32x87lmk5znsts0thxgnpiqpo7" target="_blank" rel="noopener">instructions here</a>) by <strong>March 31, 2019</strong>.</p>
+
+			<p>&nbsp;</p>
+			</div>	
+		<div class="highlightbox margin-20-top">
+			<h3>PSEMP Strategic Plan Approved!</h3>
 			<p>November 1, 2018</p>
 			<p>Thank you to everyone who participated in discussions, helped review, and otherwise contributed to the<a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi"> 2018-2022 PSEMP Strategic Plan</a>. The document was approved by the PSEMP Steering Committee on October 19, 2018, for final adoption at their November 13, 2018 meeting. The Puget Sound Partnership Executive Director also approves the plan and will support its implementation.</p>
 			<p>Help spread the word and share with your networks. Work Group Leads, please circulate this announcement to your work group lists!</p>
