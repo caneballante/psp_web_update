@@ -162,7 +162,7 @@
 				</tr>
 				<tr>
 					<td valign="top"><ul>
-						<li><a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+						<li><a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
 					</ul></td>
 				</tr>
 				<tr>

@@ -25,7 +25,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
+  	navSelected = 8;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -47,8 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1 class="grey">EVALUATING ACTIONS TO RECOVER <br>
-				PUGET SOUND</h1>
+			<h1 class="grey">EVALUATING ACTIONS TO RECOVER PUGET SOUND</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -65,18 +64,22 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Tracking and evaluating Puget Sound ecosystem recovery efforts as they are carried out is key to holding partners accountable, understanding successes and challenges, and supporting changes to the work. We track the progress and funding of hundreds of <a href="https://psp.wa.gov/2018_AA_submitted_NTA.php">Near Term Actions</a> owned by a range of Puget Sound partners. <a href="https://pspwa.box.com/s/okbinjro65v7aqxgup7at83j2wbk4o7y">Learn more about why Near Term Action reporting improves the Action Agenda and helps recover Puget Sound in this 1-page summary</a>.</p>
-				<p>Evaluating the progress of these actions is a critical tool not only for informing the management of recovery efforts, but is also a requirement in the Partnership&rsquo;s founding legislation and an important statutory component of the biennial State of the Sound report.</p>
+			<p class="padding-0-top">Tracking and evaluating Puget Sound ecosystem recovery efforts as they are carried out is key to holding partners accountable, understanding successes and challenges, and supporting changes to the work. We track the progress and funding of hundreds of <a href="https://psp.wa.gov/2018_AA_submitted_NTA.php">Near Term Actions</a> owned by a range of Puget Sound partners. <a href="https://pspwa.box.com/s/okbinjro65v7aqxgup7at83j2wbk4o7y">Learn more about why Near Term Action reporting improves the Action Agenda and helps recover Puget Sound in this 1-page summary</a>. Evaluating the progress of these actions is a critical tool not only for informing the management of recovery efforts, but is also a requirement in the Partnership&rsquo;s founding legislation and an important statutory component of the biennial State of the Sound report.</p>
+			<p>&nbsp;</p>
 			<p>Several online tools offer accessible opportunities to track the recovery actions and activities taking place throughout the Sound:</p>
-<h2>REPORT CARD</h2>
-			<p>We report on the status and funding of the Action Agenda&rsquo;s Near Term Actions in the Action Agenda Report Card. This online tool allows users to find out more about specific actions, or groups of actions, with a range of helpful filters and search options. <a href="evaluating-about-report-card.php">Learn more</a></p>
-			<h2>Recovery ATLAS</h2>
-			<p>The Puget Sound Recovery Atlas helps you learn more about an important subset of Puget Sound restoration and protection projects that are financed or tracked by the Washington State Recreation and Conservation Office. <a href="evaluating-about-recovery-atlas.php">Learn More</a></p>
-			<h2>NEP ATLAS</h2>
-			<p>The NEP Atlas is a compilation of interactive maps, graphs, and tables of activities funded beginning in 2007 by the National Estuary Program (NEP) of the U.S. Environmental Protection Agency. <a href="evaluating-about-NEP-atlas.php">Learn more</a>			</p>
-			<h2>AGENCY PERFORMANCE MANAGEMENT</h2>
-			<p>Coming soon.</p>
-			<h2> Effectiveness Monitoring</h2>
+			<span class="floatright padding-20-top"><img class="img-responsive" src="images/puget-sound-info-screenshot.jpg" width="400"  alt=""/></span>
+		<h2>PUGET SOUND INFO <span class="new-red">NEW!</span></h2>
+			
+			<p>Puget Sound Info is an online, collaborative platform for sharing information about Puget Sound recovery priorities, investments, accomplishments, and progress toward near-term outcomes and long-term recovery goals.&nbsp;Managed by the Partnership and developed with input from many Puget Sound recovery partners, Puget Sound Info is the new online home for multiple tools used to track and report on Puget Sound recovery efforts, including the Action Agenda Tracker, the NEP Atlas, and the Vital Sign website. <a href="https://www.pugetsoundinfo.wa.gov/">Visit Puget Sound Info</a></p>
+			<div class="padding-50-left"><h2>Action Agenda Tracker <span class="new-red">NEW!</span></h2>
+			<p>The Action Agenda Tracker was created to allow implementers, funders, decisionmakers, and the public to track Puget Sound recovery actions associated with the Action Agenda starting in 2018. The Tracker also helps us tell stories about the work, investments, and accomplishments of the broad community of organizations and individuals dedicated to Puget Sound recovery. <a href="https://actionagenda.pugetsoundinfo.wa.gov">Visit the Action Agenda Tracker</a>			</p>
+			<h2>NEP ATLAS <span class="new-red">NEW!</span></h2>
+			<p>The NEP Atlas is an online, interactive tool that summarizes activities and accomplishments funded through the National Estuary Program of the U.S. Environmental Protection Agency.  Information is provided through the Action Agenda Tracker and by many other NEP funding recipients. NEP investments for the period 2012-2018 are summarized in the NEP Atlas Archive (link here?). Starting in 2019, the NEP Atlas is moving to Puget Sound Info. VISIT<a href="https://nepatlas.pugetsoundinfo.wa.gov/">Visit the NEP Atlas</a></p>
+						<h2>PUGET SOUND VITAL SIGNS <span class="new-red">NEW!</span></h2>
+			<p>The Puget Sound Vital Signs are measures of ecosystem health and progress toward Puget Sound recovery goals. Thanks to a strong network of monitoring programs and committed scientists and environmental program managers in the Puget Sound Ecosystem Monitoring Program, the status and trends of indicators and progress toward recovery goals are regularly updated throughout this website.  <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Visit the Vital Signs</a></p></div>
+<h2>REPORT CARD </h2>
+		<p>The Action Agenda Report Card is an online tool used to track and report on progress and funding of Action Agenda Near Term Actions. Starting with the 2018-2022 Action Agenda, the Action Agenda Tracker will replace the Report Card and will provide interactive, up to date information about the status, funding, and accomplishments of all 2018 NTAs. Information about over 800 NTAs from the 2012, 2014 and 2016 Action Agendas can still be found in the Report Card Archives for <a href="https://app.smartsheet.com/b/publish?EQBCT=4125b6c62a144684a6664b626577ccfe">2012</a>, <a href="https://app.smartsheet.com/b/publish?EQBCT=bc56baeef3004a5da95309eb287aaafa">2014</a> and  <a href="http://www.psp.wa.gov/gis/ReportCard/">2016</a>. </p>
+		<h2> Effectiveness Monitoring</h2>
 			<p>Many restoration and management actions have been effective in restoring ecosystem components and processes in Puget Sound, but much of the evidence of success is found in technical documents that are not easy to access. We are reviewing scientific reports to distill information about what&rsquo;s working to restore Puget Sound. This information, once vetted by regional experts, is presented in fact sheets and narrative summaries that can be used to help develop effective programs and projects that align with the Puget Sound Action Agenda and accelerate the recovery of Puget Sound.<a href="evaluating-effective-action.php"> Learn more</a></p>
 			<h2>STATE OF THE SOUND</h2>
 			<p>The Partnership is required in Washington state statute to produce a State of the Sound report every 2 years to demonstrate progress in our collective efforts to recover the Sound. The State of the Sound website is a comprehensive and broadly accessible resource that includes the latest report content, as well as additional in-depth analysis and technical information not available in the briefer, printed documents. <a href="sos.php">View the 2017 State of the Sound</a></p>

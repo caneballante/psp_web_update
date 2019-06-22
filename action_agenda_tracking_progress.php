@@ -77,7 +77,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Puget Sound Partnership monitors progress toward ecosystem recovery at two scales—ecosystem health and progress status of recovery efforts.</p>
 			<h2>Ecosystem Health</h2> 
-			<p>The recovery community tracks&nbsp;<a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs</a>, which are measures of ecosystem health directly aligned with the six recovery goals established by the Washington State Legislature. Most Vital Signs are represented by one or more specific metrics—called indicators—that provide information about the condition of the Puget Sound ecosystem. Many of the Vital Sign indicators are further refined by the use of 2020 recovery targets.			</p>
+			<p>The recovery community tracks&nbsp;<a href="https://vitalsigns.pugetsoundinfo.wa.gov">Vital Signs</a>, which are measures of ecosystem health directly aligned with the six recovery goals established by the Washington State Legislature. Most Vital Signs are represented by one or more specific metrics—called indicators—that provide information about the condition of the Puget Sound ecosystem. Many of the Vital Sign indicators are further refined by the use of 2020 recovery targets.			</p>
 			<h2>Project and Program Status </h2>
 			<p>Project sponsors and partners implement the programs and projects identified in the Action Agenda and monitor the results of the recovery actions. </p>
 			<ul>

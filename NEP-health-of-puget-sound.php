@@ -98,7 +98,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="http://www.psp.wa.gov/vitalsigns/index.php">Vital Signs </a></li>
+				<li class="active" role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Vital Signs </a></li>
 				<li role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>

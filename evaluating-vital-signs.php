@@ -69,7 +69,7 @@
 		
 			<h2 class="margin-0-top">PUGET SOUND VITAL SIGNS</h2>
 			<p>The Puget Sound Vital Signs gauge the health of Puget Sound and guide our assessment of the progress made toward ecosystem recovery goals. Each Vital Sign represents an important component of the ecosystem; each component is represented by one or more indicators. Vital Sign indicators are used to measure and report important, specific aspects of the Puget Sound ecology and human wellbeing, while targets associated with indicators are policy statements that define desired future outcomes.</p>
-			<p><a href="/vitalsigns/index.php">Visit the Puget Sound Vital Signs web site.</a></p>
+			<p><a href="https://vitalsigns.pugetsoundinfo.wa.gov">Visit the Puget Sound Vital Signs web site.</a></p>
 			
 			<p><a href="https://pspwa.app.box.com/s/g7jddc0r39mtvm0yvkqbry2ah62cu0bz">download  2017 Vital Signs webinar powerpoint</a> <img class="img-responsive" src="images/vitalsigns_wheel.png" width="600" height="602" alt=""/> <!-- InstanceEndEditable --> </div>
 		
@@ -79,7 +79,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
-					<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+					<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
 				
 				<!-- InstanceEndEditable -->
 			</ul>
