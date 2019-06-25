@@ -73,6 +73,10 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<div class="highlightbox margin-0-top margin-20-bottom">
+			<p><span class="new-red">NEW!</span> The Puget Sound Partnership is transitioning to a new tool to monitor ecosystem health and implementation of the Action Agenda. Please visit <a href="https://www.pugetsoundinfo.wa.gov/">Puget Sound Info </a>for the most recent information.</p>
+			</div>
+			
 			<p>Past versions of the Action Agenda <br>
 				<br>
 		<p><a href="https://pspwa.box.com/shared/static/h2ysd0bz8a1yxagtgkdaikqr1czl0owz.pdf">2016  Action Agenda (PDF)</a></p>

@@ -74,6 +74,10 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+				<div class="highlightbox margin-0-top margin-20-bottom">
+			<p><span class="new-red">NEW!</span> The Puget Sound Partnership is transitioning to a new tool to monitor ecosystem health and implementation of the Action Agenda. Please visit <a href="https://www.pugetsoundinfo.wa.gov/">Puget Sound Info </a>for the most recent information.</p>
+			</div>
+			
 			<h2 class="margin-10-top">Why do we need an Action Agenda?</h2>
 			<p>Puget Sound is a unique and vital part of our region. It nourishes our health, economy, environment, and quality of life. A healthy Puget Sound is essential to sustaining a vibrant economy, meeting our obligations to treaty rights, and supporting our need for connection to the natural world. But Puget Sound is not as healthy as it should be. For example:</p>
 			<ul type="disc">

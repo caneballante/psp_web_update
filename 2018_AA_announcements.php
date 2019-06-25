@@ -76,7 +76,12 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top">
+				
+		<div class="highlightbox margin-0-top">
+			<p>The Puget Sound Partnership is transitioning to a new user-friendly database to allow easy filtering of Regional Priorities and Near Term Actions for Puget Sound recovery and to monitor and report on implementation of the Action Agenda. Please visit the new <a href="https://actionagenda.pugetsoundinfo.wa.gov/">Action Agenda Tracker</a>. </p>
+		  <p>The Action Agenda Tracker was created to allow implementers, funders, decisionmakers, and the public to track Puget Sound recovery actions. The Tracker also helps us tell stories about the work and accomplishments of the broad community of organizations and individuals dedicated to Puget Sound recovery. All Regional Priorities and Near Term Actions in the Action Agenda for Puget Sound are now stored in the Tracker.</p>
+		</div>
+			<div class="highlightbox margin-20-top">
 			<p>  <span lang="EN">On December 5, 2018, the Leadership Council adopted the 2018-2022 Action Agenda for Puget Sound after reviewing recommendations from the Ecosystem Recovery Board, Salmon Recovery Council and Science Panel, as well as input received from advisory boards, tribes, and the public</span>. </p>
 			<p>	As part of its proposal, the Leadership Council asked that the Southern Resident Orca Vital Sign be added as a priority Vital Sign for this 4 year period.  Bringing the Task Force recommendations into the sphere of the Action Agenda is essential to leverage existing efforts and momentum and to identify the actions that can have the largest benefit for both Southern Resident orcas and the Puget Sound ecosystem as a whole.</p>
 				<p>	This Action Agenda could not have been made without the dedication and work of all of our partners and broader recovery community. The 2018-2022 Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it complements and incorporates the work of many local and regional partners from around Puget Sound to describe strategies and specific actions needed to recover Puget Sound.  </p>

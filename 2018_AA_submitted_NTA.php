@@ -75,6 +75,10 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+				<div class="highlightbox margin-0-top margin-20-bottom">
+			<p><span class="new-red">NEW!</span> The Puget Sound Partnership is transitioning to a new tool to monitor ecosystem health and implementation of the Action Agenda. Please visit <a href="https://www.pugetsoundinfo.wa.gov/">Puget Sound Info </a>for the most recent information.</p>
+			</div>
+			
 			<p><strong>The 2018-2022 Action Agenda includes 631 actions that are ready to get underway that advance the Action Agenda&rsquo;s  Regional Priorities. </strong></p>
 			<p>Local and regional experts in habitat restoration, shellfish bed protection and recovery, stormwater pollution, and salmon recovery&nbsp;<a href="https://medium.com/puget-sound-partnership/2018-action-agenda-nta-review-camp-a-huge-success-bf88ef2588cb">came together</a>&nbsp;to review and rank Near Term Actions for inclusion in the 2018-2022 Action Agenda. </p>
 			<p>Regardless of ranking, <strong><em>all NTAs in the 2018-2022 Action Agenda are considered high priority</em></strong> and important and necessary to accelerate Puget Sound recovery during the next 4 years. The highest ranked actions (tier 4) are considered to be best aligned with the Action Agenda. </p>
