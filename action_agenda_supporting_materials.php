@@ -75,6 +75,10 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+				<div class="highlightbox margin-0-top margin-20-bottom">
+			<p><span class="new-red">NEW!</span> The Puget Sound Partnership is transitioning to a new tool to monitor ecosystem health and implementation of the Action Agenda. Please visit <a href="https://www.pugetsoundinfo.wa.gov/">Puget Sound Info </a>for the most recent information.</p>
+			</div>
+			
 			<table border="0" cellspacing="0" cellpadding="0">
 				<tr>
 					<td valign="top"><p><strong>Policy and Planning</strong></p>
@@ -162,7 +166,7 @@
 				</tr>
 				<tr>
 					<td valign="top"><ul>
-						<li><a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+						<li><a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
 					</ul></td>
 				</tr>
 				<tr>

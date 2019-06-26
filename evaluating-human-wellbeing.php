@@ -87,7 +87,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="science-basis-of-recovery-overview.php">Science Basis for Recovery</a></li>
-				<li role="presentation"> <a href="/vitalsigns/index.php">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="sos.php">State of the Sound</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>

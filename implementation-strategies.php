@@ -76,7 +76,7 @@
 		  	<p>·         Find links to <a href="https://pspwa.box.com/v/sa-readme" target="_blank">all supporting materials</a></p>
 			</div>
             <p>&nbsp;</p>
-            <p><strong>Implementation Strategies</strong> (Strategies) are plans for accelerating progress toward the 2020 <a href="action_agenda_targets.php">ecosystem recovery targets</a> for the <a href="http://www.psp.wa.gov/vitalsigns/index.php">Puget Sound Vital Signs</a>. The Strategies are developed collaboratively with technical, professional, and policy experts and with local and regional input. An overview of the Strategies is available at the <a href="https://www.eopugetsound.org/magazine/is/implementation-strategies">Encyclopedia of Puget Sound</a> website.</p>
+            <p><strong>Implementation Strategies</strong> (Strategies) are plans for accelerating progress toward the 2020 <a href="action_agenda_targets.php">ecosystem recovery targets</a> for the <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a>. The Strategies are developed collaboratively with technical, professional, and policy experts and with local and regional input. An overview of the Strategies is available at the <a href="https://www.eopugetsound.org/magazine/is/implementation-strategies">Encyclopedia of Puget Sound</a> website.</p>
             <p>Each Strategy accomplishes the following</p>
             <ul>
                 <li> Identifies priority near-term (4-6 years) approaches—including strategies, actions, and program and policy changes—for achieving a specific recovery target</li>
