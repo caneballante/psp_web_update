@@ -84,46 +84,10 @@
 			<p>Regardless of ranking, <strong><em>all NTAs in the 2018-2022 Action Agenda are considered high priority</em></strong> and important and necessary to accelerate Puget Sound recovery during the next 4 years. The highest ranked actions (tier 4) are considered to be best aligned with the Action Agenda. </p>
 			<p><a href="#what">What is a Near Term Action? </a>|<a href="#how"> How were NTAs solicited?</a></p>
 			
-			<!-- Nav tabs -->
-<ul class="nav nav-tabs" role="tablist">
-  <li class="active"><a href="#1" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'Recommended');">All 2018 NTAs</a></li>
-  <li><a href="#2" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'Tier');">By Tier</a></li>
-  <li><a href="#3" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'Vital sign');">By Vital Sign</a></li>
-  <li><a href="#4" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'Owner');">By Owner</a></li>
-  <li><a href="#5" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'LIO');">by LIO</a></li>
-  <li><a href="#6" role="tab" data-toggle="tab" onClick="ga('send', 'event', 'ntaviewer', 'click', 'Priority');">By Regional Priority Approach</a></li>
- 
-  
-</ul>
+					<div class=" border-thick-blue floatcenter padding-10-all">
+		 <p>Please visit the Action Agenda Tracker for a complete list of Near Term Actions, as well as a map that shows the locations of all Near Term Actions in the 2018-2022 Action Agenda.</p> <a href="https://actionagenda.pugetsoundinfo.wa.gov/"><img src="images/news-images/AA-tracker.jpg" width="300" height="225" alt=""/></a> 
+			</div>
 
-<!-- Tab panes -->
-<div class="tab-content">
-	 <!--tab 1 -->
-	<div class="tab-pane active  iframe-actionagenda" id="1">	
-		<iframe name="Public Recommended Results" title="Public Recommended Results" src="https://c4esh335.caspio.com/dp/8ab35000d9d99e00958d4adf8238">Sorry, but your browser does not support frames.</iframe><br>
-	</div>
-  <!--tab 2 -->
-	<div class="tab-pane iframe-actionagenda" id="2">
-		<iframe name="Public Recommended Results_tier" title="Public Recommended Results_tier" src="https://c4esh335.caspio.com/dp/8ab35000098cf792a37d48229a6b">Sorry, but your browser does not support frames.</iframe>
-	</div>
-  <!--tab 3 -->
-	<div class="tab-pane iframe-actionagenda" id="3">
-		<iframe name="Public Recommended Results_vs" title="Public Recommended Results_vs" src="https://c4esh335.caspio.com/dp/8ab35000c51dec93874042188f70">Sorry, but your browser does not support frames.</iframe>
-	</div>
-  <!--tab 4 -->
-	<div class="tab-pane iframe-actionagenda" id="4">
-		<iframe name="Public Recommended Results_org" title="Public Recommended Results_org" src="https://c4esh335.caspio.com/dp/8ab35000f6954f0c250a44da8ba5">Sorry, but your browser does not support frames.</iframe>
-	</div>
-  <!--tab 5 -->
-	<div class="tab-pane iframe-actionagenda" id="5">
-		<iframe name="Public Recommended Results_lio" title="Public Recommended Results_lio" src="https://c4esh335.caspio.com/dp/8ab3500032a31b6b5c3f47178344">Sorry, but your browser does not support frames.</iframe>
-	</div>
-  <!--tab 6 -->
-	<div class="tab-pane iframe-actionagenda" id="6">
-		<iframe name="Public Recommended Results_rpa" title="Public Recommended Results_rpa" src="https://c4esh335.caspio.com/dp/8ab35000ebe6b53259bf4fbdba75">Sorry, but your browser does not support frames.</iframe>
-	</div>
-
-</div>
 			<span id="what"></span>
 			<h2>WHAT IS A NEAR TERM ACTION?</h2>
 			<p>Many types of discrete, measurable actions constitute NTAs. The term &ldquo;action&rdquo; is broadly defined to include projects, initiatives, or programs. NTAs can also be large or small in scale and can be a portion (or phase) of a larger, longer-term effort. For the 2018-2022 Action Agenda, the following three categories of actions are considered to be NTAs:</p>
