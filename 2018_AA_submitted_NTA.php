@@ -84,8 +84,8 @@
 			<p>Regardless of ranking, <strong><em>all NTAs in the 2018-2022 Action Agenda are considered high priority</em></strong> and important and necessary to accelerate Puget Sound recovery during the next 4 years. The highest ranked actions (tier 4) are considered to be best aligned with the Action Agenda. </p>
 			<p><a href="#what">What is a Near Term Action? </a>|<a href="#how"> How were NTAs solicited?</a></p>
 			
-					<div class=" border-thick-blue floatcenter padding-10-all">
-		 <p>Please visit the Action Agenda Tracker for a complete list of Near Term Actions, as well as a map that shows the locations of all Near Term Actions in the 2018-2022 Action Agenda.</p> <a href="https://actionagenda.pugetsoundinfo.wa.gov/"><img src="images/news-images/AA-tracker.jpg" width="300" height="225" alt=""/></a> 
+					<div class="  floatcenter padding-10-all">
+		 <p>Please visit the Action Agenda Tracker for a complete list of Near Term Actions, as well as a map that shows the locations of all Near Term Actions in the 2018-2022 Action Agenda.</p> <a href="https://actionagenda.pugetsoundinfo.wa.gov/"><img src="images/news-images/AA-tracker.jpg" width="500" height="425" alt=""/></a> 
 			</div>
 
 			<span id="what"></span>
