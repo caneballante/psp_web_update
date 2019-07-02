@@ -66,14 +66,14 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		    <div class="highlightbox">
-		  		  <h3>UPDATED 4.25.18 Shoreline Armoring Implementation Strategy available </h3>
+		  		  <h3>UPDATED SUMMER 2019 Shoreline Armoring Implementation Strategy available </h3>
 			
-			<p>A new Shoreline Armoring Implementation Strategy that aims to reduce <a href="http://www.psp.wa.gov/vitalsigns/shoreline_armoring.php" target="_blank">shoreline armoring in Puget Sound</a> is now final following public comment and external review. The <a href="https://pugetsoundestuary.wa.gov/about/strategic-initiatives/" target="_blank">Habitat Strategic Initiative</a> team developed the strategy in partnership with the Washington Department of Fish &amp; Wildlife, Washington Department of Natural Resources, Puget Sound Partnership, Puget Sound Institute, and an <a href="https://pspwa.box.com/s/bzqt9amrn5nz8nrtzlvwkak7z9w66jw5" target="_blank">Interdisciplinary Team of experts</a>.</p>
-		  	<p>Learn more about the Implementation Strategy:</p>
-		  	<p>·         Check out our <a href="https://pspwa.box.com/s/7txtkxd550twoxi31jbtjnxlmh595lsv" target="_blank">poster</a> presented at the Salish Sea Ecosystem Conference</p>
-		  	<p>·         Read our <a href="https://pspwa.box.com/s/94l5kleynxsguyu6x0a40wxyz10qmtbz" target="_blank">fact sheet</a></p>
-		  	<p>·         Read the <a href="https://pspwa.box.com/s/tddkkijelt53bvlom2z1xi0xl5xkacp7" target="_blank">executive summary</a> and <a href="https://pspwa.box.com/s/8aoi05npjh5ffs6or6qmwye1g4hc1yk5" target="_blank">narrative</a></p>
-		  	<p>·         Find links to <a href="https://pspwa.box.com/v/sa-readme" target="_blank">all supporting materials</a></p>
+			<p>Strategic Initiative Leads for the Stormwater Strategic Initiative, along with hundreds of recovery partners from across the Sound, have been working hard to develop the next series of Implementation Strategies. As of the summer 2019, work continues on completing new Strategies meant to reduce toxics in fish, improve stream health and freshwater quality, and reduce the humans contribution of depleted oxygen in marine waters. While these three implementation strategies are targeting those vital signs (<a href="https://pspwa.app.box.com/folder/25928486748">TIF</a>, <a href="https://pspwa.app.box.com/folder/24371817211" >BIBI</a>) implementation and adaptive management on the existing IS continues. <br>
+			  <br>
+The Implementation Strategy program is continuing work to better connect and &ldquo;network&rdquo; the strategies and actions to achieve multi-benefit, cross-cutting outcomes by asking the question, &ldquo;Where can we identify fewer, more impactful actions that will lead to multiple positive outcomes across the Sound?&rdquo;<br>
+<br>
+Shifting toward a more networked approach is the next iteration of the Implementation Strategies program, and an expression of the principles of <a href="https://www.psp.wa.gov/science-adaptive-management-framework.php">Adaptive Management</a> in action.  Current efforts support taking an ecosystem perspective by integrating work across Vital Signs and ISs that are under development and preparing the <a href="https://www.psp.wa.gov/science-basis-of-recovery-overview.php">scientific basis</a> required for future Implementation Strategies. Work will be connected across ISs and IS-related activities so that Vital Sign and indicator-specific activities, planning, and findings resonate at broader geographic and political scales to affect ecosystem recovery and ensure maximum impact of regional strategies, plans, and reports.</p>
+            <p>&nbsp;</p>
 			</div>
             <p>&nbsp;</p>
             <p><strong>Implementation Strategies</strong> (Strategies) are plans for accelerating progress toward the 2020 <a href="action_agenda_targets.php">ecosystem recovery targets</a> for the <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a>. The Strategies are developed collaboratively with technical, professional, and policy experts and with local and regional input. An overview of the Strategies is available at the <a href="https://www.eopugetsound.org/magazine/is/implementation-strategies">Encyclopedia of Puget Sound</a> website.</p>
@@ -90,23 +90,27 @@
                 <li>Builds on existing knowledge and lessons learned from previous and current recovery efforts</li>
             </ul>
            <p>Implementation Strategies are developed by use of a results-based (adaptive) management framework for Puget Sound recovery. This framework is founded on the Open Standards for the Practice of Conservation. <a href="http://psp.wa.gov/science-adaptive-management-framework.php">LEARN MORE</a>           </p>
-           <p>The following Strategies, though not fully complete, are available for use:</p>
+           <p>The following Strategies, currently being implemented or are ready for implementation:</p>
            <ul>
                 <li>Estuaries</li>
                 <li>Shellfish beds</li>
                 <li>Floodplains</li>
                 <li>Land development and cover</li>
                 <li>Eelgrass</li>
+			 
                 
-                <li>Chinook salmon</li>
-           	</ul>
-           <p>The following Strategies are currently under development and expected to be completed in 2017:</p>
+             <li>Chinook salmon</li>
+			    <li>Shoreline armoring</li>
+       	</ul>
+           <p>The following Strategies are currently under development  in 2019:</p>
            <ul>
-                <li>Shoreline armoring</li>
-                <li>Benthic Index of Biotic Integrity (B-IBI) (one of three indicators for the Freshwater Quality Vital Sign)</li>
+               
+             <li>Benthic Index of Biotic Integrity (B-IBI) (one of three indicators for the Freshwater Quality Vital Sign)</li>
                 <li>Toxics in fish</li>
-           	</ul>
-            <h2>WHO DEVELOPS IMPLEMENTATION STRATEGIES?</h2>
+        </ul>
+           <p>Based on the Regional Priorities defined by the Leadership Council for the 2018-2022 Action Agenda, the next Vital Sign to be addressed by an Implementation Strategy is <a href="https://www.psp.wa.gov/vitalsigns/summer_stream_flows.php">Summer Stream Flows</a>. Preparatory work on this Vital Sign has begun, including the compilation of existing Vital Sign-related and other Puget Sound-wide planning and analysis products that will form the technical basis for the IS, will be used as reference throughout IS content development, and will likely serve as references for future updates to the IS.<br>
+           Additionally, adaptive management of existing implementation strategies will look include more connections among existing strategies, ongoing Near Term Actions, and ongoing programs that are working to support Puget Sound recovery. </p>
+<h2>WHO DEVELOPS IMPLEMENTATION STRATEGIES?</h2>
             <p>The first five Strategies were developed under the leadership of the Partnership with support from the EPA and the Puget Sound Institute (PSI). Following lessons learned from the first Implementation Strategy pilot project, which addressed the recovery target for the Eelgrass Vital Sign, the Partnership convened interdisciplinary teams (IDTs) of partners from 2015-2016 to develop four more Implementation Strategies addressing recovery targets for estuaries, shellfish beds, floodplains, and land development and cover. This Partnership-led team also produced common guidelines for developing new Strategies. </p>
             <p>As the EPA’s <a href="http://psp.wa.gov/NEP-overview.php">Puget Sound National Estuary Program</a> has shifted to relying more heavily on Implementation Strategies to guide investments in Puget Sound recovery, the Habitat, Shellfish, and Stormwater <a href="http://www.psp.wa.gov/strategic-initiatives-leads.php">Strategic Initiative (SI) Leads</a> have taken on greater responsibility for managing Implementation Strategies. SI Lead duties include:</p> 
             <uL>
@@ -123,18 +127,17 @@
                 <li>Participate in Strategy development, which is a collaborative undertaking. </li>
                 <li>Provide LIO ecosystem recovery plans. The plans are instrumental in providing watershed-specific context to the developing Strategy.</li>
             </ul>
-            <h2>IMPLEMENTATION STRATEGIES IN 2017</h2>
-            <p>Four new Strategies are planned for completion in 2017 so that they can be used to inform development of the 2018 Action Agenda and the 2018 Science Work Plan.</p>
-            <strong><p>Shoreline Armoring</p></strong>
-            <p>The Habitat SI Lead is guiding development of a Strategy to address the 2020 indicator target for the Shoreline Armoring Vital Sign. </p>
-            <p>For more information: please contact Jennifer Griffiths, <a href="mailto:jennifer.griffiths@dfw.wa.gov">jennifer.griffiths@dfw.wa.gov</a>, Technical Lead for the Habitat Strategic Initiative at the Washington Department of Fish and Wildlife. </p>
-            <strong><p>Fresh Water Quality and Toxics in Fish</p></strong>
+            <h2>IMPLEMENTATION STRATEGIES IN 2019</h2>
+            <p>Implementation Strategies for the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/16">Shoreline Armoring</a> and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/18">Chinook Salmon</a> Vital Signs were released in 2018 and contain information and strategies that are ready for implementation. In 2019, three new Strategies are currently under development, with updates underway for partially completed strategies. </p>
+		<strong>
+		<p>Marine Water Quality<br>
+		</p></strong>
+			<p>With support from the Stormwater Strategic Initiative, Dustin Bilhimer, the Puget Sound Nutrient Source Reduction Project Manager with the Department of Ecology, is guiding the development of an Implementation Strategy targeted at the marine water quality vital sign indicator for dissolved oxygen in marine waters. Along with informing discussions in the <a href="https://www.ezview.wa.gov/DesktopDefault.aspx?alias=1962&pageid=37106">Puget Sound Nutrient Forum</a> this Implementation Strategy aims to address the human impacts on the amount of dissolved oxygen in marine waters. Together, the Marine Water Quality IS and the Puget Sound Nutrient Source Reduction Project look to address questions such as what actions are needed to reduce nutrients, where, and by how much. <strong></strong></p>
+		<strong>
+		<p>Fresh Water Quality (B-IBI) and Toxics in Fish</p></strong>
             <p>The Stormwater SI Lead is guiding development of Strategies to address the Benthic Index of Biotic Integrity (B-IBI) indicator for the Freshwater Quality Vital Sign, as well as the 2020 indicator target for Toxics in Fish Vital Sign. </p>
-            <p>For more information, contact Gary Myers, <a href="mailto:Gary.Myers@ECY.wa.gov">Gary.Myers@ECY.wa.gov</a>, Implementation Strategy Lead for the Stormwater Strategic Initiative at the Department of Ecology.</p>
-            <strong><p>Chinook Salmon</p></strong>
-            <p>The Partnership is guiding development of the Implementation Strategy for the 2020 indicator target to address the Chinook Salmon Vital Sign, to be completed in the spring of 2017. 
-            For more information please contact Amber Moore at <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a>.</p> 
-            <strong><p>Partially complete Strategies</p></strong>
+        <p>For more information, contact Gary Myers, <a href="mailto:Gary.Myers@ECY.wa.gov">Gary.Myers@ECY.wa.gov</a>, Implementation Strategy Lead for the Stormwater Strategic Initiative at the Department of Ecology.</p>
+            <strong><p>&nbsp;</p></strong>            <strong><p>Partially complete Strategies</p></strong>
             <p>The following four partially complete Strategies will be further developed in coming years to inform Action Agenda, Science Work Plan and other planning and funding decisions.</p> 
             <p>Contact the leads for these Strategies for more information:</p>
             <ul>
