@@ -66,7 +66,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		    <div class="highlightbox">
-		  		  <h3>UPDATED SUMMER 2019 Shoreline Armoring Implementation Strategy available </h3>
+		  		  <h3>UPDATED SUMMER 2019 </h3>
 			
 			<p>Strategic Initiative Leads for the Stormwater Strategic Initiative, along with hundreds of recovery partners from across the Sound, have been working hard to develop the next series of Implementation Strategies. As of the summer 2019, work continues on completing new Strategies meant to reduce toxics in fish, improve stream health and freshwater quality, and reduce the humans contribution of depleted oxygen in marine waters. While these three implementation strategies are targeting those vital signs (<a href="https://pspwa.app.box.com/folder/25928486748">TIF</a>, <a href="https://pspwa.app.box.com/folder/24371817211" >BIBI</a>) implementation and adaptive management on the existing IS continues. <br>
 			  <br>
@@ -103,12 +103,13 @@ Shifting toward a more networked approach is the next iteration of the Implement
 			    <li>Shoreline armoring</li>
        	</ul>
            <p>The following Strategies are currently under development  in 2019:</p>
-           <ul>
+        <ul>
                
              <li>Benthic Index of Biotic Integrity (B-IBI) (one of three indicators for the Freshwater Quality Vital Sign)</li>
                 <li>Toxics in fish</li>
         </ul>
-           <p>Based on the Regional Priorities defined by the Leadership Council for the 2018-2022 Action Agenda, the next Vital Sign to be addressed by an Implementation Strategy is <a href="https://www.psp.wa.gov/vitalsigns/summer_stream_flows.php">Summer Stream Flows</a>. Preparatory work on this Vital Sign has begun, including the compilation of existing Vital Sign-related and other Puget Sound-wide planning and analysis products that will form the technical basis for the IS, will be used as reference throughout IS content development, and will likely serve as references for future updates to the IS.<br>
+           <p>Based on the Regional Priorities defined by the Leadership Council for the 2018-2022 Action Agenda, the next Vital Sign to be addressed by an Implementation Strategy is <a href="https://www.psp.wa.gov/vitalsigns/summer_stream_flows.php">Summer Stream Flows</a>. Preparatory work on this Vital Sign has begun, including the compilation of existing Vital Sign-related and other Puget Sound-wide planning and analysis products that will form the technical basis for the IS, will be used as reference throughout IS content development, and will likely serve as references for future updates to the IS.</p>
+           <p><br>
            Additionally, adaptive management of existing implementation strategies will look include more connections among existing strategies, ongoing Near Term Actions, and ongoing programs that are working to support Puget Sound recovery. </p>
 <h2>WHO DEVELOPS IMPLEMENTATION STRATEGIES?</h2>
             <p>The first five Strategies were developed under the leadership of the Partnership with support from the EPA and the Puget Sound Institute (PSI). Following lessons learned from the first Implementation Strategy pilot project, which addressed the recovery target for the Eelgrass Vital Sign, the Partnership convened interdisciplinary teams (IDTs) of partners from 2015-2016 to develop four more Implementation Strategies addressing recovery targets for estuaries, shellfish beds, floodplains, and land development and cover. This Partnership-led team also produced common guidelines for developing new Strategies. </p>

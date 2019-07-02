@@ -138,8 +138,10 @@
 			<p> Communications Specialist <br />
 				360.999.9673 | <a href="mailto:julia.luna@psp.wa.gov">julia.luna@psp.wa.gov </a></p>
 		<h3>INtegrated Planning Program</h3>
-			<h5>Vacant</h5>
+			<h5>Stephanie Suter</h5>
             <p>Policy and Planning Director <br />
+              360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov </a></p>
+            <p><br />
         </p>
             <h3>Planning team</h3>
             <h5>Heather Saunders</h5>
@@ -166,11 +168,7 @@
               <em>Whatcom</em>
               <br />
         360.480.2880| <a href="mailto:leah.kintner@psp.wa.gov">leah.kintner@psp.wa.gov </a></p>
-            <h5>Stephanie Suter</h5>
-            <p>Regional Manager<br>
-              <em>South Sound</em>
-              <br />
-        360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov </a></p>
+            <h5>&nbsp;</h5>
 
             <h5>Dan Calvert</h5>
         <p>Ecosystem Recovery Coordinator<br>
