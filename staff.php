@@ -175,7 +175,7 @@
           <em>Puyallup/White, Nisqually, WRIA 13 and 14</em><br />
         360.360.789.3165 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov </a></p>
             <h5>Alexandra Doty</h5>
-            <p>Project Coordinator<br>
+            <p>Ecosystem Recovery Coordinator<br>
               <em>South Central, LIO Special Projects</em><br />
         360.280.6664| <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov </a></p>
             <h5>Laura Ferguson</h5>
