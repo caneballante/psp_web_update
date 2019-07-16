@@ -291,6 +291,12 @@ p {
 .margin-20-right {
 	margin-right: 20px;
 }
+.margin-15-right {
+	margin-right: 15px;
+}
+.margin-18-right {
+	margin-right: 18px;
+}
 .margin-40-right {
 	margin-right: 40px;
 }
@@ -309,6 +315,7 @@ p {
 .margin-10-left {
 	margin-left: 10px;
 }
+
 .margin-20-left {
 	margin-left: 20px;
 }
@@ -942,6 +949,15 @@ p {
 }
 .right-nav-contact {
 	font-size: 12px;
+}
+
+.left-nav-title {
+	font-size: 12px;
+	font-weight: 900;
+	font-style: italic;
+	padding-bottom: 5px;
+	color: #777;
+	border-bottom: solid 1px #D6D4D4;
 }
 
 
