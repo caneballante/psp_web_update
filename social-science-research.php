@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+œ<!DOCTYPE html>
 <html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta charset="UTF-8">
@@ -72,7 +72,7 @@
 			<h3>SOCIAL SCIENCE ADVISORY COMMITTEE</h3>
 			<p>The Partnership&rsquo;s Science Panel established the Puget Sound Social Science Advisory Committee (SSAC) in 2010. The SSAC engages social scientists from many disciplines to inform and support Partnership goals and advise the Science Panel on matters related to the social sciences, salmon, and ecosystem recovery. Committee members include social scientists, both academics and professionals, from the Puget Sound region. The SSAC meets regularly to discuss advancements in social science research and monitoring, guide additional Puget Sound priority social science, review Partnership materials, and provide a liaison to the Science Panel. The SSAC also informs the work of the Puget Sound Institute (PSI) in support of recovery efforts.</p>
 			<h3>SOCIAL SCIENCE RESEARCH NEEDS FOR PUGET SOUND RECOVERY</h3>
-			<p>In 2013, the Puget Sound Institute conducted a workshop for regional social scientists to determine research and monitoring needs or gaps related to Puget Sound recovery. Through the workshop social science research and monitoring needs for Puget Sound recovery were identified and used to inform the 2016 Biennial Science Work Plan. The social science research agenda will be revisited and revised in 2018.			</p>
+			<p>The Social Science for the Salish Sea (S4) project was initiated in response to the Puget Sound Partnership&rsquo;s stated need for robust social science to inform regional ecosystem recovery strategies. Through a partnership with the University of Washington&rsquo;s EarthLab, we convened a transboundary team of interdisciplinary researchers and practitioners to develop an<a href="https://pspwa.box.com/shared/static/iak8x19qh0qhem1qhsvqhmgcnmdg9m2g.pdf"> action-oriented social science research agenda</a> that serves the pragmatic ecosystem recovery needs of the Salish Sea—the transboundary waters shared by British Columbia&rsquo;s Georgia Basin and Washington State&rsquo;s Puget Sound.</p>
 			<h3>NETWORK ANALYSIS</h3>
 			<p>In 2013 the <a href="https://pspwa.box.com/s/knxdmd0st71w4f3z3ggk7nfk76oqbx6d">Puget Sound Partnership commissioned researchers at the University of Washington to investigate the social connections influencing Puget Sound recovery</a>, because a key part of the agency&rsquo;s mission is to build working partnerships.</p>
 			<h3>MUNICIPAL BARRIERS TO GREEN INFRASTRUCTURE</h3>
@@ -105,7 +105,19 @@
 			<p><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=2312&amp;Itemid=238"> Tree Planting Focus Group Report</a></p>-->
 			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">DOWNLOADS</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"><a href="https://pspwa.box.com/shared/static/iak8x19qh0qhem1qhsvqhmgcnmdg9m2g.pdf">S4 social science research agenda</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/knxdmd0st71w4f3z3ggk7nfk76oqbx6d">Analysis of Organizations Engaged in Puget Sound Ecosystem Recovery</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/45tqlfh4w6qidabkzlr21jy3y82xv0po" target="new">Sound Behavior Index reports</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/uybht4wqvv0q04t6nltnsp9uyo9j6r3e" target="new">Public opion surveys</a></li>
+				
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

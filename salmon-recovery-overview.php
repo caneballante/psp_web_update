@@ -161,6 +161,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 						<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/shared/static/k0xpbegydhwww61vq3xzjc36y3fawfwx.pdf">Puget Sound Nearshore Chinook Salmon Strategies</a></li>
 				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/k50wb4xz16sbbzfjz8zcutfrqnfvhdc3">Lead Entity guidance on Chinook salmon and climate change</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/aikkubhd6at4eo7yibqdsmvdrwcsrr4z">Lead Entity guidance on Chinook salmon and climate change flow chart</a></li>

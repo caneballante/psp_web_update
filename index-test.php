@@ -30,18 +30,12 @@
 <!-- Intro Header -->
 <header class="intro">
 	<div class="intro-body">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
- 					<h1>2019 PUGET SOUND DAY ON THE HILL<br>
-						 WASHINGTON D.C.</h1>
- 					<p>&nbsp;</p>
- 					<h1 class="brand-heading">&nbsp;</h1>
- 					<div class="learn-more-box"><a href="psdoth2019.php">LEARN MORE</a></div>  
-					
-					<div class="white-links"></div>
-					
- 				</div>
+			  <div class="col-md-6 col-md-offset-3 white-box"><br><br><br>
+			    <h2 class="remove-uppercase white">Southern Resident Orca.</h2>
+			    <h3><a class="white" href="psdoth2019.php">LEARN MORE</a></h3>
+		      </div>
 			</div>
 		</div>
 	</div>
@@ -58,7 +52,7 @@
 		<div class="col-sm-3 padding-40-top"><img src="images/home_roadmap.png" width="264" height="264" alt="satellite view of the Salish Sea" class="img-responsive img-rounded"/></div>
 		<div class="col-sm-3 padding-10-top">
 			<h1>CHARTING THE COURSE TO RECOVERY</h1>
-			<div class="padding-5-bottom"><a href="action_agenda_center.php"> 2018-2022 ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
+			<div class="padding-5-bottom"><span class="new-red">NEW!</span><a href="action_agenda_center.php"> 2018-2022 ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
 		
 			<div class="padding-5-bottom"><a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
 			<div class="padding-5-bottom"><a href="science-adaptive-management-framework.php">RESULTS-BASED MANAGEMENT</a></div>
@@ -76,9 +70,7 @@
 		<div class="col-sm-3 padding-40-top"><img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive img-rounded"/></div>
 		<div class="col-sm-3 padding-10-top">
 			<h1>MEASURING RECOVERY</h1>
-			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="https://www.pugetsoundinfo.wa.gov">PUGET SOUND INFO</a></div>
-			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING ACTIONS TO RECOVER PUGET SOUND</a></div>
-			
+			<div class="padding-5-bottom"><a href="https://www.pugetsoundinfo.wa.gov">PUGET SOUND INFO</a></div>
 			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">VITAL&nbsp;SIGNS</a></div>
 			<div class="padding-5-bottom"><a href="sos.php">2017&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
 			<div class="padding-5-bottom"><a href="/PSEMP-overview.php">ECOSYSTEM&nbsp;MONITORING (PSEMP)</a> </div>
@@ -187,11 +179,42 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/2423f78">
 					</div>
 				</div>
 			</div>
-		<!--COLUMN END-->
+			<!--COLUMN END-->
+			
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill">
+	
+		
+			<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">JUL<br>
+			  17-18</div>
+				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+					University of Washington<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">JUL<br> 
+				25
+				</div>
+				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Edmonds Center for the Arts, Edmonds,WA</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
@@ -207,43 +230,16 @@ https://content.govdelivery.com/accounts/WAPSP/bulletins/2423f78">
 			</div>
 		</div>
 		<!--COLUMN END-->
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content-->
-				<div class="newsbox-date">SEP<br> 
-				26
-				</div>
-				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					Port Gamble S’Klallam Longhouse</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
+		
+	
+				<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
 				<div class="newsbox-date">OCT<br>
 			  1-2</div>
-				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL,<br>
-				    Mt. Vernon<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->	
-		
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
-				<div class="newsbox-date">OCT<br>
-			  16-17</div>
-				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-					University of Washington<br>
+				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
+				    Mt. Vernon, WA<br>
 							</a><br>
 				</div>
 				<!--END news content-->

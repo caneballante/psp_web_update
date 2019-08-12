@@ -124,6 +124,9 @@ p {
 	line-height: 1.9;
 	font-family: georgia, times, serif;
 }
+.right-align {
+	text-align: right;
+}
 /* ul, ol, and a styles nested in "content-column" to keep them seperate from all the navigation styles */
 .content-column ul, ol {
 	font-size: 15px;
@@ -372,6 +375,9 @@ p {
 .underline {
 	text-decoration-line: underline;
 }
+.remove-uppercase {
+	text-transform: initial;
+}
 .auto-size {
 	width: 100%;
 	height: auto;
@@ -494,6 +500,11 @@ p {
 /*Highlight a piece of content in a blue box!*/
 .highlightbox {
 	background-color: rgba(227,237,249,1.00);
+	border-radius: 1px 30px 1px 1px;
+	padding: 20px;
+}
+.white-box {
+	border: solid #fff;
 	border-radius: 1px 30px 1px 1px;
 	padding: 20px;
 }
