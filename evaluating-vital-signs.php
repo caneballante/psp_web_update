@@ -68,46 +68,49 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 			<h2 class="margin-0-top">PUGET SOUND VITAL SIGNS</h2>
-			<p>The Puget Sound Vital Signs gauge the health of Puget Sound and guide our assessment of the progress made toward ecosystem recovery goals. Each Vital Sign represents an important component of the ecosystem; each component is represented by one or more indicators. Vital Sign indicators are used to measure and report important, specific aspects of the Puget Sound ecology and human wellbeing, while targets associated with indicators are policy statements that define desired future outcomes.</p>
-			<p><a href="https://vitalsigns.pugetsoundinfo.wa.gov">Visit the Puget Sound Vital Signs web site.</a></p>
+			<p>The Puget Sound Vital Signs are measures of ecosystem health that guide the assessment of progress toward Puget Sound recovery goals.&nbsp;Each of the six&nbsp;Puget Sound recovery goals are expressed with one or more Vital Signs that represent&nbsp;important components of the ecosystem (e.g. marine water, economic vitality). Each component is, in turn, represented by one or more indicators. The&nbsp;<a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/ViewAll">indicators&nbsp;</a>are specific&nbsp;measures of Puget Sound conditions, including human wellbeing, while&nbsp;<a href="https://pspwa.box.com/shared/static/ev6jlpvwsztrh7icp1jev9v5mg4tmiov.pdf">ecosystem recovery targets</a>&nbsp;are policy statements that express desired future conditions for&nbsp;human health and quality of life, species and food webs, habitats, water quantity, and water quality. </p>
+			<p><img src="images/vital-sign-structure-diagram.jpg" height="142" alt=""/></p>
+<p><a href="https://vitalsigns.pugetsoundinfo.wa.gov">Visit the Puget Sound Vital Signs web site.</a></p>
 			
-			<p><a href="https://pspwa.app.box.com/s/g7jddc0r39mtvm0yvkqbry2ah62cu0bz">download  2017 Vital Signs webinar powerpoint</a> <img class="img-responsive" src="images/vitalsigns_wheel.png" width="600" height="602" alt=""/> <!-- InstanceEndEditable --> </div>
+			<p class="no-icon"><a class="no-icon" href="https://vitalsigns.pugetsoundinfo.wa.gov"><img class="img-responsive" src="images/vitalsigns_wheel.png" width="600" height="602" alt=""/></a> 
+				
+			<h3>When were indicators and targets selected?</h3>
+			<p>The Vital Signs are fundamental to the Partnership&rsquo;s <a href="https://www.pugetsoundinfo.wa.gov">shared measurement system</a>. The indicators were selected by the Puget Sound Partnership based on recommendations by a team of scientists convened by the Partnership in 2010. Ecosystem recovery targets were selected based on recommendations by interdisciplinary teams in 2011. In 2015, the Partnership described the scope of each Vital Signs and added specificity to the ecosystem components included in the Vital Signs. That same year, the Partnership selected Vital Signs and indicators of human wellbeing.</p>
+			<p><a href="https://pspwa.box.com/s/5bnq0nmu8f6abrvm7gee9nrt017rf7jc">Vital Sign indicator selection process (drafted and implemented in 2010)</a><br>
+		    <a href="https://pspwa.box.com/s/mh73y4xia6odf1y4a0esid4ecrpiutlg">Executive Director&rsquo;s statement on the scope of Vital Signs for Near-Term Actions (2015)</a><br>        
+			<a href="https://pspwa.box.com/s/sysdrg8g5b4lrg2mrz2g4mmjn92pjgqo">Leadership Council resolution approving new human wellbeing Vital Signs and indicators (2015)</a></p>
+         	<h3> Where to find results?</h3>
+			<p>The primary venue for reporting on the Puget Sound Vital Signs and the status and progress of their indicators is the&nbsp;<a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Vital Sign website</a>&nbsp;in the&nbsp;<a href="https://www.pugetsoundinfo.wa.gov/">Puget Sound Info</a>&nbsp;platform. The Vital Signs are also fundamental to the Puget Sound Partnership&rsquo;s&nbsp;<a href="http://www.psp.wa.gov/sos.php">State of the Sound&nbsp;</a>report, published every two years. </p>
+			<p><a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Visit the Puget Sound Vital Signs website</a></p>
+          	<h3><span  class="new-red">NEW!</span> The Puget Sound Vital Signs and Indicators Revision Project is underway!</h3>
+            <p>The Partnership, with the help of a consultant team from Ross Strategic, has begun a collaborative effort to revise the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Puget Sound Vital Signs and indicators</a>. It has been ten years since the Partnership adopted the indicators. The project incorporates learning and feedback from partners and promises an improved suite of shared measures to track and report on the health of Puget Sound. The project is part of a broader effort to develop measures of progress toward Puget Sound recovery, including near-term results delivered by projects and programs and intermediate results representing reduction of stressors that degrade the Vital Signs. Vital Sign and indicator recommendations are expected in June 2020.</p>
+            <p>Visit <a href="https://pspwa.box.com/s/9wuzla2mp9eoze3gv91j5w6rzqqzofsd">the Vital Sign and indicator revision project page</a>.</p>
+        <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 					<div class="right-nav-title">SEE ALSO</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
-					<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
 				
-				<!-- InstanceEndEditable -->
+				<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="PSEMP-overview.php">PSEMP Website</a></li>
+				<li role="presentation"> <a href="https://pugetsoundinfo.wa.gov">Puget Sound Info</a></li>
+				<li role="presentation"> <a href="sos.php">State of the Sound</a></li>
+	
+				
+			  <!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
+			<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology</a></li>
-				<li role="presentation"> <a href="https://www.dnr.wa.gov">WA Dept of Natural Resources</a></li>
-				<li role="presentation"> <a href="https://www.doh.wa.gov/CommunityandEnvironment">WA Dept of Health</a></li>
-				<li role="presentation"> <a href="https://wdfw.wa.gov/">WA Dept of Fish and Wildlife</a></li>
 				<li role="presentation"> <a href="http://www.whaleresearch.com">Center for Whale Research</a></li>
-				
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
-				<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li class="active" role="presentation"> <a href="sos.php">2017 State of the Sound</a></li>
-					<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
-					
-					<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
-					<li></li>
-			<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
-					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>-->
+				<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology</a></li>
+				<li role="presentation"> <a href="https://wdfw.wa.gov/">WA Dept of Fish and Wildlife</a></li>
+				<li role="presentation"> <a href="https://www.doh.wa.gov/CommunityandEnvironment">WA Dept of Health</a></li>
+				<li role="presentation"> <a href="https://www.dnr.wa.gov/AAMT">WA Dept of Natural Resources</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
