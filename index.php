@@ -98,18 +98,29 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top">
-						<!--COLUMN START-->
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/monte-marti.jpg"  alt=""/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/a-tribute-to-monte-marti-and-the-promise-of-collaboration-118bfe60f684">8/15: A tribute to Monte Marti and the promise of collaboration </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/salish-splash.jpg"  alt=""/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/celebrating-orca-month-at-the-salish-splash-844157e5bf2d">
-6/14: Celebrating Orca Month at the Salish Splash
-
-					
-					  </a><br>
+						<a href="https://medium.com/puget-sound-partnership/celebrating-orca-month-at-the-salish-splash-844157e5bf2d">6/14: Celebrating Orca Month at the Salish Splash</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -117,18 +128,14 @@
 				
 			</div>
 		<!--COLUMN END-->
-					<!--COLUMN START-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTh.jpg"  alt=""/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/good-news-from-washington-d-c-6a8b680f79af">
-5/28:Good News from Washington, D.C.
-
-					
-					  </a><br>
+						<a href="https://medium.com/puget-sound-partnership/good-news-from-washington-d-c-6a8b680f79af">5/28:Good News from Washington, D.C. </a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -136,44 +143,7 @@
 				
 			</div>
 		<!--COLUMN END-->
-				<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
-					<strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/243b974">
-5/8: Northwest leaders travel to Washington D.C. for ‘Puget Sound Day on The Hill’ together with ‘Salmon Days’
-					
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			
 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/Director-Blackmore.jpg"  alt=""/> 
-					<strong>NEWS RELEASE</strong><br>
-						<a href="
-https://content.govdelivery.com/accounts/WAPSP/bulletins/2423f78">
-							 May 1, 2019: Laura Blackmore Named Executive Director of Puget Sound Partnership 
-					  </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
 		
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">

@@ -162,7 +162,7 @@
     
             <h5>Alexandra Doty</h5>
             <p>Ecosystem Recovery Coordinator<br>
-                <em>South Central, LIO Special Projects</em><br />
+                <em>South Central LIO, Lake Washington/Cedar/Sammamish (WRIA 8), Green/Duwamish (Wria 9)</em><br />
                 360.280.6664| <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov </a></p>        
     
             <h5>Laura Ferguson</h5>
