@@ -117,9 +117,9 @@
             <p> Boards Policy Specialist<br />
                 360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p>
             
-            <h5>Vacant</h5>
-            <p>Special Projects Assistant<br /></p>
-          
+            <h5>Ahren Stroming</h5>
+            <p>Special Projects Assistant<br />
+           		360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
              <!--COMMUNICATIONS--> 
             <h3 class="padding-10-top">COMMUNICATIONS PROGRAM</h3>
             <h5>Cathy Cochrane</h5>
@@ -200,11 +200,12 @@
             <h5>Scott Redman</h5>
             <p> Program Director<br />
                 360.464.1230 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
-            <h5>Vacant</h5>
+            <h5>Katherine Wyatt</h5>
             <p>Assistant Science Director<br />
+			360.918.1098 | <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></p>
             <h5>Jenna Judge</h5>
             <p> Monitoring Lead for the Puget Sound Partnership and PSEMP<br/>
-                360.870.1467| <a href="mailto:jenna.judge@psp.wa.gov">jenna.judge@psp.wa.gov</a><br></p>  
+                360.870.1467 | <a href="mailto:jenna.judge@psp.wa.gov">jenna.judge@psp.wa.gov</a><br></p>  
             <h5>Vacant</h5>
             <p> Network Monitoring Coordinator</p>
             <h5>Leska Fore</h5>

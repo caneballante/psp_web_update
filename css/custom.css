@@ -554,6 +554,37 @@ p {
 	margin: 0 auto;
 	border-radius: 5px
 }
+/*use to test out different images without screwing up index.php 9-28-15*/
+.intro-test {
+	display: table;
+	width: 100%;
+	height: 500px;
+	padding: 20px 0;
+	text-align: center;
+	color: #fff;
+	background: url("../images/home_image13.jpg")no-repeat bottom center scroll;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+.intro-test .intro-body {
+	display: table-cell;
+	vertical-align: bottom;
+}
+/*sets text size on the jumbotron*/
+.intro-test h1 {
+	font-size: 34px;
+	text-shadow: 2px 2px #000;
+}
+.intro-test .learn-more-box {
+	width: 150px;
+	display: block;
+	border: solid #fff 1px;
+	margin: 0 auto;
+	border-radius: 5px
+}
 /* fixes the z index on the modal so it's not greyed out 9-28-15*/
 .modal-backdrop.in {
 	z-index: auto;
