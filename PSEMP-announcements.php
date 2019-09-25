@@ -67,6 +67,29 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox margin-0-top">
+			 <p>September 13, 2019</p>
+				<h3>PSEMP Steering Committee Election Results</h3>
+		      <p>At the September 10 PSEMP Steering Committee meeting, the committee unanimously supported the election of&nbsp;the following members to fill leadership positions for a 2-year term:</p>
+             <ul type="disc">
+               <li>Chair: Lisa Chang, EPA</li>
+               <li>Vice Chair: Kate Litle, WA Sea Grant</li>
+               <li>Executive Committee*: </li>
+               <ul type="circle">
+                 <li>Jennifer Griffiths, WDFW</li>
+                 <li>Marguerite Pappaioanou, UW School of Public Health</li>
+                 <li>David Price, NOAA</li>
+               </ul>
+             </ul>
+             <p>The SC and Partnership staff thanked Jerry Joyce for serving as Chair for the past 2 years, through a time of much transition and growth for PSEMP, and he will remain on the SC as a regular member through December 2019.</p>
+             <p>The agenda and meeting materials (meeting summary will be added next week), can be found in the <a href="https://pspwa.box.com/s/6ix3k2kfxe9lavhukmh371se3cwlg0rr" target="_blank">meeting folder</a>. The <a href="https://www.psp.wa.gov/PSEMP-calendar.php" target="_blank">PSEMP Calendar </a>has information about all recent and upcoming Steering Committee and PSEMP Work Group meetings.</p>
+              <p> *The Executive Committee is a newly formed committee for PSEMP and also includes the Chair and Vice Chair. More information about this committee can be found in the bylaws, linked on the Steering Committee page of the <a href="https://www.psp.wa.gov/PSEMP-overview.php" target="_blank">PSEMP website</a>. </p>
+           <h3>New Partnership position hired</h3>
+           <p> The Puget Sound Partnership is thrilled to welcome Chrys Bertolotto as the Monitoring Network Coordinator, forming a Monitoring Team of two (along with myself as the Monitoring Lead) within the Partnership Science and Evaluation team. Chrys brings decades of experience working in the world of Puget Sound recovery, with many partners across many disciplines, most recently working for WSU Snohomish County Extension. The skills and experience Chrys brings will be key assets as we continue to implement the <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi" target="_blank">PSEMP Strategic Plan</a> and build stronger relationships with our ecosystem recovery partners.</p>
+           <h3>Vital Sign Indicator Revision Project</h3>
+           <p>Thank you for your engagement in the discussion of revisions to the Puget Sound Vital Signs and indicators. We hope many of you will be able to attend the workshop in Kingston on October 10 to start working on the revisions. <a href="https://www.surveymonkey.com/r/5L6J7PG">RSVP for the workshop here</a>. If you&rsquo;d like to help with the revisions but can&rsquo;t attend the workshop, you can <a href="https://www.surveymonkey.com/r/VitalSignSmallGroups">sign up for post-workshop small groups here</a>, there will be one per Vital Sign. We have had some questions since the discussion yesterday, to clarify, the revision effort is focused on Vital Signs and indicators related to water quality, water quantity, habitat, and species and food webs (the so called &quot;biophysical side&quot; of Vital Signs and indicators). <a href="https://pspwa.box.com/v/VitalSignProjectInfo">More information about the project is at this link</a>.</p>
+
+			</div>	
+			<div class="highlightbox margin-20-top">
 			  <h3>Help us recruit a Monitoring Network Coordinator!</h3>
 			  <p>June 12, 2019</p>
 		

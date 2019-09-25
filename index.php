@@ -160,35 +160,8 @@
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill">
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
-				<div class="newsbox-date">AUG<br>
-			  15</div>
-				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-					South Seattle Community College Georgetown<br>
-							</a><br>
-					<br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content-->
-				<div class="newsbox-date">SEP<br> 
-				26
-				</div>
-				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					Port Gamble S’Klallam Longhouse</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
+		
+		
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
@@ -196,13 +169,14 @@
 				<div class="newsbox-date">OCT<br>
 			  1-2</div>
 				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL,<br>
-				    Mt. Vernon<br>
+				    Seattle<br>
 							</a><br>
 				</div>
 				<!--END news content-->
 			</div>
 		</div>
 		<!--COLUMN END-->	
+	
 		
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
@@ -213,6 +187,33 @@
 				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
 					University of Washington<br>
 							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">NOV<br>
+			  13</div>
+				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+					South Seattle Community College Georgetown<br>
+							</a><br>
+					<br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+			  <div class="newsbox-date">NOV 21</div>
+				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Edmond Center for the Arts</a><br>
 				</div>
 				<!--END news content-->
 			</div>

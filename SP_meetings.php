@@ -111,7 +111,9 @@ Seattle, WA 98105</p></td>
 				</tr>
 				<tr>
 					<td><p>December 17-18</p></td>
-					<td><p>Tacoma, WA<br>
+					<td><p>Puget Sound Regional Council<br>
+1011 Western Avenue, Suite 500,<br>
+Seattle, WA 98104 <br>
 					</p></td>
 					<td><a href="https://pspwa.box.com/s/mfrg2aaxbbcrvj9t0h4l0g9q7eufnizk" target="new">Meeting Materials</a><br />
 					</td>
