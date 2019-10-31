@@ -66,7 +66,50 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top">
+		<div class="highlightbox margin-0-top">
+		  <p>September 23, 2019</p>
+		  <h3 align="left">Puget Sound Spatial Data Coordination Workshop</h3>
+				<p>October 31, 2019, 9:30am-4:00pm, Edmonds Center for the Arts</p>
+				
+				  <p align="left"><strong>Join your fellow spatial data producers and users to explore ways of optimizing our data and tools for recovery questions and decisions in our region!</strong></p>
+				  <p align="left"><strong>Please <a href="https://www.eventbrite.com/e/puget-sound-spatial-ecology-workshop-tickets-72991697131?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text" target="_blank" title="" rel="noopener">RSVP here </a></strong>and indicate if you will attend this workshop <em>or</em> are interested and would like to receive information and follow-up materials. <strong>We appreciate <a href="https://www.eventbrite.com/e/puget-sound-spatial-ecology-workshop-tickets-72991697131?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text" target="_blank" title="" rel="noopener">RSVPs</a> to attend the workshop by 10/21 to inform planning.</strong></p>
+				  <p align="left">This workshop intends to build relationships, increase awareness, and develop solutions around spatial data designed inform protection and restoration of Puget Sound. Desired workshop outcomes include:</p>
+				  <ul>
+				    <li>Craft the design of a regional spatial data work group that will work to optimize use of spatial data through increasing communication, collaboration, training, funding and other means.</li>
+				    <li>Identify key elements of support needed and possible roles of existing coordinating bodies (e.g., PSEMP) in supporting successful spatial data coordination and collaboration.</li>
+				    <li>Build and solidify relationships among data users, producers, and intermediaries who can move spatial data coordination and collaboration forward.</li>
+				    <li>Explore creation of an inventory of spatial databases and a data user communication forum.</li>
+				    <li>Identify next steps to advance work on the spatial data topics of breakout sessions on:
+				      <ul>
+				        <li>Stormwater</li>
+				        <li>Freshwater riparian</li>
+				        <li>Land use and land cover</li>
+				        <li>Physical barriers to freshwater systems: levees</li>
+				        <li>Other topics identified during workshop</li>
+			          </ul>
+			        </li>
+			      </ul>
+				  <p align="left"><strong><a href="https://www.eventbrite.com/e/puget-sound-spatial-ecology-workshop-tickets-72991697131?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text" target="_blank" title="" rel="noopener">Please RSVP at the Eventbrite link here</a></strong></p>
+				  <p align="left"><em>This workshop is free to attend, and is in person only, please plan to join us for the entire workshop. Lunch and refreshments will be provided.</em> <em>There will not be a remote/call-in option.</em></p>
+				  <hr>
+				  <p align="left">This workshop was planned by a collaborative multi-organization team, with funding from the Puget Sound Partnership and Suquamish Tribe. Facilitation support was provided by Cascadia Consulting Group. For more information, or questions, please contact Jenna Judge at jenna.judge@psp.wa.gov.</p>
+				  <p align="left">Planning Team:</p>
+				  <ul>
+				    <li>Jen Burke, PSP</li>
+				    <li>Lisa Chang, EPA</li>
+				    <li>Libby Gier, DNR</li>
+				    <li>Andy James, Puget Sound Institute</li>
+				    <li>Bruce Jones, NWIFC</li>
+				    <li>Jenna Judge, PSP</li>
+				    <li>Randy Lumper, NWIFC</li>
+				    <li>Phillip Murphy, InfoHarvest, Inc.</li>
+				    <li>Ken Pierce, WDFW</li>
+				    <li>Paul Williams, Suquamish Tribe</li>
+				    <li>Cascadia Consultants: P.J. Tillman, Emily Wright</li>
+			      </ul>
+		  </div>	
+			
+			<div class="highlightbox margin-20-top">
 			 <p>September 13, 2019</p>
 				<h3>PSEMP Steering Committee Election Results</h3>
 		      <p>At the September 10 PSEMP Steering Committee meeting, the committee unanimously supported the election of&nbsp;the following members to fill leadership positions for a 2-year term:</p>

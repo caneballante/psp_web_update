@@ -101,6 +101,22 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSAR.jpg"  alt=""/> 
+					<strong>ANNOUNCEMENT</strong><br>
+					  <a href=" https://pspwa.box.com/s/i2hvfn5cbbc40afmg03y91x5x5koqdlr">PSAR Large Capital Projects <br>
+				 RFP for 2021-2023 </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/monte-marti.jpg"  alt=""/> 
 					<strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/a-tribute-to-monte-marti-and-the-promise-of-collaboration-118bfe60f684">8/15: A tribute to Monte Marti and the promise of collaboration </a><br>

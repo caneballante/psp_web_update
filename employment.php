@@ -77,6 +77,9 @@
 		<p>
 		<a href="https://www.governmentjobs.com/careers/washington/jobs/2571244/data-system-support-specialist-exempt"><br>
 	   Data System Support Specialist (Exempt)</a><br>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2501952/communications-specialist-exempt?keywords=communications&pagetype=jobOpportunitiesJobs"><br>
+	  Communication Specialist</a><br>	
+		       
 	
 	  </p>	
 	

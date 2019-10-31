@@ -113,11 +113,11 @@
 		<div class="col-sm-2 padding-20-top padding-0-right">
 				<div class="right-nav-title margin-0-top ">CONTACT</div>
 				<ul class="nav-rightside-custom">
-					<li role="presentation"> <p>Julia Luna,<br>
-						Media Contact
-						<br>
-						360-999-9673<br>
-						<a href="mailto:julia.luna@psp.wa.gov">julia.luna@psp.wa.gov</a>			</p>
+					<li role="presentation"> <p>Jon Bridgman,<br>
+					
+						
+						206-276-5309<br>
+						<a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov</a>			</p>
 					</li>
 				</ul>
 			</div>

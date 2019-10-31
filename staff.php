@@ -230,12 +230,12 @@
                 Office 360.339.5861 | Cell 360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a> </p>
             <!--ADMINISTRATIVE SUPPORT-->
             <h3 class="padding-10-top">Administrative Support Team</h3>
-            <h5>jennifer goodenough</h5>
-            <p> Administrative Supervisor<br />
-                360.628.0050 | <a href="mailto:jennifer.goodenough@psp.wa.gov">jennifer.goodenough@psp.wa.gov</a> </p>
-            <h5>Charisse Sonnier</h5>
-            <p>Administrative Assistant<br />
+             <h5>Charisse Sonnier</h5>
+            <p>Administrative Supervisor<br />
                 360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a><br /></p>
+			<h5>Vacant</h5>
+            <p> Administrative Assistant<br />
+             </p>
             <h5>Ami Hollingsworth</h5>
             <p>Administrative Assistant<br />
                 360.464.1218 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
@@ -280,7 +280,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://pspwa.box.com/s/x69yrpovb3658iugtnik6gf0aidjaogs">Organizational Chart</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/x69yrpovb3658iugtnik6gf0aidjaogs.pdf">Organizational Chart</a></li>
 				
 				<!-- InstanceEndEditable -->
 			</ul>

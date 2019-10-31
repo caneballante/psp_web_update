@@ -67,7 +67,9 @@
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<div class="highlightbox margin-0-top">
-				<p class="padding-10-all"><a href="PSAR-resources.php"> PSAR project fact sheets</a><br>				
+				<p class="padding-10-all"><span class="new-red">NEW!</span><a href="https://pspwa.box.com/s/i2hvfn5cbbc40afmg03y91x5x5koqdlr"> Puget Sound Acquisition and Restoration (PSAR) Large Capital Projects <br>
+				  Request for Proposals for the 2021-2023 state biennium
+					</a></p>				
 			</div>
 			<div class="sidebarbox margin-20-top margin-20-left margin-20-bottom padding-10-all orange-fill">
 				<h3 class="margin-0-top">PSAR ACCOMPLISHMENTS</h3>
