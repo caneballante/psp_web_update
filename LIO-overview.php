@@ -77,14 +77,14 @@
 				<li><a href="http://www.healthysouthsound.org/" target="new">Alliance for a Healthy South Sound</a></li>
 				<li><a href="http://hccc.wa.gov" target="new">Hood Canal Coordinating Council </a></li>
 				<li> <a href="http://www.westcentrallio.org" target="new">West Central LIO</a></li>
-				<li><a href="http://wria1project.whatcomcounty.org/" target="new">Whatcom LIO</a> (<a href="http://wria1project.whatcomcounty.org/" target="new">WRIA 1 Policy Boards</a>)</li>
+				<li><a href="http://wria1project.whatcomcounty.org/" target="new">Whatcom LIO</a></li>
 				<li><a href="http://www.straiternlio.org/">Strait Ecosystem Recovery Network </a></li>
 				<li><a href="http://www.islandcountywa.gov/Health/DNR/ILIO/Pages/Home.aspx" target="new">Island LIO</a></li>
 				<li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization" target="new">Snohomish/Stillaguamish LIO </a></li>
 				<li><a href="https://www.piercecountywa.gov/6341/PWR-LIO" target="new">Puyallup-White River LIO (PWR LIO)</a></li>
 			</ul>
-			<p><img class="img-responsive" src="images/LIOsPresentation.png" width="1000" height="900" alt=""/></p>
-			<p>This LIO map does not yet include the nw Puyallup-White River LIO</p>
+			<p><a href="https://wa-psp.maps.arcgis.com/apps/MapSeries/index.html?appid=24cb5422c760478d9200346eebfde5c9"><img class="img-responsive" src="images/LIOsPresentation.jpg" width="1000" height="900" alt=""/></a></p>
+			<p>&nbsp;</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

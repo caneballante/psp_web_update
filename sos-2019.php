@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership -State of the Sound Archive</title>
+<title>Puget Sound Partnership -State of the Sound</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -26,7 +26,7 @@
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 1;
 	subNavSelected = 0;
 </script>
 <!-- InstanceEndEditable -->
@@ -43,10 +43,14 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image113"></header>
+<header class="overview-page-image-style overview-page-image113">
+	<div class="overview-quote pull-right">
+	
+	</div>
+</header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-		<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2017-SOS-banner-logo.png" width="372" height="46" alt=""/></div>
+		<div class="col-sm-12 orange-fill align-center overview-logo-banner margin-20-bottom"><img src="images/stateofthesound-logo-no-date.png" width="388" height="59" alt=""/></div>
 	</div>
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
@@ -62,36 +66,32 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">State of the Sound archive</h1>
-			<h3>2017 State of the Sound</h3>
-			<ul>
-				<li><a href="https://pspwa.box.com/s/pcmq1ik1otenheklg5sucz7bkmkpjphq">2017 State of the Sound</a></li>
-			</ul>
-			<h3>2015 State of the Sound</h3>
+			<div class="floatright"><a class="no-icon text-right" href="https://www.stateofthesound.wa.gov"><img class="img-responsive" src="images/2019sos.jpg" width="350" height="617" alt=""/></a><br><p class="text-right"><a href="https://www.stateofthesound.wa.gov">Visit the State of the Sound website</a></p
 			
-			<ul>
-				<li><a href="https://pspwa.box.com/2015-SOS-community-report">Report the the Community</a></li>
-				<li><a href="https://pspwa.box.com/2015-SOS-vitalsigns-report" target="_blank">Report on the Puget Sound Vital Signs</a></li>
-				<li><a href="https://pspwa.box.com/2015-SOS-governor-report">Report to the Governor and Legislature</a></li>
-			</ul>
-				<h3>2013 State of the Sound</h3>
-			<ul>
-				<li><a href="https://pspwa.box.com/s/vr2e2349jqsvhvruq9w1">2013 State of the Sound</a></li>
-				<li><a href="https://pspwa.box.com/s/vxu6nhzs10s8dotu3if1">Appendices</a></li>
-			</ul>
-				<h3>2012 State of the Sound</h3>
-			<ul>
-				<li><a href="https://pspwa.box.com/s/z4zt9jmhvznznz0k77m97tryjwv1nj4u">2012 State of the Sound</a></li>
-				<li><a href="https://pspwa.box.com/s/m0q7q4fy7jtp0dpm40z1woaqumytska1">Appendices</a></li>
-			</ul>
-				<h3>2009 State of the Sound</h3>
-			<ul>
-				<li><a href="https://pspwa.box.com/s/9rnznhun4xilib2ta7au51tpkrtwc7bg">2009 State of the Sound</a></li>
-				<li><a href="https://pspwa.box.com/s/t5b5z0zu28puki5rtcm9sm208cqfkdeg">Appendices</a></li>
-			</ul>	
-	
-	
-	
+				
+			<p class="text-right"><a href="#">Download 2019 State of the Sound Brochure (PDF)</a></p>
+				<p class="text-right"><a href="#">Download 2019 State of the Sound report</a></p>
+			
+			
+		</div>
+        <h2 class="margin-0-top">About the State of the Sound</h2>
+            <p>As a national and tribal treasure, Puget Sound is worthy of our every effort for protection and restoration. Such effort requires the coordination and collaboration of hundreds of partners in planning, prioritizing, and undertaking the actions needed to recover and sustain Puget Sound.</p>
+            <p>The biennial State of the Sound report is intended to help our partners and decision makers better understand (1) how well the recovery effort is going, (2) ecosystem health and progress toward Puget Sound recovery goals, and (3) the role each partner can play in achieving Puget Sound recovery. It also responds specifically to state statute (RCW 90.71.370(3)).</p>
+            <p>There are two parts to the State of the Sound:</p>
+            <p><strong><a href="www.stateofthesound.wa.gov">State of the Sound Website</a></strong><br>
+        The online version  presents a Call to Action for recovery partners, an overview of ecosystem conditions, the status of the recovery effort, three stories of successful Puget Sound recovery projects, and messages from the Partnership&rsquo;s Executive Director, Leadership Council and Science Panel.</p>
+            <p><strong><a href="#">State of the Sound Report (PDF)</a><br>
+        </strong>Required by state law, the State of the Sound Report includes most of the content included in the website and additional information on the status of the Puget Sound recovery effort, including detailed information on funding, Near Term Actions, ongoing programs, legislative and policy developments and a summary of citizen concerns.</p>
+            <h2 class="padding-20-top">More Resources</h2>
+            <p><a href="https://stateofthesound.wa.gov/more-information/#"><strong>Download the State of the Sound Brochure (PDF)</strong></a><br>
+              Printed copies are available by contacting <a href="mailto:info@psp.wa.gov">info@psp.wa.gov</a></p>
+            <p><strong><a href="https://stateofthesound.wa.gov/more-information/#">Download the State of the Sound Report</a></strong></p>
+            <p><a href="https://stateofthesound.wa.gov/more-information/#"><strong>Download the State of the Sound PowerPoint</strong></a></p>
+            <p><a href="https://stateofthesound.wa.gov/more-information/#"><strong>Learn more about the Puget Sound Partnership</strong></a></p>
+            <p><a href="https://stateofthesound.wa.gov/more-information/#"><strong>Learn more about the Puget Sound Vital Signs</strong></a></p>
+            <p><strong><a href="https://actionagenda.pugetsoundinfo.wa.gov/">Learn more about Near Term Actions</a></strong></p>
+            <p><strong><a href="https://stateofthesound.wa.gov/more-information/#">View the archive of past State of the Sound reports</a></strong></p>
+        <p>&nbsp;</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

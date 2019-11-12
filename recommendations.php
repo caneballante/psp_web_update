@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership -State of the Sound User Survey</title>
+<title>Puget Sound Partnership - Recommendations</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,14 +25,12 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 3;
-	subNavSelected = 0;
+  	navSelected = 2;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion3" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
@@ -43,59 +41,46 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image105">
-	<div class="overview-quote pull-right">
-	
-	</div>
-</header>
+<header class="overview-page-image-style overview-page-image112"> </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-		<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2017-SOS-banner-logo.png" width="372" height="46" alt=""/></div>
-	</div>
+	<div class="col-sm-12 orange"></div>
+</div>
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
+	<div class="row">
+		<div class="col-sm-3 padding-20-top"></div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+			<h1>Recommendations</h1>
+		
+			<!-- InstanceEndEditable --></div>
+		<div class="col-sm-2 padding-20-top"></div>
+	</div>
+	
 	<div class="row"> 
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-sos-TS2017.html';?>
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/recommendations.html';?>
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-	<script>(function(t,e,c,n){var o,s,i;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(c),s=o[o.length-1],i=e.createElement(c),i.type="text/javascript",i.async=!0,i.id=n,i.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/cr5AUhK8Idh0P0c_2FZUPVjn87Smf4LwRQ9Ni7iySEG3tgh_2BTCFrgPexFkC6k5d6Sy.js"].join(""),s.parentNode.insertBefore(i,s))})(window,document,"script","smcx-sdk");</script><a style="font: 12px Helvetica, sans-serif; color: #999; text-decoration: none;" href=https://www.surveymonkey.com> Create your survey with SurveyMonkey </a>
+		<p>The Puget Sound Partnership and partners collaboratively defined Focus Areas, Regional Priorities, and Regional Priority approaches for the 2018-2022 Action Agenda based on content and strategies identified in Implementation Strategies, Local Integrating Organization ecosystem recovery plans, and tribal priorities. The Regional Priorities and Regional Priority approaches describe the specific approaches, desired outcomes, and action ideas that are a priority for the next 4 years.</p>
+        <p> See the<a href="https://pspwa.box.com/s/jouctjx9n06j3ffof37575wffwvm6vrj" title="https://pspwa.box.com/s/jouctjx9n06j3ffof37575wffwvm6vrj">complete list of Regional Priorities here</a>:</p>
+		<p> See a subset of <a href="https://pspwa.box.com/s/ao63qz73haisibuqtyz0b5tamnvgwdo9">Regional Priority Approaches linked to regulation and regulatory change here.</a></p>
 	
+		
 	
-	
+		<p>&nbsp;</p>
+			
 		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">STATE OF THE SOUND DATA SOURCES</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="vitalsigns/index.php" target="_blank">Vital Signs</a></li>
-				<li role="presentation"> <a href="action_agenda_center.php" target="_blank">Action Agenda</a></li>
-				<li role="presentation"> <a href="evaluating-about-report-card.php" target="_blank">Report Card</a></li>
-				<li role="presentation"> <a href="evaluating-effective-action.php" target="_blank">Effectiveness</a></li>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-20-top ">PARTNER REPORTS</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/governors-report-2016/">2016 State of the Salmon</a></li>
-				<li role="presentation"> <a href="https://nwifc.org/publications/state-of-our-watersheds/" target="_blank">2016 State of our Watersheds</a></li>
-			
-             
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
