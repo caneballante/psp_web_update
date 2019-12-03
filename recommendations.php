@@ -70,8 +70,8 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-		<p>The Puget Sound Partnership and partners collaboratively defined Focus Areas, Regional Priorities, and Regional Priority approaches for the 2018-2022 Action Agenda based on content and strategies identified in Implementation Strategies, Local Integrating Organization ecosystem recovery plans, and tribal priorities. The Regional Priorities and Regional Priority approaches describe the specific approaches, desired outcomes, and action ideas that are a priority for the next 4 years.</p>
-        <p> See the<a href="https://pspwa.box.com/s/jouctjx9n06j3ffof37575wffwvm6vrj" title="https://pspwa.box.com/s/jouctjx9n06j3ffof37575wffwvm6vrj">complete list of Regional Priorities here</a>:</p>
+		<p>The Puget Sound Partnership and partners collaboratively defined Focus Areas, Regional Priorities, and Regional Priority approaches for the 2018-2022 Action Agenda based on content and strategies identified in Implementation Strategies, Local Integrating Organization ecosystem recovery plans, and tribal priorities. The Regional Priorities and Regional Priority approaches describe the specific Regional Priority Approaches, desired outcomes, and action ideas that are a priority for the next 4 years.</p>
+        <p> See the<a href="https://pspwa.box.com/s/jouctjx9n06j3ffof37575wffwvm6vrj" title="https://pspwa.box.com/s/jouctjx9n06j3ffof37575wffwvm6vrj">complete list of Regional Priorities here</a></p>
 		<p> See a subset of <a href="https://pspwa.box.com/s/ao63qz73haisibuqtyz0b5tamnvgwdo9">Regional Priority Approaches linked to regulation and regulatory change here.</a></p>
 	
 		

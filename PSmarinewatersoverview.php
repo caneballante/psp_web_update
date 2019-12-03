@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Marine Waters 2017 Overview</title>
+<title>Puget Sound Marine Waters 2018 Overview</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -67,15 +67,21 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 
-  <span class="floatright padding-20-left no-icon"><a href="https://pspwa.box.com/shared/static/xzvxtmxv0lpomphceiotcwmr77ul75q7.pdf"><img src="images/ps-marinewater-2017.png" width="330" height="260" alt=""/></a> 
+  <span class="floatright padding-20-left no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="300" height="225" alt=""/></a> <br>
+	 
+	  
   <p class="padding-10-left">Click on the image to download <br>
-Puget Sound Marine Waters 2017 Overview.</p></span>
+    <a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new">Puget Sound Marine Waters 2018 Overview</a><br>
+ <a href="https://pspwa.box.com/shared/static/gwv6px7756kedkaozgfxqwf06plz3vo5.pdf" target="new">Puget Sound Marine Waters 2018 Overview 508</a>
+	  </p></span>
+			
 			<br>
-			<P class="margin-0-top">A new report finds that Puget Sound’s unusually warm water temperatures that prevailed throughout the West Coast since 2014 finally returned to normal in 2017. Although water temperatures recovered, life within those waters has not. In general, biological observations within Puget Sound revealed that the abundance of many marine animals throughout the food web are still lower than usual. In addition, the region experienced both the wettest spring and driest summer ever recorded in 2017.</P>
- 
-			<p>The Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, who authored the report, has been tracking the health of Puget Sound since 2011. This work group includes scientists from federal, tribal, state and local agencies, academia, nonprofits, and private and volunteer groups.</p>
- 
-			<p>The work group looked at a number of environmental indicators, including plankton, water quality, climate, and marine life that when, considered together, provide both a long-term view and current assessment of the Sound’s health.</p>
+			<p><strong>New Report: Puget Sound Marine Waters See Effect of Climate Change in 2018</strong></p>
+<p>A new report details the effects of a changing climate on Puget Sound in 2018, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers.  </p>
+            <p>Scientists observed unusually warm water temperatures, though not as hot as during the years of &ldquo;the Blob,&rdquo; the marine heatwave of 2014-2016. Salinity went up everywhere in the Puget Sound through the summer and fall, in response to the record-setting summer drought. Hypoxia (a lack of oxygen) was more apparent in 2018 than previous years, though no fish kills were reported. Scientists reported lower numbers of fish, seabirds, and marine mammals, including continuing declines in endangered Southern Resident killer whales.</p>
+            <p>The Puget Sound Ecosystem Monitoring Program&rsquo;s Marine Waters Work Group, who authored the report, has been tracking the health of Puget Sound since 2011. This work group includes scientists from federal, tribal, state and local agencies, academia, nonprofits, and private and volunteer groups. </p>
+            <p>The work group looked at several environmental indicators, including plankton, water quality, climate, and marine life, that, when considered together, provide both a long-term view and current assessment of the Sound&rsquo;s health. </p>
+<P class="margin-0-top">&nbsp;</P>
 <p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
 			<!-- InstanceEndEditable --> </div>
 		
