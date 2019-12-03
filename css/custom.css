@@ -531,7 +531,7 @@ p {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../images/home_image9.jpg)no-repeat bottom center scroll;
+	background: url(../images/home_image14.jpg)no-repeat bottom center scroll;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -544,25 +544,25 @@ p {
 }
 /*sets text size on the jumbotron*/
 .intro h1 {
-	font-size: 40px;
+	font-size: 35px;
 	text-shadow: 2px 2px #000;
 }
 .intro .learn-more-box {
-	width: 150px;
+	width: 200px;
 	display: block;
 	border: solid #fff 1px;
 	margin: 0 auto;
 	border-radius: 5px
 }
-/*use to test out different images without screwing up index.php 9-28-15*/
+/*alternative jumbotron image and text*/
 .intro-test {
 	display: table;
 	width: 100%;
-	height: 500px;
+	height: 700px;
 	padding: 20px 0;
 	text-align: center;
 	color: #fff;
-	background: url("../images/home_image13.jpg")no-repeat bottom center scroll;
+	background: url("../images/home_image14.jpg")no-repeat bottom center scroll;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -571,15 +571,16 @@ p {
 }
 .intro-test .intro-body {
 	display: table-cell;
-	vertical-align: bottom;
+	vertical-align: middle;
+	padding-bottom: 200px;
 }
 /*sets text size on the jumbotron*/
 .intro-test h1 {
-	font-size: 34px;
+	font-size: 30px;
 	text-shadow: 2px 2px #000;
 }
 .intro-test .learn-more-box {
-	width: 150px;
+	width: 200px;
 	display: block;
 	border: solid #fff 1px;
 	margin: 0 auto;

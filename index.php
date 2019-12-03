@@ -33,8 +33,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
- 					<h1>PUGET SOS ACT OF 2019 WOULD ENHANCE FEDERAL INVESTMENT IN PUGET SOUND</h1>
- 					<div class="learn-more-box"><a href="pugetsos.php">LEARN MORE</a></div>  
+ 					<h1>2019 State of the Sound Report<br>
+issues a Call to Action<br>
+for Puget Sound Recovery</h1>
+ 					<div class="learn-more-box"><a href="https://www.stateofthesound.wa.gov">LEARN MORE</a></div>  
 					
 					
 					<div class="white-links"></div>
@@ -77,8 +79,8 @@
 			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="https://www.pugetsoundinfo.wa.gov">PUGET SOUND INFO</a></div>
 			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING ACTIONS TO RECOVER PUGET SOUND</a></div>
 			
-			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">VITAL&nbsp;SIGNS</a></div>
-			<div class="padding-5-bottom"><a href="sos.php">2017&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
+			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="evaluating-vital-signs.php">VITAL&nbsp;SIGNS</a></div>
+			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="https://www.stateofthesound.wa.gov">2019&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
 			<div class="padding-5-bottom"><a href="/PSEMP-overview.php">ECOSYSTEM&nbsp;MONITORING (PSEMP)</a> </div>
 			<a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND EVALUATION&nbsp;OVERVIEW</a></div>
 		<div class="col-sm-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive img-rounded"/></div>
