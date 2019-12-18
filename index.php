@@ -200,7 +200,7 @@ for Puget Sound Recovery</h1>
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/salish-splash.jpg"  alt=""/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/celebrating-orca-month-at-the-salish-splash-844157e5bf2d">6/14: Celebrating Orca Month at the Salish Splash</a><br>
+						<a href="https://medium.com/puget-sound-partnership/celebrating-orca-month-at-the-salish-splash-844157e5bf2d">6/14: Celebrating Orca Month at the Salish Splash!</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
