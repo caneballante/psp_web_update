@@ -105,7 +105,7 @@ Under Location:
 					  Bremerton, WA 98337
                     </p>
 				    <p>&nbsp;</p></td>
-					<td><a href="https://pspwa.box.com/s/v3h7mslkj2tz2f1nrjrhh1sm9s3hu2py" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/h933ecz68svkhmd72qjwqlv1gewccbb8" target="new">Meeting Materials</a></td>
 				</tr>
 			
 				

@@ -98,6 +98,38 @@ for Puget Sound Recovery</h1>
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top">
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/COP25.jpg"  alt=""/> 
+					<strong>BLOG</strong><br>
+					  <a href="https://medium.com/@pspartnership/governments-gather-for-climate-agreements-in-spain-2019-state-of-the-sound-calls-for-action-here-4083f0ba1c0e">Governments gather for climate in Spain, 2019 State of the Sound calls for action here at home
+				</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/bill-ruckleshaus.jpg"  alt=""/> 
+					<strong>BLOG</strong><br>
+					  <a href="https://medium.com/puget-sound-partnership/remembering-bill-ruckelshaus-true-friend-to-puget-sound-cf6a7c17d81c">Remembering Bill Ruckelshaus, true friend to Puget Sound
+				</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">

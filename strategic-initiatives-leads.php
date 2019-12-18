@@ -25,8 +25,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	 	navSelected = 8;
-	subNavSelected = 0;
+  	 	navSelected = 1;
+
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -42,10 +42,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style_sm overview-page-image99_sm">
-	<div class="overview-quote pull-right">
-		<h3>There's work to be done - let's roll up our sleeves, together, and get to it</h3>
-	</div>
+<header class="overview-page-image-style overview-page-image12">
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
@@ -56,7 +53,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>STRATEGIC INITIATIVES LEADS</h1>
+			<h1>STRATEGIC INITIATIVES</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -66,14 +63,14 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-action-agenda.html';?>
+				<?php include 'includes/ln-strategic-initiatives.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Three Strategic Initiatives are emphasized as priority topics with issues critical to Puget Sound recovery within the Action Agenda - Stormwater, Habitat, and Shellfish. Leads, described below, have been established for each Strategic Initiative. The SI Leads each facilitate an Advisory Team made up of technical and policy experts in the region, as well as work in coordination with one another, the Puget Sound Partnership, EPA , Tribes, Local Integrating Organizations and others throughout the region. SI Leads manage sub-awards which implement work approved in the Action Agenda Implementation Plan.</p>
+			<p>Three Strategic Initiatives are emphasized as priority topics with issues critical to Puget Sound recovery within the Action Agenda - Stormwater, Habitat, and Shellfish. Leads,  have been established for each Strategic Initiative. The SI Leads each facilitate an Advisory Team made up of technical and policy experts in the region, as well as work in coordination with one another, the Puget Sound Partnership, EPA , Tribes, Local Integrating Organizations and others throughout the region. SI Leads manage sub-awards which implement work approved in the Action Agenda Implementation Plan.</p>
 			<p>Together the SI Leads and Advisory Teams are key to the development and implementation of the Action Agenda and have the following responsibilities:</p>
 			<ul>
 				<li> Identify regional recovery and protection priorities </li>
@@ -82,12 +79,8 @@
 				<li>Solicit, identify, review and prioritize local and regional Near Term Actions </li>
 				<li>Develop and apply evaluation criteria for the review of Near Term Actions </li>
 				<li> Administration of National Estuary Program funds to implement priorities identified in the Action Agenda </li>
-				<li>Oversee development and adaptive management of Implementation Strategies </li>
+				<li>Oversee development and adaptive management of Implementation Strategies			</li>
 			</ul>
-			<p><a href="https://pspwa.box.com/s/il5i70rwisqvqqkunhq7nua3kh8klk0u">Draft Timeline</a> (Last Updated August 31, 2016)</p>
-		
-			
-				
 			<p>DRAFT NTA Funding Recommendations for NEP Funding:</p>
 			<p>2018</p>
 			<ul>
@@ -113,113 +106,10 @@
 				
 				<li>Shellfish Funding Recommendations: <a href="https://pspwa.box.com/s/eo0hp0zxj4plk01lcfd1l4atlnsyiwh2">https://pspwa.box.com/s/eo0hp0zxj4plk01lcfd1l4atlnsyiwh2</a></li>
 			</ul>
-			<h2>Stormwater Strategic Initiative</h2>
-			<p>Leads:  Led by the Washington State Department of Ecology (Ecology) in partnership with the Washington Stormwater Center at Washington State University (WSU), and the Department of Commerce (Commerce)</p>
-			<table class="table">
-				<tbody>
-					<tr>
-						<td>Contact</td>
-						<td>Agency</td>
-						<td>Lead/Co-Lead/Supporting Agency</td>
-					</tr>
-					<tr>
-						<td><br>
-							Derek Day, <br>
-							dday461@ecy.wa.gov</td>
-						<td>Ecology</td>
-						<td>Lead</td>
-					</tr>
-					<tr>
-						<td>Heidi Siegelbaum, <br>
-							heidi.siegelbaum@wsu.edu</td>
-						<td>WA Stormwater Center at WSU</td>
-						<td>Supporting</td>
-					</tr>
-					<tr>
-						<td>Linda Bentley<br>
-							linda.bentley@commerce.wa.gov</td>
-						<td>Commerce</td>
-						<td>Supporting</td>
-					</tr>
-				</tbody>
-			</table>
-			<p><a href="https://pspwa.box.com/s/mqjx8bb10op9xaqrjx39ju1w3jauv8jg">Stormwater SIAT Roster</a></p>
-			<h2>Habitat Strategic Initiative</h2>
-			<p>Leads:  Co-led by the Washington State Departments of Fish &amp; Wildlife (WDFW) and Natural Resources (DNR)</p>
-			<table class="table">
-				<tbody>
-					<tr>
-						<td>Contact</td>
-						<td>Agency</td>
-						<td>Lead/Co-Lead/Supporting Agency</td>
-					</tr>
-					<tr>
-						<td><br>
-							Julie Watson, <br>
-							julie.watson@dfw.wa.gov</td>
-						<td>WDFW</td>
-						<td>Policy Co-Lead</td>
-					</tr>
-					<tr>
-						<td>Kirsten Feifel, <br>
-							kirsten.feifel@dnr.wa.gov</td>
-						<td>DNR</td>
-						<td>Policy Co-Lead </td>
-					</tr>
-					<tr>
-						<td>Jennifer Griffiths,<br>
-							jennifer.griffiths@dfw.wa.gov</td>
-						<td>WDFW</td>
-						<td>Technical Co-Lead</td>
-					</tr>
-					<tr>
-						<td>Libby Gier,<br>
-							libby.gier@dnr.wa.gov</td>
-						<td>DNR</td>
-						<td>Technical Co-Lead</td>
-					</tr>
-					<tr>
-						<td>Kayla Jenkins,<br></td>
-						<td>WDFW</td>
-						<td>Budget Analyst</td>
-					</tr>
-				</tbody>
-			</table>
-			<p><a href="https://pspwa.box.com/s/airlh6ihqoaira2dv7pux6ic5s0xx5ik">Habitat SIAT Roster</a></p>
-			<h2>Shellfish Strategic Initiative</h2>
-			<p>Leads:  Led by the Washington State Department of Health (Health) in partnership with the Departments of Ecology (Ecology) and Agriculture (Agriculture)</p>
-			<table class="table">
-				<tbody>
-					<tr>
-						<td>Contact</td>
-						<td>Agency</td>
-						<td>Lead/Co-Lead/Supporting Agency</td>
-					</tr>
-					<tr>
-						<td> Clara Hard<br>
-							clara.hard@doh.wa.gov</td>
-						<td>Health</td>
-						<td>Lead</td>
-					</tr>
-			
-				</tbody>
-			</table>
-			<p><a href="https://pspwa.box.com/s/gvjqtfbw0c4sjaz1y7ho2aet41ui0nt3">Shellfish SIAT Roster</a></p>
+			<p>More information on the Strategic Initiatives, who is involved, what they do, and how they collaborate with others is available <a href="https://pugetsoundestuary.wa.gov">here</a></p>
 		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">MORE INFORMATION</div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
-				<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Vital Signs</a></li>
-				<li role="presentation"> <a href="science-puget-sound-pressures-assessment.php">2014 Pressure Assessment</a></li>
-			
-				
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

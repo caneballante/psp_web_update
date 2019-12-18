@@ -102,8 +102,13 @@
             <h5>Alex Mitchell</h5>
             <p> Performance Management Analyst<br/>
                 360.464.1220 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a> </p> 
-            <h5>Vacant</h5>
-            <p>Program Management Analyst<br /></p>
+            <h5>WESSYl KELLY</h5>
+            <p>Data Systems Support Specialist<br />
+	 		 360.529.6570 |<a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov </a></p>
+	
+	         <h5>Rebecca Page</h5>
+            <p>Program Evaluation Analyst<br />
+	  		|<a href="mailto:rebecca.page@psp.wa.gov">rebecca.page@psp.wa.gov </a></p><strong></strong>
               
             <!--BOARDS PROGRAM-->
             <h3 class="padding-10-top">BOARDS PROGRAM</h3>
@@ -123,13 +128,14 @@
              <!--COMMUNICATIONS--> 
             <h3 class="padding-10-top">COMMUNICATIONS PROGRAM</h3>
             <h5>Cathy Cochrane</h5>
-            <p>Communications Lead (Media Contact)<br />
+            <p>Communications Lead<br />
                 360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov </a></p>
             <h5>Jon Bridgman</h5>
             <p>Visual Communications Lead<br />
                 206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov </a></p>
-            <h5>VACANT</h5>
-            <p> Communications Specialist</p>
+            <h5>Kevin HyDe</h5>
+            <p> Communications Specialist <br>
+			360.819.3045 | <a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov </a></p>	
             <!--INTEGRATED PLANNING TEAM-->
             <h2>INTEGRATED PLANNING PROGRAM</h2>
             <h5>Stephanie Suter</h5>
@@ -192,8 +198,9 @@
                 <em>Hood Canal, Straits, North Olympic Peninsula </em> <br/>
                 360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a></p>
     
-            <h5>Vacant</h5>
-            <p> Ecosystem Recovery Coordinator</p>
+            <h5>ReBECCA HOLLENDER</h5>
+            <p> Ecosystem Recovery Coordinator<br/>
+                 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
     
             <!--SCIENCE AND EVALUATION-->
             <h2>SCIENCE AND EVALUATION</h2>
@@ -206,8 +213,9 @@
             <h5>Jenna Judge</h5>
             <p> Monitoring Lead for the Puget Sound Partnership and PSEMP<br/>
                 360.870.1467 | <a href="mailto:jenna.judge@psp.wa.gov">jenna.judge@psp.wa.gov</a><br></p>  
-            <h5>Vacant</h5>
-            <p> Network Monitoring Coordinator</p>
+            <h5>CHRYS BERTOLOTTO</h5>
+            <p> Network Monitoring Coordinator<br/>
+                360.918.1449 | <a href="mailto:chrys.bertolotto@psp.wa.gov">chrys.bertolotto@psp.wa.gov</a><br></p>  
             <h5>Leska Fore</h5>
             <p>Effectiveness Lead<br/>
                 360.790.7436 | <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a> </p>
@@ -233,18 +241,18 @@
              <h5>Charisse Sonnier</h5>
             <p>Administrative Supervisor<br />
                 360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a><br /></p>
-			<h5>Vacant</h5>
+			<h5>JUSTINE SODERLAND</h5>
             <p> Administrative Assistant<br />
-             </p>
+             desk: 360.464.1232 mobile: 360.701.1768| <a href="mailto:justine.soderlind@psp.wa.gov">justine.soderlind@psp.wa.gov</a> </p>
             <h5>Ami Hollingsworth</h5>
             <p>Administrative Assistant<br />
                 360.464.1218 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
             </p>
             <!--EPA PROGRAM-->
             <h3 class="padding-10-top">EPA PROGRAM</h3>
-            <h5>Karin Berkholtz</h5>
+            <h5>VacANT</h5>
             <p> EPA Program Manager<br />
-                Office 360.999.3848| <a href="mailto:karin.berkholtz@psp.wa.gov">karin.berkholtz@psp.wa.gov</a><br /></p>
+               </p>
             <!--FISCAL PROGRAM-->
             <h3 class="padding-10-top">FISCAL PROGRAM</h3>
             <h5>Diamatris Winston</h5>
@@ -256,8 +264,9 @@
             <h5>Arjean Travis</h5>
             <p> Grants, Contracts, and Compliance Manager<br />
                 360.464.2001 | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
-            <h5>Vacant</h5>
-            <p>Fiscal Program and Grants Coordinator</p>
+            <h5>CHARLES MESSER</h5>
+            <p>Fiscal Program and Contract Coordinator<br />
+                360.701.0234 | <a href="mailto:charles.messer@psp.wa.gov">charles.messer@psp.wa.gov </a> </p>
             <h5>Phan Doan</h5>
             <p>Fiscal Analyst<br />
                 360.464.2004 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov </a></p>

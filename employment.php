@@ -74,12 +74,6 @@
 		<div class=" border-thick-blue floatright padding-10-all">
 		 <p><h3>We are an Employer of Choice</h3></p> <a href="https://pspwa.box.com/s/mw6gfajvrw6ce5cpjkegafcwtde62pyo"><img src="images/news-images/emp-of-choice.jpg" width="300" height="225" alt=""/></a> 
 			</div>
-		<p>
-		<a href="https://www.governmentjobs.com/careers/washington/jobs/2571244/data-system-support-specialist-exempt"><br>
-	   Data System Support Specialist (Exempt)</a><br>
-		<a href="https://www.governmentjobs.com/careers/washington/jobs/2501952/communications-specialist-exempt?keywords=communications&pagetype=jobOpportunitiesJobs"><br>
-	  Communication Specialist</a><br>	
-		       
 	
 	  </p>	
 	

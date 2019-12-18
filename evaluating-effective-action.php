@@ -291,7 +291,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://sites.google.com/a/psemp.org/psemp/">PSEMP Website</a></li>
+				<li role="presentation"> <a href="PSEMP-overview.php">PSEMP Overview</a></li>
 				<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
