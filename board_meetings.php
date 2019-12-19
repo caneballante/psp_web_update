@@ -65,7 +65,8 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Start and end times depend on agenda needs, but meetings generally begin at 10 a.m. and adjourn by 3 p.m. For approximate start and end times for a particular meeting, see the proposed agenda – usually posted online one week prior to the meeting.</p>
+			<p>Start and end times depend on agenda needs, but meetings generally begin at 9:30 a.m. and adjourn between 3 – 4:30 p.m. Click on the meeting materials link to view the meeting agenda, usually posted one week prior to the meeting. </p>
+			<p>Please note meeting dates, times and/or locations are subject to change and this calendar will be updated accordingly.</p>
 			<div><IFRAME WIDTH=1000 HEIGHT=900 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=c4ec06d5a82f4598b631087d99dcd423"></IFRAME></div>
 			<p> Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls.</p>
 			<h3>Board contact</h3>
@@ -75,12 +76,13 @@
 	  		</strong>	    <a href="mailto:deborah.hagen@psp.wa.gov">deborah.hagen@psp.wa.gov</a><br>
 			360.819.0057
 			</p>
+			<p><strong>Jillian Reitz, <br>
+Boards Policy Specialist<br>
+            </strong> <a href="mailto:jillian.reitz">jillian.reitz@psp.wa.gov</a><br>
+360.742.2936 </p>
 			<h3>Board Materials</h3>
-			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></p>
-			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Board's 2018 meeting calendar</a></p>
-			<p><a href="https://pspwa.box.com/s/87rfvgjwf6wahymd806v7lrkh0a89zjt">Puget Sound Environmental Caucus members </a></p>
-		
-			<!-- InstanceEndEditable --> </div>
+			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a>			</p>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
