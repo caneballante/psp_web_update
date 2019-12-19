@@ -127,9 +127,9 @@
            		360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
              <!--COMMUNICATIONS--> 
             <h3 class="padding-10-top">COMMUNICATIONS PROGRAM</h3>
-            <h5>Cathy Cochrane</h5>
+            <h5>VACANT</h5>
             <p>Communications Lead<br />
-                360.790.7958 | <a href="mailto:catherine.cochrane@psp.wa.gov">catherine.cochrane@psp.wa.gov </a></p>
+                </p>
             <h5>Jon Bridgman</h5>
             <p>Visual Communications Lead<br />
                 206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov </a></p>
