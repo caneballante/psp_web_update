@@ -108,7 +108,7 @@
 	
 	         <h5>Beihua Page</h5>
             <p>Program Evaluation Analyst<br />
-	  		360.522.8340 |<a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov </a></p><strong></strong>
+	  		360.522.8340 | <a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov </a></p><strong></strong>
               
             <!--BOARDS PROGRAM-->
             <h3 class="padding-10-top">BOARDS PROGRAM</h3>
