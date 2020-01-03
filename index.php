@@ -248,10 +248,10 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">OCT<br>
-			  1-2</div>
-				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL,<br>
-				    Seattle<br>
+				<div class="newsbox-date">JAN<br>
+			  23</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL,<br>
+				    Lacey Community Center<br>
 							</a><br>
 				</div>
 				<!--END news content-->
@@ -264,10 +264,10 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">OCT<br>
-			  16-17</div>
-				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-					University of Washington<br>
+				<div class="newsbox-date">FEB<br>
+			  5</div>
+				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
+					Lacey Community Center<br>
 							</a><br>
 				</div>
 				<!--END news content-->
@@ -278,10 +278,10 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">NOV<br>
-			  13</div>
-				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-					South Seattle Community College Georgetown<br>
+				<div class="newsbox-date">FEB<br>
+			  27</div>
+				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+					St. Placid Priory, Lacey<br>
 							</a><br>
 					<br>
 				</div>
@@ -293,9 +293,9 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-			  <div class="newsbox-date">NOV 21</div>
-				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					Edmond Center for the Arts</a><br>
+			  <div class="newsbox-date">MAR<br>11-12</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
+					Tacoma Center for Urban Waters</a><br>
 				</div>
 				<!--END news content-->
 			</div>
