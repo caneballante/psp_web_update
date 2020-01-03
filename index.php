@@ -103,9 +103,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/COP25.jpg"  alt=""/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/leque_island_smaller.jpg"  alt="Photo of the tour group witnessing the high tide transformation at Leque Island"/> 
 					<strong>BLOG</strong><br>
-					  <a href="https://medium.com/@pspartnership/governments-gather-for-climate-agreements-in-spain-2019-state-of-the-sound-calls-for-action-here-4083f0ba1c0e">Governments gather for climate in Spain, 2019 State of the Sound calls for action here at home
+					  <a href="https://medium.com/puget-sound-partnership/a-restoration-tour-from-beginning-to-end-2d5dd1a8969f">1/2: A restoration tour, from beginning to end
 				</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -113,7 +113,22 @@ for Puget Sound Recovery</h1>
 				</div>
 				
 			</div>
-		<!--COLUMN END-->	
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/COP25.jpg"  alt="Photo of a conference sign at COP 25"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/@pspartnership/governments-gather-for-climate-agreements-in-spain-2019-state-of-the-sound-calls-for-action-here-4083f0ba1c0e">12/16: Governments gather for climate in Spain, 2019 State of the Sound calls for action here at home </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 				<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -121,7 +136,7 @@ for Puget Sound Recovery</h1>
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/bill-ruckleshaus.jpg"  alt=""/> 
 					<strong>BLOG</strong><br>
-					  <a href="https://medium.com/puget-sound-partnership/remembering-bill-ruckelshaus-true-friend-to-puget-sound-cf6a7c17d81c">Remembering Bill Ruckelshaus, true friend to Puget Sound
+					  <a href="https://medium.com/puget-sound-partnership/remembering-bill-ruckelshaus-true-friend-to-puget-sound-cf6a7c17d81c">12/11: Remembering Bill Ruckelshaus, true friend to Puget Sound
 				</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -178,52 +193,6 @@ for Puget Sound Recovery</h1>
 				
 			</div>
 		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/monte-marti.jpg"  alt=""/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/a-tribute-to-monte-marti-and-the-promise-of-collaboration-118bfe60f684">8/15: A tribute to Monte Marti and the promise of collaboration </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/salish-splash.jpg"  alt=""/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/celebrating-orca-month-at-the-salish-splash-844157e5bf2d">6/14: Celebrating Orca Month at the Salish Splash!</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTh.jpg"  alt=""/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/good-news-from-washington-d-c-6a8b680f79af">5/28:Good News from Washington, D.C. </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-
 		
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
