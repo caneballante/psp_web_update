@@ -70,8 +70,8 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
-			<h3>SIGN UP TO RECEIVE LEGISLATIVE INFORMATION </h3>
-			<p>You will have the option to sign up to recieve our weekly legislative calendar and our legislative newsletter which is published 4-5 times during session.</p>
+			<h3 class="padding-0-top">SIGN UP TO RECEIVE LEGISLATIVE INFORMATION </h3>
+			<p>You will have the option to sign up to recieve our weekly legislative calendar and our legislative newsletter.</p>
 			<!-- input-group -->
 			<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" method="post">
 				<div style="margin:0;padding:0;display:inline">
