@@ -69,9 +69,31 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
+			<h3>SIGN UP TO RECEIVE LEGISLATIVE INFORMATION </h3>
+			<p>You will have the option to sign up to recieve our weekly legislative calendar and our legislative newsletter which is published 4-5 times during session.</p>
+			<!-- input-group -->
+			<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" method="post">
+				<div style="margin:0;padding:0;display:inline">
+					<input name="utf8" type="hidden" value="&#x2713;" />
+					<input name="authenticity_token" type="hidden" value="fXc9Agz7AcvdGFrlZjdPUw+SlYejhPQacu3TIB3KBAQ=" />
+				</div>
+				<div class="input-group">
+					<input type="text" class="form-control" id="email" name="email" type="text" placeholder="your email..."/>
+					<span class="input-group-btn">
+					<button class="btn btn-default" name="commit" type="submit" value="Submit">SUBMIT</button>
+				</span> </div>
+			</form>
+			<!-- /input-group --> 
+		</div>
+
+			<h2 class="margin-0-top">2020 Legislative SESSION</h2>
+			<h3 class="margin-0-top"> Legislative CALENDAR:</h3>
+			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
+			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS:</h3>
+
+			<hr></hr>
 		
-			
-				
 			<h2 class="margin-0-top">2019 Legislative SESSION</h2>
 			<h3 class="margin-0-top"> Legislative CALENDAR</h3>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22765b0">Week 1, January 14 - 18, 2019 </a></p>

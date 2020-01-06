@@ -88,7 +88,7 @@ for Puget Sound Recovery</h1>
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL&nbsp;INTEGRATING&nbsp;ORGANIZATIONS&nbsp;(LIOs)</a></div>
-			<div class="padding-5-bottom"><a href="legislative_updates.php">2019&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
+			<div class="padding-5-bottom"><a href="legislative_updates.php">2020&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			
 		</div>
 	</div>
