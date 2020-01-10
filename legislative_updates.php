@@ -92,6 +92,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2734ea5">Week 1, January 13 - 17, 2020</a></p>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS:</h3>
+			<p><a href="https://pspwa.app.box.com/s/1wr7df88pv4u7bfckfxmmo7g6pybib3h">January 10, 2020</a></p>
 			<h3 class="margin-20-top"> LEGISLATIVE AGENDA:</h3>
 			<p><a href="https://pspwa.box.com/s/0q8cngxzl2f9gjq4ziphr5ves0dai1e8">2020 Leglislative agenda</a></p>
 
