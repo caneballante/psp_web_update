@@ -89,6 +89,7 @@
 
 			<h2 class="margin-0-top">2020 Legislative SESSION</h2>
 			<h3 class="margin-0-top"> Legislative CALENDAR:</h3>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2734ea5">Week 1, January 13 - 17, 2020</a></p>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS:</h3>
 			<h3 class="margin-20-top"> LEGISLATIVE AGENDA:</h3>

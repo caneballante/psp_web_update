@@ -250,7 +250,6 @@
 <file name="index.php" server="198.238.33.26" local="3592935889" remote="3592936521" Dst="-1" />
 <file name="accessibility.php" server="198.238.33.26" local="3587562911" remote="3587563476" Dst="-1" />
 <file name="action-agenda-archive.php" server="198.238.33.26" local="3550076977" remote="3551289783" Dst="-1" />
-<file name="evaluating-about-recovery-atlas.php" server="198.238.33.26" local="3583176728" remote="3583177291" Dst="-1" />
 <file name="sos.php" server="198.238.33.26" local="3592399210" remote="3592399834" Dst="-1" />
 <file name="sos-archive.php" server="198.238.33.26" local="3592355681" remote="3592356306" Dst="-1" />
 <file name="2018_AA_update.php" server="198.238.33.26" local="3593381375" remote="3593385514" Dst="-1" />
@@ -273,7 +272,6 @@
 <file name="fluidtemplate.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600194176" remote="3600194903" Dst="-1" />
 <file name="2017-day-on-the-hill.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3601401694" remote="3601402432" Dst="-1" />
 <file name="accessibility.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197579" remote="3600204682" Dst="-1" />
-<file name="evaluating-about-recovery-atlas.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197579" remote="3600204685" Dst="-1" />
 <file name="redirect_recovery_atlas.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204689" Dst="-1" />
 <file name="redirect_reportcard.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204690" Dst="-1" />
 <file name="sos-archive.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204692" Dst="-1" />
@@ -331,7 +329,7 @@
 <file name="PSEMP-announcements.php" server="198.238.137.41" local="3632163495" remote="3632163480" Dst="-1" />
 <file name="psdoth2019.php" server="198.238.137.41" local="3632242909" remote="3632242860" Dst="-1" />
 <file name="index.php" server="198.238.137.41/psp.wa.gov/" local="132225487106444839" remote="132225487200000000" Dst="1" />
-<file name="legislative_updates.php" server="198.238.137.41/psp.wa.gov/" local="132228157901083558" remote="132228157800000000" Dst="1" />
+<file name="legislative_updates.php" server="198.238.137.41/psp.wa.gov/" local="132231501149408476" remote="132231501000000000" Dst="1" />
 <file name="strategic-initiatives-leads.php" server="198.238.137.41/psp.wa.gov/" local="3633105547" remote="3633105540" Dst="-1" />
 <file name="employment.php" server="198.238.137.41/psp.wa.gov/" local="3644951824" remote="3644951820" Dst="-1" />
 <file name="psdoth2019.php" server="198.238.137.41/psp.wa.gov/" local="3643830325" remote="3643830300" Dst="-1" />
