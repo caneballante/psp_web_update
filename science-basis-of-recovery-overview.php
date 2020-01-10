@@ -89,13 +89,14 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
-					<li role="presentation"> <a href="evaluating-health-of-puget-sound.php">Evaluating Health</a></li>
-					<li role="presentation"> <a href="evaluating-actions-to-recover-puget-sound.php">Evaluating Actions</a></li>
 					<li role="presentation"> <a href="action_agenda_center.php">Action Agenda</a></li>
+					<li role="presentation"> <a href="evaluating-actions-to-recover-puget-sound.php">Evaluating Actions</a></li>
+					<li role="presentation"> <a href="evaluating-health-of-puget-sound.php">Evaluating Health</a></li>
+					<li role="presentation"> <a href="implementation-strategies.php">Implementation Strategies</a></li>	
+					<li role="presentation"> <a href="PSEMP-overview.php">Puget Sound Ecosystem Monitoring Program (PSEMP)</a></li>
+					<li role="presentation"> <a href="SP_about.php">Science Panel</a></li>
 					<li role="presentation"> <a href="sos.php" target="new">State of the Sound</a></li>
-							<li role="presentation"> <a href="implementation-strategies.php">Implementation Strategies</a></li>
-				<li role="presentation"> <a href="evaluating-vital-signs.php">Vital Signs</a></li>
+					<li role="presentation"> <a href="evaluating-vital-signs.php">Vital Signs</a></li>
 					
 						<!-- InstanceEndEditable -->
 			</ul>

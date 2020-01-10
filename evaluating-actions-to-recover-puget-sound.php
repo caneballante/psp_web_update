@@ -82,7 +82,7 @@
 		<h2> Effectiveness Monitoring</h2>
 			<p>Many restoration and management actions have been effective in restoring ecosystem components and processes in Puget Sound, but much of the evidence of success is found in technical documents that are not easy to access. We are reviewing scientific reports to distill information about what&rsquo;s working to restore Puget Sound. This information, once vetted by regional experts, is presented in fact sheets and narrative summaries that can be used to help develop effective programs and projects that align with the Puget Sound Action Agenda and accelerate the recovery of Puget Sound.<a href="evaluating-effective-action.php"> Learn more</a></p>
 			<h2>STATE OF THE SOUND</h2>
-			<p>The Partnership is required in Washington state statute to produce a State of the Sound report every 2 years to demonstrate progress in our collective efforts to recover the Sound. The State of the Sound website is a comprehensive and broadly accessible resource that includes the latest report content, as well as additional in-depth analysis and technical information not available in the briefer, printed documents. <a href="sos.php">View the 2017 State of the Sound</a></p>
+			<p>The Partnership is required in Washington state statute to produce a State of the Sound report every 2 years to demonstrate progress in our collective efforts to recover the Sound. The State of the Sound website is a comprehensive and broadly accessible resource that includes the latest report content, as well as additional in-depth analysis and technical information not available in the briefer, printed documents. <a href="www.stateofthesound.wa.gov">View the 2019 State of the Sound</a></p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -90,10 +90,11 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
-				<li role="presentation"> <a href="evaluating-effective-action.php">Effectiveness Monitoring</a></li>
+				<li role="presentation"> <a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
 				<li role="presentation"> <a href="action_agenda_center.php">Action Agenda</a></li>
+				<li role="presentation"> <a href="evaluating-effective-action.php">Effectiveness Monitoring</a></li>
 				<li role="presentation"> <a href="evaluating-human-wellbeing.php">Human Wellbeing</a></li>
+				<li role="presentation"> <a href="PSEMP-overview.php">Puget Sound Ecosystem Monitoring Program (PSEMP)</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

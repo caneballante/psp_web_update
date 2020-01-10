@@ -315,7 +315,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li> <a href="https://pspwa.box.com/s/gg1w321dur0ga5p776rnu2jykpvdwee2">Measuring the Effectiveness of Our Actions to Recover Puget Sound</a></li>
 				<li><a href="https://pspwa.box.com/s/cudm2didk91kwek2xu1najjbzk9m4tx8">Measuring the Effectiveness of Our Actions to Recover Puget Soun - Appendix</a></li>
-				<li class="active" role="presentation"> <a href="sos.php">2015 State of the Sound</a></li>
+				<li class="active" role="presentation"> <a href="www.stateofthesound.psp.wa.gov">2019 State of the Sound</a></li>
 				<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
 				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
 				<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>

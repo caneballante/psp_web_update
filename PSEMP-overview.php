@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>PSEMP OVERVIEW</h1>
+			<h1>PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP) OVERVIEW</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -156,7 +156,7 @@
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">INFORMATION, MEETING MATERIALS, AND PRODUCTS</div>
+					<div class="right-nav-title margin-20-top ">PSEMP LEADERSHIP AND WORK GROUP PORTAL</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->

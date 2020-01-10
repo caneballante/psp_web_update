@@ -75,7 +75,7 @@
 			</ul>
 			<p>The Partnership coordinates these activities through the Puget Sound Ecosystem Monitoring Program (PSEMP).</p>
 			<h2>THE PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP)</h2>
-			<p>Monitoring in Puget Sound is conducted by many state and federal agencies, local governments, tribes, citizen groups, and others. While every monitoring organization has its unique mandates and objectives, the Puget Sound Ecosystem Monitoring Program, or PSEMP, serves as an overarching, voluntary body of representatives sharing a common goal to coordinate, improve, and focus these many efforts in support of our common desire to protect and recover Puget Sound. PSEMP does this by providing a venue for discussion, collaboration, coordination, collective guidance, and communication among monitoring agencies and organizations operating at a variety of scales. <a href="evaluating-PSEMP.php">LEARN MORE</a></p>
+			<p>Monitoring in Puget Sound is conducted by many state and federal agencies, local governments, tribes, citizen groups, and others. While every monitoring organization has its unique mandates and objectives, the Puget Sound Ecosystem Monitoring Program, or PSEMP, serves as an overarching, voluntary body of representatives sharing a common goal to coordinate, improve, and focus these many efforts in support of our common desire to protect and recover Puget Sound. PSEMP does this by providing a venue for discussion, collaboration, coordination, collective guidance, and communication among monitoring agencies and organizations operating at a variety of scales. <a href="PSEMP-overview.php">LEARN MORE</a></p>
 			<h2>PUGET SOUND VITAL SIGNS</h2>
 			<p>The Vital Signs gauge the health of Puget Sound in a way that is scientifically valid and also resonates with the public. The Partnership tracks 25 Vital Signs to report on progress toward the six recovery goals. The Vital Signs represent overarching measures for determining the health of Puget Sound.  <a href="http://www.psp.wa.gov/evaluating-vital-signs.php">LEARN MORE </a></p>
 			<h2>HUMAN WELLBEING</h2>
@@ -116,7 +116,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="sos.php">2017 State of the Sound</a></li>
+				<li class="active" role="presentation"> <a href="www.stateofthesound.wa.gov">2019 State of the Sound</a></li>
 				<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
 				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/" target="new">State of the Salmon</a></li>
 				<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>

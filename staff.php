@@ -171,10 +171,10 @@
                 <em>South Central LIO, Lake Washington/Cedar/Sammamish (WRIA 8), Green/Duwamish (Wria 9)</em><br />
                 360.280.6664| <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov </a></p>        
     
-            <h5>Laura Ferguson</h5>
+            <h5>Laura (Ferguson) Rivas</h5>
             <p>Ecosystem Recovery Coordinator<br>
                 <em>San Juan Islands and Island County</em><br />
-                360.819.3388 | <a href="mailto:laura.ferguson@psp.wa.gov">laura.ferguson@psp.wa.gov </a></p>
+                360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
     
             <h5>Kristin Hayman</h5>
             <p>Project Coordinator<br>

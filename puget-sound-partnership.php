@@ -71,7 +71,7 @@
 <h3>Vision</h3>
 <p>Vibrant, enduring natural systems and communities</p>
 <h3>Mission</h3>
-<p>Accelerate the collective effort to recover and sustain the Puget Sound</p>
+<p>Accelerate and advance the collective effort to recover Puget Sound</p>
 
 <h2>Our roles</h2>
 <p>The Partnership created and now manages the infrastructure needed to enable and encourage partners to come together to develop and implement priority actions needed to accelerate ecosystem recovery.</p>

@@ -91,10 +91,15 @@
 			<h3 class="margin-0-top"> Legislative CALENDAR:</h3>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS:</h3>
+			<h3 class="margin-20-top"> LEGISLATIVE AGENDA:</h3>
+			<p><a href="https://pspwa.box.com/s/0q8cngxzl2f9gjq4ziphr5ves0dai1e8">2020 Leglislative agenda</a></p>
 
 			<hr></hr>
 		
-			<h2 class="margin-0-top">2019 Legislative SESSION</h2>
+			
+		<h2>Legislative Updates and Calendar Archives</h2>
+		
+		<h2 class="margin-0-top">2019 Legislative SESSION</h2>
 			<h3 class="margin-0-top"> Legislative CALENDAR</h3>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22765b0">Week 1, January 14 - 18, 2019 </a></p>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/228ff40">Week 2, January 21 - 25, 2019 </a></p>
@@ -137,9 +142,10 @@
 			<h3 class="margin-20-top"> DocuMENTS</h3>
 			<p>	<a href="https://pspwa.box.com/s/1j96ygpaotgs83wczy2lcx4kf4ahvdzz">Orca Task Force handout</a></p>
 			
-			
-			
-			<h2>Legislative Updates and Calendar Archives</h2>
+			<h3 class="margin-20-top"> LEGISLATIVE AGENDA:</h3>
+			<p><a href="https://pspwa.box.com/s/2z3u4zg33qcdkey3mldehzjwus03rap2">2019 Legislative agenda</a></p>
+		<hr></hr>
+			<h2>2018 Legislative SESSION</h2>
 			<h3 class="margin-0-top">2018 Legislative Updates</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d66b90">JANUARY 29th</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1dcb479">FEBRUARY 21st</a></p>
@@ -147,11 +153,11 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e2b6e0">MARCH 16th</a></p>
 
 			
-				<h3 class="margin-20-top">2018 Legislative Agenda</h3>
+			<h3 class="margin-20-top">2018 Legislative Agenda</h3>
 			<p><a href="https://pspwa.box.com/s/eotk0itkj6v3zulbdki1n6urrfet7cjw">2018 Legislative Agenda</a></p>
 			<br>
 			
-			
+			<h2>PREVIOUS LEGISLATIVE SESSIONS</h2>
 			<p><a href="https://pspwa.box.com/s/nf1s6fv3pikty2elkk9nxobhz0jj3gha">View 2017 Materials</a></p>
 			<p><a href="https://pspwa.box.com/s/j3mzkwul1l0txf9idjp9jarpl74ikfzx">View 2016 Materials</a></p>
 			<p><a href="https://pspwa.box.com/s/3fc8pyrlzpwzitsf4gc4hwss8dj5n2zf">View 2015 Materials</a></p>
