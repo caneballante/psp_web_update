@@ -103,11 +103,27 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt=""/> 
+					<strong>ANNOUNCEMENT</strong><br>
+					  <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2734ea5">Legislative calendar
+				</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leque_island_smaller.jpg"  alt="Photo of the tour group witnessing the high tide transformation at Leque Island"/> 
 					<strong>BLOG</strong><br>
 					  <a href="https://medium.com/puget-sound-partnership/a-restoration-tour-from-beginning-to-end-2d5dd1a8969f">1/2: A restoration tour, from beginning to end
 				</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
