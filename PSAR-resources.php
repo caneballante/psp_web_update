@@ -70,7 +70,7 @@
 			
 			
 			<p class="margin-20-top"><strong>PSAR RAPID RESPONSE REVOLVING FUND</strong></p>
-			<p>The Puget Sound Rapid Response Revolving Fund ("Rapid Response Fund") is designed provide rapid access to funds for urgent and essential strategic habitat acquisitions within the Puget Sound.  <a href="https://pspwa.app.box.com/s/ldbd9kv051ltriyw7kj5la7avfpg9sho">View criteria for the Rapid Response Fund here.</a></p>
+			<p>The Puget Sound Rapid Response Revolving Fund ("Rapid Response Fund") is designed provide rapid access to funds for urgent and essential strategic habitat acquisitions within the Puget Sound.  <a href="https://pspwa.box.com/s/68nk6ix5yhssidt56j2668742zi6i2yx">View criteria for the Rapid Response Fund here.</a></p>
 			<p class="margin-20-top"><strong>PSAR 2019-2021 OVERVIEW</strong></p>
 			<!-- Use the direct link option in box to make these downloadable on the phone - this also keeps the item from being viewed in box -->
 			<p><a href="https://pspwa.box.com/shared/static/wgu6mw3afazp02axap5biim58c1471rv.pdf" target="new"><img src="images/PSAR/psar-overview.jpg" width="200" height="311" alt=""/></a></p>
