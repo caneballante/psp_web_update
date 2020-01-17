@@ -1,15 +1,17 @@
 // JavaScript Document
 
 $(document).ready(function () {
+    console.log("test1y")
 	$("#nav" + navSelected).addClass("active");
 	$("#nav" + navSelected).addClass("subNavOn");
 	if (subNavSelected != "non"){
 		$("#subnav" + subNavSelected).addClass("active");
 	}
 
-	$.getJSON('json/newsreleases.json', function (data) {
+	$.getJSON('newsreleases.json', function (data) {
 		newsReleasesData = data;
 		newsReleaseShow();
+        console.log ("helps");
 	});
 
 
@@ -19,8 +21,9 @@ $(document).ready(function () {
 			var newsLink = (newsReleases['link']);
 			var newsShow = '<p>' + newsDate + ':' + newsLink + '</p>';
 			$('#newsDiv').append(newsShow);
+            console.log (newsShow);
 		});
-	};
+	}
 
 
 });
