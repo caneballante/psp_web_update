@@ -92,7 +92,8 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2734ea5">Week 1, January 13 - 17, 2020</a></p>
             <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/276af8c">Week 2, January 20 - 24, 2020</a></p>
             <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/277d20d">Week 3, January 27 - 31, 2020</a></p>
-            <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/278dda8">Week 4, February 3 - 7, 2020</a></p> 
+            <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/278dda8">Week 4, February 3 - 7, 2020</a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27a860c">Week 5, February 10 - 14, 2020</a></p>
             
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS:</h3>
