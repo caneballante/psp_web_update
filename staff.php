@@ -213,9 +213,8 @@
             <h5>Jenna Judge</h5>
             <p> Monitoring Lead for the Puget Sound Partnership and PSEMP<br/>
                 360.870.1467 | <a href="mailto:jenna.judge@psp.wa.gov">jenna.judge@psp.wa.gov</a><br></p>  
-            <h5>CHRYS BERTOLOTTO</h5>
-            <p> Network Monitoring Coordinator<br/>
-                360.918.1449 | <a href="mailto:chrys.bertolotto@psp.wa.gov">chrys.bertolotto@psp.wa.gov</a><br></p>  
+            <h5>VACANT</h5>
+            <p> Network Monitoring Coordinator<br/></p>  
             <h5>Leska Fore</h5>
             <p>Effectiveness Lead<br/>
                 360.790.7436 | <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a> </p>
