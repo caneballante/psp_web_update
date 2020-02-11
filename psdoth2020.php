@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Puget Sound Partnership - 2019 Puget Sound Day on the Hill</title>
+	<title>Puget Sound Partnership - 2020 Puget Sound Day on the Hill</title>
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet" type="text/css">
@@ -82,7 +82,7 @@
                 <h2 class="margin-0-top"><a href="https://forms.gle/xD5LGyR8tiEhtDnW8" target="new"><strong>Click here to RSVP for the 2020 Puget Sound Day on the Hill</strong></a></h2>
                 <p>Each year, President Trump has proposed a budget to Congress that zeroes out all federal funding for Puget Sound recovery. Last year, we spoke up and Congress listened - and increased funding for Puget Sound recovery. Join us again this year as we travel to Washington D.C. for Puget Sound Day on The Hill, April 28-29, 2020. We will meet with key decision makers to let them know the  benefits a healthy Puget Sound brings to the entire nation, as well as to our region. 
                 </p>
-                <p><strong>Tenative Itinerary</strong><br>
+                <p><strong>Tentative Itinerary</strong><br>
 
                 Monday April 27: Suggested travel day with evening welcome reception.<br>
                 Tuesday April 28: All-day, large group meetings with Congressional members/staff. Evening reception.<br>
