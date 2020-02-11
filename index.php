@@ -76,11 +76,11 @@ for Puget Sound Recovery</h1>
 		<div class="col-sm-3 padding-40-top"><img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive img-rounded"/></div>
 		<div class="col-sm-3 padding-10-top">
 			<h1>MEASURING RECOVERY</h1>
-			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="https://www.pugetsoundinfo.wa.gov">PUGET SOUND INFO</a></div>
-			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING ACTIONS TO RECOVER PUGET SOUND</a></div>
+			<div class="padding-5-bottom"><a href="https://www.pugetsoundinfo.wa.gov">PUGET SOUND INFO</a></div>
+			<div class="padding-5-bottom"><a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING ACTIONS TO RECOVER PUGET SOUND</a></div>
 			
-			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="evaluating-vital-signs.php">VITAL&nbsp;SIGNS</a></div>
-			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="https://www.stateofthesound.wa.gov">2019&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
+			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">VITAL&nbsp;SIGNS</a></div>
+			<div class="padding-5-bottom"><a href="https://www.stateofthesound.wa.gov">STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
 			<div class="padding-5-bottom"><a href="/PSEMP-overview.php">ECOSYSTEM&nbsp;MONITORING (PSEMP)</a> </div>
 			<a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND EVALUATION&nbsp;OVERVIEW</a></div>
 		<div class="col-sm-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive img-rounded"/></div>
@@ -89,6 +89,7 @@ for Puget Sound Recovery</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL&nbsp;INTEGRATING&nbsp;ORGANIZATIONS&nbsp;(LIOs)</a></div>
 			<div class="padding-5-bottom"><a href="legislative_updates.php">2020&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
+            <div class="padding-5-bottom"><a href="psdoth2020.php">2020&nbsp;PUGET&nbsp;SOUND&nbsp;DAY&nbsp;ON&nbsp;THE&nbsp;HILL</a></div>
 			
 		</div>
 	</div>
@@ -105,8 +106,23 @@ for Puget Sound Recovery</h1>
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt=""/> 
 					<strong>ANNOUNCEMENT</strong><br>
-					  <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2734ea5">Legislative calendar
+					  <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/278dda8">Legislative calendar week 4
 				</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		    <!--COLUMN END-->
+            <!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt="Photo of Washington D.C."/> 
+					<strong>EVENT</strong><br>
+						<a href="psdoth2020.php">RSVP now for the 2020 Puget Sound Day on the Hill, April 28-29, Washington DC</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -130,21 +146,7 @@ for Puget Sound Recovery</h1>
 				
 			</div>
 		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/COP25.jpg"  alt="Photo of a conference sign at COP 25"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/@pspartnership/governments-gather-for-climate-agreements-in-spain-2019-state-of-the-sound-calls-for-action-here-4083f0ba1c0e">12/16: Governments gather for climate in Spain, 2019 State of the Sound calls for action here at home </a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
+        
 				<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">

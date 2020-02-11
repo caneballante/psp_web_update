@@ -90,9 +90,20 @@
 			<h2 class="margin-0-top">2020 Legislative SESSION</h2>
 			<h3 class="margin-0-top"> Legislative CALENDAR:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2734ea5">Week 1, January 13 - 17, 2020</a></p>
+            <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/276af8c">Week 2, January 20 - 24, 2020</a></p>
+            <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/277d20d">Week 3, January 27 - 31, 2020</a></p>
+            <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/278dda8">Week 4, February 3 - 7, 2020</a></p> 
+            
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS:</h3>
-			<p><a href="https://pspwa.app.box.com/s/1wr7df88pv4u7bfckfxmmo7g6pybib3h">January 10, 2020</a></p>
+			<p><a href="https://pspwa.app.box.com/s/1wr7df88pv4u7bfckfxmmo7g6pybib3h">January 10, 2020</a></p>      
+            <p> <a href="https://pspwa.box.com/s/hkus4xsh7k8dr63whp15a45zgoon13sm">January 17, 2020</a></p>
+            <p> <a href="https://pspwa.box.com/s/oeh0qgkeei2jaci60m2wlt3943aex9h6">January 24, 2020</a></p>
+            <p> <a href="https://pspwa.box.com/s/h2el2s58zlghqft1b9wrk48lktzc2p25">January 30, 2020</a></p>
+            
+            
+           
+            
 			<h3 class="margin-20-top"> LEGISLATIVE AGENDA:</h3>
 			<p><a href="https://pspwa.box.com/s/0q8cngxzl2f9gjq4ziphr5ves0dai1e8">2020 Leglislative agenda</a></p>
 
