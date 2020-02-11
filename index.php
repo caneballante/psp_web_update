@@ -235,10 +235,10 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">JAN<br>
-			  23</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL,<br>
-				    Lacey Community Center<br>
+				<div class="newsbox-date">FEB<br>
+			  27</div>
+				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD,<br>
+				    St. Placid Priory, Lacey<br>
 							</a><br>
 				</div>
 				<!--END news content-->
@@ -251,10 +251,10 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">FEB<br>
-			  5</div>
-				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
-					Lacey Community Center<br>
+				<div class="newsbox-date">MAR<br>
+			  11-12</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
+					Tacoma Center for Urban Waters<br>
 							</a><br>
 				</div>
 				<!--END news content-->
@@ -265,10 +265,10 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">FEB<br>
-			  27</div>
-				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-					St. Placid Priory, Lacey<br>
+				<div class="newsbox-date">MAR<br>
+			  26</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Port Gamble S'Klallam Longhouse, Kingston<br>
 							</a><br>
 					<br>
 				</div>
@@ -280,9 +280,9 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-			  <div class="newsbox-date">MAR<br>11-12</div>
+			  <div class="newsbox-date">APR<br>29</div>
 				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
-					Tacoma Center for Urban Waters</a><br>
+					Online, Webex</a><br>
 				</div>
 				<!--END news content-->
 			</div>
