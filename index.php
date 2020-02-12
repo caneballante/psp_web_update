@@ -135,28 +135,27 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leque_island_smaller.jpg"  alt="Photo of the tour group witnessing the high tide transformation at Leque Island"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/snow-geese.jpg"  alt=""/> 
 					<strong>BLOG</strong><br>
-					  <a href="https://medium.com/puget-sound-partnership/a-restoration-tour-from-beginning-to-end-2d5dd1a8969f">1/2: A restoration tour, from beginning to end
+					  <a href="https://medium.com/puget-sound-partnership/social-science-for-the-salish-sea-843839c5c84f">2/4: Social Science for the Salish Sea
 				</a><br>
-						<!--END news content BOX-->  
+						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				
 			</div>
 		<!--COLUMN END-->
-        
-				<!--COLUMN START-->
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/bill-ruckleshaus.jpg"  alt=""/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/leque_island_smaller.jpg"  alt="Photo of the tour group witnessing the high tide transformation at Leque Island"/> 
 					<strong>BLOG</strong><br>
-					  <a href="https://medium.com/puget-sound-partnership/remembering-bill-ruckelshaus-true-friend-to-puget-sound-cf6a7c17d81c">12/11: Remembering Bill Ruckelshaus, true friend to Puget Sound
+					  <a href="https://medium.com/puget-sound-partnership/a-restoration-tour-from-beginning-to-end-2d5dd1a8969f">1/2: A restoration tour, from beginning to end
 				</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
