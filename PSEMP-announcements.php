@@ -67,6 +67,17 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<div class="highlightbox margin-0-top">
+		  <p>February 12, 2020</p>
+		  <h3 align="left">Survey: Seeking input on monitoring needs and priorities for the 2020-2024 Science Work Plan</h3>
+				
+				  <p align="left">The PSEMP Steering Committee asks for your help in articulating monitoring-related priorities for inclusion in the 2020 – 2024 Puget Sound Science Work Plan (SWP), currently being developed by the Puget Sound Science Panel.</p>
+				  <p align="left">The SWP will be an integral part of Puget Sound recovery, articulating priority science recommendations for restoring and protecting Puget Sound over the next four years. The Science Panel is collecting input for the SWP from a broad range of sources and has invited PSEMP to provide input on specific monitoring recommendations and program improvements to build upon existing work and fill gaps in existing knowledge.</p>
+				  <p align="left">The purpose of this survey is to broadly vet within the PSEMP community the proposed themes and categories, as well as specific monitoring needs and priorities developed by a PSEMP Steering Committee Subgroup.</p>
+				  <p align="left">This survey asks you for your feedback on the draft criteria, categories of recommendations, and priority recommendations identified so far – and equally importantly, to share any elements that have been overlooked.</p>
+				  <p align="left"><strong><a href="https://www.surveymonkey.com/r/PSEMP_SWP" target="_blank" title="" rel="noopener">Please respond to this survey by February 21, 2020.</a></strong></p>
+				  <p align="left"><strong>Full link to the survey:<a href="https://www.surveymonkey.com/r/PSEMP_SWP" target="_blank" title="" rel="noopener">https://www.surveymonkey.com/r/PSEMP_SWP</a></strong></p>	  
+		  </div>
+			<div class="highlightbox margin-20-top">
 		  <p>September 23, 2019</p>
 		  <h3 align="left">Puget Sound Spatial Data Coordination Workshop</h3>
 				<p>October 31, 2019, 9:30am-4:00pm, Edmonds Center for the Arts</p>
