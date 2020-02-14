@@ -106,7 +106,7 @@ for Puget Sound Recovery</h1>
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt=""/> 
 					<strong>ANNOUNCEMENT</strong><br>
-					  <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27a860c">Legislative calendar week 5
+					  <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27bb559">Legislative calendar week 6
 				</a><br>
 						<!--END news content BOX--> 
 					</div>

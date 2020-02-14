@@ -94,6 +94,7 @@
             <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/277d20d">Week 3, January 27 - 31, 2020</a></p>
             <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/278dda8">Week 4, February 3 - 7, 2020</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27a860c">Week 5, February 10 - 14, 2020</a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27bb559">Week 6, February 17 - 21, 2020</a></p>
             
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27b7f31">Legislative Update, February 13, 2020</a></p>
@@ -102,6 +103,7 @@
             <p> <a href="https://pspwa.box.com/s/hkus4xsh7k8dr63whp15a45zgoon13sm">January 17, 2020</a></p>
             <p> <a href="https://pspwa.box.com/s/oeh0qgkeei2jaci60m2wlt3943aex9h6">January 24, 2020</a></p>
             <p> <a href="https://pspwa.box.com/s/h2el2s58zlghqft1b9wrk48lktzc2p25">January 30, 2020</a></p>
+			<p><a href="https://pspwa.app.box.com/s/sirooqcj1evjwwwoby9u3kzb1uz9l1v7">February 14, 2020</a></p>
             
             
            
