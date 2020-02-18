@@ -147,8 +147,7 @@
 				
 				<li role="presentation"> <a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke" target="new">PSEMP Communications Plan</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi" target="new">PSEMP Strategic Plan</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k" target="new">2019 Work Plans</a></li>
-				sU<li role="presentation"> <a href="https://pspwa.box.com/s/ep1nzf6z1m1gelayymem2s655e1gp9dt" target="new">2018 Annual Reports</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k" target="new">PSEMP Work Plans and Annual Reports</a></li>
 				
 						<!-- InstanceEndEditable -->
 			</ul>
