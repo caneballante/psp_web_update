@@ -122,14 +122,30 @@
             </div>
            
         </div>
-         <hr>
-        <div class="row">
+		<hr>
+		<div class="row">
             <div class="col-sm-9">
-                <h3>Hyatt Place Washington DC/US Capitol</h3>
-                <p><a href="https://www.hyatt.com/en-US/hotel/washington-dc/hyatt-place-washington-dc-national-mall/waszc?src=corp_lclb_gmb_seo_nam_waszc">Hyatt is offering per diem rates until sold out</a><br><br>
-                Red line or the blue/orange/silver line<br>
+                <h3>Hyatt Place Washington D.C./US Capitol</h3>
+                <p><a href="https://www.hyatt.com/en-US/hotel/washington-dc/hyatt-place-washington-dc-us-capitol/waszd">Hyatt is offering per diem rates until sold out</a><br><br>
+                Red line<br>
                 1.6 miles from the Rayburn House Office Building<br>
                 1.5 miles from the US Capitol Visitor Center<br>
+				1.2 miles from the Dirksen Senate Office Building<br>	
+                3-Star</p>
+            </div>
+            <div class="col-sm-3">
+                <img class="img-responsive" src="images/PSDOTH2020/Hyatt_Place_Capitol_web.jpg" width="400" height="206" alt=""/> 
+            </div>
+           
+        </div>
+		<hr>
+        <div class="row">
+            <div class="col-sm-9">
+                <h3>Hyatt Place Washington D.C./National Mall</h3>
+                <p><a href="https://www.hyatt.com/en-US/hotel/washington-dc/hyatt-place-washington-dc-national-mall/waszc?src=corp_lclb_gmb_seo_nam_waszc">Hyatt is offering per diem rates until sold out</a><br><br>
+                Blue/orange/silver line<br>
+                0.7 miles from the Rayburn House Office Building<br>
+                1.2 miles from the US Capitol Visitor Center<br>
                 3-Star</p>
  
             </div>
@@ -137,6 +153,10 @@
                 <img class="img-responsive" src="images/PSDOTH2020/hyatt.jpg" width="400" height="206" alt=""/> </div>
             </div>
         </div>
+         
+        </div>
+			
+	
 		<!--END OF ROW -->
 	</div>
 	<!--END OF CONTENT CONTAINER -->
