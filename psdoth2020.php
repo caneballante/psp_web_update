@@ -105,7 +105,7 @@
         <div class="row">
             <div class="col-sm-9">
                 <h3>Renaissance Inn Washington, DC Downtown</h3>
-                <p><a href="https://www.marriott.com/events/start.mi?id=1578420979436&key=GRP">Click here to book special group rate $320 USD per night</a><br><br>
+                <p><a href="https://www.marriott.com/events/start.mi?id=1578420979436&key=GRP">Click here to book special group rate $320 USD per night, <strong>special rate ends March 22</strong></a><br><br>
                 Larger Studio, 1 Queen, Sofa bed<br>
                 Fully equipped kitchens with refrigerator<br>
                 Free breakfast<br>
