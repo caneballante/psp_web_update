@@ -85,8 +85,8 @@
                 <p><strong>Tentative Itinerary</strong><br>
 
                 Monday April 27: Suggested travel day with evening welcome reception.<br>
-                Tuesday April 28: All-day, large group meetings with Congressional members/staff. Evening reception.<br>
-                Wednesday April 29: Small group meetings and/or panels.<br>
+                Tuesday April 28: All-day, large group meetings with Congressional members/staff at Senate Office Building. Evening reception.<br>
+                Wednesday April 29: Small group meetings and lunch panel at Rayburn House Office Building.<br>
                 Thursday, April 30: Additional small group meetings if needed, suggested departure. </p>
 				<hr>
                 <img class="img-responsive" src="images/PSDOTH2020/2020-PSDOTH-mail-footer.png" width="1000" height="291" alt=""/><br>
