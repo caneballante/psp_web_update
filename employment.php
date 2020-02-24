@@ -79,7 +79,7 @@
 	
 		
 	
-		<p>&nbsp;</p>
+	<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2724297/special-assistant-to-the-boards-exempt">Special Assistant to the Boards (Exempt)</a></p>
 			
 		<!-- InstanceEndEditable --> </div>
 		
