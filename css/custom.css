@@ -124,6 +124,16 @@ p {
 	line-height: 1.9;
 	font-family: georgia, times, serif;
 }
+
+.emergency {}
+.emergency p {
+    font-size: 18px;
+}
+.emergency a {
+    font-size: 18px;
+    text-decoration: underline;
+    
+}
 .right-align {
 	text-align: right;
 }
@@ -161,6 +171,10 @@ p {
 }
 .very-light-blue-fill {
 	background-color: #c2e6ff;
+}
+/*jon added red on 3.2.2020*/
+.red {
+	background-color: #9F090B;
 }
 .white {
 	color: #fff;
