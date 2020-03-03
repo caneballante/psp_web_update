@@ -96,6 +96,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27a860c">Week 5, February 10 - 14, 2020</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27bb559">Week 6, February 17 - 21, 2020</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27cfb92">Week 7, February 24 - 28, 2020</a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27e634b">Week 8, March 2 - 6, 2020</a></p>
             
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27b7f31">Legislative Update, February 13, 2020</a></p>
