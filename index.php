@@ -111,7 +111,7 @@ for Puget Sound Recovery</h1>
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt=""/> 
 					<strong>ANNOUNCEMENT</strong><br>
-					  <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27cfb92">Legislative calendar week 7
+					  <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27e634b">Legislative calendar week 8
 				</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -239,32 +239,16 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">FEB<br>
-			  27</div>
-				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD,<br>
-				    St. Placid Priory, Lacey<br>
+				<div class="newsbox-date">MAR<br>
+			  11-12</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL,<br>
+				    Tacoma Center for Urban Waters<br>
 							</a><br>
 				</div>
 				<!--END news content-->
 			</div>
 		</div>
 		<!--COLUMN END-->	
-	
-		
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
-				<div class="newsbox-date">MAR<br>
-			  11-12</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
-					Tacoma Center for Urban Waters<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
@@ -287,6 +271,20 @@ for Puget Sound Recovery</h1>
 			  <div class="newsbox-date">APR<br>29</div>
 				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
 					Online, Webex</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">MAY<br>
+			  13</div>
+				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+					South Seattle Community College<br>
+							</a><br>
 				</div>
 				<!--END news content-->
 			</div>

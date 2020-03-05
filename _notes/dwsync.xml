@@ -5,7 +5,6 @@
 <file name="evaluating-actions-to-recover-puget-sound.php" server="198.238.33.26/psp_web_update/" local="3529119076" remote="3529118860" Dst="-1" />
 <file name="evaluating-health-of-puget-sound.php" server="198.238.33.26/psp_web_update/" local="3529107363" remote="3529107519" Dst="-1" />
 <file name="LC_about.php" server="198.238.33.26/psp_web_update/" local="3529107363" remote="3529107535" Dst="-1" />
-<file name="LC_meetings.php" server="198.238.33.26/psp_web_update/" local="3529109699" remote="3529109482" Dst="-1" />
 <file name="partnership-boards-overview.php" server="198.238.33.26/psp_web_update/" local="3529107364" remote="3529107558" Dst="-1" />
 <file name="puget-sound-recovery.php" server="198.238.33.26/psp_web_update/" local="3529107364" remote="3529107569" Dst="-1" />
 <file name="science-and-evaluation-overview.php" server="198.238.33.26/psp_web_update/" local="3529107364" remote="3529107589" Dst="-1" />
@@ -15,17 +14,13 @@
 <file name="LC_about.php" server="Macintosh HD/Applications/MAMP/htdocs/" local="3527194365" remote="3527194365" Dst="-1" />
 <file name="evaluating-actions-to-recover-puget-sound.php" server="Macintosh HD/Applications/MAMP/htdocs/" local="3527267215" remote="3527267215" Dst="-1" />
 <file name="evaluating-health-of-puget-sound.php" server="Macintosh HD/Applications/MAMP/htdocs/" local="3527194365" remote="3527194365" Dst="-1" />
-<file name="LC_meetings.php" server="Macintosh HD/Applications/MAMP/htdocs/" local="3527194365" remote="3527194365" Dst="-1" />
 <file name="partnership-boards-overview.php" server="Macintosh HD/Applications/MAMP/htdocs/" local="3527197745" remote="3527197745" Dst="-1" />
 <file name="puget-sound-recovery.php" server="Macintosh HD/Applications/MAMP/htdocs/" local="3527194365" remote="3527194365" Dst="-1" />
 <file name="science-and-evaluation-overview.php" server="Macintosh HD/Applications/MAMP/htdocs/" local="3527194365" remote="3527194365" Dst="-1" />
 <file name="science-basis-of-recovery-overview.php" server="Macintosh HD/Applications/MAMP/htdocs/" local="3527194365" remote="3527194365" Dst="-1" />
-<file name="SP_meetings.php" server="198.238.33.26/psp_web_update/" local="3529118096" remote="3529117880" Dst="-1" />
 <file name="SP_about.php" server="198.238.33.26/psp_web_update/" local="3529107365" remote="3529107653" Dst="-1" />
 <file name="EB_about.php" server="198.238.33.26/psp_web_update/" local="3529107363" remote="3529107492" Dst="-1" />
-<file name="EB_meetings.php" server="198.238.33.26/psp_web_update/" local="3529109555" remote="3529109339" Dst="-1" />
 <file name="SR_about.php" server="198.238.33.26/psp_web_update/" local="3529107365" remote="3529107657" Dst="-1" />
-<file name="SR_meetings.php" server="198.238.33.26/psp_web_update/" local="3529107365" remote="3529107659" Dst="-1" />
 <file name="NEP-overview.php" server="Macintosh HD/Applications/MAMP/htdocs/" local="3527360948" remote="3527360948" Dst="-1" />
 <file name="NEP-overview.php" server="198.238.33.26/psp_web_update/" local="3529120174" remote="3529119958" Dst="-1" />
 <file name="NEP-health-of-puget-sound.php" server="198.238.33.26/psp_web_update/" local="3529120881" remote="3529120664" Dst="-1" />
@@ -70,7 +65,6 @@
 <file name="action_agenda_center.php" server="198.238.33.26" local="3550588153" remote="3551289786" Dst="-1" />
 <file name="contact.php" server="198.238.33.26" local="3549920839" remote="3565284400" Dst="-1" />
 <file name="EB_about.php" server="198.238.33.26" local="3593013408" remote="3593014035" Dst="-1" />
-<file name="EB_meetings.php" server="198.238.33.26" local="3566327246" remote="3565965431" Dst="-1" />
 <file name="econet_PSSH.php" server="198.238.33.26" local="3549920839" remote="3551289902" Dst="-1" />
 <file name="econet_PSSH_webwidgets.html" server="198.238.33.26" local="3528569901" remote="3565274128" Dst="-1" />
 <file name="emp_only.php" server="198.238.33.26" local="3549920839" remote="3551289902" Dst="-1" />
@@ -87,7 +81,6 @@
 <file name="funding.php" server="198.238.33.26" local="3554233600" remote="3583177307" Dst="-1" />
 <file name="government-relations.php" server="198.238.33.26" local="3564588883" remote="3564589170" Dst="-1" />
 <file name="LC_about.php" server="198.238.33.26" local="3579703877" remote="3579704341" Dst="-1" />
-<file name="LC_meetings.php" server="198.238.33.26" local="3590688457" remote="3590689060" Dst="-1" />
 <file name="legislative_updates.php" server="198.238.33.26" local="3573474099" remote="3573228434" Dst="-1" />
 <file name="LIO-overview.php" server="198.238.33.26" local="3550065755" remote="3551290000" Dst="-1" />
 <file name="NEP-communications-toolkit.php" server="198.238.33.26" local="3589910962" remote="3589911595" Dst="-1" />
@@ -117,14 +110,11 @@
 <file name="science-strategic-science-plan.php" server="198.238.33.26" local="3583265777" remote="3583266308" Dst="-1" />
 <file name="soundchoices_2015.php" server="198.238.33.26" local="3534857540" remote="3583177730" Dst="-1" />
 <file name="SP_about.php" server="198.238.33.26" local="3585570859" remote="3585571396" Dst="-1" />
-<file name="SP_meetings.php" server="198.238.33.26" local="3566327246" remote="3583177730" Dst="-1" />
 <file name="SR_about.php" server="198.238.33.26" local="3575288421" remote="3583177730" Dst="-1" />
-<file name="SR_meetings.php" server="198.238.33.26" local="3566327246" remote="3583177730" Dst="-1" />
 <file name="staff.php" server="198.238.33.26" local="3592503908" remote="3592504534" Dst="-1" />
 <file name="action_agenda_center.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164869" Dst="-1" />
 <file name="contact.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164869" Dst="-1" />
 <file name="EB_about.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164873" Dst="-1" />
-<file name="EB_meetings.php" server="198.238.33.26/psp-test/" local="3529109555" remote="3529164873" Dst="-1" />
 <file name="econet_PSSH.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164874" Dst="-1" />
 <file name="econet_PSSH_webwidgets.html" server="198.238.33.26/psp-test/" local="3528569901" remote="3529164874" Dst="-1" />
 <file name="emp_only.php" server="198.238.33.26/psp-test/" local="3529108947" remote="3529164874" Dst="-1" />
@@ -141,7 +131,6 @@
 <file name="funding.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164885" Dst="-1" />
 <file name="government-relations.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164886" Dst="-1" />
 <file name="LC_about.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529165256" Dst="-1" />
-<file name="LC_meetings.php" server="198.238.33.26/psp-test/" local="3529109699" remote="3529165256" Dst="-1" />
 <file name="legislative_updates.php" server="198.238.33.26/psp-test/" local="3529107364" remote="3529165256" Dst="-1" />
 <file name="LIO-overview.php" server="198.238.33.26/psp-test/" local="3529107364" remote="3529165257" Dst="-1" />
 <file name="NEP-communications-toolkit.php" server="198.238.33.26/psp-test/" local="3529111432" remote="3529165257" Dst="-1" />
@@ -173,21 +162,16 @@
 <file name="sos.php" server="198.238.33.26/psp-test/" local="3529107365" remote="3529165274" Dst="-1" />
 <file name="soundchoices_2015.php" server="198.238.33.26/psp-test/" local="3529107365" remote="3529165274" Dst="-1" />
 <file name="SP_about.php" server="198.238.33.26/psp-test/" local="3529107365" remote="3529165274" Dst="-1" />
-<file name="SP_meetings.php" server="198.238.33.26/psp-test/" local="3529118096" remote="3529165275" Dst="-1" />
 <file name="SR_about.php" server="198.238.33.26/psp-test/" local="3529107365" remote="3529165275" Dst="-1" />
-<file name="SR_meetings.php" server="198.238.33.26/psp-test/" local="3529107365" remote="3529165275" Dst="-1" />
 <file name="staff.php" server="198.238.33.26/psp-test/" local="3529119855" remote="3529165276" Dst="-1" />
 <file name="privacy.php" server="198.238.33.26" local="3533590115" remote="3551290033" Dst="-1" />
 <file name="sign-up.php" server="198.238.33.26" local="3549920878" remote="3551290089" Dst="-1" />
 <file name="PSAR.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600453584" remote="3600454313" Dst="-1" />
 <file name="legislative_updates.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600443936" remote="3600444659" Dst="-1" />
 <file name="staff.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600890886" remote="3600891620" Dst="-1" />
-<file name="LC_meetings.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204687" Dst="-1" />
-<file name="EB_meetings.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204684" Dst="-1" />
 <file name="EB_about.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204684" Dst="-1" />
 <file name="evaluating-effective-action.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204685" Dst="-1" />
 <file name="employment.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204685" Dst="-1" />
-<file name="SP_meetings.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3601563509" remote="3601564253" Dst="-1" />
 <file name="SP_about.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3601408156" remote="3601408918" Dst="-1" />
 <file name="evaluating-about-report-card.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197579" remote="3600204685" Dst="-1" />
 <file name="action-agenda-archive.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197579" remote="3600204682" Dst="-1" />
@@ -237,7 +221,6 @@
 <file name="sos.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600890313" remote="3600891049" Dst="-1" />
 <file name="soundchoices_2015.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3601401416" remote="3601402432" Dst="-1" />
 <file name="SR_about.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204693" Dst="-1" />
-<file name="SR_meetings.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197616" remote="3600204693" Dst="-1" />
 <file name="strategic-initiatives-leads.php" server="198.238.33.26" local="3584624920" remote="3584625459" Dst="-1" />
 <file name="implementation_strategies_announcements.php" server="198.238.33.26" local="3592228775" remote="3592229389" Dst="-1" />
 <file name="redirect_recovery_atlas.php" server="198.238.33.26" local="3563919306" remote="3563919562" Dst="-1" />
@@ -254,9 +237,7 @@
 <file name="sos-archive.php" server="198.238.33.26" local="3592355681" remote="3592356306" Dst="-1" />
 <file name="2018_AA_update.php" server="198.238.33.26" local="3593381375" remote="3593385514" Dst="-1" />
 <file name="2018_AA_announcements.php" server="198.238.33.26" local="3593381660" remote="3593385515" Dst="-1" />
-<file name="SP_meetings.php" server="Macintosh HD/Applications/MAMP/htdocs/psp-live/" local="3566327246" remote="3566327246" Dst="-1" />
 <file name="partnership-boards-overview.php" server="Macintosh HD/Applications/MAMP/htdocs/psp-live/" local="3594045636" remote="3594045636" Dst="-1" />
-<file name="SR_meetings.php" server="Macintosh HD/Applications/MAMP/htdocs/psp-live/" local="3594045779" remote="3594045779" Dst="-1" />
 <file name="EB_about.php" server="Macintosh HD/Applications/MAMP/htdocs/psp-live/" local="3594046458" remote="3594046458" Dst="-1" />
 <file name="2018_AA_announcements.php" server="Macintosh HD/Applications/MAMP/htdocs/psp-live/" local="3593458328" remote="3593458328" Dst="-1" />
 <file name="2018_AA_update.php" server="Macintosh HD/Applications/MAMP/htdocs/psp-live/" local="3593458083" remote="3593458083" Dst="-1" />
@@ -289,12 +270,8 @@
 <file name="employment.php" server="198.238.137.41" local="3632926628" remote="3632926620" Dst="-1" />
 <file name="2018_AA_announcements.php" server="198.238.137.41" local="3606247247" remote="3606247200" Dst="-1" />
 <file name="press.php" server="198.238.137.41" local="3603999648" remote="3603999600" Dst="-1" />
-<file name="SP_meetings.php" server="198.238.137.41" local="3632925587" remote="3632925660" Dst="-1" />
 <file name="LC_about.php" server="198.238.137.41" local="3619197034" remote="3619197060" Dst="-1" />
-<file name="LC_meetings.php" server="198.238.137.41" local="3632925720" remote="3632925720" Dst="-1" />
 <file name="EB_about.php" server="198.238.137.41" local="3626116835" remote="3626116800" Dst="-1" />
-<file name="EB_meetings.php" server="198.238.137.41" local="3632925873" remote="3632925840" Dst="-1" />
-<file name="SR_meetings.php" server="198.238.137.41" local="3632925594" remote="3632925600" Dst="-1" />
 <file name="SR_about.php" server="198.238.137.41" local="3613143328" remote="3613143360" Dst="-1" />
 <file name="SP_about.php" server="198.238.137.41" local="3630007571" remote="3630007500" Dst="-1" />
 <file name="action_agenda_center.php" server="198.238.137.41" local="3632328075" remote="3632328060" Dst="-1" />
@@ -328,8 +305,8 @@
 <file name="PSEMP-overview.php" server="198.238.137.41" local="3632163503" remote="3632163480" Dst="-1" />
 <file name="PSEMP-announcements.php" server="198.238.137.41" local="3632163495" remote="3632163480" Dst="-1" />
 <file name="psdoth2019.php" server="198.238.137.41" local="3632242909" remote="3632242860" Dst="-1" />
-<file name="index.php" server="198.238.137.41/psp.wa.gov/" local="132267821814034133" remote="132267821400000000" Dst="1" />
-<file name="legislative_updates.php" server="198.238.137.41/psp.wa.gov/" local="132267979891668932" remote="132267979800000000" Dst="1" />
+<file name="index.php" server="198.238.137.41/psp.wa.gov/" local="132276688424574404" remote="132276688200000000" Dst="1" />
+<file name="legislative_updates.php" server="198.238.137.41/psp.wa.gov/" local="132277569010000000" remote="132277569000000000" Dst="1" />
 <file name="strategic-initiatives-leads.php" server="198.238.137.41/psp.wa.gov/" local="3633105547" remote="3633105540" Dst="-1" />
 <file name="employment.php" server="198.238.137.41/psp.wa.gov/" local="132270525492869753" remote="132270525600000000" Dst="1" />
 <file name="psdoth2019.php" server="198.238.137.41/psp.wa.gov/" local="3643830325" remote="3643830300" Dst="-1" />
@@ -342,7 +319,6 @@
 <file name="PSAR.php" server="198.238.137.41/psp.wa.gov/" local="3638455517" remote="3638455500" Dst="-1" />
 <file name="PSAR-resources.php" server="198.238.137.41/psp.wa.gov/" local="132235792215733763" remote="132235792200000000" Dst="1" />
 <file name="recovery-of-southern-resident-orcas.php" server="198.238.137.41/psp.wa.gov/" local="3638546696" remote="3638546700" Dst="-1" />
-<file name="SP_meetings.php" server="198.238.137.41/psp.wa.gov/" local="3638558258" remote="3638558220" Dst="-1" />
 <file name="programs.php" server="198.238.137.41/psp.wa.gov/" local="3639420888" remote="3639420840" Dst="-1" />
 <file name="LIO-overview.php" server="198.238.137.41/psp.wa.gov/" local="3643046611" remote="3643046580" Dst="-1" />
 <file name="partnership-boards-overview.php" server="198.238.137.41/psp.wa.gov/" local="3644426316" remote="3644426280" Dst="-1" />
