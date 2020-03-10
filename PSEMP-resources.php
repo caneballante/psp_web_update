@@ -67,93 +67,73 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
-			<div class="container-fluid">
-				<div class="row">
-			 	  <div class="col-lg-12">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-4">
 					<h3 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h3> 
-					<span class="floatright padding-20-left no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="300" height="225" alt=""/></a> 
-	 	 		    <p class="padding-10-left">Click on the image to view<br>
+					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="214" height="160" alt=""/></a> 
+	 	 		    <p class="padding-10-left"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Click to download</a><br>
 					<a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new">Puget Sound Marine Waters 2018 Overview</a><br>
  					<a href="https://pspwa.box.com/shared/static/gwv6px7756kedkaozgfxqwf06plz3vo5.pdf" target="new">Puget Sound Marine Waters 2018 Overview 508 Version</a></p></span>
 					<br>
-				    <p>A new report details the effects of a changing climate on Puget Sound in 2018, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers.  </p>
-                    <p>Scientists observed unusually warm water temperatures, though not as hot as during the years of &ldquo;the Blob,&rdquo; the marine heatwave of 2014-2016. Salinity went up everywhere in the Puget Sound through the summer and fall, in response to the record-setting summer drought. Hypoxia (a lack of oxygen) was more apparent in 2018 than previous years, though no fish kills were reported. Scientists reported lower numbers of fish, seabirds, and marine mammals, including continuing declines in endangered Southern Resident killer whales.</p>
-                    <p>The Puget Sound Ecosystem Monitoring Program&rsquo;s Marine Waters Work Group, who authored the report, has been tracking the health of Puget Sound since 2011. This work group includes scientists from federal, tribal, state and local agencies, academia, nonprofits, and private and volunteer groups. </p>
-                    <p>The work group looked at several environmental indicators, including plankton, water quality, climate, and marine life, that, when considered together, provide both a long-term view and current assessment of the Sound&rsquo;s health. </p>
-					  	<p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
-                    </div><!--end col-->
-				</div> <!--end row-->
-				<div class="row">
-				 	<div class="col-lg-12">
-						<hr>	
-						<h3 class="margin-0-top">PSEMP COMMUNICATIONS STRATEGy</h3> 
-						<span class="floatright padding-20-left no-icon"><a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke"><img src="images/PSEMP/psemp-communications-plan.jpg" width="300" height="355" alt=""/></a> 
-			 	 		<p class="padding-10-left">Click on the image to view</p></span>
-						<br>
-					  <p>The PSEMP Communications Strategy is intended to improve access to, and use of, credible information by decision makers in developing and carrying out Puget Sound recovery efforts. This communications strategy should be viewed as a resource to the PSEMP community to support both internal and external communications. The strategy contains short- and long-term actions for each identified communication group, useful template tools to aid the PSEMP community in developing customized strategies, and a roadmap tool to help with planning and prioritizing work. Templates, and the Guides to use them, are provided, along with the complete Strategy </p>
-                    </div><!--end col-->
-				</div> <!--end row-->
-				<div class="row">
-				  <div class="col-lg-12">
-						<hr>	
-						<h3 class="margin-20-top">2019 Recommendations for a Puget Sound Estuary Avian Monitoring Strategy</h3> 
-						<span class="floatright padding-20-left no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program.jpg" width="300" height="355" alt=""/></a> 
-			 	 		<p class="padding-10-left">Click on the image to view</p></span>
-						<br>
-					  <p>Until recently, groups that have monitored birds in the estuaries of Puget Sound river deltas have done so independently of one another, often using different survey designs, protocols, and objectives. This lack of consistency among studies has had the following consequences:</p>
-                        <ul>
-                          <li>Prevented the broader restoration and management community from evaluating the responses of bird populations to both local and large-scale environmental change</li>
-                          <li>Limited the ability of land owners and managers to assess the effectiveness of management actions</li>
-                        </ul>
-                        <p>To explore how we might develop a more strategic, regional approach, the PSEMP Marine Birds Work Group convened a variety of groups associated with bird monitoring in coastal Washington, Puget Sound, and the greater Salish Sea. The goal was to learn what types of information are needed to support bird-related management and conservation decisions, and explore interest in developing a common framework for monitoring birds. Participants included representatives from state, federal, and tribal governments; non-government conservation organizations; and academia. Participants voiced strong support for a regional, coordinated approach that would provide access to credible data and accomplish the following goals: </p>
-                        <ul>
-                          <li>Enable understanding of and communication about the status of bird populations</li>
-                          <li>Enable understanding of the mechanisms driving trends in bird populations </li>
-                          <li>Inform analysis of different management actions</li>
-                          <li>Reduce human conflict related to tidal restoration</li>
-                          <li>Enable strategic investment in conservation outcomes for birds and other species</li>
-                        </ul>
-                        <p>The need to cultivate greater social and political support for estuary restoration and bird conservation also emerged as a critical need for the long-term success of a coordinated regional monitoring strategy. </p>
-					</div> 
-					<!--end col-->
-				</div> <!--end row-->
-				<div class="row">
-					<div class="col-lg-12">
-						<hr>
-						<h3 class="margin-20-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h3> 
-						<span class="floatright padding-20-left no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="300" height="355" alt=""/></a> 
-			  			<p class="padding-10-left">Click on the image to view</p></span>
-						<br>
-						<P class="margin-0-top">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea. <br>
-						  <br>
-						</p>
-					</div> <!--end col-->
-				</div> <!--end row-->
-				
-				
-					
-			</div><!--end container-->
+				    <p>This latest annual report details the effects of a changing climate on Puget Sound in 2018, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers. Produced by the Marine Waters PSEMP Work Group, they looked at several environmental indicators, including plankton, water quality, climate, and marine life, that, when considered together, provide both a long-term view and current assessment of the Sound&rsquo;s health.</p>
+					<p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
+				</div><!--end col-->
+				<div class="col-lg-4">
+					<h3 class="margin-0-top">2019 Recommendations for a Puget Sound Estuary Avian Monitoring Strategy</h3> 
+					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program.jpg" width="205" height="242" alt=""/></a> 
+					<p class="padding-10-left"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Click to download</a></p></span>
+					<br>
+					<p>Until recently, groups that have monitored birds in the estuaries of Puget Sound river deltas have done so independently of one another, preventing the ability to assess the effectiveness of actions on bird populations at both the local and regional scale. The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to learn what types of information are needed to support bird-related management and conservation decisions, and explore interest in developing a common framework for monitoring birds. 
+				</div> 
+				<!--end col-->
+				<div class="col-lg-4">
+					<h3 class="margin-20-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h3> 
+					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="215" height="254" alt=""/></a> 
+					<p class="padding-10-left"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Click to download</a></p></span>
+					<br>
+					<P class="margin-0-top">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea. </p>
+				</div> <!--end col-->
+			</div> <!--end row-->
+			<hr>
+			<!--start row-->
+			<div class="row">
+				<div class="col-lg-4">
+					<h3 class="margin-20-top">Puget Sound Ecosystem Monitoring Strategic Plan | 2018-2022</h3> 
+					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan.jpg" width="183" height="216" alt=""/></a> 
+					<p class="padding-10-left"><a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">Click to download</a></p></span>
+					<br>
+					<P class="margin-0-top">This Strategic Plan articulates a renewed missionfor PSEMP to convene a collaborative network of subject matter experts who organize, synthesize, and communicate scientific information from many monitoring organizations and different parts of the ecosystem to directly address foundational management and science questions critical to recovery of the ecosystem.<br></p>
+				</div> <!--end col-->
+				<div class="col-lg-4">
+					<h3 class="margin-20-top">Shoreline Monitoring Toolbox</h3> 
+					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox.jpg" width="208" height="179" alt=""/></a> 
+					<p class="padding-10-left"><a href="https://sites.google.com/a/uw.edu/toolbox/home">Click to view the Shoreline Monitoring Toolbox</a></p></span>
+					<P class="margin-0-top">Shoreline monitoring is often a desired or required goal of volunteer groups and local entities, but protocols and guidelines can be hard to find and misleading if not used appropriately. To overcome these obstacles, standardized approaches for monitoring and a &ldquo;toolbox&rdquo; of protocols and information are needed. This toolbox emphasizes methods that are simple and affordable, and that can be used for monitoring .</p>
+				</div> <!--end col-->
+			</div> <!--end row-->
+			<hr>
+		</div><!--end container-->
 <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">KEY DOCUMENTS</div>
+					<div class="right-nav-title margin-0-top ">KEY DOCUMENTS</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke" target="new">PSEMP Communications Plan</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k">2019 Work Plans</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/ep1nzf6z1m1gelayymem2s655e1gp9dt">2018 Annual Reports</a></li>
-				
+				    <li role="presentation"> <a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke" target="new">PSEMP Communications Plan</a></li>
+				    <li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a></li>
+				    <li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k">2019 Work Plans</a></li>
+				    <li role="presentation"> <a href="https://pspwa.box.com/s/ep1nzf6z1m1gelayymem2s655e1gp9dt">2018 Annual Reports</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-20-top ">PSEMP LEADERSHIP AND WORK GROUP PORTAL</div>
-				<!-- InstanceEndEditable -->
+			<div class="right-nav-title margin-20-top ">PSEMP LEADERSHIP AND WORK GROUP PORTAL</div>
+			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/5f7aymlldxt4wqsfmcutmy3iz3h6l3ts" target="new">Steering Committee</a></li>
-					<li role="presentation"><a href="https://pspwa.box.com/s/fwgkthne46pdhxqladgg0zf5se2ui61p" target="new">Work Group Leads</a></li>
+                    <li class="active" role="presentation"> <a href="https://pspwa.box.com/s/5f7aymlldxt4wqsfmcutmy3iz3h6l3ts" target="new">Steering Committee</a></li>
+				    <li role="presentation"><a href="https://pspwa.box.com/s/fwgkthne46pdhxqladgg0zf5se2ui61p" target="new">Work Group Leads</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/8yiq86nl46w3sea0jdtjktnku7vs1qsk" target="new">Diseases Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd" target="new">Forage Fish and Food Webs Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub" target="new">Freshwater Work Group</a></li>
@@ -167,10 +147,11 @@
 					<li role="presentation"> <a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz" target="new">Spatial Ecology Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics Work Group</a></li>
-						<!-- InstanceEndEditable -->
+			
+				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-20-top ">RELATED INFORMATION</div>
+			<div class="right-nav-title margin-0-top ">RELATED INFORMATION</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
@@ -178,7 +159,6 @@
 				<li role="presentation"> <a href="https://www.psp.wa.gov/action_agenda_center.php">2018-2022 Action Agenda For Puget Sound</a></li>
 				<li role="presentation"> <a href="https://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"> <a href="https://www.psp.wa.gov/science-and-evaluation-overview.php">Puget Sound Partnership Science and Evaluation Overview</a></li>
-			
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

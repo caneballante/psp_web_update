@@ -81,13 +81,15 @@
                 
                 <h2 class="margin-0-top"><a href="https://forms.gle/xD5LGyR8tiEhtDnW8" target="new"><strong>Click here to RSVP for the 2020 Puget Sound Day on the Hill</strong></a></h2>
                 <p>Each year, President Trump has proposed a budget to Congress that zeroes out all federal funding for Puget Sound recovery. Last year, we spoke up and Congress listened - and increased funding for Puget Sound recovery. Join us again this year as we travel to Washington D.C. for Puget Sound Day on The Hill, April 28-29, 2020. We will meet with key decision makers to let them know the  benefits a healthy Puget Sound brings to the entire nation, as well as to our region. 
-                </p>
+                </p><br>
+                    <p><strong>Planning Meeting March 10, 9-11 - conference call</strong></p>
+                    <h2 class="margin-0-top"><a href="https://pspwa.box.com/shared/static/4pereedua1l9z8bm7gpj2g7z26eouwyl.pdf">Download the agenda and materials packet (PDF)</a></h2>
                 <p><strong>Tentative Itinerary</strong><br>
-
-                Monday April 27: Suggested travel day with evening welcome reception.<br>
-                Tuesday April 28: All-day, large group meetings with Congressional members/staff at Senate Office Building. Evening reception.<br>
-                Wednesday April 29: Small group meetings and lunch panel at Rayburn House Office Building.<br>
-                Thursday, April 30: Additional small group meetings if needed, suggested departure. </p>
+                        
+                        Monday April 27: Suggested travel day with evening welcome reception.<br>
+                        Tuesday April 28: All-day, large group meetings with Congressional members/staff at Senate Office Building. Evening reception.<br>
+                        Wednesday April 29: Small group meetings and lunch panel at Rayburn House Office Building.<br>
+                        Thursday, April 30: Additional small group meetings if needed, suggested departure. </p>
 				<hr>
                 <img class="img-responsive" src="images/PSDOTH2020/2020-PSDOTH-mail-footer.png" width="1000" height="291" alt=""/><br>
                 <hr>
