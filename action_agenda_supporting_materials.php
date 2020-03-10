@@ -214,7 +214,7 @@
 				</tr>
 				<tr>
 					<td valign="top"><ul>
-						<li><a href="http://www.psp.wa.gov/science-open-standards.php">Open Standards for the Practice of Conservation</a></li>
+						<li><a href="http://www.psp.wa.gov/science-conservation-standards.php">Conservation Standards</a></li>
 					</ul></td>
 				</tr>
 				<tr>

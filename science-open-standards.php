@@ -65,17 +65,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<p>Developed by leading experts in natural resource conservation work from around the world, the <em>Open Standards for the Practice of Conservation</em>, or <em>Open Standards,</em> provides a framework for strategic planning, evaluation of progress by using shared measures, and shared learning related to ecosystem recovery. The Partnership works with our many partner organizations in using the <em>Open Standards</em> to adaptively manage ecosystem recovery and build an evaluation framework with which to assess progress toward ecosystem recovery. </p>
-		<p>The <em>Open Standards</em> include specific steps for deciding how to: </p>
-		<ul>
-			<li>Represent partner interests in the Puget Sound ecosystem</li>
-			<li>Identify and rate pressures on the system</li>
-			<li>Conduct situation analyses </li>
-			<li>Describe the recovery context </li>
-			<li>Build conceptual cause-and-effect models of how strategies and actions can address pressures and ecosystem components</li>
-			<li>Identify expected results that form the basis for evaluating progress toward ecosystem recovery</li>
-		</ul>
-<p>Since 2009, the Partnership has used the Open Standards to develop Vital Sign indicators, describe sources of pressure and stressors on Puget Sound ecosystems, describe Chinook salmon recovery efforts and LIO planning priorities, and identify the roadmap for achieving Vital Sign indicator targets through use of Implementation Strategies.<a href="science-adaptive-management-framework.php"> LEARN MORE</a></p>
+			<p>This page has moved to <a href="science-conservation-standards.php">Conservation Standards</a></p>
 </p>
 		<!-- InstanceEndEditable --> </div>
 		
