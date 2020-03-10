@@ -88,7 +88,7 @@
 				</div> 
 				<!--end col-->
 				<div class="col-lg-4">
-					<h3 class="margin-20-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h3> 
+					<h3 class="margin-0-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h3> 
 					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="215" height="254" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Click to download</a></p></span>
 					<br>
@@ -151,7 +151,7 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">RELATED INFORMATION</div>
+			<div class="right-nav-title margin-20-top ">RELATED INFORMATION</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
