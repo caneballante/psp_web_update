@@ -127,7 +127,7 @@ for Puget Sound Recovery</h1>
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt="Photo of Washington D.C."/> 
 					<strong>EVENT</strong><br>
-						<a href="psdoth2020.php">RSVP now for the 2020 Puget Sound Day on the Hill, April 28-29, Washington DC</a><br>
+						<a href="psdoth2020.php">2020 Puget Sound Day on the Hill postponed</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
