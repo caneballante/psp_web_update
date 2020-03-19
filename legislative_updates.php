@@ -103,6 +103,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27b7f31">Legislative Update, February 13, 2020</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27d3122">Legislative Update, February, 21, 2020</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27f1189">Legislative Update, March 3, 2020</a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/281fe9e">Legislative Update, March 18, 2020</a></p>
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS:</h3>
 			<p><a href="https://pspwa.app.box.com/s/1wr7df88pv4u7bfckfxmmo7g6pybib3h">January 10, 2020</a></p>      
             <p> <a href="https://pspwa.box.com/s/hkus4xsh7k8dr63whp15a45zgoon13sm">January 17, 2020</a></p>
