@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>DRAFT PSEMP - ANNOUNCEMENTS</h1>
+			<h1>PSEMP - ANNOUNCEMENTS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -68,11 +68,8 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<div class="highlightbox margin-0-top">
 		  <p>March 25, 2020</p>
-		  <h3 align="left">Monitoring Network Coordinator Position</h3>
 				
-				  <p align="left">The Puget Sound Partnership is hiring a Monitoring Network Coordinator. The Monitoring Network Coordinator will be an integral part of the Science and Evaluation Team and work closely with the Puget Sound Ecosystem Monitoring Program (PSEMP) to bring forward the best available information in a way that spans boundaries between science, recovery planning, natural resource management, and policy.</p>
-				  <p align="left">The Monitoring Network Coordinator will be responsible for coordinating collaborative monitoring and assessment efforts and product development within PSEMP, to operationalize strategic linkages with regional recovery planning and decision-making processes. The work is driven by the mission and objectives of PSEMP in alignment with the mission of the Partnership. The Monitoring Network Coordinator will provide planning and administrative support to PSEMP meetings (i.e. Steering Committee meetings) and larger scale events for the monitoring network in connection to the broader recovery community. The ultimate goal of the Partnership's Monitoring team is to help PSEMP serve as a relevant and strategic resource that actively supports Puget Sound recovery at multiple scales.</p>
-				  <p align="left">Position closes April 12. Learn more about the position and apply here: <a href="https://www.governmentjobs.com/careers/washington/jobs/2752754/monitoring-network-coordinator-exempt">https://www.governmentjobs.com/careers/washington/jobs/2752754/monitoring-network-coordinator-exempt</a></p>
+				  <p align="left"><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/283222d">The Puget Sound Partnership is hiring a Monitoring Network Coordinator</a></p>
 				  	  
 		  </div>
 			<div class="highlightbox margin-20-top">
