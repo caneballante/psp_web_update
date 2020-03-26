@@ -1,6 +1,58 @@
 {
 	"news-releases": 
-    {
+    {	 
+		"release74": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release73": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release72": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release71": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release70": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release69": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release68": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release67": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release66": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release65": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release64": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release63": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
+		"release62": {
+			"date": "Date",
+			"link": "<a href='link here - note the single quotation'>Description goes here</a>"
+		},
 	   "release61": {
 			"date": "February 1, 2019",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/22c7bfc'>Science Panel to hear updates on 2019 legislative session</a>"
