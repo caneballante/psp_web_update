@@ -242,7 +242,7 @@
              desk: 360.464.1232 mobile: 360.701.1768| <a href="mailto:justine.soderlind@psp.wa.gov">justine.soderlind@psp.wa.gov</a> </p>
             <h5>Ami Hollingsworth</h5>
             <p>Administrative Assistant<br />
-                360.464.1218 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
+                desk: 360.464.1218 mobile: 360.867.8647 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
             </p>
             <!--EPA PROGRAM-->
             <h3 class="padding-10-top">EPA PROGRAM</h3>
