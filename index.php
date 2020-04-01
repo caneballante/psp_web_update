@@ -239,9 +239,9 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">MAR<br>
-			  26</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL,<br>
+				<div class="newsbox-date">APR<br>
+			  29</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL,<br>
 				    Online<br>
 							</a><br>
 				</div>
@@ -253,10 +253,10 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">APR<br>
-			  29</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
-					Online<br>
+				<div class="newsbox-date">MAY<br>
+			  13</div>
+				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+					South Seattle Community College, Seattle<br>
 							</a><br>
 					<br>
 				</div>
@@ -268,9 +268,9 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-			  <div class="newsbox-date">MAY<br>13</div>
-				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-					Online</a><br>
+			  <div class="newsbox-date">MAY<br>28</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Edmonds Center for the Arts, Edmonds</a><br>
 				</div>
 				<!--END news content-->
 			</div>
@@ -280,10 +280,10 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">MAY<br>
-			  28</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					Online<br>
+				<div class="newsbox-date">JUN<br>
+			  9-10</div>
+				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
+					Jamestown S'Klallam Red Cedar Hall, Sequim<br>
 							</a><br>
 				</div>
 				<!--END news content-->
