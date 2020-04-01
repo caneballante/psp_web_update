@@ -109,22 +109,6 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt=""/> 
-					<strong>ANNOUNCEMENT</strong><br>
-					  <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/27e634b">Legislative calendar week 8
-				</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		    <!--COLUMN END-->
-            <!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt="Photo of Washington D.C."/> 
 					<strong>EVENT</strong><br>
 						<a href="psdoth2020.php">2020 Puget Sound Day on the Hill postponed</a><br>
@@ -134,7 +118,7 @@ for Puget Sound Recovery</h1>
 				</div>
 				
 			</div>
-		<!--COLUMN END-->
+		    <!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -166,7 +150,22 @@ for Puget Sound Recovery</h1>
 				</div>
 				
 			</div>
-		<!--COLUMN END-->	
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/COP25.jpg"  alt="Photo of Washington D.C."/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/governments-gather-for-climate-agreements-in-spain-2019-state-of-the-sound-calls-for-action-here-4083f0ba1c0e">Governments gather for COP25, 2019 State of the Sound calls for action at home</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
