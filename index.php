@@ -158,7 +158,7 @@ for Puget Sound Recovery</h1>
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/COP25.jpg"  alt="Photo of Washington D.C."/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/governments-gather-for-climate-agreements-in-spain-2019-state-of-the-sound-calls-for-action-here-4083f0ba1c0e">Governments gather for COP25, 2019 State of the Sound calls for action at home</a><br>
+						<a href="https://medium.com/puget-sound-partnership/governments-gather-for-climate-agreements-in-spain-2019-state-of-the-sound-calls-for-action-here-4083f0ba1c0e">12/16: Governments gather for COP25, 2019 State of the Sound calls for action at home</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
