@@ -63,8 +63,8 @@
 					
 					<p><strong>How are we supporting Puget Sound?</strong></p>
 					<p>For the past five years, we’ve sent a letter to Congress with the signatures of those who support Puget Sound recovery. With the postponement of an in-person Puget Sound Day on the Hill 2020, this letter takes on added importance.<br><br>
-We have <a href="https://pspwa.box.com/s/sk09f6qc24p69o8j6t4r0omqkkambymh">finalized the letter</a> with your input; thank you! We are asking leading organizations to demonstrate their support by signing on. To be included as an official signatory to the letter, please provide the requested information at <a href="https://docs.google.com/forms/d/e/1FAIpQLSdKIVfK0ebKY6oDcOMIpJl4mJPrqIZl8ukNpy-nr0WN1FKkcQ/viewform">this link</a>.  Enter your name, title, and organization exactly as you would like it to appear in the letter by April 14, 2020.<br><br>
-Please note that as of today, our D.C. folks say that Congress plans to follow the usual timeline for appropriations. Therefore, we're getting ready as usual. Obviously, that could change at any moment, but we would like to have the letter with signatures ready to go whenever it is that we will need it.
+We have <a href="https://pspwa.box.com/s/m7f0n15qolafdxrc70wzwcudpwyl7t64">finalized the letter</a>. Thank you to all the organizations and individuals who have demonstrated their support by signing on.<br><br>
+Please note that as of today, our D.C. folks say that Congress plans to follow the usual timeline for appropriations. Therefore, we're getting ready as usual. Obviously, that could change at any moment, but we have the letter ready to go whenever we need it.
 </p><br>
 					<p><strong>What about my travel accommodations?</strong></p>
 					<p>We have guidance from <a href="https://www.alaskaair.com/content/advisories/travel-advisories?int=AS_HOMEADVISORY_-prodID:Awareness">Alaska Airlines on cancelling flights</a>. Be sure to cancel your hotel, rental car, or any airport shuttle you may have reserved.</p>
