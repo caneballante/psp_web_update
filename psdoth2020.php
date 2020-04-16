@@ -64,7 +64,7 @@
 					<p><strong>How are we supporting Puget Sound?</strong></p>
 					<p>For the past five years, we’ve sent a letter to Congress with the signatures of those who support Puget Sound recovery. With the postponement of an in-person Puget Sound Day on the Hill 2020, this letter takes on added importance.<br><br>
 We have <a href="https://pspwa.box.com/s/m7f0n15qolafdxrc70wzwcudpwyl7t64">finalized the letter</a>. Thank you to all the organizations and individuals who have demonstrated their support by signing on.<br><br>
-Please note that as of today, our D.C. folks say that Congress plans to follow the usual timeline for appropriations. Therefore, we're getting ready as usual. Obviously, that could change at any moment, but we have the letter ready to go whenever we need it.
+Please note that as of today, our D.C. folks say that Congress plans to follow the usual timeline for appropriations. Therefore, we're getting ready as usual.
 </p><br>
 					<p><strong>What about my travel accommodations?</strong></p>
 					<p>We have guidance from <a href="https://www.alaskaair.com/content/advisories/travel-advisories?int=AS_HOMEADVISORY_-prodID:Awareness">Alaska Airlines on cancelling flights</a>. Be sure to cancel your hotel, rental car, or any airport shuttle you may have reserved.</p>
