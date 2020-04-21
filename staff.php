@@ -127,15 +127,14 @@
            		360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
              <!--COMMUNICATIONS--> 
             <h3 class="padding-10-top">COMMUNICATIONS PROGRAM</h3>
-            <h5>VACANT</h5>
-            <p>Communications Lead<br />
-                </p>
             <h5>Jon Bridgman</h5>
-            <p>Visual Communications Lead<br />
+            <p>Communications Manager<br />
                 206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov </a></p>
             <h5>Kevin HyDe</h5>
             <p> Communications Specialist <br>
-			360.819.3045 | <a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov </a></p>	
+			360.819.3045 | <a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov </a></p>
+			<h5>VACANT</h5>
+			<p>Visual Communications</p>
             <!--INTEGRATED PLANNING TEAM-->
             <h2>INTEGRATED PLANNING PROGRAM</h2>
             <h5>Stephanie Suter</h5>
