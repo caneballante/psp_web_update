@@ -62,10 +62,8 @@
 					<p>Puget Sound Day on the Hill 2020 was postponed to comply with social distancing guidelines during the COVID-19 outbreak. We hope to move the event to the fall. Please stay tuned for more updates on our plans.</p><br>
 					
 					<p><strong>How are we supporting Puget Sound?</strong></p>
-					<p>For the past five years, we’ve sent a letter to Congress with the signatures of those who support Puget Sound recovery. With the postponement of an in-person Puget Sound Day on the Hill 2020, this letter takes on added importance.<br><br>
-We have <a href="https://pspwa.box.com/s/m7f0n15qolafdxrc70wzwcudpwyl7t64">finalized the letter</a>. Thank you to all the organizations and individuals who have demonstrated their support by signing on.<br><br>
-Please note that as of today, our D.C. folks say that Congress plans to follow the usual timeline for appropriations. Therefore, we're getting ready as usual.
-</p><br>
+					<p>For the past five years, we’ve sent a letter to Congress with the signatures of those who support Puget Sound recovery. With the postponement of an in-person Puget Sound Day on the Hill 2020, this letter takes on added importance. On April 16, we sent our letter to Congress supporting continued strong appropriations for Puget Sound and salmon recovery. These appropriations will create and sustain jobs, local economies, and communities, as well as help us restore Puget Sound to resilience.<br><br>
+You can see <a href="https://pspwa.box.com/s/m7f0n15qolafdxrc70wzwcudpwyl7t64">the finalized letter, with signatures, here</a>. Thank you to all the organizations and individuals who demonstrated their support by signing the letter. We're grateful for your dedication to Puget Sound recovery.<br><br>
 					<p><strong>What about my travel accommodations?</strong></p>
 					<p>We have guidance from <a href="https://www.alaskaair.com/content/advisories/travel-advisories?int=AS_HOMEADVISORY_-prodID:Awareness">Alaska Airlines on cancelling flights</a>. Be sure to cancel your hotel, rental car, or any airport shuttle you may have reserved.</p>
  
