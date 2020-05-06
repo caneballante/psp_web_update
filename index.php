@@ -238,9 +238,9 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-				<div class="newsbox-date">APR<br>
-			  29</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL,<br>
+				<div class="newsbox-date">MAY<br>
+			  13</div>
+				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD,<br>
 				    Online<br>
 							</a><br>
 				</div>
@@ -253,9 +253,9 @@ for Puget Sound Recovery</h1>
 			<div class="newsbox calendarbox">
 				<!--news content -->
 				<div class="newsbox-date">MAY<br>
-			  13</div>
-				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-					South Seattle Community College, Seattle<br>
+			  28</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Online<br>
 							</a><br>
 					<br>
 				</div>
@@ -267,9 +267,9 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content-->
-			  <div class="newsbox-date">MAY<br>28</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					Edmonds Center for the Arts, Edmonds</a><br>
+			  <div class="newsbox-date">JUN<br>10</div>
+				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
+					Online</a><br>
 				</div>
 				<!--END news content-->
 			</div>
@@ -279,10 +279,10 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">JUN<br>
-			  9-10</div>
-				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
-					Jamestown S'Klallam Red Cedar Hall, Sequim<br>
+				<div class="newsbox-date">JUL<br>
+			  15-16</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
+					Western Washington University, Viking Union, Bellingham<br>
 							</a><br>
 				</div>
 				<!--END news content-->
