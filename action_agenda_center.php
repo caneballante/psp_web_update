@@ -74,8 +74,11 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-				<div class="highlightbox margin-0-top margin-20-bottom">
-			<p><span class="new-red">NEW!</span> The Puget Sound Partnership is transitioning to a new tool to monitor ecosystem health and implementation of the Action Agenda. Please visit <a href="https://www.pugetsoundinfo.wa.gov/">Puget Sound Info </a>for the most recent information.</p>
+			<div class="highlightbox margin-0-top margin-20-bottom">
+			<p><span class="new-red">NEW!</span> In fall 2019, the Puget Sound Partnership (Partnership) conducted an after action review of the <a href="https://pspwa.box.com/s/osxaeqg19fevxu5n3k8xnjytzkwol512">2018-2022 Action Agenda</a>. The goal of the Partnership in conducting the after action review was to seek feedback on the 2018-2022 Action Agenda and the process to develop it that will help inform the our collective approach to the 2022-2026 Action Agenda. The Partnership has reviewed the responses and is pleased to share <a href="https://pspwa.box.com/s/71kh95t3vx5ltu8931nntd0jdvpqk41k">a report</a> covering the key findings of the after action review.</p>
+			</div>	
+			<div class="highlightbox margin-20-top margin-20-bottom">
+			<p>The Puget Sound Partnership is transitioning to a new tool to monitor ecosystem health and implementation of the Action Agenda. Please visit <a href="https://www.pugetsoundinfo.wa.gov/">Puget Sound Info </a>for the most recent information.</p>
 			</div>
 			
 			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it complements and incorporates the work of many partners from around Puget Sound to describe regional strategies and specific actions needed to recover Puget Sound. These strategies and actions provide opportunities for federal, state, local, tribal, and private entities to better invest resources and coordinate actions.</p>
