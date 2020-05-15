@@ -109,9 +109,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/EarthDayBlog.jpg"  alt="Photo of rain garden in Tacoma"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/Whitewaterweb.jpg"  alt="Photo of whitewater herring spawn event in Agate Pass photo by Brian Whitlock"/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/earth-day-rain-gardens-and-orcas-776ec5fc593f">4/22: Earth Day, rain gardens, and orcas</a><br>
+						<a href="https://medium.com/puget-sound-partnership/this-years-herring-spawn-events-in-puget-sound-were-the-largest-in-decades-855dce58df6f">5/14: This year's herring spawn events in Puget Sound were the largest in decades</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -124,9 +124,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt="Photo of Washington D.C."/> 
-					<strong>EVENT</strong><br>
-						<a href="psdoth2020.php">2020 Puget Sound Day on the Hill postponed</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/EarthDayBlog.jpg"  alt="Photo of rain garden in Tacoma"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/earth-day-rain-gardens-and-orcas-776ec5fc593f">4/22: Earth Day, rain gardens, and orcas</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -139,10 +139,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/snow-geese.jpg"  alt=""/> 
-					<strong>BLOG</strong><br>
-					  <a href="https://medium.com/puget-sound-partnership/social-science-for-the-salish-sea-843839c5c84f">2/4: Social Science for the Salish Sea
-				</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt="Photo of Washington D.C."/> 
+					<strong>EVENT</strong><br>
+						<a href="psdoth2020.php">2020 Puget Sound Day on the Hill postponed</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
