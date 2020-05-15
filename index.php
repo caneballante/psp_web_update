@@ -154,9 +154,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leque_island_smaller.jpg"  alt="Photo of the tour group witnessing the high tide transformation at Leque Island"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/snow-geese.jpg"  alt="Photo of snow geese by Mount Baker"/> 
 					<strong>BLOG</strong><br>
-					  <a href="https://medium.com/puget-sound-partnership/a-restoration-tour-from-beginning-to-end-2d5dd1a8969f">1/2: A restoration tour, from beginning to end
+					  <a href="https://medium.com/puget-sound-partnership/social-science-for-the-salish-sea-843839c5c84f">2/4: Social Science for the Salish Sea
 				</a><br>
 						<!--END news content BOX-->  
 					</div>
