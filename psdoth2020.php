@@ -68,6 +68,9 @@
 June 5th, 1:00 – 2:30 p.m. Pacific Time<br> 
 
 					Speakers: Rep. Denny Heck and Rep. Derek Kilmer </strong></p><br>
+					
+					<hr>
+					<div><img src="images/PSDOTH2020/2020-virtual-PSDOTH-web-FOOTER.jpg" width="700" height="333" alt=""/></div>
            </div>
         </div>
         
