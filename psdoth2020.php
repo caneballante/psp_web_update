@@ -42,7 +42,7 @@
 	<div class="container page-content padding-50-all"><br><br>
 		<div class="row">
             <div class="col-sm-8">
-                <img class="img-responsive" src="images/PSDOTH2020/2020-PSDOTH-web-banner.jpg" width="1200" height="424" alt=""/>
+                <img class="img-responsive" src="images/PSDOTH2020/2020-virtual-PSDOTH-web-banner.jpg" width="1200" height="424" alt=""/>
             </div>
 			<div class="col-sm-4">
                 
@@ -56,21 +56,18 @@
 		</div> --> 
         <div class="row">
 		    	<div class="col-sm-12">
-				<h2 class="margin-2-top">2020 Puget Sound Day on the Hill Postponed</h2>
-					<p><strong>Why was Puget Sound Day on the Hill postponed?</strong></p>
+				<h2 class="margin-2-top">2020 Virtual Puget Sound Days on the Hill</h2>
                 
-					<p>Puget Sound Day on the Hill 2020 was postponed to comply with social distancing guidelines during the COVID-19 outbreak. We hope to move the event to the fall. Please stay tuned for more updates on our plans.</p><br>
-					
-					<p><strong>How are we supporting Puget Sound?</strong></p>
-					<p>For the past five years, we’ve sent a letter to Congress with the signatures of those who support Puget Sound recovery. With the postponement of an in-person Puget Sound Day on the Hill 2020, this letter takes on added importance. On April 16, we sent our letter to Congress supporting continued strong appropriations for Puget Sound and salmon recovery. These appropriations will create and sustain jobs, local economies, and communities, as well as help us restore Puget Sound to resilience.<br><br>
-You can see <a href="https://pspwa.box.com/s/m7f0n15qolafdxrc70wzwcudpwyl7t64">the finalized letter, with signatures, here</a>. Thank you to all the organizations and individuals who demonstrated their support by signing the letter. We're grateful for your dedication to Puget Sound recovery.<br><br>
-					<p><strong>What about my travel accommodations?</strong></p>
-					<p>We have guidance from <a href="https://www.alaskaair.com/content/advisories/travel-advisories?int=AS_HOMEADVISORY_-prodID:Awareness">Alaska Airlines on cancelling flights</a>. Be sure to cancel your hotel, rental car, or any airport shuttle you may have reserved.</p>
- 
-                </p><br>
-                    
-				<hr>
-                
+					<p>Since we can’t gather together in person, we’ve moved Puget Sound Day on the Hill to a series of virtual events with the Washington State congressional delegation and special guests.</p>
+					<p>Puget Sound Partnership and the Northwest Indian Fisheries Commission invite you to participate in our Virtual Puget Sound Days on the Hill, Fridays in June from 1:00 – 2:30 p.m. We’ll discuss stimulus funding, Puget Sound restoration and protection, salmon recovery, and the powerful economic benefits of ecological restoration projects.</p>
+					<p>Each member of Congress or special guest will speak for about 25 minutes. Participants will be able to post questions for our speakers during a moderated Q&amp;A session.</p>
+					<p><strong>Advanced registration is required. Please click here to register for the June 5 session.</strong></p>
+					<p>We will send regular announcements with confirmed speakers for that week as well as a registration link for each event. You can also check this page for the latest information.</p>
+                    <p><strong>Week 1:<br> 
+
+June 5th, 1:00 – 2:30 p.m. Pacific Time<br> 
+
+					Speakers: Rep. Denny Heck and Rep. Derek Kilmer </strong></p><br>
            </div>
         </div>
         
