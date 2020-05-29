@@ -61,7 +61,7 @@
 					<p>Since we can’t gather together in person, we’ve moved Puget Sound Day on the Hill to a series of virtual events with the Washington State congressional delegation and special guests.</p>
 					<p>Puget Sound Partnership and the Northwest Indian Fisheries Commission invite you to participate in our Virtual Puget Sound Days on the Hill, Fridays in June from 1:00 – 2:30 p.m. We’ll discuss stimulus funding, Puget Sound restoration and protection, salmon recovery, and the powerful economic benefits of ecological restoration projects.</p>
 					<p>Each member of Congress or special guest will speak for about 25 minutes. Participants will be able to post questions for our speakers during a moderated Q&amp;A session.</p>
-					<p><strong>Advanced registration is required. Please <a href="https://nwifc.org/psdoth/">click here to register</a> for the June 5 session.</strong></p>
+					<p><strong>Advanced registration for this event is required and will close 24 hours before the event on Thursday, June 4 at 1 p.m. Please <a href="https://nwifc.org/psdoth/">click here to register</a> for the June 5 session.</strong></p>
 					<p>We will send regular announcements with confirmed speakers for that week as well as a registration link for each event. You can also check this page for the latest information.</p>
                     <p><strong>Week 1:<br> 
 
