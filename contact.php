@@ -82,7 +82,7 @@
 				PO Box WT-41, Olympia, WA 98504-7000 </p>
 			<p>&nbsp;</p>
 			<h3>Please send public record requests to:</h3>
-			<p> public.records@psp.wa.gov</p>
+			<p><a href="mailto:publicrecords@psp.wa.gov">publicrecords@psp.wa.gov</a></p>
 			
 			
 			<!-- InstanceEndEditable --> </div>
