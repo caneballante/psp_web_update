@@ -81,8 +81,16 @@
 				<li> Administration of National Estuary Program funds to implement priorities identified in the Action Agenda </li>
 				<li>Oversee development and adaptive management of Implementation Strategies			</li>
 			</ul>
-			<p>DRAFT NTA Funding Recommendations for NEP Funding:</p>		
-			<p><span class="new-red">NEW </span>2019</p>
+			<p>DRAFT NTA Funding Recommendations for NEP Funding:</p>
+			<p><span class="new-red">NEW </span>2020</p>
+			<ul>
+			<li>Stormwater Funding Recommendations:<a href="https://pspwa.app.box.com/v/StormwaterFY20FundingRec">https://pspwa.app.box.com/v/StormwaterFY20FundingRec</a></li>
+				
+				<li>Habitat Funding Recommendations:<a href="https://pspwa.app.box.com/v/HabitatFY20FundingRec">https://pspwa.app.box.com/v/HabitatFY20FundingRec</a></li>
+				
+				<li>Shellfish Funding Recommendations:<a href="https://pspwa.app.box.com/v/ShellfishFY20FundingRec">https://pspwa.app.box.com/v/ShellfishFY20FundingRec</a></li>
+			</ul>
+			<p>2019</p>
 			<ul>
 				<li>Stormwater Funding Recommendations:<a href="https://pspwa.box.com/v/StormwaterFY19FundingRec">https://pspwa.box.com/v/StormwaterFY19FundingRec</a></li>
 				
