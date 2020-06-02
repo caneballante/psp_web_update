@@ -221,7 +221,7 @@ for Puget Sound Recovery</h1>
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/innovation-stories.jpg"  alt=""/> 
 						<strong>PUGET SOUND INNOVATION STORIES<br></strong>
-						<a href="https://pugetsoundinnovationstories.blog/">Learn about the people and projects saving the Sound</a><br>
+						<a href="https://innovationstories.psp.wa.gov/">Learn about the people and projects saving the Sound</a><br>
 						<!--END news content BOX--> 
 					</div>
 				</div>
