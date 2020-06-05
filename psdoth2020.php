@@ -67,8 +67,10 @@
 
 June 5th, 1:00 – 2:30 p.m. Pacific Time<br> 
 
-					Speakers: Rep. Denny Heck and Rep. Derek Kilmer </strong></p><br>
-					
+					Speakers: Rep. Denny Heck and Rep. Derek Kilmer </strong><br>
+					Session 1 streaming access<br>
+					<a href="https://stream.lifesizecloud.com/extension/3845151/47d3dae2-bdba-494c-b91e-cb91a23a841a">https://stream.lifesizecloud.com/extension/3845151/47d3dae2-bdba-494c-b91e-cb91a23a841a</a><br>
+					Passcode: 196281</p>					
 					<hr>
 					<div><img src="images/PSDOTH2020/2020-virtual-PSDOTH-web-FOOTER.jpg" width="700" height="333" alt=""/></div>
            </div>
