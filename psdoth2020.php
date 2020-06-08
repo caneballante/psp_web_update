@@ -42,7 +42,7 @@
 	<div class="container page-content padding-50-all"><br><br>
 		<div class="row">
             <div class="col-sm-8">
-                <img class="img-responsive" src="images/PSDOTH2020/2020-virtual-PSDOTH-web-banner.jpg" width="1200" height="424" alt=""/>
+                <img class="img-responsive" src="images/PSDOTH2020/2020-virtual-PSDOTH-web-bannerPDT.jpg" width="1200" height="424" alt=""/>
             </div>
 			<div class="col-sm-4">
                 
