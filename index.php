@@ -124,10 +124,25 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/BlackSquare.jpg"  alt=""/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/a-statement-by-laura-blackmore-executive-director-in-solidarity-with-black-communities-and-e5df5ce01d21">6/5: A statement by Laura Blackmore, executive director, in solidarity with Black communities and communities of color</a><br>
+						<!--END news content BOX-->  
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/Whitewaterweb.jpg"  alt="Photo of whitewater herring spawn event in Agate Pass photo by Brian Whitlock"/> 
 					<strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/this-years-herring-spawn-events-in-puget-sound-were-the-largest-in-decades-855dce58df6f">5/14: This year's herring spawn events in Puget Sound were the largest in decades</a><br>
-						<!--END news content BOX-->  
+						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -142,22 +157,6 @@ for Puget Sound Recovery</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/EarthDayBlog.jpg"  alt="Photo of rain garden in Tacoma"/> 
 					<strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/earth-day-rain-gardens-and-orcas-776ec5fc593f">4/22: Earth Day, rain gardens, and orcas</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/snow-geese.jpg"  alt="Photo of snow geese by Mount Baker"/> 
-					<strong>BLOG</strong><br>
-					  <a href="https://medium.com/puget-sound-partnership/social-science-for-the-salish-sea-843839c5c84f">2/4: Social Science for the Salish Sea
-				</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
