@@ -235,18 +235,6 @@ for Puget Sound Recovery</h1>
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
-				<!--news content-->
-			  <div class="newsbox-date">JUN<br>10</div>
-				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
-					Online</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->	
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
 				<!--news content -->
 				<div class="newsbox-date">JUL<br>
 			  15-16</div>
@@ -257,8 +245,8 @@ for Puget Sound Recovery</h1>
 				<!--END news content-->
 			</div>
 		</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
+		<!--COLUMN END-->	
+		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
@@ -280,6 +268,20 @@ for Puget Sound Recovery</h1>
 			  13</div>
 				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
 					Everett Community College, Everett<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">SEP<br>
+			  9 - 10</div>
+				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
+					Guy Cole Event Center, Sequim; Harborside Inn, Port Townsend<br>
 							</a><br>
 				</div>
 				<!--END news content-->
