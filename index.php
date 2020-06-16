@@ -239,7 +239,7 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox-date">JUL<br>
 			  15-16</div>
 				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
-					Western Washington University, Viking Union, Bellingham<br>
+					Online<br>
 							</a><br>
 				</div>
 				<!--END news content-->
@@ -253,7 +253,7 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox-date">JUL<br>
 			  30</div>
 				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					South Seattle Community College, Georgetown<br>
+					Online<br>
 							</a><br>
 				</div>
 				<!--END news content-->
@@ -267,7 +267,7 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox-date">AUG<br>
 			  13</div>
 				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-					Everett Community College, Everett<br>
+					Online<br>
 							</a><br>
 				</div>
 				<!--END news content-->
