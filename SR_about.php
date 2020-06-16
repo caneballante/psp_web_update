@@ -80,15 +80,11 @@
 			 <!--END IFRAME-->
 			<h3>Board contact</h3>
 			<p>For questions about the Partnership's boards contact:<br />
-	   		<strong>Deb Hagen, <br>
-			Special Assistant to the Boards <br>
-	  		</strong>	    <a href="mailto:deborah.hagen@psp.wa.gov">deborah.hagen@psp.wa.gov</a><br>
-			360.819.0057
+	   		<strong>Ahren Stroming, <br>
+			Special Projects Assistant <br>
+	  		</strong>	    <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a><br>
+			360.918.1337
 			</p>
-			<p><strong>Jillian Reitz, <br>
-            Boards Policy Specialist<br>
-            </strong> <a href="mailto:jillian.reitz">jillian.reitz@psp.wa.gov</a><br>
-            360.742.2936 </p>
 			<h3>Board Materials</h3>
 			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a>			</p>
 		
