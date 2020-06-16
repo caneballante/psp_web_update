@@ -95,7 +95,6 @@
 					<?php include 'includes/board_contact.html';?>
 				</li>
 				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></li>
-				<li><a href="https://pspwa.box.com/s/ulkiy4wymtx9agr58edow7g0310auap7">Board's 2019 meeting calendar</a></li>
 				<li><a href="https://pspwa.box.com/s/87rfvgjwf6wahymd806v7lrkh0a89zjt">Puget Sound Environmental Caucus members </a></li>
 				
 				
