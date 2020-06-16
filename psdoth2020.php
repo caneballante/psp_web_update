@@ -63,8 +63,8 @@
 					<p>Each member of Congress or special guest will speak for about 25 minutes. Participants will be able to post questions for our speakers during a moderated Q&amp;A session.</p>
 					<p><strong>Advanced registration for this event is required and will close 24 hours before the event, on the Thursday, June 18 at 1 p.m. Pacific Time. Please <a href="https://nwifc.org/psdoth/">click here to register</a> for the June 19 session.</strong></p>
 					<p>We will send regular announcements with confirmed speakers for that week as well as a registration link for each event. You can also check this page for the latest information.</p>
-					<p><strong>Week 2 - June 12 - Postponed</strong><br>We are committed to standing in solidarity with Black communities and communities of color, and we want to honor the call from Black Lives Matter Seattle – King County for statewide action to mourn the lives lost to systemic racism. In light of the call from Black Lives Matter Seattle – King County for a general strike and silent march on Friday, June 12, and in consultation with our speakers, we have made the decision to postpone this week’s Virtual Puget Sound Days on the Hill session with Rep. Rick Larsen and Rep. Pramila Jayapal. We will provide more information and a new registration link for the June 19 Virtual Puget Sound Days on the Hill session soon.<br></p>
-						<p><strong>Week 3:<br>
+					<p><strong>June 12 - Postponed</strong><br>We are committed to standing in solidarity with Black communities and communities of color, and we want to honor the call from Black Lives Matter Seattle – King County for statewide action to mourn the lives lost to systemic racism. In light of the call from Black Lives Matter Seattle – King County for a general strike and silent march on Friday, June 12, and in consultation with our speakers, we have made the decision to postpone this week’s Virtual Puget Sound Days on the Hill session with Rep. Rick Larsen and Rep. Pramila Jayapal.<br></p>
+						<p><strong>Week 2:<br>
 						June 19, 1:00 - 2:30 p.m.<br>
 						With Rep. Kim Schrier, Rep. Suzan DelBene, and Rep. Pramila Jayapal</strong>
 					</p>					
