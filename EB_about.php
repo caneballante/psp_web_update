@@ -69,12 +69,7 @@
 			<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=90a68c68b1994be19b120790df268fa9"></IFRAME>
 				<h3>Board contact</h3>
 			<p>For questions about the Partnership's boards contact:<br />
-	   		<strong>Deb Hagen, <br>
-			Special Assistant to the Boards <br>
-	  		</strong>	    <a href="mailto:deborah.hagen@psp.wa.gov">deborah.hagen@psp.wa.gov</a><br>
-			360.819.0057
-			</p>
-			<p><strong>Jillian Reitz, <br>
+	   		<strong>Jillian Reitz, <br>
             Boards Policy Specialist<br>
             </strong> <a href="mailto:jillian.reitz">jillian.reitz@psp.wa.gov</a><br>
             360.742.2936 </p>
