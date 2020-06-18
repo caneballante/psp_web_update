@@ -66,7 +66,7 @@
 					
 						<p><strong>Week 2:<br>
 						June 19, 1:00 - 2:30 p.m.<br>
-						With Rep. Kim Schrier, Rep. Suzan DelBene, and Rep. Pramila Jayapal</strong>
+						With Rep. Kim Schrier and Rep. Pramila Jayapal</strong>
 					</p>					
 					<hr>
 					<div><img src="images/PSDOTH2020/2020-virtual-PSDOTH-web-FOOTER.jpg" width="700" height="333" alt=""/></div>
