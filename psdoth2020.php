@@ -66,8 +66,11 @@
 					
 						<p><strong>Week 2:<br>
 						June 19, 1:00 - 2:30 p.m.<br>
-						With Rep. Kim Schrier and Rep. Pramila Jayapal</strong>
-					</p>					
+							With Rep. Kim Schrier and Rep. Pramila Jayapal</strong></p><br>
+						<p><strong>Click here to view the livestream of today's session with Rep. Schrier and Rep. Jayapal:<br>
+						<a href="https://stream.lifesizecloud.com/extension/3951345/491ac7f0-b87a-407e-8221-09e9aba238bc">https://stream.lifesizecloud.com/extension/3951345/491ac7f0-b87a-407e-8221-09e9aba238bc</a><br>
+						Passcode: 608840	
+					</strong></p>					
 					<hr>
 					<div><img src="images/PSDOTH2020/2020-virtual-PSDOTH-web-FOOTER.jpg" width="700" height="333" alt=""/></div>
            </div>
