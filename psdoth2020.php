@@ -42,7 +42,7 @@
 	<div class="container page-content padding-50-all"><br><br>
 		<div class="row">
             <div class="col-sm-8">
-                <img class="img-responsive" src="images/PSDOTH2020/2020-PSDOTH-web-banner.jpg" width="1200" height="424" alt=""/>
+                <img class="img-responsive" src="images/PSDOTH2020/2020-virtual-PSDOTH-web-bannerPDT.jpg" width="1200" height="424" alt=""/>
             </div>
 			<div class="col-sm-4">
                 
@@ -56,23 +56,20 @@
 		</div> --> 
         <div class="row">
 		    	<div class="col-sm-12">
-				<h2 class="margin-2-top">2020 Puget Sound Day on the Hill Postponed</h2>
-					<p><strong>Why was Puget Sound Day on the Hill postponed?</strong></p>
+				<h2 class="margin-2-top">2020 Virtual Puget Sound Days on the Hill</h2>
                 
-					<p>Puget Sound Day on the Hill 2020 was postponed to comply with social distancing guidelines during the COVID-19 outbreak. We hope to move the event to the fall. Please stay tuned for more updates on our plans.</p><br>
+					<p>Since we can’t gather together in person, we’ve moved Puget Sound Day on the Hill to a series of virtual events with the Washington State congressional delegation and special guests.</p>
+					<p>Puget Sound Partnership and the Northwest Indian Fisheries Commission invite you to participate in our Virtual Puget Sound Days on the Hill, Fridays in June from 1:00 – 2:30 p.m. We’ll discuss stimulus funding, Puget Sound restoration and protection, salmon recovery, and the powerful economic benefits of ecological restoration projects.</p>
+					<p>Each member of Congress or special guest will speak for about 25 minutes. Participants will be invited to submit questions in advance through a separate link when registering.</p>
+					<p><strong>Advanced registration for this event is required and will close 24 hours before the event, on Thursday, June 18 at 1 p.m. Pacific Time. Please <a href="https://nwifc.org/psdoth/">click here to register</a> for the June 19 session.</strong></p>
+					<p>We will send regular announcements with confirmed speakers for that week as well as a registration link for each event. You can also check this page for the latest information.</p>
 					
-					<p><strong>How are we supporting Puget Sound?</strong></p>
-					<p>For the past five years, we’ve sent a letter to Congress with the signatures of those who support Puget Sound recovery. With the postponement of an in-person Puget Sound Day on the Hill 2020, this letter takes on added importance.<br><br>
-We have <a href="https://pspwa.box.com/s/sk09f6qc24p69o8j6t4r0omqkkambymh">finalized the letter</a> with your input; thank you! We are asking leading organizations to demonstrate their support by signing on. To be included as an official signatory to the letter, please provide the requested information at <a href="https://docs.google.com/forms/d/e/1FAIpQLSdKIVfK0ebKY6oDcOMIpJl4mJPrqIZl8ukNpy-nr0WN1FKkcQ/viewform">this link</a>.  Enter your name, title, and organization exactly as you would like it to appear in the letter by April 14, 2020.<br><br>
-Please note that as of today, our D.C. folks say that Congress plans to follow the usual timeline for appropriations. Therefore, we're getting ready as usual. Obviously, that could change at any moment, but we would like to have the letter with signatures ready to go whenever it is that we will need it.
-</p><br>
-					<p><strong>What about my travel accommodations?</strong></p>
-					<p>We have guidance from <a href="https://www.alaskaair.com/content/advisories/travel-advisories?int=AS_HOMEADVISORY_-prodID:Awareness">Alaska Airlines on cancelling flights</a>. Be sure to cancel your hotel, rental car, or any airport shuttle you may have reserved.</p>
- 
-                </p><br>
-                    
-				<hr>
-                
+						<p><strong>Week 2:<br>
+						June 19, 1:00 - 2:30 p.m.<br>
+						With Rep. Kim Schrier and Rep. Pramila Jayapal</strong>
+					</p>					
+					<hr>
+					<div><img src="images/PSDOTH2020/2020-virtual-PSDOTH-web-FOOTER.jpg" width="700" height="333" alt=""/></div>
            </div>
         </div>
         

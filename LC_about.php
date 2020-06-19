@@ -74,12 +74,12 @@
 			<p><strong>Term: </strong>Four-year term, ends June 25, 2021<br />
 				<strong>Biography:</strong> Stephanie has been director of the bi-partisan Women’s Campaign Fund and worked as staff in the U.S. House of Representatives, and the U.S. Senate. She also ran the D.C. office for Gov. Booth Gardner. Stephanie served as national political director for the Bill Clinton Presidential campaign in 1992 and was a lead strategist of President Clinton’s successful 1993 Pacific Northwest Forest Summit in Portland, Ore. In the Clinton Administration she served as Assistant to Secretary Bruce Babbit for Intergovenmental and Congressional Affairs in the U.S. Department of the Interior. She also served as chair of the Washington Conservation Voters from 1998-2001.In 2011, Stephanie consulted with Climate Solutions and the Seattle Chamber of Commerce on creating jobs in the energy efficiency sector and served as Environmental Co-Chair of the Seattle Chamber of Commerce’s Leadership Conference. Stephanie has a degree in journalism from the University of Maryland and her Master of Public Administration from the University of Washington’s Evans School of Public Affairs.</p>
 			<h2><strong>Member:</strong> Russell Hepfer</h2>
-			<p><strong>Term:</strong> Four year term, ends June 25, 2019<br />
+			<p><strong>Term:</strong> Four-year term, ends June 25, 2023<br />
 				<strong>Biography:</strong> Russell Hepfer, a Lower Elwha Klallam Tribe member, grew up on the Lower Elwha Klallam Reservation and has exercised his treaty harvest rights for his entire life, harvesting fish and shellfish, including geoduck.
 				He taught himself how to fish and then passed those skills on to several of his sons and a nephew. Russell started in natural resources as a water quality technician in 1995, then soon was asked to represent his tribe as a commissioner on the Northwest Indian Fisheries Commission.</p>
 			<p>While serving the commission for the past 18 years, he has also served on his tribal council for 16 years, formerly as chair and currently as vice chair. Since 2005, he has served as his tribe's delegate to the Indian Policy Advisory Committee for the Washington State Department of Social & Health Services. He has also been his tribe's delegate to the Coast Salish Gathering since its inception in 2006. When he's not working, he loves spending time in the outdoors, camping and fishing. </p>
 			<h2>Member: DEBORAH JENSEN</h2>
-			<p><strong>Term:</strong> Three-year term, ends June 25, 2019<br />
+			<p><strong>Term:</strong> Four-year term, ends June 25, 2023<br />
 				<strong>Biography:</strong> Deborah Jensen has extensive experience as an executive leading conservation and scientific organizations in Washington state and internationally. Named by Seattle Business Magazine as a recipient of the 2015 Executive Excellence Award and by the Puget Sound Business Journal as a recipient of the 2009 Women of Influence Award, Ms. Jensen currently serves as principal for Jensen and Associates. The firm offers consulting services on business and conservation strategy, organizational change, and board development. She is also a Distinguished Practitioner in Residence at the University of Washington, College of the Environment. From 2002 to 2015, Ms. Jensen shepherded the 100-year-old Woodland Park Zoo in its transition to nonprofit management and built strong education and conservation programs. Before moving to the Northwest, she served as Vice President of The Nature Conservancy&rsquo;s Conservation Science Division, at its world headquarters, in Arlington, Virginia. She holds masters and doctorate degrees in Energy and Resources and an undergraduate degree in Botany from the University of California Berkeley. Ms. Jensen&rsquo;s community involvement includes serving as current Vice-Chair of the Washington Wildlife and Recreation Coalition. She has also served as a member of the Seattle Community Development Roundtable; member of the Board of Directors, Association of Zoos and Aquariums; and as President and Board member, Society for Conservation Biology. </p>
 			<h2>Member: Dennis McLerran</h2>
 			<p><strong>Term:</strong> Four-year term, ends June   25, 2022<br />
@@ -94,7 +94,7 @@
  
                Toby and his wife, Laurie, reside in the City of Lakewood and have two children, L.T. and Kelsey. </p></p>
 			<h2> Member: Jim Wilcox</h2>
-			<p><strong>Term: </strong>Four-year term, ends June 25, 2021<br />
+			<p><strong>Term: </strong>Three-year term, ends June 25, 2020<br />
 				<strong>Biography:</strong> Jim Wilcox was born in Tacoma, Wash., and grew up, lived, and worked at the family farm near Roy on the Nisqually River all his life. Jim attended Yelm High School and graduated from University of Puget Sound with a B.A. in History. He focused on a career in the dairy division of Wilcox Farms until that division was sold in 2008. He is the former chairman of the Wilcox Farms board of directors, and is retired from day-to-day management. Before his retirement, Jim supported the effort to get Wilcox Farms certified as salmon safe and helped convert much of the farm to organic practices to protect the Nisqually River. In the early 1980s, Jim served on the Nisqually River Task Force, which created the Nisqually River Council, now one of the oldest watershed councils west of the Mississippi. He also served as a board member and president of Greater Lakes Mental Health; was a volunteer fireman for 30 years; has been a participant, board member, and president of the Washington Agriculture and Forestry Leadership Foundation; and has served on many trade groups and industry councils. Jim currently serves on the boards of the Nisqually River Foundation and the Washington Food Industry Scholarship Foundation, and is a council member with the Alliance for a Healthy South Sound.  When not working, Jim enjoys Puget Sound&rsquo;s many outdoor bounties, including skiing in the winter and sailing on the Salish Sea in the summer. </p>
 			<!-- InstanceEndEditable --> </div>
 		
@@ -107,8 +107,7 @@
 					<?php include 'includes/board_contact.html';?>
 				</li>
 					<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></li>
-				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Board's 2018 meeting calendar</a></li>
-				<li><a href="https://pspwa.box.com/s/87rfvgjwf6wahymd806v7lrkh0a89zjt">Puget Sound Environmental Caucus members </a></li>
+					<li><a href="https://pspwa.box.com/s/87rfvgjwf6wahymd806v7lrkh0a89zjt">Puget Sound Environmental Caucus members </a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

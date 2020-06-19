@@ -77,8 +77,6 @@
 			<p>In 2013 the <a href="https://pspwa.box.com/s/knxdmd0st71w4f3z3ggk7nfk76oqbx6d">Puget Sound Partnership commissioned researchers at the University of Washington to investigate the social connections influencing Puget Sound recovery</a>, because a key part of the agency&rsquo;s mission is to build working partnerships.</p>
 			<h3>MUNICIPAL BARRIERS TO GREEN INFRASTRUCTURE</h3>
 			<p>To better understand the barriers local governments face to installing green infrastructure, like improved stormwater management or low-impact development, the Puget Sound Partnership in 2015 commissioned the LEAF program at Edmonds Community College to conduct research. Researchers identified such barriers as lack of communication across local government divisions and uncertainties in performance and cost. Solutions also emerged, such as providing financial assistance to update infrastructure and train staff. </p>
-			<h3>MUNICIPAL BARRIERS TO GREEN INFRASTRUCTURE</h3>
-			<p>To better understand the barriers local governments face to installing green infrastructure, like improved stormwater management or low-impact development, the Puget Sound Partnership in 2015 commissioned the LEAF program at Edmonds Community College to conduct research. Researchers identified such barriers as lack of communication across local government divisions and uncertainties in performance and cost. Solutions also emerged, such as providing financial assistance to update infrastructure and train staff. </p>
 			<h2>PUBLIC OPINION SURVEYS</h2>
 			<ul>
 				<li><p><strong>SOUND BEHAVIOR INDEX</strong></p>

@@ -1,6 +1,22 @@
 {
 	"news-releases": 
     {	 
+		"release78": {
+			"date": "June 8, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/28f4f1f'>Puget Sound Partnership Leadership Council to discuss vision for 2022-2026 Action Agenda</a>"
+		},
+		"release77": {
+			"date": "May 26, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/28d37f6'>Salmon Recovery Council to discuss 2022-2026 Action Agenda at May meeting</a>"
+		},
+		"release76": {
+			"date": "May 11, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/28aacc5'>Ecosystem Coordination Board to discuss 2022-2026 Action Agenda planning and implementation at May meeting</a>"
+		},
+		"release75": {
+			"date": "April 27, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/288a78f'>Science Panel to discuss 2020-2024 Science Work Plan this week</a>"
+		},
 		"release74": {
 			"date": "March 23, 2020",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/282b96e'>Puget Sound Salmon Recovery Council to discuss Mobilizing Funding Initiative at March meeting</a>"

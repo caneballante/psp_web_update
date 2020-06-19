@@ -127,15 +127,14 @@
            		360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
              <!--COMMUNICATIONS--> 
             <h3 class="padding-10-top">COMMUNICATIONS PROGRAM</h3>
-            <h5>VACANT</h5>
-            <p>Communications Lead<br />
-                </p>
             <h5>Jon Bridgman</h5>
-            <p>Visual Communications Lead<br />
+            <p>Communications Manager<br />
                 206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov </a></p>
             <h5>Kevin HyDe</h5>
             <p> Communications Specialist <br>
-			360.819.3045 | <a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov </a></p>	
+			360.819.3045 | <a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov </a></p>
+			<h5>VACANT</h5>
+			<p>Visual Communications</p>
             <!--INTEGRATED PLANNING TEAM-->
             <h2>INTEGRATED PLANNING PROGRAM</h2>
             <h5>Stephanie Suter</h5>
@@ -239,10 +238,10 @@
                 360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a><br /></p>
 			<h5>JUSTINE SODERLIND</h5>
             <p> Administrative Assistant<br />
-             desk: 360.464.1232 mobile: 360.701.1768| <a href="mailto:justine.soderlind@psp.wa.gov">justine.soderlind@psp.wa.gov</a> </p>
+             desk: 360.464.1232 | mobile: 360.701.1768 | <a href="mailto:justine.soderlind@psp.wa.gov">justine.soderlind@psp.wa.gov</a> </p>
             <h5>Ami Hollingsworth</h5>
             <p>Administrative Assistant<br />
-                desk: 360.464.1218 mobile: 360.867.8647 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
+                desk: 360.464.1218 | mobile: 360.867.8647 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
             </p>
             <!--EPA PROGRAM-->
             <h3 class="padding-10-top">EPA PROGRAM</h3>
@@ -259,13 +258,13 @@
                 360.791.0533 | <a href="mailto:maria.bojorquez@psp.wa.gov">maria.bojorquez@psp.wa.gov </a> </p>
             <h5>Arjean Travis</h5>
             <p> Grants, Contracts, and Compliance Manager<br />
-                360.464.2001 | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
+                desk: 360.464.2001 | mobile: 360-742-7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
             <h5>CHARLES MESSER</h5>
             <p>Fiscal Program and Contract Coordinator<br />
                 360.701.0234 | <a href="mailto:charles.messer@psp.wa.gov">charles.messer@psp.wa.gov </a> </p>
             <h5>Phan Doan</h5>
             <p>Fiscal Analyst<br />
-                360.464.2004 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov </a></p>
+                desk: 360.464.2004 | mobile: 360-742-4307 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov </a></p>
             <!--IT-->        
             <h3 class="padding-10-top">IT TEAM</h3>
             <h5>Greg Tudor</h5>
