@@ -76,7 +76,7 @@
 			</ul>
 			
 			
-		 <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/reports/4Mg3gxjGhWhv2ggwG93X27MM39qx4m496Q683rv1?view=grid"></IFRAME>
+		<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=2e7f840b27c04cc5bf44a7267306611a"></IFRAME>
 			 <!--END IFRAME-->
 			<h3>Board contact</h3>
 			<p>For questions about the Partnership's boards contact:<br />
