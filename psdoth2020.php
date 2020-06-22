@@ -62,11 +62,11 @@
 					<p>Puget Sound Partnership and the Northwest Indian Fisheries Commission invite you to participate in our Virtual Puget Sound Days on the Hill, Fridays in June from 1:00 – 2:30 p.m. We’ll discuss stimulus funding, Puget Sound restoration and protection, salmon recovery, and the powerful economic benefits of ecological restoration projects.</p>
 					<p>Each member of Congress or special guest will speak for about 25 minutes. Participants will be invited to submit questions in advance when registering.</p>
 					<p><strong>Advanced registration for this event is required and will close 24 hours before the event, on Thursday, June 25 at 1 p.m. Pacific Time. Please <a href="https://nwifc.org/psdoth/">click here to register</a> for the June 26 session.</strong></p>
-					<p>We will send regular announcements with confirmed speakers for that week as well as a registration link for each event. You can also check this page for the latest information.</p>
+					<p>We will send regular announcements with confirmed speakers for that week as well as a registration link for each event. Mark your calendars now for Week 4 with Representatives McMorris Rodgers, DelBene, and Larsen on <strong>Friday, July 10</strong> from 1:00-2:30 p.m. Pacific Time. You can also check this page for the latest information.</p>
 					
 						<p><strong>Week 3:<br>
 						June 26, 1:00 - 2:30 p.m.<br>
-							With Senator Patty Murray, Connor Stubbs of Representative Smith’s office, and Nikky Teutschel and Megan Thompson of Senator Cantwell’s office.</strong></p><br>
+							With Senator Patty Murray, Rep. Smith’s Legislative Director Connor Stubbs, Senate Commerce Committee staffer Nikky Teutschel, and Senator Maria Cantwell’s Legislative Assistant Megan Thompson.</strong></p><br>
 											
 					<hr>
 					<div><img src="images/PSDOTH2020/2020-virtual-PSDOTH-web-FOOTER.jpg" width="700" height="333" alt=""/></div>
