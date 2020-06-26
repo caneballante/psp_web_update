@@ -66,7 +66,11 @@
 					
 						<p><strong>Week 3:<br>
 						June 26, 1:00 - 2:30 p.m.<br>
-							With Senator Patty Murray, Rep. Smith’s Legislative Director Connor Stubbs, Senate Commerce Committee staffer Nikky Teutschel, and Senator Maria Cantwell’s Legislative Assistant Megan Thompson.</strong></p><br>
+							With Senator Patty Murray, Rep. Smith’s Legislative Director Connor Stubbs, Senate Commerce Committee staffer Nikky Teutschel, and Senator Maria Cantwell’s Legislative Assistant Megan Thompson.</strong></p>
+					<p>Livestream info for June 26:<br>
+					<a href="https://stream.lifesizecloud.com/extension/3951369/b2eaa145-312d-4a75-9341-ad7f2cc3f884">https://stream.lifesizecloud.com/extension/3951369/b2eaa145-312d-4a75-9341-ad7f2cc3f884</a><br>
+Passcode: 735364
+</p>
 											
 					<hr>
 					<div><img src="images/PSDOTH2020/2020-virtual-PSDOTH-web-FOOTER.jpg" width="700" height="333" alt=""/></div>
