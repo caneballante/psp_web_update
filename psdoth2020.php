@@ -67,7 +67,9 @@
 						<p><strong>Week 4:<br>
 						July 10, 1:00 - 2:30 p.m.<br>
 							With Rep. McMorris Rodgers, Rep. DelBene, and Rep. Larsen</strong></p>
-					
+					<p>Streaming info:<br>
+					<a href="https://stream.lifesizecloud.com/extension/4208249/c41530fd-9a17-4bd8-b337-54fbde3eae84">https://stream.lifesizecloud.com/extension/4208249/c41530fd-9a17-4bd8-b337-54fbde3eae84</a><br>
+					Passcode: 493197</p>
 											
 					<hr>
 					<div><img src="images/PSDOTH2020/2020-virtual-PSDOTH-web-FOOTER.jpg" width="700" height="333" alt=""/></div>
