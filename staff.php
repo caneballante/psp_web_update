@@ -142,9 +142,9 @@
                 360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov </a></p>
             <!--PLANNING TEAM-->
             <h3 class="padding-10-top">PLANNING TEAM</h3>
-            <h5>Heather Saunders</h5>
-            <p>Planning Manager<br />
-                360.819.0409 | <a href="mailto:heather.saunders@psp.wa.gov">heather.saunders@psp.wa.gov </a></p>
+            <h5>VACANT</h5>
+	<p>Planning Manager<br /></p>
+           
             <h5>mike johnson</h5>
             <p>Environmental Planner and Implementation Strategies Lead<br />
                 360.688.4049 | <a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov </a></p>
