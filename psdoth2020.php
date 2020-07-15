@@ -58,18 +58,12 @@
 		    	<div class="col-sm-12">
 				<h2 class="margin-2-top">2020 Virtual Puget Sound Days on the Hill</h2>
                 
-					<p>Since we can’t gather together in person, we’ve moved Puget Sound Day on the Hill to a series of virtual events with the Washington State congressional delegation and special guests.</p>
-					<p>Puget Sound Partnership and the Northwest Indian Fisheries Commission invite you to participate in our Virtual Puget Sound Days on the Hill, Fridays in June from 1:00 – 2:30 p.m. We’ll discuss stimulus funding, Puget Sound restoration and protection, salmon recovery, and the powerful economic benefits of ecological restoration projects.</p>
-					<p>Each member of Congress or special guest will speak for about 25 minutes. Participants will be invited to submit questions in advance when registering.</p>
-					<p><strong>Advanced registration for this event is required and will close 24 hours before the event, on Thursday, July 9 at 1 p.m. Pacific Time. Please <a href="https://nwifc.org/psdoth/">click here to register</a> for the July 10 session.</strong></p>
-					<p>We will send regular announcements with confirmed speakers for that week as well as a registration link for each event. You can also check this page for the latest information.</p>
+					<p>Since we can’t gather together in person, we moved Puget Sound Day on the Hill to a series of virtual events with the Washington State congressional delegation and special guests.</p>
+					<p>Puget Sound Partnership and the Northwest Indian Fisheries Commission held several Virtual Puget Sound Days on the Hill on Fridays throughout June and July. We discussed stimulus funding, Puget Sound restoration and protection, salmon recovery, and the powerful economic benefits of ecological restoration projects. Thanks to all who participated in these sessions.</p>
 					
-						<p><strong>Week 4:<br>
-						July 10, 1:00 - 2:30 p.m.<br>
-							With Rep. McMorris Rodgers, Rep. DelBene, and Rep. Larsen</strong></p>
-					<p>Streaming info:<br>
-					<a href="https://stream.lifesizecloud.com/extension/4208249/c41530fd-9a17-4bd8-b337-54fbde3eae84">https://stream.lifesizecloud.com/extension/4208249/c41530fd-9a17-4bd8-b337-54fbde3eae84</a><br>
-					Passcode: 493197</p>
+					<p>There are no additional sessions scheduled right now, but if we add new speaker panels, we will send an update and registration instructions to those who <a href="https://public.govdelivery.com/accounts/WAPSP/subscriber/new">sign up for our listserv</a>.</p>
+					
+						
 											
 					<hr>
 					<div><img src="images/PSDOTH2020/2020-virtual-PSDOTH-web-FOOTER.jpg" width="700" height="333" alt=""/></div>
