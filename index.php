@@ -109,9 +109,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/2020-virtual-PSDOTH-web-bannerNews.jpg"  alt="Graphic for the 2020 Virtual Puget Sound Days on the Hill"/> 
-					<strong>EVENT</strong><br>
-						<a href="psdoth2020.php">2020 Virtual Puget Sound Days on the Hill</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/CWGNews2.jpg"  alt="Screenshot of request form"/> 
+					<strong>Announcement</strong><br>
+						<a href="https://app.smartsheet.com/b/form/dd6c28de500641ee98f7968f8b2e7263">Coastal Watershed Grant Program - Request for Letter of Acknowledgement from Puget Sound Partnership</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -124,10 +124,25 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/2020-virtual-PSDOTH-web-bannerNews.jpg"  alt="Graphic for the 2020 Virtual Puget Sound Days on the Hill"/> 
+					<strong>EVENT</strong><br>
+						<a href="psdoth2020.php">2020 Virtual Puget Sound Days on the Hill</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/j16j26noaaNEWS.jpg"  alt="Photo of J16 Southern Resident orca breaching while J26 swims nearby. Photo from NOAA Fisheres West Coast. Photo credit: Katy Foster, NOAA Fisheries"/> 
 					<strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/new-rules-for-boating-around-orcas-edd234fcc4d7">6/25: Reviewing the new rules for boating around orcas</a><br>
-						<!--END news content BOX-->  
+						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -143,21 +158,6 @@ for Puget Sound Recovery</h1>
 					<strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/the-middle-fork-nooksack-river-fish-passage-project-will-benefit-people-fish-and-orcas-f94d12fa2d58">6/23: The Middle Fork Nooksack River Fish Passage Project will benefit people, fish, and orcas</a><br>
 						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/BlackSquare.jpg"  alt=""/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/a-statement-by-laura-blackmore-executive-director-in-solidarity-with-black-communities-and-e5df5ce01d21">6/5: A statement by Laura Blackmore, executive director, in solidarity with Black communities and communities of color</a><br>
-						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
