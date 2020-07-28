@@ -71,12 +71,7 @@
 			<p> Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls.</p>
 			<h3>Board contact</h3>
 			<p>For questions about the Partnership's boards contact:<br />
-	   		<strong>Deb Hagen, <br>
-			Special Assistant to the Boards <br>
-	  		</strong>	    <a href="mailto:deborah.hagen@psp.wa.gov">deborah.hagen@psp.wa.gov</a><br>
-			360.819.0057
-			</p>
-			<p><strong>Jillian Reitz, <br>
+	   		<strong>Jillian Reitz, <br>
 Boards Policy Specialist<br>
             </strong> <a href="mailto:jillian.reitz">jillian.reitz@psp.wa.gov</a><br>
 360.742.2936 </p>
