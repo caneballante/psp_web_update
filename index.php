@@ -265,9 +265,9 @@ for Puget Sound Recovery</h1>
 			<div class="newsbox calendarbox">
 				<!--news content -->
 				<div class="newsbox-date">SEP<br>
-			  9 - 10</div>
+			  9</div>
 				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
-					Guy Cole Event Center, Sequim; Harborside Inn, Port Townsend<br>
+					Online<br>
 							</a><br>
 				</div>
 				<!--END news content-->
