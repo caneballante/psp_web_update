@@ -109,6 +109,21 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/MarkSmithBlakeIsalndNews.jpg"  alt="Photo of kayaker and boats near Blake Island photo credit Mark Smith"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/situating-humans-in-ecosystem-recovery-the-human-dimensions-protocol-bf34e351392">7/29: Situating humans in ecosystem recovery: the Human Dimensions Protocol</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		    <!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/CWGNews2.jpg"  alt="Screenshot of request form"/> 
 					<strong>Announcement</strong><br>
 						<a href="https://app.smartsheet.com/b/form/dd6c28de500641ee98f7968f8b2e7263">Coastal Watershed Grant Program - Request for Letter of Acknowledgement from Puget Sound Partnership</a><br>
@@ -118,7 +133,7 @@ for Puget Sound Recovery</h1>
 				</div>
 				
 			</div>
-		    <!--COLUMN END-->
+		<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -142,22 +157,7 @@ for Puget Sound Recovery</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/j16j26noaaNEWS.jpg"  alt="Photo of J16 Southern Resident orca breaching while J26 swims nearby. Photo from NOAA Fisheres West Coast. Photo credit: Katy Foster, NOAA Fisheries"/> 
 					<strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/new-rules-for-boating-around-orcas-edd234fcc4d7">6/25: Reviewing the new rules for boating around orcas</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/MFN-dam.jpg"  alt="Photo of the Middle Fork Nooksack River diversion dam"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/the-middle-fork-nooksack-river-fish-passage-project-will-benefit-people-fish-and-orcas-f94d12fa2d58">6/23: The Middle Fork Nooksack River Fish Passage Project will benefit people, fish, and orcas</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
