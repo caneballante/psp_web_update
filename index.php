@@ -251,6 +251,20 @@ for Puget Sound Recovery</h1>
 			<div class="newsbox calendarbox">
 				<!--news content -->
 				<div class="newsbox-date">AUG<br>
+			  7</div>
+				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
+					Online<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">AUG<br>
 			  13</div>
 				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
 					Online<br>
@@ -267,20 +281,6 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox-date">SEP<br>
 			  9</div>
 				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
-					Online<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
-				<div class="newsbox-date">SEP<br>
-			 24</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
 					Online<br>
 							</a><br>
 				</div>
