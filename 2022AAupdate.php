@@ -90,7 +90,7 @@ navSelected = 1;
           <li><strong>Incorporate  new and improved tools and resources in the approach to recovery</strong>.<br>
           Includes the progress measures framework (Vital Signs and intermediate and  activity progress measures), strategies from the mobilizing funding  project,&nbsp;alterative future scenarios information, climate adaptation and  resilience strategies, and strategic communications.&nbsp;</li>
 		</ol>
-		<img class="img-responsive" src="images/action-agenda/2022AA-timeline.jpg" width="1491" height="421" alt=""/>
+		<img class="img-responsive" src="images/action-agenda/2022AA-timeline.jpg" width="1401" height="421" alt=""/>
 <table class="table" width="774" border="1">
         <caption>
         Phases of work for the 2022-2026 Action Agenda development
