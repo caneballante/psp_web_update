@@ -74,7 +74,7 @@ navSelected = 1;
 		<p>The <a href="https://psp.wa.gov/action_agenda_center.php">Action Agenda for Puget Sound </a>charts  the course for recovery of Puget Sound&nbsp;—it complements and incorporates the work of  many partners from around Puget Sound to prioritize and describe strategies and  actions needed to recover Puget Sound. These strategies and actions provide opportunities  for federal, state, local, tribal, nonprofit, and private entities to invest  resources and coordinate actions. We, the Puget Sound Partnership, are responsible for coordinating regular updates  of the Action Agenda based on new and improved information about what works  best for recovery. We are currently beginning the process to update the Action  Agenda for 2022-2026. </p>
 
 		<h2>The leadership council approves a concept for the 2022-2026 Action Agenda</h2>
-		<p>In June 2020, the Leadership Council—the governing body of the  Partnership—approved <a href="https://pspwa.box.com/s/gsf2xgrqaxbmnq7zdummw5dft9otjbhn">a concept </a>for the  2022-2026 Action Agenda.</p>
+		<p>In June 2020, the Leadership Council—the governing body of the  Partnership—approved <a href="https://pspwa.box.com/s/gsf2xgrqaxbmnq7zdummw5dft9otjbhn" target="_blank">a concept </a>for the  2022-2026 Action Agenda.</p>
 		<p>Key elements of the concept:</p>
 		<ol>
 		  <li><strong>Update our ecosystem recovery plan to improve the  health of the Puget Sound ecosystem and the people that inhabit the region.</strong></li>
@@ -110,23 +110,23 @@ navSelected = 1;
           </tr>
           <tr>
             <td><p>June - Dec 2020</p></td>
-            <td><p>Phase 2: Identify strategies to advance priority outcomes</p></td>
-            <td><p>Identify priority outcomes to guide strategies and actions for  recovery. Priority outcomes will describe <em>what </em>we as the recovery  community hope to accomplish. Outcomes will be linked to both our <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Vital Signs</a>, but will be more  specific and bound to a near-term timeframe.&nbsp;</p>
-            <a href="https://pspwa.box.com/s/1ew0dhdswfqdsdooopevqbxhlvqggely">More detail is available here.</a></td>
+            <td><p>Phase 2: Identify priority outcomes for recovery</p></td>
+            <td><p>Identify priority outcomes to guide strategies and actions for  recovery. Priority outcomes will describe <em>what </em>we as the recovery  community hope to accomplish. Outcomes will be linked to both our <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>, but will be more  specific and bound to a near-term timeframe.&nbsp;</p>
+            <a href="https://pspwa.box.com/s/1ew0dhdswfqdsdooopevqbxhlvqggely" target="_blank">More detail is available here.</a></td>
             <td class="blue-fill white"><p>In progress</p></td>
           </tr>
           <tr>
             <td><p>Jan 2021 - Aug 2021</p></td>
             <td><p>Phase 3: Identify strategies to advance priority outcomes</p></td>
             <td><p>Identify strategies that tell us <em>how </em>the recovery  community is advancing progress toward priority outcomes (phase 2) and overall  recovery.</p>
-            <a href="https://pspwa.box.com/s/gfvmf4n5olcdn3ckzaheryhl2o352zis">More detail will be available here.</a></td>
+            </td>
             <td class="light-blue-fill white"><p>Not started</p></td>
           </tr>
           <tr>
             <td><p>Aug - Dec 2021</p></td>
             <td><p>Phase 4: Describe actions that align with strategies; partners develop  commitments to action.</p></td>
             <td><p>Identify commitments to action that will capture and guide the  implementation and problem-solving capacity of the Management Conference. </p>
-            <a href="https://pspwa.box.com/s/g1lj6wix4bsa50cnn7g59n1gq9a18sw1">More detail will be available here</a>. </td>
+            </td>
            <td class="light-blue-fill white"><p>Not started</p></td>
           </tr>
           <tr>
@@ -147,7 +147,7 @@ navSelected = 1;
 		<p>We  and our partners are  developing a stakeholder engagement plan and establishing mechanisms for  collaboration and participation in co-developing the outcomes (phase 2),  strategies (phase 3), and actions (phase 4) for the 2022-2026 Action Agenda.  Throughout 2020 and 2021, Partnership staff who are leading the development of  the Action Agenda will use existing meeting schedules to present to stakeholder  groups, host workshops where stakeholders can convene around particular topic  areas, and provide online mechanisms to gather independent feedback at the  convenience of stakeholders&rsquo; schedules.&nbsp;			</p>
 		<p><strong><em>Stay tuned for more information on engagement opportunities as  the process is developed.</em></strong></p>
 		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Don Gourlie (don.gourlie@psp.wa.gov) or your other Partnership staff connections  to request a briefing.</p>
-		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information in the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl">click here</a>.
+		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information in the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank">click here</a>.
 		</p></div>
 
         <!-- InstanceEndEditable --> </div>
@@ -157,8 +157,8 @@ navSelected = 1;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation">Implementation and funding status of actions from the 2018-2022 Action Agenda can be found in the <a href="https://actionagenda.pugetsoundinfo.wa.gov/Results/FundingStatus">Action Agenda Tracker</a></li>
-				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl"><strong>Participants can check here for the latest daily updates on the 2022-2026 Action Agenda</strong></a></li>
+				<li class="active" role="presentation">Implementation and funding status of actions from the 2018-2022 Action Agenda can be found in the <a href="https://actionagenda.pugetsoundinfo.wa.gov/Results/FundingStatus" target="_blank">Action Agenda Tracker</a></li>
+				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank"><strong>Participants can check here for the latest updates on the 2022-2026 Action Agenda</strong></a></li>
 	
 				<!-- InstanceEndEditable -->
 			</ul>
