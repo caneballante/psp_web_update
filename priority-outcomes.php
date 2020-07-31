@@ -94,7 +94,7 @@ navSelected = 2;
 			</tr>
 		  </tbody>
 		</table>
-		<p><strong>How can you participate?</strong> road participation by our partner groups is key to developing priority outcomes. We plan to engage partners in the following ways: </p>
+		<p><strong>How can you participate?</strong> Broad participation by our partner groups is key to developing priority outcomes. We plan to engage partners in the following ways: </p>
 		<ul>
 			<li>Working with groups at their regularly scheduled meetings</li>	
 			<li>Opportunities for structured online engagement at a time and place that works for individuals to ensure maximum flexibility in partner engagement</li>	
