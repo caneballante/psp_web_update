@@ -101,7 +101,7 @@ navSelected = 2;
 			<li>A series of workshops (online) to convene people from across groups and geographies.</li>
 		</ul>
 		<p><strong>How can groups best prepare to engage? </strong>Consider whether the outcomes for Puget Sound recovery you are working toward are clear and which are most important to you and your work. If you are an LIO coordinator, watershed lead, or Implementation Strategy lead consider whether your technical teams and committees are in agreement about your outcomes and which are most important.</p>
-		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information in the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl">click here</a>.
+		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information in the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/2ebvje65mkmeveqmgt3l9407jxib0a7z" target="_blank">click here</a>.
 		</p></div>
         <p>If you have questions or would like a briefing please contact  Beihua Page <a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov</a>), Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>), or Kristen Durance (<a href="mailto:kdurance@rossstrategic.com">kdurance@rossstrategic.com</a>).</p>
         <div>
@@ -114,8 +114,8 @@ navSelected = 2;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation">Implementation and funding status of actions from the 2018-2022 Action Agenda can be found in the <a href="https://actionagenda.pugetsoundinfo.wa.gov/Results/FundingStatus">Action Agenda Tracker</a></li>
-				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl"><strong>Participants can check here for the latest daily updates on the 2022-2026 Action Agenda</strong></a></li>
+				<li class="active" role="presentation">Implementation and funding status of actions from the 2018-2022 Action Agenda can be found in the <a href="https://actionagenda.pugetsoundinfo.wa.gov/Results/FundingStatus" target="_blank">Action Agenda Tracker</a></li>
+				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank"><strong>Participants can check here for the latest updates on the 2022-2026 Action Agenda</strong></a></li>
 	
 				<!-- InstanceEndEditable -->
 			</ul>
