@@ -109,9 +109,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/MarkSmithBlakeIsalndNews.jpg"  alt="Photo of kayaker and boats near Blake Island photo credit Mark Smith"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/situating-humans-in-ecosystem-recovery-the-human-dimensions-protocol-bf34e351392">7/29: Situating humans in ecosystem recovery: the Human Dimensions Protocol</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt="Photo of birds flying above the beach"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://www.psp.wa.gov/2022AAupdate.php">2022 - 2026 Action Agenda Update Overview</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -119,6 +119,21 @@ for Puget Sound Recovery</h1>
 				
 			</div>
 		    <!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/MarkSmithBlakeIsalndNews.jpg"  alt="Photo of kayaker and boats near Blake Island photo credit Mark Smith"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/situating-humans-in-ecosystem-recovery-the-human-dimensions-protocol-bf34e351392">7/29: Situating humans in ecosystem recovery: the Human Dimensions Protocol</a><br>
+						<!--END news content BOX-->
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -143,21 +158,6 @@ for Puget Sound Recovery</h1>
 					<strong>EVENT</strong><br>
 						<a href="psdoth2020.php">2020 Virtual Puget Sound Days on the Hill</a><br>
 						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/j16j26noaaNEWS.jpg"  alt="Photo of J16 Southern Resident orca breaching while J26 swims nearby. Photo from NOAA Fisheres West Coast. Photo credit: Katy Foster, NOAA Fisheries"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/new-rules-for-boating-around-orcas-edd234fcc4d7">6/25: Reviewing the new rules for boating around orcas</a><br>
-						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
