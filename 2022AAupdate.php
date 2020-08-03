@@ -112,7 +112,7 @@ navSelected = 1;
             <td><p>June - Dec 2020</p></td>
             <td><p>Phase 2: Identify priority outcomes for recovery</p></td>
             <td><p>Identify priority outcomes to guide strategies and actions for  recovery. Priority outcomes will describe <em>what </em>we as the recovery  community hope to accomplish. Outcomes will be linked to both our <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>, but will be more  specific and bound to a near-term timeframe.&nbsp;</p>
-            <a href="https://pspwa.box.com/s/1ew0dhdswfqdsdooopevqbxhlvqggely" target="_blank">More detail is available here.</a></td>
+            <a href="https://www.psp.wa.gov/priority-outcomes.php">More detail is available here.</a></td>
             <td class="blue-fill white"><p>In progress</p></td>
           </tr>
           <tr>
