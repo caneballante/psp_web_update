@@ -64,7 +64,7 @@ for Puget Sound Recovery</h1>
 		<div class="col-sm-3 padding-10-top">
 			<h1>CHARTING THE COURSE TO RECOVERY</h1>
 			<div class="padding-5-bottom"><a href="action_agenda_center.php"> 2018-2022 ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
-		
+			<div class="padding-5-bottom"><span class="new-red">NEW</span><a href="2022AAupdate.php"> 2022-2026 ACTION AGENDA UPDATE</a></div>
 			<div class="padding-5-bottom"><a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
 			<div class="padding-5-bottom"><a href="science-adaptive-management-framework.php">RESULTS-BASED MANAGEMENT</a></div>
 		</div>
