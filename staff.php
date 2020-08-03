@@ -93,9 +93,8 @@
                 360.464.1228 | <a href="mailto:larry.epstein@psp.wa.gov">larry.epstein@psp.wa.gov</a></p>
              <!--ADAPTIVE SYSTEMS-->
             <h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
-            <h5>KARI STILES</h5>
-            <p> Adaptive Systems Manager<br />
-                360.489.2114 | <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a></p>
+            <h5>VACANT</h5>
+            <p> Adaptive Systems Manager<br /></p>
             <h5>Jennifer burke</h5>
             <p>Data Systems/GIS Manager<br />
                 360.999.3849| <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
