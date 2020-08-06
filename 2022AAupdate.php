@@ -54,7 +54,7 @@ navSelected = 1;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2022-2026 Action Agenda: An update to the region’s collaborative plan for Puget Sound recovery</h1>
+			<h1>2022-2026 Action Agenda: An update to the region’s collaborative plan for healthy habitats, species, and humans in Puget Sound</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -71,7 +71,7 @@ navSelected = 1;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<p>The <a href="https://psp.wa.gov/action_agenda_center.php">Action Agenda for Puget Sound </a>charts  the course for recovery of Puget Sound&nbsp;—it complements and incorporates the work of  many partners from around Puget Sound to prioritize and describe strategies and  actions needed to recover Puget Sound. These strategies and actions provide opportunities  for federal, state, local, tribal, nonprofit, and private entities to invest  resources and coordinate actions. We, the Puget Sound Partnership, are responsible for coordinating regular updates  of the Action Agenda based on new and improved information about what works  best for recovery. We are currently beginning the process to update the Action  Agenda for 2022-2026. </p>
+		<p>The <a href="https://psp.wa.gov/action_agenda_center.php">Action Agenda for Puget Sound </a>charts  the course for recovery of Puget Sound. It does so by identifying the most effective and beneficial outcomes, strategies, and activities for recovery that are supported by the best available science. The Action Agenda represents the collective work of federal, tribal, state, local, nonprofit, and private entities to recover Puget Sound. By collaborating to update and implement the Action Agenda, hundreds of partners from across Puget Sound will invest their leadership and resources behind bold and effective actions for accelerating and achieving the recovery of Puget Sound. We, the Puget Sound Partnership, are responsible for coordinating regular updates of the Action Agenda as we continuously learn more about the most successful approaches for recovering Puget Sound. We are currently beginning the process to update the Action Agenda for 2022-2026.</p>
 
 		<h2>The leadership council approves a concept for the 2022-2026 Action Agenda</h2>
 		<p>In June 2020, the Leadership Council—the governing body of the  Partnership—approved <a href="https://pspwa.box.com/s/gsf2xgrqaxbmnq7zdummw5dft9otjbhn" target="_blank">a concept </a>for the  2022-2026 Action Agenda.</p>
@@ -111,21 +111,21 @@ navSelected = 1;
           <tr>
             <td><p>June - Dec 2020</p></td>
             <td><p>Phase 2: Identify priority outcomes for recovery</p></td>
-            <td><p>Identify priority outcomes to guide strategies and actions for  recovery. Priority outcomes will describe <em>what </em>we as the recovery  community hope to accomplish. Outcomes will be linked to both our <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>, but will be more  specific and bound to a near-term timeframe.&nbsp;</p>
+            <td><p>Identify priority outcomes that describe <em>what </em>we as the recovery  community hope to accomplish. Priority outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
             <a href="https://www.psp.wa.gov/priority-outcomes.php">More detail is available here.</a></td>
             <td class="blue-fill white"><p>In progress</p></td>
           </tr>
           <tr>
             <td><p>Jan 2021 - Aug 2021</p></td>
             <td><p>Phase 3: Identify strategies to advance priority outcomes</p></td>
-            <td><p>Identify strategies that tell us <em>how </em>the recovery  community is advancing progress toward priority outcomes (phase 2) and overall  recovery.</p>
+            <td><p>Identify strategies that tell us <em>how </em>to advance progress toward priority outcomes (phase 2) and overall  recovery.</p>
             </td>
             <td class="light-blue-fill white"><p>Not started</p></td>
           </tr>
           <tr>
             <td><p>Aug - Dec 2021</p></td>
-            <td><p>Phase 4: Describe actions that align with strategies; partners develop  commitments to action.</p></td>
-            <td><p>Identify commitments to action that will capture and guide the  implementation and problem-solving capacity of the Management Conference. </p>
+            <td><p>Phase 4: Identify actions and commitments that align with strategies.</p></td>
+            <td><p>Identify actions and programs that require additional investment; necessary policy changes; and commitments from the boards, partners, and stakeholders to support priority actions for recovery. </p>
             </td>
            <td class="light-blue-fill white"><p>Not started</p></td>
           </tr>
@@ -144,7 +144,7 @@ navSelected = 1;
         </tbody>
         </table>
 		<H2>We invite your participation</H2>
-		<p>We  and our partners are  developing a stakeholder engagement plan and establishing mechanisms for  collaboration and participation in co-developing the outcomes (phase 2),  strategies (phase 3), and actions (phase 4) for the 2022-2026 Action Agenda.  Throughout 2020 and 2021, Partnership staff who are leading the development of  the Action Agenda will use existing meeting schedules to present to stakeholder  groups, host workshops where stakeholders can convene around particular topic  areas, and provide online mechanisms to gather independent feedback at the  convenience of stakeholders&rsquo; schedules.&nbsp;			</p>
+		<p>Every phase of Action Agenda development will build from existing plans developed by partners. We  and our partners are also  developing a stakeholder engagement plan and establishing mechanisms for  collaboration and participation in co-developing the outcomes (phase 2),  strategies (phase 3), and actions (phase 4) for the 2022-2026 Action Agenda.  Throughout 2020 and 2021, Partnership staff who are leading the development of  the Action Agenda will use existing meeting schedules to present to stakeholder  groups, host workshops where stakeholders can convene around particular topic  areas, and provide online mechanisms to gather independent feedback at the  convenience of stakeholders&rsquo; schedules.&nbsp;			</p>
 		<p><strong><em>Stay tuned for more information on engagement opportunities as  the process is developed.</em></strong></p>
 		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>) or your other Partnership staff connections  to request a briefing.</p>
 		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information in the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank">click here</a>.

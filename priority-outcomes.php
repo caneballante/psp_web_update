@@ -71,12 +71,12 @@ navSelected = 2;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<p>To guide identification of strategies and actions, the recovery community must first identify our priority outcomes to advance Puget Sound recovery. </p>
+		<p>Priority outcomes describe <em>what </em>we as the recovery  community hope to accomplish. Priority outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
 
 		<h2>Priority outcomes are positive changes we want to see in Puget Sound</h2>
-		<p>Priority outcomes may be related to reductions in pressures on the ecosystem (example: fewer miles of shoreline armoring), improvements in enabling conditions (example: more funding), or other achievements. They must be achieved before we can achieve our ultimate Puget Sound recovery goals. </p>
-		<p><strong>Why do we need priority outcomes?</strong> We will use the priority outcomes as the basis for identifying (1) strategies and actions for the 2022-2026 Action Agenda and (2) an initial set of progress measures to support progress tracking and accountability of ecosystem recovery. </p>
-		<p><strong>Who will select priority outcomes?</strong> The Puget Sound recovery community will identify priority outcomes through a collaborative process. We, the Puget Sound Partnership, will recommend a final list to the Leadership Council based on the collaborative work of the recovery community. </p>
+		<p>Priority outcomes may be related to reductions in pressures on the ecosystem (example: fewer miles of shoreline armoring) or improvements in enabling conditions (example: more funding). By successfully achieving the priority outcomes determined in the Action Agenda, the recovery community will accelerate and achieve transformative change for Puget Sound recovery.  </p>
+		<p>We will use the priority outcomes as the basis for identifying (1) strategies and actions for the 2022-2026 Action Agenda and (2) an initial set of progress measures to track, report on, and ensure accountability for ecosystem recovery. </p>
+		
       	<p><strong>What are the steps in the process?</strong></p>
 		<table class="table">
 		  <tbody>
