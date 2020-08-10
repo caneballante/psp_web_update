@@ -114,9 +114,9 @@
             <h5>Tristan contesse</h5>
             <p> Boards Program Manager<br />
                 360.584.5328| <a href="mailto:tristan.contesse@psp.wa.gov">tristan.contesse@psp.wa.gov</a> </p>
-            <h5>Deborah Hagen</h5>
+            <h5>Anna Petersen</h5>
             <p> Special Assistant to the Boards<br />
-                Office 360.819.0057 | <a href="mailto:deborah.hagen@psp.wa.gov">deborah.hagen@psp.wa.gov</a></p>
+                Office 360.338.2384 | <a href="mailto:anna.petersen@psp.wa.gov">anna.petersen@psp.wa.gov</a></p>
             <h5>Jillian Reitz</h5>
             <p> Boards Policy Specialist<br />
                 360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p>
