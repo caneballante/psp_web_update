@@ -64,7 +64,7 @@ for Puget Sound Recovery</h1>
 		<div class="col-sm-3 padding-10-top">
 			<h1>CHARTING THE COURSE TO RECOVERY</h1>
 			<div class="padding-5-bottom"><a href="action_agenda_center.php"> 2018-2022 ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
-		
+			<div class="padding-5-bottom"><span class="new-red">NEW</span><a href="2022AAupdate.php"> 2022-2026 ACTION AGENDA UPDATE</a></div>
 			<div class="padding-5-bottom"><a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
 			<div class="padding-5-bottom"><a href="science-adaptive-management-framework.php">RESULTS-BASED MANAGEMENT</a></div>
 		</div>
@@ -109,9 +109,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/MarkSmithBlakeIsalndNews.jpg"  alt="Photo of kayaker and boats near Blake Island photo credit Mark Smith"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/situating-humans-in-ecosystem-recovery-the-human-dimensions-protocol-bf34e351392">7/29: Situating humans in ecosystem recovery: the Human Dimensions Protocol</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt="Photo of birds flying above the beach"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://www.psp.wa.gov/2022AAupdate.php">2022 - 2026 Action Agenda Update Overview</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -119,6 +119,21 @@ for Puget Sound Recovery</h1>
 				
 			</div>
 		    <!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/MarkSmithBlakeIsalndNews.jpg"  alt="Photo of kayaker and boats near Blake Island photo credit Mark Smith"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/situating-humans-in-ecosystem-recovery-the-human-dimensions-protocol-bf34e351392">7/29: Situating humans in ecosystem recovery: the Human Dimensions Protocol</a><br>
+						<!--END news content BOX-->
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -143,21 +158,6 @@ for Puget Sound Recovery</h1>
 					<strong>EVENT</strong><br>
 						<a href="psdoth2020.php">2020 Virtual Puget Sound Days on the Hill</a><br>
 						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/j16j26noaaNEWS.jpg"  alt="Photo of J16 Southern Resident orca breaching while J26 swims nearby. Photo from NOAA Fisheres West Coast. Photo credit: Katy Foster, NOAA Fisheries"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/new-rules-for-boating-around-orcas-edd234fcc4d7">6/25: Reviewing the new rules for boating around orcas</a><br>
-						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -236,20 +236,6 @@ for Puget Sound Recovery</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">JUL<br>
-			  30</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					Online<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->	
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
 				<div class="newsbox-date">AUG<br>
 			  7</div>
 				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
@@ -259,8 +245,8 @@ for Puget Sound Recovery</h1>
 				<!--END news content-->
 			</div>
 		</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
+		<!--COLUMN END-->	
+		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
@@ -281,6 +267,20 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox-date">SEP<br>
 			  9</div>
 				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
+					Online<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">SEP<br>
+			  24</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
 					Online<br>
 							</a><br>
 				</div>

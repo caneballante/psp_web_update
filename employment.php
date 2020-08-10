@@ -71,6 +71,8 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2825612/adaptive-systems-and-accountability-program-manager-exempt" target="_blank">Adaptive Systems and Accountability Program Manager</a></p>
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2829394/planning-manager-exempt" target="_blank">Planning Manager</a></p>
 		<div class=" border-thick-blue floatright padding-10-all">
 		 <p><h3>We are an Employer of Choice</h3></p> <a href="https://pspwa.box.com/s/mw6gfajvrw6ce5cpjkegafcwtde62pyo"><img src="images/news-images/emp-of-choice.jpg" width="300" height="225" alt=""/></a> 
 			</div>

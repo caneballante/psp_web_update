@@ -305,15 +305,15 @@
 <file name="PSEMP-overview.php" server="198.238.137.41" local="3632163503" remote="3632163480" Dst="-1" />
 <file name="PSEMP-announcements.php" server="198.238.137.41" local="3632163495" remote="3632163480" Dst="-1" />
 <file name="psdoth2019.php" server="198.238.137.41" local="3632242909" remote="3632242860" Dst="-1" />
-<file name="index.php" server="198.238.137.41/psp.wa.gov/" local="132405405458711999" remote="132405405600000000" Dst="2" />
+<file name="index.php" server="198.238.137.41/psp.wa.gov/" local="132409514950841864" remote="132409514400000000" Dst="2" />
 <file name="legislative_updates.php" server="198.238.137.41/psp.wa.gov/" local="132291042382519795" remote="132291042000000000" Dst="2" />
 <file name="strategic-initiatives-leads.php" server="198.238.137.41/psp.wa.gov/" local="132355876925622763" remote="132355876800000000" Dst="2" />
-<file name="employment.php" server="198.238.137.41/psp.wa.gov/" local="132312941760538371" remote="132312941400000000" Dst="2" />
+<file name="employment.php" server="198.238.137.41/psp.wa.gov/" local="132410401357842446" remote="132410401200000000" Dst="2" />
 <file name="psdoth2019.php" server="198.238.137.41/psp.wa.gov/" local="3643830325" remote="3643830300" Dst="-1" />
 <file name="PSEMP-announcements.php" server="198.238.137.41/psp.wa.gov/" local="132296297743530485" remote="132296297400000000" Dst="2" />
 <file name="PSEMP-calendar.php" server="198.238.137.41/psp.wa.gov/" local="3634235497" remote="3634235460" Dst="-1" />
 <file name="PSEMP-overview.php" server="198.238.137.41/psp.wa.gov/" local="132267898773262806" remote="132267898800000000" Dst="1" />
-<file name="staff.php" server="198.238.137.41/psp.wa.gov/" local="132391616091542437" remote="132391615800000000" Dst="2" />
+<file name="staff.php" server="198.238.137.41/psp.wa.gov/" local="132409440929846668" remote="132409440600000000" Dst="2" />
 <file name="implementation_strategies_announcements.php" server="198.238.137.41/psp.wa.gov/" local="3635171761" remote="3635171760" Dst="-1" />
 <file name="evaluating-actions-to-recover-puget-sound.php" server="198.238.137.41/psp.wa.gov/" local="3644426338" remote="3644508720" Dst="-1" />
 <file name="PSAR.php" server="198.238.137.41/psp.wa.gov/" local="3638455517" remote="3638455500" Dst="-1" />
@@ -343,5 +343,6 @@
 <file name="salmon-recovery-watersheds.php" server="198.238.137.41/psp.wa.gov/" local="132369000815263595" remote="132369000600000000" Dst="2" />
 <file name="southern-resident-orca-task-force.php" server="198.238.137.41/psp.wa.gov/" local="131817842400000000" remote="131817842400000000" Dst="2" />
 <file name="board_meetings.php" server="198.238.137.41/psp.wa.gov/" local="132404493168243523" remote="132404493000000000" Dst="2" />
-<file name="priority-outcomes.php" server="198.238.137.41/psp.wa.gov/" local="132407086824182136" remote="132407086800000000" Dst="2" />
+<file name="priority-outcomes.php" server="198.238.137.41/psp.wa.gov/" local="132411459711430808" remote="132411460200000000" Dst="2" />
+<file name="2022AAupdate.php" server="198.238.137.41/psp.wa.gov/" local="132412125763033531" remote="132412125600000000" Dst="2" />
 </dwsync>
