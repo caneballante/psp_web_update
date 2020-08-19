@@ -111,7 +111,7 @@ for Puget Sound Recovery</h1>
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/HighwayNews.jpg"  alt="Photo of five-lane highway in Puyallup"/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/can-polluted-stormwater-affect-soil-health-87208625cae8">8/10: Can stormwater affect soil health?</a><br>
+						<a href="https://medium.com/puget-sound-partnership/can-polluted-stormwater-affect-soil-health-87208625cae8">8/10: Can polluted stormwater affect soil health?</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
