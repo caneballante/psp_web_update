@@ -109,9 +109,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt="Photo of birds flying above the beach"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://www.psp.wa.gov/2022AAupdate.php">2022 - 2026 Action Agenda Update Overview</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/HighwayNews.jpg"  alt="Photo of five-lane highway in Puyallup"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/can-polluted-stormwater-affect-soil-health-87208625cae8">8/10: Can stormwater affect soil health?</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -124,9 +124,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/MarkSmithBlakeIsalndNews.jpg"  alt="Photo of kayaker and boats near Blake Island photo credit Mark Smith"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/situating-humans-in-ecosystem-recovery-the-human-dimensions-protocol-bf34e351392">7/29: Situating humans in ecosystem recovery: the Human Dimensions Protocol</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt="Photo of birds flying above the beach"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://www.psp.wa.gov/2022AAupdate.php">2022 - 2026 Action Agenda Update Overview</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
@@ -139,10 +139,10 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/CWGNews2.jpg"  alt="Screenshot of request form"/> 
-					<strong>Announcement</strong><br>
-						<a href="https://app.smartsheet.com/b/form/dd6c28de500641ee98f7968f8b2e7263">Coastal Watershed Grant Program - Request for Letter of Acknowledgement from Puget Sound Partnership</a><br>
-						<!--END news content BOX--> 
+					  <img class="img-responsive img-rounded" src="images/news-images/MarkSmithBlakeIsalndNews.jpg"  alt="Photo of kayaker and boats near Blake Island photo credit Mark Smith"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/situating-humans-in-ecosystem-recovery-the-human-dimensions-protocol-bf34e351392">7/29: Situating humans in ecosystem recovery: the Human Dimensions Protocol</a><br>
+						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
