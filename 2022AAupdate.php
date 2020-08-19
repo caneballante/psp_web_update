@@ -81,7 +81,7 @@ navSelected = 1;
           <li><strong>Clearly describe the ecosystem status and the  pressures affecting the ecosystem. </strong></li>
           <li><strong>Focus the next four years on a set of  science-informed, shared recovery outcomes for reducing pressures and barriers. </strong></li>
           <li><strong>Collaboratively identify strategies and  actions to achieve those outcomes.</strong></li>
-          <ol>
+          <ol type="a">
             <li>Identify strategies that emphasize multi-benefit and high-impact  actions.</li>
             <li>Identify targeted actions for recovery through direct  collaboration between partners rather than a passive solicitation for near-term  actions from partners.</li>
             <li>Provide better guidance for recovery strategies and actions by outlining  connections to ongoing programs (regulatory programs, for example), funding  opportunities, scientific information, and more.&nbsp; </li>
