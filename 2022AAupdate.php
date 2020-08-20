@@ -54,7 +54,7 @@ navSelected = 1;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2022-2026 Action Agenda: An update to the region’s collaborative plan for healthy habitats, species, and humans in Puget Sound</h1>
+			<h1>2022-2026 Action Agenda: AN UPDATE TO THE PUGET SOUND RECOVERY PLAN FOR PROTECTED HABITAT, THRIVING SPECIES, AND HEALTHY PEOPLE</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -129,7 +129,7 @@ navSelected = 1;
           <tr>
             <td><p>Aug - Dec 2021</p></td>
             <td><p>Phase 4: Identify actions and commitments that align with strategies.</p></td>
-            <td><p>Identify actions and programs that require additional investment; necessary policy changes; and commitments from the boards, partners, and stakeholders to support priority actions for recovery. </p>
+            <td><p>Identify actions and programs that require additional investment; necessary policy changes; and commitments from the boards and partners to support priority actions for recovery. </p>
             </td>
            <td class="light-blue-fill white"><p>Not started</p></td>
           </tr>
@@ -142,16 +142,16 @@ navSelected = 1;
           <tr>
             <td><p>Feb - June 2022</p></td>
             <td><p>Phase 6: Public comment and adoption</p></td>
-            <td><p>Provide time for public comment and input from each of the Partnership's  Boards and other stakeholder groups.</p></td>
+            <td><p>Provide time for public comment and input from each of the Partnership's  Boards and partner groups.</p></td>
            <td class="light-blue-fill white"><p>Not started</p></td>
           </tr>
         </tbody>
         </table>
 		<H2>We invite your participation</H2>
-		<p>Every phase of Action Agenda development will build from existing plans developed by partners. We  and our partners are also  developing a stakeholder engagement plan and establishing mechanisms for  collaboration and participation in co-developing the outcomes (phase 2),  strategies (phase 3), and actions (phase 4) for the 2022-2026 Action Agenda.  Throughout 2020 and 2021, Partnership staff who are leading the development of  the Action Agenda will use existing meeting schedules to present to stakeholder  groups, host workshops where stakeholders can convene around particular topic  areas, and provide online mechanisms to gather independent feedback at the  convenience of stakeholders&rsquo; schedules.&nbsp;			</p>
+		<p>Every phase of Action Agenda development will build from existing plans developed by partners. We  and our partners are also  developing an engagement plan and establishing mechanisms for  collaboration and participation in developing the outcomes (phase 2),  strategies (phase 3), and actions (phase 4) for the 2022-2026 Action Agenda.  Throughout 2020 and 2021, Partnership staff who are leading the development of  the Action Agenda will use existing meeting schedules to present to partner  groups, host workshops where partners can convene around particular topic  areas, and provide online mechanisms to gather independent feedback at the  convenience of partners&rsquo; schedules.&nbsp;			</p>
 		<p><strong><em>Stay tuned for more information on engagement opportunities as  the process is developed.</em></strong></p>
 		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>) or your other Partnership staff connections  to request a briefing.</p>
-		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information in the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank">click here</a>.
+		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information on the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank">click here</a>.
 		</p></div>
 
         <!-- InstanceEndEditable --> </div>
