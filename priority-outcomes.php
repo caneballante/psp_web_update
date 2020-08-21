@@ -94,11 +94,14 @@ navSelected = 2;
 			</tr>
 		  </tbody>
 		</table>
-		<p><strong>How can you participate?</strong> Broad participation by our partner groups is key to developing priority outcomes. We plan to engage partners in the following ways: </p>
+		<p><strong>How can you participate?</strong> Broad participation by our partner groups is key to developing priority outcomes. Partners can participate in the following ways: </p>
 		<ul>
-			<li>Working with groups at their regularly scheduled meetings</li>	
-			<li>Opportunities for structured online engagement at a time and place that works for individuals to ensure maximum flexibility in partner engagement</li>	
-			<li>A series of workshops (online) to convene people from across groups and geographies.</li>
+			<li>Attend regularly scheduled partner meetings (boards, Local Integrating Organizations, and others).</li>	
+			<li>Save the date and register to attend a workshop to discuss desired recovery outcomes.</li>
+			<ul><li>September 17, 9:00 a.m. - 11:30 a.m.</li>
+			<li>September 22, 1:00 p.m. - 3:30 p.m.</li></ul>
+			<p>We are holding the workshop on two dates to allow you to pick the best option for your schedule. <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=eCgFR53Gc0uxesXQDXVJuPeyypfKOR5Gj2Gz6aPXBGpUMFhZSDQ4U0s1QUtEQjI1RkxVVVNVWjdKOS4u">Learn more about the workshops and register.</a></p>
+			<li>Engage in an online workspace to review and collaborate on our shared values that we will use to identify which recovery outcomes should be our highest priorities. <a href="https://app.mural.co/t/rossstrategic5581/m/rossstrategic5581/1597083189100/b7c82d58f525efbb919f11377c26dd421ff5532a">Learn more about the workspace and participate.</a></li>
 		</ul>
 		<p><strong>How can groups best prepare to engage? </strong>Consider whether the outcomes for Puget Sound recovery you are working toward are clear and which are most important to you and your work. If you are an LIO coordinator, watershed lead, or Implementation Strategy lead consider whether your technical teams and committees are in agreement about your outcomes and which are most important.</p>
 		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information on the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/2ebvje65mkmeveqmgt3l9407jxib0a7z" target="_blank">click here</a>.
