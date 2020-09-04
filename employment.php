@@ -71,8 +71,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2825612/adaptive-systems-and-accountability-program-manager-exempt" target="_blank">Adaptive Systems and Accountability Program Manager</a></p>
-			
+					
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2844451/visual-communications-lead-exempt" target="_blank">Visual Communications Lead</a></p>
 			
 		<div class=" border-thick-blue floatright padding-10-all">
