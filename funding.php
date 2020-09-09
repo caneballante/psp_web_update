@@ -72,7 +72,14 @@
               <br />
 This page contains current contract and grant opportunities, as well as valuable information for recipients and contractors. Please explore the opportunities on this page, and if you have any questions, you are encouraged to send a message to the project manager listed in the solicitation.</p>
     		<p>&nbsp;</p>
-
+			
+<h2>Funding Opportunity Announcement: EPA Puget Sound Program Strategic Initiative Leads</h2>
+			<p>The EPA Puget Sound Program is pleased to announce a funding opportunity. A Request for Applications (RFA) for Strategic Initiative Leads is now available at <a href="https://www.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">https://www.epa.gov/puget-sound/funding-and-grants-puget-sound</a>. This RFA announces the availability of funds and solicits applications from eligible applicants that are interested in acting as Strategic Initiative Leads (SILs), in coordination with the Puget Sound Partnership (PSP), EPA, and other relevant parties. The primary roles of the SILs are to: 
+			<ol>
+				<li>Award and manage subawards to support the implementation of the Action Agenda with a focus on Implementation Strategies, and maintain Strategic Initiative Advisory Teams (SIATs) to advise in investment-related decision-making; </li>
+				<li>Serve as Implementation Strategy Leads for Vital Signs related to the Strategic Initiative and form technical (e.g., Interdisciplinary Teams) and/or policy workgroups to develop, refine, adaptively manage, and operationalize Implementation Strategies; and </li>
+				<li>Participate in PSP and National Estuary Program (NEP) Management Conference processes and work groups. Proactively coordinate with tribal partners and Local Integrating Organizations (LIOs) in order to accomplish SIL work. </li>
+				</ol></p>
 
  <h2>Sole-Source Contract Notification</h2>
  
