@@ -109,7 +109,7 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/EPA.jpg"  alt="Photo of shorelines and sunset"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Photo of Puget Sound waters at sunset"/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="https://www.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">Funding Opportunity Announcement: EPA Puget Sound Program Strategic Initiative Leads</a><br>
 						<!--END news content BOX--> 
