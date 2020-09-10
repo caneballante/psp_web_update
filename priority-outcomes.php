@@ -98,8 +98,8 @@ navSelected = 2;
 		<ul>
 			<li>Attend regularly scheduled partner meetings (boards, Local Integrating Organizations, and others).</li>	
 			<li>Save the date and register to attend a workshop to discuss desired recovery outcomes.</li>
-			<ul><li>September 17, 9:00 a.m. - 11:30 a.m.</li>
-			<li>September 22, 1:00 p.m. - 3:30 p.m.</li></ul>
+			<ul><li>October 1, 12:30 p.m. - 3:00 p.m.</li>
+			<li>October 7, 2:30 p.m. - 4:30 p.m.</li></ul>
 			<p>We are holding the workshop on two dates to allow you to pick the best option for your schedule. <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=eCgFR53Gc0uxesXQDXVJuPeyypfKOR5Gj2Gz6aPXBGpUMFhZSDQ4U0s1QUtEQjI1RkxVVVNVWjdKOS4u">Learn more about the workshops and register.</a></p>
 			<li>Engage in an online workspace to review and collaborate on our shared values that we will use to identify which recovery outcomes should be our highest priorities. <a href="https://app.mural.co/t/rossstrategic5581/m/rossstrategic5581/1597083189100/b7c82d58f525efbb919f11377c26dd421ff5532a">Learn more about the workspace and participate.</a></li>
 		</ul>
