@@ -72,7 +72,7 @@
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
 					
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2844451/visual-communications-lead-exempt" target="_blank">Visual Communications Lead</a></p>
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2856864/monitoring-network-coordinator-exempt" target="_blank">Monitoring Network Coordinator</a></p>
 			
 		<div class=" border-thick-blue floatright padding-10-all">
 		 <p><h3>We are an Employer of Choice</h3></p> <a href="https://pspwa.box.com/s/mw6gfajvrw6ce5cpjkegafcwtde62pyo"><img src="images/news-images/emp-of-choice.jpg" width="300" height="225" alt=""/></a> 
