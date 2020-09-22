@@ -1,6 +1,26 @@
 {
 	"news-releases": 
     {	 
+		"release84": {
+			"date": "September 21, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2a16e69'>Salmon Recovery Council to discuss priorities for 2021 legislative session</a>"
+		},
+		"release83": {
+			"date": "September 4, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/29ebc1c'>Puget Sound Partnership Leadership Council to discuss identifying priority outcomes for the 2022-2026 Action Agenda</a>"
+		},
+		"release82": {
+			"date": "August 10, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/299417c'>Ecosystem Coordination Board to discuss priority outcomes for 2022-2026 Action Agenda</a>"
+		},
+		"release81": {
+			"date": "August 3, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2989c21'>Puget Sound Partnership Leadership Council to decide on 2021-2023 Puget Sound Acquisition and Restoration (PSAR) large capital project ranked list</a>"
+		},
+		"release80": {
+			"date": "July 28, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/297b6de'>Salmon Recovery Council to decide on 2021-2023 Puget Sound Acquisition and Restoration (PSAR) large capital project ranked list</a>"
+		},
 		"release79": {
 			"date": "July 13, 2020",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/29579fa'>Science Panel to discuss alternative future scenarios analysis this week</a>"
