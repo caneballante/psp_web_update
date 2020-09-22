@@ -109,9 +109,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Photo of Puget Sound waters at sunset"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://www.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">Funding Opportunity Announcement: EPA Puget Sound Program Strategic Initiative Leads</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/FallCityPSAR.jpg"  alt="Photo of Fall City Floodplain Restoration area, featuring river water, farmlands, and housing"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/projects-on-the-newly-released-psar-ranked-list-will-help-people-salmon-and-the-economy-7831a74b59a6" target="_blank">Projects on the newly released PSAR ranked list will help people, salmon, and the economy</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -124,10 +124,25 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Photo of Puget Sound waters at sunset"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://www.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">Funding Opportunity Announcement: EPA Puget Sound Program Strategic Initiative Leads</a><br>
+						<!--END news content BOX-->
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/HighwayNews.jpg"  alt="Photo of five-lane highway in Puyallup"/> 
 					<strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/can-polluted-stormwater-affect-soil-health-87208625cae8">8/10: Can polluted stormwater affect soil health?</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -143,21 +158,6 @@ for Puget Sound Recovery</h1>
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="https://www.psp.wa.gov/2022AAupdate.php">2022 - 2026 Action Agenda Update Overview</a><br>
 						<!--END news content BOX-->
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/MarkSmithBlakeIsalndNews.jpg"  alt="Photo of kayaker and boats near Blake Island photo credit Mark Smith"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/situating-humans-in-ecosystem-recovery-the-human-dimensions-protocol-bf34e351392">7/29: Situating humans in ecosystem recovery: the Human Dimensions Protocol</a><br>
-						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
