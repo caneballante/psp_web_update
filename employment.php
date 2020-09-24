@@ -72,6 +72,8 @@
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
 					
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2869080/accounting-and-budget-program-manager-exempt" target="_blank">Accounting and Budget Program Manager</a></p>
+			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2825612/adaptive-systems-and-accountability-program-manager-exempt/" target="_blank">Adaptive Systems and Accountability Program Manager</a></p>
 			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2856864/monitoring-network-coordinator-exempt" target="_blank">Monitoring Network Coordinator</a></p>
