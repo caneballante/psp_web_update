@@ -81,16 +81,21 @@ navSelected = 2;
 		<table class="table">
 		  <tbody>
 			<tr>
-			  <td width="22%"><p><strong>Step 1<br>Aug-Sept 2020</strong></p></td>
-			  <td width="76%"><p>Develop an initial catalog of outcomes from existing plans and studies and seek input from partners to ensure it is complete and accurate.</td>
+			  <td width="22%"><p><strong>Aug-Sept 2020</strong></p></td>
+			  <td width="76%"><p>Identify a set of shared values that describe our collective ideals about what is good and desirable for recovery.</td>
 			<td width="2%"></p></tr>
 			<tr>
-			  <td><p><strong>Step 2<br>Aug-Sept 2020</strong></p></td>
-			  <td><p>Establish criteria that represent the values of recovery partners and our best scientific understanding. Use those criteria to identify priority outcomes.</p></td>
+			  <td><p><strong>Aug-Sept 2020</strong></p></td>
+			  <td><p>Develop an outcome catalog from existing recovery plans, drawing on the hundreds of recovery outcomes articulated by the recovery community.</p></td>
 			</tr>
 			  <tr>
-			  <td><p><strong>Step 3<br>Oct-Dec 2020</strong></p></td>
-			  <td><p>Apply the criteria and fine tune the results to ensure they are supported by partners. </p></td>
+			  <td><p><strong>Sept-Oct 2020</strong></p></td>
+			  <td><p>Organize outcomes by the ecosystem pressures they would address.</p></td>
+			</tr>
+			</tr>
+			  <tr>
+			  <td><p><strong>Oct-Dec 2020</strong></p></td>
+			  <td><p>Identify priority outcomes, review alternatives, and fine tune the results.</p></td>
 			</tr>
 		  </tbody>
 		</table>
@@ -100,7 +105,10 @@ navSelected = 2;
 			<li>Save the date and register to attend a workshop to discuss desired recovery outcomes.</li>
 			<ul><li>October 1, 12:30 p.m. - 3:00 p.m.</li>
 			<li>October 7, 2:30 p.m. - 4:30 p.m.</li></ul>
-			<p>We are holding the workshop on two dates to allow you to pick the best option for your schedule. <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=eCgFR53Gc0uxesXQDXVJuPeyypfKOR5Gj2Gz6aPXBGpUMFhZSDQ4U0s1QUtEQjI1RkxVVVNVWjdKOS4u">Learn more about the workshops and register.</a></p>
+			<p>Resources to help you prepare for the upcoming workshops are linked below:</p>
+			<ul><li><a href="https://pspwa.app.box.com/s/np0e4i5s6xm88rk325eh0iq0n16rei2a">Workshop agenda and materials for Oct. 1</a></li>
+			<li><a href="https://pspwa.app.box.com/s/38fx80bnl1gcl0kbz5hgla5jfmew28sj">Workshop agenda and materials for Oct. 7</a></li>
+			<li><a href="https://pspwa.app.box.com/s/2ku02md19ca6uhag05bv7fk0a7ee7qfu">Background on the 2022-2026 update and the current phase of work</a></li></ul>
 			<li>Engage in an online workspace to review and collaborate on our shared values that we will use to identify which recovery outcomes should be our highest priorities. <a href="https://app.mural.co/t/rossstrategic5581/m/rossstrategic5581/1597083189100/b7c82d58f525efbb919f11377c26dd421ff5532a">Learn more about the workspace and participate.</a></li>
 		</ul>
 		<p><strong>How can groups best prepare to engage? </strong>Consider whether the outcomes for Puget Sound recovery you are working toward are clear and which are most important to you and your work. If you are an LIO coordinator, watershed lead, or Implementation Strategy lead consider whether your technical teams and committees are in agreement about your outcomes and which are most important.</p>
