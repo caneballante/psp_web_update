@@ -102,13 +102,10 @@ navSelected = 2;
 		<p><strong>How can you participate?</strong> Broad participation by our partner groups is key to developing priority outcomes. Partners can participate in the following ways: </p>
 		<ul>
 			<li>Attend regularly scheduled partner meetings (boards, Local Integrating Organizations, and others).</li>	
-			<li>Save the date and register to attend a workshop to discuss desired recovery outcomes.</li>
-			<ul><li>October 1, 12:30 p.m. - 3:00 p.m.</li>
-			<li>October 7, 2:30 p.m. - 4:30 p.m.</li></ul>
-			<p>Resources to help you prepare for the upcoming workshops are linked below:</p>
-			<ul><li><a href="https://pspwa.app.box.com/s/np0e4i5s6xm88rk325eh0iq0n16rei2a">Workshop agenda and materials for Oct. 1</a></li>
-			<li><a href="https://pspwa.app.box.com/s/38fx80bnl1gcl0kbz5hgla5jfmew28sj">Workshop agenda and materials for Oct. 7</a></li>
-			<li><a href="https://pspwa.app.box.com/s/2ku02md19ca6uhag05bv7fk0a7ee7qfu">Background on the 2022-2026 update and the current phase of work</a></li></ul>
+			<li>Attend a workshop to discuss desired recovery outcomes. Resources to help you prepare for the upcoming workshops are linked below:</li>
+			<ul><li><a href="https://pspwa.app.box.com/s/np0e4i5s6xm88rk325eh0iq0n16rei2a">October 1, 12:30 p.m. - 3:00 p.m.</a></li>
+			<li><a href="https://pspwa.app.box.com/s/38fx80bnl1gcl0kbz5hgla5jfmew28sj">October 7, 2:30 p.m. - 4:30 p.m.</a></li></ul>
+			<ul><li><a href="https://pspwa.app.box.com/s/2ku02md19ca6uhag05bv7fk0a7ee7qfu">Background on the 2022-2026 update and the current phase of work</a></li></ul>
 			<li>Engage in an online workspace to review and collaborate on our shared values that we will use to identify which recovery outcomes should be our highest priorities. <a href="https://app.mural.co/t/rossstrategic5581/m/rossstrategic5581/1597083189100/b7c82d58f525efbb919f11377c26dd421ff5532a">Learn more about the workspace and participate.</a></li>
 		</ul>
 		<p><strong>How can groups best prepare to engage? </strong>Consider whether the outcomes for Puget Sound recovery you are working toward are clear and which are most important to you and your work. If you are an LIO coordinator, watershed lead, or Implementation Strategy lead consider whether your technical teams and committees are in agreement about your outcomes and which are most important.</p>
