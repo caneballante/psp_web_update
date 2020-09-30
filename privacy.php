@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Draft Home Page</title>
+<title>Puget Sound Partnership privacy</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -178,9 +178,7 @@ name="_Disclaimer" id="_Disclaimer"></a><span class="text_headline">Disclaimer</
         		<h4 class="text"><a 
 name="_PSWQAT_Contact_Information" id="_PSWQAT_Contact_Information"></a><span class="text_headline">Puget Sound Partnership contact Information</span></h4>
         		<p class="text">To access your personally identifiable information we collect, if any, or request correction of factual errors in your personally identifiable information, or to offer comments about the Partnesrhip, contact the Puget Sound Partnership at P.O. Box 40900, Olympia, WA 98504-0900  or email <a href="mailto:info@psp.wa.gov"><span 
-style="mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 'Times New Roman'">info</span></a><a 
-href="mailto:bstewart@psp.wa.gov"><span 
-style="mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 'Times New Roman'">@psp.wa.gov</span></a>.</p>
+style="mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 'Times New Roman'">info@psp.wa.gov</span></a>.</p>
         		<p class="text"><a href="#top">^ Top</a></p>
       
       		<p>&nbsp;</p>

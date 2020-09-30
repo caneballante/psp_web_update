@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Puget Sound Funding Programs</title>
+<title>Technology Strategic Plan</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -23,6 +23,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 9;
+</script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -37,17 +41,18 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image7">
-
-<div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
-
- </header>
+<header class="overview-page-image-style overview-page-image8">
+	<div class="overview-quote pull-right">
+		<h3>&nbsp;</h3>
+	</div>
+</header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SCIENCE BASIS FOR RECOVERY</h1>
+			<h1>Technology Strategic Plan</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -57,37 +62,23 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<li class="active" role="presentation"> <a href="funding-programs.php">Puget Sound Funding Programs</a></li>
-				<li role="presentation"> <a href="PSAR.php">Puget Sound Recovery and Acquisition Fund (PSAR)</a></li>
-			<!-- InstanceEndEditable -->
+				<?php include 'includes/ln-psp-overview.html';?>	
+				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<p>In accordance with <a href="https://ocio.wa.gov/policy/technology-portfolio-foundation">OCIO POL 112</a>,  the Puget Sound Partnership must publish the agency IT strategic plan on it's website. <a href="https://pspwa.box.com/shared/static/d2e8g4akpc7b30h90rw7kjz361op1od0.pdf" target="new">You can click here to view the Recreation and Conservation Office and Puget Sound Partnership Joint Information Technology Strategic Plan FY2021.</a></p>
+			<p><br>
+			  <br>
+			  <br>
+			</p>
+			<h2>&nbsp;</h2>
 			
-						  <p>The Partnership works collaboratively with all levels of government, tribes, businesses and citizen groups in its charge to lead and coordinate efforts to protect and restore Puget Sound. Our goal is to make Puget Sound healthy again, and create a roadmap for how to get it done. To achieve this goal, we mobilize funding to support both human capacity and the development and implementation of high-priority salmon recovery capital projects on an annual basis.</p>
-						 <h2>Puget Sound Acquisition and Restoration (PSAR) Fund</h2>
-			<p>The Puget Sound Acquisition and Restoration (PSAR) fund was established through the Governor&rsquo;s Office and Washington State Legislature in 2007, to support the implementation of high-priority salmon habitat restoration and protection projects. In coordination with the Recreation and Conservation Office, local partners, and the Puget Sound Salmon Recovery Council, the Partnership mobilizes support for PSAR requests in each Washington State biennial. <a href="PSAR.php">LEARN MORE</a></p>
-			<h2>Pacific Coast Salmon Recovery Fund (PCSRF)</h2>
-<p>The Pacific Coastal Salmon Recovery Fund (PCSRF) was established by Congress in 2000 to reverse the declines of Pacific salmon and steelhead, supporting conservation efforts in California, Oregon, Washington, Idaho, and Alaska. Through the Washington Salmon Recovery Funding Board and in coordination with the Recreation and Conservation Office, the Partnership works with salmon recovery Lead Entities to identify and prioritize the highest priority projects to receive PCSRF funds in Puget Sound every year. <a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/pacific_coastal_salmon_recovery_fund.html" target="new">LEARN MORE</a></p>
-						  <p>&nbsp;</p>
-						  <p>&nbsp;</p>
-						  <p>&nbsp;</p>
-						  <p>&nbsp;</p>
-
-		<!-- InstanceEndEditable --> </div>
+			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
-				<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li role="presentation"><a href="NEP-funding.php">NEP Funding</a></li>
-				
-						<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
