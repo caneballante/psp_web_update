@@ -109,9 +109,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/FallCityPSAR.jpg"  alt="Photo of Fall City Floodplain Restoration area, featuring river water, farmlands, and housing"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/IllaheeWeb.jpg"  alt="Photo of Port Orchard Passage, from the Illahee Dock. Photo credit: Ross Lytle, Kitsap Public Health District"/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/projects-on-the-newly-released-psar-ranked-list-will-help-people-salmon-and-the-economy-7831a74b59a6" target="_blank">Projects on the newly released PSAR ranked list will help people, salmon, and the economy</a><br>
+						<a href="https://medium.com/puget-sound-partnership/washington-state-department-of-health-partners-with-communities-to-reopen-shellfish-harvesting-f9449a001c3f" target="_blank">Washington State Department of Health partners with communities to reopen shellfish harvesting areas</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -124,10 +124,10 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Photo of Puget Sound waters at sunset"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://www.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">Funding Opportunity Announcement: EPA Puget Sound Program Strategic Initiative Leads</a><br>
-						<!--END news content BOX-->
+					  <img class="img-responsive img-rounded" src="images/news-images/FallCityPSAR.jpg"  alt="Photo of Fall City Floodplain Restoration area, featuring river water, farmlands, and housing"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/projects-on-the-newly-released-psar-ranked-list-will-help-people-salmon-and-the-economy-7831a74b59a6" target="_blank">Projects on the newly released PSAR ranked list will help people, salmon, and the economy</a><br>
+						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -139,9 +139,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/HighwayNews.jpg"  alt="Photo of five-lane highway in Puyallup"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/can-polluted-stormwater-affect-soil-health-87208625cae8">8/10: Can polluted stormwater affect soil health?</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Photo of Puget Sound waters at sunset"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://www.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">Funding Opportunity Announcement: EPA Puget Sound Program Strategic Initiative Leads</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
