@@ -109,6 +109,21 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/ORD3web.jpg"  alt="Photo of orcas swimming in the water"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://betterground.org/in-your-community/events/ord/" target="_blank">Create or join an Eco Challenge Team for Orca Recovery Day</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		    <!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/IllaheeWeb.jpg"  alt="Photo of Port Orchard Passage, from the Illahee Dock. Photo credit: Ross Lytle, Kitsap Public Health District"/> 
 					<strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/washington-state-department-of-health-partners-with-communities-to-reopen-shellfish-harvesting-f9449a001c3f" target="_blank">Washington State Department of Health partners with communities to reopen shellfish harvesting areas</a><br>
@@ -118,7 +133,7 @@ for Puget Sound Recovery</h1>
 				</div>
 				
 			</div>
-		    <!--COLUMN END-->
+		<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -142,21 +157,6 @@ for Puget Sound Recovery</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Photo of Puget Sound waters at sunset"/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="https://www.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">Funding Opportunity Announcement: EPA Puget Sound Program Strategic Initiative Leads</a><br>
-						<!--END news content BOX-->
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt="Photo of birds flying above the beach"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://www.psp.wa.gov/2022AAupdate.php">2022 - 2026 Action Agenda Update Overview</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
