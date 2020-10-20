@@ -111,7 +111,7 @@
 			<p>These objectives were collectively developed and revised by the Science Panel in advance of evaluating Science Work Actions.</p>
 			
 			<h3>Section 4: Priority Science Work Actions</h3>
-			<p>These Science Work Actions are rooted in the science, research, and information needs identified by partners and decision makers. Priority Science Work Actions have been identified for each objective. Some Science Work Actions are top ranked for more than one objective. Tables 1 through 5 in the draft Science Work Plan for 2020-2024 present top ranked Science Work Actions for each of the objectives. Table 6 presents 12 Science Work Actions that rank in the top ten for two or more objectives.</p>
+			<p>Partnership staff compiled recommendations from the recovery community, with an initial focus on materials that articulated the science and questions from managers and policymakers. These recommendations address a wide scope of topics.  Topical experts from the Science Panel looked at recommendations within their field of expertise and suggested potential Science Work Actions that reflected the content and intent of multiple recommendations.   Science Work Actions represent discrete and actionable areas of investigation that a scientific study could reasonably be initiated to answer or address.  The Science Panel will use the objectives articulated in section 3 to evaluate each Science Work Action.  Preliminary scoring of Science Work Actions is presented in Appendix B. </p>
 			
 			<a id="Section5"></a>
 			<h3>Section 5: Recommendations to improve ongoing science</h3>
