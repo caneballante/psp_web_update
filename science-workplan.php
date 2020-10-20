@@ -71,7 +71,7 @@
 			<p>The Science Panel is currently developing a Science Work Plan for 2020-2024 (<a href="https://pspwa.box.com/s/ge869esyy9gtbmk7kgmi22m6crtjbe6a">access here</a>), which describes strategies to improve our collective understanding of Puget Sound. Implementing this Science Work Plan will generate research, evaluation, and analysis that the Puget Sound recovery community uses to improve decision-making and accelerate recovery across Puget Sound for the benefit of the people and communities in the region and the ecosystems on which they depend.  
 				The draft <a href="https://pspwa.box.com/s/ge869esyy9gtbmk7kgmi22m6crtjbe6a">Science Work Plan for 2020-2024</a> has been released for review with comments due on November 20, 2020 with the goal to finalize the plan on December 10, 2020 at the Science Panel’s meeting.</p>
 			<h2>A Puget Sound Science Enterprise: Supporting and growing an inclusive network</h2>
-	<p>One prominent part of the Science Work Plan is to develop a more inclusive, more coordinated network of organizations and entities dedicated to building our understanding of Puget Sound – expanding beyond western science to also emphasize the central importance of indigenous knowledge and environmental justice (see Sections 2 and 5 – hyper link).</p> 
+	<p>One prominent part of the Science Work Plan is to develop a more inclusive, more coordinated network of organizations and entities dedicated to building our understanding of Puget Sound – expanding beyond western science to also emphasize the central importance of indigenous knowledge and environmental justice (see <a href="#Section2">Section 2</a> and <a href="#Section5">Section 5</a>).</p> 
 
 <p>The Partnership recognizes that implementing this vision will require a collaborative approach and leadership from organizations dedicated to indigenous knowledge and environmental justice. In this spirit, Partnership staff are reaching out to potential partners to listen and open conversations  about what this network might look like, including purpose, scope, roles for key partners, potential partnership structure, and funding (see graphic below, courtesy of the Oregon Watershed Enhancement Board's "Partnership Learning Project"). 
 </p>
@@ -96,7 +96,7 @@
 </p>
 			<ul><li>What are the priority Science Work Actions for 2020-2024? </li>
 			<li>What broader recommendations should be pursued to improve ongoing science and its dissemination? </li></ul>
-			
+			<a id="Section2"></a>
 			<h3>Section 2: Science Enterprise: a more inclusive, more coordinated network to shape implementation of science priorities</h3>
 			<p>The strategic focus articulated in this document is intended to catalyze the development of a regional network of organizations and entities dedicated to western science, indigenous knowledge, and environmental justice. A network approach, like this, has been used in other regions. A network approach is expected to better target science findings to impact recovery efforts, improve the legitimacy and transparency of decision making, and support accountability for achieving recovery objectives. </p>
 			
@@ -113,6 +113,7 @@
 			<h3>Section 4: Priority Science Work Actions</h3>
 			<p>These Science Work Actions are rooted in the science, research, and information needs identified by partners and decision makers. Priority Science Work Actions have been identified for each objective. Some Science Work Actions are top ranked for more than one objective. Tables 1 through 5 in the draft Science Work Plan for 2020-2024 present top ranked Science Work Actions for each of the objectives. Table 6 presents 12 Science Work Actions that rank in the top ten for two or more objectives.</p>
 			
+			<a id="Section5"></a>
 			<h3>Section 5: Recommendations to improve ongoing science</h3>
 			<ol><li>Collaboratively develop a more inclusive, more coordinated network dedicated to western science, indigenous knowledge and environmental justice to support Puget Sound ecosystem recovery </li>
 				<li>Invigorate interactions among scientists and decision makers </li>
