@@ -97,7 +97,7 @@
 			<ul><li>What are the priority Science Work Actions for 2020-2024? </li>
 			<li>What broader recommendations should be pursued to improve ongoing science and its dissemination? </li></ul>
 			<a id="Section2"></a>
-			<h3>Section 2: Science Enterprise: a more inclusive, more coordinated network to shape implementation of science priorities</h3>
+			<h3>Section 2: Puget Sound Science Enterprise: Supporting and growing a more inclusive network</h3>
 			<p>The strategic focus articulated in this document is intended to catalyze the development of a regional network of organizations and entities dedicated to western science, indigenous knowledge, and environmental justice. A network approach, like this, has been used in other regions. A network approach is expected to better target science findings to impact recovery efforts, improve the legitimacy and transparency of decision making, and support accountability for achieving recovery objectives. </p>
 			
 			<h3>Section 3: Objectives for selecting and prioritizing Science Work Actions</h3>
