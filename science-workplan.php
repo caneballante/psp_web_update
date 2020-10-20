@@ -66,19 +66,15 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		 
-		 <p>State statute changed in 2018 and now requires that every 4 years the Puget Sound Partnership produce a  Science Work Plan. Previously the the Science Work Plan was produced every 2 years. The goals of the Science Work Plan are to:</p>
-			<ul>
-				<li>Assess how well ongoing research addresses decision-critical uncertainties relating to the recovery of Puget Sound</li>
-				<li>Identify additional science needs to support ecosystem recovery</li>
-				<li>Make recommendations for priority science actions in the coming biennium</li>
-				<li>Suggest how science can better support recovery. </li>
-			</ul>
-			<p>This 2016-18 BSWP is the fourth such plan produced since the Partnership's inception in 2007.</p>
-			<p><a href="https://pspwa.box.com/s/hy1hmhjdnmgtr97nswosy0vsuypsnqkv">2016-18 Biennial Science Work Plan</a></p>
-<br />
-			<p>
-					
-			</p>
+			<h2>Developing the Science Work Plan for 2020-2024</h2>
+			<p>The Science Panel is a group of 14 top scientists in Washington State  and the Pacific Northwest that provides advice and guidance to the Puget Sound Partnership (Partnership) to develop a comprehensive, science-based plan to restore Puget Sound. </p>
+			<p>The Science Panel is currently developing a Science Work Plan for 2020-2024 (<a href="https://pspwa.box.com/s/ge869esyy9gtbmk7kgmi22m6crtjbe6a">access here</a>), which describes strategies to improve our collective understanding of Puget Sound. Implementing this Science Work Plan will generate research, evaluation, and analysis that the Puget Sound recovery community uses to improve decision-making and accelerate recovery across Puget Sound for the benefit of the people and communities in the region and the ecosystems on which they depend.  
+				The draft <a href="https://pspwa.box.com/s/ge869esyy9gtbmk7kgmi22m6crtjbe6a">Science Work Plan for 2020-2024</a> has been released for review with comments due on November 20, 2020 with the goal to finalize the plan on December 10, 2020 at the Science Panel’s meeting.</p>
+			<h2>A Puget Sound Science Enterprise: Supporting and growing an inclusive network  to shape implementation of the Science Work Plan</h2>
+	<p>One prominent part of the Science Work Plan is to develop a more inclusive, more coordinated network of organizations and entities dedicated to building our understanding of Puget Sound – expanding beyond western science to also emphasize the central importance of indigenous knowledge and environmental justice (see Sections 2 and 5 – hyper link).</p> 
+
+<p>The Partnership recognizes that implementing this vision will require a collaborative approach and leadership from organizations dedicated to indigenous knowledge and environmental justice. In this spirit, Partnership staff are reaching out to potential partners to listen and open conversations  about what this network might look like, including purpose, scope, roles for key partners, potential partnership structure, and funding (see graphic below, courtesy of the Oregon Watershed Enhancement Board's "Partnership Learning Project"). 
+</p>
   		
 
   		
@@ -99,6 +95,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				
+				<li role="presentation"><a href="https://pspwa.box.com/s/hy1hmhjdnmgtr97nswosy0vsuypsnqkv">2016-18 Biennial Science Work Plan</a><br /></li>
 				<li role="presentation"><a href="downloads/SCIENCE/2014-16_BSWP_Final_10Dec_2014.pdf">2014-16 Biennial Science Work Plan</a><br /></li>
 					<li role="presentation"> <a href="downloads/APPROVED_BSWPApril2012.pdf">2012 Biennal Science Work Plan </a></li>
 				<!--	<li role="presentation"><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1021&amp;Itemid=238">Approved Leadership Council Resolution for the Biennal Work Plan, April 26, 2012</a></li>-->
