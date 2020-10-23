@@ -71,7 +71,7 @@ navSelected = 2;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<p>Priority outcomes describe <em>what </em>we as the recovery  community hope to accomplish. Priority outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
+		<p>Priority outcomes describe <em>what </em>we as the recovery  community intend to accomplish. Priority outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
 
 		<h2>Priority outcomes are positive changes we want to see in Puget Sound</h2>
 		<p>Priority outcomes may be related to reductions in pressures on the ecosystem (example: fewer miles of shoreline armoring) or improvements in enabling conditions (example: more funding). By successfully achieving the priority outcomes determined in the Action Agenda, the recovery community will accelerate and achieve transformative change for Puget Sound recovery.  </p>
@@ -103,8 +103,8 @@ navSelected = 2;
 		<ul>
 			<li>Attend regularly scheduled partner meetings (boards, Local Integrating Organizations, and others).</li>	
 			<li>Register to attend a workshop to discuss desired recovery outcomes.</li>
-			<ul><li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=eCgFR53Gc0uxesXQDXVJuPeyypfKOR5Gj2Gz6aPXBGpUNE1KUUlBRDNEOE1TOU85WDlINEdPMkdNNS4u" target="_blank">November 17, 10:00 a.m. - 12:30 p.m.</a></li></ul>
-				<li>Resources to help you prepare for the upcoming workshop are linked below:
+			<ul><li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=eCgFR53Gc0uxesXQDXVJuPeyypfKOR5Gj2Gz6aPXBGpUNE1KUUlBRDNEOE1TOU85WDlINEdPMkdNNS4u" target="_blank">November 17, 10:00 a.m. - 1:00 p.m.</a></li></ul>
+				<li>Follow-up materials from the first workshop in early October that will help you prepare for the upcoming workshop are linked below:
 			<ul><li><a href="https://pspwa.box.com/s/148e1j8fdmhr5rhq91ole2lhsrt81x1x">October workshops follow-up document</a></li></ul>
 			</li>
 			
