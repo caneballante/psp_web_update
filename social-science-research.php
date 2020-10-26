@@ -115,7 +115,7 @@
 				<li role="presentation"> <a href="https://pspwa.box.com/s/knxdmd0st71w4f3z3ggk7nfk76oqbx6d">Analysis of Organizations Engaged in Puget Sound Ecosystem Recovery</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/45tqlfh4w6qidabkzlr21jy3y82xv0po" target="new">Sound Behavior Index reports</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/uybht4wqvv0q04t6nltnsp9uyo9j6r3e" target="new">Public opion surveys</a></li>
-				<li role="presentation"> <a href="https://pspwa.app.box.com/file/682489538078" target="new">Human Dimensions Protocol</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/w1galqayttesd0rkh8uhwavl0dt1cp0c" target="new">Human Dimensions Protocol</a></li>
 				
 				<!-- InstanceEndEditable -->
 			</ul>
