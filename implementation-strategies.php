@@ -162,8 +162,8 @@ Shifting toward a more networked approach is the next iteration of the Implement
             </uL>
             <p>Strategies associated with the Stormwater Strategic Initiative:</p>
             <uL>
-                <li><a href="https://pspwa.box.com/v/BIBI-IS-Public">Freshwater quality—B-IBI (drafts under development)</a></li>
-                <li><a href="https://pspwa.box.com/v/ToxicsInFishIS-Public">Toxics in fish (drafts under development)</a></li>
+                <li><a href="https://pspwa.box.com/v/BIBI-IS-Public">Freshwater quality—B-IBI</a></li>
+                <li><a href="https://pspwa.app.box.com/folder/109400380199">Toxics in fish</a></li>
             </uL>
             <p>Strategies managed by the Puget Sound Partnership</p>
             <uL>
