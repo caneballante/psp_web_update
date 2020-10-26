@@ -261,8 +261,8 @@ Shifting toward a more networked approach is the next iteration of the Implement
 				<li role="presentation"><a href="https://pspwa.box.com/s/yyiswccgjw4ogcqhr06bqsm5jtlm9aah">Eelgrass Recovery pilot (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook Salmon draft (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/sa-readme">Shoreline Armoring draft (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/v/BIBI-IS-Public">B-IBI draft (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/v/ToxicsInFishIS-Public">Toxics in Fish draft (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/BIBI-IS-Public">B-IBI (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.app.box.com/folder/109400380199">Toxics in Fish (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/52t8ecqbtlm7nd5juad6lu8s3uuvh9yk">Marine Water Quality (IS)</a></li>
 				<li role="presentation"><a href="https://eopugetsound.org/magazine/is/implementation-strategies">Implementation Strategies Overview Article (EoPS)</a></li>
 				<li role="presentation"><a href=" https://pspwa.box.com/v/IS-general-info">Implementation Strategy General Timeline and Team Structure</a></li>
