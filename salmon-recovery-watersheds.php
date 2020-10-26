@@ -136,7 +136,7 @@
 					<td>Cheryl Baumann, Clallam County</td>
 					<td>360-417-2326</td>
 					<td><a class="small-links" href="mailto:cbaumann@co.clallam.wa.us">cbaumann@co.clallam.wa.us</a></td>
-					<td>2005 Elwha Chapter</td>
+					<td><a href="https://www.psp.wa.gov/shared-salmon-strategy/plan/wpas/elwha.zip">2005 Elwha Chapter</a></td>
 					<td>2005 Dungeness Chapter</td>
 				</tr>
 				<tr>
