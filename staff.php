@@ -138,8 +138,9 @@
 			   360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
             <!--PLANNING TEAM-->
           <h3 class="padding-10-top">PLANNING TEAM</h3>
-            <h5>VACANT</h5>
-	<p>Planning Manager<br /></p>
+            <h5>Dan Stonington</h5>
+	<p>Planning Manager<br />
+	360.764.0164 | <a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a></p>
            
             <h5>Mike Johnson</h5>
             <p>Environmental Planner and Implementation Strategies Lead<br />
