@@ -98,7 +98,7 @@
             <p> Adaptive Systems Manager<br /></p>
             <h5>Jennifer Burke</h5>
             <p>Data Systems/GIS Manager<br />
-                360.999.3849| <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
+                360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
             <h5>Alex Mitchell</h5>
             <p> Performance Management Analyst<br/>
                 360.706.3334 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a> </p> 
@@ -114,7 +114,7 @@
             <h3 class="padding-10-top">BOARDS PROGRAM</h3>
             <h5>Tristan Contesse</h5>
             <p> Boards Program Manager<br />
-                360.584.5328| <a href="mailto:tristan.contesse@psp.wa.gov">tristan.contesse@psp.wa.gov</a> </p>
+                360.584.5328 | <a href="mailto:tristan.contesse@psp.wa.gov">tristan.contesse@psp.wa.gov</a> </p>
             <h5>Anna Petersen</h5>
             <p> Special Assistant to the Boards<br />
                 360.338.2384 | <a href="mailto:anna.petersen@psp.wa.gov">anna.petersen@psp.wa.gov</a></p>
@@ -160,12 +160,12 @@
             <h5>Dan Calvert</h5>
             <p>Senior Ecosystem Recovery Coordinator<br>
                 <em>Puyallup &amp; Chambers, Nisqually, WRIA 13 and 14</em><br />
-                360.360.789.3165 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov </a></p>
+                360.789.3165 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov </a></p>
     
             <h5>Alexandra Doty</h5>
             <p>Ecosystem Recovery Coordinator<br>
                 <em>South Central LIO, Lake Washington/Cedar/Sammamish (WRIA 8), Green/Duwamish (Wria 9)</em><br />
-                360.280.6664| <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov </a></p>        
+                360.280.6664 | <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov </a></p>        
     
             <h5>Laura (Ferguson) Rivas</h5>
             <p>Ecosystem Recovery Coordinator<br>
@@ -174,11 +174,11 @@
     
             <h5>Kristin Hayman</h5>
             <p>Project Coordinator<br>
-                360.480.0475| <a href="mailto:kristin.hayman@psp.wa.gov">kristin.hayman@psp.wa.gov </a></p>
+                360.480.0475 | <a href="mailto:kristin.hayman@psp.wa.gov">kristin.hayman@psp.wa.gov </a></p>
     
             <h5>Leah Kintner</h5>
             <p>Ecosystem Recovery Manager<br>
-                360.480.2880| <a href="mailto:leah.kintner@psp.wa.gov">leah.kintner@psp.wa.gov </a></p>
+                360.480.2880 | <a href="mailto:leah.kintner@psp.wa.gov">leah.kintner@psp.wa.gov </a></p>
     
             <h5>Amber Moore</h5>
             <p>Salmon Recovery Manager<br />
@@ -230,7 +230,7 @@
           <h1 class="padding-20-top padding-20-bottom">INTERNAL OPERATIONS DIVISION</h1>
             <h5>Brent Barnes</h5>
             <p>Chief Operating Officer<br />
-                Office 360.339.5861 | Cell 360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a> </p>
+                Office 360.339.5861 | mobile: 360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a> </p>
             <!--ADMINISTRATIVE SUPPORT-->
             <h3 class="padding-10-top">Administrative Support Team</h3>
              <h5>Charisse Sonnier</h5>
