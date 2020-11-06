@@ -251,7 +251,7 @@
             <h3 class="padding-10-top">FISCAL PROGRAM</h3>
             <h5>Diamatris Winston</h5>
             <p>Fiscal Division Manager<br />
-                360.464.1231 | mobile: 360.867.8234 |<a href="mailto:diamatris.winston@psp.wa.gov">diamatris.winston@psp.wa.gov </a></p>
+                desk: 360.464.1231 | mobile: 360.867.8234 |<a href="mailto:diamatris.winston@psp.wa.gov">diamatris.winston@psp.wa.gov </a></p>
             <h5>VACANT</h5>
             <p>Accounting and Budget Program Manager<br /></p>
             <h5>Arjean Travis</h5>
