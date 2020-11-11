@@ -94,7 +94,7 @@ navSelected = 2;
 			</tr>
 			</tr>
 			  <tr>
-			  <td><p><strong>Oct-Dec 2020</strong></p></td>
+			  <td><p><strong>Oct-Feb 2021</strong></p></td>
 			  <td><p>Identify priority outcomes, review alternatives, and fine tune the results.</p></td>
 			</tr>
 		  </tbody>
@@ -102,10 +102,8 @@ navSelected = 2;
 		<p><strong>How can you participate?</strong> Broad participation by our partner groups is key to developing priority outcomes. Partners can participate in the following ways: </p>
 		<ul>
 			<li>Attend regularly scheduled partner meetings (boards, Local Integrating Organizations, and others).</li>	
-			<li>Register to attend a workshop to discuss desired recovery outcomes.</li>
-			<ul><li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=eCgFR53Gc0uxesXQDXVJuPeyypfKOR5Gj2Gz6aPXBGpUNE1KUUlBRDNEOE1TOU85WDlINEdPMkdNNS4u" target="_blank">November 17, 10:00 a.m. - 1:00 p.m.</a></li></ul>
-				<li>Follow-up materials from the first workshop in early October that will help you prepare for the upcoming workshop are linked below:
-			<ul><li><a href="https://pspwa.box.com/s/148e1j8fdmhr5rhq91ole2lhsrt81x1x">October workshops follow-up document</a></li></ul>
+			<li>Review <a href="https://pspwa.box.com/s/148e1j8fdmhr5rhq91ole2lhsrt81x1x">follow-up materials</a> from the workshop in October
+			<li>Stay tuned for more opportunities to participate</li>
 			</li>
 			
 		</ul>
