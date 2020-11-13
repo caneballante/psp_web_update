@@ -137,6 +137,10 @@
 			<p>Visual Communications Lead<br>
 			   360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
             <!--PLANNING TEAM-->
+			<h3 class="padding-10-top">INTEGRATED PLANNING PROGRAM</h3>
+			<h5>Setphanie Suter</h5>
+			<p>Planning Program Director<br>
+			360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a></p>
           <h3 class="padding-10-top">PLANNING TEAM</h3>
             <h5>Dan Stonington</h5>
 	<p>Planning Manager<br />
