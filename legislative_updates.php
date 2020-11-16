@@ -87,7 +87,28 @@
 			<!-- /input-group --> 
 		</div>
 
-			<h2 class="margin-0-top">2020 Legislative SESSION</h2>
+			<h2 class="margin-0-top">2021 Legislative SESSION</h2>
+			<h3 class="margin-0-top"> Legislative CALENDAR:</h3>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2a9eeed" target="_blank">Pre-session Committee Work Sessions</a></p>
+            
+			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
+			
+			
+			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS:</h3>
+			
+            
+            
+           
+            
+			<h3 class="margin-20-top"> LEGISLATIVE AGENDA:</h3>
+			
+
+			<hr></hr>
+		
+			
+		<h2>Legislative Updates and Calendar Archives</h2>
+		
+		<h2 class="margin-0-top">2020 Legislative SESSION</h2>
 			<h3 class="margin-0-top"> Legislative CALENDAR:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2734ea5">Week 1, January 13 - 17, 2020</a></p>
             <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/276af8c">Week 2, January 20 - 24, 2020</a></p>
@@ -114,18 +135,7 @@
 			<p><a href="https://pspwa.app.box.com/s/c5cgzvugndsic4vohxsa4oq4r2yy1n7n">February 28, 2020</a></p>
 			<p><a href="https://pspwa.app.box.com/s/x568a7uxl1lrqwqu1osq68x7c9116rpj">March 6, 2020</a></p>
 			<p><a href="https://pspwa.app.box.com/s/553w8wgogdkbakqkr2vyer87e2ank83m">March 13, 2020</a></p>
-            
-            
-           
-            
-			<h3 class="margin-20-top"> LEGISLATIVE AGENDA:</h3>
-			<p><a href="https://pspwa.box.com/s/0q8cngxzl2f9gjq4ziphr5ves0dai1e8">2020 Leglislative agenda</a></p>
-
-			<hr></hr>
-		
-			
-		<h2>Legislative Updates and Calendar Archives</h2>
-		
+            <hr></hr>
 		<h2 class="margin-0-top">2019 Legislative SESSION</h2>
 			<h3 class="margin-0-top"> Legislative CALENDAR</h3>
 			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22765b0">Week 1, January 14 - 18, 2019 </a></p>
