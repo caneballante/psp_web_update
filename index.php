@@ -94,6 +94,8 @@ for Puget Sound Recovery</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL&nbsp;INTEGRATING&nbsp;ORGANIZATIONS&nbsp;(LIOs)</a></div>
 			<div class="padding-5-bottom"><a href="legislative_updates.php">2021&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
+			<div class="padding-5-bottom"><span class="new-red">NEW</span><a href="https://pspwa.box.com/shared/static/wmdpr9w05ow7072pqym99ufwmo39akpf.pdf">DOWNLOAD&nbsp;THE&nbsp;2021-2023&nbsp;BUDGET&nbsp;RANKINGS </a></div>
+			
             <div class="padding-5-bottom"><a href="psdoth2020.php">2020&nbsp;PUGET&nbsp;SOUND&nbsp;DAY&nbsp;ON&nbsp;THE&nbsp;HILL</a></div>
 			
 		</div>
@@ -109,9 +111,9 @@ for Puget Sound Recovery</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/ORD3web.jpg"  alt="Photo of orcas swimming in the water"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt="Photo of orcas swimming in the water"/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://betterground.org/in-your-community/events/ord/" target="_blank">Create or join an Eco Challenge Team for Orca Recovery Day</a><br>
+						<a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
