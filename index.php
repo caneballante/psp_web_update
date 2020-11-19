@@ -38,10 +38,10 @@
             </div>
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
- 					<h1>2019 State of the Sound Report<br>
-issues a Call to Action<br>
-for Puget Sound Recovery</h1>
- 					<div class="learn-more-box"><a href="https://www.stateofthesound.wa.gov">LEARN MORE</a></div>  
+ 					<h1>Making Waves<br>
+Stories from the people protecting<br>
+and recovering Puget Sound</h1>
+ 					<div class="learn-more-box"><a href="https://makingwaves.psp.wa.gov/">LEARN MORE</a></div>  
 					
 					
 					<div class="white-links"></div>
