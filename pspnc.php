@@ -82,6 +82,20 @@
 
 <p>The Puget Sound Partnership selects the conservation projects to generate credits, tracks their progress, and reports on those projects. The Partnership sets the price for conservation credits, sells the credits, and assumes responsibility for the conservation work. The funded conservation projects will initially entail the removal of creosote-soaked pilings or piers. These projects are cost-effective and provide benefits for human health, water quality, shoreline habitat, forage fish, and the marine food web (with benefits to salmon and orcas). 
 </p>
+			<h2>The PSPNC program supports expedited regulatory compliance while conserving vital habitat</h2>
+			<p>Ensuring that adverse habitat effects from projects are fully offset by conservation activities secures habitat features that ESA-listed species need to thrive. That balancing of impacts with benefits, along with the standards the PSPNC program will adhere to, give the regulatory agencies the confidence they need to quickly analyze how construction projects will affect ESA-listed species.</p>
+
+<p>One of the other advantages of the marketplace is that it provides a method for restoration work to happen close to the permit site. Creosote-soaked piers and pilings are widespread throughout Puget Sound, so the conservation projects funded by the sale of credits through the PSPNC program will be located in the same area as the permitted project. 
+</p>
+			
+		<h2>The PSPNC provides conservation credits for obligations under Endangered Species Act consultations</h2>
+			<p>The Puget Sound Partnership provides conservation credits for obligations under Endangered Species Act (ESA) consultations. If other federal, local, or state agencies also require mitigation, and that mitigation was not already included in the conservation calculator, it is the applicant's responsibility to clarify with those agencies whether the conservation credits provided by the Puget Sound Partnership would meet those obligations. For example, Puget Sound Partnership Nearshore Credits may not be used to satisfy compensatory mitigation obligations under Section 404 of the Clean Water Act.</p>
+
+<p>The PSPNC is not a mitigation bank, or an in-lieu fee program. The PSPNC conservation credits cannot be used for Clean Water Act mitigation. 
+</p>
+			
+		<h2>The PSPNC program is the result of collaboration</h2>
+			<p>Environmental Science Associates (ESA) did foundational work for the Partnership with the PSPNC program and provided valuable thought leadership for the initiative. The Partnership gratefully acknowledges ESA’s work in scoping out the conservation credit functions for the PSPNC program.  </p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
