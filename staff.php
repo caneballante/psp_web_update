@@ -213,8 +213,9 @@
             <h5>Jenna Judge</h5>
             <p> Monitoring Lead for the Puget Sound Partnership and PSEMP<br/>
                 360.870.1467 | <a href="mailto:jenna.judge@psp.wa.gov">jenna.judge@psp.wa.gov</a><br></p>  
-            <h5>VACANT</h5>
-            <p> Network Monitoring Coordinator<br/></p>
+            <h5>Katrina Radach</h5>
+            <p> Network Monitoring Coordinator<br/>
+				360.764.0272 | <a href="mailto:katrina.radach@psp.wa.gov">katrina.radach@psp.wa.gov</a></p>
             <h5>Nathalie Hamel</h5>
             <p> Vital Signs Reporting Lead<br/>
                 360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
