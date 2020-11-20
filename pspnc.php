@@ -76,7 +76,7 @@
 </p>
 			
 			<h2>How the PSPNC program works</h2>
-			<p>When applicants seek federal permits for maintenance and development work that will adversely affect nearshore habitat, applicants can quantify those impacts using a conservation calculator developed by NOAA scientists and informed by input from other state and federal agencies.</p>
+			<p>When applicants seek federal permits for maintenance and development work that will adversely affect nearshore habitat, applicants can quantify those impacts using <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank">a conservation calculator developed by NOAA scientists</a> and informed by input from other state and federal agencies.</p>
 
 <p>To benefit from the expedited process through ESA regulations, the permit applicant can offset the habitat impacts with either on-site or off-site conservation or the purchase of sufficient conservation credits through the PSPNC program. Off-site restoration – whether conducted by the applicant or paid for by the purchase of conservation credits – ought to occur within the same regional service area as the permitted project and be quantified by the conservation calculator.</p> 
 
