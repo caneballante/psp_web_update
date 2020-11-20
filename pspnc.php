@@ -69,13 +69,19 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2>Nearshore ecosystems and the Puget Sound Partnership's </h2>
-			<p>The Puget Sound Partnership's <a href="https://pspwa.box.com/s/rm9jw5ievexxhs32hx3c3djvwbjok0ih" target="_blank">Strategic Plan 2020-2025</a> contains information about our vision, mission, roles, and outcomes, and our goals for 2022 and 2025 for improving effectiveness and accountability; strengthening the system of recovery; building the case for recovery and rallying support; and enhancing our internal performance.</p>
-			<p><br>
-			  <br>
-			  <br>
-			</p>
-			<h2>&nbsp;</h2>
+			<h2>Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits: A NOAA-approved conservation credit provider</h2>
+			<p>Puget Sound’s nearshore ecosystems are some of the most productive and biologically varied areas in the region, providing habitat for shellfish, salmon species, forage fish, invertebrates, and other wildlife. The nearshore is also where people fish from piers, launch boats from marinas, and build shipping terminals. The population growth in the Puget Sound region means that more people are using nearshore areas, and human needs must be balanced against the need to protect nearshore ecosystems.</p>
+
+<p>The Puget Sound Partnership is launching Puget Sound Partnership Nearshore Credits: a NOAA-approved conservation credit provider (PSPNC), with technical assistance from the National Marine Fisheries Service (NMFS), the U.S. Fish and Wildlife Service (USFWS), and other partners. The PSPNC program streamlines the permitting process for building residential or commercial in- and over-water structures and protects habitat for Endangered Species Act (ESA)-listed species within the nearshore ecosystem.  
+</p>
+			
+			<h2>How the PSPNC program works</h2>
+			<p>When applicants seek federal permits for maintenance and development work that will adversely affect nearshore habitat, applicants can quantify those impacts using a conservation calculator developed by NOAA scientists and informed by input from other state and federal agencies.</p>
+
+<p>To benefit from the expedited process through ESA regulations, the permit applicant can offset the habitat impacts with either on-site or off-site conservation or the purchase of sufficient conservation credits through the PSPNC program. Off-site restoration – whether conducted by the applicant or paid for by the purchase of conservation credits – ought to occur within the same regional service area as the permitted project and be quantified by the conservation calculator.</p> 
+
+<p>The Puget Sound Partnership selects the conservation projects to generate credits, tracks their progress, and reports on those projects. The Partnership sets the price for conservation credits, sells the credits, and assumes responsibility for the conservation work. The funded conservation projects will initially entail the removal of creosote-soaked pilings or piers. These projects are cost-effective and provide benefits for human health, water quality, shoreline habitat, forage fish, and the marine food web (with benefits to salmon and orcas). 
+</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
