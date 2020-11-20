@@ -38,7 +38,7 @@
             </div>
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
- 					<h1>Making Waves<br>
+					<h1><em>Making Waves</em><br>
 Stories from the people protecting<br>
 and recovering Puget Sound</h1>
  					<div class="learn-more-box"><a href="https://makingwaves.psp.wa.gov/">LEARN MORE</a></div>  
