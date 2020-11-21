@@ -89,7 +89,7 @@
 </p>
 			
 		<h2>The PSPNC provides conservation credits for obligations under Endangered Species Act Section 7 consultations</h2>
-			<p>The Puget Sound Partnership provides conservation credits for obligations under Endangered Species Act (ESA) consultations. If other federal, local, or state agencies also require mitigation, and that mitigation was not already included in the conservation calculator, it is the applicant's responsibility to clarify with those agencies whether the conservation credits provided by the Puget Sound Partnership would meet those obligations. For example, Puget Sound Partnership Nearshore Credits may not be used to satisfy compensatory mitigation obligations under Section 404 of the Clean Water Act.</p>
+			<p>The Puget Sound Partnership provides conservation credits for obligations under Endangered Species Act (ESA) Section 7 consultations. If other federal, local, or state agencies also require mitigation, and that mitigation was not already included in the conservation calculator, it is the applicant's responsibility to clarify with those agencies whether the conservation credits provided by the Puget Sound Partnership would meet those obligations. For example, Puget Sound Partnership Nearshore Credits may not be used to satisfy compensatory mitigation obligations under Section 404 of the Clean Water Act.</p>
 
 <p>The PSPNC is not a mitigation bank, or an in-lieu fee program. The PSPNC conservation credits cannot be used for Clean Water Act mitigation. 
 </p>
