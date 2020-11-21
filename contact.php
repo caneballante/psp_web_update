@@ -69,9 +69,7 @@
 			<p> Phone: 360.464.1232 </p>
 			<p> Email: <a href="mailto:info@psp.wa.gov">info@psp.wa.gov</a></p><br>
 			<?php include('includes/media_contact.html')?><br>
-			<h3>Main Office:</h3>
-			<p>Puget Sound Partnership
-			<p>326 East D Street, Tacoma, WA 98421</p>
+			
 			<h3>Olympia Office:</h3>
 			<p>Puget Sound Partnership<br>
 			1110 capitol way South, suite 255<br>
