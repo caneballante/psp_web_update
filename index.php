@@ -238,20 +238,6 @@ and recovering Puget Sound</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">NOV<br>
-			  19</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					Online<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->	
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
 				<div class="newsbox-date">DEC<br>
 			  10</div>
 				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
@@ -261,8 +247,8 @@ and recovering Puget Sound</h1>
 				<!--END news content-->
 			</div>
 		</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
+		<!--COLUMN END-->	
+		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
@@ -283,6 +269,20 @@ and recovering Puget Sound</h1>
 				<div class="newsbox-date">JAN<br>
 			  21</div>
 				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+					Online<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">JAN<br>
+			  28</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
 					Online<br>
 							</a><br>
 				</div>
