@@ -82,7 +82,7 @@
 
 <p>The Puget Sound Partnership selects the conservation projects to generate credits, tracks their progress, and reports on those projects. The Partnership sets the price for conservation credits, sells the credits, and assumes responsibility for the conservation work. The funded conservation projects will initially entail the removal of creosote-soaked pilings or piers. These projects are cost-effective and provide benefits for human health, water quality, shoreline habitat, forage fish, and the marine food web (with benefits to salmon and orcas). 
 </p>
-			<img class="img-responsive" src="images/pspnc-graphic.png" width="1920" height="742" alt=""/>
+			<img class="img-responsive" src="images/pspnc-graphic.png" width="1920" height="742" alt="infographic that shows the process steps for the Puget Sound Partnership Nearshore Credits program"/>
 			<h2>The PSPNC program supports expedited regulatory compliance while conserving vital habitat</h2>
 			<p>Ensuring that adverse habitat effects from projects are fully offset by conservation activities secures habitat features that ESA-listed species need to thrive. That balancing of impacts with benefits, along with the standards the PSPNC program will adhere to, give the regulatory agencies the confidence they need to quickly analyze how construction projects will affect ESA-listed species.</p>
 
