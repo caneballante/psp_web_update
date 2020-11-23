@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership Nearshore Credits: A NOAA-approved conservation credit provider</title>
+<title>Puget Sound Partnership Nearshore Credits: An Endangered Species Act conservation credit provider</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -51,7 +51,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Puget Sound Partnership Nearshore Credits:<br> A NOAA-approved conservation credit provider</h1>
+			<h1>Puget Sound Partnership Nearshore Credits:<br> An Endangered Species Act conservation credit provider</h1>
 			
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -69,10 +69,10 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2>Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits: A NOAA-approved conservation credit provider</h2>
+			<h2>Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits: An Endangered Species Act conservation credit provider</h2>
 			<p>Puget Sound’s <a href="https://www.fisheries.noaa.gov/feature-story/protecting-critical-value-nearshore-habitat" target="_blank">nearshore ecosystems are some of the most productive and biologically varied areas in the region</a>, providing habitat for shellfish, salmon species, forage fish, invertebrates, and other wildlife. The nearshore is also where people fish from piers, launch boats from marinas, and build shipping terminals. The population growth in the Puget Sound region means that more people are using nearshore areas, and human needs must be balanced against the need to protect nearshore ecosystems.</p>
 
-<p>The Puget Sound Partnership is launching Puget Sound Partnership Nearshore Credits: a NOAA-approved conservation credit provider (PSPNC), with technical assistance from the National Marine Fisheries Service (NMFS), the U.S. Fish and Wildlife Service (USFWS), and other partners. The PSPNC program streamlines the permitting process for building residential or commercial in- and over-water structures and protects habitat for Endangered Species Act (ESA)-listed species within the nearshore ecosystem.  
+<p>The Puget Sound Partnership is launching Puget Sound Partnership Nearshore Credits: Endangered Species Act conservation credit provider (PSPNC), with technical assistance from the National Marine Fisheries Service (NMFS), the U.S. Fish and Wildlife Service (USFWS), and other partners. The PSPNC program streamlines the permitting process for building residential or commercial in- and over-water structures and protects habitat for Endangered Species Act (ESA)-listed species within the nearshore ecosystem.  
 </p>
 			
 			<h2>How the PSPNC program works</h2>
@@ -85,7 +85,7 @@
 			<h2>The PSPNC program supports expedited regulatory compliance while conserving vital habitat</h2>
 			<p>Ensuring that adverse habitat effects from projects are fully offset by conservation activities secures habitat features that ESA-listed species need to thrive. That balancing of impacts with benefits, along with the standards the PSPNC program will adhere to, give the regulatory agencies the confidence they need to quickly analyze how construction projects will affect ESA-listed species.</p>
 
-<p>One of the other advantages of the marketplace is that it provides a method for restoration work to happen close to the permit site. Creosote-soaked piers and pilings are widespread throughout Puget Sound, so the conservation projects funded by the sale of credits through the PSPNC program will be located in the same area as the permitted project. 
+<p>One of the other advantages of this approach is that it provides a method for restoration work to happen close to the permit site. Creosote-soaked piers and pilings are widespread throughout Puget Sound, so the conservation projects funded by the sale of credits through the PSPNC program will be located in the same area as the permitted project. 
 </p>
 			
 		<h2>The PSPNC provides conservation credits for obligations under Endangered Species Act Section 7 consultations</h2>
