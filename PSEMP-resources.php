@@ -70,13 +70,13 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-lg-4">
-					<h3 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h3> 
-					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="214" height="160" alt=""/></a> 
-	 	 		    <p class="padding-10-left"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Click to download</a><br>
-					<a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new">Puget Sound Marine Waters 2018 Overview</a><br>
- 					<a href="https://pspwa.box.com/shared/static/gwv6px7756kedkaozgfxqwf06plz3vo5.pdf" target="new">Puget Sound Marine Waters 2018 Overview 508 Version</a></p></span>
+					<h3 class="margin-0-top">PUGET SOUND MARINE WATERS 2019 OVERVIEW</h3> 
+					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/waqlmtgc5je0kd7ag21mmfo92iv6r6y5.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2019.jpg" width="214" height="160" alt=""/></a> 
+	 	 		    <p class="padding-10-left"><a href="https://pspwa.box.com/shared/static/waqlmtgc5je0kd7ag21mmfo92iv6r6y5.pdf">Click to download</a><br>
+					<a href="https://pspwa.box.com/shared/static/waqlmtgc5je0kd7ag21mmfo92iv6r6y5.pdf" target="new">Puget Sound Marine Waters 2019 Overview</a><br>
+ 					</p></span>
 					<br>
-				    <p>This latest annual report details the effects of a changing climate on Puget Sound in 2018, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers. Produced by the Marine Waters PSEMP Work Group, they looked at several environmental indicators, including plankton, water quality, climate, and marine life, that, when considered together, provide both a long-term view and current assessment of the Sound&rsquo;s health.</p>
+				    <p>This latest annual report details the effects of a changing climate on Puget Sound in 2019, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers. Produced by the Marine Waters PSEMP Work Group, the report reveals patterns and trends in numerous environmental parameters, including plankton, water quality, climate, and marine life. The observations in this report collectively provide both a comprehensive long-term view and current assessment of the Puget Sound marine ecosystem. </p>
 					<p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
 				</div><!--end col-->
 				<div class="col-lg-4">
