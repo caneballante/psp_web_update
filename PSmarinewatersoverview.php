@@ -67,20 +67,20 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 
-  <span class="floatright padding-20-left no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="300" height="225" alt=""/></a> <br>
+  <span class="floatright padding-20-left no-icon"><a href="https://pspwa.box.com/shared/static/waqlmtgc5je0kd7ag21mmfo92iv6r6y5.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2019.jpg" width="300" height="225" alt=""/></a> <br>
 	 
 	  
   <p class="padding-10-left">Click on the image to download <br>
-    <a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new">Puget Sound Marine Waters 2018 Overview</a><br>
- <a href="https://pspwa.box.com/shared/static/gwv6px7756kedkaozgfxqwf06plz3vo5.pdf" target="new">Puget Sound Marine Waters 2018 Overview 508</a>
+    <a href="https://pspwa.box.com/shared/static/waqlmtgc5je0kd7ag21mmfo92iv6r6y5.pdf" target="new">Puget Sound Marine Waters 2019 Overview</a><br>
+ 
 	  </p></span>
 			
 			<br>
-			<p><strong>New Report: Puget Sound Marine Waters See Effect of Climate Change in 2018</strong></p>
-<p>A new report details the effects of a changing climate on Puget Sound in 2018, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers.  </p>
-            <p>Scientists observed unusually warm water temperatures, though not as hot as during the years of &ldquo;the Blob,&rdquo; the marine heatwave of 2014-2016. Salinity went up everywhere in the Puget Sound through the summer and fall, in response to the record-setting summer drought. Hypoxia (a lack of oxygen) was more apparent in 2018 than previous years, though no fish kills were reported. Scientists reported lower numbers of fish, seabirds, and marine mammals, including continuing declines in endangered Southern Resident killer whales.</p>
-            <p>The Puget Sound Ecosystem Monitoring Program&rsquo;s Marine Waters Work Group, who authored the report, has been tracking the health of Puget Sound since 2011. This work group includes scientists from federal, tribal, state and local agencies, academia, nonprofits, and private and volunteer groups. </p>
-            <p>The work group looked at several environmental indicators, including plankton, water quality, climate, and marine life, that, when considered together, provide both a long-term view and current assessment of the Sound&rsquo;s health. </p>
+			<p><strong>New Report: Puget Sound Marine Waters See Effect of Climate Change in 2019</strong></p>
+<p>A new report details the effects of a changing climate on Puget Sound in 2019, and documents how these changes moved through the ecosystem to affect marine life and seafood consumers. </p>
+            <p>Scientists observed unusually warm water temperatures in 2019, though not as warm as during the years of “the Blob” marine heatwave of 2014-2016. Salinity was generally higher than normal throughout the Puget Sound, corresponding with low rainfall and snowpack. Changes in surface water mixing and stratification also influenced phytoplankton bloom dynamics throughout the year.  Hypoxia (a lack of oxygen) was more apparent in 2019 than previous years, though no fish kills were reported. Rhinoceros auklet breeding effort and reproductive success returned to long-term average values. Otherwise, scientists reported lower numbers of fish, seabirds, and marine mammals, including continuing declines in endangered Southern Resident killer whales.</p>
+            <p>The Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, who authored the report, has been reporting metrics related to Puget Sound recovery since 2011. This work group includes scientists from federal, tribal, state and local agencies, academia, nonprofits, and private and volunteer groups. </p>
+            <p>The report reveals patterns and trends in numerous environmental parameters, including plankton, water quality, climate, and marine life. The observations in this report collectively provide both a comprehensive long-term view and current assessment of the Puget Sound marine ecosystem. </p>
 <P class="margin-0-top">&nbsp;</P>
 <p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
 			<!-- InstanceEndEditable --> </div>
