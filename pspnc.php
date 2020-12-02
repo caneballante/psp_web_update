@@ -62,14 +62,14 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/pspnc_contact.html';?>
+					
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2>Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits: An Endangered Species Act conservation credit provider</h2>
+			<h2 class="padding-0-top">Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits: An Endangered Species Act conservation credit provider</h2>
 			<p>Puget Sound’s <a href="https://www.fisheries.noaa.gov/feature-story/protecting-critical-value-nearshore-habitat" target="_blank">nearshore ecosystems are some of the most productive and biologically varied areas in the region</a>, providing habitat for shellfish, salmon species, forage fish, invertebrates, and other wildlife. The nearshore is also where people fish from piers, launch boats from marinas, and build shipping terminals. The population growth in the Puget Sound region means that more people are using nearshore areas, and human needs must be balanced against the need to protect nearshore ecosystems.</p>
 
 <p>The Puget Sound Partnership is launching Puget Sound Partnership Nearshore Credits: An Endangered Species Act conservation credit provider (PSPNC), with technical assistance from the National Marine Fisheries Service (NMFS), the U.S. Fish and Wildlife Service (USFWS), and other partners. The PSPNC program streamlines the permitting process for building residential or commercial in- and over-water structures and protects habitat for Endangered Species Act (ESA)-listed species within the nearshore ecosystem.  
@@ -101,7 +101,15 @@
 			
 			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> <?php include 'includes/pspnc_contact.html';?></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
