@@ -111,9 +111,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt="Photo of orcas swimming in the water"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2019.jpg"  alt="Image from the cover of the Puget Sound Marine Waters 2019 Overview report"/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a><br>
+						<a href="/PSmarinewatersoverview.php">Puget Sound Marine Waters 2019 Overview</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -121,6 +121,21 @@ and recovering Puget Sound</h1>
 				
 			</div>
 		    <!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt="Photo of orcas swimming in the water"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a><br>
+						<!--END news content BOX-->  
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -151,7 +166,7 @@ and recovering Puget Sound</h1>
 				
 			</div>
 		<!--COLUMN END-->
-			<!--COLUMN START-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -165,31 +180,15 @@ and recovering Puget Sound</h1>
 				</div>
 				
 			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2018.jpg"  alt=""/> 
-					<strong>ANNOUNCEMENT</strong><br>
-					  <a href="PSmarinewatersoverview.php">Puget Sound Marine Waters 2018 Overview
-				</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
 		<!--COLUMN END-->	
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/EPA.jpg"  alt=""/> 
-					<strong>ANNOUNCEMENT</strong><br>
-					  <a href="https://www.epa.gov/newsreleases/epa-announces-275-million-funding-puget-sound">EPA announces $27.5 million in funding for Puget Sound
+					  <img class="img-responsive img-rounded" src="images/news-images/HighwayNews.jpg"  alt=""/> 
+					<strong>BLOG</strong><br>
+					  <a href="https://medium.com/puget-sound-partnership/can-polluted-stormwater-affect-soil-health-87208625cae8">Can polluted stormwater affect soil health?
 				</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -203,10 +202,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSAR.jpg"  alt=""/> 
-					<strong>ANNOUNCEMENT</strong><br>
-					  <a href="https://pspwa.box.com/s/i2hvfn5cbbc40afmg03y91x5x5koqdlr">PSAR Large Capital Projects <br>
-				 RFP for 2021-2023 </a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/MarkSmithBlakeIsalndNews.jpg"  alt=""/> 
+					<strong>BLOG</strong><br>
+					  <a href="https://medium.com/puget-sound-partnership/situating-humans-in-ecosystem-recovery-the-human-dimensions-protocol-bf34e351392">Situating humans in ecosystem recovery: the Human Dimensions Protocol</a>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
