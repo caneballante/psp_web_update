@@ -1082,3 +1082,7 @@ p {
 .PSEMP-green {
 	color: #7C9A90;
 }
+.last-update {
+	font-size: 10px;
+	color: #737373;
+}
