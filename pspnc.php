@@ -51,7 +51,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Puget Sound Partnership Nearshore Credits:<br> An Endangered Species Act conservation credit provider</h1>
+			<h1>Puget Sound Partnership Nearshore Credits:<br></h1>
+			<h4> An Endangered Species Act conservation credit provider</h4>
 			
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
