@@ -98,6 +98,7 @@
 			
 		<h2>The PSPNC program is the result of collaboration</h2>
 			<p>Environmental Science Associates (ESA) did foundational work for the Partnership with the PSPNC program and provided valuable thought leadership for the initiative. The Partnership gratefully acknowledges ESA’s work in scoping out the conservation credit functions for the PSPNC program.  </p>
+			<p class="last-update">Last updated: 12/2/20</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
