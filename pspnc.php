@@ -81,7 +81,7 @@
 
 			<p>To benefit from the expedited process through ESA regulations, the permit applicant can offset the habitat impacts with either on-site or off-site conservation or the purchase of sufficient conservation credits through the PSPNC program. Off-site restoration – whether conducted by the applicant or paid for by the purchase of conservation credits – must occur within the same regional service area as the permitted project and be quantified by the conservation calculator.</p> 
 
-			<p>The Puget Sound Partnership selects the conservation projects to generate credits, tracks their progress, and reports on those projects. The Partnership sets the price for conservation credits, sells the credits, and assumes responsibility for the conservation work. The funded conservation projects will initially entail the removal of creosote-soaked pilings or piers. These projects are cost-effective and provide benefits for human health, water quality, shoreline habitat, forage fish, and the marine food web (with benefits to salmon and orcas). 
+			<p>The Puget Sound Partnership selects the conservation projects to generate credits, tracks their progress, and reports on those projects. The Partnership sets the price for conservation credits, sells the credits, and assumes responsibility for the conservation work. The funded conservation projects will initially entail the removal of creosote-soaked pilings or piers. These projects are cost-effective and provide benefits for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/1" target="_blank">human health</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/6" target="_blank">water quality</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/4" target="_blank">shoreline habitat</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/20" target="_blank">forage fish</a>, and the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/3" target="_blank">marine food web</a> (with benefits to salmon and orcas). 
 			</p>
 			<img class="img-responsive" src="images/pspnc-graphic.png" width="1920" height="742" alt="infographic that shows the process steps for the Puget Sound Partnership Nearshore Credits program"/>
 			<h2>The PSPNC program supports expedited regulatory compliance while conserving vital habitat</h2>
@@ -98,7 +98,7 @@
 			
 		<h2>The PSPNC program is the result of collaboration</h2>
 			<p>Environmental Science Associates (ESA) did foundational work for the Partnership with the PSPNC program and provided valuable thought leadership for the initiative. The Partnership gratefully acknowledges ESA’s work in scoping out the conservation credit functions for the PSPNC program.  </p>
-			<p class="last-update">Last updated: 12/2/20</p>
+			<p class="last-update">Last updated: 12/3/20</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
