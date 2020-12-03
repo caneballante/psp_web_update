@@ -69,7 +69,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="padding-0-top">Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits: An Endangered Species Act conservation credit provider</h2>
+			<h2 class="margin-0-top">Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits:</h2>
 			<p>Puget Sound’s <a href="https://www.fisheries.noaa.gov/feature-story/protecting-critical-value-nearshore-habitat" target="_blank">nearshore ecosystems are some of the most productive and biologically varied areas in the region</a>, providing habitat for shellfish, salmon species, forage fish, invertebrates, and other wildlife. The nearshore is also where people fish from piers, launch boats from marinas, and build shipping terminals. The population growth in the Puget Sound region means that more people are using nearshore areas, and human needs must be balanced against the need to protect nearshore ecosystems.</p>
 
 <p>The Puget Sound Partnership is launching Puget Sound Partnership Nearshore Credits: An Endangered Species Act conservation credit provider (PSPNC), with technical assistance from the National Marine Fisheries Service (NMFS), the U.S. Fish and Wildlife Service (USFWS), and other partners. The PSPNC program streamlines the permitting process for building residential or commercial in- and over-water structures and protects habitat for Endangered Species Act (ESA)-listed species within the nearshore ecosystem.  
@@ -88,7 +88,7 @@
 
 <p>One of the other advantages of this approach is that it provides a method for restoration work to happen close to the permit site. Creosote-soaked piers and pilings are widespread throughout Puget Sound, so the conservation projects funded by the sale of credits through the PSPNC program will be located in the same area as the permitted project. 
 </p>
-		<span class="floatright"><figure><img class="img-responsive" src="images/service-areas.jpg" width="309" height="384" alt="Graphic of service areas within Puget Sound"/><figcaption>Permitted nearshore work will be offset with conservation<br> projects in the same service area. Graphic from<br> Beechie et al., 2017, pg. 13.</figcaption></figure></span>	
+		<span class="floatright margin-20-left"><figure><img class="img-responsive margin-40-top" src="images/service-areas.jpg" width="309" height="384" alt="Graphic of service areas within Puget Sound"/><figcaption class="margin-20-bottom">Permitted nearshore work will be offset with conservation<br> projects in the same service area. Graphic from<br> Beechie et al., 2017, pg. 13.</figcaption></figure></span>	
 			
 		<h2>The PSPNC provides conservation credits for obligations under Endangered Species Act Section 7 consultations</h2>
 			<p>The Puget Sound Partnership provides conservation credits for obligations under Endangered Species Act (ESA) Section 7 consultations. If other federal, local, or state agencies also require mitigation, and that mitigation was not already included in the conservation calculator, it is the applicant's responsibility to clarify with those agencies whether the conservation credits provided by the Puget Sound Partnership would meet those obligations. For example, Puget Sound Partnership Nearshore Credits may not be used to satisfy compensatory mitigation obligations under Section 404 of the Clean Water Act.</p>
