@@ -108,6 +108,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"> <?php include 'includes/pspnc_contact.html';?></li>
+				<li class="active" role="presentation"><button><a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank">Puget Sound Nearshore Habitat Conservation Calculator</a></button></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
