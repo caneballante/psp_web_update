@@ -1,6 +1,22 @@
 {
 	"news-releases": 
     {	 
+		"release89": {
+			"date": "December 7, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2b01317'>Puget Sound Partnership's Science Panel to discuss Science Work Plan for 2020-2024</a>"
+		},
+		"release88": {
+			"date": "November 16, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2acc212'>Puget Sound Salmon Recovery Council to discuss 2021 legislative priorities</a>"
+		},
+		"release87": {
+			"date": "November 13, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2ac6255'>Puget Sound Partnership's Science Panel to discuss science work actions</a>"
+		},
+		"release86": {
+			"date": "October 23, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2a7581c'>Puget Sound Partnership's Ecosystem Coordination Board to discuss the Toxics in Fish Implementation Strategy</a>"
+		},
 		"release85": {
 			"date": "October 13, 2020",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2a5a42a'>Puget Sound Partnership's Science Panel to discuss the Science Work Plan</a>"
