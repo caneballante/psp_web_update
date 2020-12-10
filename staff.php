@@ -69,218 +69,217 @@
 			<!--EXECUTIVE TEAM-->
 		 <h1 class="margin-0-top">EXECUTIVE DIRECTOR'S OFFICE</h1>
             <h5>Laura Blackmore</h5>
-            <p>Executive Director<br />
-                Office 360.339.4627 | <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
+            			<p>Executive Director<br />
+               			 360.628.7707 | <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
             
-            <h5>Todd Hass</h5>
-            <p> Special Assistant to the Director<br />
-                360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br /></p>
-            
-            <h5>Denise Ross</h5>
-            <p> Executive Assistant<br />
-                360.464.1233 | <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></br></p>
-               
-    
-            <!--GOVERNMENTAL RELATIONS-->
-           <h3 class="padding-10-top">GOVERNMENTAL RELATIONS</h3>
-            <h5>Jeff Parsons</h5>
-            <p>Legislative Policy Director<br />
-                360.999.3803 | <a href="mailto:jeff.parson@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p>
-             
-            <!--EXTERNAL OPERATIONS-->
-             <h1 class="padding-20-top padding-20-bottom">EXTERNAL OPERATIONS DIVISION</h1>
-            <h5>Larry Epstein</h5>
-            <p> Deputy Director<br />
-                360.464.1228 | <a href="mailto:larry.epstein@psp.wa.gov">larry.epstein@psp.wa.gov</a></p>
-             <!--ADAPTIVE SYSTEMS-->
-            <h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
-            <h5>VACANT</h5>
-            <p> Adaptive Systems Manager<br /></p>
-            <h5>Jennifer Burke</h5>
-            <p>Data Systems/GIS Manager<br />
-                360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
-            <h5>Alex Mitchell</h5>
-            <p> Performance Management Analyst<br/>
-                360.706.3334 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a> </p> 
-            <h5>Wessyl Kelly</h5>
-            <p>Data Systems Support Specialist<br />
-	 		 360.529.6570 |<a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov </a></p>
-	
-	         <h5>Beihua Page</h5>
-            <p>Program Evaluation Analyst<br />
-	  		360.522.8340 | <a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov </a></p><strong></strong>
-              
-            <!--BOARDS PROGRAM-->
-            <h3 class="padding-10-top">BOARDS PROGRAM</h3>
-            <h5>Tristan Contesse</h5>
-            <p> Boards Program Manager<br />
-                360.584.5328 | <a href="mailto:tristan.contesse@psp.wa.gov">tristan.contesse@psp.wa.gov</a> </p>
-            <h5>Anna Petersen</h5>
-            <p> Special Assistant to the Boards<br />
-                360.338.2384 | <a href="mailto:anna.petersen@psp.wa.gov">anna.petersen@psp.wa.gov</a></p>
-            <h5>Jillian Reitz</h5>
-            <p> Boards Policy Specialist<br />
-                360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p>
-            
-            <h5>Ahren Stroming</h5>
-            <p>Special Projects Assistant<br />
-           		360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
-             <!--COMMUNICATIONS--> 
-            <h3 class="padding-10-top">COMMUNICATIONS PROGRAM</h3>
-            <h5>Jon Bridgman</h5>
-            <p>Communications Manager<br />
-                206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov </a></p>
-            <h5>Kevin Hyde</h5>
-            <p> Communications Specialist <br>
-			360.819.3045 | <a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov </a></p>
-			<h5>Chase Nuuhiwa</h5>
-			<p>Visual Communications Lead<br>
-			   360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
-            <!--PLANNING TEAM-->
-			<h2>INTEGRATED PLANNING PROGRAM</h2>
-			<h5>Setphanie Suter</h5>
-			<p>Planning Program Director<br>
-			360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov</a></p>
-          <h3 class="padding-10-top">PLANNING TEAM</h3>
-            <h5>Dan Stonington</h5>
-	<p>Planning Manager<br />
-	360.764.0164 | <a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a></p>
-           
-            <h5>Mike Johnson</h5>
-            <p>Environmental Planner and Implementation Strategies Lead<br />
-                360.688.4049 | <a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov </a></p>
-            <h5>Don Gourlie</h5>
-            <p>Environmental Planner<br />
-                360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov </a> </p>
-            <h5>Kaitlin Harris</h5>
-            <p>Environmental Planner (Project)<br />
-                360.485.2117 | <a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov </a> </p>
-            <!--ECOSYSTEM RECOVERY TEAM-->
-            <h3 class="padding-10-top">ECOSYSTEM RECOVERY TEAM</h3>
-            <h5>Carrie Byron </h5>
-            <p>PSAR Program Manager<br />
-                360.515.6054 | <a href="mailto:carrie.byron@psp.wa.gov">carrie.byron@psp.wa.gov </a></p>
-           
-            <h5>Dan Calvert</h5>
-            <p>Senior Ecosystem Recovery Coordinator<br>
-                <em>Puyallup &amp; Chambers, Nisqually, WRIA 13 and 14</em><br />
-                360.789.3165 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov </a></p>
-    
-            <h5>Alexandra Doty</h5>
-            <p>Ecosystem Recovery Coordinator<br>
-                <em>South Central LIO, Lake Washington/Cedar/Sammamish (WRIA 8), Green/Duwamish (Wria 9)</em><br />
-                360.280.6664 | <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov </a></p>        
-    
-            <h5>Laura (Ferguson) Rivas</h5>
-            <p>Ecosystem Recovery Coordinator<br>
-                <em>San Juan Islands and Island County</em><br />
-                360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
-    
-            <h5>Kristin Hayman</h5>
-            <p>Project Coordinator<br>
-                360.480.0475 | <a href="mailto:kristin.hayman@psp.wa.gov">kristin.hayman@psp.wa.gov </a></p>
-    
-            <h5>Leah Kintner</h5>
-            <p>Ecosystem Recovery Manager<br>
-                360.480.2880 | <a href="mailto:leah.kintner@psp.wa.gov">leah.kintner@psp.wa.gov </a></p>
-    
-            <h5>Amber Moore</h5>
-            <p>Salmon Recovery Manager<br />
-                360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov </a></p>
-           
-            <h5>Erin Murray</h5>
-            <p>Ecosystem Recovery Coordinator<br>
-                <em>Skagit/Samish, Snohomish/Stillaguamish</em><br />
-                360.819.0420 | <a href="mailto:erin.murray@psp.wa.gov">erin.murray@psp.wa.gov </a></p>
-            
-            <h5>Erin Ryan-PeÑuela</h5>
-            <p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br/>
-                <em>Hood Canal, Straits, North Olympic Peninsula </em> <br/>
-                360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a></p>
-    
-            <h5>Rebecca Hollender</h5>
-            <p> Ecosystem Recovery Coordinator<br/>
-                360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
-    
-            <!--SCIENCE AND EVALUATION-->
-            <h2>SCIENCE AND EVALUATION</h2>
-            <h5>Scott Redman</h5>
-            <p> Program Director<br />
-                360.464.1230 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
-            <h5>Katherine Wyatt</h5>
-            <p>Assistant Science Director<br />
-			360.918.1098 | <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></p>
-            <h5>Jenna Judge</h5>
-            <p> Monitoring Lead<br/>
-                360.870.1467 | <a href="mailto:jenna.judge@psp.wa.gov">jenna.judge@psp.wa.gov</a><br></p>  
-            <h5>Katrina Radach</h5>
-            <p> Monitoring Network Coordinator<br/>
-				360.764.0272 | <a href="mailto:katrina.radach@psp.wa.gov">katrina.radach@psp.wa.gov</a></p>
-            <h5>Nathalie Hamel</h5>
-            <p> Vital Signs Reporting Lead<br/>
-                360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
-           
-            
-            <h5>Mary Ramirez</h5>
-            <p> Vital Signs Reporting Co-Lead<br>
-                360.764.6149 | <a href="mailto:mary.ramirez">mary.ramirez@psp.wa.gov</a></p>
-            <h5>Elene Trujillo</h5>
-            <p> Monitoring Performance Analyst <br>
-                360.819.6018 | <a href="mailto:elene.trujillo@psp.wa.gov">elene.trujillo@psp.wa.gov</a></p>
-			<h5>Andres Sheikh</h5>
-			<p> Sea Grant Keystone Fellow<br>
-			    360.706.4566 | <a href="mailto:andres.sheikh@psp.wa.gov">andres.sheikh@psp.wa.gov</a></p>
-           
-            <!--INTERNAL OPERATIONS-->
-          <h1 class="padding-20-top padding-20-bottom">INTERNAL OPERATIONS DIVISION</h1>
-            <h5>Brent Barnes</h5>
-            <p>Chief Operating Officer<br />
-                Office 360.339.5861 | mobile: 360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a> </p>
-            <!--ADMINISTRATIVE SUPPORT-->
-            <h3 class="padding-10-top">Administrative Support Team</h3>
-             <h5>Charisse Sonnier</h5>
-            <p>Administrative Supervisor<br />
-                360.339.8946 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a><br /></p>
-			<h5>JUSTINE SODERLIND</h5>
-            <p> Administrative Assistant<br />
-             desk: 360.464.1232 | mobile: 360.701.1768 | <a href="mailto:justine.soderlind@psp.wa.gov">justine.soderlind@psp.wa.gov</a> </p>
-            <h5>Ami Hollingsworth</h5>
-            <p>Administrative Assistant<br />
-                desk: 360.464.1218 | mobile: 360.867.8647 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
-            </p>
-            <!--EPA PROGRAM-->
-            <h3 class="padding-10-top">EPA PROGRAM</h3>
-            <h5>Jennifer Grimm</h5>
-            <p> EPA Grants Coordinator<br />
-               360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
-            <!--FISCAL PROGRAM-->
-            <h3 class="padding-10-top">FISCAL PROGRAM</h3>
-            <h5>Diamatris Winston</h5>
-            <p>Fiscal Division Manager<br />
-                desk: 360.464.1231 | mobile: 360.867.8234 |<a href="mailto:diamatris.winston@psp.wa.gov">diamatris.winston@psp.wa.gov </a></p>
-            <h5>VACANT</h5>
-            <p>Accounting and Budget Program Manager<br /></p>
-            <h5>Arjean Travis</h5>
-            <p> Grants, Contracts, and Compliance Manager<br />
-                desk: 360.464.2001 | mobile: 360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
-            <h5>CHARLES MESSER</h5>
-            <p>Fiscal Program and Contract Coordinator<br />
-                360.701.0234 | <a href="mailto:charles.messer@psp.wa.gov">charles.messer@psp.wa.gov </a> </p>
-            <h5>Phan Doan</h5>
-            <p>Fiscal Analyst<br />
-                desk: 360.464.2004 | mobile: 360.742.4307 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov </a></p>
-            <!--IT-->        
-           <h3 class="padding-10-top">IT TEAM</h3>
-            <h5>Greg Tudor</h5>
-            <p> CIO/IT Manager<br />
-                360.902.3018 | <a href="mailto:greg.tudor@psp.wa.gov">greg.tudor@psp.wa.gov</a></p>
-            <h5>Eric Green</h5>
-            <p>IT Specialist<br />
-                253.666.6288 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov</a></p>
-            <h5>Justine Sharp</h5>
-            <p>IT Specialist<br />
-                360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 11/25/20</p>
+						<h5>Todd Hass</h5>
+						<p> Special Assistant to the Director<br />
+							360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br /></p>
+
+						<h5>Denise Ross</h5>
+						<p> Executive Assistant<br />
+							360.819.0208 | <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></br></p>
+
+						<!--GOVERNMENTAL RELATIONS-->
+						<h3 class="padding-10-top">GOVERNMENTAL RELATIONS</h3>
+						<h5>Jeff Parsons</h5>
+						<p>Legislative Policy Director<br />
+							360.999.3803 | <a href="mailto:jeff.parson@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p> 
+						<!--EXTERNAL OPERATIONS-->
+						<h1 class="padding-20-top padding-20-bottom">EXTERNAL OPERATIONS DIVISION</h1>
+						<h5>Larry Epstein</h5>
+						<p> Deputy Director<br />
+							360.480.0487 | <a href="mailto:larry.epstein@psp.wa.gov">larry.epstein@psp.wa.gov</a></p>
+						 <!--ADAPTIVE SYSTEMS-->
+						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
+						<h5>VACANT</h5>
+						<p> Adaptive Systems Manager<br /></p>
+						<h5>Jennifer Burke</h5>
+						<p>Data Systems/GIS Manager<br />
+							360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
+						<h5>Alex Mitchell</h5>
+						<p> Performance Management Analyst<br/>
+							360.706.3334 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a> </p> 
+						<h5>Wessyl Kelly</h5>
+						<p>Data Systems Support Specialist<br />
+						 360.529.6570 |<a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov </a></p>
+
+						 <h5>Beihua Page</h5>
+						<p>Program Evaluation Analyst<br />
+						360.522.8340 | <a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov </a></p><strong></strong>
+
+						<!--BOARDS PROGRAM-->
+						<h3 class="padding-10-top">BOARDS PROGRAM</h3>
+						<h5>Tristan Contesse</h5>
+						<p> Boards Program Manager<br />
+							360.584.5328 | <a href="mailto:tristan.contesse@psp.wa.gov">tristan.contesse@psp.wa.gov</a> </p>
+						<h5>Anna Petersen</h5>
+						<p> Special Assistant to the Boards<br />
+							Office 360.338.2384 | <a href="mailto:anna.petersen@psp.wa.gov">anna.petersen@psp.wa.gov</a></p>
+						<h5>Jillian Reitz</h5>
+						<p> Boards Policy Specialist<br />
+							360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p>
+
+						<h5>Ahren Stroming</h5>
+						<p>Special Projects Assistant<br />
+							360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
+						 <!--COMMUNICATIONS--> 
+						<h3 class="padding-10-top">COMMUNICATIONS PROGRAM</h3>
+						<h5>Jon Bridgman</h5>
+						<p>Communications Manager<br />
+							206.276.5309 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov </a></p>
+						<h5>Kevin Hyde</h5>
+						<p> Communications Specialist <br>
+						360.819.3045 | <a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov </a></p>
+						<h5>Chase Nuuhiwa</h5>
+						<p>Visual Communications Lead<br>
+						360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
+						<!--INTEGRATED PLANNING TEAM-->
+						<h2>INTEGRATED PLANNING PROGRAM</h2>
+						<h5>Stephanie Suter</h5>
+						<p>Planning Program Director <br />
+							360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov </a></p>
+						<!--PLANNING TEAM-->
+						<h3 class="padding-10-top">PLANNING TEAM</h3>
+						<h5>Dan Stonington</h5>
+						<p>Planning Manager<br />
+							360.764.0164 | <a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a></p>
+
+						<h5>Mike Johnson</h5>
+						<p>Environmental Planner and Implementation Strategies Lead<br />
+							360.688.4049 | <a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov </a></p>
+						<h5>Don Gourlie</h5>
+						<p>Environmental Planner<br />
+							360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov </a> </p>
+						<h5>Kaitlin Harris</h5>
+						<p>Environmental Planner (Project)<br />
+							360.480.0787 | <a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov </a> </p>
+						<!--ECOSYSTEM RECOVERY TEAM-->
+						<h3 class="padding-10-top">ECOSYSTEM RECOVERY TEAM</h3>
+						<h5>Carrie Byron </h5>
+						<p>PSAR Program Manager<br />
+							360.515.6054 | <a href="mailto:carrie.byron@psp.wa.gov">carrie.byron@psp.wa.gov </a></p>
+
+						<h5>Dan Calvert</h5>
+						<p>Senior Ecosystem Recovery Coordinator<br>
+							<em>Puyallup &amp; Chambers, Nisqually, WRIA 13 and 14</em><br />
+							360.789.3165 | <a href="mailto:dan.calvert@psp.wa.gov">dan.calvert@psp.wa.gov </a></p>
+
+						<h5>Alexandra Doty</h5>
+						<p>Ecosystem Recovery Coordinator<br>
+							<em>South Central LIO, Lake Washington/Cedar/Sammamish (WRIA 8), Green/Duwamish (Wria 9)</em><br />
+							360.280.6664 | <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov </a></p>        
+
+						<h5>Laura (Ferguson) Rivas</h5>
+						<p>Ecosystem Recovery Coordinator<br>
+							<em>San Juan Islands and Island County</em><br />
+							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
+
+						<h5>Kristin Hayman</h5>
+						<p>Project Coordinator<br>
+							360.480.0475 | <a href="mailto:kristin.hayman@psp.wa.gov">kristin.hayman@psp.wa.gov </a></p>
+
+						<h5>Leah Kintner</h5>
+						<p>Ecosystem Recovery Manager<br>
+							360.480.2880 | <a href="mailto:leah.kintner@psp.wa.gov">leah.kintner@psp.wa.gov </a></p>
+
+						<h5>Amber Moore</h5>
+						<p>Salmon Recovery Manager<br />
+							360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov </a></p>
+
+						<h5>Erin Murray</h5>
+						<p>Ecosystem Recovery Coordinator<br>
+							<em>Skagit/Samish, Snohomish/Stillaguamish</em><br />
+							360.819.0420 | <a href="mailto:erin.murray@psp.wa.gov">erin.murray@psp.wa.gov </a></p>
+
+						<h5>Erin Ryan-Peñuela</h5>
+						<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br/>
+							<em>Hood Canal, Straits, North Olympic Peninsula </em> <br/>
+							360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a></p>
+
+						<h5>Rebecca Hollender</h5>
+						<p> Ecosystem Recovery Coordinator<br/>
+							360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
+
+						<!--SCIENCE AND EVALUATION-->
+						<h2>SCIENCE AND EVALUATION</h2>
+						<h5>Scott Redman</h5>
+						<p> Program Director<br />
+							360.791.2879 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
+						<h5>Katherine Wyatt</h5>
+						<p>Assistant Science Director<br />
+						360.918.1098 | <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></p>
+						<h5>Jenna Judge</h5>
+						<p> Monitoring Lead<br/>
+							360.870.1467 | <a href="mailto:jenna.judge@psp.wa.gov">jenna.judge@psp.wa.gov</a><br></p>  
+						<h5>Katrina Radach</h5>
+						<p> Monitoring Network Coordinator<br/>
+							360.764.0272 | <a href="mailto:katrina.radach@psp.wa.gov">katrina.radach@psp.wa.gov</a></p>
+						<h5>Nathalie Hamel</h5>
+						<p> Vital Signs Reporting Lead<br/>
+							360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
+
+
+						<h5>Mary Ramirez</h5>
+						<p> Vital Signs Reporting Co-Lead<br>
+							360.764.6149 | <a href="mailto:mary.ramirez">mary.ramirez@psp.wa.gov</a></p>
+						<h5>Elene Trujillo</h5>
+						<p> Monitoring Performance Analyst <br>
+							360.819.6018 | <a href="mailto:elene.trujillo@psp.wa.gov">elene.trujillo@psp.wa.gov</a></p>
+						<h5>Andres Sheikh</h5>
+						<p> Sea Grant Keystone Fellow <br>
+							360.706.4566 | <a href="mailto:andres.sheikh@psp.wa.gov">andres.sheikh@psp.wa.gov</a></p>
+
+						<!--INTERNAL OPERATIONS-->
+						<h1 class="padding-20-top padding-20-bottom">INTERNAL OPERATIONS DIVISION</h1>
+						<h5>Brent Barnes</h5>
+						<p>Chief Operating Officer<br />
+							360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a> </p>
+						<!--ADMINISTRATIVE SUPPORT-->
+						<h3 class="padding-10-top">Administrative Support Team</h3>
+						 <h5>Charisse Sonnier</h5>
+						<p>Administrative Supervisor<br />
+							360.819.6869 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a><br /></p>
+						<h5>Justine Soderlind</h5>
+						<p> Administrative Assistant<br />
+						 desk: 360.464.1232 | mobile: 360.701.1768 | <a href="mailto:justine.soderlind@psp.wa.gov">justine.soderlind@psp.wa.gov</a> </p>
+						<h5>Ami Hollingsworth</h5>
+						<p>Administrative Assistant<br />
+							360.867.8647 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
+						</p>
+						<!--EPA PROGRAM-->
+						<h3 class="padding-10-top">EPA PROGRAM</h3>
+						<h5>Jennifer Grimm</h5>
+						<p> EPA Grants Coordinator<br />
+						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
+						<!--FISCAL PROGRAM-->
+						<h3 class="padding-10-top">FISCAL PROGRAM</h3>
+						<h5>Diamatris Winston</h5>
+						<p>Fiscal Division Manager<br />
+							360.867.8234 | <a href="mailto:diamatris.winston@psp.wa.gov">diamatris.winston@psp.wa.gov </a></p>
+						<h5>VACANT</h5>
+						<p>Accounting and Budget Program Manager<br /></p>
+						<h5>Arjean Travis</h5>
+						<p> Grants, Contracts, and Compliance Manager<br />
+							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
+						<h5>Charles Messer</h5>
+						<p>Fiscal Program and Contract Coordinator<br />
+							360.701.0234 | <a href="mailto:charles.messer@psp.wa.gov">charles.messer@psp.wa.gov </a> </p>
+						<h5>Phan Doan</h5>
+						<p>Fiscal Analyst<br />
+							360.742.4307 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov </a></p>
+						<!--IT-->        
+						<h3 class="padding-10-top">IT TEAM</h3>
+						<h5>Greg Tudor</h5>
+						<p> CIO/IT Manager<br />
+							360.902.3018 | <a href="mailto:greg.tudor@psp.wa.gov">greg.tudor@psp.wa.gov</a></p>
+						<h5>Eric Green</h5>
+						<p>IT Specialist<br />
+							360.628.7412 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov</a></p>
+						<h5>Justine Sharp</h5>
+						<p>IT Specialist<br />
+							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
+	<p class="last-update">Last updated: 12/10/20</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
