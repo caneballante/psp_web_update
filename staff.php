@@ -115,7 +115,7 @@
 							360.584.5328 | <a href="mailto:tristan.contesse@psp.wa.gov">tristan.contesse@psp.wa.gov</a> </p>
 						<h5>Anna Petersen</h5>
 						<p> Special Assistant to the Boards<br />
-							Office 360.338.2384 | <a href="mailto:anna.petersen@psp.wa.gov">anna.petersen@psp.wa.gov</a></p>
+							360.338.2384 | <a href="mailto:anna.petersen@psp.wa.gov">anna.petersen@psp.wa.gov</a></p>
 						<h5>Jillian Reitz</h5>
 						<p> Boards Policy Specialist<br />
 							360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p>
