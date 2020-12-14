@@ -70,35 +70,35 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits:</h2>
+			<h2 class="margin-0-top">Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits Program:</h2>
 			<p>Puget Sound’s <a href="https://www.fisheries.noaa.gov/feature-story/protecting-critical-value-nearshore-habitat" target="_blank">nearshore ecosystems are some of the most productive and biologically varied areas in the region</a>, providing habitat for shellfish, salmon species, forage fish, invertebrates, and other wildlife. The nearshore is also where people fish from piers, launch boats from marinas, and build shipping terminals. The population growth in the Puget Sound region means that more people are using nearshore areas, and human needs must be balanced against the need to protect nearshore ecosystems.</p>
 
-<p>The Puget Sound Partnership is launching Puget Sound Partnership Nearshore Credits: An Endangered Species Act conservation credit provider (PSPNC), with technical assistance from the National Marine Fisheries Service (NMFS), the U.S. Fish and Wildlife Service (USFWS), and other partners. The PSPNC program streamlines the permitting process for building residential or commercial in- and over-water structures and protects habitat for Endangered Species Act (ESA)-listed species within the nearshore ecosystem.  
+<p>The Puget Sound Partnership is launching Puget Sound Partnership Nearshore Credits: An Endangered Species Act conservation credit provider (Partnership Nearshore Credits program), with technical assistance from the National Marine Fisheries Service (NMFS), the U.S. Fish and Wildlife Service (USFWS), and other partners. The Partnership Nearshore Credits program streamlines the permitting process for building residential or commercial in- and over-water structures and protects habitat for Endangered Species Act (ESA)-listed species within the nearshore ecosystem.  
 </p>
 			
-			<h2>How the PSPNC program works</h2>
+			<h2>How the Partnership Nearshore Credits program works</h2>
 			<p>When applicants seek federal permits for maintenance and development work that will adversely affect nearshore habitat, applicants can quantify those impacts using <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank">a conservation calculator developed by NOAA scientists</a> and informed by input from other state and federal agencies.</p>
 
-			<p>To benefit from the expedited process through ESA regulations, the permit applicant can offset the habitat impacts with either on-site or off-site conservation or the purchase of sufficient conservation credits through the PSPNC program. Off-site restoration – whether conducted by the applicant or paid for by the purchase of conservation credits – must occur within the same regional service area as the permitted project and be quantified by the conservation calculator.</p> 
+			<p>To benefit from the expedited process through ESA regulations, the permit applicant can offset the habitat impacts with either on-site or off-site conservation or the purchase of sufficient conservation credits through the Partnership Nearshore Credits program. Off-site restoration – whether conducted by the applicant or paid for by the purchase of conservation credits – must occur within the same regional service area as the permitted project and be quantified by the conservation calculator.</p> 
 
 			<p>The Puget Sound Partnership selects the conservation projects to generate credits, tracks their progress, and reports on those projects. The Partnership sets the price for conservation credits, sells the credits, and assumes responsibility for the conservation work. The funded conservation projects will initially entail the removal of creosote-soaked pilings or piers. These projects are cost-effective and provide benefits for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/1" target="_blank">human health</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/6" target="_blank">water quality</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/4" target="_blank">shoreline habitat</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/20" target="_blank">forage fish</a>, and the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/3" target="_blank">marine food web</a> (with benefits to salmon and orcas). 
 			</p>
 			<img class="img-responsive" src="images/pspnc-graphic.png" width="1920" height="742" alt="infographic that shows the process steps for the Puget Sound Partnership Nearshore Credits program"/>
-			<h2>The PSPNC program supports expedited regulatory compliance while conserving vital habitat</h2>
-			<p>Ensuring that adverse habitat effects from projects are fully offset by conservation activities secures habitat features that ESA-listed species need to thrive. That balancing of impacts with benefits, along with the standards the PSPNC program will adhere to, give the regulatory agencies the confidence they need to quickly analyze how construction projects will affect ESA-listed species.</p>
+			<h2>The Partnership Nearshore Credits program supports expedited regulatory compliance while conserving vital habitat</h2>
+			<p>Ensuring that adverse habitat effects from projects are fully offset by conservation activities secures habitat features that ESA-listed species need to thrive. That balancing of impacts with benefits, along with the standards the Partnership Nearshore Credits program will adhere to, give the regulatory agencies the confidence they need to quickly analyze how construction projects will affect ESA-listed species.</p>
 
-<p>One of the other advantages of this approach is that it provides a method for restoration work to happen close to the permit site. Creosote-soaked piers and pilings are widespread throughout Puget Sound, so the conservation projects funded by the sale of credits through the PSPNC program will be located in the same area as the permitted project. 
+<p>One of the other advantages of this approach is that it provides a method for restoration work to happen close to the permit site. Creosote-soaked piers and pilings are widespread throughout Puget Sound, so the conservation projects funded by the sale of credits through the Partnership Nearshore Credits program will be located in the same area as the permitted project. 
 </p>
 		<span class="floatright margin-20-left"><figure><img class="img-responsive margin-40-top" src="images/service-areas.jpg" width="309" height="384" alt="Graphic of service areas within Puget Sound"/><figcaption class="margin-20-bottom">Permitted nearshore work will be offset with conservation<br> projects in the same service area. Graphic from<br> Beechie et al.,(2017). "Monitoring Salmon Habitat Status<br> and Trends in Puget Sound: Development of Sample Designs,<br> Monitoring Metrics, and Sampling Protocols for Large River,<br> Floodplain, Delta, and Nearshore Environments." </figcaption></figure></span>	
 			
-		<h2>The PSPNC provides conservation credits for obligations under Endangered Species Act Section 7 consultations</h2>
+		<h2>The Partnership Nearshore Credits program provides conservation credits for obligations under Endangered Species Act Section 7 consultations</h2>
 			<p>The Puget Sound Partnership provides conservation credits for obligations under Endangered Species Act (ESA) Section 7 consultations. If other federal, local, or state agencies also require mitigation, and that mitigation was not already included in the conservation calculator, it is the applicant's responsibility to clarify with those agencies whether the conservation credits provided by the Puget Sound Partnership would meet those obligations. For example, Puget Sound Partnership Nearshore Credits may not be used to satisfy compensatory mitigation obligations under Section 404 of the Clean Water Act.</p>
 
-<p>The PSPNC is not a mitigation bank, or an in-lieu fee program.</p>
+<p>The Partnership Nearshore Credits program is not a mitigation bank, or an in-lieu fee program.</p>
 			
-		<h2>The PSPNC program is the result of collaboration</h2>
-			<p>Environmental Science Associates (ESA) did foundational work for the Partnership with the PSPNC program and provided valuable thought leadership for the initiative. The Partnership gratefully acknowledges ESA’s work in scoping out the conservation credit functions for the PSPNC program.  </p>
-			<p class="last-update">Last updated: 12/8/20</p>
+		<h2>The Partnership Nearshore Credits program is the result of collaboration</h2>
+			<p>Environmental Science Associates (ESA) did foundational work for the Partnership with the Partnership Nearshore Credits program and provided valuable thought leadership for the initiative. The Partnership gratefully acknowledges ESA’s work in scoping out the conservation credit functions for the Partnership Nearshore Credits program.  </p>
+			<p class="last-update">Last updated: 12/11/20</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
