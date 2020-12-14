@@ -59,48 +59,55 @@ and recovering Puget Sound</h1>
 </div>
 <div class="container padding-40-bottom" id="home-squares">
 	<div class="row"> 
-		<!--non breaking spaces keep the links from breaking into two lines-->
-		<div class="col-sm-3 padding-40-top"><img src="images/home_roadmap.png" width="264" height="264" alt="satellite view of the Salish Sea" class="img-responsive img-rounded"/></div>
+		<div class="col-sm-3 padding-40-top">
+			<img src="images/home_roadmap.png" width="264" height="264" alt="satellite view of the Salish Sea" class="img-responsive img-rounded"/>
+		</div>
 		<div class="col-sm-3 padding-10-top">
 			<h1>CHARTING THE COURSE TO RECOVERY</h1>
 			<div class="padding-5-bottom"><a href="action_agenda_center.php"> 2018-2022 ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
-			<div class="padding-5-bottom"><span class="new-red">NEW</span><a href="2022AAupdate.php"> 2022-2026 ACTION AGENDA UPDATE</a></div>
+			<div class="padding-5-bottom"><a href="2022AAupdate.php"> 2022-2026 ACTION AGENDA UPDATE</a></div>
 			<div class="padding-5-bottom"><a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
 			<div class="padding-5-bottom"><a href="science-adaptive-management-framework.php">RESULTS-BASED MANAGEMENT</a></div>
 		</div>
-		<div class="col-sm-3 padding-40-top"><img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive img-rounded"/></div>
+		<div class="col-sm-3 padding-40-top">
+			<img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive img-rounded"/>
+		</div>
 		<div class="col-sm-3 padding-10-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>
 			<div class="padding-5-bottom"><a href="PSAR.php">PUGET SOUND ACQUISITION AND RESTORATION(PSAR)&nbsp;FUND</a></div>
 			<div class="padding-5-bottom"><a href="NEP-overview.php">NATIONAL ESTUARY PROGRAM (NEP)</a></div>
-			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY&nbsp;&amp;&nbsp;LOCAL&nbsp;INTEGRATING ORGANIZATIONS&nbsp;(LIOs)
-</a></div>
-	</div>
+			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL&nbsp;RECOVERY&nbsp;&amp;&nbsp;LOCAL&nbsp;INTEGRATING ORGANIZATIONS&nbsp;(LIOs)</a></div>
+			<div><a href="pspnc.php">PUGET SOUND PARTNERSHIP NEARSHORE CREDITS</a></div>
+		</div>
+	</div><!-- end row -->
 	<div class="row">
-		<div class="col-sm-3 padding-40-top"><img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive img-rounded"/></div>
-		<div class="col-sm-3 padding-10-top">
-			<h1>MEASURING RECOVERY</h1>
-			<div class="padding-5-bottom"><a href="https://www.pugetsoundinfo.wa.gov">PUGET SOUND INFO</a></div>
-			<div class="padding-5-bottom"><a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING ACTIONS TO RECOVER PUGET SOUND</a></div>
-			
-			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">VITAL&nbsp;SIGNS</a></div>
-			<div class="padding-5-bottom"><a href="https://www.stateofthesound.wa.gov">STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
-			<div class="padding-5-bottom"><a href="/PSEMP-overview.php">ECOSYSTEM&nbsp;MONITORING (PSEMP)</a> </div>
-			<a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND EVALUATION&nbsp;OVERVIEW</a></div>
-		<div class="col-sm-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive img-rounded"/></div>
-		<div class="col-sm-3 padding-10-top">
+		<div class="col-sm-3 padding-40-top">
+			<img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive img-rounded"/>
+		</div>
+			<div class="col-sm-3 padding-10-top">
+				<h1>MEASURING RECOVERY</h1>
+				<div class="padding-5-bottom"><a href="https://www.pugetsoundinfo.wa.gov">PUGET SOUND INFO</a></div>
+				<div class="padding-5-bottom"><a href="evaluating-actions-to-recover-puget-sound.php">EVALUATING ACTIONS TO RECOVER PUGET SOUND</a></div>
+				<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">VITAL&nbsp;SIGNS</a></div>
+				<div class="padding-5-bottom"><a href="https://www.stateofthesound.wa.gov">STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
+				<div class="padding-5-bottom"><a href="/PSEMP-overview.php">ECOSYSTEM&nbsp;MONITORING (PSEMP)</a> </div>
+				<div class="padding-5-bottom"><a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND EVALUATION&nbsp;OVERVIEW</a></div>
+			</div>
+		<div class="col-sm-3 padding-40-top">
+			<img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive img-rounded"/>
+		</div>
+			<div class="col-sm-3 padding-10-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL&nbsp;INTEGRATING&nbsp;ORGANIZATIONS&nbsp;(LIOs)</a></div>
 			<div class="padding-5-bottom"><a href="legislative_updates.php">2021&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			<div class="padding-5-bottom"><span class="new-red">NEW</span><a href="https://pspwa.box.com/shared/static/wmdpr9w05ow7072pqym99ufwmo39akpf.pdf">DOWNLOAD&nbsp;THE&nbsp;2021-2023&nbsp;BUDGET&nbsp;RANKINGS </a></div>
-			
-            <div class="padding-5-bottom"><a href="psdoth2020.php">2020&nbsp;PUGET&nbsp;SOUND&nbsp;DAY&nbsp;ON&nbsp;THE&nbsp;HILL</a></div>
-			
+			<div class="padding-5-bottom"><a href="psdoth2020.php">2020&nbsp;PUGET&nbsp;SOUND&nbsp;DAY&nbsp;ON&nbsp;THE&nbsp;HILL</a></div>	
 		</div>
-	</div>
-</div>
+	</div>	<!-- end row -->
+</div><!-- end container -->
+
 <div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
 	<div class="container"> 
 		<!--copy column to column to create new blog post-->
