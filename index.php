@@ -287,7 +287,7 @@ and recovering Puget Sound</h1>
 				<!--news content -->
 				<div class="newsbox-date">FEB<br>
 			  18</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
+				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
 					Online<br>
 							</a><br>
 				</div>
