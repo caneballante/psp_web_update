@@ -243,9 +243,9 @@ and recovering Puget Sound</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">DEC<br>
-			  10</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
+				<div class="newsbox-date">JAN<br>
+			  21</div>
+				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
 					Online<br>
 							</a><br>
 				</div>
@@ -257,37 +257,37 @@ and recovering Puget Sound</h1>
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">DEC<br>
-			  17</div>
-				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
-					Online<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
-				<div class="newsbox-date">JAN<br>
-			  21</div>
-				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
-					Online<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
 				<div class="newsbox-date">JAN<br>
 			  28</div>
 				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Online<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">FEB<br>
+			  3</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
+					Online<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">FEB<br>
+			  18</div>
+				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
 					Online<br>
 							</a><br>
 				</div>
