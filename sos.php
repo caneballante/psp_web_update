@@ -110,8 +110,8 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/governors-report-2016/">2016 State of the Salmon</a></li>
-				<li role="presentation"> <a href="https://nwifc.org/publications/state-of-our-watersheds/" target="_blank">2016 State of our Watersheds</a></li>
+				<li role="presentation"> <a href="https://stateofsalmon.wa.gov/">State of the Salmon</a></li>
+				<li role="presentation"> <a href="https://nwifc.org/publications/state-of-our-watersheds/" target="_blank">2020 State of our Watersheds</a></li>
 			
              
 				<!-- InstanceEndEditable -->
