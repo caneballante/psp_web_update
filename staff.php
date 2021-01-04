@@ -92,8 +92,9 @@
 							360.480.0487 | <a href="mailto:larry.epstein@psp.wa.gov">larry.epstein@psp.wa.gov</a></p>
 						 <!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
-						<h5>VACANT</h5>
-						<p> Adaptive Systems Manager<br /></p>
+						<h5>Kirsten Feifel</h5>
+						<p> Adaptive Systems Manager<br />
+							360.701.1428 | <a href="mailto:kirsten.feifel@psp.wa.gov">kirsten.feifel@psp.wa.gov</a></p>
 						<h5>Jennifer Burke</h5>
 						<p>Data Systems/GIS Manager<br />
 							360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
@@ -226,6 +227,9 @@
 						<h5>Elene Trujillo</h5>
 						<p> Monitoring Performance Analyst <br>
 							360.819.6018 | <a href="mailto:elene.trujillo@psp.wa.gov">elene.trujillo@psp.wa.gov</a></p>
+						<h5>Annelise Del Rio</h5>
+						<p>	Monitoring Performance Analyst/Salmon Scientist <br>
+							360.584.5306 | <a href="mailto:annelise.delrio@psp.wa.gov">annelise.delrio@psp.wa.gov</a></p>
 						<h5>Andres Sheikh</h5>
 						<p> Sea Grant Keystone Fellow <br>
 							360.706.4566 | <a href="mailto:andres.sheikh@psp.wa.gov">andres.sheikh@psp.wa.gov</a></p>
@@ -257,8 +261,9 @@
 						<h5>Diamatris Winston</h5>
 						<p>Fiscal Division Manager<br />
 							360.867.8234 | <a href="mailto:diamatris.winston@psp.wa.gov">diamatris.winston@psp.wa.gov </a></p>
-						<h5>VACANT</h5>
-						<p>Accounting and Budget Program Manager<br /></p>
+						<h5>Sheridan Gatewood</h5>
+						<p>	Accounting and Budget Program Manager<br />
+							360.706.4955 | <a href="mailto:sheridan.gatewood@psp.wa.gov">sheridan.gatewood@psp.wa.gov</a></p>
 						<h5>Arjean Travis</h5>
 						<p> Grants, Contracts, and Compliance Manager<br />
 							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
