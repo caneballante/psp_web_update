@@ -98,7 +98,7 @@
 			
 		<h2>The Partnership Nearshore Credits program is the result of collaboration</h2>
 			<p>Environmental Science Associates (ESA) did foundational work for the Partnership with the Partnership Nearshore Credits program and provided valuable thought leadership for the initiative. The Partnership gratefully acknowledges ESA’s work in scoping out the conservation credit functions for the Partnership Nearshore Credits program.  </p>
-			<p class="last-update">Last updated: 12/11/20</p>
+			<p class="last-update">Last updated: 01/04/21</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
