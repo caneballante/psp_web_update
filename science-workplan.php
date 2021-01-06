@@ -66,28 +66,27 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		 
-			<h2>Developing the Science Work Plan for 2020-2024</h2>
+			<h2>The Science Work Plan for 2020-2024</h2>
 			<p>The Science Panel is a group of 14 top scientists in Washington State  and the Pacific Northwest that provides advice and guidance to the Puget Sound Partnership (Partnership) to develop a comprehensive, science-based plan to restore Puget Sound. </p>
-			<p>The Science Panel is currently developing a Science Work Plan for 2020-2024 (<a href="https://pspwa.box.com/s/ge869esyy9gtbmk7kgmi22m6crtjbe6a">access here</a>), which describes strategies to improve our collective understanding of Puget Sound. Implementing this Science Work Plan will generate research, evaluation, and analysis that the Puget Sound recovery community uses to improve decision-making and accelerate recovery across Puget Sound for the benefit of the people and communities in the region and the ecosystems on which they depend.  
-				The draft <a href="https://pspwa.box.com/s/ge869esyy9gtbmk7kgmi22m6crtjbe6a">Science Work Plan for 2020-2024</a> has been released for review with comments due on November 20, 2020 with the goal to finalize the plan on December 10, 2020 at the Science Panel’s meeting.</p>
-			<h2>A Puget Sound Science Enterprise: Supporting and growing an inclusive network</h2>
-	<p>One prominent part of the Science Work Plan is to develop a more inclusive, more coordinated network of organizations and entities dedicated to building our understanding of Puget Sound – expanding beyond western science to also emphasize the central importance of indigenous knowledge and environmental justice (see <a href="#Section2">Section 2</a> and <a href="#Section5">Section 5</a>).</p> 
+			<p>The Science Panel developed a Science Work Plan for 2020-2024 (<a href="https://pspwa.box.com/s/ge869esyy9gtbmk7kgmi22m6crtjbe6a">access here</a>), which describes strategies to improve our collective understanding of Puget Sound. Implementing this Science Work Plan will generate information that the Puget Sound recovery community uses to improve decision-making and accelerate recovery across Puget Sound for the benefit of the people and communities in the region and the ecosystems on which they depend.  
+				The <a href="https://pspwa.box.com/s/ge869esyy9gtbmk7kgmi22m6crtjbe6a">Science Work Plan for 2020-2024</a> was adopted by the Science Panel on December 10, 2020 and approved by the Leadership Council on December 17, 2020.</p>
+			<h2>Supporting and growing an inclusive knowledge network</h2>
+	<p>One prominent part of the Science Work Plan is to develop a more inclusive, more coordinated network of organizations and entities dedicated to building our understanding of Puget Sound – expanding beyond western science to also emphasize the central importance of indigenous knowledge and environmental justice.</p> 
 
-<p>The Partnership recognizes that implementing this vision will require a collaborative approach and leadership from organizations dedicated to indigenous knowledge and environmental justice. In this spirit, Partnership staff are reaching out to potential partners to listen and open conversations  about what this network might look like, including purpose, scope, roles for key partners, potential partnership structure, and funding (see graphic below, courtesy of the Oregon Watershed Enhancement Board's "Partnership Learning Project"). 
+<p>The Partnership recognizes that implementing this vision will require a collaborative approach and leadership from organizations dedicated to Indigenous knowledge and environmental justice. In this spirit, Partnership staff and Panel members will be reaching out to potential partners to listen and open conversations  about what this network might look like, including purpose, scope, roles for key partners, potential partnership structure, and funding (see graphic below, courtesy of the Oregon Watershed Enhancement Board's "Partnership Learning Project"). 
 </p>
 			<img src="images/dynamicpartnershipssized.jpg" width="500" height="423" alt="diagram of partnership dynamics"</>
-			<p>Throughout this process, the Partnership is being intentional to respectfully acknowledge other networks in the region and create space for organizations that focus on equity and that may not have worked closely with the Partnership before. As conversations with equity-focused organizations begin to take shape, the Partnership aims to provide different avenues for new and existing partners to share creative ideas, such as an online survey and virtual workshops, which will allow us to have a collective conversation and promote valuable new connections among organizations.</p> 
+			<p>Throughout this process, the Partnership is being intentional to respectfully acknowledge other networks in the region and create space for organizations that focus on equity and that may not have worked closely with the Partnership before. As conversations with equity-focused organizations begin to take shape, the Partnership aims to provide different avenues for new and existing partners to share creative ideas that will allow us to have a collective conversation and promote valuable new connections among organizations.</p> 
 
-<p>The conversations through November 20th will shape final revisions of the Science Work Plan for 2020-2024. Beyond that we are committed to a years-long process to share the implementation of the Science Work Plan through a Science Enterprise that is a more inclusive and more coordinated network.   In this spirit, the Partnership welcomes your suggestions and creativity.</p>
+<p>We are committed to a years-long process to share the implementation of the Science Work Plan through a knowledge network that is more inclusive and more coordinated.   In this spirit, the Partnership welcomes your suggestions and creativity.</p>
 
-<p>If you'd like to join in a conversation, please contact Scott Redman, Science and Evaluation Director at the Puget Sound Partnership: <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a> or Katherine Wyatt, Assistant Director of Science and Evaluation <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a>. Jennifer Arnold of Reciprocity Consulting, LLC is providing support to organize and facilitate conversations with partners.
-</p>
+<p>If you'd like to join in a conversation, please contact Scott Redman, Science and Evaluation Director at the Puget Sound Partnership: <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a> or Katherine Wyatt, Assistant Director of Science and Evaluation <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a>.
 			<h2>Summary of the Science Work Plan for 2020-2024</h2>
 			<p>The Puget Sound Partnership seeks to support greater understanding of the health and recovery of Puget Sound among decision makers and the public, and encourage them to make effective, high-impact recovery decisions through the application of science. Over 760 organizations work on Puget Sound recovery in one way or another, and the public has a high interest in Puget Sound recovery.</p>   
 
 <p>This work plan offers an opportunity to engage leaders of regional science programs in a discussion of priority science needs. The term science here is used to include western science, but also importantly programs dedicated to indigenous knowledge and environmental justice. This document should promote conversations about how to work together effectively as a more inclusive, more coordinated network that builds understanding and improves the capacity to support the people and communities in Puget Sound and the ecosystems they depend on.</p>
 
-<p>The Science Panel and Partnership staff commit to working with potential new partners and existing partners to understand how individuals and institutions can help implement the described Science Work Actions and broader recommendations in this document.  The process of building this network includes the development of this draft document, its improvement, and its active and facilitated implementation.  The Science Panel envisions that as we collaborate on this document and its recommendations, the process will mature over time to co-develop future Science Work Plans and co-lead their implementation. The Science Panel’s expectation is that this collaboration will spur innovative thinking and mobilize additional resources.</p>
+<p>The Science Panel and Partnership staff commit to working with potential new partners and existing partners to understand how individuals and institutions can help implement the described Science Work Actions and broader recommendations in this document. The Science Panel envisions that as we collaborate on implementing the actions and recommendations in this document, the process will mature over time to co-develop future Science Work Plans and co-lead their implementation. The Science Panel’s expectation is that this collaboration will spur innovative thinking and mobilize additional resources.</p>
 			
 		<h3>Section 1: Approach to the 2020-2024 Science Work Plan</h3>
 			<p>This document builds from a foundation of the Science Panel’s objectives for system-oriented science. It also incorporates recommendations from others about the science needed to identify, coordinate, and implement effective recovery and protection strategies for the Puget Sound ecosystem. This document follows the science work planning approach specified in <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=90.71.290">Washington State statute at RCW 90.71.290(5)</a>.</p>  
@@ -97,10 +96,8 @@
 			<ul><li>What are the priority Science Work Actions for 2020-2024? </li>
 			<li>What broader recommendations should be pursued to improve ongoing science and its dissemination? </li></ul>
 			<a id="Section2"></a>
-			<h3>Section 2: Puget Sound Science Enterprise: Supporting and growing a more inclusive network</h3>
-			<p>The strategic focus articulated in this document is intended to catalyze the development of a regional network of organizations and entities dedicated to western science, indigenous knowledge, and environmental justice. A network approach, like this, has been used in other regions. A network approach is expected to better target science findings to impact recovery efforts, improve the legitimacy and transparency of decision making, and support accountability for achieving recovery objectives. </p>
 			
-			<h3>Section 3: Objectives for selecting and prioritizing Science Work Actions</h3>
+			<h3>Section 2: Objectives for selecting and prioritizing Science Work Actions</h3>
 			<p>Science Work Actions within the Science Work Plan prioritize scientific research that can:</p>
 			<ul><li>change the policy landscape</li>
 			<li>spur science innovation</li>
@@ -110,20 +107,20 @@
 			</ul>
 			<p>These objectives were collectively developed and revised by the Science Panel in advance of evaluating Science Work Actions.</p>
 			
-			<h3>Section 4: Priority Science Work Actions</h3>
+			<h3>Section 3: Priority Science Work Actions</h3>
 			<p>Partnership staff compiled recommendations from the recovery community, with an initial focus on materials that articulated the science and questions from managers and policymakers. These recommendations address a wide scope of topics.  Topical experts from the Science Panel looked at recommendations within their field of expertise and suggested potential Science Work Actions that reflected the content and intent of multiple recommendations.   Science Work Actions represent discrete and actionable areas of investigation that a scientific study could reasonably be initiated to answer or address.  The Science Panel will use the objectives articulated in section 3 to evaluate each Science Work Action.  Preliminary scoring of Science Work Actions is presented in Appendix B. </p>
 			
 			<a id="Section5"></a>
-			<h3>Section 5: Recommendations to improve ongoing science</h3>
-			<ol><li>Collaboratively develop a more inclusive, more coordinated network dedicated to western science, indigenous knowledge and environmental justice to support Puget Sound ecosystem recovery </li>
-				<li>Invigorate interactions among scientists and decision makers </li>
-				<li>Communicate science findings clearly and to the appropriate audiences </li>
+			<h3>Section 4: Recommendations to improve ongoing science</h3>
+			<ol><li>Collaboratively develop a more inclusive, more coordinated network dedicated to western science, Indigenous knowledge and environmental justice to support Puget Sound ecosystem recovery </li>
+				<li>Improve incorporation of Indigenous knowledge into science and monitoring efforts</li>
 				<li>Develop capacity and coordinate efforts to assess and report on ecosystem conditions and the effectiveness of strategies and actions </li>
-				<li>Develop and analyze alternative future scenarios to explore and express desired futures and evaluate trade-offs among possible approaches</li>
-				<li>Improve incorporation of indigenous knowledge into science and monitoring efforts </li>
-				<p>Given the many ways in which Indigenous Science and traditional ecological knowledge can broaden and deepen knowledge of the problems we face and possible solutions, our specific recommendations are:</p><ul><li>to find creative and meaningful ways to partner with Indigenous science programs in our collective effort to restore a resilient and sustainable Puget Sound, and </li>
-				<li>to invest in research strategies that recognize traditional ecological knowledge and build on that knowledge to generate a collective understanding of ecosystems relationships and systems thinking.</li></ul>
 				<li>Coordinate production and use of interdisciplinary research that explores and emphasizes the integrated nature of socio-ecological systems </li>
+				<li>Build and sustain robust programs and relationships across science-policy interfaces to inform recovery</li>
+				<li>Communicate science findings clearly and to the appropriate audiences </li>
+				<li>Develop and analyze alternative future scenarios to explore and express desired futures and evaluate trade-offs among possible approaches</li>
+				
+				
 			</ol>
 
   		
