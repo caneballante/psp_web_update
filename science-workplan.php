@@ -112,7 +112,7 @@
 			
 			<a id="Section5"></a>
 			<h3>Section 4: Recommendations to improve ongoing science</h3>
-			<ol><li>Collaboratively develop a more inclusive, more coordinated network dedicated to western science, Indigenous knowledge and environmental justice to support Puget Sound ecosystem recovery </li>
+			<ol><li>Collaboratively develop a more inclusive, more coordinated network dedicated to western science, Indigenous knowledge, and environmental justice to support Puget Sound ecosystem recovery </li>
 				<li>Improve incorporation of Indigenous knowledge into science and monitoring efforts</li>
 				<li>Develop capacity and coordinate efforts to assess and report on ecosystem conditions and the effectiveness of strategies and actions </li>
 				<li>Coordinate production and use of interdisciplinary research that explores and emphasizes the integrated nature of socio-ecological systems </li>
