@@ -91,7 +91,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b3fb0d" target="_blank">General session info</a></p><br>
 			<h3 class="margin-0-top"> Legislative CALENDAR:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2a9eeed" target="_blank">Pre-session Committee Work Sessions</a></p>
-			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b4a857">Week 1, January 11 - 15, 2021</a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b4a857" target="_blank">Week 1, January 11 - 15, 2021</a></p>
             
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			
