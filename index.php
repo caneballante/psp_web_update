@@ -133,9 +133,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2019.jpg"  alt="Image from the cover of the Puget Sound Marine Waters 2019 Overview report"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="/PSmarinewatersoverview.php">Puget Sound Marine Waters 2019 Overview</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/PSPSNC_news.jpg"  alt="Photo of Pacific herring swimming in eelgrass. Photo credit: Florian Graner."/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership credits will fund nearshore conservation</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -148,9 +148,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt="Photo of orcas swimming in the water"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/Marysville_news.jpg"  alt="Photo of green infrastructure improvements on Third Street in Marysville"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/city-of-marysvilles-focus-on-green-infrastructure-produces-multiple-benefits-b6fdf97315ae" target="_blank">City of Marysville's focus on green infrastructure produces multiple benefits</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -158,6 +158,36 @@ and recovering Puget Sound</h1>
 				
 			</div>
 		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2019.jpg"  alt="Image from the cover of the Puget Sound Marine Waters 2019 Overview report"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="/PSmarinewatersoverview.php">Puget Sound Marine Waters 2019 Overview</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt="Photo of orcas swimming in the water"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a><br>
+						<!--END news content BOX-->
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -172,23 +202,8 @@ and recovering Puget Sound</h1>
 				</div>
 				
 			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/FallCityPSAR.jpg"  alt="Photo of Fall City Floodplain Restoration area, featuring river water, farmlands, and housing"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/projects-on-the-newly-released-psar-ranked-list-will-help-people-salmon-and-the-economy-7831a74b59a6" target="_blank">Projects on the newly released PSAR ranked list will help people, salmon, and the economy</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
 		<!--COLUMN END-->	
-			<!--COLUMN START-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -196,23 +211,7 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Photo of Puget Sound waters at sunset"/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="https://www.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">Funding Opportunity Announcement: EPA Puget Sound Program Strategic Initiative Leads</a><br>
-						<!--END news content BOX-->
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/HighwayNews.jpg"  alt=""/> 
-					<strong>BLOG</strong><br>
-					  <a href="https://medium.com/puget-sound-partnership/can-polluted-stormwater-affect-soil-health-87208625cae8">Can polluted stormwater affect soil health?
-				</a><br>
-						<!--END news content BOX-->  
+						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
