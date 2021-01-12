@@ -216,7 +216,7 @@ Developing plans, managing information, and tracking progress during implementat
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00033/">Shoreline Armoring Miradi Project</a> </li>
 				<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00004/">Shellfish Beds Miradi Project</a></li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00034/">Benthic Index of Biotic Integrity (B-IBI) Miradi Project</a></li>
-				<li>Toxics in Fish Miradi Project</li>
+				<li><a href="https://www.miradishare.org/ux/project/psp-pugetsoundrecover-2018-00043/">Toxics in Fish Miradi Project</a></li>
 				<li>Marine Water Quality Miradi Project</li>
 				<li>Chinook Salmon Miradi Project</li>
            	</ul>
