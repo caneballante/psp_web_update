@@ -122,7 +122,7 @@ Developing plans, managing information, and tracking progress during implementat
 				<li>Feasibility</li>
 				<li>Confidence in the targets set for Vital Sign indicators</li>
 			</ul>
-			<p>A process for selecting the next set of Strategies for development and identifying opportunities for grouping Strategies to improve strategy effectiveness and management efficiency is currently under development. The Partnership and PSI will work with the SI Leads and other partners to build and improve on the above criteria for future decision making about IS sequencing and management.</p>
+			<p>The Partnership and PSI will work with the SI Leads and other partners to build and improve on the above criteria for future decision making about IS sequencing and management.</p>
 			<a name="Will-Implementation-Strategies-be-developed-for-all-Vital-Signs"></a>
 			<h3>WILL IMPLEMENTATION STRATEGIES BE DEVELOPED FOR ALL VITAL SIGNS?</h3>
 			<p>We anticipate that, over time, at least one Strategy, and possibly more, will address each Vital Sign that has a defined recovery target. It remains to be seen whether there will need to be a separate planning effort for each Vital Sign, given that many Vital Signs usually benefit from actions focused on related Vital Signs.</p>
@@ -192,7 +192,7 @@ Developing plans, managing information, and tracking progress during implementat
                 <li><a href="https://pspwa.box.com/v/est-readme">Estuaries</a></li>
                 <li><a href="https://pspwa.box.com/v/floodplains-readme">Floodplains</a></li>
                 <li><a href="https://pspwa.box.com/v/ldc-readme">Land development and cover—ecologically important lands</a></li>
-                <li><a href="https://pspwa.box.com/v/sa-readme">Shoreline armoring (drafts under development)</a></li>
+                <li><a href="https://pspwa.box.com/v/sa-readme">Shoreline armoring</a></li>
             </ul>
             <p>Strategies associated with the Shellfish Strategic Initiative:</p>
             <uL>
@@ -202,6 +202,7 @@ Developing plans, managing information, and tracking progress during implementat
             <uL>
                 <li><a href="https://pspwa.box.com/v/BIBI-IS-Public">Freshwater quality—B-IBI</a></li>
                 <li><a href="https://pspwa.app.box.com/folder/109400380199">Toxics in fish</a></li>
+				<li>Marine water quality</li>
             </uL>
             <p>Strategies managed by the Puget Sound Partnership</p>
             <uL>
@@ -210,11 +211,14 @@ Developing plans, managing information, and tracking progress during implementat
             <p>Additional information about the Strategies and related Puget Sound recovery efforts is managed and publicly available in <a href="http://www.MiradiShare.org">Miradi Share</a>™, an online database that supports development, monitoring, and sharing of information among conservation practitioners, project and program managers, and funders. Miradi project files for all completed Strategies are available in the links below. A free user account for Miradi Share is required to view projects. Request a free account at <a href="http://www.MiradiShare.org">www.MiradiShare.org</a>, and contact Wessyl Kelly at <a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov</a> for access to Puget Sound content.</p>
             <ul>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00007/">Estuaries Miradi Project </a></li>
-            	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00004/">Shellfish Beds Miradi Project</a></li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2016-00033/">Floodplains Miradi Project</a> </li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2016-00034/">Land Development and Cover Miradi Project</a></li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00033/">Shoreline Armoring Miradi Project</a> </li>
+				<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00004/">Shellfish Beds Miradi Project</a></li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00034/">Benthic Index of Biotic Integrity (B-IBI) Miradi Project</a></li>
+				<li>Toxics in Fish Miradi Project</li>
+				<li>Marine Water Quality Miradi Project</li>
+				<li>Chinook Salmon Miradi Project</li>
            	</ul>
 			
 		<!-- InstanceEndEditable --> </div>
