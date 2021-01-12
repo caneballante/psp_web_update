@@ -142,7 +142,7 @@ Developing plans, managing information, and tracking progress during implementat
                 <li>Builds on existing knowledge and lessons learned from previous and current recovery efforts</li>
             </ul>
            <p>Implementation Strategies are developed by use of a results-based (adaptive) management framework for Puget Sound recovery. This framework is founded on the Open Standards for the Practice of Conservation. <a href="http://psp.wa.gov/science-adaptive-management-framework.php">LEARN MORE</a>           </p>
-           <p>The following Strategies, currently being implemented or are ready for implementation:</p>
+           <p>The following Strategies are currently being implemented or are ready for implementation:</p>
            <ul>
                 <li>Estuaries</li>
                 <li>Shellfish beds</li>
@@ -153,13 +153,11 @@ Developing plans, managing information, and tracking progress during implementat
                 
              <li>Chinook salmon</li>
 			    <li>Shoreline armoring</li>
+			   <li>Benthic Index of Biotic Integrity (B-IBI) (one of three indicators for the Freshwater Quality Vital Sign)</li>
+			   <li>Toxics in fish</li>
+			   <li>Marine water quality</li>
        	</ul>
-           <p>The following Strategies are currently under development  in 2019:</p>
-        <ul>
-               
-             <li>Benthic Index of Biotic Integrity (B-IBI) (one of three indicators for the Freshwater Quality Vital Sign)</li>
-                <li>Toxics in fish</li>
-        </ul>
+           
            <p>Based on the Regional Priorities defined by the Leadership Council for the 2018-2022 Action Agenda, the next Vital Sign to be addressed by an Implementation Strategy is <a href="https://www.psp.wa.gov/vitalsigns/summer_stream_flows.php">Summer Stream Flows</a>. Preparatory work on this Vital Sign has begun, including the compilation of existing Vital Sign-related and other Puget Sound-wide planning and analysis products that will form the technical basis for the IS, will be used as reference throughout IS content development, and will likely serve as references for future updates to the IS.</p>
            <p><br>
            Additionally, adaptive management of existing implementation strategies will look include more connections among existing strategies, ongoing Near Term Actions, and ongoing programs that are working to support Puget Sound recovery. </p>
@@ -171,9 +169,9 @@ Developing plans, managing information, and tracking progress during implementat
                 <li>Completing existing Strategies</li>
                 <li>Adaptively managing all Strategies within the purview of the SI Leads. </li>
             </uL>
-            <p>As the regional recovery organization for salmon, the Partnership continues to lead and manage development of the Chinook Salmon Implementation Strategy. </p>   
+            <p>As the regional recovery organization for salmon, the Partnership continues to lead and manage implementation of the Chinook Salmon Implementation Strategy. </p>   
             <p>The SI Leads are supported by the Partnership, the Puget Sound Institute (PSI), the EPA and many other partners in developing, reviewing, and updating the Strategies. The Partnership and PSI ensure that Strategy development is consistent enough to support cross-Strategy integration and that Strategies are grounded in sound science.</p>
-            <p>Additional information on the Implementation Strategies and Strategic Initiatives is coming soon from the SI Leads.</p>
+            <p>Additional information on the Implementation Strategies and Strategic Initiatives can be found here: <a href="https://pugetsoundestuary.wa.gov/" target="_blank">Strategic Initiatives of the Puget Sound National Estuary Program</a>.</p>
             <strong><p>How are Lead Integrating Organizations involved in Strategy development?</p></strong>
             <p>The Local Integrating Organizations (LIOs) provide important content to the Strategies in the following ways:</p>
             <ul>
@@ -186,19 +184,7 @@ Developing plans, managing information, and tracking progress during implementat
 		<p>Marine Water Quality<br>
 		</p></strong>
 			<p>With support from the Stormwater Strategic Initiative, Dustin Bilhimer, the Puget Sound Nutrient Source Reduction Project Manager with the Department of Ecology, is guiding the development of an Implementation Strategy targeted at the marine water quality vital sign indicator for dissolved oxygen in marine waters. Along with informing discussions in the <a href="https://www.ezview.wa.gov/DesktopDefault.aspx?alias=1962&pageid=37106">Puget Sound Nutrient Forum</a> this Implementation Strategy aims to address the human impacts on the amount of dissolved oxygen in marine waters. Together, the Marine Water Quality IS and the Puget Sound Nutrient Source Reduction Project look to address questions such as what actions are needed to reduce nutrients, where, and by how much. <strong></strong></p>
-		<strong>
-		<p>Fresh Water Quality (B-IBI) and Toxics in Fish</p></strong>
-            <p>The Stormwater SI Lead is guiding development of Strategies to address the Benthic Index of Biotic Integrity (B-IBI) indicator for the Freshwater Quality Vital Sign, as well as the 2020 indicator target for Toxics in Fish Vital Sign. </p>
-        <p>For more information, contact Gary Myers, <a href="mailto:Gary.Myers@ECY.wa.gov">Gary.Myers@ECY.wa.gov</a>, Implementation Strategy Lead for the Stormwater Strategic Initiative at the Department of Ecology.</p>
-            <strong><p>&nbsp;</p></strong>            <strong><p>Partially complete Strategies</p></strong>
-            <p>The following four partially complete Strategies will be further developed in coming years to inform Action Agenda, Science Work Plan and other planning and funding decisions.</p> 
-            <p>Contact the leads for these Strategies for more information:</p>
-            <ul>
-				<li>Shellfish Beds, Clara Hard, Shellfish Strategic Initiative, <a href="mailto:clara.hard@doh.wa.gov">clara.hard@doh.wa.gov</a></li>
-				<li>Estuaries, Jennifer Griffiths, Habitat Strategic Initiative, <a href="mailto:Jennifer.Griffiths@wdfw.wa.gov">Jennifer.Griffiths@wdfw.wa.gov</a></li>
-                <li>Land Development, Libby Gier, Habitat Strategic Initiative, <a href="mailto:Libby.Gier@dnr.wa.gov">Libby.Gier@dnr.wa.gov</a></li>
-                <li>Floodplains, Libby Gier, Habitat Strategic Initiative, <a href="mailto:Libby.Gier@dnr.wa.gov">Libby.Gier@dnr.wa.gov</a></li>
-            </ul>
+		
 			<a name="implementation-strategy-resources"></a>
             <h2>IMPLEMENTATION STRATEGY RESOURCES AVAILABLE</h2>
             <p>Strategies associated with the Habitat Strategic Initiative:</p>
