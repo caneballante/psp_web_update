@@ -58,7 +58,7 @@
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
 				<li role="presentation" class="active"> <a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a></li>
-				<li role="presentation"><a href="implementation_strategies_announcements.php">ANNOUNCEMENTS</a></li>
+				
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -66,16 +66,68 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		    <div class="highlightbox">
-		  		  <h3>UPDATED SUMMER 2019 </h3>
+		  		  <h3>UPDATED EARLY 2021 </h3>
 			
-			<p>Strategic Initiative Leads for the Stormwater Strategic Initiative, along with hundreds of recovery partners from across the Sound, have been working hard to develop the next series of Implementation Strategies. As of the summer 2019, work continues on completing new Strategies meant to reduce toxics in fish, improve stream health and freshwater quality, and reduce the humans contribution of depleted oxygen in marine waters. While these three implementation strategies are targeting those vital signs (<a href="https://pspwa.app.box.com/folder/25928486748">TIF</a>, <a href="https://pspwa.app.box.com/folder/24371817211" >BIBI</a>) implementation and adaptive management on the existing IS continues. <br>
+			<p>Strategic Initiative Lead teams and Implementation Strategy Development Leads have developed strategies targeted at nine Vital Signs. A joint effort led by the Washington State Department of Natural Resources and Puget Sound Partnership in 2014 created an eelgrass “recovery strategy,” which brings the total number of strategies to 10. See the latest status for all of the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs on Puget Sound Info</a>. <br>
 			  <br>
-The Implementation Strategy program is continuing work to better connect and &ldquo;network&rdquo; the strategies and actions to achieve multi-benefit, cross-cutting outcomes by asking the question, &ldquo;Where can we identify fewer, more impactful actions that will lead to multiple positive outcomes across the Sound?&rdquo;<br>
+The Implementation Strategy program  continues work to better connect and “network” the existing strategies and identifying necessary actions needed to achieve the desired outcomes for recovery by asking the question, “Where can we identify fewer, more impactful actions that will lead to multiple positive outcomes across the Sound?” Implementation Strategies are designed and developed in a way that describes a logical chain of outcomes that need to be achieved in order to advanced toward Vital Sign targets. This information is central to informing how the Action Agenda can help us collectively achieve the vision of an ecosystem resilient to the impacts of climate change, where economies, farm, and forests can thrive, where human communities achieve a high quality of life, and where a broad coalition of engaged residents are committed to protecting and restoring Puget Sound.<br>
 <br>
-Shifting toward a more networked approach is the next iteration of the Implementation Strategies program, and an expression of the principles of <a href="https://www.psp.wa.gov/science-adaptive-management-framework.php">Adaptive Management</a> in action.  Current efforts support taking an ecosystem perspective by integrating work across Vital Signs and ISs that are under development and preparing the <a href="https://www.psp.wa.gov/science-basis-of-recovery-overview.php">scientific basis</a> required for future Implementation Strategies. Work will be connected across ISs and IS-related activities so that Vital Sign and indicator-specific activities, planning, and findings resonate at broader geographic and political scales to affect ecosystem recovery and ensure maximum impact of regional strategies, plans, and reports.</p>
-            <p>&nbsp;</p>
+Developing plans, managing information, and tracking progress during implementation of these strategies exemplifies the principles of <a href="science-adaptive-management-framework.php">Adaptive Management</a> that guide these efforts. Future work will focus on taking a whole-ecosystem perspective and transcending narrowly focused or “siloed” work by integrating concepts from across existing plans and other Implementation Strategies 
+</p>
 			</div>
             <p>&nbsp;</p>
+			<a name="frequently-asked-questions"></a>
+            <h2>FREQUENTLY ASKED QUESTIONS</h2>
+			<ul>
+				<li><a href="#what-are-elements-of-an-implementation-strategy">What are the elements of an Implementation Strategy?</a></li>
+				<li><a href="#How-do-Implementation-Strategies-relate-to-the-Action-Agenda">How do Implementation Strategies relate to the Action Agenda?</a></li>
+				<li><a href="#How-do-Implementation-Strategies-differ-from-Strategic-Initiatives">How do Implementation Strategies differ from Strategic Initiatives?</a></li>
+				<li><a href="#How-is-the-order-of-Implementation-Strategies-determined">How is the order of Implementation Strategies determined?</a></li>
+				<li><a href="#Will-Implementation-Strategies-be-developed-for-all-Vital-Signs">Will Implementation Strategies be developed for all Vital Signs?</a></li>
+			</ul>
+           <a name="what-are-elements-of-an-implementation-strategy"></a>
+            <h3> WHAT ARE THE ELEMENTS OF AN IMPLEMENTATION STRATEGY?</h3>
+			<p>Complete Implementation Strategies include the following elements, generated with input from partners and reviewed by technical experts:</p>
+			<ul>
+				<li>A <strong>narrative</strong> with supporting appendices (tables, diagrams, references, and other materials) to describe in detail the component pieces of the Strategy</li>
+				<li>A <strong>situation analysis</strong> (and conceptual model) that evaluates and documents assumptions about the recovery context, priority pressures, and the current conditions of the Vital Sign</li>
+				<li>Detailed <strong>results chains</strong>, or theories of change, representing the sequenced steps resulting from strategy implementation and measures to track progress toward recovery </li>
+				<li>A <strong>schematic</strong> diagram identifying priority recovery pathways to recovery and key outcomes needed to make progress toward the 2020 targets</li>
+				<li><strong>Lists of priority approaches</strong> including strategies, actions, programs and policy changes, and research and monitoring needs</li>
+				<li><strong>Estimated costs </strong>of implementing priority approaches</li>
+				<li>Key decision points, processes, responsibilities and needs related to <strong>adaptive management</strong> of the Strategy</li>
+			</ul>
+			<a name="How-do-Implementation-Strategies-relate-to-the-Action-Agenda"></a>
+            <h3> HOW DO IMPLEMENTATION STRATEGIES RELATE TO THE ACTION AGENDA?</h3>
+            <p>The Strategies will support decision making and provide guidance on the types of priority actions needed to make progress toward the Vital Sign targets.</p>
+			<p>Priorities for Near Term Actions in the 2016 Action Agenda update were informed by the Strategies for the Estuaries and Shellfish Beds Vital Sign indicators. The 2018 Action Agenda will be informed by the following:</p>
+			<ul>
+				<li>Updates to the Strategies for estuaries and shellfish beds</li>
+				<li>New Strategies addressing Floodplains and Land Development and Cover Vital Sign targets</li>
+				<li>Any additional Strategies completed in time for the Action Agenda update planning cycle. These could include Strategies addressing shoreline armoring, Chinook salmon, B-IBI, and toxics in fish. </li>
+			</ul>
+			<p> Information from nine recently completed LIO Ecosystem Recovery Plans is also informing Strategy development and updates and will be used for 2018 Acton Agenda priority-setting.</p>
+			<a name="How-do-Implementation-Strategies-differ-from-Strategic-Initiatives"></a>
+			<h3>HOW DO IMPLEMENTATION STRATEGIES DIFFER FROM STRATEGIC INITIATIVES?</h3>
+			<img class="img-responsive" src="images/2015-strategic-icons_final.jpg" width="500" height="210" alt=""/> <br />
+			<p><a href="strategic-initiatives-leads.php">Strategic Initiatives </a>(prevent pollution from urban stormwater, protect and restore habitat, and protect and recover shellfish beds) are regional priorities that have been emphasized in the Action Agenda since 2012. The Strategic Initiatives help direct spending and resources and guide the Partnership’s work with partners to increase funding, seek policy changes, report successes and challenges, and educate and engage people in the recovery effort. By contrast, an Implementation Strategy is a strategic plan designed to help meet a specific 2020 Vital Sign indicator target. Each Strategy is nested within one or more Strategic Initiatives.</p>
+			<a name="How-is-the-order-of-Implementation-Strategies-determined"></a>
+			<h3>HOW IS THE ORDER OF IMPLEMENTATION STRATEGIES DETERMINED?</h3>
+			<p>Sequencing of Strategy development has included the application of criteria selected with feedback from partners, stakeholders, tribal natural resource directors, and the Partnership’s Leadership Council, Science Panel, Salmon Recovery Board, and Ecosystem Coordination Board. The criteria consider the following:</p>
+			<ul>
+				<li>Ecosystem benefits</li>
+				<li>Alignment with funding and planning cycles</li>
+				<li>Applicability at the regional and local scale</li>
+				<li>Urgency for addressing the topic</li>
+				<li>Feasibility</li>
+				<li>Confidence in the targets set for Vital Sign indicators</li>
+			</ul>
+			<p>A process for selecting the next set of Strategies for development and identifying opportunities for grouping Strategies to improve strategy effectiveness and management efficiency is currently under development. The Partnership and PSI will work with the SI Leads and other partners to build and improve on the above criteria for future decision making about IS sequencing and management.</p>
+			<a name="Will-Implementation-Strategies-be-developed-for-all-Vital-Signs"></a>
+			<h3>WILL IMPLEMENTATION STRATEGIES BE DEVELOPED FOR ALL VITAL SIGNS?</h3>
+			<p>We anticipate that, over time, at least one Strategy, and possibly more, will address each Vital Sign that has a defined recovery target. It remains to be seen whether there will need to be a separate planning effort for each Vital Sign, given that many Vital Signs usually benefit from actions focused on related Vital Signs.</p>
+			<p>Contact: Mike Johnson, Environmental Planner and Implementation Strategy Manager, <a href="mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov</a></p>
+			<hr>
             <p><strong>Implementation Strategies</strong> (Strategies) are plans for accelerating progress toward the 2020 <a href="action_agenda_targets.php">ecosystem recovery targets</a> for the <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a>. The Strategies are developed collaboratively with technical, professional, and policy experts and with local and regional input. An overview of the Strategies is available at the <a href="https://www.eopugetsound.org/magazine/is/implementation-strategies">Encyclopedia of Puget Sound</a> website.</p>
             <p>Each Strategy accomplishes the following</p>
             <ul>
@@ -178,57 +230,7 @@ Shifting toward a more networked approach is the next iteration of the Implement
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00033/">Shoreline Armoring Miradi Project</a> </li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00034/">Benthic Index of Biotic Integrity (B-IBI) Miradi Project</a></li>
            	</ul>
-			<a name="frequently-asked-questions"></a>
-            <h2>FREQUENTLY ASKED QUESTIONS</h2>
-			<ul>
-				<li><a href="#what-are-elements-of-an-implementation-strategy">What are the elements of an Implementation Strategy?</a></li>
-				<li><a href="#How-do-Implementation-Strategies-relate-to-the-Action-Agenda">How do Implementation Strategies relate to the Action Agenda?</a></li>
-				<li><a href="#How-do-Implementation-Strategies-differ-from-Strategic-Initiatives">How do Implementation Strategies differ from Strategic Initiatives?</a></li>
-				<li><a href="#How-is-the-order-of-Implementation-Strategies-determined">How is the order of Implementation Strategies determined?</a></li>
-				<li><a href="#Will-Implementation-Strategies-be-developed-for-all-Vital-Signs">Will Implementation Strategies be developed for all Vital Signs?</a></li>
-			</ul>
-           <a name="what-are-elements-of-an-implementation-strategy"></a>
-            <h3> WHAT ARE THE ELEMENTS OF AN IMPLEMENTATION STRATEGY?</h3>
-			<p>Complete Implementation Strategies include the following elements, generated with input from partners and reviewed by technical experts:</p>
-			<ul>
-				<li>A <strong>narrative</strong> with supporting appendices (tables, diagrams, references, and other materials) to describe in detail the component pieces of the Strategy</li>
-				<li>A <strong>situation analysis</strong> (and conceptual model) that evaluates and documents assumptions about the recovery context, priority pressures, and the current conditions of the Vital Sign</li>
-				<li>Detailed <strong>results chains</strong>, or theories of change, representing the sequenced steps resulting from strategy implementation and measures to track progress toward recovery </li>
-				<li>A <strong>schematic</strong> diagram identifying priority recovery pathways to recovery and key outcomes needed to make progress toward the 2020 targets</li>
-				<li><strong>Lists of priority approaches</strong> including strategies, actions, programs and policy changes, and research and monitoring needs</li>
-				<li><strong>Estimated costs </strong>of implementing priority approaches</li>
-				<li>Key decision points, processes, responsibilities and needs related to <strong>adaptive management</strong> of the Strategy</li>
-			</ul>
-			<a name="How-do-Implementation-Strategies-relate-to-the-Action-Agenda"></a>
-            <h3> HOW DO IMPLEMENTATION STRATEGIES RELATE TO THE ACTION AGENDA?</h3>
-            <p>The Strategies will support decision making and provide guidance on the types of priority actions needed to make progress toward the Vital Sign targets.</p>
-			<p>Priorities for Near Term Actions in the 2016 Action Agenda update were informed by the Strategies for the Estuaries and Shellfish Beds Vital Sign indicators. The 2018 Action Agenda will be informed by the following:</p>
-			<ul>
-				<li>Updates to the Strategies for estuaries and shellfish beds</li>
-				<li>New Strategies addressing Floodplains and Land Development and Cover Vital Sign targets</li>
-				<li>Any additional Strategies completed in time for the Action Agenda update planning cycle. These could include Strategies addressing shoreline armoring, Chinook salmon, B-IBI, and toxics in fish. </li>
-			</ul>
-			<p> Information from nine recently completed LIO Ecosystem Recovery Plans is also informing Strategy development and updates and will be used for 2018 Acton Agenda priority-setting.</p>
-			<a name="How-do-Implementation-Strategies-differ-from-Strategic-Initiatives"></a>
-			<h3>HOW DO IMPLEMENTATION STRATEGIES DIFFER FROM STRATEGIC INITIATIVES?</h3>
-			<img class="img-responsive" src="images/2015-strategic-icons_final.jpg" width="500" height="210" alt=""/> <br />
-			<p><a href="strategic-initiatives-leads.php">Strategic Initiatives </a>(prevent pollution from urban stormwater, protect and restore habitat, and protect and recover shellfish beds) are regional priorities that have been emphasized in the Action Agenda since 2012. The Strategic Initiatives help direct spending and resources and guide the Partnership’s work with partners to increase funding, seek policy changes, report successes and challenges, and educate and engage people in the recovery effort. By contrast, an Implementation Strategy is a strategic plan designed to help meet a specific 2020 Vital Sign indicator target. Each Strategy is nested within one or more Strategic Initiatives.</p>
-			<a name="How-is-the-order-of-Implementation-Strategies-determined"></a>
-			<h3>HOW IS THE ORDER OF IMPLEMENTATION STRATEGIES DETERMINED?</h3>
-			<p>Sequencing of Strategy development has included the application of criteria selected with feedback from partners, stakeholders, tribal natural resource directors, and the Partnership’s Leadership Council, Science Panel, Salmon Recovery Board, and Ecosystem Coordination Board. The criteria consider the following:</p>
-			<ul>
-				<li>Ecosystem benefits</li>
-				<li>Alignment with funding and planning cycles</li>
-				<li>Applicability at the regional and local scale</li>
-				<li>Urgency for addressing the topic</li>
-				<li>Feasibility</li>
-				<li>Confidence in the targets set for Vital Sign indicators</li>
-			</ul>
-			<p>A process for selecting the next set of Strategies for development and identifying opportunities for grouping Strategies to improve strategy effectiveness and management efficiency is currently under development. The Partnership and PSI will work with the SI Leads and other partners to build and improve on the above criteria for future decision making about IS sequencing and management.</p>
-			<a name="Will-Implementation-Strategies-be-developed-for-all-Vital-Signs"></a>
-			<h3>WILL IMPLEMENTATION STRATEGIES BE DEVELOPED FOR ALL VITAL SIGNS?</h3>
-			<p>We anticipate that, over time, at least one Strategy, and possibly more, will address each Vital Sign that has a defined recovery target. It remains to be seen whether there will need to be a separate planning effort for each Vital Sign, given that many Vital Signs usually benefit from actions focused on related Vital Signs.</p>
-			<p>Contact: Mike Johnson, Environmental Planner and Implementation Strategy Manager, <a href="mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov</a></p>
+			
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -237,9 +239,9 @@ Shifting toward a more networked approach is the next iteration of the Implement
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 
-
+			<li role="presentation"><a href="#frequently-asked-questions">FREQUENTLY ASKED QUESTIONS</a></li>
 			<li role="presentation"><a href="#implementation-strategy-resources">IMPLEMENTATION STRATEGY RESOURCES</a></li>
-				<li role="presentation"><a href="#frequently-asked-questions">FREQUENTLY ASKED QUESTIONS</a></li>
+				
 			
 				
 				<!-- InstanceEndEditable -->
