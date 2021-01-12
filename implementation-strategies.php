@@ -169,7 +169,7 @@ Shifting toward a more networked approach is the next iteration of the Implement
             <uL>
                 <li><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook salmon </a></li>
             </uL>
-            <p>Additional information about the Strategies and related Puget Sound recovery efforts is managed and publicly available in <a href="http://www.MiradiShare.org">Miradi Share</a>™, an online database that supports development, monitoring, and sharing of information among conservation practitioners, project and program managers, and funders. Miradi project files for all completed Strategies are available in the links below. A free user account for Miradi Share is required to view projects. Request a free account at <a href="http://www.MiradiShare.org">www.MiradiShare.org</a>, and contact Kari Stiles at <a href="mailto:kari.stiles@psp.wa.gov">kari.stiles@psp.wa.gov</a> for access to Puget Sound content.</p>
+            <p>Additional information about the Strategies and related Puget Sound recovery efforts is managed and publicly available in <a href="http://www.MiradiShare.org">Miradi Share</a>™, an online database that supports development, monitoring, and sharing of information among conservation practitioners, project and program managers, and funders. Miradi project files for all completed Strategies are available in the links below. A free user account for Miradi Share is required to view projects. Request a free account at <a href="http://www.MiradiShare.org">www.MiradiShare.org</a>, and contact Wessyl Kelly at <a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov</a> for access to Puget Sound content.</p>
             <ul>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00007/">Estuaries Miradi Project </a></li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00004/">Shellfish Beds Miradi Project</a></li>
@@ -245,13 +245,11 @@ Shifting toward a more networked approach is the next iteration of the Implement
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-20-top ">SEE ALSO</div>
+			<div class="right-nav-title margin-20-top ">EXPLORE COMPLETED IMPLEMENTATION STRATEGIES</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
-				<li role="presentation"><a href="2016-18-action-agenda-update.php">2016-18 Action Agenda</a></li>
-				<li role="presentation"><a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
+					
 
 
 				<li role="presentation"><a href="https://pspwa.box.com/v/est-readme">Estuaries (IS)</a></li>
@@ -264,12 +262,17 @@ Shifting toward a more networked approach is the next iteration of the Implement
 				<li role="presentation"><a href="https://pspwa.box.com/v/BIBI-IS-Public">B-IBI (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.app.box.com/folder/109400380199">Toxics in Fish (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/52t8ecqbtlm7nd5juad6lu8s3uuvh9yk">Marine Water Quality (IS)</a></li>
-				<li role="presentation"><a href="https://eopugetsound.org/magazine/is/implementation-strategies">Implementation Strategies Overview Article (EoPS)</a></li>
-				<li role="presentation"><a href=" https://pspwa.box.com/v/IS-general-info">Implementation Strategy General Timeline and Team Structure</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/v/IDT-rosters">Interdisciplinary Team (IDT) Rosters</a></li>
+				
+				<div class="right-nav-title margin-20-top ">SEE ALSO</div>
+				
+				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+				<li role="presentation"><a href="2022AAupdate.php">2022-2026 Action Agenda</a></li>
+				<li role="presentation"><a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
+<li role="presentation"><a href="https://eopugetsound.org/magazine/is/implementation-strategies">Implementation Strategies Overview Article (EoPS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/IS-Guidance">Implementation Strategy Guidelines</a></li>
 				<li role="presentation"><a href="science-adaptive-management-framework.php">Adaptive Management Framework: a results-based approach to managing Puget Sound recovery</a></li>
 				<li role="presentation"><a href="evaluating-human-wellbeing.php">Human Wellbeing Overview</a></li>
+				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/blog/">Strategic Initiatives of the Puget Sound Estuary Program Blog</a></li>
 			
 				<!-- InstanceEndEditable -->
 			</ul>
