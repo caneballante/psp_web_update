@@ -84,6 +84,7 @@ Developing plans, managing information, and tracking progress during implementat
 				<li><a href="#How-do-Implementation-Strategies-differ-from-Strategic-Initiatives">How do Implementation Strategies differ from Strategic Initiatives?</a></li>
 				<li><a href="#How-is-the-order-of-Implementation-Strategies-determined">How is the order of Implementation Strategies determined?</a></li>
 				<li><a href="#Will-Implementation-Strategies-be-developed-for-all-Vital-Signs">Will Implementation Strategies be developed for all Vital Signs?</a></li>
+				<li><a href="#How-does-the-Vital-Sign-revision-impact-Implementation-Strategies">How does the Vital Sign revision impact Implementation Strategies?</a></li>
 			</ul>
            <a name="what-are-elements-of-an-implementation-strategy"></a>
             <h3> WHAT ARE THE ELEMENTS OF AN IMPLEMENTATION STRATEGY?</h3>
@@ -127,6 +128,10 @@ Developing plans, managing information, and tracking progress during implementat
 			<h3>WILL IMPLEMENTATION STRATEGIES BE DEVELOPED FOR ALL VITAL SIGNS?</h3>
 			<p>We anticipate that, over time, at least one Strategy, and possibly more, will address each Vital Sign that has a defined recovery target. It remains to be seen whether there will need to be a separate planning effort for each Vital Sign, given that many Vital Signs usually benefit from actions focused on related Vital Signs.</p>
 			<p>Contact: Mike Johnson, Environmental Planner and Implementation Strategy Manager, <a href="mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov</a></p>
+			<a name="How-does-the-Vital-Sign-revision-impact-Implementation-Strategies"></a>
+			<h3>HOW DOES THE VITAL SIGN REVISION IMPACT IMPLEMENTATION STRATEGIES</h3>
+			<p><a href="https://vitalsigns.pugetsoundinfo.wa.gov/About" target="_blank">The Vital Signs site on PS Info</a> has more information about the revisions to the Puget Sound Vital Signs and indicators.</p>
+			<p>&nbsp;</p>
 			<hr>
             <p><strong>Implementation Strategies</strong> (Strategies) are plans for accelerating progress toward the 2020 <a href="action_agenda_targets.php">ecosystem recovery targets</a> for the <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a>. The Strategies are developed collaboratively with technical, professional, and policy experts and with local and regional input. An overview of the Strategies is available at the <a href="https://www.eopugetsound.org/magazine/is/implementation-strategies">Encyclopedia of Puget Sound</a> website.</p>
             <p>Each Strategy accomplishes the following</p>
