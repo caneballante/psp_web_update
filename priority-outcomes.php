@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>2022-2026 Action Agenda Update - priority outcomes</title>
+<title>2022-2026 Action Agenda Update - desired outcomes</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -54,7 +54,7 @@ navSelected = 2;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Identifying priority outcomes for Puget Sound recovery</h1>
+			<h1>Identifying desired outcomes for Puget Sound recovery</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -71,46 +71,25 @@ navSelected = 2;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<p>Priority outcomes describe <em>what </em>we as the recovery  community intend to accomplish. Priority outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
+		<p>Desired outcomes describe <em>what </em>we as the recovery  community intend to accomplish. Desired outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
 
-		<h2>Priority outcomes are positive changes we want to see in Puget Sound</h2>
-		<p>Priority outcomes may be related to reductions in pressures on the ecosystem (example: fewer miles of shoreline armoring) or improvements in enabling conditions (example: more funding). By successfully achieving the priority outcomes determined in the Action Agenda, the recovery community will accelerate and achieve transformative change for Puget Sound recovery.  </p>
-		<p>We will use the priority outcomes as the basis for identifying (1) strategies and actions for the 2022-2026 Action Agenda and (2) an initial set of progress measures to track, report on, and ensure accountability for ecosystem recovery. </p>
+		<h2>Desired outcomes are positive changes we want to see in Puget Sound</h2>
+		<p>Desired outcomes focus on reducing adverse effects on the ecosystem (example: toxic pollution in stormwater runoff) and managing the human activities that create them (example: impervious surfaces from development), while maintaining healthy, vibrant, and equitable communities. By successfully achieving the desired outcomes determined in the Action Agenda, the recovery community will accelerate transformative change for Puget Sound recovery.  </p>
+		<p>We will use the priority outcomes as the basis for identifying (1) strategies and actions for the 2022-2026 Action Agenda and (2) an initial set of progress measures to track, report on, and ensure accountability for advancing the desired outcomes. </p>
+			<p><strong>How were the desired outcomes identified?</strong></p>
+			<p>The draft list of desired outcomes was identified using existing plans, including Implementation Strategies and Local Integrating Organization plans as the primary source. Tribal priorities, salmon recovery plans, and the Orca Task Force recommendations were also referenced. These plans are all created through science-informed and collaborative processes that capture the expertise of individuals from around the region. Additionally, they represent the best thinking available to inform the approach to Puget Sound recovery articulated in the Action Agenda. As a result, the outcomes listed in the draft list should be considered well-vetted and the product of science-informed processes led by subject matter experts.</p>
+		<p><strong>How can you weigh in?</strong></p>
+			<p>Partners can review the draft list of outcomes and provide input using this form.</p>
 		
-      	<p><strong>What are the steps in the process?</strong></p>
-		<table class="table">
-		  <tbody>
-			<tr>
-			  <td width="22%"><p><strong>Aug-Sept 2020</strong></p></td>
-			  <td width="76%"><p>Identify a set of shared values that describe our collective ideals about what is good and desirable for recovery.</td>
-			<td width="2%"></p></tr>
-			<tr>
-			  <td><p><strong>Aug-Sept 2020</strong></p></td>
-			  <td><p>Develop an outcome catalog from existing recovery plans, drawing on the hundreds of recovery outcomes articulated by the recovery community.</p></td>
-			</tr>
-			  <tr>
-			  <td><p><strong>Sept-Oct 2020</strong></p></td>
-			  <td><p>Organize outcomes by the ecosystem pressures they would address.</p></td>
-			</tr>
-			</tr>
-			  <tr>
-			  <td><p><strong>Oct-Feb 2021</strong></p></td>
-			  <td><p>Identify priority outcomes, review alternatives, and fine tune the results.</p></td>
-			</tr>
-		  </tbody>
-		</table>
-		<p><strong>How can you participate?</strong> Broad participation by our partner groups is key to developing priority outcomes. Partners can participate in the following ways: </p>
-		<ul>
-			<li>Attend regularly scheduled partner meetings (boards, Local Integrating Organizations, and others).</li>	
-			<li>Review <a href="https://pspwa.box.com/s/148e1j8fdmhr5rhq91ole2lhsrt81x1x">follow-up materials</a> from the workshop in October
-			<li>Stay tuned for more opportunities to participate</li>
-			</li>
-			
-		</ul>
-		<p><strong>How can groups best prepare to engage? </strong>Consider whether the outcomes for Puget Sound recovery you are working toward are clear and which are most important to you and your work. If you are an LIO coordinator, watershed lead, or Implementation Strategy lead consider whether your technical teams and committees are in agreement about your outcomes and which are most important.</p>
-		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information on the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/2ebvje65mkmeveqmgt3l9407jxib0a7z" target="_blank">click here</a>.
-		</p></div>
-        <p>If you have questions or would like a briefing please contact  Beihua Page (<a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov</a>), Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>), or Kristen Durance (<a href="mailto:kdurance@rossstrategic.com">kdurance@rossstrategic.com</a>).</p>
+		<p><strong>How can groups best prepare to engage in phase 3? </strong></p>
+			<p>Desired outcomes will serve as the basis for identifying strategies and actions in the next phases of the Action Agenda update process. Where desired outcomes describe what we intend to accomplish, the strategies and actions will describe how to best achieve those outcomes. Phase 3 will include exercises such as public workshops, partner meetings, and online engagement tools and will be designed to leverage the extensive work completed to date to identify strategies and actions that advance Puget Sound recovery, including existing plans and ongoing programs.</p>
+			<p>To prepare to engage in phase 3 (strategies), consider how you might answer questions such as:
+			<ul>
+				<li>Based on existing plans and programs, as well as emerging opportunities, what are the strategies that will most effectively achieve or advance each outcome over the next 4 years? If you are an LIO coordinator, watershed lead, or Implementation Strategy lead consider what strategies and content from you plans can inform this work.</li>
+				<li>What strategies have the potential to deliver multi-benefits by advancing progress toward multiple outcomes?  </li>
+			</ul>
+			</p>
+        <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>) or Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>).</p>
         <div>
           <div> </div>
         </div>
