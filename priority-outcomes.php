@@ -76,14 +76,14 @@ navSelected = 2;
 		<h2>Desired outcomes are positive changes we want to see in Puget Sound</h2>
 		<p>Desired outcomes focus on reducing adverse effects on the ecosystem (example: toxic pollution in stormwater runoff) and managing the human activities that create them (example: impervious surfaces from development), while maintaining healthy, vibrant, and equitable communities. By successfully achieving the desired outcomes determined in the Action Agenda, the recovery community will accelerate transformative change for Puget Sound recovery.  </p>
 		<p>We will use the priority outcomes as the basis for identifying (1) strategies and actions for the 2022-2026 Action Agenda and (2) an initial set of progress measures to track, report on, and ensure accountability for advancing the desired outcomes. </p>
-			
+			<div hidden>
 			<button class=button style="color:white">Draft desired outcomes for Puget Sound recovery</button><br>
-			<button class=button style="color:white">Fact sheet about the role that desired outcomes play in the 2022-2026 Action Agenda update</button>
+			<button class=button style="color:white">Fact sheet about the role that desired outcomes play in the 2022-2026 Action Agenda update</button></div>
 			
 			<h3>How were the desired outcomes identified?</h3>
 			<p>The draft list of desired outcomes was identified using existing plans, including Implementation Strategies and Local Integrating Organization plans as the primary source. Tribal priorities, salmon recovery plans, and the Orca Task Force recommendations were also referenced. These plans are all created through science-informed and collaborative processes that capture the expertise of individuals from around the region. Additionally, they represent the best thinking available to inform the approach to Puget Sound recovery articulated in the Action Agenda. As a result, the outcomes listed in the draft list should be considered well-vetted and the product of science-informed processes led by subject matter experts.</p>
-		<h3>How can you weigh in?</h3>
-			<p>Partners can review the draft list of outcomes and provide input using this form.</p>
+		<div hidden><h3>How can you weigh in?</h3>
+			<p>Partners can review the draft list of outcomes and provide input using this form.</p></div>
 		
 		<h3>How can groups best prepare to engage in phase 3? </h3>
 			<p>Desired outcomes will serve as the basis for identifying strategies and actions in the next phases of the Action Agenda update process. Where desired outcomes describe what we intend to accomplish, the strategies and actions will describe how to best achieve those outcomes. Phase 3 will include exercises such as public workshops, partner meetings, and online engagement tools and will be designed to leverage the extensive work completed to date to identify strategies and actions that advance Puget Sound recovery, including existing plans and ongoing programs.</p>
