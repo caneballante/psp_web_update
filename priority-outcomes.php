@@ -75,7 +75,7 @@ navSelected = 2;
 
 		<h2>Desired outcomes are positive changes we want to see in Puget Sound</h2>
 		<p>Desired outcomes focus on reducing adverse effects on the ecosystem (example: toxic pollution in stormwater runoff) and managing the human activities that create them (example: impervious surfaces from development), while maintaining healthy, vibrant, and equitable communities. By successfully achieving the desired outcomes determined in the Action Agenda, the recovery community will accelerate transformative change for Puget Sound recovery.  </p>
-		<p>We will use the priority outcomes as the basis for identifying (1) strategies and actions for the 2022-2026 Action Agenda and (2) an initial set of progress measures to track, report on, and ensure accountability for advancing the desired outcomes. </p>
+		<p>We will use the desired outcomes as the basis for identifying (1) strategies and actions for the 2022-2026 Action Agenda and (2) an initial set of progress measures to track, report on, and ensure accountability for advancing the desired outcomes. </p>
 			<div hidden>
 			<button class=button style="color:white">Draft desired outcomes for Puget Sound recovery</button><br>
 			<button class=button style="color:white">Fact sheet about the role that desired outcomes play in the 2022-2026 Action Agenda update</button></div>
