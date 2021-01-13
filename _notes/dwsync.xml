@@ -185,7 +185,6 @@
 <file name="evaluating-vital-signs.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204686" Dst="-1" />
 <file name="funding.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204686" Dst="-1" />
 <file name="government-relations.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204686" Dst="-1" />
-<file name="implementation_strategies_announcements.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204686" Dst="-1" />
 <file name="LC_about.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204687" Dst="-1" />
 <file name="LIO-overview.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204687" Dst="-1" />
 <file name="NEP-communications-toolkit.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204687" Dst="-1" />
@@ -218,7 +217,6 @@
 <file name="soundchoices_2015.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3601401416" remote="3601402432" Dst="-1" />
 <file name="SR_about.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204693" Dst="-1" />
 <file name="strategic-initiatives-leads.php" server="198.238.33.26" local="3584624920" remote="3584625459" Dst="-1" />
-<file name="implementation_strategies_announcements.php" server="198.238.33.26" local="3592228775" remote="3592229389" Dst="-1" />
 <file name="redirect_recovery_atlas.php" server="198.238.33.26" local="3563919306" remote="3563919562" Dst="-1" />
 <file name="redirect_reportcard.php" server="198.238.33.26" local="3563919331" remote="3563919602" Dst="-1" />
 <file name="2017-day-on-the-hill.php" server="198.238.33.26" local="3577815144" remote="3577815584" Dst="-1" />
@@ -278,7 +276,6 @@
 <file name="salmon-recovery-overview.php" server="198.238.137.41" local="3613407296" remote="3613407240" Dst="-1" />
 <file name="2018_AA_update.php" server="198.238.137.41" local="3613068398" remote="3613068360" Dst="-1" />
 <file name="2018_AA_submitted_NTA.php" server="198.238.137.41" local="3615945755" remote="3615945780" Dst="-1" />
-<file name="implementation_strategies_announcements.php" server="198.238.137.41" local="3607541183" remote="3607541160" Dst="-1" />
 <file name="implementation-strategies.php" server="198.238.137.41" local="3626460205" remote="3626460180" Dst="-1" />
 <file name="people-and-puget-sound.php" server="198.238.137.41" local="3617121788" remote="3617121780" Dst="-1" />
 <file name="puget-sound-recovery.php" server="198.238.137.41" local="3608233091" remote="3608233080" Dst="-1" />
@@ -308,7 +305,6 @@
 <file name="PSEMP-calendar.php" server="198.238.137.41/psp.wa.gov/" local="3634235497" remote="3634235460" Dst="-1" />
 <file name="PSEMP-overview.php" server="198.238.137.41/psp.wa.gov/" local="132267898773262806" remote="132267898800000000" Dst="1" />
 <file name="staff.php" server="198.238.137.41/psp.wa.gov/" local="132542647725743985" remote="132542647200000000" Dst="1" />
-<file name="implementation_strategies_announcements.php" server="198.238.137.41/psp.wa.gov/" local="3635171761" remote="3635171760" Dst="-1" />
 <file name="evaluating-actions-to-recover-puget-sound.php" server="198.238.137.41/psp.wa.gov/" local="3644426338" remote="3644508720" Dst="-1" />
 <file name="PSAR.php" server="198.238.137.41/psp.wa.gov/" local="132500468072517839" remote="132500467800000000" Dst="1" />
 <file name="PSAR-resources.php" server="198.238.137.41/psp.wa.gov/" local="132235792215733763" remote="132235792200000000" Dst="1" />
@@ -317,7 +313,7 @@
 <file name="LIO-overview.php" server="198.238.137.41/psp.wa.gov/" local="3643046611" remote="3643046580" Dst="-1" />
 <file name="partnership-boards-overview.php" server="198.238.137.41/psp.wa.gov/" local="132368160509443004" remote="132368160600000000" Dst="2" />
 <file name="2018_AA_submitted_NTA.php" server="198.238.137.41/psp.wa.gov/" local="3644508855" remote="3644508840" Dst="-1" />
-<file name="implementation-strategies.php" server="198.238.137.41/psp.wa.gov/" local="132549479611903086" remote="132549479400000000" Dst="1" />
+<file name="implementation-strategies.php" server="198.238.137.41/psp.wa.gov/" local="132549703077491037" remote="132549702600000000" Dst="1" />
 <file name="NEP-overview.php" server="198.238.137.41/psp.wa.gov/" local="3645448052" remote="3645448020" Dst="-1" />
 <file name="psdoth2020.php" server="198.238.137.41/psp.wa.gov/" local="132393227110076696" remote="132393226800000000" Dst="2" />
 <file name="science-open-standards.php" server="198.238.137.41/psp.wa.gov/" local="132283444285173546" remote="132283444800000000" Dst="2" />

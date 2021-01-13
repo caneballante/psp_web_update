@@ -264,7 +264,7 @@ Developing plans, managing information, and tracking progress during implementat
 				<li role="presentation"><a href="https://pspwa.box.com/v/IS-Guidance">Implementation Strategy Guidelines</a></li>
 				<li role="presentation"><a href="science-adaptive-management-framework.php">Adaptive Management Framework: a results-based approach to managing Puget Sound recovery</a></li>
 				<li role="presentation"><a href="evaluating-human-wellbeing.php">Human Wellbeing Overview</a></li>
-				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/blog/">Strategic Initiatives of the Puget Sound Estuary Program Blog</a></li>
+				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/blog/">Strategic Initiatives of the Puget Sound National Estuary Program Blog</a></li>
 			
 				<!-- InstanceEndEditable -->
 			</ul>
