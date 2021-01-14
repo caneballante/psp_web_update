@@ -76,12 +76,12 @@ navSelected = 2;
 		<h2>Desired outcomes are positive changes we want to see in Puget Sound</h2>
 		<p>Desired outcomes focus on reducing adverse effects on the ecosystem (example: toxic pollution in stormwater runoff) and managing the human activities that create them (example: impervious surfaces from development), while maintaining healthy, vibrant, and equitable communities. By successfully achieving the desired outcomes determined in the Action Agenda, the recovery community will accelerate transformative change for Puget Sound recovery.  </p>
 		<p>We will use the desired outcomes as the basis for identifying (1) strategies and actions for the 2022-2026 Action Agenda and (2) an initial set of progress measures to track, report on, and ensure accountability for advancing the desired outcomes. </p>
-			<div hidden>
-			<button class=button style="color:white">Draft desired outcomes for Puget Sound recovery</button><br>
-			<button class=button style="color:white">Fact sheet about the role that desired outcomes play in the 2022-2026 Action Agenda update</button></div>
+			
+			<button class=button a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" style="color:white"><strong>Draft desired outcomes for Puget Sound recovery</strong></a></button><br>
+			<div hidden><button class=button style="color:white">Fact sheet about the role that desired outcomes play in the 2022-2026 Action Agenda update</button></div>
 			
 			<h3>How were the desired outcomes identified?</h3>
-			<p>The draft list of desired outcomes was identified using existing plans, including Implementation Strategies and Local Integrating Organization plans as the primary source. Tribal priorities, salmon recovery plans, and the Orca Task Force recommendations were also referenced. These plans are all created through science-informed and collaborative processes that capture the expertise of individuals from around the region. Additionally, they represent the best thinking available to inform the approach to Puget Sound recovery articulated in the Action Agenda. As a result, the outcomes listed in the draft list should be considered well-vetted and the product of science-informed processes led by subject matter experts.</p>
+			<p>The draft list of desired outcomes was identified using existing plans, including Implementation Strategies and Local Integrating Organization (LIO) plans as the primary source. Tribal priorities, salmon recovery plans, and the Orca Task Force recommendations were also referenced. These plans are all created through science-informed and collaborative processes that capture the expertise of individuals from around the region. Additionally, they represent the best thinking available to inform the approach to Puget Sound recovery articulated in the Action Agenda. The outcomes in Implementation Strategies, LIO plans, and other plans are all created through well-vetted, science-informed, and collaborative processes led by subject matter experts that capture knowledge from around the region.</p>
 		<div hidden><h3>How can you weigh in?</h3>
 			<p>Partners can review the draft list of outcomes and provide input using this form.</p></div>
 		
