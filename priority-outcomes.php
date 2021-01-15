@@ -79,7 +79,7 @@ navSelected = 2;
 			
 			<button class="button button1"><a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank" style="color:white"><strong>Click here to view the draft desired outcomes for Puget Sound recovery</strong></a></button><br>
 			<div hidden>
-			<button class="button1" style="color:white"><strong>Fact sheet about the role that desired outcomes play in the 2022-2026 Action Agenda update</strong></button></div>
+			<button class="button button1"><a href="https://pspwa.box.com/s/d3bhfz68nor5jfqz3y97wdfhy365dhzc" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that desired outcomes play in the 2022-2026 Action Agenda update</strong></a></button></div>
 			
 			<h3>How were the desired outcomes identified?</h3>
 			<p>The draft list of desired outcomes was identified using existing plans, including Implementation Strategies and Local Integrating Organization (LIO) plans as initial sources. Partnership staff worked in collaboration with representatives of Puget Sound tribes, LIOs, state agencies, and the Environmental Protection Agency (EPA) to assemble data about the stressors and sources that are addressed through existing plans. The outcomes in Implementation Strategies, LIO plans, and other plans are all created through well-vetted, science-informed, and collaborative processes led by subject matter experts that capture knowledge from around the region.</p>
