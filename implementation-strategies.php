@@ -183,12 +183,7 @@ Developing plans, managing information, and tracking progress during implementat
                 <li>Participate in Strategy development, which is a collaborative undertaking. </li>
                 <li>Provide LIO ecosystem recovery plans. The plans are instrumental in providing watershed-specific context to the developing Strategy.</li>
             </ul>
-            <h2>IMPLEMENTATION STRATEGIES IN 2019</h2>
-            <p>Implementation Strategies for the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/16">Shoreline Armoring</a> and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/18">Chinook Salmon</a> Vital Signs were released in 2018 and contain information and strategies that are ready for implementation. In 2019, three new Strategies are currently under development, with updates underway for partially completed strategies. </p>
-		<strong>
-		<p>Marine Water Quality<br>
-		</p></strong>
-			<p>With support from the Stormwater Strategic Initiative, Dustin Bilhimer, the Puget Sound Nutrient Source Reduction Project Manager with the Department of Ecology, is guiding the development of an Implementation Strategy targeted at the marine water quality vital sign indicator for dissolved oxygen in marine waters. Along with informing discussions in the <a href="https://www.ezview.wa.gov/DesktopDefault.aspx?alias=1962&pageid=37106">Puget Sound Nutrient Forum</a> this Implementation Strategy aims to address the human impacts on the amount of dissolved oxygen in marine waters. Together, the Marine Water Quality IS and the Puget Sound Nutrient Source Reduction Project look to address questions such as what actions are needed to reduce nutrients, where, and by how much. <strong></strong></p>
+            
 		
 			<a name="implementation-strategy-resources"></a>
             <h2>IMPLEMENTATION STRATEGY RESOURCES AVAILABLE</h2>
