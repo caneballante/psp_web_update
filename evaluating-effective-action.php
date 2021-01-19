@@ -283,7 +283,7 @@
 					<td><p><a href="https://pspwa.box.com/s/965ygd7b1vcf8oci6p1qiddpy19rl4zp">Download the  King County tree planting fact sheet</a></p>
 					<p><a href="https://app.box.com/s/2wi21g2wfs2cl97q4p1tuz7vq005u55u">Download the full King County tree planting background summary</a></p></td></tr>
 			</table>
-			<p>To propose a project, contact Leska Fore, Science and Evaluation, Puget Sound Partnership: <a href="mailto:leska.fore@psp.wa.gov">leska.fore@psp.wa.gov</a></p>
+			<p>To propose a project, contact Elene Trujillo, Effectiveness Monitoring, Science and Evaluation, Puget Sound Partnership: <a href="mailto:elene.trujillo@psp.wa.gov">elene.trujillo@psp.wa.gov</a></p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
