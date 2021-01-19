@@ -78,13 +78,14 @@ navSelected = 2;
 		<p>We will use the desired outcomes as the basis for identifying (1) strategies and actions for the 2022-2026 Action Agenda and (2) an initial set of progress measures to track, report on, and ensure accountability for advancing the desired outcomes. </p>
 			
 			<button class="button button1"><a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank" style="color:white"><strong>Click here to view the draft desired outcomes for Puget Sound recovery</strong></a></button><br>
-			<div hidden>
-			<button class="button button1"><a href="https://pspwa.box.com/s/d3bhfz68nor5jfqz3y97wdfhy365dhzc" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that desired outcomes play in the 2022-2026 Action Agenda update</strong></a></button></div>
+			
+			<button class="button button1"><a href="https://pspwa.box.com/s/d3bhfz68nor5jfqz3y97wdfhy365dhzc" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that desired outcomes play in the 2022-2026 Action Agenda update</strong></a></button>
 			
 			<h3>How were the desired outcomes identified?</h3>
 			<p>The draft list of desired outcomes was identified using existing plans, including Implementation Strategies and Local Integrating Organization (LIO) plans as initial sources. Partnership staff worked in collaboration with representatives of Puget Sound tribes, LIOs, state agencies, and the Environmental Protection Agency (EPA) to assemble data about the stressors and sources that are addressed through existing plans. The outcomes in Implementation Strategies, LIO plans, and other plans are all created through well-vetted, science-informed, and collaborative processes led by subject matter experts that capture knowledge from around the region.</p>
-		<div hidden><h3>How can you weigh in?</h3>
-			<p>Partners can review the draft list of outcomes and provide input using this form.</p></div>
+		<h3>How can you weigh in?</h3>
+			<p>Partners can review the draft list of desired outcomes and provide input.</p>
+			<button class="button button1"><a href="https://survey.zohopublic.com/zs/vcCsGo" target="_blank" style="color:white"><strong>Click here to provide input on the draft desired outcomes</strong></a></button>
 		
 		<h3>How can groups best prepare to engage in phase 3? </h3>
 			<p>Desired outcomes will serve as the basis for identifying strategies and actions in the next phases of the Action Agenda update process. Where desired outcomes describe what we intend to accomplish, the strategies and actions will describe how to best achieve those outcomes. Phase 3 will include exercises such as public workshops, partner meetings, and online engagement tools and will be designed to leverage the extensive work completed to date to identify strategies and actions that advance Puget Sound recovery, including existing plans and ongoing programs.</p>
