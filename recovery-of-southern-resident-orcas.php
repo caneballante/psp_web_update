@@ -54,12 +54,7 @@
 			<div class="col-sm-9 margin-40-left padding-20-top padding-40-right content-column mobile-padding-20-left">
 				<div class="width-300-govdelivery-doth border-thin-blue floatright padding-10-all margin-30-bottom">
 					<h3 class="margin-0-top">HOW TO STAY INVOLVED</h3>
-					<p><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force"><strong>See Governor’s Orca Recovery Task Force working group schedules and agendas</strong></a></p>
-					<p><strong><a href="https://public.govdelivery.com/accounts/WAPSP/subscriber/new?qsp=WAPSP_1+">Get email updates from the task force</a>						
-					</strong>
-					<p><strong><a href="https://www.surveymonkey.com/r/srkwtfpubliccomment">Send comments to the task force</a>	
-					
-					</strong>
+					<p><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force"><strong>Governor’s Orca Recovery Task Force</strong></a>                    </p>
 					<hr>
 					<p><a href="https://pspwa.box.com/v/orca-task-force-boating-guide">Orca Task Force Boating Guidelines</a> (released 8.17.18)</p>
 					<p><a href="https://pspwa.box.com/v/orca-task-force-boating-guide"><img src="images/orca-task-force-boating-guidelines.jpg" width="230" height="290" alt=""/></a></p>
@@ -68,17 +63,7 @@
 					<p>Puget Sound&rsquo;s southern resident orcas became the focus of international attention in 2018, when their plummeting numbers and critical situation culminated in the death of a newborn calf whose mother grieved over the body for an unprecedented 17 days and 1000 miles. <br>
 					The southern resident orcas have declined to a 30-year low of just 74 animals, following the death of seven individuals in 2017 and, more recently, the death of Scarlet (J50) in September 2018. This alarming decline signals that the southern resident population is in severe jeopardy and at risk of extinction if no action is taken.  </p>
 				<p>The primary factors threatening orcas in Puget Sound are: not enough prey, specifically Chinook salmon; toxic contaminants in the water and their food; and disturbance from noise and vessel traffic. </p>
-				<h2>Partnership staff responds to Governor Inslee&rsquo;s call for action</h2>
-					<p>In March 2018, Governor Inslee issued an <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">executive order</a> requiring state agencies to take immediate action to protect the remaining orca. His order established the Southern Resident Orca Task Force to recommend the best actions to recover the southern residents. His order directs the Puget Sound Partnership and the Department of Fish and Wildlife to convene and support the Task Force. </p>
-				<p>In this role, Partnership staff:</p>
-				<ul>
-					<li>Serve on the Task Force steering committee;</li>
-					<li>Chair the Vessels Working Group of the Task Force; and</li>
-					<li>Coordinate communication across state and federal agencies and to the public.</li>
-				</ul>
-				<p>In addition, the Governor appointed the vice chair of the Leadership Council, Stephanie Solien, to serve as co-chair of the Task Force, alongside former Evergreen State College President, Les Purce. Sheida Sahandy, the Partnership&rsquo;s Executive Director, was appointed as a Task Force member.</p>
-				<h2>Orcas matter for a healthy Puget Sound</h2>
-				<p>Catching sight of an orca while riding a ferry or visiting a state park is always a memorable event. During the summer months, southern resident orcas are found in the inland marine waters of Washington and southern British Columbia hunting Chinook salmon and other fish species. Healthy orcas represent a healthy ecosystem because they occupy an important niche at the top of the food web. The thrill of seeing an orca in the wild supports a multi-million dollar whale-watching industry, which supports a healthy local economy. </p>
+				
 				<p>&nbsp;</p>
 				<h2>Southern resident orcas prefer salmon</h2>
 				<p>Year-round, southern resident orcas depend heavily on Chinook salmon for food. Chinook salmon are listed as threatened under the Endangered Species Act and many of the remaining populations are far below federal recovery goals.</p>
@@ -97,7 +82,18 @@
 					                                                           </p>
 				<h2>Noisy waters threaten orcas</h2>
 				<p>Orcas emit sounds and listen for their echoes reflected back to them from underwater objects. Echolocation helps them find salmon and communicate with one another. Underwater noise from boat and ship traffic makes it difficult for them to hear their own echoes and capture their food. </p><p>
-					From 2012-2015, the Partnership convened the Vessel Traffic Risk Assessment Steering Committee to promote safe maritime transport and reduce the risks associated with oil spills.   Findings from this group now support the Vessels Working Group of the Orca Task Force to identify key actions to protect orcas from vessel traffic and underwater noise. Their recommendations were shared with the Puget Sound boating community as a <a href="https://pspwa.box.com/v/orca-task-force-boating-guide">factsheet</a>.</p><br><br>
+					From 2012-2015, the Partnership convened the Vessel Traffic Risk Assessment Steering Committee to promote safe maritime transport and reduce the risks associated with oil spills.   Findings from this group now support the Vessels Working Group of the Orca Task Force to identify key actions to protect orcas from vessel traffic and underwater noise. Their recommendations were shared with the Puget Sound boating community as a <a href="https://pspwa.box.com/v/orca-task-force-boating-guide">factsheet</a>.</p>
+				<h2>Partnership staff responds to Governor Inslee&rsquo;s call for action</h2>
+					<p>In March 2018, Governor Inslee issued an <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">executive order</a> requiring state agencies to take immediate action to protect the remaining orca. His order established the Southern Resident Orca Task Force to recommend the best actions to recover the southern residents. His order directs the Puget Sound Partnership and the Department of Fish and Wildlife to convene and support the Task Force. </p>
+				<p>In this role, Partnership staff:</p>
+				<ul>
+					<li>Serve on the Task Force steering committee;</li>
+					<li>Chair the Vessels Working Group of the Task Force; and</li>
+					<li>Coordinate communication across state and federal agencies and to the public.</li>
+				</ul>
+				<p>In addition, the Governor appointed the vice chair of the Leadership Council, Stephanie Solien, to serve as co-chair of the Task Force, alongside former Evergreen State College President, Les Purce. Sheida Sahandy, the Partnership&rsquo;s Executive Director, was appointed as a Task Force member.</p>
+				<h2>Orcas matter for a healthy Puget Sound</h2>
+				<p>Catching sight of an orca while riding a ferry or visiting a state park is always a memorable event. During the summer months, southern resident orcas are found in the inland marine waters of Washington and southern British Columbia hunting Chinook salmon and other fish species. Healthy orcas represent a healthy ecosystem because they occupy an important niche at the top of the food web. The thrill of seeing an orca in the wild supports a multi-million dollar whale-watching industry, which supports a healthy local economy. </p>
 				<h2>RELATED LINKS</h2>
 				<ul type="disc">
 					<li><strong><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">Governor&rsquo;s office&nbsp;</a></strong></li>
