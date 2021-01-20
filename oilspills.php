@@ -42,13 +42,14 @@
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-40-left"> <!-- InstanceBeginEditable name="9col_header" -->
-			<h1>OIL SPILL ISSUES AND THE PUGET SOUND PARTNERSHIP</h1>
+			<h1 class="padding-20-left">OIL SPILL ISSUES AND THE PUGET SOUND PARTNERSHIP</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
 	<div class="row">  
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
+			<div class="padding-40-left">
 			<p><strong>UPDATE: FALL 2015 </strong><br>
 				Oil transportation by rail and other modes has changed markedly in Washington State over the past 6 years—especially in inland areas and along the Columbia River and Grays Harbor. Given the statewide nature of these changes and the Partnership&rsquo;s evolving focus on Puget Sound, the Oil Spill Work Group disbanded in fall 2015 after a 2-year hiatus. Nevertheless, the products of the group&rsquo;s efforts (like the Puget Sound Vessel Traffic Risk Assessment, described below) will continue to inform ongoing policy and management conversations.</p>
 			<p>Oil spill prevention and planning is critical in our region. Going forward, the Puget Sound Partnership will continue, as we are able, to participate in regional oil-spill planning and prevention forums (like the Northwest Area Committee, Pacific States/British Columbia Oil Spill Task Force, and the Puget Sound Harbor Safety Committee).</p>
@@ -186,6 +187,7 @@
 					<li><a href="http://www.oilspilltaskforce.org" style="font-weight: bold">Pacific States/British Columbia Spill Task Force</a></li>
 					<li><span style="font-weight: bold"><a href="http://www.pshsc.org/">Puget Sound Harbor Safety Committee</a></span></li>
 				</ul>
+				</div>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
