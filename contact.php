@@ -77,7 +77,7 @@
 			Olympia,  WA 98501</p>
 			<h3>MAILING ADDRESS:</h3>
 			<p> Puget Sound Partnership, <br>
-				PO Box WT-41, Olympia, WA 98504-7000 </p>
+		    PO BOX 40900, Olympia  WA  98504</p>
 			<p>&nbsp;</p>
 			<h3>Please send public record requests to:</h3>
 			<p><a href="mailto:publicrecords@psp.wa.gov">publicrecords@psp.wa.gov</a></p>
