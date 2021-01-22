@@ -93,6 +93,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2a9eeed" target="_blank">Pre-session Committee Work Sessions</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b4a857" target="_blank">Week 1, January 11 - 15, 2021</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b7f848" target="_blank">Week 2, January 18 - 22, 2021</a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2ba9198" target="_blank">Week 3, January 25 - 29, 2021</a></p>
             
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			
