@@ -66,7 +66,12 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<p>The Science Panel's expertise and advice are critical to the Puget Sound Partnership&rsquo;s efforts to develop a comprehensive, science-based plan to restore Puget Sound. The members, appointed by the Leadership Council, were chosen from the top scientists in Washington State. 2020 Meeting schedules can be found <a href="board_meetings.php">here.</a><br></p>
+		<div class="highlightbox">
+			<h3>Call for applications</h3>
+			<p>The Leadership Council of the Puget Sound Partnership is seeking <a href="https://pspwa.box.com/s/u43rx2s5vyp0f7l2lqwn6wht1uumjhhp" target="_blank">nominations to the Puget Sound Partnership's Science Panel</a>. This is your opportunity to join a committee that influences and develops science-based policy for the protection and recovery of Puget Sound. Qualified individuals are invited to nominate themselves for appointment to this board. Nominations are due by <strong>March 31, 2021</strong>. <a href="https://pspwa.box.com/s/1l9odnlj9tv4zl21s7vi4naj6mhemagv" target="_blank">Additional information can be found here</a>. 
+			</p>
+			</div>
+			<p>The Science Panel's expertise and advice are critical to the Puget Sound Partnership&rsquo;s efforts to develop a comprehensive, science-based plan to restore Puget Sound. The members, appointed by the Leadership Council, were chosen from the top scientists in Washington State. 2020 Meeting schedules can be found <a href="board_meetings.php">here.</a><br></p>
 		<!--START IFRAME-->
 	       <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=34b79c1749f94979b7fcc38cb37bdce0"></IFRAME>
 			 <!--END IFRAME-->
