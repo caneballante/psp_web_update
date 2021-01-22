@@ -133,10 +133,25 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/science-panel-announcement.jpg"  alt="Aerial photo of Bellingham and Puget Sound. Photo credit: Brandon Sawaya."/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://pspwa.box.com/s/u43rx2s5vyp0f7l2lqwn6wht1uumjhhp" target="_blank">Call for nominations to the Puget Sound Partnership Science Panel</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/PSPSNC_news.jpg"  alt="Photo of Pacific herring swimming in eelgrass. Photo credit: Florian Graner."/> 
 					<strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership credits will fund nearshore conservation</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -158,7 +173,7 @@ and recovering Puget Sound</h1>
 				
 			</div>
 		<!--COLUMN END-->
-			<!--COLUMN START-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -166,21 +181,6 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2019.jpg"  alt="Image from the cover of the Puget Sound Marine Waters 2019 Overview report"/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="/PSmarinewatersoverview.php">Puget Sound Marine Waters 2019 Overview</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt="Photo of orcas swimming in the water"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
@@ -193,10 +193,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/IllaheeWeb.jpg"  alt="Photo of Port Orchard Passage, from the Illahee Dock. Photo credit: Ross Lytle, Kitsap Public Health District"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/washington-state-department-of-health-partners-with-communities-to-reopen-shellfish-harvesting-f9449a001c3f" target="_blank">Washington State Department of Health partners with communities to reopen shellfish harvesting areas</a><br>
-						<!--END news content BOX--> 
+					  <img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt="Photo of orcas swimming in the water"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a><br>
+						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
