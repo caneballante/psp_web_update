@@ -109,6 +109,7 @@
 					<li><strong><a href="https://medium.com/puget-sound-partnership/new-rules-for-boating-around-orcas-edd234fcc4d7" target="_blank">Puget Sound Partnership blog: Reviewing the new rules for boating around orcas</a></strong></li>
 					<li><strong><a href="https://parks.state.wa.us">Washington State Parks</a></strong></li>
 				</ul>
+				<p class="last-update">Last updated: 01/25/21</p>
 			</div>
 
 			
