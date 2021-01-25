@@ -83,6 +83,7 @@
             360.742.2936 </p>
 			<h3>Board Materials</h3>
 			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a>			</p>
+			<p class="last-update">Last updated: 01/25/21</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		
