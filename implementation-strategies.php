@@ -220,6 +220,7 @@ Developing plans, managing information, and tracking progress during implementat
 				<li><a href="https://www.miradishare.org/ux/project/psp-pugetsoundrecover-2019-00053/">Marine Water Quality Miradi Project</a></li>
 				<li><a href="https://www.miradishare.org/ux/project/psp-pugetsoundrecover-2016-00040/">Chinook Salmon Miradi Project</a></li>
            	</ul>
+			<p class="last-update">Last updated: 01/22/21</p>
 			
 		<!-- InstanceEndEditable --> </div>
 		
