@@ -80,7 +80,7 @@
 				
 				<h2>Southern resident orcas need clean water </h2>
 				<p>Orcas living off the coast of Seattle, Tacoma, and other urban areas are exposed to polluted runoff from roads, rooftops, and buildings. These toxic contaminants accumulate in orcas and can make them sick or vulnerable to disease. </p><p>
-					The Partnership tracks these harmful contaminants as part of <a href="http://www.psp.wa.gov/vitalsigns/toxics_in_fish.php">the Toxics in Fish Vital Sign</a> and works with regional partners to develop a recovery plan, called an Implementation Strategy, that outlines recommendations on the most effective approaches to reduce toxic pollution in Puget Sound. This group also provides technical support to the Southern Resident Orca Task Force. <br>
+					The Partnership tracks these harmful contaminants as part of <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11">the Toxics in Fish Vital Sign</a> and works with regional partners to develop a recovery plan, called an Implementation Strategy, that outlines recommendations on the most effective approaches to reduce toxic pollution in Puget Sound. This group also provides technical support to the Southern Resident Orca Task Force. <br>
 					                                                           </p>
 				<h2>Noisy waters threaten orcas</h2>
 				<p>Orcas emit sounds and listen for their echoes reflected back to them from underwater objects. Echolocation helps them find salmon and communicate with one another. Underwater noise from boat and ship traffic makes it difficult for them to hear their own echoes and capture their food. </p><p>
@@ -101,8 +101,8 @@
 					<li><strong><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">Governor&rsquo;s office&nbsp;</a></strong></li>
 					<li><strong><a href="https://ecology.wa.gov/Water-Shorelines/Puget-Sound/Orca-task-force">Department of Ecology</a></strong></li>
 					<li><strong><a href="https://wdfw.wa.gov/conservation/orca/">Department of Fish and Wildlife</a></strong></li>
-					<li><strong><a href="https://rco.wa.gov/salmon_recovery/gsro.shtml">Governor&rsquo;s Salmon Recovery Office</a></strong></li>
-					<li><strong><a href="http://www.nmfs.noaa.gov/pr/species/mammals/whales/killer-whale.html">NOAA Fisheries</a></strong>&nbsp;(National Oceanic and Atmospheric Administration)</li>
+					<li><strong><a href="https://rco.wa.gov/salmon-recovery/governors-salmon-recovery-office/">Governor&rsquo;s Salmon Recovery Office</a></strong></li>
+					<li><strong><a href="https://www.fisheries.noaa.gov/species/killer-whale">NOAA Fisheries</a></strong>&nbsp;(National Oceanic and Atmospheric Administration)</li>
 					<li><strong><a href="https://parks.state.wa.us">Washington State Parks</a></strong></li>
 				</ul>
 			</div>
