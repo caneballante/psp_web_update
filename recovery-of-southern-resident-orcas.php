@@ -98,11 +98,15 @@
 				<p>Catching sight of an orca while riding a ferry or visiting a state park is always a memorable event. During the summer months, southern resident orcas are found in the inland marine waters of Washington and southern British Columbia hunting Chinook salmon and other fish species. Healthy orcas represent a healthy ecosystem because they occupy an important niche at the top of the food web. The thrill of seeing an orca in the wild supports a multi-million dollar whale-watching industry, which supports a healthy local economy. </p>
 				<h2>RELATED LINKS</h2>
 				<ul type="disc">
-					<li><strong><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">Governor&rsquo;s office&nbsp;</a></strong></li>
-					<li><strong><a href="https://ecology.wa.gov/Water-Shorelines/Puget-Sound/Orca-task-force">Department of Ecology</a></strong></li>
-					<li><strong><a href="https://wdfw.wa.gov/conservation/orca/">Department of Fish and Wildlife</a></strong></li>
-					<li><strong><a href="https://rco.wa.gov/salmon-recovery/governors-salmon-recovery-office/">Governor&rsquo;s Salmon Recovery Office</a></strong></li>
-					<li><strong><a href="https://www.fisheries.noaa.gov/species/killer-whale">NOAA Fisheries</a></strong>&nbsp;(National Oceanic and Atmospheric Administration)</li>
+					<li><strong><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force" target="_blank">Governor&rsquo;s office&nbsp;</a></strong></li>
+					<li><strong><a href="https://ecology.wa.gov/Water-Shorelines/Puget-Sound/Orca-task-force" target="_blank">Department of Ecology</a></strong></li>
+					<li><strong><a href="https://wdfw.wa.gov/conservation/orca/" target="_blank">Department of Fish and Wildlife</a></strong></li>
+					<li><strong><a href="https://rco.wa.gov/salmon-recovery/governors-salmon-recovery-office/" target="_blank">Governor&rsquo;s Salmon Recovery Office</a></strong></li>
+					<li><strong><a href="https://www.fisheries.noaa.gov/species/killer-whale" target="_blank">NOAA Fisheries</a></strong>&nbsp;(National Oceanic and Atmospheric Administration)</li>
+					<li><strong><a href="https://www.bewhalewise.org/" target="_blank">Be Whale Wise</a></strong></li>
+					<li><strong><a href="https://wdfw.medium.com/how-washington-is-doing-on-orca-recovery-and-what-comes-next-3b97e76c9e85
+" target="_blank">Department of Fish and Wildlife blog: How Washington is doing on orca recovery — and what comes next</a></strong></li>
+					<li><strong><a href="https://medium.com/puget-sound-partnership/new-rules-for-boating-around-orcas-edd234fcc4d7" target="_blank">Puget Sound Partnership blog: Reviewing the new rules for boating around orcas</a></strong></li>
 					<li><strong><a href="https://parks.state.wa.us">Washington State Parks</a></strong></li>
 				</ul>
 			</div>
