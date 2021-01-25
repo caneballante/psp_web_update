@@ -96,6 +96,7 @@ navSelected = 2;
 			</ul>
 			</p>
         <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>) or Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>).</p>
+		<p class="last-update">Last updated: 01/20/21</p>
         <div>
           <div> </div>
         </div>
