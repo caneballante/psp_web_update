@@ -82,7 +82,8 @@
 					<input type="text" class="form-control" id="email" name="email" type="text" placeholder="your email..."/>
 					<span class="input-group-btn">
 					<button class="btn btn-default" name="commit" type="submit" value="Submit">SUBMIT</button>
-				</span> </div>
+				</span> </div><br>
+				<p>If you would like to join the Partnership's weekly legislative update calls (Fridays at 11:30 a.m.), please email Don Gourlie at <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>.</p>
 			</form>
 			<!-- /input-group --> 
 		</div>
