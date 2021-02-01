@@ -1,6 +1,22 @@
 {
 	"news-releases": 
     {	 
+		"release93": {
+			"date": "February 1, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2bdd6ab'>Congress moves to invest in the nation's estuaries</a>"
+		},
+		"release92": {
+			"date": "January 25, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2baebe4'>Salmon Recovery Council to discuss draft desired outcomes for the 2022-2026 Action Agenda</a>"
+		},
+		"release91": {
+			"date": "January 19, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2b9a2e4'>Ecosystem Coordination Board to discuss the draft desired outcomes for the 2022-2026 Action Agenda</a>"
+		},
+		"release90": {
+			"date": "December 14, 2020",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2b0be84'>Puget Sound Partnership Leadership Council to discuss strategies for efficient restoration permitting</a>"
+		},
 		"release89": {
 			"date": "December 7, 2020",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2b01317'>Puget Sound Partnership's Science Panel to discuss Science Work Plan for 2020-2024</a>"
