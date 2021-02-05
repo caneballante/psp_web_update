@@ -96,6 +96,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b7f848" target="_blank">Week 2, January 18 - 22, 2021</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2ba9198" target="_blank">Week 3, January 25 - 29, 2021</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2bd16b1" target="_blank">Week 4, February 1 - 5, 2021</a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2bfc04a" target="_blank">Week 5, February 8 - 12, 2021</a></p>
             
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			
@@ -105,6 +106,7 @@
 			<p><a href="https://pspwa.box.com/s/9b9itxj41tx6pbf0gkh73848t1fpu253" target="_blank">January 15, 2021 call recording</a> and <a href="https://pspwa.box.com/s/0ia67di5zspo1lsnn2zvvx6bb6tdha9v" target="_blank">presentation</a></p>
 			<p><a href="https://pspwa.box.com/s/xaqgl1f2hafu2dgzi707zj3vc9seaus7" target="_blank">January 22, 2021 call recording</a> and <a href="https://pspwa.box.com/s/u6etk8ydjlgd1vtesl30t0fd7vjpcsup" target="_blank">presentation</a></p>
 			<p><a href="https://pspwa.box.com/s/xt2urul9w4mb910hrf3br82d7qj00iwe" target="_blank">January 29, 2021 call recording</a> and <a href="https://pspwa.box.com/s/v9nb20xgnyansv953gdfnmtm0ackgmov" target="_blank">presentation</a></p>
+			<p><a href="https://pspwa.box.com/s/u8zeicsayf8modpi5no1nwe4zzu7bgox" target="_blank">February 5, 2021 call recording</a> and <a href="https://pspwa.box.com/s/zlvqdnk4f67f4v3yl4dnusuddk3kbyd5" target="_blank">presentation</a></p>
             
             
            
