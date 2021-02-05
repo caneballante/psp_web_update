@@ -120,7 +120,7 @@ and recovering Puget Sound</h1>
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
 					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
-						<a href="/legislative_updates.php">Week 4, February 1 - 5</a><br>
+						<a href="/legislative_updates.php">Week 5, February 8 - 12</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
