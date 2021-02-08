@@ -62,13 +62,13 @@
 					<p><a href="https://pspwa.box.com/v/orca-task-force-boating-guide"><img src="images/orca-task-force-boating-guidelines.jpg" width="230" height="290" alt=""/></a></p>
 				</div>
 				<h2 class="margin-0-top">A species in crisis</h2>
-					<p>Puget Sound&rsquo;s southern resident orcas became the focus of international attention in 2018, when their plummeting numbers and critical situation culminated in the death of a newborn calf whose mother grieved over the body for an unprecedented 17 days and 1000 miles. <br>
-					The southern resident orcas have declined to a 30-year low of just 74 animals, following the death of seven individuals in 2017 and, more recently, the death of Scarlet (J50) in September 2018. This alarming decline signals that the southern resident population is in severe jeopardy and at risk of extinction if no action is taken.  </p>
+					<p>Puget Sound&rsquo;s Southern Resident orcas became the focus of international attention in 2018, when their plummeting numbers and critical situation culminated in the death of a newborn calf whose mother grieved over the body for an unprecedented 17 days and 1000 miles. <br>
+					The Southern Resident orcas have declined to a 30-year low of just 74 animals. This alarming decline signals that the Southern Resident population is in severe jeopardy and at risk of extinction if no action is taken.  </p>
 				<p>The primary factors threatening orcas in Puget Sound are: not enough prey, specifically Chinook salmon; toxic contaminants in the water and their food; and disturbance from noise and vessel traffic. </p>
 				
 				<p>&nbsp;</p>
-				<h2>Southern resident orcas prefer salmon</h2>
-				<p>Year-round, southern resident orcas depend heavily on Chinook salmon for food. Chinook salmon are listed as threatened under the Endangered Species Act and many of the remaining populations are far below federal recovery goals.</p>
+				<h2>Southern Resident orcas prefer salmon</h2>
+				<p>Year-round, Southern Resident orcas depend heavily on Chinook salmon for food. Chinook salmon are listed as threatened under the Endangered Species Act and many of the remaining populations are far below federal recovery goals.</p>
 				<p>The Puget Sound Partnership&rsquo;s Leadership Council is the designated regional salmon recovery organization for Puget Sound and is advised by the Puget Sound Salmon Recovery Council, both boards are supported by the Partnership. Since 2007, the Puget Sound Acquisition and Restoration (PSAR) program has provided more than $200 M to recover salmon habitat by restoring more than 3,000 acres of estuarine habitat, protecting over 10,000 acres of land, and opening almost 80 miles of stream for fish passage. </p>
 				<p>The Puget Sound Partnership works across Puget Sound to plan, fund, and implement recovery actions by:</p>
 				<ul>
@@ -78,7 +78,7 @@
 					<li>Evaluating what's working to restore salmon populations to prioritize the most effective actions for restoration.</li>
 				</ul>
 				
-				<h2>Southern resident orcas need clean water </h2>
+				<h2>Southern Resident orcas need clean water </h2>
 				<p>Orcas living off the coast of Seattle, Tacoma, and other urban areas are exposed to polluted runoff from roads, rooftops, and buildings. These toxic contaminants accumulate in orcas and can make them sick or vulnerable to disease. </p><p>
 					The Partnership tracks these harmful contaminants as part of <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11">the Toxics in Fish Vital Sign</a> and works with regional partners to develop a recovery plan, called an Implementation Strategy, that outlines recommendations on the most effective approaches to reduce toxic pollution in Puget Sound. This group also provides technical support to the Southern Resident Orca Task Force. <br>
 					                                                           </p>
@@ -95,7 +95,7 @@
 				</ul>
 				<p>In addition, the Governor appointed the vice chair of the Leadership Council, Stephanie Solien, to serve as co-chair of the Task Force, alongside former Evergreen State College President, Les Purce. Sheida Sahandy, the Partnership&rsquo;s Executive Director, was appointed as a Task Force member.</p>
 				<h2>Orcas matter for a healthy Puget Sound</h2>
-				<p>Catching sight of an orca while riding a ferry or visiting a state park is always a memorable event. During the summer months, southern resident orcas are found in the inland marine waters of Washington and southern British Columbia hunting Chinook salmon and other fish species. Healthy orcas represent a healthy ecosystem because they occupy an important niche at the top of the food web. The thrill of seeing an orca in the wild supports a multi-million dollar whale-watching industry, which supports a healthy local economy. </p>
+				<p>Catching sight of an orca while riding a ferry or visiting a state park is always a memorable event. During the summer months, Southern Resident orcas are found in the inland marine waters of Washington and southern British Columbia hunting Chinook salmon and other fish species. Healthy orcas represent a healthy ecosystem because they occupy an important niche at the top of the food web. The thrill of seeing an orca in the wild supports a multi-million dollar whale-watching industry, which supports a healthy local economy. </p>
 				<h2>RELATED LINKS</h2>
 				<ul type="disc">
 					<li><strong><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force" target="_blank">Governor&rsquo;s office&nbsp;</a></strong></li>
@@ -109,7 +109,7 @@
 					<li><strong><a href="https://medium.com/puget-sound-partnership/new-rules-for-boating-around-orcas-edd234fcc4d7" target="_blank">Puget Sound Partnership blog: Reviewing the new rules for boating around orcas</a></strong></li>
 					<li><strong><a href="https://parks.state.wa.us">Washington State Parks</a></strong></li>
 				</ul>
-				<p class="last-update">Last updated: 01/25/21</p>
+				<p class="last-update">Last updated: 02/08/21</p>
 			</div>
 
 			
