@@ -86,14 +86,15 @@
 				<p>Orcas emit sounds and listen for their echoes reflected back to them from underwater objects. Echolocation helps them find salmon and communicate with one another. Underwater noise from boat and ship traffic makes it difficult for them to hear their own echoes and capture their food. </p><p>
 					From 2012-2015, the Partnership convened the Vessel Traffic Risk Assessment Steering Committee to promote safe maritime transport and reduce the risks associated with oil spills.   Findings from this group now support the Vessels Working Group of the Orca Task Force to identify key actions to protect orcas from vessel traffic and underwater noise. Their recommendations were shared with the Puget Sound boating community as a <a href="https://pspwa.box.com/v/orca-task-force-boating-guide">factsheet</a>.</p>
 				<h2>Partnership staff responds to Governor Inslee&rsquo;s call for action</h2>
-					<p>In March 2018, Governor Inslee issued an <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">executive order</a> requiring state agencies to take immediate action to protect the remaining orca. His order established the Southern Resident Orca Task Force to recommend the best actions to recover the Southern Residents. His order directs the Puget Sound Partnership and the Department of Fish and Wildlife to convene and support the Task Force. </p>
+					<p>In March 2018, Governor Inslee issued an <a href="https://www.governor.wa.gov/sites/default/files/exe_order/eo_18-02_1.pdf">executive order</a> requiring state agencies to take immediate action to protect the remaining orca. His order established the Southern Resident Orca Task Force to recommend the best actions to recover the Southern Residents. His order directed the Puget Sound Partnership and the Department of Fish and Wildlife to convene and support the Task Force. </p>
 				<p>In this role, Partnership staff:</p>
 				<ul>
-					<li>Serve on the Task Force steering committee;</li>
-					<li>Chair the Vessels Working Group of the Task Force; and</li>
-					<li>Coordinate communication across state and federal agencies and to the public.</li>
+					<li>Served on the Task Force steering committee;</li>
+					<li>Chaired the Vessels Working Group of the Task Force; and</li>
+					<li>Coordinated communication across state and federal agencies and to the public.</li>
 				</ul>
-				<p>In addition, the Governor appointed the vice chair of the Leadership Council, Stephanie Solien, to serve as co-chair of the Task Force, alongside former Evergreen State College President, Les Purce. Sheida Sahandy, the Partnership&rsquo;s Executive Director, was appointed as a Task Force member.</p>
+				<p>In addition, the Governor appointed the vice chair of the Leadership Council, Stephanie Solien, to serve as co-chair of the Task Force, alongside former Evergreen State College President, Les Purce. Both Sheida Sahandy, former executive director of the Partnership, and Laura Blackmore, exectuive director of the Partnership, served as Task Force members.</p>
+				<p>More information about <a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-orca-recovery/task-force" target ="_blank">the Task Force and its final recommendations can be found on the Governor's site</a>.</p>
 				<h2>Orcas matter for a healthy Puget Sound</h2>
 				<p>Catching sight of an orca while riding a ferry or visiting a state park is always a memorable event. During the summer months, Southern Resident orcas are found in the inland marine waters of Washington and southern British Columbia hunting Chinook salmon and other fish species. Healthy orcas represent a healthy ecosystem because they occupy an important niche at the top of the food web. The thrill of seeing an orca in the wild supports a multi-million dollar whale-watching industry, which supports a healthy local economy. </p>
 				<h2>RELATED LINKS</h2>
