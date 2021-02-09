@@ -66,7 +66,6 @@
 					The Southern Resident orcas have declined to a 30-year low of just 74 animals. This alarming decline signals that the Southern Resident population is in severe jeopardy and at risk of extinction if no action is taken.  </p>
 				<p>The primary factors threatening orcas in Puget Sound are: not enough prey, specifically Chinook salmon; toxic contaminants in the water and their food; and disturbance from noise and vessel traffic. </p>
 				
-				<p>&nbsp;</p>
 				<h2>Southern Resident orcas prefer salmon</h2>
 				<p>Year-round, Southern Resident orcas depend heavily on Chinook salmon for food. Chinook salmon are listed as threatened under the Endangered Species Act and many of the remaining populations are far below federal recovery goals.</p>
 				<p>The Puget Sound Partnership&rsquo;s Leadership Council is the designated regional salmon recovery organization for Puget Sound and is advised by the Puget Sound Salmon Recovery Council, both boards are supported by the Partnership. Since 2007, the Puget Sound Acquisition and Restoration (PSAR) program has provided more than $200 M to recover salmon habitat by restoring more than 3,000 acres of estuarine habitat, protecting over 10,000 acres of land, and opening almost 80 miles of stream for fish passage. </p>
@@ -79,9 +78,8 @@
 				</ul>
 				
 				<h2>Southern Resident orcas need clean water </h2>
-				<p>Orcas living off the coast of Seattle, Tacoma, and other urban areas are exposed to polluted runoff from roads, rooftops, and buildings. These toxic contaminants accumulate in orcas and can make them sick or vulnerable to disease. </p><p>
-					The Partnership tracks these harmful contaminants as part of <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11">the Toxics in Fish Vital Sign</a> and works with regional partners to develop a recovery plan, called an Implementation Strategy, that outlines recommendations on the most effective approaches to reduce toxic pollution in Puget Sound. This group also provides technical support to the Southern Resident Orca Task Force.</p>
-					                                                        
+				<p>Orcas living off the coast of Seattle, Tacoma, and other urban areas are exposed to polluted runoff from roads, rooftops, and buildings. These toxic contaminants accumulate in orcas and can make them sick or vulnerable to disease. </p>
+				<p>The Partnership tracks these harmful contaminants as part of <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11">the Toxics in Fish Vital Sign</a> and works with regional partners to develop a recovery plan, called an Implementation Strategy, that outlines recommendations on the most effective approaches to reduce toxic pollution in Puget Sound. This group also provides technical support to the Southern Resident Orca Task Force.</p>                                                  
 				<h2>Noisy waters threaten orcas</h2>
 				<p>Orcas emit sounds and listen for their echoes reflected back to them from underwater objects. Echolocation helps them find salmon and communicate with one another. Underwater noise from boat and ship traffic makes it difficult for them to hear their own echoes and capture their food. </p><p>
 					From 2012-2015, the Partnership convened the Vessel Traffic Risk Assessment Steering Committee to promote safe maritime transport and reduce the risks associated with oil spills.   Findings from this group now support the Vessels Working Group of the Orca Task Force to identify key actions to protect orcas from vessel traffic and underwater noise. Their recommendations were shared with the Puget Sound boating community as a <a href="https://pspwa.box.com/v/orca-task-force-boating-guide">factsheet</a>.</p>
