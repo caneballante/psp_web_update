@@ -58,7 +58,7 @@
 		    	<div class="col-sm-12">
 				<h2 class="margin-2-top">2021 Virtual Puget Sound Days on the Hill</h2>
                 
-					<p>This year's Puget Sound Day on the Hill will once again be a series of virtual events with the Washington State congressional delegation and special guests.</p>
+					<p>Since we still can't gather together in person, this year's Puget Sound Day on the Hill will once again be a series of virtual events with the Washington State congressional delegation and special guests.</p>
 					<p>Puget Sound Partnership and the Northwest Indian Fisheries Commission invite you to participate in our Virtual Puget Sound Days on the Hill, starting on Friday, April 23. We’ll discuss Puget Sound restoration and protection, salmon recovery, environmental justice, climate change adaptation and mitigation, and infrastructure, among other topics.</p>
 					
 					<p>We will announce registration info soon. Check this page for the latest information or <a href="https://public.govdelivery.com/accounts/WAPSP/subscriber/new">sign up for our listserv</a>.</p>
