@@ -103,7 +103,7 @@ and recovering Puget Sound</h1>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL&nbsp;INTEGRATING&nbsp;ORGANIZATIONS&nbsp;(LIOs)</a></div>
 			<div class="padding-5-bottom"><a href="legislative_updates.php">2021&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			<div class="padding-5-bottom"><span class="new-red">NEW</span><a href="https://pspwa.box.com/shared/static/wmdpr9w05ow7072pqym99ufwmo39akpf.pdf">DOWNLOAD&nbsp;THE&nbsp;2021-2023&nbsp;BUDGET&nbsp;RANKINGS </a></div>
-			<div class="padding-5-bottom"><a href="psdoth2020.php">2020&nbsp;PUGET&nbsp;SOUND&nbsp;DAY&nbsp;ON&nbsp;THE&nbsp;HILL</a></div>	
+			<div class="padding-5-bottom"><a href="psdoth2021.php">2021&nbsp;PUGET&nbsp;SOUND&nbsp;DAY&nbsp;ON&nbsp;THE&nbsp;HILL</a></div>	
 		</div>
 	</div>	<!-- end row -->
 </div><!-- end container -->
@@ -133,10 +133,25 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTHNews.jpg"  alt="Logo for PSDOTH 2021"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/ANEP-news.jpg"  alt="Aerial photo of Nisqually River delta. Photo credit: Kiliii Yuyan"/> 
 					<strong>NEWS RELEASE</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2bdd6ab" target="_blank">Congress moves to invest in the nation's estuaries</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->     
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -151,14 +166,14 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/science-panel-announcement.jpg"  alt="Aerial photo of Bellingham and Puget Sound. Photo credit: Brandon Sawaya."/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="https://pspwa.box.com/s/u43rx2s5vyp0f7l2lqwn6wht1uumjhhp" target="_blank">Call for nominations to the Puget Sound Partnership Science Panel</a><br>
-						<!--END news content BOX-->    
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				
 			</div>
 		<!--COLUMN END-->
-			<!--COLUMN START-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -172,8 +187,8 @@ and recovering Puget Sound</h1>
 				</div>
 				
 			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
+		<!--COLUMN END-->	
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -188,7 +203,7 @@ and recovering Puget Sound</h1>
 				
 			</div>
 		<!--COLUMN END-->	
-			<!--COLUMN START-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -197,21 +212,6 @@ and recovering Puget Sound</h1>
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="/PSmarinewatersoverview.php">Puget Sound Marine Waters 2019 Overview</a><br>
 						<!--END news content BOX-->
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/state-capitol.jpg"  alt="Photo of orcas swimming in the water"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a><br>
-						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
