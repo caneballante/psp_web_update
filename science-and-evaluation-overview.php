@@ -57,8 +57,8 @@
 			<p>Efforts to answer these questions and better understand the pressures and other factors that affect recovery are monitored by the Puget Sound Ecosystem Monitoring Program, which is coordinated by the Partnership. <a href="evaluating-health-of-puget-sound.php">Learn more</a></p>
 			<h2>Evaluating actions to recover Puget Sound </h2>
 			<p><em>Are actions being implemented as planned? Are requested funds provided for projects and activities? Do activities produce their expected products?</em> The Puget Sound Partnership has developed tools and assessment approaches to answer these questions. <a href="evaluating-actions-to-recover-puget-sound.php">Learn more</a></p>
-		<h2>2017 STATE OF THE SOUND</h2>
-			<p>Every 2 years, the Partnership develops reports on the State of the Sound to summarize the findings from ecosystem monitoring program and the progress in implementing the Action Agenda. See the 2017 State of the Sound. <a href="sos.php">Learn more </a></p></div>
+		<h2>2019 STATE OF THE SOUND</h2>
+			<p>Every two years, the Partnership develops reports on the State of the Sound to summarize the findings from ecosystem monitoring program and the progress in implementing the Action Agenda. See the 2019 State of the Sound. <a href="sos.php">Learn more.</a></p></div>
 	<h2>SCIENCE BASIS OF RECOVERY</h2>
 			<p>Scientific information guides the region’s work to design and carry out efforts to recover the Puget Sound ecosystem. Scientific processes help us understand how to proceed in the face of profound uncertainties about how the ecosystem responds to stresses and management interventions. The Puget Sound Partnership Science Panel and science & evaluation program provide guidance about how to apply scientific information and processes to foster ecosystem recovery.<a href="science-basis-of-recovery-overview.php"> Learn more</a></p>
 		<!-- InstanceEndEditable --> </div>
