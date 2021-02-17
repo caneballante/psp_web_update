@@ -1,6 +1,14 @@
 {
 	"news-releases": 
     {	 
+		"release95": {
+			"date": "February 17, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2c139e4'>Governor Inslee appoints Will Hall to the Puget Sound Partnership's Leadership Council</a>"
+		},
+		"release94": {
+			"date": "February 12, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2c0f9f8'>Puget Sound Partnership Leadership Council to decide on desired recovery outcomes for the 2022-2026 Action Agenda</a>"
+		},
 		"release93": {
 			"date": "February 1, 2021",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2bdd6ab'>Congress moves to invest in the nation's estuaries</a>"
