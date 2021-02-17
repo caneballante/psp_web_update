@@ -133,10 +133,25 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for Puget Sound Partnership"/> 
+					<strong>NEWS RELEASE</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c139e4" target="_blank">Governor Inslee appoints Will Hall to the Puget Sound Partnership's Leadership Council</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTHNews.jpg"  alt="Logo for PSDOTH 2021"/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->     
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -151,21 +166,6 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/ANEP-news.jpg"  alt="Aerial photo of Nisqually River delta. Photo credit: Kiliii Yuyan"/> 
 					<strong>NEWS RELEASE</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2bdd6ab" target="_blank">Congress moves to invest in the nation's estuaries</a><br>
-						<!--END news content BOX-->     
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/science-panel-announcement.jpg"  alt="Aerial photo of Bellingham and Puget Sound. Photo credit: Brandon Sawaya."/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://pspwa.box.com/s/u43rx2s5vyp0f7l2lqwn6wht1uumjhhp" target="_blank">Call for nominations to the Puget Sound Partnership Science Panel</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
@@ -178,10 +178,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSPSNC_news.jpg"  alt="Photo of Pacific herring swimming in eelgrass. Photo credit: Florian Graner."/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership credits will fund nearshore conservation</a><br>
-						<!--END news content BOX-->  
+					  <img class="img-responsive img-rounded" src="images/news-images/science-panel-announcement.jpg"  alt="Aerial photo of Bellingham and Puget Sound. Photo credit: Brandon Sawaya."/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://pspwa.box.com/s/u43rx2s5vyp0f7l2lqwn6wht1uumjhhp" target="_blank">Call for nominations to the Puget Sound Partnership Science Panel</a><br>
+						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -193,10 +193,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/Marysville_news.jpg"  alt="Photo of green infrastructure improvements on Third Street in Marysville"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSPSNC_news.jpg"  alt="Photo of Pacific herring swimming in eelgrass. Photo credit: Florian Graner."/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/city-of-marysvilles-focus-on-green-infrastructure-produces-multiple-benefits-b6fdf97315ae" target="_blank">City of Marysville's focus on green infrastructure produces multiple benefits</a><br>
-						<!--END news content BOX--> 
+						<a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership credits will fund nearshore conservation</a><br>
+						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -208,10 +208,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2019.jpg"  alt="Image from the cover of the Puget Sound Marine Waters 2019 Overview report"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="/PSmarinewatersoverview.php">Puget Sound Marine Waters 2019 Overview</a><br>
-						<!--END news content BOX-->
+					  <img class="img-responsive img-rounded" src="images/news-images/Marysville_news.jpg"  alt="Photo of green infrastructure improvements on Third Street in Marysville"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/city-of-marysvilles-focus-on-green-infrastructure-produces-multiple-benefits-b6fdf97315ae" target="_blank">City of Marysville's focus on green infrastructure produces multiple benefits</a><br>
+						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
