@@ -137,7 +137,7 @@
 					<td>360-417-2326</td>
 					<td><a class="small-links" href="mailto:cbaumann@co.clallam.wa.us">cbaumann@co.clallam.wa.us</a></td>
 					<td><a href="https://www.psp.wa.gov/shared-salmon-strategy/plan/wpas/elwha.zip">2005 Elwha Chapter</a></td>
-					<td>2005 Dungeness Chapter</td>
+					<td><a href="https://pspwa.box.com/s/5517y6igrw2l4s7p9iglprvqj60sx2dz">2007 Dungeness Chapter</a></td>
 				</tr>
 				<tr>
 					<td>Puyallup/White &amp; Chambers/Clover </td>
