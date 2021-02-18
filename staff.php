@@ -259,7 +259,7 @@
 						<!--FISCAL PROGRAM-->
 						<h3 class="padding-10-top">FISCAL PROGRAM</h3>
 						<h5>Diamatris Winston</h5>
-						<p>Fiscal Division Manager<br />
+						<p>Chief Financial Officer<br />
 							360.867.8234 | <a href="mailto:diamatris.winston@psp.wa.gov">diamatris.winston@psp.wa.gov </a></p>
 						<h5>Sheridan Gatewood</h5>
 						<p>	Accounting and Budget Program Manager<br />
