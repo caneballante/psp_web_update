@@ -155,6 +155,7 @@ navSelected = 1;
 		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>) or your other Partnership staff connections  to request a briefing.</p>
 		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information on the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank">click here</a>.
 		</p></div>
+			<p class="last-update">Last updated: 02/19/21</p>
 
         <!-- InstanceEndEditable --> </div>
 		
