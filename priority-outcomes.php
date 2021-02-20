@@ -71,6 +71,7 @@ navSelected = 2;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		<div class="highlightbox margin-0-top margin-20-bottom"><p>On February 18, 2021, the Partnership’s Leadership Council approved draft desired outcomes for the 2022-2026 Action Agenda with adjustments from the Leadership Council to be finalized by March 31. Partnership staff are working with the Leadership Council to capture their revisions and will share the revised list of outcomes as soon as it is available. The Leadership Council also directed Partnership staff to work with partners to develop a plan for better incorporating human well-being into the Action Agenda update and to develop a plan for how and when to identify targets for Puget Sound recovery.</p></div>
 		<p>Desired outcomes describe <em>what </em>we as the recovery  community intend to accomplish. Desired outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
 
 		<h2>Desired outcomes are positive changes we want to see in Puget Sound</h2>
@@ -83,8 +84,6 @@ navSelected = 2;
 			
 			<h3>How were the desired outcomes identified?</h3>
 			<p>The draft list of desired outcomes was identified using existing plans, including Implementation Strategies and Local Integrating Organization (LIO) plans as initial sources. Partnership staff worked in collaboration with representatives of Puget Sound tribes, LIOs, state agencies, and the Environmental Protection Agency (EPA) to assemble data about the stressors and sources that are addressed through existing plans. The outcomes in Implementation Strategies, LIO plans, and other plans are all created through well-vetted, science-informed, and collaborative processes led by subject matter experts that capture knowledge from around the region.</p>
-		<h3>How can you weigh in?</h3>
-			<p>Partners had the opportunity to comment on draft outcomes through Feb. 4.</p>
 			
 		
 		<h3>How can groups best prepare to engage in phase 3? </h3>
@@ -96,7 +95,7 @@ navSelected = 2;
 			</ul>
 			</p>
         <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>) or Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>).</p>
-		<p class="last-update">Last updated: 01/20/21</p>
+		<p class="last-update">Last updated: 02/19/21</p>
         <div>
           <div> </div>
         </div>
