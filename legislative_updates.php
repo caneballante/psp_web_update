@@ -101,7 +101,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c28218" target="_blank">Week 7, February 22 - 26, 2021</a></p>
             
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
-			
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c3e8c6" target="_blank">Legislative Update, February 25, 2021</a></p>
 			
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS:</h3>
 			<p><a href="https://pspwa.box.com/s/0szesr83v3qncqvy1kx63kwyljwdkuzf" target="_blank">January 8, 2021 call recording</a> and <a href="https://pspwa.box.com/s/th1dhfs39gcvxrsx54kmpj6ef7a1qwmp" target="_blank">presentation</a></p>
