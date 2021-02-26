@@ -177,7 +177,7 @@
 				<tr>
 					<td>South Sound </td>
 					<td>Amy Hatch-Winecka, Thurston Regional Planning Council; Steve Hegarty, Mason County Conservation District</td>
-					<td>Amy 360-754-3588 x103; Steve 360-427-9436 x130</td>
+					<td>Amy 360-956-7575; Steve 360-427-9436 x130</td>
 					<td><a class="small-links" href="mailto:hwamy@trpc.org">hwamy@trpc.org</a><br /><a class="small-links" href="mailto:SHagerty@masoncd.org">SHagerty@masoncd.org</a></td>
 					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/SOUTHSOUND.zip">2005 So Sound Chapter</a></td>
 					<td>&nbsp;</td>
