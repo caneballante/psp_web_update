@@ -203,6 +203,7 @@
 			</table>
 			<p>Lead Entity Contact list and Chapter links last updated February 2021</p>
 			<p>Please note that this list is intended to be representative but not comprehensive of all the critical organizations and agencies working in the watershed for salmon recovery.</p>
+			<p class="last-update">Last updated: 02/26/21</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
