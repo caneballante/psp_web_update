@@ -92,9 +92,9 @@
 				</tr>
 				<tr>
 					<td>Green/Duwamish </td>
-					<td>Doug Osterman, King County </td>
-					<td>206-477-4793</td>
-					<td><a class="small-links" href="mailto:doug.osterman@kingcounty.gov">doug.osterman@kingcounty.gov</a></td>
+					<td>TBD </td>
+					<td></td>
+					<td></td>
 					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/GREEN_DUWAMISH.zip">2005 WRIA 9 Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
@@ -125,7 +125,7 @@
 				</tr>
 				<tr>
 					<td>Nooksack  </td>
-					<td>Becky Peterson, volunteer</td>
+					<td>Becky Peterson, contractor</td>
 					<td>360-392-1301         </td>
 					<td><a class="small-links" href="mailto:genevaconsulting@comcast.net" target="_blank">genevaconsulting@comcast.net</a> </td>
 					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/NOOKSACK.zip">2005 Nooksack Chapter</a></td>
@@ -149,9 +149,9 @@
 				</tr>
 				<tr>
 					<td>San Juan </td>
-					<td>Byron Rot, San Juan County</td>
-					<td>360-370-7593</td>
-					<td><a class="small-links" href="mailto:byronr@sanjuanco.com">byronr@sanjuanco.com</a></td>
+					<td>Sam Whitridge, San Juan County</td>
+					<td>360-317-3242</td>
+					<td><a class="small-links" href="mailto:samw@sanjuanco.com">samw@sanjuanco.com</a></td>
 					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/SAN_JUAN.zip">2005 San Juan Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
@@ -176,10 +176,9 @@
 				</tr>
 				<tr>
 					<td>South Sound </td>
-					<td>Amy Hatch-Winecka, Mason County Conservation District/
-						Thurston County Conservation District</td>
-					<td>Amy 360-754-3588 x103; Jennifer 360-427-9436 x101</td>
-					<td><a href="mailto:AmyHW@thurstoncd.com">AmyHW@thurstoncd.com; jholderman@masoncd.org</a><a class="small-links" href="mailto:AmyHW@thurstoncd.com"></a></td>
+					<td>Amy Hatch-Winecka, Thurston Regional Planning Council; Steve Hegarty, Mason County Conservation District</td>
+					<td>Amy 360-754-3588 x103; Steve 360-427-9436 x130</td>
+					<td><a class="small-links" href="mailto:hwamy@trpc.org">hwamy@trpc.org</a><br /><a class="small-links" href="mailto:SHagerty@masoncd.org">SHagerty@masoncd.org</a></td>
 					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/SOUTHSOUND.zip">2005 So Sound Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
@@ -202,7 +201,7 @@
 					<td>&nbsp;</td>
 				</tr>
 			</table>
-			<p>Lead Entity Contact list and Chapter links last updated April 2018</p>
+			<p>Lead Entity Contact list and Chapter links last updated February 2021</p>
 			<p>Please note that this list is intended to be representative but not comprehensive of all the critical organizations and agencies working in the watershed for salmon recovery.</p>
 
 		<!-- InstanceEndEditable --> </div>
