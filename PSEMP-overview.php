@@ -135,7 +135,7 @@
 			<p>Information and products coming out of the PSEMP network provides the relevant, credible, and timely information needed to support adaptive management of recovery efforts. The four major elements of the Adaptive Management Framework are described in this <a href="images/PSEMP/2018-psemp-figures-1.jpg" target="_blank">image</a>. More information about PSEMP’s Adaptive Management roles can be found in the <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi" target="new">PSEMP Strategic Plan</a>.</p>
 			<h4>Communication</h4>
 			<p>The recently produced  <a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke" target="new">PSEMP Communications Strategy</a></li> lays the groundwork for improving access to, and use of, credible information to guide Puget Sound recovery decisions.  Our primary communication goals are to foster dialogue and information sharing within the monitoring and assessment community and to those who are making decisions on the ground, in policy and in funding decisions.  </p>
-			<p class="last-update">Last updated 03/11/21</p>
+			<p class="last-update">Last updated: 03/11/21</p>
 			
 			
 <!-- InstanceEndEditable --> </div>
