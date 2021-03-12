@@ -89,9 +89,9 @@
 			<hr />
 		<div class="row margin-10-top"> 
 			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/">Puget Sound Innovation Recovery Stories</a></p></div>
-			<div class="col-sm-3"><a href="https://pugetsoundinnovationstories.blog/2017/08/24/calistoga-levee-setback/"><img class="img-responsive" src="images/PSAR/ps-innovation-calistoga.jpg" width="874" height="743" alt=""/></a></div>
-			<div class="col-sm-3"><a href="https://pugetsoundinnovationstories.blog/2017/04/21/leque-island-estuary-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-leque.jpg" width="874" height="743" alt=""/></a></div>
-			<div class="col-sm-3"><a href="https://pugetsoundinnovationstories.blog/2017/05/17/smith-island-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-smith.jpg" width="874" height="743" alt=""/></a></div>
+			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/2017/08/24/calistoga-levee-setback/"><img class="img-responsive" src="images/PSAR/ps-innovation-calistoga.jpg" width="874" height="743" alt=""/></a></div>
+			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/2017/04/21/leque-island-estuary-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-leque.jpg" width="874" height="743" alt=""/></a></div>
+			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/2017/05/17/smith-island-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-smith.jpg" width="874" height="743" alt=""/></a></div>
 		</div>
 		<hr />
 		<h2>COMMUNITY INVOLVEMENT IN PSAR PROJECTS</h2>
