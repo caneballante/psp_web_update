@@ -73,6 +73,7 @@
 				<li><a href="https://connects.sumnerwa.gov/white-river-restoration-project" target="_blank">Sumner White River Restoration</a></li>
 				<li><a href="https://www.youtube.com/watch?v=VObtMVew2HY" target="_blank">Skookum Creek Valley Phase 2 Conservation</a></li>
 				<li><a href="https://www.kentwa.gov/Home/Components/FacilityDirectory/FacilityDirectory/404/568" target="_blank">Downey Farmstead Side Channel Restoration</a></li>
+				<li><a href="https://www.youtube.com/watch?v=VObtMVew2HY" target="_blank">West Oakland Bay Restoration</a></li>
 				</ul></p>				
 			</div><br />
 			<div class="highlightbox margin-0-top">
