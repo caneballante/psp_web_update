@@ -70,12 +70,10 @@
 				<p class="padding-10-all"><span class="new-red">NEW!</span>&nbsp;Links to Puget Sound Acquisition and Restoration Large Capital Project legislative tours<br />
 				<ul>
 				<li><a href="https://kingcounty.gov/services/environment/animals-and-plants/restoration-projects/projects/fall-city-floodplain-restoration.aspx" target="_blank">Fall City Floodplain Restoration</a></li>
-				<li><a href="https://youtu.be/cBvJSBVW-ts" target="_blank">Florence Island Tidal Wetland Acquisition</a></li>
+				<li><a href="https://youtu.be/cBvJSBVW-ts" target="_blank">Stillaguamish Delta Projects (Florence Island and Port Susan Bay)</a></li>
 				<li><a href="https://connects.sumnerwa.gov/white-river-restoration-project" target="_blank">Sumner White River Restoration</a></li>
-				<li><a href="https://youtu.be/cBvJSBVW-ts" target="_blank">Port Susan Bay Restoration</a></li>
-				<li><a href="https://www.youtube.com/watch?v=VObtMVew2HY" target="_blank">Skookum Creek Valley Phase 2 Conservation</a></li>
+				<li><a href="https://www.youtube.com/watch?v=VObtMVew2HY" target="_blank">WRIA 14 Projects (Skookum Creek Valley and West Oakland Bay)</a></li>
 				<li><a href="https://www.kentwa.gov/Home/Components/FacilityDirectory/FacilityDirectory/404/568" target="_blank">Downey Farmstead Side Channel Restoration</a></li>
-				<li><a href="https://www.youtube.com/watch?v=VObtMVew2HY" target="_blank">West Oakland Bay Restoration</a></li>
 				</ul></p>				
 			</div><br />
 			<div class="highlightbox margin-0-top">
