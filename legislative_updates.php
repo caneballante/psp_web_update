@@ -101,6 +101,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c28218" target="_blank">Week 7, February 22 - 26, 2021</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c3f272" target="_blank">Week 8, March 1 - 5, 2021</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c52f45" target="_blank">Week 9, March 8 - 12, 2021</a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c6b26e" target="_blank">Week 10, March 15 - 19, 2021</a></p>
             
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c3e8c6" target="_blank">Legislative Update, February 25, 2021</a></p>
