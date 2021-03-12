@@ -67,7 +67,7 @@
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<div class="highlightbox margin-0-top">
-				<p class="padding-10-all">Links to Puget Sound Acquisition and Restoration Large Capital Project legislative tours<br />
+				<p class="padding-10-all"><span class="new-red">NEW!</span>&nbsp;Links to Puget Sound Acquisition and Restoration Large Capital Project legislative tours<br />
 				<ul>
 				<li><a href="https://kingcounty.gov/services/environment/animals-and-plants/restoration-projects/projects/fall-city-floodplain-restoration.aspx" target="_blank">Fall City Floodplain Restoration</a></li>
 				<li><a href="https://connects.sumnerwa.gov/white-river-restoration-project" target="_blank">Sumner White River Restoration</a></li>
