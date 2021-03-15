@@ -42,7 +42,7 @@
 	<div class="container page-content padding-50-all"><br><br>
 		<div class="row">
             <div class="col-sm-8">
-                <img class="img-responsive" src="images/PSDOTH2021/PSDOTH2021Banner.jpg" width="972" height="201" alt="Banner for Puget Sound Days on the Hill 2021, featuring an orca jumping from the water"/>
+                <img class="img-responsive" src="images/PSDOTH2021/PSDOTHBanner2.jpg" width="972" height="201" alt="Banner for Puget Sound Days on the Hill 2021, featuring an orca jumping from the water"/>
             </div>
 			<div class="col-sm-4">
                 
