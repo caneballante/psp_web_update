@@ -118,14 +118,14 @@ navSelected = 1;
             <td><p>Phase 2: Identify priority outcomes for recovery</p></td>
             <td><p>Identify priority outcomes that describe <em>what </em>we as the recovery  community hope to accomplish. Priority outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
             <a href="https://www.psp.wa.gov/priority-outcomes.php">More detail is available here.</a></td>
-            <td class="orange-fill white"><p>Completed</p></td>
+            <td class="blue-fill white"><p>In progress</p></td>
           </tr>
           <tr>
             <td><p>Jan 2021 - Aug 2021</p></td>
             <td><p>Phase 3: Identify strategies to advance priority outcomes</p></td>
             <td><p>Identify strategies that tell us <em>how </em>to advance progress toward priority outcomes (phase 2) and overall  recovery.</p>
             </td>
-            <td class="blue-fill white"><p>In progress</p></td>
+            <td class="light-blue-fill white"><p>Not started</p></td>
           </tr>
           <tr>
             <td><p>Aug - Dec 2021</p></td>
