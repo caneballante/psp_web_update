@@ -104,6 +104,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c6b26e" target="_blank">Week 10, March 15 - 19, 2021</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c7ec44" target="_blank">Week 11, March 22 - 26, 2021</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c9b144" target="_blank">Week 12, March 27 - April 2, 2021</a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2cae65d" target="_blank">Week 13, April 5 - 9, 2021</a></p>
             
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c3e8c6" target="_blank">Legislative Update, February 25, 2021</a></p>
@@ -121,6 +122,7 @@
 			<p><a href="https://pspwa.box.com/s/gpp5cp43i6zsrl8qcqlo3ah16a2mee4z" target="_blank">March 12, 2021 call recording</a> and <a href="https://pspwa.box.com/s/cw3xpfq534qdcn6a8mppp1emqywr3ent" target="_blank">presentation</a></p>
 			<p><a href="https://pspwa.box.com/s/794wgtlufnjqn3sd8ao60xe1jyaqldwc" target="_blank">March 19, 2021 call recording</a> and <a href="https://pspwa.box.com/s/95xf581w2mgo1n8lw0j452ouvzt7b56p" target="_blank">presentation</a></p>
 			<p><a href="https://pspwa.box.com/s/mels0qzaxzp3vq4a1zqqaap6xljljh6q" target="_blank">March 26, 2021 call recording</a> and <a href="https://pspwa.box.com/s/tyct6c0ngurra98cc5pnmh2d8rv5ufio" target="_blank">presentation</a></p>
+			<p><a href="https://pspwa.box.com/s/82duwmvztrx868feobs1vijaqn2q8f4g" target="_blank">April 2, 2021 call recording</a> and <a href="https://pspwa.box.com/s/xojip75ukeia02o4i5tj5420fb47tts0" target="_blank">presentation</a></p>
             
             
            
