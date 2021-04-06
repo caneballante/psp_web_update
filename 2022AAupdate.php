@@ -125,7 +125,7 @@ navSelected = 1;
             <td><p>Identify strategies that tell us <em>how </em>to advance progress toward desired outcomes (phase 2) and overall  recovery.</p>
 				<a href="https://www.psp.wa.gov/priority-outcomes.php">More detail is available here.</a></td>
             </td>
-            <td class="blue-fill white"><p>In progress</p></td>
+            <td class="blue-fill white"><p>In process</p></td>
           </tr>
           <tr>
             <td><p>Aug - Dec 2021</p></td>
