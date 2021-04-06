@@ -115,17 +115,17 @@ navSelected = 1;
           </tr>
           <tr>
             <td><p>June 2020 - Feb 2021</p></td>
-            <td><p>Phase 2: Identify priority outcomes for recovery</p></td>
-            <td><p>Identify priority outcomes that describe <em>what </em>we as the recovery  community hope to accomplish. Priority outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
-            <a href="https://www.psp.wa.gov/priority-outcomes.php">More detail is available here.</a></td>
-            <td class="blue-fill white"><p>In progress</p></td>
+            <td><p>Phase 2: Identify desired outcomes for recovery</p></td>
+            <td><p>Identify desired outcomes that describe <em>what </em>we as the recovery  community hope to accomplish. Desired outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
+            <td class="orange-fill white"><p>Completed</p></td>
           </tr>
           <tr>
             <td><p>Jan 2021 - Aug 2021</p></td>
-            <td><p>Phase 3: Identify strategies to advance priority outcomes</p></td>
-            <td><p>Identify strategies that tell us <em>how </em>to advance progress toward priority outcomes (phase 2) and overall  recovery.</p>
+            <td><p>Phase 3: Identify strategies to advance desired outcomes</p></td>
+            <td><p>Identify strategies that tell us <em>how </em>to advance progress toward desired outcomes (phase 2) and overall  recovery.</p>
+				<a href="https://www.psp.wa.gov/priority-outcomes.php">More detail is available here.</a></td>
             </td>
-            <td class="light-blue-fill white"><p>Not started</p></td>
+            <td class="blue-fill white"><p>In progress</p></td>
           </tr>
           <tr>
             <td><p>Aug - Dec 2021</p></td>
@@ -150,12 +150,11 @@ navSelected = 1;
         </table>
 		<H2>We invite your participation</H2>
 		<p>Every phase of Action Agenda development will build from existing plans developed by partners. We  and our partners are also  developing an engagement plan and establishing mechanisms for  collaboration and participation in developing the outcomes (phase 2),  strategies (phase 3), and actions (phase 4) for the 2022-2026 Action Agenda.  Throughout 2020 and 2021, Partnership staff who are leading the development of  the Action Agenda will use existing meeting schedules to present to partner  groups, host workshops where partners can convene around particular topic  areas, and provide online mechanisms to gather independent feedback at the  convenience of partners&rsquo; schedules.&nbsp;			</p>
-		<p><strong><a href="https://psp.wa.gov/priority-outcomes.php">Opportunities to participate in identifying priority outcomes are now available.</a></strong><br>
 			<strong><em>Stay tuned for more information on engagement opportunities as  the process is developed.</em></strong></p>
 		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>) or your other Partnership staff connections  to request a briefing.</p>
 		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information on the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank">click here</a>.
 		</p></div>
-			<p class="last-update">Last updated: 02/19/21</p>
+			<p class="last-update">Last updated: 04/6/21</p>
 
         <!-- InstanceEndEditable --> </div>
 		
