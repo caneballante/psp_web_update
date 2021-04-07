@@ -86,13 +86,8 @@ navSelected = 2;
 			<p>The draft list of desired outcomes was identified using existing plans, including Implementation Strategies and Local Integrating Organization (LIO) plans as initial sources. Partnership staff worked in collaboration with representatives of Puget Sound tribes, LIOs, state agencies, and the Environmental Protection Agency (EPA) to assemble data about the stressors and sources that are addressed through existing plans. The outcomes in Implementation Strategies, LIO plans, and other plans are all created through well-vetted, science-informed, and collaborative processes led by subject matter experts that capture knowledge from around the region.</p>
 			
 		
-		<h3>How can groups best prepare to engage in phase 3? </h3>
-			<p>Desired outcomes will serve as the basis for identifying strategies and actions in the next phases of the Action Agenda update process. Where desired outcomes describe what we intend to accomplish, the strategies and actions will describe how to best achieve those outcomes. Phase 3 will include exercises such as public workshops, partner meetings, and online engagement tools and will be designed to leverage the extensive work completed to date to identify strategies and actions that advance Puget Sound recovery, including existing plans and ongoing programs.</p>
-			<p>To prepare to engage in phase 3 (strategies), consider how you might answer questions such as:
-			<ul>
-				<li>Based on existing plans and programs, as well as emerging opportunities, what are the strategies that will most effectively achieve or advance each outcome over the next 4 years? If you are an LIO coordinator, watershed lead, or Implementation Strategy lead consider what strategies and content from you plans can inform this work.</li>
-				<li>What strategies have the potential to deliver multi-benefits by advancing progress toward multiple outcomes?  </li>
-			</ul>
+		<h3>How will we use desired outcomes?</h3>
+			<p>Desired outcomes will serve as the basis for identifying strategies and actions in the next phases of the Action Agenda update process. Where desired outcomes describe what we intend to accomplish, the strategies and actions will describe how to best achieve those outcomes. More information on the next steps in phase 3 will be available soon.
 			</p>
         <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>) or Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>).</p>
 		<p class="last-update">Last updated: 02/19/21</p>
@@ -107,7 +102,7 @@ navSelected = 2;
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation">Implementation and funding status of actions from the 2018-2022 Action Agenda can be found in the <a href="https://actionagenda.pugetsoundinfo.wa.gov/Results/FundingStatus" target="_blank">Action Agenda Tracker</a></li>
-				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank"><strong>Participants can check here for the latest updates on the 2022-2026 Action Agenda</strong></a></li>
+				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank"><strong>Action Agenda Frequently Asked Questions</strong></a></li>
 	
 				<!-- InstanceEndEditable -->
 			</ul>
