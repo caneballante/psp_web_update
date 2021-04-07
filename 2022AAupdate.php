@@ -116,19 +116,19 @@ navSelected = 1;
           <tr>
             <td><p>June 2020 - Feb 2021</p></td>
             <td><p>Phase 2: Identify desired outcomes for recovery</p></td>
-            <td><p>Identify desired outcomes that describe <em>what </em>we as the recovery  community hope to accomplish. Desired outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
+            <td><p>Identify desired outcomes that describe <em>what </em>we as the recovery  community hope to accomplish. Desired outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>. <a href="https://www.psp.wa.gov/priority-outcomes.php">More detail is available here.</a></p>
             <td class="orange-fill white"><p>Completed</p></td>
           </tr>
           <tr>
-            <td><p>Jan 2021 - Aug 2021</p></td>
+            <td><p>Mar 2021 - Sept 2021</p></td>
             <td><p>Phase 3: Identify strategies to advance desired outcomes</p></td>
-            <td><p>Identify strategies that tell us <em>how </em>to advance progress toward desired outcomes (phase 2) and overall  recovery.</p>
-				<a href="https://www.psp.wa.gov/priority-outcomes.php">More detail is available here.</a></td>
+            <td><p>Identify strategies that tell us <em>how </em>to advance progress toward desired outcomes (phase 2) and overall  recovery. More detail will be available soon.</p>
+				</td>
             </td>
             <td class="blue-fill white"><p>In process</p></td>
           </tr>
           <tr>
-            <td><p>Aug - Dec 2021</p></td>
+            <td><p>Sept - Dec 2021</p></td>
             <td><p>Phase 4: Identify actions and commitments that align with strategies.</p></td>
             <td><p>Identify actions and programs that require additional investment; necessary policy changes; and commitments from the boards and partners to support priority actions for recovery. </p>
             </td>
@@ -152,9 +152,7 @@ navSelected = 1;
 		<p>Every phase of Action Agenda development will build from existing plans developed by partners. We  and our partners are also  developing an engagement plan and establishing mechanisms for  collaboration and participation in developing the outcomes (phase 2),  strategies (phase 3), and actions (phase 4) for the 2022-2026 Action Agenda.  Throughout 2020 and 2021, Partnership staff who are leading the development of  the Action Agenda will use existing meeting schedules to present to partner  groups, host workshops where partners can convene around particular topic  areas, and provide online mechanisms to gather independent feedback at the  convenience of partners&rsquo; schedules.&nbsp;			</p>
 			<strong>Stay tuned for more information on engagement opportunities as  the process is developed.</strong></p>
 		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>), Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>), or your other Partnership staff connections  to request a briefing.</p>
-		<div class="highlightbox margin-20-top margin-20-bottom"><p><strong>For more information on the  process and opportunities to participate</strong> <a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank">click here</a>.
-		</p></div>
-			<p class="last-update">Last updated: 04/6/21</p>
+			<p class="last-update">Last updated: 04/7/21</p>
 
         <!-- InstanceEndEditable --> </div>
 		
