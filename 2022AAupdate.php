@@ -164,7 +164,7 @@ navSelected = 1;
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation">Implementation and funding status of actions from the 2018-2022 Action Agenda can be found in the <a href="https://actionagenda.pugetsoundinfo.wa.gov/Results/FundingStatus" target="_blank">Action Agenda Tracker</a></li>
-				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank"><strong>Participants can check here for the latest updates on the 2022-2026 Action Agenda</strong></a></li>
+				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank"><strong>Action Agenda Frequently Asked Questions</strong></a></li>
 	
 				<!-- InstanceEndEditable -->
 			</ul>
