@@ -71,7 +71,7 @@ navSelected = 2;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<div class="highlightbox margin-0-top margin-20-bottom"><p>On February 18, 2021, the Partnership’s Leadership Council approved draft desired outcomes for the 2022-2026 Action Agenda with adjustments from the Leadership Council to be finalized by March 31. Partnership staff are working with the Leadership Council to capture their revisions and will share the revised list of outcomes as soon as it is available. The Leadership Council also directed Partnership staff to work with partners to develop a plan for better incorporating human well-being into the Action Agenda update and to develop a plan for how and when to identify targets for Puget Sound recovery.</p></div>
+		<div class="highlightbox margin-0-top margin-20-bottom"><p>On April 6, 2021, the Partnership's Leadership Council approved a set of <a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank">desired outcomes</a> for the 2022-2026 Action Agenda. The Partnership will now begin phase 3 of the Action Agenda update&mdash;working with partners to identify strategies for achieving the desired outcomes. More information on phase 3 will be available soon.</p></div>
 		<p>Desired outcomes describe <em>what </em>we as the recovery  community intend to accomplish. Desired outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
 
 		<h2>Desired outcomes are positive changes we want to see in Puget Sound</h2>
