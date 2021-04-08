@@ -96,7 +96,7 @@
             <td><p>Tuesday, April 13</p></td>
           </tr>
           <tr>
-            <td><p>Information session (webinar will be recorded</p></td>
+            <td><p>Information session (webinar will be recorded)</p></td>
             <td><p>Tuesday, April 27, 12:00 p.m. - 1:00 p.m.</p></td>
           </tr>
           <tr>
