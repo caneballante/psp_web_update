@@ -132,7 +132,7 @@
 		<br>
 		
 		<h3>Information session</h3>
-		<p>The Partnership will host one information session on Tuesday, April 27 12:00 pm to 1:00 pm
+		<p>The Partnership will host one information session on Tuesday, April 27, 12:00 p.m. to 1:00 p.m.,
 to brief interested project leads on the solicitation process and provide an opportunity to ask questions. The information will be recorded and posted below. </p>
 		
 		<button class="button button1"><a href="https://zoom.us/meeting/register/tJcoce2pqz0sG9GgQDMJQKIld1jO7AIXXCOL" target="_blank" style="color:white"><strong>To attend the information session, please register at this link.</strong></a></button>
