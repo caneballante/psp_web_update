@@ -67,25 +67,28 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h3>Funding opportunity for the 2021-2023 biennium</h3>
-			<p>The Puget Sound Partnership requests project proposals that address priority monitoring information needs to inform and accelerate recovery of Puget Sound.</p>
+			<p>The Puget Sound Partnership (Partnership) requests project proposals that address priority monitoring information needs to inform and accelerate recovery of Puget Sound.</p>
 			
-			<p>All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan to increase collaboration, support adaptive management, and improve communication. </p>
+			<p>All projects are expected to support the <strong>objectives</strong> of the <a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2">Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan</a> to <strong>increase collaboration, support adaptive management, and improve communication.</strong> </p>
 			
-			<p>Projects should also address cross-cutting principles of integrating biophysical and social sciences, JEDI, and climate change.</p>
+			<p>Projects should also address cross-cutting principles of <strong>integrating biophysical and social sciences, justice, equity, diversity, and inclusion (JEDI), and climate change.</strong></p>
 			
-			<p>For this 2021 opportunity, approximately $750,000 will be available over a two-year period to support an estimated 14 to 25 projects in total, with individual project budgets ranging from a minimum of $30,000 to $80,00 maximum. </p>
+			<p>For this 2021 opportunity, approximately <strong>$750,000</strong> will be available over a two-year period to support an estimated 8 to 20 projects in total, with individual <strong>project budgets ranging from a minimum of $30,000 to $100,000 maximum.</strong> </p>
 			
 			<p>Project leads must be affiliated with an organization, agency, or tribal government that is licensed to do business in the State of Washington.</p>
 			
-			<p>Projects must address priority information needs under one or both project categories and include a detailed engagement plan.
+			<p><strong>Projects must address priority information needs under one or both project categories and include a detailed engagement plan.</strong>
 			<ul>
-			<li>Category 1: Monitoring, assessment, and reporting of the status and time trends of Vital Sign indicators and potential future indicators</li>
-			<li>Category 2: Synthesis and evaluation of ecosystem change; evaluation of cumulative effects; effectiveness assessment</li></ul></p>
+			<li>Category 1: Monitoring, assessment, and reporting of the status and time trends of Vital Sign indicators</li>
+			<li>Category 2: Synthesis and evaluation of causes behind ecosystem conditions; evaluation of cumulative effects; effectiveness assessment</li></ul></p>
 		
-		<button class="button button1"><a href="https://makingwaves.psp.wa.gov/" target="_blank" style="color:white"><strong>Access the full solicitation here for details.</strong></a></button>
+		<button class="button button1"><a href="https://pspwa.box.com/s/ddibx32cs44or9cp2v5qoyd70pew0gv6" target="_blank" style="color:white"><strong>Access the full solicitation here for details.</strong></a></button>
 		<br>
 		<br>
 		<table class="table" width="774" border="2">
+			<caption>
+        Timeline and important deadlines, all times are in PST
+        </caption>
         <tbody>
           <tr>
             <th width="50%" scope="col"><p>Timeline</p></th>
@@ -93,47 +96,47 @@
           </tr>
           <tr>
             <td><p>Solicitation released</p></td>
-            <td><p>Tuesday, April 13</p></td>
+            <td><p>Tuesday, April 13, 2021</p></td>
           </tr>
           <tr>
-            <td><p>Information session (webinar will be recorded)</p></td>
-            <td><p>Tuesday, April 27, 12:00 p.m. - 1:00 p.m.</p></td>
+            <td><p>Information session (webinar will be recorded) <p><a href="https://zoom.us/meeting/register/tJcoce2pqz0sG9GgQDMJQKIld1jO7AIXXCOL">Register here</a></p></p></td>
+            <td><p>Tuesday, April 27, 2021, 12:00 p.m. - 1:00 p.m.</p></td>
           </tr>
           <tr>
             <td><p>Letter of intent due</p></td>
-            <td><p>Friday, May 14, by 11:59 p.m.</p></td>
+            <td><p>Friday, May 14, 2021, by 11:59 p.m.</p></td>
           </tr>
           <tr>
             <td><p>Response to letters of intent</p></td>
-            <td><p>Tuesday, June 15, by 11:59 p.m.</p></td>
+            <td><p>Tuesday, June 15, 2021, by 11:59 p.m.</p></td>
           </tr>
           <tr>
             <td><p>Full proposals due</p></td>
-            <td><p>Friday, August 6, by 11:59 p.m.</p></td>
+            <td><p>Friday, August 6, 2021, by 11:59 p.m.</p></td>
           </tr>
           <tr>
             <td><p>Full proposal evaluation and selection</p></td>
-            <td><p>August 9 - September 10</p></td>
+            <td><p>August 9 - September 10, 2021</p></td>
           </tr>
 			<tr>
 			<td><p>Project scoping and contract negotiation</p></td>
-			<td><p>September 13 - October 15</p></td>
+			<td><p>September 13 - October 15, 2021 (approximately)</p></td>
 			</tr>
 		<tr>
 			<td><p>Project start date</p></td>
 			<td><p>Dependent on contract negotiation</p></td>
 			</tr>
 			<tr>
-			<td><p>Project end date</p></td>
-			<td><p>Dependent on fund source but not later than June 30, 2023, or September 30, 2023</p></td>
+				<td><p><strong>Project end date</strong></p></td>
+			<td><p>No later than June 30, 2023, or September 30, 2023 (dependent on fund source)</p></td>
 				</tr>
         </tbody>
         </table>
 		<br>
 		
 		<h3>Information session</h3>
-		<p>The Partnership will host one information session on Tuesday, April 27, 12:00 p.m. to 1:00 p.m.,
-to brief interested project leads on the solicitation process and provide an opportunity to ask questions. The information will be recorded and posted below. </p>
+		<p>The Partnership will host one information session on Tuesday, April 27, 12:00 p.m. to 1:00 p.m. PST,
+to provide an overview of the solicitation process and an opportunity to ask questions. The information will be recorded and posted below. </p>
 		
 		<button class="button button1"><a href="https://zoom.us/meeting/register/tJcoce2pqz0sG9GgQDMJQKIld1jO7AIXXCOL" target="_blank" style="color:white"><strong>To attend the information session, please register at this link.</strong></a></button>
 		<hr>
