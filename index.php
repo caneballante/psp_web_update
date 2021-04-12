@@ -118,10 +118,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
-					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
-						<a href="/legislative_updates.php">Week 13, April 5 - 9</a><br>
-						<!--END news content BOX--> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTHNews.jpg"  alt="Logo for PSDOTH 2021"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://www.psdoth.org/">Register for 2021 Puget Sound Days on the Hill</a><br>
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -133,10 +133,25 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
+					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
+						<a href="/legislative_updates.php">Week 13, April 5 - 9</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/PSEMP_logonews.jpg"  alt="Logo for Puget Sound Ecosystem Monitoring Program"/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c9466a" target="_blank">Monitoring to accelerate recovery funding opportunity - preliminary details</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -151,21 +166,6 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for Puget Sound Partnership"/> 
 					<strong>NEWS RELEASE</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c139e4" target="_blank">Governor Inslee appoints Will Hall to the Puget Sound Partnership's Leadership Council</a><br>
-						<!--END news content BOX-->     
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTHNews.jpg"  alt="Logo for PSDOTH 2021"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a><br>
 						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
