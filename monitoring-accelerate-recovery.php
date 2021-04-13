@@ -97,7 +97,7 @@
           </tr>
           <tr>
             <td><p>Solicitation released</p></td>
-            <td><p>Tuesday, April 13, 2021</p></td>
+            <td><p>Tuesday, April 14, 2021</p></td>
           </tr>
           <tr>
             <td><p>Information session (webinar will be recorded) <p><a href="https://zoom.us/meeting/register/tJcoce2pqz0sG9GgQDMJQKIld1jO7AIXXCOL">Register here</a></p></p></td>
@@ -131,10 +131,15 @@
 				<td><p><strong>Project end date</strong></p></td>
 			<td><p>No later than June 30, 2023, or September 30, 2023 (dependent on fund source)</p></td>
 				</tr>
+	</tbody>
+        </table>
+	<table class="table" width="774" border="2">
+			
+        <tbody>
 	<tr>
-	<td><p><em>Relevant dates for unsuccessful proposals:</em></p></td>
-	<td><p></p></td>
-	</tr>
+            <th width="50%" scope="col"><p><em>Relevant dates for unsuccessful proposals:</em></p></th>
+            <th width="50%" scope="col"><p></p></th>
+          </tr>
 	<tr>
 	<td><p><em>Deadline for debrief conference request</em></p></td>
 		<td><p><em>By 3:00 p.m., September 15, 2021</em></p></td>
@@ -204,7 +209,7 @@ to provide an overview of the solicitation process and an opportunity to ask que
 			</li>
 		</ul>
 
-			<p class="last-update">Last updated: 04/12/21</p>
+			<p class="last-update">Last updated: 04/13/21</p>
  
 			 
 		<!-- InstanceEndEditable --> </div>
