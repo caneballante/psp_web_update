@@ -80,7 +80,7 @@
 			
 			<p><strong>Projects must address priority information needs under one or both project categories and include a detailed engagement plan.</strong>
 			<ul>
-			<li>Category 1: Monitoring, assessment, and reporting of the status and time trends of Vital Sign indicators</li>
+			<li>Category 1: Monitoring, assessment, and reporting of the status and trends of Vital Sign indicators</li>
 			<li>Category 2: Synthesis and evaluation of causes behind ecosystem conditions; evaluation of cumulative effects; effectiveness assessment</li></ul></p>
 		
 		<button class="button button1"><a href="https://pspwa.box.com/s/ddibx32cs44or9cp2v5qoyd70pew0gv6" target="_blank" style="color:white"><strong>Access the full solicitation here for details.</strong></a></button>
@@ -131,6 +131,22 @@
 				<td><p><strong>Project end date</strong></p></td>
 			<td><p>No later than June 30, 2023, or September 30, 2023 (dependent on fund source)</p></td>
 				</tr>
+	<tr>
+	<td><p><em>Relevant dates for unsuccessful proposals:</em></p></td>
+	<td><p></p></td>
+	</tr>
+	<tr>
+	<td><p><em>Deadline for debrief conference request</em></p></td>
+		<td><p><em>By 3:00 p.m., September 15, 2021</em></p></td>
+	</tr>
+	<tr>
+	<td><p><em>Debrief conferences</em></p></td>
+		<td><p><em>September 20, 2021</em></p></td>
+	</tr>
+	<tr>
+	<td><p><em>Deadline for any protest notification</em></p></td>
+		<td><p><em>By 3:00 p.m., September 27, 2021</em></p></td>
+	</tr>
         </tbody>
         </table>
 		<br>
