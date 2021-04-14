@@ -154,7 +154,7 @@
 							360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov </a> </p>
 						<h5>Kaitlin Harris</h5>
 						<p>Environmental Planner (Project)<br />
-							360.480.0787 | <a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov </a> </p>
+							360.485.2117 | <a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov </a> </p>
 						<!--ECOSYSTEM RECOVERY TEAM-->
 						<h3 class="padding-10-top">ECOSYSTEM RECOVERY TEAM</h3>
 						<h5>Carrie Byron </h5>
