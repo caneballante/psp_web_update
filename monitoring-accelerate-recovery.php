@@ -97,7 +97,7 @@
           </tr>
           <tr>
             <td><p>Solicitation released</p></td>
-            <td><p>Tuesday, April 14, 2021</p></td>
+            <td><p>Wednesday, April 14, 2021</p></td>
           </tr>
           <tr>
             <td><p>Information session (webinar will be recorded) <p><a href="https://zoom.us/meeting/register/tJcoce2pqz0sG9GgQDMJQKIld1jO7AIXXCOL">Register here</a></p></p></td>
