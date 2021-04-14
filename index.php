@@ -118,9 +118,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTHNews.jpg"  alt="Logo for PSDOTH 2021"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for the Puget Sound Partnership"/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://www.psdoth.org/">Register for 2021 Puget Sound Days on the Hill</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2cca76a">Two Science and Monitoring Funding Opportunities from the Puget Sound Partnership</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
@@ -133,9 +133,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
-					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
-						<a href="/legislative_updates.php">Week 13, April 5 - 9</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTHNews.jpg"  alt="Logo for PSDOTH 2021"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://www.psdoth.org/">Register for 2021 Puget Sound Days on the Hill</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -148,10 +148,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSEMP_logonews.jpg"  alt="Logo for Puget Sound Ecosystem Monitoring Program"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c9466a" target="_blank">Monitoring to accelerate recovery funding opportunity - preliminary details</a><br>
-						<!--END news content BOX-->   
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
+					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
+						<a href="/legislative_updates.php">Week 13, April 5 - 9</a><br>
+						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -193,10 +193,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/science-panel-announcement.jpg"  alt="Aerial photo of Bellingham and Puget Sound. Photo credit: Brandon Sawaya."/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://pspwa.box.com/s/u43rx2s5vyp0f7l2lqwn6wht1uumjhhp" target="_blank">Call for nominations to the Puget Sound Partnership Science Panel</a><br>
-						<!--END news content BOX-->   
+					  <img class="img-responsive img-rounded" src="images/news-images/PSPSNC_news.jpg"  alt="Photo of Pacific herring swimming in eelgrass. Photo credit: Florian Graner."/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership credits will fund nearshore conservation</a><br>
+						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -208,9 +208,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSPSNC_news.jpg"  alt="Photo of Pacific herring swimming in eelgrass. Photo credit: Florian Graner."/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/Marysville_news.jpg"  alt="Aerial photo of Third Street in Marysville. The bulb-outs on Third Street contain bioretention cells that filter stormwater runoff. Photo credit: City of Marysville."/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership credits will fund nearshore conservation</a><br>
+						<a href="https://medium.com/puget-sound-partnership/city-of-marysvilles-focus-on-green-infrastructure-produces-multiple-benefits-b6fdf97315ae" target="_blank">City of Marysville's focus on green infrastructure produces multiple benefits</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
