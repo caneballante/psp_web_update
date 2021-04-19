@@ -250,8 +250,8 @@ Developing plans, managing information, and tracking progress during implementat
 				<li role="presentation"><a href="https://pspwa.box.com/v/floodplains-readme">Floodplains (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/ldc-readme">Land Development and Cover (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/yyiswccgjw4ogcqhr06bqsm5jtlm9aah">Eelgrass Recovery pilot (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook Salmon draft (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/v/sa-readme">Shoreline Armoring draft (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook Salmon (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/v/sa-readme">Shoreline Armoring (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/BIBI-IS-Public">B-IBI (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.app.box.com/folder/109400380199">Toxics in Fish (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/52t8ecqbtlm7nd5juad6lu8s3uuvh9yk">Marine Water Quality (IS)</a></li>
