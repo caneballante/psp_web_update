@@ -118,9 +118,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for the Puget Sound Partnership"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Aerial photo of Puget Sound water and shorelines. Photo credit: Kiliii Yuyan"/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2cca76a">Two Science and Monitoring Funding Opportunities from the Puget Sound Partnership</a><br>
+						<a href="https://pugetsoundestuary.wa.gov/what-we-do/funded-projects/">Strategic Initiatives of the Puget Sound National Estuary Program Funded Projects</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
@@ -133,10 +133,25 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for the Puget Sound Partnership"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2cca76a">Two Science and Monitoring Funding Opportunities from the Puget Sound Partnership</a><br>
+						<!--END news content BOX-->  
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTHNews.jpg"  alt="Logo for PSDOTH 2021"/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="https://www.psdoth.org/">Register for 2021 Puget Sound Days on the Hill</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -151,14 +166,14 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
 					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
 						<a href="/legislative_updates.php">Week 15, April 19 - 23</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				
 			</div>
 		<!--COLUMN END-->
-			<!--COLUMN START-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -166,22 +181,7 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for Puget Sound Partnership"/> 
 					<strong>NEWS RELEASE</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c139e4" target="_blank">Governor Inslee appoints Will Hall to the Puget Sound Partnership's Leadership Council</a><br>
-						<!--END news content BOX-->    
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/ANEP-news.jpg"  alt="Aerial photo of Nisqually River delta. Photo credit: Kiliii Yuyan"/> 
-					<strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2bdd6ab" target="_blank">Congress moves to invest in the nation's estuaries</a><br>
-						<!--END news content BOX-->
+						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -193,10 +193,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSPSNC_news.jpg"  alt="Photo of Pacific herring swimming in eelgrass. Photo credit: Florian Graner."/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership credits will fund nearshore conservation</a><br>
-						<!--END news content BOX-->    
+					  <img class="img-responsive img-rounded" src="images/news-images/ANEP-news.jpg"  alt="Aerial photo of Nisqually River delta. Photo credit: Kiliii Yuyan"/> 
+					<strong>NEWS RELEASE</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2bdd6ab" target="_blank">Congress moves to invest in the nation's estuaries</a><br>
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -208,9 +208,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/Marysville_news.jpg"  alt="Aerial photo of Third Street in Marysville. The bulb-outs on Third Street contain bioretention cells that filter stormwater runoff. Photo credit: City of Marysville."/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSPSNC_news.jpg"  alt="Photo of Pacific herring swimming in eelgrass. Photo credit: Florian Graner."/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/city-of-marysvilles-focus-on-green-infrastructure-produces-multiple-benefits-b6fdf97315ae" target="_blank">City of Marysville's focus on green infrastructure produces multiple benefits</a><br>
+						<a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership credits will fund nearshore conservation</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
