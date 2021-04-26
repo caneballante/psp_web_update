@@ -66,7 +66,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><p><a href="https://public.govdelivery.com/accounts/WAPSP/subscriber/new?topic_id=WAPSP_113">Sign up to receive the PSEMP newsletter</a></p></div>
+			<div class="highlightbox margin-0-top margin-20-bottom"><p><a href="https://public.govdelivery.com/accounts/WAPSP/subscriber/new?topic_id=WAPSP_113" target="_blank">Sign up to receive the PSEMP newsletter</a></p></div>
 		
 			<div class="pull-right"><img src="images/PSEMP/PSEMP_logo.jpg" width="277" height="303" alt=""/></div>
 			<p>The Puget Sound Ecosystem Monitoring Program (PSEMP) is a collaborative network of subject matter experts from many monitoring organizations and different parts of the region.  Together, they generate, organize, synthesize, and communicate scientific information, across political and organizational boundaries, to track ecosystem conditions that directly address management and science questions critical to Puget Sound recovery.  </p>
