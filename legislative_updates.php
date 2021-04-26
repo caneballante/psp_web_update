@@ -52,7 +52,7 @@
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>LEGISLATIVE UPDATES</h1>
-			<p><a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a><br></p>
+			
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -90,6 +90,8 @@
 
 			<h2 class="margin-0-top">2021 Legislative SESSION</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b3fb0d" target="_blank">General session info</a></p><br>
+			<h3 class="margin-0-top">Budget</h3>
+			<p><a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a></p>
 			<h3 class="margin-0-top"> Legislative CALENDAR:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2a9eeed" target="_blank">Pre-session Committee Work Sessions</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b4a857" target="_blank">Week 1, January 11 - 15, 2021</a></p>
