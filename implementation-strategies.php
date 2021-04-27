@@ -201,7 +201,7 @@ Developing plans, managing information, and tracking progress during implementat
             <p>Strategies associated with the Stormwater Strategic Initiative:</p>
             <uL>
                 <li><a href="https://pspwa.box.com/v/BIBI-IS-Public">Freshwater quality—B-IBI</a></li>
-                <li><a href="https://pspwa.app.box.com/folder/109400380199">Toxics in fish</a></li>
+                <li><a href="https://pspwa.box.com/s/q1rueyrajn7kgp7gfkal65k0h87cwcpx">Toxics in fish</a></li>
 				<li><a href="https://pspwa.box.com/s/52t8ecqbtlm7nd5juad6lu8s3uuvh9yk">Marine water quality</a></li>
             </uL>
             <p>Strategies managed by the Puget Sound Partnership</p>
@@ -253,7 +253,7 @@ Developing plans, managing information, and tracking progress during implementat
 				<li role="presentation"><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook Salmon (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/sa-readme">Shoreline Armoring (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/BIBI-IS-Public">B-IBI (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.app.box.com/folder/109400380199">Toxics in Fish (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/q1rueyrajn7kgp7gfkal65k0h87cwcpx">Toxics in Fish (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/52t8ecqbtlm7nd5juad6lu8s3uuvh9yk">Marine Water Quality (IS)</a></li>
 				
 				<div class="right-nav-title margin-20-top ">SEE ALSO</div>
