@@ -108,9 +108,16 @@ navSelected = 2;
 			
 		
 		<h3>What are the steps in the phase 3 process?</h3>
+			<img class="img-responsive" src="https://pspwa.box.com/shared/static/w9xef33wblv1v4fari3j7ur979239bu2.png" width="1491" height="421" alt=""/>
 			
 			<h3>How can you participate?</h3>
 			<p>Members of the recovery community will have three ways to participate in phase 3: </p>
+			<ol>
+			<li><p>Share your thoughts on-line (a link to an input form will be available in May).</p></li>
+				<li><p>Join a public workshop on strategy identification and feedback in early June (date and time TBD; a registration link will be available in May).</p></li>
+				<li><p>Join one of the Partnership's regularly scheduled board meetings and provide public comments (the boards calendar is <a href="https://psp.wa.gov/board_meetings.php">available here</a>)</p></li>
+			</ol>
+			
         <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>) or Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>).</p>
 		<p class="last-update">Last updated: 04/07/21</p>
         <div>
