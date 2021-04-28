@@ -81,13 +81,27 @@ navSelected = 2;
             <th width="50%" scope="col"><p>Strategies DO</p></th>
             <th width="50%" scope="col"><p>Strategies DO NOT</p></th>
           </tr>
-				</tbody>
+			<tr>
+			<td><p>Address the underlying conditions that give rise to a stressor on the ecosystem or enhance capacity to address the stressor</p></td>
+				<td><p>Describe reducing a stressor/source or achieving a statutory goal (too general)</p></td>
+			</tr>
+			<tr>
+			<td><p>Describe an activity type (regulation, education, funding, etc.) necessary to advance one or more desired outcome </p></td>
+				<td><p>Identify an actor (too specific)</p></td>
+			</tr>
+			<tr>
+			<td><p>Describe the kinds of policies, actions, or approaches that could be applied by many groups in many different areas </p></td>
+				<td><p>Describe something that can be done by a single entity (too specific)</p></td>
+			</tr>
+			<tr>
+			<td><p>Address a 5-50 year time horizon</p></td>
+				<td><p>Refer to a specific parcel or geographic area (too specific)</p></td>
+			</tr>
+			</tbody>
 			</table>
 		
-			
-			<button class="button button1"><a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank" style="color:white"><strong>Click here to view the draft desired outcomes for Puget Sound recovery</strong></a></button><br>
-			
-			<button class="button button1"><a href="https://pspwa.box.com/s/d3bhfz68nor5jfqz3y97wdfhy365dhzc" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that desired outcomes play in the 2022-2026 Action Agenda update</strong></a></button>
+					
+			<button class="button button1"><a href="https://pspwa.box.com/s/jfgxn9nfnpegh5guv2kwbqup2y0k5p8r" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that strategies play in the 2022-2026 Action Agenda update</strong></a></button>
 			
 			<h3>How were the desired outcomes identified?</h3>
 			<p>The draft list of desired outcomes was identified using existing plans, including Implementation Strategies and Local Integrating Organization (LIO) plans as initial sources. Partnership staff worked in collaboration with representatives of Puget Sound tribes, LIOs, state agencies, and the Environmental Protection Agency (EPA) to assemble data about the stressors and sources that are addressed through existing plans. The outcomes in Implementation Strategies, LIO plans, and other plans are all created through well-vetted, science-informed, and collaborative processes led by subject matter experts that capture knowledge from around the region.</p>
