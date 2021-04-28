@@ -244,9 +244,8 @@
 						 <h5>Charisse Sonnier</h5>
 						<p>Administrative Supervisor<br />
 							360.819.6869 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a><br /></p>
-						<h5>Justine Soderlind</h5>
-						<p> Administrative Assistant<br />
-						 desk: 360.464.1232 | mobile: 360.701.1768 | <a href="mailto:justine.soderlind@psp.wa.gov">justine.soderlind@psp.wa.gov</a> </p>
+						<h5>VACANT</h5>
+						<p> Administrative Assistant<br /></p>
 						<h5>Ami Hollingsworth</h5>
 						<p>Administrative Assistant<br />
 							360.867.8647 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
