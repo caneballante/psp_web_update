@@ -73,7 +73,7 @@ navSelected = 2;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 		<h2>Strategies describe effective aproaches for achieving desired outcomes</h2>
-		<p>For the purposes of the 2022-2026 Action Agenda update, a strategy describes an effective approach for advancing progress toward desired outcomes, Vital Signs, and overall recovery. Each strategy is expected to advance one or more desired outcome by addressing the underlying conditions that give rise to sources of stress on the ecosystem or enhance capacity to address a stressor. Strategies address a 5-50 year time horizon and describe the kinds of policies, actions, or approaches that could be applied by many groups in many different areas.</p><br>
+		<p>For the purposes of the 2022-2026 Action Agenda update, a strategy describes an effective approach for advancing progress toward <a href="https://psp.wa.gov/priority-outcomes.php">desired outcomes</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Vital Signs</a>, and overall recovery. Each strategy is expected to advance one or more desired outcome by addressing the underlying conditions that give rise to sources of stress on the ecosystem or enhance capacity to address a stressor. Strategies address a 5&ndash;50 year time horizon and describe the kinds of policies, actions, or approaches that could be applied by many groups in many different areas.</p><br>
 			<table class="table" width="774" border="2">
 			
         <tbody>
@@ -94,7 +94,7 @@ navSelected = 2;
 				<td><p>Describe something that can be done by a single entity (too specific)</p></td>
 			</tr>
 			<tr>
-			<td><p>Address a 5-50 year time horizon</p></td>
+			<td><p>Address a 5&ndash;50 year time horizon</p></td>
 				<td><p>Refer to a specific parcel or geographic area (too specific)</p></td>
 			</tr>
 			</tbody>
