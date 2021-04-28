@@ -118,6 +118,8 @@ navSelected = 2;
 				<li><p>Join one of the Partnership's regularly scheduled board meetings and provide public comments (the boards calendar is <a href="https://psp.wa.gov/board_meetings.php">available here</a>)</p></li>
 			</ol>
 			
+			<p>In addition to general review and feedback on strategies, Partnership staff will be working with specific segments of the recovery community to solicit targeted feedback including <a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organizations</a>, the Puget Sound Tribal Co-management Council, <a href="https://pugetsoundestuary.wa.gov/">Strategic Initiatives</a>, <a href="https://www.psp.wa.gov/PSEMP-overview.php">the Puget Sound Ecosystem Monitoring Program</a>, the Social Science Advisory Committee, and others. Partners are encouraged to engage in multiple ways during this phase of the Action Agenda. Examples of the kinds of input that different groups may provide are included below:</p>
+			
         <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>) or Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>).</p>
 		<p class="last-update">Last updated: 04/07/21</p>
         <div>
