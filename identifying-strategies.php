@@ -120,6 +120,56 @@ navSelected = 2;
 			
 			<p>In addition to general review and feedback on strategies, Partnership staff will be working with specific segments of the recovery community to solicit targeted feedback including <a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organizations</a>, the Puget Sound Tribal Co-management Council, <a href="https://pugetsoundestuary.wa.gov/">Strategic Initiatives</a>, <a href="https://www.psp.wa.gov/PSEMP-overview.php">the Puget Sound Ecosystem Monitoring Program</a>, the Social Science Advisory Committee, and others. Partners are encouraged to engage in multiple ways during this phase of the Action Agenda. Examples of the kinds of input that different groups may provide are included below:</p>
 			
+			<table class="table" width="774" border="2">
+			
+        <tbody>
+          <tr>
+            <th width="50%" scope="col"><p>Partner type</p></th>
+            <th width="50%" scope="col"><p>Possible input</p></th>
+          </tr>
+			<tr>
+			<td><p>Local Integrating Organizations</p></td>
+				<td><p>Expected strategy effectiveness and applicability in each LIO area and the potential for regionally significant opportunities </p></td>
+			</tr>
+			<tr>
+			<td><p>Puget Sound tribes</p></td>
+				<td><p>Alignment of strategies with the priorities of tribes for protecting treaty rights and resources in Puget Sound </p></td>
+			</tr>
+			<tr>
+			<td><p>Strategic Initiative Advisory Teams</p></td>
+				<td><ul><li>Areas of potential biggest regional impact over the next 4 years</li>
+					<li>Revisions to strategies to better incorporate climate change and human well being</li></ul></td>
+			</tr>
+			<tr>
+			<td><p>Salmon Recovery Council</p></td>
+				<td><p>Alignment of strategies with salmon recovery priorities of the region to achieve salmon recovery</p></td>
+			</tr>
+			<tr>
+			<td><p>Ecosystem Coordination Board</p></td>
+				<td><p>Alignment of strategies with the priorities and contributions of each ECB member’s caucus (geography, sector, etc.)</p></td>
+			</tr>
+			<tr>
+			<td><p>Science Panel</p></td>
+				<td><p>Alignment of strategies with the best available science</p></td>
+			</tr>
+			<tr>
+			<td><p>Puget Sound Ecosystem Monitoring Program</p></td>
+				<td><ul><li>Monitoring activities that could support increased effectiveness and adaptive management of strategies over time, including progress measures at various scales (Vital Signs, intermediate measures).</li>
+					<li>Adjustments to strategies to make them more effective and measurable</li></ul></td>
+			</tr>
+			<tr>
+			<td><p>Social Science Advisory Committee</p></td>
+				<td><ul><li>Strategies for advancing human wellbeing outcomes</li>
+					<li>How strategies should consider positive or negative effects on human wellbeing</li></ul></td>
+			</tr>
+			<tr>
+			<td><p>Climate Advisory Team</p></td>
+				<td><ul><li>Strategies for advancing climate change outcomes</li>
+					<li>How strategies should adapt to changing climate and ocean conditions</li></ul></td>
+			</tr>
+				</tbody>
+			</table>
+			
         <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>) or Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>).</p>
 		<p class="last-update">Last updated: 04/07/21</p>
         <div>
