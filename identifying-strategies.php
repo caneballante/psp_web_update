@@ -73,7 +73,16 @@ navSelected = 2;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 		<h2>Strategies describe effective aproaches for achieving desired outcomes</h2>
-		<p>For the purposes of the 2022-2026 Action Agenda update, a strategy describes an effective approach for advancing progress toward desired outcomes, Vital Signs, and overall recovery. Each strategy is expected to advance one or more desired outcome by addressing the underlying conditions that give rise to sources of stress on the ecosystem or enhance capacity to address a stressor. Strategies address a 5-50 year time horizon and describe the kinds of policies, actions, or approaches that could be applied by many groups in many different areas.</p>
+		<p>For the purposes of the 2022-2026 Action Agenda update, a strategy describes an effective approach for advancing progress toward desired outcomes, Vital Signs, and overall recovery. Each strategy is expected to advance one or more desired outcome by addressing the underlying conditions that give rise to sources of stress on the ecosystem or enhance capacity to address a stressor. Strategies address a 5-50 year time horizon and describe the kinds of policies, actions, or approaches that could be applied by many groups in many different areas.</p><br>
+			<table class="table" width="774" border="2">
+			
+        <tbody>
+          <tr>
+            <th width="50%" scope="col"><p>Strategies DO</p></th>
+            <th width="50%" scope="col"><p>Strategies DO NOT</p></th>
+          </tr>
+				</tbody>
+			</table>
 		
 			
 			<button class="button button1"><a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank" style="color:white"><strong>Click here to view the draft desired outcomes for Puget Sound recovery</strong></a></button><br>
