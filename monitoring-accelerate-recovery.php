@@ -100,7 +100,7 @@
             <td><p>Wednesday, April 14, 2021</p></td>
           </tr>
           <tr>
-            <td><p>Information session (webinar will be recorded) <p><a href="https://zoom.us/meeting/register/tJcoce2pqz0sG9GgQDMJQKIld1jO7AIXXCOL">Register here</a></p></p></td>
+            <td><p>Information session (webinar will be recorded) <p><a href="https://pspwa.box.com/s/6zhy0aviae64f824eyojkev16ey65rpt" target="_blank">Link to information session slides</a></p></p></td>
             <td><p>Tuesday, April 27, 2021, 12:00 p.m. - 1:00 p.m.</p></td>
           </tr>
           <tr>
@@ -160,7 +160,7 @@
 		<p>The Partnership will host one information session on Tuesday, April 27, 12:00 p.m. to 1:00 p.m. PST,
 to provide an overview of the solicitation process and an opportunity to ask questions. The information will be recorded and posted below. </p>
 		
-		<button class="button button1"><a href="https://zoom.us/meeting/register/tJcoce2pqz0sG9GgQDMJQKIld1jO7AIXXCOL" target="_blank" style="color:white"><strong>To attend the information session, please register at this link.</strong></a></button>
+		<a href="https://pspwa.box.com/s/6zhy0aviae64f824eyojkev16ey65rpt" target="_blank">Link to information session slides</a>
 		<hr>
 		<h3>PSEMP and Vital Signs Projects Funded in 2019-21:</h3>
 		<p>The Partnership funded the following projects using PSEMP program funding and Vital Signs reporting program funding during the 2019-21 biennium:</p>
