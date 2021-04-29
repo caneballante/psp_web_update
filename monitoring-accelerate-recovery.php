@@ -100,7 +100,7 @@
             <td><p>Wednesday, April 14, 2021</p></td>
           </tr>
           <tr>
-            <td><p>Information session (webinar will be recorded) <p><a href="https://youtu.be/ygPhxgixda8" target="_blank">Link to recording of the information session</a></p><p><a href="https://pspwa.box.com/s/6zhy0aviae64f824eyojkev16ey65rpt" target="_blank">Link to information session slides</a></p></p></td>
+            <td><p>Information session <p><a href="https://youtu.be/ygPhxgixda8" target="_blank">Link to recording of the information session</a></p><p><a href="https://pspwa.box.com/s/6zhy0aviae64f824eyojkev16ey65rpt" target="_blank">Link to information session slides</a></p></p></td>
             <td><p>Tuesday, April 27, 2021, 12:00 p.m. - 1:00 p.m.</p></td>
           </tr>
           <tr>
@@ -157,8 +157,8 @@
 		<br>
 		
 		<h3>Information session</h3>
-		<p>The Partnership will host one information session on Tuesday, April 27, 12:00 p.m. to 1:00 p.m. PST,
-to provide an overview of the solicitation process and an opportunity to ask questions. The information will be recorded and posted below. </p>
+		<p>The Partnership hosted one information session on Tuesday, April 27, 12:00 p.m. to 1:00 p.m. PST,
+to provide an overview of the solicitation process and an opportunity to ask questions. The information session was recorded and the recording is posted below. </p>
 		<p><a href="https://youtu.be/ygPhxgixda8" target="_blank">Link to the recording of the information session</a></p>
 		<p><a href="https://pspwa.box.com/s/6zhy0aviae64f824eyojkev16ey65rpt" target="_blank">Link to information session slides</a></p>
 		<hr>
