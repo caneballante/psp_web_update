@@ -129,11 +129,11 @@ navSelected = 2;
           </tr>
 			<tr>
 			<td><p>Local Integrating Organizations</p></td>
-				<td><p>Expected strategy effectiveness and applicability in each LIO area and the potential for regionally significant opportunities </p></td>
+				<td><ul><li>Expected strategy effectiveness and applicability in each LIO area and the potential for regionally significant opportunities</li></ul></td>
 			</tr>
 			<tr>
 			<td><p>Puget Sound tribes</p></td>
-				<td><p>Alignment of strategies with the priorities of tribes for protecting treaty rights and resources in Puget Sound </p></td>
+				<td><ul><li>Alignment of strategies with the priorities of tribes for protecting treaty rights and resources in Puget Sound</li></ul></td>
 			</tr>
 			<tr>
 			<td><p>Strategic Initiative Advisory Teams</p></td>
@@ -142,15 +142,15 @@ navSelected = 2;
 			</tr>
 			<tr>
 			<td><p>Salmon Recovery Council</p></td>
-				<td><p>Alignment of strategies with salmon recovery priorities of the region to achieve salmon recovery</p></td>
+				<td><ul><li>Alignment of strategies with salmon recovery priorities of the region to achieve salmon recovery</li></ul></td>
 			</tr>
 			<tr>
 			<td><p>Ecosystem Coordination Board</p></td>
-				<td><p>Alignment of strategies with the priorities and contributions of each ECB member’s caucus (geography, sector, etc.)</p></td>
+				<td><ul><li>Alignment of strategies with the priorities and contributions of each ECB member’s caucus (geography, sector, etc.)</li></ul></td>
 			</tr>
 			<tr>
 			<td><p>Science Panel</p></td>
-				<td><p>Alignment of strategies with the best available science</p></td>
+				<td><ul><li>Alignment of strategies with the best available science</li></ul></td>
 			</tr>
 			<tr>
 			<td><p>Puget Sound Ecosystem Monitoring Program</p></td>
