@@ -118,10 +118,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Aerial photo of Puget Sound water and shorelines. Photo credit: Kiliii Yuyan"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for the Puget Sound Partnership"/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://pugetsoundestuary.wa.gov/what-we-do/funded-projects/">Strategic Initiatives of the Puget Sound National Estuary Program Funded Projects</a><br>
-						<!--END news content BOX-->   
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2d7782b">Two Science and Monitoring Funding Opportunities from the Puget Sound Partnership - additional information and upcoming deadlines</a><br>
+						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -133,10 +133,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for the Puget Sound Partnership"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Aerial photo of Puget Sound water and shorelines. Photo credit: Kiliii Yuyan"/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2cca76a">Two Science and Monitoring Funding Opportunities from the Puget Sound Partnership</a><br>
-						<!--END news content BOX-->  
+						<a href="https://pugetsoundestuary.wa.gov/what-we-do/funded-projects/">Strategic Initiatives of the Puget Sound National Estuary Program Funded Projects</a><br>
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
