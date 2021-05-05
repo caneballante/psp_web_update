@@ -103,7 +103,7 @@ navSelected = 3;
 					
 			<button class="button button1"><a href="https://pspwa.box.com/s/jfgxn9nfnpegh5guv2kwbqup2y0k5p8r" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that strategies play in the 2022-2026 Action Agenda update</strong></a></button>
 			
-			<button class="button button1"><a href="https://pspwa.box.com/s/7nw6r4iipy841cw1pc6azkjo8gnnle2j" target="_blank" style="color:white"><strong>Click here to view the list of Action Agenda strategies</strong></a></button>
+			<button class="button button1"><a href="https://pspwa.box.com/s/7nw6r4iipy841cw1pc6azkjo8gnnle2j" target="_blank" style="color:white"><strong>Click here to view the list of Action Agenda strategies</strong></a></button><br>
 			
 			<div><IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=04ec05b0ca994094828f08a3973bfcc6"></IFRAME></div><br>
 			
