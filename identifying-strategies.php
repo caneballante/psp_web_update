@@ -111,10 +111,10 @@ navSelected = 3;
 			
         <tbody>
           	<tr>
-				<td><h4>PDF version of the draft strategies, sorted by themes</h4></td>
+				<td><h5>PDF version of the draft strategies, sorted by themes</h5></td>
 				<td><button class=button><a href="https://pspwa.box.com/s/7nw6r4iipy841cw1pc6azkjo8gnnle2j" target="_blank" style="color:white"><strong>Click here to view the PDF</strong></a></button></td>
 			</tr>
-			<td><h4>Database version of the draft strategies is embedded below</h4></td>
+			<td><h5>Database version of the draft strategies is embedded below</h5></td>
 			<td><button class=button><a href="https://app.smartsheet.com/b/publish?EQBCT=04ec05b0ca994094828f08a3973bfcc6" target="_blank" style="color:white"><strong>Click here to view the database in your full browser window</strong></a></button></td>
 			</tr>
 				</tbody>
