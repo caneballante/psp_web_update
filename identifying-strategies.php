@@ -191,7 +191,7 @@ navSelected = 3;
 			</table>
 			
         <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>) or Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>).</p>
-		<p class="last-update">Last updated: 05/05/21</p>
+		<p class="last-update">Last updated: 05/06/21</p>
         <div>
           <div> </div>
         </div>
