@@ -118,7 +118,7 @@ navSelected = 3;
 			<td><button class=button><a href="https://app.smartsheet.com/b/publish?EQBCT=04ec05b0ca994094828f08a3973bfcc6" target="_blank" style="color:white"><strong>Click here to view the database in your full browser window</strong></a></button></td>
 			</tr>
 				</tbody>
-			</table>
+			</table><br><br>
 			
 			
 			<div><IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=04ec05b0ca994094828f08a3973bfcc6"></IFRAME></div><br>
