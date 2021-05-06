@@ -103,7 +103,21 @@ navSelected = 3;
 					
 			<button class="button button1"><a href="https://pspwa.box.com/s/jfgxn9nfnpegh5guv2kwbqup2y0k5p8r" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that strategies play in the 2022-2026 Action Agenda update</strong></a></button>
 			
-			<button class="button button1"><a href="https://pspwa.box.com/s/7nw6r4iipy841cw1pc6azkjo8gnnle2j" target="_blank" style="color:white"><strong>Click here to view the list of Action Agenda strategies</strong></a></button><br><br>
+			<h3>Review the draft strategies now</h3>
+			
+			<p>Provided below are several different ways of viewing the draft strategies. Each option contains the same content but provides different levels of flexibility to sort the list in different ways. Specifically, the database options promote greater flexibility for the reviewer to sort and organize the list in different ways (click on the three vertical dots at the top of any column you wish to filter or sort).</p>
+			
+			<table class="table" width="774" border="0">
+			
+        <tbody>
+          	<tr>
+			<td><ul><li>PDF version of the draft strategies, sorted by themes</li></ul></td>
+				<td><button class=button><a href="https://pspwa.box.com/s/7nw6r4iipy841cw1pc6azkjo8gnnle2j" target="_blank" style="color:white"><strong>Click here to view the PDF</strong></a></button><br><br></td>
+			</tr>
+				</tbody>
+			</table>
+			
+			
 			
 			<p><strong><a href="https://app.smartsheet.com/b/publish?EQBCT=04ec05b0ca994094828f08a3973bfcc6" target="_blank">If you'd like to view the database of Action Agenda strategies in your full browser window, click here.</a></strong></p>	
 			
