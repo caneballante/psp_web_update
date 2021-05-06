@@ -115,7 +115,7 @@ navSelected = 3;
 				<td><button class=button><a href="https://pspwa.box.com/s/7nw6r4iipy841cw1pc6azkjo8gnnle2j" target="_blank" style="color:white"><strong>Click here to view the PDF</strong></a></button></td>
 			</tr>
 			<td><ul><li>Database version of the draft strategies is embedded below</li></ul></td>
-			<td><button class=button><a href="https://app.smartsheet.com/b/publish?EQBCT=04ec05b0ca994094828f08a3973bfcc6" target="_blank" style="color:white"><strong>If you'd like to view the database of Action Agenda strategies in your full browser window, click here.</strong></a></button></td>
+			<td><button class=button><a href="https://app.smartsheet.com/b/publish?EQBCT=04ec05b0ca994094828f08a3973bfcc6" target="_blank" style="color:white"><strong>Click here to view the database in your full browser window</strong></a></button></td>
 			</tr>
 				</tbody>
 			</table>
