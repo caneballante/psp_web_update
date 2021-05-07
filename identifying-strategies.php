@@ -103,7 +103,7 @@ navSelected = 3;
 					
 			<button class="button button1"><a href="https://pspwa.box.com/s/jfgxn9nfnpegh5guv2kwbqup2y0k5p8r" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that strategies play in the 2022-2026 Action Agenda update</strong></a></button><br><br>
 			
-			<h2>Review the draft strategies now</h2>
+			<h2>Review the draft strategies - by June 25</h2>
 			
 			<p>Provided below are several different ways of viewing the draft strategies. Each option contains the same content but provides different levels of flexibility to sort the list in different ways. Specifically, the database options promote greater flexibility for the reviewer to sort and organize the list in different ways (click on the three vertical dots at the top of any column you wish to filter or sort).</p>
 			
@@ -133,7 +133,7 @@ navSelected = 3;
 			<h3>How can you participate?</h3>
 			<p>Members of the recovery community will have three ways to participate in phase 3: </p>
 			<ol>
-			<li><p>Share your thoughts online <a href="https://survey.zohopublic.com/zs/zRBUUF" target="_blank">through this form</a>.</p></li>
+			<li><p>Share your thoughts online <a href="https://survey.zohopublic.com/zs/zRBUUF" target="_blank">through this form - complete by June 25</a>.</p></li>
 				<li><p>Join a public workshop on strategy identification and feedback in early June (date and time TBD; a registration link will be available soon).</p></li>
 				<li><p>Join one of the Partnership's regularly scheduled board meetings and provide public comments (the boards calendar is <a href="https://psp.wa.gov/board_meetings.php">available here</a>)</p></li>
 			</ol>
