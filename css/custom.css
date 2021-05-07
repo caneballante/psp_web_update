@@ -1114,6 +1114,6 @@ p {
 	border: 3px;
 	border-style: solid;
 	border-color: #0a3b5c;
-	border-radius: 1px 30px 1px 1px;
+	border-radius: 3px;
 	padding: 20px;
 }
