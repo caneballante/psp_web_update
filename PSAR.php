@@ -66,21 +66,7 @@
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-			<div class="highlightbox margin-0-top">
-				<p class="padding-10-all"><span class="new-red">NEW!</span>&nbsp;Links to Puget Sound Acquisition and Restoration Large Capital Project legislative tours<br />
-				<ul>
-				<li><a href="https://kingcounty.gov/services/environment/animals-and-plants/restoration-projects/projects/fall-city-floodplain-restoration.aspx" target="_blank">Fall City Floodplain Restoration</a></li>
-				<li><a href="https://youtu.be/cBvJSBVW-ts" target="_blank">Stillaguamish Delta Projects (Florence Island and Port Susan Bay)</a></li>
-				<li><a href="https://connects.sumnerwa.gov/white-river-restoration-project" target="_blank">Sumner White River Restoration</a></li>
-				<li><a href="https://www.youtube.com/watch?v=VObtMVew2HY" target="_blank">WRIA 14 Projects (Skookum Creek Valley and West Oakland Bay)</a></li>
-				<li><a href="https://www.kentwa.gov/Home/Components/FacilityDirectory/FacilityDirectory/404/568" target="_blank">Downey Farmstead Side Channel Restoration</a></li>
-				</ul></p>				
-			</div><br />
-			<div class="highlightbox margin-0-top">
-				<p class="padding-10-all"><a href="https://pspwa.box.com/s/5w1nrd6dhnw3q5a5jxh7py5tacizeqnz">  2021-2023 Puget Sound Acquisition and Restoration (PSAR) Large Capital Project 
-				  ranked list and project factsheets are available here
-					</a></p>				
-			</div>
+						
 			<div class="sidebarbox margin-20-top margin-20-left margin-20-bottom padding-10-all orange-fill">
 				<h3 class="margin-0-top">PSAR ACCOMPLISHMENTS</h3>
 					<p>$254 million invested in Puget Sound recovery<br>
