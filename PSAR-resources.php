@@ -72,6 +72,14 @@
 			<p class="margin-0-top"><strong>PSAR RAPID RESPONSE REVOLVING FUND</strong></p>
 			<p>The Puget Sound Rapid Response Revolving Fund ("Rapid Response Fund") is designed provide rapid access to funds for urgent and essential strategic habitat acquisitions within the Puget Sound.  <a href="https://pspwa.box.com/s/68nk6ix5yhssidt56j2668742zi6i2yx">View criteria for the Rapid Response Fund here.</a></p>
 			
+			<p class="padding-10-all"><span class="new-red">NEW!</span>&nbsp;Links to Puget Sound Acquisition and Restoration Large Capital Project legislative tours<br />
+				<ul>
+				<li><a href="https://kingcounty.gov/services/environment/animals-and-plants/restoration-projects/projects/fall-city-floodplain-restoration.aspx" target="_blank">Fall City Floodplain Restoration</a></li>
+				<li><a href="https://youtu.be/cBvJSBVW-ts" target="_blank">Stillaguamish Delta Projects (Florence Island and Port Susan Bay)</a></li>
+				<li><a href="https://connects.sumnerwa.gov/white-river-restoration-project" target="_blank">Sumner White River Restoration</a></li>
+				<li><a href="https://www.youtube.com/watch?v=VObtMVew2HY" target="_blank">WRIA 14 Projects (Skookum Creek Valley and West Oakland Bay)</a></li>
+				<li><a href="https://www.kentwa.gov/Home/Components/FacilityDirectory/FacilityDirectory/404/568" target="_blank">Downey Farmstead Side Channel Restoration</a></li>
+				</ul></p>			
 			
 			<p class="padding-10-all"><span class="new-red">NEW!</span><a href="https://pspwa.box.com/s/5w1nrd6dhnw3q5a5jxh7py5tacizeqnz">  2021-2023 Puget Sound Acquisition and Restoration (PSAR) Large Capital Project <br>
 				  ranked list and project factsheets are available here
