@@ -76,7 +76,7 @@ navSelected = 3;
 			<ul><li><a href="#learn-about-what-strategies-are">Learn about what strategies are</a></li>
 				<li><a href="#review-draft-strategies">Review the draft strategies</a></li>
 					<li><a href="#learn-about-where-strategies-come-from">Learn about where strategies come from</a></li>
-					<li>Learn about opportunities to weigh in on the draft strategies</li></div>
+					<li><a href="#opportunities-to-weigh-in">Learn about opportunities to weigh in on the draft strategies</a></li></div>
 				
 		<a name="learn-about-what-strategies-are"></a>	
 		<h2>Strategies describe effective aproaches for achieving desired outcomes</h2>
