@@ -71,18 +71,13 @@ navSelected = 3;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<table class="table" width="774" border="3">
-			<tbody>
-			<tr><h3>I want to...</h3>
+		<div class="navbox">
+			<h3>I want to...</h3>
 				<ul><li>Learn about what strategies are</li>
 					<li>Review the draft strategies</li>
 					<li>Learn about where strategies come from</li>
-					<li>Learn about opportunities to weigh in on the draft strategies</li>
+					<li>Learn about opportunities to weigh in on the draft strategies</li></div>
 				
-				</ul>		
-			</tr>
-				</tbody>
-			</table>
 			
 		<h2>Strategies describe effective aproaches for achieving desired outcomes</h2>
 		<p>For the purposes of the 2022-2026 Action Agenda update, a strategy describes an effective approach for advancing progress toward <a href="https://psp.wa.gov/priority-outcomes.php">desired outcomes</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Vital Signs</a>, and overall recovery. Each strategy is expected to advance one or more desired outcome by addressing the underlying conditions that give rise to sources of stress on the ecosystem or enhance capacity to address a stressor. Strategies address a 5&ndash;50 year time horizon and describe the kinds of policies, actions, or approaches that could be applied by many groups in many different areas.</p><br>
