@@ -74,7 +74,7 @@ navSelected = 3;
 		<div class="navbox">
 			<h3>I want to...</h3>
 			<ul><li><a href="#learn-about-what-strategies-are">Learn about what strategies are</a></li>
-					<li>Review the draft strategies</li>
+				<li><a href="#review-draft-strategies">Review the draft strategies</a></li>
 					<li><a href="#learn-about-where-strategies-come-from">Learn about where strategies come from</a></li>
 					<li>Learn about opportunities to weigh in on the draft strategies</li></div>
 				
@@ -107,12 +107,13 @@ navSelected = 3;
 			</tbody>
 			</table>
 		
-			<a name="learn-about-where-strategies-come-from"></a>	
-			<button class="button button1"><a href="https://pspwa.box.com/s/jfgxn9nfnpegh5guv2kwbqup2y0k5p8r" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that strategies play in the 2022-2026 Action Agenda update</strong></a></button>
 			
+			<button class="button button1"><a href="https://pspwa.box.com/s/jfgxn9nfnpegh5guv2kwbqup2y0k5p8r" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that strategies play in the 2022-2026 Action Agenda update</strong></a></button>
+			<a name="learn-about-where-strategies-come-from"></a>	
 			<h3>How are Action Agenda strategies identified?</h3>
 			<p>Action Agenda strategies are based on existing plans, including Implementation Strategies as the primary source. Local Integrating Organization plans, tribal priorities, salmon recovery plans, and the Orca Task Force recommendations also provide important strategies for the Action Agenda and reveal areas of commonality where strategies will advance multiple aspects of recovery. These plans are all created through science-informed and collaborative processes that capture the expertise and most recent thinking of individuals from around the region. Through the process of reviewing and providing feedback on the initial draft list of strategies, recovery partners will have the opportunity to identify additional strategies that are needed to advance the desired outcomes. </p>
 			
+			<a name="review-draft-strategies"></a>
 			<div><IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/c4fe0dbd9bed4c7e82ce3d484e37827b"></IFRAME></div>
 			
 			
