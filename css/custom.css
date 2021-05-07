@@ -1109,3 +1109,9 @@ p {
 	background-color: #0a3b5c;
 	padding: 10px 15px;
 }
+.navbox {
+	background-color: #FFF;
+	border-color: #0a3b5c;
+	border-radius: 1px 30px 1px 1px;
+	padding: 20px;
+}
