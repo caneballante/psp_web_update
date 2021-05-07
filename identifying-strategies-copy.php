@@ -120,7 +120,7 @@ navSelected = 3;
 		
 		<h3>What are the steps in the phase 3 process?</h3>
 			<img class="img-responsive" src="https://pspwa.box.com/shared/static/w9xef33wblv1v4fari3j7ur979239bu2.png" width="1491" height="421" alt=""/>
-			
+			<a name="opportunities-to-weigh-in"></a>
 			<h3>How can you participate?</h3>
 			<p>Members of the recovery community will have three ways to participate in phase 3: </p>
 			<ol>
