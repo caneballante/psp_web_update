@@ -72,6 +72,7 @@ navSelected = 3;
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<table class="table" width="774" border="3">
+			<tbody>
 			<tr><h3>I want to...</h3>
 				<ul><li>Learn about what strategies are</li>
 					<li>Review the draft strategies</li>
@@ -80,6 +81,7 @@ navSelected = 3;
 				
 				</ul>		
 			</tr>
+				</tbody>
 			</table>
 			
 		<h2>Strategies describe effective aproaches for achieving desired outcomes</h2>
