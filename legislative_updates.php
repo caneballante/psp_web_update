@@ -92,6 +92,9 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b3fb0d" target="_blank">General session info</a></p><br>
 			<h3 class="margin-0-top">BUDGET:</h3>
 			<p><a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a></p>
+			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c3e8c6" target="_blank">Legislative Update, February 25, 2021</a></p>
+			<p><span class="new-red">NEW</span>&nbsp;<a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a></p>
 			<h3 class="margin-0-top"> Legislative CALENDAR:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2a9eeed" target="_blank">Pre-session Committee Work Sessions</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b4a857" target="_blank">Week 1, January 11 - 15, 2021</a></p>
@@ -108,10 +111,6 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c9b144" target="_blank">Week 12, March 27 - April 2, 2021</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2cae65d" target="_blank">Week 13, April 5 - 9, 2021</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2cd54e0" target="_blank">Week 15, April 19 - 23, 2021</a></p>
-            
-			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
-			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c3e8c6" target="_blank">Legislative Update, February 25, 2021</a></p>
-			<p><a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a></p>
 			
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS:</h3>
 			<p><a href="https://pspwa.box.com/s/0szesr83v3qncqvy1kx63kwyljwdkuzf" target="_blank">January 8, 2021 call recording</a> and <a href="https://pspwa.box.com/s/th1dhfs39gcvxrsx54kmpj6ef7a1qwmp" target="_blank">presentation</a></p>
