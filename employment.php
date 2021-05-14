@@ -72,7 +72,9 @@
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
 					
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2876820/monitoring-program-performance-analyst-salmon-scientist-exempt" target="_blank">Monitoring Program Performance Analyst (Salmon Scientist)</a></p>
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3079735/ecosystem-recovery-coordinator-exempt" target="_blank">Ecosystem Recovery Coordinator</a></p>
+			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3081528/administrative-assistant-3" target="_blank">Administrative Assistant 3</a></p>
 			
 			
 			
