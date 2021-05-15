@@ -134,7 +134,7 @@ navSelected = 3;
 			<p>Members of the recovery community will have three ways to participate in phase 3: </p>
 			<ol>
 			<li><p>Share your thoughts online <a href="https://survey.zohopublic.com/zs/zRBUUF" target="_blank">through this form - complete by June 25</a>.</p></li>
-				<li><p>Join a public workshop on strategy identification and feedback in early June (date and time TBD; a registration link will be available soon).</p></li>
+				<li><p>Join a public workshop on strategy identification in June by <a href="https://forms.office.com/r/TfFLSA6vwP" target="_blank">registering here</a>.</p></li>
 				<li><p>Join one of the Partnership's regularly scheduled board meetings and provide public comments (the boards calendar is <a href="https://psp.wa.gov/board_meetings.php">available here</a>)</p></li>
 			</ol>
 			
