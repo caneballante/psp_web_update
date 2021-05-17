@@ -187,10 +187,8 @@
 						<p>Salmon Recovery Manager<br />
 							360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov </a></p>
 
-						<h5>Erin Murray</h5>
-						<p>Ecosystem Recovery Coordinator<br>
-							<em>Skagit/Samish, Snohomish/Stillaguamish</em><br />
-							360.819.0420 | <a href="mailto:erin.murray@psp.wa.gov">erin.murray@psp.wa.gov </a></p>
+						<h5>VACANT</h5>
+						<p>Ecosystem Recovery Coordinator</p>
 
 						<h5>Erin Ryan-Peñuela</h5>
 						<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br/>
