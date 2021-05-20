@@ -70,27 +70,9 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Despite our coordinated, integrated and strategic approach to restoring Puget Sound, the threats it faces continue to outpace our efforts to combat them. The 2015 State of the Sound report shows that the majority of Vital Sign indicators are, at best, only slowly changing. While we are seeing incremental progress in measures related to habitat restoration and protection efforts, our salmon, orcas and other native species continue to struggle. Meanwhile, the continuing impacts of population growth, climate change, and ocean acidification continue to add pressure on our ecosystem health.</p>
-			<h3>Key findings:</h3>
-			<ul>
-			<li>Overall, results for Vital Signs progress are mixed and few indicators are on a path to meet the 2020 targets.</li>
-			<li>Four indicators are already meeting or nearly meeting 2020 targets:</li>
-			<ul>
-				<li>Rate of septic systems inventory</li>
-				<li>Rate of forest loss</li>
-				<li>Marine Sediment Triad Index</li>
-				<li>Marine Sediment Chemistry Index</li>
-			</ul>
-			<li>Pressures continue, including conversion of ecologically important lands and shoreline armoring, but new armoring may be slowing down.</li>
-			<li> Species indicators continue to signal trouble.</li>
-			<li>Indicators of the habitat goal show the most progress, and more habitat is restored incrementally each year.<br>
-			<li>Local improvements in water quality do not add up to regional trends in progress.</li>
-			<li>Improvement in the water quantity goal likely short-lived.</li>
-			<li>Lack of change can be good, depending on the status of indicators.</li>
-			<p><a href="sos.php">Learn more from the 2015 State of the Sound</a></p>
-			<h2>WHY IS RECOVERY IMPORTANT?</h2>
-			<p>While we have made progress toward a few recovery targets, overall we are only slowing down Puget Sound degradation. We need to focus and intensify our efforts to restore this beautiful, bountiful place we call home.<strong></strong></p>
-			<p>As stated in the Puget Sound <a href="science-strategic-science-plan.php">Strategic Science Plan</a>, &ldquo;the need for action is urgent, as human population growth, climate change and other forces are fundamentally altering Puget Sound…In a setting of moving baselines, the traditional view of restoration – that is restoration to a set of historically defined conditions – may no longer be valid.&rdquo;</p>
+			<p>Despite our coordinated, integrated and strategic approach to restoring Puget Sound, the threats it faces continue to outpace our efforts to combat them. While we are seeing incremental progress in measures related to habitat restoration and protection efforts, our salmon, orcas and other native species continue to struggle. Meanwhile, the continuing impacts of population growth, climate change, and ocean acidification continue to add pressure on our ecosystem health. The State of the Sound reports on implementation and recovery progress.</p>
+			<p>Learn more from the <a href="https://psp.wa.gov/sos.php">State of the Sound</a> and the <a href="https://www.pugetsoundinfo.wa.gov/" target="_blank">Puget Sound Info database</a>.</p>
+			
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
