@@ -118,16 +118,31 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
-					<strong>LEGISLATIVE SESSION</strong><br>
-						<a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a><br>
-						<!--END news content BOX--> 
+					  <img class="img-responsive img-rounded" src="images/news-images/CWGNews2.jpg"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://app.smartsheet.com/b/form/dd6c28de500641ee98f7968f8b2e7263" target="_blank">Coastal Watershed Grant Program - Request for Letter of Acknowledgement from Puget Sound Partnership</a><br>
+						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				
 			</div>
 		    <!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
+					<strong>LEGISLATIVE SESSION</strong><br>
+						<a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a><br>
+						<!--END news content BOX-->   
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -151,22 +166,7 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Aerial photo of Puget Sound water and shorelines. Photo credit: Kiliii Yuyan"/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="https://pugetsoundestuary.wa.gov/what-we-do/funded-projects/">Strategic Initiatives of the Puget Sound National Estuary Program Funded Projects</a><br>
-						<!--END news content BOX-->    
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTHNews.jpg"  alt="Logo for PSDOTH 2021"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://www.psdoth.org/">Register for 2021 Puget Sound Days on the Hill</a><br>
-						<!--END news content BOX-->    
+						<!--END news content BOX-->     
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -174,6 +174,21 @@ and recovering Puget Sound</h1>
 			</div>
 		<!--COLUMN END-->
 		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTHNews.jpg"  alt="Logo for PSDOTH 2021"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://www.psdoth.org/">Register for 2021 Puget Sound Days on the Hill</a><br>
+						<!--END news content BOX-->     
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -188,7 +203,7 @@ and recovering Puget Sound</h1>
 				
 			</div>
 		<!--COLUMN END-->	
-			<!--COLUMN START-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -196,21 +211,6 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/ANEP-news.jpg"  alt="Aerial photo of Nisqually River delta. Photo credit: Kiliii Yuyan"/> 
 					<strong>NEWS RELEASE</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2bdd6ab" target="_blank">Congress moves to invest in the nation's estuaries</a><br>
-						<!--END news content BOX-->  
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSPSNC_news.jpg"  alt="Photo of herring swimming through eelgrass. Photo credit: Florian Graner."/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership credits will fund nearshore conservation</a><br>
 						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
