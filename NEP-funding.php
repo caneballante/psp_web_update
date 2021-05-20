@@ -71,10 +71,10 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			<p>Nationwide, National Estuary Programs are funded through the U.S. Environmental Protection Agency (the EPA). The authorizing legislation is Section 320 of the Clean Water Act. The Puget Sound NEP receives federal funding from the EPA and strives to leverage federal dollars with those from other sources, ranging from state funding to local volunteer hours. </p>
-<p>Funds allocated by Congress vary annually. From 2006 through 2016, the EPA allocated $269.59 million to agencies across Puget Sound:</p>
+<p>Funds allocated by Congress vary annually.</p>
 			<ul>
 				<li>The Puget Sound Partnership is the Washington State entity responsible for the creation and implementation of the federally required Comprehensive Coordinated Management Plan (CCMP) for all nationally designated estuaries under the Clean Water Act. In the Puget Sound, the CCMP equivalent is the Puget Sound Action Agenda. </li>
-				<li>The Washington State Departments of Fish and Wildlife, and Natural Resources receives funding to implement the Action Agenda primarily addressing nearshore habitat restoration and protection through subawards to entities pursuing near-term actions to improve habitats. </li>
+				<li>The Washington State Departments of Fish and Wildlife and Natural Resources receive funding to implement the Action Agenda primarily addressing habitat restoration and protection through subawards to entities pursuing near-term actions to improve habitats. </li>
 				<li>The Washington State Department of Ecology receives funding to implement the Action Agenda primarily addressing broad-scale watershed management needs, reduction of toxics and nutrients in the environment and to better manage stormwater inputs to Puget Sound. Includes subawards to Department of Commerce, WSU, Conservations Districts and local government.</li>
 				<li>The Washington State Department of Health receives funding to implement the Action Agenda primarily addressing pathogen reduction strategies and efforts to maintain shellfish health. Includes subawards to Departments of Agriculture and Ecology, Conservations Districts and local government/health districts.</li>
 				<li>The Northwest Indian Fisheries Commission receives grants to work with 18 Puget Sound region federally recognized Indian tribes to support fisheries and shellfish habitat restoration and protection needs in their communities. A large proportion of these funds are ad mistered as sub-awards to tribes for project work. The Commission also manages grants to Puget Sound Tribes for a broad group of field projects and activities to implement the Action Agenda. </li>
@@ -83,15 +83,17 @@
 				<li>Federal EPA <a href="https://www.epa.gov/puget-sound/past-work-funded-epa">funding has supported agreements</a> to work on Action Agenda projects by the Washington State University, Washington Recreation and Conservation Office, Nature Conservancy, Northwest Straits Commission, the University of Washington&rsquo;s Puget Sound Institute, and to support EPA's trans-boundary cooperative work with Environment and Climate Change Canada (formerly Environment Canada) and British Columbia provincial interests.</li>
 			</ul>
 			<h2>LEVERAGING FUNDING</h2>
-			<p>The Puget Sound Partnership matches the federal investment in Puget Sound recovery on a 1:1 basis from a variety of state funding sources: state general fund, the <a href="https://wdfw.wa.gov/grants/alea/">Aquatic Lands Enhancement Account (ALEA</a>), the <a href="http://www.psp.wa.gov/PSAR.php">Puget Sound Acquisition and Restoration (PSAR) Fund</a>, and the <a href="https://ecology.wa.gov/Spills-Cleanup/Contamination-cleanup/Rules-directing-our-cleanup-work/Model-Toxics-Control-Act">Model Toxics Control Act (MOTCA)</a>.  Salmon recovery is also supported through the <a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/pacific_coastal_salmon_recovery_fund.html">Pacific Coastal Salmon Recovery Fund (PCSRF)</a>. </p>
+			<p>The Puget Sound Partnership matches the federal investment in Puget Sound recovery on a 1:1 basis from a variety of state funding sources: state general fund, the <a href="https://wdfw.wa.gov/grants/alea/">Aquatic Lands Enhancement Account (ALEA</a>), the <a href="http://www.psp.wa.gov/PSAR.php">Puget Sound Acquisition and Restoration (PSAR) Fund</a>, and the <a href="https://ecology.wa.gov/Spills-Cleanup/Contamination-cleanup/Rules-directing-our-cleanup-work/Model-Toxics-Control-Act">Model Toxics Control Act (MTCA)</a>.  Salmon recovery is also supported through the <a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/pacific_coastal_salmon_recovery_fund.html">Pacific Coastal Salmon Recovery Fund (PCSRF)</a>. </p>
 			<h2>MOBILIZING FUNDING</h2>
 			<p>Ongoing investment in Puget Sound recovery is essential to capitalize on yesterday's successes, sustain today's momentum, and lay the groundwork for future recovery. Our critical task is to focus our attention, energies, and limited resources on the investments most likely to reverse Puget Sound's decline.</p>
-			<p>	Lack of funding has been identified as our partners' leading barrier to implementing Puget Sound recovery actions. In 2014, the Ecosystem Coordination Board--the Partnership's policy advisory body--commissioned a funding strategy to identify funding priorities, current investments, and needs for investment.</p>
-<p><img class="img-responsive" src="images/2015-SOS-funding-gap.jpg" width="425" height="273" alt=""/></p>
+			<p>	Lack of funding has been identified as our partners' leading barrier to implementing Puget Sound recovery actions. The Management Conference pursues multiple avenues to maintain and increase funding for Puget Sound, including:</p>
+			<ul>
+				<li>Defend existing federal, state, and local funding available for Puget Sound recovery</li>
+<li>Enhance existing recovery funding sources, such as ongoing grant programs, local utility fees, state funding to support coordination of the recovery effort, and more</li>
+<li>Expand private and philanthropic partnerships.</li>
+			</ul>
 			<br>
-			<p>The 2016 Puget Sound Action Agenda underscored these findings about <a href="file:///C:\Users\karin.berkholtz\Downloads\2016-action-agenda-comprehensive-CHAPTER5.pdf">funding gaps.</a> </p>
-<p>To be a fully functioning NEP, the Partnership meets its nonfederal match requirement and provides detailed reports to EPA twice yearly, is pursuing a plan to diversify and mobilize funding, and continually  builds strategic alliances to identify and secure support for implementing the Puget Sound Action Agenda
-<p>&nbsp;</p>
+			
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
