@@ -250,7 +250,7 @@
 						<!--EPA PROGRAM-->
 						<h3 class="padding-10-top">EPA PROGRAM</h3>
 						<h5>Jennifer Grimm</h5>
-						<p> EPA Grants Coordinator<br />
+						<p>Agency Workplan and EPA Grants Coordinator<br />
 						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
 						<!--FISCAL PROGRAM-->
 						<h3 class="padding-10-top">FISCAL PROGRAM</h3>
