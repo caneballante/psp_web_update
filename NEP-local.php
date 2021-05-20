@@ -70,8 +70,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 
-			<p>Across the 12 counties and more than 24 legislative districts bordering Puget Sound, thousands of projects are being designed, implemented and monitored every day. Check out the <a href="http://www.psp.wa.gov/gis/NEPAtlas/LocalAreas">NEP Atlas Local Areas map</a> to learn more about what is happening in your neighborhood.</p>
-		<p>	Want to search by state or federal legislative district? View our <a href="http://www.psp.wa.gov/gis/NEPAtlas/LegislativeDistricts">NEP Atlas Legislative Districts map</a>.</p>
+			<p>Across the 12 counties and more than 24 legislative districts bordering Puget Sound, thousands of projects are being designed, implemented and monitored every day. Check out the <a href="https://www.pugetsoundinfo.wa.gov/" target="_blank">Puget Sound Info database</a> to learn more about what is happening in your neighborhood.</p>
 <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
