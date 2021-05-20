@@ -74,7 +74,7 @@
 			<p>The Strategic Initiatives use competitive processes, and in some cases direct awards, to fund work. The <a href="https://nwifc.org/about-us/" target="_blank">Northwest Indian Fisheries Commission</a> awards grants to the 19 federally recognized tribes in Puget Sound and any authorized consortium of these tribes to implement high priority projects identified in the Action Agenda.</p>
 			
 			<p>EPA funding is a small part of the overall funding needed to  protect and restore Puget Sound.</p>
-			<p>For a comprehensive list of other grant and loan programs that contribute to protection and restoration projects in Puget Sound, visit the <a href="https://www.pugetsoundinfo.wa.gov/Fund/Index" target="_blank"></a>Puget Sound Info funds page.</p>
+			<p>For a comprehensive list of other grant and loan programs that contribute to protection and restoration projects in Puget Sound, visit the <a href="https://www.pugetsoundinfo.wa.gov/Fund/Index" target="_blank">Puget Sound Info funds page</a>.</p>
 			
 			<p><strong>Projects Funded by Strategic Initiative Leads</strong><br />
 				<a href="https://nepatlas.pugetsoundinfo.wa.gov/" target="_blank">Click here</a> to find a list of recent projects that Strategic Initiative Leads have funded to implement the Puget Sound Action Agenda. <br />
