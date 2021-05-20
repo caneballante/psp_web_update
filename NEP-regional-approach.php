@@ -77,7 +77,7 @@
 				<li><strong>Aligned and Integrated</strong> - The Partnership works with local entities to align and integrate their programs with ecosystem-level priorities and strategies.</li>
 			</ol>
 			<h2>Making progress</h2>
-				<p>Though the health of Puget Sound is still declining, we are developing the capacity and tools necessary to sustain and accelerate progress towards recovery. </p>
+				<p>Though the health of Puget Sound is still threatened, we are developing the capacity and tools necessary to sustain and accelerate progress towards recovery. </p>
 				<p>The National Estuary Program has enabled recovery leaders and implementers to:</p>
 			<ul>
 				<li>Better align Puget Sound recovery work with the Puget Sound Action Agenda</li>
