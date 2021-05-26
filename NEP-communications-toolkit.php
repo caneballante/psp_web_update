@@ -83,9 +83,9 @@
 				
 				
 					<p class="right-nav-contact">For questions about the NEP Toolkit contact :<br />
-					<strong>Cathy Cochrane</strong>									<a href="mailto:catherine.cochrane@psp.wa.gov">Catherine.Cochrane@psp.wa.gov</a><br>
+					<strong>Kevin Hyde</strong>									<a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov</a><br>
 			
-360.790.7958</p>
+360.819.3045</p>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
