@@ -72,9 +72,11 @@
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
 					
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3095463/equity-and-environmental-justice-manager-exempt" target="_blank">Equity and Environmental Justice Manager</a></p>
+			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3079735/ecosystem-recovery-coordinator-exempt" target="_blank">Ecosystem Recovery Coordinator</a></p>
 			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3081528/administrative-assistant-3" target="_blank">Administrative Assistant 3</a></p>
+			
 			
 			
 			
