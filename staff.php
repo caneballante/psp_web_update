@@ -161,9 +161,9 @@
 						<p>PSAR Program Manager<br />
 							360.515.6054 | <a href="mailto:carrie.byron@psp.wa.gov">carrie.byron@psp.wa.gov </a></p>
 
-						<h5>VACANT</h5>
-						<p>Senior Ecosystem Recovery Coordinator<br>
-							</p>
+						<h5>Rebecca Hollender</h5>
+						<p>Lead Ecosystem Recovery Coordinator<br>
+							360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
 
 						<h5>Alexandra Doty</h5>
 						<p>Ecosystem Recovery Coordinator<br>
@@ -195,9 +195,9 @@
 							<em>Hood Canal, Straits, North Olympic Peninsula </em> <br/>
 							360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a></p>
 
-						<h5>Rebecca Hollender</h5>
+						<h5>VACANT</h5>
 						<p> Ecosystem Recovery Coordinator<br/>
-							360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
+							</p>
 
 						<!--SCIENCE AND EVALUATION-->
 						<h2>SCIENCE AND EVALUATION</h2>
