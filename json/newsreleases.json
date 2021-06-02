@@ -1,6 +1,26 @@
 {
 	"news-releases": 
     {	 
+		"release100": {
+			"date": "May 24, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2da4f01'>Puget Sound Salmon Recovery Council to discuss draft list of strategies for the 2022-2026 Action Agenda</a>"
+		},
+		"release99": {
+			"date": "May 7, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2d80098'>Puget Sound Partnership's Ecosystem Coordination Board to discuss the draft list of strategies for the 2022-2026 Action Agenda</a>"
+		},
+		"release98": {
+			"date": "April 9, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2cc03d8'>Puget Sound Partnership's Science Panel to discuss an inclusive knowledge network</a>"
+		},
+		"release97": {
+			"date": "April 2, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2cafc53'>Puget Sound Partnership Leadership Council to decide on target-setting strategy</a>"
+		},
+		"release96": {
+			"date": "March 22, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2c7f216'>Puget Sound Salmon Recovery Council to discuss Puget Sound Salmon Recovery Plan regional chapter update</a>"
+		},
 		"release95": {
 			"date": "February 17, 2021",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2c139e4'>Governor Inslee appoints Will Hall to the Puget Sound Partnership's Leadership Council</a>"
