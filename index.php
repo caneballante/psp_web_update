@@ -118,9 +118,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSARDashboardNews.jpg"  alt="Screenshot of the new PSAR Dashboard website"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/explore-the-new-dashboard-for-puget-sound-acquisition-and-restoration-projects-af9378876fe8" target="_blank">Explore the new dashboard for Puget Sound Acquisition and Restoration projects</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/j16j26noaaNEWS.jpg"  alt="Photo of J16 Southern Resident orca breaching while J26 swims nearby. Photo from NOAA Fisheres West Coast. Photo credit: Katy Foster, NOAA Fisheries."/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://www.orcamonth.com/" target="_blank">June is Orca Action Month</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -133,10 +133,25 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSARDashboardNews.jpg"  alt="Screenshot of the new PSAR Dashboard website"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/explore-the-new-dashboard-for-puget-sound-acquisition-and-restoration-projects-af9378876fe8" target="_blank">Explore the new dashboard for Puget Sound Acquisition and Restoration projects</a><br>
+						<!--END news content BOX-->    
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/CWGNews2.jpg"  alt="Screenshot of the Coastal Watershed Grant Program Request for Letter of Acknowledgement from Puget Sound Partnership form"/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="https://app.smartsheet.com/b/form/dd6c28de500641ee98f7968f8b2e7263" target="_blank">Coastal Watershed Grant Program - Request for Letter of Acknowledgement from Puget Sound Partnership</a><br>
-						<!--END news content BOX-->    
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -151,21 +166,6 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
 					<strong>LEGISLATIVE SESSION</strong><br>
 						<a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a><br>
-						<!--END news content BOX-->   
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for the Puget Sound Partnership"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2d7782b">Two Science and Monitoring Funding Opportunities from the Puget Sound Partnership - additional information and upcoming deadlines</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -178,10 +178,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Aerial photo of Puget Sound water and shorelines. Photo credit: Kiliii Yuyan"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for the Puget Sound Partnership"/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://pugetsoundestuary.wa.gov/what-we-do/funded-projects/">Strategic Initiatives of the Puget Sound National Estuary Program Funded Projects</a><br>
-						<!--END news content BOX-->      
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2d7782b">Two Science and Monitoring Funding Opportunities from the Puget Sound Partnership - additional information and upcoming deadlines</a><br>
+						<!--END news content BOX-->     
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -193,10 +193,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for Puget Sound Partnership"/> 
-					<strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c139e4" target="_blank">Governor Inslee appoints Will Hall to the Puget Sound Partnership's Leadership Council</a><br>
-						<!--END news content BOX-->   
+					  <img class="img-responsive img-rounded" src="images/news-images/EPAannounce.jpg"  alt="Aerial photo of Puget Sound water and shorelines. Photo credit: Kiliii Yuyan"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://pugetsoundestuary.wa.gov/what-we-do/funded-projects/">Strategic Initiatives of the Puget Sound National Estuary Program Funded Projects</a><br>
+						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -208,10 +208,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/ANEP-news.jpg"  alt="Aerial photo of Nisqually River delta. Photo credit: Kiliii Yuyan"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for Puget Sound Partnership"/> 
 					<strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2bdd6ab" target="_blank">Congress moves to invest in the nation's estuaries</a><br>
-						<!--END news content BOX-->    
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c139e4" target="_blank">Governor Inslee appoints Will Hall to the Puget Sound Partnership's Leadership Council</a><br>
+						<!--END news content BOX-->       
 					</div>
 					<div class="clearfix"></div>
 				</div>
