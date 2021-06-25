@@ -72,6 +72,7 @@
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
 					
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3081528/administrative-assistant-3" target="_blank">Administrative Assistant 3</a</p>
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3111708/environmental-planner-exempt" target="_blank">Environmental Planner</a></p>
 			
 			
