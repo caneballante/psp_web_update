@@ -81,7 +81,7 @@
 			<h3>Board contact</h3>
 			<p>For questions about the Partnership's boards contact:<br />
 	   		<strong>Ahren Stroming, <br>
-			Special Projects Assistant <br>
+			Executive Policy Advisor <br>
 	  		</strong>	    <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a><br>
 			360.918.1337
 			</p>
