@@ -122,7 +122,7 @@
 							360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p>
 
 						<h5>Ahren Stroming</h5>
-						<p>Special Projects Assistant<br />
+						<p>Executive Policy Advisor<br />
 							360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
 						 <!--COMMUNICATIONS--> 
 						<h3 class="padding-10-top">COMMUNICATIONS PROGRAM</h3>
