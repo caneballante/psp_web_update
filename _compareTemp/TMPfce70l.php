@@ -31,11 +31,7 @@
 <header class="intro-test">
 	<div class="intro-body">
 		<div class="container">
-            <div class="row">
-                <div class="col-md-12 emergency">
-                    <p class="red white-links no-icon padding-10-all">For the latest information, resources, and guidance related to COVID-19, please visit the Washington State Department of Health <a href="https://www.doh.wa.gov/Emergencies/Coronavirus">website</a></p>
-                        </div>
-            </div>
+           
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
 					<h1><em>Making Waves</em><br>
@@ -243,8 +239,8 @@ and recovering Puget Sound</h1>
 			<div class="newsbox calendarbox">
 				<!--news content -->
 				<div class="newsbox-date">JUL<br>
-			  29</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
+			  14-15</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
 					Online<br>
 							</a><br>
 				</div>
@@ -253,6 +249,20 @@ and recovering Puget Sound</h1>
 		</div>
 		<!--COLUMN END-->	
 		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">JUL<br>
+			  29</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Online<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
@@ -273,20 +283,6 @@ and recovering Puget Sound</h1>
 				<div class="newsbox-date">SEP<br>
 			  1</div>
 				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
-					Online<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
-				<div class="newsbox-date">SEP<br>
-			  23</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
 					Online<br>
 							</a><br>
 				</div>
