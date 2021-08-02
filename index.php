@@ -31,11 +31,7 @@
 <header class="intro-test">
 	<div class="intro-body">
 		<div class="container">
-            <div class="row">
-                <div class="col-md-12 emergency">
-                    <p class="red white-links no-icon padding-10-all">For the latest information, resources, and guidance related to COVID-19, please visit the Washington State Department of Health <a href="https://www.doh.wa.gov/Emergencies/Coronavirus">website</a></p>
-                        </div>
-            </div>
+           
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
 					<h1><em>Making Waves</em><br>
