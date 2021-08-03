@@ -118,9 +118,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/BillyFrankJrNews.jpg"  alt="Photo Billy Frank Jr. laughing. Photo credit: Northwest Indian Fisheries Commission."/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/remembering-billy-frank-jr-6115d04791e0" target="_blank">Remembering Billy Frank Jr.</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/PSEMP_logonews.jpg"  alt="Logo for the Puget Sound Ecosystem Monitoring Program"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2eb3766" target="_blank">The Puget Sound Ecosystem Monitoring Program Steering Committee is seeking new members</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -133,10 +133,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/j16j26noaaNEWS.jpg"  alt="Photo of J16 Southern Resident orca breaching while J26 swims nearby. Photo from NOAA Fisheres West Coast. Photo credit: Katy Foster, NOAA Fisheries."/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://www.orcamonth.com/" target="_blank">June is Orca Action Month</a><br>
-						<!--END news content BOX-->      
+					  <img class="img-responsive img-rounded" src="images/news-images/BillyFrankJrNews.jpg"  alt="Photo Billy Frank Jr. laughing. Photo credit: Northwest Indian Fisheries Commission."/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/remembering-billy-frank-jr-6115d04791e0" target="_blank">Remembering Billy Frank Jr.</a><br>
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
