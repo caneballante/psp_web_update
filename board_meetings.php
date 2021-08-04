@@ -72,7 +72,7 @@
 			<h3>Board contact</h3>
 			<p>For questions about the Partnership's boards contact:<br />
 	   		<strong>Jillian Reitz, <br>
-Boards Policy Specialist<br>
+Boards Policy Advisor<br>
             </strong> <a href="mailto:jillian.reitz">jillian.reitz@psp.wa.gov</a><br>
 360.742.2936 </p>
 			<h3>Board Materials</h3>
