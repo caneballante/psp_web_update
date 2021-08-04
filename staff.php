@@ -118,7 +118,7 @@
 						<p> Special Assistant to the Boards<br />
 							360.338.2384 | <a href="mailto:anna.petersen@psp.wa.gov">anna.petersen@psp.wa.gov</a></p>
 						<h5>Jillian Reitz</h5>
-						<p> Boards Policy Specialist<br />
+						<p> Boards Policy Advisor<br />
 							360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p>
 
 						<h5>Ahren Stroming</h5>
