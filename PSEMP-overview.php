@@ -143,6 +143,7 @@
 				<li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi" target="new">PSEMP Strategic Plan</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k" target="new">PSEMP Work Plans and Annual Reports</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/h2jphymdvsg5ooyi35jxjsdo0y22qzn1" target="new">PSEMP Brochure</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/7yvv4a8gsndi4w6dkx7rexufct3ypp16" target="new">PSEMP Newsletters</a></li>
 				
 						<!-- InstanceEndEditable -->
 			</ul>

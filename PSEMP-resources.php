@@ -125,6 +125,7 @@
 				    <li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a></li>
 				    <li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k">2019 Work Plans</a></li>
 				    <li role="presentation"> <a href="https://pspwa.box.com/s/ep1nzf6z1m1gelayymem2s655e1gp9dt">2018 Annual Reports</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/7yvv4a8gsndi4w6dkx7rexufct3ypp16" target="new">PSEMP Newsletters</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
