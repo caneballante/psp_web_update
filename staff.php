@@ -83,8 +83,11 @@
 						<!--GOVERNMENTAL RELATIONS-->
 						<h3 class="padding-10-top">GOVERNMENTAL RELATIONS</h3>
 						<h5>Jeff Parsons</h5>
-						<p>Legislative Policy Director<br />
-							360.999.3803 | <a href="mailto:jeff.parson@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p> 
+						<p>Legislative Policy Director (outgoing)<br />
+							360.999.3803 | <a href="mailto:jeff.parson@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p>
+						<h5>Don Gourlie</h5>
+						<p>Legislative Policy Director (incoming)<br />
+						360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov </a> </p>
 						<!--EXTERNAL OPERATIONS-->
 						<h1 class="padding-20-top padding-20-bottom">EXTERNAL OPERATIONS DIVISION</h1>
 						<h5>Larry Epstein</h5>
@@ -149,9 +152,8 @@
 						<h5>Mike Johnson</h5>
 						<p>Environmental Planner and Implementation Strategies Lead<br />
 							360.688.4049 | <a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov </a></p>
-						<h5>Don Gourlie</h5>
-						<p>Environmental Planner<br />
-							360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov </a> </p>
+						<h5>VACANT</h5>
+						<p>Environmental Planner<br /></p>
 						<h5>Kaitlin Harris</h5>
 						<p>Environmental Planner<br />
 							360.485.2117 | <a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov </a> </p>
