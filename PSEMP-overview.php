@@ -84,7 +84,7 @@
 						<td colspan="5"><h3>For more information about each group in the PSEMP Network, please click on the links below</h3></td>
 					</tr>
 					<tr>
-						<td rowspan="10"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
+						<td rowspan="8"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
 						<td colspan="4"class="no-icon"><h3 class="PSEMP-blue">COORDINATING BODIES</h3></td>
 						
 					</tr>
