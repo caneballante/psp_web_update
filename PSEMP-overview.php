@@ -84,7 +84,7 @@
 						<td colspan="5"><h3>For more information about each group in the PSEMP Network, please click on the links below</h3></td>
 					</tr>
 					<tr>
-						<td rowspan="7"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
+						<td rowspan="10"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
 						<td colspan="4"class="no-icon"><h3 class="PSEMP-blue">COORDINATING BODIES</h3></td>
 						
 					</tr>
@@ -113,7 +113,12 @@
 						<td class="no-icon"><a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics </a></td>
 					</tr>
-					
+					<tr>
+						<td colspan="4"><h3 class="PSEMP-green">SUBCOMMITTES</h3></td>
+					</tr>
+					<tr>
+						<td class="no-icon"><a href="https://pspwa.app.box.com/notes/834293417461?s=qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a></td>
+					</tr>
 				
 				</tbody>
 			</table>
@@ -166,6 +171,7 @@
 					<li role="presentation"> <a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz" target="new">Spatial Data Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics Work Group</a></li>
+				    <li role="presentation"> <a href="https://pspwa.box.com/s/qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
