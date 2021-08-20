@@ -89,8 +89,8 @@ navSelected = 2;
 		<h3>How will we use desired outcomes?</h3>
 			<p>Desired outcomes will serve as the basis for identifying strategies and actions in the next phases of the Action Agenda update process. Where desired outcomes describe what we intend to accomplish, the strategies and actions will describe how to best achieve those outcomes. More information on the next steps in phase 3 will be available soon.
 			</p>
-        <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>) or Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>).</p>
-		<p class="last-update">Last updated: 04/07/21</p>
+        <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>).</p>
+		<p class="last-update">Last updated: 08/20/21</p>
         <div>
           <div> </div>
         </div>
