@@ -151,8 +151,8 @@ navSelected = 1;
 		<H2>We invite your participation</H2>
 		<p>Every phase of Action Agenda development will build from existing plans developed by partners. We  and our partners are also  developing an engagement plan and establishing mechanisms for  collaboration and participation in developing the outcomes (phase 2),  strategies (phase 3), and actions (phase 4) for the 2022-2026 Action Agenda.  Throughout 2020 and 2021, Partnership staff who are leading the development of  the Action Agenda will use existing meeting schedules to present to partner  groups, host workshops where partners can convene around particular topic  areas, and provide online mechanisms to gather independent feedback at the  convenience of partners&rsquo; schedules.&nbsp;			</p>
 			<strong>Stay tuned for more information on engagement opportunities as  the process is developed.</strong></p>
-		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>), Don Gourlie (<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>), or your other Partnership staff connections  to request a briefing.</p>
-			<p class="last-update">Last updated: 04/7/21</p>
+		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>) or your other Partnership staff connections  to request a briefing.</p>
+			<p class="last-update">Last updated: 08/20/21</p>
 
         <!-- InstanceEndEditable --> </div>
 		
