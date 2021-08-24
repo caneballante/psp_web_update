@@ -85,8 +85,8 @@
 						<td colspan="5"><h3>For more information about each group in the PSEMP Network, please click on the links below</h3></td>
 					</tr>
 					<tr>
-						<td rowspan="7"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
-						<td colspan="4"class="no-icon"><h3 class="PSEMP-blue">COORDINATING BODIES</h3></td>
+						<td colspan="1" rowspan="10"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
+						<td colspan="4" class="no-icon"><h3 class="PSEMP-blue">COORDINATING BODIES</h3></td>
 						
 					</tr>
 					<tr>
@@ -98,9 +98,9 @@
 					</tr>
 					<tr>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/8yiq86nl46w3sea0jdtjktnku7vs1qsk" target="new">Diseases </a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd" target="new">Forage Fish and Food Webs </a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub" target="new">Freshwater </a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/vyx3oq4ilqtz2d0te8sj3we14fo03blz" target="new">Marine Birds </a></td>
+						<td colspan="1" class="no-icon"><a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd" target="new">Forage Fish and Food Webs </a></td>
+						<td colspan="1" class="no-icon"><a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub" target="new">Freshwater </a></td>
+						<td colspan="1" class="no-icon"><a href="https://pspwa.box.com/s/vyx3oq4ilqtz2d0te8sj3we14fo03blz" target="new">Marine Birds </a></td>
 					</tr>
 					<tr>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/ltd6c5kmlv0g9kgzce4n571anvk09kef" target="new">Marine Mammals </a></td>
@@ -113,7 +113,15 @@
 						<td class="no-icon"><a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz" target="new">Spatial Data </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics </a></td>
-										
+					</tr>
+					<tr>
+					<td colspan="4"><h3 class="PSEMP-green">SUBCOMMITTEES</h3></td>
+						
+					</tr>
+					<tr>
+						
+						<td colspan="4" class="no-icon"><a href="https://pspwa.app.box.com/notes/834293417461?s=qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a></td>
+						
 					</tr>
 					
 				</tbody>
