@@ -81,10 +81,11 @@
 			<table class="table-responsive table" width="100%" border="0">
 				<tbody>
 					<tr>
+						
 						<td colspan="5"><h3>For more information about each group in the PSEMP Network, please click on the links below</h3></td>
 					</tr>
 					<tr>
-						<td rowspan="9"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
+						<td rowspan="7"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
 						<td colspan="4"class="no-icon"><h3 class="PSEMP-blue">COORDINATING BODIES</h3></td>
 						
 					</tr>
@@ -112,8 +113,9 @@
 						<td class="no-icon"><a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz" target="new">Spatial Data </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics </a></td>
+										
 					</tr>
-									
+					
 				</tbody>
 			</table>
 			
