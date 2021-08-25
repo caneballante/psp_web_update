@@ -1,6 +1,18 @@
 {
 	"news-releases": 
     {	 
+		"release104": {
+			"date": "July 27, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2ebed7e'>Ecosystem Coordination Board to discuss draft framework to identify actions for the 2022-2026 Action Agenda</a>"
+		}, 
+		"release103": {
+			"date": "July 27, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2ea114e'>Salmon Recovery Council to discuss priorities for the 2023-2025 Puget Sound Acquisition and Restoration Large Capital request for proposals</a>"
+		}, 
+		"release102": {
+			"date": "July 9, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2e7529e'>Science Panel to discuss target-setting for Puget Sound ecosystem recovery</a>"
+		},
 		"release101": {
 			"date": "June 4, 2021",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2e280c1'>Puget Sound Partnership Leadership Council to discuss draft list of strategies for the 2022-2026 Action Agenda</a>"
