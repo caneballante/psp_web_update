@@ -79,6 +79,10 @@
 						<h5>Denise Ross</h5>
 						<p> Executive Assistant<br />
 							360.819.0208 | <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></br></p>
+	
+						<h5>Melissa Schutten</h5>
+						<p>Equity and Environmental Justice Manager<br />
+						360.870.6165 | <a href="mailto:melissa.schutten@psp.wa.gov">melissa.schutten@psp.wa.gov</a></p>
 
 						<!--GOVERNMENTAL RELATIONS-->
 						<h3 class="padding-10-top">GOVERNMENTAL RELATIONS</h3>
