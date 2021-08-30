@@ -245,8 +245,9 @@
 						 <h5>Charisse Sonnier</h5>
 						<p>Administrative Supervisor<br />
 							360.819.6869 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a><br /></p>
-						<h5>VACANT</h5>
-						<p> Administrative Assistant<br /></p>
+						<h5>Chrystal Andoh</h5>
+						<p> Administrative Assistant<br />
+						360.870.6664 | <a href="mailto:chrystal.andoh@psp.wa.gov">chrystal.andoh@psp.wa.gov</a></p>
 						<h5>Ami Hollingsworth</h5>
 						<p>Administrative Assistant<br />
 							360.867.8647 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
