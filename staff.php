@@ -152,8 +152,9 @@
 						<h5>Mike Johnson</h5>
 						<p>Environmental Planner and Implementation Strategies Lead<br />
 							360.688.4049 | <a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov </a></p>
-						<h5>VACANT</h5>
-						<p>Environmental Planner<br /></p>
+						<h5>Wren McNally</h5>
+						<p>Environmental Planner<br />
+						360.870.6292 | <a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a></p>
 						<h5>Kaitlin Harris</h5>
 						<p>Environmental Planner<br />
 							360.485.2117 | <a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov </a> </p>
