@@ -245,13 +245,12 @@ Developing plans, managing information, and tracking progress during implementat
 					
 
 
-				<li role="presentation"><a href="https://pspwa.box.com/v/est-readme">Estuaries (IS)</a></li>
+				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/floodplains-and-estuaries/">Floodplains and Estuaries (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Shellfish Bed (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/v/floodplains-readme">Floodplains (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/v/ldc-readme">Land Development and Cover (IS)</a></li>
+				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/land-development-and-cover/">Land Development and Cover (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/yyiswccgjw4ogcqhr06bqsm5jtlm9aah">Eelgrass Recovery pilot (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook Salmon (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/v/sa-readme">Shoreline Armoring (IS)</a></li>
+				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/shoreline-armoring/">Shoreline Armoring (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/BIBI-IS-Public">B-IBI (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/q1rueyrajn7kgp7gfkal65k0h87cwcpx">Toxics in Fish (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/52t8ecqbtlm7nd5juad6lu8s3uuvh9yk">Marine Water Quality (IS)</a></li>
