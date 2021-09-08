@@ -189,10 +189,9 @@ Developing plans, managing information, and tracking progress during implementat
             <h2>IMPLEMENTATION STRATEGY RESOURCES AVAILABLE</h2>
             <p>Strategies associated with the Habitat Strategic Initiative:</p>
             <ul>
-                <li><a href="https://pspwa.box.com/v/est-readme">Estuaries</a></li>
-                <li><a href="https://pspwa.box.com/v/floodplains-readme">Floodplains</a></li>
-                <li><a href="https://pspwa.box.com/v/ldc-readme">Land development and cover—ecologically important lands</a></li>
-                <li><a href="https://pspwa.box.com/v/sa-readme">Shoreline armoring</a></li>
+                <li><a href="https://pugetsoundestuary.wa.gov/floodplains-and-estuaries/">Floodplains and Estuaries</a></li>
+                <li><a href="https://pugetsoundestuary.wa.gov/land-development-and-cover/">Land development and cover—ecologically important lands</a></li>
+                <li><a href="https://pugetsoundestuary.wa.gov/shoreline-armoring/">Shoreline armoring</a></li>
             </ul>
             <p>Strategies associated with the Shellfish Strategic Initiative:</p>
             <uL>
