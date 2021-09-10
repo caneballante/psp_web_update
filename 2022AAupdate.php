@@ -122,10 +122,10 @@ navSelected = 1;
           <tr>
             <td><p>Mar 2021 - Sept 2021</p></td>
             <td><p>Phase 3: Identify strategies to advance desired outcomes</p></td>
-            <td><p>Identify strategies that tell us <em>how </em>to advance progress toward desired outcomes (phase 2) and overall  recovery. More detail will be available soon.</p>
+            <td><p>Identify strategies that tell us <em>how </em>to advance progress toward desired outcomes (phase 2) and overall  recovery. <a href="https://psp.wa.gov/identifying-strategies.php">More detail is available here.</a></p>
 				</td>
             </td>
-            <td class="blue-fill white"><p>In process</p></td>
+            <td class="orange-fill white"><p>Completed</p></td>
           </tr>
           <tr>
             <td><p>Sept - Dec 2021</p></td>
@@ -151,8 +151,8 @@ navSelected = 1;
 		<H2>We invite your participation</H2>
 		<p>Every phase of Action Agenda development will build from existing plans developed by partners. We  and our partners are also  developing an engagement plan and establishing mechanisms for  collaboration and participation in developing the outcomes (phase 2),  strategies (phase 3), and actions (phase 4) for the 2022-2026 Action Agenda.  Throughout 2020 and 2021, Partnership staff who are leading the development of  the Action Agenda will use existing meeting schedules to present to partner  groups, host workshops where partners can convene around particular topic  areas, and provide online mechanisms to gather independent feedback at the  convenience of partners&rsquo; schedules.&nbsp;			</p>
 			<strong>Stay tuned for more information on engagement opportunities as  the process is developed.</strong></p>
-		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>) or your other Partnership staff connections  to request a briefing.</p>
-			<p class="last-update">Last updated: 08/20/21</p>
+		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>), Kaitlin Harris (<a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov</a>), Wren McNally (<a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a>), or your other Partnership staff connections  to request a briefing.</p>
+			<p class="last-update">Last updated: 09/10/21</p>
 
         <!-- InstanceEndEditable --> </div>
 		
