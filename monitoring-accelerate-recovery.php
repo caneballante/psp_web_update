@@ -71,6 +71,9 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<div class="highlightbox">
+			<h3><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">Award announcement</a></h3>
+			</div>
 			<h3>Funding opportunity for the 2021-2023 biennium</h3>
 			<p>The Puget Sound Partnership (Partnership) requests project proposals that address priority monitoring information needs to inform and accelerate recovery of Puget Sound.</p>
 			
