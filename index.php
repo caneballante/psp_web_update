@@ -144,10 +144,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSEMP_logonews.jpg"  alt="Logo for the Puget Sound Ecosystem Monitoring Program"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2eb3766" target="_blank">The Puget Sound Ecosystem Monitoring Program Steering Committee is seeking new members</a><br>
-						<!--END news content BOX-->    
+					  <img class="img-responsive img-rounded" src="images/news-images/BillyFrankJrNews.jpg"  alt="Photo Billy Frank Jr. laughing. Photo credit: Northwest Indian Fisheries Commission."/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/remembering-billy-frank-jr-6115d04791e0" target="_blank">Remembering Billy Frank Jr.</a><br>
+						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -159,10 +159,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/BillyFrankJrNews.jpg"  alt="Photo Billy Frank Jr. laughing. Photo credit: Northwest Indian Fisheries Commission."/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSARDashboardNews.jpg"  alt="Screenshot of the new PSAR Dashboard website"/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/remembering-billy-frank-jr-6115d04791e0" target="_blank">Remembering Billy Frank Jr.</a><br>
-						<!--END news content BOX-->     
+						<a href="https://medium.com/puget-sound-partnership/explore-the-new-dashboard-for-puget-sound-acquisition-and-restoration-projects-af9378876fe8" target="_blank">Explore the new dashboard for Puget Sound Acquisition and Restoration projects</a><br>
+						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -174,9 +174,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSARDashboardNews.jpg"  alt="Screenshot of the new PSAR Dashboard website"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/explore-the-new-dashboard-for-puget-sound-acquisition-and-restoration-projects-af9378876fe8" target="_blank">Explore the new dashboard for Puget Sound Acquisition and Restoration projects</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
+					<strong>LEGISLATIVE SESSION</strong><br>
+						<a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a><br>
 						<!--END news content BOX-->     
 					</div>
 					<div class="clearfix"></div>
@@ -189,9 +189,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
-					<strong>LEGISLATIVE SESSION</strong><br>
-						<a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/PSPSNC_news.jpg"  alt="Photo of herring swimming through eelgrass. Photo credit: Florian Graner."/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership credits will fund nearshore conservation</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
