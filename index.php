@@ -114,9 +114,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/j16j26noaaNEWS.jpg"  alt="Photo of J16 Southern Resident orca breaching while J26 swims nearby. Photo from NOAA Fisheres West Coast. Photo credit: Katy Foster, NOAA Fisheries."/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo."/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://betterground.org/in-your-community/events/ord/" target="_blank">Orca Recovery Day is October 16, 2021</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">Announcing apparent successful project proposals for two Puget Sound Partnership solicitations of science and monitoring projects</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -129,10 +129,25 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/j16j26noaaNEWS.jpg"  alt="Photo of J16 Southern Resident orca breaching while J26 swims nearby. Photo from NOAA Fisheres West Coast. Photo credit: Katy Foster, NOAA Fisheries."/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://betterground.org/in-your-community/events/ord/" target="_blank">Orca Recovery Day is October 16, 2021</a><br>
+						<!--END news content BOX-->   
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/PSEMP_logonews.jpg"  alt="Logo for the Puget Sound Ecosystem Monitoring Program"/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2eb3766" target="_blank">The Puget Sound Ecosystem Monitoring Program Steering Committee is seeking new members</a><br>
-						<!--END news content BOX-->   
+						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -147,14 +162,14 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/BillyFrankJrNews.jpg"  alt="Photo Billy Frank Jr. laughing. Photo credit: Northwest Indian Fisheries Commission."/> 
 					<strong>BLOG</strong><br>
 						<a href="https://medium.com/puget-sound-partnership/remembering-billy-frank-jr-6115d04791e0" target="_blank">Remembering Billy Frank Jr.</a><br>
-						<!--END news content BOX-->    
+						<!--END news content BOX-->     
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				
 			</div>
 		<!--COLUMN END-->
-			<!--COLUMN START-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -168,8 +183,8 @@ and recovering Puget Sound</h1>
 				</div>
 				
 			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
+		<!--COLUMN END-->	
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -177,22 +192,7 @@ and recovering Puget Sound</h1>
 					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
 					<strong>LEGISLATIVE SESSION</strong><br>
 						<a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a><br>
-						<!--END news content BOX-->    
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Logo for the Puget Sound Partnership"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2d7782b">Two Science and Monitoring Funding Opportunities from the Puget Sound Partnership - additional information and upcoming deadlines</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
