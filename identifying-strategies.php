@@ -103,7 +103,7 @@ navSelected = 3;
 					
 			<button class="button button1"><a href="https://pspwa.box.com/s/jfgxn9nfnpegh5guv2kwbqup2y0k5p8r" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that strategies play in the 2022-2026 Action Agenda update</strong></a></button><br><br>
 			
-			<h2>Review the draft strategies - by June 25</h2>
+			<h2>Review the draft strategies</h2>
 			
 			<p>Provided below are several different ways of viewing the draft strategies. Each option contains the same content but provides different levels of flexibility to sort the list in different ways. Specifically, the database options promote greater flexibility for the reviewer to sort and organize the list in different ways (click on the three vertical dots at the top of any column you wish to filter or sort).</p>
 			
@@ -111,8 +111,8 @@ navSelected = 3;
 			
         <tbody>
           	<tr>
-				<td><h5><strong>PDF version of the draft strategies, sorted by themes</strong></h5></td>
-				<td><button class="button button2"><a href="https://pspwa.box.com/s/7nw6r4iipy841cw1pc6azkjo8gnnle2j" target="_blank" style="color:white"><strong>Click here to view the PDF</strong></a></button></td>
+				<td><h5><strong>PDF version of the approved strategies</strong></h5></td>
+				<td><button class="button button2"><a href="https://pspwa.box.com/s/iusydgrzm1auvzceqszlqqgjjyj3gtp2" target="_blank" style="color:white"><strong>Click here to view the PDF</strong></a></button></td>
 			</tr>
 			<td><h5><strong>Database version of the draft strategies is embedded below</strong></h5></td>
 			<td><button class="button button2"><a href="https://app.smartsheet.com/b/publish?EQBCT=04ec05b0ca994094828f08a3973bfcc6" target="_blank" style="color:white"><strong>Click here to view the database in your full browser window</strong></a></button></td>
