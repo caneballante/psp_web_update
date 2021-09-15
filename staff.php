@@ -238,6 +238,9 @@
 						<h5>Andres Sheikh</h5>
 						<p> Sea Grant Keystone Fellow <br>
 							360.706.4566 | <a href="mailto:andres.sheikh@psp.wa.gov">andres.sheikh@psp.wa.gov</a></p>
+						<h5>Corinne Noufi</h5>
+						<p>Sea Grant Hershman Fellow <br>
+							360.789.3324 | <a href="mailto:corinne.noufi@psp.wa.gov">corinne.noufi@psp.wa.gov</a></p>
 
 						<!--INTERNAL OPERATIONS-->
 						<h1 class="padding-20-top padding-20-bottom">INTERNAL OPERATIONS DIVISION</h1>
