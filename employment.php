@@ -73,6 +73,7 @@
 		<h2 class="margin-0-top">Employment opportunities</h2>
 					
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3206410/fiscal-analyst-2" target="_blank">Fiscal Analyst 2</a></p>
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3232350/tribal-liaison-exempt" target="_blank">Tribal Liaison</a></p>
 			
 			
 			
