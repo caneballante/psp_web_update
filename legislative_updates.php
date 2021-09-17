@@ -244,7 +244,7 @@
 				<p class="right-nav-contact">For questions about Goverment Relations:</p>
 					
 					<p>Don Gourlie, <br>
-					Legislative Policy Director (incoming), <br>
+					Legislative Policy Director <br>
 					<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a><br>
 					360.688.3253</p>
 				<hr>
