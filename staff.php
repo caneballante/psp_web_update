@@ -86,11 +86,8 @@
 
 						<!--GOVERNMENTAL RELATIONS-->
 						<h3 class="padding-10-top">GOVERNMENTAL RELATIONS</h3>
-						<h5>Jeff Parsons</h5>
-						<p>Legislative Policy Director (outgoing)<br />
-							360.999.3803 | <a href="mailto:jeff.parson@psp.wa.gov">jeff.parsons@psp.wa.gov</a></p>
 						<h5>Don Gourlie</h5>
-						<p>Legislative Policy Director (incoming)<br />
+						<p>Legislative Policy Director<br />
 						360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov </a> </p>
 						<!--EXTERNAL OPERATIONS-->
 						<h1 class="padding-20-top padding-20-bottom">EXTERNAL OPERATIONS DIVISION</h1>
