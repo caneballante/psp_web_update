@@ -242,10 +242,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<p class="right-nav-contact">For questions about Goverment Relations:</p>
-					<p>Jeff Parsons, <br>
-					Legislative Policy Director (outgoing),<br>
-					<a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a><br>
-					360.999.3803</p>
+					
 					<p>Don Gourlie, <br>
 					Legislative Policy Director (incoming), <br>
 					<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a><br>
