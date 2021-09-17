@@ -94,7 +94,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<p class="right-nav-contact">For questions about Goverment Relations:<br />
 					<br>
-				<p>Don Gourlie, <br>
+					<strong>Don Gourlie,</strong> <br>
 					Legislative Policy Director <br>
 					<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a><br>
 					360.688.3253</p>
