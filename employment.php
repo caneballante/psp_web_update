@@ -72,7 +72,6 @@
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
 					
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3206410/fiscal-analyst-2" target="_blank">Fiscal Analyst 2</a></p>
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3232350/tribal-liaison-exempt" target="_blank">Tribal Liaison</a></p>
 			
 			
@@ -93,7 +92,7 @@
 		
 	
 	<p></p>
-			<p class="last-update">Last updated: 09/16/21</p>
+			<p class="last-update">Last updated: 09/20/21</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
