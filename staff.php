@@ -246,9 +246,8 @@
 							360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a> </p>
 						<!--ADMINISTRATIVE SUPPORT-->
 						<h3 class="padding-10-top">Administrative Support Team</h3>
-						 <h5>Charisse Sonnier</h5>
-						<p>Administrative Supervisor<br />
-							360.819.6869 | <a href="mailto:charisse.sonnier@psp.wa.gov">charisse.sonnier@psp.wa.gov</a><br /></p>
+						 <h5>VACANT</h5>
+						<p>Administrative Supervisor<br /></p>
 						<h5>Chrystal Andoh</h5>
 						<p> Administrative Assistant<br />
 						360.870.6664 | <a href="mailto:chrystal.andoh@psp.wa.gov">chrystal.andoh@psp.wa.gov</a></p>
@@ -289,7 +288,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 09/17/21</p>
+	<p class="last-update">Last updated: 09/20/21</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
