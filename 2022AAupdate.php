@@ -132,7 +132,7 @@ navSelected = 1;
             <td><p>Phase 4: Identify actions and commitments that align with strategies.</p></td>
             <td><p>Identify actions and programs that require additional investment; necessary policy changes; and commitments from the boards and partners to support priority actions for recovery. </p>
             </td>
-           <td class="light-blue-fill white"><p>Not started</p></td>
+           <td class="blue-fill white"><p>In progress</p></td>
           </tr>
           <tr>
             <td><p>Aug 2021 - Feb 2022</p></td>
