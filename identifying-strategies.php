@@ -112,7 +112,7 @@ navSelected = 3;
         <tbody>
           	<tr>
 				<td><h5><strong>PDF version of the approved strategies</strong></h5></td>
-				<td><button class="button button2"><a href="https://pspwa.box.com/s/c7kl6f4x4n9mwetg5qjedqzffpa322pv" target="_blank" style="color:white"><strong>Click here to view the PDF</strong></a></button></td>
+				<td><button class="button button2"><a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="_blank" style="color:white"><strong>Click here to view the PDF</strong></a></button></td>
 			</tr>
 			<td><h5><strong>Database version of the draft strategies is embedded below</strong></h5></td>
 			<td><button class="button button2"><a href="https://app.smartsheet.com/b/publish?EQBCT=04ec05b0ca994094828f08a3973bfcc6" target="_blank" style="color:white"><strong>Click here to view the database in your full browser window</strong></a></button></td>
