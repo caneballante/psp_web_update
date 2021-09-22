@@ -151,7 +151,7 @@
 							360.764.0164 | <a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a></p>
 
 						<h5>Mike Johnson</h5>
-						<p>Environmental Planner and Implementation Strategies Lead<br />
+						<p>Environmental Planner<br />
 							360.688.4049 | <a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov </a></p>
 						<h5>Wren McNally</h5>
 						<p>Environmental Planner<br />
@@ -192,16 +192,20 @@
 						<p>Salmon Recovery Manager<br />
 							360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov </a></p>
 
-						<h5>VACANT</h5>
-						<p>Ecosystem Recovery Coordinator</p>
+						<h5>Hannah Liss</h5>
+						<p>Ecosystem Recovery Coordinator<br>
+							<em>Snohomish/Stillaguamish and Skagit/Samish</em><br>
+							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
 
 						<h5>Erin Ryan-Peñuela</h5>
 						<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br/>
 							<em>Straits, North Olympic Peninsula </em> <br/>
 							360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a></p>
 
-						<h5>VACANT</h5>
+						<h5>Juliana Todano</h5>
 						<p> Ecosystem Recovery Coordinator<br/>
+							<em>South Sound, WRIA 13, WRIA 14, Puyallup, and Nisqually</em><br>
+							360.995.2404 | <a href="mailto:juliana.todano@psp.wa.gov">juliana.todano@psp.wa.gov</a>
 							</p>
 
 						<!--SCIENCE AND EVALUATION-->
@@ -219,12 +223,12 @@
 						<p> Monitoring Network Coordinator<br/>
 							360.764.0272 | <a href="mailto:katrina.radach@psp.wa.gov">katrina.radach@psp.wa.gov</a></p>
 						<h5>Nathalie Hamel</h5>
-						<p> Vital Signs Reporting Lead<br/>
+						<p> Monitoring Performance Analyst<br/>
 							360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
 
 
 						<h5>Mary Ramirez</h5>
-						<p> Vital Signs Reporting Co-Lead<br>
+						<p> Monitoring Performance Analyst<br>
 							360.764.6149 | <a href="mailto:mary.ramirez">mary.ramirez@psp.wa.gov</a></p>
 						<h5>Elene Trujillo</h5>
 						<p> Monitoring Performance Analyst <br>
