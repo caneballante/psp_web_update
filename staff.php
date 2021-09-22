@@ -202,10 +202,10 @@
 							<em>Straits, North Olympic Peninsula </em> <br/>
 							360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a></p>
 
-						<h5>Juliana Todano</h5>
+						<h5>Juliana Tadano</h5>
 						<p> Ecosystem Recovery Coordinator<br/>
 							<em>South Sound, WRIA 13, WRIA 14, Puyallup, and Nisqually</em><br>
-							360.995.2404 | <a href="mailto:juliana.todano@psp.wa.gov">juliana.todano@psp.wa.gov</a>
+							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
 							</p>
 
 						<!--SCIENCE AND EVALUATION-->
