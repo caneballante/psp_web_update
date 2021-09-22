@@ -246,8 +246,7 @@
 							360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a> </p>
 						<!--ADMINISTRATIVE SUPPORT-->
 						<h3 class="padding-10-top">Administrative Support Team</h3>
-						 <h5>VACANT</h5>
-						<p>Administrative Supervisor<br /></p>
+						 
 						<h5>Chrystal Andoh</h5>
 						<p> Administrative Assistant<br />
 						360.870.6664 | <a href="mailto:chrystal.andoh@psp.wa.gov">chrystal.andoh@psp.wa.gov</a></p>
