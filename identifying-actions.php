@@ -89,17 +89,26 @@ navSelected = 1;
 		<table class="table" width="774" border="2">
         <tbody>
           <tr>
-            <th width="20%" scope="col"><p>Workshop</p></th>
+            <th width="10%" scope="col"><p>Workshop</p></th>
             <th width="20%" scope="col"><p>Title</p></th>
-            <th width="20%" scope="col"><p>Strategies included in the workshop</p></th>
+            <th width="30%" scope="col"><p>Strategies included in the workshop</p></th>
             <th width="20%" scope="col"><p>Mtg 1</p></th>
 			<th width="20%" scope="col"><p>Mtg 2</p></th>
           </tr>
           <tr>
-            <td><p>Jan - June 2020</p></td>
-            <td><p>Phase 1: Scope and schedule</p></td>
-            <td><p>Determine the overall scope and schedule of the Action Agenda, including the intended purpose and use of the Action Agenda and major process phases and concepts. </p></td>
-            <td class="orange-fill white"><p>Completed</p></td>
+            <td><p>A</p></td>
+            <td><p>Smart growth and development</p></td>
+            <td><p>#1 Smart development/ intact habitats</p>
+				<p>#10 Stormwater and legacy contamination</p>
+				<p>#18 Awareness of changing climate</p> 
+				<p>#19 GHG reduction and sequestration</p>
+				<p>#20 Climate adaptation and resilience</p>
+<p>#21 Wellbeing derived from place attachments</p>
+<p>#23 Transparent and inclusive governance</p>
+<p>#26 Human health 
+</p></td>
+            <td><p>Nov. 2</p></td>
+			 <td><p>Nov. 30</p></td> 
           </tr>
           <tr>
             <td><p>June 2020 - Feb 2021</p></td>
