@@ -86,13 +86,14 @@ navSelected = 1;
 			
 			<div class="highlightbox margin-0-top margin-0-bottom"><p><sup>1</sup>Local Integrating Organization (LIO) plans, tribal priorities, salmon recovery plans, and the Orca Task Force recommendations also provide important activities and policy recommendations for the Action Agenda and reveal areas of shared focus where actions will advance multiple aspects of recovery. These plans are all created through science-informed and collaborative processes that capture the expertise and most recent thinking of individuals from around the region. Through the process of reviewing and providing feedback on the initial draft list of actions via public workshops, partner and board meetings, recovery partners will have the opportunity to identify additional actions that are needed implement strategies. </p></div>
 
-		
+		<table class="table" width="774" border="2">
         <tbody>
           <tr>
-            <th width="13%" scope="col"><p>Timeframe</p></th>
-            <th width="24%" scope="col"><p>Phase</p></th>
-            <th width="53%" scope="col"><p>Detail</p></th>
-            <th width="10%" scope="col"><p>Status</p></th>
+            <th width="20%" scope="col"><p>Workshop</p></th>
+            <th width="20%" scope="col"><p>Title</p></th>
+            <th width="20%" scope="col"><p>Strategies included in the workshop</p></th>
+            <th width="20%" scope="col"><p>Mtg 1</p></th>
+			<th width="20%" scope="col"><p>Mtg 2</p></th>
           </tr>
           <tr>
             <td><p>Jan - June 2020</p></td>
