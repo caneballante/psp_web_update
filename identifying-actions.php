@@ -206,8 +206,8 @@ navSelected = 1;
 		<H2>How can you participate?</H2>
 		<p>Members of the recovery community will have two main ways to participate in phase 4:</p>
 			<ol>
-			<li>Join a public workshop on action identification in November and early December </li>
-				<li>Join one of the Partnership's regularly scheduled board meetings and provide public comments (see the <a href="https://psp.wa.gov/partnership-boards-overview.php">Puget Sound Partnership Board’s webpage for more information)</a></li>
+			<li>Join a public workshop on action identification in November and early December. </li>
+				<li>Join one of the Partnership's regularly scheduled board meetings and provide public comments (see the <a href="https://psp.wa.gov/partnership-boards-overview.php">Puget Sound Partnership Board’s webpage for more information).</a></li>
 			</ol>
 			<strong>Stay tuned for more information on engagement opportunities as  the process is developed.</strong></p>
 		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>), Kaitlin Harris (<a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov</a>), Wren McNally (<a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a>), or your other Partnership staff connections  to request a briefing.</p>
