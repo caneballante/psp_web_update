@@ -246,6 +246,13 @@ navSelected = 1;
 	<li><a href="https://pugetsoundestuary.wa.gov/2021/01/05/2021-critical-areas-and-shoreline-monitoring-and-adaptive-management-online-workshops/" target="_blank">Workshops on best practices for local management of critical areas/shorelines</a></li>
 					</ul></td>
 			</tr>
+			<tr>
+			<td class="light-blue-fill white">Other</td>
+				<td><p>Other partners such as businesses, federal agencies, and non-profits may use the Action Agenda to guide their work.</p></td>
+				<td><p><a href="https://www.epa.gov/puget-sound/puget-sound-federal-task-force" target="_blank">The Puget Sound Federal Task Force</a> convenes to discuss how federal agencies can support Puget Sound recovery.</p>
+
+					<p><a href="https://water100project.org/" target="_blank">The Water 100 project</a> brings together business, government, NGO and scientific communities to identify, assess, fund, and implement the 100 most substantive solutions for improving Puget Sound’s water.</p></td>
+			</tr>
 				</tbody>
 			</table>
 			
