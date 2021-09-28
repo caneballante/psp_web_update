@@ -229,6 +229,10 @@ navSelected = 1;
 </p></td>
 				<td><p>The <a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/shore-friendly">Shore Friendly Program</a> was officially adopted by the existing Estuary and Salmon Restoration grant program (WDFW), in line with the Action Agenda strategy to provide financial and technical assistance to shoreline property owners.</p><p>The Partnership’s <a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf">budget rankings for 2021-2023 budget requests are here</a>.
 </p></td>
+				<tr>
+				<td class="light-blue-fill white">Local government budgeting and decision making</td>
+				<td><p>Action Agenda strategies and actions support the efforts of local governments to establish and expand important programs—and secure stable financing—to advance recovery.</p></td>
+				<td><p>The Clallam County Commissioners voted to approve <a href="https://actionagenda.pugetsoundinfo.wa.gov/Project/Detail/12875" target="_blank">a Conservation Futures Program</a>, in line with Action Agenda strategies to fund conservation efforts and preserve farmland in Puget Sound.</p><p>Likewise, Clallam County has supported staffing and funding for the county’s onsite septic Operation and Maintenance Program, although <a href="https://actionagenda.pugetsoundinfo.wa.gov/Project/Detail/12935" target="_blank">additional resources are still needed</a>.</p></td>
 			</tr>
 				</tbody>
 			</table>
