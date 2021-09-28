@@ -234,6 +234,18 @@ navSelected = 1;
 				<td><p>Action Agenda strategies and actions support the efforts of local governments to establish and expand important programs—and secure stable financing—to advance recovery.</p></td>
 				<td><p>The Clallam County Commissioners voted to approve <a href="https://actionagenda.pugetsoundinfo.wa.gov/Project/Detail/12875" target="_blank">a Conservation Futures Program</a>, in line with Action Agenda strategies to fund conservation efforts and preserve farmland in Puget Sound.</p><p>Likewise, Clallam County has supported staffing and funding for the county’s onsite septic Operation and Maintenance Program, although <a href="https://actionagenda.pugetsoundinfo.wa.gov/Project/Detail/12935" target="_blank">additional resources are still needed</a>.</p></td>
 			</tr>
+			<tr>
+			<td class="light-blue-fill white">National Estuary Program funding</td>
+				<td><p>The Action Agenda is the primary authority for funding decisions under the federal National Estuary Program. </p></td>
+				<td><p>The National Estuary Program provides financial support for adaptively managing the Action Agenda, as well as <a href="https://psp.wa.gov/implementation-strategies.php">Implementation Strategies</a> for achieving Vital Sign targets.</p>
+
+<p>The Strategic Initiatives use the Action Agenda to guide their funding of new projects and initiatives using National Estuary Program funds. Past examples of funded projects include:</p>
+<ul>
+	<li><a href="https://pugetsoundestuary.wa.gov/2021/03/08/shoreline-revolving-loan-feasibility-study/" target="_blank">Scoping a revolving loan program for shoreline armor removal</a></li>
+	<li><a href="https://pugetsoundestuary.wa.gov/2021/02/08/fish-return-to-the-south-prairie-floodplain/" target="_blank">Floodplain restoration in Pierce County</a></li>
+	<li><a href="https://pugetsoundestuary.wa.gov/2021/01/05/2021-critical-areas-and-shoreline-monitoring-and-adaptive-management-online-workshops/" target="_blank">Workshops on best practices for local management of critical areas/shorelines</a></li>
+					</ul></td>
+			</tr>
 				</tbody>
 			</table>
 			
