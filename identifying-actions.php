@@ -257,7 +257,7 @@ navSelected = 1;
 			</table>
 			
 			
-		<p><strong>For answers to questions</strong> If you have questions about the 2022-2026 Action Agenda update process or would like a briefing on phase 4, please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>), Kaitlin Harris (<a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov</a>), Wren McNally (<a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a>), or your other Partnership staff connections  to request a briefing.</p>
+		<p><strong>For answers to questions</strong> If you have questions about the 2022-2026 Action Agenda update process or would like a briefing on phase 4, please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>), Kaitlin Harris (<a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov</a>), Wren McNally (<a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a>).</p>
 			<p class="last-update">Last updated: 09/28/21</p>
 
         <!-- InstanceEndEditable --> </div>
