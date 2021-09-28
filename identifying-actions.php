@@ -209,6 +209,8 @@ navSelected = 1;
 			<li>Join a public workshop on action identification in November and early December. </li>
 				<li>Join one of the Partnership's regularly scheduled board meetings and provide public comments (see the <a href="https://psp.wa.gov/partnership-boards-overview.php">Puget Sound Partnership Board’s webpage for more information).</a></li>
 			</ol>
+			<h2>How will the actions be used?</h2>
+			<p>Actions are intended to guide partner implementation and innovation and will inform the focus of public and private funding and implementation support by the boards and regional partners.</p>
 			<strong>Stay tuned for more information on engagement opportunities as  the process is developed.</strong></p>
 		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>), Kaitlin Harris (<a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov</a>), Wren McNally (<a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a>), or your other Partnership staff connections  to request a briefing.</p>
 			<p class="last-update">Last updated: 09/10/21</p>
