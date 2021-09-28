@@ -129,12 +129,23 @@ navSelected = 1;
 			  <td><p>Dec. 1</p></td>
           </tr>
           <tr>
-            <td><p>Mar 2021 - Sept 2021</p></td>
-            <td><p>Phase 3: Identify strategies to advance desired outcomes</p></td>
-            <td><p>Identify strategies that tell us <em>how </em>to advance progress toward desired outcomes (phase 2) and overall  recovery. <a href="https://psp.wa.gov/identifying-strategies.php">More detail is available here.</a></p>
-				</td>
-            </td>
-            <td class="orange-fill white"><p>Completed</p></td>
+            <td><p>C</p></td>
+            <td><p>Marine habitat protection and restoration</p></td>
+            <td><p>#1 Smart development/ intact habitats</p>
+<p>#2 Ag lands and working forests</p>
+<p>#3 Marine shorelines</p> 
+<p>#5 Floodplains and estuaries</p>
+<p>#16 Submerged aquatic vegetation</p> 
+<p>#18 Awareness of changing climate</p> 
+<p>#19 GHG reduction and sequestration</p>
+<p>#20 Climate adaptation and resilience</p>
+<p>#21 Wellbeing derived from place attachments</p>
+<p>#22 Responsible recreation and stewardship</p>
+<p>#23 Transparent and inclusive governance</p> 
+<p>#24 Cultural practices</p> 
+<p>#26 Human health</p></td>
+            <td><p>Nov. 4</p></td>
+			  <td><p>Dec. 2</p></td>
           </tr>
           <tr>
             <td><p>Sept - Dec 2021</p></td>
