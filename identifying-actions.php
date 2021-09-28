@@ -96,7 +96,7 @@ navSelected = 1;
 			<th width="20%" scope="col" class="blue-fill white"><p>Mtg 2</p></th>
           </tr>
           <tr>
-            <td class="blue-fill white"><p>A</p></td>
+            <td class="light-blue-fill white"><p>A</p></td>
             <td><p>Smart growth and development</p></td>
             <td><p>#1 Smart development/ intact habitats</p>
 				<p>#10 Stormwater and legacy contamination</p>
@@ -111,7 +111,7 @@ navSelected = 1;
 			 <td><p>Nov. 30</p></td> 
           </tr>
           <tr>
-            <td class="blue-fill white"><p>B</p></td>
+            <td class="light-blue-fill white"><p>B</p></td>
             <td><p>Working lands</p></td>
 			  <td><p>#2 Ag lands and working forests</p>
 <p>#5 Floodplains and estuaries</p>
@@ -129,7 +129,7 @@ navSelected = 1;
 			  <td><p>Dec. 1</p></td>
           </tr>
           <tr>
-            <td class="blue-fill white"><p>C</p></td>
+            <td class="light-blue-fill white"><p>C</p></td>
             <td><p>Marine habitat protection and restoration</p></td>
             <td><p>#1 Smart development/ intact habitats</p>
 <p>#2 Ag lands and working forests</p>
@@ -148,7 +148,7 @@ navSelected = 1;
 			  <td><p>Dec. 2</p></td>
           </tr>
           <tr>
-            <td class="blue-fill white"><p>D</p></td>
+            <td class="light-blue-fill white"><p>D</p></td>
             <td><p>Freshwater habitat protection and restoration</p></td>
             <td><p>#1 Smart development/ intact habitats</p>
 <p>#2 Ag lands and working forests</p>
@@ -168,7 +168,7 @@ navSelected = 1;
 			  <td><p>Dec. 3</p></td>
           </tr>
           <tr>
-            <td class="blue-fill white"><p>E</p></td>
+            <td class="light-blue-fill white"><p>E</p></td>
             <td><p>Water quality</p></td>
             <td><p>#8 Toxic chemicals</p>
 <p>#9 Cumulative water pollution</p>
