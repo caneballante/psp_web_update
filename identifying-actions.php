@@ -183,7 +183,7 @@ navSelected = 1;
 			  <td><p>Dec. 7</p></td>
           </tr>
           <tr>
-            <td class="blue-fill white"><p>F</p></td>
+            <td class="light-blue-fill white"><p>F</p></td>
             <td><p>Food webs and other human activities</p></td>
             <td><p>#13 Oil spills</p> 
 <p>#14 Invasive species</p> 
