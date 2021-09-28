@@ -217,8 +217,12 @@ navSelected = 1;
             <th width="20%" scope="col" class="blue-fill white"><p>Implementation Resources</p></th>
             <th width="30%" scope="col" class="blue-fill white"><p>Action Agenda Connection</p></th>
             <th width="30%" scope="col" class="blue-fill white"><p>Example</p></th>
-            
-          </tr>
+            </tr>
+			<tr>
+			<td class="light-blue-fill white"><p>Collaborative problem solving</p></td>
+				<td><p>The Action Agenda is intended to be the shared plan for a diverse range of partners that must work together to solve many complex challenges. The Action Agenda must guide the work of our diverse partnership where we each have a unique and important role to play in resolving a challenge.</p></td>
+				<td><p>Protecting habitat and working lands in Puget Sound while accommodating population growth is a complex challenge. Success in this endeavor requires coordination of federal, state, local, and tribal governments, businesses, individual landowners, and non-profit organizations to guide development into preferred areas through a combination of market influences, financial and technical incentives, informed planning, compliance with strong and effective regulations, and education. The Action Agenda captures the unique recipe for action that can guide the work of all partners with a role to play in advancing recovery.</p></td>
+			</tr>
 				</tbody>
 			</table>
 			
