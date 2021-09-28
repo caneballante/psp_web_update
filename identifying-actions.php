@@ -148,11 +148,24 @@ navSelected = 1;
 			  <td><p>Dec. 2</p></td>
           </tr>
           <tr>
-            <td><p>Sept - Dec 2021</p></td>
-            <td><p>Phase 4: Identify actions and commitments that align with strategies.</p></td>
-            <td><p>Identify actions and programs that require additional investment; necessary policy changes; and commitments from the boards and partners to support priority actions for recovery. </p>
-            </td>
-           <td class="blue-fill white"><p>In progress</p></td>
+            <td><p>D</p></td>
+            <td><p>Freshwater habitat protection and restoration</p></td>
+            <td><p>#1 Smart development/ intact habitats</p>
+<p>#2 Ag lands and working forests</p>
+<p>#4 Riparian areas</p>
+<p>#5 Floodplains and estuaries</p>
+<p>#6 Fish passage</p>
+<p>#7 Freshwater availability</p>
+<p>#18 Awareness of changing climate</p> 
+<p>#19 GHG reduction and sequestration</p>
+<p>#20 Climate adaptation and resilience</p>
+<p>#21 Wellbeing derived from place attachments</p>
+<p>#22 Responsible recreation and stewardship</p>
+<p>#23 Transparent and inclusive governance</p> 
+<p>#24 Cultural practices</p> 
+<p>#26 Human health</p></td>
+           <td><p>Nov. 5</p></td>
+			  <td><p>Dec. 3</p></td>
           </tr>
           <tr>
             <td><p>Aug 2021 - Feb 2022</p></td>
