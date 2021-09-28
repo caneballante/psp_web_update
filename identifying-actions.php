@@ -223,6 +223,13 @@ navSelected = 1;
 				<td><p>The Action Agenda is intended to be the shared plan for a diverse range of partners that must work together to solve many complex challenges. The Action Agenda must guide the work of our diverse partnership where we each have a unique and important role to play in resolving a challenge.</p></td>
 				<td><p>Protecting habitat and working lands in Puget Sound while accommodating population growth is a complex challenge. Success in this endeavor requires coordination of federal, state, local, and tribal governments, businesses, individual landowners, and non-profit organizations to guide development into preferred areas through a combination of market influences, financial and technical incentives, informed planning, compliance with strong and effective regulations, and education. The Action Agenda captures the unique recipe for action that can guide the work of all partners with a role to play in advancing recovery.</p></td>
 			</tr>
+			<tr>
+			<td class="light-blue-fill white">State budgeting and decision making</td>
+				<td><p>Action Agenda strategies and actions are used by state agencies to guide and support their existing programs as well as new budget requests.</p><p>Alignment with the Action Agenda is the basis for the Partnership’s legislative outreach and state agency budget ranking.
+</p></td>
+				<td><p>The <a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/shore-friendly">Shore Friendly Program</a> was officially adopted by the existing Estuary and Salmon Restoration grant program (WDFW), in line with the Action Agenda strategy to provide financial and technical assistance to shoreline property owners.</p><p>The Partnership’s <a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf">budget rankings for 2021-2023 budget requests are here</a>.
+</p></td>
+			</tr>
 				</tbody>
 			</table>
 			
