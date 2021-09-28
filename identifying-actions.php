@@ -89,7 +89,7 @@ navSelected = 1;
 		<table class="table" width="774" border="2">
         <tbody>
           <tr>
-            <th width="10%" scope="col"><p>Workshop</p></th>
+            <th width="10%" scope="col" class="blue-fill white"><p>Workshop</p></th>
             <th width="20%" scope="col"><p>Title</p></th>
             <th width="30%" scope="col"><p>Strategies included in the workshop</p></th>
             <th width="20%" scope="col"><p>Mtg 1</p></th>
@@ -168,16 +168,36 @@ navSelected = 1;
 			  <td><p>Dec. 3</p></td>
           </tr>
           <tr>
-            <td><p>Aug 2021 - Feb 2022</p></td>
-            <td><p>Phase 5: Develop draft Action Agenda</p></td>
-            <td><p>Bring together content developed in phases 2-4 into a draft Action  Agenda; partners and public provide feedback on draft.</p></td>
-           <td class="light-blue-fill white"><p>Not started</p></td>
+            <td><p>E</p></td>
+            <td><p>Water quality</p></td>
+            <td><p>#8 Toxic chemicals</p>
+<p>#9 Cumulative water pollution</p>
+<p>#10 Stormwater and legacy contamination</p>
+<p>#11 Wastewater systems</p> 
+<p>#18 Awareness of changing climate</p> 
+<p>#20 Climate adaptation and resilience</p>
+<p>#23 Transparent and inclusive governance</p> 
+<p>#26 Human health</p>
+</td>
+			  <td><p>Nov. 9</p></td>
+			  <td><p>Dec. 7</p></td>
           </tr>
           <tr>
-            <td><p>Feb - June 2022</p></td>
+            <td><p>F</p></td>
             <td><p>Phase 6: Public comment and adoption</p></td>
-            <td><p>Provide time for public comment and input from each of the Partnership's  Boards and partner groups.</p></td>
-           <td class="light-blue-fill white"><p>Not started</p></td>
+            <td><p>#13 Oil spills</p> 
+<p>#14 Invasive species</p> 
+<p>#16 Submerged aquatic vegetation</p>
+<p>#17 Best practices by boaters</p>
+<p>#18 Awareness of changing climate</p> 
+<p>#20 Climate adaptation and resilience</p>
+<p>#22 Responsible recreation and stewardship</p>
+<p>#23 Transparent and inclusive governance</p> 
+<p>#25 Natural resource industries</p>
+<p>#26 Human health</p>
+</td>
+<td><p>Nov. 10</p></td>
+			  <td><p>Dec. 8</p></td>
           </tr>
         </tbody>
         </table>
