@@ -90,13 +90,13 @@ navSelected = 1;
         <tbody>
           <tr>
             <th width="10%" scope="col" class="blue-fill white"><p>Workshop</p></th>
-            <th width="20%" scope="col"><p>Title</p></th>
-            <th width="30%" scope="col"><p>Strategies included in the workshop</p></th>
-            <th width="20%" scope="col"><p>Mtg 1</p></th>
-			<th width="20%" scope="col"><p>Mtg 2</p></th>
+            <th width="20%" scope="col" class="blue-fill white"><p>Title</p></th>
+            <th width="30%" scope="col" class="blue-fill white"><p>Strategies included in the workshop</p></th>
+            <th width="20%" scope="col" class="blue-fill white"><p>Mtg 1</p></th>
+			<th width="20%" scope="col" class="blue-fill white"><p>Mtg 2</p></th>
           </tr>
           <tr>
-            <td><p>A</p></td>
+            <td class="blue-fill white"><p>A</p></td>
             <td><p>Smart growth and development</p></td>
             <td><p>#1 Smart development/ intact habitats</p>
 				<p>#10 Stormwater and legacy contamination</p>
@@ -111,7 +111,7 @@ navSelected = 1;
 			 <td><p>Nov. 30</p></td> 
           </tr>
           <tr>
-            <td><p>B</p></td>
+            <td class="blue-fill white"><p>B</p></td>
             <td><p>Working lands</p></td>
 			  <td><p>#2 Ag lands and working forests</p>
 <p>#5 Floodplains and estuaries</p>
@@ -129,7 +129,7 @@ navSelected = 1;
 			  <td><p>Dec. 1</p></td>
           </tr>
           <tr>
-            <td><p>C</p></td>
+            <td class="blue-fill white"><p>C</p></td>
             <td><p>Marine habitat protection and restoration</p></td>
             <td><p>#1 Smart development/ intact habitats</p>
 <p>#2 Ag lands and working forests</p>
@@ -148,7 +148,7 @@ navSelected = 1;
 			  <td><p>Dec. 2</p></td>
           </tr>
           <tr>
-            <td><p>D</p></td>
+            <td class="blue-fill white"><p>D</p></td>
             <td><p>Freshwater habitat protection and restoration</p></td>
             <td><p>#1 Smart development/ intact habitats</p>
 <p>#2 Ag lands and working forests</p>
@@ -168,7 +168,7 @@ navSelected = 1;
 			  <td><p>Dec. 3</p></td>
           </tr>
           <tr>
-            <td><p>E</p></td>
+            <td class="blue-fill white"><p>E</p></td>
             <td><p>Water quality</p></td>
             <td><p>#8 Toxic chemicals</p>
 <p>#9 Cumulative water pollution</p>
@@ -183,8 +183,8 @@ navSelected = 1;
 			  <td><p>Dec. 7</p></td>
           </tr>
           <tr>
-            <td><p>F</p></td>
-            <td><p>Phase 6: Public comment and adoption</p></td>
+            <td class="blue-fill white"><p>F</p></td>
+            <td><p>Food webs and other human activities</p></td>
             <td><p>#13 Oil spills</p> 
 <p>#14 Invasive species</p> 
 <p>#16 Submerged aquatic vegetation</p>
