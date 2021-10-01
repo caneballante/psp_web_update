@@ -236,9 +236,6 @@
 						<h5>Annelise Del Rio</h5>
 						<p>	Monitoring Performance Analyst/Salmon Scientist <br>
 							360.584.5306 | <a href="mailto:annelise.delrio@psp.wa.gov">annelise.delrio@psp.wa.gov</a></p>
-						<h5>Andres Sheikh</h5>
-						<p> Sea Grant Keystone Fellow <br>
-							360.706.4566 | <a href="mailto:andres.sheikh@psp.wa.gov">andres.sheikh@psp.wa.gov</a></p>
 						<h5>Corinne Noufi</h5>
 						<p>Sea Grant Hershman Fellow <br>
 							360.789.3324 | <a href="mailto:corinne.noufi@psp.wa.gov">corinne.noufi@psp.wa.gov</a></p>
