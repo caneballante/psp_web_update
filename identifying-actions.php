@@ -105,17 +105,7 @@ navSelected = 4;
           <tr>
             <td class="light-blue-fill white"><p>B</p></td>
             <td><p><strong>Working lands</strong></p></td>
-			  <td><p>#2 Ag lands and working forests</p>
-<p>#5 Floodplains and estuaries</p>
-<p>#9 Cumulative water pollution</p> 
-<p>#12 Non-point source pollutants</p>
-<p>#18 Awareness of changing climate</p> 
-<p>#19 GHG reduction and sequestration</p>
-<p>#20 Climate adaptation and resilience</p>
-<p>#23 Transparent and inclusive governance</p> 
-<p>#24 Cultural practices</p> 
-<p>#25 Natural resource industries</p> 
-<p>#26 Human health</p> 
+			  <td><p>#2 Ag lands and working forests<br>#5 Floodplains and estuaries<br>#9 Cumulative water pollution<br>#12 Non-point source pollutants<br>#18 Awareness of changing climate<br>#19 GHG reduction and sequestration<br>#20 Climate adaptation and resilience<br>#23 Transparent and inclusive governance<br>#24 Cultural practices<br>#25 Natural resource industries<br>#26 Human health</p> 
 </td>
             <td><p>Nov. 3</p></td>
 			  <td><p>Dec. 1</p></td>
