@@ -98,14 +98,7 @@ navSelected = 4;
           <tr>
             <td class="light-blue-fill white"><p>A</p></td>
             <td><p><strong>Smart growth and development</strong></p></td>
-			  <td><ul><li>#1 Smart development/ intact habitats</li>
-				<li>#10 Stormwater and legacy contamination</li>
-				<li>#18 Awareness of changing climate</li> 
-				<li>#19 GHG reduction and sequestration</li>
-				<li>#20 Climate adaptation and resilience</li>
-<li>#21 Wellbeing derived from place attachments</li>
-<li>#23 Transparent and inclusive governance</li>
-				<li>#26 Human health</li></ul></td>
+			  <td><p>#1 Smart development/ intact habitats<br> #10 Stormwater and legacy contamination<br> #18 Awareness of changing climate<br> #19 GHG reduction and sequestration<br> #20 Climate adaptation and resilience<br> #21 Wellbeing derived from place attachments<br> #23 Transparent and inclusive governance<br> #26 Human health</p></td>
             <td><p>Nov. 2</p></td>
 			 <td><p>Nov. 30</p></td> 
           </tr>
