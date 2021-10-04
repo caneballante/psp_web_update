@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Idenfitying actions for Puget Sound Recovery</title>
+<title>Identifying Actions for Puget Sound Recovery</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -73,7 +73,7 @@ navSelected = 4;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2>Overall vision, scope, and timeline for the 2022-2026 Action Agenda update</h2>
 
-<p>The 2022-2026 Action Agenda will be an update to the Puget Sound recovery plan for protected habitat, thriving species, and healthy people. The purpose of the 2022-2026 Action Agenda is to concentrate our efforts, energy, and investments on key transformational changes that will enable us to collectively advance progress toward the statutory goals and Vital Signs that guide Puget Sound recovery. In June 2020, the Leadership Council adopted a concept and schedule for updating the 2022-2026 Action Agenda. The approved schedule includes multiple phases of work (figure 1).</p><br>
+<p>The 2022-2026 Action Agenda will be an update to the Puget Sound recovery plan for protected habitat, thriving species, and healthy people. The purpose of the 2022-2026 Action Agenda is to concentrate our efforts, energy, and investments on key transformational changes that will enable us to collectively advance progress toward the statutory goals and Vital Signs that guide Puget Sound recovery. In June 2020, the Leadership Council adopted a concept and schedule for updating the 2022-2026 Action Agenda. The approved schedule includes multiple phases of work.</p><br>
 			<img class="img-responsive" src="https://pspwa.box.com/shared/static/uoeewhy6v4831exjd3uufd86pv21dszy.png" width="1491" height="421" alt=""/>
 
 <br><p>Phase 2 focused on identifying science-informed <a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank">desired recovery outcomes</a> that describe what we intend to accomplish to advance Puget Sound recovery. Phase 3 focused on identifying the strategies necessary to make progress toward the Action Agenda desired outcomes, the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Puget Sound Vital Signs</a>, and <a href="https://psp.wa.gov/puget-sound-recovery.php">statutory goals</a>. In phase 4—the second to last phase of the 2022-2026 Action Agenda update process—we will identify the actions to advance strategies.</p>
@@ -84,7 +84,7 @@ navSelected = 4;
 			<h2>How will Action Agenda actions be identified?  </h2>
 			<p>The phase 4 process is designed to promote co-generation of Action Agenda actions that will implement strategies. Actions will be identified through public workshops and will utilize <a href="https://psp.wa.gov/implementation-strategies.php">Implementation Strategies</a> and other existing plans<sup>1</sup>  – as well as approved desired outcomes and approved strategies – as a starting point for discussion. Public workshops will take place between early November and mid-December. Each workshop will be approximately two to three hours in length and will be held virtually: </p>
 			
-			<div class="highlightbox margin-0-top margin-0-bottom"><p><sup>1</sup><a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organization (LIO) plans</a>, <a href="https://nwtreatytribes.org/habitatstrategy/" target="_blank">tribal priorities</a>, <a href="https://psp.wa.gov/salmon-recovery-overview.php">salmon recovery plans</a>, and <a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-orca-recovery/task-force" target="_blank">the Orca Task Force recommendations</a> also provide important activities and policy recommendations for the Action Agenda and reveal areas of shared focus where actions will advance multiple aspects of recovery. These plans are all created through science-informed and collaborative processes that capture the expertise and most recent thinking of individuals from around the region. Through the process of reviewing and providing feedback on the initial draft list of actions via public workshops, partner and board meetings, recovery partners will have the opportunity to identify additional actions that are needed implement strategies. </p></div>
+			<div class="highlightbox margin-0-top margin-0-bottom"><p><sup>1</sup><a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organization (LIO) plans</a>, <a href="https://nwtreatytribes.org/habitatstrategy/" target="_blank">tribal priorities</a>, <a href="https://psp.wa.gov/salmon-recovery-overview.php">salmon recovery plans</a>, and <a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-orca-recovery/task-force" target="_blank">the Orca Task Force recommendations</a> also provide important activities and policy recommendations for the Action Agenda and reveal areas of shared focus where actions will advance multiple aspects of recovery. These plans are all created through science-informed and collaborative processes that capture the expertise and most recent thinking of individuals from around the region. Through the process of reviewing and providing feedback on the initial draft list of actions via public workshops, partner and board meetings, recovery partners will have the opportunity to identify additional actions that are needed implement strategies. </p></div><br>
 
 		<table class="table" width="774" border="2">
         <tbody>
@@ -97,22 +97,21 @@ navSelected = 4;
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>A</p></td>
-            <td><p>Smart growth and development</p></td>
-            <td><p>#1 Smart development/ intact habitats</p>
-				<p>#10 Stormwater and legacy contamination</p>
-				<p>#18 Awareness of changing climate</p> 
-				<p>#19 GHG reduction and sequestration</p>
-				<p>#20 Climate adaptation and resilience</p>
-<p>#21 Wellbeing derived from place attachments</p>
-<p>#23 Transparent and inclusive governance</p>
-<p>#26 Human health 
-</p></td>
+            <td><p><strong>Smart growth and development</strong></p></td>
+			  <td><ul><li>#1 Smart development/ intact habitats</li>
+				<li>#10 Stormwater and legacy contamination</li>
+				<li>#18 Awareness of changing climate</li> 
+				<li>#19 GHG reduction and sequestration</li>
+				<li>#20 Climate adaptation and resilience</li>
+<li>#21 Wellbeing derived from place attachments</li>
+<li>#23 Transparent and inclusive governance</li>
+				<li>#26 Human health</li></ul></td>
             <td><p>Nov. 2</p></td>
 			 <td><p>Nov. 30</p></td> 
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>B</p></td>
-            <td><p>Working lands</p></td>
+            <td><p><strong>Working lands</strong></p></td>
 			  <td><p>#2 Ag lands and working forests</p>
 <p>#5 Floodplains and estuaries</p>
 <p>#9 Cumulative water pollution</p> 
@@ -130,7 +129,7 @@ navSelected = 4;
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>C</p></td>
-            <td><p>Marine habitat protection and restoration</p></td>
+            <td><p><strong>Marine habitat protection and restoration</strong></p></td>
             <td><p>#1 Smart development/ intact habitats</p>
 <p>#2 Ag lands and working forests</p>
 <p>#3 Marine shorelines</p> 
@@ -149,7 +148,7 @@ navSelected = 4;
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>D</p></td>
-            <td><p>Freshwater habitat protection and restoration</p></td>
+            <td><p><strong>Freshwater habitat protection and restoration</strong></p></td>
             <td><p>#1 Smart development/ intact habitats</p>
 <p>#2 Ag lands and working forests</p>
 <p>#4 Riparian areas</p>
@@ -169,7 +168,7 @@ navSelected = 4;
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>E</p></td>
-            <td><p>Water quality</p></td>
+            <td><p><strong>Water quality</strong></p></td>
             <td><p>#8 Toxic chemicals</p>
 <p>#9 Cumulative water pollution</p>
 <p>#10 Stormwater and legacy contamination</p>
@@ -184,7 +183,7 @@ navSelected = 4;
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>F</p></td>
-            <td><p>Food webs and other human activities</p></td>
+            <td><p><strong>Food webs and other human activities</strong></p></td>
             <td><p>#13 Oil spills</p> 
 <p>#14 Invasive species</p> 
 <p>#16 Submerged aquatic vegetation</p>
