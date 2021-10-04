@@ -113,53 +113,41 @@ navSelected = 4;
           <tr>
             <td class="light-blue-fill white"><p>C</p></td>
             <td><p><strong>Marine habitat protection and restoration</strong></p></td>
-            <td><p>#1 Smart development/ intact habitats</p>
-<p>#2 Ag lands and working forests</p>
-<p>#3 Marine shorelines</p> 
-<p>#5 Floodplains and estuaries</p>
-<p>#16 Submerged aquatic vegetation</p> 
-<p>#18 Awareness of changing climate</p> 
-<p>#19 GHG reduction and sequestration</p>
-<p>#20 Climate adaptation and resilience</p>
-<p>#21 Wellbeing derived from place attachments</p>
-<p>#22 Responsible recreation and stewardship</p>
-<p>#23 Transparent and inclusive governance</p> 
-<p>#24 Cultural practices</p> 
-<p>#26 Human health</p></td>
+            <td><p>#1 Smart development/ intact habitats<br>#2 Ag lands and working forests<br>#3 Marine shorelines<br>#5 Floodplains and estuaries<br>#16 Submerged aquatic vegetation<br>#18 Awareness of changing climate<br>#19 GHG reduction and sequestration<br>#20 Climate adaptation and resilience<br>#21 Wellbeing derived from place attachments<br>#22 Responsible recreation and stewardship<br>#23 Transparent and inclusive governance<br>#24 Cultural practices<br>#26 Human health</p></td>
             <td><p>Nov. 4</p></td>
 			  <td><p>Dec. 2</p></td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>D</p></td>
             <td><p><strong>Freshwater habitat protection and restoration</strong></p></td>
-            <td><p>#1 Smart development/ intact habitats</p>
-<p>#2 Ag lands and working forests</p>
-<p>#4 Riparian areas</p>
-<p>#5 Floodplains and estuaries</p>
-<p>#6 Fish passage</p>
-<p>#7 Freshwater availability</p>
-<p>#18 Awareness of changing climate</p> 
-<p>#19 GHG reduction and sequestration</p>
-<p>#20 Climate adaptation and resilience</p>
-<p>#21 Wellbeing derived from place attachments</p>
-<p>#22 Responsible recreation and stewardship</p>
-<p>#23 Transparent and inclusive governance</p> 
-<p>#24 Cultural practices</p> 
-<p>#26 Human health</p></td>
+            <td><p>#1 Smart development/ intact habitats<br>
+#2 Ag lands and working forests<br>
+#4 Riparian areas<br>
+#5 Floodplains and estuaries<br>
+#6 Fish passage<br>
+#7 Freshwater availability<br>
+#18 Awareness of changing climate<br> 
+#19 GHG reduction and sequestration<br>
+#20 Climate adaptation and resilience<br>
+#21 Wellbeing derived from place attachments<br>
+#22 Responsible recreation and stewardship<br>
+#23 Transparent and inclusive governance<br> 
+#24 Cultural practices<br> 
+#26 Human health</p></td>
            <td><p>Nov. 5</p></td>
 			  <td><p>Dec. 3</p></td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>E</p></td>
             <td><p><strong>Water quality</strong></p></td>
-            <td><p>#8 Toxic chemicals</p>
-<p>#9 Cumulative water pollution</p>
-<p>#10 Stormwater and legacy contamination</p>
-<p>#11 Wastewater systems</p> 
-<p>#18 Awareness of changing climate</p> 
-<p>#20 Climate adaptation and resilience</p>
-<p>#23 Transparent and inclusive governance</p> 
-<p>#26 Human health</p>
+            <td><p>#8 Toxic chemicals<br>
+#9 Cumulative water pollution<br>
+#10 Stormwater and legacy contamination<br>
+#11 Wastewater systems<br> 
+#18 Awareness of changing climate<br> 
+#20 Climate adaptation and resilience<br>
+#23 Transparent and inclusive governance<br> 
+#26 Human health</p>
 </td>
 			  <td><p>Nov. 9</p></td>
 			  <td><p>Dec. 7</p></td>
@@ -167,16 +155,16 @@ navSelected = 4;
           <tr>
             <td class="light-blue-fill white"><p>F</p></td>
             <td><p><strong>Food webs and other human activities</strong></p></td>
-            <td><p>#13 Oil spills</p> 
-<p>#14 Invasive species</p> 
-<p>#16 Submerged aquatic vegetation</p>
-<p>#17 Best practices by boaters</p>
-<p>#18 Awareness of changing climate</p> 
-<p>#20 Climate adaptation and resilience</p>
-<p>#22 Responsible recreation and stewardship</p>
-<p>#23 Transparent and inclusive governance</p> 
-<p>#25 Natural resource industries</p>
-<p>#26 Human health</p>
+            <td><p>#13 Oil spills<br> 
+#14 Invasive species<br> 
+#16 Submerged aquatic vegetation<br>
+#17 Best practices by boaters<br>
+#18 Awareness of changing climate<br> 
+#20 Climate adaptation and resilience<br>
+#22 Responsible recreation and stewardship<br>
+#23 Transparent and inclusive governance<br> 
+#25 Natural resource industries<br>
+#26 Human health</p>
 </td>
 <td><p>Nov. 10</p></td>
 			  <td><p>Dec. 8</p></td>
