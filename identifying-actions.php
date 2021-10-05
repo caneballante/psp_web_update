@@ -125,52 +125,24 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
           <tr>
             <td class="light-blue-fill white"><p>D</p></td>
             <td><p><strong>Freshwater habitat protection and restoration</strong></p></td>
-            <td><p>#1 Smart development/ intact habitats<br>
-#2 Ag lands and working forests<br>
-#4 Riparian areas<br>
-#5 Floodplains and estuaries<br>
-#6 Fish passage<br>
-#7 Freshwater availability<br>
-#18 Awareness of changing climate<br> 
-#19 GHG reduction and sequestration<br>
-#20 Climate adaptation and resilience<br>
-#21 Wellbeing derived from place attachments<br>
-#22 Responsible recreation and stewardship<br>
-#23 Transparent and inclusive governance<br> 
-#24 Cultural practices<br> 
-#26 Human health</p></td>
+            <td><p>Workshop will focus on identifying actions related to riparian areas, floodplains and estuaries, fish passage, freshwater availability, working lands, smart development, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship, cultural practices, and wellbeing derived from place attachments.</p></td>
+			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality</p></td>
            <td><p>Nov. 5</p></td>
 			  <td><p>Dec. 3</p></td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>E</p></td>
             <td><p><strong>Water quality</strong></p></td>
-            <td><p>#8 Toxic chemicals<br>
-#9 Cumulative water pollution<br>
-#10 Stormwater and legacy contamination<br>
-#11 Wastewater systems<br> 
-#18 Awareness of changing climate<br> 
-#20 Climate adaptation and resilience<br>
-#23 Transparent and inclusive governance<br> 
-#26 Human health</p>
-</td>
+            <td><p>Workshop will focus on identifying actions related to wastewater systems, toxic chemicals, cumulative water pollution, stormwater and legacy contamination, addressing and preparing for climate change, and human wellbeing strategies such as human health.</p></td>
+			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Marine Water Quality<br>Shellfish<br>Toxics in Fish</p></td>
 			  <td><p>Nov. 9</p></td>
 			  <td><p>Dec. 7</p></td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>F</p></td>
-            <td><p><strong>Food webs and other human activities</strong></p></td>
-            <td><p>#13 Oil spills<br> 
-#14 Invasive species<br> 
-#16 Submerged aquatic vegetation<br>
-#17 Best practices by boaters<br>
-#18 Awareness of changing climate<br> 
-#20 Climate adaptation and resilience<br>
-#22 Responsible recreation and stewardship<br>
-#23 Transparent and inclusive governance<br> 
-#25 Natural resource industries<br>
-#26 Human health</p>
-</td>
+            <td><p><strong>Food webs and human activities</strong></p></td>
+            <td><p>Workshop will focus on identifying actions related to invasive species, oil spills, best practices by boaters, aquatic vegetation, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship.</p></td>
+			  <td><p>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Shellfish</p></td>
 <td><p>Nov. 10</p></td>
 			  <td><p>Dec. 8</p></td>
           </tr>
