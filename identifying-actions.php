@@ -79,10 +79,10 @@ navSelected = 4;
 <br><p>Phase 2 focused on identifying science-informed <a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank">desired recovery outcomes</a> that describe what we intend to accomplish to advance Puget Sound recovery. Phase 3 focused on identifying the strategies necessary to make progress toward the Action Agenda desired outcomes, the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Puget Sound Vital Signs</a>, and <a href="https://psp.wa.gov/puget-sound-recovery.php">statutory goals</a>. In phase 4—the second to last phase of the 2022-2026 Action Agenda update process—we will identify the actions to advance strategies.</p>
 			
 			<h2>Actions describe the activities that are a shared focus for implementing strategies </h2>
-			<p>For the purposes of the 2022-2026 Action Agenda update, an action describes the activities that will be a shared focus for implementing each strategy from 2022-2026. This could include restoration and acquisition program development, improvement, or implementation; education; outreach; research; legislative or policy improvements; or other types of activities. Actions are intended to guide partner implementation and innovation and will inform the focus of public and private funding and implementation support by the boards and regional partners. </p>
+			<p>For the purposes of the 2022-2026 Action Agenda update, an action describes the activities that will be a shared focus for implementing each strategy from 2022-2026. This could include restoration and acquisition; program development, improvement, or implementation; education; outreach; research; legislative or policy improvements; or other types of activities. Actions are intended to guide partner implementation and innovation and will inform the focus of public and private funding and implementation support by the boards and regional partners. </p>
 			
 			<h2>How will Action Agenda actions be identified?  </h2>
-			<p>The phase 4 process is designed to promote co-generation of Action Agenda actions that will implement strategies. Actions will be identified through public workshops and will utilize <a href="https://psp.wa.gov/implementation-strategies.php">Implementation Strategies</a> and other existing plans<sup>1</sup>  – as well as approved desired outcomes and approved strategies – as a starting point for discussion. Public workshops will take place between early November and mid-December. Each workshop will be approximately two to three hours in length and will be held virtually: </p>
+			<p>The phase 4 process is designed to promote co-generation of Action Agenda actions that will implement strategies. Actions will be identified through public workshops and will utilize <a href="https://psp.wa.gov/implementation-strategies.php">Implementation Strategies</a> and other existing plans<sup>1</sup>  – as well as approved desired outcomes and approved strategies – as a starting point for discussion. Public workshops will take place between early November and early December. Each workshop will be approximately two to three hours in length and will be held virtually: </p>
 			
 			<div class="highlightbox margin-0-top margin-0-bottom"><p><sup>1</sup><a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organization (LIO) plans</a>, <a href="https://nwtreatytribes.org/habitatstrategy/" target="_blank">tribal priorities</a>, <a href="https://psp.wa.gov/salmon-recovery-overview.php">salmon recovery plans</a>, and <a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-orca-recovery/task-force" target="_blank">the Orca Task Force recommendations</a> also provide important activities and policy recommendations for the Action Agenda and reveal areas of shared focus where actions will advance multiple aspects of recovery. These plans are all created through science-informed and collaborative processes that capture the expertise and most recent thinking of individuals from around the region. Through the process of reviewing and providing feedback on the initial draft list of actions via public workshops, partner and board meetings, recovery partners will have the opportunity to identify additional actions that are needed implement strategies. </p></div><br>
 
@@ -90,15 +90,18 @@ navSelected = 4;
         <tbody>
           <tr>
             <th width="10%" scope="col" class="blue-fill white"><p>Workshop</p></th>
-            <th width="20%" scope="col" class="blue-fill white"><p>Title</p></th>
-            <th width="30%" scope="col" class="blue-fill white"><p>Strategies included in the workshop</p></th>
-            <th width="20%" scope="col" class="blue-fill white"><p>Mtg 1</p></th>
-			<th width="20%" scope="col" class="blue-fill white"><p>Mtg 2</p></th>
+            <th width="10%" scope="col" class="blue-fill white"><p>Title</p></th>
+            <th width="30%" scope="col" class="blue-fill white"><p>Topics included in the workshop</p></th>
+			<th width="30%" scope="col" class="blue-fill white"><p>Associated Implementation Strategy</p></th> 
+            <th width="10%" scope="col" class="blue-fill white"><p>Mtg 1</p></th>
+			<th width="10%" scope="col" class="blue-fill white"><p>Mtg 2</p></th>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>A</p></td>
             <td><p><strong>Smart growth and development</strong></p></td>
-			  <td><p>#1 Smart development/ intact habitats<br> #10 Stormwater and legacy contamination<br> #18 Awareness of changing climate<br> #19 GHG reduction and sequestration<br> #20 Climate adaptation and resilience<br> #21 Wellbeing derived from place attachments<br> #23 Transparent and inclusive governance<br> #26 Human health</p></td>
+			  <td><p>Workshop will focus on identifying actions related to smart development, stormwater and legacy contamination, addressing and preparing for climate change, and human wellbeing strategies such as transparent and inclusive governance and human health.</p></td>
+			  <td><p>Benthic Index Of Biotic Integrity (B-IBI)<sup>2</sup><br>Land Development and Cover<br>Marine Water Quality<br>Toxics in Fish<br>
+Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for the Freshwater Quality Vital Sign</small></p></td>
             <td><p>Nov. 2</p></td>
 			 <td><p>Nov. 30</p></td> 
           </tr>
