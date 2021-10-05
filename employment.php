@@ -93,7 +93,7 @@
 		
 	
 	<p></p>
-			<p class="last-update">Last updated: 09/20/21</p>
+			<p class="last-update">Last updated: 10/05/21</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -112,7 +112,7 @@
 				<li>
 					<p>Denise Ross<br>
 						Human Resources Manager<br />
-						Office 360.819.0208 <br>
+						360.819.0208 <br>
 						<a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p>
 				</li>
 				<!-- InstanceEndEditable -->
