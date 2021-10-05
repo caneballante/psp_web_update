@@ -117,7 +117,8 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
           <tr>
             <td class="light-blue-fill white"><p>C</p></td>
             <td><p><strong>Marine habitat protection and restoration</strong></p></td>
-            <td><p>#1 Smart development/ intact habitats<br>#2 Ag lands and working forests<br>#3 Marine shorelines<br>#5 Floodplains and estuaries<br>#16 Submerged aquatic vegetation<br>#18 Awareness of changing climate<br>#19 GHG reduction and sequestration<br>#20 Climate adaptation and resilience<br>#21 Wellbeing derived from place attachments<br>#22 Responsible recreation and stewardship<br>#23 Transparent and inclusive governance<br>#24 Cultural practices<br>#26 Human health</p></td>
+            <td><p>Workshop will focus on identifying actions related to marine shorelines, floodplains and estuaries, submerged aquatic vegetation, smart development and protecting intact habitats, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship, cultural practices, and wellbeing derived from place attachments.</p></td>
+			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality<br>Shoreline Armoring</p></td>
             <td><p>Nov. 4</p></td>
 			  <td><p>Dec. 2</p></td>
           </tr>
