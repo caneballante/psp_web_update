@@ -91,10 +91,10 @@ navSelected = 4;
           <tr>
             <th width="10%" scope="col" class="blue-fill white"><p>Workshop</p></th>
             <th width="10%" scope="col" class="blue-fill white"><p>Title</p></th>
-            <th width="30%" scope="col" class="blue-fill white"><p>Topics included in the workshop</p></th>
+            <th width="40%" scope="col" class="blue-fill white"><p>Topics included in the workshop</p></th>
 			<th width="30%" scope="col" class="blue-fill white"><p>Associated Implementation Strategy</p></th> 
-            <th width="10%" scope="col" class="blue-fill white"><p>Mtg 1</p></th>
-			<th width="10%" scope="col" class="blue-fill white"><p>Mtg 2</p></th>
+            <th width="5%" scope="col" class="blue-fill white"><p>Mtg 1</p></th>
+			<th width="5%" scope="col" class="blue-fill white"><p>Mtg 2</p></th>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>A</p></td>
@@ -108,8 +108,9 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
           <tr>
             <td class="light-blue-fill white"><p>B</p></td>
             <td><p><strong>Working lands</strong></p></td>
-			  <td><p>#2 Ag lands and working forests<br>#5 Floodplains and estuaries<br>#9 Cumulative water pollution<br>#12 Non-point source pollutants<br>#18 Awareness of changing climate<br>#19 GHG reduction and sequestration<br>#20 Climate adaptation and resilience<br>#23 Transparent and inclusive governance<br>#24 Cultural practices<br>#25 Natural resource industries<br>#26 Human health</p> 
-</td>
+			  <td><p>Workshop will focus on identifying actions related to long-term viability and sustainability of agricultural lands and working forests to reduce conversion pressure, protecting and restoring floodplains and estuaries, cumulative water pollution and non-point source pollutants, addressing and preparing for climate change, and human wellbeing strategies such as cultural practices and natural resource industries.</p></td>
+			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality<br>Shellfish
+</p></td>
             <td><p>Nov. 3</p></td>
 			  <td><p>Dec. 1</p></td>
           </tr>
