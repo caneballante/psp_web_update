@@ -148,12 +148,12 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
           </tr>
         </tbody>
         </table>
-			<p>Each workshop will feature an integrated discussion that covers a range of related <a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="_blank">approved Action Agenda strategies</a>. All workshops will consider institutional strategies such as funding, leadership, research, and education. During the workshops, facilitators will ask participants to identify actions that will best to achieve intended near-term results and overcome key barriers for strategies as well as achieve desired outcomes. Participants will receive background materials in advance of each workshop in order to prepare for the discussions. Participation in the workshops is highly encouraged and will provide an opportunity from partners from across the recovery come together to co-generate actions to advance Puget Sound recovery. Following the public workshops, results will be synthesized into proposed actions for board review and adoption in early 2022. </p>
+			<p>Each workshop will feature an integrated discussion that covers a range of related <a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="_blank">approved Action Agenda strategies</a>. All workshops will consider institutional strategies such as funding, leadership, research, and education. During the workshops, facilitators will ask participants to identify actions that will best to achieve intended near-term results and overcome key barriers for strategies as well as achieve desired outcomes. Participants will receive background materials in advance of each workshop in order to prepare for the discussions. Participation in the workshops is highly encouraged and will provide an opportunity for partners from across the recovery come together to co-generate actions to advance Puget Sound recovery. Following the public workshops, results will be synthesized into proposed actions for board review and adoption in early 2022. </p>
 			
 		<H2>How can you participate?</H2>
 		<p>Members of the recovery community will have two main ways to participate in phase 4:</p>
 			<ol>
-			<li>Join a public workshop on action identification in November and early December. </li>
+			<li>Join a public workshop on action identification in November and early December <a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">by registering here</a>. </li>
 				<li>Join one of the Partnership's regularly scheduled board meetings and provide public comments (see the <a href="https://psp.wa.gov/partnership-boards-overview.php">Puget Sound Partnership Board’s webpage for more information).</a></li>
 			</ol>
 			<h2>How will the actions be used?</h2>
