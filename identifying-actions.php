@@ -91,10 +91,10 @@ navSelected = 4;
           <tr>
             <th width="10%" scope="col" class="blue-fill white"><p>Workshop</p></th>
             <th width="10%" scope="col" class="blue-fill white"><p>Title</p></th>
-            <th width="40%" scope="col" class="blue-fill white"><p>Topics included in the workshop</p></th>
+            <th width="30%" scope="col" class="blue-fill white"><p>Topics included in the workshop</p></th>
 			<th width="30%" scope="col" class="blue-fill white"><p>Associated Implementation Strategy</p></th> 
-            <th width="5%" scope="col" class="blue-fill white"><p>Mtg 1</p></th>
-			<th width="5%" scope="col" class="blue-fill white"><p>Mtg 2</p></th>
+            <th width="10%" scope="col" class="blue-fill white"><p>Mtg 1</p></th>
+			<th width="10%" scope="col" class="blue-fill white"><p>Mtg 2</p></th>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>A</p></td>
