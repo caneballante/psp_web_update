@@ -111,8 +111,8 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li>
 					<p>Denise Ross<br>
-						HR Liaison<br />
-						Office 360.464.1233 <br>
+						Human Resources Manager<br />
+						Office 360.819.0208 <br>
 						<a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p>
 				</li>
 				<!-- InstanceEndEditable -->
