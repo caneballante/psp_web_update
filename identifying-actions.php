@@ -73,13 +73,8 @@ navSelected = 4;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox margin-0-top margin-20-bottom"><p>Participate in the co-generation of actions to advance Puget Sound recovery: <a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Register for a public workshop</a>.</p></div>
 			
-			<h2>Overall vision, scope, and timeline for the 2022-2026 Action Agenda update</h2>
-
-<p>The 2022-2026 Action Agenda will be an update to the Puget Sound recovery plan for protected habitat, thriving species, and healthy people. The purpose of the 2022-2026 Action Agenda is to concentrate our efforts, energy, and investments on key transformational changes that will enable us to collectively advance progress toward the statutory goals and Vital Signs that guide Puget Sound recovery. In June 2020, the Leadership Council adopted a concept and schedule for updating the 2022-2026 Action Agenda. The approved schedule includes multiple phases of work.</p><br>
-			<img class="img-responsive" src="https://pspwa.box.com/shared/static/uoeewhy6v4831exjd3uufd86pv21dszy.png" width="1491" height="421" alt=""/>
-
-<br><p>Phase 2 focused on identifying science-informed <a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank">desired recovery outcomes</a> that describe what we intend to accomplish to advance Puget Sound recovery. Phase 3 focused on identifying the strategies necessary to make progress toward the Action Agenda desired outcomes, the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Puget Sound Vital Signs</a>, and <a href="https://psp.wa.gov/puget-sound-recovery.php">statutory goals</a>. In phase 4—the second to last phase of the 2022-2026 Action Agenda update process—we will identify the actions to advance strategies.</p>
-			
+			<p><a href="https://pspwa.box.com/s/fc26iotzcxfmsf918dv7w39dr55xrwyd" target="_blank">Idenfiying Actions for Puget Sound recovery fact sheet.</a></p>
+						
 			<h2>Actions describe the activities that are a shared focus for implementing strategies </h2>
 			<p>For the purposes of the 2022-2026 Action Agenda update, an action describes the activities that will be a shared focus for implementing each strategy from 2022-2026. This could include restoration and acquisition; program development, improvement, or implementation; education; outreach; research; legislative or policy improvements; or other types of activities. Actions are intended to guide partner implementation and innovation and will inform the focus of public and private funding and implementation support by the boards and regional partners. </p>
 			
@@ -157,6 +152,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			<ol>
 			<li>Join a public workshop on action identification in November and early December <a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">by registering here</a>. </li>
 				<li>Join one of the Partnership's regularly scheduled board meetings and provide public comments (see the <a href="https://psp.wa.gov/partnership-boards-overview.php">Puget Sound Partnership Board’s webpage for more information).</a></li>
+				<li>Provide your feedback on workshop materials via email (workshop materials will be posted at the top of this page when available, and partners who are not able to attend a workshop but are interested in providing feedback may send feedback to <a href="mailto:action.agenda@psp.wa.gov">action.agenda@psp.wa.gov</a> with the phrase “Action Agenda Feedback” in the subject line).</li>
 			</ol>
 			<h2>How will the actions be used?</h2>
 			<p>Actions are intended to guide partner implementation and innovation and will inform the focus of public and private funding and implementation support by the boards and regional partners.</p>
