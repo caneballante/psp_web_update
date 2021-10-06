@@ -71,6 +71,8 @@ navSelected = 4;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<div class="highlightbox margin-0-top margin-20-bottom"><p>Participate in the co-generation of actions to advance Puget Sound recovery: <a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Register for a public workshop</a>.</p></div>
+			
 			<h2>Overall vision, scope, and timeline for the 2022-2026 Action Agenda update</h2>
 
 <p>The 2022-2026 Action Agenda will be an update to the Puget Sound recovery plan for protected habitat, thriving species, and healthy people. The purpose of the 2022-2026 Action Agenda is to concentrate our efforts, energy, and investments on key transformational changes that will enable us to collectively advance progress toward the statutory goals and Vital Signs that guide Puget Sound recovery. In June 2020, the Leadership Council adopted a concept and schedule for updating the 2022-2026 Action Agenda. The approved schedule includes multiple phases of work.</p><br>
