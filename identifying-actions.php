@@ -71,9 +71,10 @@ navSelected = 4;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><p>Participate in the co-generation of actions to advance Puget Sound recovery: <a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Register for a public workshop</a>.</p></div>
+			<div class="highlightbox margin-0-top margin-20-bottom"><p>Participate in the co-generation of actions to advance Puget Sound recovery: <a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Register for a public workshop</a>.</p>
+			<center><p><a href="https://pspwa.box.com/s/fc26iotzcxfmsf918dv7w39dr55xrwyd" target="_blank"><strong>Idenfiying Actions for Puget Sound recovery fact sheet.</strong></a></p></center></div>
 			
-			<p><a href="https://pspwa.box.com/s/fc26iotzcxfmsf918dv7w39dr55xrwyd" target="_blank">Idenfiying Actions for Puget Sound recovery fact sheet.</a></p>
+			
 						
 			<h2>Actions describe the activities that are a shared focus for implementing strategies </h2>
 			<p>For the purposes of the 2022-2026 Action Agenda update, an action describes the activities that will be a shared focus for implementing each strategy from 2022-2026. This could include restoration and acquisition; program development, improvement, or implementation; education; outreach; research; legislative or policy improvements; or other types of activities. Actions are intended to guide partner implementation and innovation and will inform the focus of public and private funding and implementation support by the boards and regional partners. </p>
