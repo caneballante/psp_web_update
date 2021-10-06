@@ -71,7 +71,7 @@ navSelected = 4;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><center><p>Participate in the co-generation of actions to advance Puget Sound recovery: <a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Register for a public workshop</a>.</p>
+			<div class="highlightbox margin-0-top margin-20-bottom"><center><p><strong>Participate in the co-generation of actions to advance Puget Sound recovery:<a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Register for a public workshop</a>.</strong></p>
 			<p><a href="https://pspwa.box.com/s/fc26iotzcxfmsf918dv7w39dr55xrwyd" target="_blank"><strong>Idenfiying Actions for Puget Sound recovery fact sheet.</strong></a></p></center></div>
 			
 			
