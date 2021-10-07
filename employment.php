@@ -72,8 +72,9 @@
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
 					
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3263092/executive-assistant-exempt" target="_blank">Executive Assistant</a></p>
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3232350/tribal-liaison-exempt" target="_blank">Tribal Liaison</a></p>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3242044/ecosystem-recovery-manager-exempt" target="_blank">Ecosystem Recovery Manager</a></p>
+			
 			
 			
 			
@@ -93,7 +94,7 @@
 		
 	
 	<p></p>
-			<p class="last-update">Last updated: 10/05/21</p>
+			<p class="last-update">Last updated: 10/07/21</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
