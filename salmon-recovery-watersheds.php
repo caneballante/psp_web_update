@@ -143,7 +143,7 @@
 					<td>Puyallup/White &amp; Chambers/Clover </td>
 					<td>Lisa Spurrier, Pierce County</td>
 					<td>253-798-6158</td>
-					<td><a class="small-links" href="mailto:lspurri@co.pierce.wa.us">lspurri@co.pierce.wa.us</a></td>
+					<td><a class="small-links" href="mailto:lisa.spurrier@piercecountywa.gov">lisa.spurrier@piercecountywa.gov</a></td>
 					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/PUYALLUP_WHITE_AND_CHAMBERS_CLOVER.zip">2005 PuyallupWhite Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
