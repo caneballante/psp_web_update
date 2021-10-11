@@ -87,7 +87,7 @@
 					<td>Jason Mulvihill-Kuntz, King County</td>
 					<td>206-477-4780</td>
 					<td><a class="small-links" href="mailto:jason.mulvihill-kuntz@kingcounty.gov">jason.mulvihill-kuntz@kingcounty.gov</a></td>
-					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/LAKE_WASHINGTON_CEDAR_SAMMAMMISH.zip">2005 WRIA 8 Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/709q96jd1vhoacxdg40mfoibino1h15q">2005 WRIA 8 Chapter</a></td>
 					<td><a href="http://www.govlink.org/watersheds/8/reports/chinook-plan-update.aspx">2017 WRIA 8 Chapter</a></td>
 				</tr>
 				<tr>
