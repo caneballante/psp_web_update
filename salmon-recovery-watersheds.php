@@ -92,9 +92,9 @@
 				</tr>
 				<tr>
 					<td>Green/Duwamish </td>
-					<td>TBD </td>
-					<td></td>
-					<td></td>
+					<td>Suzanna Smith, King County</td>
+					<td>206-477-4641</td>
+					<td><a href="mailto:susmith@kingcounty.gov">susmith@kingcounty.gov</a></td>
 					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/GREEN_DUWAMISH.zip">2005 WRIA 9 Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
