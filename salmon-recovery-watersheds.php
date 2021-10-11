@@ -193,9 +193,9 @@
 				</tr>
 				<tr>
 					<td>West Sound/East Kitsap</td>
-					<td>Kathy Peters and Kirvie Mesebeluu-Yobech, Kitsap County</td>
-					<td>Kathy 360-337-4679; Kirvie 360-337-5777</td>
-					<td> <a href="mailto:kpeters@co.kitsap.wa.us">kpeters@co.kitsap.wa.us; kyobech@co.kitsap.wa.us</a><a class="small-links" href="mberejikian@co.kitsap.wa.us" target="_blank"></a></td>
+					<td>Kathy Peters, Kitsap County</td>
+					<td>Kathy 360-337-4679</td>
+					<td> <a href="mailto:kpeters@co.kitsap.wa.us">kpeters@co.kitsap.wa.us</a><a class="small-links" href="mberejikian@co.kitsap.wa.us" target="_blank"></a></td>
 					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/EAST_KITSAP_WEST_SOUND.zip">2005 West Sound Chapter</a></td>
 					<td><p><a href="http://westsoundwatersheds.org/default.aspx?ID=2">2020 East Kitsap DIP Steelhead Recovery Plan</a></p></td>
 					<td>&nbsp;</td>
