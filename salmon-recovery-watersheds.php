@@ -111,7 +111,7 @@
 					<td>Dawn Pucci, Island County</td>
 					<td>360-678-7916</td>
 					<td><a class="small-links"href="mailto:d.pucci@co.island.wa.us">d.pucci@co.island.wa.us</a></td>
-					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/ISLAND.zip">2005 Island Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/uzowoayni4j5fbn17xocponi2i5tovfi">2005 Island Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				
@@ -120,7 +120,7 @@
 					<td>Ashley Von Essen, Nisqually Indian Tribe</td>
 					<td>360-456-5221</td>
 					<td><a class="small-links" href="mailto:vonessen.ashley@nisqually-nsn.gov">vonessen.ashley@nisqually-nsn.gov</a></td>
-					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/NISQUALLY.zip">2005 Nisqually Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/eye2isb6so1ol6stetm99w9ahmee06as">2005 Nisqually Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
@@ -136,7 +136,7 @@
 					<td>Cheryl Baumann, Clallam County</td>
 					<td>360-417-2326</td>
 					<td><a class="small-links" href="mailto:cbaumann@co.clallam.wa.us">cbaumann@co.clallam.wa.us</a></td>
-					<td><a href="https://www.psp.wa.gov/shared-salmon-strategy/plan/wpas/elwha.zip">2005 Elwha Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/s9n9ujx6fanqwj6bn33psg46eri8c7ht">2005 Elwha Chapter</a></td>
 					<td><a href="https://pspwa.box.com/s/5517y6igrw2l4s7p9iglprvqj60sx2dz">2007 Dungeness Chapter</a></td>
 				</tr>
 				<tr>
@@ -144,7 +144,7 @@
 					<td>Lisa Spurrier, Pierce County</td>
 					<td>253-798-6158</td>
 					<td><a class="small-links" href="mailto:lisa.spurrier@piercecountywa.gov">lisa.spurrier@piercecountywa.gov</a></td>
-					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/PUYALLUP_WHITE_AND_CHAMBERS_CLOVER.zip">2005 PuyallupWhite Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/j5c8npetvj5eiiupe0ta0pril9h7qnbd">2005 PuyallupWhite Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
@@ -152,7 +152,7 @@
 					<td>Sam Whitridge, San Juan County</td>
 					<td>360-317-3242</td>
 					<td><a class="small-links" href="mailto:samw@sanjuanco.com">samw@sanjuanco.com</a></td>
-					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/SAN_JUAN.zip">2005 San Juan Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/ni3evr6wquj1rbugxxqjli5cx3dhalfr">2005 San Juan Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
@@ -160,7 +160,7 @@
 					<td>Richard Brocksmith, Skagit Watershed Council </td>
 					<td>360-826-2164</td>
 					<td><a class="small-links" href="mailto:rbrocksmith@skagitwatershed.org" target="_blank">rbrocksmith@skagitwatershed.org</a></td>
-					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/SKAGIT.zip">2005 Skagit Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/nkozi1aav9l6jadot39sq9qy55mjdp5s">2005 Skagit Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
@@ -179,7 +179,7 @@
 					<td>Amy Hatch-Winecka, Thurston Regional Planning Council; Steve Hegarty, Mason County Conservation District</td>
 					<td>Amy: 360-956-7575; Steve: 360-427-9436 x130</td>
 					<td><a class="small-links" href="mailto:hwamy@trpc.org">hwamy@trpc.org</a><br /><a class="small-links" href="mailto:SHagerty@masoncd.org">SHagerty@masoncd.org</a></td>
-					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/SOUTHSOUND.zip">2005 So Sound Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/4yprwhr9ascqdou81awy351ptwformly">2005 So Sound Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
@@ -196,7 +196,7 @@
 					<td>Kathy Peters, Kitsap County</td>
 					<td>Kathy 360-337-4679</td>
 					<td> <a href="mailto:kpeters@co.kitsap.wa.us">kpeters@co.kitsap.wa.us</a></td>
-					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/EAST_KITSAP_WEST_SOUND.zip">2005 West Sound Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/z07t2utgtq07o9aknfq4ldj0t4bjedoo">2005 West Sound Chapter</a></td>
 					<td><p><a href="https://westsoundpartners.org/recovery-plans-and-strategies/">2020 East Kitsap DIP Steelhead Recovery Plan</a></p></td>
 					<td>&nbsp;</td>
 				</tr>
