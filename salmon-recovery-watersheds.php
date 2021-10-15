@@ -128,7 +128,7 @@
 					<td>Becky Peterson, contractor</td>
 					<td>360-392-1301         </td>
 					<td><a class="small-links" href="mailto:genevaconsulting@comcast.net" target="_blank">genevaconsulting@comcast.net</a> </td>
-					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/NOOKSACK.zip">2005 Nooksack Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/2xg0kdu9lopve9uxfd28xl4pze8ecg40">2005 Nooksack Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
