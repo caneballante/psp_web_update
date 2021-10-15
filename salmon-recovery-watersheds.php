@@ -171,7 +171,7 @@
 						<br /></td>
 					<td><a class="small-links" href="mailto:gretchen.glaub@snoco.org">gretchen.glaub@snoco.org</a>
 						&nbsp;</td>
-					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/SNOHOMISH.zip">2005 Snohomish Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/7gt6aovn963pn7tab0tt1htlp2n9cia9">2005 Snohomish Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
