@@ -72,7 +72,7 @@ navSelected = 4;
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox margin-0-top margin-20-bottom"><center><p><strong>Participate in the co-generation of actions to advance Puget Sound recovery:<br><a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Register for a public workshop</a>.</strong>
-			<br><a href="https://pspwa.box.com/s/z7ojsa26olkf5vczl6qshcrl20kfj7rn" target="_blank"><strong>Identifying Actions for Puget Sound recovery fact sheet.</strong></a><br><a href="https://pspwa.box.com/s/u3xcc1q9tzyad1zcw67dfx8409u0mz5v" target="_blank">Workshop overview and detailed topic list.</a>
+			<br><a href="https://pspwa.box.com/s/z7ojsa26olkf5vczl6qshcrl20kfj7rn" target="_blank"><strong>Identifying Actions for Puget Sound recovery fact sheet.</strong></a><br><a href="https://pspwa.box.com/s/u3xcc1q9tzyad1zcw67dfx8409u0mz5v" target="_blank"><strong>Workshop overview and detailed topic list.</strong></a>
 				
 				</center></div>
 			
@@ -85,6 +85,9 @@ navSelected = 4;
 			<p>The phase 4 process is designed to promote co-generation of Action Agenda actions that will implement strategies. Actions will be identified through public workshops and will utilize <a href="https://psp.wa.gov/implementation-strategies.php">Implementation Strategies</a> and other existing plans<sup>1</sup>  – as well as approved desired outcomes and approved strategies – as a starting point for discussion. Public workshops will take place between early November and early December. Each workshop will be approximately two to three hours in length and will be held virtually: </p>
 			
 			<div class="highlightbox margin-0-top margin-0-bottom"><p><sup>1</sup><a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organization (LIO) plans</a>, <a href="https://nwtreatytribes.org/habitatstrategy/" target="_blank">tribal priorities</a>, <a href="https://psp.wa.gov/salmon-recovery-overview.php">salmon recovery plans</a>, and <a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-orca-recovery/task-force" target="_blank">the Orca Task Force recommendations</a> also provide important activities and policy recommendations for the Action Agenda and reveal areas of shared focus where actions will advance multiple aspects of recovery. These plans are all created through science-informed and collaborative processes that capture the expertise and most recent thinking of individuals from around the region. Through the process of reviewing and providing feedback on the initial draft list of actions via public workshops, partner and board meetings, recovery partners will have the opportunity to identify additional actions that are needed implement strategies. </p></div><br>
+			
+			<h3>Workshop Schedule</h3>
+			<p>Each workshop will focus on several high-level draft actions and will feature an integrated discussion that covers a range of related approved <a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="_blank">Action Agenda strategies.</a></p>
 
 		<table class="table" width="774" border="2">
         <tbody>
@@ -117,7 +120,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
           <tr>
             <td class="light-blue-fill white"><p>C</p></td>
             <td><p><strong>Marine habitat protection and restoration</strong></p></td>
-            <td><p>Workshop will focus on identifying actions related to marine shorelines, floodplains and estuaries, submerged aquatic vegetation, smart development and protecting intact habitats, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship, cultural practices, and wellbeing derived from place attachments.</p></td>
+            <td><p>Workshop will focus on identifying actions related to marine shorelines, submerged aquatic vegetation, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship, cultural practices, and wellbeing derived from place attachments.</p></td>
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality<br>Shoreline Armoring</p></td>
             <td><p>Nov. 4</p></td>
 			  <td><p>Dec. 2</p></td>
@@ -125,7 +128,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
           <tr>
             <td class="light-blue-fill white"><p>D</p></td>
             <td><p><strong>Freshwater habitat protection and restoration</strong></p></td>
-            <td><p>Workshop will focus on identifying actions related to riparian areas, floodplains and estuaries, fish passage, freshwater availability, working lands, smart development, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship, cultural practices, and wellbeing derived from place attachments.</p></td>
+            <td><p>Workshop will focus on identifying actions related to riparian areas, floodplains and estuaries, fish passage, freshwater availability, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship, cultural practices, and wellbeing derived from place attachments.</p></td>
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality</p></td>
            <td><p>Nov. 5</p></td>
 			  <td><p>Dec. 3</p></td>
@@ -142,13 +145,13 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td class="light-blue-fill white"><p>F</p></td>
             <td><p><strong>Food webs and human activities</strong></p></td>
             <td><p>Workshop will focus on identifying actions related to invasive species, oil spills, best practices by boaters, aquatic vegetation, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship.</p></td>
-			  <td><p>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Shellfish</p></td>
+			  <td><p>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Shellfish<br>Orca Task Force recommendations</p></td>
 <td><p>Nov. 10</p></td>
 			  <td><p>Dec. 8</p></td>
           </tr>
         </tbody>
         </table>
-			<p>Each workshop will feature an integrated discussion that covers a range of related <a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="_blank">approved Action Agenda strategies</a>. All workshops will consider institutional strategies such as funding, leadership, research, and education. During the workshops, facilitators will ask participants to identify actions that will best to achieve intended near-term results and overcome key barriers for strategies as well as achieve desired outcomes. Participants will receive background materials in advance of each workshop in order to prepare for the discussions. Participation in the workshops is highly encouraged and will provide an opportunity for partners from across the recovery come together to co-generate actions to advance Puget Sound recovery. Following the public workshops, results will be synthesized into proposed actions for board review and adoption in early 2022. </p>
+			
 			
 		<H2>How can you participate?</H2>
 		<p>Members of the recovery community will have two main ways to participate in phase 4:</p>
