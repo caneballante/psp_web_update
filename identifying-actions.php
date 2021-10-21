@@ -72,7 +72,7 @@ navSelected = 4;
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox margin-0-top margin-20-bottom"><center><p><strong>Participate in the co-generation of actions to advance Puget Sound recovery:<br><a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Register for a public workshop</a>.</strong>
-			<br><a href="https://pspwa.box.com/s/jqlp2tvk1z8tc5m4f07nv0iqbejfkrjj" target="_blank"><strong>Identifying Actions for Puget Sound recovery fact sheet.</strong></a><br><a href="https://pspwa.box.com/s/u3xcc1q9tzyad1zcw67dfx8409u0mz5v" target="_blank"><strong>Workshop overview and detailed topic list.</strong></a>
+			<br><a href="https://pspwa.box.com/s/jqlp2tvk1z8tc5m4f07nv0iqbejfkrjj" target="_blank"><strong>Identifying Actions for Puget Sound recovery fact sheet.</strong></a><br><a href="https://pspwa.box.com/s/u3xcc1q9tzyad1zcw67dfx8409u0mz5v" target="_blank"><strong>Meeting 1 (workshops A-F) overview and detailed topic list</strong></a>
 				
 				</center></div>
 			
