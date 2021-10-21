@@ -99,9 +99,9 @@ navSelected = 4;
             <th width="10%" scope="col" class="blue-fill white"><p>Workshop</p></th>
             <th width="16%" scope="col" class="blue-fill white"><p>Title</p></th>
             <th width="30%" scope="col" class="blue-fill white"><p>Topics included in the workshop</p></th>
-			<th width="30%" scope="col" class="blue-fill white"><p>Associated Implementation Strategy</p></th> 
-            <th width="7%" scope="col" class="blue-fill white"><p>Mtg 1</p></th>
-			<th width="7%" scope="col" class="blue-fill white"><p>Mtg 2</p></th>
+			<th width="20%" scope="col" class="blue-fill white"><p>Associated Implementation Strategy</p></th> 
+            <th width="12%" scope="col" class="blue-fill white"><p>Mtg 1</p></th>
+			<th width="12%" scope="col" class="blue-fill white"><p>Mtg 2</p></th>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>A</p></td>
@@ -109,7 +109,7 @@ navSelected = 4;
 			  <td><p>Workshop will focus on identifying actions related to smart development, stormwater and legacy contamination, addressing and preparing for climate change, and human wellbeing strategies such as transparent and inclusive governance and human health.</p></td>
 			  <td><p>Benthic Index Of Biotic Integrity (B-IBI)<sup>2</sup><br>Land Development and Cover<br>Marine Water Quality<br>Toxics in Fish<br>
 Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for the Freshwater Quality Vital Sign</small></p></td>
-            <td><p>Nov. 2</p></td>
+            <td><p>Nov. 2</p><p><a href="https://pspwa.box.com/s/u3xcc1q9tzyad1zcw67dfx8409u0mz5v" target="_blank">Detailed topic list</a></p></td>
 			 <td><p>Nov. 30</p></td> 
           </tr>
           <tr>
@@ -118,7 +118,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <td><p>Workshop will focus on identifying actions related to long-term viability and sustainability of agricultural lands and working forests to reduce conversion pressure, protecting and restoring floodplains and estuaries, cumulative water pollution and non-point source pollutants, addressing and preparing for climate change, and human wellbeing strategies such as cultural practices and natural resource industries.</p></td>
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality<br>Shellfish
 </p></td>
-            <td><p>Nov. 3</p></td>
+            <td><p>Nov. 3</p><p><a href="https://pspwa.box.com/s/u3xcc1q9tzyad1zcw67dfx8409u0mz5v" target="_blank">Detailed topic list</a></p></td>
 			  <td><p>Dec. 1</p></td>
           </tr>
           <tr>
@@ -126,7 +126,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td><p><strong>Marine habitat protection and restoration</strong></p></td>
             <td><p>Workshop will focus on identifying actions related to marine shorelines, submerged aquatic vegetation, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship, cultural practices, and wellbeing derived from place attachments.</p></td>
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality<br>Shoreline Armoring</p></td>
-            <td><p>Nov. 4</p></td>
+            <td><p>Nov. 4</p><p><a href="https://pspwa.box.com/s/u3xcc1q9tzyad1zcw67dfx8409u0mz5v" target="_blank">Detailed topic list</a></p></td>
 			  <td><p>Dec. 2</p></td>
           </tr>
           <tr>
@@ -134,7 +134,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td><p><strong>Freshwater habitat protection and restoration</strong></p></td>
             <td><p>Workshop will focus on identifying actions related to riparian areas, floodplains and estuaries, fish passage, freshwater availability, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship, cultural practices, and wellbeing derived from place attachments.</p></td>
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality</p></td>
-           <td><p>Nov. 5</p></td>
+           <td><p>Nov. 5</p><p><a href="https://pspwa.box.com/s/u3xcc1q9tzyad1zcw67dfx8409u0mz5v" target="_blank">Detailed topic list</a></p></td>
 			  <td><p>Dec. 3</p></td>
           </tr>
           <tr>
@@ -142,7 +142,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td><p><strong>Water quality</strong></p></td>
             <td><p>Workshop will focus on identifying actions related to wastewater systems, toxic chemicals, cumulative water pollution, stormwater and legacy contamination, addressing and preparing for climate change, and human wellbeing strategies such as human health.</p></td>
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Marine Water Quality<br>Shellfish<br>Toxics in Fish</p></td>
-			  <td><p>Nov. 9</p></td>
+			  <td><p>Nov. 9</p><p><a href="https://pspwa.box.com/s/u3xcc1q9tzyad1zcw67dfx8409u0mz5v" target="_blank">Detailed topic list</a></p></td>
 			  <td><p>Dec. 7</p></td>
           </tr>
           <tr>
@@ -150,7 +150,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td><p><strong>Food webs and human activities</strong></p></td>
             <td><p>Workshop will focus on identifying actions related to invasive species, oil spills, best practices by boaters, aquatic vegetation, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship.</p></td>
 			  <td><p>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Shellfish<br>Orca Task Force recommendations</p></td>
-<td><p>Nov. 10</p></td>
+<td><p>Nov. 10</p><p><a href="https://pspwa.box.com/s/u3xcc1q9tzyad1zcw67dfx8409u0mz5v" target="_blank">Detailed topic list</a></p></td>
 			  <td><p>Dec. 8</p></td>
           </tr>
         </tbody>
