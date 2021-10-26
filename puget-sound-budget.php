@@ -75,16 +75,9 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			<p>The Puget Sound Partnership is required by proviso in the 2019–21 state operating budget to develop a prioritized list of state agency 2021-2023 capital and operating budget requests related to Puget Sound recovery. The Partnership has been asked to develop a prioritized list for the 2022 Supplemental budget as well. The Partnership delivered the list to the Office of Financial Management on October 19th.</p>
-			<p><strong>The Partnership supports:</strong></p>
-			<ul>
-				<li>Legislation and investments to implement the Action Agenda, the regional plan to restore the health of Puget Sound.</li>
-				<li>Policies, strategies, and investments that recognize and support Tribal Treaty rights.</li>
-				<li>Policies, strategies, and investments that support a coordinated investment strategy—advancing Puget Sound recovery while also fostering job creation, public health, safety, and the wellbeing of current and future generations.</li>
-				<li>Authority and resources for the Partnership to support and enable programs and projects led by other agencies that help implement the Action Agenda, with an emphasis on increasing the implementation of high-priority regional actions and evaluation and measurement of outcomes and the effectiveness of recovery efforts.</li>
-				<li>Incentives and market-based mechanisms to help landowners, businesses, and residents advance regional Puget Sound recovery goals through local actions. </li>
-				<li>Policies and strategies that account for environmental externalities, recognizing the importance of allocating and understanding full and true costs and impacts of available alternatives when making policy choices.</li>
-			</ul>
-			<h2 class="margin-0-top">&nbsp;</h2>
+			
+			<div><IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=3008bcaa5ce34978bf53c850ec7cb65c"></IFRAME></div>
+			
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
