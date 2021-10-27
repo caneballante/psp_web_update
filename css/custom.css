@@ -58,7 +58,7 @@ a[href^="http"] {
 }
 .bold-link a {
 	color: #00A4F6;
-	font-size: 13px;
+	font-size: 1.3em;
 	font-weight: 900;
 }
 .san-serif-link a {
@@ -120,7 +120,7 @@ h3 {
 	line-height: 1.5em;
 }
 p {
-	font-size: 15px;
+	font-size: 1.3em;
 	line-height: 1.9;
 	font-family: georgia, times, serif;
 }
@@ -139,7 +139,7 @@ p {
 }
 /* ul, ol, and a styles nested in "content-column" to keep them seperate from all the navigation styles */
 .content-column ul, ol {
-	font-size: 15px;
+	font-size: 1em;
 	line-height: 1.8;
 	font-family: georgia, times, serif;
 }
@@ -147,7 +147,7 @@ p {
 	padding: 0 0 10px 0;
 }
 .content-column a {
-	font-size: 15px;
+	font-size: 1em;
 	line-height: 1.8;
 	font-family: georgia, times, serif;
 }
