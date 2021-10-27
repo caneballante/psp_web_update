@@ -66,8 +66,6 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
-			<p>coming soon</p>
-<!--DELETE THIS LINE***************************
 
 <span class="floatright padding-20-left no-icon">
 <p><a href="https://pspwa.box.com/shared/static/u6q5ew70y5qx8vx2qjaa4uijmtwfhebt.pdf" target="new"><img src="images/ps-marine-waters-report-2020.jpg" width="300" height="225" alt=""/></a> <br>
@@ -80,7 +78,6 @@
 
 <p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
 
-DELETE THIS LINE******************************-->
 			
 			
 	  <!-- InstanceEndEditable --> </div>
