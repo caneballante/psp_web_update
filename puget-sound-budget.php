@@ -76,6 +76,7 @@
 			
 			<p>The Puget Sound Partnership is required by proviso in the 2019–21 state operating budget to develop a prioritized list of state agency 2021-2023 capital and operating budget requests related to Puget Sound recovery. The Partnership has been asked to develop a prioritized list for the 2022 Supplemental budget as well. The Partnership delivered the list to the Office of Financial Management on October 19th.</p><br>
 			
+			
 			<div><IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=3008bcaa5ce34978bf53c850ec7cb65c"></IFRAME></div>
 			
 			<!-- InstanceEndEditable --> </div>
