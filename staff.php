@@ -75,9 +75,6 @@
 						<h5>Todd Hass</h5>
 						<p> Special Assistant to the Director<br />
 							360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br /></p>
-
-						<h5>VACANT</h5>
-						<p> Executive Assistant<br /></p>
 	
 						<h5>Melissa Schutten</h5>
 						<p>Equity and Environmental Justice Manager<br />
@@ -259,6 +256,8 @@
 						<p>Administrative Assistant<br />
 							360.867.8647 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
 						</p>
+						<h5>VACANT</h5>
+						<p> Executive Assistant<br /></p>
 						<!--EPA PROGRAM-->
 						<h3 class="padding-10-top">EPA PROGRAM</h3>
 						<h5>Jennifer Grimm</h5>
