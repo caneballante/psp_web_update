@@ -70,13 +70,13 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-lg-4">
-					<h3 class="margin-0-top">PUGET SOUND MARINE WATERS 2019 OVERVIEW</h3> 
-					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/waqlmtgc5je0kd7ag21mmfo92iv6r6y5.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2019.jpg" width="214" height="160" alt=""/></a> 
-	 	 		    <p class="padding-10-left"><a href="https://pspwa.box.com/shared/static/waqlmtgc5je0kd7ag21mmfo92iv6r6y5.pdf">Click to download</a><br>
-					<a href="https://pspwa.box.com/shared/static/waqlmtgc5je0kd7ag21mmfo92iv6r6y5.pdf" target="new">Puget Sound Marine Waters 2019 Overview</a><br>
+					<h3 class="margin-0-top">PUGET SOUND MARINE WATERS 2020 OVERVIEW</h3> 
+					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/u6q5ew70y5qx8vx2qjaa4uijmtwfhebt.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2020.jpg" width="214" height="160" alt=""/></a> 
+	 	 		    <p class="padding-10-left"><a href="https://pspwa.box.com/shared/static/u6q5ew70y5qx8vx2qjaa4uijmtwfhebt.pdf">Click to download</a><br>
+					<a href="https://pspwa.box.com/shared/static/u6q5ew70y5qx8vx2qjaa4uijmtwfhebt.pdf" target="new">Puget Sound Marine Waters 2020 Overview</a><br>
  					</p></span>
 					<br>
-				    <p>This latest annual report details the effects of a changing climate on Puget Sound in 2019, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers. Produced by the Marine Waters PSEMP Work Group, the report reveals patterns and trends in numerous environmental parameters, including plankton, water quality, climate, and marine life. The observations in this report collectively provide both a comprehensive long-term view and current assessment of the Puget Sound marine ecosystem. </p>
+				    <p>This latest annual report shows that, despite the unusual conditions affecting the human population, environmental conditions were less anomalous. There were few extreme weather or ecological events in 2020, but overall, conditions in Puget Sound were generally warmer, sunnier, and wetter than in typical years. The report further reveals patterns and trends in numerous environmental parameters, including plankton, water quality, climate, and marine life. The observations in this report collectively provide both a comprehensive long-term view and current assessment of the Puget Sound marine ecosystem. The Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, which authored this report, has been reporting metrics related to Puget Sound recovery since 2011. </p>
 					<p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
 				</div><!--end col-->
 				<div class="col-lg-4">

@@ -114,9 +114,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt="Photo of Puget Sound shoreline with birds flying above the beach."/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2020.jpg"  alt="Cover image from the Puget Sound Marine Waters 2020 Overview"/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Participate in the co-generation of actions to advance Puget Sound recovery</a><br>
+						<a href="https://psp.wa.gov/psmarinewatersoverview.php">Puget Sound Marine Waters 2020 Overview</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -129,10 +129,10 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo."/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt="Photo of Puget Sound shoreline with birds flying above the beach."/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">Announcing apparent successful project proposals for two Puget Sound Partnership solicitations of science and monitoring projects</a><br>
-						<!--END news content BOX-->   
+						<a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Participate in the co-generation of actions to advance Puget Sound recovery</a><br>
+						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -144,9 +144,9 @@ and recovering Puget Sound</h1>
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/j16j26noaaNEWS.jpg"  alt="Photo of J16 Southern Resident orca breaching while J26 swims nearby. Photo from NOAA Fisheres West Coast. Photo credit: Katy Foster, NOAA Fisheries."/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo."/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://betterground.org/in-your-community/events/ord/" target="_blank">Orca Recovery Day is October 16, 2021</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">Announcing apparent successful project proposals for two Puget Sound Partnership solicitations of science and monitoring projects</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
