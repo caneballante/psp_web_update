@@ -8,7 +8,7 @@
 
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/custom-2021.css" rel="stylesheet" type="text/css">
+<link href="css/custom.css" rel="stylesheet" type="text/css">
 
 <!-- Font PRENTON TYPEKIT -->
 <script src="https://use.typekit.net/srt5jze.js"></script>
@@ -37,7 +37,7 @@
 					<h1 class="emsize-3 fontweight-400">2021 State of the Sound<br>
 				  </h1>
  					<div class="learn-more-box no-icon fontweight-400"><a href="https://www.stateofthesound.wa.gov">READ THE REPORT</a></div>  &nbsp;
-					<div class="learn-more-box no-icon fontweight-400"><a href="https://www.youtube.com">WATCH THE VIDEO</a></div> 
+					<div class="learn-more-box no-icon fontweight-400"><a href="https://www.youtube.com/watch?v=NPY_kF7o0oo">WATCH THE VIDEO</a></div> 
 					
 
 					
