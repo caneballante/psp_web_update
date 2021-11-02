@@ -74,12 +74,9 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-			<p>The Puget Sound Partnership is required by proviso in the 2019–21 state operating budget to develop a prioritized list of state agency 2021-2023 capital and operating budget requests related to Puget Sound recovery. The Partnership has been asked to develop a prioritized list for the 2022 Supplemental budget as well. The Partnership delivered the list to the Office of Financial Management on October 19th. In addition to the below information, the Partnership has created a <a href="https://pspwa.box.com/s/74t62zylvtfa7az77vj47wnputkboczd" target="_blank">PDF factsheet</a> of the Puget Sound Budget. In the coming months—as the Governor and legislators release their respective budget proposals—the information below will be updated to reflect the most recent information.</p>
+			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. The Partnership shares this list with the Office of Financial Management, relevant legislative committee members and staff, and our partners. As the Governor and legislators release their respective budget proposals, the Partnership updates information about the Puget Sound Budget to reflect the most recent information.</p>
 			
-			<p>Information about the Puget Sound budget is displayed in two ways below:
-<ol><li>Immediately below is an interactive graphic that shows the Puget Sound budget in a few summary figures. Each figure can be interacted with by clicking on different elements of the graphic. A user guide is coming, but for now just try it out! Try clicking on a budget type (op/cap) in the pie chart, a request in the list, or an agency in the bar graph.</li>
-<li>Scroll further down for a sortable and filterable spreadsheet. Click the filter option in the top toolbar to isolate items by budget type or agency.</li> 
-			</ol></p>
+			<p>Information about the 2022 Puget Sound Budget is available in this <a href="https://pspwa.box.com/s/74t62zylvtfa7az77vj47wnputkboczd" target="_blank">PDF factsheet</a> and in the interactive tools below.</p>
 			
 			
 			<br>
