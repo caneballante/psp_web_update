@@ -69,7 +69,15 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
+		<div class="highlightbox margin-0-top margin-20-bottom">
+			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
+				<ul>
+				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
+					<li>Check back soon for new interactive tools such as the Puget Sound Budget Viewer and Puget Sound Bill Tracker.</li>
+				</ul>
+			</div>
+			
+			<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
 			<h3 class="padding-0-top">SIGN UP TO RECEIVE LEGISLATIVE INFORMATION </h3>
 			<p>You will have the option to sign up to recieve our weekly legislative calendar and our legislative newsletter.</p>
 			<!-- input-group -->
@@ -88,13 +96,7 @@
 			<!-- /input-group --> 
 		</div>
 
-			<div class="highlightbox margin-0-top margin-20-bottom">
-			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
-				<ul>
-				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
-					<li>Check back soon for new interactive tools such as the Puget Sound Budget Viewer and Puget Sound Bill Tracker.</li>
-				</ul>
-			</div>
+			
 			
 			<h2 class="margin-0-top">2021 Legislative SESSION</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b3fb0d" target="_blank">General session info</a></p><br>
