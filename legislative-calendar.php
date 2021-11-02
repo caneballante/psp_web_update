@@ -91,8 +91,8 @@
 					<strong>Don Gourlie,</strong> <br>
 					Legislative Policy Director <br>
 					<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a><br>
-					360.688.3253</p>
-				<p><a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Click here</a> to provide feedback on the content and functionality of this page.</p>
+					360.688.3253<br><br>
+				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Click here</a> to provide feedback on the content and functionality of this page.</p>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
