@@ -78,7 +78,7 @@
 			<p>If you plan to attend a committee meeting, be sure to check the latest committee schedule before you log on/leave home. Committee schedules change frequently and are updated at <a href="https://app.leg.wa.gov/committeeschedules/" target="_blank">https://app.leg.wa.gov/committeeschedules/</a></p><br><br>
 			
 			<hr>
-			
+			<br>
 			<div><IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=9239491efe804de9bd26337a22996458"></IFRAME></div>
 			
 			<!-- InstanceEndEditable --> </div>
