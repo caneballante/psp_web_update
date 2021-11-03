@@ -75,9 +75,11 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			<p>Listed below are the legislative committee activities the Partnership will be following in the near future. Double click on any calendar item for more information, including date, time, agenda, and hyperlinks to materials and access for the meeting.</p>
-			<p>If you plan to attend a committee meeting, be sure to check the latest committee schedule before you log on/leave home. Committee schedules change frequently and are updated at <a href="https://app.leg.wa.gov/committeeschedules/" target="_blank">https://app.leg.wa.gov/committeeschedules/</a></p><br>
+			<p>If you plan to attend a committee meeting, be sure to check the latest committee schedule before you log on/leave home. Committee schedules change frequently and are updated at <a href="https://app.leg.wa.gov/committeeschedules/" target="_blank">https://app.leg.wa.gov/committeeschedules/</a></p><br><br>
 			
-			<div><IFRAME WIDTH=900 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=9239491efe804de9bd26337a22996458"></IFRAME></div>
+			<hr>
+			
+			<div><IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=9239491efe804de9bd26337a22996458"></IFRAME></div>
 			
 			<!-- InstanceEndEditable --> </div>
 		
