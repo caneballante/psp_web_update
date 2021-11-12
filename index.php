@@ -238,9 +238,9 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">OCT<br>
-			  28</div>
-				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+				<div class="newsbox-date">NOV<br>
+			  18</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
 					Online<br>
 							</a><br>
 				</div>
@@ -251,21 +251,7 @@
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
-				<!--news content -->
-				<div class="newsbox-date">NOV<br>
-			  18</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
-					Online<br>
-							</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
+					<!--news content -->
 				<div class="newsbox-date">DEC<br>
 			  9</div>
 				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
@@ -283,6 +269,20 @@
 				<div class="newsbox-date">DEC<br>
 			  16</div>
 				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
+					Online<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+			<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content -->
+				<div class="newsbox-date">JAN<br>
+			  27</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
 					Online<br>
 							</a><br>
 				</div>

@@ -73,6 +73,13 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<div class="highlightbox margin-0-top margin-20-bottom">
+			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
+				<ul>
+				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
+					<li>Check back soon for new interactive tools such as the Puget Sound Budget Viewer and Puget Sound Bill Tracker.</li>
+				</ul>
+			</div>
 			
 			<p>The Puget Sound Partnership connects and leverages the efforts of hundreds of organizations working on a shared mission to protect and restore the health of Puget Sound. We are a science-based, non-regulatory state agency bringing people together to advance this shared mission by setting goals and achieving them through actions specified in the common framework of the Puget Sound Action Agenda. During Legislative Session each year, we work to advance policy and mobilize funding to protect and restore Puget Sound. We also monitor proposed legislation to determine whether and how it might affect the health of Puget Sound, then inform decision-makers about the positive and negative effects of such legislation on Puget Sound. Between sessions, we work with legislators to help them understand the issues the ecosystem faces and how state resources are being used to address these issues. </p>
 			<p><strong>The Partnership supports:</strong></p>
@@ -97,7 +104,8 @@
 					<strong>Don Gourlie,</strong> <br>
 					Legislative Policy Director <br>
 					<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a><br>
-					360.688.3253</p>
+					360.688.3253<br><br>
+				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Click here</a> to provide feedback on the content and functionality of this page.</p>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

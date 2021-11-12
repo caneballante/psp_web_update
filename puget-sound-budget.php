@@ -25,7 +25,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
+  	navSelected = 4;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -74,19 +74,16 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-			<p>The Puget Sound Partnership is required by proviso in the 2019–21 state operating budget to develop a prioritized list of state agency 2021-2023 capital and operating budget requests related to Puget Sound recovery. The Partnership has been asked to develop a prioritized list for the 2022 Supplemental budget as well. The Partnership delivered the list to the Office of Financial Management on October 19th. In addition to the below information, the Partnership has created a <a href="https://pspwa.box.com/s/74t62zylvtfa7az77vj47wnputkboczd" target="_blank">PDF factsheet</a> of the Puget Sound Budget. In the coming months—as the Governor and legislators release their respective budget proposals—the information below will be updated to reflect the most recent information.</p>
+			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. The Partnership shares this list with the Office of Financial Management, relevant legislative committee members and staff, and our partners. As the Governor and legislators release their respective budget proposals, the Partnership updates information about the Puget Sound Budget to reflect the most recent information.</p>
 			
-			<p>Information about the Puget Sound budget is displayed in two ways below:
-<ol><li>Immediately below is an interactive graphic that shows the Puget Sound budget in a few summary figures. Each figure can be interacted with by clicking on different elements of the graphic. A user guide is coming, but for now just try it out! Try clicking on a budget type (op/cap) in the pie chart, a request in the list, or an agency in the bar graph.</li>
-<li>Scroll further down for a sortable and filterable spreadsheet. Click the filter option in the top toolbar to isolate items by budget type or agency.</li> 
-			</ol></p>
+			<p>Information about the 2022 Puget Sound Budget is available in this <a href="https://pspwa.box.com/s/74t62zylvtfa7az77vj47wnputkboczd" target="_blank">PDF factsheet</a> and in the interactive tools below.</p>
 			
 			
 			<br>
 			
 			<div><iframe width="900" height="541.25" src="https://app.powerbigov.us/reportEmbed?reportId=7f2d2142-1cb9-4a11-99b1-72f00e67b580&autoAuth=true&ctid=11d0e217-264e-400a-8ba0-57dcc127d72d&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWdvdi12aXJnaW5pYS1yZWRpcmVjdC5hbmFseXNpcy51c2dvdmNsb3VkYXBpLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe></div><br><br>
 			
-			<div><IFRAME WIDTH=900 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=3008bcaa5ce34978bf53c850ec7cb65c"></IFRAME></div>
+			<div><IFRAME WIDTH=900 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=b190fa1a7cc14c219a7abbb498f5a5f4"></IFRAME></div>
 			
 		
 			
@@ -102,7 +99,8 @@
 					<strong>Don Gourlie,</strong> <br>
 					Legislative Policy Director <br>
 					<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a><br>
-					360.688.3253</p>
+					360.688.3253<br><br>
+				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Click here</a> to provide feedback on the content and functionality of this page.</p>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
