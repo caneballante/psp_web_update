@@ -122,6 +122,14 @@ p {
 	line-height: 1.9;
 	font-family: georgia, times, serif;
 }
+td p {
+	font-size: 1.1em;
+	line-height: 1.1em;
+	font-family: georgia, times, serif;
+}
+td p a {
+	line-height: 1.1em !important;
+}
 
 .emergency {}
 .emergency p {
