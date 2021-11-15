@@ -110,7 +110,7 @@ navSelected = 4;
 			  <td><p>Benthic Index Of Biotic Integrity (B-IBI)<sup>2</sup><br>Land Development and Cover<br>Marine Water Quality<br>Toxics in Fish<br>
 Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for the Freshwater Quality Vital Sign</small></p></td>
             <td><p>Nov. 2</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
-			  <p><a href="https://pspwa.box.com/s/l4x60mopz5zmgzcvt38y3rwo2mdy1g66" target="new">Workshop A presention</a></p>
+			  <p><a href="https://pspwa.box.com/s/l4x60mopz5zmgzcvt38y3rwo2mdy1g66" target="new">Workshop A presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/eadydhy8y5x1kde1d0ehh6elipz3l8g4" target="new">Workshop A MURAL workspace</a></p></td>
 			 <td><p>Nov. 30</p></td> 
           </tr>
@@ -121,7 +121,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality<br>Shellfish
 </p></td>
             <td><p>Nov. 3</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
-			  <p><a href="https://pspwa.box.com/s/vzxlkk9bf671tkjl1h6bgwb7k6e6p8jo" target="new">Workshop B presention</a></p>
+			  <p><a href="https://pspwa.box.com/s/vzxlkk9bf671tkjl1h6bgwb7k6e6p8jo" target="new">Workshop B presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/td2mmxana5aq95ppc0413kb5v45dclg2" target="new">Workshop B MURAL workspace</a></p></td>
 			  <td><p>Dec. 1</p></td>
           </tr>
@@ -131,7 +131,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td><p>Workshop will focus on identifying actions related to marine shorelines, submerged aquatic vegetation, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship, cultural practices, and wellbeing derived from place attachments.</p></td>
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality<br>Shoreline Armoring</p></td>
             <td><p>Nov. 4</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
-			  <p><a href="https://pspwa.box.com/s/21gi4e0fzdudrt432xth1uzu0orikdej" target="new">Workshop C presention</a></p>
+			  <p><a href="https://pspwa.box.com/s/21gi4e0fzdudrt432xth1uzu0orikdej" target="new">Workshop C presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/tplam9hj72srsgkuarg2i0kicy9cn9qh" target="new">Workshop C MURAL workspace</a></p></td>
 			  <td><p>Dec. 2</p></td>
           </tr>
@@ -141,7 +141,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td><p>Workshop will focus on identifying actions related to riparian areas, floodplains and estuaries, fish passage, freshwater availability, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship, cultural practices, and wellbeing derived from place attachments.</p></td>
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality</p></td>
            <td><p>Nov. 5</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
-			   <p><a href="https://pspwa.box.com/s/acc8pbbmlg7372fn651vyzjp04tfys1o" target="new">Workshop D presention</a></p>
+			   <p><a href="https://pspwa.box.com/s/acc8pbbmlg7372fn651vyzjp04tfys1o" target="new">Workshop D presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/9bfkrshuo73k25ii8q4aal78mro96vhq" target="new">Workshop D MURAL workspace</a></p></td>
 			<td><p>Dec. 3</p></td>
           </tr>
@@ -151,7 +151,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td><p>Workshop will focus on identifying actions related to wastewater systems, toxic chemicals, cumulative water pollution, stormwater and legacy contamination, addressing and preparing for climate change, and human wellbeing strategies such as human health.</p></td>
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Marine Water Quality<br>Shellfish<br>Toxics in Fish</p></td>
 			  <td><p>Nov. 9</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
-			   <p><a href="https://pspwa.box.com/s/0sdln9lwu8uw2z2c8eqe3466v796ajlj" target="new">Workshop E presention</a></p>
+			   <p><a href="https://pspwa.box.com/s/0sdln9lwu8uw2z2c8eqe3466v796ajlj" target="new">Workshop E presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/hhxjlgux1d9xn6e3ikh9dwq1q7cn73u1" target="new">Workshop E MURAL workspace</a></p></td>
 			<td><p>Dec. 7</p></td>
           </tr>
@@ -161,7 +161,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td><p>Workshop will focus on identifying actions related to invasive species, oil spills, best practices by boaters, aquatic vegetation, addressing and preparing for climate change, and human wellbeing strategies such as responsible recreation and stewardship.</p></td>
 			  <td><p>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Shellfish<br>Orca Task Force recommendations</p></td>
 <td><p>Nov. 10</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
-			  <p><a href="https://pspwa.box.com/s/h2guu275yzd08azp75uw5j36lq1d1zvm" target="new">Workshop F presention</a></p>
+			  <p><a href="https://pspwa.box.com/s/h2guu275yzd08azp75uw5j36lq1d1zvm" target="new">Workshop F presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/ea9zhv6b4z7adrwg2asaog2jrd1ir75i" target="new">Workshop F MURAL workspace</a></p></td>
 			<td><p>Dec. 8</p></td>
           </tr>
