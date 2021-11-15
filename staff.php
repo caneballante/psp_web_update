@@ -274,9 +274,8 @@
 						<h5>Arjean Travis</h5>
 						<p> Grants, Contracts, and Compliance Manager<br />
 							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
-						<h5>Charles Messer</h5>
-						<p>Fiscal Program and Contract Coordinator<br />
-							360.701.0234 | <a href="mailto:charles.messer@psp.wa.gov">charles.messer@psp.wa.gov </a> </p>
+						<h5>VACANT</h5>
+						<p>Fiscal Program and Contract Coordinator<br /></p>
 						<h5>Phan Doan</h5>
 						<p>Fiscal Analyst<br />
 							360.742.4307 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov </a></p>
