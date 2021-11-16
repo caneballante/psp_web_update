@@ -1,6 +1,14 @@
 {
 	"news-releases": 
     {	 
+		"release110": {
+			"date": "November 16, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2fc50bf'>Puget Sound Salmon Recovery Council to finalize recommendation on 2023-2025 Puget Sound Acquisition and Restoration Large Capital request for proposals</a>"
+		},
+		"release109": {
+			"date": "November 1, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2fa2a95'>The 2021 State of the Sound report shows our collective efforts to protect and restore Puget Sound have made a difference—but we still need to do more</a>"
+		},
 		"release108": {
 			"date": "October 22, 2021",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2f8b38d'>Ecosystem Coordination Board to co-host a forum with West Sound Partners for Ecosystem Recovery</a>"
