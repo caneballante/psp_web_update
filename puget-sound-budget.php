@@ -25,7 +25,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 4;
+  	navSelected = 3;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -73,6 +73,13 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<div class="highlightbox margin-0-top margin-20-bottom">
+			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
+				<ul>
+				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
+					<li>Check back soon for new interactive tools such as the Puget Sound Bill Tracker.</li>
+				</ul>
+			</div>
 			
 			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. The Partnership shares this list with the Office of Financial Management, relevant legislative committee members and staff, and our partners. As the Governor and legislators release their respective budget proposals, the Partnership updates information about the Puget Sound Budget to reflect the most recent information.</p>
 			
@@ -81,7 +88,6 @@
 			
 			<br>
 			
-			<div><iframe width="900" height="541.25" src="https://app.powerbigov.us/reportEmbed?reportId=7f2d2142-1cb9-4a11-99b1-72f00e67b580&autoAuth=true&ctid=11d0e217-264e-400a-8ba0-57dcc127d72d&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWdvdi12aXJnaW5pYS1yZWRpcmVjdC5hbmFseXNpcy51c2dvdmNsb3VkYXBpLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe></div><br><br>
 			
 			<div><IFRAME WIDTH=900 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=b190fa1a7cc14c219a7abbb498f5a5f4"></IFRAME></div>
 			

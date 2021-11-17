@@ -25,7 +25,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this  variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 3;
+  	navSelected = 4;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -73,7 +73,8 @@
 			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
 				<ul>
 				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
-					<li>Check back soon for new interactive tools such as the Puget Sound Budget Viewer and Puget Sound Bill Tracker.</li>
+					<li><a href="https://psp.wa.gov/puget-sound-budget.php">Click here</a> to see the Puget Sound Budget, including new interactive data viewers.</li>
+					<li>Check back soon for new interactive tools such as the Puget Sound Bill Tracker.</li>
 				</ul>
 			</div>
 			
