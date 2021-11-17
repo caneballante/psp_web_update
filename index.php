@@ -96,9 +96,9 @@
 			<div class="col-sm-3 padding-20-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
-			<div class="padding-5-bottom"><a href="legislative_updates.php">2021 Legislative session</a></div>
+			<div class="padding-5-bottom"><span class="new-red">NEW</span><a href="legislative_updates.php">New tools for tracking state legislative affairs during the 2022 session</a></div>
 			<div class="padding-5-bottom"><a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a></div>	
-			<div class="padding-5-bottom"><span class="new-red">NEW</span><a href="https://pspwa.box.com/shared/static/wmdpr9w05ow7072pqym99ufwmo39akpf.pdf">Download the 2021-23 budget rankings </a></div>
+			
 			
 		</div>
 	</div>	<!-- end row -->
