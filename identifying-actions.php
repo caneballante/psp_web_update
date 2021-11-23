@@ -72,7 +72,7 @@ navSelected = 4;
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox margin-0-top margin-20-bottom"><center><p><strong>Participate in the co-generation of actions to advance Puget Sound recovery:<br><a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Register for a public workshop</a>.</strong>
-			<br><a href="https://pspwa.box.com/s/jqlp2tvk1z8tc5m4f07nv0iqbejfkrjj" target="_blank"><strong>Identifying Actions for Puget Sound recovery fact sheet.</strong></a><br><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank"><strong>Meeting 1 (workshops A-F) overview and detailed topic list.</strong></a>
+			<br><a href="https://pspwa.box.com/s/jqlp2tvk1z8tc5m4f07nv0iqbejfkrjj" target="_blank"><strong>Identifying Actions for Puget Sound recovery fact sheet.</strong></a><br><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank"><strong>Meeting 1 (workshops A-F) overview and detailed topic list.</strong></a><br><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank"><strong>Meeting 2 (workshops A-F) overview and detailed topic list.</strong></a>
 				
 				</center></div>
 			
@@ -112,7 +112,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td><p>Nov. 2</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			  <p><a href="https://pspwa.box.com/s/3gkzzipm0h5i9go25y1btnw0489nood4" target="new">Workshop A presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/4wdbxetma6mtxb5ghgv6rllf0wj1m7oa" target="new">Workshop A MURAL workspace</a></p></td>
-			 <td><p>Nov. 30</p></td> 
+			 <td><p>Nov. 30</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td> 
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>B</p></td>
@@ -123,7 +123,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td><p>Nov. 3</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			  <p><a href="https://pspwa.box.com/s/h6czutpe1zgl1dqyqr3pp033h31ns2wn" target="new">Workshop B presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/9obqtb47g5cr5tw8c9kaj0ji6662tfbq" target="new">Workshop B MURAL workspace</a></p></td>
-			  <td><p>Dec. 1</p></td>
+			  <td><p>Dec. 1</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>C</p></td>
@@ -133,7 +133,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
             <td><p>Nov. 4</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			  <p><a href="https://pspwa.box.com/s/iueyca6lyaomzcxcpo1yix9rm2v04r0g" target="new">Workshop C presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/f804rxabtcjtq9szgyb9ss4p6kooaz9t" target="new">Workshop C MURAL workspace</a></p></td>
-			  <td><p>Dec. 2</p></td>
+			  <td><p>Dec. 2</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>D</p></td>
@@ -143,7 +143,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
            <td><p>Nov. 5</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			   <p><a href="https://pspwa.box.com/s/426q3mz2w8jce6sb8ml1zl29l8ae1t9y" target="new">Workshop D presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/eq0o5n7go1k2b1hbtpefu2g0gqykjyit" target="new">Workshop D MURAL workspace</a></p></td>
-			<td><p>Dec. 3</p></td>
+			<td><p>Dec. 3</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>E</p></td>
@@ -153,7 +153,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <td><p>Nov. 9</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			   <p><a href="https://pspwa.box.com/s/0i7lin4spi07hr0z78dtdnujsy4oh25l" target="new">Workshop E presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/8g1hkjzp7x8ccluk20h80i2vdqkst27s" target="new">Workshop E MURAL workspace</a></p></td>
-			<td><p>Dec. 7</p></td>
+			<td><p>Dec. 7</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>F</p></td>
@@ -163,7 +163,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 <td><p>Nov. 10</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			  <p><a href="https://pspwa.box.com/s/a1ge23yaaopcoy6dsrj0c5adowvptng9" target="new">Workshop F presentation</a></p>
 			  <p><a href="https://pspwa.box.com/s/98ugolugc2p7e8oqyu4ziup3yeol83m5" target="new">Workshop F MURAL workspace</a></p></td>
-			<td><p>Dec. 8</p></td>
+			<td><p>Dec. 8</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
         </tbody>
         </table>
