@@ -1,6 +1,10 @@
 {
 	"news-releases": 
     {	 
+		"release111": {
+			"date": "November 24, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2fdc0d0'>Governor Inslee appoints Kate Dean to the Puget Sound Partnership's Leadership Council</a>"
+		},
 		"release110": {
 			"date": "November 16, 2021",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2fc50bf'>Puget Sound Salmon Recovery Council to finalize recommendation on 2023-2025 Puget Sound Acquisition and Restoration Large Capital request for proposals</a>"
