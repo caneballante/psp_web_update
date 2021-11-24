@@ -109,7 +109,7 @@ Hall has an undergraduate degree in physics from the University of Chicago and a
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li>
-					<?php include 'includes/board_contact.html';?>
+					<?php include 'includes/LC_board_contact.html';?>
 				</li>
 					<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></li>
 					<li><a href="https://pspwa.box.com/s/87rfvgjwf6wahymd806v7lrkh0a89zjt">Puget Sound Environmental Caucus members </a></li>
