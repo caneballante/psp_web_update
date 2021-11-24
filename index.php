@@ -114,9 +114,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2020.jpg"  alt="Cover image from the Puget Sound Marine Waters 2020 Overview"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo"/> 
 					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://psp.wa.gov/psmarinewatersoverview.php">Puget Sound Marine Waters 2020 Overview</a><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2fdc0d0">Governor Inslee appoints Kate Dean to the Puget Sound Partnership's Leadership Council</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -124,6 +124,21 @@
 				
 			</div>
 		    <!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2020.jpg"  alt="Cover image from the Puget Sound Marine Waters 2020 Overview"/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://psp.wa.gov/psmarinewatersoverview.php">Puget Sound Marine Waters 2020 Overview</a><br>
+						<!--END news content BOX-->    
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -147,22 +162,7 @@
 					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo."/> 
 					<strong>ANNOUNCEMENT</strong><br>
 						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">Announcing apparent successful project proposals for two Puget Sound Partnership solicitations of science and monitoring projects</a><br>
-						<!--END news content BOX-->   
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/BillyFrankJrNews.jpg"  alt="Photo Billy Frank Jr. laughing. Photo credit: Northwest Indian Fisheries Commission."/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/remembering-billy-frank-jr-6115d04791e0" target="_blank">Remembering Billy Frank Jr.</a><br>
-						<!--END news content BOX-->     
+						<!--END news content BOX-->      
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -174,10 +174,10 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSARDashboardNews.jpg"  alt="Screenshot of the new PSAR Dashboard website"/> 
+					  <img class="img-responsive img-rounded" src="images/news-images/BillyFrankJrNews.jpg"  alt="Photo Billy Frank Jr. laughing. Photo credit: Northwest Indian Fisheries Commission."/> 
 					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/explore-the-new-dashboard-for-puget-sound-acquisition-and-restoration-projects-af9378876fe8" target="_blank">Explore the new dashboard for Puget Sound Acquisition and Restoration projects</a><br>
-						<!--END news content BOX-->         
+						<a href="https://medium.com/puget-sound-partnership/remembering-billy-frank-jr-6115d04791e0" target="_blank">Remembering Billy Frank Jr.</a><br>
+						<!--END news content BOX-->        
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -189,9 +189,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
-					<strong>LEGISLATIVE SESSION</strong><br>
-						<a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/PSARDashboardNews.jpg"  alt="Screenshot of the new PSAR Dashboard website"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/explore-the-new-dashboard-for-puget-sound-acquisition-and-restoration-projects-af9378876fe8" target="_blank">Explore the new dashboard for Puget Sound Acquisition and Restoration projects</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
@@ -204,10 +204,10 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSPSNC_news.jpg"  alt="Photo of herring swimming through eelgrass. Photo credit: Florian Graner."/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership credits will fund nearshore conservation</a><br>
-						<!--END news content BOX-->       
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-calendar.png"  alt="Photo of the Capitol building with overlaid text that says Legislative Calendar"/> 
+					<strong>LEGISLATIVE SESSION</strong><br>
+						<a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a><br>
+						<!--END news content BOX-->      
 					</div>
 					<div class="clearfix"></div>
 				</div>
