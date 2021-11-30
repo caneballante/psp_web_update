@@ -166,23 +166,25 @@
 							<em>Hood Canal and West Sound</em><br>
 							360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
 
+						<h5>VACANT</h5>
+						<p>Ecosystem Recovery Coordinator</p>
+			
 						<h5>Alexandra Doty</h5>
 						<p>Ecosystem Recovery Coordinator<br>
 							<em>South Central LIO, Lake Washington/Cedar/Sammamish (WRIA 8), Green/Duwamish (Wria 9)</em><br />
 							360.280.6664 | <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov </a></p>        
-
-						<h5>Laura (Ferguson) Rivas</h5>
-						<p>Ecosystem Recovery Coordinator<br>
-							<em>San Juan Islands and Island County</em><br />
-							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
 
 						<h5>Kristin Hayman</h5>
 						<p>Ecosystem Recovery Coordinator<br>
 							360.480.0475 | <a href="mailto:kristin.hayman@psp.wa.gov">kristin.hayman@psp.wa.gov </a></p>
 
 						<h5>Leah Kintner</h5>
-						<p>Ecosystem Recovery Manager<br>
+						<p>Ecosystem Recovery Manager (outgoing)<br>
 							360.480.2880 | <a href="mailto:leah.kintner@psp.wa.gov">leah.kintner@psp.wa.gov </a></p>
+			
+						<h5>Laura (Ferguson) Rivas</h5>
+						<p>Ecosystem Recovery Manager (incoming)<br>
+							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
 
 						<h5>Amber Moore</h5>
 						<p>Salmon Recovery Manager<br />
