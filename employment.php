@@ -72,8 +72,9 @@
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
 					
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3331840/ecosystem-recovery-coordinator-exempt" target="new">Ecosystem Recovery Coordinator</a></p>
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3325480/puget-sound-acquisition-and-restoration-psar-program-manager-exempt" target="new">Puget Sound Acquisition and Restoration (PSAR) Program Manager</a>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3315162/administrative-assistant-3" target="_blank">Administrative Assistant 3</a></p>
+			
 			
 			
 			
@@ -95,7 +96,7 @@
 		
 	
 	<p></p>
-			<p class="last-update">Last updated: 11/30/21</p>
+			<p class="last-update">Last updated: 12/3/21</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
