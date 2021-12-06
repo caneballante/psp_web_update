@@ -51,7 +51,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> Puget Sound Partnership 2021 Request for Collaborative Project Proposals: Monitoring to Accelerate Recovery</h1>
+			<h1>Monitoring to Accelerate Recovery Projects</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -72,104 +72,19 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox">
-			<h3><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">Award announcement</a></h3>
+			<h3><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">2021-2023 Award announcement</a></h3>
 			</div>
-			<h3>Funding opportunity for the 2021-2023 biennium</h3>
-			<p>The Puget Sound Partnership (Partnership) requests project proposals that address priority monitoring information needs to inform and accelerate recovery of Puget Sound.</p>
+			<h3>Monitoring to Accelerate Recovery</h3>
+			<p>The Puget Sound Partnership (Partnership) supports projects that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects support the <strong>objectives</strong> of the <a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2">Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan</a> to <strong>increase collaboration, support adaptive management, and improve communication.</strong> </p>
 			
-			<p>All projects are expected to support the <strong>objectives</strong> of the <a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2">Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan</a> to <strong>increase collaboration, support adaptive management, and improve communication.</strong> </p>
-			
-			<p>Projects should also address cross-cutting principles of <strong>integrating biophysical and social sciences, justice, equity, diversity, and inclusion (JEDI), and climate change.</strong></p>
-			
-			<p>For this 2021 opportunity, approximately <strong>$750,000</strong> will be available over a two-year period to support an estimated 8 to 20 projects in total, with individual <strong>project budgets ranging from a minimum of $30,000 to $100,000 maximum.</strong> </p>
-			
-			<p>Project leads must be affiliated with an organization, agency, or tribal government that is licensed to do business in the State of Washington.</p>
-			
-			<p><strong>Projects must address priority information needs under one or both project categories and include a detailed engagement plan.</strong>
-			<ul>
-			<li>Category 1: Monitoring, assessment, and reporting of the status and trends of Vital Sign indicators</li>
-			<li>Category 2: Synthesis and evaluation of causes behind ecosystem conditions; evaluation of cumulative effects; effectiveness assessment</li></ul></p>
+			<p>Monitoring to Accelerate Recovery projects also address cross-cutting principles of <strong>integrating biophysical and social sciences, justice, equity, diversity, and inclusion (JEDI), and climate change.</strong></p>
 		
-		<button class="button button1"><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl" target="_blank" style="color:white"><strong>Access the full solicitation here for details.</strong></a></button>
-		<br>
-		<br>
-		<table class="table" width="774" border="2">
-			<caption>
-        Timeline and important deadlines, all times are in PST
-        </caption>
-        <tbody>
-          <tr>
-            <th width="50%" scope="col"><p>Timeline</p></th>
-            <th width="50%" scope="col"><p>Date</p></th>
-          </tr>
-          <tr>
-            <td><p>Solicitation released</p></td>
-            <td><p>Wednesday, April 14, 2021</p></td>
-          </tr>
-          <tr>
-            <td><p>Information session <p><a href="https://youtu.be/ygPhxgixda8" target="_blank">Link to recording of the information session</a></p><p><a href="https://pspwa.box.com/s/6zhy0aviae64f824eyojkev16ey65rpt" target="_blank">Link to information session slides</a></p><p><a href="https://pspwa.box.com/s/k2itks2rk910gndn5tjwa0esac9rwmz8" target="_blank">Link to responses to questions</a></p></p></td>
-            <td><p>Tuesday, April 27, 2021, 12:00 p.m. - 1:00 p.m.</p></td>
-          </tr>
-          <tr>
-            <td><p>Letter of intent due</p></td>
-            <td><p>Friday, May 14, 2021, by 11:59 p.m.</p></td>
-          </tr>
-          <tr>
-            <td><p>Response to letters of intent</p></td>
-            <td><p>Tuesday, June 15, 2021, by 11:59 p.m.</p></td>
-          </tr>
-          <tr>
-            <td><p>Full proposals due</p></td>
-            <td><p>Friday, August 6, 2021, by 11:59 p.m.</p></td>
-          </tr>
-          <tr>
-            <td><p>Full proposal evaluation and selection</p></td>
-            <td><p>August 9 - September 10, 2021</p></td>
-          </tr>
-			<tr>
-			<td><p>Project scoping and contract negotiation</p></td>
-			<td><p>September 13 - October 15, 2021 (approximately)</p></td>
-			</tr>
-		<tr>
-			<td><p>Project start date</p></td>
-			<td><p>Dependent on contract negotiation</p></td>
-			</tr>
-			<tr>
-				<td><p><strong>Project end date</strong></p></td>
-			<td><p>No later than June 30, 2023, or September 30, 2023 (dependent on fund source)</p></td>
-				</tr>
-	</tbody>
-        </table>
-	<table class="table" width="774" border="2">
-			
-        <tbody>
-	<tr>
-            <th width="50%" scope="col"><p><em>Relevant dates for unsuccessful proposals:</em></p></th>
-            <th width="50%" scope="col"><p></p></th>
-          </tr>
-	<tr>
-	<td><p><em>Deadline for debrief conference request</em></p></td>
-		<td><p><em>By 3:00 p.m., September 15, 2021</em></p></td>
-	</tr>
-	<tr>
-	<td><p><em>Debrief conferences</em></p></td>
-		<td><p><em>September 20, 2021</em></p></td>
-	</tr>
-	<tr>
-	<td><p><em>Deadline for any protest notification</em></p></td>
-		<td><p><em>By 3:00 p.m., September 27, 2021</em></p></td>
-	</tr>
-        </tbody>
-        </table>
-		<br>
+		<p><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl">See 2021-2023 Monitoring to Accelerate Recovery solicitation for reference.</a></p>
 		
-		<h3>Information session</h3>
-		<p>The Partnership hosted one information session on Tuesday, April 27, 12:00 p.m. to 1:00 p.m. PST,
-to provide an overview of the solicitation process and an opportunity to ask questions. The information session was recorded and the recording is posted below. </p>
-		<p><a href="https://youtu.be/ygPhxgixda8" target="_blank">Link to the recording of the information session</a></p>
-		<p><a href="https://pspwa.box.com/s/6zhy0aviae64f824eyojkev16ey65rpt" target="_blank">Link to information session slides</a></p>
-		<p><a href="https://pspwa.box.com/s/k2itks2rk910gndn5tjwa0esac9rwmz8" target="_blank">Link to responses to questions</a></p>
+		
 		<hr>
+		<h3>Monitoring to Accelerate Recovery Projects 2021-2023</h3>
+			<p>Project descriptions and more information coming soon.</p>
 		<h3>PSEMP and Vital Signs Projects Funded in 2019-21:</h3>
 		<p>The Partnership funded the following projects using PSEMP program funding and Vital Signs reporting program funding during the 2019-21 biennium:</p>
 		<h4>PSEMP products:</h4>
@@ -187,7 +102,7 @@ to provide an overview of the solicitation process and an opportunity to ask que
 			<p>Puget Sound and the Salish Sea support hemispherically significant concentrations of shorebirds, waterfowl, and other marine bird species. Despite this importance, birds have received little attention by state and federal recovery efforts. This project develops science products that support the management needs of estuary birds, including end-user stakeholder engagement, avian-habitat suitability models, and the initiation of a regional avian monitoring framework for river delta estuaries. A monitoring framework will facilitate targeted data collection that allows for avian conservation planning and management at local and regional scales and supports integration of birds in estuary recovery efforts. This project produced an <a href="https://pspwa.box.com/v/AvHabModSummary">executive summary</a> and <a href="https://storymaps.arcgis.com/stories/3ceca87f5e544265aee6d516ee95aec9">storymap.</a></p>
 			<p>Project Lead: Amanda Summers, Stillaguamish Tribes of Indians; Trina Bayard, Audubon Washington </p></li>
 			<li><strong>Prioritization of Contaminants of Emerging Concern</strong>
-			<p>This project will identify and prioritize a suite of contaminants of emerging concern (CECs), based on biological relevance, to focus future monitoring efforts and provide the information necessary for a management response. Hundreds of CECs such as pharmaceuticals, plasticizers, pesticides, and others have been detected in Puget Sound. It is critical that we prioritize limited funding to address the chemicals of greatest concern and for future regulatory requirements. This project is still in development, but the project has developed a one-page overview regarding the process linked <a href="https://pspwa.box.com/s/dtw2o073imaqivbbqm6ikzytstuo7y7q">here</a>.</p>
+			<p>This project will identify and prioritize a suite of contaminants of emerging concern (CECs), based on biological relevance, to focus future monitoring efforts and provide the information necessary for a management response. Hundreds of CECs such as pharmaceuticals, plasticizers, pesticides, and others have been detected in Puget Sound. It is critical that we prioritize limited funding to address the chemicals of greatest concern and for future regulatory requirements. This project is still in development, but the project has developed a one-page overview regarding the process linked <a href="https://pspwa.box.com/s/dtw2o073imaqivbbqm6ikzytstuo7y7q">here</a>. <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">Video overview here</a>.</p>
 			<p>Project Leads: Andy James, University of Washington Tacoma; Ruth Sofield, Western Washington University</p></li>
 			<li><strong>Juvenile Salmonid Monitoring in Large Puget Sound Rivers</strong> <p>Juvenile salmonid monitoring is a critical component of understanding both freshwater productivity and marine survival. Juvenile monitoring is necessary to isolate the effect of freshwater habitats on productivity trends and hence understand the effectiveness of freshwater habitat restoration efforts. Along with adult abundance measures, juvenile monitoring will be used to track progress towards the Puget Sound Partnership’s Salmon Vital Sign targets. The project will identify shared trends in abundance, productivity, and life history metrics through time across multiple rivers. The project aims to demonstrate the value of an interconnected network of juvenile salmon monitoring in large Puget Sound rivers to conservation and management. The project will also derive some preliminary information from data collected across the network. The project has developed a one-page overview of the process and project linked <a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764">here</a>.</p>
 			<p>Project Leads: Joe Anderson and Peter Lisi, Washington Department of Fish and Wildlife; Dawn Pucci, Island County</p></li>
@@ -217,7 +132,7 @@ to provide an overview of the solicitation process and an opportunity to ask que
 			</li>
 		</ul>
 
-			<p class="last-update">Last updated: 04/14/21</p>
+			<p class="last-update">Last updated: 12/06/21</p>
  
 			 
 		<!-- InstanceEndEditable --> </div>
