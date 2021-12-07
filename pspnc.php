@@ -71,9 +71,6 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits Program:</h2>
-			
-			<div><IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://wa-psp.maps.arcgis.com/apps/webappviewer/index.html?id=4f2d7590db1a46d1bef2d980c1801463"></IFRAME></div>
-			
 			<p>Puget Sound’s <a href="https://www.fisheries.noaa.gov/feature-story/protecting-critical-value-nearshore-habitat" target="_blank">nearshore ecosystems are some of the most productive and biologically varied areas in the region</a>, providing habitat for shellfish, salmon species, forage fish, invertebrates, and other wildlife. The nearshore is also where people fish from piers, launch boats from marinas, and build shipping terminals. The population growth in the Puget Sound region means that more people are using nearshore areas, and human needs must be balanced against the need to protect nearshore ecosystems.</p>
 
 <p>The Puget Sound Partnership is launching <a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership Nearshore Credits: An Endangered Species Act conservation credit provider (Partnership Nearshore Credits program)</a>, with technical assistance from the National Marine Fisheries Service (NMFS), the U.S. Fish and Wildlife Service (USFWS), and other partners. The Partnership Nearshore Credits program streamlines the permitting process for building residential or commercial in- and over-water structures and protects habitat for Endangered Species Act (ESA)-listed species within the nearshore ecosystem.  
