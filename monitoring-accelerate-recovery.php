@@ -71,9 +71,6 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox">
-			<h3><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">2021-2023 Award announcement</a></h3>
-			</div>
 			<h3>Monitoring to Accelerate Recovery</h3>
 			<p>The Puget Sound Partnership (Partnership) supports projects that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects support the <strong>objectives</strong> of the <a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2">Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan</a> to <strong>increase collaboration, support adaptive management, and improve communication.</strong> </p>
 			
@@ -84,8 +81,8 @@
 		
 		<hr>
 		<h3>Monitoring to Accelerate Recovery Projects 2021-2023</h3>
-			<p>Project descriptions and more information coming soon.</p>
-		<h3>PSEMP and Vital Signs Projects Funded in 2019-21:</h3>
+			<p>Project descriptions and more information coming soon. <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">See the 2021-2023 award announcement</a>.</p>
+		<h3>PSEMP and Vital Signs Projects Funded in 2019-2021:</h3>
 		<p>The Partnership funded the following projects using PSEMP program funding and Vital Signs reporting program funding during the 2019-21 biennium:</p>
 		<h4>PSEMP products:</h4>
 		<ul>
