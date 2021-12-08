@@ -85,6 +85,11 @@
 			
 			<p>Information about the 2022 Puget Sound Budget is available in this <a href="https://pspwa.box.com/s/74t62zylvtfa7az77vj47wnputkboczd" target="_blank">PDF factsheet</a> and in the interactive tools below.</p>
 			
+			<p><ol>
+			<li>Immediately below is an interactive graphic that shows the Puget Sound budget in a few summary figures. Each figure can be interacted with by clicking on different elements of the graphic. Try clicking on a budget type (op/cap) in the pie chart, a request in the list, or an agency in the bar graph.</li>
+			<li>Scroll further down for a spreadsheet view.</li>
+			</ol></p>
+			
 			
 			<br>
 			
