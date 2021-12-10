@@ -38,6 +38,9 @@
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image7">
+	<div class="highlightbox margin-0-top margin-20-bottom">
+			<p><span class="new-red">NEW:</span> Puget Sound Acquisition and Restoration Fund - Request for Proposals for the 2023-2025 Biennium</p>
+			</div>
 	<div class="overview-quote pull-right">
 		<h3>Investing in habitat restoration to bring back Puget Sound’s dynamic natural systems – for salmon, people, and community</h3>
 	</div>
