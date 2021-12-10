@@ -83,9 +83,10 @@
 					<li>Final Leadership Council approval of project list in <strong>August 2022</strong></li>
 <li>Partnership staff submits final draft regional project list to RCO in <strong>August 2022</strong></li>
 <li>Salmon Recovery Funding Board (SRFB) Funding Meeting to approve projects in <strong>September 2022</strong></li>
-
 				</ul>
 				</p>
+			<p>Answers to the supplemental questions are not required to be submitted until the full proposal due date, which is June 3, 2022. Please share this announcement with interested parties. Contact Amber Moore, salmon recovery manager, with questions:
+			360.742.7434, <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
 			</div>
 			<div class="sidebarbox margin-20-top margin-20-left margin-20-bottom padding-10-all orange-fill">
 				<h3 class="margin-0-top">PSAR ACCOMPLISHMENTS</h3>
