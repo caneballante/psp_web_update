@@ -79,6 +79,10 @@
 						<h5>Melissa Schutten</h5>
 						<p>Equity and Environmental Justice Manager<br />
 						360.870.6165 | <a href="mailto:melissa.schutten@psp.wa.gov">melissa.schutten@psp.wa.gov</a></p>
+			
+						<h5>Lea-Anne Burke</h5>
+						<p>Tribal Liaison<br>
+						360.628.7532 | <a href="mailto:lea-anne.burke@psp.wa.gov">lea-anne.burke@psp.wa.gov</a></p>
 
 						<!--GOVERNMENTAL RELATIONS-->
 						<h3 class="padding-10-top">GOVERNMENTAL RELATIONS</h3>
