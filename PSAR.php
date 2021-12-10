@@ -38,9 +38,6 @@
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image7">
-	<div class="highlightbox margin-0-top margin-20-bottom">
-			<p><span class="new-red">NEW:</span> Puget Sound Acquisition and Restoration Fund - Request for Proposals for the 2023-2025 Biennium</p>
-			</div>
 	<div class="overview-quote pull-right">
 		<h3>Investing in habitat restoration to bring back Puget Sound’s dynamic natural systems – for salmon, people, and community</h3>
 	</div>
@@ -70,6 +67,26 @@
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 						
+			<div class="highlightbox margin-0-top margin-20-bottom"><p><span class="new-red">NEW:</span> <a href="https://pspwa.box.com/s/ws3qr9dk9es6w09e71a4qaeg1oigsgj4">Puget Sound Acquisition and Restoration Fund - Request for Proposals for the 2023-2025 Biennium</a></p>
+				<p>The Puget Sound Partnership is excited to announce the Request for Proposals for the 2023-2025 Puget Sound Acquisition and Restoration (PSAR) Large Capital grant program. We look forward to working with you as you develop your proposals for the 2023-2025 biennium.</p> <p>Please carefully read the RFP as changes have been made to the scoring criteria from the 2021-2023 biennium. <strong>We will be accepting pre-proposals no later than April 15, 2022</strong>. The RFP, supplemental questions, and scoring criteria <a href="https://pspwa.box.com/s/ws3qr9dk9es6w09e71a4qaeg1oigsgj4">can be found here</a>.</p>
+				<p>Here are some key dates for the large capital grant round:
+				<ul>
+				<li>Sponsors consult with local lead entities on local grant round process and local timelines <strong>(Late 2021 - Early 2022)</strong></li>
+<li>Sponsors submit proposals in PRISM in accordance with individual Lead Entity due dates</li>
+<li>Proposal materials are due to the region from the Lead Entities by <strong>April 15, 2022</strong> for preliminary tiering by <strong>April 29, 2022</strong></li>
+<li>Top-tiered projects invited to submit supplemental materials and unsuccessful projects notified on <strong>April 29, 2022</strong></li>
+					<li>Project presentations will take place in <strong>early May 2022</strong>. Reviewers will provide feedback to sponsors during the presentations and immediately thereafter for incorporation into final applications.</li>
+					<li>Sponsors submit supplemental materials in PRISM by <strong>June 3, 2022</strong></li>
+					<li>Final ranking occurs between <strong>June 3 and June 24, 2022</strong>. Final rankings will be announced on <strong>June 30, 2022</strong> (tentative).</li>
+<li>Salmon Recovery Council (SRC) Executive Committee approval of regional project list in <strong>July 2022</strong></li>
+					<li>Final SRC approval of regional ranked project list in <strong>July 2022</strong></li>
+					<li>Final Leadership Council approval of project list in <strong>August 2022</strong></li>
+<li>Partnership staff submits final draft regional project list to RCO in <strong>August 2022</strong></li>
+<li>Salmon Recovery Funding Board (SRFB) Funding Meeting to approve projects in <strong>September 2022</strong></li>
+
+				</ul>
+				</p>
+			</div>
 			<div class="sidebarbox margin-20-top margin-20-left margin-20-bottom padding-10-all orange-fill">
 				<h3 class="margin-0-top">PSAR ACCOMPLISHMENTS</h3>
 					<p>$254 million invested in Puget Sound recovery<br>
