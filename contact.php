@@ -72,12 +72,11 @@
 			
 			<h3>Olympia Office:</h3>
 			<p>Puget Sound Partnership<br>
-			1110 capitol way South, suite 255<br>
-			Capitol court<br>
+			1110 Capitol Way South, Suite 255<br>
 			Olympia,  WA 98501</p>
 			<h3>MAILING ADDRESS:</h3>
 			<p> Puget Sound Partnership, <br>
-		    PO BOX 40900, Olympia  WA  98504</p>
+		    PO BOX 40900, Olympia  WA  98504-0900</p>
 			<p>&nbsp;</p>
 			<h3>Please send public record requests to:</h3>
 			<p><a href="mailto:publicrecords@psp.wa.gov">publicrecords@psp.wa.gov</a></p>
