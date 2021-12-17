@@ -238,9 +238,9 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">DEC<br>
-			  16</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
+				<div class="newsbox-date">JAN<br>
+			  5</div>
+				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
 					Online<br>
 							</a><br>
 				</div>
