@@ -111,7 +111,8 @@ navSelected = 4;
 Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for the Freshwater Quality Vital Sign</small></p></td>
             <td><p>Nov. 2</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			  <p><a href="https://pspwa.box.com/s/3gkzzipm0h5i9go25y1btnw0489nood4" target="new">Workshop A presentation</a></p>
-			  <p><a href="https://pspwa.box.com/s/4wdbxetma6mtxb5ghgv6rllf0wj1m7oa" target="new">Workshop A MURAL workspace</a></p></td>
+			<p><a href="https://pspwa.box.com/s/x4aah594hfd0cktzcpt2yrdf306onob7" target="new">Meeting 1 workshop video</a></p>
+			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
 			 <td><p>Nov. 30</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td> 
           </tr>
           <tr>
