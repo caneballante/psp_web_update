@@ -113,7 +113,11 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <p><a href="https://pspwa.box.com/s/3gkzzipm0h5i9go25y1btnw0489nood4" target="new">Workshop A presentation</a></p>
 			<p><a href="https://pspwa.box.com/s/x4aah594hfd0cktzcpt2yrdf306onob7" target="new">Meeting 1 workshop video</a></p>
 			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
-			 <td><p>Nov. 30</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td> 
+			 <td><p>Nov. 30</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p>
+			  <p><a href="https://pspwa.box.com/s/9vu1o3xs3qdaanmjokp020unl509nuu4" target="new">Workshop A presentation</a></p>
+			<p><a href="https://pspwa.box.com/s/bkf8dx0v2bhovniba2lo4gj1o15v8cis" target="new">Meeting 2 workshop video</a></p>
+			  <p><a href="https://pspwa.box.com/s/o99z6atj7vqx5k095eywpam69wt1ingg" target="new">Workshop meeting 2 MURAL workspace</a></p>
+			  </td> 
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>B</p></td>
@@ -125,7 +129,11 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <p><a href="https://pspwa.box.com/s/h6czutpe1zgl1dqyqr3pp033h31ns2wn" target="new">Workshop B presentation</a></p>
 			<p><a href="https://pspwa.box.com/s/kfzubpxqcjrzh9hmtasijngwvm1za6ux" target="new">Meeting 1 workshop video</a></p>	
 			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
-			  <td><p>Dec. 1</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
+			  <td><p>Dec. 1</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p>
+			  <p><a href="https://pspwa.box.com/s/hb3vxyz9czun2ctvtkzm6uhs5hnhud7c" target="new">Workshop B presentation</a></p>
+			<p><a href="https://pspwa.box.com/s/k8ul4ye9smjyjnar4s4um25v7nzt3jfr" target="new">Meeting 2 workshop video</a></p>
+			  <p><a href="https://pspwa.box.com/s/o99z6atj7vqx5k095eywpam69wt1ingg" target="new">Workshop meeting 2 MURAL workspace</a></p>
+			  </td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>C</p></td>
@@ -136,7 +144,11 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <p><a href="https://pspwa.box.com/s/iueyca6lyaomzcxcpo1yix9rm2v04r0g" target="new">Workshop C presentation</a></p>
 				<p><a href="https://pspwa.box.com/s/xbrlj5kpqa5m0ro0bxmo1vhl2gv3bq6r" target="new">Meeting 1 workshop video</a></p>
 			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
-			  <td><p>Dec. 2</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
+			  <td><p>Dec. 2</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p>
+			  <p><a href="https://pspwa.box.com/s/6bil7h3j8g76ilwbbwd0ansn265px47g" target="new">Workshop C presentation</a></p>
+			<p><a href="https://pspwa.box.com/s/0vhw341dhiiqrl633denuotyld74nf8u" target="new">Meeting 2 workshop video</a></p>
+			  <p><a href="https://pspwa.box.com/s/o99z6atj7vqx5k095eywpam69wt1ingg" target="new">Workshop meeting 2 MURAL workspace</a></p>
+			  </td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>D</p></td>
@@ -147,7 +159,11 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			   <p><a href="https://pspwa.box.com/s/426q3mz2w8jce6sb8ml1zl29l8ae1t9y" target="new">Workshop D presentation</a></p>
 			   <p><a href="https://pspwa.box.com/s/arb32p6qzdqimecu1ks4u924os0qygu5" target="new">Meeting 1 workshop video</a></p>
 			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
-			<td><p>Dec. 3</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
+			<td><p>Dec. 3</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p>
+			  <p><a href="https://pspwa.box.com/s/r99s2amosysjxajxkhfjtwor5jdl3im9" target="new">Workshop D presentation</a></p>
+			<p><a href="https://pspwa.box.com/s/6fam9nzp09w26kjifgx408nf03d3ub3b" target="new">Meeting 2 workshop video</a></p>
+			  <p><a href="https://pspwa.box.com/s/o99z6atj7vqx5k095eywpam69wt1ingg" target="new">Workshop meeting 2 MURAL workspace</a></p>
+			  </td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>E</p></td>
@@ -158,7 +174,11 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			   <p><a href="https://pspwa.box.com/s/0i7lin4spi07hr0z78dtdnujsy4oh25l" target="new">Workshop E presentation</a></p>
 				  <p><a href="https://pspwa.box.com/s/d2g0v4x7whpb7frqrt55n4amq285y3in" target="new">Meeting 1 workshop video</a></p>
 			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
-			<td><p>Dec. 7</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
+			<td><p>Dec. 7</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p>
+			  <p><a href="https://pspwa.box.com/s/y338lgq8rwa5epl3nfe1d2mcwhfsblyc" target="new">Workshop E presentation</a></p>
+			<p><a href="https://pspwa.box.com/s/cqbd38hz44lob8privm3ucrpaxe8qodm" target="new">Meeting 2 workshop video</a></p>
+			  <p><a href="https://pspwa.box.com/s/o99z6atj7vqx5k095eywpam69wt1ingg" target="new">Workshop meeting 2 MURAL workspace</a></p>
+			  </td>
           </tr>
           <tr>
             <td class="light-blue-fill white"><p>F</p></td>
@@ -169,7 +189,11 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <p><a href="https://pspwa.box.com/s/a1ge23yaaopcoy6dsrj0c5adowvptng9" target="new">Workshop F presentation</a></p>
 	<p><a href="https://pspwa.box.com/s/d78b9iw8wf5e3h1nupy1650btaq455a6" target="new">Meeting 1 workshop video</a></p>
 			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
-			<td><p>Dec. 8</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
+			<td><p>Dec. 8</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p>
+			  <p><a href="https://pspwa.box.com/s/zadf7dkbfvs3uosmhy1yyg3ucql07zwv" target="new">Workshop F presentation</a></p>
+			<p><a href="https://pspwa.box.com/s/ldw2kfuip7kpgns9c8a65zg20m26jtbs" target="new">Meeting 2 workshop video</a></p>
+			  <p><a href="https://pspwa.box.com/s/o99z6atj7vqx5k095eywpam69wt1ingg" target="new">Workshop meeting 2 MURAL workspace</a></p>
+			  </td>
           </tr>
         </tbody>
         </table>
