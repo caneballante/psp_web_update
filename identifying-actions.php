@@ -123,6 +123,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 </p></td>
             <td><p>Nov. 3</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			  <p><a href="https://pspwa.box.com/s/h6czutpe1zgl1dqyqr3pp033h31ns2wn" target="new">Workshop B presentation</a></p>
+			<p><a href="https://pspwa.box.com/s/kfzubpxqcjrzh9hmtasijngwvm1za6ux" target="new">Meeting 1 workshop video</a></p>	
 			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
 			  <td><p>Dec. 1</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
@@ -133,6 +134,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality<br>Shoreline Armoring</p></td>
             <td><p>Nov. 4</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			  <p><a href="https://pspwa.box.com/s/iueyca6lyaomzcxcpo1yix9rm2v04r0g" target="new">Workshop C presentation</a></p>
+				<p><a href="https://pspwa.box.com/s/xbrlj5kpqa5m0ro0bxmo1vhl2gv3bq6r" target="new">Meeting 1 workshop video</a></p>
 			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
 			  <td><p>Dec. 2</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
@@ -143,6 +145,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality</p></td>
            <td><p>Nov. 5</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			   <p><a href="https://pspwa.box.com/s/426q3mz2w8jce6sb8ml1zl29l8ae1t9y" target="new">Workshop D presentation</a></p>
+			   <p><a href="https://pspwa.box.com/s/arb32p6qzdqimecu1ks4u924os0qygu5" target="new">Meeting 1 workshop video</a></p>
 			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
 			<td><p>Dec. 3</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
@@ -153,6 +156,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Marine Water Quality<br>Shellfish<br>Toxics in Fish</p></td>
 			  <td><p>Nov. 9</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			   <p><a href="https://pspwa.box.com/s/0i7lin4spi07hr0z78dtdnujsy4oh25l" target="new">Workshop E presentation</a></p>
+				  <p><a href="https://pspwa.box.com/s/d2g0v4x7whpb7frqrt55n4amq285y3in" target="new">Meeting 1 workshop video</a></p>
 			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
 			<td><p>Dec. 7</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
@@ -163,6 +167,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <td><p>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Shellfish<br>Orca Task Force recommendations</p></td>
 <td><p>Nov. 10</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			  <p><a href="https://pspwa.box.com/s/a1ge23yaaopcoy6dsrj0c5adowvptng9" target="new">Workshop F presentation</a></p>
+	<p><a href="https://pspwa.box.com/s/d78b9iw8wf5e3h1nupy1650btaq455a6" target="new">Meeting 1 workshop video</a></p>
 			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
 			<td><p>Dec. 8</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
