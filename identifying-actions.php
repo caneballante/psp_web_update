@@ -123,7 +123,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 </p></td>
             <td><p>Nov. 3</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			  <p><a href="https://pspwa.box.com/s/h6czutpe1zgl1dqyqr3pp033h31ns2wn" target="new">Workshop B presentation</a></p>
-			  <p><a href="https://pspwa.box.com/s/9obqtb47g5cr5tw8c9kaj0ji6662tfbq" target="new">Workshop B MURAL workspace</a></p></td>
+			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
 			  <td><p>Dec. 1</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
           <tr>
@@ -133,7 +133,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality<br>Shoreline Armoring</p></td>
             <td><p>Nov. 4</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			  <p><a href="https://pspwa.box.com/s/iueyca6lyaomzcxcpo1yix9rm2v04r0g" target="new">Workshop C presentation</a></p>
-			  <p><a href="https://pspwa.box.com/s/f804rxabtcjtq9szgyb9ss4p6kooaz9t" target="new">Workshop C MURAL workspace</a></p></td>
+			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
 			  <td><p>Dec. 2</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
           <tr>
@@ -143,7 +143,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Estuaries<br>Floodplains<br>Land Development and Cover<br>Marine Water Quality</p></td>
            <td><p>Nov. 5</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			   <p><a href="https://pspwa.box.com/s/426q3mz2w8jce6sb8ml1zl29l8ae1t9y" target="new">Workshop D presentation</a></p>
-			  <p><a href="https://pspwa.box.com/s/eq0o5n7go1k2b1hbtpefu2g0gqykjyit" target="new">Workshop D MURAL workspace</a></p></td>
+			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
 			<td><p>Dec. 3</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
           <tr>
@@ -153,7 +153,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <td><p>Benthic Index of Biotic Integrity (B-IBI)<br>Chinook Salmon<br>Marine Water Quality<br>Shellfish<br>Toxics in Fish</p></td>
 			  <td><p>Nov. 9</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			   <p><a href="https://pspwa.box.com/s/0i7lin4spi07hr0z78dtdnujsy4oh25l" target="new">Workshop E presentation</a></p>
-			  <p><a href="https://pspwa.box.com/s/8g1hkjzp7x8ccluk20h80i2vdqkst27s" target="new">Workshop E MURAL workspace</a></p></td>
+			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
 			<td><p>Dec. 7</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
           <tr>
@@ -163,7 +163,7 @@ Shellfish</p><br><br><p><sup>2</sup><small>B-IBI is one of three indicators for 
 			  <td><p>Chinook Salmon<br>Eelgrass<br>Estuaries<br>Shellfish<br>Orca Task Force recommendations</p></td>
 <td><p>Nov. 10</p><p><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank">Meeting 1 (workshops A-F) overview and detailed topic list.</a></p>
 			  <p><a href="https://pspwa.box.com/s/a1ge23yaaopcoy6dsrj0c5adowvptng9" target="new">Workshop F presentation</a></p>
-			  <p><a href="https://pspwa.box.com/s/98ugolugc2p7e8oqyu4ziup3yeol83m5" target="new">Workshop F MURAL workspace</a></p></td>
+			  <p><a href="https://pspwa.box.com/s/paokygfprxkpw0mvjat61q86lqtvk64k" target="new">Workshop meeting 1 MURAL workspace</a></p></td>
 			<td><p>Dec. 8</p><p><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank">Meeting 2 (workshops A-F) overview and detailed topic list.</a></p></td>
           </tr>
         </tbody>
