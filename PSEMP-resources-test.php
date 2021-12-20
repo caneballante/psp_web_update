@@ -67,7 +67,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
-		<div class="container-fluid">
+		<div class="container">
 			<div class="row">
 				<div class="col-lg-3 col-md-4">
 					<h3 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h3> 
