@@ -69,7 +69,7 @@
 	
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-lg-4">
+				<div class="col-lg-4 col-md-2">
 					<h3 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h3> 
 					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="214" height="160" alt=""/></a> 
 	 	 		    <p class="padding-10-left"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Click to download</a><br>
@@ -79,7 +79,7 @@
 				    <p>This latest annual report details the effects of a changing climate on Puget Sound in 2018, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers. Produced by the Marine Waters PSEMP Work Group, they looked at several environmental indicators, including plankton, water quality, climate, and marine life, that, when considered together, provide both a long-term view and current assessment of the Sound&rsquo;s health.</p>
 					<p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
 				</div><!--end col-->
-				<div class="col-lg-4">
+				<div class="col-lg-4 col-md-2">
 					<h3 class="margin-0-top">2019 Recommendations for a Puget Sound Estuary Avian Monitoring Strategy</h3> 
 					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program.jpg" width="205" height="242" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Click to download</a></p></span>
@@ -87,7 +87,7 @@
 					<p>Until recently, groups that have monitored birds in the estuaries of Puget Sound river deltas have done so independently of one another, preventing the ability to assess the effectiveness of actions on bird populations at both the local and regional scale. The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to learn what types of information are needed to support bird-related management and conservation decisions, and explore interest in developing a common framework for monitoring birds. 
 				</div> 
 				<!--end col-->
-				<div class="col-lg-4">
+				<div class="col-lg-4 col-md-2">
 					<h3 class="margin-20-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h3> 
 					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="215" height="254" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Click to download</a></p></span>
@@ -98,14 +98,14 @@
 			<hr>
 			<!--start row-->
 			<div class="row">
-				<div class="col-lg-4">
+				<div class="col-lg-4 col-md-2">
 					<h3 class="margin-20-top">Puget Sound Ecosystem Monitoring Strategic Plan | 2018-2022</h3> 
 					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan.jpg" width="183" height="216" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">Click to download</a></p></span>
 					<br>
 					<P class="margin-0-top">This Strategic Plan articulates a renewed missionfor PSEMP to convene a collaborative network of subject matter experts who organize, synthesize, and communicate scientific information from many monitoring organizations and different parts of the ecosystem to directly address foundational management and science questions critical to recovery of the ecosystem.<br></p>
 				</div> <!--end col-->
-				<div class="col-lg-4">
+				<div class="col-lg-4 col-md-2">
 					<h3 class="margin-20-top">Shoreline Monitoring Toolbox</h3> 
 					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox.jpg" width="208" height="179" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://sites.google.com/a/uw.edu/toolbox/home">Click to view the Shoreline Monitoring Toolbox</a></p></span>
