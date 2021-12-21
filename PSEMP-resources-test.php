@@ -84,7 +84,7 @@
 				</div><!--end col-->
 				<div class="col-lg-3 col-md-4">
 					<h3 class="margin-0-top">2019 Recommendations for a Puget Sound Estuary Avian Monitoring Strategy</h3> 
-					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program.jpg" width="205" height="242" alt=""/></a> 
+					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program.jpg" width="150" height="112" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Click to download</a></p></span>
 					<br>
 					<p>Until recently, groups that have monitored birds in the estuaries of Puget Sound river deltas have done so independently of one another, preventing the ability to assess the effectiveness of actions on bird populations at both the local and regional scale. The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to learn what types of information are needed to support bird-related management and conservation decisions, and explore interest in developing a common framework for monitoring birds. 
@@ -92,14 +92,14 @@
 				<!--end col-->
 				<div class="col-lg-3 col-md-4">
 					<h3 class="margin-20-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h3> 
-					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="215" height="254" alt=""/></a> 
+					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="150" height="112" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Click to download</a></p></span>
 					<br>
 					<P class="margin-0-top">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea. </p>
 				</div> <!--end col-->
 				<div class="col-lg-3 col-md-4">
 					<h3 class="margin-20-top">Puget Sound Ecosystem Monitoring Strategic Plan | 2018-2022</h3> 
-					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan.jpg" width="183" height="216" alt=""/></a> 
+					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan.jpg" width="150" height="112" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">Click to download</a></p></span>
 					<br>
 					<P class="margin-0-top">This Strategic Plan articulates a renewed missionfor PSEMP to convene a collaborative network of subject matter experts who organize, synthesize, and communicate scientific information from many monitoring organizations and different parts of the ecosystem to directly address foundational management and science questions critical to recovery of the ecosystem.<br></p>
