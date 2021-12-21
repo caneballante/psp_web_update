@@ -75,13 +75,11 @@
 							<div class="d-inline">
 					<h3 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h3> 
 					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="150" height="112" alt=""/></a> 
-	 	 		    <p class="padding-10-left"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Click to download</a><br>
-					<a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new">Puget Sound Marine Waters 2018 Overview</a><br>
- 					<a href="https://pspwa.box.com/shared/static/gwv6px7756kedkaozgfxqwf06plz3vo5.pdf" target="new">Puget Sound Marine Waters 2018 Overview 508 Version</a></p></span></div></div></div>
+	 	 		    
+					<p><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new">Puget Sound Marine Waters 2018 Overview</a></p>
 					<br>
-				    <p>This latest annual report details the effects of a changing climate on Puget Sound in 2018, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers. Produced by the Marine Waters PSEMP Work Group, they looked at several environmental indicators, including plankton, water quality, climate, and marine life, that, when considered together, provide both a long-term view and current assessment of the Sound&rsquo;s health.</p>
-					<p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
-				</div><!--end col-->
+				    <p>This latest annual report details the effects of a changing climate on Puget Sound in 2018, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers.</p>
+				</div></div></div></div><!--end col-->
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -90,7 +88,7 @@
 					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program.jpg" width="150" height="112" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Click to download</a></p></span>
 					<br>
-					<p>Until recently, groups that have monitored birds in the estuaries of Puget Sound river deltas have done so independently of one another, preventing the ability to assess the effectiveness of actions on bird populations at both the local and regional scale. The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to learn what types of information are needed to support bird-related management and conservation decisions, and explore interest in developing a common framework for monitoring birds. 
+					<p>Until recently, groups that have monitored birds in the estuaries of Puget Sound river deltas have done so independently of one another, preventing the ability to assess the effectiveness of actions on bird populations at both the local and regional scale. 
 							</div></div></div></div> 
 				<!--end col-->
 				<div class="col-md-4">
