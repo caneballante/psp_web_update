@@ -73,54 +73,48 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-block">
-					<h3 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h3> 
+					<h5 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h5> 
 					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="150" height="112" alt=""/></a> 
 	 	 		    
 					<p><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new" class="card-link">Puget Sound Marine Waters 2018 Overview</a></p>
-					<br>
-				    <p>This latest annual report details the effects of a changing climate on Puget Sound in 2018, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers.</p>
+					
 				</div></div></div></div><!--end col-->
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-block">
-					<h3 class="margin-0-top">2019 Recommendations for a Puget Sound Estuary Avian Monitoring Strategy</h3> 
+					<h5 class="margin-0-top">2019 Recommendations for a Puget Sound Estuary Avian Monitoring Strategy</h5> 
 					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program.jpg" width="150" height="112" alt=""/></a> 
-					<p class="padding-10-left"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Click to download</a></p></span>
-					<br>
-					<p>Until recently, groups that have monitored birds in the estuaries of Puget Sound river deltas have done so independently of one another, preventing the ability to assess the effectiveness of actions on bird populations at both the local and regional scale. 
+					<p class="padding-10-left"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Click to download</a></p></span> 
 							</div></div></div></div> 
 				<!--end col-->
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-block">
-					<h3 class="margin-20-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h3> 
+					<h5 class="margin-0-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h5> 
 					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="150" height="112" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Click to download</a></p></span>
-					<br>
-					<P class="margin-0-top">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea. </p>
 							</div></div></div></div></div> <!--end col-->
 			<div class="row text-left">	
 			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h3 class="margin-20-top">Puget Sound Ecosystem Monitoring Strategic Plan | 2018-2022</h3> 
+					<h5 class="margin-20-top">Puget Sound Ecosystem Monitoring Strategic Plan | 2018-2022</h5> 
 					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan.jpg" width="150" height="112" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">Click to download</a></p></span>
-					<br>
-					<P class="margin-0-top">This Strategic Plan articulates a renewed missionfor PSEMP to convene a collaborative network of subject matter experts who organize, synthesize, and communicate scientific information from many monitoring organizations and different parts of the ecosystem to directly address foundational management and science questions critical to recovery of the ecosystem.<br></p>
+					
 							</div></div></div></div> <!--end col-->
 				
 			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h3 class="margin-20-top">Shoreline Monitoring Toolbox</h3> 
+					<h5 class="margin-20-top">Shoreline Monitoring Toolbox</h5> 
 					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox.jpg" width="150" height="112" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://sites.google.com/a/uw.edu/toolbox/home">Click to view the Shoreline Monitoring Toolbox</a></p></span>
-					<P class="margin-0-top">Shoreline monitoring is often a desired or required goal of volunteer groups and local entities, but protocols and guidelines can be hard to find and misleading if not used appropriately. To overcome these obstacles, standardized approaches for monitoring and a &ldquo;toolbox&rdquo; of protocols and information are needed. This toolbox emphasizes methods that are simple and affordable, and that can be used for monitoring .</p>
+					
 							</div></div></div></div> <!--end col-->
 			</div> <!--end row-->
 			<hr>
