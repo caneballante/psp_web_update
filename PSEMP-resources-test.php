@@ -71,14 +71,14 @@
 			<div class="row text-left">
 				<div class="col-md-4">
 					<div class="card">
-						<span class="border"><div class="card-body">
+							<div class="card-body">
 							<div class="d-block">
 					<h5 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h5> 
-					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="150" height="112" alt=""/></a> 
+					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="150" height="112" alt=""/></a></span>
 	 	 		    
 					<p><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new" class="card-link">Puget Sound Marine Waters 2018 Overview</a></p>
 					
-						</div></div></span></div></div><!--end col-->
+						</div></div></div></div><!--end col-->
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
