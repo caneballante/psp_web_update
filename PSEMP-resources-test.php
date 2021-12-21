@@ -129,7 +129,6 @@
 							</div></div></div></div> <!--end col-->
 				
 	</div><!--end row-->
-			<hr>
 		</div><!--end container-->
 <!-- InstanceEndEditable --> </div>
 		
