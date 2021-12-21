@@ -102,8 +102,9 @@
 					<p class="padding-10-left"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Click to download</a></p></span>
 					<br>
 					<P class="margin-0-top">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea. </p>
-							</div></div></div></div> <!--end col-->
-				<div class="col-md-4">
+							</div></div></div></div></div> <!--end col-->
+			<div class="row text-left">	
+			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -113,7 +114,8 @@
 					<br>
 					<P class="margin-0-top">This Strategic Plan articulates a renewed missionfor PSEMP to convene a collaborative network of subject matter experts who organize, synthesize, and communicate scientific information from many monitoring organizations and different parts of the ecosystem to directly address foundational management and science questions critical to recovery of the ecosystem.<br></p>
 							</div></div></div></div> <!--end col-->
-				<div class="col-md-4">
+				
+			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
