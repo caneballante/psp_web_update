@@ -69,7 +69,7 @@
 	
 		<div class="container-fluid">
 			<div class="row text-left">
-				<div class="col-md-4">
+				<div class="col-md-2">
 					<div class="card">
 							<div class="card-body">
 							<div class="d-block">
@@ -79,7 +79,7 @@
 					<p><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new">Download</a></p>
 					
 						</div></div></div></div><!--end col-->
-				<div class="col-md-4">
+				<div class="col-md-2">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-block">
@@ -88,7 +88,7 @@
 					<p class="padding-10-left"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Download</a></p></span> 
 							</div></div></div></div> 
 				<!--end col-->
-				<div class="col-md-4">
+				<div class="col-md-2">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-block">
@@ -96,8 +96,17 @@
 					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="150" height="112" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Download</a></p></span>
 							</div></div></div></div></div> <!--end col-->
+			<div class="col-md-2">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h5 class="margin-20-top">Shoreline Monitoring Toolbox</h5> 
+					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox.jpg" width="150" height="112" alt=""/></a> 
+					<p class="padding-10-left"><a href="https://sites.google.com/a/uw.edu/toolbox/home">View</a></p></span>
+					
+							</div></div></div></div> <!--end col-->
 			<div class="row text-left">	
-			<div class="col-md-4">
+			<div class="col-md-2">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -107,7 +116,25 @@
 					
 							</div></div></div></div> <!--end col-->
 				
-			<div class="col-md-4">
+			<div class="col-md-2">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h5 class="margin-20-top">Shoreline Monitoring Toolbox</h5> 
+					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox.jpg" width="150" height="112" alt=""/></a> 
+					<p class="padding-10-left"><a href="https://sites.google.com/a/uw.edu/toolbox/home">View</a></p></span>
+					
+							</div></div></div></div> <!--end col-->
+				<div class="col-md-2">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h5 class="margin-20-top">Shoreline Monitoring Toolbox</h5> 
+					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox.jpg" width="150" height="112" alt=""/></a> 
+					<p class="padding-10-left"><a href="https://sites.google.com/a/uw.edu/toolbox/home">View</a></p></span>
+					
+							</div></div></div></div> <!--end col-->
+				<div class="col-md-2">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
