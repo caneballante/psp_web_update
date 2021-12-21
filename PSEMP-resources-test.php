@@ -118,7 +118,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h3 class="margin-20-top">Shoreline Monitoring Toolbox</h3> 
-					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox.jpg" width="208" height="179" alt=""/></a> 
+					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox.jpg" width="150" height="112" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://sites.google.com/a/uw.edu/toolbox/home">Click to view the Shoreline Monitoring Toolbox</a></p></span>
 					<P class="margin-0-top">Shoreline monitoring is often a desired or required goal of volunteer groups and local entities, but protocols and guidelines can be hard to find and misleading if not used appropriately. To overcome these obstacles, standardized approaches for monitoring and a &ldquo;toolbox&rdquo; of protocols and information are needed. This toolbox emphasizes methods that are simple and affordable, and that can be used for monitoring .</p>
 							</div></div></div></div> <!--end col-->
