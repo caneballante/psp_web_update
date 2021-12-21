@@ -68,13 +68,16 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
 		<div class="container-fluid">
-			<div class="row">
+			<div class="row text-left">
 				<div class="col-lg-3 col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
 					<h3 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h3> 
-					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="214" height="160" alt=""/></a> 
+					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="150" height="112" alt=""/></a> 
 	 	 		    <p class="padding-10-left"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Click to download</a><br>
 					<a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new">Puget Sound Marine Waters 2018 Overview</a><br>
- 					<a href="https://pspwa.box.com/shared/static/gwv6px7756kedkaozgfxqwf06plz3vo5.pdf" target="new">Puget Sound Marine Waters 2018 Overview 508 Version</a></p></span>
+ 					<a href="https://pspwa.box.com/shared/static/gwv6px7756kedkaozgfxqwf06plz3vo5.pdf" target="new">Puget Sound Marine Waters 2018 Overview 508 Version</a></p></span></div></div></div>
 					<br>
 				    <p>This latest annual report details the effects of a changing climate on Puget Sound in 2018, and describes how these changes trickled down through the ecosystem to affect marine life and seafood consumers. Produced by the Marine Waters PSEMP Work Group, they looked at several environmental indicators, including plankton, water quality, climate, and marine life, that, when considered together, provide both a long-term view and current assessment of the Sound&rsquo;s health.</p>
 					<p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
