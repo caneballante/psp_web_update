@@ -73,7 +73,7 @@
 					<div class="card">
 							<div class="card-body">
 							<div class="d-inline">
-					<h5 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h5> 
+								<p>PUGET SOUND MARINE WATERS 2018 OVERVIEW</p> 
 					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="150" height="112" alt=""/></a></span>
 	 	 		    
 					<p><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new">Download</a></p>
