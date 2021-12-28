@@ -103,7 +103,7 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">Puget Sound Ecosystem Monitoring Strategic Plan | 2018-2022</h6> 
+					<h6 class="margin-0-top">Puget Sound Ecosystem Monitoring Strategic Plan</h6> 
 					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan.jpg" width="150" height="112" alt=""/></a> 
 					<p class="padding-10-left"><a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">Download</a></p></span>
 					
