@@ -51,7 +51,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Monitoring to Accelerate Recovery Projects</h1>
+			<h1>Monitoring to Accelerate Recovery</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -71,20 +71,19 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h3>Monitoring to Accelerate Recovery</h3>
-			<p>The Puget Sound Partnership (Partnership) supports projects that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects support the <strong>objectives</strong> of the <a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2">Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan</a> to <strong>increase collaboration, support adaptive management, and improve communication.</strong> </p>
+			<h3>Purpose</h3>
+			<p>The Puget Sound Partnership (Partnership) funds projects every biennium that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects are funded via a formal project solicitation process. Priority is given to projects that support the <strong>objectives</strong> of the <a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2">Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan</a> to <strong>increase collaboration, support adaptive management, and improve communication.</strong> </p>
 			
-			<p>Monitoring to Accelerate Recovery projects also address cross-cutting principles of <strong>integrating biophysical and social sciences, justice, equity, diversity, and inclusion (JEDI), and climate change.</strong></p>
+			<p>Successful projects also address cross-cutting principles of <strong>integrating biophysical and social sciences, justice, equity, diversity, and inclusion (JEDI), and climate change.</strong></p>
 		
 		<p><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl">See 2021-2023 Monitoring to Accelerate Recovery solicitation for reference.</a></p>
 		
 		
 		<hr>
-		<h3>Monitoring to Accelerate Recovery Projects 2021-2023</h3>
+		<h3>Projects funded in 2021-2023</h3>
 			<p>Project descriptions and more information coming soon. <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">See the 2021-2023 award announcement</a>.</p>
-		<h3>PSEMP and Vital Signs Projects Funded in 2019-2021:</h3>
-		<p>The Partnership funded the following projects using PSEMP program funding and Vital Signs reporting program funding during the 2019-21 biennium:</p>
-		<h4>PSEMP products:</h4>
+		<h3>Projects funded in 2019-2021:</h3>
+		<p>The Partnership funded the following projects using funding allocated to support PSEMP work groups and reporting of the Vital Signs during the 2019-21 biennium:</p>
 		<ul>
 		<li><strong>Nearshore Summit and Synthesis</strong>
 			<p>This virtual nearshore summit, held from March 10-25, 2021, included about 80 speakers representing over 50 institutions and over 500 registrants. The goal is to connect restoration scientists and practitioners to synthesize nearshore science and restoration actions in Puget Sound to create a durable roadmap that updates restoration conceptual models and identifies key uncertainties for future research and management to address. You can find more information about the summit <a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit">here.</a> You can find a <a href="https://pspwa.box.com/s/giimspgmm6j23u0jlau96vh9al91zcnl">video overview here</a>.</p>
@@ -104,7 +103,6 @@
 			<li><strong>Juvenile Salmonid Monitoring in Large Puget Sound Rivers</strong> <p>Juvenile salmonid monitoring is a critical component of understanding both freshwater productivity and marine survival. Juvenile monitoring is necessary to isolate the effect of freshwater habitats on productivity trends and hence understand the effectiveness of freshwater habitat restoration efforts. Along with adult abundance measures, juvenile monitoring will be used to track progress towards the Puget Sound Partnership’s Salmon Vital Sign targets. The project will identify shared trends in abundance, productivity, and life history metrics through time across multiple rivers. The project aims to demonstrate the value of an interconnected network of juvenile salmon monitoring in large Puget Sound rivers to conservation and management. The project will also derive some preliminary information from data collected across the network. The project has developed a one-page overview of the process and project linked <a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764">here</a>. You can find a <a href="https://pspwa.box.com/s/yahbdzph6x2oolm8n0orvljvfsn9ej9c">video overview here</a>.</p>
 			<p>Project Leads: Joe Anderson and Peter Lisi, Washington Department of Fish and Wildlife; Dawn Pucci, Island County</p></li>
 		</ul>
-		<h4>Vital Signs reporting program products:</h4>
 		<ul>
 		<li><strong>Birds Vital Sign, Abundance of marine birds indicator</strong>
 			<p>Process annual mid-winter WDFW PSAMP seabird and waterfowl survey flight data; marine and terrestrial bird indicator updates; winter birds web map; Pigeon Guillemot citizen science data gathering, storage and summary tools. </p>
