@@ -94,67 +94,67 @@
 				</thead>
 				<tbody>
 				<tr>
-					<td><strong>Nearshore Summit and Synthesis</strong></td>
+					<td>Nearshore Summit and Synthesis</td>
 					<td><p>This virtual nearshore summit, held from March 10-25, 2021, included about 80 speakers representing over 50 institutions and over 500 registrants. The goal is to connect restoration scientists and practitioners to synthesize nearshore science and restoration actions in Puget Sound to create a durable roadmap that updates restoration conceptual models and identifies key uncertainties for future research and management to address. You can find more information about the summit <a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit">here.</a> You can find a <a href="https://pspwa.box.com/s/giimspgmm6j23u0jlau96vh9al91zcnl">video overview here</a>.</p></td>
 					<td><p>Tish Conway-Cranos, Washington Department of Fish and Wildlife; Jason Toft, University of Washington; David Trimbach, Oregon State University</p></td>
 					</tr>
 					<tr>
-					<td><strong>Fundamental Environmental Contextual Metrics Dashboard</strong></td>
+					<td>Fundamental Environmental Contextual Metrics Dashboard</td>
 						<td><p>Climate change poses a serious threat to Puget Sound recovery efforts. To adapt recovery efforts to these changes, we need metrics that show why change is occurring. The project will use data from ongoing oceanographic and atmospheric measurement programs to develop six fundamental environmental metrics and compare current status updates to historical values. When finished, the metrics will be available to the public via a web-based dashboard that will concisely summarize current conditions. This project is still in development, but please find the latest update from the Marine Waters Work Group February Meeting slides linked <a href="https://docs.google.com/presentation/d/1KWrj6mEqaT-tytLMIW4_TCNAJTPnxX7yh9vW28dhc7w/edit#slide=id.p">here</a>. You can find a <a href="https://pspwa.box.com/s/z5rl1g2z3e7gkt4g89n8jtlopsfyrzok">video overview here</a>.</p></td>
 						<td><p>John Mickett, University of Washington</p></td>
 					</tr>
 					<tr>
-					<td><strong>Marine Waters Annual Overview</strong></td>
+					<td>Marine Waters Annual Overview</td>
 						<td><p>The Marine Waters Overview Report and annual workshop communicates the results from regional monitoring programs through a virtual workshop and published report of technical summaries and high-level information synthesis across monitoring programs and scientific disciplines. The annual workshop and report provided an integrative understanding of current trends in Puget Sound marine water quality and impacts through the food web, link to the Puget Sound Vital Signs and goals for ecosystem recovery, and share critical information for making evidence-based decisions about recovery efforts.  The link to the full report can be found <a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">here</a> and you can find a <a href="https://pspwa.box.com/s/v6wrf24bx30j9ep3qfbxwgtlkrckwxwd">video overview here.</a> </p></td>
 						<td><p>Jude Apple, Padilla Bay National Estuarine Research Reserve; Rachel Wold, University of Washington</p></td>
 					</tr>
 					<tr>
-					<td><strong>Avian Habitat Suitability Models for Puget Sound Estuary Birds</strong></td>
+					<td>Avian Habitat Suitability Models for Puget Sound Estuary Birds</td>
 						<td><p>Puget Sound and the Salish Sea support hemispherically significant concentrations of shorebirds, waterfowl, and other marine bird species. Despite this importance, birds have received little attention by state and federal recovery efforts. This project develops science products that support the management needs of estuary birds, including end-user stakeholder engagement, avian-habitat suitability models, and the initiation of a regional avian monitoring framework for river delta estuaries. A monitoring framework will facilitate targeted data collection that allows for avian conservation planning and management at local and regional scales and supports integration of birds in estuary recovery efforts. This project produced an <a href="https://pspwa.box.com/v/AvHabModSummary">executive summary</a> and <a href="https://storymaps.arcgis.com/stories/3ceca87f5e544265aee6d516ee95aec9">storymap.</a> You can find a <a href="https://pspwa.box.com/s/9suop9ggo6h08v630vf90oum5cyj5kgm">video overview here</a>.</p></td>
 						<td><p>Amanda Summers, Stillaguamish Tribes of Indians; Trina Bayard, Audubon Washington </p></td>
 					</tr>
 					<tr>
-					<td><strong>Prioritization of Contaminants of Emerging Concern</strong></td>
+					<td>Prioritization of Contaminants of Emerging Concern</td>
 						<td><p>This project will identify and prioritize a suite of contaminants of emerging concern (CECs), based on biological relevance, to focus future monitoring efforts and provide the information necessary for a management response. Hundreds of CECs such as pharmaceuticals, plasticizers, pesticides, and others have been detected in Puget Sound. It is critical that we prioritize limited funding to address the chemicals of greatest concern and for future regulatory requirements. This project is still in development, but the project has developed a one-page overview regarding the process linked <a href="https://pspwa.box.com/s/dtw2o073imaqivbbqm6ikzytstuo7y7q">here</a>. You can find a <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">video overview here</a>.</p></td>
 						<td><p>Andy James, University of Washington Tacoma; Ruth Sofield, Western Washington University</p></td>
 					</tr>
 					<tr>
-						<td><strong>Juvenile Salmonid Monitoring in Large Puget Sound Rivers</strong></td>
+						<td>Juvenile Salmonid Monitoring in Large Puget Sound Rivers</td>
 					<td><p>Juvenile salmonid monitoring is a critical component of understanding both freshwater productivity and marine survival. Juvenile monitoring is necessary to isolate the effect of freshwater habitats on productivity trends and hence understand the effectiveness of freshwater habitat restoration efforts. Along with adult abundance measures, juvenile monitoring will be used to track progress towards the Puget Sound Partnership’s Salmon Vital Sign targets. The project will identify shared trends in abundance, productivity, and life history metrics through time across multiple rivers. The project aims to demonstrate the value of an interconnected network of juvenile salmon monitoring in large Puget Sound rivers to conservation and management. The project will also derive some preliminary information from data collected across the network. The project has developed a one-page overview of the process and project linked <a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764">here</a>. You can find a <a href="https://pspwa.box.com/s/yahbdzph6x2oolm8n0orvljvfsn9ej9c">video overview here</a>.</p></td>
 						<td><p>Joe Anderson and Peter Lisi, Washington Department of Fish and Wildlife; Dawn Pucci, Island County</p></td>
 					</tr>
 					<tr>
-					<td><strong>Birds Vital Sign, Abundance of marine birds indicator</strong></td>
+					<td>Birds Vital Sign, Abundance of marine birds indicator</td>
 						<td><p>Process annual mid-winter WDFW PSAMP seabird and waterfowl survey flight data; marine and terrestrial bird indicator updates; winter birds web map; Pigeon Guillemot citizen science data gathering, storage and summary tools. </p></td>
 						<td><p>Scott Pearson, Washington Department of Fish and Wildlife.</p></td>
 					</tr>
 					<tr>
-					<td><strong>Drinking Water Vital Sign, Index of vulnerability for elevated nitrates in groundwater indicator</strong></td>
+					<td>Drinking Water Vital Sign, Index of vulnerability for elevated nitrates in groundwater indicator</td>
 						<td><p>Model for index of vulnerability to nitrates in groundwater; first Vital Sign indicator report for the vulnerability index indicator. </p></td>
 						<td><p>Rick Dinicola, United States Geological Survey.</p></td>
 					</tr>
 					<tr>
-					<td><strong>Economic Vitality Vital Sign, Employment, output and percent employment in natural resource industries indicator</strong></td>
+					<td>Economic Vitality Vital Sign, Employment, output and percent employment in natural resource industries indicator</td>
 						<td><p>Data compilation and analysis; annual update for three economic indicators in 2022. Vital Sign key messages. </p></td>
 						<td><p>Katrina Wellman, Northern Economics Inc; Susan Burke, EcoResource Group and Green Economics. </p></td>
 					</tr>
 					<tr>
-					<td><strong>Outdoor Activities Vital Sign, Condition of swimming beaches indicator</strong></td>
+					<td>Outdoor Activities Vital Sign, Condition of swimming beaches indicator</td>
 						<td><p>Maintain monitoring, data compilation, analyses and reporting at high-use, high-risk Puget Sound marine beaches for fecal indicator bacteria and communicate to the public when a risk of disease is identified. Indicator update in PS Info. </p></td>
 						<td><p>Julianne Ruffner, Washington Department of Ecology.</p></td>
 					</tr>
 					<tr>
-					<td><strong>Shoreline Armor Vital Sign, HPA based indicator of new and removed armor</strong></td>
+					<td>Shoreline Armor Vital Sign, HPA based indicator of new and removed armor</td>
 						<td><p>HPA-based data compilation; Vital Sign indicator reporting for 2019 and 2020; Vital Sign decadal summary report and final data product. </p></td>
 						<td><p>Doris Small, Washington State Department of Fish and Wildlife.</p></td>
 					</tr>
 					<tr>
-					<td><strong>Cultural Wellbeing, Good Governance, Sense of Place, Sound Stewardship, Local Foods and Outdoor Activity Vital Signs, subjective human wellbeing indicators</strong></td>
+					<td>Cultural Wellbeing, Good Governance, Sense of Place, Sound Stewardship, Local Foods and Outdoor Activity Vital Signs, subjective human wellbeing indicators</td>
 						<td><p>Second general survey (in 2020) and report in support of the subjective human wellbeing indicators to report on. Survey of Latinx communities. Draft and final updates to each Vital Sign indicator reports, submitted via PS Info, based on general subjective HWB VS survey; Draft and final updates to each Vital Sign indicator reports via PS Info, based on Latinx survey; Key messages for Sense of Place submitted via PS Info; Presentations to Social Sciences Advisory Group; Inputs to State of the Sound report. Indicators: Participation in cultural practices; Good Governance Index; Locally harvestable foods; Nature-based recreation; Nature-based work; Overall life satisfaction; Psychological Wellbeing Index; Sense of Place Index; Engagement in stewardship activities). </p></td>
 						<td><p>Kelly Biedenweg, Oregon State University.</p></td>
 					</tr>
 					<tr>
-					<td><strong>Toxics in Fish Vital Sign, Contaminants in juvenile salmon indicator</strong></td>
+					<td>Toxics in Fish Vital Sign, Contaminants in juvenile salmon indicator</td>
 						<td><p>Assess compatibility of historical data; assess time trends; indicator update for contaminants in juvenile salmon; draft manuscript and communication product.</p></td>
 						<td></td>
 					</tr>
