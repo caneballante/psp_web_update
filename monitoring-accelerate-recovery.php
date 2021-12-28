@@ -84,6 +84,22 @@
 			<p>Project descriptions and more information coming soon. <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">See the 2021-2023 award announcement</a>.</p>
 		<h3>Projects funded in 2019-2021:</h3>
 		<p>The Partnership funded the following projects using funding allocated to support PSEMP work groups and reporting of the Vital Signs during the 2019-21 biennium:</p>
+			<table class="table-condensed table-bordered table-striped">
+			<thead>
+				<tr>
+				<th>Project title</th>
+				<th>Description</th>
+				<th>Project leads</th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr>
+					<td><strong>Nearshore Summit and Synthesis</strong></td>
+					<td><p>This virtual nearshore summit, held from March 10-25, 2021, included about 80 speakers representing over 50 institutions and over 500 registrants. The goal is to connect restoration scientists and practitioners to synthesize nearshore science and restoration actions in Puget Sound to create a durable roadmap that updates restoration conceptual models and identifies key uncertainties for future research and management to address. You can find more information about the summit <a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit">here.</a> You can find a <a href="https://pspwa.box.com/s/giimspgmm6j23u0jlau96vh9al91zcnl">video overview here</a>.</p></td>
+					<td><p>Project Leads: Tish Conway-Cranos, Washington Department of Fish and Wildlife; Jason Toft, University of Washington; David Trimbach, Oregon State University</p></td>
+					</tr>
+				</tbody>
+			</table>
 		<ul>
 		<li><strong>Nearshore Summit and Synthesis</strong>
 			<p>This virtual nearshore summit, held from March 10-25, 2021, included about 80 speakers representing over 50 institutions and over 500 registrants. The goal is to connect restoration scientists and practitioners to synthesize nearshore science and restoration actions in Puget Sound to create a durable roadmap that updates restoration conceptual models and identifies key uncertainties for future research and management to address. You can find more information about the summit <a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit">here.</a> You can find a <a href="https://pspwa.box.com/s/giimspgmm6j23u0jlau96vh9al91zcnl">video overview here</a>.</p>
