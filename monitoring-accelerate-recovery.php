@@ -84,7 +84,7 @@
 			<p>Project descriptions and more information coming soon. <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">See the 2021-2023 award announcement</a>.</p>
 		<h3>Projects funded in 2019-2021:</h3>
 		<p>The Partnership funded the following projects using funding allocated to support PSEMP work groups and reporting of the Vital Signs during the 2019-21 biennium:</p>
-			<table class="table-condensed table-bordered table-striped">
+			<table class="table-responsive table-bordered table-striped">
 			<thead>
 				<tr>
 				<th>Project title</th>
