@@ -180,13 +180,9 @@
 						<h5>Kristin Hayman</h5>
 						<p>Ecosystem Recovery Coordinator<br>
 							360.480.0475 | <a href="mailto:kristin.hayman@psp.wa.gov">kristin.hayman@psp.wa.gov </a></p>
-
-						<h5>Leah Kintner</h5>
-						<p>Ecosystem Recovery Manager (outgoing)<br>
-							360.480.2880 | <a href="mailto:leah.kintner@psp.wa.gov">leah.kintner@psp.wa.gov </a></p>
 			
 						<h5>Laura (Ferguson) Rivas</h5>
-						<p>Ecosystem Recovery Manager (incoming)<br>
+						<p>Ecosystem Recovery Manager<br>
 							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
 
 						<h5>Amber Moore</h5>
