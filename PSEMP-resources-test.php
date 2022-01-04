@@ -73,10 +73,10 @@
 					<div class="card">
 							<div class="card-body">
 							<div class="d-inline">
-								<h6 class="margin-0-top margin-10-right">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h6> 
+								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h6> 
 					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="150" height="112" alt=""/></a></span>
 	 	 		    
-					<p><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new">Download</a></p>
+					<p><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Download</a></p>
 					
 						</div></div></div></div><!--end col-->
 				<div class="col-md-4">
