@@ -75,8 +75,8 @@
 			<p>The Puget Sound Partnership (Partnership) funds projects every biennium that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects are funded via a formal project solicitation process. Priority is given to projects that support the <strong>objectives</strong> of the <a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2">Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan</a> to <strong>increase collaboration, support adaptive management, and improve communication.</strong> </p>
 			
 			<p>Successful projects also address cross-cutting principles of <strong>integrating biophysical and social sciences, justice, equity, diversity, and inclusion (JEDI), and climate change.</strong></p>
-		<span class="no-icon"><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl"><img src="images/PSEMP/PSP_Monitoring_RFP_2021-1.jpg" class="img-responsive" alt=""/></a>
-		<p><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl">See 2021-2023 Monitoring to Accelerate Recovery solicitation for reference.</a></p>
+		<span class="no-icon"><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl" target="new"><img src="images/PSEMP/PSP_Monitoring_RFP_2021-1.jpg" class="img-responsive" alt=""/></a>
+		<p><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl" target="new">See 2021-2023 Monitoring to Accelerate Recovery solicitation for reference.</a></p>
 		
 		
 		<hr>
