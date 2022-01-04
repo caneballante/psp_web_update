@@ -131,7 +131,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Puget Sound Day on the Hill</h6> 
-					<span class="no-icon"><a href="https://psdoth.org"><img src="images/news-images/2019-day-on-the-hill.jpg" class="img-responsive" alt=""/></a> 
+					<span class="no-icon"><a href="https://psdoth.org"><img src="images/news-images/2019-day-on-the-hill.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products img-rounded"><a href="https://psdoth.org">View</a></p></span>
 								<p class="psemp-products">convallis aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus</p><br>
 					
