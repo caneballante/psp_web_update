@@ -74,7 +74,7 @@
 							<div class="card-body">
 							<div class="d-inline">
 								
-					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="300" height="224" alt=""/></a></span>
+					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="200" height="150" alt=""/></a></span>
 								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h6> 
 	 	 		    
 					<p><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Download</a></p>
@@ -85,7 +85,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					
-					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program.jpg" width="300" height="224" alt=""/></a>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program.jpg" width="200" height="150" alt=""/></a>
 						<h6 class="margin-0-top">2019 Recommendations for a Puget Sound Estuary Avian Monitoring Strategy</h6> 
 					<p><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Download</a></p></span> 
 							</div></div></div></div> 
@@ -95,7 +95,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h6> 
-					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="300" height="224" alt=""/></a> 
+					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="200" height="150" alt=""/></a> 
 					<p><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Download</a></p></span>
 							</div></div></div></div></div> <!--end col-->
 			
