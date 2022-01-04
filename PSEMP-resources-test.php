@@ -107,7 +107,7 @@
 							<div class="d-inline">
 					<h6 class="margin-0-top margin-20-right">Puget Sound Ecosystem Monitoring Strategic Plan</h6> 
 					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan.jpg" width="150" height="112" alt=""/></a> 
-					<p><a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">Download</a></p></span>
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">Download</a></p></span>
 					
 							</div></div></div></div> <!--end col-->
 				
@@ -117,7 +117,7 @@
 							<div class="d-inline">
 					<h6 class="margin-0-top">Shoreline Monitoring Toolbox</h6> 
 					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox.jpg" width="150" height="112" alt=""/></a> 
-					<p><a href="https://sites.google.com/a/uw.edu/toolbox/home">View</a></p></span>
+					<p class="psemp-products"><a href="https://sites.google.com/a/uw.edu/toolbox/home">View</a></p></span>
 					
 							</div></div></div></div> <!--end col-->
 				<div class="col-md-4">
@@ -126,7 +126,7 @@
 							<div class="d-inline">
 					<h6 class="margin-0-top">Puget Sound Day on the Hill</h6> 
 					<span class="no-icon"><a href="https://psdoth.org"><img src="images/news-images/2019-day-on-the-hill.jpg" width="150" height="112" alt=""/></a> 
-					<p><a href="https://psdoth.org">View</a></p></span>
+					<p class="psemp-products"><a href="https://psdoth.org">View</a></p></span>
 					
 							</div></div></div></div> <!--end col-->
 				
@@ -138,7 +138,7 @@
 							<div class="d-inline">
 					<h6 class="margin-0-top">PS Info</h6> 
 					<span class="no-icon"><a href="https://www.pugetsoundinfo.wa.gov/"><img src="images/news-images/ANEP-news.jpg" width="150" height="112" alt=""/></a> 
-					<p><a href="https://www.pugetsoundinfo.wa.gov/">View</a></p></span>
+					<p class="psemp-products"><a href="https://www.pugetsoundinfo.wa.gov/">View</a></p></span>
 					
 							</div></div></div></div> <!--end col-->
 				
@@ -148,7 +148,7 @@
 							<div class="d-inline">
 					<h6 class="margin-0-top">Making Waves</h6> 
 					<span class="no-icon"><a href="https://makingwaves.psp.wa.gov/"><img src="images/news-images/EarthDayBlog.jpg" width="150" height="112" alt=""/></a> 
-					<p><a href="https://makingwaves.psp.wa.gov/">View</a></p></span>
+					<p class="psemp-products"><a href="https://makingwaves.psp.wa.gov/">View</a></p></span>
 					
 							</div></div></div></div> <!--end col-->
 				<div class="col-md-4">
@@ -157,7 +157,7 @@
 							<div class="d-inline">
 					<h6 class="margin-0-top">State of the Sound</h6> 
 					<span class="no-icon"><a href="https://stateofthesound.wa.gov/"><img src="images/news-images/FallCityPSAR.jpg" width="150" height="112" alt=""/></a> 
-					<p><a href="https://stateofthesound.wa.gov/">View</a></p></span>
+					<p class="psemp-products"><a href="https://stateofthesound.wa.gov/">View</a></p></span>
 					
 							</div></div></div></div> <!--end col-->
 				
