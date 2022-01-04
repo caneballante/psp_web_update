@@ -85,7 +85,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">2019 Recommendations for a Puget Sound Estuary Avian Monitoring Strategy</h6>
-					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program-products.jpg" class="img-responsive" alt=""/></a>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program-products.jpg" class="img-responsive img-rounded" alt=""/></a>
 						 
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Download</a></p></span>
 								<p class="psemp-products">The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to develop a common framework for monitoring birds.</p><br>
@@ -96,7 +96,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h6> 
-					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018-products.jpg" class="img-responsive" alt=""/></a> 
+					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018-products.jpg" class="img-responsive img-rounded" alt=""/></a> 
 						
 					<p class="psemp-products"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Download</a></p></span>
 								<p class="psemp-products">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea.</p><br>
@@ -110,7 +110,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top margin-20-right">Puget Sound Ecosystem Monitoring Strategic Plan</h6> 
-					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan-products.jpg" class="img-responsive" alt=""/></a> 
+					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan-products.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">Download</a></p></span>
 								<p class="psemp-products">This plan includes a goal for PSEMP to convene subject matter experts to communicate scientific information from different parts of the ecosystem to address key management and science questions for recovery of the ecosystem.</p><br>
 					
@@ -121,7 +121,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Shoreline Monitoring Toolbox</h6> 
-					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox-products.jpg" class="img-responsive" alt=""/></a> 
+					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox-products.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://sites.google.com/a/uw.edu/toolbox/home">View</a></p></span>
 								<p class="psemp-products">This toolbox emphasizes methods that are simple and affordable, and that can be used for monitoring.</p><br>
 					
@@ -132,7 +132,7 @@
 							<div class="d-inline">
 					<h6 class="margin-0-top">Puget Sound Day on the Hill</h6> 
 					<span class="no-icon"><a href="https://psdoth.org"><img src="images/news-images/2019-day-on-the-hill.jpg" class="img-responsive" alt=""/></a> 
-					<p class="psemp-products"><a href="https://psdoth.org">View</a></p></span>
+					<p class="psemp-products img-rounded"><a href="https://psdoth.org">View</a></p></span>
 								<p class="psemp-products">convallis aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus</p><br>
 					
 							</div></div></div></div> <!--end col-->
@@ -145,7 +145,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">PS Info</h6> 
-					<span class="no-icon"><a href="https://www.pugetsoundinfo.wa.gov/"><img src="images/news-images/ANEP-news.jpg" class="img-responsive" alt=""/></a> 
+					<span class="no-icon"><a href="https://www.pugetsoundinfo.wa.gov/"><img src="images/news-images/ANEP-news.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://www.pugetsoundinfo.wa.gov/">View</a></p></span>
 								<p class="psemp-products">convallis aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus</p><br>
 					
@@ -156,7 +156,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Making Waves</h6> 
-					<span class="no-icon"><a href="https://makingwaves.psp.wa.gov/"><img src="images/news-images/EarthDayBlog.jpg" class="img-responsive" alt=""/></a> 
+					<span class="no-icon"><a href="https://makingwaves.psp.wa.gov/"><img src="images/news-images/EarthDayBlog.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://makingwaves.psp.wa.gov/">View</a></p></span>
 								<p class="psemp-products">convallis aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus</p><br>
 					
@@ -166,7 +166,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">State of the Sound</h6> 
-					<span class="no-icon"><a href="https://stateofthesound.wa.gov/"><img src="images/news-images/FallCityPSAR.jpg" class="img-responsive" alt=""/></a> 
+					<span class="no-icon"><a href="https://stateofthesound.wa.gov/"><img src="images/news-images/FallCityPSAR.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://stateofthesound.wa.gov/">View</a></p></span>
 								<p class="psemp-products">convallis aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus</p><br>
 					
