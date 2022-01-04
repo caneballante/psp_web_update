@@ -76,7 +76,7 @@
 								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h6>
 					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" width="200" height="150" alt=""/></a>
 	 	 		    
-					<p class="small"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Download</a></p></span>
+					<p><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Download</a></p></span>
 					
 						</div></div></div></div><!--end col-->
 				<div class="col-md-4">
