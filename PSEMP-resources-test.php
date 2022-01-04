@@ -77,6 +77,7 @@
 					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" class="img-responsive" alt=""/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Download</a></p></span>
+								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2020.</p>
 					
 						</div></div></div></div><!--end col-->
 				<div class="col-md-4">
@@ -107,7 +108,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top margin-20-right">Puget Sound Ecosystem Monitoring Strategic Plan</h6> 
-					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan.jpg" class="img-responsive" alt=""/></a> 
+					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan-products.jpg" class="img-responsive" alt=""/></a> 
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">Download</a></p></span>
 					
 							</div></div></div></div> <!--end col-->
