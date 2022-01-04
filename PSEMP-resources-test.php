@@ -88,7 +88,7 @@
 					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program-products.jpg" class="img-responsive" alt=""/></a>
 						 
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Download</a></p></span>
-								<p class="psemp-products">The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to develop a common framework for monitoring birds</p>
+								<p class="psemp-products">The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to develop a common framework for monitoring birds.</p>
 							</div></div></div></div> 
 				<!--end col-->
 				<div class="col-md-4">
@@ -99,6 +99,7 @@
 					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018-products.jpg" class="img-responsive" alt=""/></a> 
 						
 					<p class="psemp-products"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Download</a></p></span>
+								<p class="psemp-products">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea.</p>
 							</div></div></div></div></div> <!--end col-->
 			
 					 <!--end col-->
