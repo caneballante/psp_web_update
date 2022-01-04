@@ -100,6 +100,7 @@
 							</div></div></div></div></div> <!--end col-->
 			
 					 <!--end col-->
+			<hr>
 			<div class="row text-left">	
 			<div class="col-md-4">
 					<div class="card">
@@ -131,6 +132,7 @@
 							</div></div></div></div> <!--end col-->
 				
 	</div><!--end row-->
+			<hr>
 			<div class="row text-left">	
 			<div class="col-md-4">
 					<div class="card">
