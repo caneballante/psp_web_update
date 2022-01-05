@@ -70,7 +70,7 @@
 		 <h1 class="margin-0-top">EXECUTIVE DIRECTOR'S OFFICE</h1>
             <h5>Laura Blackmore</h5>
             			<p>Executive Director<br />
-               			 360.628.7707 | <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a></p>
+               			 360.628.7707 | <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a> | Follow on Twitter <a href="https://twitter.com/pspdirector" target="new">@pspdirector</a></p>
             
 						<h5>Todd Hass</h5>
 						<p> Special Assistant to the Director<br />
@@ -294,7 +294,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 11/30/21</p>
+	<p class="last-update">Last updated: 01/05/22</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
