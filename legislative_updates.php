@@ -74,7 +74,7 @@
 				<ul>
 				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
 					<li><a href="https://psp.wa.gov/puget-sound-budget.php">Click here</a> to see the Puget Sound Budget, including new interactive data viewers.</li>
-					<li>Check back soon for new interactive tools such as the Puget Sound Bill Tracker.</li>
+					
 				</ul>
 			</div>
 			
@@ -96,16 +96,30 @@
 			</form>
 			<!-- /input-group --> 
 		</div>
+			
+			<h2 class="margin-0-top">2022 Legislative Session</h2>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/303c1c3" target="new">General session info</a></p>
+			<p><a href="https://pspwa.box.com/s/jpjpse9blqc9ujikty5l9dduf5a8feyk" target="new">2022 legislative priorities</a></p><br>
+			
+			
+			
+            
+            
+           
+          
+			
 
+			<hr></hr>
+		
 			
-			
-			<h2 class="margin-0-top">2021 Legislative SESSION</h2>
+		<h2>Legislative Updates and Calendar Archives</h2>
+		
+		<h2 class="margin-0-top">2021 Legislative SESSION</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b3fb0d" target="_blank">General session info</a></p><br>
-			<h3 class="margin-0-top">BUDGET:</h3>
-			<p><a href="https://pspwa.box.com/s/wmdpr9w05ow7072pqym99ufwmo39akpf" target="_blank">Download the 2021-23 Budget Rankings</a></p>
+			
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2c3e8c6" target="_blank">Legislative Update, February 25, 2021</a></p>
-			<p><span class="new-red">NEW</span>&nbsp;<a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a></p>
+			<p><a href="https://pspwa.box.com/s/ijmtcakxz74czarprxc690osiztrdlxm" target="_blank">Legislative Wrap-Up, May 7, 2021</a></p>
 			<h3 class="margin-0-top"> Legislative CALENDAR:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2a9eeed" target="_blank">Pre-session Committee Work Sessions</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b4a857" target="_blank">Week 1, January 11 - 15, 2021</a></p>
@@ -141,18 +155,7 @@
 			<p><a href="https://pspwa.box.com/s/vkl7utmxuuoqpmdrg2cqsff63xn7j2tc" target="_blank">April 16, 2021 call recording</a> and <a href="https://pspwa.box.com/s/odwp6bviyx3pptf8pxka0qc9anak52az" target="_blank">presentation</a></p>
 			<p><a href="https://pspwa.box.com/s/7pgpf20gbxlm0ejk0dp8b7qy464lks67" target="_blank">April 23, 2021 call recording</a> and <a href="https://pspwa.box.com/s/97uvocmp9o14vqslyr5a0ai438ams7kc" target="_blank">presentation</a></p>
 			<p><a href="https://pspwa.box.com/s/fiq2bkzr4jvlduptisdwiixln4nbfmmp" target="_blank">April 30, 2021 call recording</a> and <a href="https://pspwa.box.com/s/8okz7u3ixg9tdkl7k5188ctzwk2f7q7s" target="_blank">presentation</a></p>
-            
-            
-           
-            
-			<h3 class="margin-20-top"> LEGISLATIVE AGENDA:</h3>
-			
-
-			<hr></hr>
-		
-			
-		<h2>Legislative Updates and Calendar Archives</h2>
-		
+		<hr>
 		<h2 class="margin-0-top">2020 Legislative SESSION</h2>
 			<h3 class="margin-0-top"> Legislative CALENDAR:</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2734ea5">Week 1, January 13 - 17, 2020</a></p>
