@@ -78,7 +78,7 @@
 				<ul>
 				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
 					<li><a href="https://psp.wa.gov/puget-sound-budget.php">Click here</a> to see the Puget Sound Budget, including new interactive data viewers.</li>
-					<li>Check back soon for new interactive tools such as the Puget Sound Bill Tracker.</li>
+					
 				</ul>
 			</div>
 			
