@@ -100,14 +100,9 @@
 			<h2 class="margin-0-top">2022 Legislative Session</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/303c1c3" target="new">General session info</a></p>
 			<p><a href="https://pspwa.box.com/s/jpjpse9blqc9ujikty5l9dduf5a8feyk" target="new">2022 legislative priorities</a></p><br>
-			
-			
-			
-            
-            
-           
-          
-			
+			<br>
+			<br>
+			<br>
 
 			<hr></hr>
 		
