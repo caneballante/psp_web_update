@@ -69,7 +69,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<div class="highlightbox col-md-9 margin-0-top margin-20-bottom">
+		<div class="highlightbox margin-0-top margin-20-bottom">
 			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
 				<ul>
 				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
