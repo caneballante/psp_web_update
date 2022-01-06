@@ -77,7 +77,7 @@
 			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
 				<ul>
 				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
-					<li>Check back soon for new interactive tools such as the Puget Sound Bill Tracker.</li>
+					
 				</ul>
 			</div>
 			
