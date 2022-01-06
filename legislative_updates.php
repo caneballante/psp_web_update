@@ -69,7 +69,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<div class="highlightbox margin-0-top margin-20-bottom">
+		<div class="highlightbox col-md-6 margin-0-top margin-20-bottom">
 			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
 				<ul>
 				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
@@ -247,7 +247,7 @@
 			<p><a href="https://pspwa.box.com/s/e9rn1ckyd5u1ljol5he0t6obmjxlj35w">View 2014 materials</a></p>
 			<p><a href="https://pspwa.box.com/s/i36bxnm4gogzeaye44345erld870ny5y">View 2013 materials</a> </p>
 			<p><a href="https://pspwa.box.com/s/m1ixjryou2m4la3j1sdocfj9umcsws41">View 2012 materials</a></p>
-			<p class="last-update">Last updated: 05/03/21</p>
+			<p class="last-update">Last updated: 01/06/22</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
