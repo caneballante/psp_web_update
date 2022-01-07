@@ -85,7 +85,7 @@
 			<h3>2022 Legislative Updates</h3>
    			<div class="embed-responsive-16by9">
 				
-			<IFRAME class="embed-responsive-item" SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5"></IFRAME>
+			<IFRAME class="embed-responsive-item" SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5" allowfullscreen></IFRAME>
 			</div>
 			<br>
 			<br>
