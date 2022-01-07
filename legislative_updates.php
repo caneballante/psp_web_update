@@ -69,8 +69,6 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="row text-left">
-				<div class="col-md-6">
 			<div class="highlightbox margin-0-top margin-20-bottom">
 			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
 				<ul>
@@ -79,29 +77,7 @@
 					
 				</ul>
 			</div>
-				</div>
-				<div class="col-md-6">
-				<div class="width-200-govdelivery-doth border-thick-blue floatright">
-			<h3 class="padding-0-top">SIGN UP TO RECEIVE LEGISLATIVE INFORMATION </h3>
-			<p>You will have the option to sign up to recieve our weekly legislative calendar and our legislative newsletter.</p>
-			<!-- input-group -->
-			<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" method="post">
-				<div style="margin:0;padding:0;display:inline">
-					<input name="utf8" type="hidden" value="&#x2713;" />
-					<input name="authenticity_token" type="hidden" value="fXc9Agz7AcvdGFrlZjdPUw+SlYejhPQacu3TIB3KBAQ=" />
-				</div>
-				<div class="input-group">
-					<input type="text" class="form-control" id="email" name="email" type="text" placeholder="your email..."/>
-					<span class="input-group-btn">
-					<button class="btn btn-default" name="commit" type="submit" value="Submit">SUBMIT</button>
-				</span> </div><br>
-				<p>If you would like to join the Partnership's weekly legislative update calls (Fridays at 11:30 a.m.), please email Don Gourlie at <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>.</p>
-			</form>
-			<!-- /input-group --> 
-		</div>
-				</div>
-			</div>
-			
+				
 			
 			<h2 class="margin-0-top">2022 Legislative Session</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/303c1c3" target="new">General session info</a></p>
