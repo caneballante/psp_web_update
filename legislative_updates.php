@@ -78,28 +78,14 @@
 				</ul>
 			</div>
 			
-			<div class="width-300-govdelivery-doth border-thick-blue floatright padding-10-all">
-			<h3 class="padding-0-top">SIGN UP TO RECEIVE LEGISLATIVE INFORMATION </h3>
-			<p>You will have the option to sign up to recieve our weekly legislative calendar and our legislative newsletter.</p>
-			<!-- input-group -->
-			<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" method="post">
-				<div style="margin:0;padding:0;display:inline">
-					<input name="utf8" type="hidden" value="&#x2713;" />
-					<input name="authenticity_token" type="hidden" value="fXc9Agz7AcvdGFrlZjdPUw+SlYejhPQacu3TIB3KBAQ=" />
-				</div>
-				<div class="input-group">
-					<input type="text" class="form-control" id="email" name="email" type="text" placeholder="your email..."/>
-					<span class="input-group-btn">
-					<button class="btn btn-default" name="commit" type="submit" value="Submit">SUBMIT</button>
-				</span> </div><br>
-				<p>If you would like to join the Partnership's weekly legislative update calls (Fridays at 11:30 a.m.), please email Don Gourlie at <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>.</p>
-			</form>
-			<!-- /input-group --> 
-		</div>
+			
 			
 			<h2 class="margin-0-top">2022 Legislative Session</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/303c1c3" target="new">General session info</a></p>
 			<p><a href="https://pspwa.box.com/s/jpjpse9blqc9ujikty5l9dduf5a8feyk" target="new">2022 legislative priorities</a></p><br>
+			<h3>2022 Legislative Updates</h3>
+    <IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5"></IFRAME>
+
 			<br>
 			<br>
 			<br>
@@ -261,6 +247,25 @@
 				<p>Olympia Office<br>
 					1110 Capitol Way South<br>
 					Olympia, WA  98501</p>
+				
+				<div class="width-200-govdelivery-doth border-thick-blue">
+			<h3 class="padding-0-top">SIGN UP TO RECEIVE LEGISLATIVE INFORMATION </h3>
+			<p>You will have the option to sign up to recieve our weekly legislative calendar and our legislative newsletter.</p>
+			<!-- input-group -->
+			<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/WAPSP/subscribers/qualify" method="post">
+				<div style="margin:0;padding:0;display:inline">
+					<input name="utf8" type="hidden" value="&#x2713;" />
+					<input name="authenticity_token" type="hidden" value="fXc9Agz7AcvdGFrlZjdPUw+SlYejhPQacu3TIB3KBAQ=" />
+				</div>
+				<div class="input-group">
+					<input type="text" class="form-control" id="email" name="email" type="text" placeholder="your email..."/>
+					<span class="input-group-btn">
+					<button class="btn btn-default" name="commit" type="submit" value="Submit">SUBMIT</button>
+				</span> </div><br>
+				<p>If you would like to join the Partnership's weekly legislative update calls (Fridays at 11:30 a.m.), please email Don Gourlie at <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a>.</p>
+			</form>
+			<!-- /input-group --> 
+		</div>
 				
 				<!-- InstanceEndEditable -->
 			</ul>
