@@ -83,10 +83,8 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/303c1c3" target="new">General session info</a></p>
 			<p><a href="https://pspwa.box.com/s/jpjpse9blqc9ujikty5l9dduf5a8feyk" target="new">2022 legislative priorities</a></p><br>
 			<h3>2022 Legislative Updates</h3>
-   			<div class="embed-responsive-16by9">
 				
-			<IFRAME class="embed-responsive-item" width=850 height=700 SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5"></IFRAME>
-			</div>
+			<IFRAME width=850 height=700 SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5"></IFRAME>
 
 			<hr></hr>
 		
