@@ -84,7 +84,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/303c1c3" target="new">General session info</a></p>
 			<p><a href="https://pspwa.box.com/s/jpjpse9blqc9ujikty5l9dduf5a8feyk" target="new">2022 legislative priorities</a></p><br>
 			<h3>2022 Legislative Updates</h3>
-    <div class="container-fluid"><IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5"></IFRAME></div>
+    <IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5"></IFRAME>
 
 			<br>
 			<br>
@@ -248,7 +248,7 @@
 					1110 Capitol Way South<br>
 					Olympia, WA  98501</p>
 				
-				<div class="width-200-govdelivery-doth border-thick-blue">
+				<div class="width-200-govdelivery-doth border-thick-blue floatright">
 			<h3 class="padding-0-top">SIGN UP TO RECEIVE LEGISLATIVE INFORMATION </h3>
 			<p>You will have the option to sign up to recieve our weekly legislative calendar and our legislative newsletter.</p>
 			<!-- input-group -->
