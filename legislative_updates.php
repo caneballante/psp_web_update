@@ -84,7 +84,7 @@
 			<p><a href="https://pspwa.box.com/s/jpjpse9blqc9ujikty5l9dduf5a8feyk" target="new">2022 legislative priorities</a></p><br>
 			<h3>2022 Legislative Updates</h3>
 				
-			<IFRAME width=800 height=700 SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5"></IFRAME>
+			<IFRAME width=1000 height=700 SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5"></IFRAME>
 
 			<hr></hr>
 		
