@@ -51,8 +51,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Puget Sound Partnership Nearshore Credits:<br></h1>
-			<h4> An Endangered Species Act conservation credit provider</h4>
+			<h1>Puget Sound Partnership Nearshore Credits</h1>
 			
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -70,35 +69,52 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits Program:</h2>
-			<p>Puget Sound’s <a href="https://www.fisheries.noaa.gov/feature-story/protecting-critical-value-nearshore-habitat" target="_blank">nearshore ecosystems are some of the most productive and biologically varied areas in the region</a>, providing habitat for shellfish, salmon species, forage fish, invertebrates, and other wildlife. The nearshore is also where people fish from piers, launch boats from marinas, and build shipping terminals. The population growth in the Puget Sound region means that more people are using nearshore areas, and human needs must be balanced against the need to protect nearshore ecosystems.</p>
-
-<p>The Puget Sound Partnership is launching <a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target="_blank">Puget Sound Partnership Nearshore Credits: An Endangered Species Act conservation credit provider (Partnership Nearshore Credits program)</a>, with technical assistance from the National Marine Fisheries Service (NMFS), the U.S. Fish and Wildlife Service (USFWS), and other partners. The Partnership Nearshore Credits program streamlines the permitting process for building residential or commercial in- and over-water structures and protects habitat for Endangered Species Act (ESA)-listed species within the nearshore ecosystem.  
-</p>
+			<div><IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://wa-psp.maps.arcgis.com/apps/webappviewer/index.html?id=4f2d7590db1a46d1bef2d980c1801463"></IFRAME></div>
+			<br>
+			<p>The Puget Sound Partnership Nearshore Credits Program sells conservation credits to help federal permit applicants meet obligations to offset impacts to critical habitat and uses funds from those credit sales to implement equivalent conservation projects. The credits represent units of nearshore habitat function (as quantified by <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">a calculator developed by the National Marine Fisheries Service</a>).
+			</p>
 			
+			<h2>Steps to purchase Partnership nearshore credits</h2>
+			<ol>
+				<li><strong>Permit applicant</strong> (or their consultant) determines conservation debits using the <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">Puget Sound Nearshore Conservation Calculator</a>.</li>
+				<li><strong>Permit applicant</strong> submits a completed calculator as part of <a href="https://www.epermitting.wa.gov/site/alias__resourcecenter/9978/default.aspx" target="new">permit application to the US Army Corps of Engineers (COE)</a>. Applicants should also indicate their intention to purchase Partnership conservation credits in that application package.</li>
+				<li>COE submits the permit applicant’s calculator as part of a consultation package to the National Marine Fisheries Service (NMFS).</li>
+				<li>NMFS works with permit applicants on avoiding impacts, minimizing impacts, and finalizing conservation offsets needed for unavoidable impacts.</li>
+				<li>At the end of consultation, NMFS informs the Partnership of all finalized calculators.</li>
+				<li><strong>Permit applicant</strong> submits project information and  NMFS-verified final calculator to <a href="mailto:pspnc@psp.wa.gov">pspnc@psp.wa.gov</a>. See map above to determine relevant service area for credits.</li>
+				<li>Partnership verifies eligibility, requests any additional data, and provides presale agreement to the permittee. </li>
+				<li><strong>Permit applicant</strong> and Partnership sign conservation credit presale agreement. Permittee may use the fully executed conservation credit presale agreement to satisfy outstanding conservation obligations, per their final Reasonable and Prudent Alternative decision from NMFS.</li>
+				<li><strong>Permit applicant</strong> pays purchase price and the Partnership confirms transfer of credit responsibility. Payment must be received by the expiration date in the presale agreement.</li>
+			
+			</ol>
+			
+			<p>NOTE: If other federal, local, or state agencies also require mitigation, and that mitigation was not already included in the conservation calculator, <strong>it is the applicant's responsibility to clarify with those agencies whether the conservation credits provided by the Puget Sound Partnership would meet those obligations.</strong></p>
+<p>The Partnership Nearshore Credits program is not a mitigation bank.
+</p>
 			<h2>How the Partnership Nearshore Credits program works</h2>
 			<p>When applicants seek federal permits for maintenance and development work that will adversely affect nearshore habitat, applicants can quantify those impacts using <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank">a conservation calculator developed by NOAA scientists</a> and informed by input from other state and federal agencies.</p>
-
-			<p>To benefit from the expedited process through ESA regulations, the permit applicant can offset the habitat impacts with either on-site or off-site conservation or the purchase of sufficient conservation credits through the Partnership Nearshore Credits program. Off-site restoration – whether conducted by the applicant or paid for by the purchase of conservation credits – must occur within the same regional service area as the permitted project and be quantified by the conservation calculator.</p> 
-
-			<p>The Puget Sound Partnership selects the conservation projects to generate credits, tracks their progress, and reports on those projects. The Partnership sets the price for conservation credits, sells the credits, and assumes responsibility for the conservation work. The funded conservation projects will initially entail the removal of creosote-soaked pilings or piers. These projects are cost-effective and provide benefits for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/1" target="_blank">human health</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/6" target="_blank">water quality</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/4" target="_blank">shoreline habitat</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/20" target="_blank">forage fish</a>, and the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/3" target="_blank">marine food web</a> (with benefits to salmon and orcas). 
-			</p>
-			<img class="img-responsive" src="images/pspnc-graphic-vertical.png" width="800" height="1422" alt="infographic that shows the process steps for the Puget Sound Partnership Nearshore Credits program"/>
-			<h2>The Partnership Nearshore Credits program supports expedited regulatory compliance while conserving vital habitat</h2>
-			<p>Ensuring that adverse habitat effects from projects are fully offset by conservation activities secures habitat features that ESA-listed species need to thrive. That balancing of impacts with benefits, along with the standards the Partnership Nearshore Credits program will adhere to, give the regulatory agencies the confidence they need to quickly analyze how construction projects will affect ESA-listed species.</p>
-
-<p>One of the other advantages of this approach is that it provides a method for restoration work to happen close to the permit site. Creosote-soaked piers and pilings are widespread throughout Puget Sound, so the conservation projects funded by the sale of credits through the Partnership Nearshore Credits program will be located in the same area as the permitted project. 
-</p>
-		<span class="floatright margin-20-left"><figure><a href="https://wa-psp.maps.arcgis.com/apps/webappviewer/index.html?id=4f2d7590db1a46d1bef2d980c1801463"><img class="img-responsive" src="images/PSPNCMAP.jpg" width="450" height="459" alt="Graphic of service areas within Puget Sound"/></a><figcaption class="margin-20-bottom">Permitted nearshore work will be offset with conservation<br> projects in the same service area.</figcaption></figure></span>	
 			
-		<h2>The Partnership Nearshore Credits program provides conservation credits for obligations under Endangered Species Act Section 7 consultations</h2>
-			<p>The Puget Sound Partnership provides conservation credits for obligations under Endangered Species Act (ESA) Section 7 consultations. If other federal, local, or state agencies also require mitigation, and that mitigation was not already included in the conservation calculator, it is the applicant's responsibility to clarify with those agencies whether the conservation credits provided by the Puget Sound Partnership would meet those obligations. For example, Puget Sound Partnership Nearshore Credits may not be used to satisfy compensatory mitigation obligations under Section 404 of the Clean Water Act.</p>
-
-<p>The Partnership Nearshore Credits program is not a mitigation bank, or an in-lieu fee program.</p>
+			<p>After working with NMFS to avoid and minimize habitat impacts, permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through the Partnership Nearshore Credits program.</p>
+			
+			<p>The Partnership aggregates funds from credits purchase, selects conservation projects to generate credits, tracks their progress, and reports on those projects. The Partnership sets the price for conservation credits, sells the credits, and assumes responsibility for the conservation work.</p>
+			
+			<p>Off-site restoration – whether conducted by the applicant or paid for by the purchase of conservation credits – must occur within the same regional service area as the permitted project (see map above) and be quantified by the conservation calculator.</p>
+			
+			<h2>Nearshore ecosystems and the Puget Sound Partnership Nearshore Credits Program</h2>
+			<p>Puget Sound’s <a href="https://www.fisheries.noaa.gov/feature-story/protecting-critical-value-nearshore-habitat" target="_blank">nearshore ecosystems are some of the most productive and biologically varied areas in the region</a>, providing habitat for shellfish, salmon species, forage fish, invertebrates, and other wildlife. The nearshore is also where people fish from piers, launch boats from marinas, and build shipping terminals. The population growth in the Puget Sound region means that more people are using nearshore areas, and human needs must be balanced against the need to protect nearshore ecosystems.</p>
+			
+			<p>The Partnership Nearshore Credits program streamlines the permitting process for repairing or replacing residential or commercial in- and over-water structures and protects habitat for Endangered Species Act (ESA)-listed species within the nearshore ecosystem.</p>
+			
+			<p>The funded conservation projects will initially entail the removal of creosote-soaked pilings or piers, in partnership with the <a href="https://www.dnr.wa.gov/programs-and-services/aquatics/restoration/creosote-removal" target="new">Department of Natural Resources' Creosote Removal Program</a>. These projects are cost-effective and provide benefits for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/1" target="_blank">human health</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/6" target="_blank">water quality</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/4" target="_blank">shoreline habitat</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/20" target="_blank">forage fish</a>, and the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/3" target="_blank">marine food web</a> (with benefits to salmon and orcas). </p>
+			
+			<p>Creosote-treated pilings leach chemicals into the sediments and water column throughout their lifetime. Creosote causes extremely high mortality and developmental abnormalities in herring eggs. Herring are an important forage fish in Puget Sound and a critical food source for our migrating salmon, which in turn are the primary food source for endangered Southern Resident Orcas.</p>
+			
+			<p>In addition to creosote removal, the Partnership will explore opportunities to remove shoreline armoring. Shoreline armoring disrupts natural erosion, which would otherwise supply much of the sand and gravel that forms and maintains our beaches and creates habitat for many other species.</p>
+			
 			
 		<h2>The Partnership Nearshore Credits program is the result of collaboration</h2>
 			<p>Environmental Science Associates (ESA) did foundational work for the Partnership with the Partnership Nearshore Credits program and provided valuable thought leadership for the initiative. The Partnership gratefully acknowledges ESA’s work in scoping out the conservation credit functions for the Partnership Nearshore Credits program.  </p>
-			<p class="last-update">Last updated: 09/29/21</p>
+			<p class="last-update">Last updated: 01/07/22</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
@@ -110,6 +126,7 @@
 				<li class="active" role="presentation"> <?php include 'includes/pspnc_contact.html';?></li>
 				<li class="active" role="presentation"><button class=button><a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank" style="color:white">Puget Sound Nearshore Habitat Conservation Calculator</a></button></li>
 				<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+				<li class="active" role="presentation"><a href="https://www.noaa.gov/news-release/army-and-noaa-to-advance-endangered-species-act-consultations" target="new"><strong>Army and NOAA to advance Enganged Species Act consulations</strong></a></li>
 				<li class="active" role="presentation"><a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target ="_blank"><strong>Puget Sound Partnership credits will fund nearshore conservation</strong></a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
