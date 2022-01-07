@@ -87,9 +87,6 @@
 				
 			<IFRAME class="embed-responsive-item" width=850 height=700 SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5"></IFRAME>
 			</div>
-			<br>
-			<br>
-			<br>
 
 			<hr></hr>
 		
