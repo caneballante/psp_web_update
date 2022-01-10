@@ -73,8 +73,8 @@
 					<div class="card">
 							<div class="card-body">
 							<div class="d-inline">
-								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2018 OVERVIEW</h6>
-					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2018.jpg" class="img-responsive img-rounded" alt=""/></a>
+								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2020 OVERVIEW</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/u6q5ew70y5qx8vx2qjaa4uijmtwfhebt.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2020.jpg" class="img-responsive img-rounded" alt=""/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Download</a></p></span>
 								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2020.</p><br>
