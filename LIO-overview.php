@@ -83,7 +83,7 @@
 				<li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization" target="new">Snohomish/Stillaguamish LIO </a></li>
 				<li><a href="https://www.piercecountywa.gov/6341/PWR-LIO" target="new">Puyallup-White River LIO (PWR LIO)</a></li>
 			</ul>
-			<p><a href="https://wa-psp.maps.arcgis.com/apps/MapSeries/index.html?appid=24cb5422c760478d9200346eebfde5c9"><img class="img-responsive" src="images/LIOsPresentation.jpg" width="1000" height="900" alt=""/></a></p>
+			<p><a href="https://wa-psp.maps.arcgis.com/apps/webappviewer/index.html?id=bce72e6f26c640e5a485db8951951117" target="new"><img class="img-responsive" src="images/LIOsPresentation.jpg" width="1000" height="900" alt=""/></a></p>
 			<p>&nbsp;</p>
 		<!-- InstanceEndEditable --> </div>
 		
@@ -93,7 +93,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/nxli7o61pnjxx4rkmo7nokcjh9huc0kf">LIO Ecosystem Recovery Plans</a></li>
-				<li class="active" role="presentation"> <a href="http://psp.wa.gov/gis/LocalAreas/">LIO Geography Maps</a></li>
+				<li class="active" role="presentation"> <a href="https://wa-psp.maps.arcgis.com/apps/webappviewer/index.html?id=bce72e6f26c640e5a485db8951951117" target="new">LIO Geography Map</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/v/ECONetInfo">ECO Net Information</a></li>
 				
 				<!-- InstanceEndEditable -->
