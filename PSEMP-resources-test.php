@@ -74,10 +74,10 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">PS Info</h6> 
-					<span class="no-icon"><a href="https://www.pugetsoundinfo.wa.gov/"><img src="images/news-images/ANEP-news.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://www.pugetsoundinfo.wa.gov/">View</a></p></span>
-								<p class="psemp-products">convallis aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus</p><br>
+					<h6 class="margin-0-top">Toxics in Fish Vital Sign, Contaminants in juvenile salmon indicator</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11"><img src="images/news-images/salmon.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11">View</a></p></span>
+								<p class="psemp-products">Assess compatibility of historical data; assess time trends; indicator update for contaminants in juvenile salmon; draft manuscript and communication product.</p><br>
 					
 							</div></div></div></div> <!--end col-->
 				
@@ -95,10 +95,10 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">State of the Sound</h6> 
-					<span class="no-icon"><a href="https://stateofthesound.wa.gov/"><img src="images/news-images/FallCityPSAR.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://stateofthesound.wa.gov/">View</a></p></span>
-								<p class="psemp-products">convallis aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus</p><br>
+					<h6 class="margin-0-top">Toxics in Fish Vital Sign, Contaminants in juvenile salmon indicator</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11"><img src="images/news-images/salmon.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11">View</a></p></span>
+								<p class="psemp-products">Assess compatibility of historical data; assess time trends; indicator update for contaminants in juvenile salmon; draft manuscript and communication product.</p><br>
 					
 							</div></div></div></div> <!--end col-->
 				
