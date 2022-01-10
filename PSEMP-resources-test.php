@@ -122,7 +122,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">2019 Recommendations for a Puget Sound Estuary Avian Monitoring Strategy</h6>
-					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program-products.jpg" class="img-responsive img-rounded" alt=""/></a>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/teal.jpg" class="img-responsive img-rounded" alt=""/></a>
 						 
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Download</a></p></span>
 								<p class="psemp-products">The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to develop a common framework for monitoring birds.</p><br>
