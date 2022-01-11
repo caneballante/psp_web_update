@@ -74,8 +74,8 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">Toxics in Fish Vital Sign, Contaminants in juvenile salmon indicator</h6> 
-					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11"><img src="images/news-images/salmon.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<h6 class="margin-0-top">Shoreline Armor Vital Sign, HPA-based indicator of new and removed armor</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/16"><img src="images/news-images/salmon.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11">View</a></p></span>
 								<p class="psemp-products">Assess compatibility of historical data; assess time trends; indicator update for contaminants in juvenile salmon; draft manuscript and communication product.</p><br>
 					
