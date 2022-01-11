@@ -85,10 +85,10 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">Healthy Human Population and Vibrant Human Quality of Life Vital Signs</h6> 
+					<h6 class="margin-0-top">Subjective human wellbeing indicators</h6> 
 					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/"><img src="images/PSEMP/crabbing.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/">View</a></p></span>
-								<p class="psemp-products">Second general survey (in 2020) and report in support of the subjective human wellbeing indicators to report on. Survey of Latinx communities. Reported on Cultural Wellbeing, Good Governance, Sense of Place, Sound Stewardship, Local Foods and Outdoor Activity Vital Signs.</p><br>
+								<p class="psemp-products">This project included a second general survey (in 2020) and report in support of the subjective human wellbeing indicators. Survey of Latinx communities. Reported on Cultural Wellbeing, Good Governance, Sense of Place, Sound Stewardship, Local Foods and Outdoor Activity Vital Signs.</p><br>
 					
 							</div></div></div></div> <!--end col-->
 				<div class="col-md-4">
