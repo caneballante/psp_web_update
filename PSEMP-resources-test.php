@@ -95,10 +95,10 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">State of the Sound</h6> 
-					<span class="no-icon"><a href="https://stateofthesound.wa.gov/"><img src="images/news-images/FallCityPSAR.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://stateofthesound.wa.gov/">View</a></p></span>
-								<p class="psemp-products">convallis aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus</p><br>
+					<h6 class="margin-0-top">Outdoor Activities Vital Sign, Condition of swimming beaches indicator</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/6"><img src="images/news-images/FallCityPSAR.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/6">View</a></p></span>
+								<p class="psemp-products">This project included monitoring, data compilation, analyses, and reporting at Puget Sound marine beaches for fecal indicator bacteria, and communication to the public when a risk of disease was identified.</p><br>
 					
 							</div></div></div></div> <!--end col-->
 				
