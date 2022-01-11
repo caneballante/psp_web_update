@@ -75,9 +75,9 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Shoreline Armor Vital Sign, HPA-based indicator of new and removed armor</h6> 
-					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/16"><img src="images/news-images/salmon.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11">View</a></p></span>
-								<p class="psemp-products">Assess compatibility of historical data; assess time trends; indicator update for contaminants in juvenile salmon; draft manuscript and communication product.</p><br>
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/16"><img src="images/PSEMP/shoreline-armoring.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/16">View</a></p></span>
+								<p class="psemp-products">This project included HPA-based data compilation; Vital Sign indicator reporting for 2019 and 2020; and a Vital Sign decadal summary report and final data product.</p><br>
 					
 							</div></div></div></div> <!--end col-->
 				
