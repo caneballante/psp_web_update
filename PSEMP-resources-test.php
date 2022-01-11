@@ -88,7 +88,7 @@
 					<h6 class="margin-0-top">Subjective human wellbeing indicators</h6> 
 					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/"><img src="images/PSEMP/crabbing.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/">View</a></p></span>
-								<p class="psemp-products">This project included a second survey and report in support of the subjective human wellbeing indicators. Reported on Cultural Wellbeing, Good Governance, Sense of Place, Sound Stewardship, Local Foods and Outdoor Activity Vital Signs.</p><br>
+								<span class="no-icon"><p class="psemp-products">This project included a second survey and report in support of the subjective human wellbeing indicators. Reported on <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/21" target="new">Cultural Wellbeing</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/23" target="new">Good Governance</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/24" target="new">Sense of Place</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/25" target="new">Sound Stewardship</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/4" target="new">Local Foods</a> and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/6" target="new">Outdoor Activity Vital Signs</a>.</p><br></span>
 					
 							</div></div></div></div> <!--end col-->
 				<div class="col-md-4">
