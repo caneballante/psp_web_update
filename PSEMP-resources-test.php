@@ -197,8 +197,11 @@
 						 
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Download</a></p></span>
 								<p class="psemp-products">The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to develop a common framework for monitoring birds.</p><br>
-							</div></div></div></div> 
+							</div></div></div></div>
+				
+				
 				<!--end col-->
+				<div class="row text-left">
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -208,11 +211,11 @@
 						
 					<p class="psemp-products"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Download</a></p></span>
 								<p class="psemp-products">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea.</p><br>
-							</div></div></div></div></div> <!--end col-->
+							</div></div></div></div> <!--end col-->
 			
 					 <!--end col-->
 			
-			<div class="row text-left">	
+				
 			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -234,6 +237,9 @@
 								<p class="psemp-products">This toolbox emphasizes methods that are simple and affordable, and that can be used for monitoring.</p><br>
 					
 							</div></div></div></div> <!--end col-->
+				</div>
+				
+				<div class="row text-left">	
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
