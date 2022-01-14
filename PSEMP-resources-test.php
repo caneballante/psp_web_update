@@ -75,9 +75,9 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Avian Habitat Suitability Models for Puget Sound Estuary Birds</h6> 
-					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53"><img src="images/PSEMP/groundwater.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53">View</a></p></span>
-								<span class="no-icon"><p class="psemp-products">This project includes a model for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53">index of vulnerability to nitrates in groundwater</a> and the first Vital Sign indicator report for the vulnerability index indicator.</p></span><br>
+					<span class="no-icon"><img src="images/PSEMP/pintail.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://pspwa.box.com/v/AvHabModSummary">Overview</a> | <a href="https://storymaps.arcgis.com/stories/3ceca87f5e544265aee6d516ee95aec9">Storymap</a> | <a href="https://pspwa.box.com/s/9suop9ggo6h08v630vf90oum5cyj5kgm">Video</a></p></span>
+								<span class="no-icon"><p class="psemp-products">Puget Sound and the Salish Sea support significant concentrations of shorebirds, waterfowl, and other marine bird species. This project develops science products that support the management needs of estuary birds.</p></span><br>
 					
 							</div></div></div></div> <!--end col-->
 				
