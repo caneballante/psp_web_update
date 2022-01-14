@@ -85,7 +85,7 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">Economic Vitality Vital Sign indicators</h6> 
+					<h6 class="margin-0-top">Prioritization of Contaminants of Emerging Concern</h6> 
 					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/22"><img src="images/PSEMP/economic-vitality.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/22">View</a></p></span>
 								<p class="psemp-products">This project includes data compilation and analysis, annual update for three economic indicators in 2022, and Vital Sign key messages.</p><br>
