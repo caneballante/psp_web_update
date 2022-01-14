@@ -95,10 +95,10 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">Outdoor Activities Vital Sign, Condition of swimming beaches indicator</h6> 
-					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/6"><img src="images/PSEMP/swimming-beaches.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/6">View</a></p></span>
-								<p class="psemp-products">This project included monitoring, data compilation, analyses, and reporting at Puget Sound marine beaches for fecal indicator bacteria, and communication to the public when a risk of disease was identified.</p><br>
+					<h6 class="margin-0-top">Birds Vital Sign, Abundance of marine birds indicator</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/3"><img src="images/PSEMP/marine-birds.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/3">View</a></p></span>
+								<p class="psemp-products">This project includes processing annual mid-winter WDFW PSAMP seabird and waterfowl survey flight data; marine and terrestrial bird indicator updates; winter birds web map; Pigeon Guillemot citizen science data gathering, storage and summary tools.</p><br>
 					
 							</div></div></div></div> <!--end col-->
 				
