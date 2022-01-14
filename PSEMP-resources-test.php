@@ -69,7 +69,7 @@
 	
 		<div class="container-fluid">
 			
-			<div class="row text-left">	
+			
 			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -91,6 +91,21 @@
 								<p class="psemp-products">This project includes data compilation and analysis, annual update for three economic indicators in 2022, and Vital Sign key messages.</p><br>
 					
 							</div></div></div></div> <!--end col-->
+			
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Economic Vitality Vital Sign indicators</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/22"><img src="images/PSEMP/economic-vitality.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/22">View</a></p></span>
+								<p class="psemp-products">This project includes data compilation and analysis, annual update for three economic indicators in 2022, and Vital Sign key messages.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+			
+			</div><!--end row-->
+			
+			<div class="row text-left">
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -101,10 +116,8 @@
 								<p class="psemp-products">This project includes processing annual mid-winter WDFW PSAMP seabird and waterfowl survey flight data; marine and terrestrial bird indicator updates; winter birds web map; Pigeon Guillemot citizen science data gathering, storage and summary tools.</p><br>
 					
 							</div></div></div></div> <!--end col-->
-				
-	</div>	
 			
-			<div class="row text-left">	
+
 			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -126,6 +139,9 @@
 								<p class="psemp-products">This project includes data compilation and analysis, annual update for three economic indicators in 2022, and Vital Sign key messages.</p><br>
 					
 							</div></div></div></div> <!--end col-->
+			</div><!--end row-->
+			
+			<div class="row text-left">
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -137,10 +153,7 @@
 					
 							</div></div></div></div> <!--end col-->
 				
-	</div>	
 			
-			
-			<div class="row text-left">	
 			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -162,6 +175,9 @@
 								<span class="no-icon"><p class="psemp-products">This project included a second survey and report in support of the subjective human wellbeing indicators. Reported on <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/21" target="new">Cultural Wellbeing</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/23" target="new">Good Governance</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/24" target="new">Sense of Place</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/25" target="new">Sound Stewardship</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/4" target="new">Local Foods</a> and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/6" target="new">Outdoor Activity Vital Signs</a>.</p><br></span>
 					
 							</div></div></div></div> <!--end col-->
+			</div><!--end row-->
+			
+			<div class="row text-left">
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -173,10 +189,6 @@
 					
 							</div></div></div></div> <!--end col-->
 				
-	</div>
-			
-			
-			<div class="row text-left">
 				<div class="col-md-4">
 					<div class="card">
 							<div class="card-body">
@@ -188,6 +200,7 @@
 								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2020.</p><br>
 					
 						</div></div></div></div><!--end col-->
+				
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -197,11 +210,10 @@
 						 
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Download</a></p></span>
 								<p class="psemp-products">The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to develop a common framework for monitoring birds.</p><br>
-							</div></div></div></div>
+							</div></div></div></div><!--end col-->
+			</div><!--end row-->
 				
-				
-				<!--end col-->
-				<div class="row text-left">
+			<div class="row text-left">
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -212,9 +224,6 @@
 					<p class="psemp-products"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Download</a></p></span>
 								<p class="psemp-products">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea.</p><br>
 							</div></div></div></div> <!--end col-->
-			
-					 <!--end col-->
-			
 				
 			<div class="col-md-4">
 					<div class="card">
@@ -237,21 +246,7 @@
 								<p class="psemp-products">This toolbox emphasizes methods that are simple and affordable, and that can be used for monitoring.</p><br>
 					
 							</div></div></div></div> <!--end col-->
-				</div>
-				
-				<div class="row text-left">	
-				<div class="col-md-4">
-					<div class="card">
-						<div class="card-body">
-							<div class="d-inline">
-					<h6 class="margin-0-top">Puget Sound Day on the Hill</h6> 
-					<span class="no-icon"><a href="https://psdoth.org"><img src="images/news-images/2019-day-on-the-hill.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products img-rounded"><a href="https://psdoth.org">View</a></p></span>
-								<p class="psemp-products">convallis aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus</p><br>
-					
-							</div></div></div></div> <!--end col-->
-				
-	</div><!--end row-->
+				</div><!--end row-->
 			
 		</div><!--end container-->
 <!-- InstanceEndEditable --> </div>
