@@ -69,7 +69,7 @@
 	
 		<div class="container-fluid">
 			
-			
+		<div class="row text-left">
 			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
