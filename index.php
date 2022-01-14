@@ -109,7 +109,22 @@
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
 		<div class="row margin-20-top">
-				<!--COLUMN START-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+				  <div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/2022-leg.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> 
+					<strong>RESOURCE</strong><br>
+					  <a href="https://psp.wa.gov/government-relations.php">Tools for tracking state legislative affairs during the 2022 session</a><br>
+						<!--END news content BOX-->  
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		    <!--COLUMN END-->
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -184,21 +199,7 @@
 				
 			</div>
 		<!--COLUMN END-->	
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/BillyFrankJrNews.jpg"  alt="Photo Billy Frank Jr. laughing. Photo credit: Northwest Indian Fisheries Commission."/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/remembering-billy-frank-jr-6115d04791e0" target="_blank">Remembering Billy Frank Jr.</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
+			
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
