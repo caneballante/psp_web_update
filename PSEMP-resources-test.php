@@ -85,10 +85,10 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">Making Waves</h6> 
-					<span class="no-icon"><a href="https://makingwaves.psp.wa.gov/"><img src="images/news-images/EarthDayBlog.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://makingwaves.psp.wa.gov/">View</a></p></span>
-								<p class="psemp-products">convallis aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus</p><br>
+					<h6 class="margin-0-top">Economic Vitality Vital Sign indicators</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/22"><img src="images/news-images/EarthDayBlog.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/22">View</a></p></span>
+								<p class="psemp-products">This project includes data compilation and analysis, annual update for three economic indicators in 2022, and Vital Sign key messages.</p><br>
 					
 							</div></div></div></div> <!--end col-->
 				<div class="col-md-4">
