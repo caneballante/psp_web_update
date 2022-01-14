@@ -74,10 +74,10 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">PS Info</h6> 
-					<span class="no-icon"><a href="https://www.pugetsoundinfo.wa.gov/"><img src="images/news-images/ANEP-news.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://www.pugetsoundinfo.wa.gov/">View</a></p></span>
-								<p class="psemp-products">convallis aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus</p><br>
+					<h6 class="margin-0-top">Drinking Water Vital Sign indicator</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53"><img src="images/news-images/ANEP-news.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53">View</a></p></span>
+								<span class="no-icon"><p class="psemp-products">This project includes a model for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53">index of vulnerability to nitrates in groundwater</a> and the first Vital Sign indicator report for the vulnerability index indicator.</p></span><br>
 					
 							</div></div></div></div> <!--end col-->
 				
