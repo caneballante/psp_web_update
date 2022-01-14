@@ -96,10 +96,10 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">Economic Vitality Vital Sign indicators</h6> 
-					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/22"><img src="images/PSEMP/economic-vitality.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/22">View</a></p></span>
-								<p class="psemp-products">This project includes data compilation and analysis, annual update for three economic indicators in 2022, and Vital Sign key messages.</p><br>
+					<h6 class="margin-0-top">Juvenile Salmonid Monitoring in Large Puget Sound Rivers</h6> 
+					<span class="no-icon"><img src="images/PSEMP/smolt-traps.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764">Overview</a> | <a href="https://pspwa.box.com/s/yahbdzph6x2oolm8n0orvljvfsn9ej9c">Video</a></p></span>
+								<p class="psemp-products">Juvenile salmonid monitoring is a key component of understanding freshwater productivity and marine survival. The project identified trends in abundance, productivity, and life history metrics through time across multiple rivers.</p><br>
 					
 							</div></div></div></div> <!--end col-->
 			
