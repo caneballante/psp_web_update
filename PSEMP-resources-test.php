@@ -87,8 +87,8 @@
 							<div class="d-inline">
 					<h6 class="margin-0-top">Fundamental Environmental Contextual Metrics Dashboard</h6> 
 					<span class="no-icon"><img src="images/PSEMP/fundamental-metrics.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://pspwa.box.com/s/dtw2o073imaqivbbqm6ikzytstuo7y7q">Overview</a> | <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">Video</a></p></span>
-								<p class="psemp-products">This project prioritizes contaminants of emerging concern (CECs) for monitoring efforts and management responses. Hundreds of CECs such as pharmaceuticals, plasticizers, and pesticides have been found in Puget Sound.</p><br>
+					<p class="psemp-products"><a href="https://docs.google.com/presentation/d/1KWrj6mEqaT-tytLMIW4_TCNAJTPnxX7yh9vW28dhc7w/edit#slide=id.p">Overview</a> | <a href="https://pspwa.box.com/s/z5rl1g2z3e7gkt4g89n8jtlopsfyrzok">Video</a></p></span>
+								<p class="psemp-products">This project uses data from oceanographic and atmospheric measurement programs to develop six fundamental environmental metrics and compare current status to historical values. The metrics will be available on a web-based dashboard.</p><br>
 					
 							</div></div></div></div> <!--end col-->
 			
