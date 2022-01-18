@@ -75,9 +75,9 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Nearshore Summit and Synthesis</h6> 
-					<span class="no-icon"><img src="images/PSEMP/pintail.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://pspwa.box.com/v/AvHabModSummary">Overview</a> | <a href="https://storymaps.arcgis.com/stories/3ceca87f5e544265aee6d516ee95aec9">Storymap</a> | <a href="https://pspwa.box.com/s/9suop9ggo6h08v630vf90oum5cyj5kgm">Video</a></p></span>
-								<span class="no-icon"><p class="psemp-products">Puget Sound and the Salish Sea support significant concentrations of shorebirds, waterfowl, and other marine bird species. This project develops science products that support the management needs of estuary birds.</p></span><br>
+					<span class="no-icon"><img src="images/PSEMP/nearshore.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit">Overview</a> | <a href="https://storymaps.arcgis.com/stories/3ceca87f5e544265aee6d516ee95aec9">Storymap</a> | <a href="https://pspwa.box.com/s/giimspgmm6j23u0jlau96vh9al91zcnl">Video</a></p></span>
+								<span class="no-icon"><p class="psemp-products">The goals of this virtual summit were to synthesize nearshore science and restoration actions in Puget Sound and create a roadmap that updates restoration conceptual models and identifies uncertainties to address.</p></span><br>
 					
 							</div></div></div></div> <!--end col-->
 				
