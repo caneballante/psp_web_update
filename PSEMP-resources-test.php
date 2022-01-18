@@ -184,8 +184,8 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Outdoor Activities Vital Sign, Condition of swimming beaches indicator</h6> 
-					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/6"><img src="images/PSEMP/swimming-beaches.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/6">View</a></p></span>
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/35"><img src="images/PSEMP/swimming-beaches.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/35">View</a></p></span>
 								<p class="psemp-products">This project included monitoring, data compilation, analyses, and reporting at Puget Sound marine beaches for fecal indicator bacteria, and communication to the public when a risk of disease was identified.</p><br>
 					
 							</div></div></div></div> <!--end col-->
@@ -196,7 +196,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Shoreline Armor Vital Sign, indicator of new and removed armor</h6> 
-					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/16"><img src="images/PSEMP/shoreline-armoring.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/42"><img src="images/PSEMP/shoreline-armoring.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/42">View</a></p></span>
 								<p class="psemp-products">This project included HPA-based data compilation; Vital Sign indicator reporting for 2019 and 2020; and a Vital Sign decadal summary report and final data product.</p><br>
 					
@@ -220,7 +220,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Toxics in Fish Vital Sign, Contaminants in juvenile salmon indicator</h6> 
-					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11"><img src="images/news-images/salmon.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/49"><img src="images/news-images/salmon.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/49">View</a></p></span>
 								<p class="psemp-products">This project assessed compatibility of historical data and assessed time trends. The project included an indicator update for contaminants in juvenile salmon and a draft manuscript and communication product.</p><br>
 					
