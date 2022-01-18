@@ -68,6 +68,42 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
 		<div class="container-fluid">
+		
+		<div class="row text-left">
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Avian Habitat Suitability Models for Puget Sound Estuary Birds</h6> 
+					<span class="no-icon"><img src="images/PSEMP/pintail.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://pspwa.box.com/v/AvHabModSummary">Overview</a> | <a href="https://storymaps.arcgis.com/stories/3ceca87f5e544265aee6d516ee95aec9">Storymap</a> | <a href="https://pspwa.box.com/s/9suop9ggo6h08v630vf90oum5cyj5kgm">Video</a></p></span>
+								<span class="no-icon"><p class="psemp-products">Puget Sound and the Salish Sea support significant concentrations of shorebirds, waterfowl, and other marine bird species. This project develops science products that support the management needs of estuary birds.</p></span><br>
+					
+							</div></div></div></div> <!--end col-->
+				
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Prioritization of Contaminants of Emerging Concern</h6> 
+					<span class="no-icon"><img src="images/PSEMP/CECS.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/dtw2o073imaqivbbqm6ikzytstuo7y7q">Overview</a> | <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">Video</a></p></span>
+								<p class="psemp-products">This project prioritizes contaminants of emerging concern (CECs) for monitoring efforts and management responses. Hundreds of CECs such as pharmaceuticals, plasticizers, and pesticides have been found in Puget Sound.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+			
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Juvenile Salmonid Monitoring in Large Puget Sound Rivers</h6> 
+					<span class="no-icon"><img src="images/PSEMP/smolt-traps.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764">Overview</a> | <a href="https://pspwa.box.com/s/yahbdzph6x2oolm8n0orvljvfsn9ej9c">Video</a></p></span>
+								<p class="psemp-products">Juvenile salmonid monitoring is a key component of understanding freshwater productivity and marine survival. The project identified trends in abundance, productivity, and life history metrics through time across multiple rivers.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+			
+			</div><!--end row-->	
 			
 		<div class="row text-left">
 			<div class="col-md-4">
