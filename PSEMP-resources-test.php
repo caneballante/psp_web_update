@@ -221,7 +221,7 @@
 							<div class="d-inline">
 					<h6 class="margin-0-top">Toxics in Fish Vital Sign, Contaminants in juvenile salmon indicator</h6> 
 					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11"><img src="images/news-images/salmon.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/11">View</a></p></span>
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/49">View</a></p></span>
 								<p class="psemp-products">This project assessed compatibility of historical data and assessed time trends. The project included an indicator update for contaminants in juvenile salmon and a draft manuscript and communication product.</p><br>
 					
 							</div></div></div></div> <!--end col-->
