@@ -94,14 +94,15 @@
 			
 			<div class="col-md-4">
 					<div class="card">
-						<div class="card-body">
+							<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">Juvenile Salmonid Monitoring in Large Puget Sound Rivers</h6> 
-					<span class="no-icon"><img src="images/PSEMP/smolt-traps.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764">Overview</a> | <a href="https://pspwa.box.com/s/yahbdzph6x2oolm8n0orvljvfsn9ej9c">Video</a></p></span>
-								<p class="psemp-products">Juvenile salmonid monitoring is a key component of understanding freshwater productivity and marine survival. The project identified trends in abundance, productivity, and life history metrics through time across multiple rivers.</p><br>
+								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2020 OVERVIEW</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/u6q5ew70y5qx8vx2qjaa4uijmtwfhebt.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2020.jpg" class="img-responsive img-rounded" alt=""/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/shared/static/sjmkmdwvu60vzrarmfxl88slh36ejj5l.pdf">Download</a></p></span>
+								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2020.</p><br>
 					
-							</div></div></div></div> <!--end col-->
+						</div></div></div></div><!--end col-->
 			
 			</div><!--end row-->	
 			
