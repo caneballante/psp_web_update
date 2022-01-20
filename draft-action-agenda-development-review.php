@@ -85,14 +85,13 @@ navSelected = 5;
 				</ol>
 			
 			<h3>Action Agenda Development Timeline<sup>*</sup></h3>
-				<ul>
-					<li><strong>January 26 – February 9, 2022</strong>: Draft Action Agenda shared with Partnership boards and partners for review. Click here to access the draft 2022-2026 Action Agenda. Comments on the draft Action Agenda during this review period are welcomed by all boards and partners.</li>
-					<li><strong>February 2022</strong>: Partnership staff incorporate feedback from boards and partners. Note that ECB members will have an additional week – until the date of the ECB meeting on February 16 – to review the drafts. </li>
-					<li><strong>March – April 2022</strong>: 
+				<ul>	
+					<li><p><strong>February 2022</strong>: Partnership staff incorporate feedback from boards and partners. Note that ECB members will have an additional week – until the date of the ECB meeting on February 16 – to review the drafts.</p></li>
+					<li><p><strong>March – April 2022</strong>:</p> 
 						<ul>
-							<li>Draft high-level actions and Action Agenda presented to the Leadership Council for review and approval on March 2.</li> 
-							<li>Draft Action Agenda shared for public review</li>
-							<li>Partnership staff incorporate feedback based on public review</li>
+							<li><p>Draft high-level actions and Action Agenda presented to the Leadership Council for review and approval on March 2.</p></li> 
+							<li><p>Draft Action Agenda shared for public review</p></li>
+							<li><p>Partnership staff incorporate feedback based on public review</p></li>
 						</ul>
 					</li>
 					<li><strong>May 2022</strong>: Final  final document layout and graphics</li>
