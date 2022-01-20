@@ -94,7 +94,7 @@ navSelected = 5;
 							<li><p>Partnership staff incorporate feedback based on public review</p></li>
 						</ul>
 					</li>
-					<li><p><strong>May 2022</strong>: Final  final document layout and graphics</p></li>
+					<li><p><strong>May 2022</strong>: Final document layout and graphics</p></li>
 					<li><p><strong>June 2022</strong>: Final Action Agenda presented to the Leadership Council for approval and adoption</p></li>
 					<li><p><strong>August 2022</strong>: Action Agenda presented to the Environmental Protection Agency (EPA) for approval as the National Estuary Program’s (NEP) Comprehensive Conservation Management Plan (CCMP) for Puget Sound</p></li>
 					<li><p><strong>Summer-Fall 2022</strong>: Public outreach and engagement</p></li>
