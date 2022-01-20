@@ -96,11 +96,11 @@ navSelected = 5;
 					<li><strong>May 2022</strong>: Final  final document layout and graphics</li>
 					<li><strong>June 2022</strong>: Final Action Agenda presented to the Leadership Council for approval and adoption </li>
 					<li><strong>August 2022</strong>: Action Agenda presented to the Environmental Protection Agency (EPA) for approval as the National Estuary Program’s (NEP) Comprehensive Conservation Management Plan (CCMP) for Puget Sound </li>
-					<li>Summer-Fall 2022: Public outreach and engagement</li>
+					<li><strong>Summer-Fall 2022</strong>: Public outreach and engagement</li>
 				</ul>
 			
 			
-		<p><strong>For answers to questions</strong> If you have questions about the 2022-2026 Action Agenda update process or would like a briefing on phase 4, please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>), Kaitlin Harris (<a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov</a>), Wren McNally (<a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a>).</p>
+	
 			<p class="last-update">Last updated: 10/26/21</p>
 
         <!-- InstanceEndEditable --> </div>
