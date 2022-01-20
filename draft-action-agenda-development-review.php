@@ -71,7 +71,7 @@ navSelected = 5;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><p>We are accepting comments from Partnership boards and partners on the draft 2022-2026 Action Agenda until <strong>February 9, 2022</strong>. Click here to access the draft 2022-2026 Action Agenda. Comments on the draft Action Agenda during this review period are welcomed by all boards and partners. Please see the Action Agenda update and review timeline below for additional review periods. </p></div>
+			<div class="highlightbox margin-0-top margin-20-bottom"><p>We are accepting comments from Partnership boards and partners on the draft 2022-2026 Action Agenda until <strong>February 9, 2022</strong>. Click here to access the draft 2022-2026 Action Agenda. Comments on the draft Action Agenda during this review period are welcomed by all boards and partners. Please see the Action Agenda Development Timeline below for additional review periods. </p></div>
 			
 			
 						
