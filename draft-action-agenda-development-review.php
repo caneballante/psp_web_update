@@ -78,6 +78,12 @@ navSelected = 5;
 			<h2>WHAT IS THE 2022—2026 ACTION AGENDA?</h2>
 			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it complements and incorporates the work of many partners to describe strategies and high-level actions needed to recover a healthy and resilient Puget Sound. These strategies and high-level actions provide opportunities for federal, tribal, state, local, and private entities to better invest resources and coordinate action.</p>
 			
+			<p>The Action Agenda has two components:
+				<ol>
+					<li><strong>The Comprehensive Plan</strong> charts the course for long-term PS recovery and describes and reflects how the broader recovery system and framework functions. It describes how people work together to create and adapt science-informed plans for different aspects of Puget Sound recovery. Content in the 2022-2026 Action Agenda Comprehensive Plan summarizes the risks of Puget Sound, articulates our recovery vision, and provides the framework to act and work towards that vision.</li>
+					<li><strong>The Implementation Plan</strong> is the action component of the Action Agenda. While the Comprehensive Plan charts the long-term vision for recovery for Puget Sound, the Implementation Plan provides the shared focus and implementation guidance for recovery over the next four years. Organized by strategies, it  describes how we will make progress toward the Action Agenda desired outcomes, the Puget Sound Vital Signs, and statutory recovery goals. The Implementation Plan is the product of the collective recovery community effort to focus our efforts on the most important actions to achieve the desired outcomes. </li>
+			</ol></p>
+			
 			<h2>How will Action Agenda actions be identified?  </h2>
 			<p>The phase 4 process is designed to promote co-generation of Action Agenda actions that will implement strategies. Actions will be identified through public workshops and will utilize <a href="https://psp.wa.gov/implementation-strategies.php">Implementation Strategies</a> and other existing plans<sup>1</sup> – as well as approved desired outcomes and approved strategies – as a starting point for discussion.</p>
  
