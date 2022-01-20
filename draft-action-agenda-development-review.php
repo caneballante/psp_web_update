@@ -86,16 +86,16 @@ navSelected = 5;
 			
 			<h3>Action Agenda Development Timeline</h3>
 				<ul>
-					<li>January 26 – February 9, 2022: Draft Action Agenda shared with Partnership boards and partners for review. Click here to access the draft 2022-2026 Action Agenda. Comments on the draft Action Agenda during this review period are welcomed by all boards and partners.</li>
-					<li>February 2022: Partnership staff incorporate feedback from boards and partners. Note that ECB members will have an additional week – until the date of the ECB meeting on February 16 – to review the drafts. </li>
-					<li>March – April 2022: 
+					<li><strong>January 26 – February 9, 2022</strong>: Draft Action Agenda shared with Partnership boards and partners for review. Click here to access the draft 2022-2026 Action Agenda. Comments on the draft Action Agenda during this review period are welcomed by all boards and partners.</li>
+					<li><strong>February 2022</strong>: Partnership staff incorporate feedback from boards and partners. Note that ECB members will have an additional week – until the date of the ECB meeting on February 16 – to review the drafts. </li>
+					<li><strong>March – April 2022</strong>: 
 						<ul>
 							<li>Draft high-level actions and Action Agenda presented to the Leadership Council for review and approval on March 2.</li> 
 							<li>Draft Action Agenda shared for public review</li>
 							<li>Partnership staff incorporate feedback based on public review</li></ul></li>
-					<li>May 2022: Final  final document layout and graphics</li>
-					<li>June 2022: Final Action Agenda presented to the Leadership Council for approval and adoption </li>
-					<li>August 2022: Action Agenda presented to the Environmental Protection Agency (EPA) for approval as the National Estuary Program’s (NEP) Comprehensive Conservation Management Plan (CCMP) for Puget Sound </li>
+					<li><strong>May 2022</strong>: Final  final document layout and graphics</li>
+					<li><strong>June 2022</strong>: Final Action Agenda presented to the Leadership Council for approval and adoption </li>
+					<li><strong>August 2022</strong>: Action Agenda presented to the Environmental Protection Agency (EPA) for approval as the National Estuary Program’s (NEP) Comprehensive Conservation Management Plan (CCMP) for Puget Sound </li>
 					<li>Summer-Fall 2022: Public outreach and engagement</li>
 				</ul>
 			
