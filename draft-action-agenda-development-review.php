@@ -71,7 +71,7 @@ navSelected = 5;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><p>We are accepting comments from Partnership boards and partners on the draft 2022-2026 Action Agenda until February 9, 2022. Click here to access the draft 2022-2026 Action Agenda. Comments on the draft Action Agenda during this review period are welcomed by all boards and partners. Please see the Action Agenda update and review timeline below for additional review periods. </p></div>
+			<div class="highlightbox margin-0-top margin-20-bottom"><p>We are accepting comments from Partnership boards and partners on the draft 2022-2026 Action Agenda until <strong>February 9, 2022</strong>. Click here to access the draft 2022-2026 Action Agenda. Comments on the draft Action Agenda during this review period are welcomed by all boards and partners. Please see the Action Agenda update and review timeline below for additional review periods. </p></div>
 			
 			
 						
@@ -80,8 +80,8 @@ navSelected = 5;
 			
 			<p>The Action Agenda has two components:</p>
 				<ol>
-					<li><strong>The Comprehensive Plan</strong> charts the course for long-term PS recovery and describes and reflects how the broader recovery system and framework functions. It describes how people work together to create and adapt science-informed plans for different aspects of Puget Sound recovery. Content in the 2022-2026 Action Agenda Comprehensive Plan summarizes the risks of Puget Sound, articulates our recovery vision, and provides the framework to act and work towards that vision.</li>
-					<li><strong>The Implementation Plan</strong> is the action component of the Action Agenda. While the Comprehensive Plan charts the long-term vision for recovery for Puget Sound, the Implementation Plan provides the shared focus and implementation guidance for recovery over the next four years. Organized by strategies, it  describes how we will make progress toward the Action Agenda desired outcomes, the Puget Sound Vital Signs, and statutory recovery goals. The Implementation Plan is the product of the collective recovery community effort to focus our efforts on the most important actions to achieve the desired outcomes. </li>
+					<li><p><strong>The Comprehensive Plan</strong> charts the course for long-term PS recovery and describes and reflects how the broader recovery system and framework functions. It describes how people work together to create and adapt science-informed plans for different aspects of Puget Sound recovery. Content in the 2022-2026 Action Agenda Comprehensive Plan summarizes the risks of Puget Sound, articulates our recovery vision, and provides the framework to act and work towards that vision.</p></li>
+					<li><p><strong>The Implementation Plan</strong> is the action component of the Action Agenda. While the Comprehensive Plan charts the long-term vision for recovery for Puget Sound, the Implementation Plan provides the shared focus and implementation guidance for recovery over the next four years. Organized by strategies, it  describes how we will make progress toward the Action Agenda desired outcomes, the Puget Sound Vital Signs, and statutory recovery goals. The Implementation Plan is the product of the collective recovery community effort to focus our efforts on the most important actions to achieve the desired outcomes.</p></li>
 				</ol>
 			
 			<h3>Action Agenda Development Timeline<sup>*</sup></h3>
