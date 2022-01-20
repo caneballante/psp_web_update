@@ -75,7 +75,7 @@ navSelected = 5;
 			
 			
 						
-			<h2>Actions describe the activities that are a shared focus for implementing strategies </h2>
+			<h2>WHAT IS THE 2022—2026 ACTION AGENDA?</h2>
 			<p>For the purposes of the 2022-2026 Action Agenda update, an action describes the activities that will be a shared focus for implementing <a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="_blank">each strategy</a> from 2022-2026. This could include restoration and acquisition; program development, improvement, or implementation; education; outreach; research; legislative or policy improvements; or other types of activities. Actions are intended to guide partner implementation and innovation and will inform the focus of public and private funding and implementation support by the boards and regional partners. The 2022-2026 Action Agenda update will not include a solicitation for or list of Near-Term Actions (NTA) like in past Action Agendas.</p>
 			
 			<h2>How will Action Agenda actions be identified?  </h2>
