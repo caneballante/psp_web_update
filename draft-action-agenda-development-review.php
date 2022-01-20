@@ -84,7 +84,7 @@ navSelected = 5;
 					<li><strong>The Implementation Plan</strong> is the action component of the Action Agenda. While the Comprehensive Plan charts the long-term vision for recovery for Puget Sound, the Implementation Plan provides the shared focus and implementation guidance for recovery over the next four years. Organized by strategies, it  describes how we will make progress toward the Action Agenda desired outcomes, the Puget Sound Vital Signs, and statutory recovery goals. The Implementation Plan is the product of the collective recovery community effort to focus our efforts on the most important actions to achieve the desired outcomes. </li>
 				</ol>
 			
-			<h3>Action Agenda Development Timeline</h3>
+			<h3>Action Agenda Development Timeline<sup>*</sup></h3>
 				<ul>
 					<li><strong>January 26 – February 9, 2022</strong>: Draft Action Agenda shared with Partnership boards and partners for review. Click here to access the draft 2022-2026 Action Agenda. Comments on the draft Action Agenda during this review period are welcomed by all boards and partners.</li>
 					<li><strong>February 2022</strong>: Partnership staff incorporate feedback from boards and partners. Note that ECB members will have an additional week – until the date of the ECB meeting on February 16 – to review the drafts. </li>
@@ -92,13 +92,16 @@ navSelected = 5;
 						<ul>
 							<li>Draft high-level actions and Action Agenda presented to the Leadership Council for review and approval on March 2.</li> 
 							<li>Draft Action Agenda shared for public review</li>
-							<li>Partnership staff incorporate feedback based on public review</li></ul></li>
+							<li>Partnership staff incorporate feedback based on public review</li>
+						</ul>
+					</li>
 					<li><strong>May 2022</strong>: Final  final document layout and graphics</li>
 					<li><strong>June 2022</strong>: Final Action Agenda presented to the Leadership Council for approval and adoption </li>
 					<li><strong>August 2022</strong>: Action Agenda presented to the Environmental Protection Agency (EPA) for approval as the National Estuary Program’s (NEP) Comprehensive Conservation Management Plan (CCMP) for Puget Sound </li>
 					<li><strong>Summer-Fall 2022</strong>: Public outreach and engagement</li>
 				</ul>
 			
+			<p><sup>*</sup> These dates are subject to change<p>
 			
 	
 			<p class="last-update">Last updated: 01/20/22</p>
