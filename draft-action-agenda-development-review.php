@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Identifying Actions for Puget Sound Recovery</title>
+<title>Draft Action Agenda Development and Review</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -54,7 +54,7 @@ navSelected = 4;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Identifying actions for Puget Sound recovery</h1>
+			<h1>Draft Action Agenda Development and Review</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -71,10 +71,7 @@ navSelected = 4;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><center><p><strong>Participate in the co-generation of actions to advance Puget Sound recovery:<br><a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Register for a public workshop</a>.</strong>
-			<br><a href="https://pspwa.box.com/s/jqlp2tvk1z8tc5m4f07nv0iqbejfkrjj" target="_blank"><strong>Identifying Actions for Puget Sound recovery fact sheet.</strong></a><br><a href="https://pspwa.box.com/s/fei3deibzm7c4jxt3bcm159phdzhu8ts" target="_blank"><strong>Meeting 1 (workshops A-F) overview and detailed topic list.</strong></a><br><a href="https://pspwa.box.com/s/md08v88892p9bxo1vu3qslvmo8w7bk6e" target="_blank"><strong>Meeting 2 (workshops A-F) overview and detailed topic list.</strong></a>
-				
-				</center></div>
+			<div class="highlightbox margin-0-top margin-20-bottom"><p>We are accepting comments from Partnership boards and partners on the draft 2022-2026 Action Agenda until February 9, 2022. Click here to access the draft 2022-2026 Action Agenda. Comments on the draft Action Agenda during this review period are welcomed by all boards and partners. Please see the Action Agenda update and review timeline below for additional review periods. </p></div>
 			
 			
 						
