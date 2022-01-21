@@ -77,17 +77,17 @@
 			
 			<h2>Steps to purchase Partnership nearshore credits</h2>
 			<p><ol>
-				<li><strong>Permit applicant</strong> (or their consultant) determines conservation debits using the <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">Puget Sound Nearshore Conservation Calculator</a>.</li>
-				<li><strong>Permit applicant</strong> submits a completed calculator as part of <a href="https://www.epermitting.wa.gov/site/alias__resourcecenter/9978/default.aspx" target="new">permit application to the US Army Corps of Engineers (COE)</a>. Applicants should also indicate their intention to purchase Partnership conservation credits in that application package.</li>
-				<li>COE submits the permit applicant’s calculator as part of a consultation package to the National Marine Fisheries Service (NMFS).</li>
-				<li>NMFS works with permit applicants on avoiding impacts, minimizing impacts, and finalizing conservation offsets needed for unavoidable impacts.</li>
-				<li>At the end of consultation, NMFS informs the Partnership of all finalized calculators.</li>
-				<li><strong>Permit applicant</strong> submits project information and  NMFS-verified final calculator to <a href="mailto:pspnc@psp.wa.gov">pspnc@psp.wa.gov</a>. See map above to determine relevant service area for credits.</li>
-				<li>Partnership verifies eligibility, requests any additional data, and provides presale agreement to the permittee. </li>
-				<li><strong>Permit applicant</strong> and Partnership sign conservation credit presale agreement. Permittee may use the fully executed conservation credit presale agreement to satisfy outstanding conservation obligations, per their final Reasonable and Prudent Alternative decision from NMFS.</li>
-				<li><strong>Permit applicant</strong> pays purchase price and the Partnership confirms transfer of credit responsibility. Payment must be received by the expiration date in the presale agreement.</li>
+				<li><p><strong>Permit applicant</strong> (or their consultant) determines conservation debits using the <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">Puget Sound Nearshore Conservation Calculator</a>.</p></li>
+				<li><p><strong>Permit applicant</strong> submits a completed calculator as part of <a href="https://www.epermitting.wa.gov/site/alias__resourcecenter/9978/default.aspx" target="new">permit application to the US Army Corps of Engineers (COE)</a>. Applicants should also indicate their intention to purchase Partnership conservation credits in that application package.</p></li>
+				<li><p>COE submits the permit applicant’s calculator as part of a consultation package to the National Marine Fisheries Service (NMFS).</p></li>
+				<li><p>NMFS works with permit applicants on avoiding impacts, minimizing impacts, and finalizing conservation offsets needed for unavoidable impacts.</p></li>
+				<li><p>At the end of consultation, NMFS informs the Partnership of all finalized calculators.</p></li>
+				<li><p><strong>Permit applicant</strong> submits project information and  NMFS-verified final calculator to <a href="mailto:pspnc@psp.wa.gov">pspnc@psp.wa.gov</a>. See map above to determine relevant service area for credits.</p></li>
+				<li><p>Partnership verifies eligibility, requests any additional data, and provides presale agreement to the permittee. </p></li>
+				<li><p><strong>Permit applicant</strong> and Partnership sign conservation credit presale agreement. Permittee may use the fully executed conservation credit presale agreement to satisfy outstanding conservation obligations, per their final Reasonable and Prudent Alternative decision from NMFS.</p></li>
+				<li><p><strong>Permit applicant</strong> pays purchase price and the Partnership confirms transfer of credit responsibility. Payment must be received by the expiration date in the presale agreement.</p></li>
 			
-			</ol></p>
+			</ol>
 			
 			<p>NOTE: If other federal, local, or state agencies also require mitigation, and that mitigation was not already included in the conservation calculator, <strong>it is the applicant's responsibility to clarify with those agencies whether the conservation credits provided by the Puget Sound Partnership would meet those obligations.</strong></p>
 <p>The Partnership Nearshore Credits program is not a mitigation bank.
