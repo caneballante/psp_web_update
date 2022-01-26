@@ -114,14 +114,10 @@ navSelected = 3;
 				<td><h5><strong>PDF version of the approved strategies</strong></h5></td>
 				<td><button class="button button2"><a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="_blank" style="color:white"><strong>Click here to view the PDF</strong></a></button></td>
 			</tr>
-			<td><h5><strong>Database version of the draft strategies is embedded below</strong></h5></td>
-			<td><button class="button button2"><a href="https://app.smartsheet.com/b/publish?EQBCT=04ec05b0ca994094828f08a3973bfcc6" target="_blank" style="color:white"><strong>Click here to view the database in your full browser window</strong></a></button></td>
-			</tr>
+			
 				</tbody>
-			</table><br><br>
+			</table><br>
 			
-			
-			<div><IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=04ec05b0ca994094828f08a3973bfcc6"></IFRAME></div><br>
 			
 			<h3>How are Action Agenda strategies identified?</h3>
 			<p>Action Agenda strategies are based on existing plans, including Implementation Strategies as the primary source. Local Integrating Organization plans, tribal priorities, salmon recovery plans, and the Orca Task Force recommendations also provide important strategies for the Action Agenda and reveal areas of commonality where strategies will advance multiple aspects of recovery. These plans are all created through science-informed and collaborative processes that capture the expertise and most recent thinking of individuals from around the region. Through the process of reviewing and providing feedback on the initial draft list of strategies, recovery partners will have the opportunity to identify additional strategies that are needed to advance the desired outcomes. </p>
@@ -191,7 +187,7 @@ navSelected = 3;
 			</table>
 			
         <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>).</p>
-		<p class="last-update">Last updated: 08/20/21</p>
+		<p class="last-update">Last updated: 01/25/22</p>
         <div>
           <div> </div>
         </div>

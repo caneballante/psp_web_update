@@ -71,12 +71,12 @@ navSelected = 1;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><p>On September 1, 2021, the Partnership's Leadership Council approved a set of <a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="_blank">strategies</a> for achieving the <a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank">desired outcomes</a> for the 2022-2026 Action Agenda. The Partnership has now begun phase 4&mdash;the second-to-last phase of the 2022-2026 Action Agenda update process&mdash;to identify the actions to advance strategies. More information on <a href="https://psp.wa.gov/identifying-actions.php">phase 4 is available here</a>.</p></div>
+			<div class="highlightbox margin-0-top margin-20-bottom"><p>On September 1, 2021, the Partnership's Leadership Council approved a set of <a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="_blank">strategies</a> for achieving the <a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank">desired outcomes</a> for the 2022-2026 Action Agenda. The Partnership has nearly completed phase 4&mdash;the second-to-last phase of the 2022-2026 Action Agenda update process&mdash;to identify the actions to advance strategies. More information on <a href="https://psp.wa.gov/identifying-actions.php">phase 4 is available here</a>.</p></div>
 		<p>Puget Sound is a special place that nourishes our health, economy, environment, and quality of life. Tribes have honored these lands and fished throughout the region since time immemorial. Its snowcapped mountains and sparkling waters continue to attract people and businesses from around the world. Over the past 150 years, however, human use has damaged Puget Sound, causing the degradation of water quality, water quantity, and habitat. And the rapid growth of our region’s population—if not addressed thoughtfully—will bring more land development, infrastructure, and pollution.</p> 
 
 <p>Puget Sound will never be as it was prior to industrialization. Yet Puget Sound can be a resilient ecosystem that supports healthy human communities and the habitats and species we care about. We can grow our cities and towns more carefully, restore floodplains and shorelines we previously degraded, improve water quality, and ensure sufficient water for all.</p>
 
-<p>Working together, the Puget Sound Partnership and our partners can chart a course for this recovery through the <a href="https://psp.wa.gov/action_agenda_center.php">Action Agenda for Puget Sound</a>. We can do this by identifying the most effective and beneficial outcomes, strategies, and activities for recovery that are supported by the best available science. The Action Agenda represents the collective work of federal, tribal, state, local, nonprofit, and private entities to recover Puget Sound. By collaborating to update and implement the Action Agenda, hundreds of partners from across Puget Sound will invest their leadership and resources behind bold and effective actions for accelerating and achieving the recovery of Puget Sound. We, the Puget Sound Partnership, are responsible for coordinating regular updates of the Action Agenda as we continuously learn more about the most successful approaches for recovering Puget Sound. We are currently beginning the process to update the Action Agenda for 2022-2026.</p>
+<p>Working together, the Puget Sound Partnership and our partners can chart a course for this recovery through the <a href="https://psp.wa.gov/action_agenda_center.php">Action Agenda for Puget Sound</a>. We can do this by identifying the most effective and beneficial outcomes, strategies, and activities for recovery that are supported by the best available science. The Action Agenda represents the collective work of federal, tribal, state, local, nonprofit, and private entities to recover Puget Sound. By collaborating to update and implement the Action Agenda, hundreds of partners from across Puget Sound will invest their leadership and resources behind bold and effective actions for accelerating and achieving the recovery of Puget Sound. We, the Puget Sound Partnership, are responsible for coordinating regular updates of the Action Agenda as we continuously learn more about the most successful approaches for recovering Puget Sound. We are currently updating the Action Agenda for 2022-2026.</p>
 
 		<h2>The leadership council approves a concept for the 2022-2026 Action Agenda</h2>
 		<p>In June 2020, the Leadership Council—the governing body of the  Partnership—approved <a href="https://pspwa.box.com/s/gsf2xgrqaxbmnq7zdummw5dft9otjbhn" target="_blank">a concept </a>for the  2022-2026 Action Agenda.</p>
@@ -132,27 +132,35 @@ navSelected = 1;
             <td><p>Phase 4: Identify actions and commitments that align with strategies.</p></td>
             <td><p>Identify actions and programs that require additional investment; necessary policy changes; and commitments from the boards and partners to support priority actions for recovery. </p>
             </td>
+           <td class="orange-fill white"><p>Completed</p></td>
+          </tr>
+          <tr>
+            <td><p>Dec 2021 - Aug 2022</p></td>
+            <td><p>Phase 5: Develop and approve draft Action Agenda</p></td>
+            <td>
+				<p>
+					<ul>
+					<li>Integrate content developed in phases 2-4 into a draft Action Agenda</li>
+					<li>Share draft Action Agenda with boards, partners, and public for feedback</li>
+						<li>Submit draft Action Agenda to Leadership Council and EPA for approval</li>
+					</ul>
+				</p>
+			</td>
            <td class="blue-fill white"><p>In progress</p></td>
           </tr>
           <tr>
-            <td><p>Aug 2021 - Feb 2022</p></td>
-            <td><p>Phase 5: Develop draft Action Agenda</p></td>
-            <td><p>Bring together content developed in phases 2-4 into a draft Action  Agenda; partners and public provide feedback on draft.</p></td>
-           <td class="light-blue-fill white"><p>Not started</p></td>
-          </tr>
-          <tr>
-            <td><p>Feb - June 2022</p></td>
-            <td><p>Phase 6: Public comment and adoption</p></td>
-            <td><p>Provide time for public comment and input from each of the Partnership's  Boards and partner groups.</p></td>
+            <td><p>Aug 2022 and beyond</p></td>
+            <td><p>Action Agenda adoption and implementation</p></td>
+            <td><p>Coordinate Action Agenda implementation with partners</p></td>
            <td class="light-blue-fill white"><p>Not started</p></td>
           </tr>
         </tbody>
         </table>
 		<H2>We invite your participation</H2>
-		<p>Every phase of Action Agenda development will build from existing plans developed by partners. We  and our partners are also  developing an engagement plan and establishing mechanisms for  collaboration and participation in developing the outcomes (phase 2),  strategies (phase 3), and actions (phase 4) for the 2022-2026 Action Agenda.  Throughout 2020 and 2021, Partnership staff who are leading the development of  the Action Agenda will use existing meeting schedules to present to partner  groups, host workshops where partners can convene around particular topic  areas, and provide online mechanisms to gather independent feedback at the  convenience of partners&rsquo; schedules.&nbsp;			</p>
+		<p>Every phase of Action Agenda development will build from existing plans developed by partners. We and our partners developed an engagement plan and established opportunities for collaboration and participation in developing the outcomes (phase 2), strategies (phase 3), and actions (phase 4) for the 2022-2026 Action Agenda.  Throughout 2020 and 2021, Partnership staff leading the development of the Action Agenda engaged partners through meetings, workshops and briefings to gather feedback that would shape the development of the Action Agenda. In 2022, the Partnership is facilitating multiple rounds of review of the draft Action Agenda before it is submitted to the Leadership Council and EPA for approval. </p><br>
 			<strong>Stay tuned for more information on engagement opportunities as  the process is developed.</strong></p>
 		<p><strong>Ask for a briefing or a conversation. </strong>We would be happy to talk with you or your organization about the  2022-2026 Action Agenda development process and get your ideas. Please contact  Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>), Kaitlin Harris (<a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov</a>), Wren McNally (<a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a>), or your other Partnership staff connections  to request a briefing.</p>
-			<p class="last-update">Last updated: 10/21/21</p>
+			<p class="last-update">Last updated: 01/24/22</p>
 
         <!-- InstanceEndEditable --> </div>
 		
