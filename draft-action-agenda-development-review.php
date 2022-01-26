@@ -111,7 +111,7 @@ navSelected = 5;
 			<p><sup>*</sup> These dates are subject to change<p>
 			
 	
-			<p class="last-update">Last updated: 01/20/22</p>
+			<p class="last-update">Last updated: 01/26/22</p>
 
         <!-- InstanceEndEditable --> </div>
 		
