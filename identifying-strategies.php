@@ -103,21 +103,6 @@ navSelected = 3;
 					
 			<button class="button button1"><a href="https://pspwa.box.com/s/jfgxn9nfnpegh5guv2kwbqup2y0k5p8r" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that strategies play in the 2022-2026 Action Agenda update</strong></a></button><br><br>
 			
-			<h2>Review the draft strategies</h2>
-			
-			<p>Provided below are several different ways of viewing the draft strategies. Each option contains the same content but provides different levels of flexibility to sort the list in different ways. Specifically, the database options promote greater flexibility for the reviewer to sort and organize the list in different ways (click on the three vertical dots at the top of any column you wish to filter or sort).</p>
-			
-			<table class="table" width="774" border="0">
-			
-        <tbody>
-          	<tr>
-				<td><h5><strong>PDF version of the approved strategies</strong></h5></td>
-				<td><button class="button button2"><a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="_blank" style="color:white"><strong>Click here to view the PDF</strong></a></button></td>
-			</tr>
-			
-				</tbody>
-			</table><br>
-			
 			
 			<h3>How are Action Agenda strategies identified?</h3>
 			<p>Action Agenda strategies are based on existing plans, including Implementation Strategies as the primary source. Local Integrating Organization plans, tribal priorities, salmon recovery plans, and the Orca Task Force recommendations also provide important strategies for the Action Agenda and reveal areas of commonality where strategies will advance multiple aspects of recovery. These plans are all created through science-informed and collaborative processes that capture the expertise and most recent thinking of individuals from around the region. Through the process of reviewing and providing feedback on the initial draft list of strategies, recovery partners will have the opportunity to identify additional strategies that are needed to advance the desired outcomes. </p>
