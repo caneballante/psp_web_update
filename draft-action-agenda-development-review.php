@@ -74,8 +74,8 @@ navSelected = 5;
 			<div class="highlightbox margin-0-top margin-20-bottom"><p>We invite Partnership boards and partners to join us in completing the draft 2022-2026 Action Agenda by providing critical input or identifying areas where more clarity would be beneficial. Comments for this review period will be accepted until <strong>February 9, 2022</strong>. Please see the Action Agenda Development Timeline below for additional review periods. </p>
 			<p>To submit a comment during this review period:</p>
 				<ul>
-					<li><p class="psemp-products">Review the <a href="https://pspwa.box.com/s/knvk3m5vvz6ff7d2hogmhtcqz8689irx" target="new">draft 2022-2026 Action Agenda</a></p></li>
-					<li><p class="psemp-products">Submit a <a href="https://survey.zohopublic.com/zs/EMR5sB" target="new">feedback form</a> by February 9, 2022</p></li>
+					<li><p>Review the <a href="https://pspwa.box.com/s/knvk3m5vvz6ff7d2hogmhtcqz8689irx" target="new">draft 2022-2026 Action Agenda</a></p></li>
+					<li><p>Submit a <a href="https://survey.zohopublic.com/zs/EMR5sB" target="new">feedback form</a> by February 9, 2022</p></li>
 				</ul>
 			</div>
 			
