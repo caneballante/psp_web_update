@@ -82,7 +82,7 @@ navSelected = 5;
 			
 						
 			<h2>WHAT IS THE 2022—2026 ACTION AGENDA?</h2>
-			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it complements and incorporates the work of many partners to describe strategies and high-level actions needed to recover a healthy and resilient Puget Sound. These strategies and high-level actions provide opportunities for federal, tribal, state, local, and private entities to better invest resources and coordinate action.</p>
+			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary. It complements and incorporates the work of many partners to describe strategies and high-level actions needed to recover a healthy and resilient Puget Sound. These strategies and high-level actions provide opportunities for federal, tribal, state, local, and private entities to better invest resources and coordinate action.</p>
 			
 			<p>The Action Agenda has two components:</p>
 				<ol>
