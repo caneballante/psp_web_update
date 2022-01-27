@@ -72,10 +72,11 @@
 			
 		<h2 class="margin-0-top">Employment opportunities</h2>
 					
-			
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3390704/salmon-permitting-projects-coordinator-exempt-project" target="new">Salmon Permitting Projects Coordinator</a></p>
-		
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3397470/program-fiscal-contract-coordinator-exempt" target="new">Program Fiscal Contract Coordinator</a></p>
+		
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3390704/salmon-permitting-projects-coordinator-exempt-project" target="new">Salmon Permitting Projects Coordinator</a></p>
+		
+			
 			
 			
 			
