@@ -281,9 +281,8 @@
 							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
 						<h5>VACANT</h5>
 						<p>Fiscal Program and Contract Coordinator<br /></p>
-						<h5>Phan Doan</h5>
-						<p>Fiscal Analyst<br />
-							360.742.4307 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov </a></p>
+						<h5>VACANT</h5>
+						<p>Fiscal Analyst<br /></p>
 						<h5>Arnaud Muamba</h5>
 						<p>Fiscal Analyst 2<br>
 							360.628.7476 | <a href="mailto:arnaud.muamba@psp.wa.gov">arnaud.muamba@psp.wa.gov</a></p>
