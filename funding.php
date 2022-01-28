@@ -84,6 +84,10 @@ This page contains current contract and grant opportunities, as well as valuable
  <h2>Sole-Source Contract Notification</h2>
  
 <iframe src="https://pspwa.app.box.com/embed/s/neuz5umsrp82r4t2dyxjiuq2mfioaeow?showParentPath=false&sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
+		<h2>Puget Sound Partnership Soliciation Notice</h2>
+		
+		<iframe src="https://pspwa.app.box.com/embed/s/dof9kqx343g44tl4yk5wr7lsnxuocg8v?showParentPath=false&sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
  
 			 
 		<!-- InstanceEndEditable --> </div>
