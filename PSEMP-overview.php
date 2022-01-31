@@ -110,7 +110,7 @@
 					</tr>
 					<tr>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5" target="new">Salmonids </a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz" target="new">Spatial Data </a></td>
+						<td class="no-icon"><a href="https://psemp-spatialdataworkgroup-wa-psp.hub.arcgis.com/" target="new">Spatial Data </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics </a></td>
 					</tr>
@@ -173,7 +173,7 @@
 					<li role="presentation"> <a href="https://pspwa.box.com/s/1cjl3znjgx9bplmrk7h2qhpqjw52zndy" target="new">Modeling Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/wgbl9zmrov2nd4qdor5iwvlnkckg6hac" target="new">Nearshore Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5" target="new">Salmonids Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz" target="new">Spatial Data Work Group</a></li>
+					<li role="presentation"> <a href="https://psemp-spatialdataworkgroup-wa-psp.hub.arcgis.com/" target="new">Spatial Data Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics Work Group</a></li>
 				    <li role="presentation"> <a href="https://pspwa.box.com/s/qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a></li>
