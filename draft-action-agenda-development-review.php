@@ -71,7 +71,7 @@ navSelected = 5;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><p>We invite Partnership boards and partners to join us in completing the draft 2022-2026 Action Agenda by providing critical input or identifying areas where more clarity would be beneficial. Comments for this review period will be accepted until <strong>February 9, 2022</strong>. Please see the Action Agenda Development Timeline below for additional review periods. </p>
+			<div class="highlightbox margin-0-top margin-20-bottom"><p>We invite Partnership boards and partners to join us in completing the draft 2022-2026 Action Agenda by providing critical input or identifying areas where more clarity would be beneficial. Comments for this review period will be accepted until <strong>February 9, 2022</strong>. Please see the Action Agenda update timeline below for additional review periods. </p>
 			<p>To submit a comment during this review period:</p>
 				<ul>
 					<li><p>Review the <a href="https://pspwa.box.com/s/knvk3m5vvz6ff7d2hogmhtcqz8689irx" target="new">draft 2022-2026 Action Agenda</a></p></li>
@@ -90,12 +90,12 @@ navSelected = 5;
 					<li><p><strong>The Implementation Plan</strong> is the action component of the Action Agenda. While the Comprehensive Plan charts the long-term vision for recovery for Puget Sound, the Implementation Plan provides the shared focus and implementation guidance for recovery over the next four years. Organized by strategies, it  describes how we will make progress toward the Action Agenda desired outcomes, the Puget Sound Vital Signs, and statutory recovery goals. The Implementation Plan is the product of the collective recovery community effort to focus our efforts on the most important actions to achieve the desired outcomes.</p></li>
 				</ol>
 			
-			<h3>Action Agenda Development Timeline<sup>*</sup></h3>
+			<h3>Action Agenda Update Timeline<sup>*</sup></h3>
 				<ul>	
 					<li><p><strong>February 2022</strong>: Partnership staff incorporate feedback from boards and partners. Note that ECB members will have an additional week – until the date of the ECB meeting on February 16 – to review the drafts.</p></li>
 					<li><p><strong>March – April 2022</strong>:</p> 
 						<ul>
-							<li><p>Draft high-level actions and Action Agenda presented to the Leadership Council for review and approval on March 2.</p></li> 
+							<li><p>Draft actions and Action Agenda presented to the Leadership Council for review and approval on March 2.</p></li> 
 							<li><p>Draft Action Agenda shared for public review</p></li>
 							<li><p>Partnership staff incorporate feedback based on public review</p></li>
 						</ul>
