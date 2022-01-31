@@ -115,7 +115,7 @@
 			
 		<h2>The Partnership Nearshore Credits program is the result of collaboration</h2>
 			<p>Environmental Science Associates (ESA) did foundational work for the Partnership with the Partnership Nearshore Credits program and provided valuable thought leadership for the initiative. The Partnership gratefully acknowledges ESA’s work in scoping out the conservation credit functions for the Partnership Nearshore Credits program.  </p>
-			<p class="last-update">Last updated: 01/21/22</p>
+			<p class="last-update">Last updated: 01/31/22</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
@@ -127,6 +127,7 @@
 				<li class="active" role="presentation"> <?php include 'includes/pspnc_contact.html';?></li>
 				<li class="active" role="presentation"><button class=button><a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank" style="color:white">Puget Sound Nearshore Habitat Conservation Calculator</a></button></li>
 				<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+				<li class="active" role="presentation"><a href="https://vimeo.com/637105177/d4713aa7ee" target="new"><strong>A new conservation marketplace in the Puget Sound</strong></a></li>
 				<li class="active" role="presentation"><a href="https://www.noaa.gov/news-release/army-and-noaa-to-advance-endangered-species-act-consultations" target="new"><strong>Army and NOAA to advance Endangered Species Act consulations</strong></a></li>
 				<li class="active" role="presentation"><a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target ="_blank"><strong>Puget Sound Partnership credits will fund nearshore conservation</strong></a></li>
 				<!-- InstanceEndEditable -->
