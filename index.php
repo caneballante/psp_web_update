@@ -98,6 +98,7 @@
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
 			<div class="padding-5-bottom"><span class="new-red">NEW </span><a href="government-relations.php">Tools for tracking state legislative affairs during the 2022 session</a></div>
 			<div class="padding-5-bottom"><a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a></div>	
+			<div class="padding-5-bottom"><a href="makingwaves.psp.wa.gov">Making Waves Magazine</a></div>	
 			
 			
 		</div>
@@ -139,6 +140,21 @@
 				
 			</div>
 		    <!--COLUMN END-->
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/makingwaves.jpg"  alt="Puget Sound Partnership logo"/> 
+					<strong>RESOURCE</strong><br>
+						<a href="www.makingwaves.psp.wa.gov" target="new">Read the latest articles in Making Waves</a><br>
+						<!--END news content BOX-->    
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -169,36 +185,7 @@
 				
 			</div>
 		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt="Photo of Puget Sound shoreline with birds flying above the beach."/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://survey.zohopublic.com/zs/9zCsRU" target="_blank">Participate in the co-generation of actions to advance Puget Sound recovery</a><br>
-						<!--END news content BOX-->      
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo."/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">Announcing apparent successful project proposals for two Puget Sound Partnership solicitations of science and monitoring projects</a><br>
-						<!--END news content BOX-->         
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->	
+		
 			
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
