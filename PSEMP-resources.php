@@ -283,10 +283,10 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				    <li role="presentation"> <a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke" target="new">PSEMP Communications Plan</a></li>
-				    <li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">PSEMP Strategic Plan</a></li>
-				    <li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k">2019 Work Plans</a></li>
-				    <li role="presentation"> <a href="https://pspwa.box.com/s/ep1nzf6z1m1gelayymem2s655e1gp9dt">2018 Annual Reports</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke" target="new">PSEMP Communications Plan</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi" target="new">PSEMP Strategic Plan</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k" target="new">PSEMP Work Plans and Annual Reports</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/h2jphymdvsg5ooyi35jxjsdo0y22qzn1" target="new">PSEMP Brochure</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/7yvv4a8gsndi4w6dkx7rexufct3ypp16" target="new">PSEMP Newsletters</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
@@ -296,20 +296,20 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
                     <li class="active" role="presentation"> <a href="https://pspwa.box.com/s/5f7aymlldxt4wqsfmcutmy3iz3h6l3ts" target="new">Steering Committee</a></li>
-				    <li role="presentation"><a href="https://pspwa.box.com/s/fwgkthne46pdhxqladgg0zf5se2ui61p" target="new">Work Group Leads</a></li>
+					<li role="presentation"><a href="https://pspwa.box.com/s/dyvtti9au3jdfp65wbj0k3tdyo4kqdl5" target="new">Work Group Leads</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/8yiq86nl46w3sea0jdtjktnku7vs1qsk" target="new">Diseases Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd" target="new">Forage Fish and Food Webs Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub" target="new">Freshwater Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/epnzs7r158zq3pq0wtqb9u8tyzecjps3" target="new">Human Wellbeing Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/vyx3oq4ilqtz2d0te8sj3we14fo03blz" target="new">Marine Birds Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/ltd6c5kmlv0g9kgzce4n571anvk09kef" target="new">Marine Mammals Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/5lq9cfr18b13p7zno86n9yor2uin3vra" target="new">Marine Waters Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/1cjl3znjgx9bplmrk7h2qhpqjw52zndy" target="new">Modelling Work Group</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/1cjl3znjgx9bplmrk7h2qhpqjw52zndy" target="new">Modeling Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/wgbl9zmrov2nd4qdor5iwvlnkckg6hac" target="new">Nearshore Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5" target="new">Salmonids Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/kau1ji3dae823ijpmbkznthkbaphxncz" target="new">Spatial Ecology Work Group</a></li>
+					<li role="presentation"> <a href="https://psemp-spatialdataworkgroup-wa-psp.hub.arcgis.com/" target="new">Spatial Data Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics Work Group</a></li>
+				    <li role="presentation"> <a href="https://pspwa.box.com/s/qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a></li>
 			
 				<!-- InstanceEndEditable -->
 			</ul>
@@ -318,6 +318,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="https://pspwa.box.com/s/emmmd08dsh0kl44sirxdgpwgoi0j0rex">Contact us</a></li>
 				<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
 				<li role="presentation"> <a href="https://www.psp.wa.gov/action_agenda_center.php">2018-2022 Action Agenda For Puget Sound</a></li>
 				<li role="presentation"> <a href="https://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
