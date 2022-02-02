@@ -66,53 +66,215 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-	
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-lg-4">
-					<h3 class="margin-0-top">PUGET SOUND MARINE WATERS 2020 OVERVIEW</h3> 
-					<span class="no-icon"><a href="https://pspwa.box.com/shared/static/u6q5ew70y5qx8vx2qjaa4uijmtwfhebt.pdf" target="new"><img src="images/news-images/ps-marine-waters-report-2020.jpg" width="214" height="160" alt=""/></a> 
-	 	 		    <p class="padding-10-left"><a href="https://pspwa.box.com/shared/static/u6q5ew70y5qx8vx2qjaa4uijmtwfhebt.pdf">Click to download</a><br>
-					<a href="https://pspwa.box.com/shared/static/u6q5ew70y5qx8vx2qjaa4uijmtwfhebt.pdf" target="new">Puget Sound Marine Waters 2020 Overview</a><br>
- 					</p></span>
-					<br>
-				    <p>This latest annual report shows that, despite the unusual conditions affecting the human population, environmental conditions were less anomalous. There were few extreme weather or ecological events in 2020, but overall, conditions in Puget Sound were generally warmer, sunnier, and wetter than in typical years. The report further reveals patterns and trends in numerous environmental parameters, including plankton, water quality, climate, and marine life. The observations in this report collectively provide both a comprehensive long-term view and current assessment of the Puget Sound marine ecosystem. The Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, which authored this report, has been reporting metrics related to Puget Sound recovery since 2011. </p>
-					<p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
-				</div><!--end col-->
-				<div class="col-lg-4">
-					<h3 class="margin-0-top">2019 Recommendations for a Puget Sound Estuary Avian Monitoring Strategy</h3> 
-					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/recommendations-for-a-puget-sound-estuary-avian-monitoring-program.jpg" width="205" height="242" alt=""/></a> 
-					<p class="padding-10-left"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">Click to download</a></p></span>
-					<br>
-					<p>Until recently, groups that have monitored birds in the estuaries of Puget Sound river deltas have done so independently of one another, preventing the ability to assess the effectiveness of actions on bird populations at both the local and regional scale. The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to learn what types of information are needed to support bird-related management and conservation decisions, and explore interest in developing a common framework for monitoring birds. 
-				</div> 
-				<!--end col-->
-				<div class="col-lg-4">
-					<h3 class="margin-0-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h3> 
-					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018.jpg" width="215" height="254" alt=""/></a> 
-					<p class="padding-10-left"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">Click to download</a></p></span>
-					<br>
-					<P class="margin-0-top">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea. </p>
-				</div> <!--end col-->
-			</div> <!--end row-->
-			<hr>
-			<!--start row-->
-			<div class="row">
-				<div class="col-lg-4">
-					<h3 class="margin-20-top">Puget Sound Ecosystem Monitoring Strategic Plan | 2018-2022</h3> 
-					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/PSEMP-strategic-plan.jpg" width="183" height="216" alt=""/></a> 
-					<p class="padding-10-left"><a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi">Click to download</a></p></span>
-					<br>
-					<P class="margin-0-top">This Strategic Plan articulates a renewed missionfor PSEMP to convene a collaborative network of subject matter experts who organize, synthesize, and communicate scientific information from many monitoring organizations and different parts of the ecosystem to directly address foundational management and science questions critical to recovery of the ecosystem.<br></p>
-				</div> <!--end col-->
-				<div class="col-lg-4">
-					<h3 class="margin-20-top">Shoreline Monitoring Toolbox</h3> 
-					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/PSEMP/shoreline-monitoring-toolbox.jpg" width="208" height="179" alt=""/></a> 
-					<p class="padding-10-left"><a href="https://sites.google.com/a/uw.edu/toolbox/home">Click to view the Shoreline Monitoring Toolbox</a></p></span>
-					<P class="margin-0-top">Shoreline monitoring is often a desired or required goal of volunteer groups and local entities, but protocols and guidelines can be hard to find and misleading if not used appropriately. To overcome these obstacles, standardized approaches for monitoring and a &ldquo;toolbox&rdquo; of protocols and information are needed. This toolbox emphasizes methods that are simple and affordable, and that can be used for monitoring .</p>
-				</div> <!--end col-->
-			</div> <!--end row-->
-			<hr>
+			
+			<div class="container-fluid">
+		
+		<div class="row text-left">
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Nearshore Summit and Synthesis</h6> 
+					<span class="no-icon"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit" target="new"><img src="images/PSEMP/nearshore.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit">Overview</a> | <a href="https://storymaps.arcgis.com/stories/3ceca87f5e544265aee6d516ee95aec9">Storymap</a> | <a href="https://pspwa.box.com/s/giimspgmm6j23u0jlau96vh9al91zcnl">Video</a></p></span>
+								<span class="no-icon"><p class="psemp-products">The goals of this virtual summit were to synthesize nearshore science and restoration actions in Puget Sound and create a roadmap that updates restoration conceptual models and identifies uncertainties to address.</p></span><br>
+					
+							</div></div></div></div> <!--end col-->
+				
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Fundamental Environmental Contextual Metrics Dashboard</h6> 
+					<span class="no-icon"><a href="https://docs.google.com/presentation/d/1KWrj6mEqaT-tytLMIW4_TCNAJTPnxX7yh9vW28dhc7w/edit#slide=id.p" target="new"><img src="images/PSEMP/fundamental-metrics.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://docs.google.com/presentation/d/1KWrj6mEqaT-tytLMIW4_TCNAJTPnxX7yh9vW28dhc7w/edit#slide=id.p">Overview</a> | <a href="https://pspwa.box.com/s/z5rl1g2z3e7gkt4g89n8jtlopsfyrzok">Video</a></p></span>
+								<p class="psemp-products">This project uses data from oceanographic and atmospheric measurement programs to develop six fundamental environmental metrics and compare current status to historical values. The metrics will be available on a web-based dashboard.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2020 OVERVIEW</h6>
+					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/news-images/ps-marine-waters-report-2020.jpg" class="img-responsive img-rounded" alt=""/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a> | <a href="https://pspwa.box.com/s/v6wrf24bx30j9ep3qfbxwgtlkrckwxwd">Video</a></p></span>
+								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2020.</p><br>
+					
+						</div></div></div></div><!--end col-->
+			
+			</div><!--end row-->	
+			
+		<div class="row text-left">
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Avian Habitat Suitability Models for Puget Sound Estuary Birds</h6> 
+					<span class="no-icon"><a href="https://pspwa.box.com/v/AvHabModSummary" target="new"><img src="images/PSEMP/pintail.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://pspwa.box.com/v/AvHabModSummary">Overview</a> | <a href="https://storymaps.arcgis.com/stories/3ceca87f5e544265aee6d516ee95aec9">Storymap</a> | <a href="https://pspwa.box.com/s/9suop9ggo6h08v630vf90oum5cyj5kgm">Video</a></p></span>
+								<span class="no-icon"><p class="psemp-products">Puget Sound and the Salish Sea support significant concentrations of shorebirds, waterfowl, and other marine bird species. This project develops science products that support the management needs of estuary birds.</p></span><br>
+					
+							</div></div></div></div> <!--end col-->
+				
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Prioritization of Contaminants of Emerging Concern</h6> 
+					<span class="no-icon"><a href="https://pspwa.box.com/s/dtw2o073imaqivbbqm6ikzytstuo7y7q" target="new"><img src="images/PSEMP/CECS.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/dtw2o073imaqivbbqm6ikzytstuo7y7q">Overview</a> | <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">Video</a></p></span>
+								<p class="psemp-products">This project prioritizes contaminants of emerging concern (CECs) for monitoring efforts and management responses. Hundreds of CECs such as pharmaceuticals, plasticizers, and pesticides have been found in Puget Sound.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+			
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Juvenile Salmonid Monitoring in Large Puget Sound Rivers</h6> 
+					<span class="no-icon"><a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764" target="new"><img src="images/PSEMP/smolt-traps.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764">Overview</a> | <a href="https://pspwa.box.com/s/yahbdzph6x2oolm8n0orvljvfsn9ej9c">Video</a></p></span>
+								<p class="psemp-products">Juvenile salmonid monitoring is a key component of understanding freshwater productivity and marine survival. The project identified trends in abundance, productivity, and life history metrics through time across multiple rivers.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+			
+			</div><!--end row-->
+			
+			<div class="row text-left">
+				<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Birds Vital Sign, Abundance of marine birds indicator</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/3"><img src="images/PSEMP/marine-birds.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/3">View</a></p></span>
+								<p class="psemp-products">This project includes processing annual mid-winter WDFW PSAMP seabird and waterfowl survey flight data; marine and terrestrial bird indicator updates; winter birds web map; Pigeon Guillemot citizen science data gathering, storage and summary tools.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+			
+
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Drinking Water Vital Sign indicator</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53"><img src="images/PSEMP/groundwater.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53">View</a></p></span>
+								<span class="no-icon"><p class="psemp-products">This project includes a model for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53">index of vulnerability to nitrates in groundwater</a> and the first Vital Sign indicator report for the vulnerability index indicator.</p></span><br>
+					
+							</div></div></div></div> <!--end col-->
+				
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Economic Vitality Vital Sign indicators</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/22"><img src="images/PSEMP/economic-vitality.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/22">View</a></p></span>
+								<p class="psemp-products">This project includes data compilation and analysis, annual update for three economic indicators in 2022, and Vital Sign key messages.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+			</div><!--end row-->
+			
+			<div class="row text-left">
+				<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Outdoor Activities Vital Sign, Condition of swimming beaches indicator</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/35"><img src="images/PSEMP/swimming-beaches.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/35">View</a></p></span>
+								<p class="psemp-products">This project included monitoring, data compilation, analyses, and reporting at Puget Sound marine beaches for fecal indicator bacteria, and communication to the public when a risk of disease was identified.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+				
+			
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Shoreline Armor Vital Sign, indicator of new and removed armor</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/42"><img src="images/PSEMP/shoreline-armoring.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/42">View</a></p></span>
+								<p class="psemp-products">This project included HPA-based data compilation; Vital Sign indicator reporting for 2019 and 2020; and a Vital Sign decadal summary report and final data product.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+				
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Subjective human wellbeing indicators</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/"><img src="images/PSEMP/crabbing.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/">View</a></p></span>
+								<span class="no-icon"><p class="psemp-products">This project included a second survey and report in support of the subjective human wellbeing indicators. Reported on <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/21" target="new">Cultural Wellbeing</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/23" target="new">Good Governance</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/24" target="new">Sense of Place</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/25" target="new">Sound Stewardship</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/4" target="new">Local Foods</a> and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/6" target="new">Outdoor Activity Vital Signs</a>.</p><br></span>
+					
+							</div></div></div></div> <!--end col-->
+			</div><!--end row-->
+			
+			<div class="row text-left">
+				<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Toxics in Fish Vital Sign, Contaminants in juvenile salmon indicator</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/49"><img src="images/news-images/salmon.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/49">View</a></p></span>
+								<p class="psemp-products">This project assessed compatibility of historical data and assessed time trends. The project included an indicator update for contaminants in juvenile salmon and a draft manuscript and communication product.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+				
+				<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">2019 Recommendations for a Puget Sound Estuary Avian Monitoring Strategy</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua"><img src="images/PSEMP/teal.jpg" class="img-responsive img-rounded" alt=""/></a>
+						 
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">View</a></p></span>
+								<p class="psemp-products">The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to develop a common framework for monitoring birds.</p><br>
+							</div></div></div></div><!--end col-->
+				
+				<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">2018 SALISH SEA TOXICS MONITORING SYNTHESIS</h6> 
+					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis"><img src="images/PSEMP/toxics-synthesis-cover-2018-products.jpg" class="img-responsive img-rounded" alt=""/></a> 
+						
+					<p class="psemp-products"><a href="https://www.eopugetsound.org/articles/2018-salish-sea-toxics-monitoring-synthesis">View</a></p></span>
+								<p class="psemp-products">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea.</p><br>
+							</div></div></div></div> <!--end col-->
+				
+			</div><!--end row-->
+				
+			<div class="row text-left">
+				
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top margin-20-right">Puget Sound Ecosystem Monitoring Strategic Plan</h6> 
+					<span class="no-icon"><a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2"><img src="images/PSEMP/PSEMP-strategic-plan-products.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2">View</a></p></span>
+								<p class="psemp-products">This plan includes a goal for PSEMP to convene subject matter experts to communicate scientific information from different parts of the ecosystem to address key management and science questions for recovery of the ecosystem.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+				
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Shoreline Monitoring Toolbox</h6> 
+					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/news-images/shoreline-monitoring-toolbox.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://sites.google.com/a/uw.edu/toolbox/home">View</a></p></span>
+								<p class="psemp-products">This toolbox emphasizes methods that are simple and affordable, and that can be used for monitoring.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+				</div><!--end row-->
+			
 		</div><!--end container-->
 <!-- InstanceEndEditable --> </div>
 		
