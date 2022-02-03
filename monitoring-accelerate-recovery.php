@@ -115,7 +115,7 @@
 					</tr>
 					<tr>
 					<td>Prioritization of Contaminants of Emerging Concern</td>
-						<td><p>This project will identify and prioritize a suite of contaminants of emerging concern (CECs), based on biological relevance, to focus future monitoring efforts and provide the information necessary for a management response. Hundreds of CECs such as pharmaceuticals, plasticizers, pesticides, and others have been detected in Puget Sound. It is critical that we prioritize limited funding to address the chemicals of greatest concern and for future regulatory requirements. This project is still in development, but the project has developed a one-page overview regarding the process linked <a href="https://pspwa.box.com/s/dtw2o073imaqivbbqm6ikzytstuo7y7q">here</a>. You can find a <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">video overview here</a>.</p></td>
+						<td><p>This project will identify and prioritize a suite of contaminants of emerging concern (CECs), based on biological relevance, to focus future monitoring efforts and provide the information necessary for a management response. Hundreds of CECs such as pharmaceuticals, plasticizers, pesticides, and others have been detected in Puget Sound. We must prioritize limited funding to address the chemicals of greatest concern and for future regulatory requirements. This project has finished its first phase and the report is <a href="https://pspwa.box.com/s/tj1k3y6xnn4ww46zxdnmo8lbizuiqs4d">linked here</a>. You can find a <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">video overview here</a>.</p></td>
 						<td><p>Andy James, University of Washington Tacoma; Ruth Sofield, Western Washington University</p></td>
 					</tr>
 					<tr>
