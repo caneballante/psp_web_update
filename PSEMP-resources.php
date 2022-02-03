@@ -124,7 +124,7 @@
 							<div class="d-inline">
 					<h6 class="margin-0-top">Prioritization of Contaminants of Emerging Concern</h6> 
 					<span class="no-icon"><a href="https://pspwa.box.com/s/dtw2o073imaqivbbqm6ikzytstuo7y7q" target="new"><img src="images/PSEMP/CECS.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://pspwa.box.com/s/dtw2o073imaqivbbqm6ikzytstuo7y7q">Overview</a> | <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">Video</a></p></span>
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/tj1k3y6xnn4ww46zxdnmo8lbizuiqs4d">Report</a> | <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">Video</a></p></span>
 								<p class="psemp-products">This project prioritizes contaminants of emerging concern (CECs) for monitoring efforts and management responses. Hundreds of CECs such as pharmaceuticals, plasticizers, and pesticides have been found in Puget Sound.</p><br>
 					
 							</div></div></div></div> <!--end col-->
@@ -147,9 +147,9 @@
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
-					<h6 class="margin-0-top">Birds Vital Sign, Abundance of marine birds indicator</h6> 
-					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/3"><img src="images/PSEMP/marine-birds.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/3">View</a></p></span>
+					<h6 class="margin-0-top">Birds Vital Sign, Abundance of marine and terrestrial birds indicator</h6> 
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/17"><img src="images/PSEMP/marine-birds.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/17">View</a></p></span>
 								<p class="psemp-products">This project includes processing annual mid-winter WDFW PSAMP seabird and waterfowl survey flight data; marine and terrestrial bird indicator updates; winter birds web map; Pigeon Guillemot citizen science data gathering, storage and summary tools.</p><br>
 					
 							</div></div></div></div> <!--end col-->
@@ -207,8 +207,8 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Subjective human wellbeing indicators</h6> 
-					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/"><img src="images/PSEMP/crabbing.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/">View</a></p></span>
+					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/2"><img src="images/PSEMP/crabbing.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/2">View</a></p></span>
 								<span class="no-icon"><p class="psemp-products">This project included a second survey and report in support of the subjective human wellbeing indicators. Reported on <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/21" target="new">Cultural Wellbeing</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/23" target="new">Good Governance</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/24" target="new">Sense of Place</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/25" target="new">Sound Stewardship</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/4" target="new">Local Foods</a> and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/6" target="new">Outdoor Activity Vital Signs</a>.</p><br></span>
 					
 							</div></div></div></div> <!--end col-->
