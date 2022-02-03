@@ -147,7 +147,7 @@
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/makingwaves.jpg"  alt="Puget Sound Partnership logo"/> 
 					<strong>RESOURCE</strong><br>
-						<a href="www.makingwaves.psp.wa.gov" target="new">Read the latest articles in Making Waves</a><br>
+						<a href="https://makingwaves.psp.wa.gov/" target="new">Read the latest articles in Making Waves</a><br>
 						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
