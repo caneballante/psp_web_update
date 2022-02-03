@@ -98,7 +98,7 @@
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
 			<div class="padding-5-bottom"><span class="new-red">NEW </span><a href="government-relations.php">Tools for tracking state legislative affairs during the 2022 session</a></div>
 			<div class="padding-5-bottom"><a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a></div>	
-			<div class="padding-5-bottom"><a href="makingwaves.psp.wa.gov">Making Waves Magazine</a></div>	
+			<div class="padding-5-bottom"><a href="https://makingwaves.psp.wa.gov/">Making Waves Magazine</a></div>	
 			
 			
 		</div>
