@@ -98,7 +98,7 @@
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
 			<div class="padding-5-bottom"><span class="new-red">NEW </span><a href="government-relations.php">Tools for tracking state legislative affairs during the 2022 session</a></div>
 			<div class="padding-5-bottom"><a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a></div>	
-			<div class="padding-5-bottom"><a href="https://makingwaves.psp.wa.gov/">Making Waves Magazine</a></div>	
+			<div class="padding-5-bottom"><a href="https://makingwaves.psp.wa.gov/">Making Waves magazine</a></div>	
 			
 			
 		</div>
@@ -185,8 +185,21 @@
 				
 			</div>
 		<!--COLUMN END-->
-		
-			
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/BillyFrankJrNews.jpg"  alt="Photo of Billy Frank Jr. smiling. Photo credit: Northwest Indian Fisheries Commission"/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/remembering-billy-frank-jr-6115d04791e0" target="_blank">Remembering Billy Frank Jr.</a><br>
+						<!--END news content BOX-->    
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--column END-->
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
