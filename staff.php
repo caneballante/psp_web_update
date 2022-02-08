@@ -71,6 +71,10 @@
             <h5>Laura Blackmore</h5>
             			<p>Executive Director<br />
                			 360.628.7707 | <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a> | Follow on Twitter <a href="https://twitter.com/pspdirector" target="new">@pspdirector</a></p>
+			
+						<h5>Chrystal Andoh</h5>
+						<p> Executive Assistant<br />
+							360.870.6664 | <a href="mailto:chrystal.andoh@psp.wa.gov">chrystal.andoh@psp.wa.gov</a></p>
             
 						<h5>Todd Hass</h5>
 						<p> Special Assistant to the Director<br />
@@ -249,10 +253,7 @@
 						360.819.0208 | <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p>
 						<!--ADMINISTRATIVE SUPPORT-->
 						<h3 class="padding-10-top">Administrative Support Team</h3>
-						<h5>Chrystal Andoh</h5>
-						<p> Executive Assistant<br />
-							360.870.6664 | <a href="mailto:chrystal.andoh@psp.wa.gov">chrystal.andoh@psp.wa.gov</a></p>
-						
+												
 						<h5>Lisa Carter</h5>
 						<p>Administrative Assistant<br />
 						360.819.6429 | <a href="mailto:lisa.carter@psp.wa.gov">lisa.carter@psp.wa.gov</a><br />							
