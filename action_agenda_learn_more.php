@@ -85,8 +85,8 @@
 				<li><p>Only 64 percent of the major rivers in Puget Sound meet water quality standards.</p></li>
 				<li><p>Hundreds of tons of toxic chemicals and metals end up in Puget Sound each year from cars, wood burning, household pesticide use, pharmaceuticals, and air emissions.</p></li>
 			</ul>
-			<p>The good news is that we can preserve the vitality Puget Sound brings to our region if we work together. The Washington State Legislature created the Puget Sound Partnership to coordinate and lead the effort to protect and restore Puget Sound through a strategic, prioritized, science-based Action Agenda &ldquo;that addresses all of the complex connections among the land, water, web of species, and human needs.&rdquo;&nbsp;<br>
-				The Action Agenda charts the course for effective collective action. Benefits of the Action Agenda include:</p>
+			<p>The good news is that we can preserve the vitality Puget Sound brings to our region if we work together. The Washington State Legislature created the Puget Sound Partnership to coordinate and lead the effort to protect and restore Puget Sound through a strategic, prioritized, science-based Action Agenda &ldquo;that addresses all of the complex connections among the land, water, web of species, and human needs.</p>
+				<p>The Action Agenda charts the course for effective collective action. Benefits of the Action Agenda include:</p>
 			<ul>
 				<li><p>Identifies regional priorities to ensure resources are being invested in actions that drive recovery outcomes</p></li>
 				<li><p>Describes the recovery resource needs locally, regionally, and nationally</p></li>
