@@ -127,7 +127,7 @@
 			<h2>How is Puget Sound recovery defined?</h2>
 			<p>To guide the recovery effort, the Action Agenda defines the attributes of a healthy Puget Sound. This definition is grounded in a <a href="https://app.leg.wa.gov/rcw/default.aspx?cite=90.71.210">set of goals from the Washington Legislature</a> and the community&rsquo;s vision for a resilient ecosystem.</p><br>
 			
-			<table class="table-striped">
+			<table class="table table-striped">
 				<tbody>
 					<tr>
 						<td><p><strong>Healthy human population</strong></p></td>
