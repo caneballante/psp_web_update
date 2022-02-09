@@ -86,18 +86,20 @@
 			<ul>
 				<li><p>The Action Agenda Tracker was created to allow implementers, funders, decisionmakers, and the public to track Puget Sound recovery actions associated with the Action Agenda starting in 2018. The Tracker also helps us tell stories about the work, investments, and accomplishments of the broad community of organizations and individuals dedicated to Puget Sound recovery. <a href="https://actionagenda.pugetsoundinfo.wa.gov">Visit the Action Agenda Tracker</a>.</p>
 				<p>The Partnership also maintains information about prior Action Agendas, including about the funding and implementation of past recovery actions (NTAs). Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/About/oldaa" target="new">Past Action Agendas page in Puget Sound Info</a>.</p></li>
-				<li><p>NEP investments for the period 2006 to present are summarized in the <a href="https://nepatlas.pugetsoundinfo.wa.gov/" target="new">NEP Atlas located in Puget Sound Info.</a></p></li>
+				<li><p>National Estuary Program (NEP) investments for the period 2006 to present are summarized in the <a href="https://nepatlas.pugetsoundinfo.wa.gov/" target="new">NEP Atlas located in Puget Sound Info.</a></p></li>
 			</ul>
 			<h2>Implementation Effectiveness</h2>
 				<p>The Partnership uses information from monitoring recovery efforts and assessing their effectiveness to describe the return on investment or benefit of recovery efforts. When the return or benefit meets or exceeds expectations, sharing results can encourage more implementation of successful approaches. When the return or benefit does not meet expectations, the recovery approaches can be modified. </p>
 				<p>The Partnership&rsquo;s <a href="http://www.psp.wa.gov/evaluating-effective-action.php">effectiveness program</a> reviews scientific reports to distill information about what&rsquo;s working to restore Puget Sound. This information, once vetted by regional experts, is presented in fact sheets and narrative summaries that can be used to help develop effective programs and projects that align with the Puget Sound Action Agenda and accelerate the recovery of Puget Sound.</p>
 				<h2>Other Reporting</h2>
-				<p>The <a href="http://psp.wa.gov/gis/NEPAtlas/Home">NEP Atlas</a> is a compilation of interactive maps, graphs and tables of activities funded beginning in 2017 by the National Estuary Program (NEP) of the U.S. Environmental Protection Agency.</p>
+				<p><p>National Estuary Program (NEP) investments for the period 2006 to present are summarized in the <a href="https://nepatlas.pugetsoundinfo.wa.gov/" target="new">NEP Atlas located in Puget Sound Info.</a></p>
 				<h2>Results</h2>
 				<p>	The Partnership reports the current status of both ecosystem health and implementation effectiveness in the&nbsp;<a href="http://www.psp.wa.gov/sos.php">State of the Sound report</a>, updated every 2 years. The report provides a summary of data tracked in the Puget Sound Vital Signs and Action Agenda Report Card to help partners and decision makers understand the state of the Puget Sound ecosystem, where progress is being made, where challenges remain, and where future action and focused investment are needed.</p>
 				<p>Go to Chapter 4 of the <a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">2018-2022 Comprehensive Plan</a>, &ldquo;Framework for recovering Puget Sound,&rdquo; to learn more about the efforts to track and report on progress.</p>
 			
 			</a></p>
+	
+			<p class="last-update">Last updated: 02/9/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
