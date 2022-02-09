@@ -126,12 +126,36 @@
 				Learn more about who is involved in creating the Action Agenda in Chapter 5 of the <a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">2018-2022 Comprehensive Plan</a>, &ldquo;Partners in Recovery.&rdquo;  </p>
 			<h2>How is Puget Sound recovery defined?</h2>
 			<p>To guide the recovery effort, the Action Agenda defines the attributes of a healthy Puget Sound. This definition is grounded in a <a href="https://app.leg.wa.gov/rcw/default.aspx?cite=90.71.210">set of goals from the Washington Legislature</a> and the community&rsquo;s vision for a resilient ecosystem.</p>
-				<p><strong>Healthy human population.</strong><br>Healthy people are supported by a healthy Puget Sound.</p>
-				<p><strong>Vibrant Human quality of life.</strong><br>Our quality of life is sustained by a healthy Puget Sound.</p>
-				<p><strong>Species and food web.</strong><br>Puget Sound species and the web of life thrive.</p>
-				<p><strong>Protect and restore habitat.</strong><br>Puget Sound habitat is protected and restored.</p>
-				<p><strong>Abundant Water quantity.</strong><br>Puget Sound rivers and streams flow at levels that support people, fish, and wildlife.</p>
-				<p><strong>Water quality.</strong><br>Puget Sound marine and fresh waters are clean.</p><br>
+			
+			<table class="table-responsive table-bordered table-striped">
+				<tbody>
+					<tr>
+						<td><strong>Healthy human population.</strong></td>
+						<td>Healthy people are supported by a healthy Puget Sound.</td>
+					</tr>
+					<tr>
+						<td><strong>Vibrant Human quality of life.&nbsp;</strong></td>
+						<td>Our quality of life is sustained by a healthy Puget Sound.</td>
+					</tr>
+					<tr>
+						<td><strong>Species and food web.</strong></td>
+						<td>Puget Sound species and the web of life thrive.</td>
+					</tr>
+					<tr>
+						<td><strong>Protect and restore habitat.</strong></td>
+						<td>Puget Sound habitat is protected and restored.</td>
+					</tr>
+					<tr>
+						<td><strong>Abundant Water quantity.</strong></td>
+						<td>Puget Sound rivers and streams flow at levels that support people, fish, and wildlife.</td>
+					</tr>
+					<tr>
+						<td><strong>Water quality.</strong></td>
+						<td>Puget Sound marine and fresh waters are clean.</td>
+					</tr>
+				</tbody>
+			</table><br><br>
+			
 				<p>	The Partnership&rsquo;s Leadership Council in 2018 adopted a resolution that envisions a resilient Puget Sound. The &ldquo;Beyond 2020&rdquo; resolution provides principles to guide a collective approach to recovery. It gives an honest summary of how efforts to date have fallen short of the goal. It recognizes the need for broad political support of recovery actions and more active involvement of business and civic groups. Most importantly, the resolution promotes the fact that success can only come from a deeply and passionately held personal commitment from the people of the region.   </p>
 				<p> &ldquo;Our vision includes a resilient ecosystem—one that can adapt to the impacts of climate change and the pressures of a growing human population, while meeting the needs of its native creatures. Our vision includes a thriving economy, sustainable farms and forests, and human communities with high quality of life and the businesses that support them. And most importantly, our vision includes a broad community of engaged citizens who commit to save Puget Sound.</p>
 				<p>&ldquo;We pledge to make this vision a reality. We will do so by challenging ourselves to pursue ambitious action, secure needed funding, seek supporting legislation, apply our resources and legal tools, and hold ourselves accountable for implementing all actions needed to make Puget Sound resilient. Because we are all connected to Puget Sound, we issue this call to action to ask everyone to make the same commitment. We ask you to join us in protecting habitat, recovering iconic species, and ensuring that our lands and waters sustain generations to come.&rdquo; </p>
