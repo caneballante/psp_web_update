@@ -130,27 +130,27 @@
 			<table class="table-responsive table-striped">
 				<tbody>
 					<tr>
-						<td><p><strong>Healthy human population.</strong></p></td>
+						<td><p><strong>Healthy human population</strong></p></td>
 						<td><p>Healthy people are supported by a healthy Puget Sound.</p></td>
 					</tr>
 					<tr>
-						<td><p><strong>Vibrant Human quality of life.&nbsp;&nbsp;</strong></p></td>
+						<td><p><strong>Vibrant Human quality of life&nbsp;&nbsp;</strong></p></td>
 						<td><p>Our quality of life is sustained by a healthy Puget Sound.</p></td>
 					</tr>
 					<tr>
-						<td><p><strong>Species and food web.</strong></p></td>
+						<td><p><strong>Species and food web</strong></p></td>
 						<td><p>Puget Sound species and the web of life thrive.</p></td>
 					</tr>
 					<tr>
-						<td><p><strong>Protect and restore habitat.</strong></p></td>
+						<td><p><strong>Protect and restore habitat</strong></p></td>
 						<td><p>Puget Sound habitat is protected and restored.</p></td>
 					</tr>
 					<tr>
-						<td><p><strong>Abundant Water quantity.</strong></p></td>
+						<td><p><strong>Abundant Water quantity</strong></p></td>
 						<td><p>Puget Sound rivers and streams flow at levels that support people, fish, and wildlife.</p></td>
 					</tr>
 					<tr>
-						<td><p><strong>Water quality.</strong></p></td>
+						<td><p><strong>Water quality</strong></p></td>
 						<td><p>Puget Sound marine and fresh waters are clean.</p></td>
 					</tr>
 				</tbody>
