@@ -75,7 +75,7 @@
 			<p>The Action Agenda Tracker was created to allow implementers, funders, decisionmakers, and the public to track Puget Sound recovery actions associated with the Action Agenda starting in 2018. The Tracker also helps us tell stories about the work, investments, and accomplishments of the broad community of organizations and individuals dedicated to Puget Sound recovery. <a href="https://actionagenda.pugetsoundinfo.wa.gov">Visit the Action Agenda Tracker</a>			</p>
 			<h2>NEP ATLAS</h2>
 			<p>NEP investments for the period 2006 to present are summarized in the <a href="https://nepatlas.pugetsoundinfo.wa.gov/" target="new">NEP Atlas located in Puget Sound Info.</a></p>
-						<h2>PUGET SOUND VITAL SIGNS <span class="new-red">NEW!</span></h2>
+						<h2>PUGET SOUND VITAL SIGNS</h2>
 			<p>The Puget Sound Vital Signs are measures of ecosystem health and progress toward Puget Sound recovery goals. Thanks to a strong network of monitoring programs and committed scientists and environmental program managers in the Puget Sound Ecosystem Monitoring Program, the status and trends of indicators and progress toward recovery goals are regularly updated throughout this website.  <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Visit the Vital Signs</a></p></div>
 
 		<h2> Effectiveness Monitoring</h2>
