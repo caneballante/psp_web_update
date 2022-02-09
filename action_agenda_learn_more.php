@@ -125,7 +125,7 @@
 			<p>*Puget Sound Partnership Board <br>
 				Learn more about who is involved in creating the Action Agenda in Chapter 5 of the <a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">2018-2022 Comprehensive Plan</a>, &ldquo;Partners in Recovery.&rdquo;  </p>
 			<h2>How is Puget Sound recovery defined?</h2>
-			<p>To guide the recovery effort, the Action Agenda defines the attributes of a healthy Puget Sound. This definition is grounded in a <a href="https://app.leg.wa.gov/rcw/default.aspx?cite=90.71.210">set of goals from the Washington Legislature</a> and the community&rsquo;s vision for a resilient ecosystem.</p>
+			<p>To guide the recovery effort, the Action Agenda defines the attributes of a healthy Puget Sound. This definition is grounded in a <a href="https://app.leg.wa.gov/rcw/default.aspx?cite=90.71.210">set of goals from the Washington Legislature</a> and the community&rsquo;s vision for a resilient ecosystem.</p><br>
 			
 			<table>
 				<tbody>
@@ -154,7 +154,7 @@
 						<td><p>Puget Sound marine and fresh waters are clean.</p></td>
 					</tr>
 				</tbody>
-			</table><br><br>
+			</table><br>
 			
 				<p>	The Partnership&rsquo;s Leadership Council in 2018 adopted a resolution that envisions a resilient Puget Sound. The &ldquo;Beyond 2020&rdquo; resolution provides principles to guide a collective approach to recovery. It gives an honest summary of how efforts to date have fallen short of the goal. It recognizes the need for broad political support of recovery actions and more active involvement of business and civic groups. Most importantly, the resolution promotes the fact that success can only come from a deeply and passionately held personal commitment from the people of the region.   </p>
 				<p> &ldquo;Our vision includes a resilient ecosystem—one that can adapt to the impacts of climate change and the pressures of a growing human population, while meeting the needs of its native creatures. Our vision includes a thriving economy, sustainable farms and forests, and human communities with high quality of life and the businesses that support them. And most importantly, our vision includes a broad community of engaged citizens who commit to save Puget Sound.</p>
