@@ -134,7 +134,7 @@
 						<td><p>Healthy people are supported by a healthy Puget Sound.</p></td>
 					</tr>
 					<tr>
-						<td><p><strong>Vibrant Human quality of life&nbsp;&nbsp;</strong></p></td>
+						<td><p><strong>Vibrant Human quality of life</strong></p>&nbsp;&nbsp;</td>
 						<td><p>Our quality of life is sustained by a healthy Puget Sound.</p></td>
 					</tr>
 					<tr>
