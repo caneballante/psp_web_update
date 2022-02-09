@@ -68,23 +68,22 @@
 			<p>&nbsp;</p>
 			<p>Several online tools offer accessible opportunities to track the recovery actions and activities taking place throughout the Sound:</p>
 			<span class="floatright padding-20-top"><img class="img-responsive" src="images/puget-sound-info-screenshot.jpg" width="400"  alt=""/></span>
-		<h2>PUGET SOUND INFO <span class="new-red">NEW!</span></h2>
+		<h2>PUGET SOUND INFO</h2>
 			
 			<p>Puget Sound Info is an online, collaborative platform for sharing information about Puget Sound recovery priorities, investments, accomplishments, and progress toward near-term outcomes and long-term recovery goals.&nbsp;Managed by the Partnership and developed with input from many Puget Sound recovery partners, Puget Sound Info is the new online home for multiple tools used to track and report on Puget Sound recovery efforts, including the Action Agenda Tracker, the NEP Atlas, and the Vital Sign website. <a href="https://www.pugetsoundinfo.wa.gov/">Visit Puget Sound Info</a></p>
-			<div class="padding-50-left"><h2>Action Agenda Tracker <span class="new-red">NEW!</span></h2>
+			<div class="padding-50-left"><h2>Action Agenda Tracker</h2>
 			<p>The Action Agenda Tracker was created to allow implementers, funders, decisionmakers, and the public to track Puget Sound recovery actions associated with the Action Agenda starting in 2018. The Tracker also helps us tell stories about the work, investments, and accomplishments of the broad community of organizations and individuals dedicated to Puget Sound recovery. <a href="https://actionagenda.pugetsoundinfo.wa.gov">Visit the Action Agenda Tracker</a>			</p>
-			<h2>NEP ATLAS <span class="new-red">NEW!</span></h2>
+			<h2>NEP ATLAS</h2>
 			<p>NEP investments for the period 2006 to present are summarized in the <a href="https://nepatlas.pugetsoundinfo.wa.gov/" target="new">NEP Atlas located in Puget Sound Info.</a></p>
 						<h2>PUGET SOUND VITAL SIGNS <span class="new-red">NEW!</span></h2>
 			<p>The Puget Sound Vital Signs are measures of ecosystem health and progress toward Puget Sound recovery goals. Thanks to a strong network of monitoring programs and committed scientists and environmental program managers in the Puget Sound Ecosystem Monitoring Program, the status and trends of indicators and progress toward recovery goals are regularly updated throughout this website.  <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Visit the Vital Signs</a></p></div>
-<h2>REPORT CARD </h2>
-		<p>The Action Agenda Report Card is an online tool used to track and report on progress and funding of Action Agenda Near Term Actions. Starting with the 2018-2022 Action Agenda, the Action Agenda Tracker will replace the Report Card and will provide interactive, up to date information about the status, funding, and accomplishments of all 2018 NTAs. Information about over 800 NTAs from the 2012, 2014 and 2016 Action Agendas can still be found in the Report Card Archives for <a href="https://app.smartsheet.com/b/publish?EQBCT=4125b6c62a144684a6664b626577ccfe">2012</a>, <a href="https://app.smartsheet.com/b/publish?EQBCT=bc56baeef3004a5da95309eb287aaafa">2014</a> and  <a href="http://www.psp.wa.gov/gis/ReportCard/">2016</a>. </p>
+
 		<h2> Effectiveness Monitoring</h2>
 			<p>Many restoration and management actions have been effective in restoring ecosystem components and processes in Puget Sound, but much of the evidence of success is found in technical documents that are not easy to access. We are reviewing scientific reports to distill information about what&rsquo;s working to restore Puget Sound. This information, once vetted by regional experts, is presented in fact sheets and narrative summaries that can be used to help develop effective programs and projects that align with the Puget Sound Action Agenda and accelerate the recovery of Puget Sound.<a href="evaluating-effective-action.php"> Learn more</a></p>
 			<h2>STATE OF THE SOUND</h2>
 			<p>The Partnership is required in Washington state statute to produce a State of the Sound report every 2 years to demonstrate progress in our collective efforts to recover the Sound. The State of the Sound website is a comprehensive and broadly accessible resource that includes the latest report content, as well as additional in-depth analysis and technical information not available in the briefer, printed documents. <a href="https://stateofthesound.wa.gov/" target="new">View the 2021 State of the Sound</a></p>
 			
-			<p class="last-update">Last updated: 12/17/21</p>
+			<p class="last-update">Last updated: 2/9/22</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
