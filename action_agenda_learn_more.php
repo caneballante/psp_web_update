@@ -127,31 +127,31 @@
 			<h2>How is Puget Sound recovery defined?</h2>
 			<p>To guide the recovery effort, the Action Agenda defines the attributes of a healthy Puget Sound. This definition is grounded in a <a href="https://app.leg.wa.gov/rcw/default.aspx?cite=90.71.210">set of goals from the Washington Legislature</a> and the community&rsquo;s vision for a resilient ecosystem.</p>
 			
-			<table class="table-responsive table-bordered table-striped">
+			<table class="table-responsive table-bordered">
 				<tbody>
 					<tr>
-						<td><strong>Healthy human population.</strong></td>
-						<td>Healthy people are supported by a healthy Puget Sound.</td>
+						<td><p><strong>Healthy human population.</strong></p></td>
+						<td><p>Healthy people are supported by a healthy Puget Sound.</p></td>
 					</tr>
 					<tr>
-						<td><strong>Vibrant Human quality of life.&nbsp;</strong></td>
-						<td>Our quality of life is sustained by a healthy Puget Sound.</td>
+						<td><p><strong>Vibrant Human quality of life.&nbsp;&nbsp;</strong></p></td>
+						<td><p>Our quality of life is sustained by a healthy Puget Sound.</p></td>
 					</tr>
 					<tr>
-						<td><strong>Species and food web.</strong></td>
-						<td>Puget Sound species and the web of life thrive.</td>
+						<td><p><strong>Species and food web.</strong></p></td>
+						<td><p>Puget Sound species and the web of life thrive.</p></td>
 					</tr>
 					<tr>
-						<td><strong>Protect and restore habitat.</strong></td>
-						<td>Puget Sound habitat is protected and restored.</td>
+						<td><p><strong>Protect and restore habitat.</strong></p></td>
+						<td><p>Puget Sound habitat is protected and restored.</p></td>
 					</tr>
 					<tr>
-						<td><strong>Abundant Water quantity.</strong></td>
-						<td>Puget Sound rivers and streams flow at levels that support people, fish, and wildlife.</td>
+						<td><p><strong>Abundant Water quantity.</strong></p></td>
+						<td><p>Puget Sound rivers and streams flow at levels that support people, fish, and wildlife.</p></td>
 					</tr>
 					<tr>
-						<td><strong>Water quality.</strong></td>
-						<td>Puget Sound marine and fresh waters are clean.</td>
+						<td><p><strong>Water quality.</strong></p></td>
+						<td><p>Puget Sound marine and fresh waters are clean.</p></td>
 					</tr>
 				</tbody>
 			</table><br><br>
