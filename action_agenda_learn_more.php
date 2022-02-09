@@ -75,22 +75,22 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 				<div class="highlightbox margin-0-top margin-20-bottom">
-			<p><span class="new-red">NEW!</span> The Puget Sound Partnership is transitioning to a new tool to monitor ecosystem health and implementation of the Action Agenda. Please visit <a href="https://www.pugetsoundinfo.wa.gov/">Puget Sound Info </a>for the most recent information.</p>
+			<p> The Puget Sound Partnership is transitioning to a new tool to monitor ecosystem health and implementation of the Action Agenda. Please visit <a href="https://www.pugetsoundinfo.wa.gov/">Puget Sound Info </a>for the most recent information.</p>
 			</div>
 			
 			<h2 class="margin-10-top">Why do we need an Action Agenda?</h2>
 			<p>Puget Sound is a unique and vital part of our region. It nourishes our health, economy, environment, and quality of life. A healthy Puget Sound is essential to sustaining a vibrant economy, meeting our obligations to treaty rights, and supporting our need for connection to the natural world. But Puget Sound is not as healthy as it should be. For example:</p>
-			<ul type="disc">
-				<li><strong>Salmon populations are one-third as abundant as they were in 1908 and continue to decline.</strong></li>
-				<li><strong>Only 64 percent of the major rivers in Puget Sound meet water quality standards.</strong></li>
-				<li><strong>Hundreds of tons of toxic chemicals and metals end up in Puget Sound each year from      cars, wood burning, household pesticide use, pharmaceuticals, and air emissions.</strong></li>
+			<ul>
+				<li><p>Salmon populations are one-third as abundant as they were in 1908 and continue to decline.</p></li>
+				<li><p>Only 64 percent of the major rivers in Puget Sound meet water quality standards.</p></li>
+				<li><p>Hundreds of tons of toxic chemicals and metals end up in Puget Sound each year from cars, wood burning, household pesticide use, pharmaceuticals, and air emissions.</p></li>
 			</ul>
 			<p>The good news is that we can preserve the vitality Puget Sound brings to our region if we work together. The Washington State Legislature created the Puget Sound Partnership to coordinate and lead the effort to protect and restore Puget Sound through a strategic, prioritized, science-based Action Agenda &ldquo;that addresses all of the complex connections among the land, water, web of species, and human needs.&rdquo;&nbsp;<br>
 				The Action Agenda charts the course for effective collective action. Benefits of the Action Agenda include:</p>
 			<ul>
-				<li>Identifies regional priorities to ensure resources are being invested in actions that drive recovery outcomes</li>
-				<li>Describes the recovery resource needs locally, regionally, and nationally</li>
-				<li>Provides a credible plan to make funding decisions more efficient and effective</li>
+				<li><p>Identifies regional priorities to ensure resources are being invested in actions that drive recovery outcomes</p></li>
+				<li><p>Describes the recovery resource needs locally, regionally, and nationally</p></li>
+				<li><p>Provides a credible plan to make funding decisions more efficient and effective</p></li>
 			</ul>
 			<p>Learn more about purpose of the Action Agenda in the <a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">2018-2022 Comprehensive Plan</a>, &ldquo;The Challenge Before Us… and Why it Matters,&rdquo; and Chapter 1 &ldquo;Introduction to the Action Agenda.&rdquo; </p>
 			<h2>Who produces the Action Agenda? </h2>
@@ -126,15 +126,15 @@
 				Learn more about who is involved in creating the Action Agenda in Chapter 5 of the <a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">2018-2022 Comprehensive Plan</a>, &ldquo;Partners in Recovery.&rdquo;  </p>
 			<h2>How is Puget Sound recovery defined?</h2>
 			<p>To guide the recovery effort, the Action Agenda defines the attributes of a healthy Puget Sound. This definition is grounded in a <a href="https://app.leg.wa.gov/rcw/default.aspx?cite=90.71.210">set of goals from the Washington Legislature</a> and the community&rsquo;s vision for a resilient ecosystem.</p>
-				<p><strong>Healthy human population.</strong>&nbsp;Healthy people are supported by a healthy Puget Sound.</p>
-				<p><strong>Vibrant Human quality of life.</strong>&nbsp;Our quality of life is sustained by a healthy Puget Sound.</p>
-				<p><strong>Species and food web.</strong>&nbsp;Puget Sound species and the web of life thrive.</p>
-				<p><strong>Protect and restore habitat.&nbsp;</strong>Puget Sound habitat is protected and restored.</p>
-				<p><strong>Abundant Water quantity.</strong>&nbsp;Puget Sound rivers and streams flow at levels that support people, fish, and wildlife.</p>
-				<p><strong>Water quality.</strong>&nbsp;Puget Sound marine and fresh waters are clean.</p>
+				<p><strong>Healthy human population.</strong><br>Healthy people are supported by a healthy Puget Sound.</p>
+				<p><strong>Vibrant Human quality of life.</strong><br>Our quality of life is sustained by a healthy Puget Sound.</p>
+				<p><strong>Species and food web.</strong><br>Puget Sound species and the web of life thrive.</p>
+				<p><strong>Protect and restore habitat.</strong><br>Puget Sound habitat is protected and restored.</p>
+				<p><strong>Abundant Water quantity.</strong><br>Puget Sound rivers and streams flow at levels that support people, fish, and wildlife.</p>
+				<p><strong>Water quality.</strong><br>Puget Sound marine and fresh waters are clean.</p><br>
 				<p>	The Partnership&rsquo;s Leadership Council in 2018 adopted a resolution that envisions a resilient Puget Sound. The &ldquo;Beyond 2020&rdquo; resolution provides principles to guide a collective approach to recovery. It gives an honest summary of how efforts to date have fallen short of the goal. It recognizes the need for broad political support of recovery actions and more active involvement of business and civic groups. Most importantly, the resolution promotes the fact that success can only come from a deeply and passionately held personal commitment from the people of the region.   </p>
-				<p> &ldquo;<strong>Our </strong><strong>vision includes a resilient ecosystem</strong>—one that can adapt to the impacts of climate change and the pressures of a growing human population, while meeting the needs of its native creatures. Our vision includes a thriving economy, sustainable farms and forests, and human communities with high quality of life and the businesses that support them. And most importantly, our vision includes a broad community of engaged citizens who commit to save Puget Sound.</p>
-				<p><strong>&ldquo;We pledge to make this vision a reality</strong>. We will do so by challenging ourselves to pursue ambitious action, secure needed funding, seek supporting legislation, apply our resources and legal tools, and hold ourselves accountable for implementing all actions needed to make Puget Sound resilient. Because we are all connected to Puget Sound, we issue this call to action to ask everyone to make the same commitment. We ask you to join us in protecting habitat, recovering iconic species, and ensuring that our lands and waters sustain generations to come.&rdquo; </p>
+				<p> &ldquo;Our vision includes a resilient ecosystem—one that can adapt to the impacts of climate change and the pressures of a growing human population, while meeting the needs of its native creatures. Our vision includes a thriving economy, sustainable farms and forests, and human communities with high quality of life and the businesses that support them. And most importantly, our vision includes a broad community of engaged citizens who commit to save Puget Sound.</p>
+				<p>&ldquo;We pledge to make this vision a reality. We will do so by challenging ourselves to pursue ambitious action, secure needed funding, seek supporting legislation, apply our resources and legal tools, and hold ourselves accountable for implementing all actions needed to make Puget Sound resilient. Because we are all connected to Puget Sound, we issue this call to action to ask everyone to make the same commitment. We ask you to join us in protecting habitat, recovering iconic species, and ensuring that our lands and waters sustain generations to come.&rdquo; </p>
 				<p>Learn more about the goals and vision for recovery in Chapter 3 of the <a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">2018-2022 Comprehensive Plan</a>, &ldquo;Goals and Vision or a Healthy Puget Sound. </p>
 				<h2>How is it paid for?</h2>
 				<p>The Puget Sound Partnership works closely with partners to develop a dependable and diverse funding strategy that will support Puget Sound recovery today and into the coming decades. Federal, state, local, and tribal governments currently provide much of the funding for Puget Sound recovery actions. Non-governmental agencies, private foundations, businesses, and individuals also provide funding. The Figure below shows the relative contribution of different sources of funding to 2016-2018 NTAs.</p>
