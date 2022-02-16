@@ -106,7 +106,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				
-				<li role="presentation"> <a href="https://pspwa.box.com/s/del7mc3w3dmmcyfwmmy9mlldm3zg4ipi" target="new">Human wellbeing Vital Signs</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/8oip3k51d9stga82vt5waal24adj6t9e" target="new">Human wellbeing Vital Signs</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/d2vbgz1nracbrlcoaxxglwybk1jbxnpz">Human Wellbeing Vital Signs and Indicators for Puget Sound Recovery Technical Memorandum</a></li>
 				<li role="presentation"> <a href="https://www.eopugetsound.org/research/ecosystem-based-management-social-science/integrated-conceptual-model-ecosystem-recovery-0">Integrated Conceptual Model of Ecosystem Recovery</a></li>
 				
