@@ -71,12 +71,7 @@ navSelected = 5;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><p>We invite Partnership boards and partners to join us in completing the draft 2022-2026 Action Agenda by providing critical input or identifying areas where more clarity would be beneficial. Comments for this review period will be accepted until <strong>February 9, 2022</strong>. Please see the Action Agenda update timeline below for additional review periods. </p>
-			<p>To submit a comment during this review period:</p>
-				<ul>
-					<li><p>Review the <a href="https://pspwa.box.com/s/knvk3m5vvz6ff7d2hogmhtcqz8689irx" target="new">draft 2022-2026 Action Agenda</a></p></li>
-					<li><p>Submit a <a href="https://survey.zohopublic.com/zs/EMR5sB" target="new">feedback form</a> by February 9, 2022</p></li>
-				</ul>
+			<div class="highlightbox margin-0-top margin-20-bottom"><p>The Partnership is updating the draft 2022-2026 Action Agenda following the boards and partners review period. From March 15-April 15, the Partnership will share a revised draft for public review on this webpage. The full Action Agenda development timeline is outlined below.</p>
 			</div>
 			
 			
@@ -92,24 +87,24 @@ navSelected = 5;
 			
 			<h3>Action Agenda Update Timeline<sup>*</sup></h3>
 				<ul>	
-					<li><p><strong>February 2022</strong>: Partnership staff incorporate feedback from boards and partners. Note that ECB members will have an additional week – until the date of the ECB meeting on February 16 – to review the drafts.</p></li>
+					<li><p><strong>February 2022</strong>: Draft Action Agenda shared for Partnership boards and partners review</p></li>
 					<li><p><strong>March – April 2022</strong>:</p> 
 						<ul>
-							<li><p>Draft actions and Action Agenda presented to the Leadership Council for review and approval on March 2.</p></li> 
-							<li><p>Draft Action Agenda shared for public review</p></li>
+							<li><p>March 3: Draft actions and Action Agenda presented to the Leadership Council for review and approval.</p></li> 
+							<li><p>March 15 - April 15: Draft Action Agenda shared for public review</p></li>
 							<li><p>Partnership staff incorporate feedback based on public review</p></li>
 						</ul>
 					</li>
-					<li><p><strong>May 2022</strong>: Final document layout and graphics</p></li>
+					<li><p><strong>May 2022</strong>: Action Agenda revised and finalized</p></li>
 					<li><p><strong>June 2022</strong>: Final Action Agenda presented to the Leadership Council for approval and adoption</p></li>
-					<li><p><strong>August 2022</strong>: Action Agenda presented to the Environmental Protection Agency (EPA) for approval as the National Estuary Program’s (NEP) Comprehensive Conservation Management Plan (CCMP) for Puget Sound</p></li>
-					<li><p><strong>Summer-Fall 2022</strong>: Public outreach and engagement</p></li>
+					<li><p><strong>August 2022 (anticipated)</strong>: Action Agenda presented to the Environmental Protection Agency (EPA) for approval as the Puget Sound National Estuary Program (NEP) Comprehensive Conservation Management Plan (CCMP)</p></li>
+					<li><p><strong>Summer-Fall 2022</strong>: Action Agenda public engagement and implementation begins</p></li>
 				</ul>
 			
 			<p><sup>*</sup> These dates are subject to change<p>
 			
 	
-			<p class="last-update">Last updated: 01/31/22</p>
+			<p class="last-update">Last updated: 02/16/22</p>
 
         <!-- InstanceEndEditable --> </div>
 		
