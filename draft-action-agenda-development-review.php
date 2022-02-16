@@ -90,7 +90,7 @@ navSelected = 5;
 					<li><p><strong>February 2022</strong>: Draft Action Agenda shared for Partnership boards and partners review</p></li>
 					<li><p><strong>March – April 2022</strong>:</p> 
 						<ul>
-							<li><p>March 3: Draft actions and Action Agenda presented to the Leadership Council for review and approval.</p></li> 
+							<li><p>March 3: Draft actions and Action Agenda presented to the Leadership Council for review and approval</p></li> 
 							<li><p>March 15 - April 15: Draft Action Agenda shared for public review</p></li>
 							<li><p>Partnership staff incorporate feedback based on public review</p></li>
 						</ul>
