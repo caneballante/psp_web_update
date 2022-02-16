@@ -153,7 +153,7 @@
 					<td>360-317-3242</td>
 					<td><a class="small-links" href="mailto:samw@sanjuanco.com">samw@sanjuanco.com</a></td>
 					<td><a href="https://pspwa.box.com/s/ni3evr6wquj1rbugxxqjli5cx3dhalfr">2005 San Juan Chapter</a></td>
-					<td>&nbsp;</td>
+					<td><a href="https://pspwa.box.com/s/uc8xy37a8g1moz0wi46tivglhh6bm6qs" target="new">2022 San Juan Chapter</a></td>
 				</tr>
 				<tr>
 					<td>Skagit </td>
