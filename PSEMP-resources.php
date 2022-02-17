@@ -136,7 +136,7 @@
 					<h6 class="margin-0-top">Juvenile Salmonid Monitoring in Large Puget Sound Rivers</h6> 
 					<span class="no-icon"><a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764" target="new"><img src="images/PSEMP/smolt-traps.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/9wp044gr0346subxe8yqxko26njskire">Report</a> | <a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764">Overview</a> | <a href="https://pspwa.box.com/s/yahbdzph6x2oolm8n0orvljvfsn9ej9c">Video</a></p></span>
-								<p class="psemp-products">Juvenile salmonid monitoring is a key component of understanding freshwater productivity and marine survival of Chinook salmon. The project worked with a network of tribal and state smolt trap operators to identify trends in Chinook salmon abundance and productivity metrics through time across multiple rivers in Puget Sound.</p><br>
+								<p class="psemp-products">Juvenile salmonid monitoring is a key part of understanding freshwater productivity and marine survival of Chinook salmon. For this project, tribal and state smolt trap operators helped identify trends in Chinook salmon abundance and productivity across multiple rivers in Puget Sound.</p><br>
 					
 							</div></div></div></div> <!--end col-->
 			
