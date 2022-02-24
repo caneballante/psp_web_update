@@ -102,7 +102,7 @@ Hall has an undergraduate degree in physics from the University of Chicago and a
  
                Toby and his wife, Laurie, reside in the City of Lakewood and have two children, L.T. and Kelsey. </p></p><br>
 		
-		<p><sup>*</sup> Pending formal reappointment by the Governor's Office of Boards and Commissions</p>
+		<p><sup>*</sup> Pending formal re-appointment by the Governor's Office of Boards and Commissions</p>
 		
 		<p class="last-update">Last updated: 02/24/2022</p>
 			
