@@ -68,7 +68,7 @@
 			<p>The Leadership Council is the governing body of the Puget Sound Partnership. Its seven members are leading citizens chosen from around the Sound and appointed by the Governor to serve four-year terms. Jay Manning currently chairs the Leadership Council.<br>
 			</p>
 			<h2>Chair: Jay Manning</h2>
-			<p><strong>Term: </strong>Four-year term, ends June 25, 2021<br />
+			<p><strong>Term: </strong>Four-year term, ends June 25, 2022<sup>*</sup><br />
 				<strong>Biography:</strong> Jay has been working on restoring Puget Sound for most of his career.  Jay, currently a partner with Cascadia Law Group, spent many years working for the State of Washington, first in the Ecology Division of the Washington Attorney General’s Office and later as Director of the Department of Ecology. During his time at Ecology, Jay made Puget Sound restoration one of the agency’s highest priorities. Gov. Gregoire also appointed Jay to co-chair, with Bill Ruckelshause and Billy Frank Jr., of the original Puget Sound Partnership – the stakeholder group that recommended the creation of the Partnership as a state agency. Later, as Chief of Staff for Gov. Gregoire’s administration, Jay worked hard to maintain the administration’s focus on Puget Sound as the state went through the recession.  Jay has a degree in political science from Eastern Washington University and earned his law degree from the University of Oregon. </p>
 			<h2>Vice Chair: Dennis McLerran</h2>
 			<p><strong>Term:</strong> Four-year term, ends June   25, 2022<br />
@@ -78,7 +78,7 @@
 				<strong>Biography:</strong> Dean is a Jefferson County Commissioner for District 1, Port Townsend, a position she was elected to in 2017, and has served as a member of the Partnership's Ecosystem Coordination Board. She moved to Jefferson County in 1999 and spent 10 years farming and working to grow the local food economy through businesses she co-founded, including FinnRiver Farm and Mt. Townsend Creamery. Her experience as an entrepreneur is critical to her understanding of the local economy and community.</p>
 <p>Dean left the farm but didn’t go far; she started a consulting business that had her working on natural resource and rural economic development issues locally and regionally. She coordinated the Jefferson Landworks Collaborative (a farmland preservation and enterprise development initiative), managed Washington State University Extension’s Small Farm Program, worked for Washington State Department of Labor and Industries, and was the regional director for the North Olympic Development Council, a council of governments tasked with community and economic development. Dean holds her Master of Public Administration degree from the Evans School of Public Policy and Governance at the University of Washington. Her publications include <em>USDA Farmland Changing Hands</em> and <em>Preparing for Climate Change on the North Olympic Peninsula</em>. In her spare time, Dean can be found gardening, riding her bike, or in the mountains with her two teenagers.</p>
 			<h2>Member: Will Hall</h2>
-			<p><strong>Term:</strong> The remainder of a four-year term, ends June 25, 2021<br />
+			<p><strong>Term:</strong> Four-year term, ends June 25, 2025<sup>*</sup><br />
 				<strong>Biography:</strong> Will Hall has been protecting and restoring Puget Sound in many roles over the years. He wrote one of the first salmon recovery plans in the state, for the Snohomish River Basin. He established a marine resources committee that engages hundreds of volunteers in Puget Sound recovery. As director of the third-largest stormwater utility in Washington, he was responsible for planning, outreach, and monitoring, and for capital projects to protect and restore water quality, salmon habitat, and marine resources across five major watersheds draining to Puget Sound.</p>
 <p>Hall is an expert at local government planning and land use. He has served on the Shoreline City Council for 11 years, including three as mayor. He has been active on many boards, including The Coastal Society, the Society for Ecological Restoration, the Association of Washington Cities, the Southern Resident Orca Task Force, and the Puget Sound Partnership Ecosystem Coordination Board, which he chaired for four years.
 Hall has an undergraduate degree in physics from the University of Chicago and a Master of Marine Affairs degree from the University of Washington School of Marine and Environmental Affairs. Hall and his wife, Laurie, grew up near Puget Sound and enjoy many outdoor activities including hiking, biking, skiing, and scuba diving.
@@ -100,7 +100,11 @@ Hall has an undergraduate degree in physics from the University of Chicago and a
  
               <p> Active in the community, Toby serves or has served on the following boards:  Murray Pacific Corporation, Charles Wright Academy, Washington Forest Protection Association, Tacoma-Pierce County Chamber, Tacoma Goodwill Industries, Goodwill Heritage Foundation, and the Emergency Food Network for Pierce County.
  
-               Toby and his wife, Laurie, reside in the City of Lakewood and have two children, L.T. and Kelsey. </p></p>
+               Toby and his wife, Laurie, reside in the City of Lakewood and have two children, L.T. and Kelsey. </p></p><br>
+		
+		<p><sup>*</sup> Pending formal reappointment by the Governor's Office of Boards and Commissions</p>
+		
+		<p class="last-update">Last updated: 02/24/2022</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
