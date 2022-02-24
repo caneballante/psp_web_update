@@ -75,7 +75,7 @@ navSelected = 5;
 				<p>To submit a comment during the review period:</p>
 				<ul>
 					<li><p><a href="https://pspwa.box.com/s/q85h90n0fvpucnzdmlqxzfjyhjcq7irb" target="new">Review the draft 2022-2026 Action Agenda</a></p></li>
-					<li><p>Submit feedback <a href="https://survey.zohopublic.com/zs/EMR5sB" target="new">via the online form</a> by March 3</p></li>
+					<li><p>Submit feedback <a href="https://survey.zohopublic.com/zs/EMR5sB" target="new">via the online form</a> by March 3, 2022</p></li>
 				</ul>
 			</div>
 			
