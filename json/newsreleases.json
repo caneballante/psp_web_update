@@ -1,6 +1,34 @@
 {
 	"news-releases": 
     {	 
+		"release118": {
+			"date": "February 28, 2022",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/30c6144'>Puget Sound Partnership Leadership Council to discuss strategies to reduce railroad impacts on Puget Sound nearshore ecosystems</a>"
+		},
+		"release117": {
+			"date": "February 11, 2022",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/30a06d6'>Puget Sound Partnership's Ecosystem Coordination Board to discuss the draft 2022-2026 Action Agenda</a>"
+		},
+		"release116": {
+			"date": "January 28, 2022",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/307e305'>Puget Sound Partnership's Science Panel to discuss the development of an inclusive knowledge network</a>"
+		},
+		"release115": {
+			"date": "January 25, 2022",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/306fcc3'>Puget Sound Salmon Recovery Council to discuss draft target for the Chinook salmon Vital Sign indicator</a>"
+		},
+		"release114": {
+			"date": "January 3, 2022",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/303bbb9'>Puget Sound Partnership Leadership Council to discuss 2022 legislative priorities</a>"
+		},
+		"release113": {
+			"date": "December 13, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/300a4af'>Puget Sound Partnership's Science Panel to discuss cumulative effects evaluation and application to Puget Sound recovery</a>"
+		},
+		"release112": {
+			"date": "December 6, 2021",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2ff2041'>Puget Sound Partnership Leadership Council to discuss the status of Southern Resident Orca Task Force recommendations</a>"
+		},
 		"release111": {
 			"date": "November 24, 2021",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/2fdc0d0'>Governor Inslee appoints Kate Dean to the Puget Sound Partnership's Leadership Council</a>"
