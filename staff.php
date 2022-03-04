@@ -174,8 +174,9 @@
 							<em>Hood Canal and West Sound</em><br>
 							360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
 
-						<h5>VACANT</h5>
-						<p>Ecosystem Recovery Coordinator</p>
+						<h5>Matthew Colston</h5>
+						<p>Ecosystem Recovery Coordinator<br>
+							360.968.9924 | <a href="mailto:matthew.colston@psp.wa.gov">matthew.colston@psp.wa.gov</a></p>
 			
 						<h5>Alexandra Doty</h5>
 						<p>Ecosystem Recovery Coordinator<br>
