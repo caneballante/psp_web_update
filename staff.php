@@ -176,6 +176,7 @@
 
 						<h5>Matthew Colston</h5>
 						<p>Ecosystem Recovery Coordinator<br>
+							<em>Island and San Juan</em><br>
 							360.968.9924 | <a href="mailto:matthew.colston@psp.wa.gov">matthew.colston@psp.wa.gov</a></p>
 			
 						<h5>Alexandra Doty</h5>
@@ -185,6 +186,7 @@
 
 						<h5>Kristin Hayman</h5>
 						<p>Ecosystem Recovery Coordinator<br>
+						<em>Whatcom</em><br>
 							360.480.0475 | <a href="mailto:kristin.hayman@psp.wa.gov">kristin.hayman@psp.wa.gov </a></p>
 			
 						<h5>Laura (Ferguson) Rivas</h5>
