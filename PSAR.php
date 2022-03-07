@@ -85,8 +85,8 @@
 <li>Salmon Recovery Funding Board (SRFB) Funding Meeting to approve projects in <strong>September 2022</strong></li>
 				</ul>
 				</p>
-			<p>Answers to the supplemental questions are not required to be submitted until the full proposal due date, which is June 3, 2022. Please share this announcement with interested parties. Contact Amber Moore, salmon recovery manager, with questions:
-			360.742.7434, <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
+			<p>Answers to the supplemental questions are not required to be submitted until the full proposal due date, which is June 3, 2022. Please share this announcement with interested parties. Contact Alison Agness, PSAR program manager, with questions:
+			360.968.9673, <a href="mailto:alison.agness@psp.wa.gov">alison.agness@psp.wa.gov</a></p>
 			</div>
 			<div class="sidebarbox margin-20-top margin-20-left margin-20-bottom padding-10-all orange-fill">
 				<h3 class="margin-0-top">PSAR ACCOMPLISHMENTS</h3>
@@ -144,14 +144,14 @@
 		</ul><br><br>
 		
 		<p><strong>For more information contact:</strong></p>
-			<h5>AMBER MOORE</h5>
-			<p>Salmon Recovery Manager<br>
-			360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov</a></p>
+			<h5>Alison Agness</h5>
+			<p>PSAR Program Manager<br />
+			360.968.9673 | <a href="mailto:alison.agness@psp.wa.gov">alison.agness@psp.wa.gov</a></p>
 			<p>&nbsp;</p>
 			<div>
 				<div> </div>
 			</div>
-	<p class="last-update">Last updated: 12/6/21</p>
+	<p class="last-update">Last updated: 3/7/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
