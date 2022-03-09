@@ -93,7 +93,7 @@
 <p>The Partnership Nearshore Credits program is not a mitigation bank.
 </p>
 			<h2>How the Partnership Nearshore Credits program works</h2>
-			<img src="images/nearshore-graphic.jpg" class="img-responsive" alt=""/><br>
+			<img src="images/nearshore-graphic.jpg" class="img-responsive" alt="A graphic that shows how the Partnership Nearshore Credit Program works. Applicants seeking federal permits for maintenance and development work that will adversely affect nearshore habitat can quantify those impacts using a conservation calculator developed by NOAA scientists. Permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through the Partnership Nearshore Credits program. The Partnership aggregates funds from credits purchase, selects conservation projects to generate credits, tracks their progress, and reports on those projects."/><br>
 			<p>When applicants seek federal permits for maintenance and development work that will adversely affect nearshore habitat, applicants can quantify those impacts using <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank">a conservation calculator developed by NOAA scientists</a> and informed by input from other state and federal agencies.</p>
 			
 			<p>After working with NMFS to avoid and minimize habitat impacts, permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through the Partnership Nearshore Credits program.</p>
@@ -116,7 +116,7 @@
 			
 		<h2>The Partnership Nearshore Credits program is the result of collaboration</h2>
 			<p>Environmental Science Associates (ESA) did foundational work for the Partnership with the Partnership Nearshore Credits program and provided valuable thought leadership for the initiative. The Partnership gratefully acknowledges ESA’s work in scoping out the conservation credit functions for the Partnership Nearshore Credits program.  </p>
-			<p class="last-update">Last updated: 01/31/22</p>
+			<p class="last-update">Last updated: 3/9/22</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
