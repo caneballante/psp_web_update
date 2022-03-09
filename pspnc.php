@@ -93,6 +93,7 @@
 <p>The Partnership Nearshore Credits program is not a mitigation bank.
 </p>
 			<h2>How the Partnership Nearshore Credits program works</h2>
+			<img src="images/nearshore-graphic.jpg" class="img-responsive" alt=""/><br>
 			<p>When applicants seek federal permits for maintenance and development work that will adversely affect nearshore habitat, applicants can quantify those impacts using <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank">a conservation calculator developed by NOAA scientists</a> and informed by input from other state and federal agencies.</p>
 			
 			<p>After working with NMFS to avoid and minimize habitat impacts, permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through the Partnership Nearshore Credits program.</p>
