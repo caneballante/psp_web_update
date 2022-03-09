@@ -71,12 +71,8 @@ navSelected = 5;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><p>The Partnership is pleased to share an updated draft 2022-2026 Action Agenda for review by the Leadership Council in advance of the public review period. The Leadership Council will meet on <a href="https://psp.wa.gov/board_meetings.php">March 3</a> to discuss the draft Action Agenda. Between March 15-April 15, the Partnership will share a revised draft Action Agenda for public review on this webpage. The full Action Agenda development timeline is outlined below.</p>
-				<p>To submit a comment during the review period:</p>
-				<ul>
-					<li><p><a href="https://pspwa.box.com/s/4umz7v7wm7esrvnneo0kllg9j5xv3vog" target="new">Review the draft 2022-2026 Action Agenda</a></p></li>
-					<li><p>Submit feedback <a href="https://survey.zohopublic.com/zs/EMR5sB" target="new">via the online form</a> by March 3, 2022</p></li>
-				</ul>
+			<div class="highlightbox margin-0-top margin-20-bottom"><p>On <a href="/board_meetings.php">March 3</a>, the Leadership Council approved the <a href="https://pspwa.box.com/s/4umz7v7wm7esrvnneo0kllg9j5xv3vog" target="new">draft 2022-2026 Action Agenda</a> for public review and comment. The Partnership will share the draft Action Agenda for this public review and comment period on this webpage on Tuesday, March 15. The review period will be the final review phase for the 2022-2026 Action Agenda update process and will end April 15 at 5:00PM PT. The full Action Agenda update process timeline is outlined below.</p>
+				
 			</div>
 			
 			
