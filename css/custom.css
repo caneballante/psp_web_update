@@ -75,6 +75,12 @@ a[href^="http"] {
 	color: #fff;
 }
 
+.bullet-size-fix li {
+	font-size: 1.3em;
+	line-height: 1.9;
+	font-family: georgia, times, serif;
+	
+}
 #home-squares a {
 	font-size: 1.2em;
 	font-weight: 300;

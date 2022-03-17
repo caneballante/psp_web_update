@@ -70,39 +70,27 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-		<h2 class="margin-0-top">Employment opportunities</h2>
-					
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3429444/environmental-justice-coordinator-project" target="new">Environmental Justice Coordinator</a></p>
+		<h2 class="margin-0-top">Employment opportunities</h2>	
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3429444/environmental-justice-coordinator-project?keywords=puget%20sound%20partnership&pagetype=jobOpportunitiesJobs" target="new">Environmental Justice Coordinator (Project) - closes 3/24/2022</a>
 			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3437719/performance-measure-analyst-exempt" target="new">Performance Measure Analyst</a>
-			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3430627/fiscal-analyst-3" target="new">Fiscal Analyst 3</a></p>
-			
-		
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<div class=" border-thick-blue floatright padding-10-all">
-		 <p><h3>We are an Employer of Choice</h3></p> <a href="https://pspwa.box.com/s/mw6gfajvrw6ce5cpjkegafcwtde62pyo"><img src="images/news-images/emp-of-choice.jpg" width="300" height="225" alt=""/></a> 
-			</div>
-	
-	  </p>	
-	
-		
-	
-	<p></p>
-			<p class="last-update">Last updated: 3/10/22</p>
+			<h3>We are an Employer of Choice</h3>
+				<p>The Puget Sound Partnership is the state agency leading the region’s effort to restore and protect Puget Sound. We have office locations in Olympia, Tacoma, and Seattle. Part of our mission as a learning organization is to provide employees with a work/life balance. We do this by employing a business strategy that promotes a modern and flexible workplace, making us a destination employer. Some of our flexible working options include:</p>
+				<ul class="bullet-size-fix">
+					<li>Teleworking </li>
+				 	<li>Compressed work schedules </li>
+				 	<li>Locations available in Olympia, Tacoma, and Seattle </li>
+				 	<li>Reduced trip commute monetary incentives </li>
+				    <li>Agency-sponsored vanpool vehicles </li>
+				    <li>Agency-sponsored public transit cards </li>
+					<li>Infant-at-Work program </li>
+				   
+				 </ul>
+				    <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/> <br>
+				    <br>
+				    <br>
+			     
+
+			<p class="last-update">Last updated: 3/14/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
