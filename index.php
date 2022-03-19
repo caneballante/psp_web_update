@@ -87,7 +87,7 @@
 				<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">Puget Sound Vital Signs</a></div>
 				<div class="padding-5-bottom"><a href="/PSEMP-overview.php">Ecosystem monitoring (PSEMP)</a> </div>
 				<div class="padding-5-bottom"><a href="science-and-evaluation-overview.php">Science and evaluation overview</a></div>
-				<div class="padding-5-bottom"><a href="https://www.stateofthesound.wa.gov">2019 State of the Sound</a> </div>
+				<div class="padding-5-bottom"><a href="https://www.stateofthesound.wa.gov">2021 State of the Sound</a> </div>
 				<div class="padding-5-bottom"><a href="https://www.pugetsoundinfo.wa.gov">Puget Sound Info</a></div>
 			</div>
 		<div class="col-sm-3 padding-40-top">
@@ -145,69 +145,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/makingwaves.jpg"  alt="Puget Sound Partnership logo"/> 
-					<strong>RESOURCE</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/" target="new">Read the latest articles in Making Waves</a><br>
-						<!--END news content BOX-->    
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2fdc0d0">Governor Inslee appoints Kate Dean to the Puget Sound Partnership's Leadership Council</a><br>
-						<!--END news content BOX-->    
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/ps-marine-waters-report-2020.jpg"  alt="Cover image from the Puget Sound Marine Waters 2020 Overview"/> 
-					<strong>ANNOUNCEMENT</strong><br>
-						<a href="https://psp.wa.gov/psmarinewatersoverview.php">Puget Sound Marine Waters 2020 Overview</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/BillyFrankJrNews.jpg"  alt="Photo of Billy Frank Jr. smiling. Photo credit: Northwest Indian Fisheries Commission"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/remembering-billy-frank-jr-6115d04791e0" target="_blank">Remembering Billy Frank Jr.</a><br>
-						<!--END news content BOX-->    
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--column END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-					  <img class="img-responsive img-rounded" src="images/news-images/PSARDashboardNews.jpg"  alt="Screenshot of the new PSAR Dashboard website"/> 
-					<strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/explore-the-new-dashboard-for-puget-sound-acquisition-and-restoration-projects-af9378876fe8" target="_blank">Explore the new dashboard for Puget Sound Acquisition and Restoration projects</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/salishsea.jpg"  alt="Puget Sound Partnership logo"/> 
+					<strong>Making Waves</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2021/12/01/the-salish-sea-school-inspired-by-orcas/" target="new">The Salish Sea School, inspired by orcas</a><br>
 						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
@@ -216,19 +156,24 @@
 			</div>
 		<!--COLUMN END-->
 		
+		
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/innovation-stories.jpg"  alt=""/> 
-						<strong>PUGET SOUND INNOVATION STORIES<br></strong>
-						<a href="https://innovationstories.psp.wa.gov/">Learn about the people and projects saving the Sound</a><br>
-						<!--END news content BOX--> 
+					  <img class="img-responsive img-rounded" src="images/news-images/oysters.jpg"  alt="Illustration of Puget Sound Shellfish"/> 
+					<strong>Making Waves</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2021/12/04/restoring-the-olympia-washingtons-only-native-oyster/" target="_blank">Restoing the Olympia Oyster</a><br>
+						<!--END news content BOX-->    
 					</div>
+					<div class="clearfix"></div>
 				</div>
+				
 			</div>
-		<!--COLUMN END-->
+		<!--column END-->
+	
+	
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->

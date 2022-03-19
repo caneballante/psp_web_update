@@ -209,10 +209,9 @@
 
 						<h5>Juliana Tadano</h5>
 						<p> Ecosystem Recovery Coordinator<br/>
-							<em>South Sound, WRIA 13, WRIA 14, Puyallup, and Nisqually</em><br>
+							<em>Alliance for a Healthy South Sound, WRIA 10/12, WRIA 13, WRIA 14, Puyallup-White River LIO, and Nisqually</em><br>
 							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
 							</p>
-
 						<!--SCIENCE AND EVALUATION-->
 						<h2>SCIENCE AND EVALUATION</h2>
 						<h5>Scott Redman</h5>
