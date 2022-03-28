@@ -164,7 +164,7 @@
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/oysters.jpg"  alt="Illustration of Puget Sound Shellfish"/> 
 					<strong>Making Waves</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2021/12/04/restoring-the-olympia-washingtons-only-native-oyster/" target="_blank">Restoing the Olympia Oyster</a><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2021/12/04/restoring-the-olympia-washingtons-only-native-oyster/" target="_blank">Restoring the Olympia Oyster</a><br>
 						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>

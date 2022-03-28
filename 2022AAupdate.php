@@ -71,7 +71,14 @@ navSelected = 1;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><p>On September 1, 2021, the Partnership's Leadership Council approved a set of <a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="_blank">strategies</a> for achieving the <a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank">desired outcomes</a> for the 2022-2026 Action Agenda. The Partnership has nearly completed phase 4&mdash;the second-to-last phase of the 2022-2026 Action Agenda update process&mdash;to identify the actions to advance strategies. The first draft of the Action Agenda, including draft actions, is now available <a href="/draft-action-agenda-development-review.php">here</a>.</p></div>
+			<div class="highlightbox margin-0-top margin-20-bottom">
+				<p>On <a href="https://psp.wa.gov/board_meetings.php">March 3</a>, the Leadership Council approved the draft 2022-2026 Action Agenda for public review. On March 15, the Partnership will share the draft Action Agenda for public comment on this webpage. The public comment period will be the final review phase of the 2022-2026 Action Agenda and will end April 15. The full Action Agenda update timeline is outlined below.</p>
+				<p>To submit a comment during the review period:</p>
+				<ul class="bullet-size-fix">
+					<li><a href="https://pspwa.box.com/shared/static/4948fsu5xsv4p7cqfktos8qyhbiuoi4z.pdf">Review the draft 2022-2026 Action Agenda (PDF download)</a></li>	
+					<li>Submit feedback <a href="https://survey.zohopublic.com/zs/fxCz1Y" target="new">via the online form</a> by 5:00PM PT on April 15, 2022</li>	
+				</ul>	
+			</div>
 		<p>Puget Sound is a special place that nourishes our health, economy, environment, and quality of life. Tribes have honored these lands and fished throughout the region since time immemorial. Its snowcapped mountains and sparkling waters continue to attract people and businesses from around the world. Over the past 150 years, however, human use has damaged Puget Sound, causing the degradation of water quality, water quantity, and habitat. And the rapid growth of our region’s population—if not addressed thoughtfully—will bring more land development, infrastructure, and pollution.</p> 
 
 <p>Puget Sound will never be as it was prior to industrialization. Yet Puget Sound can be a resilient ecosystem that supports healthy human communities and the habitats and species we care about. We can grow our cities and towns more carefully, restore floodplains and shorelines we previously degraded, improve water quality, and ensure sufficient water for all.</p>
