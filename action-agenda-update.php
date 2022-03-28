@@ -72,13 +72,17 @@ navSelected = 5;
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox margin-0-top margin-20-bottom">
-				<p>On <a href="https://psp.wa.gov/board_meetings.php">March 3</a>, the Leadership Council approved the draft 2022-2026 Action Agenda for public review. On March 15, the Partnership will share the draft Action Agenda for public comment on this webpage. The public comment period will be the final review phase of the 2022-2026 Action Agenda and will end April 15. The full Action Agenda update timeline is outlined below.</p>
+				<p>On <a href="https://psp.wa.gov/board_meetings.php">March 3</a>, the Leadership Council approved the draft 2022-2026 Action Agenda for public review. On March 15, the Partnership shared the draft Action Agenda for public comment on this webpage. The public comment period will be the final review phase of the 2022-2026 Action Agenda and will end April 15. The full Action Agenda update timeline is outlined below.</p>
 				<p>To submit a comment during the review period:</p>
 				<ul class="bullet-size-fix">
-					<li><a href="https://pspwa.box.com/shared/static/4948fsu5xsv4p7cqfktos8qyhbiuoi4z.pdf">Review the draft 2022-2026 Action Agenda (PDF download)</a></li>	
-					<li>Submit feedback <a href="https://survey.zohopublic.com/zs/fxCz1Y" target="new">via the online form</a> by 5:00PM PT on April 15, 2022</li>	
-				</ul>	
-			</div>
+				  <li><a href="https://pspwa.box.com/shared/static/4948fsu5xsv4p7cqfktos8qyhbiuoi4z.pdf">Download and review the draft 2022-2026 Action Agenda (PDF download)</a> </li>
+					<li> <a href="https://survey.zohopublic.com/zs/fxCz1Y" target="new">Submit feedback via the online form by 5:00PM PT on April 15, 2022 </a></li>
+				  <li>The feedback form provides detailed instructions to guide your review.  </li>
+				  <li>We are interested in feedback on any content that is unclear, missing, or needs modification. </li>
+				  <li>There are four components of the Action Agenda: an Executive Summary, Comprehensive Plan, Implementation Plan, and Appendices. </li>
+				  <li>You are welcome to provide feedback on any of these components.  </li>
+			  </ul>
+            </div>
 			<h2>WHAT IS THE 2022—2026 ACTION AGENDA?</h2>
 			<p>The Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary by volume. It complements and incorporates the work of many partners to describe strategies and high-level actions needed to recover a healthy and resilient Puget Sound. These strategies and high-level actions provide opportunities for federal, tribal, state, local, and private entities to better invest resources and coordinate action.</p>
 			

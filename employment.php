@@ -79,7 +79,6 @@
 					<li>Teleworking </li>
 				 	<li>Compressed work schedules </li>
 				 	<li>Locations available in Olympia, Tacoma, and Seattle </li>
-				 	<li>Reduced trip commute monetary incentives </li>
 				    <li>Agency-sponsored vanpool vehicles </li>
 				    <li>Agency-sponsored public transit cards </li>
 					<li>Infant-at-Work program </li>
