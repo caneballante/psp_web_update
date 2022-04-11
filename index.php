@@ -96,7 +96,7 @@
 			<div class="col-sm-3 padding-20-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
-			<div class="padding-5-bottom"><span class="new-red">NEW </span><a href="government-relations.php">Tools for tracking state legislative affairs during the 2022 session</a></div>
+			<div class="padding-5-bottom"><a href="government-relations.php">2022 legislative session</a></div>
 			<div class="padding-5-bottom"><a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a></div>	
 			<div class="padding-5-bottom"><a href="https://makingwaves.psp.wa.gov/">Making Waves magazine</a></div>	
 			
@@ -117,7 +117,7 @@
 						<!--news content BOX --> 
 					  <img class="img-responsive img-rounded" src="images/news-images/2022-leg.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> 
 					<strong>RESOURCE</strong><br>
-					  <a href="https://psp.wa.gov/government-relations.php">Tools for tracking state legislative affairs during the 2022 session</a><br>
+					  <a href="https://psp.wa.gov/government-relations.php">2022 session information</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -184,9 +184,9 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">MAR<br>
-			  24</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
+				<div class="newsbox-date">APR <br>
+			  13</div>
+				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
 					Online<br>
 							</a><br>
 				</div>
