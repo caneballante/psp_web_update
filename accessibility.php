@@ -70,7 +70,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">OUR COMMITMENT TO ACCESSIBILITY</h2>
-			<p>The Puget Sound Partnership (PSP) recognizes the importance of using technology to provide information and services to carry out our mission. As such, PSP is committed to ensuring our Web sites, documents, and application systems are accessible to the public and Washington State employees, including individuals with disabilities</p>
+			<p>The Puget Sound Partnership (PSP) recognizes the importance of using technology to provide information and services to carry out our mission. As such, PSP is committed to ensuring our Web sites, documents, and application systems are accessible to the public and Washington State employees, including individuals with disabilities.</p>
 			<h2>GUIDELINES AND STANDARDS</h2>
 			<p>PSP strives to meet the Washington State Office of the Chief Information Officer (OCIO)<a href="https://ocio.wa.gov/policy/accessibility" target="_blank"> Policy 188 Accessibility</a>, <a href="http://ocio.wa.gov/policy/minimum-accessibility-standard" target="_blank">188.10 Minimum Accessibility Standards, </a>and the <a href="http://www.w3.org/TR/WCAG20/" target="_blank">Web Content Accessibility Guidelines (WCAG) 2.0</a>, Level AA compliance, including the guidelines associated with these principles:</p>
 			<ol>
