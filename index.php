@@ -22,7 +22,7 @@
     <![endif]-->
 </head>
 <body>
-
+<div></div>
 <!-- logo and menu and modal navigation gets included here -->
 &nbsp;
 <?php include 'includes/modal-inc.html';?>
