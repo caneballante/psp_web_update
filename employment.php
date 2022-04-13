@@ -70,10 +70,9 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-		<h2 class="margin-0-top">Employment opportunities</h2>	
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3429444/environmental-justice-coordinator-project?keywords=puget%20sound%20partnership&pagetype=jobOpportunitiesJobs" target="new">Environmental Justice Coordinator (Project) - closes 3/24/2022</a>
-			
-			<h3>We are an Employer of Choice</h3>
+		<h2 class="margin-0-top">Employment opportunities	    </h2>
+		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3430627/fiscal-analyst-3?keywords=puget%20sound%20partnership&pagetype=jobOpportunitiesJobs" target="new">Fiscal Analyst 3 - closes 4/26/2022</a>                        
+		<h3>We are an Employer of Choice</h3>
 				<p>The Puget Sound Partnership is the state agency leading the region’s effort to restore and protect Puget Sound. We have office locations in Olympia, Tacoma, and Seattle. Part of our mission as a learning organization is to provide employees with a work/life balance. We do this by employing a business strategy that promotes a modern and flexible workplace, making us a destination employer. Some of our flexible working options include:</p>
 				<ul class="bullet-size-fix">
 					<li>Teleworking </li>
