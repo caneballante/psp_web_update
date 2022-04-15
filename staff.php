@@ -104,7 +104,7 @@
 						<p> Adaptive Systems Manager<br />
 							360.701.1428 | <a href="mailto:kirsten.feifel@psp.wa.gov">kirsten.feifel@psp.wa.gov</a></p>
 						<h5>Jennifer Burke</h5>
-						<p>Data Systems/GIS Manager<br />
+						<p>Information and Geospatial Systems Manager<br />
 							360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
 						<h5>Alex Mitchell</h5>
 						<p> Performance Management Analyst<br/>
