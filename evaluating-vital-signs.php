@@ -73,18 +73,32 @@
 <p><a href="https://vitalsigns.pugetsoundinfo.wa.gov">Visit the Puget Sound Vital Signs web site.</a></p>
 			
 			<p class="no-icon"><a class="no-icon" href="https://vitalsigns.pugetsoundinfo.wa.gov"><img class="img-responsive" src="https://pspwa.box.com/shared/static/8q6wf5yecnlx2az4mqunenhahhkbn9m6.png" width="600" height="602" alt=""/></a> 
-				
-			<h3>When were indicators and targets selected?</h3>
+
+<h3>THE NEW AND REVISED VITAL SIGNS AND INDICATORS</h3>
+			<p>In 2019, we undertook a collaborative effort to revise the Puget Sound Vital Signs and indicators to address longstanding concerns and critiques with the help of Ross Strategic as our consultant team. We initiated revisions to the water quality and quantity, habitat and species and food webs goals by incorporating scientific and institutional information gained since we started reported on these measures 10 years ago. On June 10th, 2020, the Leadership Council unanimously adopted 13 Vital Signs and 34 indicators. Nineteen more indicators were flagged for future development.</p>
+			<p>As a result of the revisions, we retained and improved many of the existing Vital Signs and gained new ones. We re-framed Vital Signs and their indicators to represent the measures of ultimate outcomes of Puget Sound recovery shared and embraced by the whole of the Puget Sound recovery community. Find out more the Vital Signs, indicators and other measures and our methods by reading our <a href="https://pspwa.box.com/s/10utqrjbcj138nf5oejl1ogjxihvky4a">fact sheet</a> and <a href="https://pspwa.box.com/s/rqn16bdt9gr6r7gypb399ugv5mlrmidi">full report</a>.</p>
+			<p>Vital Signs and indicators are a core element of the Puget Sound Ecosystem Monitoring Program (PSEMP). Throughout 2021, we transition to the revised Vital Signs by engaging data providers from throughout the PSEMP network, planning and resourcing the work, developing protocols, and eventually reporting. We will begin to report on the revised Vital Signs and indicators after January 2022.</p> 
+
+			<p class="no-icon"><a class="no-icon" href="https://vitalsigns.pugetsoundinfo.wa.gov"><img class="img-responsive" src="https://pspwa.box.com/shared/static/v6h1v2302y7mnpdo61ho5j31nt250qaj.png" width="1000" height="500" alt=""/></a>
+
+<p><i>Revised Vital Sign portfolio organized by ecosystem recovery goals from Washington State statute (RCW 90.71.300)</i></p>
+<ul>
+<li><a href="https://pspwa.box.com/s/10utqrjbcj138nf5oejl1ogjxihvky4a">Fact sheet</a> and <a href="https://pspwa.box.com/s/rqn16bdt9gr6r7gypb399ugv5mlrmidi">full report</a></li>
+<li><a href="https://pspwa.box.com/v/RevisedVSPresentation">Tables, highlights of the revisions and presentation material in Power Point</a> </li>
+<li><a href="https://pspwa.box.com/v/RevisedVSIndicators">List of Vital Signs and indicators, potential future indicators, ancillary measures and intermediate progress measures in a spreadsheet form</a></li>
+<li><a href="https://pspwa.box.com/s/9wuzla2mp9eoze3gv91j5w6rzqqzofsd">Project information webpage</a></li>
+</ul>
+
+<h3>When were indicators and targets selected?</h3>
 			<p>The Vital Signs are fundamental to the Partnership&rsquo;s <a href="https://www.pugetsoundinfo.wa.gov">shared measurement system</a>. The indicators were selected by the Puget Sound Partnership based on recommendations by a team of scientists convened by the Partnership in 2010. Ecosystem recovery targets were selected based on recommendations by interdisciplinary teams in 2011. In 2015, the Partnership described the scope of each Vital Signs and added specificity to the ecosystem components included in the Vital Signs. That same year, the Partnership selected Vital Signs and indicators of human wellbeing.</p>
 			<p><a href="https://pspwa.box.com/s/5bnq0nmu8f6abrvm7gee9nrt017rf7jc">Vital Sign indicator selection process (drafted and implemented in 2010)</a><br>
 		    <a href="https://pspwa.box.com/s/mh73y4xia6odf1y4a0esid4ecrpiutlg">Executive Director&rsquo;s statement on the scope of Vital Signs for Near-Term Actions (2015)</a><br>        
 			<a href="https://pspwa.box.com/s/sysdrg8g5b4lrg2mrz2g4mmjn92pjgqo">Leadership Council resolution approving new human wellbeing Vital Signs and indicators (2015)</a></p>
-         	<h3> Where to find results?</h3>
+         	
+			<h3> Where to find results?</h3>
 			<p>The primary venue for reporting on the Puget Sound Vital Signs and the status and progress of their indicators is the&nbsp;<a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Vital Sign website</a>&nbsp;in the&nbsp;<a href="https://www.pugetsoundinfo.wa.gov/">Puget Sound Info</a>&nbsp;platform. The Vital Signs are also fundamental to the Puget Sound Partnership&rsquo;s&nbsp;<a href="http://www.psp.wa.gov/sos.php">State of the Sound&nbsp;</a>report, published every two years. </p>
 			<p><a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Visit the Puget Sound Vital Signs website</a></p>
-          	<h3><span  class="new-red">NEW!</span> The Puget Sound Vital Signs and Indicators Revision Project is underway!</h3>
-            <p>The Partnership, with the help of a consultant team from Ross Strategic, has begun a collaborative effort to revise the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Puget Sound Vital Signs and indicators</a>. It has been ten years since the Partnership adopted the indicators. The project incorporates learning and feedback from partners and promises an improved suite of shared measures to track and report on the health of Puget Sound. The project is part of a broader effort to develop measures of progress toward Puget Sound recovery, including near-term results delivered by projects and programs and intermediate results representing reduction of stressors that degrade the Vital Signs. Vital Sign and indicator recommendations are expected in June 2020.</p>
-            <p>Visit <a href="https://pspwa.box.com/s/9wuzla2mp9eoze3gv91j5w6rzqqzofsd">the Vital Sign and indicator revision project page</a>.</p>
+
         <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
