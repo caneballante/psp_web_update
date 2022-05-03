@@ -72,7 +72,7 @@
 			<p><img src="images/vital-sign-structure-diagram.jpg" height="142" alt=""/></p>
 <p><a href="https://vitalsigns.pugetsoundinfo.wa.gov">Visit the Puget Sound Vital Signs web site.</a></p>
 			
-			<p class="no-icon"><a class="no-icon" href="https://vitalsigns.pugetsoundinfo.wa.gov"><img class="img-responsive" src="images/vitalsigns_wheel.png" width="600" height="602" alt=""/></a> 
+			<p class="no-icon"><a class="no-icon" href="https://vitalsigns.pugetsoundinfo.wa.gov"><img class="img-responsive" src="https://pspwa.box.com/shared/static/8q6wf5yecnlx2az4mqunenhahhkbn9m6.png" width="600" height="602" alt=""/></a> 
 				
 			<h3>When were indicators and targets selected?</h3>
 			<p>The Vital Signs are fundamental to the Partnership&rsquo;s <a href="https://www.pugetsoundinfo.wa.gov">shared measurement system</a>. The indicators were selected by the Puget Sound Partnership based on recommendations by a team of scientists convened by the Partnership in 2010. Ecosystem recovery targets were selected based on recommendations by interdisciplinary teams in 2011. In 2015, the Partnership described the scope of each Vital Signs and added specificity to the ecosystem components included in the Vital Signs. That same year, the Partnership selected Vital Signs and indicators of human wellbeing.</p>
