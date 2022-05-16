@@ -71,7 +71,10 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
-		<p><a href=" https://www.governmentjobs.com/careers/washington/jobs/3530370/monitoring-data-coordinator-and-analyst-exempt" target="new">Monitoring Data Coordinator and Analyst - closes 5/10/2022</a>                       
+		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3530370/monitoring-data-coordinator-and-analyst-exempt" target="new">Monitoring Data Coordinator and Analyst - closes 5/10/2022</a></p>              
+		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3530287/administrative-assistant-3" target="new">Administrative Assistant 3 - closes 5/10/2022</a></p>              
+				
+			
 		<h3>We are an Employer of Choice</h3>
 		<p>The Puget Sound Partnership is the state agency leading the region’s effort to restore and protect Puget Sound. We have office locations in Olympia, Tacoma, and Seattle. Part of our mission as a learning organization is to provide employees with a work/life balance. We do this by employing a business strategy that promotes a modern and flexible workplace, making us a destination employer. Some of our flexible working options include:</p>
 		<ul class="bullet-size-fix">
