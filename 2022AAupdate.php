@@ -71,9 +71,8 @@ navSelected = 1;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<div class="highlightbox margin-0-top margin-20-bottom">
-			<p>On <a href="https://psp.wa.gov/board_meetings.php">March 3</a>, the Leadership Council approved the draft 2022-2026 Action Agenda for public review and comment, which the Partnership distributed on March 15. The public review and comment period closed on April 15. The final 2022-2026 Action Agenda will be presented to the Leadership Council in June for approval and adoption. The full Action Agenda update timeline is outlined below. For questions about the 2022-2026 Action Agenda update process, contact <a href="action.agenda@psp.wa.gov">action.agenda@psp.wa.gov</a></p>
-        </div>
+	<div class="highlightbox margin-0-top margin-20-bottom"><p><span class="new-red">NEW!</span>&nbsp;<strong>Opportunity to  comment on the Environmental Checklist and DNS for the 2022-2026 Action Agenda  Update by May 30, 2022</strong>. The Puget Sound Partnership (PSP) has completed  environmental review of the draft 2022-2026 Action Agenda Update in advance of  the planned adoption of the Action Agenda by the Leadership Council in June.  PSP completed an Environmental Checklist (available <a href="https://pspwa.box.com/shared/static/01m6ob99ji4m3txjayf0z4u6yi70pb3g.pdf">here</a>)  on the proposed Action Agenda Update and determined that the proposal will not  have a probable significant adverse impact on the environment. Therefore, PSP  has issued a Determination of Non-Significance (available <a href="https://pspwa.box.com/shared/static/p7mllipjq7z9jgap9li6h6pnd2mas9o2.pdf">here</a>).  PSP will accept comments on the Determination of Non-Significance through 4:00  p.m. on May 30, 2022. Comments should  be submitted to stephanie.suter@psp.wa.gov or PO Box 40900, Olympia, WA  98504-0900.</p>
+</div>
 		<p>Puget Sound is a special place that nourishes our health, economy, environment, and quality of life. Tribes have honored these lands and fished throughout the region since time immemorial. Its snowcapped mountains and sparkling waters continue to attract people and businesses from around the world. Over the past 150 years, however, human use has damaged Puget Sound, causing the degradation of water quality, water quantity, and habitat. And the rapid growth of our region’s population—if not addressed thoughtfully—will bring more land development, infrastructure, and pollution.</p> 
 
 <p>Puget Sound will never be as it was prior to industrialization. Yet Puget Sound can be a resilient ecosystem that supports healthy human communities and the habitats and species we care about. We can grow our cities and towns more carefully, restore floodplains and shorelines we previously degraded, improve water quality, and ensure sufficient water for all.</p>
@@ -83,7 +82,7 @@ navSelected = 1;
 		<h2>The leadership council approves a concept for the 2022-2026 Action Agenda</h2>
 		<p>In June 2020, the Leadership Council—the governing body of the  Partnership—approved <a href="https://pspwa.box.com/s/gsf2xgrqaxbmnq7zdummw5dft9otjbhn" target="_blank">a concept </a>for the  2022-2026 Action Agenda.</p>
 		<p>Key elements of the concept:</p>
-		<ol>
+		<ol class="bullet-size-fix">
 		  <li><strong>Update our ecosystem recovery plan to improve the  health of the Puget Sound ecosystem and the people that inhabit the region.</strong></li>
           <li><strong>Clearly describe the ecosystem status and the  pressures affecting the ecosystem. </strong></li>
           <li><strong>Focus the next four years on a set of  science-informed, shared recovery outcomes for reducing pressures and barriers. </strong></li>
