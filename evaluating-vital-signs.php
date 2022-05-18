@@ -68,36 +68,36 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 			<h2 class="margin-0-top">PUGET SOUND VITAL SIGNS</h2>
-			<p>The Puget Sound Vital Signs are measures of ecosystem health that guide the assessment of progress toward Puget Sound recovery goals.&nbsp;Each of the six&nbsp;Puget Sound recovery goals are expressed with one or more Vital Signs that represent&nbsp;important components of the ecosystem (e.g. marine water, economic vitality). Each component is, in turn, represented by one or more indicators. The&nbsp;<a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/ViewAll">indicators&nbsp;</a>are specific&nbsp;measures of Puget Sound conditions, including human wellbeing, while&nbsp;<a href="https://pspwa.box.com/shared/static/ev6jlpvwsztrh7icp1jev9v5mg4tmiov.pdf">ecosystem recovery targets</a>&nbsp;are policy statements that express desired future conditions for&nbsp;human health and quality of life, species and food webs, habitats, water quantity, and water quality. </p>
-			<p><img src="images/vital-sign-structure-diagram.jpg" height="142" alt=""/></p>
-<p><a href="https://vitalsigns.pugetsoundinfo.wa.gov">Visit the Puget Sound Vital Signs web site.</a></p>
-			
-			<p class="no-icon"><a class="no-icon" href="https://vitalsigns.pugetsoundinfo.wa.gov"><img class="img-responsive" src="https://pspwa.box.com/shared/static/8q6wf5yecnlx2az4mqunenhahhkbn9m6.png" width="600" height="602" alt=""/></a> 
+			<p>Do  you wonder how Puget Sound is doing? Do you want to know how many orcas and  are salmon living in our shared waters and what is happening to their habitat? And  how many natural resource jobs does Puget Sound support? The Puget Sound Vital  Signs offer answers to all of those questions and many more.<br>
+		    <br><a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Visit the Vital Sign website &nbsp;</a>			<br>
+			</p>
+			<p class="no-icon"><a class="no-icon" href="https://vitalsigns.pugetsoundinfo.wa.gov"><img class="img-responsive" src="https://pspwa.box.com/shared/static/8q6wf5yecnlx2az4mqunenhahhkbn9m6.png" width="600" height="602" alt=""/></a> </p>
+			<p><br>
+		    The Puget  Sound Vital Signs are measures of ecosystem health. More specifically, they help  express each of the Puget Sound recovery goals for healthy human  populations, quality of life, species and food webs, habitat, water quality and  water quantity. The Vital Signs themselves represent the components of the  ecosystem important to the recovery community like streams, birds and cultural  wellbeing. Each component, in turn, is measured with one or more indicators.  While the indicators measure ecosystem conditions and whether conditions are  improving, targets help to articulate the desired future condition,  particularly in 30 to 50 years from now.</p>
+			<h3><strong>Together  with partners, we REPORT on OVER 50 indicators</strong><strong> </strong></h3>
+            <p>Vital Signs and indicators are core to the <a href="https://www.psp.wa.gov/PSEMP-overview.php">Puget Sound Ecosystem Monitoring Program (PSEMP)</a>. Thanks to both long-standing and new monitoring  programs from throughout PSEMP, we are able to report data contributed by  dozens of people from state and federal agencies, local jurisdictions, tribes,  not-for-profit environmental organizations, academia, and consultants. The  Partnership collaborates with expert teams who contribute their monitoring results  and topical work groups in PSEMP who review the indicators and synthesize  information to produce high-level messaging for each Vital Sign. As a means of  supporting indicator reporting, the Partnership funds several projects through  a biennial solicitation process. Information about the <a href="https://www.psp.wa.gov/monitoring-accelerate-recovery.php">Monitoring to  Accelerate Recovery solicitation is available at this link</a>. </p>
+            <h3><strong>THE VITAL SIGNS are FOR communication and more </strong><strong> </strong></h3>
+            <p>The Vital Signs and their indicators are  primarily a communication tool to help draw attention to the condition of Puget  Sound. They are part of a larger suite of <a href="https://pspwa.box.com/s/o23f9meiyo2qeyn8777r8ownzj79k0zc">indicators</a>, coordinated by the Partnership, that  tell the story of Puget Sound recovery progress and serve as a shared  monitoring and evaluation system for the recovery effort. The <a href="https://pspwa.box.com/s/o23f9meiyo2qeyn8777r8ownzj79k0zc">Puget Sound Indicators</a> include <a href="https://pspwa.box.com/s/10utqrjbcj138nf5oejl1ogjxihvky4a">Vital Sign Indicators</a> and <a href="https://pspwa.box.com/s/h7u8zka98s5ru9ltmbu5jz2gpu07rvxv">Action Agenda Progress Indicators</a>. Together  they describe the collective progress desired for Puget Sound recovery (Vital  Sign Indicators) and the actions that we need to do to make progress  (Action Agenda Progress Indicators). </p>
+            <h3><strong>&nbsp;</strong></h3>
+            <h3><strong>RESOURCES </strong></h3>
+        <ul class="bullet-size-fix" type="disc">
+              <li><a href="https://pspwa.box.com/s/10utqrjbcj138nf5oejl1ogjxihvky4a">Fact sheet</a>&nbsp;and&nbsp;<a href="https://pspwa.box.com/s/rqn16bdt9gr6r7gypb399ugv5mlrmidi">full report</a> that describes how the 2020 Vital Signs revisions </li>
+              <li><a href="https://pspwa.box.com/v/RevisedVSIndicators">List of Vital Signs and indicators in a spreadsheet form</a></li>
+              <li><a href="https://pspwa.box.com/s/mv0udt5jldtqlgjrvdr9szoc79g7kmil">Targets</a></li>
+              <li><a href="https://pspwa.box.com/s/a74utmwux962n3khpaf5zl4njocl10id">Vital Signs visuals</a></li>
+              <li><a href="https://www.psp.wa.gov/PSEMP-resources.php">Projects funded by the Partnership to support indicators and other aspects of monitoring</a></li>
+            </ul>
+            <div>
+              <div> </div>
+              <div> </div>
+            </div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-<h3>THE NEW AND REVISED VITAL SIGNS AND INDICATORS</h3>
-			<p>In 2019, we undertook a collaborative effort to revise the Puget Sound Vital Signs and indicators to address longstanding concerns and critiques with the help of Ross Strategic as our consultant team. We initiated revisions to the water quality and quantity, habitat and species and food webs goals by incorporating scientific and institutional information gained since we started reported on these measures 10 years ago. On June 10th, 2020, the Leadership Council unanimously adopted 13 Vital Signs and 34 indicators. Nineteen more indicators were flagged for future development.</p>
-			<p>As a result of the revisions, we retained and improved many of the existing Vital Signs and gained new ones. We re-framed Vital Signs and their indicators to represent the measures of ultimate outcomes of Puget Sound recovery shared and embraced by the whole of the Puget Sound recovery community. Find out more the Vital Signs, indicators and other measures and our methods by reading our <a href="https://pspwa.box.com/s/10utqrjbcj138nf5oejl1ogjxihvky4a">fact sheet</a> and <a href="https://pspwa.box.com/s/rqn16bdt9gr6r7gypb399ugv5mlrmidi">full report</a>.</p>
-			<p>Vital Signs and indicators are a core element of the Puget Sound Ecosystem Monitoring Program (PSEMP). Throughout 2021, we transition to the revised Vital Signs by engaging data providers from throughout the PSEMP network, planning and resourcing the work, developing protocols, and eventually reporting. We will begin to report on the revised Vital Signs and indicators after January 2022.</p> 
 
-			<p class="no-icon"><a class="no-icon" href="https://vitalsigns.pugetsoundinfo.wa.gov"><img class="img-responsive" src="https://pspwa.box.com/shared/static/v6h1v2302y7mnpdo61ho5j31nt250qaj.png" width="1000" height="500" alt=""/></a>
+		
 
-<p><i>Revised Vital Sign portfolio organized by ecosystem recovery goals from Washington State statute (RCW 90.71.300)</i></p>
-<ul>
-<li><a href="https://pspwa.box.com/s/10utqrjbcj138nf5oejl1ogjxihvky4a">Fact sheet</a> and <a href="https://pspwa.box.com/s/rqn16bdt9gr6r7gypb399ugv5mlrmidi">full report</a></li>
-<li><a href="https://pspwa.box.com/v/RevisedVSPresentation">Tables, highlights of the revisions and presentation material in Power Point</a> </li>
-<li><a href="https://pspwa.box.com/v/RevisedVSIndicators">List of Vital Signs and indicators, potential future indicators, ancillary measures and intermediate progress measures in a spreadsheet form</a></li>
-<li><a href="https://pspwa.box.com/s/9wuzla2mp9eoze3gv91j5w6rzqqzofsd">Project information webpage</a></li>
-</ul>
 
-<h3>When were indicators and targets selected?</h3>
-			<p>The Vital Signs are fundamental to the Partnership&rsquo;s <a href="https://www.pugetsoundinfo.wa.gov">shared measurement system</a>. The indicators were selected by the Puget Sound Partnership based on recommendations by a team of scientists convened by the Partnership in 2010. Ecosystem recovery targets were selected based on recommendations by interdisciplinary teams in 2011. In 2015, the Partnership described the scope of each Vital Signs and added specificity to the ecosystem components included in the Vital Signs. That same year, the Partnership selected Vital Signs and indicators of human wellbeing.</p>
-			<p><a href="https://pspwa.box.com/s/5bnq0nmu8f6abrvm7gee9nrt017rf7jc">Vital Sign indicator selection process (drafted and implemented in 2010)</a><br>
-		    <a href="https://pspwa.box.com/s/mh73y4xia6odf1y4a0esid4ecrpiutlg">Executive Director&rsquo;s statement on the scope of Vital Signs for Near-Term Actions (2015)</a><br>        
-			<a href="https://pspwa.box.com/s/sysdrg8g5b4lrg2mrz2g4mmjn92pjgqo">Leadership Council resolution approving new human wellbeing Vital Signs and indicators (2015)</a></p>
-         	
-			<h3> Where to find results?</h3>
-			<p>The primary venue for reporting on the Puget Sound Vital Signs and the status and progress of their indicators is the&nbsp;<a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Vital Sign website</a>&nbsp;in the&nbsp;<a href="https://www.pugetsoundinfo.wa.gov/">Puget Sound Info</a>&nbsp;platform. The Vital Signs are also fundamental to the Puget Sound Partnership&rsquo;s&nbsp;<a href="http://www.psp.wa.gov/sos.php">State of the Sound&nbsp;</a>report, published every two years. </p>
-			<p><a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Visit the Puget Sound Vital Signs website</a></p>
 
         <!-- InstanceEndEditable --> </div>
 		
@@ -106,13 +106,10 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				
-				<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="PSEMP-overview.php">PSEMP Website</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/10utqrjbcj138nf5oejl1ogjxihvky4a.pdf">Vital Signs Fact Sheet</a></li>
+				<li role="presentation"> <a href="http://www.stateofthesound.wa.gov">State of the Sound report</a></li>
 				<li role="presentation"> <a href="https://pugetsoundinfo.wa.gov">Puget Sound Info</a></li>
-				<li role="presentation"> <a href="sos.php">State of the Sound</a></li>
-	
-				
+				<li role="presentation"> <a href="https://www.psp.wa.gov/PSEMP-resources.php">Projects developing and improving indicators</a></li>
 			  <!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -120,12 +117,7 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="http://www.whaleresearch.com">Center for Whale Research</a></li>
-				<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology</a></li>
-				<li role="presentation"> <a href="https://wdfw.wa.gov/">WA Dept of Fish and Wildlife</a></li>
-				<li role="presentation"> <a href="https://www.doh.wa.gov/CommunityandEnvironment">WA Dept of Health</a></li>
-				<li role="presentation"> <a href="https://www.dnr.wa.gov/AAMT">WA Dept of Natural Resources</a></li>
-				<li role="presentation"> <a href="https://www.wastormwatercenter.org/">Washington Stormwater Center</a></li>
+				<li role="presentation"> <a href="www.psp.wa.gov/PSEMP-overview.html">Puget Sound Ecosystem Monitoring Program (PSEMP)</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
