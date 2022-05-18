@@ -146,6 +146,17 @@ td p a {
     text-decoration: underline;
     
 }
+/*hack to get the right nav to hide when there is a non responsive include in the main content area*/
+@media (max-width: 1600px) {
+	.nonresponsive-object-hide-rightnav-li li{
+		display: none;
+	}
+}
+@media (max-width: 1600px) {
+	.nonresponsive-object-hide-rightnav {
+		display: none;
+	}
+}
 .right-align {
 	text-align: right;
 }
