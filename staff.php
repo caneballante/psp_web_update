@@ -257,9 +257,9 @@
 						<!--ADMINISTRATIVE SUPPORT-->
 						<h3 class="padding-10-top">Administrative Support Team</h3>
 												
-						<h5>Lisa Carter</h5>
+						<h5>Vacant</h5>
 						<p>Administrative Assistant<br />
-						360.819.6429 | <a href="mailto:lisa.carter@psp.wa.gov">lisa.carter@psp.wa.gov</a><br />							
+													
 						</p>
 			
 						<h5>Ami Hollingsworth</h5>
