@@ -257,7 +257,7 @@
 						<!--ADMINISTRATIVE SUPPORT-->
 						<h3 class="padding-10-top">Administrative Support Team</h3>
 												
-						<h5>VACANT</h5>
+						<h5>Vacant</h5>
 						<p>Administrative Assistant<br />
 													
 						</p>
