@@ -183,8 +183,8 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">APR <br>
-			  13</div>
+				<div class="newsbox-date">JUN <br>
+			  8-9</div>
 				<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
 					Online<br>
 							</a><br>
@@ -197,8 +197,8 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 					<!--news content -->
-				<div class="newsbox-date">APR<br>
-			  21</div>
+				<div class="newsbox-date">JUL<br>
+			  13-14</div>
 				<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
 					Online<br>
 							</a><br>
@@ -211,9 +211,9 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">MAY<br>
-			  12</div>
-				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+				<div class="newsbox-date">JUL<br>
+			  28</div>
+				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL,<br>
 					Online<br>
 							</a><br>
 				</div>
@@ -225,9 +225,9 @@
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">MAY<br>
-			  26</div>
-				<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
+				<div class="newsbox-date">AUG<br>
+			  10</div>
+				<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
 					Online<br>
 							</a><br>
 				</div>
