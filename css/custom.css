@@ -11,6 +11,7 @@ body {
 	color: #000;
 }
 }
+
 html {
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100% ;
@@ -157,6 +158,11 @@ td p a {
 		display: none;
 	}
 }
+
+/*hack to change the padding on container-fluid on the homepage to 0*/
+.homepage .container-fluid {
+	padding: 0;
+}
 .right-align {
 	text-align: right;
 }
@@ -242,6 +248,15 @@ td p a {
 }
 .padding-50-top {
 	padding-top: 50px;
+}
+.padding-60-top {
+	padding-top: 60px;
+}
+.padding-70-top {
+	padding-top: 70px;
+}
+.padding-80-top {
+	padding-top: 80px;
 }
 .padding-150-top {
 	padding-top: 20px;
