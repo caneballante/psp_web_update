@@ -203,8 +203,7 @@
 			
 						<h5>April Gassman</h5>
 						<p>Salmon Permitting Projects Coordinator<br>
-						360.742.4195 | <a href="mailto:april.gassman@psp.wa.gov">april.gassman@psp.wa.gov</a>p>
-
+							360.742.4195 | <a href="mailto:april.gassman@psp.wa.gov">april.gassman@psp.wa.gov</a></p>
 						<h5>Hannah Liss</h5>
 						<p>Ecosystem Recovery Coordinator<br>
 							<em>Snohomish/Stillaguamish and Skagit/Samish</em><br>
