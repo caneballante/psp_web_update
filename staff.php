@@ -200,6 +200,10 @@
 						<h5>Amber Moore</h5>
 						<p>Salmon Recovery Manager<br />
 							360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov </a></p>
+			
+						<h5>April Gassman</h5>
+						<p>Salmon Permitting Projects Coordinator<br>
+						360.742.4195 | <a href="mailto:april.gassman@psp.wa.gov">april.gassman@psp.wa.gov</a>p>
 
 						<h5>Hannah Liss</h5>
 						<p>Ecosystem Recovery Coordinator<br>
