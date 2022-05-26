@@ -42,26 +42,27 @@
 		</div>
 	</div>
 </header>-->
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-xs-12 orange-fill"><br>
-		</div>
-	</div>
-</div>
-<div class="container-fluid padding-40-bottom padding-80-top light-blue-fill" id="home-squares">
-	<div class="row">
-		<div class="container light-blue-fill" id="home-squares">
-			<div class="row">
-				<div class="col-sm-12">
-					<div style="padding:56.25% 0 0 0;position:relative;">
-						<iframe src="https://player.vimeo.com/video/706723427?h=07ec6b9a8a&title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+	<header class="intro-test">
+		<div class="intro-body">
+			<div class="container-fluid margin-40-top">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2">
+						<h1 class="emsize-3 fontweight-400">2021 State of the Sound<br>
+						</h1>
+						<div class="learn-more-box no-icon fontweight-400"><a href="https://www.stateofthesound.wa.gov">READ THE REPORT</a></div>
+						&nbsp;
+						<div class="learn-more-box no-icon fontweight-400"><a href="https://www.youtube.com/watch?v=NPY_kF7o0oo">WATCH THE VIDEO</a></div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<!-- end container --> 
+	</header>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-xs-12 white_fill"><br>
+		</div>
 	</div>
-</div>
+</div>	
 <!-- end container -->
 <div class="container-fluid">
 	<div class="row">
@@ -248,27 +249,7 @@
 	</div>
 </div>	
 
-	<header class="intro-test">
-		<div class="intro-body">
-			<div class="container-fluid margin-40-top">
-				<div class="row">
-					<div class="col-md-8 col-md-offset-2">
-						<h1 class="emsize-3 fontweight-400">2021 State of the Sound<br>
-						</h1>
-						<div class="learn-more-box no-icon fontweight-400"><a href="https://www.stateofthesound.wa.gov">READ THE REPORT</a></div>
-						&nbsp;
-						<div class="learn-more-box no-icon fontweight-400"><a href="https://www.youtube.com/watch?v=NPY_kF7o0oo">WATCH THE VIDEO</a></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-xs-12 white_fill"><br>
-		</div>
-	</div>
-</div>	
+
 
 <!--CONTAINER END-->
 </div>
