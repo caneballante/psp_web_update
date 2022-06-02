@@ -1,6 +1,18 @@
 {
 	"news-releases": 
     {	 
+		"release122": {
+			"date": "May 24, 2022",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/31906c4'>Puget Sound Salmon Recovery Council to finalize their recommendation to the Leadership Council for adopting the 2022-2026 Action Agenda</a>"
+		},
+		"release121": {
+			"date": "May 18, 2022",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/3184065'>Puget Sound Partnership begins reporting on a new generation of Puget Sound Vital Signs</a>"
+		},
+		"release120": {
+			"date": "April 18, 2022",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/3134ae5'>Puget Sound Partnership Science Panel to discuss endorsement of the process of creating the 2022-2026 Action Agenda</a>"
+		},
 		"release119": {
 			"date": "April 4, 2022",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/31296d2'>Puget Sound Partnership Leadership Council to discuss adopting Vital Sign indicator targets for Chinook Salmon and Toxics in Aquatic Life</a>"
