@@ -90,7 +90,7 @@
 			<p>  <span lang="EN">On December 5, 2018, the Leadership Council adopted the 2018-2022 Action Agenda for Puget Sound after reviewing recommendations from the Ecosystem Recovery Board, Salmon Recovery Council and Science Panel, as well as input received from advisory boards, tribes, and the public</span>. </p>
 			<p>	As part of its proposal, the Leadership Council asked that the Southern Resident Orca Vital Sign be added as a priority Vital Sign for this 4 year period.  Bringing the Task Force recommendations into the sphere of the Action Agenda is essential to leverage existing efforts and momentum and to identify the actions that can have the largest benefit for both Southern Resident orcas and the Puget Sound ecosystem as a whole.</p>
 				<p>	This Action Agenda could not have been made without the dedication and work of all of our partners and broader recovery community. The 2018-2022 Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it complements and incorporates the work of many local and regional partners from around Puget Sound to describe strategies and specific actions needed to recover Puget Sound.  </p>
-<p>	<a href="http://www.psp.wa.gov/action_agenda_center.php">Access the 2018-2022 Action Agenda </a></p>
+<p>	<a href="http://www.psp.wa.gov/202AAupdate.php">Access the 2018-2022 Action Agenda </a></p>
 				<p><a href="https://pspwa.box.com/s/j6t41vvuiwmf9bmlkrw6d8047jrwze9l"> Public Comment and Response Summary</a> and the <a href="https://pspwa.box.com/s/0d9az308y3vqc8l3ob56l3wjoktbmz4y">Detailed Comment Matrix</a></p> </div>
  
 

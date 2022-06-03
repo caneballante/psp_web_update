@@ -181,8 +181,15 @@ navSelected = 3;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation">Implementation and funding status of actions from the 2018-2022 Action Agenda can be found in the <a href="https://actionagenda.pugetsoundinfo.wa.gov/Results/FundingStatus" target="_blank">Action Agenda Tracker</a></li>
 				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank"><strong>Action Agenda Frequently Asked Questions</strong></a></li>
+				<li><a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
+				<li><a href="https://pspwa.box.com/s/qwqatl3l3zi4x3ncchizy68auca9xcte">Tribal Habitat Priorities</a></li>
+				<li><a href="https://nwtreatytribes.org/habitatstrategy/" target="_blank"><em>gw∂dzadad &ldquo;Teaching of Our Ancestors&rdquo;, Tribal Habitat Strategy</em></a></li>
+				<li><a href="https://goia.wa.gov/relations/centennial-accord">Centennial Accord </a> </li>
+				<li><a href="https://www.psp.wa.gov/science-basis-of-recovery-overview.php">Science basis of recovery</a></li>
+				<li><a href="https://www.psp.wa.gov/salmon-recovery-overview.php">Salmon Recovery in Puget Sound</a></li>
+				<li><a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organizations </a></li>
+	
 	
 				<!-- InstanceEndEditable -->
 			</ul>

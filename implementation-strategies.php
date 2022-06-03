@@ -143,7 +143,7 @@ Developing plans, managing information, and tracking progress during implementat
                 <li>Identifies benefits or trade-offs to human wellbeing</li>
                 <li>Identifies key geographic areas associated with the recovery target</li>
                 <li>Estimates the costs of putting recovery priorities into practice</li>
-                <li>Assesses and combines elements of local and regional recovery efforts, ongoing programs, Near Term Actions from the <a href="http://psp.wa.gov/action_agenda_center.php">Puget Sound Action Agenda</a>, and results from the <a href="http://wdfw.wa.gov/grants/ps_marine_nearshore/files/2014_puget_sound_pressures_assessment.pdf">Puget Sound Pressure Assessment</a></li>
+                <li>Assesses and combines elements of local and regional recovery efforts, ongoing programs, Near Term Actions from the <a href="http://psp.wa.gov/202AAupdate.php">Puget Sound Action Agenda</a>, and results from the <a href="http://wdfw.wa.gov/grants/ps_marine_nearshore/files/2014_puget_sound_pressures_assessment.pdf">Puget Sound Pressure Assessment</a></li>
                 <li>Builds on existing knowledge and lessons learned from previous and current recovery efforts</li>
             </ul>
            <p>Implementation Strategies are developed by use of a results-based (adaptive) management framework for Puget Sound recovery. This framework is founded on the Open Standards for the Practice of Conservation. <a href="http://psp.wa.gov/science-adaptive-management-framework.php">LEARN MORE</a>           </p>
@@ -256,7 +256,7 @@ Developing plans, managing information, and tracking progress during implementat
 				
 				<div class="right-nav-title margin-20-top ">SEE ALSO</div>
 				
-				<li role="presentation"><a href="action_agenda_center.php">Action Agenda Overview</a></li>
+				<li role="presentation"><a href="202AAupdate.php">Action Agenda Overview</a></li>
 				<li role="presentation"><a href="2022AAupdate.php">2022-2026 Action Agenda</a></li>
 				<li role="presentation"><a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
 <li role="presentation"><a href="https://eopugetsound.org/magazine/is/implementation-strategies">Implementation Strategies Overview Article (EoPS)</a></li>

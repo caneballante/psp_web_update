@@ -186,7 +186,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="https://pspwa.box.com/s/emmmd08dsh0kl44sirxdgpwgoi0j0rex">Contact us</a></li>
 				<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="https://www.psp.wa.gov/action_agenda_center.php">2018-2022 Action Agenda For Puget Sound</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/202AAupdate.php">2018-2022 Action Agenda For Puget Sound</a></li>
 				<li role="presentation"> <a href="https://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
 				<li role="presentation"> <a href="https://www.psp.wa.gov/science-and-evaluation-overview.php">Puget Sound Partnership Science and Evaluation Overview</a></li>
 				<!-- InstanceEndEditable -->

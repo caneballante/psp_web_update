@@ -97,7 +97,7 @@
 <p>Links to specific data sources that support the statements made in the State of the Sound:</p>
 <ul>
 	<li><a href="evaluating-vital-signs.php">Vital Signs</a></li>
-	<li><a href="action_agenda_center.php">Action Agenda</a></li>
+	<li><a href="202AAupdate.php">Action Agenda</a></li>
 	<li><a href="evaluating-about-report-card.php">Report Card</a></li>
 	<li><a href="https://pspwa.box.com/s/jy7279qsas85olkvglh2y7w9ilmnsfb7">Additional Near Term Action (NTA) information</a></li>
 	<li><a href="evaluating-effective-action.php">Effectiveness</a></li>
@@ -140,7 +140,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="vitalsigns/index.php" target="_blank">Vital Signs</a></li>
-				<li role="presentation"> <a href="action_agenda_center.php" target="_blank">Action Agenda</a></li>
+				<li role="presentation"> <a href="202AAupdate.php" target="_blank">Action Agenda</a></li>
 				<li role="presentation"> <a href="evaluating-about-report-card.php" target="_blank">Report Card</a></li>
 				<li role="presentation"> <a href="evaluating-effective-action.php" target="_blank">Effectiveness</a></li>
 				<!-- InstanceEndEditable -->

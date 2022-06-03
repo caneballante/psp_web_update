@@ -70,19 +70,12 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-
-			
-			<p>Past versions of the Action Agenda <br>
-				<br>
-		<p><a href="https://pspwa.box.com/shared/static/h2ysd0bz8a1yxagtgkdaikqr1czl0owz.pdf">2016  Action Agenda (PDF)</a></p>
-	<a href="https://pspwa.box.com/s/dzu9cwtwho06i56lt1f4bnx45j65n53q">2014/15 Action Agenda Complete (PDF)</a><br>
-				<a href="https://pspwa.box.com/s/g5qwigy618rjqbsdyrpzkoli7v8m86pb">2012-13 Action Agenda</a> <br>
-			<a href="https://pspwa.box.com/s/kuhc0eyk1rkxcd0mt53q79c0d8jt09wn">2008-09 Action Agenda</a></p>
-			<h2 class="margin-0-top">&nbsp;</h2>
-<h2 class="margin-10-top">&nbsp;</h2>
-			<div>
-				<div> </div>
-			</div>
+		<p><a href="https://pspwa.box.com/s/osxaeqg19fevxu5n3k8xnjytzkwol512">2018-2022 Action Agenda (PDF)</a> </p>
+		<p><a href="https://pspwa.box.com/shared/static/h2ysd0bz8a1yxagtgkdaikqr1czl0owz.pdf">2016-2018  Action Agenda (PDF)</a></p>
+		<p><a href="https://pspwa.box.com/s/dzu9cwtwho06i56lt1f4bnx45j65n53q">2014/15 Action Agenda (PDF)</a></p>
+		<p><a href="https://pspwa.box.com/s/g5qwigy618rjqbsdyrpzkoli7v8m86pb">2012-13 Action Agenda (PDF)</a></p>
+		<p><a href="https://pspwa.box.com/s/kuhc0eyk1rkxcd0mt53q79c0d8jt09wn">2008-09 Action Agenda (PDF</a></p>
+		
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
