@@ -129,7 +129,8 @@ p {
 	line-height: 1.9;
 	font-family: georgia, times, serif;
 }
-td p {
+/*removed these on 6/2/2022 - not sure what will break, but we don't want table text to be smaller as a rule*/
+/*td p {
 	font-size: 1.1em;
 	line-height: 1.1em;
 	font-family: georgia, times, serif;
@@ -137,7 +138,7 @@ td p {
 td p a {
 	line-height: 1.1em !important;
 }
-
+*/
 .emergency {}
 .emergency p {
     font-size: 18px;

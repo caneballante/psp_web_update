@@ -64,7 +64,7 @@ navSelected = 3;
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/ln-2022-AA.html';?>
+			
 					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -72,119 +72,16 @@ navSelected = 3;
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-		<h2>Strategies describe effective aproaches for achieving desired outcomes</h2>
-		<p>For the purposes of the 2022-2026 Action Agenda update, a strategy describes an effective approach for advancing progress toward <a href="https://psp.wa.gov/priority-outcomes.php">desired outcomes</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Vital Signs</a>, and overall recovery. Each strategy is expected to advance one or more desired outcome by addressing the underlying conditions that give rise to sources of stress on the ecosystem or enhance capacity to address a stressor. Strategies address a 5&ndash;50 year time horizon and describe the kinds of policies, actions, or approaches that could be applied by many groups in many different areas. You can review the <a href="https://pspwa.box.com/s/ghhp8c3dbm0uegyq1o8c1c3cidwf0j1m" target="new">approved strategies here</a>.</p><br>
-			<table class="table" width="774" border="2">
-			
-        <tbody>
-          <tr>
-            <th width="50%" scope="col"><p>Strategies DO</p></th>
-            <th width="50%" scope="col"><p>Strategies DO NOT</p></th>
-          </tr>
-			<tr>
-			<td><p>Address the underlying conditions that give rise to a stressor on the ecosystem or enhance capacity to address the stressor</p></td>
-				<td><p>Describe reducing a stressor/source or achieving a statutory goal (too general)</p></td>
-			</tr>
-			<tr>
-			<td><p>Describe an activity type (regulation, education, funding, etc.) necessary to advance one or more desired outcome </p></td>
-				<td><p>Identify an actor (too specific)</p></td>
-			</tr>
-			<tr>
-			<td><p>Describe the kinds of policies, actions, or approaches that could be applied by many groups in many different areas </p></td>
-				<td><p>Describe something that can be done by a single entity (too specific)</p></td>
-			</tr>
-			<tr>
-			<td><p>Address a 5&ndash;50 year time horizon</p></td>
-				<td><p>Refer to a specific parcel or geographic area (too specific)</p></td>
-			</tr>
-			</tbody>
-			</table>
-		
-					
-			<button class="button button1"><a href="https://pspwa.box.com/s/jfgxn9nfnpegh5guv2kwbqup2y0k5p8r" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that strategies play in the 2022-2026 Action Agenda update</strong></a></button><br><br>
-			
-			
-			<h3>How are Action Agenda strategies identified?</h3>
-			<p>Action Agenda strategies are based on existing plans, including Implementation Strategies as the primary source. Local Integrating Organization plans, tribal priorities, salmon recovery plans, and the Orca Task Force recommendations also provide important strategies for the Action Agenda and reveal areas of commonality where strategies will advance multiple aspects of recovery. These plans are all created through science-informed and collaborative processes that capture the expertise and most recent thinking of individuals from around the region. Through the process of reviewing and providing feedback on the initial draft list of strategies, recovery partners will have the opportunity to identify additional strategies that are needed to advance the desired outcomes. </p>
-					
-		
-		<h3>What are the steps in the phase 3 process?</h3>
-			<img class="img-responsive" src="https://pspwa.box.com/shared/static/w9xef33wblv1v4fari3j7ur979239bu2.png" width="1491" height="421" alt=""/>
-			
-			<h3>How can you participate?</h3>
-			<p>Members of the recovery community will have three ways to participate in phase 3: </p>
-			<ol>
-			<li><p>Share your thoughts online <a href="https://survey.zohopublic.com/zs/zRBUUF" target="_blank">through this form - complete by June 25</a>.</p></li>
-				<li><p>Join a public workshop on strategy identification in June by <a href="https://forms.office.com/r/TfFLSA6vwP" target="_blank">registering here</a>.</p></li>
-				<li><p>Join one of the Partnership's regularly scheduled board meetings and provide public comments (the boards calendar is <a href="https://psp.wa.gov/board_meetings.php">available here</a>)</p></li>
-			</ol>
-			
-			<p>In addition to general review and feedback on strategies, Partnership staff will be working with specific segments of the recovery community to solicit targeted feedback including <a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organizations</a>, the Puget Sound Tribal Co-management Council, <a href="https://pugetsoundestuary.wa.gov/">Strategic Initiatives</a>, <a href="https://www.psp.wa.gov/PSEMP-overview.php">the Puget Sound Ecosystem Monitoring Program</a>, the Social Science Advisory Committee, and others. Partners are encouraged to engage in multiple ways during this phase of the Action Agenda. Examples of the kinds of input that different groups may provide are included below:</p>
-			
-			<table class="table" width="774" border="2">
-			
-        <tbody>
-          <tr>
-            <th width="50%" scope="col"><p>Partner type</p></th>
-            <th width="50%" scope="col"><p>Possible input</p></th>
-          </tr>
-			<tr>
-			<td><p>Local Integrating Organizations</p></td>
-				<td><ul><li>Expected strategy effectiveness and applicability in each LIO area and the potential for regionally significant opportunities</li></ul></td>
-			</tr>
-			<tr>
-			<td><p>Puget Sound tribes</p></td>
-				<td><ul><li>Alignment of strategies with the priorities of tribes for protecting treaty rights and resources in Puget Sound</li></ul></td>
-			</tr>
-			<tr>
-			<td><p>Strategic Initiative Advisory Teams</p></td>
-				<td><ul><li>Areas of potential biggest regional impact over the next 4 years</li>
-					<li>Revisions to strategies to better incorporate climate change and human well being</li></ul></td>
-			</tr>
-			<tr>
-			<td><p>Salmon Recovery Council</p></td>
-				<td><ul><li>Alignment of strategies with salmon recovery priorities of the region to achieve salmon recovery</li></ul></td>
-			</tr>
-			<tr>
-			<td><p>Ecosystem Coordination Board</p></td>
-				<td><ul><li>Alignment of strategies with the priorities and contributions of each ECB member’s caucus (geography, sector, etc.)</li></ul></td>
-			</tr>
-			<tr>
-			<td><p>Science Panel</p></td>
-				<td><ul><li>Alignment of strategies with the best available science</li></ul></td>
-			</tr>
-			<tr>
-			<td><p>Puget Sound Ecosystem Monitoring Program</p></td>
-				<td><ul><li>Monitoring activities that could support increased effectiveness and adaptive management of strategies over time, including progress measures at various scales (Vital Signs, intermediate measures).</li>
-					<li>Adjustments to strategies to make them more effective and measurable</li></ul></td>
-			</tr>
-			<tr>
-			<td><p>Social Science Advisory Committee</p></td>
-				<td><ul><li>Strategies for advancing human wellbeing outcomes</li>
-					<li>How strategies should consider positive or negative effects on human wellbeing</li></ul></td>
-			</tr>
-			<tr>
-			<td><p>Climate Advisory Team</p></td>
-				<td><ul><li>Strategies for advancing climate change outcomes</li>
-					<li>How strategies should adapt to changing climate and ocean conditions</li></ul></td>
-			</tr>
-				</tbody>
-			</table>
-			
-        <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>).</p>
-		<p class="last-update">Last updated: 01/25/22</p>
-        <div>
-          <div> </div>
-        </div>
+		<p>This page has been retired. You can find information on the 2022-2026 Action Agenda <a href="https://www.psp.wa.gov/2022AAupdate.php">here</a>.</p> 
+ 
         <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<div class="right-nav-title margin-0-top "></div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation">Implementation and funding status of actions from the 2018-2022 Action Agenda can be found in the <a href="https://actionagenda.pugetsoundinfo.wa.gov/Results/FundingStatus" target="_blank">Action Agenda Tracker</a></li>
-				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank"><strong>Action Agenda Frequently Asked Questions</strong></a></li>
+			
 	
 				<!-- InstanceEndEditable -->
 			</ul>

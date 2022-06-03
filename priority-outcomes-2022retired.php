@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Action Agenda update</title>
+<title>2022-2026 Action Agenda Update - desired outcomes</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,7 +25,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-navSelected = 5;
+navSelected = 2;
 	
 </script>
 <meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
@@ -43,7 +43,7 @@ navSelected = 5;
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image114">
+<header class="overview-page-image-style overview-page-image99">
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
@@ -54,7 +54,7 @@ navSelected = 5;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Action Agenda Update</h1>
+			<h1>Identifying desired outcomes for Puget Sound recovery</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -64,24 +64,45 @@ navSelected = 5;
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-		
+					<?php include 'includes/ln-2022-AA.html';?>
 					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<p>This page has been retired. You can find information on the 2022-2026 Action Agenda <a href="https://www.psp.wa.gov/2022AAupdate.php">here</a>.</p> 
- 
+		<div class="highlightbox margin-0-top margin-20-bottom"><p>On April 6, 2021, the Partnership's Leadership Council approved a set of <a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank">desired outcomes</a> for the 2022-2026 Action Agenda. The Partnership will now begin phase 3 of the Action Agenda update&mdash;working with partners to identify strategies for achieving the desired outcomes. More information on <a href="https://psp.wa.gov/identifying-strategies.php">phase 3 is available here</a>.</p></div>
+		<p>Desired outcomes describe <em>what </em>we as the recovery  community intend to accomplish. Desired outcomes will guide the identification of strategies and actions that are necessary to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs</a>.</p>
 
+		<h2>Desired outcomes are positive changes we want to see in Puget Sound</h2>
+		<p>Desired outcomes focus on reducing adverse effects on the ecosystem (example: toxic pollution in stormwater runoff) and managing the human activities that create them (example: impervious surfaces from development), while maintaining healthy, vibrant, and equitable communities. By successfully achieving the desired outcomes determined in the Action Agenda, the recovery community will accelerate transformative change for Puget Sound recovery.  </p>
+		<p>We will use the desired outcomes as the basis for identifying (1) strategies and actions for the 2022-2026 Action Agenda and (2) an initial set of progress measures to track, report on, and ensure accountability for advancing the desired outcomes. </p>
+			
+			<button class="button button1"><a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45" target="_blank" style="color:white"><strong>Click here to view the desired outcomes for Puget Sound recovery</strong></a></button><br>
+			
+			<button class="button button1"><a href="https://pspwa.box.com/s/d3bhfz68nor5jfqz3y97wdfhy365dhzc" target="_blank" style="color:white"><strong>Click here to view the fact sheet about the role that desired outcomes play in the 2022-2026 Action Agenda update</strong></a></button>
+			
+			<h3>How were the desired outcomes identified?</h3>
+			<p>The list of desired outcomes was identified using existing plans, including Implementation Strategies and Local Integrating Organization (LIO) plans as initial sources. Partnership staff worked in collaboration with representatives of Puget Sound tribes, LIOs, state agencies, and the Environmental Protection Agency (EPA) to assemble data about the stressors and sources that are addressed through existing plans. The outcomes in Implementation Strategies, LIO plans, and other plans are all created through well-vetted, science-informed, and collaborative processes led by subject matter experts that capture knowledge from around the region.</p>
+			
+		
+		<h3>How will we use desired outcomes?</h3>
+			<p>Desired outcomes will serve as the basis for identifying strategies and actions in the next phases of the Action Agenda update process. Where desired outcomes describe what we intend to accomplish, the strategies and actions will describe how to best achieve those outcomes. More information on the next steps in phase 3 will be available soon.
+			</p>
+        <p>If you have questions or would like a briefing please contact Dan Stonington (<a href="mailto:dan.stonington@psp.wa.gov">dan.stonington@psp.wa.gov</a>).</p>
+		<p class="last-update">Last updated: 08/20/21</p>
+        <div>
+          <div> </div>
+        </div>
         <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top "></div>
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-			
+				<li class="active" role="presentation">Implementation and funding status of actions from the 2018-2022 Action Agenda can be found in the <a href="https://actionagenda.pugetsoundinfo.wa.gov/Results/FundingStatus" target="_blank">Action Agenda Tracker</a></li>
+				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank"><strong>Action Agenda Frequently Asked Questions</strong></a></li>
 	
 				<!-- InstanceEndEditable -->
 			</ul>
