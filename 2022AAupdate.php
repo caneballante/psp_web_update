@@ -73,7 +73,7 @@ navSelected = 1;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
 		<div class="highlightbox">
-			<p>The 2022-2026 Action Agenda pages are currently being updated. Links to the 2022-2026 Action Agenda will be available before the June 8th, 2022 Leadership Council meeting. For assistance, please contact <a href="mailto:info@psp.wa.gov">info@psp.wa.gov</a></p>
+			<p>The 2022-2026 Action Agenda pages are currently being updated. Links to the 2022-2026 Action Agenda will be available before the <a href="https://pspwa.box.com/s/lptcpapdm5o1tctqegplo07ybbgah8gm">June 8th, 2022 Leadership Council meeting</a>. For assistance, please contact <a href="mailto:info@psp.wa.gov">info@psp.wa.gov</a></p>
 		</div>
 			
 		<h2>What is the Action Agenda? </h2>
