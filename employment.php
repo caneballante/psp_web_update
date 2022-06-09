@@ -71,7 +71,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3558913/contracts-coordinator" target="new">Contracts Coordinator - closes 6/2/2022</a></p>      
+		<p></p>      
 				
 			
 		<h3>We are an Employer of Choice</h3>
