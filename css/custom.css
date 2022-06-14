@@ -1,8 +1,5 @@
-.overview-page-image117 {
-	background: url(../images/inside_image_117.jpg)no-repeat bottom center scroll;
-}
-
 @charset "UTF-8";
+/*checkme*/
 body {
 	font-family: 'prenton', san-serif;
 	background-color: #FFF;
@@ -665,7 +662,9 @@ display: block
 	border-radius: 5px
 }
 */
-.intro-test {
+
+/*banners specalized for the AA and SOS*/
+.intro-SOS {
 	display: table;
 	width: 100%;
 	height: 500px;
@@ -680,16 +679,44 @@ display: block
 	background-size: cover;
 	-o-background-size: cover;
 }
-.intro-test .intro-body {
+.intro-SOS .intro-body {
 	display: table-cell;
 	vertical-align: middle;
 
 }
 /*sets text size on the jumbotron*/
-.intro-test h1 {
+.intro-SOS h1 {
 	font-size: 30px;
 	text-shadow: 2px 2px #000;
 }
+
+.intro-AA {
+	display: table;
+	width: 100%;
+	height: 650px;
+	padding: 20px 0;
+	margin: auto;
+	text-align: center;
+	color: #fff;
+	background: url("../images/home_image21.jpg")no-repeat bottom center scroll;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+.intro-AA .intro-body {
+	display: table-cell;
+	vertical-align: middle;
+
+}
+/*sets text size on the jumbotron*/
+.intro-AA h1 {
+	font-size: 30px;
+	text-shadow: 2px 2px #000;
+}
+
+
 .learn-more-box a {
 	font-size: 18px;
 }
