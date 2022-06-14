@@ -51,6 +51,16 @@ a[href^="http"] {
 	padding-left: 0px;
 }
 /*created this to make some email addresses smaller to fit in a table on the lead entities page*/
+
+.orange-outline {
+	border: solid 2px #E99348;
+}
+.orange-outline-5px {
+	border: solid 5px #E99348;
+}
+.blue-outline-5px {
+	border: solid 5px #0a3b5c;
+}
 .small-links {
 	font-size: 12px !important;
 }

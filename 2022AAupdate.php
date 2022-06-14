@@ -86,18 +86,23 @@ navSelected = 1;
 		</ul>
 		</div>	
 		<div class="clearfix"></div>
-		<div class="h-divider"></div>
-			
-		<div class="light-orange-fill">
-			<img class="floatright" src="images/AA-explorer-thumb.jpg" width="300" height="334" alt=""/>	
-
-		<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion to the Action  Agenda. The Explorer contains information for each Action Agenda strategy and  will be updated regularly through 2026.</p>
-		</div>		
-
-				
 	
+		
+		<div class="container-fluid blue-outline-5px padding-20-all margin-20-top">
+			<div class="row ">
+				
+				<div class="col-sm-6">
+					<h4 class="margin-0-top">ONLINE ACTION AGENDA EXPLORER</h4>
+					<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion to the Action  Agenda. The Explorer contains information for each Action Agenda strategy and will be updated regularly through 2026.</p>
+				</div>	
+				<div class="col-sm-6">
+					<img class="img-responsive floatright" src="images/AA-explorer-with-photo.jpg" alt=""/>	
+				</div>
+			</div>
+		</div>
 		<div class="clearfix"></div>
-			<div class="h-divider"></div>
+
+			
 		<h2>Why do we need an Action Agenda? </h2>
 		
 		<p>Our  region is facing drastic changes, and we know Puget Sound is not doing well. We  have updated the Action Agenda to confront these challenges. The Action Agenda includes a vision  of a healthy and resilient Puget Sound and describes what we must achieve,  how we will achieve it, and how we will hold ourselves accountable to ensure we  make progress.</p>
