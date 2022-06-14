@@ -187,6 +187,7 @@ td p a {
  height:1px;
  width:100%;
  border-top:1px solid gray;
+display: block
 }
 .white_fill {
 	background-color: #fff;
@@ -515,6 +516,10 @@ td p a {
 }
 .floatright{
 	float: right;
+}
+.floatright-block{
+	float: right;
+	display: block;
 }
 /*news boxes on homepage*/
 .newsbox {

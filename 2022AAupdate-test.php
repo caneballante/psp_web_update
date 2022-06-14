@@ -75,6 +75,8 @@ navSelected = 1;
 		<div class="highlightbox">
 			<p>The 2022-2026 Action Agenda pages are currently being updated. Links to the 2022-2026 Action Agenda will be available before the <a href="https://pspwa.box.com/s/lptcpapdm5o1tctqegplo07ybbgah8gm">June 8th, 2022 Leadership Council meeting</a>. For assistance, please contact <a href="mailto:info@psp.wa.gov">info@psp.wa.gov</a></p>
 		</div>
+			
+			
 		<div>
 		<h2>What is the Action Agenda? </h2>
 			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt=""/>
@@ -87,14 +89,19 @@ navSelected = 1;
 		</div>	
 		<div class="clearfix"></div>
 		<div class="h-divider"></div>
+		
+		
+		<div class="container">
+			<div class="row light-orange-fill padding-10-all">
+						<div class="col-xs-6">
+						<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion to the Action  Agenda. The Explorer contains information for each Action Agenda strategy and  will be updated regularly through 2026.</p>
+					</div>
+					<div class="col-xs-6">
+						<img class="floatright" src="images/AA-explorer-thumb.jpg" width="300" height="334" alt=""/>	
+					</div>
+			</div>		
 			
-		<div class="light-orange-fill">
-			<img class="floatright" src="images/AA-explorer-thumb.jpg" width="300" height="334" alt=""/>	
-
-		<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion to the Action  Agenda. The Explorer contains information for each Action Agenda strategy and  will be updated regularly through 2026.</p>
-		</div>		
-
-				
+		</div>				
 	
 		<div class="clearfix"></div>
 			<div class="h-divider"></div>
