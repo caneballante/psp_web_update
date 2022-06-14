@@ -74,7 +74,7 @@ navSelected = 1;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
 		<div class="highlightbox">
-			<p>The 2022-2026 Action Agenda pages are currently being updated. Links to the 2022-2026 Action Agenda will be available before the <a href="https://pspwa.box.com/s/lptcpapdm5o1tctqegplo07ybbgah8gm">June 8th, 2022 Leadership Council meeting</a>. For assistance, please contact <a href="mailto:info@psp.wa.gov">info@psp.wa.gov</a></p>
+			<p>On June 8, 2022, the Leadership Council unanimously voted to adopt the 2022-2026 Action Agenda. As a next step, the Partnership will submit the Action Agenda to the Environmental Protection Agency (EPA) for approval as the <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>
 		<div>
 		<h2>What is the Action Agenda? </h2>
@@ -155,7 +155,7 @@ navSelected = 1;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/v8x6pg3oijn203lf8i9wjs267kn9f0rl" target="_blank"><strong>Action Agenda Frequently Asked Questions</strong></a></li>
+				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
 				<li><a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
 				<li><a href="https://pspwa.box.com/s/qwqatl3l3zi4x3ncchizy68auca9xcte">Tribal Habitat Priorities</a></li>
 				<li><a href="https://nwtreatytribes.org/habitatstrategy/" target="_blank"><em>gw∂dzadad &ldquo;Teaching of Our Ancestors&rdquo;, Tribal Habitat Strategy</em></a></li>
