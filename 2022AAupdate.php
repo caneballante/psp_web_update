@@ -43,7 +43,7 @@ navSelected = 1;
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image114">
+<header class="overview-page-image-style overview-page-image118">
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
@@ -65,6 +65,7 @@ navSelected = 1;
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
 					<?php include 'includes/ln-2022-AA.html';?>
+					
 					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -92,7 +93,7 @@ navSelected = 1;
 			<div class="row ">
 				
 				<div class="col-sm-6">
-					<h4 class="margin-0-top">ONLINE ACTION AGENDA EXPLORER</h4>
+					<h4 class="margin-0-top">VISIT THE ONLINE ACTION AGENDA EXPLORER</h4>
 					<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion to the Action  Agenda. The Explorer contains information for each Action Agenda strategy and will be updated regularly through 2026.</p>
 				</div>	
 				<div class="col-sm-6">
@@ -161,8 +162,8 @@ navSelected = 1;
 				<li><a href="https://goia.wa.gov/relations/centennial-accord">Centennial Accord </a> </li>
 				<li><a href="https://www.psp.wa.gov/science-basis-of-recovery-overview.php">Science basis of recovery</a></li>
 				<li><a href="https://www.psp.wa.gov/salmon-recovery-overview.php">Salmon Recovery in Puget Sound</a></li>
-				<li><a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organizations </a></li>
-	
+				<li><a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organizations </a>
+			
 				<!-- InstanceEndEditable -->
 			</ul>
 	  <!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
