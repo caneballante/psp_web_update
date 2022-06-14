@@ -79,11 +79,12 @@ navSelected = 1;
 		<div>
 		<h2>What is the Action Agenda? </h2>
 			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt=""/>
-		<p>As our community&rsquo;s shared plan for advancing Puget Sound recovery over the next  four years, the 2022-2026 Action Agenda charts the course for  Puget Sound recovery.</p>
+		<p>The 2022-2026 Action Agenda charts the course for Puget Sound recovery as our community's shared plan for advancing protection and restoration efforts across the region.</p>
 		<ul class="bullet-size-fix">
-			<li>New to the Action Agenda? <a href="https://pspwa.box.com/shared/static/30dh5a9bmlhankz516d7vm443dgqm70t.pdf">Take a look at the Action Agenda brochure for an overview.</a></li>
-			<li><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf">Download the full 2022-2026 Action Agenda PDF</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/30dh5a9bmlhankz516d7vm443dgqm70t.pdf">Take a look at the Action Agenda brochure for an overview.</a></li>
 			<li><a href="https://pspwa.box.com/shared/static/7svj5x4xtrj6duyccqgo2y0ryekk9zjr.pdf">Download the 2022-2026 Action Agenda Executive Summary</a> </li>
+			<li><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf">Download the full 2022-2026 Action Agenda PDF</a></li>
+			
 		</ul>
 		</div>	
 		<div class="clearfix"></div>
@@ -94,7 +95,7 @@ navSelected = 1;
 				
 				<div class="col-sm-6">
 					<h4 class="margin-0-top">VISIT THE ONLINE ACTION AGENDA EXPLORER</h4>
-					<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion to the Action  Agenda. The Explorer contains information for each Action Agenda strategy and will be updated regularly through 2026.</p>
+					<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion tool to the Action Agenda. The Explorer allows for dynamic searchability of content relating to each one of the 31 strategies in the Action Agenda. Content will be updated regularly through 2026.</p>
 				</div>	
 				<div class="col-sm-6">
 					<img class="img-responsive floatright" src="images/AA-explorer-with-photo.jpg" alt=""/>	
@@ -106,7 +107,7 @@ navSelected = 1;
 			
 		<h2>Why do we need an Action Agenda? </h2>
 		
-		<p>Our  region is facing drastic changes, and we know Puget Sound is not doing well. We  have updated the Action Agenda to confront these challenges. The Action Agenda includes a vision  of a healthy and resilient Puget Sound and describes what we must achieve,  how we will achieve it, and how we will hold ourselves accountable to ensure we  make progress.</p>
+		<p>Our  region is facing significant changes, and we know Puget Sound is not doing well. We  have updated the Action Agenda to confront these challenges. The Action Agenda includes a vision  of a healthy and resilient Puget Sound and describes what we must achieve,  how we will achieve it, and how we will hold ourselves accountable to ensure we  make progress.</p>
 		<p>The 2022-2026 Action Agenda includes the work of hundreds of  partners to describe strategies and actions needed to recover a healthy and  resilient Puget Sound. These strategies and actions enable us to achieve our <a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45">desired outcomes</a>: </p>
 		<ul class="bullet-size-fix">
 			<li>Protect and restore habitat and habitat-forming  processes </li>
