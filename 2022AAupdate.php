@@ -86,7 +86,20 @@ navSelected = 1;
 			<li><a href="https://pspwa.box.com/shared/static/7svj5x4xtrj6duyccqgo2y0ryekk9zjr.pdf">Download the 2022-2026 Action Agenda Executive Summary</a> </li>
 		</ul>
 		</div>	
-		<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion to the Action  Agenda. The Explorer contains information for each Action Agenda strategy and  will be updated regularly through 2026. </p>
+		<div class="clearfix"></div>
+		<div class="h-divider"></div>
+		<container>
+			<row>
+				<div class="col-sm-6">	
+					<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion to the Action  Agenda. The Explorer contains information for each Action Agenda strategy and  will be updated regularly through 2026. </p>
+				</div>
+				<div class="col-sm-6">
+					<img class="img-responsive" src="images/AA-explorer-thumb.jpg" width="300" height="334" alt=""/>	
+				</div>
+			</row>
+		</container>	
+		<div class="clearfix"></div>
+		<div class="h-divider"></div>
 		<h2>Why do we need an Action Agenda? </h2>
 		<p>Our  region is facing drastic changes, and we know Puget Sound is not doing well. We  have updated the Action Agenda to confront these challenges. The Action Agenda includes a vision  of a healthy and resilient Puget Sound and describes what we must achieve,  how we will achieve it, and how we will hold ourselves accountable to ensure we  make progress.</p>
 		<p>The 2022-2026 Action Agenda includes the work of hundreds of  partners to describe strategies and actions needed to recover a healthy and  resilient Puget Sound. These strategies and actions enable us to achieve our <a href="https://pspwa.box.com/s/lwk71kpaaoo9off1iw5ancj3m7xrcp45">desired outcomes</a>: </p>

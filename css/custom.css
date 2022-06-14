@@ -181,6 +181,13 @@ td p a {
 	line-height: 1.8;
 	font-family: georgia, times, serif;
 }
+.h-divider{
+ margin-top:5px;
+ margin-bottom:5px;
+ height:1px;
+ width:100%;
+ border-top:1px solid gray;
+}
 .white_fill {
 	background-color: #fff;
 }
@@ -189,6 +196,9 @@ td p a {
 }
 .orange-fill {
 		background-color: #EF892E;
+}
+.light-orange-fill {
+	background-color: #fdf3ea;
 }
 .orange-fill-trans {
 	background-color: rgba(247,179,51,0.59);
@@ -568,6 +578,10 @@ td p a {
 	.newsbox-with-img{
 		height: 320px;
 	}
+}
+.img-resize-300 {
+	width:300px; /* you can use % */
+    height: auto;
 }
 
 /*Highlight a piece of content in a blue box!*/
