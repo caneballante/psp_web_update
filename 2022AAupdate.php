@@ -147,7 +147,7 @@ navSelected = 1;
 			
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 06/14/22</p>
+		<p class="last-update">Last updated: 06/15/22</p>
 
         <!-- InstanceEndEditable --> </div>
 		
