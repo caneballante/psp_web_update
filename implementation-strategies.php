@@ -65,20 +65,9 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		    <div class="highlightbox">
-		  		  <h3>UPDATED EARLY 2021 </h3>
-			
-			<p>Strategic Initiative Lead teams and Implementation Strategy Development Leads have developed strategies targeted at nine Vital Signs. A joint effort led by the Washington State Department of Natural Resources and Puget Sound Partnership in 2014 created an eelgrass “recovery strategy,” which brings the total number of strategies to 10. See the latest status for all of the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="_blank">Vital Signs on Puget Sound Info</a>. <br>
-			  <br>
-The Implementation Strategy program  continues work to better connect and “network” the existing strategies and identifying necessary actions needed to achieve the desired outcomes for recovery by asking the question, “Where can we identify fewer, more impactful actions that will lead to multiple positive outcomes across the Sound?” Implementation Strategies are designed and developed in a way that describes a logical chain of outcomes that need to be achieved in order to advance toward Vital Sign targets. This information is central to informing how the Action Agenda can help us collectively achieve the vision of an ecosystem resilient to the impacts of climate change, where economies, farms, and forests can thrive, where human communities achieve a high quality of life, and where a broad coalition of engaged residents are committed to protecting and restoring Puget Sound.<br>
-<br>
-Developing plans, managing information, and tracking progress during implementation of these strategies exemplifies the principles of <a href="science-adaptive-management-framework.php">Adaptive Management</a> that guide these efforts. Future work will focus on taking a whole-ecosystem perspective and transcending narrowly focused or “siloed” work by integrating concepts from across existing plans and other Implementation Strategies. 
-</p>
-			</div>
-            <p>&nbsp;</p>
-			<a name="frequently-asked-questions"></a>
+		  <a name="frequently-asked-questions"></a>
             <h2>FREQUENTLY ASKED QUESTIONS</h2>
-			<ul>
+			<ul class="bullet-size-fix">
 				<li><a href="#what-are-elements-of-an-implementation-strategy">What are the elements of an Implementation Strategy?</a></li>
 				<li><a href="#How-do-Implementation-Strategies-relate-to-the-Action-Agenda">How do Implementation Strategies relate to the Action Agenda?</a></li>
 				<li><a href="#How-do-Implementation-Strategies-differ-from-Strategic-Initiatives">How do Implementation Strategies differ from Strategic Initiatives?</a></li>
@@ -89,7 +78,7 @@ Developing plans, managing information, and tracking progress during implementat
            <a name="what-are-elements-of-an-implementation-strategy"></a>
             <h3> WHAT ARE THE ELEMENTS OF AN IMPLEMENTATION STRATEGY?</h3>
 			<p>Complete Implementation Strategies include the following elements, generated with input from partners and reviewed by technical experts:</p>
-			<ul>
+			<ul class="bullet-size-fix">
 				<li>A <strong>narrative</strong> with supporting appendices (tables, diagrams, references, and other materials) to describe in detail the component pieces of the Strategy</li>
 				<li>A <strong>situation analysis</strong> (and conceptual model) that evaluates and documents assumptions about the recovery context, priority pressures, and the current conditions of the Vital Sign</li>
 				<li>Detailed <strong>results chains</strong>, or theories of change, representing the sequenced steps resulting from strategy implementation and measures to track progress toward recovery </li>
@@ -102,7 +91,7 @@ Developing plans, managing information, and tracking progress during implementat
             <h3> HOW DO IMPLEMENTATION STRATEGIES RELATE TO THE ACTION AGENDA?</h3>
             <p>The Strategies will support decision making and provide guidance on the types of priority actions needed to make progress toward the Vital Sign targets.</p>
 			<p>Priorities for Near Term Actions in the 2016 Action Agenda update were informed by the Strategies for the Estuaries and Shellfish Beds Vital Sign indicators. The 2018 Action Agenda will be informed by the following:</p>
-			<ul>
+			<ul class="bullet-size-fix">
 				<li>Updates to the Strategies for estuaries and shellfish beds</li>
 				<li>New Strategies addressing Floodplains and Land Development and Cover Vital Sign targets</li>
 				<li>Any additional Strategies completed in time for the Action Agenda update planning cycle. These could include Strategies addressing shoreline armoring, Chinook salmon, B-IBI, and toxics in fish. </li>
@@ -115,7 +104,7 @@ Developing plans, managing information, and tracking progress during implementat
 			<a name="How-is-the-order-of-Implementation-Strategies-determined"></a>
 			<h3>HOW IS THE ORDER OF IMPLEMENTATION STRATEGIES DETERMINED?</h3>
 			<p>Sequencing of Strategy development has included the application of criteria selected with feedback from partners, stakeholders, tribal natural resource directors, and the Partnership’s Leadership Council, Science Panel, Salmon Recovery Board, and Ecosystem Coordination Board. The criteria consider the following:</p>
-			<ul>
+			<ul class="bullet-size-fix">
 				<li>Ecosystem benefits</li>
 				<li>Alignment with funding and planning cycles</li>
 				<li>Applicability at the regional and local scale</li>
@@ -135,7 +124,7 @@ Developing plans, managing information, and tracking progress during implementat
 			<hr>
             <p><strong>Implementation Strategies</strong> (Strategies) are plans for accelerating progress toward the 2020 <a href="action_agenda_targets.php">ecosystem recovery targets</a> for the <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a>. The Strategies are developed collaboratively with technical, professional, and policy experts and with local and regional input. An overview of the Strategies is available at the <a href="https://www.eopugetsound.org/magazine/is/implementation-strategies">Encyclopedia of Puget Sound</a> website.</p>
             <p>Each Strategy accomplishes the following</p>
-            <ul>
+            <ul class="bullet-size-fix">
                 <li> Identifies priority near-term (4-6 years) approaches—including strategies, actions, and program and policy changes—for achieving a specific recovery target</li>
                 <li> Identifies priority pressures affecting the associated Vital Sign and key barriers to achieving the recovery target</li>
                 <li>Identifies key uncertainties and associated research and monitoring priorities </li>
@@ -148,7 +137,7 @@ Developing plans, managing information, and tracking progress during implementat
             </ul>
            <p>Implementation Strategies are developed by use of a results-based (adaptive) management framework for Puget Sound recovery. This framework is founded on the Open Standards for the Practice of Conservation. <a href="http://psp.wa.gov/science-adaptive-management-framework.php">LEARN MORE</a>           </p>
            <p>The following Strategies are currently being implemented or are ready for implementation:</p>
-           <ul>
+           <ul class="bullet-size-fix">
                 <li>Estuaries</li>
                 <li>Shellfish beds</li>
                 <li>Floodplains</li>
@@ -169,7 +158,7 @@ Developing plans, managing information, and tracking progress during implementat
 <h2>WHO DEVELOPS IMPLEMENTATION STRATEGIES?</h2>
             <p>The first five Strategies were developed under the leadership of the Partnership with support from the EPA and the Puget Sound Institute (PSI). Following lessons learned from the first Implementation Strategy pilot project, which addressed the recovery target for the Eelgrass Vital Sign, the Partnership convened interdisciplinary teams (IDTs) of partners from 2015-2016 to develop four more Implementation Strategies addressing recovery targets for estuaries, shellfish beds, floodplains, and land development and cover. This Partnership-led team also produced common guidelines for developing new Strategies. </p>
             <p>As the EPA’s <a href="http://psp.wa.gov/NEP-overview.php">Puget Sound National Estuary Program</a> has shifted to relying more heavily on Implementation Strategies to guide investments in Puget Sound recovery, the Habitat, Shellfish, and Stormwater <a href="http://www.psp.wa.gov/strategic-initiatives-leads.php">Strategic Initiative (SI) Leads</a> have taken on greater responsibility for managing Implementation Strategies. SI Lead duties include:</p> 
-            <uL>
+            <ul class="bullet-size-fix">
                 <li>Developing new Strategies</li>
                 <li>Completing existing Strategies</li>
                 <li>Adaptively managing all Strategies within the purview of the SI Leads. </li>
@@ -179,7 +168,7 @@ Developing plans, managing information, and tracking progress during implementat
             <p>Additional information on the Implementation Strategies and Strategic Initiatives can be found here: <a href="https://pugetsoundestuary.wa.gov/" target="_blank">Strategic Initiatives of the Puget Sound National Estuary Program</a>.</p>
             <strong><p>How are Lead Integrating Organizations involved in Strategy development?</p></strong>
             <p>The Local Integrating Organizations (LIOs) provide important content to the Strategies in the following ways:</p>
-            <ul>
+            <ul class="bullet-size-fix">
                 <li>Participate in Strategy development, which is a collaborative undertaking. </li>
                 <li>Provide LIO ecosystem recovery plans. The plans are instrumental in providing watershed-specific context to the developing Strategy.</li>
             </ul>
@@ -188,27 +177,29 @@ Developing plans, managing information, and tracking progress during implementat
 			<a name="implementation-strategy-resources"></a>
             <h2>IMPLEMENTATION STRATEGY RESOURCES AVAILABLE</h2>
             <p>Strategies associated with the Habitat Strategic Initiative:</p>
-            <ul>
+            <ul class="bullet-size-fix">
                 <li><a href="https://pugetsoundestuary.wa.gov/floodplains-and-estuaries/">Floodplains and Estuaries</a></li>
                 <li><a href="https://pugetsoundestuary.wa.gov/land-development-and-cover/">Land development and cover—ecologically important lands</a></li>
                 <li><a href="https://pugetsoundestuary.wa.gov/shoreline-armoring/">Shoreline armoring</a></li>
             </ul>
             <p>Strategies associated with the Shellfish Strategic Initiative:</p>
-            <uL>
-                <li><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Shellfish beds</a></li>
+            <ul class="bullet-size-fix">
+                <li><a href="https://pugetsoundestuary.wa.gov/shellfish-beds/">Shellfish Bed (IS)</a></li>
             </uL>
+			
+			
             <p>Strategies associated with the Stormwater Strategic Initiative:</p>
-            <uL>
-                <li><a href="https://pspwa.box.com/v/BIBI-IS-Public">Freshwater quality—B-IBI</a></li>
-                <li><a href="https://pspwa.box.com/s/q1rueyrajn7kgp7gfkal65k0h87cwcpx">Toxics in fish</a></li>
-				<li><a href="https://pspwa.box.com/s/52t8ecqbtlm7nd5juad6lu8s3uuvh9yk">Marine water quality</a></li>
+            <ul class="bullet-size-fix">
+                <li><a href="https://pugetsoundestuary.wa.gov/freshwater-quality/">B-IBI (IS)</a></li>
+             	<li><a href="https://pugetsoundestuary.wa.gov/toxics-in-fish/">Toxics in Fish (IS)</a></li>
+				<li><a href="https://pugetsoundestuary.wa.gov/marine-water-quality/">Marine Water Quality (IS)</a></li>		
             </uL>
             <p>Strategies managed by the Puget Sound Partnership</p>
-            <uL>
+           	<ul class="bullet-size-fix">
                 <li><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook salmon </a></li>
             </uL>
             <p>Additional information about the Strategies and related Puget Sound recovery efforts is managed and publicly available in <a href="http://www.MiradiShare.org">Miradi Share</a>™, an online database that supports development, monitoring, and sharing of information among conservation practitioners, project and program managers, and funders. Miradi project files for all completed Strategies are available in the links below. A free user account for Miradi Share is required to view projects. Request a free account at <a href="http://www.MiradiShare.org">www.MiradiShare.org</a>, and contact Wessyl Kelly at <a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov</a> for access to Puget Sound content.</p>
-            <ul>
+            <ul class="bullet-size-fix">
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00007/">Estuaries Miradi Project </a></li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2016-00033/">Floodplains Miradi Project</a> </li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2016-00034/">Land Development and Cover Miradi Project</a></li>
@@ -241,18 +232,15 @@ Developing plans, managing information, and tracking progress during implementat
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					
-
-
 				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/floodplains-and-estuaries/">Floodplains and Estuaries (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz">Shellfish Bed (IS)</a></li>
+				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/shellfish-beds/">Shellfish Bed (IS)</a></li>
 				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/land-development-and-cover/">Land Development and Cover (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/yyiswccgjw4ogcqhr06bqsm5jtlm9aah">Eelgrass Recovery pilot (IS)</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook Salmon (IS)</a></li>
 				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/shoreline-armoring/">Shoreline Armoring (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/v/BIBI-IS-Public">B-IBI (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/q1rueyrajn7kgp7gfkal65k0h87cwcpx">Toxics in Fish (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/52t8ecqbtlm7nd5juad6lu8s3uuvh9yk">Marine Water Quality (IS)</a></li>
+				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/freshwater-quality/">B-IBI (IS)</a></li>
+				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/toxics-in-fish/">Toxics in Fish (IS)</a></li>
+				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/marine-water-quality/">Marine Water Quality (IS)</a></li>
 				
 				<div class="right-nav-title margin-20-top ">SEE ALSO</div>
 				
