@@ -158,9 +158,9 @@
 						<p>Planning Manager<br />
 							360.764.0164 | <a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a></p>
 
-						<h5>Mike Johnson</h5>
+						<h5>VACANT</h5>
 						<p>Environmental Planner<br />
-							360.688.4049 | <a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov </a></p>
+							</p>
 						<h5>Wren McNally</h5>
 						<p>Environmental Planner<br />
 						360.870.6292 | <a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a></p>
@@ -309,7 +309,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 05/25/22</p>
+	<p class="last-update">Last updated: 07/6/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
