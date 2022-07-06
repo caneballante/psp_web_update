@@ -84,9 +84,9 @@
 				<tr>
 					<td>Lake Washington/Cedar/<br>
 						Sammamish </td>
-					<td>Jason Mulvihill-Kuntz, King County</td>
-					<td>206-477-4780</td>
-					<td><a class="small-links" href="mailto:jason.mulvihill-kuntz@kingcounty.gov">jason.mulvihill-kuntz@kingcounty.gov</a></td>
+					<td>Carrie Byron, King County</td>
+					<td>206-573-6056</td>
+					<td><a class="small-links" href="mailto:cbyron@kingcounty.gov">cbyron@kingcounty.gov</a></td>
 					<td><a href="https://pspwa.box.com/s/709q96jd1vhoacxdg40mfoibino1h15q">2005 WRIA 8 Chapter</a></td>
 					<td><a href="http://www.govlink.org/watersheds/8/reports/chinook-plan-update.aspx">2017 WRIA 8 Chapter</a></td>
 				</tr>
@@ -108,9 +108,9 @@
 				</tr>
 				<tr>
 					<td>Island </td>
-					<td>Dawn Pucci, Island County</td>
+					<td>Alexandra Plumb, Island County</td>
 					<td>360-678-7916</td>
-					<td><a class="small-links"href="mailto:d.pucci@co.island.wa.us">d.pucci@co.island.wa.us</a></td>
+					<td><a class="small-links"href="mailto:ac.plumb@islandcountywa.gov">ac.plumb@islandcountywa.gov</a></td>
 					<td><a href="https://pspwa.box.com/s/uzowoayni4j5fbn17xocponi2i5tovfi">2005 Island Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
@@ -176,9 +176,9 @@
 				</tr>
 				<tr>
 					<td>South Sound </td>
-					<td>Amy Hatch-Winecka, Thurston Regional Planning Council; Steve Hegarty, Mason County Conservation District</td>
-					<td>Amy: 360-956-7575; Steve: 360-427-9436 x130</td>
-					<td><a class="small-links" href="mailto:hwamy@trpc.org">hwamy@trpc.org</a><br /><a class="small-links" href="mailto:SHagerty@masoncd.org">SHagerty@masoncd.org</a></td>
+					<td>Amy Hatch-Winecka, Thurston Regional Planning Council; Jacob Murray, Mason Conservation District</td>
+					<td>Amy: 360-956-7575; Jacob: 360-427-9436 x155</td>
+					<td><a class="small-links" href="mailto:hwamy@trpc.org">hwamy@trpc.org</a><br /><a class="small-links" href="mailto:jmurray@masoncd.org">jmurray@masoncd.org</a></td>
 					<td><a href="https://pspwa.box.com/s/4yprwhr9ascqdou81awy351ptwformly">2005 So Sound Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
@@ -193,9 +193,9 @@
 				</tr>
 				<tr>
 					<td>West Sound/East Kitsap</td>
-					<td>Kathy Peters, Kitsap County</td>
-					<td>Kathy 360-337-4679</td>
-					<td> <a href="mailto:kpeters@co.kitsap.wa.us">kpeters@co.kitsap.wa.us</a></td>
+					<td>Renee Johnson, Kitsap County</td>
+					<td>360-509-9941</td>
+					<td> <a href="mailto:rkjohnso@co.kitsap.wa.us">rkjohnso@co.kitsap.wa.us</a></td>
 					<td><a href="https://pspwa.box.com/s/z07t2utgtq07o9aknfq4ldj0t4bjedoo">2005 West Sound Chapter</a></td>
 					<td><p><a href="https://westsoundpartners.org/recovery-plans-and-strategies/">2020 East Kitsap DIP Steelhead Recovery Plan</a></p></td>
 					<td>&nbsp;</td>
