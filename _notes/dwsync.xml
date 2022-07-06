@@ -51,20 +51,14 @@
 <file name="puget-sound-partnership.php" server="198.238.33.26/psp_web_update/" local="3529107364" remote="3529107567" Dst="-1" />
 <file name="legislative_updates.php" server="198.238.33.26/psp_web_update/" local="3529107364" remote="3529107539" Dst="-1" />
 <file name="funding.php" server="198.238.33.26/psp_web_update/" local="3529107363" remote="3529107531" Dst="-1" />
-<file name="econet_PSSH.php" server="198.238.33.26/psp_web_update/" local="3529107363" remote="3529107499" Dst="-1" />
-<file name="econet_PSSH_webwidgets.html" server="198.238.33.26/psp_web_update/" local="3528569901" remote="3528570097" Dst="-1" />
 <file name="redirect list.rtf" server="198.238.33.26/psp_web_update/" local="3528666688" remote="3529104789" Dst="-1" />
 <file name="soundchoices_2015.php" server="198.238.33.26/psp_web_update/" local="3529107365" remote="3529107650" Dst="-1" />
 <file name="PSmarinewatersoverview.php" server="198.238.33.26/psp_web_update/" local="3529107364" remote="3529107564" Dst="-1" />
 <file name="qmp.php" server="198.238.33.26/psp_web_update/" local="3529107364" remote="3529107571" Dst="-1" />
 <file name="government-relations.php" server="198.238.33.26/psp_web_update/" local="3529107363" remote="3529107533" Dst="-1" />
-<file name="emp_only.php" server="198.238.33.26/psp_web_update/" local="3529108947" remote="3529108736" Dst="-1" />
 <file name="action_agenda_center.php" server="198.238.33.26" local="3550588153" remote="3551289786" Dst="-1" />
 <file name="contact.php" server="198.238.33.26" local="3549920839" remote="3565284400" Dst="-1" />
 <file name="EB_about.php" server="198.238.33.26" local="3593013408" remote="3593014035" Dst="-1" />
-<file name="econet_PSSH.php" server="198.238.33.26" local="3549920839" remote="3551289902" Dst="-1" />
-<file name="econet_PSSH_webwidgets.html" server="198.238.33.26" local="3528569901" remote="3565274128" Dst="-1" />
-<file name="emp_only.php" server="198.238.33.26" local="3549920839" remote="3551289902" Dst="-1" />
 <file name="employment.php" server="198.238.33.26" local="3592848275" remote="3592848906" Dst="-1" />
 <file name="evaluating-about-sos.php" server="198.238.33.26" local="3549920839" remote="3551289923" Dst="-1" />
 <file name="evaluating-actions-to-recover-puget-sound.php" server="198.238.33.26" local="3564697403" remote="3583177292" Dst="-1" />
@@ -109,9 +103,6 @@
 <file name="action_agenda_center.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164869" Dst="-1" />
 <file name="contact.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164869" Dst="-1" />
 <file name="EB_about.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164873" Dst="-1" />
-<file name="econet_PSSH.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164874" Dst="-1" />
-<file name="econet_PSSH_webwidgets.html" server="198.238.33.26/psp-test/" local="3528569901" remote="3529164874" Dst="-1" />
-<file name="emp_only.php" server="198.238.33.26/psp-test/" local="3529108947" remote="3529164874" Dst="-1" />
 <file name="employment.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164874" Dst="-1" />
 <file name="evaluating-about-sos.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164875" Dst="-1" />
 <file name="evaluating-actions-to-recover-puget-sound.php" server="198.238.33.26/psp-test/" local="3529121137" remote="3529164875" Dst="-1" />
@@ -167,9 +158,6 @@
 <file name="action-agenda-archive.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197579" remote="3600204682" Dst="-1" />
 <file name="action_agenda_center.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197579" remote="3600204684" Dst="-1" />
 <file name="contact.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197579" remote="3600204684" Dst="-1" />
-<file name="econet_PSSH.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197579" remote="3600204684" Dst="-1" />
-<file name="econet_PSSH_webwidgets.html" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3541084920" remote="3565274128" Dst="-1" />
-<file name="emp_only.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204684" Dst="-1" />
 <file name="evaluating-about-sos.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197579" remote="3600204685" Dst="-1" />
 <file name="evaluating-actions-to-recover-puget-sound.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204685" Dst="-1" />
 <file name="evaluating-health-of-puget-sound.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204685" Dst="-1" />
@@ -284,8 +272,6 @@
 <file name="NEP-funding.php" server="198.238.137.41" local="3619616890" remote="3619616880" Dst="-1" />
 <file name="recovery-of-southern-resident-orcas.php" server="198.238.137.41" local="3625071025" remote="3625071000" Dst="-1" />
 <file name="action_agenda_supporting_materials.php" server="198.238.137.41" local="3631205359" remote="3631205340" Dst="-1" />
-<file name="eds01.php" server="198.238.137.41" local="3632167119" remote="3632167080" Dst="-1" />
-<file name="eds01test.php" server="198.238.137.41" local="3632157347" remote="3632157540" Dst="-1" />
 <file name="PSEMP-calendar.php" server="198.238.137.41" local="3632163485" remote="3632163480" Dst="-1" />
 <file name="PSEMP-overview.php" server="198.238.137.41" local="3632163503" remote="3632163480" Dst="-1" />
 <file name="psdoth2019.php" server="198.238.137.41" local="3632242909" remote="3632242860" Dst="-1" />
@@ -404,4 +390,5 @@
 <file name="staff.php" server="198.238.137.44/psp.wa.gov/" local="132996319671619784" remote="132996319200000000" Dst="2" />
 <file name="employment.php" server="198.238.137.44/psp.wa.gov/" local="132992810550566051" remote="132992810400000000" Dst="2" />
 <file name="2022AAupdate.php" server="198.238.137.44/psp.wa.gov/" local="132997802059395267" remote="132997801800000000" Dst="2" />
+<file name="PSEMP-overview.php" server="198.238.137.44/psp.wa.gov/" local="133015935051581511" remote="133015935000000000" Dst="2" />
 </dwsync>

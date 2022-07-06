@@ -120,7 +120,8 @@
 					</tr>
 					<tr>
 						
-						<td colspan="4" class="no-icon"><a href="https://pspwa.app.box.com/notes/834293417461?s=qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a></td>
+						<td colspan="4" class="no-icon"><a href="https://pspwa.app.box.com/notes/834293417461?s=qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a><br>
+						<a href="https://pspwa.box.com/s/ytvmmzdddoelx0y0s6750akzeu47ch00" target="new">Communications Subcommittee</a></td>
 						
 					</tr>
 					
@@ -177,6 +178,7 @@
 					<li role="presentation"> <a href="https://pspwa.box.com/s/3cuzi6b6vl9aod8ezpjms63h3736km8d" target="new">Stormwater Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics Work Group</a></li>
 				    <li role="presentation"> <a href="https://pspwa.box.com/s/qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/ytvmmzdddoelx0y0s6750akzeu47ch00" target="new">Communications Subcommittee</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
