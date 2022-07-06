@@ -120,7 +120,7 @@
 					</tr>
 					<tr>
 						
-						<td colspan="4" class="no-icon"><a href="https://pspwa.app.box.com/notes/834293417461?s=qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a><br>
+						<td colspan="4" class="no-icon"><a href="https://pspwa.app.box.com/notes/834293417461?s=qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a><br><br>
 						<a href="https://pspwa.box.com/s/ytvmmzdddoelx0y0s6750akzeu47ch00" target="new">Communications Subcommittee</a></td>
 						
 					</tr>
