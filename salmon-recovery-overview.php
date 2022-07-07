@@ -81,7 +81,7 @@
 		<p>The <strong>Puget Sound Partnership</strong> is the state agency leading the region's collective effort to restore and protect Puget Sound. The Leadership Council, the governing body of the Puget Sound Partnership, serves as the <a href="http://app.leg.wa.gov/rcw/default.aspx?cite=77.85.090">regional</a> organization for Puget Sound salmon recovery (with the exception of Hood Canal Summer Chum).</p>
 		<p>To advance salmon recovery efforts in Puget Sound, the Partnership:</p>
 		<ul>
-			<li>Collaborates with federal, tribal, state, and local partners to develop regional and local salmon recovery plans as part of the <a href="http://www.psp.wa.gov/202AAupdate.php">Action Agenda for Puget Sound</a>.</li>
+			<li>Collaborates with federal, tribal, state, and local partners to develop regional and local salmon recovery plans as part of the <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda for Puget Sound</a>.</li>
 			<li>Supports lead entities and project sponsors to implement restoration and acquisition projects, advance priority recovery efforts through the Puget Sound Salmon Recovery Council, and manage the <a href="http://www.psp.wa.gov/PSAR.php">Puget Sound Acquisition and Restoration (PSAR) fund</a>.</li>
 			<li>Tracks and reports change using the Common Indicators¨ and <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Vital Signs</a>.</li>
 			<li>Evaluates what's working to restore salmon populations to select the most effective actions for protecting and restoring salmon. </li>
@@ -151,6 +151,8 @@
 		<p>The <a href="https://pspwa.box.com/v/Phase1MAMReports"><strong>Chinook Monitoring &amp; Adaptive Management</strong></a> report is a comprehensive adaptive management and monitoring component developed for the Puget Sound. This project engaged all 16 watershed chapter areas and the Puget Sound Salmon Recovery Council to develop one standardized monitoring and adaptive management framework. This framework is used to assess and respond to the status of Chinook salmon populations and their habitats in the Puget Sound. It also acts as an adaptive management system for Puget Sound Chinook salmon recovery. </p>
 		<p>The <a href="http://www.psp.wa.gov/PSAR.php"><strong>Puget Sound Acquisition and Restoration</strong></a> <strong>(PSAR)</strong> program has contributed funding to projects that restore and protect salmon habitat throughout Puget Sound. To date, PSAR has invested over $200 million in project which have protected more than 9,600 acres, treated more than 2,700 acres of estuary habitat, and restored in-stream and riparian habitat in and along thousands of river miles.</p>
 		<p><a href="https://stateofsalmon.wa.gov/puget-sound/"><strong>State of the Salmon in Watersheds</strong></a><strong> </strong>is prepared by the Governor's Salmon Recovery Office every two years to report on the status of salmon and habitat across the state. </p>
+			
+			<p class="last-update">Last updated: 07/07/22</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
