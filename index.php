@@ -211,20 +211,6 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">JUN <br>
-						8-9</div>
-					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
-						Online<br>
-						</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
 					<div class="newsbox-date">JUL<br>
 						13-14</div>
 					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
@@ -245,7 +231,7 @@
 						Online<br>
 						</a><br>
 					</div>
-					<!--END news content--> 
+					<!--END news content-->  
 				</div>
 			</div>
 			<!--COLUMN END--> 
@@ -256,6 +242,20 @@
 					<div class="newsbox-date">AUG<br>
 						10</div>
 					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+						Online<br>
+						</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">SEP<br>
+						13-14</div>
+					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
 						Online<br>
 						</a><br>
 					</div>
