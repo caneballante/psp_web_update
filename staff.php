@@ -290,9 +290,9 @@
 						<h5>Arjean Travis</h5>
 						<p> Grants, Contracts, and Compliance Manager<br />
 							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
-						<h5>Corina Cambell</h5>
-						<p>Fiscal Program and Contract Coordinator<br />
-							360.742.6989  | <a href="mailto:corina.campbell@psp.wa.gov">corina.cambell@psp.wa.gov </a> </p>
+						<h5>VACANT</h5>
+						<p>Contracts Coordinator<br />
+							</p>
 						<h5>VACANT</h5>
 						<p>Fiscal Analyst<br /></p>
 						<h5>Arnaud Muamba</h5>
