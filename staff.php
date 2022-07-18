@@ -120,6 +120,10 @@
 						 <h5>Beihua Page</h5>
 						<p>Adaptive Systems Lead<br />
 						360.552.8340 | <a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov </a></p><strong></strong>
+			
+						<h5>Laura Vary</h5>
+						<p>Monitoring Data Coordinator and Analyst<br />
+						360.742.6989 | <a href="mailto:laura.vary@psp.wa.gov">laura.vary@psp.wa.gov</a></p>
 
 						<!--BOARDS PROGRAM-->
 						<h3 class="padding-10-top">BOARDS PROGRAM</h3>
