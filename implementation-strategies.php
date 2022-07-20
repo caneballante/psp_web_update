@@ -116,7 +116,7 @@
 			<a name="Will-Implementation-Strategies-be-developed-for-all-Vital-Signs"></a>
 			<h3>WILL IMPLEMENTATION STRATEGIES BE DEVELOPED FOR ALL VITAL SIGNS?</h3>
 			<p>We anticipate that, over time, at least one Strategy, and possibly more, will address each Vital Sign that has a defined recovery target. It remains to be seen whether there will need to be a separate planning effort for each Vital Sign, given that many Vital Signs usually benefit from actions focused on related Vital Signs.</p>
-			<p>Contact: Mike Johnson, Environmental Planner and Implementation Strategy Manager, <a href="mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov</a></p>
+			<p>Contact: Dan Stonington, planning manager, <a href="daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a></p>
 			<a name="How-does-the-Vital-Sign-revision-impact-Implementation-Strategies"></a>
 			<h3>HOW DOES THE VITAL SIGN REVISION IMPACT IMPLEMENTATION STRATEGIES</h3>
 			<p><a href="https://vitalsigns.pugetsoundinfo.wa.gov/About" target="_blank">The Vital Signs site on PS Info</a> has more information about the revisions to the Puget Sound Vital Signs and indicators.</p>
@@ -132,7 +132,7 @@
                 <li>Identifies benefits or trade-offs to human wellbeing</li>
                 <li>Identifies key geographic areas associated with the recovery target</li>
                 <li>Estimates the costs of putting recovery priorities into practice</li>
-                <li>Assesses and combines elements of local and regional recovery efforts, ongoing programs, Near Term Actions from the <a href="http://psp.wa.gov/202AAupdate.php">Puget Sound Action Agenda</a>, and results from the <a href="http://wdfw.wa.gov/grants/ps_marine_nearshore/files/2014_puget_sound_pressures_assessment.pdf">Puget Sound Pressure Assessment</a></li>
+                <li>Assesses and combines elements of local and regional recovery efforts, ongoing programs, Near Term Actions from the <a href="https://www.psp.wa.gov/2022AAupdate.php">Puget Sound Action Agenda</a>, and results from the <a href="http://wdfw.wa.gov/grants/ps_marine_nearshore/files/2014_puget_sound_pressures_assessment.pdf">Puget Sound Pressure Assessment</a></li>
                 <li>Builds on existing knowledge and lessons learned from previous and current recovery efforts</li>
             </ul>
            <p>Implementation Strategies are developed by use of a results-based (adaptive) management framework for Puget Sound recovery. This framework is founded on the Open Standards for the Practice of Conservation. <a href="http://psp.wa.gov/science-adaptive-management-framework.php">LEARN MORE</a>           </p>
@@ -210,7 +210,7 @@
 				<li><a href="https://www.miradishare.org/ux/project/psp-pugetsoundrecover-2019-00053/">Marine Water Quality Miradi Project</a></li>
 				<li><a href="https://www.miradishare.org/ux/project/psp-pugetsoundrecover-2016-00040/">Chinook Salmon Miradi Project</a></li>
            	</ul>
-			<p class="last-update">Last updated: 04/27/21</p>
+			<p class="last-update">Last updated: 07/20/22</p>
 			
 		<!-- InstanceEndEditable --> </div>
 		
@@ -244,7 +244,7 @@
 				
 				<div class="right-nav-title margin-20-top ">SEE ALSO</div>
 				
-				<li role="presentation"><a href="202AAupdate.php">Action Agenda Overview</a></li>
+				<li role="presentation"><a href="2022AAupdate.php">Action Agenda Overview</a></li>
 				<li role="presentation"><a href="2022AAupdate.php">2022-2026 Action Agenda</a></li>
 				<li role="presentation"><a href="science-adaptive-management-framework.php">Adaptive Management Framework</a></li>
 <li role="presentation"><a href="https://eopugetsound.org/magazine/is/implementation-strategies">Implementation Strategies Overview Article (EoPS)</a></li>
@@ -264,8 +264,8 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<p class="right-nav-contact">For general questions about Implementation Strategies: <br />
 					<br>
-					<strong>Mike Johnson</strong>, <br>
-					<a href="mailto:mike.johnson@psp.wa.gov">mike.johnson@psp.wa.gov</a><br>
+					<strong>Dan Stonington</strong>, <br>
+					<a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a><br>
 <br>
 For questions about specific Implementation Strategies, see contact information for each Implementation Strategy.</p>
 				<!-- InstanceEndEditable -->
