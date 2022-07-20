@@ -69,7 +69,7 @@
 			</p>
 			
 			<h2>Chair: Dennis McLerran</h2>
-			<p><strong>Term ends:</strong> June 25, 2022<br />
+			<p><strong>Term ends:</strong> June 25, 2026<br />
 				<strong>Biography:</strong> Dennis McLerran served as the Regional Administrator for the U.S. Environmental Protection Agency’s Region 10, which encompasses Alaska, Idaho, Oregon and Washington, and Pacific Northwest Indian Country from 2010 until January of 2017. He currently serves on the Board of Directors for the Stockholm Environment Institute US, a research affiliate of Tufts University specializing in sustainable development and environmental issues. His previous experiences include serving as executive director of the Puget Sound Clean Air Agency, the regional air quality agency for King, Kitsap, Pierce and Snohomish counties; president of the National Association of Clean Air Agencies; and chairman of the Land Use and Environmental Law Section of the Washington State Bar Association. He holds a law degree from Seattle University School of Law and a bachelor’s degree in urban planning from the University of Washington.</p>
 			<h2>Vice Chair: Will Hall</h2>
 			<p><strong>Term ends:</strong> June 25, 2025<br />
