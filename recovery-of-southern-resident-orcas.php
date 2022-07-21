@@ -54,7 +54,9 @@
 			<div class="col-sm-9 margin-40-left padding-20-top padding-40-right content-column mobile-padding-20-left">
 				<div class="width-300-govdelivery-doth border-thin-blue floatright padding-10-all margin-30-bottom">
 					<h3 class="margin-0-top">HOW TO STAY INVOLVED</h3>
-					<p><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force"><strong>Governor’s Orca Recovery Task Force</strong></a>                    </p>
+					<p><a href="https://www.orca.wa.gov/">Southern Resident Orca Recovery</a></p>
+					<hr>
+					<p><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force">Governor’s Orca Recovery Task Force</a>                    </p>
 					<hr>
 					<p><a href="https://pspwa.box.com/s/zropxfbjldozeloagyd14s2nlmx3ceg4" target="_blank">Be Whale Wise boating guidelines</a></p>
 					<hr>
@@ -97,6 +99,7 @@
 				<p>Catching sight of an orca while riding a ferry or visiting a state park is always a memorable event. During the summer months, Southern Resident orcas are found in the inland marine waters of Washington and southern British Columbia hunting Chinook salmon and other fish species. Healthy orcas represent a healthy ecosystem because they occupy an important niche at the top of the food web. The thrill of seeing an orca in the wild supports a multi-million dollar whale-watching industry, which supports a healthy local economy. </p>
 				<h2>RELATED LINKS</h2>
 				<ul type="disc">
+					<li><strong><a href="https://www.orca.wa.gov/">Southern Resident Orca Recovery</a></strong></li>
 					<li><strong><a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-killer-whale-recovery-and-task-force" target="_blank">Governor&rsquo;s office&nbsp;</a></strong></li>
 					<li><strong><a href="https://ecology.wa.gov/Water-Shorelines/Puget-Sound/Orca-task-force" target="_blank">Department of Ecology</a></strong></li>
 					<li><strong><a href="https://wdfw.wa.gov/conservation/orca/" target="_blank">Department of Fish and Wildlife</a></strong></li>
@@ -108,7 +111,7 @@
 					<li><strong><a href="https://medium.com/puget-sound-partnership/new-rules-for-boating-around-orcas-edd234fcc4d7" target="_blank">Puget Sound Partnership blog: Reviewing the new rules for boating around orcas</a></strong></li>
 					<li><strong><a href="https://parks.state.wa.us">Washington State Parks</a></strong></li>
 				</ul>
-				<p class="last-update">Last updated: 02/08/21</p>
+				<p class="last-update">Last updated: 07/21/22</p>
 			</div>
 
 			
