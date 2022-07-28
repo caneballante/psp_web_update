@@ -78,7 +78,7 @@
 				<li><a href="http://hccc.wa.gov" target="new">Hood Canal Coordinating Council </a></li>
 				<li><a href="https://westsoundpartners.org/" target="new">West Sound Partners for Ecosystem Recovery</a></li>
 				<li><a href="http://wria1project.whatcomcounty.org/" target="new">Whatcom LIO</a></li>
-				<li><a href="http://www.straiternlio.org/">Strait Ecosystem Recovery Network </a></li>
+				<li><a href="http://www.straitern.org/">Strait Ecosystem Recovery Network </a></li>
 				<li><a href="http://www.islandcountywa.gov/Health/DNR/ILIO/Pages/Home.aspx" target="new">Island LIO</a></li>
 				<li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization" target="new">Snohomish/Stillaguamish LIO </a></li>
 				<li><a href="https://www.piercecountywa.gov/6341/PWR-LIO" target="new">Puyallup-White River LIO (PWR LIO)</a></li>
