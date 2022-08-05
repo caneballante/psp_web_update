@@ -285,9 +285,9 @@
 						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
 						<!--FISCAL PROGRAM-->
 						<h3 class="padding-10-top">FISCAL PROGRAM</h3>
-						<h5>Diamatris Winston</h5>
+						<h5>VACANT</h5>
 						<p>Chief Financial Officer<br />
-							360.867.8234 | <a href="mailto:diamatris.winston@psp.wa.gov">diamatris.winston@psp.wa.gov </a></p>
+							</p>
 						<h5>Sheridan Gatewood</h5>
 						<p>	Accounting and Budget Program Manager<br />
 							360.706.4955 | <a href="mailto:sheridan.gatewood@psp.wa.gov">sheridan.gatewood@psp.wa.gov</a></p>
@@ -313,7 +313,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 07/18/22</p>
+	<p class="last-update">Last updated: 08/5/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
