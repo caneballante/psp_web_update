@@ -73,9 +73,7 @@
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3644342/special-assistant-for-federal-affairs-exempt">Special Assistant for Federal Affairs (exempt)</a></p>
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3643694/environmental-planner-exempt">Environmental Planner (exempt)</a></p>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3613531/chief-financial-officer-exempt">Chief Financial Officer (exempt)</a></p>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3618561/salmon-monitoring-data-steward-exempt">Salmon Monitoring Data Steward (exempt)</a></p>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3607124/salmon-policy-advisor-exempt">Salmon Policy Advisor (exempt)</a></p>      
+			      
 				
 			
 		<h3>We are an Employer of Choice</h3>
@@ -91,7 +89,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 7/21/22</p>
+		<p class="last-update">Last updated: 8/8/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
