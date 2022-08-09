@@ -1,6 +1,10 @@
 {
 	"news-releases": 
     {	 
+		"release123": {
+			"date": "June 6, 2022",
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/31a8406'>Puget Sound Partnership Leadership Council to decide on final 2022-2026 Action Agenda</a>"
+		},
 		"release122": {
 			"date": "May 24, 2022",
 			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/31906c4'>Puget Sound Salmon Recovery Council to finalize their recommendation to the Leadership Council for adopting the 2022-2026 Action Agenda</a>"
