@@ -80,12 +80,17 @@ navSelected = 1;
 		<h2>What is the Action Agenda? </h2>
 			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt=""/>
 		<p>The 2022-2026 Action Agenda charts the course for Puget Sound recovery as our community's shared plan for advancing protection and restoration efforts across the region.</p>
-		<ul class="bullet-size-fix">
-			<li><a href="https://pspwa.box.com/shared/static/30dh5a9bmlhankz516d7vm443dgqm70t.pdf">Take a look at the Action Agenda brochure for an overview</a>
-				<ul class="bullet-size-fix">
-					<li><p class="sublist"><a href="https://pspwa.box.com/s/7lwvn8letqiyt342o1y00ltq02mnk5v9">Lea el folleto de la Agenda de Acción en español</a></p></li>
-				</ul>
-			</li>
+		<p>Take a look at the Action Agenda brochure for an overview:</p>
+			<ul class="bullet-size-fix">
+			<li><a href="https://pspwa.box.com/shared/static/30dh5a9bmlhankz516d7vm443dgqm70t.pdf">Read the Action Agenda brochure</a></li>
+			<li><a href="https://pspwa.box.com/s/7lwvn8letqiyt342o1y00ltq02mnk5v9">Lea el folleto de la Agenda de Acción en español</a></li>
+			<li><a href="https://pspwa.box.com/s/ri8a5rhkpkm5oej7jx3cx0i7c2qjhbuj">Basahin ang brosyur ng Action Agenda sa Tagalog</a></li>
+			<li><a href="https://pspwa.box.com/s/tk022vggf87myu23slwdwxyzaloo8z3p">Đọc tập quảng cáo về Chương Trình Hành Động bằng Tiếng Việt</a></li>
+			<li><a href="https://pspwa.box.com/s/moe8onysucqeayu2aghh582r8ap527n6">Ознакомьтесь с брошюрой Action Agenda ("План действий") на русском языке</a></li>
+			<li><a href="https://pspwa.box.com/s/j3iolontqjx1m4gpja78dprg3isvubmw">請閱讀繁體中文版行動議程手冊</a></li>
+			<li><a href="https://pspwa.box.com/s/zqzl3t0y68imthqclpuy4iavphulkbr2">请阅读繁体中文版行动议程手册</a></li>
+			</ul><br>
+			<ul class="bullet-size-fix">
 			<li><a href="https://pspwa.box.com/shared/static/7svj5x4xtrj6duyccqgo2y0ryekk9zjr.pdf">Download the 2022-2026 Action Agenda Executive Summary</a> </li>
 			<li><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf">Download the full 2022-2026 Action Agenda PDF</a></li>
 			
