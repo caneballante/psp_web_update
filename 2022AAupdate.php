@@ -84,18 +84,18 @@ navSelected = 1;
 			<p>Take a look at the Action Agenda brochure for an overview:</p>
 			<ul class="bullet-size-fix">
 			<li><a href="https://pspwa.box.com/shared/static/30dh5a9bmlhankz516d7vm443dgqm70t.pdf">Read the Action Agenda brochure</a></li>
-			<li><a href="https://pspwa.box.com/s/7lwvn8letqiyt342o1y00ltq02mnk5v9">Lea el folleto de la Agenda de Acción en español</a></li>
-			<li><a href="https://pspwa.box.com/s/ri8a5rhkpkm5oej7jx3cx0i7c2qjhbuj">Basahin ang brosyur ng Action Agenda sa Tagalog</a></li>
-			<li><a href="https://pspwa.box.com/s/tk022vggf87myu23slwdwxyzaloo8z3p">Đọc tập quảng cáo v&#7873; Chương Trình Hành Động b&#7857;ng Ti&#7871;ng Việt</a></li>
-			<li><a href="https://pspwa.box.com/s/moe8onysucqeayu2aghh582r8ap527n6">Ознакомьтесь с брошюрой Action Agenda ("План действий") на русском языке</a></li>
-			<li><a href="https://pspwa.box.com/s/j3iolontqjx1m4gpja78dprg3isvubmw">請閱讀繁體中文版行動議程手冊</a></li>
-			<li><a href="https://pspwa.box.com/s/zqzl3t0y68imthqclpuy4iavphulkbr2">请阅读繁体中文版行动议程手册</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/7lwvn8letqiyt342o1y00ltq02mnk5v9.pdf">Lea el folleto de la Agenda de Acción en español</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/ri8a5rhkpkm5oej7jx3cx0i7c2qjhbuj.pdf">Basahin ang brosyur ng Action Agenda sa Tagalog</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/tk022vggf87myu23slwdwxyzaloo8z3p.pdf">Đọc tập quảng cáo v&#7873; Chương Trình Hành Động b&#7857;ng Ti&#7871;ng Việt</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/moe8onysucqeayu2aghh582r8ap527n6.pdf">Ознакомьтесь с брошюрой Action Agenda ("План действий") на русском языке</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/j3iolontqjx1m4gpja78dprg3isvubmw.pdf">請閱讀繁體中文版行動議程手冊</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/zqzl3t0y68imthqclpuy4iavphulkbr2.pdf">请阅读繁体中文版行动议程手册</a></li>
 			</ul><br>
 			<p>2022-2026 Action Agenda Executive Summary and full 2022-2026 Action Agenda:</p>
 			<ul class="bullet-size-fix">
 			<li><a href="https://pspwa.box.com/shared/static/7svj5x4xtrj6duyccqgo2y0ryekk9zjr.pdf">Download the 2022-2026 Action Agenda Executive Summary</a> </li>
 			<li><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf">Download the full 2022-2026 Action Agenda PDF</a></li>
-			<li><a href="https://pspwa.box.com/s/mejeolwllwccjj3rmc8kiduia604vxos">Lea la Agenda de Acción 2022-2026 en español</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/mejeolwllwccjj3rmc8kiduia604vxos.pdf">Lea la Agenda de Acción 2022-2026 en español</a></li>
 			
 			</ul>
 			</div>
