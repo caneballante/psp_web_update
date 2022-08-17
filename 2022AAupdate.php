@@ -81,7 +81,11 @@ navSelected = 1;
 			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt=""/>
 		<p>The 2022-2026 Action Agenda charts the course for Puget Sound recovery as our community's shared plan for advancing protection and restoration efforts across the region.</p>
 		<ul class="bullet-size-fix">
-			<li><a href="https://pspwa.box.com/shared/static/30dh5a9bmlhankz516d7vm443dgqm70t.pdf">Take a look at the Action Agenda brochure for an overview</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/30dh5a9bmlhankz516d7vm443dgqm70t.pdf">Take a look at the Action Agenda brochure for an overview</a>
+				<ul class="bullet-size-fix">
+					<li><p class="sublist"><a href="https://pspwa.box.com/s/7lwvn8letqiyt342o1y00ltq02mnk5v9">Lea el folleto de la Agenda de Acción en español</a></p></li>
+				</ul>
+			</li>
 			<li><a href="https://pspwa.box.com/shared/static/7svj5x4xtrj6duyccqgo2y0ryekk9zjr.pdf">Download the 2022-2026 Action Agenda Executive Summary</a> </li>
 			<li><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf">Download the full 2022-2026 Action Agenda PDF</a></li>
 			
