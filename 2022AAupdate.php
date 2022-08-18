@@ -93,10 +93,9 @@ navSelected = 1;
 			</ul><br>
 			<p>2022-2026 Action Agenda Executive Summary and full 2022-2026 Action Agenda:</p>
 			<ul class="bullet-size-fix">
-			<li><a href="https://pspwa.box.com/shared/static/7svj5x4xtrj6duyccqgo2y0ryekk9zjr.pdf">Download the 2022-2026 Action Agenda Executive Summary</a> </li>
-			<li><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf">Download the full 2022-2026 Action Agenda PDF</a></li>
-			
-			
+				<li><a href="https://pspwa.box.com/shared/static/7svj5x4xtrj6duyccqgo2y0ryekk9zjr.pdf">Download the 2022-2026 Action Agenda Executive Summary</a> </li>
+				<li><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf">Download the full 2022-2026 Action Agenda PDF</a></li>
+				<li><a href="https://pspwa.box.com/shared/static/mejeolwllwccjj3rmc8kiduia604vxos.pdf">Lea la Agenda de Acción 2022-2026 en español</a></li>
 			</ul>
 			</div>
 		<div class="clearfix"></div>
