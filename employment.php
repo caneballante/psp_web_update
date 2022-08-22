@@ -71,8 +71,8 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3644342/special-assistant-for-federal-affairs-exempt">Special Assistant for Federal Affairs (exempt)</a></p>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3643694/environmental-planner-exempt">Environmental Planner (exempt)</a></p>
+			
+			
 			      
 				
 			
