@@ -65,7 +65,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Leadership Council is the governing body of the Puget Sound Partnership. Its seven members are leading citizens chosen from around the Sound. Members are appointed by the Governor to serve four-year terms, but may continue to serve until being officially reappointed or replaced by a new member. Jay Manning currently chairs the Leadership Council.<br>
+			<p>The Leadership Council is the governing body of the Puget Sound Partnership. Its seven members are leading citizens chosen from around the Sound. Members are appointed by the Governor to serve four-year terms, but may continue to serve until being officially reappointed or replaced by a new member. Dennis McLerran currently chairs the Leadership Council.<br>
 			</p>
 			
 			<h2>Chair: Dennis McLerran</h2>
@@ -77,9 +77,13 @@
 			<p>Hall is an expert at local government planning and land use. He has served on the Shoreline City Council for 11 years, including three as mayor. He has been active on many boards, including The Coastal Society, the Society for Ecological Restoration, the Association of Washington Cities, the Southern Resident Orca Task Force, and the Puget Sound Partnership Ecosystem Coordination Board, which he chaired for four years.
 			Hall has an undergraduate degree in physics from the University of Chicago and a Master of Marine Affairs degree from the University of Washington School of Marine and Environmental Affairs. Hall and his wife, Laurie, grew up near Puget Sound and enjoy many outdoor activities including hiking, biking, skiing, and scuba diving.
 			</p>
-			<h2>Jay Manning</h2>
-			<p><strong>Term ends: </strong>June 25, 2022<br />
-				<strong>Biography:</strong> Jay has been working on restoring Puget Sound for most of his career.  Jay, currently a partner with Cascadia Law Group, spent many years working for the State of Washington, first in the Ecology Division of the Washington Attorney General’s Office and later as Director of the Department of Ecology. During his time at Ecology, Jay made Puget Sound restoration one of the agency’s highest priorities. Gov. Gregoire also appointed Jay to co-chair, with Bill Ruckelshause and Billy Frank Jr., of the original Puget Sound Partnership – the stakeholder group that recommended the creation of the Partnership as a state agency. Later, as Chief of Staff for Gov. Gregoire’s administration, Jay worked hard to maintain the administration’s focus on Puget Sound as the state went through the recession.  Jay has a degree in political science from Eastern Washington University and earned his law degree from the University of Oregon. </p>
+			
+			<h2>Member: Victoria Christiansen</h2>
+			<p><strong>Term ends:</strong>June 25, 2026<br>
+			<strong>Biography:</strong>Christiansen retired in 2021 as chief of the U.S. Department of Agriculture’s Forest Service, a role in which she had served since 2018. As chief of the Forest Service, Christiansen led a workforce of about 40,000 employees who worked to sustain the health, diversity, and productivity of the nation’s forests and grasslands for the benefit of current and future generations. As Forest Service chief, she led agency efforts to improve the conditions of America’s forests and grasslands by modernizing how the Forest Service delivers landscape conservation through shared stewardship with local, state, and national partners and tribes. Christiansen joined the Forest Service in 2010 as the deputy director of fire and aviation management. Prior to serving as chief, she was deputy chief for state and private forestry overseeing Forest Service wildland fire and working with partners to sustain the health and productivity of non-federal forest lands. Prior to joining the Forest Service, she was the Arizona State forester and director of the Arizona Division of Forestry, responsible for the protection of 22 million acres of state and private lands.</p>
+
+			<p>Christiansen also served as the Washington State forester, where she had a 26-year career with Washington State Department of Natural Resources (DNR). She started as a wildland firefighter while still in college. In her first permanent position as a forester, she was responsible for the reforestation of state trust lands in the Mt. Saint Helens' blast zone. In all, she was a wildland firefighter and fire manager for 40 years. She has numerous credentials in the wildland fire program with a special expertise in fire line explosives. Christiansen has a Bachelor of Science in forest management from the University of Washington (cum laude 1983).</p>
+		
 			<h2>Member: Kate Dean</h2>
 			<p><strong>Term ends: </strong>June 25, 2025<br />
 			<strong>Biography:</strong> Dean is a Jefferson County Commissioner for District 1, Port Townsend, a position she was elected to in 2017, and has served as a member of the Partnership's Ecosystem Coordination Board. She moved to Jefferson County in 1999 and spent 10 years farming and working to grow the local food economy through businesses she co-founded, including FinnRiver Farm and Mt. Townsend Creamery. Her experience as an entrepreneur is critical to her understanding of the local economy and community.</p>
@@ -94,17 +98,6 @@
 			<p><strong>Term ends:</strong> June 25, 2023<br />
 				<strong>Biography:</strong> Deborah Jensen has extensive experience as an executive leading conservation and scientific organizations in Washington state and internationally. Named by Seattle Business Magazine as a recipient of the 2015 Executive Excellence Award and by the Puget Sound Business Journal as a recipient of the 2009 Women of Influence Award, Ms. Jensen currently serves as principal for Jensen and Associates. The firm offers consulting services on business and conservation strategy, organizational change, and board development. She is also a Distinguished Practitioner in Residence at the University of Washington, College of the Environment. From 2002 to 2015, Ms. Jensen shepherded the 100-year-old Woodland Park Zoo in its transition to nonprofit management and built strong education and conservation programs. Before moving to the Northwest, she served as Vice President of The Nature Conservancy&rsquo;s Conservation Science Division, at its world headquarters, in Arlington, Virginia. She holds masters and doctorate degrees in Energy and Resources and an undergraduate degree in Botany from the University of California Berkeley. Ms. Jensen&rsquo;s community involvement includes serving as current Vice-Chair of the Washington Wildlife and Recreation Coalition. She has also served as a member of the Seattle Community Development Roundtable; member of the Board of Directors, Association of Zoos and Aquariums; and as President and Board member, Society for Conservation Biology. </p>
 			
-			<h2>Member: Toby Murray </h2>
-			<p><strong>Term ends:</strong> June 25, 2022<br />
-				<strong>Biography:</strong> Born and raised in Lakewood, Toby graduated from Charles Wright Academy in 1971, and in 1975 graduated cum laude from Claremont McKenna College in Southern California.  He also attended the Harvard Business School Program for Management Development in 1983.
- 
-              <p> Toby began his career with Murray Pacific Corporation in 1976 when he started as a Timber Cruiser/Log Buyer for the company.  From 1977-99 he worked as a Tree Farm Forester, and in 1980-82 he became Assistant General Manager of the Timber Products Division.  Toby served as Vice President from 1983-2000.  During this time major career highlights included the development of a Habitat Conservation Plan for the Northern Spotted Owl (1993), and the nation’s first Multi-Species Habitat Conservation Plan (1995).  Toby recently retired from his position as President/CEO of Murray Pacific Corporation.</p>
- 
-              <p> Active in the community, Toby serves or has served on the following boards:  Murray Pacific Corporation, Charles Wright Academy, Washington Forest Protection Association, Tacoma-Pierce County Chamber, Tacoma Goodwill Industries, Goodwill Heritage Foundation, and the Emergency Food Network for Pierce County.
- 
-               Toby and his wife, Laurie, reside in the City of Lakewood and have two children, L.T. and Kelsey. </p></p><br>
-		
-		<p><sup>*</sup> Pending formal reappointment by the Governor's Office of Boards and Commissions</p>
 		
 		<p class="last-update">Last updated: 02/25/2022</p>
 			
