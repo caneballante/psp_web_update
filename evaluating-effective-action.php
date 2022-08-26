@@ -85,7 +85,7 @@
 				</ol>
 			</p>
 		
-			<p><a href="effective-action-summaries.php">Effective action fact sheets and summaries</a></p>
+			<p><a href="effective-action-summaries.php">See effective action fact sheets and summaries for more information</a></p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
