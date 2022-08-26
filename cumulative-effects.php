@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Effective Actions in Puget Sound</title>
+<title>Puget Sound Partnership - Cumulative Effects of Restoration and Protection Actions in Puget Sound</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>EVALUATING RECOVERY EFFECTIVENESS</h1>
+			<h1>Assessing cumulative effects of restoration and protection actions in Puget Sound</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -66,13 +66,11 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-			<p>Decades of hard work and planning with recovery partners around the Puget Sound has led to the coordinated implementation of hundreds, if not thousands, of habitat recovery and protection actions over various geographic scales and time frames. We are working with the recovery community around the region to access and distill information about what’s been effective in restoring Puget Sound and how to improve our work as we look to the future. </p>
+			<p>The cumulative effects of recovery actions and how well they contribute to ecosystem recovery are not well understood. Puget Sound Partnership is initiating an evaluation of the cumulative effects to inform the understanding ecosystem processes related to recovery and clarify what interventions are most effective in accomplishing our collective recovery targets. </p>
 			
-			<p>Evaluations of effectiveness can help answer questions such as: <em>What actions are most effective? What did we learn from our past efforts? How do we prioritize our work?</em></p>
+			<p><strong><em>The cumulative effects of nearshore habitat recovery actions on juvenile salmonids in the Whidbey basin.</em></strong> An evidence-based evaluation of cumulative effects to comprehensively evaluate salmon recovery efforts implemented over the past two decades in Whidbey basin nearshore habitats is underway. This study will evaluate the cumulative effects of nearshore habitat restoration in the Whidbey basin aimed at improving critical habitat for juvenile Chinook salmon. A collaborative, multi-institutional research team has been convened to develop and implement this study over the next 2-3 years.</p>
 			
-			<p>By directly connecting effectiveness data to recovery actions, we can highlight our successes, improve our how make decisions, prioritize actions, and provide justification for policy and legislative decisions. </p>
-			
-			<h2>PUGET SOUND PARTNERSHIP ROLE IN EFFECTIVENESS ASSESSEMENTS</h2>
+			<h2>PRODUCTS AND INFORMATION ABOUT THIS WORK</h2>
 			<p>The Puget Sound Partnership continues to build a base of scientific knowledge on ecosystem recovery and the effectiveness of recovery strategies and actions to provide relevant policy information for decision-makers. This function helps to ensure the accountability of partner actions, communicates the effectiveness of actions and investments in achieving anticipated outcomes, and promotes the consistent and adequate evaluation of recovery progress. </p>
 			
 			<p>A variety of efforts are underway to evaluate the effectiveness and progress of recovery actions to incorporate learning in decision-making at both regional and local scales.</p>
