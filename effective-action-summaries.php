@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>effectiveness monitoring</h1>
+			<h1>Effective Action Summaries</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -65,8 +65,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">What’s working to restore Puget Sound?</h2>
-			<p>Many restoration and management actions have been effective in restoring the Puget Sound ecosystem, but scientific results are often reported in technical documents that can be hard to find. We are working with the Puget Sound Ecosystem Monitoring Community to access and distill information about what&rsquo;s working to restore Puget Sound for our partners and decision-makers. By directly connecting effectiveness data to recovery actions, we can highlight successes and improve our strategies by funding actions that are the most effective. Fact Sheets and Background Summaries support implementation of the Action Agenda to accelerate the recovery of Puget Sound.&nbsp;</p>
+			
 			
 			<h2>FACT SHEETS AND NARRATIVE SUMMARIES</h2>
 				<h3>STRATEGIC INITIATIVE: RESTORE AND RE-OPEN SHELLFISH BEDS</h3>
