@@ -71,19 +71,19 @@
 			<p><strong><em>The cumulative effects of nearshore habitat recovery actions on juvenile salmonids in the Whidbey basin.</em></strong> An evidence-based evaluation of cumulative effects to comprehensively evaluate salmon recovery efforts implemented over the past two decades in Whidbey basin nearshore habitats is underway. This study will evaluate the cumulative effects of nearshore habitat restoration in the Whidbey basin aimed at improving critical habitat for juvenile Chinook salmon. A collaborative, multi-institutional research team has been convened to develop and implement this study over the next 2-3 years.</p>
 			
 			<h2>PRODUCTS AND INFORMATION ABOUT THIS WORK</h2>
-			<p>The Puget Sound Partnership continues to build a base of scientific knowledge on ecosystem recovery and the effectiveness of recovery strategies and actions to provide relevant policy information for decision-makers. This function helps to ensure the accountability of partner actions, communicates the effectiveness of actions and investments in achieving anticipated outcomes, and promotes the consistent and adequate evaluation of recovery progress. </p>
+			<p>The cumulative effects of nearshore habitat recovery actions on juvenile salmonids in the Whidbey basin: Study development report. This report details an evidence-based approach to evaluate cumulative effects produced from salmon habitat restoration at a greater basin scale for application to salmon recovery efforts in Puget Sound. This study will continue development and implementation in 2023-2025.</p>
 			
-			<p>A variety of efforts are underway to evaluate the effectiveness and progress of recovery actions to incorporate learning in decision-making at both regional and local scales.</p>
+			<p>Webinar and presentation on the Whidbey basin evaluation of cumulative effects. This webinar presents the recent progress on the development of a cumulative effects evaluation in Whidbey basin and provides an overview of study implementation to occur over the next two to three years.</p>
 			
-			<p>These efforts aim to: 
-				<ol class="bullet-size-fix">
-					<li>understand whether project-scale activities were implemented in alignment with the expectations of project plans and designs (implementation monitoring); </li>
-					<li>evaluate whether the immediate goals and objectives of recovery actions are contributing toward ecosystem recovery goals and targets; and </li>
-					<li>assess the impact of regional plans and programs on regional recovery goals and targets, or to test the assumptions, standards, and guidelines used in the development of regional plans or programs.</li>
-				</ol>
-			</p>
+			<p><a href="https://pspwa.box.com/s/ds56wfk1f1d1290355x6s8kf3woh8mx9" target="new">Evaluating the cumulative effects of Puget Sound recovery</a>. Presentation to the Puget Sound Science Panel, December 2021, introducing cumulative effects and provides an overview of a Puget Sound case study.</p>
+			
+			<p><a href="https://pspwa.box.com/s/njksw6c39ablihlgrer8632mw6mbofeg" target="new">Cumulative Effects of Puget Sound Recovery Actions: Methodology and Design for a Case Study of Juvenile Salmonids and Nearshore Habitats in Whidbey Basin</a>. Preliminary design proposal for a case study applying cumulative effects evaluation to restoration of nearshore habitats in the Whidbey basin.</p>
+			
+			<p><a href="https://pspwa.box.com/s/mh49foupbbrf0grx8pudz81ncdh9l8t2" target="new">Guidance for Evaluation of Cumulative Effects of Puget Sound Recovery Actions</a>. General guidance document for practical application of a cumulative effects evaluation methodology in Puget Sound.</p>
 		
-			<p><a href="effective-action-summaries.php">See effective action fact sheets and summaries for more information</a></p>
+			<p><strong>Stay connected:</strong> <a href="https://public.govdelivery.com/accounts/WAPSP/signup/34165" target="new">Subscribe here</a> for news and announcements on the Whidbey basin cumulative effects study.</p>
+			
+			
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
