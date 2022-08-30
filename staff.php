@@ -251,9 +251,7 @@
 						<h5>Annelise Del Rio</h5>
 						<p>	Monitoring Performance Analyst/Salmon Scientist <br>
 							360.584.5306 | <a href="mailto:annelise.delrio@psp.wa.gov">annelise.delrio@psp.wa.gov</a></p>
-						<h5>Corinne Noufi</h5>
-						<p>Sea Grant Hershman Fellow <br>
-							360.789.3324 | <a href="mailto:corinne.noufi@psp.wa.gov">corinne.noufi@psp.wa.gov</a></p>
+						
 
 						<!--INTERNAL OPERATIONS-->
 						<h1 class="padding-20-top padding-20-bottom">INTERNAL OPERATIONS DIVISION</h1>
@@ -314,7 +312,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 08/12/22</p>
+	<p class="last-update">Last updated: 08/30/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
