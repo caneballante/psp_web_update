@@ -286,7 +286,7 @@
 						<h5>VACANT</h5>
 						<p>Chief Financial Officer<br />
 							</p>
-						<h5>Sheridan Gatewood</h5>
+						<h5>Sheridan Tabor</h5>
 						<p>	Accounting and Budget Program Manager<br />
 							360.706.4955 | <a href="mailto:sheridan.gatewood@psp.wa.gov">sheridan.gatewood@psp.wa.gov</a></p>
 						<h5>Arjean Travis</h5>
