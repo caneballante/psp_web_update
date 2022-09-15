@@ -66,32 +66,16 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="floatright"><a class="no-icon text-right" href="https://www.stateofthesound.wa.gov"><img class="img-responsive" src="images/2019sos.jpg" width="350" height="617" alt=""/></a><br><p class="text-right"><a href="https://www.stateofthesound.wa.gov">Visit the State of the Sound website</a></p
-			
-				
-			<p class="text-right"><a href="https://pspwa.box.com/shared/static/q62jdm3rgal6osj45ddae17n89p69ae1.pdf">Download 2019 State of the Sound Brochure (PDF)</a></p>
-				<p class="text-right"><a href="#">Download 2019 State of the Sound report</a></p>
-			
-			
-		</div>
+			<div class="floatright"><a class="no-icon text-right" href="https://www.stateofthesound.wa.gov"><img class="img-responsive" src="images/20121sos.jpg" width="350" height="617" alt=""/></a><br><p class="text-right">&nbsp;</p></div>
         <h2 class="margin-0-top">About the State of the Sound</h2>
             <p>As a national and tribal treasure, Puget Sound is worthy of our every effort for protection and restoration. Such effort requires the coordination and collaboration of hundreds of partners in planning, prioritizing, and undertaking the actions needed to recover and sustain Puget Sound.</p>
             <p>The biennial State of the Sound report is intended to help our partners and decision makers better understand (1) how well the recovery effort is going, (2) ecosystem health and progress toward Puget Sound recovery goals, and (3) the role each partner can play in achieving Puget Sound recovery. It also responds specifically to state statute (RCW 90.71.370(3)).</p>
             <p>There are two parts to the State of the Sound:</p>
             <p><strong><a href="https://www.stateofthesound.wa.gov">State of the Sound Website</a></strong><br>
         The online version  presents a Call to Action for recovery partners, an overview of ecosystem conditions, the status of the recovery effort, three stories of successful Puget Sound recovery projects, and messages from the Partnership&rsquo;s Executive Director, Leadership Council and Science Panel.</p>
-            <p><strong><a href="https://pspwa.box.com/shared/static/5epess0s133sinenwmq3w0ee8uk69xky.pdf">State of the Sound Report (PDF)</a><br>
-        </strong>Required by state law, the State of the Sound Report includes most of the content included in the website and additional information on the status of the Puget Sound recovery effort, including detailed information on funding, Near Term Actions, ongoing programs, legislative and policy developments and a summary of citizen concerns.</p>
-            <h2 class="padding-20-top">More Resources</h2>
-            <p><a href="https://pspwa.box.com/shared/static/q62jdm3rgal6osj45ddae17n89p69ae1.pdf"><strong>Download the State of the Sound Brochure (PDF)</strong></a><br>
-              Printed copies are available by contacting <a href="mailto:info@psp.wa.gov">info@psp.wa.gov</a></p>
-            <p><strong><a href="https://pspwa.box.com/shared/static/5epess0s133sinenwmq3w0ee8uk69xky.pdf">Download the State of the Sound Report</a></strong></p>
-            <p><a href="https://pspwa.box.com/shared/static/jys4snt711os4o8sgewpup7lkawl5lop.pptx"><strong>Download the State of the Sound PowerPoint</strong></a></p>
-            <p><a href="https://www.psp.wa.gov/puget-sound-partnership.php"><strong>Learn more about the Puget Sound Partnership</strong></a></p>
-            <p><a href="https://vitalsigns.pugetsoundinfo.wa.gov"><strong>Learn more about the Puget Sound Vital Signs</strong></a></p>
-            <p><strong><a href="https://actionagenda.pugetsoundinfo.wa.gov">Learn more about Near Term Actions</a></strong></p>
-            <p><strong><a href="https://www.psp.wa.gov/sos-archive.php">View the archive of past State of the Sound reports</a></strong></p>
-        <p>&nbsp;</p>
+            <p><strong><a href="https://pspwa.box.com/shared/static/5epess0s133sinenwmq3w0ee8uk69xky.pdfhttps://pspwa.box.com/shared/static/8axpa1vumenqgrk7lxk4rlwcmprxz03l.pdf">State of the Sound Report (PDF)</a><br>
+        </strong>Required by state law, the State of the Sound Report includes most of the content included in the website and additional information on the status of the Puget Sound recovery effort, including detailed information on funding, Near Term Actions, ongoing programs, legislative and policy developments and a summary of citizen concerns.        </p>
+            <p>&nbsp;</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -100,7 +84,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="vitalsigns/index.php" target="_blank">Vital Signs</a></li>
-				<li role="presentation"> <a href="202AAupdate.php" target="_blank">Action Agenda</a></li>
+				<li role="presentation"> <a href="2022AAupdate.php" target="_blank">Action Agenda</a></li>
 				<li role="presentation"> <a href="evaluating-about-report-card.php" target="_blank">Report Card</a></li>
 				<li role="presentation"> <a href="evaluating-effective-action.php" target="_blank">Effectiveness</a></li>
 				<!-- InstanceEndEditable -->

@@ -46,7 +46,7 @@
 <header class="overview-page-image-style overview-page-image113"></header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-		<div class="col-sm-12 orange-fill align-center overview-logo-banner"><img src="images/2017-SOS-banner-logo.png" width="372" height="46" alt=""/></div>
+		<div class="col-sm-12 orange-fill align-center overview-logo-banner margin-20-bottom"><img src="images/stateofthesound-logo-no-date.png" width="388" height="59" alt=""/></div>
 	</div>
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
@@ -63,7 +63,12 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">State of the Sound archive</h1>
-			<h3>2017 State of the Sound</h3>
+			<h3>2021 State of the Sound</h3>
+			<ul>
+				<li><a href="https://pspwa.box.com/shared/static/5epess0s133sinenwmq3w0ee8uk69xky.pdf">2019 State of the Sound</a></li>
+			</ul>
+            
+            <h3>2017 State of the Sound</h3>
 			<ul>
 				<li><a href="https://pspwa.box.com/s/pcmq1ik1otenheklg5sucz7bkmkpjphq">2017 State of the Sound</a></li>
 			</ul>
@@ -101,7 +106,6 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="vitalsigns/index.php" target="_blank">Vital Signs</a></li>
 				<li role="presentation"> <a href="2022AAupdate.php" target="_blank">Action Agenda</a></li>
-				<li role="presentation"> <a href="evaluating-about-report-card.php" target="_blank">Report Card</a></li>
 				<li role="presentation"> <a href="evaluating-effective-action.php" target="_blank">Effectiveness</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>

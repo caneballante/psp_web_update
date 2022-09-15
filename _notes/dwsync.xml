@@ -401,7 +401,7 @@
 <file name="social-approaches-overview.php" server="198.238.137.44/psp.wa.gov/" local="133029009842503422" remote="133029009600000000" Dst="2" />
 <file name="puget-sound-partnership.php" server="198.238.137.44/psp.wa.gov/" local="133029010621570420" remote="133029012000000000" Dst="2" />
 <file name="programs.php" server="198.238.137.44/psp.wa.gov/" local="133029013210000000" remote="133029013200000000" Dst="2" />
-<file name="sos-archive.php" server="198.238.137.44/psp.wa.gov/" local="133029013786936735" remote="133029013800000000" Dst="2" />
+<file name="sos-archive.php" server="198.238.137.44/psp.wa.gov/" local="133077467192276310" remote="133077466800000000" Dst="2" />
 <file name="science-basis-of-recovery-overview.php" server="198.238.137.44/psp.wa.gov/" local="133029014278275744" remote="133029018000000000" Dst="2" />
 <file name="puget-sound-recovery.php" server="198.238.137.44/psp.wa.gov/" local="133029019109931033" remote="133029018600000000" Dst="2" />
 <file name="recovery-of-southern-resident-orcas.php" server="198.238.137.44/psp.wa.gov/" local="133029141658587269" remote="133029142200000000" Dst="2" />
@@ -413,4 +413,5 @@
 <file name="cumulative-effects.php" server="198.238.137.44/psp.wa.gov/" local="133069641178047560" remote="133069641000000000" Dst="2" />
 <file name="PEAR.php" server="198.238.137.44/psp.wa.gov/" local="133065400753387666" remote="133065400200000000" Dst="2" />
 <file name="evaluating-human-wellbeing.php" server="198.238.137.44/psp.wa.gov/" local="133069643874416663" remote="133069644000000000" Dst="2" />
+<file name="sos.php" server="198.238.137.44/psp.wa.gov/" local="133077463754045154" remote="133077463200000000" Dst="2" />
 </dwsync>
