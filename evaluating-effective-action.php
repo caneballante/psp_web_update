@@ -73,7 +73,7 @@
 			<p>By directly connecting effectiveness data to recovery actions, we can highlight our successes, improve our how make decisions, prioritize actions, and provide justification for policy and legislative decisions. </p>
 			
 			<h2>PUGET SOUND PARTNERSHIP ROLE IN EFFECTIVENESS ASSESSEMENTS</h2>
-			<p>The Puget Sound Partnership continues to build a base of scientific knowledge on ecosystem recovery and the effectiveness of recovery strategies and actions to provide relevant policy information for decision-makers. This function helps to ensure the accountability of partner actions, communicates the effectiveness of actions and investments in achieving anticipated outcomes, and promotes the consistent and adequate evaluation of recovery progress. </p>
+			<p>The Puget Sound Partnership continues to build a base of scientific knowledge on ecosystem recovery and the effectiveness of recovery strategies and actions to provide relevant policy information for decision-makers. This function helps to ensure the accountability of our actions, communicates the effectiveness of actions, report progress toward regional targets associated with the Puget Sound Vital Signs and ecosystem recovery goals, and promotes the consistent and adequate evaluation of recovery progress.  </p>
 			
 			<p>A variety of efforts are underway to evaluate the effectiveness and progress of recovery actions to incorporate learning in decision-making at both regional and local scales.</p>
 			
@@ -86,6 +86,11 @@
 			</p>
 		
 			<p><a href="effective-action-summaries.php">See effective action fact sheets and summaries for more information</a></p>
+		
+		<h2>The PSEMP network is integral to effectiveness evaluations in Puget Sound</h2>
+<p>The Puget Sound Partnership engages the <a href="PSEMP-overview.php">Puget Sound Ecosystem Monitoring Program (PSEMP)</a> and the larger recovery community to understand and share what’s working to restore and protect Puget Sound. Scientific studies to evaluate the effectiveness of recovery efforts are numerous and ongoing. Gathering this information and distilling results into recommendations relies on the network of experts supported by PSEMP. As a network, PSEMP is well-suited to quickly find relevant studies on topics of current interest. In addition, the broad participation in PSEMP provides a forum to vet the conclusions derived from multiple, individual studies before they are shared as recommendations. 
+</p>
+		<p class="last-update">Last updated 09/19/22</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
