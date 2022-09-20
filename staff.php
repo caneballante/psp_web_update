@@ -295,7 +295,7 @@
 							</p>
 						<h5>Sheridan Tabor</h5>
 						<p>	Accounting and Budget Program Manager<br />
-							360.706.4955 | <a href="mailto:sheridan.gatewood@psp.wa.gov">sheridan.gatewood@psp.wa.gov</a></p>
+							360.706.4955 | <a href="mailto:sheridan.tabor@psp.wa.gov">sheridan.tabor@psp.wa.gov</a></p>
 						<h5>Arjean Travis</h5>
 						<p> Grants, Contracts, and Compliance Manager<br />
 							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
