@@ -256,7 +256,7 @@
 						<p>	Monitoring Performance Analyst/Salmon Scientist <br>
 							360.584.5306 | <a href="mailto:annelise.delrio@psp.wa.gov">annelise.delrio@psp.wa.gov</a></p>
 						<h5>Kate Loy</h5>
-						<p>Keystone Fellow<br>
+						<p>Hershman Fellow<br>
 							360.789.3324 | <a href="mailto:kate.loy@psp.wa.gov">kate.loy@psp.wa.gov</a></p>
 						
 
@@ -319,7 +319,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 08/30/22</p>
+	<p class="last-update">Last updated: 09/20/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
