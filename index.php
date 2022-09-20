@@ -103,7 +103,8 @@
 			<div class="padding-5-bottom"><a href="PSAR.php">Puget Sound Acquisition and Restoration (PSAR)&nbsp;program</a></div>
 			<div class="padding-5-bottom"><a href="NEP-overview.php">National Estuary Program (NEP)</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">Local recovery and Local Integrating Organizations (LIOs)</a></div>
-			<div><a href="pspnc.php">Puget Sound Nearshore Credits</a></div>
+			<div class="padding-5-bottom"><a href="pspnc.php">Puget Sound Nearshore Credits</a></div>
+            <div><a href="https://pugetsoundestuary.wa.gov/">Strategic Intiative Leads</a></div>
 		</div>
 	</div>
 	<!-- end row -->
@@ -137,7 +138,36 @@
 		<!--copy column to column to create new blog post--> 
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
-				<!--COLUMN START-->
+				
+            
+            
+            <!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/PSDDOTS.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>PUGET SOUND DAY ON THE SOUND</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/32bb42a">Join us on October 4th, in-person, to discuss Puget Sound Recovery. Register by Sept 27th.</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+            <!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/SIL.jpg"  alt="Young girl and mother on the beach"/> <strong>STRATEGIC INITIATIVE LEADS</strong><br>
+						<a href="https://pugetsoundestuary.wa.gov/">The Strategic Intiative Leads RFP's are coming soon. Check their website for more details.</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+            <!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -149,7 +179,8 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!--COLUMN END--> <!--COLUMN START-->
+			<!--COLUMN END--> 
+            <!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
