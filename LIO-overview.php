@@ -75,13 +75,13 @@
 				<li><a href="http://www.sanjuanlio.com" target="new">San Juan Action Agenda Oversight Group </a></li>
 				<li><a href="http://www.govlink.org/sc-puget-sound-action-area/Index.htm" target="new">South Central Action Area Caucus Group</a></li>
 				<li><a href="http://www.healthysouthsound.org/" target="new">Alliance for a Healthy South Sound</a></li>
-				<li><a href="http://hccc.wa.gov" target="new">Hood Canal Coordinating Council </a></li>
+				<li><a href="https://hccc.wa.gov/" target="new">Hood Canal Coordinating Council </a></li>
 				<li><a href="https://westsoundpartners.org/" target="new">West Sound Partners for Ecosystem Recovery</a></li>
-				<li><a href="http://wria1project.whatcomcounty.org/" target="new">Whatcom LIO</a></li>
+				<li><a href="https://wria1project.whatcomcounty.org/home" target="new">Whatcom LIO</a></li>
 				<li><a href="http://www.straitern.org/">Strait Ecosystem Recovery Network </a></li>
-				<li><a href="http://www.islandcountywa.gov/Health/DNR/ILIO/Pages/Home.aspx" target="new">Island LIO</a></li>
+				<li><a href="https://www.islandcountywa.gov/Health/DNR/ILIO/Pages/Home.aspx" target="new">Island LIO</a></li>
 				<li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization" target="new">Snohomish/Stillaguamish LIO </a></li>
-				<li><a href="https://www.piercecountywa.gov/6341/PWR-LIO" target="new">Puyallup-White River LIO (PWR LIO)</a></li>
+				<li><a href="https://puyallupwatershed.org/" target="new">Puyallup-White River LIO (PWR LIO)</a></li>
 			</ul>
 			<p><a href="https://wa-psp.maps.arcgis.com/apps/webappviewer/index.html?id=bce72e6f26c640e5a485db8951951117" target="new"><img class="img-responsive" src="images/LIOsPresentation.jpg" width="1000" height="900" alt=""/></a></p>
 			<p>&nbsp;</p>
