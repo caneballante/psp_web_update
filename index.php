@@ -243,34 +243,6 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 						<!--news content -->
-					<div class="newsbox-date">SEP<br>
-						13-14</div>
-					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL, <br>
-						Online<br>
-						</a><br>
-					</div>
-					<!--END news content-->
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">SEP<br>
-						29</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
-						Online<br>
-						</a><br>
-					</div>
-					<!--END news content-->  
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
 					<div class="newsbox-date">OCT<br>
 						12-13</div>
 					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
@@ -288,6 +260,34 @@
 					<div class="newsbox-date">NOV<br>
 						3</div>
 					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+						Online<br>
+						</a><br>
+					</div>
+					<!--END news content-->  
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">NOV<br>
+						17</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL, <br>
+						Online<br>
+						</a><br>
+					</div>
+					<!--END news content-->
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">DEC<br>
+						8</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL, <br>
 						Online<br>
 						</a><br>
 					</div>
