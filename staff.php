@@ -91,6 +91,10 @@
 						<h5>Stephanie Sayo</h5>
 						<p>Environmental Justice Coordinator<br>
 						360.972.4054 | <a href="mailto:stephanie.sayo@psp.wa.gov">stephanie.sayo@psp.wa.gov</a></p>
+			
+						<h5>Ahren Stroming</h5>
+						<p>Special Assistant for Federal Affairs<br />
+							360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
 
 						<!--GOVERNMENTAL RELATIONS-->
 						<h3 class="padding-10-top">GOVERNMENTAL RELATIONS</h3>
@@ -137,9 +141,8 @@
 						<p> Boards Policy Advisor<br />
 							360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p>
 
-						<h5>Ahren Stroming</h5>
-						<p>Executive Policy Advisor<br />
-							360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
+						<h5>VACANT</h5>
+						<p>Executive Policy Advisor<br /></p>
 						 <!--COMMUNICATIONS--> 
 						<h3 class="padding-10-top">COMMUNICATIONS PROGRAM</h3>
 						<h5>Jon Bridgman</h5>
@@ -319,7 +322,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 09/20/22</p>
+	<p class="last-update">Last updated: 10/03/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
