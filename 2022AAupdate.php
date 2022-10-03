@@ -91,11 +91,12 @@ navSelected = 1;
 			<li><a href="https://pspwa.box.com/shared/static/j3iolontqjx1m4gpja78dprg3isvubmw.pdf">請閱讀繁體中文版行動議程手冊</a></li>
 			<li><a href="https://pspwa.box.com/shared/static/zqzl3t0y68imthqclpuy4iavphulkbr2.pdf">请阅读繁体中文版行动议程手册</a></li>
 			</ul><br>
-			<p>2022-2026 Action Agenda Executive Summary and full 2022-2026 Action Agenda:</p>
+			<p>2022-2026 Action Agenda, Executive Summary, and related information:</p>
 			<ul class="bullet-size-fix">
 				<li><a href="https://pspwa.box.com/shared/static/7svj5x4xtrj6duyccqgo2y0ryekk9zjr.pdf">Download the 2022-2026 Action Agenda Executive Summary</a> </li>
 				<li><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf">Download the full 2022-2026 Action Agenda PDF</a></li>
 				<li><a href="https://pspwa.box.com/shared/static/mejeolwllwccjj3rmc8kiduia604vxos.pdf">Lea la Agenda de Acción 2022-2026 en español</a></li>
+				<li><a href="https://pspwa.box.com/s/adopaw136pastn603ojfzc046k9iza5b">Download a table of 2022-2026 Action Agenda strategy actions and key opportunities</a></li>
 			</ul>
 			</div>
 		<div class="clearfix"></div>
@@ -158,7 +159,7 @@ navSelected = 1;
 			
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 06/15/22</p>
+		<p class="last-update">Last updated: 10/03/22</p>
 
         <!-- InstanceEndEditable --> </div>
 		
@@ -168,6 +169,7 @@ navSelected = 1;
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
+				<li><a href="https://pspwa.box.com/s/adopaw136pastn603ojfzc046k9iza5b">Table of 2022-2026 Action Agenda strategy actions and key opportunities</a></li>
 				<li><a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
 				<li><a href="https://pspwa.box.com/s/qwqatl3l3zi4x3ncchizy68auca9xcte">Tribal Habitat Priorities</a></li>
 				<li><a href="https://nwtreatytribes.org/habitatstrategy/" target="_blank"><em>gw∂dzadad &ldquo;Teaching of Our Ancestors&rdquo;, Tribal Habitat Strategy</em></a></li>
