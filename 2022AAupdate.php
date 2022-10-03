@@ -96,7 +96,7 @@ navSelected = 1;
 				<li><a href="https://pspwa.box.com/shared/static/7svj5x4xtrj6duyccqgo2y0ryekk9zjr.pdf">Download the 2022-2026 Action Agenda Executive Summary</a> </li>
 				<li><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf">Download the full 2022-2026 Action Agenda PDF</a></li>
 				<li><a href="https://pspwa.box.com/shared/static/mejeolwllwccjj3rmc8kiduia604vxos.pdf">Lea la Agenda de Acción 2022-2026 en español</a></li>
-				<li><a href="https://pspwa.box.com/s/adopaw136pastn603ojfzc046k9iza5b">Download a table of 2022-2026 Action Agenda strategy actions and key opportunities</a></li>
+				<li><a href="https://pspwa.box.com/shared/static/adopaw136pastn603ojfzc046k9iza5b.xlsx">Download a table of 2022-2026 Action Agenda strategy actions and key opportunities</a></li>
 			</ul>
 			</div>
 		<div class="clearfix"></div>
@@ -169,7 +169,7 @@ navSelected = 1;
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
-				<li><a href="https://pspwa.box.com/s/adopaw136pastn603ojfzc046k9iza5b">Table of 2022-2026 Action Agenda strategy actions and key opportunities</a></li>
+				<li><a href="https://pspwa.box.com/shared/static/adopaw136pastn603ojfzc046k9iza5b.xlsx">Table of 2022-2026 Action Agenda strategy actions and key opportunities</a></li>
 				<li><a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
 				<li><a href="https://pspwa.box.com/s/qwqatl3l3zi4x3ncchizy68auca9xcte">Tribal Habitat Priorities</a></li>
 				<li><a href="https://nwtreatytribes.org/habitatstrategy/" target="_blank"><em>gw∂dzadad &ldquo;Teaching of Our Ancestors&rdquo;, Tribal Habitat Strategy</em></a></li>
