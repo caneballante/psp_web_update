@@ -80,10 +80,10 @@
 			 <!--END IFRAME-->
 			<h3>Board contact</h3>
 			<p>For questions about the Partnership's boards contact:<br />
-	   		<strong>Ahren Stroming, <br>
-			Executive Policy Advisor <br>
-	  		</strong>	    <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a><br>
-			360.918.1337
+	   		<strong>Tristan Contesse, <br>
+			Boards Program Manager <br>
+	  		</strong>	    <a href="mailto:tristan.contesse@psp.wa.gov">tristan.contesse@psp.wa.gov</a><br>
+			360.584.5328
 			</p>
 			<h3>Board Materials</h3>
 			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a>			</p>
