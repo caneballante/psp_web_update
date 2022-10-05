@@ -146,22 +146,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/PSDDOTS.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>PUGET SOUND DAY ON THE SOUND</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/32bb42a">Join us on October 4th, in-person, to discuss Puget Sound Recovery. Register by Sept 27th.</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-            <!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/SIL.jpg"  alt="Young girl and mother on the beach"/> <strong>STRATEGIC INITIATIVE LEADS</strong><br>
-						<a href="https://pugetsoundestuary.wa.gov/">The Strategic Intiative Leads RFP's are coming soon. Check their website for more details.</a><br>
-						<!--END news content BOX--> 
+						<a href="https://pugetsoundestuary.wa.gov/rfp/">Habitat, Shellfish, and Stormwater Strategic Intiative Leads Requests for Proposals.</a><br>
+						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -174,7 +161,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/PEAR-news.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>STATEMENT</strong><br>
 						<a href="https://psp.wa.gov/pear.php">Partnership's Pro-Equity Anti-Racism statement</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -193,7 +180,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			<!--COLUMN START-->
+            <!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -219,7 +206,6 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -232,6 +218,10 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
+			<!--COLUMN END--> 
+			
+			<!--COLUMN START-->
+			
 			<!--column END--> 
 			
 		</div>
