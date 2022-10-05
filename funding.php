@@ -73,13 +73,14 @@
 This page contains current contract and grant opportunities, as well as valuable information for recipients and contractors. Please explore the opportunities on this page, and if you have any questions, you are encouraged to send a message to the project manager listed in the solicitation.</p>
     		<p>&nbsp;</p>
 			
-<h2>Funding Opportunity Announcement: EPA Puget Sound Program Strategic Initiative Leads</h2>
-			<p>The EPA Puget Sound Program is pleased to announce a funding opportunity. A Request for Applications (RFA) for Strategic Initiative Leads is now available at <a href="https://www.epa.gov/puget-sound/funding-and-grants-puget-sound" target="_blank">https://www.epa.gov/puget-sound/funding-and-grants-puget-sound</a>. This RFA announces the availability of funds and solicits applications from eligible applicants that are interested in acting as Strategic Initiative Leads (SILs), in coordination with the Puget Sound Partnership (PSP), EPA, and other relevant parties. The primary roles of the SILs are to: 
-			<ol>
-				<li>Award and manage subawards to support the implementation of the Action Agenda with a focus on Implementation Strategies, and maintain Strategic Initiative Advisory Teams (SIATs) to advise in investment-related decision-making; </li>
-				<li>Serve as Implementation Strategy Leads for Vital Signs related to the Strategic Initiative and form technical (e.g., Interdisciplinary Teams) and/or policy workgroups to develop, refine, adaptively manage, and operationalize Implementation Strategies; and </li>
-				<li>Participate in PSP and National Estuary Program (NEP) Management Conference processes and work groups. Proactively coordinate with tribal partners and Local Integrating Organizations (LIOs) in order to accomplish SIL work. </li>
-				</ol></p>
+<h2>Funding Opportunity Announcement: Strategic Initiative Leads Request for Proposals</h2>
+			
+<button class="button button1"><a href="https://pugetsoundestuary.wa.gov/rfp/" target="new" style="color:white"><strong>Habitat, Shellfish, and Stormwater Strategic Initiative Leads Reuqests for Proposals</strong></a></button>
+			
+			<p><a href="https://pugetsoundestuary.wa.gov/rfp/" target="new">The Habitat, Shellfish, and Stormwater Strategic Initiative Leads (SIL) are releasing competitive Requests for Proposals (RFPs)</a> in fall and winter of 2022-2023 to provide grants to subrecipients that accelerate Puget Sound Recovery. These RFPs will solicit for proposals to advance our investment priorities, described in the joint SILs Investment Plan for FFY2021-2022, that were designed to protect and restore habitat, water quality, and harvestable shellfish beds and to result in a more resilient, equitable, and sustainable future for Puget Sound communities and ecosystems.</p>
+
+<p>Investment Priorities detailed in a <a href="https://pspwa.box.com/s/12bxlv03wp9meb8hc4gl2s7yj4x9dzf2" target="new">Shared SIL Investment Plan for FFY2021-2022</a> were developed by the Habitat, Shellfish, and Stormwater Strategic Initiative Advisory Teams in the spring of 2022 and were informed by over six years of discussion associated with development of regional Implementation Strategies and the 2022-2026 Action Agenda for Puget Sound.</p>
+
 
  <h2>Sole-Source Contract Notification</h2>
  
