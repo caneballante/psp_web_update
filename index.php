@@ -147,7 +147,7 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/SIL.jpg"  alt="Young girl and mother on the beach"/> <strong>STRATEGIC INITIATIVE LEADS</strong><br>
-						<a href="https://pugetsoundestuary.wa.gov/rfp/">Habitat, Shellfish, and Stormwater Strategic Intiative Leads Requests for Proposals.</a><br>
+						<a href="https://pugetsoundestuary.wa.gov/rfp/">Habitat, Shellfish, and Stormwater Strategic Initiative Leads Requests for Proposals.</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
