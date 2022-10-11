@@ -300,7 +300,7 @@
 						<h5>Arjean Travis</h5>
 						<p> Grants, Contracts, and Compliance Manager<br />
 							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
-						<h5>Shannon McAtee</h5>
+						<h5>Shannon Sanders</h5>
 						<p>Contracts Coordinator<br />
 							360.688.3772 | <a href="mailto:shannon.mcatee@psp.wa.gov">shannon.mcatee@psp.wa.gov</a></p>						
 						<h5>Arnaud Muamba</h5>
