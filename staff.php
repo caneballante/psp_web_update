@@ -206,10 +206,8 @@
 							<em>Snohomish/Stillaguamish and Skagit/Samish</em><br>
 							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
 
-						<h5>Erin Ryan-Peñuela</h5>
-						<p> Ecosystem Recovery Coordinator &amp; LIO Coordinator<br/>
-							<em>Straits, North Olympic Peninsula </em> <br/>
-							360.522.0546 | <a href="mailto:erin.ryan-penuela@psp.wa.gov">erin.ryan-penuela@psp.wa.gov</a></p>
+						<h5>VACANT</h5>
+						<p> Ecosystem Recovery Coordinator</p>
 
 						<h5>Juliana Tadano</h5>
 						<p> Ecosystem Recovery Coordinator<br/>
@@ -322,7 +320,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 10/03/22</p>
+	<p class="last-update">Last updated: 10/11/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
