@@ -142,7 +142,7 @@
 							360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p>
 
 						<h5>VACANT</h5>
-						<p>Executive Policy Advisor<br /></p>
+						<p>Boards Policy Advisor<br /></p>
 						 <!--COMMUNICATIONS--> 
 						<h3 class="padding-10-top">COMMUNICATIONS PROGRAM</h3>
 						<h5>Jon Bridgman</h5>
@@ -291,12 +291,12 @@
 						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
 						<!--FISCAL PROGRAM-->
 						<h3 class="padding-10-top">FISCAL PROGRAM</h3>
-						<h5>VACANT</h5>
-						<p>Chief Financial Officer<br />
-							</p>
 						<h5>Sheridan Tabor</h5>
-						<p>	Accounting and Budget Program Manager<br />
+						<p>Chief Financial Officer<br />
 							360.706.4955 | <a href="mailto:sheridan.tabor@psp.wa.gov">sheridan.tabor@psp.wa.gov</a></p>
+						<h5>Vacant</h5>
+						<p>	Accounting and Budget Program Manager<br />
+							</p>
 						<h5>Arjean Travis</h5>
 						<p> Grants, Contracts, and Compliance Manager<br />
 							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
@@ -320,7 +320,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 10/11/22</p>
+	<p class="last-update">Last updated: 10/12/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
