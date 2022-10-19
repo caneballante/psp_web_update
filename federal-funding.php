@@ -66,7 +66,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="row padding-20-all">
+			<div class="row padding-30-all">
 				<div class="col-sm-9">
 					<div style="padding:56.25% 0 0 0;position:relative;">
 						<iframe src="https://player.vimeo.com/video/706723427?h=07ec6b9a8a&title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
