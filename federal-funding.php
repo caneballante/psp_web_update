@@ -76,6 +76,8 @@
 			
 			<h2>Federal funding opportunities</h2>
 			<p>The Bipartisan Infrastructure Law (the Infrastructure Investment and Jobs Act) and the Inflation Reduction Act represent once-in-a-generation funding opportunities for Puget Sound recovery. The Partnership is committed to helping partners seek funding for programs, projects, and other work. Please see a list of funding opportunties below.</p>
+			
+			<iframe width="900" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiNjE3ZGJlYTktMGFkYy00OWNlLTgyYWUtYjMyMDBkNWM0ZDE5IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9&pageName=ReportSection4135b7dbe5123b276369" frameborder="0" allowFullScreen="true"></iframe>
  
 			 
 		<!-- InstanceEndEditable --> </div>
