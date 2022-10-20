@@ -72,7 +72,7 @@
 		
 			<div class="row">
             <div class="col-sm-12">
-                <img class="img-responsive" "img-rounded" src="images/NearshoreGraphicKingCo.jpg" alt="Graphic that shows the nearshore area of a shoreline, where the nearshore area extends from feeder bluffs on the land to the subtidal zone in the water"/>
+                <img src="images/NearshoreGraphicKingCo.jpg" class="img-responsive" "img-rounded" alt="Graphic that shows the nearshore area of a shoreline, where the nearshore area extends from feeder bluffs on the land to the subtidal zone in the water"/>
             </div>	
 		</div><br><br>
 			<button class="button3"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Interested in purchasing conservation credits? Click here</p></a></button>
@@ -80,8 +80,9 @@
 		
 			<br>
 			<br>
-			<p>The Puget Sound Partnership Nearshore Credits Program sells conservation credits to help federal permit applicants meet obligations to offset impacts to critical habitat and uses funds from those credit sales to implement equivalent conservation projects. The credits represent units of nearshore habitat function (as quantified by <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">a calculator developed by the National Marine Fisheries Service</a>).
+			<p>Puget Sound nearshore habitat – including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/13" target="new">estuaries</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/31" target="new">beaches, and eelgrass beds</a> – make up some of the most valuable habitat for our region’s salmon and orcas. At the same time, the nearshore contributes to the wellbeing of human communities that enjoy the recreation, food, and economic opportunities available where the land meets the water.
 			</p>
+			<p>Unfortunately, most nearshore habitat has been lost, hamstringing current recovery efforts. Since 1900, about nearly three quarters of Puget Sound’s estuary habitat has either been converted to farmland or filled and developed into urban and industrial uses. Hard armoring disrupts natural processes along nearly a third of Puget Sound shorelines. Toxic chemicals from creosote-treated lumber and other derelict structures continue to leach into the water. In total, more than 93 percent of Puget Sound’s natural shoreline has been modified by human development.</p>
 			
 			
 			<h2>How the Partnership Nearshore Credits program works</h2>
