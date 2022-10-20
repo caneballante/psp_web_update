@@ -1248,12 +1248,17 @@ display: block
 .button1 {
 	border-radius: 8px;
 	background-color: #EF892E;
-	padding: 10px 10px 10px 10px;
+
 }
 .button2 {
 	border-radius: 8px;
 	background-color: #0a3b5c;
 	padding: 10px 15px;
+}
+.button3 {
+	border-radius: 8px;
+	background-color: #EF892E;
+	padding: 40px 40px 40px 40px;
 }
 .navbox {
 	background-color: #FFF;

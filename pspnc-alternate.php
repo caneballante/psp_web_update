@@ -71,11 +71,11 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<div class="row">
             <div class="col-sm-12">
-                <img class="img-responsive" src="images/NearshoreGraphicKingCo.jpg" width="800" height="530" alt="Graphic that shows the nearshore area of a shoreline, where the nearshore area extends from feeder bluffs on the land to the subtidal zone in the water"/>
+                <img class="img-responsive" src="images/NearshoreGraphicKingCo.jpg" width="600" height="398" alt="Graphic that shows the nearshore area of a shoreline, where the nearshore area extends from feeder bluffs on the land to the subtidal zone in the water"/>
             </div>	
 		</div>
 			
-			<button class="button button1"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Interested in purchasing conservation credits? Click here</p></a></button>
+			<button class="button button3"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Interested in purchasing conservation credits? Click here</p></a></button>
 		
 			<br>
 			<br>
