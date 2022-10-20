@@ -1215,6 +1215,11 @@ display: block
 	width: 45%;
 	/*border: solid 1px #288A1F;*/
 }
+.sidebarbox2 {
+	float: right;
+	width: 40%;
+	/*border: solid 1px #288A1F;*/
+}
 .PSEMP-blue {
 	color: #3C6E8C;
 }
