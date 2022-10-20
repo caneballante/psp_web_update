@@ -1258,7 +1258,8 @@ display: block
 .button3 {
 	border-radius: 8px;
 	background-color: #EF892E;
-	padding: 40px 40px 40px 40px;
+	display: block;
+	width: 100%;
 }
 .navbox {
 	background-color: #FFF;
