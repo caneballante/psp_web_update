@@ -80,9 +80,16 @@
 		
 			<br>
 			<br>
+			<div>
+			<div class="sidebarbox padding-10-all orange-fill">
+				<h3 class="margin-0-top">How does nearshore conservation help endangered salmon and orcas?</h3>
+				<p>The Puget Sound nearshore <br>ecosystem contains some of our <br>region’s most valuable habitat for<br> salmon. Juvenile salmon, including Chinook, <br>require healthy nearshore  habitat to<br>  evade predators and feed—growing large before venturing out to the expansive ocean environment. At the same time, healthy nearshore habitat (with intact beaches and thriving eelgrass beds) provides critical spawning habitat for forage fish like herring and surf smelt. Those fish, in turn, provide a vital  food source for adult salmon. One step up the food chain, Endangered Southern Resident orcas depend on those salmon for prey, making this habitat important for the whales as well.</p>
+			</div>
 			<p>Puget Sound nearshore habitat – including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/13" target="new">estuaries</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/31" target="new">beaches, and eelgrass beds</a> – make up some of the most valuable habitat for our region’s salmon and orcas. At the same time, the nearshore contributes to the wellbeing of human communities that enjoy the recreation, food, and economic opportunities available where the land meets the water.
 			</p>
+				
 			<p>Unfortunately, most nearshore habitat has been lost, hamstringing current recovery efforts. Since 1900, about nearly three quarters of Puget Sound’s estuary habitat has either been converted to farmland or filled and developed into urban and industrial uses. Hard armoring disrupts natural processes along nearly a third of Puget Sound shorelines. Toxic chemicals from creosote-treated lumber and other derelict structures continue to leach into the water. In total, more than 93 percent of Puget Sound’s natural shoreline has been modified by human development.</p>
+			</div>
 			
 			
 			<h2>How the Partnership Nearshore Credits program works</h2>
