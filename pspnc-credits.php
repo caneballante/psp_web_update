@@ -69,7 +69,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://wa-psp.maps.arcgis.com/apps/webappviewer/index.html?id=4f2d7590db1a46d1bef2d980c1801463"></IFRAME>
+			<IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://experience.arcgis.com/experience/3ad3ed63a1d541a5bc1793887aa38a85/"></IFRAME>
 			<br>
 			<br>
 			<p>The Puget Sound Partnership Nearshore Credits Program sells conservation credits to help federal permit applicants meet obligations to offset impacts to critical habitat and uses funds from those credit sales to implement equivalent conservation projects. The credits represent units of nearshore habitat function (as quantified by <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">a calculator developed by the National Marine Fisheries Service</a>).
@@ -77,15 +77,16 @@
 			
 			<h2>Steps to purchase Partnership nearshore credits</h2>
 			<p><ol>
-				<li><p><strong>Permit applicant</strong> (or their consultant) determines conservation debits using the <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">Puget Sound Nearshore Conservation Calculator</a>.</p></li>
-				<li><p><strong>Permit applicant</strong> submits a completed calculator as part of <a href="https://www.epermitting.wa.gov/site/alias__resourcecenter/9978/default.aspx" target="new">permit application to the US Army Corps of Engineers (COE)</a>. Applicants should also indicate their intention to purchase Partnership conservation credits in that application package.</p></li>
-				<li><p>COE submits the permit applicant’s calculator as part of a consultation package to the National Marine Fisheries Service (NMFS).</p></li>
-				<li><p>NMFS works with permit applicants on avoiding impacts, minimizing impacts, and finalizing conservation offsets needed for unavoidable impacts.</p></li>
-				<li><p>At the end of consultation, NMFS informs the Partnership of all finalized calculators.</p></li>
-				<li><p><strong>Permit applicant</strong> submits project information and  NMFS-verified final calculator to <a href="mailto:pspnc@psp.wa.gov">pspnc@psp.wa.gov</a>. See map above to determine relevant service area for credits.</p></li>
-				<li><p>Partnership verifies eligibility, requests any additional data, and provides presale agreement to the permittee. </p></li>
-				<li><p><strong>Permit applicant</strong> and Partnership sign conservation credit presale agreement. Permittee may use the fully executed conservation credit presale agreement to satisfy outstanding conservation obligations, per their final Reasonable and Prudent Alternative decision from NMFS.</p></li>
-				<li><p><strong>Permit applicant</strong> pays purchase price and the Partnership confirms transfer of credit responsibility. Payment must be received by the expiration date in the presale agreement.</p></li>
+				<li><p><strong>Federal permit applicant</strong> (or their consultant) determines conservation debits using the <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">Puget Sound Nearshore Conservation Calculator</a>.</p></li>
+				<li><p><strong>Federal permit applicant</strong> submits a completed calculator as part of <a href="https://www.epermitting.wa.gov/site/alias__resourcecenter/9978/default.aspx" target="new">SSNP permit application to the US Army Corps of Engineers</a>. Applicants should also indicate their intention to purchase Partnership conservation credits in that application package.</p></li>
+				<li><p>The Army Corps of Engineers submits the permit applicant’s calculator as part of a consultation package to NOAA Fisheries.</p></li>
+				<li><p>NOAA Fisheries works with applicants to avoid and minimize infrastructure and maintenance project-related impacts to nearshore habitat. Unavoidable impacts will require conservation offsets.</p></li>
+				<li><p>NOAA Fisheries verifies the amount of outstanding conservation necessary to account for unavoidable impacts and informs the Partnership of the finalized calculator total.</p></li>
+				<li><p><a href="https://wa-pspsign.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAG8UNV0sn_SVY4luxHRtCYhE7tavvL8G_EO79rvnm6O7RvdQR7wxuyL-OWZqdjekA*" target="new">Federal permit applicant submits project information and NMFS-verified final calculator.</a></p></li>
+				<li><p>Partnership verifies eligibility, requests any additional data, and provides presale agreement to the permittee for signature. </p></li>
+				<li><p><strong>Federal permit applicant</strong> and Partnership sign conservation credit presale agreement. Permittee may use the fully executed conservation credit presale agreement to satisfy outstanding conservation obligations, per their final Reasonable and Prudent Alternative decision from NMFS.</p></li>
+				<li><p><strong>Federal permit applicant</strong> submits full payment and the Partnership confirms transfer of credit responsibility. Payment must be received by the expiration date in the presale agreement.</p></li>
+				<li><p><strong>Federal permit applicant</strong> may commence construction work on their infrastructure or maintenance.</p></li>
 			
 			</ol>
 			
