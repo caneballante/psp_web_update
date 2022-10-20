@@ -70,11 +70,11 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<div class="row">
-            <div class="col-sm-8">
+            <div class="col-sm-12">
                 <img class="img-responsive" src="images/NearshoreGraphicKingCo.jpg" width="800" height="530" alt="Graphic that shows the nearshore area of a shoreline, where the nearshore area extends from feeder bluffs on the land to the subtidal zone in the water"/>
             </div>	
 		</div>
-			<button class="button button2"><a href="/pspnc-credits.php" target="_blank" style="color:white"><strong>Interested in purchasing conservation credits?<br> Click here</strong></a></button>
+			<button class="button button2"><a href="/pspnc-credits.php" target="_blank" style="color:white"><h5>Interested in purchasing conservation credits? Click here<br></h5></a></button>
 			<br>
 			<br>
 			<p>The Puget Sound Partnership Nearshore Credits Program sells conservation credits to help federal permit applicants meet obligations to offset impacts to critical habitat and uses funds from those credit sales to implement equivalent conservation projects. The credits represent units of nearshore habitat function (as quantified by <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">a calculator developed by the National Marine Fisheries Service</a>).
