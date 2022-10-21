@@ -72,7 +72,10 @@
 		
 			<div class="row">
             <div class="col-sm-12">
+				<figure>
                 <img src="images/NearshoreGraphicKingCo.jpg" class="img-responsive" "img-rounded" alt="Graphic that shows the nearshore area of a shoreline, where the nearshore area extends from feeder bluffs on the land to the subtidal zone in the water"/>
+					<figcaption>Nearshore graphic from King County</figcaption>
+				</figure>
             </div>	
 		</div><br><br>
 			<button class="button3"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Interested in purchasing conservation credits? Click here</p></a></button>
@@ -90,10 +93,16 @@
 			<div class="row ">
 				
 				<div class="col-sm-6">
+					<figure>
 					<img class="img-responsive floatleft" src="images/PugetBeaches.jpg" alt=""/>
+						<figcaption><strong>Before development.</strong> Graphic from King County</figcaption>
+						</figure>
 				</div>
 				<div class="col-sm-6">
+					<figure>
 				<img class="img-responsive floatright" src="images/PugetBeaches2.jpg" alt=""/>
+						<figcaption><strong>After development.</strong> Graphic from King County</figcaption>
+						</figure>
 				</div>
 				
 			</div>
@@ -102,7 +111,7 @@
 				
 				<div class="col-sm-12">
 					<h2 class="margin-0-top">How does nearshore conservation help endangered salmon and orcas?</h2>
-					<p>The Puget Sound nearshore ecosystem contains some of our region’s most valuable habitat for salmon. Juvenile salmon, including Chinook, require healthy nearshore  habitat to  evade predators and feed—growing large before venturing out to the expansive ocean environment. At the same time, healthy nearshore habitat (with intact beaches and thriving eelgrass beds) provides critical spawning habitat for forage fish like herring and surf smelt. Those fish, in turn, provide a vital  food source for adult salmon. One step up the food chain, Endangered Southern Resident orcas depend on those salmon for prey, making this habitat important for the whales as well.</p>
+					<p>The Puget Sound nearshore ecosystem contains some of our region’s most valuable habitat for salmon. Juvenile salmon, including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/32" target="new">Chinook</a>, require healthy nearshore  habitat to  evade predators and feed—growing large before venturing out to the expansive ocean environment. At the same time, healthy nearshore habitat (with intact beaches and thriving eelgrass beds) provides critical spawning habitat for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/33" target="new">forage fish</a> like herring and surf smelt. Those fish, in turn, provide a vital  food source for adult salmon. One step up the food chain, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/19" target="new">Endangered Southern Resident orcas</a> depend on those salmon for prey, making this habitat important for the whales as well.</p>
 				</div>	
 				
 			</div>
