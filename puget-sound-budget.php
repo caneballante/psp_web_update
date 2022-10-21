@@ -73,7 +73,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2>Prioritizing State Agency Budget Requests</h2>
+			<h2 class="margin-0-top">Prioritizing State Agency Budget Requests</h2>
 			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. The Partnership shares this list with the Office of Financial Management, relevant legislative committee members and staff, and our partners. As the Governor and legislators release their respective budget proposals, the Partnership updates information about the Puget Sound Budget to reflect the most recent information.</p>
 			
 			<p>Click the image below for the ranking of the 2023-2025 biennial budget requests.</p>
@@ -104,10 +104,7 @@
 			
 			<iframe title="BudgetPBI_2022 - Page 1" width="900" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiNTFmOTI3ZDAtNzNhZi00ZmFlLTgxNzQtMzg3MTAxMWI1OGQ3IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe>
 			
-			<br>
-			<br>
 			
-			<div><IFRAME WIDTH=900 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=b190fa1a7cc14c219a7abbb498f5a5f4"></IFRAME></div>
 			
 		
 			
