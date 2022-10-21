@@ -81,16 +81,22 @@
 			<br>
 			<br>
 			<div>
-			<div class="sidebarbox2 margin-20-left padding-10-all very-light-blue-fill">
-				<h3 class="margin-0-top">How does nearshore conservation help endangered salmon and orcas?</h3>
-				<p>The Puget Sound nearshore ecosystem contains some of our region’s most valuable habitat for salmon. Juvenile salmon, including Chinook, require healthy nearshore  habitat to  evade predators and feed—growing large before venturing out to the expansive ocean environment. At the same time, healthy nearshore habitat (with intact beaches and thriving eelgrass beds) provides critical spawning habitat for forage fish like herring and surf smelt. Those fish, in turn, provide a vital  food source for adult salmon. One step up the food chain, Endangered Southern Resident orcas depend on those salmon for prey, making this habitat important for the whales as well.</p>
-			</div>
+			
 			<p>Puget Sound nearshore habitat – including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/13" target="new">estuaries</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/31" target="new">beaches, and eelgrass beds</a> – make up some of the most valuable habitat for our region’s salmon and orcas. At the same time, the nearshore contributes to the wellbeing of human communities that enjoy the recreation, food, and economic opportunities available where the land meets the water.
 			</p>
 				
 			<p>Unfortunately, most nearshore habitat has been lost, hamstringing current recovery efforts. Since 1900, about nearly three quarters of Puget Sound’s estuary habitat has either been converted to farmland or filled and developed into urban and industrial uses. Hard armoring disrupts natural processes along nearly a third of Puget Sound shorelines. Toxic chemicals from creosote-treated lumber and other derelict structures continue to leach into the water. In total, more than 93 percent of Puget Sound’s natural shoreline has been modified by human development.</p>
 			</div>
-			
+			<div class="container-fluid blue-outline-5px padding-20-all margin-20-top">
+			<div class="row ">
+				
+				<div class="col-sm-12">
+					<h4 class="margin-0-top">How does nearshore conservation help endangered salmon and orcas?</h4>
+					<p>The Puget Sound nearshore ecosystem contains some of our region’s most valuable habitat for salmon. Juvenile salmon, including Chinook, require healthy nearshore  habitat to  evade predators and feed—growing large before venturing out to the expansive ocean environment. At the same time, healthy nearshore habitat (with intact beaches and thriving eelgrass beds) provides critical spawning habitat for forage fish like herring and surf smelt. Those fish, in turn, provide a vital  food source for adult salmon. One step up the food chain, Endangered Southern Resident orcas depend on those salmon for prey, making this habitat important for the whales as well.</p>
+				</div>	
+				
+			</div>
+		</div>
 			
 			<h2>How the Partnership Nearshore Credits program works</h2>
 			<img src="images/nearshore-graphic.jpg" class="img-responsive" alt="A graphic that shows how the Partnership Nearshore Credit Program works. Applicants seeking federal permits for maintenance and development work that will adversely affect nearshore habitat can quantify those impacts using a conservation calculator developed by NOAA scientists. Permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through the Partnership Nearshore Credits program. The Partnership aggregates funds from credits purchase, selects conservation projects to generate credits, tracks their progress, and reports on those projects."/><br>
