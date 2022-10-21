@@ -87,6 +87,16 @@
 				
 			<p>Unfortunately, most nearshore habitat has been lost, hamstringing current recovery efforts. Since 1900, about nearly three quarters of Puget Sound’s estuary habitat has either been converted to farmland or filled and developed into urban and industrial uses. Hard armoring disrupts natural processes along nearly a third of Puget Sound shorelines. Toxic chemicals from creosote-treated lumber and other derelict structures continue to leach into the water. In total, more than 93 percent of Puget Sound’s natural shoreline has been modified by human development.</p>
 			</div>
+			<div class="row ">
+				
+				<div class="col-sm-6">
+					<img class="img-responsive floatleft" src="images/PugetBeaches.jpg" alt=""/>
+				</div>
+				<div class="col-sm-6">
+				<img class="img-responsive floatright" src="images/PugetBeaches2.jpg" alt=""/>
+				</div>
+				
+			</div>
 			<div class="container-fluid blue-outline-5px padding-20-all margin-20-top">
 			<div class="row ">
 				
