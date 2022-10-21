@@ -82,12 +82,23 @@
 			
 			<a href="https://pspwa.box.com/s/owm36i5u0upo7m7km1t14dsreb7vajxb"><img src="images/Budget2325Screenshot.jpg" class="img-responsive" alt="Screenshot of the 2023-2025 Puget Sound Budget Rankings produced by the Puget Sound Partnership."></a>
 			
+			<div class="container-fluid blue-outline-5px padding-20-all margin-20-top">
+			<div class="row ">
+				
+				<div class="col-sm-12">
+					<h2 class="margin-0-top">Budget Ranking Archive</h2>
+					<p><a href="https://pspwa.box.com/s/74t62zylvtfa7az77vj47wnputkboczd" target="new">2022 Supplemental Budget</a></p>
+					<p><a href="https://pspwa.box.com/s/2d2lpjwf209ixffxmm4mgxv0nz8k1pq0" target="new">2021-2023 Biennial Budget</a></p>
+				</div>	
+				
+			</div>
+		</div>
 			
-			<p><ol>
-			<li>Immediately below is an interactive graphic that shows the Puget Sound budget in a few summary figures. Each figure can be interacted with by clicking on different elements of the graphic. Try clicking on a budget type (op/cap) in the pie chart, a request in the list, or an agency in the bar graph.</li>
-			<li>Scroll further down for a spreadsheet view.</li>
-			</ol></p>
+			<h2>Puget Sound Budget Infographic</h2>
 			
+			<p>After prioritizing state agency budget requests related to Puget Sound recovery, the Partnership tracks these budget requests through the State’s budgeting process. The Partnership also identifies additional budget items added by the Governor and legislature to their budget proposals. All relevant budget items for the current budget process are included in the below infographic. Use the arrows at the bottom of the infographic to navigate to past budgets.</p>
+<p>In the below interactive graphic, each figure can be interacted with by clicking on different elements of the graphic. Try clicking on a budget type (op/cap) in the pie chart, a request in the list, or an agency in the bar graph.</p>
+		
 			
 			<br>
 			
