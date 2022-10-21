@@ -73,13 +73,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom">
-			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
-				<ul>
-				<li><a href="https://psp.wa.gov/puget-sound-budget.php">Click here</a> to see the Puget Sound Budget, including new interactive data viewers.</li>
-					
-				</ul>
-			</div>
+			
 			
 			<p>Listed below are the legislative committee activities the Partnership will be following in the near future. Double click on any calendar item for more information, including date, time, agenda, and hyperlinks to materials and access for the meeting.</p>
 			<p>If you plan to attend a committee meeting, be sure to check the latest committee schedule before you log on/leave home. Committee schedules change frequently and are updated at <a href="https://app.leg.wa.gov/committeeschedules/" target="_blank">https://app.leg.wa.gov/committeeschedules/</a></p><br><br>
