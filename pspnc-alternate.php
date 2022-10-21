@@ -91,14 +91,18 @@
 			<div class="row ">
 				
 				<div class="col-sm-12">
-					<h4 class="margin-0-top">How does nearshore conservation help endangered salmon and orcas?</h4>
+					<h2 class="margin-0-top">How does nearshore conservation help endangered salmon and orcas?</h2>
 					<p>The Puget Sound nearshore ecosystem contains some of our region’s most valuable habitat for salmon. Juvenile salmon, including Chinook, require healthy nearshore  habitat to  evade predators and feed—growing large before venturing out to the expansive ocean environment. At the same time, healthy nearshore habitat (with intact beaches and thriving eelgrass beds) provides critical spawning habitat for forage fish like herring and surf smelt. Those fish, in turn, provide a vital  food source for adult salmon. One step up the food chain, Endangered Southern Resident orcas depend on those salmon for prey, making this habitat important for the whales as well.</p>
 				</div>	
 				
 			</div>
 		</div>
 			
-			<h2>How the Partnership Nearshore Credits program works</h2>
+			<h2>Further degradation of nearshore habitat will increase the risk of extinction for Puget sound salmon and orcas</h2>
+			<p>To stem the loss of critical nearshore habitat and uphold the Endangered Species Act, NOAA Fisheries and the US Army Corps of Engineers established the <a href="https://media.fisheries.noaa.gov/2022-06/2022-06-29-ssnp-wcro-2019-04086.pdf" target="new">Salish Sea Nearshore Programmatic (SSNP)</a>. SSNP requires that infrastructure and maintenance projects in the Puget Sound nearshore completely offset their ecological impacts (as quantified by the <a href="https://www.fisheries.noaa.gov/resource/tool-app/puget-sound-nearshore-conservation-calculator" target="new">Puget Sound Nearshore Habitat Conservation Calculator</a>).</p>
+<p>After working with NOAA Fisheries and the US Army Corps of Engineers to avoid and minimize habitat impacts, permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through an authorized credit provider like the Partnership Nearshore Credits program [link to credit purchase info page].</p>
+<p>Off-site restoration – whether conducted by the applicant or paid for by the purchase of conservation credits – must occur within the same regional service area as the permitted project and be quantified by the Conservation Calculator.</p>
+
 			<img src="images/nearshore-graphic.jpg" class="img-responsive" alt="A graphic that shows how the Partnership Nearshore Credit Program works. Applicants seeking federal permits for maintenance and development work that will adversely affect nearshore habitat can quantify those impacts using a conservation calculator developed by NOAA scientists. Permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through the Partnership Nearshore Credits program. The Partnership aggregates funds from credits purchase, selects conservation projects to generate credits, tracks their progress, and reports on those projects."/><br>
 			<p>When applicants seek federal permits for maintenance and development work that will adversely affect nearshore habitat, applicants can quantify those impacts using <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank">a conservation calculator developed by NOAA scientists</a> and informed by input from other state and federal agencies.</p>
 			
