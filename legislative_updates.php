@@ -69,15 +69,14 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom">
-			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
-				<ul>
-				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
-					<li><a href="https://psp.wa.gov/puget-sound-budget.php">Click here</a> to see the Puget Sound Budget, including new interactive data viewers.</li>
-					
-				</ul>
-			</div>
+			<h2 class="margin-0-top">2023 Legislative Session</h2>
+			<p>Coming soon.</p>
 				
+			
+			
+		
+			
+		<h2>Legislative Updates and Calendar Archives</h2>
 			
 			<h2 class="margin-0-top">2022 Legislative Session</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/303c1c3" target="new">General session info</a></p>
@@ -87,9 +86,6 @@
 			<IFRAME width=850 height=700 SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5"></IFRAME>
 
 			<hr></hr>
-		
-			
-		<h2>Legislative Updates and Calendar Archives</h2>
 		
 		<h2 class="margin-0-top">2021 Legislative SESSION</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b3fb0d" target="_blank">General session info</a></p><br>
