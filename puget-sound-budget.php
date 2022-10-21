@@ -73,17 +73,15 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom">
-			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
-				<ul>
-				<li><a href="https://psp.wa.gov/legislative-calendar.php">Click here</a> to see the new interactive legislative calendar that will be updated regularly with committee information throughout the session.</li>
-					
-				</ul>
-			</div>
 			
+			
+			<h2>Prioritizing State Agency Budget Requests</h2>
 			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. The Partnership shares this list with the Office of Financial Management, relevant legislative committee members and staff, and our partners. As the Governor and legislators release their respective budget proposals, the Partnership updates information about the Puget Sound Budget to reflect the most recent information.</p>
 			
-			<p>Information about the 2022 Puget Sound Budget is available in this <a href="https://pspwa.box.com/s/74t62zylvtfa7az77vj47wnputkboczd" target="_blank">PDF factsheet</a> and in the interactive tools below.</p>
+			<p>Click the image below for the ranking of the 2023-2025 biennial budget requests.</p>
+			
+			<a href="https://pspwa.box.com/s/owm36i5u0upo7m7km1t14dsreb7vajxb"><img src="images/Budget2325Screenshot.jpg" class="img-responsive" alt="Screenshot of the 2023-2025 Puget Sound Budget Rankings produced by the Puget Sound Partnership."></a>
+			
 			
 			<p><ol>
 			<li>Immediately below is an interactive graphic that shows the Puget Sound budget in a few summary figures. Each figure can be interacted with by clicking on different elements of the graphic. Try clicking on a budget type (op/cap) in the pie chart, a request in the list, or an agency in the bar graph.</li>
