@@ -111,7 +111,7 @@
 				
 				<div class="col-sm-12">
 					<h2 class="margin-0-top">How does nearshore conservation help endangered salmon and orcas?</h2>
-					<p>The Puget Sound nearshore ecosystem contains some of our region’s most valuable habitat for salmon. Juvenile salmon, including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/32" target="new">Chinook</a>, require healthy nearshore  habitat to  evade predators and feed—growing large before venturing out to the expansive ocean environment. At the same time, healthy nearshore habitat (with intact beaches and thriving eelgrass beds) provides critical spawning habitat for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/33" target="new">forage fish</a> like herring and surf smelt. Those fish, in turn, provide a vital  food source for adult salmon. One step up the food chain, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/19" target="new">Endangered Southern Resident orcas</a> depend on those salmon for prey, making this habitat important for the whales as well.</p>
+					<p>Juvenile salmon, including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/32" target="new">Chinook</a>, require healthy nearshore  habitat to  evade predators and feed—growing large before venturing out to the expansive ocean environment. At the same time, healthy nearshore habitat (with intact beaches and thriving eelgrass beds) provides critical spawning habitat for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/33" target="new">forage fish</a> like herring and surf smelt. Those fish, in turn, provide a vital  food source for adult salmon. One step up the food chain, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/19" target="new">Endangered Southern Resident orcas</a> depend on those salmon for prey, making this habitat important for the whales as well.</p>
 				</div>	
 				
 			</div>
@@ -145,6 +145,7 @@
 				<li class="active" role="presentation"><a href="https://vimeo.com/637105177/d4713aa7ee" target="new"><strong>A new conservation marketplace in the Puget Sound</strong></a></li>
 				<li class="active" role="presentation"><a href="https://www.noaa.gov/news-release/army-and-noaa-to-advance-endangered-species-act-consultations" target="new"><strong>Army and NOAA to advance Endangered Species Act consulations</strong></a></li>
 				<li class="active" role="presentation"><a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target ="_blank"><strong>Puget Sound Partnership credits will fund nearshore conservation</strong></a></li>
+				<li class="active" role="presentation"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/puget-sound/nearshore-program" target="new"><strong>Washington State Department of Fish and Wildlife Nearshore Program</strong></a></li>
 				</div>
 				<!-- InstanceEndEditable -->
 			</ul>
