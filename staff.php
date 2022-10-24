@@ -304,10 +304,10 @@
 						<p>Contracts Coordinator<br />
 							360.688.3772 | <a href="mailto:shannon.mcatee@psp.wa.gov">shannon.mcatee@psp.wa.gov</a></p>						
 						<h5>Arnaud Muamba</h5>
-						<p>Fiscal Analyst 2<br>
+						<p>Fiscal Analyst<br>
 							360.628.7476 | <a href="mailto:arnaud.muamba@psp.wa.gov">arnaud.muamba@psp.wa.gov</a></p>
 						<h5>Robin Wofford</h5>
-						<p>Fiscal Analyst 3<br />
+						<p>Budget Analyst<br />
 							360.688.4049 | <a href="mailto:robin.wofford@psp.wa.gov">robin.wofford@psp.wa.gov</a></p>
 						<!--IT-->        
 						<h3 class="padding-10-top">IT TEAM</h3>
@@ -320,7 +320,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 10/12/22</p>
+	<p class="last-update">Last updated: 10/24/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
