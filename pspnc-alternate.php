@@ -73,7 +73,7 @@
 			<div class="row">
             <div class="col-sm-12">
 				<figure>
-                <img src="images/NearshoreGraphicKingCo.jpg" class="img-responsive" "img-rounded" alt="Graphic that shows the nearshore area of a shoreline, where the nearshore area extends from feeder bluffs on the land to the subtidal zone in the water"/>
+                <img src="images/NearshoreGraphicKingCo.jpg" class="img-responsive" "img-rounded" width=850 alt="Graphic that shows the nearshore area of a shoreline, where the nearshore area extends from feeder bluffs on the land to the subtidal zone in the water"/>
 					<figcaption>Nearshore graphic from King County</figcaption>
 				</figure>
             </div>	
