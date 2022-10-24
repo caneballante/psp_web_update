@@ -128,7 +128,7 @@
 <p>Initially, the Partnership will work with the <a href="https://www.dnr.wa.gov/programs-and-services/aquatics/restoration/creosote-removal" target="new">Department of Natural Resources' Creosote Removal Program</a> to generate conservation through the removal of creosote-soaked pilings and piers. Creosote-treated wood leaches chemicals into the sediments and water column, causing extremely high mortality and developmental abnormalities in herring eggs. Herring are an important forage fish in Puget Sound and a critical food source for our migrating salmon, which in turn are the primary food source for endangered Southern Resident orcas.</p>
 <p>In addition to creosote removal, the Partnership will explore opportunities to remove shoreline armoring. Shoreline armoring disrupts natural erosion, which supplies much of the sand and gravel that forms and maintains our beaches and creates habitat for many other species.</p>
 
-			<p class="last-update">Last updated: 10/21/22</p>
+			<p class="last-update">Last updated: 10/24/22</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
