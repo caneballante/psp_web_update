@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership Nearshore Credits: Nearshore Conservation Credits for Federal Permit Applicants</title>
+<title>Puget Sound Nearshore Conservation Marketplace</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -51,7 +51,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Nearshore Conservation Credits for Federal Permit Applicants</h1>
+			<h1>Puget Sound Nearshore Conservation Marketplace</h1>
 			
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -84,13 +84,15 @@
 				<li><p>NOAA Fisheries verifies the amount of outstanding conservation necessary to account for unavoidable impacts and informs the Partnership of the finalized calculator total.</p></li>
 				<li><p><a href="https://wa-pspsign.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAG8UNV0sn_SVY4luxHRtCYhE7tavvL8G_EO79rvnm6O7RvdQR7wxuyL-OWZqdjekA*" target="new">Federal permit applicant submits project information and NMFS-verified final calculator.</a></p></li>
 				<li><p>Partnership verifies eligibility, requests any additional data, and provides presale agreement to the permittee for signature. </p></li>
-				<li><p><strong>Federal permit applicant</strong> and Partnership sign conservation credit presale agreement. Permittee may use the fully executed conservation credit presale agreement to satisfy outstanding conservation obligations, per their final Reasonable and Prudent Alternative decision from NMFS.</p></li>
+				<li><p><strong>Federal permit applicant</strong> and Partnership sign conservation credit presale agreement. Permittee may use the fully executed conservation credit presale agreement to satisfy outstanding conservation obligations, per their final Reasonable and Prudent Alternative decision from NOAA Fisheries.</p></li>
 				<li><p><strong>Federal permit applicant</strong> submits full payment and the Partnership confirms transfer of credit responsibility. Payment must be received by the expiration date in the presale agreement.</p></li>
 				<li><p><strong>Federal permit applicant</strong> may commence construction work on their infrastructure or maintenance.</p></li>
 			
 			</ol>
 			
 			<p>NOTE: If other federal, local, or state agencies also require mitigation, and that mitigation was not already included in the conservation calculator, <strong>it is the applicant's responsibility to clarify with those agencies whether the conservation credits provided by the Puget Sound Partnership would meet those obligations.</strong></p>
+			
+			<p class="last-update">Last updated: 10/25/22</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
@@ -107,6 +109,7 @@
 				<li class="active" role="presentation"><a href="https://vimeo.com/637105177/d4713aa7ee" target="new"><strong>A new conservation marketplace in the Puget Sound</strong></a></li>
 				<li class="active" role="presentation"><a href="https://www.noaa.gov/news-release/army-and-noaa-to-advance-endangered-species-act-consultations" target="new"><strong>Army and NOAA to advance Endangered Species Act consulations</strong></a></li>
 				<li class="active" role="presentation"><a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target ="_blank"><strong>Puget Sound Partnership credits will fund nearshore conservation</strong></a></li>
+					<li class="active" role="presentation"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/puget-sound/nearshore-program" target="new"><strong>Washington State Department of Fish and Wildlife Nearshore Program</strong></a></li>
 				</div>
 				<!-- InstanceEndEditable -->
 			</ul>
