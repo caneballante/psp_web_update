@@ -93,7 +93,8 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"> <a href="https://www.epa.gov/puget-sound/puget-sound-federal-task-force" target="new">Puget Sound Federal Task Force</a></li>
-				<li role="presentation"> <a href="/NEP-overview.php">Puget Sound National Estuary Program</a></li>
+				<li role="presentation"> <a href="/NEP-overview.php">Puget Sound National Estuary Program</a></li><br>
+				<button>The Partnership will soon hire new staff to assist project implementers to track and apply for grants, report on federal investments in Puget Sound recovery, and more. Stay tuned for updates.</button>
 				
 				<!-- InstanceEndEditable -->
 			</ul>
