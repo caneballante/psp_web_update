@@ -37,7 +37,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image121">
+<header class="overview-page-image-style overview-page-image107">
 
 <div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
 
