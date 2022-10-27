@@ -68,6 +68,8 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Puget Sound recovery is a not only a regional priority; it is critical to the environmental and economic well-being of the entire nation. As such, the Environmental Protection Agency designated Puget Sound as an “Estuary of National Significance” under the <a href="https://www.epa.gov/nep/overview-national-estuary-program" target="new">National Estuary Program</a> in 1988. From appropriator to regulator to trustee for Tribes, numerous Federal government entities play multiple critical roles to help advance Puget Sound recovery efforts</p><br>
 			
+			<h2>New Funding Opportunities</h2>
+			
 			<div class="row padding-30-bottom">
 				<div class="col-sm-9">
 					<div style="padding:56.25% 0 0 0;position:relative;">
@@ -76,13 +78,11 @@
 				</div>
 			</div>
 			
-			<h2>Federal funding opportunities</h2>
-			<p>The Bipartisan Infrastructure Law (the Infrastructure Investment and Jobs Act) and the Inflation Reduction Act represent once-in-a-generation funding opportunities for Puget Sound recovery. The Partnership is committed to helping partners seek funding for programs, projects, and other work. Please see a list of funding opportunties below.</p>
 			
-			<p>The Partnership will soon hire new staff to assist project implementers to track and apply for grants, report on federal investments in Puget Sound recovery, and more. Stay tuned for updates.</p>
+			<p>The Bipartisan Infrastructure Law (the Infrastructure Investment and Jobs Act) and the Inflation Reduction Act represent potentially transformational funding opportunities for Puget Sound recovery. The Partnership is committed to helping partners seek funding for programs, projects, and other work. Please see a list of funding opportunties below.</p>
 			<br>
 			
-			<iframe width="900" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiNjE3ZGJlYTktMGFkYy00OWNlLTgyYWUtYjMyMDBkNWM0ZDE5IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9&pageName=ReportSection4135b7dbe5123b276369" frameborder="0" allowFullScreen="true"></iframe>
+			<iframe width=900 height=700 src="https://app.powerbigov.us/view?r=eyJrIjoiNjE3ZGJlYTktMGFkYy00OWNlLTgyYWUtYjMyMDBkNWM0ZDE5IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9&pageName=ReportSection4135b7dbe5123b276369" frameborder="0" allowFullScreen="true"></iframe>
  
 			 
 		<!-- InstanceEndEditable --> </div>
