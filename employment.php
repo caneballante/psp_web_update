@@ -71,7 +71,6 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3760933/lead-budget-analyst-exempt" target="new">Lead Budget Analyst (exempt)</a></p>
 		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3770503/boards-policy-advisor-ems1" target="new">Boards Policy Advisor (EMS1)</a></p>
 			
 			      
