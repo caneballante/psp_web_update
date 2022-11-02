@@ -81,8 +81,9 @@ navSelected = 1;
 			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt=""/>
 		<p>The 2022-2026 Action Agenda charts the course for Puget Sound recovery as our community's shared plan for advancing protection and restoration efforts across the region.</p>
 		
-			<p>Take a look at the Action Agenda brochure for an overview:</p>
+			<p>Learn about the Action Agenda:</p>
 			<ul class="bullet-size-fix">
+			<li><a href="https://makingwaves.psp.wa.gov/" target="new">Watch our Action Agenda video in the Q4 2022 Making Waves issue</a></li>
 			<li><a href="https://pspwa.box.com/shared/static/30dh5a9bmlhankz516d7vm443dgqm70t.pdf">Read the Action Agenda brochure</a></li>
 			<li><a href="https://pspwa.box.com/shared/static/7lwvn8letqiyt342o1y00ltq02mnk5v9.pdf">Lea el folleto de la Agenda de Acción en español</a></li>
 			<li><a href="https://pspwa.box.com/shared/static/ri8a5rhkpkm5oej7jx3cx0i7c2qjhbuj.pdf">Basahin ang brosyur ng Action Agenda sa Tagalog</a></li>
