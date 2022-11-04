@@ -72,7 +72,7 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3790052/accounting-and-budget-program-manager-ems-2" target="new">Accounting and Budget Program Manager (EMS 2)</a></p>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3770503/boards-policy-advisor-ems1" target="new">Boards Policy Advisor (EMS1)</a></p>
+			
 		
 			
 			      
