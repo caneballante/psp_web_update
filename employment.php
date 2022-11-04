@@ -71,7 +71,9 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3770503/boards-policy-advisor-ems1" target="new">Boards Policy Advisor (EMS1)</a></p>
+		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3790052/accounting-and-budget-program-manager-ems-2" target="new">Accounting and Budget Program Manager (EMS 2)</a></p>
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3770503/boards-policy-advisor-ems1" target="new">Boards Policy Advisor (EMS1)</a></p>
+		
 			
 			      
 				
@@ -89,7 +91,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 10/12/22</p>
+		<p class="last-update">Last updated: 11/4/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
