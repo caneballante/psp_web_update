@@ -67,12 +67,12 @@
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 		
+			<p class="padding-10-all"><span class="new-red">NEW!</span>&nbsp;<a href="https://pspwa.box.com/s/ckw368t070rmlcdl182999fnbi0dtun2" target="new">2023-2025 Puget Sound Acquisition and Restoration (PSAR) Large Capital Project ranked list <br>and project factsheets are available here.</a></p>
 			
-			
-			<p class="margin-0-top"><strong>PSAR RAPID RESPONSE REVOLVING FUND</strong></p>
+			<p><strong>PSAR RAPID RESPONSE REVOLVING FUND</strong></p>
 			<p>The Puget Sound Rapid Response Revolving Fund ("Rapid Response Fund") is designed provide rapid access to funds for urgent and essential strategic habitat acquisitions within the Puget Sound.  <a href="https://pspwa.box.com/s/68nk6ix5yhssidt56j2668742zi6i2yx">View criteria for the Rapid Response Fund here.</a></p>
 			
-			<p class="padding-10-all"><span class="new-red">NEW!</span>&nbsp;Links to Puget Sound Acquisition and Restoration Large Capital Project legislative tours<br />
+			<p class="padding-10-all">Links to Puget Sound Acquisition and Restoration Large Capital Project legislative tours<br />
 				<ul>
 				<li><a href="https://kingcounty.gov/services/environment/animals-and-plants/restoration-projects/projects/fall-city-floodplain-restoration.aspx" target="_blank">Fall City Floodplain Restoration</a></li>
 				<li><a href="https://youtu.be/cBvJSBVW-ts" target="_blank">Stillaguamish Delta Projects (Florence Island and Port Susan Bay)</a></li>
@@ -81,10 +81,8 @@
 				<li><a href="https://www.kentwa.gov/Home/Components/FacilityDirectory/FacilityDirectory/404/568" target="_blank">Downey Farmstead Side Channel Restoration</a></li>
 				</ul></p>			
 			
-			<p class="padding-10-all"><span class="new-red">NEW!</span><a href="https://pspwa.box.com/s/5w1nrd6dhnw3q5a5jxh7py5tacizeqnz">  2021-2023 Puget Sound Acquisition and Restoration (PSAR) Large Capital Project <br>
-				  ranked list and project factsheets are available here
-					</a></p>
-			<p class="padding-10-all"><span class="new-red">NEW!</span><a href="https://pspwa.box.com/shared/static/hxdjsl9nq33asc1b1l3fpol1m4ja1wqo.pdf">  PSAR Program Effectiveness <br>	</a></p>
+			
+			<p class="padding-10-all"><a href="https://pspwa.box.com/shared/static/hxdjsl9nq33asc1b1l3fpol1m4ja1wqo.pdf">  PSAR Program Effectiveness <br>	</a></p>
 			
 			<h3>Archive PSAR Factsheets </h3>
 			<p class="margin-20-top"><strong>PSAR 2019-2021 OVERVIEW</strong></p>
