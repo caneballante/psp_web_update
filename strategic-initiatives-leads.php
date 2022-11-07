@@ -70,6 +70,8 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<div class="highlightbox"><p>The Strategic Initiative Leads maintain a<a href="https://pugetsoundestuary.wa.gov/">website with information about their work, funding opportunities, and more.</a> The Habitat, Stormwater, and Shellfish Strategic Initative Leads have released <a href="https://pugetsoundestuary.wa.gov/rfp/">requests for proposals to provide grants to accelerate Puget Sound recovery.</a></p></div><br>
+			
 			<p>Three Strategic Initiatives are emphasized as priority topics with issues critical to Puget Sound recovery within the Action Agenda - Stormwater, Habitat, and Shellfish. Leads,  have been established for each Strategic Initiative. The SI Leads each facilitate an Advisory Team made up of technical and policy experts in the region, as well as work in coordination with one another, the Puget Sound Partnership, EPA , Tribes, Local Integrating Organizations and others throughout the region. SI Leads manage sub-awards which implement work approved in the Action Agenda Implementation Plan.</p>
 			<p>Together the SI Leads and Advisory Teams are key to the development and implementation of the Action Agenda and have the following responsibilities:</p>
 			<ul>
@@ -81,8 +83,8 @@
 				<li> Administration of National Estuary Program funds to implement priorities identified in the Action Agenda </li>
 				<li>Oversee development and adaptive management of Implementation Strategies			</li>
 			</ul>
-			<p>DRAFT NTA Funding Recommendations for NEP Funding:</p>
-			<p><span class="new-red">NEW </span>2020</p>
+			<p>Past Funding Recommendations:</p>
+			<p>2020</p>
 			<ul>
 			<li>Stormwater Funding Recommendations:<a href="https://pspwa.app.box.com/v/StormwaterFY20FundingRec">https://pspwa.app.box.com/v/StormwaterFY20FundingRec</a></li>
 				
@@ -123,6 +125,8 @@
 				<li>Shellfish Funding Recommendations: <a href="https://pspwa.box.com/s/eo0hp0zxj4plk01lcfd1l4atlnsyiwh2">https://pspwa.box.com/s/eo0hp0zxj4plk01lcfd1l4atlnsyiwh2</a></li>
 			</ul>
 			<p>More information on the Strategic Initiatives, who is involved, what they do, and how they collaborate with others is available <a href="https://pugetsoundestuary.wa.gov">here</a></p>
+			
+			<p class="last-update">Last updated: 11/7/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
