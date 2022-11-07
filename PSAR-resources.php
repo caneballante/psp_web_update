@@ -88,6 +88,13 @@
 		<p class="margin-0-top"><strong>PSAR 2021-2023</strong></p>
 			<p><a href="https://pspwa.box.com/shared/static/qau7lafrhcct46hjrzfqjdd32dmzege8.pdf">PSAR 2021-2023 Ranked List</a></p>
 			<p><a href="https://pspwa.box.com/shared/static/wwy8n314q925h0ft1qrq9wtu6u8qexqz.pdf">Ranked #1 of 8: Fall City Floodplain Restoration</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/n96lj8d0k7w35re4v8to0y0oc8z9p5ts.pdf">Ranked #2 of 8: Florence Island Tidal Wetland Acquisition</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/6arzav1tqya5su1bazyhw6lu1p0yy2q6.pdf">Ranked #3 of 8: Sumner White River Restoration</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/0jid07tq1jsxzs10jr5gikymyklcv1ys.pdf">Ranked #4 of 8: Port Susan Bay Restoration</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/28npy0b50psft0dxzcnitivoa5iazz24.pdf">Ranked #5 of 8: Skookum Creek Valley Phase 2 Conservation</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/qq6s07bxk8j36jzhrr56g7pn64xvxwed.pdf">Ranked #6 of 8: Downey Farmstead Side Channel Restoration</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/qf5buisomv97p96t4pzwm8doo9jd0i0u.pdf">Ranked #7 of 8: West Oakland Bay Restoration</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/wmfd35946nbxqzggpb3p0viurzuspjqh.pdf">Ranked #8 of 8: Stewart Mountain Riparian Reserve 2</a></p>
 			<p><strong>PSAR 2019-2021</strong></p>
 			<!-- Use the direct link option in box to make these downloadable on the phone - this also keeps the item from being viewed in box -->
 			<p><a href="https://pspwa.box.com/shared/static/wgu6mw3afazp02axap5biim58c1471rv.pdf" target="new"><img src="images/PSAR/psar-overview.jpg" width="200" height="311" alt=""/></a></p>
@@ -127,7 +134,7 @@
 			<p>PSAR Program Manager<br />
 			360.968.9673 | <a href="mailto:alison.agness@psp.wa.gov">alison.agness@psp.wa.gov</a></p>
 		
-		<p class="last-update">Last updated: 3/7/22</p>
+		<p class="last-update">Last updated: 11/7/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
