@@ -70,7 +70,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox"><p>The Strategic Initiative Leads maintain a<a href="https://pugetsoundestuary.wa.gov/">website with information about their work, funding opportunities, and more.</a> The Habitat, Stormwater, and Shellfish Strategic Initative Leads have released <a href="https://pugetsoundestuary.wa.gov/rfp/">requests for proposals to provide grants to accelerate Puget Sound recovery.</a></p></div><br>
+			<div class="highlightbox"><p>The Strategic Initiative Leads maintain a<a href="https://pugetsoundestuary.wa.gov/">website with information about their work, funding opportunities, and more.</a> The Habitat, Stormwater, and Shellfish Strategic Initative Leads released in fall and winter 2022-2023 <a href="https://pugetsoundestuary.wa.gov/rfp/">requests for proposals to provide grants to accelerate Puget Sound recovery.</a></p></div><br>
 			
 			<p>Three Strategic Initiatives are emphasized as priority topics with issues critical to Puget Sound recovery within the Action Agenda - Stormwater, Habitat, and Shellfish. Leads,  have been established for each Strategic Initiative. The SI Leads each facilitate an Advisory Team made up of technical and policy experts in the region, as well as work in coordination with one another, the Puget Sound Partnership, EPA , Tribes, Local Integrating Organizations and others throughout the region. SI Leads manage sub-awards which implement work approved in the Action Agenda Implementation Plan.</p>
 			<p>Together the SI Leads and Advisory Teams are key to the development and implementation of the Action Agenda and have the following responsibilities:</p>
