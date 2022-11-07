@@ -89,9 +89,9 @@
 		
 		<button class="button button1"><a href="https://www.pugetsoundinfo.wa.gov/PSARDashboard" target="_blank" style="color:white"><strong>Puget Sound Acquisition and Restoration Dashboard on Puget Sound Info</strong></a></button>
 		
-			<hr />
+			<hr /><br><br><br><br><br><br><br><br><br><br>
 		<div class="row margin-10-top"> 
-			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/">Puget Sound Innovation Recovery Stories</a></p></div>
+			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/"><h4>Puget Sound Innovation Recovery Stories</h4></a></div>
 			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/08/24/calistoga-levee-setback/"><img class="img-responsive" src="images/PSAR/ps-innovation-calistoga.jpg" width="874" height="743" alt=""/></a></div>
 			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/04/21/leque-island-estuary-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-leque.jpg" width="874" height="743" alt=""/></a></div>
 			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/05/17/smith-island-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-smith.jpg" width="874" height="743" alt=""/></a></div>
@@ -135,7 +135,7 @@
 			<div>
 				<div> </div>
 			</div>
-	<p class="last-update">Last updated: 10/12/22</p>
+	<p class="last-update">Last updated: 11/7/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
