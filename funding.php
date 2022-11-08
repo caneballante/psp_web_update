@@ -76,10 +76,42 @@
 			
 <h3>Puget Sound Scientific Research (Science Panel Affiliation)</h3>
 	<ul class="bullet-size-fix">
-	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will rely on the 2020-2024 Science Work Plan to inform priority areas of investigation.</li>
+	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will rely on the <a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">2020-2024 Science Work Plan</a> to inform priority areas of investigation.</li>
 	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.   </li>
 	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain. In 2021, six projects identified through a Partnership solicitation and nine projects selected by Washington Sea Grant were awarded a total of nearly $1.7 million. </li>
-	<li><strong>Additional background information: </strong>2 year awards from July 1, 2023-June 30, 2025.  To learn more about 2019-2021 projects, please see this Science Panel Memo; to learn about the previous solicitation and evaluation process and awarded projects in 2021, please read this memo or this Science Panel memo; October 2022 thinking about the 2023-2025 solicitation can be found here.</li>
+	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025.  To learn more about 2019-2021 projects, please see <a href="https://pspwa.box.com/s/jin0hqljzm6n5wvocm5xaxy7dcw0117p">this Science Panel Memo</a>; to learn about the previous solicitation and evaluation process and awarded projects in 2021, please read <a href="https://pspwa.box.com/s/3jtyia0fdp7d725y9eshi3yfsjtzfgn8">this memo</a> or <a href="https://pspwa.box.com/s/buf4pf2pge4b2lg9zadplxq2q0rfp79d">this Science Panel memo</a>; October 2022 thinking about the 2023-2025 solicitation can be found <a href="https://pspwa.box.com/s/3pds75au1trckastvi0r60let8du9944">here</a>.</li>
+	</ul>
+
+<h3>Monitoring to Accelerate Recovery (PSEMP and Vital Signs affiliation)</h3>
+	<ul class="bullet-size-fix">
+	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will support the development of new Vital Sign indicators and address questions to inform and assess progress toward desired outcomes and ecosystem recovery goals. There will be a connection to the 2022-26 Action Agenda. </li>
+	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.      </li>
+	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain (will depend on state/federal budgets). Planning for a total of $750,000 to be awarded.   </li>
+	<li><strong>Additional background information: </strong>Current and previous project information can be found at <a href="/monitoring-accelerate-recovery.php">this link</a>. Early thinking about the 2023-2025 solicitation can be found at the latest Steering Committee meeting (<a href="https://pspwa.box.com/s/krizep442xaidd0xs92gtvlas61ej889">linked slides here</a>).</li>
+	</ul>
+			
+<h3>Puget Sound Scientific Research (Science Panel Affiliation)</h3>
+	<ul class="bullet-size-fix">
+	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will rely on the <a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">2020-2024 Science Work Plan</a> to inform priority areas of investigation.</li>
+	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.   </li>
+	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain. In 2021, six projects identified through a Partnership solicitation and nine projects selected by Washington Sea Grant were awarded a total of nearly $1.7 million. </li>
+	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025.  To learn more about 2019-2021 projects, please see <a href="https://pspwa.box.com/s/jin0hqljzm6n5wvocm5xaxy7dcw0117p">this Science Panel Memo</a>; to learn about the previous solicitation and evaluation process and awarded projects in 2021, please read <a href="https://pspwa.box.com/s/3jtyia0fdp7d725y9eshi3yfsjtzfgn8">this memo</a> or <a href="https://pspwa.box.com/s/buf4pf2pge4b2lg9zadplxq2q0rfp79d">this Science Panel memo</a>; October 2022 thinking about the 2023-2025 solicitation can be found <a href="https://pspwa.box.com/s/3pds75au1trckastvi0r60let8du9944">here</a>.</li>
+	</ul>
+			
+<h3>Puget Sound Scientific Research (Science Panel Affiliation)</h3>
+	<ul class="bullet-size-fix">
+	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will rely on the <a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">2020-2024 Science Work Plan</a> to inform priority areas of investigation.</li>
+	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.   </li>
+	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain. In 2021, six projects identified through a Partnership solicitation and nine projects selected by Washington Sea Grant were awarded a total of nearly $1.7 million. </li>
+	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025.  To learn more about 2019-2021 projects, please see <a href="https://pspwa.box.com/s/jin0hqljzm6n5wvocm5xaxy7dcw0117p">this Science Panel Memo</a>; to learn about the previous solicitation and evaluation process and awarded projects in 2021, please read <a href="https://pspwa.box.com/s/3jtyia0fdp7d725y9eshi3yfsjtzfgn8">this memo</a> or <a href="https://pspwa.box.com/s/buf4pf2pge4b2lg9zadplxq2q0rfp79d">this Science Panel memo</a>; October 2022 thinking about the 2023-2025 solicitation can be found <a href="https://pspwa.box.com/s/3pds75au1trckastvi0r60let8du9944">here</a>.</li>
+	</ul>
+			
+<h3>Puget Sound Scientific Research (Science Panel Affiliation)</h3>
+	<ul class="bullet-size-fix">
+	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will rely on the <a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">2020-2024 Science Work Plan</a> to inform priority areas of investigation.</li>
+	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.   </li>
+	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain. In 2021, six projects identified through a Partnership solicitation and nine projects selected by Washington Sea Grant were awarded a total of nearly $1.7 million. </li>
+	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025.  To learn more about 2019-2021 projects, please see <a href="https://pspwa.box.com/s/jin0hqljzm6n5wvocm5xaxy7dcw0117p">this Science Panel Memo</a>; to learn about the previous solicitation and evaluation process and awarded projects in 2021, please read <a href="https://pspwa.box.com/s/3jtyia0fdp7d725y9eshi3yfsjtzfgn8">this memo</a> or <a href="https://pspwa.box.com/s/buf4pf2pge4b2lg9zadplxq2q0rfp79d">this Science Panel memo</a>; October 2022 thinking about the 2023-2025 solicitation can be found <a href="https://pspwa.box.com/s/3pds75au1trckastvi0r60let8du9944">here</a>.</li>
 	</ul>
 			
 			
