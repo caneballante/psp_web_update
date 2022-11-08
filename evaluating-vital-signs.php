@@ -86,6 +86,7 @@
               <li><a href="https://pspwa.box.com/s/mv0udt5jldtqlgjrvdr9szoc79g7kmil">Targets</a></li>
               <li><a href="https://pspwa.box.com/s/a74utmwux962n3khpaf5zl4njocl10id">Vital Signs visuals</a></li>
               <li><a href="https://www.psp.wa.gov/PSEMP-resources.php">Projects funded by the Partnership to support indicators and other aspects of monitoring</a></li>
+			<li><a href="https://pspwa.box.com/s/fjib71hve2kcm9h9ldr6bmeepb8kijyt">Equity Guidebook: A framework and tools to help the monitoring community apply an equity lens to the Puget Sound Vital Signs</a></li>
             </ul>
             <div>
               <div> </div>
