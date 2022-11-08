@@ -73,7 +73,7 @@
             <p>There are two parts to the State of the Sound:</p>
             <p><strong><a href="https://www.stateofthesound.wa.gov">State of the Sound Website</a></strong><br>
         The online version  presents a Call to Action for recovery partners, an overview of ecosystem conditions, the status of the recovery effort, three stories of successful Puget Sound recovery projects, and messages from the Partnership&rsquo;s Executive Director, Leadership Council and Science Panel.</p>
-            <p><strong><a href="https://pspwa.box.com/shared/static/5epess0s133sinenwmq3w0ee8uk69xky.pdfhttps://pspwa.box.com/shared/static/8axpa1vumenqgrk7lxk4rlwcmprxz03l.pdf">State of the Sound Report (PDF)</a><br>
+            <p><strong><a href="https://pspwa.box.com/shared/static/8axpa1vumenqgrk7lxk4rlwcmprxz03l.pdf">State of the Sound Report (PDF)</a><br>
         </strong>Required by state law, the State of the Sound Report includes most of the content included in the website and additional information on the status of the Puget Sound recovery effort, including detailed information on funding, Near Term Actions, ongoing programs, legislative and policy developments and a summary of citizen concerns.        </p>
             <p>&nbsp;</p>
 		<!-- InstanceEndEditable --> </div>
