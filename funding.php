@@ -90,28 +90,38 @@
 	<li><strong>Additional background information: </strong>Current and previous project information can be found at <a href="/monitoring-accelerate-recovery.php">this link</a>. Early thinking about the 2023-2025 solicitation can be found at the latest Steering Committee meeting (<a href="https://pspwa.box.com/s/krizep442xaidd0xs92gtvlas61ej889">linked slides here</a>).</li>
 	</ul>
 			
-<h3>Puget Sound Scientific Research (Science Panel Affiliation)</h3>
+<h3>Puget Sound Salmon Science Investigations (Salmon Science Advisory Group Affiliation)</h3>
 	<ul class="bullet-size-fix">
-	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will rely on the <a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">2020-2024 Science Work Plan</a> to inform priority areas of investigation.</li>
-	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.   </li>
-	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain. In 2021, six projects identified through a Partnership solicitation and nine projects selected by Washington Sea Grant were awarded a total of nearly $1.7 million. </li>
-	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025.  To learn more about 2019-2021 projects, please see <a href="https://pspwa.box.com/s/jin0hqljzm6n5wvocm5xaxy7dcw0117p">this Science Panel Memo</a>; to learn about the previous solicitation and evaluation process and awarded projects in 2021, please read <a href="https://pspwa.box.com/s/3jtyia0fdp7d725y9eshi3yfsjtzfgn8">this memo</a> or <a href="https://pspwa.box.com/s/buf4pf2pge4b2lg9zadplxq2q0rfp79d">this Science Panel memo</a>; October 2022 thinking about the 2023-2025 solicitation can be found <a href="https://pspwa.box.com/s/3pds75au1trckastvi0r60let8du9944">here</a>.</li>
+	<li><strong>Funding content focus: </strong>Collaborative research and syntheses addressing issues of emerging concern and factors limiting salmon recovery to support Puget Sound salmon recovery efforts. See the <a href="https://pspwa.box.com/s/gyub6kidgcl1uvviyl4lmg48ch0f4qfb">2022 RFI</a> for example topics. </li>
+	<li><strong>Estimated or determined timeline: </strong>Estimated release of Request for Information (RFI) is early January 2023 with proposals due in April. Awards will be announced in late spring for work to begin July 1, 2023.</li>
+	<li><strong>Estimated or determined funding amount: </strong>Up to $2 million will be awarded for projects ranging from $80,000-800,000 each depending on the study topic. </li>
+	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025. To learn more about the solicitation, please see <a href="https://pspwa.box.com/s/gyub6kidgcl1uvviyl4lmg48ch0f4qfb">the 2022 RFI</a> as an example.</li>
 	</ul>
 			
-<h3>Puget Sound Scientific Research (Science Panel Affiliation)</h3>
+<h3>Strategic Initiative Leads Requests for Proposals (Strategic Initiative Leads Affiliation)</h3>
 	<ul class="bullet-size-fix">
-	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will rely on the <a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">2020-2024 Science Work Plan</a> to inform priority areas of investigation.</li>
-	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.   </li>
-	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain. In 2021, six projects identified through a Partnership solicitation and nine projects selected by Washington Sea Grant were awarded a total of nearly $1.7 million. </li>
-	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025.  To learn more about 2019-2021 projects, please see <a href="https://pspwa.box.com/s/jin0hqljzm6n5wvocm5xaxy7dcw0117p">this Science Panel Memo</a>; to learn about the previous solicitation and evaluation process and awarded projects in 2021, please read <a href="https://pspwa.box.com/s/3jtyia0fdp7d725y9eshi3yfsjtzfgn8">this memo</a> or <a href="https://pspwa.box.com/s/buf4pf2pge4b2lg9zadplxq2q0rfp79d">this Science Panel memo</a>; October 2022 thinking about the 2023-2025 solicitation can be found <a href="https://pspwa.box.com/s/3pds75au1trckastvi0r60let8du9944">here</a>.</li>
+	<li><strong>Funding content focus: </strong>These RFPs will solicit for proposals to advance our investment priorities, described in the joint SILs Investment Plan for FFY2021-2022, that were designed to protect and restore habitat, water quality, and harvestable shellfish beds and to result in a more resilient, equitable, and sustainable future for Puget Sound communities and ecosystems.</li>
+	<li><strong>Estimated or determined timeline: </strong>There are three separate timelines depending on the SIL of interest.</li>
+		<ul class="bullet-size-fix">
+			<li><strong>Shellfish SIL: </strong>Open from September 28 until November 22, 2022.</li>
+			<li><strong>Stormwater SIL: </strong>Open from September 28 until November 9, 2022.</li>
+			<li><strong>Habitat SIL: </strong>Open from October 4 until December 6, 2022.</li>
+		</ul>
+		<li><strong>Estimated or determined funding amount:</strong></li>
+		<ul class="bullet-size-fix">
+			<li><strong>Shellfish SIL: </strong>Up to $5.5 million for proposals between $200,000 to $1.5 million for up to 4 years. </li>
+			<li><strong>Stormwater SIL: </strong>Up to $2 million for proposals between $200,000 - $500,00 for up to 4 years. </li>
+			<li><strong>Habitat SIL: </strong>Up to $9 million for proposals between $200,000 to $800,000 for up to 4 years.</li>
+		</ul>
+	<li><strong>Additional background information: </strong>More information about the funding is available on their <a href="https://pugetsoundestuary.wa.gov/rfp/">website</a>.</li>
 	</ul>
 			
-<h3>Puget Sound Scientific Research (Science Panel Affiliation)</h3>
+<h3>Salmon Recovery Funding Board (SRFB) Monitoring Program (SRFB, Lead Entities, and Watersheds Affiliation)</h3>
 	<ul class="bullet-size-fix">
-	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will rely on the <a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">2020-2024 Science Work Plan</a> to inform priority areas of investigation.</li>
-	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.   </li>
-	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain. In 2021, six projects identified through a Partnership solicitation and nine projects selected by Washington Sea Grant were awarded a total of nearly $1.7 million. </li>
-	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025.  To learn more about 2019-2021 projects, please see <a href="https://pspwa.box.com/s/jin0hqljzm6n5wvocm5xaxy7dcw0117p">this Science Panel Memo</a>; to learn about the previous solicitation and evaluation process and awarded projects in 2021, please read <a href="https://pspwa.box.com/s/3jtyia0fdp7d725y9eshi3yfsjtzfgn8">this memo</a> or <a href="https://pspwa.box.com/s/buf4pf2pge4b2lg9zadplxq2q0rfp79d">this Science Panel memo</a>; October 2022 thinking about the 2023-2025 solicitation can be found <a href="https://pspwa.box.com/s/3pds75au1trckastvi0r60let8du9944">here</a>.</li>
+	<li><strong>Funding content focus: </strong>Regional monitoring projects must address high priority information needs or data gaps identified within a recovery plan; associated regional research, monitoring, and evaluation plan; or lead entity strategy. Regional monitoring projects should complement, enhance, or leverage ongoing monitoring efforts. Regional monitoring projects must be consistent or compatible with data collection, analysis, and management methods and protocols being used in the region, and shall, to the maximum extent practicable, be consistent or compatible with methods and protocols in common use throughout the state.</li>
+	<li><strong>Estimated or determined timeline: </strong>Applications are through the local lead entity and will follow that specific timeline. Applications are as early as January 2022 in some watersheds and as late as May in others. Funding approval will be by SRFB September 2023.</li>
+	<li><strong>Estimated or determined funding amount: </strong>Funding amounts are to be determined but previously have been $350,000 for the state.  </li>
+	<li><strong>Additional background information: </strong>More information can be found in the <a href="https://rco.wa.gov/wp-content/uploads/2019/05/SAL-Manual18.pdf" target="new">Recreation and Conservation Office’s Manual 18.</a></li>
 	</ul>
 			
 			
