@@ -72,6 +72,15 @@
               <br />
 <p>This page contains current contract and grant opportunities, as well as valuable information for recipients and contractors. Please explore the opportunities on this page, and if you have any questions, you are encouraged to send a message to the project manager listed in the solicitation.</p></div>
 			
+<h2>Funding Opportunity Announcement: Strategic Initiative Leads Requests for Proposals</h2>
+		
+			
+			<p><a href="https://pugetsoundestuary.wa.gov/rfp/" target="new">The Habitat, Shellfish, and Stormwater Strategic Initiative Leads (SIL) are releasing competitive Requests for Proposals (RFPs)</a> in fall and winter of 2022-2023 to provide grants to subrecipients that accelerate Puget Sound Recovery. These RFPs will solicit for proposals to advance our investment priorities, described in the joint SILs Investment Plan for FFY2021-2022, that were designed to protect and restore habitat, water quality, and harvestable shellfish beds and to result in a more resilient, equitable, and sustainable future for Puget Sound communities and ecosystems.</p>
+
+<p>Investment Priorities detailed in a <a href="https://pspwa.box.com/s/12bxlv03wp9meb8hc4gl2s7yj4x9dzf2" target="new">Shared SIL Investment Plan for FFY2021-2022</a> were developed by the Habitat, Shellfish, and Stormwater Strategic Initiative Advisory Teams in the spring of 2022 and were informed by over six years of discussion associated with development of regional Implementation Strategies and the 2022-2026 Action Agenda for Puget Sound.</p>
+			
+			<button class="button button1"><a href="https://pugetsoundestuary.wa.gov/rfp/" target="new" style="color:white"><strong>Habitat, Shellfish, and Stormwater Strategic Initiative Leads Requests for Proposals</strong></a></button><br>
+			
 <h2>Upcoming Funding Overview</h2>
 			
 <h3>Puget Sound Scientific Research (Science Panel Affiliation)</h3>
@@ -125,14 +134,7 @@
 	</ul>
 			
 			
-<h2>Funding Opportunity Announcement: Strategic Initiative Leads Requests for Proposals</h2>
-		
-			
-			<p><a href="https://pugetsoundestuary.wa.gov/rfp/" target="new">The Habitat, Shellfish, and Stormwater Strategic Initiative Leads (SIL) are releasing competitive Requests for Proposals (RFPs)</a> in fall and winter of 2022-2023 to provide grants to subrecipients that accelerate Puget Sound Recovery. These RFPs will solicit for proposals to advance our investment priorities, described in the joint SILs Investment Plan for FFY2021-2022, that were designed to protect and restore habitat, water quality, and harvestable shellfish beds and to result in a more resilient, equitable, and sustainable future for Puget Sound communities and ecosystems.</p>
 
-<p>Investment Priorities detailed in a <a href="https://pspwa.box.com/s/12bxlv03wp9meb8hc4gl2s7yj4x9dzf2" target="new">Shared SIL Investment Plan for FFY2021-2022</a> were developed by the Habitat, Shellfish, and Stormwater Strategic Initiative Advisory Teams in the spring of 2022 and were informed by over six years of discussion associated with development of regional Implementation Strategies and the 2022-2026 Action Agenda for Puget Sound.</p>
-			
-			<button class="button button1"><a href="https://pugetsoundestuary.wa.gov/rfp/" target="new" style="color:white"><strong>Habitat, Shellfish, and Stormwater Strategic Initiative Leads Requests for Proposals</strong></a></button><br>
 
 
  <h2>Sole-Source Contract Notification</h2>
