@@ -74,6 +74,14 @@
 			
 <h2>Upcoming Funding Overview</h2>
 			
+<h3>Puget Sound Scientific Research (Science Panel Affiliation)</h3>
+	<ul class="bullet-size-fix">
+	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will rely on the 2020-2024 Science Work Plan to inform priority areas of investigation.</li>
+	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.   </li>
+	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain. In 2021, six projects identified through a Partnership solicitation and nine projects selected by Washington Sea Grant were awarded a total of nearly $1.7 million. </li>
+	<li><strong>Additional background information: </strong>2 year awards from July 1, 2023-June 30, 2025.  To learn more about 2019-2021 projects, please see this Science Panel Memo; to learn about the previous solicitation and evaluation process and awarded projects in 2021, please read this memo or this Science Panel memo; October 2022 thinking about the 2023-2025 solicitation can be found here.</li>
+	</ul>
+			
 			
 <h2>Funding Opportunity Announcement: Strategic Initiative Leads Requests for Proposals</h2>
 		
