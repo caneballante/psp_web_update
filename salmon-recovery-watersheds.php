@@ -96,7 +96,7 @@
 					<td>206-477-4641</td>
 					<td><a href="mailto:susmith@kingcounty.gov">susmith@kingcounty.gov</a></td>
 					<td><a href="https://pspwa.box.com/s/9wfmzx6lkjw6wgjvjoxsoibw4wzh0gq7">2005 WRIA 9 Chapter</a></td>
-					<td>&nbsp;</td>
+					<td><a href="https://pspwa.box.com/s/u9m9iqt0es2to9w3rrjkqj7dep86c606">2021 WRIA 9 Chapter</a></td>
 				</tr>
 				<tr>
 					<td>Hood Canal </td>
@@ -104,7 +104,7 @@
 					<td>360-271-4722</td>
 					<td><a class="small-links" href="mailto:aolivas@hccc.wa.gov">aolivas@hccc.wa.gov</a></td>
 					<td><a href="http://hccc.wa.gov/sites/default/files/resources/downloads/Skok_Recovery_Plan-formatted_final_draft.pdf">2010 Skokomish Chapter</a></td>
-					<td><p><a href="https://pspwa.box.com/s/uvyhcxu9nhpmng1l47kt0knadcx31jew">2017 Skokomish Chapter</a></p></td>
+					<td><a href="https://pspwa.box.com/s/uvyhcxu9nhpmng1l47kt0knadcx31jew">2017 Skokomish Chapter</a></td>
 				</tr>
 				<tr>
 					<td>Island </td>
@@ -112,7 +112,7 @@
 					<td>360-678-7916</td>
 					<td><a class="small-links"href="mailto:ac.plumb@islandcountywa.gov">ac.plumb@islandcountywa.gov</a></td>
 					<td><a href="https://pspwa.box.com/s/uzowoayni4j5fbn17xocponi2i5tovfi">2005 Island Chapter</a></td>
-					<td>&nbsp;</td>
+					<td><a href="https://pspwa.box.com/s/e0d2wolqet6mvh1s09tieuyqz0p3kjaq">2019 Island Chapter</a></td>
 				</tr>
 				
 				<tr>
