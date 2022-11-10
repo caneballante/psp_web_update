@@ -406,7 +406,6 @@
 <file name="puget-sound-recovery.php" server="198.238.137.44/psp.wa.gov/" local="133029019109931033" remote="133029018600000000" Dst="2" />
 <file name="recovery-of-southern-resident-orcas.php" server="198.238.137.44/psp.wa.gov/" local="133029141658587269" remote="133029142200000000" Dst="2" />
 <file name="LIO-overview.php" server="198.238.137.44/psp.wa.gov/" local="133087825524782411" remote="133087825800000000" Dst="2" />
-<file name="pspnc.php" server="198.238.137.44/psp.wa.gov/" local="133045380992097181" remote="133045380600000000" Dst="2" />
 <file name="LC_about.php" server="198.238.137.44/psp.wa.gov/" local="133059253419541088" remote="133059286800000000" Dst="2" />
 <file name="effective-action-summaries.php" server="198.238.137.44/psp.wa.gov/" local="133069640857311250" remote="133069640400000000" Dst="2" />
 <file name="evaluating-effective-action.php" server="198.238.137.44/psp.wa.gov/" local="133080939490279032" remote="133080939000000000" Dst="2" />
@@ -418,7 +417,6 @@
 <file name="funding.php" server="198.238.137.44/psp.wa.gov/" local="133124210832521169" remote="133124210400000000" Dst="1" />
 <file name="PSAR.php" server="198.238.137.44/psp.wa.gov/" local="133123247164273159" remote="133123246800000000" Dst="1" />
 <file name="pspnc-credits.php" server="198.238.137.44/psp.wa.gov/" local="133125826520610875" remote="133125826200000000" Dst="1" />
-<file name="pspnc-alternate.php" server="198.238.137.44/psp.wa.gov/" local="133112069495616039" remote="133112069400000000" Dst="2" />
 <file name="legislative-calendar.php" server="198.238.137.44/psp.wa.gov/" local="133108627239602320" remote="133108627200000000" Dst="2" />
 <file name="puget-sound-budget.php" server="198.238.137.44/psp.wa.gov/" local="133108659700107878" remote="133108659600000000" Dst="2" />
 <file name="government-relations.php" server="198.238.137.44/psp.wa.gov/" local="133108657303254024" remote="133108657200000000" Dst="2" />
@@ -428,4 +426,6 @@
 <file name="strategic-initiatives-leads.php" server="198.238.137.44/psp.wa.gov/" local="133123279703821443" remote="133123279200000000" Dst="1" />
 <file name="evaluating-vital-signs.php" server="198.238.137.44/psp.wa.gov/" local="133124092677863025" remote="133124092800000000" Dst="1" />
 <file name="PSEMP-resources.php" server="198.238.137.44/psp.wa.gov/" local="133124111135162036" remote="133124110800000000" Dst="1" />
+<file name="pspnc-old.php" server="198.238.137.44/psp.wa.gov/" local="133045380992097181" remote="133125834000000000" Dst="1" />
+<file name="pspnc.php" server="198.238.137.44/psp.wa.gov/" local="133112069495616039" remote="133125834000000000" Dst="1" />
 </dwsync>
