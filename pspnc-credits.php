@@ -62,7 +62,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					
+					<?php include 'includes/ln-pspnc-left.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
