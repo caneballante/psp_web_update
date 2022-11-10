@@ -180,22 +180,22 @@
 
 						<h5>Rebecca Hollender</h5>
 						<p>Lead Ecosystem Recovery Coordinator<br>
-							<em>Hood Canal and West Sound</em><br>
+							<em></em>
 							360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
 
 						<h5>Matthew Colston</h5>
 						<p>Ecosystem Recovery Coordinator<br>
-							<em>Island and San Juan</em><br>
+							<em>LIO Support</em><br>
 							360.968.9924 | <a href="mailto:matthew.colston@psp.wa.gov">matthew.colston@psp.wa.gov</a></p>
 			
 						<h5>Alexandra Doty</h5>
 						<p>Ecosystem Recovery Coordinator<br>
-							<em>South Central LIO, Lake Washington/Cedar/Sammamish (WRIA 8), Green/Duwamish (Wria 9)</em><br />
+							<em></em>
 							360.280.6664 | <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov </a></p>        
 
 						<h5>Kristin Hayman</h5>
 						<p>Ecosystem Recovery Coordinator<br>
-						<em>Whatcom</em><br>
+							<em>LE Support</em><br>
 							360.480.0475 | <a href="mailto:kristin.hayman@psp.wa.gov">kristin.hayman@psp.wa.gov </a></p>
 			
 						<h5>Laura (Ferguson) Rivas</h5>
@@ -203,7 +203,7 @@
 							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
 						<h5>Hannah Liss</h5>
 						<p>Ecosystem Recovery Coordinator<br>
-							<em>Snohomish/Stillaguamish and Skagit/Samish</em><br>
+							<em>LE Support</em><br>
 							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
 
 						<h5>VACANT</h5>
@@ -211,7 +211,7 @@
 
 						<h5>Juliana Tadano</h5>
 						<p> Ecosystem Recovery Coordinator<br/>
-							<em>Alliance for a Healthy South Sound, WRIA 10/12, WRIA 13, WRIA 14, Puyallup-White River LIO, and Nisqually</em><br>
+							<em>LIO Support</em><br>
 							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
 							</p>
 
@@ -320,7 +320,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 10/24/22</p>
+	<p class="last-update">Last updated: 11/10/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
