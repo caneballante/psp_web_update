@@ -92,7 +92,7 @@
 			
 			<p>NOTE: If other federal, local, or state agencies also require mitigation, and that mitigation was not already included in the conservation calculator, <strong>it is the applicant's responsibility to clarify with those agencies whether the conservation credits provided by the Puget Sound Partnership would meet those obligations.</strong></p>
 			
-			<p class="last-update">Last updated: 10/25/22</p>
+			<p class="last-update">Last updated: 11/10/22</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
