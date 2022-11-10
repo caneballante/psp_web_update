@@ -165,9 +165,9 @@
 						<p>Planning Manager<br />
 							360.764.0164 | <a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a></p>
 
-						<h5>VACANT</h5>
+						<h5>Nick Tealer</h5>
 						<p>Environmental Planner<br />
-							</p>
+							360.791.0966 | <a href="mailto:nick.tealer@psp.wa.gov">nick.tealer@psp.wa.gov</a></p>
 						<h5>Wren McNally</h5>
 						<p>Environmental Planner<br />
 						360.870.6292 | <a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a></p>
