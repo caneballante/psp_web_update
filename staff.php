@@ -215,9 +215,8 @@
 							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
 							</p>
 
-						<h5>Amber Moore</h5>
-						<p>Salmon Recovery Manager<br />
-							360.742.7434 | <a href="mailto:amber.moore@psp.wa.gov">amber.moore@psp.wa.gov </a></p>
+						<h5>VACANT</h5>
+						<p>Salmon Recovery Manager<br /></p>
 						<h5>Alison Agness</h5>
 						<p>PSAR Program Manager<br />
 							360.968.9673 | <a href="mailto:alison.agness@psp.wa.gov">alison.agness@psp.wa.gov</a></p>
@@ -320,7 +319,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 11/10/22</p>
+	<p class="last-update">Last updated: 11/16/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
