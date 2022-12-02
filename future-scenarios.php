@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Cumulative Effects of Restoration and Protection Actions in Puget Sound</title>
+<title>Puget Sound Partnership - Future Scenarios Project</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Assessing cumulative effects of restoration and protection actions in Puget Sound</h1>
+			<h1>Alternative futures for Puget Sound</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -66,12 +66,24 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-			<p>The cumulative effects of recovery actions and how well they contribute to ecosystem recovery are not well understood. Puget Sound Partnership is initiating an evaluation of the cumulative effects to inform the understanding ecosystem processes related to recovery and clarify what interventions are most effective in accomplishing our collective recovery targets. </p>
+			<p>We’re starting the second phase of a scenario-planning effort to explore and understand the implications of different plausible futures for Puget Sound. The Puget Sound Future Scenarios Project (Future Scenarios)  will help the Puget Sound recovery community plan for the region’s future by considering multiple possibilities of what might happen. The project is not meant to predict the future but, rather, communicate the effects of current policy choices and prepare for uncertainties like climate change or population growth. </p>
 			
-			<p><strong><em>The cumulative effects of nearshore habitat recovery actions on juvenile salmonids in the Whidbey basin.</em></strong> An evidence-based evaluation of cumulative effects to comprehensively evaluate salmon recovery efforts implemented over the past two decades in Whidbey basin nearshore habitats is underway. This study will evaluate the cumulative effects of nearshore habitat restoration in the Whidbey basin aimed at improving critical habitat for juvenile Chinook salmon. A collaborative, multi-institutional research team has been convened to develop and implement this study over the next 2-3 years.</p>
+			<p>Future Scenarios explores the interactions between driving forces (such as population growth, land use policy, climate change, and others) and how our Puget Sound recovery goals (such as human wellbeing and orca populations) might respond in these different futures.</p>
 			
-			<h2>PRODUCTS AND INFORMATION ABOUT THIS WORK</h2>
-			<p><a href="https://pspwa.box.com/s/dmxg9hmenrbiq8rehhmf1qpe3luatpce" target="new">The cumulative effects of nearshore habitat recovery actions on juvenile salmonids in the Whidbey basin: Study development report.</a> This report details an evidence-based approach to evaluate cumulative effects produced from salmon habitat restoration at a greater basin scale for application to salmon recovery efforts in Puget Sound. This study will continue development and implementation in 2023-2025.</p>
+			<p>The overarching goal of the project is to help the Partnership and the Puget Sound recovery community do the following: </p>
+			
+			<ol class="bullet-size-fix">
+				<li>explore the root causes and interactions that drive long-term Puget Sound system dynamics and </li>
+				<li>think systematically when considering choices and tradeoffs in the face of limited resources in the future. </li>
+			</ol>
+			
+			<h2>What will the Future Scenarios project help us do?</h2>
+			<ul class="bullet-size-fix">
+				<li>Show effective aspects of current recovery strategies and enable quicker adaptive management by reviewing strategies across a range of possible contexts;</li>
+				<li>Describe ways to improve planning and policy-setting;</li>
+				<li>Provide an updated understanding of what resilience means for Puget Sound; and</li>
+				<li>Bridge social and natural science disciplines.</li>
+			</ul>
 			
 			<div class="floatright-block blue-outline-5px padding-10-all margin-10-left"><img src="images/cee-web.jpg" width="250" height="250" alt=""/><br>
        <p> <a href="https://pspwa.box.com/s/ibkth6a0xi8sw8hd0vodrd17cru8tafx" target="new">Webinar</a><br>
