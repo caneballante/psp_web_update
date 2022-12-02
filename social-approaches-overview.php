@@ -132,11 +132,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 			
-				<li><p class="right-nav-contact">For more imformation contact:<br />
-	   <strong>Alexandra Doty, <br>
-Project Coordinator <br>
-	   </strong>	    <a href="mailto:alexandra.doty@psp.wa.gov">alexandra.doty@psp.wa.gov</a><br>
-	360.628.2423<br>
+				<li><p class="right-nav-contact">
 
 </p></li>
 				
