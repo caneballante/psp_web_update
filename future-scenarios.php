@@ -89,25 +89,26 @@
 			
 			<table class="table-striped" "table-bordered" "table-responsive">
 				<tr>
-					<td><p class="padding-10-all"><strong>01</strong></p></td>
+					<td><p class="padding-10-all"><strong>1</strong></p></td>
 					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
 					<td><p class="padding-10-all">July - September 2022</p></td>
 				</tr>
-				<tr><td><p class="padding-10-all"><strong>01</strong></p></td>
-					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
-					<td><p class="padding-10-all">July - September 2022</p></td></tr>
-				<tr><td><p class="padding-10-all"><strong>01</strong></p></td>
-					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
-					<td><p class="padding-10-all">July - September 2022</p></td></tr>
-				<tr><td><p class="padding-10-all"><strong>01</strong></p></td>
-					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
-					<td><p class="padding-10-all">July - September 2022</p></td></tr>
-				<tr><td><p class="padding-10-all"><strong>01</strong></p></td>
-					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
-					<td><p class="padding-10-all">July - September 2022</p></td></tr>
+				<tr><td><p class="padding-10-all"><strong>2</strong></p></td>
+					<td><p class="padding-10-all">Develop the second version of the business-as-usual scenario to understand what could happen in Puget Sound on current trajectory.</p></td>
+					<td><p class="padding-10-all">September - December 2022</p></td></tr>
+				<tr><td><p class="padding-10-all"><strong>3</strong></p></td>
+					<td><p class="padding-10-all">Develop the second version of the four alternative scenarios to understand what could happen in Puget Sound if the recovery strategy changes or things don't go as planned.</p></td>
+					<td><p class="padding-10-all">October 2022 - January 2023</p></td></tr>
+				<tr><td><p class="padding-10-all"><strong>4</strong></p></td>
+					<td><p class="padding-10-all">Share scenario outcomes and analysis with broader recovery community to gauge consequences.</p></td>
+					<td><p class="padding-10-all">January - March 2023</p></td></tr>
+				<tr><td><p class="padding-10-all"><strong>5</strong></p></td>
+					<td><p class="padding-10-all">Consider how scenarios can support decision makers and capture next steps for Future Scenarios in phase 2 report. </p></td>
+					<td><p class="padding-10-all">April - June 2023</p></td></tr>
 			
 			</table>
-			
+			<br>
+			<br>
 			<div class="floatright-block blue-outline-5px padding-10-all margin-10-left"><img src="images/cee-web.jpg" width="250" height="250" alt=""/><br>
        <p> <a href="https://pspwa.box.com/s/ibkth6a0xi8sw8hd0vodrd17cru8tafx" target="new">Webinar</a><br>
        </p></div>
