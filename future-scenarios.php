@@ -87,7 +87,15 @@
 			
 			<h2>Future Scenarios phase one began in June 2021 and was completed in June 2022 with a final report. Phase two work can be broken down into five main steps:</h2>
 			
-			<table class="table-striped" "table-bordered" "table-responsive">
+			<table class="table-responsive" "table-condensed" "table-bordered" "table-striped">
+				<thead>
+				<tr>
+				<th>Step</th>
+				<th>Description</th>
+				<th>Dates</th>
+				</tr>
+				</thead>
+				<tbody>
 				<tr>
 					<td><p class="padding-10-all"><strong>1</strong></p></td>
 					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
@@ -105,7 +113,7 @@
 				<tr><td><p class="padding-10-all"><strong>5</strong></p></td>
 					<td><p class="padding-10-all">Consider how scenarios can support decision makers and capture next steps for Future Scenarios in phase 2 report. </p></td>
 					<td><p class="padding-10-all">April - June 2023</p></td></tr>
-			
+				</tbody>
 			</table>
 			<br>
 			<br>
