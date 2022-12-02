@@ -87,7 +87,7 @@
 			
 			<h2>Future Scenarios phase one began in June 2021 and was completed in June 2022 with a final report. Phase two work can be broken down into five main steps:</h2>
 			
-			<table class="table-responsive" "table-condensed" "table-bordered" "table-striped">
+			<table class="table-responsive table-condensed table-bordered table-striped">
 				<thead>
 				<tr>
 				<th>Step</th>
