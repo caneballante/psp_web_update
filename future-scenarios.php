@@ -85,6 +85,13 @@
 				<li>Bridge social and natural science disciplines.</li>
 			</ul>
 			
+			<h2>Future Scenarios phase one began in June 2021 and was completed in June 2022 with a final report. Phase two work can be broken down into five main steps:</h2>
+			
+			<table class="table-striped">
+			
+			
+			</table>
+			
 			<div class="floatright-block blue-outline-5px padding-10-all margin-10-left"><img src="images/cee-web.jpg" width="250" height="250" alt=""/><br>
        <p> <a href="https://pspwa.box.com/s/ibkth6a0xi8sw8hd0vodrd17cru8tafx" target="new">Webinar</a><br>
        </p></div>
