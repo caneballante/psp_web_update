@@ -87,8 +87,24 @@
 			
 			<h2>Future Scenarios phase one began in June 2021 and was completed in June 2022 with a final report. Phase two work can be broken down into five main steps:</h2>
 			
-			<table class="table-striped">
-			
+			<table class="table-striped" "table-bordered" "table-responsive">
+				<tr>
+					<td><p class="padding-10-all"><strong>01</strong></p></td>
+					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
+					<td><p class="padding-10-all">July - September 2022</p></td>
+				</tr>
+				<tr><td><p class="padding-10-all"><strong>01</strong></p></td>
+					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
+					<td><p class="padding-10-all">July - September 2022</p></td></tr>
+				<tr><td><p class="padding-10-all"><strong>01</strong></p></td>
+					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
+					<td><p class="padding-10-all">July - September 2022</p></td></tr>
+				<tr><td><p class="padding-10-all"><strong>01</strong></p></td>
+					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
+					<td><p class="padding-10-all">July - September 2022</p></td></tr>
+				<tr><td><p class="padding-10-all"><strong>01</strong></p></td>
+					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
+					<td><p class="padding-10-all">July - September 2022</p></td></tr>
 			
 			</table>
 			
