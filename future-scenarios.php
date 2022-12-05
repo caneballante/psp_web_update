@@ -77,7 +77,7 @@
 				<li>think systematically when considering choices and tradeoffs in the face of limited resources in the future. </li>
 			</ol>
 			
-			<h3>What will the Future Scenarios project help us do?</h3>
+			<h2>What will the Future Scenarios project help us do?</h2>
 			<ul class="bullet-size-fix">
 				<li>Show effective aspects of current recovery strategies and enable quicker adaptive management by reviewing strategies across a range of possible contexts;</li>
 				<li>Describe ways to improve planning and policy-setting;</li>
@@ -149,6 +149,13 @@
 				<li>consider ways Future Scenarios outcomes can support the recovery community in different contexts. </li>
 			</ul>
 			
+			<h3>Future Scenarios advisory group</h3>
+			
+			<p>Future Scenarios is supported by an advisory group that functions as an overall sounding board for the project.   This group is made up of representatives of the Puget Sound advisory boards and others in the Puget Sound recovery community. Advisory group members also serve as points of contact and ambassadors for the project. They help ensure the project is reflective of and responsive to real-world recovery challenges. Regular input from the Puget Sound advisory boards helps inform the project.</p>
+			
+			<h3>Want to learn more?</h3>
+			
+			<p>More in-depth information on Future Scenarios, including additional project background, FAQs, and the advisory group, can be found in <a href="https://pspwa.box.com/s/8a776uv94xxlb3cduo3a17zcdyye8hox" target="new">the project’s public Box note.</a></p>
 			
 			
 			<p class="last-update">Last updated: 12/5/22</p>
