@@ -173,33 +173,23 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="PSEMP-overview.php">PSEMP Overview</a></li>
-				<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
+				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-20-top ">LINKS TO PARTNERS</div>
+			
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/mar_wat/surface.html">Eyes Over Puget Sound</a></li>
-				<li role="presentation"> <a href="http://www.nanoos.org/">NW Association of Networked Ocean Observing Systems (NANOOS) </a></li>
-				<li role="presentation"> <a href="http://wdfw.wa.gov/conservation/fisheries/sasi/">WDFW Salmon and Steelhead Inventory</a></li>
-				<li role="presentation"> <a href="http://www.ecy.wa.gov/programs/eap/">WA Dept of Ecology – Environmental Assessment Program</a></li>
-				<li role="presentation"> <a href="http://www.pnamp.org/">PNAMP</a></li>
-				<li role="presentation"> <a href="http://www.eopugetsound.org/">Encyclopedia of Puget Sound</a></li>
+				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-20-top ">RELATED DOCUMENTS</div>
+			
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li> <a href="https://pspwa.box.com/s/gg1w321dur0ga5p776rnu2jykpvdwee2">Measuring the Effectiveness of Our Actions to Recover Puget Sound</a></li>
-				<li><a href="https://pspwa.box.com/s/cudm2didk91kwek2xu1najjbzk9m4tx8">Measuring the Effectiveness of Our Actions to Recover Puget Soun - Appendix</a></li>
-				<li class="active" role="presentation"> <a href="www.stateofthesound.psp.wa.gov">2019 State of the Sound</a></li>
-				<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
-				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/">State of the Salmon</a></li>
+				
 				<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
 					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>--> 
 				<!-- InstanceEndEditable -->
