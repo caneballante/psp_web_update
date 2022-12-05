@@ -130,9 +130,16 @@
 			<p>The initial scenarios and how they compare in terms of drivers are illustrated in the figure below:</p>
 			
 			
-					<img class="img-responsive floatleft" src="images/science-figures/ScenariosChart.jpg" alt="Chart that illustrates differences in business-as-usual scenarios and alternative scenarios"/>
+					<img class="img-responsive floatleft" src="images/science-figures/ScenariosChart.jpg" alt="Chart that illustrates differences in business-as-usual scenarios and alternative scenarios"/><br>
 						
+			<p>Initial trends and outcomes from phase one include:</p>
 			
+			<ul class="bullet-size-fix">
+				<li>The rate of population growth seems to significantly impact scenario results, as much as or more than other factors. </li>
+				<li>Existing urban growth areas  in Puget Sound can accommodate high population growth, provided there is a willingness to increase densities. </li>
+			</ul>
+			
+			<h2>Future Scenarios phase two</h2>
 			
 			<p class="last-update">Last updated: 12/5/22</p>
 			<!-- InstanceEndEditable --> </div>
