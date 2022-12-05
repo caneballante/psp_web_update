@@ -117,21 +117,21 @@
 			</table>
 			<br>
 			<br>
-			<div class="floatright-block blue-outline-5px padding-10-all margin-10-left"><img src="images/cee-web.jpg" width="250" height="250" alt=""/><br>
-       <p> <a href="https://pspwa.box.com/s/ibkth6a0xi8sw8hd0vodrd17cru8tafx" target="new">Webinar</a><br>
-       </p></div>
 			
-			<p><a href="https://pspwa.box.com/s/ibkth6a0xi8sw8hd0vodrd17cru8tafx" target="new">Webinar</a> and <a href="https://pspwa.box.com/s/6ipmc7z3zkyr3i3yt1jzo8ylu6uhurcc" target="new">presentation</a> on the Whidbey basin evaluation of cumulative effects. This webinar presents the recent progress on the development of a cumulative effects evaluation in Whidbey basin and provides an overview of study implementation to occur over the next two to three years.</p> 
+			<h2>Future Scenarios phase one takeaways</h2>
 			
-			<p><a href="https://pspwa.box.com/s/7m3b28gmczaheehc1jopjeb9i4n81dqi" target="new">Evaluating the cumulative effects of Puget Sound recovery</a>. Presentation to the Puget Sound Science Panel, December 2021, introducing cumulative effects and provides an overview of a Puget Sound case study.</p>
+			<p>In phase one of the project (March 2021- June 2022), Future Scenarios identified four key drivers of change in Puget Sound: (1) population growth (2) climate change (3) governance (4) public perceptions and behaviors. These drivers helped build the first version of five different scenarios the Puget Sound region could experience in the future: </p>
 			
-			<p><a href="https://pspwa.box.com/s/ifskd6ldxss0p9zkykb2wjq2mlg14g0m" target="new">Cumulative Effects of Puget Sound Recovery Actions: Methodology and Design for a Case Study of Juvenile Salmonids and Nearshore Habitats in Whidbey Basin</a>. Preliminary design proposal for a case study applying cumulative effects evaluation to restoration of nearshore habitats in the Whidbey basin.</p>
+			<ul class="bullet-size-fix">
+				<li>one business-as-usual (BAU) scenario that reflects the region’s current trajectories and </li>
+				<li>four alternative-to-BAU scenarios that reflect variations of those trajectories. </li>
+			</ul>
 			
-			<p><a href="https://pspwa.box.com/s/ho176jksm2npelz1afxsy4hx5z8qmngw" target="new">Guidance for Evaluation of Cumulative Effects of Puget Sound Recovery Actions</a>. General guidance document for practical application of a cumulative effects evaluation methodology in Puget Sound.</p>
-		
-			<p><strong>Stay connected:</strong> <a href="https://public.govdelivery.com/accounts/WAPSP/signup/34165" target="new">Subscribe here</a> for news and announcements on the Whidbey basin cumulative effects study.</p>
+			<p>The initial scenarios and how they compare in terms of drivers are illustrated in the figure below:</p>
 			
-			<p class="last-update">Last updated: 11/9/22</p>
+			
+			
+			<p class="last-update">Last updated: 12/5/22</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
