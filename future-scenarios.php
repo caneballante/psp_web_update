@@ -77,7 +77,7 @@
 				<li>think systematically when considering choices and tradeoffs in the face of limited resources in the future. </li>
 			</ol>
 			
-			<h2>What will the Future Scenarios project help us do?</h2>
+			<h3>What will the Future Scenarios project help us do?</h3>
 			<ul class="bullet-size-fix">
 				<li>Show effective aspects of current recovery strategies and enable quicker adaptive management by reviewing strategies across a range of possible contexts;</li>
 				<li>Describe ways to improve planning and policy-setting;</li>
@@ -85,7 +85,7 @@
 				<li>Bridge social and natural science disciplines.</li>
 			</ul>
 			
-			<h2>Future Scenarios phase one began in June 2021 and was completed in June 2022 with a final report. Phase two work can be broken down into five main steps:</h2>
+			<h3>Future Scenarios phase one began in June 2021 and was completed in June 2022 with a final report. Phase two work can be broken down into five main steps:</h3>
 			
 			<table class="table-responsive table-condensed table-bordered table-striped">
 				<thead>
@@ -140,6 +140,16 @@
 			</ul>
 			
 			<h2>Future Scenarios phase two</h2>
+			
+			<p>Phase two of the project (July 2022 - June 2023) will:</p>
+			
+			<ul class="bullet-size-fix">
+				<li>refine and expand the quantitative and qualitative models used to develop scenarios (with particular emphasis on salmon-related outcomes), </li>
+				<li>develop a second version of the five scenarios, and </li>
+				<li>consider ways Future Scenarios outcomes can support the recovery community in different contexts. </li>
+			</ul>
+			
+			
 			
 			<p class="last-update">Last updated: 12/5/22</p>
 			<!-- InstanceEndEditable --> </div>
