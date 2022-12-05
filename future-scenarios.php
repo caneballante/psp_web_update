@@ -118,7 +118,7 @@
 			<br>
 			<br>
 			
-			<h2>Future Scenarios phase one takeaways</h2>
+			<h3>Future Scenarios phase one takeaways</h3>
 			
 			<p>In phase one of the project (March 2021- June 2022), Future Scenarios identified four key drivers of change in Puget Sound: (1) population growth (2) climate change (3) governance (4) public perceptions and behaviors. These drivers helped build the first version of five different scenarios the Puget Sound region could experience in the future: </p>
 			
