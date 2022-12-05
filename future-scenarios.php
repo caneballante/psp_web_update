@@ -157,6 +157,13 @@
 			
 			<p>More in-depth information on Future Scenarios, including additional project background, FAQs, and the advisory group, can be found in <a href="https://pspwa.box.com/s/8a776uv94xxlb3cduo3a17zcdyye8hox" target="new">the project’s public Box note.</a></p>
 			
+			<p>If you would like to be involved in this project work, have data to share, or would like a briefing, please get in touch with one of the project leads:</p>
+			
+			<ul class="bullet-size-fix">
+				<li>Katherine Wyatt, <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></li>
+				<li>Elizabeth McManus, <a href="mailto:emcmanus@rosstrategic.com">emcmanus@rossstrategic.com</a></li>
+			</ul>
+			
 			
 			<p class="last-update">Last updated: 12/5/22</p>
 			<!-- InstanceEndEditable --> </div>
