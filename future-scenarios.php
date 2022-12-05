@@ -129,14 +129,9 @@
 			
 			<p>The initial scenarios and how they compare in terms of drivers are illustrated in the figure below:</p>
 			
-			<div class="row ">
-				
-				<div class="col-sm-12">
-					<figure>
-					<img class="img-responsive floatleft" src="images/science-figures/ScenariosChart.jpg" alt=""/>
-						<figcaption></figcaption>
-						</figure>
-				</div>
+			
+					<img class="img-responsive floatleft" src="images/science-figures/ScenariosChart.jpg" alt="Chart that illustrates differences in business-as-usual scenarios and alternative scenarios"/>
+						
 			
 			
 			<p class="last-update">Last updated: 12/5/22</p>
