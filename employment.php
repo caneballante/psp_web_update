@@ -71,10 +71,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3809671-0/salmon-recovery-manager-ems-band-2">Salmon Recovery Manager (EMS Band 2)</a></p>
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3805252/strategic-funding-manager-exempt">Strategic Funding Manager (Exempt)</a></p>
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3770503/boards-policy-advisor-ems1">Boards Policy Advisor (EMS 1)</a></p>
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3799888/ecosystem-recovery-coordinator-ems1" target="new">Ecosystem Recovery Coordinator (EMS1)</a></p>
+		
 			
 		
 			
@@ -94,7 +91,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 11/17/22</p>
+		<p class="last-update">Last updated: 12/6/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
