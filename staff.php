@@ -300,7 +300,7 @@
 							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
 						<h5>Shannon Sanders</h5>
 						<p>Contracts Coordinator<br />
-							360.688.3772 | <a href="mailto:shannon.mcatee@psp.wa.gov">shannon.mcatee@psp.wa.gov</a></p>						
+							360.688.3772 | <a href="mailto:shannon.sanders@psp.wa.gov">shannon.sanders@psp.wa.gov</a></p>						
 						<h5>Arnaud Muamba</h5>
 						<p>Fiscal Analyst<br>
 							360.628.7476 | <a href="mailto:arnaud.muamba@psp.wa.gov">arnaud.muamba@psp.wa.gov</a></p>
@@ -318,7 +318,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 12/2/22</p>
+	<p class="last-update">Last updated: 12/7/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
