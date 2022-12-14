@@ -103,7 +103,7 @@
 	<ul class="bullet-size-fix">
 	<li><strong>Funding content focus: </strong>Collaborative research and syntheses addressing issues of emerging concern and factors limiting salmon recovery to support Puget Sound salmon recovery efforts. See the <a href="https://pspwa.box.com/s/gyub6kidgcl1uvviyl4lmg48ch0f4qfb">2022 RFI</a> for example topics. </li>
 	<li><strong>Estimated or determined timeline: </strong>Estimated release of Request for Information (RFI) is late December 2022 with proposals due in March. Awards will be announced in late spring for work to begin July 1, 2023.</li>
-	<li><strong>Estimated or determined funding amount: </strong>Up to $2 million will be awarded for projects ranging from $80,000-400,000 each depending on the study topic. </li>
+	<li><strong>Estimated or determined funding amount: </strong>Up to $2 million will be awarded for projects ranging from $80,000-400,000. </li>
 	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025. To learn more about the solicitation, please see <a href="https://pspwa.box.com/s/gyub6kidgcl1uvviyl4lmg48ch0f4qfb">the 2022 RFI</a> as an example.</li>
 	</ul>
 			
