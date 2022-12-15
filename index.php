@@ -223,7 +223,22 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!--column END--> 
+			<!--column END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/making-waves-toxics-reduction.png"  alt="Photo of Ecology staff working with business staff to reduce waste"/> <strong>Making Waves</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/27/ecologys-toxics-reduction-program/" target="_blank">Ecology’s Toxics Reduction Program sets ambitious targets in the 2022-2026 Action Agenda</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END-->
+			<!--COLUMN START-->
+			<!--COLUMN END-->
 			
 		</div>
 		<!--ROW END--> 
