@@ -189,8 +189,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/salishsea.jpg"  alt="Puget Sound Partnership logo"/> <strong>Making Waves</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2021/12/01/the-salish-sea-school-inspired-by-orcas/" target="new">The Salish Sea School, inspired by orcas</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/making-waves-aabrochure.jpg"  alt="Screenshot from the Action Agenda video brochure, showing Puget Sound water and two land masses"/> <strong>Making Waves</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/28/introduction-action-agenda/" target="new">An introduction to the 2022-2026 Action Agenda</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -202,8 +202,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/oysters.jpg"  alt="Illustration of Puget Sound Shellfish"/> <strong>Making Waves</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2021/12/04/restoring-the-olympia-washingtons-only-native-oyster/" target="_blank">Restoring the Olympia Oyster</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/making-waves-conversations.jpg"  alt="Photo of Mount Rainier with orange and blue color banners at the bottom right"/> <strong>Making Waves</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/27/action-agenda-interview-laura-blackmore-and-dennis-mclerran/" target="_blank">Making Waves Conversations: Laura Blackmore and Dennis McLerran discuss the 2022-2026 Action Agenda</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
