@@ -212,7 +212,17 @@
 			<!--COLUMN END--> 
 			
 			<!--COLUMN START-->
-			
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/making-waves-toxics.jpg"  alt="Photo of members of the Washington State Department of Fish and Wildlife's Toxics Biological Observation System team beach seine juvenile salmon on the Lower Duwamish River in 2018."/> <strong>Making Waves</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/27/toxics-in-aquatic-life/" target="_blank">Toxics in Aquatic Life, a 2022-2026 Action Agenda Vital Signs target</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
 			<!--column END--> 
 			
 		</div>
