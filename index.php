@@ -125,7 +125,7 @@
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
 			<div class="padding-5-bottom"><a href="federal-support.php">Federal support for Puget Sound recovery</a></div>
-			<div class="padding-5-bottom"><a href="government-relations.php">2022 legislative session</a></div>
+			<div class="padding-5-bottom"><a href="government-relations.php">2023 legislative session</a></div>
 			<div class="padding-5-bottom"><a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a></div>
 			<div class="padding-5-bottom"><a href="https://makingwaves.psp.wa.gov/">Making Waves magazine</a></div>
 		</div>
@@ -174,7 +174,7 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/2022-leg.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>RESOURCE</strong><br>
-						<a href="https://psp.wa.gov/government-relations.php">2022 session information</a><br>
+						<a href="https://psp.wa.gov/government-relations.php">2023 session information</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
