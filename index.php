@@ -238,6 +238,17 @@
 			</div>
 			<!--COLUMN END-->
 			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/making-waves-sils.jpg"  alt="Photo of tidal marsh and wetlands at Billy Frank Jr. Nisqually National Wildlife Refuge"/> <strong>Making Waves</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/26/sils-interview/" target="_blank">Funding Opportunity: Learn more about the Strategic Initiative Leads’ new 2022 requests for proposals</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
 			<!--COLUMN END-->
 			
 		</div>
