@@ -147,7 +147,7 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/2022-leg.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>RESOURCE</strong><br>
+						<img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt="Photo of the Capitol Building in Olympia with the text Legislative Update written in orange letters superimposed on the top corner of the photo"/> <strong>RESOURCE</strong><br>
 						<a href="https://psp.wa.gov/government-relations.php">2023 session information</a><br>
 						<!--END news content BOX-->  
 					</div>
