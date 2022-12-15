@@ -147,9 +147,22 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/2022-leg.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>RESOURCE</strong><br>
+						<a href="https://psp.wa.gov/government-relations.php">2023 session information</a><br>
+						<!--END news content BOX-->  
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+            <!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/SIL.jpg"  alt="Young girl and mother on the beach"/> <strong>STRATEGIC INITIATIVE LEADS</strong><br>
 						<a href="https://pugetsoundestuary.wa.gov/rfp/">Habitat, Shellfish, and Stormwater Strategic Initiative Leads Requests for Proposals.</a><br>
-						<!--END news content BOX-->  
+						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -162,19 +175,6 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/PEAR-news.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>STATEMENT</strong><br>
 						<a href="https://psp.wa.gov/pear.php">Partnership's Pro-Equity Anti-Racism statement</a><br>
-						<!--END news content BOX-->
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-            <!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/2022-leg.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>RESOURCE</strong><br>
-						<a href="https://psp.wa.gov/government-relations.php">2023 session information</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -186,8 +186,7 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/PSAR.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="https://psp.wa.gov/PSAR.php">Puget Sound Acquisition and Restoration Fund (PSAR) - Request for Proposals for the 2023-2025 biennium</a><br>
+						
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
