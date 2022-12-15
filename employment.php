@@ -72,7 +72,7 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 		
-			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3805252/strategic-funding-manager-exempt">Strategic Funding Manager (Exempt)</a></p>
 		
 			
 			      
@@ -91,7 +91,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 12/6/22</p>
+		<p class="last-update">Last updated: 12/15/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
