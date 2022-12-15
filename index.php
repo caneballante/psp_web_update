@@ -182,16 +182,7 @@
 			</div>
 			<!--COLUMN END--> 
             <!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
+			
 			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
