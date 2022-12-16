@@ -147,6 +147,19 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/EPA.jpg"  alt="Photo of rocky Puget Sound shoreline with the sun rising over the water"/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="https://www.epa.gov/puget-sound/funding-availability-puget-sound-action-agenda-climate-resilient-riparian-systems-lead">EPA Funding Availability for Puget Sound Action Agenda - Climate Resilient Riparian Systems Lead</a><br>
+						<!--END news content BOX-->  
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+            <!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt="Photo of the Capitol Building in Olympia with the text Legislative Update written in orange letters superimposed on the top corner of the photo"/> <strong>RESOURCE</strong><br>
 						<a href="https://psp.wa.gov/government-relations.php">2023 session information</a><br>
 						<!--END news content BOX-->  
@@ -168,7 +181,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-            <!--COLUMN START-->
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -180,9 +193,6 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!--COLUMN END--> 
-            <!--COLUMN START-->
-			
 			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
@@ -197,6 +207,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
+			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -209,8 +220,7 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!--COLUMN END--> 
-			
+			<!--column END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -223,7 +233,7 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!--column END-->
+			<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -231,19 +241,6 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/making-waves-toxics-reduction.png"  alt="Photo of Ecology staff working with business staff to reduce waste"/> <strong>Making Waves</strong><br>
 						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/27/ecologys-toxics-reduction-program/" target="_blank">Ecology’s Toxics Reduction Program sets ambitious targets in the 2022-2026 Action Agenda</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/making-waves-sils.jpg"  alt="Photo of tidal marsh and wetlands at Billy Frank Jr. Nisqually National Wildlife Refuge"/> <strong>Making Waves</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/26/sils-interview/" target="_blank">Funding Opportunity: Learn more about the Strategic Initiative Leads’ new 2022 requests for proposals</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
