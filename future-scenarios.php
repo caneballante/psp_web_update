@@ -73,8 +73,8 @@
 			<p>The overarching goal of the project is to help the Partnership and the Puget Sound recovery community do the following: </p>
 			
 			<ol class="bullet-size-fix">
-				<li>explore the root causes and interactions that drive long-term Puget Sound system dynamics and </li>
-				<li>think systematically when considering choices and tradeoffs in the face of limited resources in the future. </li>
+				<li>Explore the root causes and interactions that drive long-term Puget Sound system dynamics; </li>
+				<li>Think systematically when considering choices and tradeoffs in the face of limited resources in the future. </li>
 			</ol>
 			
 			<h2>What will the Future Scenarios project help us do?</h2>
@@ -85,38 +85,7 @@
 				<li>Bridge social and natural science disciplines.</li>
 			</ul>
 			
-			<h3>Future Scenarios phase one began in June 2021 and was completed in June 2022 with a final report. Phase two work can be broken down into five main steps:</h3>
-			
-			<table class="table-responsive table-condensed table-bordered table-striped">
-				<thead>
-				<tr>
-				<th>Step</th>
-				<th>Description</th>
-				<th>Dates</th>
-				</tr>
-				</thead>
-				<tbody>
-				<tr>
-					<td><p class="padding-10-all"><strong>1</strong></p></td>
-					<td><p class="padding-10-all">Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery.</p></td>
-					<td><p class="padding-10-all">July - September 2022</p></td>
-				</tr>
-				<tr><td><p class="padding-10-all"><strong>2</strong></p></td>
-					<td><p class="padding-10-all">Develop the second version of the business-as-usual scenario to understand what could happen in Puget Sound on current trajectory.</p></td>
-					<td><p class="padding-10-all">September - December 2022</p></td></tr>
-				<tr><td><p class="padding-10-all"><strong>3</strong></p></td>
-					<td><p class="padding-10-all">Develop the second version of the four alternative scenarios to understand what could happen in Puget Sound if the recovery strategy changes or things don't go as planned.</p></td>
-					<td><p class="padding-10-all">October 2022 - January 2023</p></td></tr>
-				<tr><td><p class="padding-10-all"><strong>4</strong></p></td>
-					<td><p class="padding-10-all">Share scenario outcomes and analysis with broader recovery community to gauge consequences.</p></td>
-					<td><p class="padding-10-all">January - March 2023</p></td></tr>
-				<tr><td><p class="padding-10-all"><strong>5</strong></p></td>
-					<td><p class="padding-10-all">Consider how scenarios can support decision makers and capture next steps for Future Scenarios in phase 2 report. </p></td>
-					<td><p class="padding-10-all">April - June 2023</p></td></tr>
-				</tbody>
-			</table>
-			<br>
-			<br>
+			<img src="images/science-figures/future-scenario-phases.png" class="img-responsive" width=100% alt=""/><br>
 			
 			<h3>Future Scenarios phase one takeaways</h3>
 			
@@ -144,9 +113,9 @@
 			<p>Phase two of the project (July 2022 - June 2023) will:</p>
 			
 			<ul class="bullet-size-fix">
-				<li>refine and expand the quantitative and qualitative models used to develop scenarios (with particular emphasis on salmon-related outcomes), </li>
-				<li>develop a second version of the five scenarios, and </li>
-				<li>consider ways Future Scenarios outcomes can support the recovery community in different contexts. </li>
+				<li>Refine and expand the quantitative and qualitative models used to develop scenarios (with particular emphasis on salmon-related outcomes); </li>
+				<li>Develop a second version of the five scenarios; and </li>
+				<li>Consider ways Future Scenarios outcomes can support the recovery community in different contexts. </li>
 			</ul>
 			
 			<h3>Future Scenarios advisory group</h3>
