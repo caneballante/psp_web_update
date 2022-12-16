@@ -85,7 +85,7 @@
 				<li>Bridge social and natural science disciplines.</li>
 			</ul>
 			
-			<img src="images/science-figures/future-scenario-phases.png" class="img-responsive" width=100% alt=""/><br>
+			<img src="images/science-figures/future-scenario-phases.png" class="img-responsive" width=100% alt="Graphic that shows the timeline for phase two of the Future Scenarios project. The text in the timeline says the following: Future Scenarios phase one began in June 2021 and was completed in June 2022 with a final report. Phase two work can be broken down into five main steps: Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery, July – September 2022. Develop the second version of the business-as-usual scenario to understand what could happen in Puget Sound on current trajectory, Sept. – Dec. 2022. Develop the second version of the four alternative scenarios to understand what could happen in Puget Sound if the recovery strategy changes or things don't go as planned, Oct. 2022 – Jan. 2023. Share scenario outcomes and analysis with broader recovery community to gauge consequences, Jan. – March 2023. Consider how scenarios can support decision makers and capture next steps for Future Scenarios in phase two report, April – June 2023"/><br>
 			
 			<h3>Future Scenarios phase one takeaways</h3>
 			
