@@ -156,9 +156,8 @@
 						360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
 						<!--INTEGRATED PLANNING TEAM-->
 						<h2>INTEGRATED PLANNING PROGRAM</h2>
-						<h5>Stephanie Suter</h5>
-						<p>Planning Program Director <br />
-							360.791.3154 | <a href="mailto:stephanie.suter@psp.wa.gov">stephanie.suter@psp.wa.gov </a></p>
+						<h5>VACANT</h5>
+						<p>Planning Program Director<br></p>
 						<!--PLANNING TEAM-->
 						<h3 class="padding-10-top">PLANNING TEAM</h3>
 						<h5>Dan Stonington</h5>
@@ -318,7 +317,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 12/15/22</p>
+	<p class="last-update">Last updated: 12/21/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
