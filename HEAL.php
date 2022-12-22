@@ -80,6 +80,8 @@
 	Environmental justice includes addressing disproportionate environmental health impacts in all laws, rules, and policies with environmental impacts by prioritizing vulnerable populations and overburdened communities, the equitable distribution of resources and benefits, and eliminating harm.”</blockquote> 
  
 	<p>HEAL further establishes environmental justice obligations for the Partnership, including requirements to participate in the state’s Environmental Justice Council and interagency workgroup, develop and implement community engagement and tribal consultation frameworks, incorporate environmental justice into implementation plans and budget development processes, and reporting on impacts and outcomes of environmental justice.</p>
+			
+			<img src="images/HEAL-timeline.jpg" width="612px" height="297px" alt="Timeline for the HEAL ACT">
 
  
 			 
