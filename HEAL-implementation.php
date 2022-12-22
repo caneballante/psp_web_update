@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Healthy Environments for All (HEAL)</title>
+<title>Puget Sound Partnership - HEAL Implementation</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Healthy Environments for All (HEAL)</h1>
+			<h1>HEAL Implementation</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -66,24 +66,11 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Environmental justice (EJ) began as a national and international movement to address environmental racism and health inequities experienced disproportionately by communities as a result of settler colonialism, industrial development, extraction, and the built environment. Movement leaders coined the term to represent the powerful mobilization efforts of these communities, particularly communities of color, which have experienced and continue to experience generations of land use decisions embedded in racist planning praxis.</p>
- 
-			<p>In its establishment of the Puget Sound Partnership in 2007, the Washington State Legislature identified six ecosystem recovery goals for creating a resilient Puget Sound. The fulfillment of each of these goals will require the application of EJ principles, namely that effected communities are engaged in the recovery efforts.</p>
- 
-			<p>The passage of the Healthy Environment for All (HEAL) Act (SB 5141) in 2021 identifies the Partnership as one of seven agencies across the state mandated to develop policies and programs most directly impactful to environmental justice.</p>  
- 
-			<p>The HEAL Act establishes a definition of Environmental Justice for Washington that builds on the Environmental Protection Agency's (EPA) definition of environmental justice:</p>
- 
-	<blockquote>Environmental Justice: “the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income with respect to the development, implementation, and enforcement of environmental laws, rules, and policies.<br><br>
- 
-	Environmental justice includes addressing disproportionate environmental health impacts in all laws, rules, and policies with environmental impacts by prioritizing vulnerable populations and overburdened communities, the equitable distribution of resources and benefits, and eliminating harm.”</blockquote> 
- 
-	<p>HEAL further establishes environmental justice obligations for the Partnership, including requirements to participate in the state’s Environmental Justice Council and interagency workgroup, develop and implement community engagement and tribal consultation frameworks, incorporate environmental justice into implementation plans and budget development processes, and reporting on impacts and outcomes of environmental justice.</p>
-			
-		<figure>
-			<img src="images/HEAL-timeline.jpg" width="612px" height="297px" alt="Timeline for the HEAL ACT"/>
-			<figcaption>Figure 1 - Deadlines of HEAL Act mandates</figcaption>
-		</figure>
+			<p>The Puget Sound Partnership is in the middle of our <a href="/strategic-plan.php">2020-2025 Strategic Plan timeline</a>. Two goals reflect our commitment to equity and environmental justice: We are demonstrably more diverse, inclusive, and equitable as a result of implementing our DEI Action Plan; and we have a staff sufficient to support the requirements of statute, federal, state, tribal, and local collaboration, and partner expectations. We also have staff to support the agency’s work – IT, fiscal, administration, etc. Staff have the necessary support and training to perform effectively (including DEI).</p>
+<p>The draft PSP Equity and Environmental Justice Work Plan Initiatives are connected to 2020-2025 Strategic Plan Goals across each PSP division (internal, external, and executive). These initiatives are priority areas of work for the Partnership and outline how we will implement each HEAL Act mandate. The Puget Sound Partnership work plan is updated annually to include timely milestones for each initiative, and to ensure adaptive management and that we are meeting our agency obligations.</p>
+<p>The draft Implementation Plan includes reference to two additional plans that guide implementation and integration of equity and EJ into Partnership programs and actions. The Equity and EJ Strategic Plan guides the Equity and EJ Program goals and actions through 2026. The DEI and EJ Action Plan guides the Partnership goals and actions of DEI and EJ in the short and long-term. Each of these are currently in draft form and will be finalized and published early 2023.</p>
+<p>Download a copy of the EJ Implementation Plan</p>
+
 
  
 			 <p class="last-update">Last updated: 12/22/22</p>
