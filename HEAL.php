@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Federal Support for Puget Sound Recovery</title>
+<title>Puget Sound Partnership - Healthy Environments for All (HEAL)</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> Federal Support for Puget Sound Recovery</h1>
+			<h1>Healthy Environments for All (HEAL)</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -58,6 +58,7 @@
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
 				
+			<p><a href="/community-engagement.php">Community Engagement</a></p>
 			
 		
 			<!-- InstanceEndEditable -->
@@ -66,23 +67,20 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Puget Sound recovery is a not only a regional priority; it is critical to the environmental and economic well-being of the entire nation. As such, the Environmental Protection Agency designated Puget Sound as an “Estuary of National Significance” under the <a href="https://www.epa.gov/nep/overview-national-estuary-program" target="new">National Estuary Program</a> in 1988. From appropriator to regulator to trustee for Tribes, numerous Federal government entities play multiple critical roles to help advance Puget Sound recovery efforts</p><br>
-			
-			<h2>New Funding Opportunities</h2>
-			
-			<div class="row padding-30-bottom">
-				<div class="col-sm-9">
-					<div style="padding:56.25% 0 0 0;position:relative;">
-						<iframe src="https://player.vimeo.com/video/706723427?h=07ec6b9a8a&title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-					</div>
-				</div>
-			</div>
-			
-			
-			<p>The Bipartisan Infrastructure Law (the Infrastructure Investment and Jobs Act) and the Inflation Reduction Act represent potentially transformational funding opportunities for Puget Sound recovery. The Partnership is committed to helping partners seek funding for programs, projects, and other work. Please see a list of funding opportunties below.</p>
-			<br>
-			
-			<iframe width=900 height=700 src="https://app.powerbigov.us/view?r=eyJrIjoiNjE3ZGJlYTktMGFkYy00OWNlLTgyYWUtYjMyMDBkNWM0ZDE5IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9&pageName=ReportSection4135b7dbe5123b276369" frameborder="0" allowFullScreen="true"></iframe>
+			<p>Environmental justice (EJ) began as a national and international movement to address environmental racism and health inequities experienced disproportionately by communities as a result of settler colonialism, industrial development, extraction, and the built environment. Movement leaders coined the term to represent the powerful mobilization efforts of these communities, particularly communities of color, which have experienced and continue to experience generations of land use decisions embedded in racist planning praxis.</p>
+ 
+			<p>In its establishment of the Puget Sound Partnership in 2007, the Washington State Legislature identified six ecosystem recovery goals for creating a resilient Puget Sound. The fulfillment of each of these goals will require the application of EJ principles, namely that effected communities are engaged in the recovery efforts.</p>
+ 
+			<p>The passage of the Healthy Environment for All (HEAL) Act (SB 5141) in 2021 identifies the Partnership as one of seven agencies across the state mandated to develop policies and programs most directly impactful to environmental justice.</p>  
+ 
+			<p>The HEAL Act establishes a definition of Environmental Justice for Washington that builds on the Environmental Protection Agency's (EPA) definition of environmental justice:</p>
+ 
+	<blockquote>Environmental Justice: “the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income with respect to the development, implementation, and enforcement of environmental laws, rules, and policies.<br><br>
+ 
+	Environmental justice includes addressing disproportionate environmental health impacts in all laws, rules, and policies with environmental impacts by prioritizing vulnerable populations and overburdened communities, the equitable distribution of resources and benefits, and eliminating harm.”</blockquote> 
+ 
+	<p>HEAL further establishes environmental justice obligations for the Partnership, including requirements to participate in the state’s Environmental Justice Council and interagency workgroup, develop and implement community engagement and tribal consultation frameworks, incorporate environmental justice into implementation plans and budget development processes, and reporting on impacts and outcomes of environmental justice.</p>
+
  
 			 
 		<!-- InstanceEndEditable --> </div>
