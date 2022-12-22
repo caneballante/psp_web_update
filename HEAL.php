@@ -57,8 +57,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				
-			<p><a href="/community-engagement.php">Community Engagement</a></p>
+					<?php include 'includes/ln-HEAL.html';?>
 			
 		
 			<!-- InstanceEndEditable -->
