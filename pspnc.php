@@ -95,13 +95,13 @@
 				
 				<div class="col-sm-6">
 					<figure>
-					<img class="img-responsive floatleft" src="images/PugetBeaches.jpg" alt=""/>
+					<img class="img-responsive floatleft" src="images/PugetBeaches.jpg" alt="Graphic that shows an undeveloped shoreline, with a river flowing from the mountains, mature forests, and a beach with natural processes"/>
 						<figcaption><strong>Before development.</strong> Graphic from King County</figcaption>
 						</figure>
 				</div>
 				<div class="col-sm-6">
 					<figure>
-				<img class="img-responsive floatright" src="images/PugetBeaches2.jpg" alt=""/>
+				<img class="img-responsive floatright" src="images/PugetBeaches2.jpg" alt="Graphic that shows a developed shoreline, with a managed river, logged forests, and highly developed shorelines"/>
 						<figcaption><strong>After development.</strong> Graphic from King County</figcaption>
 						</figure>
 				</div>
