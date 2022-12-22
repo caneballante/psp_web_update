@@ -84,20 +84,18 @@
 		<figure>
 			<img src="images/HEAL-timeline.jpg" width="612px" height="297px" alt="Timeline for the HEAL ACT"/>
 			<figcaption>Figure 1 - Deadlines of HEAL Act mandates</figcaption>
-		</figure>	
+		</figure>
 
  
-			 
+			 <p class="last-update">Last updated: 12/22/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="https://www.epa.gov/puget-sound/puget-sound-federal-task-force" target="new">Puget Sound Federal Task Force</a></li>
-				<li role="presentation"> <a href="/NEP-overview.php">Puget Sound National Estuary Program</a></li><br>
-				<button>The Partnership will soon hire new staff to assist project implementers to track and apply for grants, report on federal investments in Puget Sound recovery, and more. Stay tuned for updates.</button>
+				
 				
 				<!-- InstanceEndEditable -->
 			</ul>
