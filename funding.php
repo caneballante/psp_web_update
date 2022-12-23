@@ -145,7 +145,7 @@
 	<li><strong>Additional background information: </strong>More information can be found in the <a href="https://rco.wa.gov/wp-content/uploads/2019/05/SAL-Manual18.pdf" target="new">Recreation and Conservation Office’s Manual 18.</a></li>
 	</ul>
 			
-			
+	<p class="last-update">Last updated: 12/23/22</p>
 
 
 
