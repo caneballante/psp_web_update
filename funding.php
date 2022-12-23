@@ -105,28 +105,26 @@
 	<li><strong>Additional background information: </strong>Current and previous project information can be found at <a href="/monitoring-accelerate-recovery.php">this link</a>. Early thinking about the 2023-2025 solicitation can be found at the latest Steering Committee meeting (<a href="https://pspwa.box.com/s/krizep442xaidd0xs92gtvlas61ej889">linked slides here</a>).</li>
 	</ul>
 			
-<h3>Puget Sound Salmon Science Investigations (Salmon Science Advisory Group Affiliation)</h3>
-	<ul class="bullet-size-fix">
-	<li><strong>Funding content focus: </strong>Collaborative research and syntheses addressing issues of emerging concern and factors limiting salmon recovery to support Puget Sound salmon recovery efforts. See the <a href="https://pspwa.box.com/s/gyub6kidgcl1uvviyl4lmg48ch0f4qfb">2022 RFI</a> for example topics. </li>
-	<li><strong>Estimated or determined timeline: </strong>Estimated release of Request for Information (RFI) is late December 2022 with proposals due in March. Awards will be announced in late spring for work to begin July 1, 2023.</li>
-	<li><strong>Estimated or determined funding amount: </strong>Up to $2 million will be awarded for projects ranging from $80,000-400,000. </li>
-	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025. To learn more about the solicitation, please see <a href="https://pspwa.box.com/s/gyub6kidgcl1uvviyl4lmg48ch0f4qfb">the 2022 RFI</a> as an example.</li>
-	</ul>
 			
 <h3>Strategic Initiative Leads Requests for Proposals (Strategic Initiative Leads Affiliation)</h3>
 	<ul class="bullet-size-fix">
 	<li><strong>Funding content focus: </strong>These RFPs will solicit for proposals to advance our investment priorities, described in the joint SILs Investment Plan for FFY2021-2022, that were designed to protect and restore habitat, water quality, and harvestable shellfish beds and to result in a more resilient, equitable, and sustainable future for Puget Sound communities and ecosystems.</li>
 	<li><strong>Estimated or determined timeline: </strong>There are three separate timelines depending on the SIL of interest.</li>
 		<ul class="bullet-size-fix">
-			<li><strong>Shellfish SIL: </strong>Open from September 28 until November 22, 2022.</li>
-			<li><strong>Stormwater SIL: </strong>Open from September 28 until November 9, 2022.</li>
-			<li><strong>Habitat SIL: </strong>Open from October 4 until December 6, 2022.</li>
+			<li><strong>Shellfish SIL RFP: </strong>Coming winter 2023 for proposals supporting Investment Priority D to integrate shellfish bed classification priorities in wastewater facility function, planning, and/or upgrades.</li>
+			<li><strong>Stormwater SIL RFP: </strong>Multiple grant opportunities coming spring 2023 including Chemical Action Plan Implementation, Research for Chemicals of Emerging Concern, and Exploring a Toxics and Stormwater Infrastructure Fund.  </li>
+			
 		</ul>
 		<li><strong>Estimated or determined funding amount:</strong></li>
 		<ul class="bullet-size-fix">
-			<li><strong>Shellfish SIL: </strong>Up to $5.5 million for proposals between $200,000 to $1.5 million for up to 4 years. </li>
-			<li><strong>Stormwater SIL: </strong>Up to $2 million for proposals between $200,000 - $500,00 for up to 4 years. </li>
-			<li><strong>Habitat SIL: </strong>Up to $9 million for proposals between $200,000 to $800,000 for up to 4 years.</li>
+			<li><strong>Shellfish SIL RFP: </strong>Up to $1 million for proposals between $100,000 to $700,000 for up to 4 years. </li>
+			<li><strong>Stormwater SIL RFP: </strong></li>
+				<ul class="bullet-size-fix">
+					<li>Up to $1.5 million for proposals up to $500,00 for Chemical Action Plan Implementation </li>
+					<li>Up to $1 million for proposals between $200,000 and $750,000 for Research for Chemicals of Emerging Concern</li>
+					<li>Up to $300,000 for Explore a Toxics and Stormwater Infrastructure Fund</li>
+				</ul>
+			
 		</ul>
 	<li><strong>Additional background information: </strong>More information about the funding is available on their <a href="https://pugetsoundestuary.wa.gov/rfp/">website</a>.</li>
 	</ul>
