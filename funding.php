@@ -72,14 +72,20 @@
               <br />
 <p>This page contains current contract and grant opportunities, as well as valuable information for recipients and contractors. Please explore the opportunities on this page, and if you have any questions, you are encouraged to send a message to the project manager listed in the solicitation.</p></div>
 			
-<h2>Funding Opportunity Announcement: Strategic Initiative Leads Requests for Proposals</h2>
-		
+<h2>Funding Opportunity Announcement: Puget Sound Salmon Science Investigations</h2>
+	<p>The Partnership and Salmon Science Advisory Group are pleased to announce a <a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">Request for Information</a> for collaborative proposals to conduct salmon scientific investigations. Investigations could include but are not limited to modeling, research, and syntheses to address emerging issues of concern, factors limiting recovery, and other critical science and monitoring questions to advance Puget Sound salmon recovery. Outcomes of the proposed investigations should support ongoing recovery planning and adaptive management efforts to ensure self-sustaining, harvestable, salmon runs that sustain people and orcas in Puget Sound. Proposed investigations are encouraged to address environmental justice, tribal needs, and treaty rights in relation to salmon recovery.</p>
+	
+	<p>Specifically, the Partnership is seeking project proposals that address one or more priority information needs: </p>
+			<ol class="bullet-size-fix">
+				<li>Relationships between salmon populations, salmon habitats, and recovery actions;</li>
+				<li>Marine survival and marine food webs;</li>
+				<li>Salmon production potential across landscapes; and</li>
+				<li>Human dimensions of salmon recovery and Indigenous knowledge.</li>
+			</ol>
 			
-			<p><a href="https://pugetsoundestuary.wa.gov/rfp/" target="new">The Habitat, Shellfish, and Stormwater Strategic Initiative Leads (SIL) are releasing competitive Requests for Proposals (RFPs)</a> in fall and winter of 2022-2023 to provide grants to subrecipients that accelerate Puget Sound Recovery. These RFPs will solicit for proposals to advance our investment priorities, described in the joint SILs Investment Plan for FFY2021-2022, that were designed to protect and restore habitat, water quality, and harvestable shellfish beds and to result in a more resilient, equitable, and sustainable future for Puget Sound communities and ecosystems.</p>
-
-<p>Investment Priorities detailed in a <a href="https://pspwa.box.com/s/12bxlv03wp9meb8hc4gl2s7yj4x9dzf2" target="new">Shared SIL Investment Plan for FFY2021-2022</a> were developed by the Habitat, Shellfish, and Stormwater Strategic Initiative Advisory Teams in the spring of 2022 and were informed by over six years of discussion associated with development of regional Implementation Strategies and the 2022-2026 Action Agenda for Puget Sound.</p>
-			
-			<button class="button button1"><a href="https://pugetsoundestuary.wa.gov/rfp/" target="new" style="color:white"><strong>Habitat, Shellfish, and Stormwater Strategic Initiative Leads Requests for Proposals</strong></a></button><br>
+	<p><strong>Timeline: </strong>Open from December 22, 2022 until March 13, 2023. Awards will be announced in April for work anticipated to begin in July 2023 and be completed by June 30, 2025.</p>
+	
+	<p><strong>Funding amount: </strong>Up to $2 million will be awarded for projects up to $400,000 each.</p>
 			
 <h2>Upcoming Funding Overview</h2>
 			
