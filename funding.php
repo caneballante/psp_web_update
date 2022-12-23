@@ -128,6 +128,14 @@
 		</ul>
 	<li><strong>Additional background information: </strong>More information about the funding is available on their <a href="https://pugetsoundestuary.wa.gov/rfp/">website</a>.</li>
 	</ul>
+
+<h3>Washington Sea Grant (WSG) 2023 Request for Proposals</h3>
+	<ul class="bullet-size-fix">
+	<li><strong>Funding content focus: </strong>Funded projects will contribute to WSG and state priority information needs by advancing knowledge in one of the four WSG focus areas: environmental literacy and workforce development, resilient communities and economies, healthy coastal ecosystems, and sustainable fisheries and aquaculture. </li>
+	<li><strong>Estimated or determined timeline: </strong>The request for proposals will be released in early January 2023. Preliminary proposals are due February 16, 2023 and full proposals are due May 4, 2023. </li>
+	<li><strong>Estimated or determined funding amount: </strong>Approximately $2 million will be awarded during the two-year funding cycle.  </li>
+	<li><strong>Additional background information: </strong>More information can be found on the <a href="https://wsg.washington.edu/funding/apply-for-funding/" target="new">WSG website.</a></li>
+	</ul>
 			
 <h3>Salmon Recovery Funding Board (SRFB) Monitoring Program (SRFB, Lead Entities, and Watersheds Affiliation)</h3>
 	<ul class="bullet-size-fix">
