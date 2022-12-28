@@ -67,7 +67,9 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Start and end times depend on agenda needs, but meetings generally begin at 9:30 a.m. and adjourn between 3 – 4:30 p.m. Click on the meeting materials link to view the meeting agenda, usually posted one week prior to the meeting. </p>
 			<p>Please note meeting dates, times and/or locations are subject to change and this calendar will be updated accordingly.</p>
-			<div><IFRAME WIDTH=1000 HEIGHT=900 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/28bf44182f2840c3a01406a997d32f61"></IFRAME></div>
+			<div>  <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/6a21b9b107354a2fa92d79101b94a29a"></IFRAME></div>
+            
+          
 			<p> Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls.</p>
 			<h3>Board contact</h3>
 			<p>For questions about the Partnership's boards contact:<br />
