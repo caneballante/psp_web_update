@@ -85,7 +85,7 @@
 						360.870.6165 | <a href="mailto:melissa.schutten@psp.wa.gov">melissa.schutten@psp.wa.gov</a></p>
 			
 						<h5>Lea Anne Burke</h5>
-						<p>Tribal Liaison<br>
+						<p>Tribal Affairs Manager<br>
 						360.628.7532 | <a href="mailto:lea-anne.burke@psp.wa.gov">lea-anne.burke@psp.wa.gov</a></p>
 			
 						<h5>Stephanie Sayo</h5>
@@ -317,7 +317,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 12/21/22</p>
+	<p class="last-update">Last updated: 12/29/22</p>
 
 		<!-- InstanceEndEditable --> </div>5
 25
