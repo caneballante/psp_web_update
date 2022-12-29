@@ -66,14 +66,17 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			
+			<div class="highlightbox">
+				<p><a href="https://pspwa.box.com/s/o371k131wdcmotb0bcwfn34bpltkfjl1">Download a copy of the draft Puget Sound Partnership HEAL Implementation Plan</a></p></div>
 			<p>The Puget Sound Partnership is in the middle of our <a href="/strategic-plan.php">2020-2025 Strategic Plan timeline</a>. Two goals reflect our commitment to equity and environmental justice: We are demonstrably more diverse, inclusive, and equitable as a result of implementing our DEI Action Plan; and we have a staff sufficient to support the requirements of statute, federal, state, tribal, and local collaboration, and partner expectations. We also have staff to support the agency’s work – IT, fiscal, administration, etc. Staff have the necessary support and training to perform effectively (including DEI).</p>
-<p>The draft PSP Equity and Environmental Justice Work Plan Initiatives are connected to 2020-2025 Strategic Plan Goals across each PSP division (internal, external, and executive). These initiatives are priority areas of work for the Partnership and outline how we will implement each HEAL Act mandate. The Puget Sound Partnership work plan is updated annually to include timely milestones for each initiative, and to ensure adaptive management and that we are meeting our agency obligations.</p>
+<p>The <a href="https://pspwa.box.com/s/o371k131wdcmotb0bcwfn34bpltkfjl1">HEAL Implementation Plan</a> includes draft PSP Equity and Environmental Justice Work Plan Initiatives which are connected to 2020-2025 Strategic Plan Goals across each PSP division (internal, external, and executive). These initiatives are priority areas of work for the Partnership and outline how we will implement each HEAL Act mandate. The Puget Sound Partnership work plan is updated annually to include timely milestones for each initiative, and to ensure adaptive management and that we are meeting our agency obligations.</p>
 <p>The draft Implementation Plan includes reference to two additional plans that guide implementation and integration of equity and EJ into Partnership programs and actions. The Equity and EJ Strategic Plan guides the Equity and EJ Program goals and actions through 2026. The DEI and EJ Action Plan guides the Partnership goals and actions of DEI and EJ in the short and long-term. Each of these are currently in draft form and will be finalized and published early 2023.</p>
-<p><a href="https://pspwa.box.com/s/o371k131wdcmotb0bcwfn34bpltkfjl1">Download a copy of the EJ Implementation Plan</a></p>
+<p><a href="https://pspwa.box.com/s/o371k131wdcmotb0bcwfn34bpltkfjl1">Download a copy of the draft Puget Sound Partnership HEAL Implementation Plan</a></p>
 
 
  
-			 <p class="last-update">Last updated: 12/22/22</p>
+			 <p class="last-update">Last updated: 12/29/22</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

@@ -97,7 +97,7 @@
                 </tr>
                 <tr>
                     <td><p>Lea Anne Burke</p></td>
-                    <td><p>Tribal Liaison</p></td>
+                    <td><p>Tribal Affairs Manager</p></td>
                 </tr>
                 <tr>
                     <td><p>Denise Ross</p></td>
