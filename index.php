@@ -257,8 +257,36 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 						<!--news content -->
-					<div class="newsbox-date">NOV<br>
-						3</div>
+					<div class="newsbox-date">JAN<br>
+						26</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
+						<br>
+						</a><br>
+					</div>
+					<!--END news content-->
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">FEB<br>
+						1</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
+						<br>
+						</a><br>
+					</div>
+					<!--END news content-->  
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">FEB<br>
+						9</div>
 					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
 						<br>
 						</a><br>
@@ -271,35 +299,7 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">NOV<br>
-						17</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content-->  
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">DEC<br>
-						8</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content-->
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">DEC<br>
+					<div class="newsbox-date">MAR<br>
 						15</div>
 					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
 						<br>
