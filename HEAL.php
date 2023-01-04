@@ -81,12 +81,12 @@
 	<p>HEAL further establishes environmental justice obligations for the Partnership, including requirements to participate in the state’s Environmental Justice Council and interagency workgroup, develop and implement community engagement and tribal consultation frameworks, incorporate environmental justice into implementation plans and budget development processes, and reporting on impacts and outcomes of environmental justice.</p>
 			
 		<figure>
-			<img src="images/HEAL-timeline.jpg" width="612px" height="297px" alt="Timeline for the HEAL ACT"/>
+			<img src="images/HEAL-timeline.jpg" width="900px" height="313px" alt="Timeline for the HEAL ACT"/>
 			<figcaption>Figure 1 - Deadlines of HEAL Act mandates</figcaption>
 		</figure>
 
  
-			 <p class="last-update">Last updated: 12/22/22</p>
+			 <p class="last-update">Last updated: 1/4/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
