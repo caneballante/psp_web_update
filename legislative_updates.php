@@ -73,7 +73,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/33b026f" target="new">General session info</a></p>
 			<p><a href="https://pspwa.box.com/s/g9bhwvf5n62fy61f4u13ozh0r0a2224w" target="new">2023 Puget Sound Legislative Priorities</a></p>
 			
-			<IFRAME WIDTH=950 HEIGHT=700 FRAMEBORDER=0 SRC=https://app.smartsheet.com/b/publish?EQBCTaaac272043c74f08876fe2104f2096a9></IFRAME>
+			<IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=aaac272043c74f08876fe2104f2096a9"></IFRAME>
 				
 			
 			
