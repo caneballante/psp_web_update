@@ -66,13 +66,13 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Environmental justice (EJ) began as a national and international movement to address environmental racism and health inequities experienced disproportionately by communities as a result of settler colonialism, industrial development, extraction, and the built environment. Movement leaders coined the term to represent the powerful mobilization efforts of these communities, particularly communities of color, which have experienced and continue to experience generations of land use decisions embedded in racist planning praxis.</p>
+			<p>Environmental justice (EJ) began as a national and international movement to address environmental racism and health inequities experienced disproportionately by communities as a result of settler colonialism, industrial development, extraction, and the built environment. Movement leaders coined the term to represent the powerful mobilization efforts of these communities, particularly communities of color, which have experienced and continue to experience generations of racist land use decisions.</p>
  
 			<p>In its establishment of the Puget Sound Partnership in 2007, the Washington State Legislature identified six ecosystem recovery goals for creating a resilient Puget Sound. The fulfillment of each of these goals will require the application of EJ principles, namely that effected communities are engaged in the recovery efforts.</p>
  
 			<p>The passage of the Healthy Environment for All (HEAL) Act (SB 5141) in 2021 identifies the Partnership as one of seven agencies across the state mandated to develop policies and programs most directly impactful to environmental justice.</p>  
  
-			<p>The HEAL Act establishes a definition of Environmental Justice for Washington that builds on the Environmental Protection Agency's (EPA) definition of environmental justice:</p>
+			<p>The HEAL Act establishes a definition of Environmental Justice for Washington that builds on the Environmental Protection Agency's (EPA) definition of environmental justice:</p> 
  
 	<blockquote>Environmental Justice: “the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income with respect to the development, implementation, and enforcement of environmental laws, rules, and policies.<br><br>
  
@@ -81,11 +81,13 @@
 	<p>HEAL further establishes environmental justice obligations for the Partnership, including requirements to participate in the state’s Environmental Justice Council and interagency workgroup, develop and implement community engagement and tribal consultation frameworks, incorporate environmental justice into implementation plans and budget development processes, and reporting on impacts and outcomes of environmental justice.</p>
 			
 		<figure>
-			<img src="images/HEAL-timeline.jpg" width="900px" height="313px" alt="Timeline for the HEAL ACT"/>
+			   <img src="images/HEAL-timeline1.jpg" width="735" height="254" alt="Timeline for the HEAL ACT"/>
 			<figcaption>Figure 1 - Deadlines of HEAL Act mandates</figcaption>
 		</figure>
 
- 
+           <br>
+<br>
+
 			 <p class="last-update">Last updated: 1/4/23</p>
 		<!-- InstanceEndEditable --> </div>
 		

@@ -67,10 +67,10 @@
 		<div class="container light-blue-fill" >
 			<div class="row padding-20-all">
 				<div class="col-sm-6">
-                    <p class="padding-10-all white"><strong>The 2023 Legislative session Puget Sound priorities:</strong></p>
-                  <ul class="bullet-size-fix white"> 
-                    <li>The 2023-2025 Puget Sound legislative priorities<a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpspwa.box.com%2Fs%2Fg9bhwvf5n62fy61f4u13ozh0r0a2224w&data=05%7C01%7Cjon.bridgman%40psp.wa.gov%7C1a3b4a6defd648f8f3ad08daedb54011%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638083659974229928%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YhdHhHaFbcUcrM9gCrbwjHtCi6klhu0ZyvobtxGYxko%3D&reserved=0" target="new" class="white underline">available here.</a></li> 
-                   <li>The 2023-2025 Puget Sound Acquisition and Restoration (PSAR) Large Capital Project ranked list and project factsheets are <a href="https://pspwa.box.com/s/ckw368t070rmlcdl182999fnbi0dtun2" target="new" class="white underline">available here.</a></li>  
+                    <p class="padding-10-all white"><strong>2023-2025 PUGET SOUND ACQUISITION AND RESTORATION PROGRAM: </strong> Restoring habitat critical to the recovery of Puget Sound Salmon. </p>
+                    <ul class="bullet-size-fix white"> 
+                   <li>The 2023-2025 Puget Sound Acquisition and Restoration (PSAR) Large Capital Project ranked list and project factsheets are <a href="PSAR.php" target="new" class="white underline">available here.</a></li>
+                   <li></li>  
                     </ul>
 				</div>
 				<div class="col-sm-6">
