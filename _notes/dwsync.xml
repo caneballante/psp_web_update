@@ -392,7 +392,7 @@
 <file name="2022AAupdate.php" server="198.238.137.44/psp.wa.gov/" local="133118855182497838" remote="133118854800000000" Dst="2" />
 <file name="PSEMP-overview.php" server="198.238.137.44/psp.wa.gov/" local="133015935504269912" remote="133015935000000000" Dst="2" />
 <file name="salmon-recovery-watersheds.php" server="198.238.137.44/psp.wa.gov/" local="133124142682306323" remote="133124142600000000" Dst="1" />
-<file name="salmon-recovery-overview.php" server="198.238.137.44/psp.wa.gov/" local="133174237632824090" remote="133174237200000000" Dst="1" />
+<file name="salmon-recovery-overview.php" server="198.238.137.44/psp.wa.gov/" local="133016779754440521" remote="133016779200000000" Dst="2" />
 <file name="science-based-decision-making.php" server="198.238.137.44/psp.wa.gov/" local="133016783484464981" remote="133016783400000000" Dst="2" />
 <file name="evaluating-actions-to-recover-puget-sound.php" server="198.238.137.44/psp.wa.gov/" local="133062552488665920" remote="133062552000000000" Dst="2" />
 <file name="index.php" server="198.238.137.44/psp.wa.gov/" local="133168890146240022" remote="133168890000000000" Dst="1" />
@@ -415,9 +415,9 @@
 <file name="sos.php" server="198.238.137.44/psp.wa.gov/" local="133124119009933403" remote="133124118600000000" Dst="1" />
 <file name="SR_about.php" server="198.238.137.44/psp.wa.gov/" local="133092990728670209" remote="133092990600000000" Dst="2" />
 <file name="funding.php" server="198.238.137.44/psp.wa.gov/" local="133163018272365330" remote="133163017800000000" Dst="1" />
-<file name="PSAR.php" server="198.238.137.44/psp.wa.gov/" local="133149901780439458" remote="133149901800000000" Dst="1" />
+<file name="PSAR.php" server="198.238.137.44/psp.wa.gov/" local="133174151094436940" remote="133174150800000000" Dst="1" />
 <file name="pspnc-credits.php" server="198.238.137.44/psp.wa.gov/" local="133125839048769423" remote="133125838800000000" Dst="1" />
-<file name="legislative-calendar.php" server="198.238.137.44/psp.wa.gov/" local="133174980178698713" remote="133174980000000000" Dst="1" />
+<file name="legislative-calendar.php" server="198.238.137.44/psp.wa.gov/" local="133108627239602320" remote="133108627200000000" Dst="2" />
 <file name="puget-sound-budget.php" server="198.238.137.44/psp.wa.gov/" local="133108659700107878" remote="133108659600000000" Dst="2" />
 <file name="government-relations.php" server="198.238.137.44/psp.wa.gov/" local="133108657303254024" remote="133108657200000000" Dst="2" />
 <file name="legislative_updates.php" server="198.238.137.44/psp.wa.gov/" local="133108658926098215" remote="133108659000000000" Dst="2" />
@@ -436,4 +436,18 @@
 <file name="board_meetings.php" server="198.238.137.44/psp.wa.gov/" local="133168886666265699" remote="133168886400000000" Dst="1" />
 <file name="index-leg2023.php" server="198.238.137.44/psp.wa.gov/" local="133172547102651057" remote="133172547000000000" Dst="1" />
 <file name="PSAR-2023.php" server="198.238.137.44/psp.wa.gov/" local="133173554097600876" remote="133173553800000000" Dst="1" />
+<file name="._site.webmanifest" server="198.238.137.44/psp.wa.gov/" local="133175161306149842" remote="133175161800000000" Dst="1" />
+<file name="._favicon.ico" server="198.238.137.44/psp.wa.gov/" local="133175161305329844" remote="133175161800000000" Dst="1" />
+<file name="._favicon-32x32.png" server="198.238.137.44/psp.wa.gov/" local="133175161305859836" remote="133175161800000000" Dst="1" />
+<file name="._favicon-16x16.png" server="198.238.137.44/psp.wa.gov/" local="133175161305639934" remote="133175161800000000" Dst="1" />
+<file name="._apple-touch-icon.png" server="198.238.137.44/psp.wa.gov/" local="133175161305079850" remote="133175161800000000" Dst="1" />
+<file name="._android-chrome-512x512.png" server="198.238.137.44/psp.wa.gov/" local="133175161304799850" remote="133175161800000000" Dst="1" />
+<file name="._android-chrome-192x192.png" server="198.238.137.44/psp.wa.gov/" local="133175161304509849" remote="133175161800000000" Dst="1" />
+<file name="android-chrome-192x192.png" server="198.238.137.44/psp.wa.gov/" local="133175161306469852" remote="133175161800000000" Dst="1" />
+<file name="android-chrome-512x512.png" server="198.238.137.44/psp.wa.gov/" local="133175161306689836" remote="133175161800000000" Dst="1" />
+<file name="apple-touch-icon.png" server="198.238.137.44/psp.wa.gov/" local="133175161306989824" remote="133175161800000000" Dst="1" />
+<file name="favicon-16x16.png" server="198.238.137.44/psp.wa.gov/" local="133175161307539831" remote="133175161800000000" Dst="1" />
+<file name="favicon-32x32.png" server="198.238.137.44/psp.wa.gov/" local="133175161307839819" remote="133175161800000000" Dst="1" />
+<file name="favicon.ico" server="198.238.137.44/psp.wa.gov/" local="133175161307259859" remote="133175161800000000" Dst="1" />
+<file name="site.webmanifest" server="198.238.137.44/psp.wa.gov/" local="133175161308269812" remote="133175161800000000" Dst="1" />
 </dwsync>
