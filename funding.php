@@ -57,7 +57,8 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<li role="presentation"> <a href="funding.php">Puget Sound Partnership Funding Opportunities</a></li>
+				
+				<li role="presentation"> <a href="https://app.powerbigov.us/view?r=eyJrIjoiNjE3ZGJlYTktMGFkYy00OWNlLTgyYWUtYjMyMDBkNWM0ZDE5IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9&pageName=ReportSection4135b7dbe5123b276369">Bipartisan Infrastructure Law (BIL) funding opportunities for Puget Sound recovery</a></li>
 			
 		
 			<!-- InstanceEndEditable -->
@@ -145,7 +146,7 @@
 	<li><strong>Additional background information: </strong>More information can be found in the <a href="https://rco.wa.gov/wp-content/uploads/2019/05/SAL-Manual18.pdf" target="new">Recreation and Conservation Office’s Manual 18.</a></li>
 	</ul>
 			
-	<p class="last-update">Last updated: 12/23/22</p>
+	<p class="last-update">Last updated: 01/17/22</p>
 
 
 
