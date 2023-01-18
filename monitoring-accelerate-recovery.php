@@ -93,11 +93,61 @@
 				</thead>
 				<tbody>
 				<tr>
+					<td>Develop foundation to monitor noise in marine water Vital Sign indicator</td>
+					<td><p>Monitoring marine noise in the region requires the combined approach of multiple recording systems. This project compiles data from moored, autonomous recording systems, and portable, hand-held hydrophones for spot recordings to identify existing sound levels in Puget Sound including human-made noise. Additionally, based on the findings, they will identify how the noise levels would likely disturb fish and marine mammals.
+Latest Update: Update on 8.17.2022 to Marine Waters WG (slide 23)
+</p></td>
+					<td><p>Erin Ashe, Oceans Initiative</p></td>
+					<td>1</td>
+				</tr>
+				<tr>
 					<td></td>
 					<td><p></p></td>
 					<td><p></p></td>
-					</tr>
-					
+					<td>1</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><p></p></td>
+					<td><p></p></td>
+					<td>1</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><p></p></td>
+					<td><p></p></td>
+					<td>1</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><p></p></td>
+					<td><p></p></td>
+					<td>1</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><p></p></td>
+					<td><p></p></td>
+					<td>1</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><p></p></td>
+					<td><p></p></td>
+					<td>1</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><p></p></td>
+					<td><p></p></td>
+					<td>2</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><p></p></td>
+					<td><p></p></td>
+					<td>2</td>
+				</tr>
 				</tbody>
 			</table>
 		<h3>Projects funded in 2019-2021:</h3>
