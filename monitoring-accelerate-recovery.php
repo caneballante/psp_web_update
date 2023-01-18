@@ -93,72 +93,72 @@
 				</thead>
 				<tbody>
 				<tr>
-					<td>Developing zooplankton Puget Sound Vital Sign indicators </td>
-					<td><p>This project involves hosting a collaborative workshop, compiling existing zooplankton data, and providing the first report of status and trends of Puget Sound zooplankton indicators to the Puget Sound Partnership.<br><br>
+					<td><p class=psemp-mar-font>Developing zooplankton Puget Sound Vital Sign indicators </p></td>
+					<td><p class=psemp-mar-font>This project involves hosting a collaborative workshop, compiling existing zooplankton data, and providing the first report of status and trends of Puget Sound zooplankton indicators to the Puget Sound Partnership.<br><br>
 Latest Update: <a href="https://pspwa.box.com/s/8q9tvq9ijsjinee7jd8q4cz63hls28dp" target="new">Workshop summary report</a>
 </p></td>
-					<td><p>Julie Keister, Bethel-Lee Herrmann, University of Washington; Phill Dionne, WA Department of Fish and Wildlife; Correigh Greene and Stu Munch, National Oceanographic and Atmospheric Administration</p></td>
-					<td>1</td>
+					<td><p class=psemp-mar-font>Julie Keister, Bethel-Lee Herrmann, University of Washington; Phill Dionne, WA Department of Fish and Wildlife; Correigh Greene and Stu Munch, National Oceanographic and Atmospheric Administration</p></td>
+					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td>Puget Sound primary productivity, phytoplankton monitoring and indicators development workshops</td>
-					<td><p>Marine phytoplankton are vital components of the Puget Sound ecosystem as one of the largest primary producers. Through a series of five collaborative workshops that include engagement from the Phytoplankton Science Advisory Team (PSAT), stakeholders, and experts, this project will ultimately develop an action plan for quality assurance project plan.<br><br>
+					<td><p class=psemp-mar-font>Puget Sound primary productivity, phytoplankton monitoring and indicators development workshops</p></td>
+					<td><p class=psemp-mar-font>Marine phytoplankton are vital components of the Puget Sound ecosystem as one of the largest primary producers. Through a series of five collaborative workshops that include engagement from the Phytoplankton Science Advisory Team (PSAT), stakeholders, and experts, this project will ultimately develop an action plan for quality assurance project plan.<br><br>
 Latest Update: <a href="https://pspwa.box.com/s/7l56ux1s9egjlz0daiajkwqmx9wltyv5" target="new">Update on 11.16.2022 to Marine Waters WG</a> (slide 54); materials from <a href="https://drive.google.com/drive/folders/1HZs9S6eg28gDhXt0qFVCbXEhd14tjnDZ" target="new">Workshop 1</a>, <a href="https://drive.google.com/drive/folders/1TyABEfY7n0ml7ehzCOS-XJLkVQIJbI41" target="new">Workshop 2</a>, and <a href="https://drive.google.com/file/d/1Y9U3Mzs-99CCmoE6rGr3_HHMThIKtGoS/view" target="new">Workshop 3</a> are available
 </p></td>
-					<td><p>Jude Apple, Padilla Bay National Estuarine Research Reserve; Ashley Bagley, Long Live the Kings; Julia Bos, King County; Cheryl Greengrove, University of Washington Tacoma; Lucas Hall, Long Live the Kings</p></td>
-					<td>1</td>
+					<td><p class=psemp-mar-font>Jude Apple, Padilla Bay National Estuarine Research Reserve; Ashley Bagley, Long Live the Kings; Julia Bos, King County; Cheryl Greengrove, University of Washington Tacoma; Lucas Hall, Long Live the Kings</p></td>
+					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td>Enhancing the Human Wellbeing Vital Sign through inclusive engagement</td>
-					<td><p>This project will contribute to the major knowledge and data gaps in the monitoring, assessment and reporting of the status and trends of the Human Wellbeing (HWB) Vital Signs and indicators. This will be achieved through the implementation of a community-based participatory research (CBPR) project that will inclusively engage residents and gauge their HWB through facilitated dialogues. This project focuses on Black and African American and Asian American and Pacific Islander residents due to notable gaps in current HWB Survey data and findings </p></td>
-					<td><p>David Trimbach, WA Department of Fish and Wildlife (formerly Oregon State University)</p></td>
-					<td>1</td>
+					<td><p class=psemp-mar-font>Enhancing the Human Wellbeing Vital Sign through inclusive engagement</p></td>
+					<td><p class=psemp-mar-font>This project will contribute to the major knowledge and data gaps in the monitoring, assessment and reporting of the status and trends of the Human Wellbeing (HWB) Vital Signs and indicators. This will be achieved through the implementation of a community-based participatory research (CBPR) project that will inclusively engage residents and gauge their HWB through facilitated dialogues. This project focuses on Black and African American and Asian American and Pacific Islander residents due to notable gaps in current HWB Survey data and findings </p></td>
+					<td><p class=psemp-mar-font>David Trimbach, WA Department of Fish and Wildlife (formerly Oregon State University)</p></td>
+					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td>Develop foundation to monitor noise in marine water Vital Sign indicator</td>
-					<td><p>Monitoring marine noise in the region requires the combined approach of multiple recording systems. This project compiles data from moored, autonomous recording systems, and portable, hand-held hydrophones for spot recordings to identify existing sound levels in Puget Sound including human-made noise. Additionally, based on the findings, they will identify how the noise levels would likely disturb fish and marine mammals.<br><br>
+					<td><p class=psemp-mar-font>Develop foundation to monitor noise in marine water Vital Sign indicator</p></td>
+					<td><p class=psemp-mar-font>Monitoring marine noise in the region requires the combined approach of multiple recording systems. This project compiles data from moored, autonomous recording systems, and portable, hand-held hydrophones for spot recordings to identify existing sound levels in Puget Sound including human-made noise. Additionally, based on the findings, they will identify how the noise levels would likely disturb fish and marine mammals.<br><br>
 						Latest Update: <a href="https://pspwa.box.com/s/1k2teeusdn6oan72bf3f3k741nnvtib5" target="new">Update on 8.17.2022 to Marine Waters WG</a> (slide 23)
 </p></td>
-					<td><p>Erin Ashe, Oceans Initiative</p></td>
-					<td>1</td>
+					<td><p class=psemp-mar-font>Erin Ashe, Oceans Initiative</p></td>
+					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td>Puget Sound Marine Benthic Index and Graphical Causal Model</td>
-					<td><p>Benthic invertebrates (benthos) are important to food webs and provide important ecosystem services that can be impaired by human and natural causes. To develop the new Marine Benthic Index Vital Sign indicator, this project is developing two new tools to help us understand how human disturbance affects life at the bottom of Puget Sound: a Marine Benthic Index and a graphical causal model.<br><br>
+					<td><p class=psemp-mar-font>Puget Sound Marine Benthic Index and Graphical Causal Model</p></td>
+					<td><p class=psemp-mar-font>Benthic invertebrates (benthos) are important to food webs and provide important ecosystem services that can be impaired by human and natural causes. To develop the new Marine Benthic Index Vital Sign indicator, this project is developing two new tools to help us understand how human disturbance affects life at the bottom of Puget Sound: a Marine Benthic Index and a graphical causal model.<br><br>
 Latest Update: <a href="https://pspwa.box.com/s/1k2teeusdn6oan72bf3f3k741nnvtib5" target="new">Update on 8.17.2022 to Marine Waters WG</a> (slide 19), <a href="https://apps.ecology.wa.gov/publications/summarypages/2203005.html" target="new">Project factsheet</a>
 </p></td>
-					<td><p>Valerie Partridge, WA Department of Ecology; Donald Schoolmaster, US Geological Survey</p></td>
-					<td>1</td>
+					<td><p class=psemp-mar-font>Valerie Partridge, WA Department of Ecology; Donald Schoolmaster, US Geological Survey</p></td>
+					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td>Compiling and analyzing data for the new Puget Sound salmon Vital Sign indicators</td>
-					<td><p>Having a more comprehensive indicator approach is critical to having a more holistic status assessment of the salmon population in the Puget Sound. This project provides a data review and analysis for the three new salmon Vital Sign indicators and develops improved analytical methods for estimating Puget Sound steelhead spawning abundance.<br><br>
+					<td><p class=psemp-mar-font>Compiling and analyzing data for the new Puget Sound salmon Vital Sign indicators</p></td>
+					<td><p class=psemp-mar-font>Having a more comprehensive indicator approach is critical to having a more holistic status assessment of the salmon population in the Puget Sound. This project provides a data review and analysis for the three new salmon Vital Sign indicators and develops improved analytical methods for estimating Puget Sound steelhead spawning abundance.<br><br>
 Latest Update: <a href="https://pspwa.box.com/s/k2m2cfjzk3an6u60minpbi66anwx760q" target="new">Update on 12.9.2022 to Salmonids WG</a>
 </p></td>
-					<td><p>Neala Kendall, WA Department of Fish and Wildlife</p></td>
-					<td>1</td>
+					<td><p class=psemp-mar-font>Neala Kendall, WA Department of Fish and Wildlife</p></td>
+					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td>Designing a toxics biological monitoring program for the nearshore to accelerate recovery of Puget Sound ecosystem health</td>
-					<td><p>Puget Sound’s nearshore native mussels can be monitored to identify whether toxics are increasing or decreasing in the environment. This project is developing a design for field surveys to monitor toxic contaminants with mussels based, involving collaboration with impacted communities. </p></td>
-					<td><p>James West, Mariko Langness, Louisa Harding, and Sandra O’Neill, WA Department of Fish and Wildlife; Mark Scheuerell, University of Washington</p></td>
-					<td>1</td>
+					<td><p class=psemp-mar-font>Designing a toxics biological monitoring program for the nearshore to accelerate recovery of Puget Sound ecosystem health</p></td>
+					<td><p class=psemp-mar-font>Puget Sound’s nearshore native mussels can be monitored to identify whether toxics are increasing or decreasing in the environment. This project is developing a design for field surveys to monitor toxic contaminants with mussels based, involving collaboration with impacted communities. </p></td>
+					<td><p class=psemp-mar-font>James West, Mariko Langness, Louisa Harding, and Sandra O’Neill, WA Department of Fish and Wildlife; Mark Scheuerell, University of Washington</p></td>
+					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td>Open knowledge networks to support regulatory best available science</td>
-					<td><p>Applying “best available science” is critical to regulatory decisions regarding natural resources. However, there are challenges in finding the information and in a comprehensive and efficient way. This project will develop two “science sprints” on two impactful topics. The sprints will compile scientific evidence and regulatory models to support policy. The results of the sprints will be hosted on an open knowledge network known as the Salish Sea Wiki.<br><br>
+					<td><p class=psemp-mar-font>Open knowledge networks to support regulatory best available science</p></td>
+					<td><p class=psemp-mar-font>Applying “best available science” is critical to regulatory decisions regarding natural resources. However, there are challenges in finding the information and in a comprehensive and efficient way. This project will develop two “science sprints” on two impactful topics. The sprints will compile scientific evidence and regulatory models to support policy. The results of the sprints will be hosted on an open knowledge network known as the Salish Sea Wiki.<br><br>
 Latest Update: <a href="https://salishsearestoration.org/wiki/Science_Sprints_to_Support_Regulation" target="new">Project webpage</a> 
 </p></td>
-					<td><p>Max Lambert, WA Department of Fish and Wildlife; Paul Cereghino, Josh Chamberlin, and Stephanie Ehinger, National Oceanic and Atmospheric Administration</p></td>
-					<td>2</td>
+					<td><p class=psemp-mar-font>Max Lambert, WA Department of Fish and Wildlife; Paul Cereghino, Josh Chamberlin, and Stephanie Ehinger, National Oceanic and Atmospheric Administration</p></td>
+					<td><p class=psemp-mar-font>2</p></td>
 				</tr>
 				<tr>
-					<td>Trophic linkages between zooplankton, herring, and salmon Vital Sign indicators</td>
-					<td><p>Understanding the interrelationships in the food web is key to furthering efforts related to management goals and interventions. This project examines the interrelationships between forage fish, juvenile salmon, and zooplankton. In addition, this effort builds upon recommendations of the Salish Sea Marine Survival Project to further define bottom-up and top-down food web effects on juvenile salmonid mortality in Puget Sound and demonstrate the benefits produced by restoration efforts in the region.<br><br> 
+					<td><p class=psemp-mar-font>Trophic linkages between zooplankton, herring, and salmon Vital Sign indicators</p></td>
+					<td><p class=psemp-mar-font>Understanding the interrelationships in the food web is key to furthering efforts related to management goals and interventions. This project examines the interrelationships between forage fish, juvenile salmon, and zooplankton. In addition, this effort builds upon recommendations of the Salish Sea Marine Survival Project to further define bottom-up and top-down food web effects on juvenile salmonid mortality in Puget Sound and demonstrate the benefits produced by restoration efforts in the region.<br><br> 
 Latest Update: <a href="https://pspwa.box.com/s/34izm5pxun6mmllcez2o60rhko4rzid9" target="new">Update on 11.7.2022 to Forage Fish and Food Webs WG</a>
 </p></td>
-					<td><p>Correigh Greene, NOAA; Todd Sandell, formerly WA Department of Fish and Wildlife; Julie Keister, University of Washington</p></td>
-					<td>2</td>
+					<td><p class=psemp-mar-font>Correigh Greene, NOAA; Todd Sandell, formerly WA Department of Fish and Wildlife; Julie Keister, University of Washington</p></td>
+					<td><p class=psemp-mar-font>2</p></td>
 				</tr>
 							
 				</tbody>
@@ -244,7 +244,7 @@ Latest Update: <a href="https://pspwa.box.com/s/34izm5pxun6mmllcez2o60rhko4rzid9
 		
 		
 
-			<p class="last-update">Last updated: 2/3/22</p>
+			<p class="last-update">Last updated: 1/18/23</p>
  
 			 
 		<!-- InstanceEndEditable --> </div>
