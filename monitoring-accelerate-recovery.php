@@ -87,7 +87,8 @@
 				<tr>
 				<th>Project title</th>
 				<th>Description</th>
-				<th>Project leads</th>
+				<th>Project team</th>
+				<th>Category</th>
 				</tr>
 				</thead>
 				<tbody>
