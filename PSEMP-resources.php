@@ -100,7 +100,7 @@
 							<div class="d-inline">
 					<h6 class="margin-0-top">Fundamental Environmental Contextual Metrics Dashboard</h6> 
 					<span class="no-icon"><a href="https://docs.google.com/presentation/d/1KWrj6mEqaT-tytLMIW4_TCNAJTPnxX7yh9vW28dhc7w/edit#slide=id.p" target="new"><img src="images/PSEMP/fundamental-metrics.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">Dashboard</a> | <a href="https://docs.google.com/presentation/d/1KWrj6mEqaT-tytLMIW4_TCNAJTPnxX7yh9vW28dhc7w/edit#slide=id.p">Overview</a> | <a href="https://pspwa.box.com/s/z5rl1g2z3e7gkt4g89n8jtlopsfyrzok">Video</a></p></span>
+					<p class="psemp-products"><a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">Dashboard</a> | <a href="https://pspwa.box.com/s/z5rl1g2z3e7gkt4g89n8jtlopsfyrzok">Video</a></p></span>
 								<p class="psemp-products">This project uses data from oceanographic and atmospheric measurement programs to develop six fundamental environmental metrics and compare current status to historical values. The metrics are available on a <a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">web-based dashboard</a>.</p><br>
 					
 							</div></div></div></div> <!--end col-->
