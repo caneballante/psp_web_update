@@ -147,6 +147,19 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/scenarios-web.jpg"  alt="Chart that illustrates differences in business-as-usual scenario and alternative future scenarios"/> <strong>RESOURCE</strong><br>
+						<a href="/future-scenarios.php">Alternative futures for Puget Sound</a><br>
+						<!--END news content BOX-->  
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+            <!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/EPA.jpg"  alt="Photo of rocky Puget Sound shoreline with the sun rising over the water"/> <strong>ANNOUNCEMENT</strong><br>
 						<a href="https://www.epa.gov/puget-sound/funding-availability-puget-sound-action-agenda-climate-resilient-riparian-systems-lead">EPA Funding Availability for Puget Sound Action Agenda - Climate Resilient Riparian Systems Lead</a><br>
 						<!--END news content BOX-->  
@@ -162,19 +175,6 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt="Photo of the Capitol Building in Olympia with the text Legislative Update written in orange letters superimposed on the top corner of the photo"/> <strong>RESOURCE</strong><br>
 						<a href="https://psp.wa.gov/government-relations.php">2023 session information</a><br>
-						<!--END news content BOX-->  
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-            <!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/SIL.jpg"  alt="Young girl and mother on the beach"/> <strong>STRATEGIC INITIATIVE LEADS</strong><br>
-						<a href="https://pugetsoundestuary.wa.gov/rfp/">Habitat, Shellfish, and Stormwater Strategic Initiative Leads Requests for Proposals.</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
