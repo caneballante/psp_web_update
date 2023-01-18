@@ -81,7 +81,24 @@
 		
 		<hr>
 		<h3>Projects funded in 2021-2023</h3>
-			<p>Project descriptions and more information coming soon. <a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2f0be74" target="_blank">See the 2021-2023 award announcement</a>.</p>
+			<p>Monitoring to Accelerate Recovery Projects for July 2021-June 2023</p>
+			<table class="table-responsive table-condensed table-bordered table-striped">
+			<thead>
+				<tr>
+				<th>Project title</th>
+				<th>Description</th>
+				<th>Project leads</th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr>
+					<td></td>
+					<td><p></p></td>
+					<td><p></p></td>
+					</tr>
+					
+				</tbody>
+			</table>
 		<h3>Projects funded in 2019-2021:</h3>
 		<p>The Partnership funded the following projects using funding allocated to support PSEMP work groups and reporting of the Vital Signs during the 2019-21 biennium:</p>
 			<table class="table-responsive table-condensed table-bordered table-striped">
