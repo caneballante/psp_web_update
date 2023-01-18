@@ -93,6 +93,28 @@
 				</thead>
 				<tbody>
 				<tr>
+					<td>Developing zooplankton Puget Sound Vital Sign indicators </td>
+					<td><p>This project involves hosting a collaborative workshop, compiling existing zooplankton data, and providing the first report of status and trends of Puget Sound zooplankton indicators to the Puget Sound Partnership.
+Latest Update: Workshop summary report
+</p></td>
+					<td><p>Julie Keister, Bethel-Lee Herrmann, University of Washington; Phill Dionne, WA Department of Fish and Wildlife; Correigh Greene and Stu Munch, National Oceanographic and Atmospheric Administration</p></td>
+					<td>1</td>
+				</tr>
+				<tr>
+					<td>Puget Sound primary productivity, phytoplankton monitoring and indicators development workshops</td>
+					<td><p>Marine phytoplankton are vital components of the Puget Sound ecosystem as one of the largest primary producers. Through a series of five collaborative workshops that include engagement from the Phytoplankton Science Advisory Team (PSAT), stakeholders, and experts, this project will ultimately develop an action plan for quality assurance project plan.
+Latest Update: Update on 11.16.2022 to Marine Waters WG (slide 54); materials from Workshop 1, Workshop 2, and Workshop 3 are available
+</p></td>
+					<td><p>Jude Apple, Padilla Bay National Estuarine Research Reserve; Ashley Bagley, Long Live the Kings; Julia Bos, King County; Cheryl Greengrove, University of Washington Tacoma; Lucas Hall, Long Live the Kings</p></td>
+					<td>1</td>
+				</tr>
+				<tr>
+					<td>Enhancing the Human Wellbeing Vital Sign through inclusive engagement</td>
+					<td><p>This project will contribute to the major knowledge and data gaps in the monitoring, assessment and reporting of the status and trends of the Human Wellbeing (HWB) Vital Signs and indicators. This will be achieved through the implementation of a community-based participatory research (CBPR) project that will inclusively engage residents and gauge their HWB through facilitated dialogues. This project focuses on Black and African American and Asian American and Pacific Islander residents due to notable gaps in current HWB Survey data and findings </p></td>
+					<td><p>David Trimbach, WA Department of Fish and Wildlife (formerly Oregon State University)</p></td>
+					<td>1</td>
+				</tr>
+				<tr>
 					<td>Develop foundation to monitor noise in marine water Vital Sign indicator</td>
 					<td><p>Monitoring marine noise in the region requires the combined approach of multiple recording systems. This project compiles data from moored, autonomous recording systems, and portable, hand-held hydrophones for spot recordings to identify existing sound levels in Puget Sound including human-made noise. Additionally, based on the findings, they will identify how the noise levels would likely disturb fish and marine mammals.
 Latest Update: Update on 8.17.2022 to Marine Waters WG (slide 23)
@@ -101,53 +123,44 @@ Latest Update: Update on 8.17.2022 to Marine Waters WG (slide 23)
 					<td>1</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td><p></p></td>
-					<td><p></p></td>
+					<td>Puget Sound Marine Benthic Index and Graphical Causal Model</td>
+					<td><p>Benthic invertebrates (benthos) are important to food webs and provide important ecosystem services that can be impaired by human and natural causes. To develop the new Marine Benthic Index Vital Sign indicator, this project is developing two new tools to help us understand how human disturbance affects life at the bottom of Puget Sound: a Marine Benthic Index and a graphical causal model.
+Latest Update: Update on 8.17.2022 to Marine Waters WG (slide 19), Project factsheet
+</p></td>
+					<td><p>Valerie Partridge, WA Department of Ecology; Donald Schoolmaster, US Geological Survey</p></td>
 					<td>1</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td><p></p></td>
-					<td><p></p></td>
+					<td>Compiling and analyzing data for the new Puget Sound salmon Vital Sign indicators</td>
+					<td><p>Having a more comprehensive indicator approach is critical to having a more holistic status assessment of the salmon population in the Puget Sound. This project provides a data review and analysis for the three new salmon Vital Sign indicators and develops improved analytical methods for estimating Puget Sound steelhead spawning abundance. 
+Latest Update: Update on 12.9.2022 to Salmonids WG
+</p></td>
+					<td><p>Neala Kendall, WA Department of Fish and Wildlife</p></td>
 					<td>1</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td><p></p></td>
-					<td><p></p></td>
+					<td>Designing a toxics biological monitoring program for the nearshore to accelerate recovery of Puget Sound ecosystem health</td>
+					<td><p>Puget Sound’s nearshore native mussels can be monitored to identify whether toxics are increasing or decreasing in the environment. This project is developing a design for field surveys to monitor toxic contaminants with mussels based, involving collaboration with impacted communities. </p></td>
+					<td><p>James West, Mariko Langness, Louisa Harding, and Sandra O’Neill, WA Department of Fish and Wildlife; Mark Scheuerell, University of Washington</p></td>
 					<td>1</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td><p></p></td>
-					<td><p></p></td>
-					<td>1</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td><p></p></td>
-					<td><p></p></td>
-					<td>1</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td><p></p></td>
-					<td><p></p></td>
-					<td>1</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td><p></p></td>
-					<td><p></p></td>
+					<td>Open knowledge networks to support regulatory best available science</td>
+					<td><p>Applying “best available science” is critical to regulatory decisions regarding natural resources. However, there are challenges in finding the information and in a comprehensive and efficient way. This project will develop two “science sprints” on two impactful topics. The sprints will compile scientific evidence and regulatory models to support policy. The results of the sprints will be hosted on an open knowledge network known as the Salish Sea Wiki.
+Latest Update: Project webpage 
+</p></td>
+					<td><p>Max Lambert, WA Department of Fish and Wildlife; Paul Cereghino, Josh Chamberlin, and Stephanie Ehinger, National Oceanic and Atmospheric Administration</p></td>
 					<td>2</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td><p></p></td>
-					<td><p></p></td>
+					<td>Trophic linkages between zooplankton, herring, and salmon Vital Sign indicators</td>
+					<td><p>Understanding the interrelationships in the food web is key to furthering efforts related to management goals and interventions. This project examines the interrelationships between forage fish, juvenile salmon, and zooplankton. In addition, this effort builds upon recommendations of the Salish Sea Marine Survival Project to further define bottom-up and top-down food web effects on juvenile salmonid mortality in Puget Sound and demonstrate the benefits produced by restoration efforts in the region. 
+Latest Update: Update on 11.7.2022 to Forage Fish and Food Webs WG
+</p></td>
+					<td><p>Correigh Greene, NOAA; Todd Sandell, formerly WA Department of Fish and Wildlife; Julie Keister, University of Washington</p></td>
 					<td>2</td>
 				</tr>
+							
 				</tbody>
 			</table>
 		<h3>Projects funded in 2019-2021:</h3>
