@@ -81,7 +81,17 @@
 			<p>Following adoption of the provisional community engagement  plan, our agency and the other agencies named in HEAL will incorporate guidance  from the EJ Council.  Our agency will  collaborate with the Interagency Workgroup and the EJ Council to hold community  listening and feedback sessions to co-author needed changes to the provisional  community engagement plans. Agencies will also conduct tribal consultation. Our  agency will regularly partner with the EJ Council, community, and tribes over  the coming years to update our community engagement plan. The community  engagement plan is a living document that will evolve as our agency builds a relationship  with the EJ Council and Washingtonians as environmental justice is implemented  across state agencies.</p>
 		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top nonresponsive-object-hide-rightnav">CONTACT</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<div class="nonresponsive-object-hide-rightnav-li">
+				<li class="active" role="presentation"> <?php include 'includes/ln-HEAL-contact.html';?></li>
+				</div>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
