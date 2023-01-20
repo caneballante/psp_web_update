@@ -142,7 +142,7 @@
                 <li>Shellfish beds</li>
                 <li>Floodplains</li>
                 <li>Land development and cover</li>
-                <li>Eelgrass</li>
+                
 			 
                 
              <li>Chinook salmon</li>
@@ -210,7 +210,7 @@
 				<li><a href="https://www.miradishare.org/ux/project/psp-pugetsoundrecover-2019-00053/">Marine Water Quality Miradi Project</a></li>
 				<li><a href="https://www.miradishare.org/ux/project/psp-pugetsoundrecover-2016-00040/">Chinook Salmon Miradi Project</a></li>
            	</ul>
-			<p class="last-update">Last updated: 07/20/22</p>
+			<p class="last-update">Last updated: 01/20/23</p>
 			
 		<!-- InstanceEndEditable --> </div>
 		
@@ -235,7 +235,7 @@
 				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/floodplains-and-estuaries/">Floodplains and Estuaries (IS)</a></li>
 				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/shellfish-beds/">Shellfish Bed (IS)</a></li>
 				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/land-development-and-cover/">Land Development and Cover (IS)</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/yyiswccgjw4ogcqhr06bqsm5jtlm9aah">Eelgrass Recovery pilot (IS)</a></li>
+				
 				<li role="presentation"><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook Salmon (IS)</a></li>
 				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/shoreline-armoring/">Shoreline Armoring (IS)</a></li>
 				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/freshwater-quality/">B-IBI (IS)</a></li>
