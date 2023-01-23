@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BGEZ5L3EJY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BGEZ5L3EJY');
+</script>	
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,9 +17,9 @@
 <title></title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/custom.css" rel="stylesheet" type="text/css">
-<link href="css/custom-erika.css" rel="stylesheet" type="text/css">
+<link href="../css/bootstrap.css" rel="stylesheet">
+<link href="../css/custom.css" rel="stylesheet" type="text/css">
+<link href="../css/custom-erika.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -58,7 +67,7 @@
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-				  <!-- InstanceBeginEditable name="left_nav" -->
+					<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-psp-overview.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
@@ -310,7 +319,7 @@
 			<div class="right-nav-title margin-20-top">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
-			  <!-- InstanceBeginEditable name="right_nav_links" -->
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/x69yrpovb3658iugtnik6gf0aidjaogs.pdf">Organizational Chart</a></li>
 				
 				<!-- InstanceEndEditable -->
@@ -324,12 +333,12 @@
 <?php include 'includes/footer-inc.html';?>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="js/jquery-1.11.2.min.js"></script> 
+<script src="../js/jquery-1.11.2.min.js"></script> 
 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
-<script src="js/bootstrap.js"></script> 
+<script src="../js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script> 
+<script src="../js/custom.js"></script> 
 <!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
