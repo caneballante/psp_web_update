@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BGEZ5L3EJY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BGEZ5L3EJY');
+</script>	
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -58,7 +67,7 @@
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-				  <!-- InstanceBeginEditable name="left_nav" -->
+					<!-- InstanceBeginEditable name="left_nav" -->
 				<?php include 'includes/ln-psp-overview.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
@@ -322,13 +331,13 @@
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 	<p class="last-update">Last updated: 01/19/23</p>
 
-		<!-- InstanceEndEditable --> </div>5
-25
+		<!-- InstanceEndEditable --> </div>
+		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-20-top">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
-			  <!-- InstanceBeginEditable name="right_nav_links" -->
+				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/x69yrpovb3658iugtnik6gf0aidjaogs.pdf">Organizational Chart</a></li>
 				
 				<!-- InstanceEndEditable -->
