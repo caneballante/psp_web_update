@@ -148,7 +148,7 @@
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/mar-rfi.jpg"  alt="Scenic photo of the sun rising above islands and land masses in Puget Sound"/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="/funding.php">New project solicitations from the Puget Sound Partnership: Monitoring to Accelerate Recovery and Salmon Science Investigations. </a><br>
+						<a href="/funding.php">New project solicitations from the Puget Sound Partnership: Monitoring to Accelerate Recovery and Salmon Science Investigations</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
