@@ -82,7 +82,29 @@
               <br />
 <p>This page contains current contract and grant opportunities, as well as valuable information for recipients and contractors. Please explore the opportunities on this page, and if you have any questions, you are encouraged to send a message to the project manager listed in the solicitation.</p></div>
 			
-<h2>Funding Opportunity Announcement: Puget Sound Salmon Science Investigations</h2>
+			
+<h2>Funding Opportunity Announcements</h2>
+			
+<h3>Monitoring to Accelerate Recovery (PSEMP and Vital Signs affiliation)</h3>
+	<p>January 24-2023 - The Partnership is pleased to announce a <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a> (RFI) for collaborative monitoring-related projects to address priority information needs to support and accelerate the recovery of the Puget Sound ecosystem. </p>
+	
+	<p>Specifically, the Partnership seeks proposals that fall under one of the following two categories:  </p>
+		<ul class="bullet-size-fix">
+			<li>Category 1 – Developing and first-time reporting of Vital Sign Indicators, and  </li>
+			<li>Category 2 - Addressing questions to inform and assess progress toward desired outcomes and statutory goals for Puget Sound recovery.  </li>
+		</ul>
+	
+	<p>All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) strategic plan to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication to improve access to credible information to guide recovery decisions.</p>
+	
+	<p>As an implementing agency of Washington State’s Healthy Environment for All (HEAL) Act, the Partnership encourages respondents to submit proposals that create environmental benefits for overburdened and vulnerable populations, build collaborations with community scientists, and provide opportunities for tribes, vulnerable populations, and overburdened communities to participate. </p>
+	
+	<p><strong>Timeline:</strong> Responses are due by 11:59 pm on April 14, 2023. </p>
+	
+	<p><strong>Funding amount:</strong> Approximately $750,000 will be allocated for selected projects with a minimum of $50,000 and a maximum of $120,000 total compensation payable per project. We anticipate supporting up to 10 projects in total for the period of July 1, 2023, to June 30, 2025. </p>
+			
+	<p><strong>Informational webinar:</strong> Thursday, February 23, 2023, 1:00 pm to 2:00 pm PST. <a href="https://us06web.zoom.us/meeting/register/tZIsdOqoqDIqG9bvcLUxuNZRlXlA394Y2WTq" target="new">Registration is required</a></p><br><br>
+	
+<h3>Puget Sound Salmon Science Investigations</h3>
 	<p>The Partnership and Salmon Science Advisory Group are pleased to announce a <a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">Request for Information</a> for collaborative proposals to conduct salmon scientific investigations. Investigations could include but are not limited to modeling, research, and syntheses to address emerging issues of concern, factors limiting recovery, and other critical science and monitoring questions to advance Puget Sound salmon recovery. Outcomes of the proposed investigations should support ongoing recovery planning and adaptive management efforts to ensure self-sustaining, harvestable, salmon runs that sustain people and orcas in Puget Sound. Proposed investigations are encouraged to address environmental justice, tribal needs, and treaty rights in relation to salmon recovery.</p>
 	
 	<p>Specifically, the Partnership is seeking project proposals that address one or more priority information needs: </p>
@@ -105,14 +127,6 @@
 	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.   </li>
 	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain. In 2021, six projects identified through a Partnership solicitation and nine projects selected by Washington Sea Grant were awarded a total of nearly $1.7 million. </li>
 	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025.  To learn more about 2019-2021 projects, please see <a href="https://pspwa.box.com/s/jin0hqljzm6n5wvocm5xaxy7dcw0117p">this Science Panel Memo</a>; to learn about the previous solicitation and evaluation process and awarded projects in 2021, please read <a href="https://pspwa.box.com/s/3jtyia0fdp7d725y9eshi3yfsjtzfgn8">this memo</a> or <a href="https://pspwa.box.com/s/buf4pf2pge4b2lg9zadplxq2q0rfp79d">this Science Panel memo</a>; October 2022 thinking about the 2023-2025 solicitation can be found <a href="https://pspwa.box.com/s/3pds75au1trckastvi0r60let8du9944">here</a>.</li>
-	</ul>
-
-<h3>Monitoring to Accelerate Recovery (PSEMP and Vital Signs affiliation)</h3>
-	<ul class="bullet-size-fix">
-	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will support the development of new Vital Sign indicators and address questions to inform and assess progress toward desired outcomes and ecosystem recovery goals. There will be a connection to the 2022-26 Action Agenda. </li>
-	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.      </li>
-	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain (will depend on state/federal budgets). Planning for a total of $750,000 to be awarded.   </li>
-	<li><strong>Additional background information: </strong>Current and previous project information can be found at <a href="/monitoring-accelerate-recovery.php">this link</a>. Early thinking about the 2023-2025 solicitation can be found at the latest Steering Committee meeting (<a href="https://pspwa.box.com/s/krizep442xaidd0xs92gtvlas61ej889">linked slides here</a>).</li>
 	</ul>
 			
 			
@@ -155,7 +169,7 @@
 	<li><strong>Additional background information: </strong>More information can be found in the <a href="https://rco.wa.gov/wp-content/uploads/2019/05/SAL-Manual18.pdf" target="new">Recreation and Conservation Office’s Manual 18.</a></li>
 	</ul>
 			
-	<p class="last-update">Last updated: 01/17/22</p>
+	<p class="last-update">Last updated: 01/24/23</p>
 
 
 
