@@ -146,10 +146,23 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
+						  <!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/mar-rfi.jpg"  alt="Scenic photo of the sun rising above islands and land masses in Puget Sound"/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="/funding.php">New project solicitations from the Puget Sound Partnership: Monitoring to Accelerate Recovery and Salmon Science Investigations. </a><br>
+						<!--END news content BOX-->  
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+            <!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/scenarios-web.jpg"  alt="Chart that illustrates differences in business-as-usual scenario and alternative future scenarios"/> <strong>RESOURCE</strong><br>
 						<a href="/future-scenarios.php">Alternative futures for Puget Sound</a><br>
-						<!--END news content BOX-->  
+						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -168,7 +181,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-            <!--COLUMN START-->
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -188,12 +201,13 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/PEAR-news.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>STATEMENT</strong><br>
 						<a href="https://psp.wa.gov/pear.php">Partnership's Pro-Equity Anti-Racism statement</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
 			<!--COLUMN END--> 
+			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -206,8 +220,7 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!--COLUMN END--> 
-			
+			<!--column END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -220,7 +233,7 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!--column END-->
+			<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -228,20 +241,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/making-waves-toxics.jpg"  alt="Photo of members of the Washington State Department of Fish and Wildlife's Toxics Biological Observation System team beach seine juvenile salmon on the Lower Duwamish River in 2018."/> <strong>Making Waves</strong><br>
 						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/27/toxics-in-aquatic-life/" target="_blank">Toxics in Aquatic Life, a 2022-2026 Action Agenda Vital Signs target</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/making-waves-toxics-reduction.png"  alt="Photo of Ecology staff working with business staff to reduce waste"/> <strong>Making Waves</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/27/ecologys-toxics-reduction-program/" target="_blank">Ecology’s Toxics Reduction Program sets ambitious targets in the 2022-2026 Action Agenda</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
