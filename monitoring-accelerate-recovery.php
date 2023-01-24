@@ -81,15 +81,34 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h3>Purpose</h3>
-			<p>The Puget Sound Partnership (Partnership) funds projects every biennium that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects are funded via a formal project solicitation process. Priority is given to projects that support the <strong>objectives</strong> of the <a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2">Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan</a> to <strong>increase collaboration, support adaptive management, and improve communication.</strong> </p>
+			<p>The Puget Sound Partnership (Partnership) funds projects every biennium that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects are funded via a formal project solicitation process. All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) strategic plan to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication to improve access to credible information to guide recovery decisions.</p>
 			
-			<p>Successful projects also address cross-cutting principles of <strong>integrating biophysical and social sciences, justice, equity, diversity, and inclusion (JEDI), and climate change.</strong></p>
-		<span class="no-icon"><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl" target="new"><img src="images/PSEMP/PSP_Monitoring_RFP_2021-1.jpg" class="img-responsive" alt=""/></a>
-		<p><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl" target="new">See 2021-2023 Monitoring to Accelerate Recovery solicitation for reference.</a></p>
+			<div class="highlightbox margin-0-top margin-20-bottom"><h3>Request for Information (RFI) – Monitoring to Accelerate Recovery </h3>
+			<p>The Partnership is pleased to announce a <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a> (RFI) for collaborative monitoring-related projects to address priority information needs to support and accelerate the recovery of the Puget Sound ecosystem. Approximately $750,000 will be allocated for selected projects with a minimum of $50,000 and a maximum of $120,000 total compensation payable per project. We anticipate supporting up to 10 projects in total for the period of July 1, 2023, to June 30, 2025. </p>
+	
+	<p>Specifically, the Partnership seeks proposals that fall under one of the following two categories:  </p>
+		<ul class="bullet-size-fix">
+			<li>Category 1 – Developing and first-time reporting of Vital Sign Indicators, and  </li>
+			<li>Category 2 - Addressing questions to inform and assess progress toward desired outcomes and statutory goals for Puget Sound recovery.  </li>
+		</ul>
+	
+	<p>All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) strategic plan to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication to improve access to credible information to guide recovery decisions.</p>
+	
+	<p>As an implementing agency of Washington State’s Healthy Environment for All (HEAL) Act, the Partnership encourages respondents to submit proposals that create environmental benefits for overburdened and vulnerable populations, build collaborations with community scientists, and provide opportunities for tribes, vulnerable populations, and overburdened communities to participate. </p>
+	
+	<p> Responses are due by 11:59 pm on April 14, 2023. Please see the <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a> for additional details about proposal requirements, how to apply, and the priority information needs. Questions should be directed to <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts.psp.wa.gov</a> prior to February 16, 2023 at 12:00 pm PST or asked during the information session on February 23, 2023 via Zoom.  </p>
+			
+				<h3>Informational webinar</h3> 
+				<p>Thursday, February 23, 2023, 1:00 pm to 2:00 pm PST.</p> 
+				<p><a href="https://us06web.zoom.us/meeting/register/tZIsdOqoqDIqG9bvcLUxuNZRlXlA394Y2WTq" target="new">Registration is required</a></p>
+			
+			</div>
+		
 		
 		
 		<hr>
 		<h3>Projects funded in 2021-2023</h3>
+			<p><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl">Original project solicitation: 2021-2023 Monitoring to Accelerate Recovery. </a></p><br>
 			<p>Monitoring to Accelerate Recovery Projects for July 2021-June 2023</p>
 			<table class="table-responsive table-condensed table-bordered table-striped">
 			<thead>
@@ -276,7 +295,7 @@ Latest update: <a href="https://dnr-wa-gov.zoom.us/rec/play/N7XXxNOfTnQjSBxQVBmm
 		
 		
 
-			<p class="last-update">Last updated: 1/18/23</p>
+			<p class="last-update">Last updated: 1/24/23</p>
  
 			 
 		<!-- InstanceEndEditable --> </div>
