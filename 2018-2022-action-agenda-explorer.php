@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BGEZ5L3EJY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BGEZ5L3EJY');
+</script>	
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Puget Sound Partnership 2018-2022 Action Agenda Explorer</title>
+<title>Puget Sound Partnership 2018-2022 Action Agenda NTA Archive</title>
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
@@ -32,8 +41,10 @@
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-1 padding-20-top"></div>
-		<div class="col-sm-11 padding-20-top">
-<h1 class="grey">STATE OF THE SOUND</h1>
+		<div class="col-sm-11 padding-20-top"><br>
+<br>
+
+<h1>2018-2022 Action Agenda Near Term Action Archive</h1>
 			<p>&nbsp;</p>
 			</div>
 		<div class="col-sm-1 padding-20-top"></div>
@@ -45,7 +56,7 @@
 		</div>
 		 
 		<div class="col-sm-11 padding-20-top content-column">
-			<iframe title="AA Tracker NTA Detail page" width="1140" height="541.25" src=https://app.powerbigov.us/reportEmbed?reportId=0c6df853-1191-4e07-bef5-2f0b5915918f&autoAuth=true&ctid=11d0e217-264e-400a-8ba0-57dcc127d72d frameborder="0" allowFullScreen="true"></iframe>
+			<iframe title="AA Tracker NTA Detail page - Location" width="1200" height="900" src=https://app.powerbigov.us/view?r=eyJrIjoiMzhlZDM5NDMtZDRjOS00NTgyLWJkNTctYjQ2OTYyY2Y2OTRmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9&pageName=ReportSection757b1e47be827a53bfc7 frameborder="0" allowFullScreen="true"></iframe>
 			<p>&nbsp;</p>
 			</div>
 		
@@ -64,16 +75,6 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
-<!-- Google Tracking  --> 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-69373425-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 </body>
 </html>
