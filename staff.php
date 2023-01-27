@@ -150,8 +150,9 @@
 						<p> Boards Policy Advisor<br />
 							360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p>
 
-						<h5>VACANT</h5>
-						<p>Boards Policy Advisor<br /></p>
+						<h5>Wendy Loosle</h5>
+						<p>Boards Policy Advisor<br />
+							360.791.8397 | <a href="mailto:wendy.loosle@psp.wa.gov">wendy.loosle@psp.wa.gov</a></p>
 						 <!--COMMUNICATIONS--> 
 						<h3 class="padding-10-top">COMMUNICATIONS PROGRAM</h3>
 						<h5>Jon Bridgman</h5>
@@ -329,7 +330,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 01/19/23</p>
+	<p class="last-update">Last updated: 01/27/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
