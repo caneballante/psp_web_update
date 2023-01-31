@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BGEZ5L3EJY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BGEZ5L3EJY');
+</script>	
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -62,18 +71,19 @@
 		</div>
 	</div>
 </div>
-<div class="container-fluid padding-40-bottom padding-80-top light-blue-fill" id="home-squares">
+<div class="container-fluid padding-40-bottom padding-80-top light-blue-fill">
 	<div class="row">
-		<div class="container light-blue-fill" id="home-squares">
+		<div class="container light-blue-fill">
 			<div class="row padding-20-all">
-				<div class="col-sm-3">
+				<div class="col-md-1">
 				</div>
-				<div class="col-sm-6">
-					<div style="padding:56.25% 0 0 0;position:relative;">
-						<iframe src="https://player.vimeo.com/video/706723427?h=07ec6b9a8a&title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-					</div>
+				<div class="col-md-5">test
+					<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/706723427?h=07ec6b9a8a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Bipartisan Infrastructure Law: A game-changer for the environment, people, and salmon"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 				</div>
-				<div class="col-sm-3">
+				<div class="col-md-5">test
+					<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/785064068?h=3cb967761f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Puget Sound Acquisition and Restoration Fund: Restoring habitat critical to the recovery of Puget Sound salmon"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+				</div>
+				<div class="col-md-1">
 				</div>
 			</div>
 		</div>
