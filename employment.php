@@ -72,6 +72,7 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 		
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3900722/local-integrating-organization-lio-program-coordinator-ems-1">Local Integrating Organization (LIO) Program Coordinator (EMS 1)</a></p>
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3890197/salmon-policy-advisor">Salmon Policy Advisor</a></p>
 			
 			
@@ -93,7 +94,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 1/26/23</p>
+		<p class="last-update">Last updated: 2/2/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
