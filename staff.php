@@ -289,9 +289,8 @@
 							360.819.6429 | <a href="mailto:nicole.neilson@psp.wa.gov">nicole.neilson@psp.wa.gov</a>						
 						</p>
 			
-						<h5>Ami Hollingsworth</h5>
+						<h5>VACANT</h5>
 						<p>Administrative Assistant<br />
-							360.867.8647 | <a href="mailto:ami.hollingsworth@psp.wa.gov">ami.hollingsworth@psp.wa.gov</a><br />
 						</p>
 						
 						<!--EPA PROGRAM-->
@@ -330,7 +329,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 01/27/23</p>
+	<p class="last-update">Last updated: 02/10/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
