@@ -79,11 +79,11 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">2023 Legislative Session</h2>
-			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/33b026f" target="new">General session info</a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/33b026f" target="new">General session info </a></p>
 			<p><a href="https://pspwa.box.com/s/g9bhwvf5n62fy61f4u13ozh0r0a2224w" target="new">2023 Puget Sound Legislative Priorities</a></p><br>
-			
-			<IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=aaac272043c74f08876fe2104f2096a9"></IFRAME>
-				
+			<div>
+			<IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/070d181f4f744fb1937823e8e8550f06"></IFRAME>
+			</div>	
 			
 		<h2>Legislative Updates and Calendar Archives</h2>
 			
@@ -91,9 +91,9 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/303c1c3" target="new">General session info</a></p>
 			<p><a href="https://pspwa.box.com/s/jpjpse9blqc9ujikty5l9dduf5a8feyk" target="new">2022 legislative priorities</a></p><br>
 			<h3>2022 Legislative Updates</h3>
-				
-			<IFRAME width=850 height=700 SRC="https://app.smartsheet.com/b/publish?EQBCT=d22e969bb2e14dadbe3f2bd589feb5a5"></IFRAME>
-
+			<div>
+			<IFRAME WIDTH=700 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/60dbf92632154659b7cbdc2d98ecd66e"></IFRAME>
+			</div>	
 			<hr></hr>
 		
 		<h2>2021 Legislative SESSION</h2>
