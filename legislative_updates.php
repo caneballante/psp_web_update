@@ -85,9 +85,6 @@
 			<IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=aaac272043c74f08876fe2104f2096a9"></IFRAME>
 				
 			
-			
-		
-			
 		<h2>Legislative Updates and Calendar Archives</h2>
 			
 			<h2>2022 Legislative Session</h2>
