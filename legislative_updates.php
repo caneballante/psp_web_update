@@ -85,12 +85,9 @@
 			<IFRAME WIDTH=850 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=aaac272043c74f08876fe2104f2096a9"></IFRAME>
 				
 			
-			
-		
-			
 		<h2>Legislative Updates and Calendar Archives</h2>
 			
-			<h2 class="margin-0-top">2022 Legislative Session</h2>
+			<h2>2022 Legislative Session</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/303c1c3" target="new">General session info</a></p>
 			<p><a href="https://pspwa.box.com/s/jpjpse9blqc9ujikty5l9dduf5a8feyk" target="new">2022 legislative priorities</a></p><br>
 			<h3>2022 Legislative Updates</h3>
@@ -99,7 +96,7 @@
 
 			<hr></hr>
 		
-		<h2 class="margin-0-top">2021 Legislative SESSION</h2>
+		<h2>2021 Legislative SESSION</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2b3fb0d" target="_blank">General session info</a></p><br>
 			
 			<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER:</h3>
