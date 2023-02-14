@@ -75,6 +75,10 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<div class="highlightbox">
+			<p>SAVE THE DATE: Puget Sound Day on the Hill is scheduled for the week of May 8, 2023. Registration and other information coming soon.</p>
+			</div>
+			
 			<p>Puget Sound recovery is a not only a regional priority; it is critical to the environmental and economic well-being of the entire nation. As such, the Environmental Protection Agency designated Puget Sound as an “Estuary of National Significance” under the <a href="https://www.epa.gov/nep/overview-national-estuary-program" target="new">National Estuary Program</a> in 1988. From appropriator to regulator to trustee for Tribes, numerous Federal government entities play multiple critical roles to help advance Puget Sound recovery efforts</p><br>
 			
 			<h2>New Funding Opportunities</h2>
@@ -105,6 +109,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="https://www.whitehouse.gov/build/resources/nofos-to-know/" target="new">Bipartisan Infrastructure Law: Open Funding Opportunities</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/shared/static/vh7n99hidr4otld8smr56y0c03tzq20d.pdf">Download open and upcoming Bipartisan Infrastructure Law funding opportunities</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/9hcdue4rf085aj9fxl1et9auryio8arf" target="new">117th Congress end-of-session review</a></li>
 				<li class="active" role="presentation"> <a href="https://www.epa.gov/puget-sound/puget-sound-federal-task-force" target="new">Puget Sound Federal Task Force</a></li>
 				<li role="presentation"> <a href="/NEP-overview.php">Puget Sound National Estuary Program</a></li><br>
 				<button>The Partnership will soon hire new staff to assist project implementers to track and apply for grants, report on federal investments in Puget Sound recovery, and more. Stay tuned for updates.</button>
