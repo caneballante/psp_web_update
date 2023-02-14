@@ -169,7 +169,7 @@ navSelected = 1;
 			
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 10/03/22</p>
+		<p class="last-update">Last updated: 02/14/23</p>
 
         <!-- InstanceEndEditable --> </div>
 		
@@ -179,6 +179,7 @@ navSelected = 1;
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
+				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/ck3b5pdx2vj4dmlfgqkynvnlafoet1k0">View our 2022-2026 Action Agenda overview presentation</a></li>
 				<li><a href="https://pspwa.box.com/shared/static/adopaw136pastn603ojfzc046k9iza5b.xlsx">Download an Excel table of 2022-2026 Action Agenda strategies, actions, key opportunities, and implementation considerations</a></li>
 				<li><a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
 				<li><a href="https://pspwa.box.com/s/qwqatl3l3zi4x3ncchizy68auca9xcte">Tribal Habitat Priorities</a></li>
