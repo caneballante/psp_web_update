@@ -74,7 +74,7 @@
 		
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3919827/agency-workplan-and-environmental-protection-agency-epa-grant-coordinator-ems">Agency Workplan and Environmental Protection Agency (EPA) Grant Coordinator (EMS 2)</a></p>
 			
-			<p>Salary range: $87,205.00 - $99,967.00 Annually</p>
+			<p><strong>Salary range: $87,205.00 - $99,967.00 annually</strong></p>
 			<p>We are proud to offer a suite of "Employer of Choice" initiatives and benefits in addition to state government’s full compensation and benefits. All of the Partnership’s employees have access and are welcome to enjoy the following:
 				<ul class="bullet-size-fix">
 					<li>A healthy/work balance by offering flexible and alternative work schedules.</li>
