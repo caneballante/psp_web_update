@@ -74,18 +74,7 @@
 		
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3919827/agency-workplan-and-environmental-protection-agency-epa-grant-coordinator-ems">Agency Workplan and Environmental Protection Agency (EPA) Grant Coordinator (EMS 2)</a></p>
 			
-			<p><strong>Salary range: $87,205.00 - $99,967.00 annually</strong></p>
-			<p>We are proud to offer a suite of "Employer of Choice" initiatives and benefits in addition to state government’s full compensation and benefits. All of the Partnership’s employees have access and are welcome to enjoy the following:
-				<ul class="bullet-size-fix">
-					<li>A healthy/work balance by offering flexible and alternative work schedules.</li>
-					<li>Active and engaging equity and inclusion programs, including an affinity group and an employee-led Accountability Buddy Program.</li>
-					<li>Exclusive access to the Employee Assistance Program’s Work/Life web portal that provides additional benefits and resources to Partnership employees.</li>
-					<li>An Infant at Work Program that is based on the long-term health values of infant-parent bonding and breastfeeding newborns. </li>
-					<li>An agency-paid ORCA card for public transit use in the Puget Sound region.</li>
-					<li>A tax-free hiring incentive that includes a one-time $200 Amazon allowance for ordering at-home office equipment or preferred supplies to support the telework experience.</li>
-					<li>An annual professional development allowance for gaining skills that advance the employee’s career in their current field of work.</li>
-				</ul>
-			</p>
+			<p>The Partnership’s Agency Work Planning and Environmental Protection Agency (EPA) Program Coordinator is the project manager for the agency work planning process and the lead for managing the agency’s cooperative agreements with the EPA and complying with reporting requirements. The annual range of compensation is between $87,205.00 - $99,967.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees earn paid time off and designated paid holidays. For more information about benefits and the details of the position, visit the application page linked above.</p><br><br>
 			
 			
 		
