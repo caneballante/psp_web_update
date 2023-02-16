@@ -72,8 +72,20 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 		
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3900722/local-integrating-organization-lio-program-coordinator-ems-1">Local Integrating Organization (LIO) Program Coordinator (EMS 1)</a></p>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3890197/salmon-policy-advisor">Salmon Policy Advisor</a></p>
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3919827/agency-workplan-and-environmental-protection-agency-epa-grant-coordinator-ems">Agency Workplan and Environmental Protection Agency (EPA) Grant Coordinator (EMS 2)</a></p>
+			
+			<p>Salary range: $87,205.00 - $99,967.00 Annually</p>
+			<p>We are proud to offer a suite of "Employer of Choice" initiatives and benefits in addition to state government’s full compensation and benefits. All of the Partnership’s employees have access and are welcome to enjoy the following:
+				<ul class="bullet-size-fix">
+					<li>A healthy/work balance by offering flexible and alternative work schedules.</li>
+					<li>Active and engaging equity and inclusion programs, including an affinity group and an employee-led Accountability Buddy Program.</li>
+					<li>Exclusive access to the Employee Assistance Program’s Work/Life web portal that provides additional benefits and resources to Partnership employees.</li>
+					<li>An Infant at Work Program that is based on the long-term health values of infant-parent bonding and breastfeeding newborns. </li>
+					<li>An agency-paid ORCA card for public transit use in the Puget Sound region.</li>
+					<li>A tax-free hiring incentive that includes a one-time $200 Amazon allowance for ordering at-home office equipment or preferred supplies to support the telework experience.</li>
+					<li>An annual professional development allowance for gaining skills that advance the employee’s career in their current field of work.</li>
+				</ul>
+			</p>
 			
 			
 		
@@ -94,7 +106,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 2/2/23</p>
+		<p class="last-update">Last updated: 2/16/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
