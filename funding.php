@@ -111,13 +111,12 @@
 			
 <h2>Upcoming Funding Overview</h2>
 			
-<h3>Puget Sound Scientific Research (Science Panel Affiliation)</h3>
-	<ul class="bullet-size-fix">
-	<li><strong>Funding content focus: </strong>Specific content is still under discussion, but will rely on the <a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">2020-2024 Science Work Plan</a> to inform priority areas of investigation.</li>
-	<li><strong>Estimated or determined timeline: </strong>Estimated release of RFP is early 2023 with awards granted in the spring and work to begin July 1, 2023.   </li>
-	<li><strong>Estimated or determined funding amount: </strong>Total award amount is still uncertain. In 2021, six projects identified through a Partnership solicitation and nine projects selected by Washington Sea Grant were awarded a total of nearly $1.7 million. </li>
-	<li><strong>Additional background information: </strong>Two-year awards from July 1, 2023-June 30, 2025.  To learn more about 2019-2021 projects, please see <a href="https://pspwa.box.com/s/jin0hqljzm6n5wvocm5xaxy7dcw0117p">this Science Panel Memo</a>; to learn about the previous solicitation and evaluation process and awarded projects in 2021, please read <a href="https://pspwa.box.com/s/3jtyia0fdp7d725y9eshi3yfsjtzfgn8">this memo</a> or <a href="https://pspwa.box.com/s/buf4pf2pge4b2lg9zadplxq2q0rfp79d">this Science Panel memo</a>; October 2022 thinking about the 2023-2025 solicitation can be found <a href="https://pspwa.box.com/s/3pds75au1trckastvi0r60let8du9944">here</a>.</li>
-	</ul>
+<h3>Puget Sound Scientific Research - OPEN UNTIL MAY 22, 2023</h3>
+	<p><strong>Learn more: TBA</strong></p>
+	<p><strong>Funding amount:</strong> $1,400,000, split between 5-13 projects. Project period is August 2023 - June 30, 2025</p>
+	<p><strong>Informational webinar:</strong> March 30, 10 - 11 a.m. Registration is required.</p>
+	<p><strong>Details:</strong> Respondents can use one of two project types—Integrated Social Ecological Systems Projects or Targeted Research projects—to advance one or more Priority Science Work Actions.  Priority Science Work Actions cover a range of topics that cover human-biophysical interactions, effectiveness of recovery interventions, ecological conditions and effects, and science-based decision support.</p>
+	<br><br>
 			
 			
 <h3>Strategic Initiative Leads Requests for Proposals (Strategic Initiative Leads Affiliation)</h3>
