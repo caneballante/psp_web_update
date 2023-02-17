@@ -93,9 +93,11 @@
 	
 	<br><br>
 	
-<h2>1/23/2023 - Puget Sound Salmon Science Investigations</h2>
-	<p><strong>Timeline: </strong>Open from December 22, 2022 until March 13, 2023. Awards will be announced in April for work anticipated to begin in July 2023 and be completed by June 30, 2025.</p>
-	<p><strong>Funding amount: </strong>Up to $2 million will be awarded for projects up to $400,000 each.</p>
+<h2>12/22/2022 - Puget Sound Salmon Science Investigations - OPEN UNTIL MARCH 13, 2023</h2>
+	<p><strong>Learn more: <a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">Request for Information</a></strong></p>
+	<p><strong>Timeline: </strong>Open until March 13, 2023. Awards will be announced in April for work anticipated to begin in July 2023 and be completed by June 30, 2025.</p>
+	<p><strong>Funding amount: </strong>Up to $2 million will be awarded for projects up to $400,000 each. Up to 15 projects will be supported during the funding period from July 2023 - June 30, 2025.</p>
+	<p><strong>Informational webinar:</strong></p>
 	<p><strong>Details: </strong>The Partnership and Salmon Science Advisory Group are pleased to announce a <a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">Request for Information</a> for collaborative proposals to conduct salmon scientific investigations. Investigations could include but are not limited to modeling, research, and syntheses to address emerging issues of concern, factors limiting recovery, and other critical science and monitoring questions to advance Puget Sound salmon recovery. Outcomes of the proposed investigations should support ongoing recovery planning and adaptive management efforts to ensure self-sustaining, harvestable, salmon runs that sustain people and orcas in Puget Sound. Proposed investigations are encouraged to address environmental justice, tribal needs, and treaty rights in relation to salmon recovery.</p>
 	
 	<p>Specifically, the Partnership is seeking project proposals that address one or more priority information needs: </p>
