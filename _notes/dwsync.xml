@@ -50,7 +50,6 @@
 <file name="science-strategic-science-plan.php" server="198.238.33.26/psp_web_update/" local="3529107364" remote="3529107604" Dst="-1" />
 <file name="puget-sound-partnership.php" server="198.238.33.26/psp_web_update/" local="3529107364" remote="3529107567" Dst="-1" />
 <file name="legislative_updates.php" server="198.238.33.26/psp_web_update/" local="3529107364" remote="3529107539" Dst="-1" />
-<file name="funding.php" server="198.238.33.26/psp_web_update/" local="3529107363" remote="3529107531" Dst="-1" />
 <file name="redirect list.rtf" server="198.238.33.26/psp_web_update/" local="3528666688" remote="3529104789" Dst="-1" />
 <file name="soundchoices_2015.php" server="198.238.33.26/psp_web_update/" local="3529107365" remote="3529107650" Dst="-1" />
 <file name="PSmarinewatersoverview.php" server="198.238.33.26/psp_web_update/" local="3529107364" remote="3529107564" Dst="-1" />
@@ -66,7 +65,6 @@
 <file name="evaluating-health-of-puget-sound.php" server="198.238.33.26" local="3549920839" remote="3551289924" Dst="-1" />
 <file name="evaluating-human-wellbeing.php" server="198.238.33.26" local="3549920840" remote="3551289924" Dst="-1" />
 <file name="evaluating-vital-signs.php" server="198.238.33.26" local="3556108566" remote="3551289925" Dst="-1" />
-<file name="funding.php" server="198.238.33.26" local="3554233600" remote="3583177307" Dst="-1" />
 <file name="government-relations.php" server="198.238.33.26" local="3564588883" remote="3564589170" Dst="-1" />
 <file name="LC_about.php" server="198.238.33.26" local="3579703877" remote="3579704341" Dst="-1" />
 <file name="legislative_updates.php" server="198.238.33.26" local="3573474099" remote="3573228434" Dst="-1" />
@@ -110,7 +108,6 @@
 <file name="evaluating-health-of-puget-sound.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164877" Dst="-1" />
 <file name="evaluating-human-wellbeing.php" server="198.238.33.26/psp-test/" local="3529121471" remote="3529164878" Dst="-1" />
 <file name="evaluating-vital-signs.php" server="198.238.33.26/psp-test/" local="3529121450" remote="3529164879" Dst="-1" />
-<file name="funding.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164885" Dst="-1" />
 <file name="government-relations.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529164886" Dst="-1" />
 <file name="LC_about.php" server="198.238.33.26/psp-test/" local="3529107363" remote="3529165256" Dst="-1" />
 <file name="legislative_updates.php" server="198.238.33.26/psp-test/" local="3529107364" remote="3529165256" Dst="-1" />
@@ -163,7 +160,6 @@
 <file name="evaluating-health-of-puget-sound.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204685" Dst="-1" />
 <file name="evaluating-human-wellbeing.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204685" Dst="-1" />
 <file name="evaluating-vital-signs.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204686" Dst="-1" />
-<file name="funding.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204686" Dst="-1" />
 <file name="government-relations.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204686" Dst="-1" />
 <file name="LC_about.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197581" remote="3600204687" Dst="-1" />
 <file name="LIO-overview.php" server="198.238.33.26//var/www/psp.wa.gov/htdocs/" local="3600197580" remote="3600204687" Dst="-1" />
@@ -251,7 +247,6 @@
 <file name="action_agenda_center.php" server="198.238.137.41" local="3632328075" remote="3632328060" Dst="-1" />
 <file name="action-agenda-archive.php" server="198.238.137.41" local="3604515321" remote="3604515300" Dst="-1" />
 <file name="strategic-initiatives-leads.php" server="198.238.137.41" local="3606312759" remote="3606312720" Dst="-1" />
-<file name="funding.php" server="198.238.137.41" local="3624989276" remote="3624989220" Dst="-1" />
 <file name="partnership-boards-overview.php" server="198.238.137.41" local="3605099797" remote="3605099760" Dst="-1" />
 <file name="salmon-recovery-overview.php" server="198.238.137.41" local="3613407296" remote="3613407240" Dst="-1" />
 <file name="2018_AA_update.php" server="198.238.137.41" local="3613068398" remote="3613068360" Dst="-1" />
@@ -313,7 +308,6 @@
 <file name="board_meetings.php" server="198.238.137.41/psp.wa.gov/" local="132548693241165286" remote="132548692800000000" Dst="1" />
 <file name="priority-outcomes.php" server="198.238.137.41/psp.wa.gov/" local="132582568135535834" remote="132582567600000000" Dst="1" />
 <file name="2022AAupdate.php" server="198.238.137.41/psp.wa.gov/" local="132582570381231882" remote="132582570000000000" Dst="1" />
-<file name="funding.php" server="198.238.137.41/psp.wa.gov/" local="132491560539189893" remote="132491560200000000" Dst="1" />
 <file name="evaluating-vital-signs.php" server="198.238.137.41/psp.wa.gov/" local="132472527451853689" remote="132472527600000000" Dst="2" />
 <file name="science-workplan.php" server="198.238.137.41/psp.wa.gov/" local="132560841409496218" remote="132560841000000000" Dst="1" />
 <file name="strategic-plan.php" server="198.238.137.41/psp.wa.gov/" local="132496988949816067" remote="132496989000000000" Dst="1" />
@@ -377,7 +371,6 @@
 <file name="draft-action-agenda-development-review.php" server="198.238.137.44//psp.wa.gov/" local="132913384131463287" remote="132913384200000000" Dst="1" />
 <file name="2018_AA_update.php" server="198.238.137.44//psp.wa.gov/" local="132521027977087216" remote="132876820800000000" Dst="1" />
 <file name="action_agenda_center.php" server="198.238.137.44//psp.wa.gov/" local="132876925918235826" remote="132876925800000000" Dst="1" />
-<file name="funding.php" server="198.238.137.44//psp.wa.gov/" local="132878745908617631" remote="132878745600000000" Dst="1" />
 <file name="action_agenda_learn_more.php" server="198.238.137.44//psp.wa.gov/" local="132888992763628718" remote="132888992400000000" Dst="1" />
 <file name="action_agenda_tracking_progress.php" server="198.238.137.44//psp.wa.gov/" local="132889148104606066" remote="132889147800000000" Dst="1" />
 <file name="evaluating-human-wellbeing.php" server="198.238.137.44//psp.wa.gov/" local="132895231673204285" remote="132895231200000000" Dst="1" />
@@ -414,7 +407,6 @@
 <file name="evaluating-human-wellbeing.php" server="198.238.137.44/psp.wa.gov/" local="133189769683845579" remote="133189771800000000" Dst="1" />
 <file name="sos.php" server="198.238.137.44/psp.wa.gov/" local="133124119009933403" remote="133124118600000000" Dst="1" />
 <file name="SR_about.php" server="198.238.137.44/psp.wa.gov/" local="133189769684335573" remote="133189771800000000" Dst="1" />
-<file name="funding.php" server="198.238.137.44/psp.wa.gov/" local="133190525032060615" remote="133190524800000000" Dst="1" />
 <file name="PSAR.php" server="198.238.137.44/psp.wa.gov/" local="133189777722671659" remote="133189777800000000" Dst="1" />
 <file name="pspnc-credits.php" server="198.238.137.44/psp.wa.gov/" local="133125839048769423" remote="133125838800000000" Dst="1" />
 <file name="legislative-calendar.php" server="198.238.137.44/psp.wa.gov/" local="133189769690442607" remote="133189771800000000" Dst="1" />
@@ -522,4 +514,5 @@
 <file name="json-test.html" server="198.238.137.44/psp.wa.gov/" local="133203500176389484" remote="133203500400000000" Dst="1" />
 <file name="json-test1.html" server="198.238.137.44/psp.wa.gov/" local="133203501832995277" remote="133203501600000000" Dst="1" />
 <file name="json-test1.php" server="198.238.137.44/psp.wa.gov/" local="133203502829726620" remote="133203502800000000" Dst="1" />
+<file name="funding-old.php" server="198.238.137.44/psp.wa.gov/" local="133190525032060615" remote="133211353200000000" Dst="1" />
 </dwsync>
