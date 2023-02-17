@@ -82,7 +82,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->		
 			
 			
-<h2 class="margin-0-top">1/23/2023 - Monitoring to Accelerate Recovery (PSEMP and Vital Signs affiliation)</h2>
+<h2 class="margin-0-top">1/23/2023 - Monitoring to Accelerate Recovery</h2>
 	<p><strong>Timeline:</strong> Responses are due by 11:59 pm on April 14, 2023. </p>
 	
 	<p><strong>Funding amount:</strong> Approximately $750,000 will be allocated for selected projects with a minimum of $50,000 and a maximum of $120,000 total compensation payable per project. We anticipate supporting up to 10 projects in total for the period of July 1, 2023, to June 30, 2025. </p>
