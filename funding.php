@@ -82,24 +82,14 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->		
 			
 			
-<h2 class="margin-0-top">1/23/2023 - Monitoring to Accelerate Recovery</h2>
+<h2 class="margin-0-top">1/23/2023 - Monitoring to Accelerate Recovery - OPEN UNTIL APRIL 14, 2023</h2>
 	<p><strong>Learn more: <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a></strong></p>
 	<p><strong>Timeline:</strong> Responses are due by 11:59 pm on April 14, 2023. </p>
 	
 	<p><strong>Funding amount:</strong> Approximately $750,000 will be allocated for selected projects with a minimum of $50,000 and a maximum of $120,000 total compensation payable per project. We anticipate supporting up to 10 projects in total for the period of July 1, 2023, to June 30, 2025. </p>
 			
 	<p><strong>Informational webinar:</strong> Thursday, February 23, 2023, 1:00 pm to 2:00 pm PST. <a href="https://us06web.zoom.us/meeting/register/tZIsdOqoqDIqG9bvcLUxuNZRlXlA394Y2WTq" target="new">Registration is required</a></p>
-			<p><strong>Details: </strong>The Partnership is pleased to announce a <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a> (RFI) for collaborative monitoring-related projects to address priority information needs to support and accelerate the recovery of the Puget Sound ecosystem. </p>
-	
-	<p>Specifically, the Partnership seeks proposals that fall under one of the following two categories:  </p>
-		<ul class="bullet-size-fix">
-			<li>Category 1 – Developing and first-time reporting of Vital Sign Indicators, and  </li>
-			<li>Category 2 - Addressing questions to inform and assess progress toward desired outcomes and statutory goals for Puget Sound recovery.  </li>
-		</ul>
-	
-	<p>All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) strategic plan to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication to improve access to credible information to guide recovery decisions.</p>
-	
-	<p>As an implementing agency of Washington State’s Healthy Environment for All (HEAL) Act, the Partnership encourages respondents to submit proposals that create environmental benefits for overburdened and vulnerable populations, build collaborations with community scientists, and provide opportunities for tribes, vulnerable populations, and overburdened communities to participate. </p>
+			<p><strong>Details: </strong>This is a <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a> (RFI) for collaborative monitoring-related projects to address priority information needs to support and accelerate the recovery of the Puget Sound ecosystem. </p>
 	
 	<br><br>
 	
