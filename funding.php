@@ -83,6 +83,7 @@
 			
 			
 <h2 class="margin-0-top">1/23/2023 - Monitoring to Accelerate Recovery</h2>
+	<p><strong>Learn more: <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a></strong></p>
 	<p><strong>Timeline:</strong> Responses are due by 11:59 pm on April 14, 2023. </p>
 	
 	<p><strong>Funding amount:</strong> Approximately $750,000 will be allocated for selected projects with a minimum of $50,000 and a maximum of $120,000 total compensation payable per project. We anticipate supporting up to 10 projects in total for the period of July 1, 2023, to June 30, 2025. </p>
