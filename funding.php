@@ -81,8 +81,14 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->		
 			
-			
-<h2 class="margin-0-top">1/23/2023 - Monitoring to Accelerate Recovery - OPEN UNTIL APRIL 14, 2023</h2>
+			<h2 class="margin-0-top">2/21/23 - Puget Sound Scientific Research - OPEN UNTIL MAY 22, 2023</h2>
+				<p><strong>Learn more: <a href="https://pspwa.box.com/s/fuvl3x3hijxak9agnb0x1dyqxa6to427" target="new">Request for Information</a></strong></p>
+				<p><strong>Funding amount:</strong> $1,400,000, split between 5-13 projects. Project period is August 2023 - June 30, 2025</p>
+				<p><strong>Informational webinar:</strong> March 30, 10 - 11 a.m. <a href="https://us06web.zoom.us/meeting/register/tZ0ocuysrDIjH9RJCENLQjWK940NoOmK__Pp" target="new">Registration is required</a>.</p>
+				<p><strong>Details:</strong> Respondents can use one of two project types—Integrated Social Ecological Systems Projects or Targeted Research projects—to advance one or more Priority Science Work Actions.  Priority Science Work Actions cover a range of topics that cover human-biophysical interactions, effectiveness of recovery interventions, ecological conditions and effects, and science-based decision support.</p>
+				<br><br>
+
+			<h2>1/23/2023 - Monitoring to Accelerate Recovery - OPEN UNTIL APRIL 14, 2023</h2>
 	<p><strong>Learn more: <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a></strong></p>
 	<p><strong>Timeline:</strong> Responses are due by 11:59 pm on April 14, 2023. </p>
 	
