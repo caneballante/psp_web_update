@@ -117,13 +117,6 @@
 			
 <h2>Upcoming Funding Overview</h2>
 			
-<h3>Puget Sound Scientific Research - OPEN UNTIL MAY 22, 2023</h3>
-	<p><strong>Learn more: TBA</strong></p>
-	<p><strong>Funding amount:</strong> $1,400,000, split between 5-13 projects. Project period is August 2023 - June 30, 2025</p>
-	<p><strong>Informational webinar:</strong> March 30, 10 - 11 a.m. Registration is required.</p>
-	<p><strong>Details:</strong> Respondents can use one of two project types—Integrated Social Ecological Systems Projects or Targeted Research projects—to advance one or more Priority Science Work Actions.  Priority Science Work Actions cover a range of topics that cover human-biophysical interactions, effectiveness of recovery interventions, ecological conditions and effects, and science-based decision support.</p>
-	<br><br>
-			
 			
 <h3>Strategic Initiative Leads Requests for Proposals (Strategic Initiative Leads Affiliation)</h3>
 	<ul class="bullet-size-fix">
