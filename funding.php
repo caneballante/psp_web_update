@@ -94,7 +94,7 @@
 	
 	<p><strong>Funding amount:</strong> Approximately $750,000 will be allocated for selected projects with a minimum of $50,000 and a maximum of $120,000 total compensation payable per project. We anticipate supporting up to 10 projects in total for the period of July 1, 2023, to June 30, 2025. </p>
 			
-	<p><strong>Informational webinar:</strong> A recording of the February 23, 2023 webinar is <a href="https://pspwa.box.com/s/t5r9gd3jk4zaurc7rt4bjghaf724mp5j" target="new">available here.</a> Q&amp;A from the webinar is <a href="https://pspwa.box.com/s/dg56jadj3wlerdj7v8qimjjdy3zko94l" target="new">available here.</a></p>
+	<p><strong>Informational webinar:</strong> A recording of the February 23, 2023 webinar is <a href="https://pspwa.box.com/s/t5r9gd3jk4zaurc7rt4bjghaf724mp5j" target="new">available here.</a> Q&amp;A is <a href="https://pspwa.box.com/s/dg56jadj3wlerdj7v8qimjjdy3zko94l" target="new">available here.</a></p>
 			
 		<p><strong>Written question and answer period:</strong> A second written question and answer is open now until March 9 at noon. Please submit questions to <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a>. A second addendum will be posted on March 10 to address submitted questions and provide any additional guidance from the Environmental Justice Council regarding prioritization of environmental justice in agency expenditure decisions. </p>
 			
