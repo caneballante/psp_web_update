@@ -99,7 +99,7 @@
 	<p> Responses are due by 11:59 pm on April 14, 2023. Please see the <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a> for additional details about proposal requirements, how to apply, and the priority information needs.</p>
 			
 				<h3>Informational webinar</h3> 
-				<p>A recording of the February 23, 2023 webinar is <a href="https://pspwa.box.com/s/t5r9gd3jk4zaurc7rt4bjghaf724mp5j" target="new">available here.</a> Q&amp;A from the webinar is <a href="https://pspwa.box.com/s/dg56jadj3wlerdj7v8qimjjdy3zko94l" target="new">available here.</a></p><br>
+				<p>A recording of the February 23, 2023 webinar is <a href="https://pspwa.box.com/s/t5r9gd3jk4zaurc7rt4bjghaf724mp5j" target="new">available here.</a> Q&amp;A is <a href="https://pspwa.box.com/s/dg56jadj3wlerdj7v8qimjjdy3zko94l" target="new">available here.</a></p><br>
 			
 		<p><strong>Written question and answer period:</strong> A second written question and answer is open now until March 9 at noon. Please submit questions to <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a>. A second addendum will be posted on March 10 to address submitted questions and provide any additional guidance from the Environmental Justice Council regarding prioritization of environmental justice in agency expenditure decisions. </p>
 			
