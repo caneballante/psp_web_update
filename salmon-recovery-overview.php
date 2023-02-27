@@ -89,7 +89,7 @@
 		<h2>WHO'S INVOLVED?</h2>
 		<p>The <strong>Puget Sound Partnership</strong> is the state agency leading the region's collective effort to restore and protect Puget Sound. The Leadership Council, the governing body of the Puget Sound Partnership, serves as the <a href="http://app.leg.wa.gov/rcw/default.aspx?cite=77.85.090">regional</a> organization for Puget Sound salmon recovery (with the exception of Hood Canal Summer Chum).</p>
 		<p>To advance salmon recovery efforts in Puget Sound, the Partnership:</p>
-		<ul>
+		<ul class="bullet-size-fix">
 			<li>Collaborates with federal, tribal, state, and local partners to develop regional and local salmon recovery plans as part of the <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda for Puget Sound</a>.</li>
 			<li>Supports lead entities and project sponsors to implement restoration and acquisition projects, advance priority recovery efforts through the Puget Sound Salmon Recovery Council, and manage the <a href="http://www.psp.wa.gov/PSAR.php">Puget Sound Acquisition and Restoration (PSAR) fund</a>.</li>
 			<li>Tracks and reports change using the Common Indicators¨ and <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Vital Signs</a>.</li>
@@ -120,7 +120,7 @@
 		<h4>Puget Sound Chinook Vital Sign Recovery Goals</h4>
 		<p>The Puget Sound regional experts have defined <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Vital Sign Indicators</a> to track the health of the ecosystem. Targets for those indicators represent recovery goals. The recovery target for the <a href="http://www.psp.wa.gov/vitalsigns/salmon.php">Chinook Salmon Vital Sign</a> is to &ldquo;stop the overall decline and start seeing improvement in wild Chinook abundance in two to four populations in each Puget Sound biogeographic region.<em>&rdquo;</em> To date, there is little sign of recovery of Puget Sound Chinook salmon populations and most remain far below their recovery planning targets. The Chinook salmon <a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategy</a> was developed to meet the Vital Sign target using a collaborative process to identify innovative ideas to accelerate salmon recovery, develop guidance for science and monitoring, and define recovery priorities and actions to achieve the Chinook salmon Vital Sign target. </p>
 		<p><a href="https://pspwa.app.box.com/file/236938255710">Regional priorities</a> for Puget Sound Chinook include:</p>
-		<ul>
+		<ul class="bullet-size-fix">
 			<li>Continue to restore degraded habitat and fish populations;</li>
 			<li>Maintain water quality and water quantity and prevent water uses that would limit the recovery of salmon;</li>
 			<li>Assess and improve the effectiveness of existing habitat protection and growth management laws;</li>
@@ -133,14 +133,14 @@
 		<p>The Partnership uses the Monitoring and Adaptive Management program is designed to evaluate progress toward recovery and to make changes in strategies or recovery efforts as a result of monitoring. In the 2005 Puget Sound Salmon Recovery Plan, <a href="https://pspwa.box.com/s/9nlhk69nac4qx309hu2n63ff8bwt7b85">key ecological attributes</a>, or characteristics necessary for salmon recovery, were defined for salmonid populations. In 2014, the Partnership worked with local and regional experts to define a shared set of habitat indicators, called Common Indicators, to be reported across Puget Sound. A common set of measureable indicators enables the region to understand how successful each watershed is in implementing its recovery chapter and tell a clear regional story about recovery that is directly tied to evaluating the success of the recovery plan.</p>
 		<h4>Outcomes, effectiveness and accountability</h4>
 		<p>The Partnership's <a href="http://www.psp.wa.gov/evaluating-effective-action.php">Effectiveness Monitoring Program</a> evaluates how effective our restoration actions are to restore the Puget Sound ecosystem. The effectiveness assessment program has documented the positive effects of recovery actions in the following habitats:</p>
-		<ul>
+		<ul class="bullet-size-fix">
 			<li>Nearshore restoration projects that remove hard armor and add proper size sand to the beach commonly result in usable forage fish spawning habitat for species like surf smelt and sand lance;</li>
 			<li>Protection and restoration projects that produce side channels and backwater habitat in the floodplain provide essential salmon refuge from predators, rest during migration, and opportunities for feeding;</li>
 			<li>Restored estuaries allow salmon to return to lay their eggs as soon as habitat is available;</li>
 			<li>Bays where pollution has been removed through dredging and stormwater treatment increase the health of bottom-dwelling fish.</li>
 		</ul>
 		<p>Other salmon recovery highlights efforts from around Puget Sound include:</p>
-		<ul type="disc">
+		<ul class="bullet-size-fix">
 			<li>The <a href="http://www.psp.wa.gov/PSAR.php">Puget Sound Acquisition and Restoration program</a> has provided over $5      million in funding to 13 fish-passage projects that include culvert      modification or removal.</li>
 			<li>Tribal hatcheries produce      approximately 40 million salmon and steelhead each year. (<a href="https://nwifc.org/publications/annual-report/">NWIFC 2016 Annual Report</a>)</li>
 			<li>In some cases, flooding has      been reduced when levees are replaced or set back, e.g., Skokomish Delta      and Fisher Slough (Skagit Delta) (<a href="http://www.psp.wa.gov/evaluating-effective-action.php#fisher">Effectiveness Review Fisher      Slough</a>).</li>
@@ -149,7 +149,7 @@
 			<li>An estimated 65,000 Chinook      smolts are expected to be produced annually after restoration is complete      at Fir Island Farm in Skagit County, which holds some of the largest runs      of Chinook, pink, and chum in the state. (<a href="https://pugetsoundinnovationstories.blog/2017/08/28/fir-island-restoration/">Innovative Stories Blog</a>)</li>
 		</ul>
 		<p>Puget Sound Partnership Effectiveness Resources:</p>
-		<ul>
+		<ul class="bullet-size-fix">
 			<li><a href="http://www.psp.wa.gov/PSAR-resources.php">PSAR Project Fact Sheets</a></li>
 			<li><a href="https://pugetsoundinnovationstories.blog/">Puget Sound Innovative Stories</a></li>
 			<li><a href="http://www.psp.wa.gov/evaluating-effective-action.php">Puget Sound Partnership Effectiveness Monitoring Program</a></li>
