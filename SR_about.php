@@ -77,7 +77,7 @@
 			<p>The Puget Sound Salmon Recovery Council advises the Puget Sound Partnership&rsquo;s Leadership Council on decisions relating to salmon recovery and the implementation of the Puget Sound Salmon Recovery Plan. The Puget Sound Salmon Recovery Council&rsquo;s recommendations help set priorities for the types of recovery work to conduct, determine what issues to focus on, and provide recommendations for future projects and funding.</p>
 			<p>The Puget Sound Salmon Recovery Council includes representatives from the diverse constituents working on salmon recovery throughout the Sound, including representatives from federal agencies, state agencies, local jurisdictions, all Puget Sound tribes, all Puget Sound watersheds, business and agriculture entities, and environmental entities. To create lasting and durable outcomes, operating procedures specify that decisions strive for consensus.</p>
 			<p>The Puget Sound Salmon Recovery Council recommendations allow the Leadership Council to:</p>
-			<ul>
+			<ul class="bullet-size-fix">
 			  	<li>Set policy direction for implementing the Puget Sound Salmon Recovery Plan.</li>
 				<li>Develop and direct strategic approaches to near-term issues and actions.</li>
 				<li>Establish allocation policies for capital and capacity funding.</li>
