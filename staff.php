@@ -115,6 +115,11 @@
 						<h5>Larry Epstein</h5>
 						<p> Deputy Director<br />
 							360.480.0487 | <a href="mailto:larry.epstein@psp.wa.gov">larry.epstein@psp.wa.gov</a></p>
+						<!--STRATEGIC FUNDING PROGRAM-->
+						<h3 class="padding-10-top">Strategic Funding Program</h3>
+						<h5>Jennifer Grimm</h5>
+						<p>Strategic Funding Manager<br />
+						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
 						 <!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
 						<h5>Kirsten Feifel</h5>
@@ -164,11 +169,7 @@
 						<h5>Chase Nuuhiwa</h5>
 						<p>Visual Communications Lead<br>
 						360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
-						<!--STRATEGIC FUNDING PROGRAM-->
-						<h3 class="padding-10-top">Strategic Funding Program</h3>
-						<h5>Jennifer Grimm</h5>
-						<p>Strategic Funding Manager<br />
-						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
+						
 						<!--INTEGRATED PLANNING TEAM-->
 						<h2>INTEGRATED PLANNING PROGRAM</h2>
 						<h5>VACANT</h5>
