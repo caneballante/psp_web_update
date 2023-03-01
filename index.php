@@ -162,6 +162,19 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/ps-marine-waters-report-2021.jpg"  alt="Photo from the cover of the Puget Sound Marine Waters 2021 Overview report, showing the silhouette of an airplane flying over Puget Sound waters"/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="/PSmarinewatersoverview.php">Puget Sound Marine Waters 2021 Overview</a><br>
+						<!--END news content BOX-->  
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+            <!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+					<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt="Photo of Puget Sound shoreline with birds sitting in the water and another bird flying over the shoreline"/> <strong>ANNOUNCEMENT</strong><br>
 						<a href="/funding.php">Puget Sound Scientific Research Request for Information</a><br>
 						<!--END news content BOX-->  
@@ -183,7 +196,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-            <!--COLUMN START-->
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -209,6 +222,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
+			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -221,8 +235,7 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!--COLUMN END--> 
-			
+			<!--column END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -235,7 +248,7 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!--column END-->
+			<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -243,20 +256,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/making-waves-aabrochure.jpg"  alt="Screenshot from the Action Agenda video brochure, showing Puget Sound water and two land masses"/> <strong>Making Waves</strong><br>
 						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/28/introduction-action-agenda/" target="new">An introduction to the 2022-2026 Action Agenda</a><br>
-						<!--END news content BOX-->  
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/making-waves-conversations.jpg"  alt="Photo of Mount Rainier with orange and blue color banners at the bottom right"/> <strong>Making Waves</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/27/action-agenda-interview-laura-blackmore-and-dennis-mclerran/" target="_blank">Making Waves Conversations: Laura Blackmore and Dennis McLerran discuss the 2022-2026 Action Agenda</a><br>
-						<!--END news content BOX-->  
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
