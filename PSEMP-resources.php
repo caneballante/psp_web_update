@@ -83,6 +83,18 @@
 			
 			<div class="col-md-4">
 					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2021 OVERVIEW</h6>
+					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/ps-marine-waters-report-2021.jpg" class="img-responsive img-rounded" alt="The cover photo from the Puget Sound Marine Waters 2021 Overview report, showing the silhouette of a seaplane flying over blue, green, and orange-colored Puget Sound water."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a></p></span>
+								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2021.</p><br>
+					
+						</div></div></div></div>
+			
+			<div class="col-md-4">
+					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Equity Guidebook</h6> 
@@ -90,8 +102,8 @@
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/fjib71hve2kcm9h9ldr6bmeepb8kijyt">View</a></p></span>
 								<span class="no-icon"><p class="psemp-products">The purpose of the guidebook is to help the reader develop ideas about equity with the goal of visualizing and articulating environmental disparities in Puget Sound. The guidebook offers a framework made up of a few simple steps for building an analysis of Vital Signs with an equity lens.</p></span><br>
 					
-							</div></div></div></div>
-			
+							</div></div></div></div> <!--end col-->
+				
 			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -100,17 +112,6 @@
 					<span class="no-icon"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit" target="new"><img src="images/PSEMP/nearshore.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit">Overview</a> | <a href="https://pspwa.box.com/s/giimspgmm6j23u0jlau96vh9al91zcnl">Video</a></p></span>
 								<span class="no-icon"><p class="psemp-products">The goals of this virtual summit were to synthesize nearshore science and restoration actions in Puget Sound and create a roadmap that updates restoration conceptual models and identifies uncertainties to address.</p></span><br>
-					
-							</div></div></div></div> <!--end col-->
-				
-			<div class="col-md-4">
-					<div class="card">
-						<div class="card-body">
-							<div class="d-inline">
-					<h6 class="margin-0-top">Fundamental Environmental Contextual Metrics Dashboard</h6> 
-					<span class="no-icon"><a href="https://docs.google.com/presentation/d/1KWrj6mEqaT-tytLMIW4_TCNAJTPnxX7yh9vW28dhc7w/edit#slide=id.p" target="new"><img src="images/PSEMP/fundamental-metrics.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">Dashboard</a> | <a href="https://pspwa.box.com/s/z5rl1g2z3e7gkt4g89n8jtlopsfyrzok">Video</a></p></span>
-								<p class="psemp-products">This project uses data from oceanographic and atmospheric measurement programs to develop six fundamental environmental metrics and compare current status to historical values. The metrics are available on a <a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">web-based dashboard</a>.</p><br>
 					
 							</div></div></div></div> <!--end col-->
 			
@@ -122,15 +123,14 @@
 			
 			<div class="col-md-4">
 					<div class="card">
-							<div class="card-body">
+						<div class="card-body">
 							<div class="d-inline">
-								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2020 OVERVIEW</h6>
-					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/news-images/ps-marine-waters-report-2020.jpg" class="img-responsive img-rounded" alt=""/></a>
-	 	 		    
-					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a> | <a href="https://pspwa.box.com/s/v6wrf24bx30j9ep3qfbxwgtlkrckwxwd">Video</a></p></span>
-								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2020.</p><br>
+					<h6 class="margin-0-top">Fundamental Environmental Contextual Metrics Dashboard</h6> 
+					<span class="no-icon"><a href="https://docs.google.com/presentation/d/1KWrj6mEqaT-tytLMIW4_TCNAJTPnxX7yh9vW28dhc7w/edit#slide=id.p" target="new"><img src="images/PSEMP/fundamental-metrics.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">Dashboard</a> | <a href="https://pspwa.box.com/s/z5rl1g2z3e7gkt4g89n8jtlopsfyrzok">Video</a></p></span>
+								<p class="psemp-products">This project uses data from oceanographic and atmospheric measurement programs to develop six fundamental environmental metrics and compare current status to historical values. The metrics are available on a <a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">web-based dashboard</a>.</p><br>
 					
-						</div></div></div></div>
+							</div></div></div></div>
 			
 			<div class="col-md-4">
 					<div class="card">
