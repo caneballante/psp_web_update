@@ -14,7 +14,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Marine Waters 2020 Overview</title>
+<title>Puget Sound Marine Waters 2021 Overview</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -56,7 +56,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1 class="grey">PUGET SOUND MARINE WATERS 2020 OVERVIEW</h1>
+			<h1 class="grey">PUGET SOUND MARINE WATERS 2021 OVERVIEW</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -77,13 +77,17 @@
 	
 
 <span class="floatright padding-20-left no-icon">
-<p><a href="https://pspwa.box.com/shared/static/u6q5ew70y5qx8vx2qjaa4uijmtwfhebt.pdf" target="new"><img src="images/ps-marine-waters-report-2020.jpg" width="300" height="225" alt=""/></a> <br>
 
-<a href="https://pspwa.box.com/shared/static/u6q5ew70y5qx8vx2qjaa4uijmtwfhebt.pdf" target="new">Puget Sound Marine Waters 2020 Overview</a></p></span>
 
-<p><strong>New Report: Automated buoys and volunteers helped gather critical Puget Sound data during pandemic </strong></p>
-<p>While the year 2020 presented many challenges  due to the COVID-19 pandemic, it was also a time of triumph over adversity. We acknowledge the efforts of those who were able to safely conduct field work and secure the data presented in this volume. In many cases, volunteer-based monitoring efforts and autonomous sampling instruments deployed in Salish Sea waters allowed us to maintain data collection, which otherwise would have been lost. This Overview edition is a tribute to the resilience of the people and institutions that support ongoing monitoring of the Salish Sea, including dozens of scientists from federal, tribal, state and local agencies, academia, nonprofits, and private and volunteer organizations. </p>
-<p>Despite the unusual conditions affecting the human population, environmental conditions were less anomalous. There were few extreme weather or ecological events in 2020, but overall, conditions in Puget Sound were generally warmer, sunnier, and wetter than in typical years. The report further reveals patterns and trends in numerous environmental parameters, including plankton, water quality, climate, and marine life. The observations in this report collectively provide both a comprehensive long-term view and current assessment of the Puget Sound marine ecosystem. The Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, which authored this report, has been reporting metrics related to Puget Sound recovery since 2011. </p>
+<span class="floatright padding-20-left no-icon">
+	<p><a href="https://pspwa.box.com/shared/static/2a35uxkiwv4yspumulkxtv8nrq63cbbp.pdf"><img src="images/ps-marine-waters-report-2021.jpg" width="300" height="225" alt="Cover image from the 2021 Puget Sound Marine Waters Overview, showing Puget Sound water with the silhouette of a plane flying overhead"/></a><br>
+			<a href="https://pspwa.box.com/shared/static/2a35uxkiwv4yspumulkxtv8nrq63cbbp.pdf">Puget Sound Marine Waters 2021 Overview</a></p></span>
+			
+<p><strong>New report: Despite cool-phase climate forcing, conditions in Puget Sound were generally warmer and sunnier in 2021, with an extreme summertime heatwave and other abnormalities.</strong></p>
+<p>The Puget Sound region is home to more than 4.2 million people. These people visit the Sound’s beaches, eat the local seafood, and enjoy the diversity of life in and around these waters. The Sound is a social, cultural, and economic lifeline for Western Washington, where the health of human communities and the health of the Sound are inextricably linked.</p>
+<p>Each year, the Marine Waters Work Group releases the annual Puget Sound Marine Waters Overview report, which combines a wealth of data from numerous comprehensive environmental monitoring programs. Since 2011, we have been reporting on the physical, chemical and biological conditions of Puget Sound, including many conditions related to human health and pollution. The 2021 report represents the collective effort of 76 contributors from federal, tribal, state, and local agencies, academia, nonprofits, and private and volunteer groups.</p>
+<p>This edition of the 2021 Puget Sound Marine Waters Overview once again directly informs the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="new">Puget Sound Vital Signs</a>. The majority of technical summaries (28 out of 38) collectively inform many of the Vital Signs nested under the Puget Sound Partnership’s ecosystem recovery goals (Healthy Water Quality, Abundant Water, Thriving Species and Food Webs, and Healthy Human Populations). In this manner, the annual report makes a valuable contribution to our shared understanding of ecosystem conditions as they relate to Puget Sound recovery efforts.</p>
+<p>The Puget Sound Marine Waters Work Group of the Puget Sound Ecosystem Monitoring Program will continue to provide valuable insight on the status of Puget Sound. We provide these facts to help people understand and make informed policy decisions to protect and restore Puget Sound.</p>
 
 <p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
 

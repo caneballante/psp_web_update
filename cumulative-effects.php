@@ -80,6 +80,7 @@
 			<p><strong><em>The cumulative effects of nearshore habitat recovery actions on juvenile salmonids in the Whidbey basin.</em></strong> An evidence-based evaluation of cumulative effects to comprehensively evaluate salmon recovery efforts implemented over the past two decades in Whidbey basin nearshore habitats is underway. This study will evaluate the cumulative effects of nearshore habitat restoration in the Whidbey basin aimed at improving critical habitat for juvenile Chinook salmon. A collaborative, multi-institutional research team has been convened to develop and implement this study over the next 2-3 years.</p>
 			
 			<h2>PRODUCTS AND INFORMATION ABOUT THIS WORK</h2>
+					
 			<p><a href="https://pspwa.box.com/s/dmxg9hmenrbiq8rehhmf1qpe3luatpce" target="new">The cumulative effects of nearshore habitat recovery actions on juvenile salmonids in the Whidbey basin: Study development report.</a> This report details an evidence-based approach to evaluate cumulative effects produced from salmon habitat restoration at a greater basin scale for application to salmon recovery efforts in Puget Sound. This study will continue development and implementation in 2023-2025.</p>
 			
 			<div class="floatright-block blue-outline-5px padding-10-all margin-10-left"><img src="images/cee-web.jpg" width="250" height="250" alt=""/><br>
@@ -93,10 +94,12 @@
 			<p><a href="https://pspwa.box.com/s/ifskd6ldxss0p9zkykb2wjq2mlg14g0m" target="new">Cumulative Effects of Puget Sound Recovery Actions: Methodology and Design for a Case Study of Juvenile Salmonids and Nearshore Habitats in Whidbey Basin</a>. Preliminary design proposal for a case study applying cumulative effects evaluation to restoration of nearshore habitats in the Whidbey basin.</p>
 			
 			<p><a href="https://pspwa.box.com/s/ho176jksm2npelz1afxsy4hx5z8qmngw" target="new">Guidance for Evaluation of Cumulative Effects of Puget Sound Recovery Actions</a>. General guidance document for practical application of a cumulative effects evaluation methodology in Puget Sound.</p>
+			
+			<p><a href="https://pspwa.box.com/s/rxxiwg5jxtcyee8ywhdncuhfyqp54n9l" target="new">Communications plan for the cumulative effects evaluation work in Puget Sound.</a> The plan outlines specific audiences, strategies, products, actions, and known barriers. Included in the plan is a table of anticipated engagement and outreach opportunities for 2023-2025.</p>
 		
 			<p><strong>Stay connected:</strong> <a href="https://public.govdelivery.com/accounts/WAPSP/signup/34165" target="new">Subscribe here</a> for news and announcements on the Whidbey basin cumulative effects study.</p>
 			
-			<p class="last-update">Last updated: 11/9/22</p>
+			<p class="last-update">Last updated: 3/7/23</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

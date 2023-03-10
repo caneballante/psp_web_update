@@ -115,6 +115,11 @@
 						<h5>Larry Epstein</h5>
 						<p> Deputy Director<br />
 							360.480.0487 | <a href="mailto:larry.epstein@psp.wa.gov">larry.epstein@psp.wa.gov</a></p>
+						<!--STRATEGIC FUNDING PROGRAM-->
+						<h3 class="padding-10-top">Strategic Funding Program</h3>
+						<h5>Jennifer Grimm</h5>
+						<p>Strategic Funding Manager<br />
+						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
 						 <!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
 						<h5>Kirsten Feifel</h5>
@@ -164,6 +169,7 @@
 						<h5>Chase Nuuhiwa</h5>
 						<p>Visual Communications Lead<br>
 						360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
+						
 						<!--INTEGRATED PLANNING TEAM-->
 						<h2>INTEGRATED PLANNING PROGRAM</h2>
 						<h5>VACANT</h5>
@@ -295,9 +301,9 @@
 						
 						<!--EPA PROGRAM-->
 						<h3 class="padding-10-top">EPA PROGRAM</h3>
-						<h5>Jennifer Grimm</h5>
+						<h5>VACANT</h5>
 						<p>Agency Workplan and EPA Grants Coordinator<br />
-						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
+						   </p>
 						<!--FISCAL PROGRAM-->
 						<h3 class="padding-10-top">FISCAL PROGRAM</h3>
 						<h5>Sheridan Tabor</h5>
@@ -329,7 +335,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 02/10/23</p>
+	<p class="last-update">Last updated: 02/28/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		

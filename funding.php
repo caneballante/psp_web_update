@@ -105,7 +105,7 @@
 <h2>12/22/2022 - Puget Sound Salmon Science Investigations - OPEN UNTIL MARCH 13, 2023</h2>
 	<p><strong>Learn more: <a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">Request for Information</a></strong></p>
 	<p><strong>Funding amount: </strong>Up to $2 million will be awarded for projects up to $400,000 each. Up to 15 projects will be supported during the funding period from July 2023 - June 30, 2025.</p>
-	<p><strong>Informational webinar:</strong> A recording of the January 31, 2023 webinar is <a href="https://pspwa.box.com/s/onojhem8jaw9aieffv7yvenjhvj18iwb" target="new">available here.</a></p>
+	<p><strong>Informational webinar:</strong> A recording of the January 31, 2023 webinar is <a href="https://pspwa.box.com/s/onojhem8jaw9aieffv7yvenjhvj18iwb" target="new">available here.</a> Q&amp;A #1 is <a href="https://pspwa.box.com/s/8s40cj2kji3rpqqggnlc7pv3dmv651em" target="new">available here</a> and Q&amp;A #2 is <a href="https://pspwa.box.com/s/0498lkps2abos6w5jupq9s0wtpn7tbgw" target="new">available here.</a></p>
 	<p><strong>Details: </strong>This is a <a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">Request for Information</a> for collaborative proposals to conduct salmon scientific investigations that will advance Puget Sound salmon recovery.</p>
 	
 	<p>Project proposals must align with one or more priority information needs: </p>
@@ -160,7 +160,7 @@
 	<li><strong>Additional background information: </strong>More information can be found in the <a href="https://rco.wa.gov/wp-content/uploads/2019/05/SAL-Manual18.pdf" target="new">Recreation and Conservation Office’s Manual 18.</a></li>
 	</ul>
 			
-	<p class="last-update">Last updated: 02/23/23</p>
+	<p class="last-update">Last updated: 3/7/23</p>
 
  
 			 
