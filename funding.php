@@ -83,6 +83,7 @@
 			
 			<h2 class="margin-0-top">2/21/23 - Puget Sound Scientific Research - OPEN UNTIL MAY 22, 2023</h2>
 				<p><strong>Learn more: <a href="https://pspwa.box.com/s/fuvl3x3hijxak9agnb0x1dyqxa6to427" target="new">Request for Information</a></strong></p>
+				<p><strong>Timeline:</strong> Responses are due by noon on May 22, 2023.</p>
 				<p><strong>Funding amount:</strong> $1,400,000, split between 5-13 projects. Project period is August 2023 - June 30, 2025</p>
 				<p><strong>Informational webinar:</strong> March 30, 10 - 11 a.m. <a href="https://us06web.zoom.us/meeting/register/tZ0ocuysrDIjH9RJCENLQjWK940NoOmK__Pp" target="new">Registration is required</a>.</p>
 				<p><strong>Details:</strong> Respondents can use one of two project types—Integrated Social Ecological Systems Projects or Targeted Research projects—to advance one or more Priority Science Work Actions.  Priority Science Work Actions cover a range of topics that cover human-biophysical interactions, effectiveness of recovery interventions, ecological conditions and effects, and science-based decision support.</p>
@@ -160,7 +161,7 @@
 	<li><strong>Additional background information: </strong>More information can be found in the <a href="https://rco.wa.gov/wp-content/uploads/2019/05/SAL-Manual18.pdf" target="new">Recreation and Conservation Office’s Manual 18.</a></li>
 	</ul>
 			
-	<p class="last-update">Last updated: 3/7/23</p>
+	<p class="last-update">Last updated: 3/14/23</p>
 
  
 			 
