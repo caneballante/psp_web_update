@@ -117,9 +117,9 @@
 				</tr>
 				<tr>
 					<td>Island </td>
-					<td>Alexandra Plumb, Island County</td>
-					<td>360-678-7916</td>
-					<td><a class="small-links"href="mailto:ac.plumb@islandcountywa.gov">ac.plumb@islandcountywa.gov</a></td>
+					<td>Clea Barenburg, Island County</td>
+					<td>360-678-7267</td>
+					<td><a class="small-links"href="mailto:c.barenburg@islandcountywa.gov">c.barenburg@islandcountywa.gov</a></td>
 					<td><a href="https://pspwa.box.com/s/uzowoayni4j5fbn17xocponi2i5tovfi">2005 Island Chapter</a></td>
 					<td><a href="https://pspwa.box.com/s/e0d2wolqet6mvh1s09tieuyqz0p3kjaq">2019 Island Chapter</a></td>
 				</tr>
