@@ -76,7 +76,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Puget Sound is a deep, vast, and complex ecosystem. The region encompasses mountains, farmlands, cities, rivers, forests, and wetlands. Within the Puget Sound region, 16 salmon recovery chapter areas are defined. In addition, there are nine local integrating organizations (LIOs) around Puget Sound that coordinate closely with the salmon recovery watersheds to advance priorities as strategies for local ecosystem recovery.</p>
+			<p>Puget Sound is a deep, vast, and complex ecosystem. The region encompasses mountains, farmlands, cities, rivers, forests, and wetlands. Within the Puget Sound region, 16 salmon recovery chapter areas are defined. In addition, there are 10 local integrating organizations (LIOs) around Puget Sound that coordinate closely with the salmon recovery watersheds to advance priorities as strategies for local ecosystem recovery.</p>
 			<p>Each watershed has its own unique geographic, urban, suburban, and rural areas. The Puget Sound Partnership collaborates with partners throughout the entire region to ensure that salmon recovery efforts work toward protecting Chinook salmon, steelhead, and the rich biodiversity of species that rely on Puget Sound. It is within each of these local watersheds that recovery takes place. Tribes, lead entities, local jurisdictions, and community-based organizations work together to protect and restore habitat and get the word out about the importance of keeping Puget Sound clean and protected.</p>
 			<p>Lead entities are local, citizen-based, organizations that coordinate salmon recovery efforts in their local watersheds. Per statute (<a href="http://app.leg.wa.gov/RCW/default.aspx?cite=77.85.050">RCW 77.85.050</a>), lead entities are tasked with establishing a committee made up of habitat recovery interests in their area and developing a list of habitat recovery projects. In Puget Sound, lead entities work with local and state agencies, tribes, citizens, and other community groups to adaptively manage their watershed recovery plans to recover salmon and ensure that salmon recovery actions are implemented on the ground.</p>
 			<p>Contact information for the lead entities is provided below. More information about the Lead Entity Program is available on the <a href="http://wwwtest2.rco.wa.gov/salmon_recovery/lead_entities.shtml">Washington State Recreation and Conservation Office website</a>.</p>
@@ -204,7 +204,7 @@
 					<td>West Sound/East Kitsap</td>
 					<td>Renee Johnson, Kitsap County</td>
 					<td>360-509-9941</td>
-					<td> <a href="mailto:rkjohnso@co.kitsap.wa.us">rkjohnso@co.kitsap.wa.us</a></td>
+					<td> <a href="mailto:rkjohnso@kitsap.gov">rkjohnso@kitsap.gov</a></td>
 					<td><a href="https://pspwa.box.com/s/z07t2utgtq07o9aknfq4ldj0t4bjedoo">2005 West Sound Chapter</a></td>
 					<td><p><a href="https://westsoundpartners.org/recovery-plans-and-strategies/">2020 East Kitsap DIP Steelhead Recovery Plan</a></p></td>
 					<td>&nbsp;</td>
