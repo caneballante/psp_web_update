@@ -90,9 +90,9 @@
 			
 			<br>
 			
-			<iframe title="BudgetPBI_2022 - Page 1" width="900" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiNTFmOTI3ZDAtNzNhZi00ZmFlLTgxNzQtMzg3MTAxMWI1OGQ3IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br><br>
+			<iframe title="BudgetPBI_2022 - Page 1" width="1000" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiNTFmOTI3ZDAtNzNhZi00ZmFlLTgxNzQtMzg3MTAxMWI1OGQ3IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br><br>
 			
-			<iframe WIDTH="900" HEIGHT="700" SRC="https://app.smartsheet.com/b/publish?EQBCT=25aadaea7ef84705a8368658025dc1f3" framborder="0" allowFullScreen="true"></iframe><br>
+			<iframe WIDTH="1000" HEIGHT="700" SRC="https://app.smartsheet.com/b/publish?EQBCT=25aadaea7ef84705a8368658025dc1f3" framborder="0" allowFullScreen="true"></iframe><br>
 			
 			<h2>Prioritizing State Agency Budget Requests</h2>
 			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. The Partnership shares this list with the Office of Financial Management, relevant legislative committee members and staff, and our partners. As the Governor and legislators release their respective budget proposals, the Partnership updates information about the Puget Sound Budget to reflect the most recent information.</p>
