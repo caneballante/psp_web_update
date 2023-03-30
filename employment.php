@@ -71,14 +71,16 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
+			
+			<div class="highlightbox"><p>See what our staff are saying about <a href="https://pspwa.box.com/s/m1fe7kf9ivl12ig0s2dx3ecvqzems869" target="new">what it's like to work at the Partnership!</a></p></div><br><br>
 		
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3928488/accounting-and-budget-program-manager-ems-2">Accounting and Budget Program Manager (EMS 2)</a></p>
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3972042/administrative-assistant-3-wgs" target="new">Administrative Assistant 3 (WGS)</a></p>
+			
+			<p>The Partnership is hiring for a permanent full-time Administrative Assistant 3 position. This Washington General Service position assists in scheduling meetings and events, preparing board materials, processing of postal mail, and travel logistics for our staff and board members. The annual range of compensation is between $38,952.00 - $51,888 (Range 40). Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the link above. Civil service rules apply for this unrepresented position and the recruitment will close on April 2, 2023.</p><br>
+			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3928488/accounting-and-budget-program-manager-ems-2" target="new">Accounting and Budget Program Manager (EMS 2)</a></p>
 			
 			<p>The Partnership’s Accounting and Budget Program Manager is responsible for the agency’s accounting records, expenditure data, fiscal policy, and fiscal procedures. The annual range of compensation is between $89,332.00 - $97,764.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the application page linked above.</p><br>
-			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3919827/agency-workplan-and-environmental-protection-agency-epa-grant-coordinator-ems">Agency Workplan and Environmental Protection Agency (EPA) Grant Coordinator (EMS 2)</a></p>
-			
-			<p>The Partnership’s Agency Work Planning and Environmental Protection Agency (EPA) Program Coordinator is the project manager for the agency work planning process and the lead for managing the agency’s cooperative agreements with the EPA and complying with reporting requirements. The annual range of compensation is between $87,205.00 - $99,967.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the application page linked above.</p><br><br>
 			
 			
 		
@@ -99,7 +101,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 2/22/23</p>
+		<p class="last-update">Last updated: 3/23/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
