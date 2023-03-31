@@ -388,7 +388,7 @@
 <file name="salmon-recovery-overview.php" server="198.238.137.44/psp.wa.gov/" local="133016779754440521" remote="133016779200000000" Dst="2" />
 <file name="science-based-decision-making.php" server="198.238.137.44/psp.wa.gov/" local="133189769679090407" remote="133189771800000000" Dst="1" />
 <file name="evaluating-actions-to-recover-puget-sound.php" server="198.238.137.44/psp.wa.gov/" local="133189769683445611" remote="133189771800000000" Dst="1" />
-<file name="index.php" server="198.238.137.44/psp.wa.gov/" local="133221685330000985" remote="133221685200000000" Dst="1" />
+<file name="index.php" server="198.238.137.44/psp.wa.gov/" local="133247617364007141" remote="133247617200000000" Dst="2" />
 <file name="implementation-strategies.php" server="198.238.137.44/psp.wa.gov/" local="133189769673680374" remote="133189771800000000" Dst="1" />
 <file name="NEP-overview.php" server="198.238.137.44/psp.wa.gov/" local="133189769674160326" remote="133189771800000000" Dst="1" />
 <file name="social-approaches-overview.php" server="198.238.137.44/psp.wa.gov/" local="133144957476597161" remote="133144957200000000" Dst="1" />
@@ -399,7 +399,7 @@
 <file name="puget-sound-recovery.php" server="198.238.137.44/psp.wa.gov/" local="133189769677503618" remote="133189771800000000" Dst="1" />
 <file name="recovery-of-southern-resident-orcas.php" server="198.238.137.44/psp.wa.gov/" local="133029141658587269" remote="133029142200000000" Dst="2" />
 <file name="LIO-overview.php" server="198.238.137.44/psp.wa.gov/" local="133189772190598400" remote="133189771800000000" Dst="1" />
-<file name="LC_about.php" server="198.238.137.44/psp.wa.gov/" local="133189769686185572" remote="133189771800000000" Dst="1" />
+<file name="LC_about.php" server="198.238.137.44/psp.wa.gov/" local="133246828239020824" remote="133246828200000000" Dst="2" />
 <file name="effective-action-summaries.php" server="198.238.137.44/psp.wa.gov/" local="133189769682775693" remote="133189771800000000" Dst="1" />
 <file name="evaluating-effective-action.php" server="198.238.137.44/psp.wa.gov/" local="133189769684275595" remote="133189771800000000" Dst="1" />
 <file name="cumulative-effects.php" server="198.238.137.44/psp.wa.gov/" local="133226747783629540" remote="133226747400000000" Dst="1" />
@@ -509,11 +509,12 @@
 <file name="evaluating-about-sos.php" server="198.238.137.44/psp.wa.gov/" local="133189779040380260" remote="133189779000000000" Dst="1" />
 <file name="index-test.php" server="198.238.137.44/psp.wa.gov/" local="133196787150914142" remote="133196787000000000" Dst="1" />
 <file name="about-contracting.php" server="198.238.137.44/psp.wa.gov/" local="133197647086599103" remote="133197646800000000" Dst="1" />
-<file name="fiscal-notifications.php" server="198.238.137.44/psp.wa.gov/" local="133197647463560256" remote="133197647400000000" Dst="1" />
+<file name="fiscal-notifications.php" server="198.238.137.44/psp.wa.gov/" local="133246846821526496" remote="133246846800000000" Dst="2" />
 <file name="json-test.html" server="198.238.137.44/psp.wa.gov/" local="133203500176389484" remote="133203500400000000" Dst="1" />
 <file name="json-test1.html" server="198.238.137.44/psp.wa.gov/" local="133203501832995277" remote="133203501600000000" Dst="1" />
 <file name="json-test1.php" server="198.238.137.44/psp.wa.gov/" local="133203502829726620" remote="133203502800000000" Dst="1" />
 <file name="funding-old.php" server="198.238.137.44/psp.wa.gov/" local="133190525032060615" remote="133211353200000000" Dst="1" />
 <file name="funding.php" server="198.238.137.44/psp.wa.gov/" local="133232826751274575" remote="133232826600000000" Dst="2" />
 <file name="2023psdoth.php" server="198.238.137.44/psp.wa.gov/" local="133235588833316461" remote="133235588400000000" Dst="2" />
+<file name="index-2023psdoth.php" server="198.238.137.44/psp.wa.gov/" local="133246913462653830" remote="133246913400000000" Dst="2" />
 </dwsync>
