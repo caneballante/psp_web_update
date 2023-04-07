@@ -229,8 +229,9 @@
 							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
 							</p>
 
-						<h5>VACANT</h5>
-						<p>Salmon Policy Advisor<br /></p>
+						<h5>Ashley Bagley</h5>
+						<p>Salmon Policy Advisor<br />
+							360.515.6054 | <a href="mailto:ashley.bagley@psp.wa.gov">ashley.bagley@psp.wa.gov</a></p>
 						<h5>Alison Agness</h5>
 						<p>PSAR Program Manager<br />
 							360.968.9673 | <a href="mailto:alison.agness@psp.wa.gov">alison.agness@psp.wa.gov</a></p>
@@ -335,7 +336,7 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-	<p class="last-update">Last updated: 4/6/23</p>
+	<p class="last-update">Last updated: 4/7/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
