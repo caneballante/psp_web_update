@@ -336,6 +336,9 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
+						<h5>Austin Johnson</h5>
+						<p>IT Intern<br>
+							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
 	<p class="last-update">Last updated: 4/7/23</p>
 
 		<!-- InstanceEndEditable --> </div>
