@@ -207,10 +207,9 @@
 						<p>Ecosystem Recovery Coordinator<br>
 							360.742.7434 | <a href="mailto:jason.lim@psp.wa.gov">jason.lim@psp.wa.gov</a></p>        
 
-						<h5>Kristin Hayman</h5>
+						<h5>VACANT</h5>
 						<p>Ecosystem Recovery Coordinator<br>
-							<em>LE Support</em><br>
-							360.480.0475 | <a href="mailto:kristin.hayman@psp.wa.gov">kristin.hayman@psp.wa.gov </a></p>
+							</p>
 			
 						<h5>Laura (Ferguson) Rivas</h5>
 						<p>Ecosystem Recovery Manager<br>
@@ -310,6 +309,9 @@
 						<h5>Sheridan Tabor</h5>
 						<p>Chief Financial Officer<br />
 							360.706.4955 | <a href="mailto:sheridan.tabor@psp.wa.gov">sheridan.tabor@psp.wa.gov</a></p>
+						<h5>Melissa Clarey</h5>
+						<p>Accounting and Budget Program Manager<br />
+							360.819.0342 | <a href="mailto:melissa.clarey@psp.wa.gov">melissa.clarey@psp.wa.gov</a></p>
 						<h5>PHAN DOAN</h5>
 						<p>Lead Budget Analyst<br />
 							360.280.6664 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov</a></p>
@@ -339,7 +341,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 4/7/23</p>
+	<p class="last-update">Last updated: 4/14/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
