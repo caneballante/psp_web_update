@@ -256,7 +256,7 @@
 						<p> Monitoring Network Coordinator<br/>
 							360.764.0272 | <a href="mailto:katrina.radach@psp.wa.gov">katrina.radach@psp.wa.gov</a></p>
 						<h5>Nathalie Hamel</h5>
-						<p> Monitoring Performance Analyst<br/>
+						<p> Vital Signs Lead<br/>
 							360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
 
 
@@ -341,7 +341,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 4/14/23</p>
+	<p class="last-update">Last updated: 4/25/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
