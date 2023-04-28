@@ -129,14 +129,14 @@
 		</ul><br><br>
 		
 		<p><strong>For more information contact:</strong></p>
-			<h5>Alison Agness</h5>
-			<p>PSAR Program Manager<br />
-			360.968.9673 | <a href="mailto:alison.agness@psp.wa.gov">alison.agness@psp.wa.gov</a></p>
+			<h5>Ashley Bagley</h5>
+			<p>Salmon Policy Advisor<br />
+			360.515.6054 | <a href="mailto:ashley.bagley@psp.wa.gov">ashley.bagley@psp.wa.gov</a></p>
 			<p>&nbsp;</p>
 			<div>
 				<div> </div>
 			</div>
-	<p class="last-update">Last updated: 1/4/23</p>
+	<p class="last-update">Last updated: 04/28/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
