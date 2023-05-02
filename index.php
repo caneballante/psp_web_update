@@ -163,6 +163,19 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo"/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="/partnership-boards-overview.php">Leadership Council seeking nominations for Ecosystem Coordination Board</a><br>
+						<!--END news content BOX-->  
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+            <!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+					<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/ps-marine-waters-report-2021.jpg"  alt="Photo from the cover of the Puget Sound Marine Waters 2021 Overview report, showing the silhouette of an airplane flying over Puget Sound waters"/> <strong>ANNOUNCEMENT</strong><br>
 						<a href="/PSmarinewatersoverview.php">Puget Sound Marine Waters 2021 Overview</a><br>
 						<!--END news content BOX-->  
@@ -175,16 +188,16 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
-					<!--news content BOX --> 
+						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt="Photo of Puget Sound shoreline with birds sitting in the water and another bird flying over the shoreline"/> <strong>ANNOUNCEMENT</strong><br>
 						<a href="/funding.php">Puget Sound Scientific Research Request for Information</a><br>
-						<!--END news content BOX-->  
+						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
 			<!--COLUMN END--> 
-            <!--COLUMN START-->
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -204,19 +217,6 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/scenarios-web.jpg"  alt="Chart that illustrates differences in business-as-usual scenario and alternative future scenarios"/> <strong>RESOURCE</strong><br>
 						<a href="/future-scenarios.php">Alternative futures for Puget Sound</a><br>
-						<!--END news content BOX-->
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/EPA.jpg"  alt="Photo of rocky Puget Sound shoreline with the sun rising over the water"/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="https://www.epa.gov/puget-sound/funding-availability-puget-sound-action-agenda-climate-resilient-riparian-systems-lead">EPA Funding Availability for Puget Sound Action Agenda - Climate Resilient Riparian Systems Lead</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -229,8 +229,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt="Photo of the Capitol Building in Olympia with the text Legislative Update written in orange letters superimposed on the top corner of the photo"/> <strong>RESOURCE</strong><br>
-						<a href="https://psp.wa.gov/government-relations.php">2023 session information</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/EPA.jpg"  alt="Photo of rocky Puget Sound shoreline with the sun rising over the water"/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="https://www.epa.gov/puget-sound/funding-availability-puget-sound-action-agenda-climate-resilient-riparian-systems-lead">EPA Funding Availability for Puget Sound Action Agenda - Climate Resilient Riparian Systems Lead</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
@@ -242,8 +242,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/PEAR-news.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>STATEMENT</strong><br>
-						<a href="https://psp.wa.gov/pear.php">Partnership's Pro-Equity Anti-Racism statement</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt="Photo of the Capitol Building in Olympia with the text Legislative Update written in orange letters superimposed on the top corner of the photo"/> <strong>RESOURCE</strong><br>
+						<a href="https://psp.wa.gov/government-relations.php">2023 session information</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
@@ -255,8 +255,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/making-waves-aabrochure.jpg"  alt="Screenshot from the Action Agenda video brochure, showing Puget Sound water and two land masses"/> <strong>Making Waves</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2022/10/28/introduction-action-agenda/" target="new">An introduction to the 2022-2026 Action Agenda</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/PEAR-news.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>STATEMENT</strong><br>
+						<a href="https://psp.wa.gov/pear.php">Partnership's Pro-Equity Anti-Racism statement</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
