@@ -74,7 +74,7 @@
 			
 			<div class="highlightbox"><p>See what our staff are saying about <a href="https://pspwa.box.com/s/m1fe7kf9ivl12ig0s2dx3ecvqzems869" target="new">what it's like to work at the Partnership!</a></p></div><br><br>
 		
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4029777/environmental-planner-ems-1" target="new">Environmental Planner (EMS 1)</a</p>
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4029777/environmental-planner-ems-1" target="new">Environmental Planner (EMS 1)</a></p>
 			
 			<p>The Partnership is hiring for a permanent full-time Environmental Planner position. This position leads key aspects of major planning and policy initiatives, particularly as related to the Puget Sound Action Agenda, by working across agency programs and with diverse partners (tribal, state, federal, local, non-governmental organizations, and business). The annual range of compensation is between $77,772-$85,078. Partnership employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the link above. The recruitment will close on May 18, 2023. </p>
 				
