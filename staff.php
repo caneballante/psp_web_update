@@ -220,7 +220,7 @@
 							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
 
 						<h5>Harriet Booth</h5>
-						<p> Local Integrating Program Coordinator<br>
+						<p> Local Integrating Organization Program Coordinator<br>
 							360.819.7232 | <a href="mailto:harriet.booth@psp.wa.gov">harriet.booth@psp.wa.gov</a></p>
 
 						<h5>Juliana Tadano</h5>
