@@ -186,9 +186,9 @@
 						<h5>Wren McNally</h5>
 						<p>Environmental Planner<br />
 						360.870.6292 | <a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a></p>
-						<h5>Kaitlin Harris</h5>
+						<h5>VACANT</h5>
 						<p>Environmental Planner<br />
-							360.485.2117 | <a href="mailto:kaitlin.harris@psp.wa.gov">kaitlin.harris@psp.wa.gov </a> </p>
+							 </p>
 						<!--ECOSYSTEM RECOVERY TEAM-->
 						<h3 class="padding-10-top">ECOSYSTEM RECOVERY TEAM</h3>
 						
@@ -219,8 +219,9 @@
 							<em>LE Support</em><br>
 							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
 
-						<h5>VACANT</h5>
-						<p> Ecosystem Recovery Coordinator</p>
+						<h5>Harriet Booth</h5>
+						<p> Local Integrating Program Coordinator<br>
+							360.819.7232 | <a href="mailto:harriet.booth@psp.wa.gov">harriet.booth@psp.wa.gov</a></p>
 
 						<h5>Juliana Tadano</h5>
 						<p> Ecosystem Recovery Coordinator<br/>
@@ -342,7 +343,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 4/28/23</p>
+	<p class="last-update">Last updated: 5/5/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
