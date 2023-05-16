@@ -164,7 +164,7 @@
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo"/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="/partnership-boards-overview.php">Leadership Council seeking nominations for Ecosystem Coordination Board</a><br>
+						<a href="/partnership-boards-overview.php">Leadership Council seeking nominations for Science Panel and Ecosystem Coordination Board</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
