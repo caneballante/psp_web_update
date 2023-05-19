@@ -78,6 +78,46 @@
 			<p>Washington’s Environmental Justice Law, also known as the HEAL Act, empowers the Puget Sound Partnership to conduct environmental justice assessments when planning significant actions.</p>
 
 			<p>On July 1, 2023, we are required to begin environmental justice assessments on the following actions.</p>
+			
+			<ul class="bullet-size-fix">
+				<li>Developing certain agency rules (also called significant legislative rules).</li>
+				<li>Adopting or developing new grant or loan programs.</li>
+				<li>Designing or awarding capital projects, grants, or loans of $12 million or more.</li>
+				<li>Developing agency request legislation.</li>
+			</ul>
+			
+			<h2>We want your input</h2>
+			<p>We welcome your comments and thoughts about:</p>
+				<ul class="bullet-size-fix">
+					<li>The above list of significant agency actions.</li>
+					<li>Other types of Partnership actions you think would benefit from an assessment starting in 2025.</li>
+					<li>How you want to stay informed as the Partnership does this work.</li>
+				</ul>
+			
+			<p>While this comment period is open through June 1, 2023, in order to meet required deadlines, we invite you to reach out to us at any time. We will use your input to help inform decisions on conducting assessments and how we communicate and engage with you.</p>
+			
+			<h2>Our commitment</h2>
+			
+			<p>Our mission is to accelerate and advance the collective effort to recover Puget Sound. As we work to build a healthier environment, we must make sure no community is overburdened by environmental pollution, and that we strive to eliminate environmental and health disparities.</p>
+			
+			<p>Environmental justice assessments help to inform and support agency considerations of overburdened communities and vulnerable populations by:</p>
+			
+				<ul class="bullet-size-fix">
+					<li>Identifying disproportionate impacts.</li>
+					<li>Evaluating the equitable distribution of environmental harms. </li>
+					<li>Eliminating or reducing environmental harms. </li>
+					<li>Addressing environmental and health disparities.</li>
+				</ul>
+			
+			<p>We want to make sure that everyone has the opportunity to influence decision making. We are currently working on a process to engage with overburdened communities and vulnerable populations across the state. To receive more information on this public process and upcoming engagement, you can check our webpage or sign up for email updates.</p>
+			
+			<p>We offer free language services about our programs and services for people whose primary language is not English. To request these services, or to learn more about what we can provide, contact XXXX. Please allow time to make the proper arrangments.</p>
+			
+			<h2>Comment online</h2>
+			
+			<h2>Comment by mail</h2>
+			
+			<h2>Questions</h2>
 
 			 <p class="last-update">Last updated: 5/19/23</p>
 		<!-- InstanceEndEditable --> </div>
