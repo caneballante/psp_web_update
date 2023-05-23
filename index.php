@@ -155,9 +155,19 @@
 		<!--copy column to column to create new blog post--> 
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
-				
-            
-            
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/sig-actions.jpg"  alt="HEAL Act - "/> <strong>PUBLIC COMMENT PERIOD</strong><br>
+						<a href="https://psp.wa.gov/pear.php">Partnership's HEAL Act Significant Agency Action </a><br>
+						<!--END news content BOX-->   
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
             <!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -171,45 +181,9 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-            <!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-					<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/ps-marine-waters-report-2021.jpg"  alt="Photo from the cover of the Puget Sound Marine Waters 2021 Overview report, showing the silhouette of an airplane flying over Puget Sound waters"/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="/PSmarinewatersoverview.php">Puget Sound Marine Waters 2021 Overview</a><br>
-						<!--END news content BOX-->  
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-            <!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/action-agenda-news-image.jpg"  alt="Photo of Puget Sound shoreline with birds sitting in the water and another bird flying over the shoreline"/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="/funding.php">Puget Sound Scientific Research Request for Information</a><br>
-						<!--END news content BOX-->    
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/mar-rfi.jpg"  alt="Scenic photo of the sun rising above islands and land masses in Puget Sound"/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="/funding.php">New project solicitations from the Puget Sound Partnership: Monitoring to Accelerate Recovery and Salmon Science Investigations</a><br>
-						<!--END news content BOX-->  
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+      
+       
+	
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -223,20 +197,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-			
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/EPA.jpg"  alt="Photo of rocky Puget Sound shoreline with the sun rising over the water"/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="https://www.epa.gov/puget-sound/funding-availability-puget-sound-action-agenda-climate-resilient-riparian-systems-lead">EPA Funding Availability for Puget Sound Action Agenda - Climate Resilient Riparian Systems Lead</a><br>
-						<!--END news content BOX-->
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--column END-->
+	
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
