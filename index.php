@@ -161,7 +161,7 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/sig-actions.jpg"  alt="HEAL Act - "/> <strong>PUBLIC COMMENT PERIOD</strong><br>
-						<a href="https://psp.wa.gov/pear.php">Partnership's HEAL Act Significant Agency Action </a><br>
+						<a href="https://www.psp.wa.gov/HEAL-environmental-justice-assessments.php">Partnership's HEAL Act Significant Agency Action Public Comment through June 15, 2023 </a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
