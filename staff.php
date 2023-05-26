@@ -101,6 +101,10 @@
 						<p>Environmental Justice Coordinator<br>
 						360.972.4054 | <a href="mailto:stephanie.sayo@psp.wa.gov">stephanie.sayo@psp.wa.gov</a></p>
 			
+						<h5>Jackelyn Garcia</h5>
+						<p>Equity Fellow<br>
+						360.480.0475 | <a href="mailto:jackelyn.garcia@psp.wa.gov">jackelyn.garcia@psp.wa.gov</a></p>
+			
 						<h5>Ahren Stroming</h5>
 						<p>Special Assistant for Federal Affairs<br />
 							360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
@@ -343,7 +347,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 5/5/23</p>
+	<p class="last-update">Last updated: 5/26/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
