@@ -89,17 +89,8 @@
 				<p><strong>Details:</strong> Respondents can use one of two project types—Integrated Social Ecological Systems Projects or Targeted Research projects—to advance one or more Priority Science Work Actions.  Priority Science Work Actions cover a range of topics that cover human-biophysical interactions, effectiveness of recovery interventions, ecological conditions and effects, and science-based decision support.</p>
 				<br><br>
 
-			<h2>1/23/2023 - Monitoring to Accelerate Recovery - OPEN UNTIL APRIL 14, 2023</h2>
-	<p><strong>Learn more: <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a></strong></p>
-	<p><strong>Timeline:</strong> Responses are due by 11:59 pm on April 14, 2023. </p>
-	
-	<p><strong>Funding amount:</strong> Approximately $750,000 will be allocated for selected projects with a minimum of $50,000 and a maximum of $120,000 total compensation payable per project. We anticipate supporting up to 10 projects in total for the period of July 1, 2023, to June 30, 2025. </p>
-			
-	<p><strong>Informational webinar:</strong> A recording of the February 23, 2023 webinar is <a href="https://pspwa.box.com/s/t5r9gd3jk4zaurc7rt4bjghaf724mp5j" target="new">available here.</a> Q&amp;A is <a href="https://pspwa.box.com/s/dg56jadj3wlerdj7v8qimjjdy3zko94l" target="new">available here.</a></p>
-			
-		<p><strong>Written question and answer period:</strong> A second written question and answer is open now until March 9 at noon. Please submit questions to <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a>. A second addendum will be posted on March 10 to address submitted questions and provide any additional guidance from the Environmental Justice Council regarding prioritization of environmental justice in agency expenditure decisions. </p>
-			
-			<p><strong>Details: </strong>This is a <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a> (RFI) for collaborative monitoring-related projects to address priority information needs to support and accelerate the recovery of the Puget Sound ecosystem. </p>
+			<h2>1/23/2023 - Monitoring to Accelerate Recovery - Selected Proposals Announced</h2>
+	<p><strong>Learn more about the apparent successful proposals here: <a href="/monitoring-accelerate-recovery.php">Monitoring to Accelerate Recovery webpage</a></strong></p>
 	
 	<br><br>
 	
@@ -161,7 +152,7 @@
 	<li><strong>Additional background information: </strong>More information can be found in the <a href="https://rco.wa.gov/wp-content/uploads/2019/05/SAL-Manual18.pdf" target="new">Recreation and Conservation Office’s Manual 18.</a></li>
 	</ul>
 			
-	<p class="last-update">Last updated: 3/14/23</p>
+	<p class="last-update">Last updated: 5/26/23</p>
 
  
 			 
