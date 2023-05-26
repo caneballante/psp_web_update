@@ -87,7 +87,7 @@
 			<p> For the 2023-25 biennium, the Puget Sound Partnership (Partnership) requested project proposals that address priority monitoring information needs to inform and accelerate recovery of Puget Sound under <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">the Monitoring to Accelerate Recovery Request for Information</a> (RFI #2023-163) to allocate up to $750,000.</p>
 	
 			<p>We are pleased to announce the following six apparent successful projects: </p>
-				<table class="table-responsive table-condensed table-bordered table-striped">
+				<table class="table-responsive table-condensed table-bordered">
 					<thead>
 						<tr>
 						<th>Respondent name</th>
