@@ -83,65 +83,26 @@
 			<h3>Purpose</h3>
 			<p>The Puget Sound Partnership (Partnership) funds projects every biennium that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects are funded via a formal project solicitation process. All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) strategic plan to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication to improve access to credible information to guide recovery decisions.</p>
 			
-			<div class="highlightbox margin-0-top margin-20-bottom"><h3>Announcing apparent successful project proposals for the Monitoring to Accelerate Recovery Request for Information (RFI #2023-163 posted on WEBS January 24, 2023) </h3>
-			<p> For the 2023-25 biennium, the Puget Sound Partnership (Partnership) requested project proposals that address priority monitoring information needs to inform and accelerate recovery of Puget Sound under <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">the Monitoring to Accelerate Recovery Request for Information</a> (RFI #2023-163) to allocate up to $750,000.</p>
-	
-			<p>We are pleased to announce the following six apparent successful projects: </p>
-				<table class="table-responsive table-condensed table-bordered">
-					<thead>
-						<tr>
-						<th>Respondent name</th>
-						<th>Affiliation</th>
-						<th>Title</th>
-						<th>Requested budget</th>
-						</tr>
-					</thead>
-					<tbody>
-					<tr>
-						<td><p class="psemp-mar-font">Kathryn Meyer</p></td>
-						<td><p class="psemp-mar-font">WDFW</p></td>
-						<td><p class="psemp-mar-font">Developing groundfish and benthic invertebrate Vital Sign indicators for Puget Sound using bottom trawl survey data spanning 36 years. </p></td>
-						<td><p class="psemp-mar-font">$116,491</p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Jude Apple</p></td>
-						<td><p class="psemp-mar-font">Padilla Bay NERR/ Dept of Ecology </p></td>
-						<td><p class="psemp-mar-font">Puget Sound Phytoplankton/Primary Productivity Vital Sign Indicator Development - Phase 2: Data Synthesis</p></td>
-						<td><p class="psemp-mar-font">$118,819</p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Jim Johannessen</p></td>
-						<td><p class="psemp-mar-font">Coastal Geologic Services, Inc.</p></td>
-						<td><p class="psemp-mar-font">Shoreline Armoring Trends to Inform Beaches and Marine Vegetation Vital Sign Indicators in Puget Sound, WA.</p></td>
-						<td><p class="psemp-mar-font">$119,969</p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Michael LeMoine</p></td>
-						<td><p class="psemp-mar-font">Skagit River System Cooperative</p></td>
-						<td><p class="psemp-mar-font">Monitoring and evaluating adaptive management strategies at two restoration projects in the Skagit Delta</p></td>
-						<td><p class="psemp-mar-font">$66,852</p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Gary Slater</p></td>
-						<td><p class="psemp-mar-font">Ecostudies Institute</p></td>
-						<td><p class="psemp-mar-font">Operationalizing the Salish Sea Estuaries Avian Monitoring Framework</p></td>
-						<td><p class="psemp-mar-font">$75,253</p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Jenny L. Atkinson</p></td>
-						<td><p class="psemp-mar-font">The Whale Museum</p></td>
-						<td><p class="psemp-mar-font">Development of Robust Estimate of Orca (Orcinus orca) Occupancy in Puget Sound</p></td>
-						<td><p class="psemp-mar-font">$96,011</p></td>
-					</tr>
-					</tbody>
-				</table><br>
+			<div class="highlightbox margin-0-top margin-20-bottom"><h3>Request for Information (RFI) – Monitoring to Accelerate Recovery </h3>
+			<p>The Partnership is pleased to announce a <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a> (RFI) for collaborative monitoring-related projects to address priority information needs to support and accelerate the recovery of the Puget Sound ecosystem. Approximately $750,000 will be allocated for selected projects with a minimum of $50,000 and a maximum of $120,000 total compensation payable per project. We anticipate supporting up to 10 projects in total for the period of July 1, 2023, to June 30, 2025. </p>
 			
-			<p>The selected projects are referred to here as apparent successful because they will not be considered fully successful until contracts are in place.</p>
-			<p>We would like to thank the Puget Sound Ecosystem Monitoring Program (PSEMP) Steering Committee members, PSEMP Work Group Leads, and Partnership staff colleagues who contributed their time and perspective as members of the Evaluation Panel.</p>
-			<p>We are excited about this newest cohort of projects and look forward to working with all the project teams in implementing the projects!</p>
-			<p>For more information about the proposals or the solicitation process, please contact Jenna Judge, <a href="mailto:jenna.judge@psp.wa.gov">jenna.judge@psp.wa.gov</a>, and Nathalie Hamel, <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a>.</p>
+				<p>Specifically, the Partnership seeks proposals that fall under one of the following two categories:  </p>
+		<ul class="bullet-size-fix">
+			<li>Category 1 – Developing and first-time reporting of Vital Sign Indicators, and  </li>
+			<li>Category 2 - Addressing questions to inform and assess progress toward desired outcomes and statutory goals for Puget Sound recovery.  </li>
+		</ul>
+	
+	<p>All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) strategic plan to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication to improve access to credible information to guide recovery decisions.</p>
+	
+	<p>As an implementing agency of Washington State’s Healthy Environment for All (HEAL) Act, the Partnership encourages respondents to submit proposals that create environmental benefits for overburdened and vulnerable populations, build collaborations with community scientists, and provide opportunities for tribes, vulnerable populations, and overburdened communities to participate. </p>
+	
+	<p> Responses are due by 11:59 pm on April 14, 2023. Please see the <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">Request for Information</a> for additional details about proposal requirements, how to apply, and the priority information needs.</p>
+			
+				<h3>Informational webinar</h3> 
+				<p>A recording of the February 23, 2023 webinar is <a href="https://pspwa.box.com/s/t5r9gd3jk4zaurc7rt4bjghaf724mp5j" target="new">available here.</a> Q&amp;A is <a href="https://pspwa.box.com/s/dg56jadj3wlerdj7v8qimjjdy3zko94l" target="new">available here.</a></p><br>
+			
+		<p><strong>Written question and answer period:</strong> A second written question and answer is open now until March 9 at noon. Please submit questions to <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a>. A second addendum will be posted on March 10 to address submitted questions and provide any additional guidance from the Environmental Justice Council regarding prioritization of environmental justice in agency expenditure decisions. </p>
 			</div>
-		
 		
 		
 		<hr>
