@@ -86,9 +86,7 @@
 				
 			<br>
 			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4006458/puget-sound-acquisition-and-restoration-psar-program-manager-ems-1" target="new">Puget Sound Aquisition and Restoration (PSAR) Program Manager (EMS 1)</a></p>
 			
-			<p>The Partnership is hiring for a permanent full-time Puget Sound Aquisition and Restoration (PSAR) Program Manager position. This position leads the development of the PSAR Large Capital Program for projects that recover salmon and their habitats in Puget Sound as well as leading the development and implementation of the program’s long-term strategic plan. The annual range of compensation is between $78,867.00 - $89,821.00. Partnership employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the link above. The recruitment will close on May 2, 2023.</p><br>
 			
 		
 			
@@ -111,7 +109,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 5/9/23</p>
+		<p class="last-update">Last updated: 5/26/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
