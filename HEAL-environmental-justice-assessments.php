@@ -90,7 +90,7 @@ navSelected = 4;
 			</div>
 			
 			<p><strong>Public comments will  be accepted until 11:59pm on June 15, 2023</strong></p>
-			<p>	Washington State&rsquo;s  statewide environmental justice law, the&nbsp;<a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.005">Healthy Environmental for All (HEAL) Act</a>&nbsp;instructs the Puget Sound Partnership (The Partnership) to  conduct environmental justice assessments when considering Significant Agency Actions.</p>
+			<p>	Washington State&rsquo;s  statewide environmental justice law, the&nbsp;<a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.005">Healthy Environment for All (HEAL) Act</a>&nbsp;instructs the Puget Sound Partnership (The Partnership) to  conduct environmental justice assessments when considering Significant Agency Actions.</p>
 			<p>Starting July 1, 2023,  we are required to complete an environmental justice assessment for the  following actions named in the law:</p>
 			<ul class="bullet-size-fix">
 				<li>Adopting or developing       significant legislative rules as defined in&nbsp;<a href="https://app.leg.wa.gov/RCW/default.aspx?cite=34.05.328">RCW 34.05.328</a>.</li>
