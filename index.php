@@ -224,6 +224,45 @@
 				</div>
 			</div>
 			<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/PSDOTHStill2PlayWeb.jpg"  alt="Screenshot from the Puget Sound Geographic Program video that shows a boat moving through Puget Sound with a semi-transparent play button superimposed on the screenshot to indicate this is a video"/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/07/puget-sound-geographic-program-funds/">Puget Sound Geographic Program funds at work</a><br>
+						<!--END news content BOX-->   
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/coho-15xtMW.jpg"  alt="Young coho salmon swimming in a river, with rocks lining the bottom of the riverbed"/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/03/6ppd-quinone-salmon-recovery/">Clearing the road for salmon recovery: 6PPD-quinone and mitigation solutions</a><br>
+						<!--END news content BOX-->   
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/Cedar-overpass-web.jpg"  alt="Photo of an overpass above the Cedar River, showing the underside of the overpass and the flow of the Cedar River"/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/03/preventing-stormwater-pollution/">Preventing stormwater pollution protects what we care about</a><br>
+						<!--END news content BOX-->   
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END-->
 			
 		</div>
 		<!--ROW END--> 
