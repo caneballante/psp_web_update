@@ -242,7 +242,7 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/coho-15xtMW.jpg"  alt="Young coho salmon swimming in a river, with rocks lining the bottom of the riverbed"/> <strong>MAKING WAVES</strong><br>
+						<img class="img-responsive img-rounded" src="images/news-images/coho-web.jpg"  alt="Young coho salmon swimming in a river, with rocks lining the bottom of the riverbed"/> <strong>MAKING WAVES</strong><br>
 						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/03/6ppd-quinone-salmon-recovery/">Clearing the road for salmon recovery: 6PPD-quinone and mitigation solutions</a><br>
 						<!--END news content BOX-->   
 					</div>
