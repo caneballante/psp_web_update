@@ -160,8 +160,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/sig-actions.jpg"  alt="HEAL Act - "/> <strong>PUBLIC COMMENT PERIOD</strong><br>
-						<a href="https://www.psp.wa.gov/HEAL-environmental-justice-assessments.php">Partnership's HEAL Act Significant Agency Action Public Comment through June 15, 2023 </a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/nora-nickum.jpg"  alt="Headshot photo of Nora Nickum, senior ocean policy manager at the Seattle Aquarium and author of books and magazine articles for kids."/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2023/06/09/making-waves-conversations-nora-nickum/">Nora Nickum on her new book, "Superpod: Saving the Endangered Orcas of the Pacific Northwest"</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
@@ -173,9 +173,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo"/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="/partnership-boards-overview.php">Leadership Council seeking nominations for Science Panel and Ecosystem Coordination Board</a><br>
-						<!--END news content BOX-->  
+						<img class="img-responsive img-rounded" src="images/news-images/sig-actions.jpg"  alt="HEAL Act - "/> <strong>PUBLIC COMMENT PERIOD</strong><br>
+						<a href="https://www.psp.wa.gov/HEAL-environmental-justice-assessments.php">Partnership's HEAL Act Significant Agency Action Public Comment through June 15, 2023 </a><br>
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -189,9 +189,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/scenarios-web.jpg"  alt="Chart that illustrates differences in business-as-usual scenario and alternative future scenarios"/> <strong>RESOURCE</strong><br>
-						<a href="/future-scenarios.php">Alternative futures for Puget Sound</a><br>
-						<!--END news content BOX--> 
+						<img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo"/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="/partnership-boards-overview.php">Leadership Council seeking nominations for Science Panel and Ecosystem Coordination Board</a><br>
+						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -203,9 +203,22 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/scenarios-web.jpg"  alt="Chart that illustrates differences in business-as-usual scenario and alternative future scenarios"/> <strong>RESOURCE</strong><br>
+						<a href="/future-scenarios.php">Alternative futures for Puget Sound</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END-->
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt="Photo of the Capitol Building in Olympia with the text Legislative Update written in orange letters superimposed on the top corner of the photo"/> <strong>RESOURCE</strong><br>
 						<a href="https://psp.wa.gov/government-relations.php">2023 session information</a><br>
-						<!--END news content BOX-->
+						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -244,19 +257,6 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/coho-web.jpg"  alt="Young coho salmon swimming in a river, with rocks lining the bottom of the riverbed"/> <strong>MAKING WAVES</strong><br>
 						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/03/6ppd-quinone-salmon-recovery/">Clearing the road for salmon recovery: 6PPD-quinone and mitigation solutions</a><br>
-						<!--END news content BOX-->   
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/Cedar-overpass-web.jpg"  alt="Photo of an overpass above the Cedar River, showing the underside of the overpass and the flow of the Cedar River"/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/03/preventing-stormwater-pollution/">Preventing stormwater pollution protects what we care about</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
