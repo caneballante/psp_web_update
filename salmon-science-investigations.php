@@ -80,12 +80,12 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<h2 class="margin-0-top">Purpose</h2>
 		
-		<p>The Partnership funds salmon science investigations each biennium that will advance Puget Sound salmon recovery. Funds are awarded through a competitive solicitation process in the form of a Request for Information (RFI). The RFI is developed in collaboration with the Salmon Science Advisory Group to address priority salmon science needs for the region.</p>
+		<p>The Partnership funds salmon science investigations each biennium that will advance Puget Sound salmon recovery. Funds are awarded through a competitive solicitation process in the form of a Request for Information (RFI). The RFI is developed in collaboration with the <a href="https://pspwa.box.com/s/gmid2sz9hha80r9aw14jw6rctucqf1yr" target="new">Salmon Science Advisory Group</a> to address priority salmon science needs for the region.</p>
 		<p>Investigations can include but are not limited to modeling, research, and syntheses to address emerging issues of concern, factors limiting recovery, and other critical science and monitoring questions to address knowledge gaps and critical uncertainties in salmon recovery. Outcomes of the proposed investigations should support ongoing recovery planning and adaptive management efforts to ensure self-sustaining, harvestable, salmon runs that sustain people and orcas in Puget Sound. Proposed investigations are strongly encouraged to address environmental justice, tribal priorities, and treaty rights in relation to salmon recovery.</p>
 		
 		<h2>Projects funded in 2023-2025</h2>
 			
-			<p>For the 2023-2025 biennium, the Puget Sound Partnership requested proposals for projects that address priority information needs to advance regional salmon recovery under the Puget Sound Salmon Science Investigations RFI (RFI #2023-165). The RFI allocated up to $2,000,000 for proposals up to $400,000 each. </p>
+			<p>For the 2023-2025 biennium, the Puget Sound Partnership requested proposals for projects that address priority information needs to advance regional salmon recovery under the Puget Sound Salmon Science Investigations RFI (<a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">RFI #2023-165</a>). The RFI allocated up to $2,000,000 for proposals up to $400,000 each. </p>
 			<p>The following 6 proposals were selected for funding:</p><br>
 			
 			<table class="table-responsive table-condensed table-bordered">
@@ -138,11 +138,11 @@
 			
 					<p>These proposals were selected for funding following an evaluation process from technical evaluators and a review panel. We would like to thank our science colleagues from around the Salish Sea and Partnership staff who contributed their time and expertise as proposal evaluators, and the Salmon Science Advisory Group who contributed their regional perspectives as members of the review panel.</p>
 				
-					<p>We are excited to support this cohort of projects and look forward to working with the project teams in implementing their studies. Updates from project teams will also be shared at future PSEMP Salmonids Work Group meetings (PSEMP Salmonids Work Group (box.com).</p>
+					<p>We are excited to support this cohort of projects and look forward to working with the project teams in implementing their studies. Updates from project teams will also be shared at future PSEMP Salmonids Work Group meetings (<a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5" target="new">PSEMP Salmonids Work Group</a>).</p>
 			
 					<h2>Projects funded in 2022-2023</h2>
 			
-					<p>In summer 2022 the Partnership announced a Salmon Science RFI awarding up to $390,000 for projects up to $100,000 each. The projects funded in 2022 are listed below:</p><br>
+					<p>In summer 2022 the Partnership announced a <a href="https://pspwa.box.com/s/gyub6kidgcl1uvviyl4lmg48ch0f4qfb" target="new">Salmon Science RFI</a> awarding up to $390,000 for projects up to $100,000 each. The projects funded in 2022 are listed below:</p><br>
 			
 					<table class="table-responsive table-condensed table-bordered">
 					<thead>
@@ -182,10 +182,10 @@
 					</tbody>
 				</table><br>
 			
-					<p>For more information about the proposals or solicitation process, please contact Annelise Del Rio at annelise.delrio@psp.wa.gov.
+					<p>For more information about the proposals or solicitation process, please contact Annelise Del Rio at <a href="mailto:annelise.delrio@psp.wa.gov">annelise.delrio@psp.wa.gov</a>.
 </p>
 			
-			<p class="last-update">Last updated: 01/05/23</p>
+			<p class="last-update">Last updated: 06/28/23</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
