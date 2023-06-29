@@ -14,7 +14,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - HEAL Environmental Justice Assessments</title>
+<title>Puget Sound Partnership - HEAL Budget and Funding Policy</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -60,7 +60,7 @@ navSelected = 4;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Environmental Justice Assessments</h1>
+			<h1>Budget and Funding Policy</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -79,52 +79,41 @@ navSelected = 4;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<p>June 30, 2023</p>
 			
+			<p>Dear People, Communities, and Nations of Puget Sound,</p>
 			
-			<h2 class="margin-0-top">Public  Comment on Types of Significant Agency Actions for Environmental Justice  Assessments</h2>
-			<div class="floatright">
-				<div class="highlightbox margin-10-left">
-				<p><a href="https://youtu.be/mmicbUH07TQ"><img src="images/HEAL-sig-actions-thumb.jpg" width="200" height="111" alt=""/><br>
-				Presentation explaining the <br>
-				Partnership Significant Actions</a></p></div>
-			</div>
+			<p>Environmental justice is the fair treatment and meaningful involvement of all people, regardless of race, color, national origin, or income, with respect to the development, implementation, and enforcement of environmental laws, rules, and policies.  It is also the deeply decent and right thing to do.</p>
 			
-			<p><strong>Public comments will  be accepted until 11:59pm on June 15, 2023</strong></p>
-			<p>	Washington State&rsquo;s  statewide environmental justice law, the&nbsp;<a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.005">Healthy Environment for All (HEAL) Act</a>&nbsp;instructs the Puget Sound Partnership (The Partnership) to  conduct environmental justice assessments when considering Significant Agency Actions.</p>
-			<p>Starting July 1, 2023,  we are required to complete an environmental justice assessment for the  following actions named in the law:</p>
-			<ul class="bullet-size-fix">
-				<li>Adopting or developing       significant legislative rules as defined in&nbsp;<a href="https://app.leg.wa.gov/RCW/default.aspx?cite=34.05.328">RCW 34.05.328</a>.</li>
-				<li>Adopting or developing new       grant or loan programs initiated after July 1, 2023.</li>
-				<li>Designing or awarding capital       projects, grants, or loans of $12 million or more.</li>
-				<li>Developing agency request       legislation.</li>
-				<li>Any other actions deemed       significant consistent with RCW&nbsp;<a href="http://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060">70A.02.060</a>. </li>
-			</ul>
-			<p>The Partnership can  identify additional types of significant agency actions, in addition to the  above, which will require environmental justice assessments starting July 1,  2025. We are beginning to identify actions that may benefit from an  environmental justice assessment and there will be additional opportunities for  the public to comment in the future. Our initial list of specific significant  agency actions include:</p>
-			<p>	Per <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.leg.wa.gov%2FRCW%2Fdefault.aspx%3Fcite%3D70A.02.010&data=05%7C01%7Clea-anne.burke%40psp.wa.gov%7C1d86ba148c604c448ab408db53130195%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638195113315120507%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b6pK6Z8jtPz0cfn1Mk84UsvwC4qs5Zzs23%2B8UqxSKhw%3D&reserved=0" target="_blank">RCW 70A.02.010 (12)</a> (c)</p>
-			<ul class="bullet-size-fix">
-				<li>Puget Sound Acquisition and Restoration biennial grant round</li>
-			</ul>
-			<p>Per <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.leg.wa.gov%2FRCW%2Fdefault.aspx%3Fcite%3D70A.02.010&data=05%7C01%7Clea-anne.burke%40psp.wa.gov%7C1d86ba148c604c448ab408db53130195%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638195113315120507%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b6pK6Z8jtPz0cfn1Mk84UsvwC4qs5Zzs23%2B8UqxSKhw%3D&reserved=0" target="_blank">RCW 70A.02.010 (12)</a> (e) and <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060">RCW 70A.02.060</a></p>
-			<ul class="bullet-size-fix">
-				<li>Development of the 2025-2028 Science Work Plan</li>
-				<li>Development of the 2026-2030 Action  Agenda</li>
-			</ul>
-			<p><strong><em>We are seeking your comments  and feedback on the following:</em></strong></p>
-			<ul class="bullet-size-fix">
-				<li>The above list of significant agency actions.</li>
-				<li>Other types of Partnership actions you think would benefit from an assessment starting in 2025.</li>
-				<li>How the Partnership can best engage with communities impacted by significant agency actions.</li>
-				<li>How you would like to stay informed about environmental justice assessments.</li>
-			</ul>
-			<p>While this comment  period is open through June 15, 2023, to meet required deadlines, we invite you  to reach out to us at any time. We will use input to help inform decisions on  conducting assessments and how we communicate and engage.</p>
-			<p><strong>Submit written  comments to&nbsp;Melissa Schutten, Equity and Environmental Justice Manager at:  melissa.schutten@psp.wa.gov.</strong>&nbsp;A summary of comments and Partnership responses will be  posted to our Partnership webpage by June 30, 2023.</p>
+			<p>The Healthy Environment for All (HEAL) Act (RCW 70A.02) directs the Puget Sound Partnership to infuse environmental justice into our decision-making processes, budgeting, and expenditures in a variety of ways.  We invite you to explore this section of our website to learn more about how we plan to do so.  Furthermore, we welcome feedback on our proposed approach; we know we have much to learn.</p>
 			
-			<h2>The HEAL Act</h2>
-			<p>The passage of the Healthy  Environment for All (HEAL) Act in 2021 is a historic step toward eliminating  environmental health disparities and more equitably distributing health and environmental  benefits among communities of color and low-income households.&nbsp;<strong>It is  the first law in Washington to create a coordinated state agency approach to  environmental justice.</strong></p>
-			<p>The law covers seven  state agencies: the Puget Sound Partnership, and the Washington State  departments of Health, Agriculture, Commerce, Ecology, Natural Resources, and  Transportation. It allows other agencies to opt in.</p>
-			<p> more information  and continued updates on HEAL Act implementation, see the Partnership&rsquo;s  <a href="https://psp.wa.gov/HEAL.php">HEAL  Act webpage</a>.<br>
-			<h2>Environmental Justice  Assessments</h2>
-			<p> HEAL Act requires  staff of covered agencies to conduct environmental justice assessments.&nbsp;<strong>Environmental  justice assessments are a process that staff will be required to follow to  determine the impacts of significant agency actions on overburdened communities  and vulnerable populations.</strong>&nbsp;HEAL Act staff are working on creating the  exact process for environmental justice assessments, which will be finalized by  July 2023 when it needs to be implemented by the agency. Environmental justice  assessments are intended to assist the agency with understanding  disproportionate impacts, equitably distributing environmental benefits,  reducing environmental harms, and addressing environmental and health  disparities. This process should not delay the timeline nor completion of the  action being assessed.&nbsp;</p>
+			<p>Thank you for your interest, your time, and your energy.</p>
+			
+			<p>Sincerely,</p>
+			
+			<p>Laura L. Blackmore</p>
+			
+			<p>Executive Director</p>
+			
+			<hr>
+			
+			<p>The following presents the Partnership’s approach to implementing the budget and expenditures section (sec. 16) of the Healthy Environments for All (HEAL) Act, codified as RCW 70A.02.080:</p>
+			
+			<p>The approach presented below represents our agency’s current best thinking based on substantial leadership and engagement from the Equity & Environmental Justice Program, the Interagency Working Group composed of representatives from the agencies named in the HEAL Act, and our staff and Leadership Team.  We welcome guidance and feedback from the Environmental Justice Council, Tribal Nations, and community on our proposed approach and stand ready to adapt it as we learn more.</p>
+			
+			<ul class="bullet-size-fix">
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+			
 <p class="last-update">Last updated: 5/23/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
