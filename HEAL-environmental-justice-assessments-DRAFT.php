@@ -109,11 +109,16 @@ navSelected = 4;
 				<li>Development of the 2025-2028 Science Work Plan</li>
 				<li>Development of the 2026-2030 Action  Agenda</li>
 			</ul>
-			
+			<p>You can view the Puget Sound Partnership Signficant Agency Action Assessment below or <a href="#">click here to download</a></p>
+			<iframe src="https://pspwa.app.box.com/embed/s/hks6d5o8aeyoyuj36q0iedkdiluengrk?sortColumn=date" width="600" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			</iframe>
+			<h2>Public Comment Period</h2>
 			<p>A public comment period was conducted through June 15, 2023. We invite you to reach out to us at any time. We will use input to help inform decisions on  conducting assessments and how we communicate and engage.</p>
 			<p>Submit written comments to Melissa Schutten, Equity and Environmental Justice Manager at:  melissa.schutten@psp.wa.gov p>
 			<p>A summary of comments and Partnership responses can be found <a href="#">here</a></p>
-			
+			<br>
 			<h2>The HEAL Act</h2>
 			<p>The passage of the Healthy  Environment for All (HEAL) Act in 2021 is a historic step toward eliminating  environmental health disparities and more equitably distributing health and environmental  benefits among communities of color and low-income households.&nbsp;<strong>It is  the first law in Washington to create a coordinated state agency approach to  environmental justice.</strong></p>
 			<p>The law covers seven  state agencies: the Puget Sound Partnership, and the Washington State  departments of Health, Agriculture, Commerce, Ecology, Natural Resources, and  Transportation. It allows other agencies to opt in.</p>
@@ -123,14 +128,11 @@ navSelected = 4;
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top nonresponsive-object-hide-rightnav">CONTACT</div>
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<div class="nonresponsive-object-hide-rightnav-li">
-				<li class="active" role="presentation"> <?php include 'includes/ln-HEAL-contact.html';?></li>
-				</div>
-				
+				<li><?php include 'includes/ln-HEAL-contact.html';?></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -138,7 +140,8 @@ navSelected = 4;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="#">Significant Agency Actions Public comments 6/15/2023</a></li>
+				<li class="active" role="presentation"> <a href="#">Significant Agency Actions Public Comments 6/165/2023</a></li>
+		
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
