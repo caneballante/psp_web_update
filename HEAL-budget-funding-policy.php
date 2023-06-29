@@ -102,7 +102,7 @@ navSelected = 4;
 			<p>The approach presented below represents our agency’s current best thinking based on substantial leadership and engagement from the Equity & Environmental Justice Program, the Interagency Working Group composed of representatives from the agencies named in the HEAL Act, and our staff and Leadership Team.  We welcome guidance and feedback from the Environmental Justice Council, Tribal Nations, and community on our proposed approach and stand ready to adapt it as we learn more.</p>
 			
 			<ul class="bullet-size-fix">
-				<li>Environmental Justice Principles</li>
+				<li><a href="#environmental-justice-principles">Environmental Justice Principles</a></li>
 				<li>Decision Making Processes</li>
 				<li>Focusing Applicable Expenditures on Creating Environmental Benefits</li>
 				<li>Creating Meaningful Participation Opportunities</li>
@@ -112,7 +112,9 @@ navSelected = 4;
 				<li>Other Considerations</li>
 				<li>Partnership HEAL Act Key Terms Definitions and Acronyms</li>
 				<li>Reference Documents and Reports</li>
-			</ul>
+			</ul><br>
+			<a name="environmental-justice-principles"></a>
+			<h2>Environmental Justice Principles</h2>
 			
 <p class="last-update">Last updated: 5/23/23</p>
 		<!-- InstanceEndEditable --> </div>
