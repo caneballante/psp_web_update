@@ -99,10 +99,7 @@ navSelected = 5;
 			<p align="center">You can view the Puget Sound Partnership HEAL Budget and Funding Policy below or <a href="#">click here to download</a></p>
 			<p><iframe src="https://pspwa.app.box.com/embed/s/38wgbs8o3x8ordfry8ospgp025fdbzau?sortColumn=date" width="600" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></p>
 			
-			<h2>The HEAL Act</h2>
-			<p>The passage of the Healthy  Environment for All (HEAL) Act in 2021 is a historic step toward eliminating  environmental health disparities and more equitably distributing health and environmental  benefits among communities of color and low-income households.&nbsp;<strong>It is  the first law in Washington to create a coordinated state agency approach to  environmental justice.</strong></p>
-			<p>The law covers seven  state agencies: the Puget Sound Partnership, and the Washington State  departments of Health, Agriculture, Commerce, Ecology, Natural Resources, and  Transportation. It allows other agencies to opt in.</p>
-			<p> more information  and continued updates on HEAL Act implementation, see the Partnership&rsquo;s  <a href="https://psp.wa.gov/HEAL.php">HEAL  Act webpage</a>.<br>
+			
 			
 <p class="last-update">Last updated: 6/29/23</p>
 		<!-- InstanceEndEditable --> </div>
