@@ -83,11 +83,12 @@ navSelected = 5;
 			
 
 		
-			<p class="padding-0-top">	The Healthy Environments for All (HEAL) Act, codified as RCW 70A.02.080, directs the Partnership to outline our approach to carrying out the budget and expenditures section (sec. 16) of the act. Our approach, included in the document linked below, represents the agency’s current best thinking on this topic. </p>
+			<p class="padding-0-top">	The Healthy Environments for All (HEAL) Act, codified as <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.080" target="new">RCW 70A.02.080</a>, directs the Partnership to outline our approach to carrying out the budget and expenditures section (sec. 16) of the act. Our approach, included in the document linked below, represents the agency’s current best thinking on this topic. </p>
 			<p>	Our approach was shaped by substantial leadership and engagement from the Equity and Environmental Justice Program; the Interagency Working Group, composed of representatives from the agencies named in the HEAL Act; our staff; and our Leadership Team. We welcome guidance and feedback from the Environmental Justice Council, Tribal Nations, and community on our proposed approach and stand ready to adapt it as we learn more. </p>
 			<p>	Our HEAL Act budget and funding policy document includes information on our approach to the following: </p>
-			<p>Environmental justice principles</p>
+			
 			<ul class="bullet-size-fix">
+				<li>Environmental justice principles</li>
 				<li>Decision making processes</li>
 				<li>Focusing applicable expenditures on creating environmental benefits</li>
 				<li>Creating meaningful participation opportunities</li>
