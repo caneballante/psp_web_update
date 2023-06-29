@@ -102,16 +102,16 @@ navSelected = 4;
 			<p>The approach presented below represents our agency’s current best thinking based on substantial leadership and engagement from the Equity & Environmental Justice Program, the Interagency Working Group composed of representatives from the agencies named in the HEAL Act, and our staff and Leadership Team.  We welcome guidance and feedback from the Environmental Justice Council, Tribal Nations, and community on our proposed approach and stand ready to adapt it as we learn more.</p>
 			
 			<ul class="bullet-size-fix">
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
+				<li>Environmental Justice Principles</li>
+				<li>Decision Making Processes</li>
+				<li>Focusing Applicable Expenditures on Creating Environmental Benefits</li>
+				<li>Creating Meaningful Participation Opportunities</li>
+				<li>Clearly Articulate Environmental Justice Goals and Performance Metrics</li>
+				<li>Consider a Broad Scope</li>
+				<li>Establish a Goal of 40 Percent</li>
+				<li>Other Considerations</li>
+				<li>Partnership HEAL Act Key Terms Definitions and Acronyms</li>
+				<li>Reference Documents and Reports</li>
 			</ul>
 			
 <p class="last-update">Last updated: 5/23/23</p>
