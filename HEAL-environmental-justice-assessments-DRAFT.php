@@ -132,6 +132,8 @@ navSelected = 4;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/opvxtgejbsbatajkhwl4k5y2006mmkmd" target="new">Puget Sound Partnership Significant Agency Actions</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/ag3l6o85qjhfmrgbecsxufvhi4g6m3e0" target="new">Environmental Justice Assessment of Significant Agency Actions: Checklist</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/7dm19iz5lt6rvdhmz7zqxci7boddv969" target="new">Process to Identify Overburdened Communities and Vulnerable Populations</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/eswkd2n9fzidezijehkw7adjgaek3vdt" target="new">Significant Agency Actions Public Comments June 2023</a></li>
 		
