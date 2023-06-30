@@ -136,6 +136,9 @@ navSelected = 4;
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/ag3l6o85qjhfmrgbecsxufvhi4g6m3e0" target="new">Environmental Justice Assessment of Significant Agency Actions: Checklist</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/7dm19iz5lt6rvdhmz7zqxci7boddv969" target="new">Process to Identify Overburdened Communities and Vulnerable Populations</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/eswkd2n9fzidezijehkw7adjgaek3vdt" target="new">Significant Agency Actions Public Comments June 2023</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/8awrzq9xpg8u8smlwy9zc88j9v8g8o21" target="new">HEAL Act Key Terms, Definitions, and Acronyms</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/3f1865sjd28i5hp23i6s2pxwcw52akpn" target="new">Puget Sound Partnership Equity Guidebook</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/hi1eto2c08t7uvqkf7oej2l1xgkevyoz" target="new">Washington State Environmental Justice Task Force Report</a></li>
 		
 				<!-- InstanceEndEditable -->
 			</ul>

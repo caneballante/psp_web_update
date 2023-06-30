@@ -123,6 +123,8 @@ navSelected = 5;
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/hb95aoyeeiq8k5i1pw6452qnsah86wg7" target="new">Engaging the Partnership Tribal Co-management Council, the Equity Advisory Group, and the Environmental Justice Community Advisory Committee in Expenditure Decisions</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/wiuuo30y2l9q2ued6yxo0wdv4m5ohbl2" target="new">HEAL Act Decision Packet Budget Request Timeline Example</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/h56it0q6vigb08w2tyq8tnokm404bwgq" target="new">HEAL Act 2022-2023 Work Planning Guidance</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/3f1865sjd28i5hp23i6s2pxwcw52akpn" target="new">Puget Sound Partnership Equity Guidebook</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/hi1eto2c08t7uvqkf7oej2l1xgkevyoz" target="new">Washington State Environmental Justice Task Force Report</a></li>
 		
 				<!-- InstanceEndEditable -->
 			</ul>
