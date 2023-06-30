@@ -100,8 +100,8 @@ navSelected = 4;
 			</ul>
 			<p>Per <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.leg.wa.gov%2FRCW%2Fdefault.aspx%3Fcite%3D70A.02.010&data=05%7C01%7Clea-anne.burke%40psp.wa.gov%7C1d86ba148c604c448ab408db53130195%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638195113315120507%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b6pK6Z8jtPz0cfn1Mk84UsvwC4qs5Zzs23%2B8UqxSKhw%3D&reserved=0" target="_blank">RCW 70A.02.010 (12)</a> (e) and <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060">RCW 70A.02.060</a></p>
 			<ul class="bullet-size-fix">
-				<li>Development of the 2025-2028 Science Work Plan</li>
-				<li>Development of the 2026-2030 Action  Agenda</li>
+				<li>The Puget Sound Partnership Science Work Plan, 2025-2028 and beyond</li>
+				<li>The Action Agenda for Puget Sound, 2026-2030 and beyond</li>
 			</ul>
 			<h2>Environmental Justice Assessment</h2>
 			<p>You can view the Puget Sound Partnership Enivronmental Justice Assessment Policy below or <a href="https://pspwa.box.com/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r" target="new">click here to download</a></p>
