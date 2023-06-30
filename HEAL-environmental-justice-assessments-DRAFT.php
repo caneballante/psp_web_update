@@ -111,8 +111,8 @@ navSelected = 4;
 			</iframe>
 			<h2>Public Comment Period</h2>
 			<p>A public comment period was conducted through June 15, 2023. We invite you to reach out to us at any time. We will use input to help inform decisions on  conducting assessments and how we communicate and engage.</p>
-			<p>Submit written comments to Melissa Schutten, Equity and Environmental Justice Manager at:  melissa.schutten@psp.wa.gov </p>
-			<p>A summary of comments and Partnership responses can be found <a href="#">here</a></p>
+			<p>Submit written comments to Melissa Schutten, Equity and Environmental Justice Manager at:  <a href="mailto:melissa.schutten@psp.wa.gov">melissa.schutten@psp.wa.gov</a> </p>
+			<p>A summary of comments and Partnership responses can be found <a href="https://pspwa.box.com/s/eswkd2n9fzidezijehkw7adjgaek3vdt" target="new">here</a></p>
 			<br>
 		<br>
 			
