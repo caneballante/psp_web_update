@@ -107,17 +107,26 @@ navSelected = 4;
 			<p>&nbsp;</p>
 			</iframe>
 			<h2>Environmental Justice Assessment of Significant Agency Actions: Checklist</h2>
-			<p>The environmental justice assessment obligation of a covered agency for a significant agency action is satisfied by the completion of a checklist developed by the covered agency pursuant to chapter <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>. This checklist should enable the Partnership to advance our goals of reducing environmental harms, identifying and reducing environmental and health disparities, and improving the distribution of environmental benefits. </p><br>
+			<p>The environmental justice assessment obligation of a covered agency for a significant agency action is satisfied by the completion of a checklist developed by the covered agency pursuant to chapter <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>. This checklist should enable the Partnership to advance our goals of reducing environmental harms, identifying and reducing environmental and health disparities, and improving the distribution of environmental benefits. </p>
 			
 			<h3>Step 1: Describe the Significant Agency Action (SAA)</h3>
 			<ol>
-				<li><p>Describe the SAA and any specific geographic areas the action will take place.</p></li>
-				<li><p>Describe the projected environmental exposures that may result from the SAA.</p></li>
-				<li><p></p></li>
+				<li><p class="psemp-mar-font">Describe the SAA and any specific geographic areas the action will take place.</p></li>
+				<li><p class="psemp-mar-font">Describe the projected environmental exposures that may result from the SAA.</p></li>
+				<li><p class="psemp-mar-font">Using cumulative health impact analysis tools:</p></li>
 					<ul class="bullet-size-fix">
-					<li><p></p></li>
-					<li><p></p></li>
+					<li><p class="psemp-mar-font">Identify Vulnerable Populations (VPs), Overburdened Communities (OBCs) and Tribes that may be impacted within the geographic area of the SAA.</p></li>
+					<li><p class="psemp-mar-font">Identify any existing environmental exposures and environmental health impacts (risks of health outcomes from environmental exposures) of OBCs within the action area.</p></li>
 					</ul>
+			</ol>
+			
+			<h3>STEP 2: Engage Impacted Communities</h3>
+			
+			<ol>
+				<li><p class="psemp-mar-font">Describe any community engagement with impacted OBCs and tribes regarding the SAA to date and any plans for ongoing community engagement.</p></li>
+				<li><p class="psemp-mar-font">Describe the socioeconomic conditions of OBCs and tribes as identified through a cumulative health impact analysis tool and with input from impacts communities.</p></li>
+				<li><p class="psemp-mar-font">Describe the input and priorities that OBCs and tribes shared in response to projected environmental exposures.</p></li>
+					
 			</ol>
 			
 			<h2>Public Comment Period</h2>
