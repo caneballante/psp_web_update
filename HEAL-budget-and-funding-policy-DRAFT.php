@@ -118,8 +118,8 @@ navSelected = 5;
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/0ycesrhu100zz0vbw2azirv330lmzjz8" target="new">HEAL Act Budget and Funding Appendices</a></li>
-				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/7dm19iz5lt6rvdhmz7zqxci7boddv969" target="new">Process to Identify Overburdened Communities and Vulnerable Populations</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/8awrzq9xpg8u8smlwy9zc88j9v8g8o21" target="new">HEAL Act Key Terms, Definitions, and Acronyms</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/7dm19iz5lt6rvdhmz7zqxci7boddv969" target="new">Process to Identify Overburdened Communities and Vulnerable Populations</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/hb95aoyeeiq8k5i1pw6452qnsah86wg7" target="new">Engaging the Partnership Tribal Co-management Council, the Equity Advisory Group, and the Environmental Justice Community Advisory Committee in Expenditure Decisions</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/wiuuo30y2l9q2ued6yxo0wdv4m5ohbl2" target="new">HEAL Act Decision Packet Budget Request Timeline Example</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/h56it0q6vigb08w2tyq8tnokm404bwgq" target="new">HEAL Act 2022-2023 Work Planning Guidance</a></li>
