@@ -56,7 +56,7 @@
 			<div class="container-fluid margin-40-top">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
-						<img src="images/HealAct-logo-wte.png" alt="" width="368" height="175"/><br>
+						<img src="images/HealAct-logo-wte.png" alt="" width="440" height="210"/><br>
 
 					
 						<p>The passage of the Healthy Environment for All (HEAL) Act in 2021 identifies the Partnership as one of seven agencies mandated to develop policies and programs most directly impactful to environmental justice </p>

@@ -746,6 +746,47 @@ display: block
 	text-shadow: 2px 2px #000;
 }
 
+.intro-HEAL {
+	display: table;
+	width: 100%;
+	height: 500px;
+	padding: 20px 0;
+	margin: auto;
+	text-align: center;
+	color: #fff;
+	background: url("../images/home_image24.jpg")no-repeat bottom center scroll;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+.intro-HEAL .intro-body {
+	display: table-cell;
+	vertical-align: middle;
+
+}
+/*sets text size on the jumbotron*/
+.intro-HEAL h1 {
+	font-size: 30px;
+	text-shadow: 2px 2px #000;
+}
+
+.intro-HEAL .learn-more-box a {
+	font-size: 18px;
+}
+.intro-HEAL .learn-more-box a:hover {
+	text-decoration: none;
+}
+.intro-HEAL .learn-more-box {
+	width: 400px;
+	background-color: white;
+	display:  inline-block;
+	border: solid #fff 1px;
+	margin: 5px auto;
+	border-radius: 5px
+}
+
 .learn-more-box a {
 	font-size: 18px;
 }
