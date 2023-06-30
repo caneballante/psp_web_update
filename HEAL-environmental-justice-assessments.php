@@ -79,53 +79,79 @@ navSelected = 4;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			
-			
-			<h2 class="margin-0-top">Public  Comment on Types of Significant Agency Actions for Environmental Justice  Assessments</h2>
 			<div class="floatright">
 				<div class="highlightbox margin-10-left">
 				<p><a href="https://youtu.be/mmicbUH07TQ"><img src="images/HEAL-sig-actions-thumb.jpg" width="200" height="111" alt=""/><br>
 				Presentation explaining the <br>
 				Partnership Significant Actions</a></p></div>
 			</div>
+		
+		
+			<p>	Washington State&rsquo;s  statewide environmental justice law, the <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.005">Healthy Environmental for All (HEAL) Act</a>&nbsp;instructs the Puget Sound Partnership (The Partnership) to  conduct environmental justice assessments when considering Significant Agency Actions. Environmental  justice assessments are a process that staff will be required to follow to  determine the impacts of significant agency actions on overburdened communities  and vulnerable populations.</p>
 			
-			<p><strong>Public comments will  be accepted until 11:59pm on June 15, 2023</strong></p>
-			<p>	Washington State&rsquo;s  statewide environmental justice law, the&nbsp;<a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.005">Healthy Environment for All (HEAL) Act</a>&nbsp;instructs the Puget Sound Partnership (The Partnership) to  conduct environmental justice assessments when considering Significant Agency Actions.</p>
-			<p>Starting July 1, 2023,  we are required to complete an environmental justice assessment for the  following actions named in the law:</p>
-			<ul class="bullet-size-fix">
-				<li>Adopting or developing       significant legislative rules as defined in&nbsp;<a href="https://app.leg.wa.gov/RCW/default.aspx?cite=34.05.328">RCW 34.05.328</a>.</li>
-				<li>Adopting or developing new       grant or loan programs initiated after July 1, 2023.</li>
-				<li>Designing or awarding capital       projects, grants, or loans of $12 million or more.</li>
-				<li>Developing agency request       legislation.</li>
-				<li>Any other actions deemed       significant consistent with RCW&nbsp;<a href="http://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060">70A.02.060</a>. </li>
-			</ul>
-			<p>The Partnership can  identify additional types of significant agency actions, in addition to the  above, which will require environmental justice assessments starting July 1,  2025. We are beginning to identify actions that may benefit from an  environmental justice assessment and there will be additional opportunities for  the public to comment in the future. Our initial list of specific significant  agency actions include:</p>
+			<h2>Significant Agency Action</h2>
+			<p>Our initial list of specific significant  agency actions include:</p>
 			<p>	Per <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.leg.wa.gov%2FRCW%2Fdefault.aspx%3Fcite%3D70A.02.010&data=05%7C01%7Clea-anne.burke%40psp.wa.gov%7C1d86ba148c604c448ab408db53130195%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638195113315120507%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b6pK6Z8jtPz0cfn1Mk84UsvwC4qs5Zzs23%2B8UqxSKhw%3D&reserved=0" target="_blank">RCW 70A.02.010 (12)</a> (c)</p>
 			<ul class="bullet-size-fix">
-				<li>Puget Sound Acquisition and Restoration biennial grant round</li>
+				<li><a href="/PSAR.php">Puget Sound Acquisition and Restoration biennial grant round</a></li>
 			</ul>
 			<p>Per <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.leg.wa.gov%2FRCW%2Fdefault.aspx%3Fcite%3D70A.02.010&data=05%7C01%7Clea-anne.burke%40psp.wa.gov%7C1d86ba148c604c448ab408db53130195%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638195113315120507%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b6pK6Z8jtPz0cfn1Mk84UsvwC4qs5Zzs23%2B8UqxSKhw%3D&reserved=0" target="_blank">RCW 70A.02.010 (12)</a> (e) and <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060">RCW 70A.02.060</a></p>
 			<ul class="bullet-size-fix">
-				<li>Development of the 2025-2028 Science Work Plan</li>
-				<li>Development of the 2026-2030 Action  Agenda</li>
+				<li><a href="/science-workplan.php">The Puget Sound Partnership Science Work Plan, 2025-2028 and beyond</a></li>
+				<li><a href="/2022AAupdate.php">The Action Agenda for Puget Sound, 2026-2030 and beyond</a></li>
 			</ul>
-			<p><strong><em>We are seeking your comments  and feedback on the following:</em></strong></p>
-			<ul class="bullet-size-fix">
-				<li>The above list of significant agency actions.</li>
-				<li>Other types of Partnership actions you think would benefit from an assessment starting in 2025.</li>
-				<li>How the Partnership can best engage with communities impacted by significant agency actions.</li>
-				<li>How you would like to stay informed about environmental justice assessments.</li>
-			</ul>
-			<p>While this comment  period is open through June 15, 2023, to meet required deadlines, we invite you  to reach out to us at any time. We will use input to help inform decisions on  conducting assessments and how we communicate and engage.</p>
-			<p><strong>Submit written  comments to&nbsp;Melissa Schutten, Equity and Environmental Justice Manager at:  melissa.schutten@psp.wa.gov.</strong>&nbsp;A summary of comments and Partnership responses will be  posted to our Partnership webpage by June 30, 2023.</p>
+			<h2>Environmental Justice Assessment</h2>
+			<p>You can view the Puget Sound Partnership Enivronmental Justice Assessment Policy below or <a href="https://pspwa.box.com/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r" target="new">click here to download</a></p>
+			<iframe src="https://pspwa.app.box.com/embed/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r?sortColumn=date" width="600" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			</iframe>
+			<h2>Environmental Justice Assessment of Significant Agency Actions: Checklist</h2>
+			<p>The environmental justice assessment obligation of a covered agency for a significant agency action is satisfied by the completion of a checklist developed by the covered agency pursuant to chapter <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>. This checklist should enable the Partnership to advance our goals of reducing environmental harms, identifying and reducing environmental and health disparities, and improving the distribution of environmental benefits. </p><br>
+			<table class="table-responsive table-condensed table-bordered">
+				<tbody>
+					<tr>
+						<td><p class="psemp-mar-font">Primary agency staff contact(s)</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Secondary contact(s)</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Program/department</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Description of proposed significant agency action</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Date environmental justice assessment was initiated</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Date environmental justice assessment was completed</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Type of significant agency action (check one)</p></td>
+						<td><p class="psemp-mar-font">&#9633; &nbsp;The development and adoption of significant legislative rules as defined in <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=34.05.328" target="new">RCW 34.05.328</a></p><p class="psemp-mar-font">&#9633; &nbsp; The development and adoption of any new grant or loan program that a covered agency is explicitly authorized or required by statute to carry out</p><p class="psemp-mar-font">&#9633; &nbsp; A capital project, grant, or loan award by a covered agency of at least $12,000,000 or a transportation project, grant, or loan by a covered agency of at least $15,000,000</p><p class="psemp-mar-font">&#9633; &nbsp; The submission of agency request legislation to the office of the governor or the office of financial management for approval</p><p class="psemp-mar-font">&#9633; &nbsp; Any other agency actions deemed significant by a covered agency consistent with <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>, if so, please name: </p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Link(s) to initial notification with Office of Financial Management and/or other postings</p></td>
+						<td><p></p></td>
+					</tr>
+				</tbody>
+			</table>
+			<h2>Public Comment Period</h2>
+			<p>A public comment period was conducted through June 15, 2023. We invite you to reach out to us at any time. We will use input to help inform decisions on  conducting assessments and how we communicate and engage.</p>
+			<p>Submit written comments to Melissa Schutten, Equity and Environmental Justice Manager at:  <a href="mailto:melissa.schutten@psp.wa.gov">melissa.schutten@psp.wa.gov</a> </p>
+			<p>A summary of comments and Partnership responses can be found <a href="https://pspwa.box.com/s/eswkd2n9fzidezijehkw7adjgaek3vdt" target="new">here</a></p>
+			<br>
+		<br>
 			
-			<h2>The HEAL Act</h2>
-			<p>The passage of the Healthy  Environment for All (HEAL) Act in 2021 is a historic step toward eliminating  environmental health disparities and more equitably distributing health and environmental  benefits among communities of color and low-income households.&nbsp;<strong>It is  the first law in Washington to create a coordinated state agency approach to  environmental justice.</strong></p>
-			<p>The law covers seven  state agencies: the Puget Sound Partnership, and the Washington State  departments of Health, Agriculture, Commerce, Ecology, Natural Resources, and  Transportation. It allows other agencies to opt in.</p>
-			<p> more information  and continued updates on HEAL Act implementation, see the Partnership&rsquo;s  <a href="https://psp.wa.gov/HEAL.php">HEAL  Act webpage</a>.<br>
-			<h2>Environmental Justice  Assessments</h2>
-			<p> HEAL Act requires  staff of covered agencies to conduct environmental justice assessments.&nbsp;<strong>Environmental  justice assessments are a process that staff will be required to follow to  determine the impacts of significant agency actions on overburdened communities  and vulnerable populations.</strong>&nbsp;HEAL Act staff are working on creating the  exact process for environmental justice assessments, which will be finalized by  July 2023 when it needs to be implemented by the agency. Environmental justice  assessments are intended to assist the agency with understanding  disproportionate impacts, equitably distributing environmental benefits,  reducing environmental harms, and addressing environmental and health  disparities. This process should not delay the timeline nor completion of the  action being assessed.&nbsp;</p>
-<p class="last-update">Last updated: 5/23/23</p>
+<p class="last-update">Last updated: 6/30/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
