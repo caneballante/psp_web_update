@@ -51,18 +51,16 @@
 		</div>
 	</div>
 </header>-->
-	<header class="intro-HEAL">
+	<header class="intro-PSDOTH">
 		<div class="intro-body">
 			<div class="container-fluid margin-40-top">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
-						<img src="images/HealAct-logo-wte.png" alt="" width="368" height="175"/><br>
+						<img src="images/PSDOTH Logo-white.png" width="357" height="337" alt=""/>
+						<h1>Raising awareness to recover Puget Sound!</h1>
+						<p>Dates: May 8-11, 2023 Location: Washington D.C. </p>
 
-					
-						<p>The passage of the Healthy Environment for All (HEAL) Act in 2021 identifies the Partnership as one of seven agencies mandated to develop policies and programs most directly impactful to environmental justice </p>
-
-						<div class="learn-more-box no-icon fontweight-400"><a href="https://www.psp.wa.gov/HEAL-environmental-justice-assessments.php">LEARN ABOUT OUR LATEST PROGRESS: ENVIRONMENTAL JUSTICE ASSESSMENTS</a></div>
-						
+						<div class="learn-more-box no-icon fontweight-400"><a href="http://www.psdoth.com">LEARN MORE</a></div>
 					</div>
 				</div>
 			</div>
@@ -144,7 +142,7 @@
 			<div class="padding-5-bottom"><a href="funding.php">Funding opportunities</a></div>
 			<div class="padding-5-bottom"><a href="federal-support.php">Federal support for Puget Sound recovery</a></div>
 			<div class="padding-5-bottom"><a href="government-relations.php">2023 legislative session</a></div>
-			<div class="padding-5-bottom"><a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a></div>
+			<div class="padding-5-bottom"><a href="http://www.psdoth.org">2023 Puget Sound Day on the Hill</a></div>
 			<div class="padding-5-bottom"><a href="https://makingwaves.psp.wa.gov/">Making Waves magazine</a></div>
 		</div>
 	</div>
