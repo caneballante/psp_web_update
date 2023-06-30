@@ -170,6 +170,15 @@ navSelected = 4;
 					
 			</ol>
 			
+			<h3>STEP 6: Equitably Distribute Environmental Health Impacts</h3>
+			
+			<ol>
+				<li><p class="psemp-mar-font">Describe how any environmental benefits will be equitably distributed and the resulting cumulative impacts of the proposed action.</p></li>
+				<li><p class="psemp-mar-font">If the agency determines that it does not have the ability or authority to fully eliminate, reduce, or mitigate environmental harms caused by the significant agency action, or does not address the equitable distribution of environmental benefits, provide a justification for not doing so.</p></li>
+			
+					
+			</ol>
+			
 			<h2>Public Comment Period</h2>
 			<p>A public comment period was conducted through June 15, 2023. We invite you to reach out to us at any time. We will use input to help inform decisions on  conducting assessments and how we communicate and engage.</p>
 			<p>Submit written comments to Melissa Schutten, Equity and Environmental Justice Manager at:  <a href="mailto:melissa.schutten@psp.wa.gov">melissa.schutten@psp.wa.gov</a> </p>
