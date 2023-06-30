@@ -129,6 +129,47 @@ navSelected = 4;
 					
 			</ol>
 			
+			<h3>STEP 3: Identify Environmental Harms</h3>
+			
+			<ol>
+				<li><p class="psemp-mar-font">Describe the potential intended or unintended environmental harms (projected environmental health impacts) of the proposed action? Describe where these will take place.</p></li>
+				<li><p class="psemp-mar-font">Describe the potential environmental health impacts that OBCs identified as a result of the projected environmental exposures.</p></li>
+				<li><p class="psemp-mar-font">Describe the input and priorities that OBCs shared in response to the identification of environmental harms and environmental benefits, or the combined environmental impacts.</p></li>
+					
+			</ol>
+			
+			<h3>Step 4: Plan for Tribal Consultation</h3>
+			<ol>
+				<li><p class="psemp-mar-font">Collate the information specific to Tribes collected in steps 1-3.</p></li>
+				<li><p class="psemp-mar-font">In coordination with the Tribal Affairs Manager:</p></li>
+					<ul class="bullet-size-fix">
+					<li><p class="psemp-mar-font">Describe the impacts to local or regional tribal rights and resources.</p></li>
+					<li><p class="psemp-mar-font">Describe plans for ongoing tribal engagement.</p></li>
+					<li><p class="psemp-mar-font">Summarize the Tribal Consultation plan for the SAA.</p></li>
+					</ul>
+			</ol>
+			
+			<h3>STEP 5: Identify Environmental Benefits</h3>
+			
+			<ol>
+				<li><p class="psemp-mar-font">Describe all community identified needs related to the SAA and if or how these community identified needs may be met by the SAA.</p></li>
+				<li><p class="psemp-mar-font">Describe the potential intended/unintended environmental benefits of the proposed action.</p></li>
+				<li><p class="psemp-mar-font">Identify which of the following strategies will be pursued to eliminate, reduce, or mitigate environmental harms (check all that apply) and summarize the implementation plan to do so:</p></li>
+					<ul class="bullet-size-fix">
+					<li><p class="psemp-mar-font">Eliminating the disparate impact of environmental harms to OBCs;</p></li>
+					<li><p class="psemp-mar-font">Reducing cumulative environmental health impacts on OBCs;</p></li>
+					<li><p class="psemp-mar-font">Preventing the action from adding to the cumulative environmental health impacts on OBCs;</p></li>
+					<li><p class="psemp-mar-font">Providing equitable participation and meaningful engagement of OBCs;</p></li>
+					<li><p class="psemp-mar-font">Prioritizing equitable distribution of resources and benefits to OBCs;</p></li>
+					<li><p class="psemp-mar-font">Promoting positive workforce and job outcomes for OBCs;</p></li>
+					<li><p class="psemp-mar-font">Meeting community needs identified by the affected OBCs;</p></li>
+					<li><p class="psemp-mar-font">Modifying substantive policy requirements; and</p></li>
+					<li><p class="psemp-mar-font">Any other mitigation techniques, including those suggested by the Environmental Justice Council, the Office of Equity, or representatives of OBCs</p></li>
+					<li><p class="psemp-mar-font">Do not proceed</p></li>
+					</ul>
+					
+			</ol>
+			
 			<h2>Public Comment Period</h2>
 			<p>A public comment period was conducted through June 15, 2023. We invite you to reach out to us at any time. We will use input to help inform decisions on  conducting assessments and how we communicate and engage.</p>
 			<p>Submit written comments to Melissa Schutten, Equity and Environmental Justice Manager at:  <a href="mailto:melissa.schutten@psp.wa.gov">melissa.schutten@psp.wa.gov</a> </p>
