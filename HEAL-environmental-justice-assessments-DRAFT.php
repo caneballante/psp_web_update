@@ -139,7 +139,7 @@ navSelected = 4;
 					</tr>
 					<tr>
 						<td><p>Type of significant agency action (check one)</p></td>
-						<td><p>&#9633; &nbsp;The development and adoption of significant legislative rules as defined in <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=34.05.328" target="new">RCW 34.05.328</a></p><p>&#9633; &nbsp; The development and adoption of any new grant or loan program that a covered agency is explicitly authorized or required by statute to carry out</p><p>&#9633; &nbsp; A capital project, grant, or loan award by a covered agency of at least $12,000,000 or a transportation project, grant, or loan by a covered agency of at least $15,000,000</p></td>
+						<td><p>&#9633; &nbsp;The development and adoption of significant legislative rules as defined in <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=34.05.328" target="new">RCW 34.05.328</a></p><p>&#9633; &nbsp; The development and adoption of any new grant or loan program that a covered agency is explicitly authorized or required by statute to carry out</p><p>&#9633; &nbsp; A capital project, grant, or loan award by a covered agency of at least $12,000,000 or a transportation project, grant, or loan by a covered agency of at least $15,000,000</p><p>&#9633; &nbsp; The submission of agency request legislation to the office of the governor or the office of financial management for approval</p><p>&#9633; &nbsp; Any other agency actions deemed significant by a covered agency consistent with <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>, if so, please name: </p></td>
 					</tr>
 					<tr>
 						<td><p>Link(s) to initial notification with Office of Financial Management and/or other postings</p></td>
