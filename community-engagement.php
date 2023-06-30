@@ -100,6 +100,17 @@
 				</div>
 				<!-- InstanceEndEditable -->
 			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/8awrzq9xpg8u8smlwy9zc88j9v8g8o21" target="new">HEAL Act Key Terms, Definitions, and Acronyms</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/7dm19iz5lt6rvdhmz7zqxci7boddv969" target="new">Process to Identify Overburdened Communities and Vulnerable Populations</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/hb95aoyeeiq8k5i1pw6452qnsah86wg7" target="new">Engaging the Partnership Tribal Co-management Council, the Equity Advisory Group, and the Environmental Justice Community Advisory Committee in Expenditure Decisions</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/3f1865sjd28i5hp23i6s2pxwcw52akpn" target="new">Puget Sound Partnership Equity Guidebook</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 

@@ -110,7 +110,7 @@ navSelected = 4;
 			<p>&nbsp;</p>
 			</iframe>
 			<h2>Environmental Justice Assessment of Significant Agency Actions: Checklist</h2>
-			<p>The environmental justice assessment obligation of a covered agency for a significant agency action is satisfied by the completion of a checklist developed by the covered agency pursuant to chapter <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>. This checklist should enable the Partnership to advance our goals of reducing environmental harms, identifying and reducing environmental and health disparities, and improving the distribution of environmental benefits. </p>
+			<p>The environmental justice assessment obligation of a covered agency for a significant agency action is satisfied by the completion of a checklist developed by the covered agency pursuant to chapter <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>. This checklist should enable the Partnership to advance our goals of reducing environmental harms, identifying and reducing environmental and health disparities, and improving the distribution of environmental benefits. </p><br>
 			<table class="table-responsive table-condensed table-bordered">
 				<tbody>
 					<tr>
