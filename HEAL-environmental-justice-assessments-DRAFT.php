@@ -104,8 +104,8 @@ navSelected = 4;
 				<li>Development of the 2026-2030 Action  Agenda</li>
 			</ul>
 			<h2>Environmental Justice Assessment</h2>
-			<p>You can view the Puget Sound Partnership Enivronmental Justice Assessment Policy below or <a href="#">click here to download</a></p>
-			<iframe src="https://pspwa.app.box.com/embed/s/hks6d5o8aeyoyuj36q0iedkdiluengrk?sortColumn=date" width="600" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen>
+			<p>You can view the Puget Sound Partnership Enivronmental Justice Assessment Policy below or <a href="https://pspwa.box.com/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r" target="new">click here to download</a></p>
+			<iframe src="https://pspwa.app.box.com/embed/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r?sortColumn=date" width="600" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen>
 			<p>&nbsp;</p>
 			<p>&nbsp;</p>
 			</iframe>
