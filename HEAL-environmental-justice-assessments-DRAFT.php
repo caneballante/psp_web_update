@@ -60,7 +60,7 @@ navSelected = 4;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>SIGNIFICANT AGENCY ACTION FOR Environmental Justice Assessments</h1>
+			<h1>Environmental Justice Assessments</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -96,31 +96,69 @@ navSelected = 4;
 			<p>Our initial list of specific significant  agency actions include:</p>
 			<p>	Per <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.leg.wa.gov%2FRCW%2Fdefault.aspx%3Fcite%3D70A.02.010&data=05%7C01%7Clea-anne.burke%40psp.wa.gov%7C1d86ba148c604c448ab408db53130195%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638195113315120507%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b6pK6Z8jtPz0cfn1Mk84UsvwC4qs5Zzs23%2B8UqxSKhw%3D&reserved=0" target="_blank">RCW 70A.02.010 (12)</a> (c)</p>
 			<ul class="bullet-size-fix">
-				<li>Puget Sound Acquisition and Restoration biennial grant round</li>
+				<li><a href="/PSAR.php">Puget Sound Acquisition and Restoration biennial grant round</a></li>
 			</ul>
 			<p>Per <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.leg.wa.gov%2FRCW%2Fdefault.aspx%3Fcite%3D70A.02.010&data=05%7C01%7Clea-anne.burke%40psp.wa.gov%7C1d86ba148c604c448ab408db53130195%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638195113315120507%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b6pK6Z8jtPz0cfn1Mk84UsvwC4qs5Zzs23%2B8UqxSKhw%3D&reserved=0" target="_blank">RCW 70A.02.010 (12)</a> (e) and <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060">RCW 70A.02.060</a></p>
 			<ul class="bullet-size-fix">
-				<li>Development of the 2025-2028 Science Work Plan</li>
-				<li>Development of the 2026-2030 Action  Agenda</li>
+				<li><a href="/science-workplan.php">The Puget Sound Partnership Science Work Plan, 2025-2028 and beyond</a></li>
+				<li><a href="/2022AAupdate.php">The Action Agenda for Puget Sound, 2026-2030 and beyond</a></li>
 			</ul>
 			<h2>Environmental Justice Assessment</h2>
-			<p>You can view the Puget Sound Partnership Enivronmental Justice Assessment Policy below or <a href="#">click here to download</a></p>
-			<iframe src="https://pspwa.app.box.com/embed/s/hks6d5o8aeyoyuj36q0iedkdiluengrk?sortColumn=date" width="600" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen>
+			<p>You can view the Puget Sound Partnership Enivronmental Justice Assessment Policy below or <a href="https://pspwa.box.com/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r" target="new">click here to download</a></p>
+			<iframe src="https://pspwa.app.box.com/embed/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r?sortColumn=date" width="600" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen>
 			<p>&nbsp;</p>
 			<p>&nbsp;</p>
 			</iframe>
+			<h2>Environmental Justice Assessment of Significant Agency Actions: Checklist</h2>
+			<p>The environmental justice assessment obligation of a covered agency for a significant agency action is satisfied by the completion of a checklist developed by the covered agency pursuant to chapter <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>. This checklist should enable the Partnership to advance our goals of reducing environmental harms, identifying and reducing environmental and health disparities, and improving the distribution of environmental benefits. </p><br>
+			<table class="table-responsive table-condensed table-bordered">
+				<tbody>
+					<tr>
+						<td><p class="psemp-mar-font">Primary agency staff contact(s)</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Secondary contact(s)</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Program/department</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Description of proposed significant agency action</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Date environmental justice assessment was initiated</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Date environmental justice assessment was completed</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Type of significant agency action (check one)</p></td>
+						<td><p class="psemp-mar-font">&#9633; &nbsp;The development and adoption of significant legislative rules as defined in <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=34.05.328" target="new">RCW 34.05.328</a></p><p class="psemp-mar-font">&#9633; &nbsp; The development and adoption of any new grant or loan program that a covered agency is explicitly authorized or required by statute to carry out</p><p class="psemp-mar-font">&#9633; &nbsp; A capital project, grant, or loan award by a covered agency of at least $12,000,000 or a transportation project, grant, or loan by a covered agency of at least $15,000,000</p><p class="psemp-mar-font">&#9633; &nbsp; The submission of agency request legislation to the office of the governor or the office of financial management for approval</p><p class="psemp-mar-font">&#9633; &nbsp; Any other agency actions deemed significant by a covered agency consistent with <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>, if so, please name: </p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Link(s) to initial notification with Office of Financial Management and/or other postings</p></td>
+						<td><p></p></td>
+					</tr>
+				</tbody>
+			</table>
 			<h2>Public Comment Period</h2>
 			<p>A public comment period was conducted through June 15, 2023. We invite you to reach out to us at any time. We will use input to help inform decisions on  conducting assessments and how we communicate and engage.</p>
-			<p>Submit written comments to Melissa Schutten, Equity and Environmental Justice Manager at:  melissa.schutten@psp.wa.gov </p>
-			<p>A summary of comments and Partnership responses can be found <a href="#">here</a></p>
+			<p>Submit written comments to Melissa Schutten, Equity and Environmental Justice Manager at:  <a href="mailto:melissa.schutten@psp.wa.gov">melissa.schutten@psp.wa.gov</a> </p>
+			<p>A summary of comments and Partnership responses can be found <a href="https://pspwa.box.com/s/eswkd2n9fzidezijehkw7adjgaek3vdt" target="new">here</a></p>
 			<br>
 		<br>
 			
-<p class="last-update">Last updated: 6/29/23</p>
+<p class="last-update">Last updated: 6/30/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
@@ -132,7 +170,13 @@ navSelected = 4;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="#">Significant Agency Actions Public Comments 6/165/2023</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/opvxtgejbsbatajkhwl4k5y2006mmkmd" target="new">Puget Sound Partnership Significant Agency Actions</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/ag3l6o85qjhfmrgbecsxufvhi4g6m3e0" target="new">Environmental Justice Assessment of Significant Agency Actions: Checklist</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/7dm19iz5lt6rvdhmz7zqxci7boddv969" target="new">Process to Identify Overburdened Communities and Vulnerable Populations</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/eswkd2n9fzidezijehkw7adjgaek3vdt" target="new">Significant Agency Actions Public Comments June 2023</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/8awrzq9xpg8u8smlwy9zc88j9v8g8o21" target="new">HEAL Act Key Terms, Definitions, and Acronyms</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/3f1865sjd28i5hp23i6s2pxwcw52akpn" target="new">Puget Sound Partnership Equity Guidebook</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/hi1eto2c08t7uvqkf7oej2l1xgkevyoz" target="new">Washington State Environmental Justice Task Force Report</a></li>
 		
 				<!-- InstanceEndEditable -->
 			</ul>

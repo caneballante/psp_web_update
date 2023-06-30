@@ -14,7 +14,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - HEAL Budgets and Funding Policy</title>
+<title>Puget Sound Partnership - HEAL Budget and Funding Policy</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -60,7 +60,7 @@ navSelected = 5;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>HEAL Budgets and Funding Policy</h1>
+			<h1>HEAL Budget and Funding Policy</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -96,19 +96,16 @@ navSelected = 5;
 				<li>Considering a broad scope</li>
 				<li>Establishing a goal of 40 percent</li>
 			</ul>
-			<p align="center">You can view the Puget Sound Partnership HEAL Budget and Funding Policy below or <a href="#">click here to download</a></p>
+			<p align="left">You can view the Puget Sound Partnership HEAL Budget and Funding Policy below or <a href="https://pspwa.box.com/s/38wgbs8o3x8ordfry8ospgp025fdbzau" target="new">click here to download</a></p>
 			<p><iframe src="https://pspwa.app.box.com/embed/s/38wgbs8o3x8ordfry8ospgp025fdbzau?sortColumn=date" width="600" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></p>
 			
-			<h2>The HEAL Act</h2>
-			<p>The passage of the Healthy  Environment for All (HEAL) Act in 2021 is a historic step toward eliminating  environmental health disparities and more equitably distributing health and environmental  benefits among communities of color and low-income households.&nbsp;<strong>It is  the first law in Washington to create a coordinated state agency approach to  environmental justice.</strong></p>
-			<p>The law covers seven  state agencies: the Puget Sound Partnership, and the Washington State  departments of Health, Agriculture, Commerce, Ecology, Natural Resources, and  Transportation. It allows other agencies to opt in.</p>
-			<p> more information  and continued updates on HEAL Act implementation, see the Partnership&rsquo;s  <a href="https://psp.wa.gov/HEAL.php">HEAL  Act webpage</a>.<br>
 			
-<p class="last-update">Last updated: 6/29/23</p>
+			
+<p class="last-update">Last updated: 6/30/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
@@ -120,7 +117,14 @@ navSelected = 5;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="#">Significant Agency Actions Public Comments 6/165/2023</a></li>
+				
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/8awrzq9xpg8u8smlwy9zc88j9v8g8o21" target="new">HEAL Act Key Terms, Definitions, and Acronyms</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/7dm19iz5lt6rvdhmz7zqxci7boddv969" target="new">Process to Identify Overburdened Communities and Vulnerable Populations</a></li>
+				
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/wiuuo30y2l9q2ued6yxo0wdv4m5ohbl2" target="new">HEAL Act Decision Packet Budget Request Timeline Example</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/h56it0q6vigb08w2tyq8tnokm404bwgq" target="new">HEAL Act 2022-2023 Work Planning Guidance</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/3f1865sjd28i5hp23i6s2pxwcw52akpn" target="new">Puget Sound Partnership Equity Guidebook</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/hi1eto2c08t7uvqkf7oej2l1xgkevyoz" target="new">Washington State Environmental Justice Task Force Report</a></li>
 		
 				<!-- InstanceEndEditable -->
 			</ul>
