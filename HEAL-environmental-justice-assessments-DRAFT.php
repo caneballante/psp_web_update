@@ -111,6 +111,42 @@ navSelected = 4;
 			</iframe>
 			<h2>Environmental Justice Assessment of Significant Agency Actions: Checklist</h2>
 			<p>The environmental justice assessment obligation of a covered agency for a significant agency action is satisfied by the completion of a checklist developed by the covered agency pursuant to chapter <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>. This checklist should enable the Partnership to advance our goals of reducing environmental harms, identifying and reducing environmental and health disparities, and improving the distribution of environmental benefits. </p>
+			<table class="table-responsive table-condensed table-bordered">
+				<tbody>
+					<tr>
+						<td><p>Primary agency staff contact(s)</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p>Secondary contact(s)</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p>Program/department</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p>Description of proposed significant agency action</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p>Date environmental justice assessment was initiated</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p>Date environmental justice assessment was completed</p></td>
+						<td><p></p></td>
+					</tr>
+					<tr>
+						<td><p>Type of significant agency action (check one)</p></td>
+						<td><p>&#9633; &nbsp;The development and adoption of significant legislative rules as defined in <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=34.05.328" target="new">RCW 34.05.328</a></p><p>&#9633; &nbsp; The development and adoption of any new grant or loan program that a covered agency is explicitly authorized or required by statute to carry out</p><p>&#9633; &nbsp; A capital project, grant, or loan award by a covered agency of at least $12,000,000 or a transportation project, grant, or loan by a covered agency of at least $15,000,000</p></td>
+					</tr>
+					<tr>
+						<td><p>Link(s) to initial notification with Office of Financial Management and/or other postings</p></td>
+						<td><p></p></td>
+					</tr>
+				</tbody>
+			</table>
 			<h2>Public Comment Period</h2>
 			<p>A public comment period was conducted through June 15, 2023. We invite you to reach out to us at any time. We will use input to help inform decisions on  conducting assessments and how we communicate and engage.</p>
 			<p>Submit written comments to Melissa Schutten, Equity and Environmental Justice Manager at:  <a href="mailto:melissa.schutten@psp.wa.gov">melissa.schutten@psp.wa.gov</a> </p>
