@@ -154,7 +154,7 @@
 					<td>253-798-6158</td>
 					<td><a class="small-links" href="mailto:lisa.spurrier@piercecountywa.gov">lisa.spurrier@piercecountywa.gov</a></td>
 					<td><a href="https://pspwa.box.com/s/j5c8npetvj5eiiupe0ta0pril9h7qnbd">2005 PuyallupWhite Chapter</a></td>
-					<td><a href="https://pspwa.box.com/s/58selnw1izg9s0p419pq10nmcyjks2im">2018 Puyallup Chambers Chapter</a></td>
+					<td><a href="https://pspwa.box.com/s/58selnw1izg9s0p419pq10nmcyjks2im">2018 Puyallup White Chambers Clover Chapter</a></td>
 				</tr>
 				<tr>
 					<td>San Juan </td>
