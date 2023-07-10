@@ -107,43 +107,78 @@ navSelected = 4;
 			<p>&nbsp;</p>
 			</iframe>
 			<h2>Environmental Justice Assessment of Significant Agency Actions: Checklist</h2>
-			<p>The environmental justice assessment obligation of a covered agency for a significant agency action is satisfied by the completion of a checklist developed by the covered agency pursuant to chapter <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>. This checklist should enable the Partnership to advance our goals of reducing environmental harms, identifying and reducing environmental and health disparities, and improving the distribution of environmental benefits. </p><br>
-			<table class="table-responsive table-condensed table-bordered">
-				<tbody>
-					<tr>
-						<td><p class="psemp-mar-font">Primary agency staff contact(s)</p></td>
-						<td><p></p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Secondary contact(s)</p></td>
-						<td><p></p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Program/department</p></td>
-						<td><p></p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Description of proposed significant agency action</p></td>
-						<td><p></p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Date environmental justice assessment was initiated</p></td>
-						<td><p></p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Date environmental justice assessment was completed</p></td>
-						<td><p></p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Type of significant agency action (check one)</p></td>
-						<td><p class="psemp-mar-font">&#9633; &nbsp;The development and adoption of significant legislative rules as defined in <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=34.05.328" target="new">RCW 34.05.328</a></p><p class="psemp-mar-font">&#9633; &nbsp; The development and adoption of any new grant or loan program that a covered agency is explicitly authorized or required by statute to carry out</p><p class="psemp-mar-font">&#9633; &nbsp; A capital project, grant, or loan award by a covered agency of at least $12,000,000 or a transportation project, grant, or loan by a covered agency of at least $15,000,000</p><p class="psemp-mar-font">&#9633; &nbsp; The submission of agency request legislation to the office of the governor or the office of financial management for approval</p><p class="psemp-mar-font">&#9633; &nbsp; Any other agency actions deemed significant by a covered agency consistent with <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>, if so, please name: </p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Link(s) to initial notification with Office of Financial Management and/or other postings</p></td>
-						<td><p></p></td>
-					</tr>
-				</tbody>
-			</table>
+			<p>The environmental justice assessment obligation of a covered agency for a significant agency action is satisfied by the completion of a checklist developed by the covered agency pursuant to chapter <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>. This checklist should enable the Partnership to advance our goals of reducing environmental harms, identifying and reducing environmental and health disparities, and improving the distribution of environmental benefits. </p>
+			
+			<h3>Step 1: Describe the Significant Agency Action (SAA)</h3>
+			<ol>
+				<li><p class="psemp-mar-font">Describe the SAA and any specific geographic areas the action will take place.</p></li>
+				<li><p class="psemp-mar-font">Describe the projected environmental exposures that may result from the SAA.</p></li>
+				<li><p class="psemp-mar-font">Using cumulative health impact analysis tools:</p></li>
+					<ul class="bullet-size-fix">
+					<li><p class="psemp-mar-font">Identify Vulnerable Populations (VPs), Overburdened Communities (OBCs) and Tribes that may be impacted within the geographic area of the SAA.</p></li>
+					<li><p class="psemp-mar-font">Identify any existing environmental exposures and environmental health impacts (risks of health outcomes from environmental exposures) of OBCs within the action area.</p></li>
+					</ul>
+			</ol>
+			
+			<h3>STEP 2: Engage Impacted Communities</h3>
+			
+			<ol>
+				<li><p class="psemp-mar-font">Describe any community engagement with impacted OBCs and tribes regarding the SAA to date and any plans for ongoing community engagement.</p></li>
+				<li><p class="psemp-mar-font">Describe the socioeconomic conditions of OBCs and tribes as identified through a cumulative health impact analysis tool and with input from impacts communities.</p></li>
+				<li><p class="psemp-mar-font">Describe the input and priorities that OBCs and tribes shared in response to projected environmental exposures.</p></li>
+					
+			</ol>
+			
+			<h3>STEP 3: Identify Environmental Harms</h3>
+			
+			<ol>
+				<li><p class="psemp-mar-font">Describe the potential intended or unintended environmental harms (projected environmental health impacts) of the proposed action? Describe where these will take place.</p></li>
+				<li><p class="psemp-mar-font">Describe the potential environmental health impacts that OBCs identified as a result of the projected environmental exposures.</p></li>
+				<li><p class="psemp-mar-font">Describe the input and priorities that OBCs shared in response to the identification of environmental harms and environmental benefits, or the combined environmental impacts.</p></li>
+					
+			</ol>
+			
+			<h3>Step 4: Plan for Tribal Consultation</h3>
+			<ol>
+				<li><p class="psemp-mar-font">Collate the information specific to Tribes collected in steps 1-3.</p></li>
+				<li><p class="psemp-mar-font">In coordination with the Tribal Affairs Manager:</p></li>
+					<ul class="bullet-size-fix">
+					<li><p class="psemp-mar-font">Describe the impacts to local or regional tribal rights and resources.</p></li>
+					<li><p class="psemp-mar-font">Describe plans for ongoing tribal engagement.</p></li>
+					<li><p class="psemp-mar-font">Summarize the Tribal Consultation plan for the SAA.</p></li>
+					</ul>
+			</ol>
+			
+			<h3>STEP 5: Identify Environmental Benefits</h3>
+			
+			<ol>
+				<li><p class="psemp-mar-font">Describe all community identified needs related to the SAA and if or how these community identified needs may be met by the SAA.</p></li>
+				<li><p class="psemp-mar-font">Describe the potential intended/unintended environmental benefits of the proposed action.</p></li>
+				<li><p class="psemp-mar-font">Identify which of the following strategies will be pursued to eliminate, reduce, or mitigate environmental harms (check all that apply) and summarize the implementation plan to do so:</p></li>
+					<ul class="bullet-size-fix">
+					<li><p class="psemp-mar-font">Eliminating the disparate impact of environmental harms to OBCs;</p></li>
+					<li><p class="psemp-mar-font">Reducing cumulative environmental health impacts on OBCs;</p></li>
+					<li><p class="psemp-mar-font">Preventing the action from adding to the cumulative environmental health impacts on OBCs;</p></li>
+					<li><p class="psemp-mar-font">Providing equitable participation and meaningful engagement of OBCs;</p></li>
+					<li><p class="psemp-mar-font">Prioritizing equitable distribution of resources and benefits to OBCs;</p></li>
+					<li><p class="psemp-mar-font">Promoting positive workforce and job outcomes for OBCs;</p></li>
+					<li><p class="psemp-mar-font">Meeting community needs identified by the affected OBCs;</p></li>
+					<li><p class="psemp-mar-font">Modifying substantive policy requirements; and</p></li>
+					<li><p class="psemp-mar-font">Any other mitigation techniques, including those suggested by the Environmental Justice Council, the Office of Equity, or representatives of OBCs</p></li>
+					<li><p class="psemp-mar-font">Do not proceed</p></li>
+					</ul>
+					
+			</ol>
+			
+			<h3>STEP 6: Equitably Distribute Environmental Health Impacts</h3>
+			
+			<ol>
+				<li><p class="psemp-mar-font">Describe how any environmental benefits will be equitably distributed and the resulting cumulative impacts of the proposed action.</p></li>
+				<li><p class="psemp-mar-font">If the agency determines that it does not have the ability or authority to fully eliminate, reduce, or mitigate environmental harms caused by the significant agency action, or does not address the equitable distribution of environmental benefits, provide a justification for not doing so.</p></li>
+			
+					
+			</ol>
+			
 			<h2>Public Comment Period</h2>
 			<p>A public comment period was conducted through June 15, 2023. We invite you to reach out to us at any time. We will use input to help inform decisions on  conducting assessments and how we communicate and engage.</p>
 			<p>Submit written comments to Melissa Schutten, Equity and Environmental Justice Manager at:  <a href="mailto:melissa.schutten@psp.wa.gov">melissa.schutten@psp.wa.gov</a> </p>
