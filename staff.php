@@ -300,7 +300,7 @@
 							360.819.6429 | <a href="mailto:nicole.neilson@psp.wa.gov">nicole.neilson@psp.wa.gov</a>						
 						</p>
 			
-						<h5>Jacob Hovde</h5>
+						<h5>VACANT</h5>
 						<p>Administrative Assistant<br />
 							</p>
 						
