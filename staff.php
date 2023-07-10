@@ -300,9 +300,9 @@
 							360.819.6429 | <a href="mailto:nicole.neilson@psp.wa.gov">nicole.neilson@psp.wa.gov</a>						
 						</p>
 			
-						<h5>VACANT</h5>
+						<h5>Jacob Hovde</h5>
 						<p>Administrative Assistant<br />
-						</p>
+							</p>
 						
 						<!--EPA PROGRAM-->
 						<h3 class="padding-10-top">EPA PROGRAM</h3>
@@ -347,7 +347,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 6/23/23</p>
+	<p class="last-update">Last updated: 7/10/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
