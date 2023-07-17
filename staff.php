@@ -215,7 +215,7 @@
 						<p>Ecosystem Recovery Coordinator<br>
 							</p>
 			
-						<h5>Laura (Ferguson) Rivas</h5>
+						<h5>Laura Rivas</h5>
 						<p>Ecosystem Recovery Manager<br>
 							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
 						<h5>Hannah Liss</h5>
@@ -347,7 +347,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 7/10/23</p>
+	<p class="last-update">Last updated: 7/17/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
