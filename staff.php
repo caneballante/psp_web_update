@@ -300,9 +300,9 @@
 							360.819.6429 | <a href="mailto:nicole.neilson@psp.wa.gov">nicole.neilson@psp.wa.gov</a>						
 						</p>
 			
-						<h5>VACANT</h5>
+						<h5>Jacob Hovde</h5>
 						<p>Administrative Assistant<br />
-							</p>
+							360.867.8647 | <a href="mailto:jacob.hovde@psp.wa.gov">jacob.hovde@psp.wa.gov</a></p>
 						
 						<!--EPA PROGRAM-->
 						<h3 class="padding-10-top">EPA PROGRAM</h3>
