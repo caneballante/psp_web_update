@@ -75,6 +75,8 @@
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
+			<div class="highlightbox margin-0-top margin-20-bottom"><p>Per <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.010" target="new">RCW 70A.02.010 (12)(c)</a>, the Puget Sound Partnership is providing public notice of the initiation of a significant agency action with the upcoming 2025-2027 Puget Sound Acquisition and Restoration fund request for proposals development.</p></div>
+			
 			<div class="container-fluid margin-0-top">
 				<div class="row">
 				<div class="col-lg-4"><p><a href="https://pspwa.box.com/s/ckw368t070rmlcdl182999fnbi0dtun2" target="new">2023-2025 PSAR Large Capital Project ranked list and project factsheets</a></p></div>
