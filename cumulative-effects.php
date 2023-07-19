@@ -89,9 +89,14 @@
 			
 			<p><a href="https://pspwa.box.com/s/ibkth6a0xi8sw8hd0vodrd17cru8tafx" target="new">Webinar</a> and <a href="https://pspwa.box.com/s/6ipmc7z3zkyr3i3yt1jzo8ylu6uhurcc" target="new">presentation</a> on the Whidbey basin evaluation of cumulative effects. This webinar presents the recent progress on the development of a cumulative effects evaluation in Whidbey basin and provides an overview of study implementation to occur over the next two to three years.</p> 
 			
-			<p><a href="https://pspwa.box.com/s/7m3b28gmczaheehc1jopjeb9i4n81dqi" target="new">Evaluating the cumulative effects of Puget Sound recovery</a>. Presentation to the Puget Sound Science Panel, December 2021, introducing cumulative effects and provides an overview of a Puget Sound case study.</p>
-			
-			<p><a href="https://pspwa.box.com/s/ifskd6ldxss0p9zkykb2wjq2mlg14g0m" target="new">Cumulative Effects of Puget Sound Recovery Actions: Methodology and Design for a Case Study of Juvenile Salmonids and Nearshore Habitats in Whidbey Basin</a>. Preliminary design proposal for a case study applying cumulative effects evaluation to restoration of nearshore habitats in the Whidbey basin.</p>
+			<p><a href="https://pspwa.box.com/s/7m3b28gmczaheehc1jopjeb9i4n81dqi" target="new">Evaluating the cumulative effects of Puget Sound recovery</a>. Presentation to the Puget Sound			</p>
+			<p>Science Panel, December 2021, introducing cumulative effects and provides an overview of a Puget Sound case study.</p>
+			<p><a href="https://pspwa.box.com/s/ifskd6ldxss0p9zkykb2wjq2mlg14g0m" target="new">Cumulative Effects of Puget Sound Recovery Actions: Methodology and Design for a Case Study of Juvenile Salmonids and Nearshore Habitats in Whidbey Basin</a>. </p>
+			<div class="floatright-block blue-outline-5px padding-10-all margin-10-left"><img src="https://pspwa.box.com/shared/static/oozt7kzi0jf4r16kqqb4g8kcbr16hydk.jpg" width="250" height="250" alt=""/><br>
+			  <p> <a href="https://pspwa.box.com/s/aygnbxy9cqeg58z7cthk5izy6c1crz75" target="new">Fact sheet</a><br>
+		      </p>
+	    </div>
+			<p>Preliminary design proposal for a case study applying cumulative effects evaluation to restoration of nearshore habitats in the Whidbey basin.</p>
 			
 			<p><a href="https://pspwa.box.com/s/ho176jksm2npelz1afxsy4hx5z8qmngw" target="new">Guidance for Evaluation of Cumulative Effects of Puget Sound Recovery Actions</a>. General guidance document for practical application of a cumulative effects evaluation methodology in Puget Sound.</p>
 			
