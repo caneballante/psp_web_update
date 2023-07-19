@@ -79,8 +79,12 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<h2 class="margin-0-top">Executive Management Team</h2>
-			<p>The Executive Management Team is responsible for the strategic leadership and management oversight of the Puget Sound Partnership. The Executive Management Team includes the Executive Director, Deputy Director, and Director of Administrative Services. </p>
-			<h2 class="margin-0-top">EXTERNAL OPERATIONS</h2>
+			<p>The Executive Management Team is responsible for the strategic leadership and management oversight of the Puget Sound Partnership. The Executive Management Team includes the Executive Director, Executive Assistant, Deputy Director, Special Assistant to the Director, Legislative Policy Director, Special Assistant for Federal Affairs, Equity and Environmental Justice Manager, and Chief Operating Officer. </p>
+			
+			<h2>Equity and Environmental Justice Program</h2>
+			<p>The Equity and Environmental Justice (EEJ) Program was established in 2021 to effectively implement and support equity and environmental justice across and in partnership with communities, Tribes, agencies, and in Puget Sound recovery efforts. As part of the Partnership’s multi-benefit approach to Puget Sound recovery, the Partnership recognizes and strives to undo environmental racism and injustice within the Puget Sound region. The EEJ Program cultivates accountability, build relationships, advances education, and guides and advises on plans, policies, and actions within the Partnership and across the Puget Sound recovery network.</p>
+			
+			<h2>EXTERNAL OPERATIONS</h2>
 			<p>The External Operations Division consists of the Boards, Communications, Integrated Planning, and Science and Evaluation programs. </p>
 		
 			<h2 class="padding-20-left">ADAPTIVE SYSTEMS AND ACCOUNTABILITY PROGRAM</h2>
