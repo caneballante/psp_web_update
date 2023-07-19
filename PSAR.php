@@ -75,7 +75,8 @@
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><p>Per <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.010" target="new">RCW 70A.02.010 (12)(c)</a>, the Puget Sound Partnership is providing public notice of the initiation of a significant agency action with the upcoming 2025-2027 Puget Sound Acquisition and Restoration fund request for proposals development.</p></div>
+			<div class="highlightbox margin-0-top margin-20-bottom">
+			  <p>Per <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.010" target="new">RCW 70A.02.010 (12)(c)</a>, the Puget Sound Partnership is providing public notice of the initiation of a significant agency action with the upcoming 2025-2027 Puget Sound Acquisition and Restoration fund request for proposals development. The draft RFP will be available August 1, 2023 and the public comment period will run from August 1, 2023 to September 15, 2023. The environmental justice assessment and final list of public comments will be added at a later date. Any questions can be directed to PSAR Manager Marlies Wierenga at <a href=mailto:"Marlies.Wierenga@psp.wa.gov">Marlies.Wierenga@psp.wa.gov</a</p></div>
 			
 			<div class="container-fluid margin-0-top">
 				<div class="row">
