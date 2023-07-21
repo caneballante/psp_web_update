@@ -73,16 +73,11 @@
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 			
 			<div class="highlightbox"><p>See what our staff are saying about <a href="https://pspwa.box.com/s/m1fe7kf9ivl12ig0s2dx3ecvqzems869" target="new">what it's like to work at the Partnership!</a></p></div><br><br>
+			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4132051/social-sciences-coordinator-exempt" target="new">Social Sciences Coordinator (Exempt)</a></p>
+			
+			<p>The Partnership’s Social Sciences Coordinator leads the coordination of the agency’s efforts in social sciences supporting Puget Sound ecosystem recovery. The annual range of compensation is between $88,481 - $95,117. The funding for this position is scheduled to end on June 30. 2025. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Agency employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits, the details of the position, and to apply, visit the link above. The recruitment will close on August 6, 2023</p>
 		
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/3972042/administrative-assistant-3-wgs" target="new">Administrative Assistant 3 (WGS)</a></p>
-			
-			<p>The Partnership is hiring for a permanent full-time Administrative Assistant 3 position. This Washington General Service position assists in scheduling meetings and events, preparing board materials, processing of postal mail, and travel logistics for our staff and board members. The annual range of compensation is between $38,952.00 - $51,888 (Range 40). Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the link above. Civil service rules apply for this unrepresented position and the recruitment will close on May 21, 2023.</p>
-			
-			<br>
-			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4029777/environmental-planner-ems-1" target="new">Environmental Planner (EMS 1)</a></p>
-			
-			<p>The Partnership is hiring for a permanent full-time Environmental Planner position. This position leads key aspects of major planning and policy initiatives, particularly as related to the Puget Sound Action Agenda, by working across agency programs and with diverse partners (tribal, state, federal, local, non-governmental organizations, and business). The annual range of compensation is between $77,772-$85,078. Partnership employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the link above. The recruitment will close on May 18, 2023. </p>
 				
 			<br>
 			
@@ -109,7 +104,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 5/26/23</p>
+		<p class="last-update">Last updated: 7/21/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
