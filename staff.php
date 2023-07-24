@@ -277,9 +277,7 @@
 						<h5>Megan Wilson</h5>
 						<p>Salmon Monitoring Data Steward<br>
 							360.522.0546 | <a href="mailto:megan.wilson@psp.wa.gov">megan.wilson@psp.wa.gov</a></p>
-						<h5>Kate Loy</h5>
-						<p>Hershman Fellow<br>
-							360.789.3324 | <a href="mailto:kate.loy@psp.wa.gov">kate.loy@psp.wa.gov</a></p>
+						
 						
 
 						<!--INTERNAL OPERATIONS-->
@@ -347,7 +345,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 7/17/23</p>
+	<p class="last-update">Last updated: 7/24/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
