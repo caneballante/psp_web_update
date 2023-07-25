@@ -97,9 +97,6 @@
 						<p>Tribal Affairs Manager<br>
 						360.628.7532 | <a href="mailto:lea-anne.burke@psp.wa.gov">lea-anne.burke@psp.wa.gov</a></p>
 			
-						<h5>Stephanie Sayo</h5>
-						<p>Environmental Justice Coordinator<br>
-						360.972.4054 | <a href="mailto:stephanie.sayo@psp.wa.gov">stephanie.sayo@psp.wa.gov</a></p>
 			
 						<h5>Jackelyn Garcia</h5>
 						<p>Equity Fellow<br>
