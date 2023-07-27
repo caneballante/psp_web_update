@@ -78,8 +78,7 @@
 To support shared learning and collaboration among partners and across projects, the Partnership has developed two taxonomies describing the <u>sources of pressure </u>and related <u>stressors</u> on the Puget Sound ecosystem. </p>
 		<p>In 2014 the Puget Sound Partnership finished the first PSPA evaluation using a methodology developed by advisors from the Partnership Science Panel. The 2014 PSPA involved a systematic, expert-based evaluation of the potential effects of stressors identified in the PSPA on identified ecosystem endpoints, such as habitats, species, or ecological processes.</p>
 		<p>Results and more information are available at the project web site: &nbsp; <a href="https://pspwa.box.com/s/xs5djj16vm4foq5xe2e1lmg3oz42eetk">Puget Sound Pressures Assessment</a></p>
-<p>&nbsp;</p>
-</p>
+<p class="last-update">Last updated: 07/27/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -105,8 +104,8 @@ To support shared learning and collaboration among partners and across projects,
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcmVzc3VyZWFzc2Vzc21lbnR8Z3g6MzgyYjQyNGFkOWQ4NDY0MQ">2014 PSPA Final Report</a></li>
-					<li><a href="https://sites.google.com/site/pressureassessment/documents/PSPA%20MethodologyTech%20Memo%20Labiosa%20et%20al%202014%20FINAL.pdf?attredirects=0&d=1">2014 PSPA Methodology Tech Memo</a></li>
+					<li><a href="https://pspwa.box.com/shared/static/53c3sbeffxw9w22puf3qk8y12komiu4d.pdf">2014 PSPA Final Report</a></li>
+					<li><a href="https://pspwa.box.com/shared/static/wtvxwi9qz77sb3w2vnag60876izi0hek.docx">2014 PSPA Methodology Tech Memo</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
