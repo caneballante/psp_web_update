@@ -74,16 +74,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class=highlightbox><p>The Partnership's Leadership Council is seeking nominations for the Partnership's Science Panel, which influences science-based policy for the protection and recovery of Puget Sound. More information about <a href="https://pspwa.box.com/s/aveov75utk5effd1t1vlv5yrwk0o4gwm" target="new">the Science Panel and the nomination process can be found here.</a> Nominations are due by July 5. Please contact Anna Petersen (<a href="mailto:anna.petersen@psp.wa.gov">anna.petersen@psp.wa.gov</a>) with questions.</p></div><br>
 			
-			<div class="highlightbox"><p>The Partnership's Leadership Council is seeking nominations for two vacancies on the Ecosystem Coordination Board, which advises the Leadership Council on carrying out its responsibilities. More info about the vacancies:</p>
-				<ul class="bullet-size-fix">
-				<li><a href="https://pspwa.box.com/s/18twpj2k2c9tnee7t1h9tdgw7psuvdzp" target="new">South Puget Sound Action Area representative</a></li>
-<li><a href="https://pspwa.box.com/s/w7yisq80px6a0jtjru5z2y5ad45xl7ry" target="new">Environmental Interest representative</a></li>
-				</ul>
-<p>Applications are due by 5:00 p.m. on May 23. Please contact Anna Petersen (<a href="mailto:anna.petersen@psp.wa.gov">anna.petersen@psp.wa.gov</a>) with questions.</p>
-			
-			</div>
             
 			<p><strong>Overview</strong></p>
             <p>The Puget Sound Partnership&rsquo;s boards support and guide the agency in its charge of mobilizing and accelerating the science-based effort to protect and restore Puget Sound.  They consist of:  <br>
@@ -104,7 +95,7 @@
 				<br>
 			</p>
 			
-			<p class="last-update">Last updated: 05/16/23</p>
+			<p class="last-update">Last updated: 07/28/23</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
