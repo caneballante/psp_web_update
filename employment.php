@@ -74,6 +74,10 @@
 			
 			<div class="highlightbox"><p>See what our staff are saying about <a href="https://pspwa.box.com/s/m1fe7kf9ivl12ig0s2dx3ecvqzems869" target="new">what it's like to work at the Partnership!</a></p></div><br><br>
 			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4138464/funding-barrier-strategist-exempt" target="new">Funding Barrier Strategist (Exempt)</a></p>
+			
+			<p>The Funding Barrier Strategist is part of the Partnership’s new Strategic Funding Team and will collaborate with tribes, and local, regional, state, and federal partners on addressing funding gaps and barriers that will support getting the lines of work determined, projects designed, additional funding secured for the implementation of the Action Agenda. The annual range of compensation is between $67,380.00 - $88,416.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the link above. The recruitment will close on August 15, 2023.</p><br>
+			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4132626/community-engagement-coordinator-exempt" target="new">Community Engagement Coordinator (Exempt)</a></p>
 			
 			<p>The Partnership's Community Engagement Coordinator will collaborate on and build environmental justice plans and work directly with community-based organizations and overburdened communities to enhance community engagement and environmental justice across the Puget Sound recovery network. A combination of education, professional experience, and lived experience that includes public policy, social justice, and environmental or natural resource management is required. The annual range of compensation is between $77,421 - $82,683. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Agency employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits, the details of the position, and to apply, visit the link above. The recruitment will close on August 15, 2023</p><br>
@@ -108,7 +112,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 7/26/23</p>
+		<p class="last-update">Last updated: 8/2/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
