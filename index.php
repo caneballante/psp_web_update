@@ -275,9 +275,9 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 						<!--news content -->
-					<div class="newsbox-date">JUL<br>
-						19-20</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
+					<div class="newsbox-date">SEP<br>
+						12-13</div>
+					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
 						<br>
 						</a><br>
 					</div>
@@ -289,8 +289,8 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">JUL<br>
-						27</div>
+					<div class="newsbox-date">SEP<br>
+						28</div>
 					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
 						<br>
 						</a><br>
@@ -303,9 +303,9 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">AUG<br>
-						9</div>
-					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
+					<div class="newsbox-date">OCT<br>
+						11-12</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
 						<br>
 						</a><br>
 					</div>
@@ -317,9 +317,9 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">SEP<br>
-						12-13</div>
-					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
+					<div class="newsbox-date">OCT<br>
+						26</div>
+					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
 						<br>
 						</a><br>
 					</div>
