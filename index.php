@@ -157,7 +157,19 @@
 		<!--copy column to column to create new blog post--> 
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
-			<!--COLUMN START-->
+			 <!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						  <!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/PSAR.jpg"  alt="HEAL Act - "/> <strong>PUBLIC COMMENT PERIOD</strong><br>
+						<a href="https://www.psp.wa.gov/PSAR.php">The 2025-2027 PSAR RFP is out for public comment until September 14, 2023 </a><br>
+						<!--END news content BOX-->   
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END--> <!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -170,19 +182,7 @@
 				</div>
 			</div>
 			<!--COLUMN END--> 
-            <!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						  <!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/sig-actions.jpg"  alt="HEAL Act - "/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="https://www.psp.wa.gov/HEAL-environmental-justice-assessments.php">Partnership's HEAL Act Significant Agency Actions and Environmental Justice assessment policy completed.</a><br>
-						<!--END news content BOX-->   
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END--> 
+           
       
        
 	
