@@ -80,11 +80,11 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-			<h2 class="margin-0-top">Federal action</h2>
+			<h2 class="margin-0-top">The Partnership's In-Lieu Fee Program</h2>
 			
-			<h3>What's being done to slow the loss of nearshore habitat in Puget Sound?</h3>
+			<h3>How does the Partnership's Nearshore Conservation Credits program work?</h3>
 						
-			<p>NOAA Fisheries, the U.S. Fish and Wildlife Service, and the U.S. Army Corps of Engineers created the <a href="https://media.fisheries.noaa.gov/2022-06/2022-06-29-ssnp-wcro-2019-04086.pdf" target="new">Salish Sea Nearshore Programmatic (SSNP)</a>. The SSNP requires that infrastructure and maintenance projects in the Puget Sound nearshore completely counterbalance their ecological impacts (as quantified by the <a href="https://www.fisheries.noaa.gov/resource/tool-app/puget-sound-nearshore-conservation-calculator" target="new">Puget Sound Nearshore Habitat Conservation Calculator</a>) with equivalent ecological offsets.</p>
+			<p>The Puget Sound Partnership Nearshore Credits Program is an In-Lieu Fee (ILF) program. We sell conservation credits to help federal permit applicants meet obligations to offset adverse impacts to important nearshore habitat. An ILF program allows a permittee to pay a fee to a third party instead of conducting mitigation themselves. This is similar to paying a fee to a conservation bank. However, while a bank constructs mitigation prior to impacts, an ILF program constructs the mitigation after sufficient funds from different permittees have been collected. The Puget Sound Partnership uses funds from those credit sales to carry out equivalent conservation projects as soon as possible and within a maximum of six years. We aggregate funds from credit purchases, select nearshore conservation projects to generate credits, track their progress, and report on those projects.</p>
 			
 			<p>After working with NOAA Fisheries, the U.S. Fish and Wildlife Service, and the U.S. Army Corps of Engineers to avoid and minimize habitat impacts, permit applicants may offset impacts with either on-site or off-site conservation. Applicants may choose to purchase conservation credits through an authorized credit provider like the <a href="/pspnc-credits.php">Partnership Nearshore Credits program.</a> All off-site conservation must take place in the same marine service area as the impacting site.</p>
 			
