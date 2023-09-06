@@ -125,6 +125,25 @@
 			
 			<img src="images/nearshore-credits-sold.jpg" class="img-responsive" width=60% alt="A map graphic that shows how many conservation credits the Partnership has sold in each marine service area. The Partnership has sold 1,382 credits in the North Puget Sound service area; O credits in the Strait of Juan de Fuca service area; 31 credits in the Whidbey service area; 307 credits in the Hood Canal service area; and 370 credits in the South Central Puget Sound service area."/><br>
 			
+			<h3>Have any conservation projects been fully implemented?</h3>
+			
+			<p>Not yet. As with any “In-Lieu Fee-style” program, it can take years of credit sales to build up the amount of funding needed to carry out an effective conservation project. While the exact timing depends on the rate of credit sales, we hope we’ll be able to begin construction on one or more projects in 2024.</p>
+			
+			<h3>When will the Partnership complete its conservation projects?</h3>
+			
+			<p>Under our ILF agreement with the NOAA Fisheries and the US Fish and Wildlife Service, we must implement conservation within six years of selling the first credit for an impact within the service area.</p>
+			
+			<h3>Will the Partnership run out of credits?</h3>
+			
+			<p>No. As of August 2023, we have identified potential credit-generating conservation projects that will create about 8,700 credits. That estimate only includes projects that have been measured using the NOAA Conservation Calculator. Many more projects could be eligible for funding projects that create conservation credits in the future!</p>
+			
+			<p>“Running out of credits” would mean that there are no more opportunities to restore the nearshore habitat of Puget Sound. We remain very far from fully restoring nearshore habitat function (and running out of all opportunities to generate conservation credits).</p>
+			
+			<h3>Are there other credit providers besides the Partnership?</h3>
+			
+			<p>Yes, the Blue Heron Slough Conservation Bank, the Hood Canal In-Lieu Fee Program, and the Port of Tacoma all offer conservation credits for sale to impacting projects that fall within their service areas.</p>
+			
+			<p>Additionally, federal permit applicants may generate their own conservation (onsite or offsite) with approval from NOAA Fisheries and the U.S. Fish and Wildlife Service.</p>
 			
 			<button class="button7"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
 			
