@@ -109,6 +109,7 @@
 			
 			</ul>
 			
+			<p>In addition to the initial creosote removal projects, we will explore opportunities to remove shoreline armoring. Shoreline armoring disrupts natural erosion, which supplies much of the sand and gravel that forms our beaches and creates habitat for many other species.</p>
 			
 			
 			
