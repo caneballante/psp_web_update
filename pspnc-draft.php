@@ -123,6 +123,8 @@
 				
 			</div>
 			
+			<button class="button4"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Interested in purchasing nearshore conservation credits? Click here</p></a></button><br><br>
+			
 			
 			<h2>Further degradation of nearshore habitat will increase the risk of extinction for Puget sound salmon and orcas</h2>
 			<p>To stem the loss of critical nearshore habitat and uphold the Endangered Species Act, NOAA Fisheries and the US Army Corps of Engineers established the <a href="https://media.fisheries.noaa.gov/2022-06/2022-06-29-ssnp-wcro-2019-04086.pdf" target="new">Salish Sea Nearshore Programmatic (SSNP)</a>. SSNP requires that infrastructure and maintenance projects in the Puget Sound nearshore completely offset their ecological impacts (as quantified by the <a href="https://www.fisheries.noaa.gov/resource/tool-app/puget-sound-nearshore-conservation-calculator" target="new">Puget Sound Nearshore Habitat Conservation Calculator</a>).</p>
