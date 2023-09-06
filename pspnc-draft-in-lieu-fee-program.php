@@ -123,6 +123,8 @@
 			
 			<p>As of August 2023, we have sold 2,090 conservation credits. Credit sales by service area are shown below:</p>
 			
+			<img src="images/nearshore-credits-sold.jpg" class="img-responsive" width=100% alt="A map graphic that shows how many conservation credits the Partnership has sold in each marine service area. The Partnership has sold 1,382 credits in the North Puget Sound service area; O credits in the Strait of Juan de Fuca service area; 31 credits in the Whidbey service area; 307 credits in the Hood Canal service area; and 370 credits in the South Central Puget Sound service area."/><br>
+			
 			
 			<button class="button7"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
 			
