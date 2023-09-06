@@ -119,6 +119,10 @@
 				
 			<p>Mitigation is generally sited in close proximity to an impact. The goal is to place the mitigation in the same ecoregion as the impact or ensure that the same population that is impacted will benefit from the mitigation. This concept has been termed service area. The service area is the geographic area where mitigation can provide compensation to offset the functions lost through the impact. NOAA Fisheries determined the marine service areas based on <a href="https://www.fisheries.noaa.gov/resource/map/salmon-habitat-status-and-trend-monitoring-program-data" target="new">NOAA Salmon Habitat Status and Trends Monitoring Program (SHSTMP) Puget Sound Marine Basins</a>.</p>
 			
+			<h3>How many credits has the Partnership sold?</h3>
+			
+			<p>As of August 2023, we have sold 2,090 conservation credits. Credit sales by service area are shown below:</p>
+			
 			
 			<button class="button7"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
 			
