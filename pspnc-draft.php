@@ -82,18 +82,8 @@
 		
 			<h2 class="margin-0-top">Federal action</h2>
 			
-			<h3>What is nearshore habitat?</h3>
-			<div class="row">
-            <div class="col-sm-12">
-				<figure>
-                <img src="images/NearshoreKingCo2.jpg" class="img-responsive" "img-rounded" width=100% alt="Graphic that shows the nearshore area of a shoreline, where the nearshore area extends from feeder bluffs on the land to the subtidal zone in the water"/>
-					<figcaption>Nearshore graphic from King County</figcaption>
-				</figure>
-            </div>	
-		</div>
-			<button class="button3"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Interested in purchasing nearshore conservation credits? Click here</p></a></button><br><br>
+			<h3>What's being done to slow the loss of nearshore habitat in Puget Sound?</h3>
 			
-			<div>
 			
 			<p>Puget Sound nearshore habitat – including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/13" target="new">estuaries</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/31" target="new">beaches, and eelgrass beds</a> – make up some of the most valuable habitat for our region’s salmon and orcas. At the same time, the nearshore contributes to the wellbeing of human communities that enjoy the recreation, food, and economic opportunities available where the land meets the water.
 			</p>
@@ -105,7 +95,7 @@
 			<h3>How is our nearshore habitat doing?</h3>
 				
 				<p>Unfortunately, most nearshore habitat has been lost, hamstringing current recovery efforts. Since 1900, about nearly three quarters of Puget Sound’s estuary habitat has either been converted to farmland or filled and developed into urban and industrial uses. Hard armoring disrupts natural processes along nearly a third of Puget Sound shorelines. Toxic chemicals from creosote-treated lumber and other derelict structures continue to leach into the water. In total, more than 93 percent of Puget Sound’s natural shoreline has been modified by human development.</p>
-			</div>
+			
 			<div class="row ">
 				
 				<div class="col-sm-6">
