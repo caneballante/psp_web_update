@@ -80,7 +80,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-			<h2>Nearshore habitat in Puget Sound</h2>
+			<h2 class="margin-0-top">Nearshore habitat in Puget Sound</h2>
 			
 			<h3>What is nearshore habitat?</h3>
 			<div class="row">
@@ -122,16 +122,7 @@
 				</div>
 				
 			</div>
-			<div class="container-fluid blue-outline-5px padding-20-all margin-20-top">
-			<div class="row ">
-				
-				<div class="col-sm-12">
-					<h2 class="margin-0-top">How does nearshore conservation help endangered salmon and orcas?</h2>
-					<p>Juvenile salmon, including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/32" target="new">Chinook</a>, require healthy nearshore  habitat to  evade predators and feed—growing large before venturing out to the expansive ocean environment. At the same time, healthy nearshore habitat (with intact beaches and thriving eelgrass beds) provides critical spawning habitat for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/33" target="new">forage fish</a> like herring and surf smelt. Those fish, in turn, provide a vital  food source for adult salmon. One step up the food chain, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/19" target="new">Endangered Southern Resident orcas</a> depend on those salmon for prey, making this habitat important for the whales as well.</p>
-				</div>	
-				
-			</div>
-		</div>
+			
 			
 			<h2>Further degradation of nearshore habitat will increase the risk of extinction for Puget sound salmon and orcas</h2>
 			<p>To stem the loss of critical nearshore habitat and uphold the Endangered Species Act, NOAA Fisheries and the US Army Corps of Engineers established the <a href="https://media.fisheries.noaa.gov/2022-06/2022-06-29-ssnp-wcro-2019-04086.pdf" target="new">Salish Sea Nearshore Programmatic (SSNP)</a>. SSNP requires that infrastructure and maintenance projects in the Puget Sound nearshore completely offset their ecological impacts (as quantified by the <a href="https://www.fisheries.noaa.gov/resource/tool-app/puget-sound-nearshore-conservation-calculator" target="new">Puget Sound Nearshore Habitat Conservation Calculator</a>).</p>
