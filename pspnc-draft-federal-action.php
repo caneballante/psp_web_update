@@ -92,9 +92,11 @@
 				
 			<p>Mitigation is generally sited in close proximity to an impact. The goal is to place the mitigation in the same ecoregion as the impact or ensure that the same population that is impacted will benefit from the mitigation. This concept has been termed service area. The service area is the geographic area where mitigation can provide compensation to offset the functions lost through the impact. NOAA Fisheries determined the marine service areas based on <a href="https://www.fisheries.noaa.gov/resource/map/salmon-habitat-status-and-trend-monitoring-program-data" target="new">NOAA Salmon Habitat Status and Trends Monitoring Program (SHSTMP) Puget Sound Marine Basins</a>.</p>
 			
-			<h3>How is our nearshore habitat doing?</h3>
+			<h3>Can you tell me more about In-Lieu Fee programs in Washington state?</h3>
 				
-				<p>Unfortunately, most nearshore habitat has been lost, hamstringing current recovery efforts. Since 1900, about nearly three quarters of Puget Sound’s estuary habitat has either been converted to farmland or filled and developed into urban and industrial uses. Hard armoring disrupts natural processes along nearly a third of Puget Sound shorelines. Toxic chemicals from creosote-treated lumber and other derelict structures continue to leach into the water. In total, more than 93 percent of Puget Sound’s natural shoreline has been modified by human development.</p>
+				<p>While Mitigation and Conservation Banks are often for-profit businesses, ILF sponsorship is limited to government agencies or non-profit organizations with expertise in natural resource management. Users of ILFs include Federal agencies like the Navy, state agencies, businesses, and private entities.</p>
+			
+				<p>Other than the Partnership, there are currently three other ILFs in Washington State approved for wetland mitigation. There is one public use ILF in Hood Canal, and two private use ILF’ in the Puget Sound area, the King County ILF, and Pierce County ILF. The Puget Sound Partnership Nearshore Credits Program provides mitigation for salmonid habitat. You can read more about wetland ILFs <a href="https://ecology.wa.gov/Water-Shorelines/Wetlands/Mitigation/In-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here</a>.</p>
 			
 			
 			
