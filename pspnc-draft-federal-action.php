@@ -96,11 +96,11 @@
 				
 				<p>While Mitigation and Conservation Banks are often for-profit businesses, ILF sponsorship is limited to government agencies or non-profit organizations with expertise in natural resource management. Users of ILFs include Federal agencies like the Navy, state agencies, businesses, and private entities.</p>
 			
-				<p>Other than the Partnership, there are currently three other ILFs in Washington State approved for wetland mitigation. There is one public use ILF in Hood Canal, and two private use ILF’ in the Puget Sound area, the King County ILF, and Pierce County ILF. The Puget Sound Partnership Nearshore Credits Program provides mitigation for salmonid habitat. You can read more about wetland ILFs <a href="https://ecology.wa.gov/Water-Shorelines/Wetlands/Mitigation/In-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here</a>.</p>
+				<p>Other than the Partnership, there are currently three other ILFs in Washington State approved for wetland mitigation. There is one public use ILF in Hood Canal, and two private use ILF’ in the Puget Sound area, the King County ILF, and Pierce County ILF. The Puget Sound Partnership Nearshore Credits Program provides mitigation for salmonid habitat. You can read more about wetland ILFs <a href="https://ecology.wa.gov/Water-Shorelines/Wetlands/Mitigation/In-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here</a>.</p><br>
 			
 			
 			
-			<button class="button6"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
+			
 			
 			<button class="button7"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
 			
