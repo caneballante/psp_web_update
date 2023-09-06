@@ -80,7 +80,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-			<h2 class="margin-0-top">Nearshore habitat in Puget Sound</h2>
+			<h2 class="margin-0-top">Federal action</h2>
 			
 			<h3>What is nearshore habitat?</h3>
 			<div class="row">
