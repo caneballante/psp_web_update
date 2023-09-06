@@ -93,7 +93,7 @@
 				
 				<p>While Mitigation and Conservation Banks are often for-profit businesses, ILF sponsorship is limited to government agencies or non-profit organizations with expertise in natural resource management. Users of ILFs include Federal agencies like the Navy, state agencies, businesses, and private entities.</p>
 			
-				<p>Other than the Partnership, there are currently three other ILFs in Washington State approved for wetland mitigation. There is one public use ILF in Hood Canal, and two private use ILF’ in the Puget Sound area, the King County ILF, and Pierce County ILF. The Puget Sound Partnership Nearshore Credits Program provides mitigation for salmonid habitat. You can read more about wetland ILFs <a href="https://ecology.wa.gov/Water-Shorelines/Wetlands/Mitigation/In-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here</a>.</p><br>
+				<p>Other than the Partnership, there are currently three other ILFs in Washington State approved for wetland mitigation. There is one public use ILF in Hood Canal, and two private use ILF’ in the Puget Sound area, the King County ILF, and Pierce County ILF. The Puget Sound Partnership Nearshore Credits Program provides mitigation for salmonid habitat. You can read more about wetland ILFs <a href="https://ecology.wa.gov/Water-Shorelines/Wetlands/Mitigation/In-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here</a>.</p>
 			
 			<h3>What conservation projects will the Partnership support to generate conservation?</h3>
 			
@@ -111,7 +111,13 @@
 			
 			<p>In addition to the initial creosote removal projects, we will explore opportunities to remove shoreline armoring. Shoreline armoring disrupts natural erosion, which supplies much of the sand and gravel that forms our beaches and creates habitat for many other species.</p>
 			
+			<h3>Can credit sales from one service area be used to fund conservation projects in other service areas?</h3>
 			
+			<p>No. Conservation must occur within the same <a href="https://experience.arcgis.com/experience/3ad3ed63a1d541a5bc1793887aa38a85" target="new">marine service area</a> as the impacting project.</p>
+			
+			<h3>How were the service areas determined?</h3>
+				
+			<p>Mitigation is generally sited in close proximity to an impact. The goal is to place the mitigation in the same ecoregion as the impact or ensure that the same population that is impacted will benefit from the mitigation. This concept has been termed service area. The service area is the geographic area where mitigation can provide compensation to offset the functions lost through the impact. NOAA Fisheries determined the marine service areas based on <a href="https://www.fisheries.noaa.gov/resource/map/salmon-habitat-status-and-trend-monitoring-program-data" target="new">NOAA Salmon Habitat Status and Trends Monitoring Program (SHSTMP) Puget Sound Marine Basins</a>.</p>
 			
 			
 			<button class="button7"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
