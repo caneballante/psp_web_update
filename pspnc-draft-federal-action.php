@@ -80,23 +80,14 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-			<h2 class="margin-0-top">Nearshore habitat in Puget Sound</h2>
+			<h2 class="margin-0-top">Federal action</h2>
 			
-			<h3>What is nearshore habitat?</h3>
-			<div class="row">
-            <div class="col-sm-12">
-				<figure>
-                <img src="images/NearshoreKingCo2.jpg" class="img-responsive" "img-rounded" width=100% alt="Graphic that shows the nearshore area of a shoreline, where the nearshore area extends from feeder bluffs on the land to the subtidal zone in the water"/>
-					<figcaption>Nearshore graphic from King County</figcaption>
-				</figure>
-            </div>	
-		</div>
-			<button class="button3"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Interested in purchasing nearshore conservation credits? Click here</p></a></button><br><br>
+			<h3>What's being done to slow the loss of nearshore habitat in Puget Sound?</h3>
+						
+			<p>To stem the loss of critical nearshore habitat and uphold the Endangered Species Act, NOAA Fisheries and the US Army Corps of Engineers established the <a href="https://media.fisheries.noaa.gov/2022-06/2022-06-29-ssnp-wcro-2019-04086.pdf" target="new">Salish Sea Nearshore Programmatic (SSNP)</a>. SSNP requires that infrastructure and maintenance projects in the Puget Sound nearshore completely offset their ecological impacts (as quantified by the <a href="https://www.fisheries.noaa.gov/resource/tool-app/puget-sound-nearshore-conservation-calculator" target="new">Puget Sound Nearshore Habitat Conservation Calculator</a>).</p>
 			
-			<div>
-			
-			<p>Puget Sound nearshore habitat – including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/13" target="new">estuaries</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/31" target="new">beaches, and eelgrass beds</a> – make up some of the most valuable habitat for our region’s salmon and orcas. At the same time, the nearshore contributes to the wellbeing of human communities that enjoy the recreation, food, and economic opportunities available where the land meets the water.
-			</p>
+			<p>After working with NOAA Fisheries and the US Army Corps of Engineers to avoid and minimize habitat impacts, permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through an authorized credit provider like the <a href="/pspnc-credits.php">Partnership Nearshore Credits program.</a></p>
+<p>Off-site restoration – whether conducted by the applicant or paid for by the purchase of conservation credits – must occur within the same regional service area as the permitted project and be quantified by the Conservation Calculator.</p>
 			
 			<h3>How does nearshore conservation help Puget Sounds threatened and endangered species, like salmon, orcas, and marbled murrelets?</h3>
 				
@@ -105,23 +96,8 @@
 			<h3>How is our nearshore habitat doing?</h3>
 				
 				<p>Unfortunately, most nearshore habitat has been lost, hamstringing current recovery efforts. Since 1900, about nearly three quarters of Puget Sound’s estuary habitat has either been converted to farmland or filled and developed into urban and industrial uses. Hard armoring disrupts natural processes along nearly a third of Puget Sound shorelines. Toxic chemicals from creosote-treated lumber and other derelict structures continue to leach into the water. In total, more than 93 percent of Puget Sound’s natural shoreline has been modified by human development.</p>
-			</div>
-			<div class="row ">
-				
-				<div class="col-sm-6">
-					<figure>
-					<img class="img-responsive floatleft" src="images/PugetBeaches.jpg" alt="Graphic that shows an undeveloped shoreline, with a river flowing from the mountains, mature forests, and a beach with natural processes"/>
-						<figcaption><strong>Before development.</strong> Graphic from King County</figcaption>
-						</figure>
-				</div>
-				<div class="col-sm-6">
-					<figure>
-				<img class="img-responsive floatright" src="images/PugetBeaches2.jpg" alt="Graphic that shows a developed shoreline, with a managed river, logged forests, and highly developed shorelines"/>
-						<figcaption><strong>After development.</strong> Graphic from King County</figcaption>
-						</figure>
-				</div>
-				
-			</div><br><br>
+			
+			
 			
 			<button class="button6"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
 			
