@@ -90,18 +90,21 @@
 					<figcaption>Nearshore graphic from King County</figcaption>
 				</figure>
             </div>	
-		</div><br><br>
-			<button class="button3"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Interested in purchasing nearshore conservation credits? Click here</p></a></button>
+		</div>
+			<button class="button3"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Interested in purchasing nearshore conservation credits? Click here</p></a></button><br><br>
 			
-		
-			<br>
-			<br>
 			<div>
 			
 			<p>Puget Sound nearshore habitat – including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/13" target="new">estuaries</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/31" target="new">beaches, and eelgrass beds</a> – make up some of the most valuable habitat for our region’s salmon and orcas. At the same time, the nearshore contributes to the wellbeing of human communities that enjoy the recreation, food, and economic opportunities available where the land meets the water.
 			</p>
+			
+			<h3>How does nearshore conservation help Puget Sounds threatened and endangered species, like salmon, orcas, and marbled murrelets?</h3>
 				
-			<p>Unfortunately, most nearshore habitat has been lost, hamstringing current recovery efforts. Since 1900, about nearly three quarters of Puget Sound’s estuary habitat has either been converted to farmland or filled and developed into urban and industrial uses. Hard armoring disrupts natural processes along nearly a third of Puget Sound shorelines. Toxic chemicals from creosote-treated lumber and other derelict structures continue to leach into the water. In total, more than 93 percent of Puget Sound’s natural shoreline has been modified by human development.</p>
+			<p>Juvenile salmon, including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/32" target="new">Chinook</a>, require healthy nearshore  habitat to  evade predators and feed—growing large before venturing out to the expansive ocean environment. At the same time, healthy nearshore habitat (with intact beaches and thriving eelgrass beds) provides critical spawning habitat for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/33" target="new">forage fish</a> like herring and surf smelt. Those fish, in turn, provide a vital  food source for adult salmon. One step up the food chain, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/19" target="new">Endangered Southern Resident orcas</a> depend on those salmon for prey, making this habitat important for the whales as well.</p>
+			
+			<h3>How is our nearshore habitat doing?</h3>
+				
+				<p>Unfortunately, most nearshore habitat has been lost, hamstringing current recovery efforts. Since 1900, about nearly three quarters of Puget Sound’s estuary habitat has either been converted to farmland or filled and developed into urban and industrial uses. Hard armoring disrupts natural processes along nearly a third of Puget Sound shorelines. Toxic chemicals from creosote-treated lumber and other derelict structures continue to leach into the water. In total, more than 93 percent of Puget Sound’s natural shoreline has been modified by human development.</p>
 			</div>
 			<div class="row ">
 				
