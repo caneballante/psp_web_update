@@ -1354,6 +1354,18 @@ display: block
 	display: block;
 	width: 100%;
 }
+.button6 {
+	border-radius: 8px;
+	background-color: #022B66;
+	display: block;
+	width: 100%;
+}
+.button7 {
+	border-radius: 8px;
+	background-color: #FA7500;
+	display: block;
+	width: 100%;
+}
 .navbox {
 	background-color: #FFF;
 	border: 3px;
