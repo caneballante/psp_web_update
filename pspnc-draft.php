@@ -121,17 +121,17 @@
 						</figure>
 				</div>
 				
-			</div>
+			</div><br><br>
 			
-			<button class="button6"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br><br>
+			<button class="button6"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
 			
-			<button class="button7"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's In-Lieu Fee Program</p></a></button><br><br>
+			<button class="button7"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
 			
-			<button class="button4"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Credit Prices</p></a></button><br><br>
+			<button class="button4"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Credit prices</p></a></button><br>
 			
-			<button class="button5"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Purchase Credits</p></a></button><br><br>
+			<button class="button5"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Purchase credits</p></a></button><br>
 			
-			<button class="button6"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br><br>
+			<button class="button6"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 			
 			<h2>Further degradation of nearshore habitat will increase the risk of extinction for Puget sound salmon and orcas</h2>
