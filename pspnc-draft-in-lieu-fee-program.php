@@ -88,17 +88,26 @@
 			
 			<img src="images/nearshore-graphic.jpg" class="img-responsive" width=100% alt="A graphic that shows how the Partnership Nearshore Credit Program works. Applicants seeking federal permits for maintenance and development work that will adversely affect nearshore habitat can quantify those impacts using a conservation calculator developed by NOAA scientists. Permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through the Partnership Nearshore Credits program. The Partnership aggregates funds from credits purchase, selects conservation projects to generate credits, tracks their progress, and reports on those projects."/><br>
 			
-			<p>After working with NOAA Fisheries, the U.S. Fish and Wildlife Service, and the U.S. Army Corps of Engineers to avoid and minimize habitat impacts, permit applicants may offset impacts with either on-site or off-site conservation. Applicants may choose to purchase conservation credits through an authorized credit provider like the <a href="/pspnc-credits.php">Partnership Nearshore Credits program.</a> All off-site conservation must take place in the same marine service area as the impacting site.</p>
-			
-			<h3>How were the service areas determined?</h3>
-				
-			<p>Mitigation is generally sited in close proximity to an impact. The goal is to place the mitigation in the same ecoregion as the impact or ensure that the same population that is impacted will benefit from the mitigation. This concept has been termed service area. The service area is the geographic area where mitigation can provide compensation to offset the functions lost through the impact. NOAA Fisheries determined the marine service areas based on <a href="https://www.fisheries.noaa.gov/resource/map/salmon-habitat-status-and-trend-monitoring-program-data" target="new">NOAA Salmon Habitat Status and Trends Monitoring Program (SHSTMP) Puget Sound Marine Basins</a>.</p>
 			
 			<h3>Can you tell me more about In-Lieu Fee programs in Washington state?</h3>
 				
 				<p>While Mitigation and Conservation Banks are often for-profit businesses, ILF sponsorship is limited to government agencies or non-profit organizations with expertise in natural resource management. Users of ILFs include Federal agencies like the Navy, state agencies, businesses, and private entities.</p>
 			
 				<p>Other than the Partnership, there are currently three other ILFs in Washington State approved for wetland mitigation. There is one public use ILF in Hood Canal, and two private use ILF’ in the Puget Sound area, the King County ILF, and Pierce County ILF. The Puget Sound Partnership Nearshore Credits Program provides mitigation for salmonid habitat. You can read more about wetland ILFs <a href="https://ecology.wa.gov/Water-Shorelines/Wetlands/Mitigation/In-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here</a>.</p><br>
+			
+			<h3>What conservation projects will the Partnership support to generate conservation?</h3>
+			
+			<p>Initially, we will work with the <a href="https://www.dnr.wa.gov/programs-and-services/aquatics/restoration/creosote-removal" target="new">Department of Natural Resources' Creosote Removal Program</a> to bring about conservation through the removal of creosote-soaked pilings and piers. Creosote-treated wood leaks chemicals into sediments and water, causing adverse effects in juvenile Chinook and high mortality and developmental abnormalities in herring eggs. Herring are an important forage fish in Puget Sound and a key food source for our migrating salmon, which in turn are the primary food source for endangered Southern Resident orcas.</p>
+			
+			<p>Candidate projects for near-term funding include the <a href="https://www.dnr.wa.gov/news/legislation-remove-derelict-structures-would-promote-healthier-environment-communities" target="new">“Filthy Four”</a> identified by the Department of Natural Resources:</p>
+			
+			<ul class="bullet-size-fix">
+				<li>Former Dickman Lumber Mill site, Tacoma</li>
+				<li>Ray’s Boathouse pier, Seattle</li>
+				<li>Former Triton-America pier, Anacortes</li>
+				<li>Former High Tides Seafood pier, Neah Bay</li>
+			
+			</ul>
 			
 			
 			
