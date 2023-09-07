@@ -88,7 +88,7 @@
 			
 			<h3>How does the Partnership set the price for its credits?</h3>
 			
-			<img src="images/nearshore-credits-equation.jpg" class="img-responsive" width=100% alt="A graphic"/><br>
+			<img src="images/nearshore-credits-equation.jpg" class="img-responsive" width=100% alt="A graphic that shows how the Partnership sets the price for conservation credits. The graphic includes a checklist that shows the Partnership looks at a few factors to determine the credit price, including the cost to carry out a set of nearshore conservation projects, the number of conservation credits created by that set of projects, and the possibility of unexpected budget costs as the set of nearshore projects moves from concept to completion. The graphic includes a visualization of that checklist, showing a clipboard with the label Implementation Cost then the division sign and a drawing of an orca and a salmon with the label Conservation Credits then the multiplication sign and a drawing of a calculator with coins and a receipt and the label Budget then an equals sign and a drawing of a sales tag with the label Credit Sales Price."/><br>
 			
 			
 			<h3>Can you tell me more about In-Lieu Fee programs in Washington state?</h3>
