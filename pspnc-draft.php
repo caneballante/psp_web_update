@@ -133,17 +133,6 @@
 			
 			<button class="button6"><a href="/pspnc-draft-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
-			
-			<h2>Further degradation of nearshore habitat will increase the risk of extinction for Puget sound salmon and orcas</h2>
-			<p>To stem the loss of critical nearshore habitat and uphold the Endangered Species Act, NOAA Fisheries and the US Army Corps of Engineers established the <a href="https://media.fisheries.noaa.gov/2022-06/2022-06-29-ssnp-wcro-2019-04086.pdf" target="new">Salish Sea Nearshore Programmatic (SSNP)</a>. SSNP requires that infrastructure and maintenance projects in the Puget Sound nearshore completely offset their ecological impacts (as quantified by the <a href="https://www.fisheries.noaa.gov/resource/tool-app/puget-sound-nearshore-conservation-calculator" target="new">Puget Sound Nearshore Habitat Conservation Calculator</a>).</p>
-<p>After working with NOAA Fisheries and the US Army Corps of Engineers to avoid and minimize habitat impacts, permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through an authorized credit provider like the <a href="/pspnc-credits.php">Partnership Nearshore Credits program.</a></p>
-<p>Off-site restoration – whether conducted by the applicant or paid for by the purchase of conservation credits – must occur within the same regional service area as the permitted project and be quantified by the Conservation Calculator.</p><br>
-
-			<img src="images/nearshore-graphic.jpg" class="img-responsive" width=100% alt="A graphic that shows how the Partnership Nearshore Credit Program works. Applicants seeking federal permits for maintenance and development work that will adversely affect nearshore habitat can quantify those impacts using a conservation calculator developed by NOAA scientists. Permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through the Partnership Nearshore Credits program. The Partnership aggregates funds from credits purchase, selects conservation projects to generate credits, tracks their progress, and reports on those projects."/><br>
-			
-			<p>The Partnership aggregates funds from credits purchase, selects conservation projects to generate credits, tracks their progress, and reports on those projects.</p>
-<p>Initially, the Partnership will work with the <a href="https://www.dnr.wa.gov/programs-and-services/aquatics/restoration/creosote-removal" target="new">Department of Natural Resources' Creosote Removal Program</a> to generate conservation through the removal of creosote-soaked pilings and piers. Creosote-treated wood leaches chemicals into the sediments and water column, causing extremely high mortality and developmental abnormalities in herring eggs. Herring are an important forage fish in Puget Sound and a critical food source for our migrating salmon, which in turn are the primary food source for endangered Southern Resident orcas.</p>
-<p>In addition to creosote removal, the Partnership will explore opportunities to remove shoreline armoring. Shoreline armoring disrupts natural erosion, which supplies much of the sand and gravel that forms and maintains our beaches and creates habitat for many other species.</p>
 
 			<p class="last-update">Last updated: 9/7/23</p>
 			
