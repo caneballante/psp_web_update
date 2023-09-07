@@ -80,25 +80,43 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-			<h2 class="margin-0-top">Credit prices</h2>
+			<h2 class="margin-0-top">Purchase credits</h2>
 			
 			<h3>What is the current price for one Nearshore Conservation Credit from the Partnership?</h3>
 						
 			<p>$1,411.00</p>
 			
-			<h3>How does the Partnership set the price for its credits?</h3>
+			<h3>What information is required prior to submitting a purchase request for Partnership Nearshore Credits?</h3>
 			
-			<img src="images/nearshore-credits-equation.jpg" class="img-responsive" width=100% alt="A graphic that shows how the Partnership sets the price for conservation credits. The graphic includes a checklist that shows the Partnership looks at a few factors to determine the credit price, including the cost to carry out a set of nearshore conservation projects, the number of conservation credits created by that set of projects, and the possibility of unexpected budget costs as the set of nearshore projects moves from concept to completion. The graphic includes a visualization of that checklist, showing a clipboard with the label Implementation Cost then the division sign and a drawing of an orca and a salmon with the label Conservation Credits then the multiplication sign and a drawing of a calculator with coins and a receipt and the label Budget then an equals sign and a drawing of a sales tag with the label Credit Sales Price."/><br>
+			<p>Potential credit purchasers must have a final Conservation Calculator verified by NMFS biologists prior to any credit purchase.</p>
+			
+			<h3>What are the steps to purchasing Partnership Nearshore Credits?</h3>
+			
+			<p><ol>
+				<li><p><strong>Federal permit applicant</strong> (or their consultant) determines conservation debits using the <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">Puget Sound Nearshore Conservation Calculator</a>.</p></li>
+				<li><p><strong>Federal permit applicant</strong> submits a completed calculator as part of <a href="https://www.epermitting.wa.gov/site/alias__resourcecenter/9978/default.aspx" target="new">permit application to the US Army Corps of Engineers</a>. Applicants should also indicate their intention to purchase Partnership conservation credits in that application package.</p></li>
+				<li><p>The Army Corps of Engineers submits the permit applicant’s calculator as part of a consultation package to NOAA Fisheries.</p></li>
+				<li><p>NOAA Fisheries works with applicants to avoid and minimize infrastructure and maintenance project-related impacts to nearshore habitat. Unavoidable impacts will require conservation offsets.</p></li>
+				<li><p>NOAA Fisheries verifies the amount of outstanding conservation necessary to account for unavoidable impacts and informs the Partnership of the finalized calculator total.</p></li>
+				<li class="no-icon"><button class="button3"><a href="https://wa-pspsign.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAG8UNV0sn_SVY4luxHRtCYhE7tavvL8G_EO79rvnm6O7RvdQR7wxuyL-OWZqdjekA*" target="new" style="color:white"><p class="PSPNC-font">Federal permit applicant submits project information and NMFS-verified final calculator.</p></a></button></li>
+				<li><p>Partnership verifies eligibility, requests any additional data, and provides presale agreement to the permittee for signature. </p></li>
+				<li><p><strong>Federal permit applicant</strong> and Partnership sign conservation credit presale agreement. Permittee may use the fully executed conservation credit presale agreement to satisfy outstanding conservation obligations, per their final Reasonable and Prudent Alternative decision from NOAA Fisheries.</p></li>
+				<li><p><strong>Federal permit applicant</strong> submits full payment and the Partnership confirms transfer of credit responsibility. Payment must be received by the expiration date in the presale agreement.</p></li>
+				<li><p><strong>Federal permit applicant</strong> may commence construction work on their infrastructure or maintenance.</p></li>
+			
+			</ol></p>
 			
 			
-			<h3>Does the Partnership generate revenue from the sale of credits?</h3>
+			<h3>How do I submit a credit purchase request for Partnership Nearshore Credits?</h3>
 				
-				<p>No. The Puget Sound Partnership is a public agency and does not profit from the sale of credits.</p>
+				<p>Fill out the credit purchase request form here: <a href="https://wa-pspsign.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAG8UNV0sn_SVY4luxHRtCYhE7tavvL8G_EO79rvnm6O7RvdQR7wxuyL-OWZqdjekA*" target="new">Adobe Acrobat Sign</a>.</p>
 			
 			
-			<h3>How often does the purchase price of a Nearshore Conservation Credit change?</h3>
+			<h3>Are there other credit providers besides the Partnership?</h3>
 			
-			<p>We review and adjust our credit price annually to ensure it will fully cover the costs of the conservation that we are taking on through credit sales. Credit prices reflect the “going rate” to carry out nearshore conservation projects.</p><br>
+			<p>Yes, the Blue Heron Slough Conservation Bank, the Hood Canal In-Lieu Fee Program, and the Port of Tacoma all offer conservation credits for sale to impacting projects that fall within their service areas.</p>
+<p>Additionally, federal permit applicants may generate their own conservation (onsite or offsite) with approval from NOAA Fisheries and the U.S. Fish and Wildlife Service.
+</p><br>
 			
 			
 			<button class="button6"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
