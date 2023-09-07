@@ -80,27 +80,19 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-			<h2 class="margin-0-top">Federal action</h2>
+			<h2 class="margin-0-top">Suggest conservation projects for funding</h2>
 			
-			<h3>What's being done to slow the loss of nearshore habitat in Puget Sound?</h3>
+			<h3>How can my conservation project receive funding from credit sales?</h3>
 						
-			<p>NOAA Fisheries, the U.S. Fish and Wildlife Service, and the U.S. Army Corps of Engineers created the <a href="https://media.fisheries.noaa.gov/2022-06/2022-06-29-ssnp-wcro-2019-04086.pdf" target="new">Salish Sea Nearshore Programmatic (SSNP)</a>. The SSNP requires that infrastructure and maintenance projects in the Puget Sound nearshore completely counterbalance their ecological impacts (as quantified by the <a href="https://www.fisheries.noaa.gov/resource/tool-app/puget-sound-nearshore-conservation-calculator" target="new">Puget Sound Nearshore Habitat Conservation Calculator</a>) with equivalent ecological offsets.</p>
-			
-			<p>After working with NOAA Fisheries, the U.S. Fish and Wildlife Service, and the U.S. Army Corps of Engineers to avoid and minimize habitat impacts, permit applicants may offset impacts with either on-site or off-site conservation. Applicants may choose to purchase conservation credits through an authorized credit provider like the <a href="/pspnc-credits.php">Partnership Nearshore Credits program.</a> All off-site conservation must take place in the same marine service area as the impacting site.</p>
-			
-			<h3>How were the service areas determined?</h3>
-				
-			<p>Mitigation is generally sited in close proximity to an impact. The goal is to place the mitigation in the same ecoregion as the impact or ensure that the same population that is impacted will benefit from the mitigation. This concept has been termed service area. The service area is the geographic area where mitigation can provide compensation to offset the functions lost through the impact. NOAA Fisheries determined the marine service areas based on <a href="https://www.fisheries.noaa.gov/resource/map/salmon-habitat-status-and-trend-monitoring-program-data" target="new">NOAA Salmon Habitat Status and Trends Monitoring Program (SHSTMP) Puget Sound Marine Basins</a>.</p>
-			
-			<h3>Can you tell me more about In-Lieu Fee programs in Washington state?</h3>
-				
-				<p>While Mitigation and Conservation Banks are often for-profit businesses, ILF sponsorship is limited to government agencies or non-profit organizations with expertise in natural resource management. Users of ILFs include Federal agencies like the Navy, state agencies, businesses, and private entities.</p>
-			
-				<p>Other than the Partnership, there are currently three other ILFs in Washington State approved for wetland mitigation. There is one public use ILF in Hood Canal, and two private use ILF’ in the Puget Sound area, the King County ILF, and Pierce County ILF. The Puget Sound Partnership Nearshore Credits Program provides mitigation for salmonid habitat. You can read more about wetland ILFs <a href="https://ecology.wa.gov/Water-Shorelines/Wetlands/Mitigation/In-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here</a>.</p><br>
+			<p>If you have a nearshore conservation project in need of funding, please submit details here: <a href="https://survey123.arcgis.com/share/4dc19656090f438ebe621eb153254539" target="new">Projects eligible for Nearshore Conservation Credits</a>.</p>
+<p>Please note: In order to be considered, the project’s benefits must be “quantifiable” through the NOAA Fisheries Conservation Calculator.
+</p><br>
 			
 			
 			
 			
+			
+			<button class="button6"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
 			
 			<button class="button7"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
 			
@@ -108,7 +100,7 @@
 			
 			<button class="button5"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Purchase credits</p></a></button><br>
 			
-			<button class="button6"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
+			
 			
 
 			<p class="last-update">Last updated: 10/25/22</p>
