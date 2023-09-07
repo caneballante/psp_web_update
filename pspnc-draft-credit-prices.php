@@ -88,7 +88,7 @@
 			
 			<h3>How does the Partnership set the price for its credits?</h3>
 			
-			<img src="images/nearshore-graphic.jpg" class="img-responsive" width=100% alt="A graphic that shows how the Partnership Nearshore Credit Program works. Applicants seeking federal permits for maintenance and development work that will adversely affect nearshore habitat can quantify those impacts using a conservation calculator developed by NOAA scientists. Permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through the Partnership Nearshore Credits program. The Partnership aggregates funds from credits purchase, selects conservation projects to generate credits, tracks their progress, and reports on those projects."/><br>
+			<img src="images/nearshore-credits-equation.jpg" class="img-responsive" width=100% alt="A graphic"/><br>
 			
 			
 			<h3>Can you tell me more about In-Lieu Fee programs in Washington state?</h3>
