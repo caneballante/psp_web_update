@@ -123,15 +123,15 @@
 				
 			</div><br><br>
 			
-			<button class="button6"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
+			<button class="button6"><a href="/pspnc-draft-federal-action.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
 			
-			<button class="button7"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
+			<button class="button7"><a href="/pspnc-draft-in-lieu-fee-program.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
 			
-			<button class="button4"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Credit prices</p></a></button><br>
+			<button class="button4"><a href="/pspnc-draft-credit-prices.php" target="_blank" style="color:white"><p class="PSPNC-font">Credit prices</p></a></button><br>
 			
-			<button class="button5"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Purchase credits</p></a></button><br>
+			<button class="button5"><a href="/pspnc-draft-purchase-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Purchase credits</p></a></button><br>
 			
-			<button class="button6"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
+			<button class="button6"><a href="/pspnc-draft-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 			
 			<h2>Further degradation of nearshore habitat will increase the risk of extinction for Puget sound salmon and orcas</h2>
@@ -145,7 +145,7 @@
 <p>Initially, the Partnership will work with the <a href="https://www.dnr.wa.gov/programs-and-services/aquatics/restoration/creosote-removal" target="new">Department of Natural Resources' Creosote Removal Program</a> to generate conservation through the removal of creosote-soaked pilings and piers. Creosote-treated wood leaches chemicals into the sediments and water column, causing extremely high mortality and developmental abnormalities in herring eggs. Herring are an important forage fish in Puget Sound and a critical food source for our migrating salmon, which in turn are the primary food source for endangered Southern Resident orcas.</p>
 <p>In addition to creosote removal, the Partnership will explore opportunities to remove shoreline armoring. Shoreline armoring disrupts natural erosion, which supplies much of the sand and gravel that forms and maintains our beaches and creates habitat for many other species.</p>
 
-			<p class="last-update">Last updated: 10/25/22</p>
+			<p class="last-update">Last updated: 9/7/23</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
