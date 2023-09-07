@@ -80,11 +80,13 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-			<h2 class="margin-0-top">The Partnership's In-Lieu Fee Program</h2>
+			<h2 class="margin-0-top">Credit prices</h2>
 			
-			<h3>How does the Partnership's Nearshore Conservation Credits program work?</h3>
+			<h3>What is the current price for one Nearshore Conservation Credit from the Partnership?</h3>
 						
-			<p>The Puget Sound Partnership Nearshore Credits Program is an In-Lieu Fee (ILF) program. We sell conservation credits to help federal permit applicants meet obligations to offset adverse impacts to important nearshore habitat. An ILF program allows a permittee to pay a fee to a third party instead of conducting mitigation themselves. This is similar to paying a fee to a conservation bank. However, while a bank constructs mitigation prior to impacts, an ILF program constructs the mitigation after sufficient funds from different permittees have been collected. The Puget Sound Partnership uses funds from those credit sales to carry out equivalent conservation projects as soon as possible and within a maximum of six years. We aggregate funds from credit purchases, select nearshore conservation projects to generate credits, track their progress, and report on those projects.</p>
+			<p>$1,411.00</p>
+			
+			<h3>How does the Partnership set the price for its credits?</h3>
 			
 			<img src="images/nearshore-graphic.jpg" class="img-responsive" width=100% alt="A graphic that shows how the Partnership Nearshore Credit Program works. Applicants seeking federal permits for maintenance and development work that will adversely affect nearshore habitat can quantify those impacts using a conservation calculator developed by NOAA scientists. Permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through the Partnership Nearshore Credits program. The Partnership aggregates funds from credits purchase, selects conservation projects to generate credits, tracks their progress, and reports on those projects."/><br>
 			
