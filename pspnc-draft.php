@@ -88,6 +88,8 @@
 			<br>
 			<br>
 			
+			<p>Interested in learning more? Click on the buttons below for answers to frequently asked questions about the Partnership's Nearshore Credits Program</p>
+			
 			<button class="button6"><a href="/pspnc-draft-nearshore-habitat.php" target="_blank" style="color:white"><p class="PSPNC-font">Nearshore habitat</p></a></button><br>
 			
 			<button class="button7"><a href="/pspnc-draft-federal-action.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
@@ -101,7 +103,7 @@
 			<button class="button7"><a href="/pspnc-draft-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 
-			<p class="last-update">Last updated: 9/7/23</p>
+			<p class="last-update">Last updated: 9/8/23</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
