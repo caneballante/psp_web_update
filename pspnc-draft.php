@@ -88,7 +88,7 @@
 			<br>
 			<br>
 			
-			<p>Interested in learning more? Click on the buttons below for answers to frequently asked questions about the Partnership's Nearshore Credits Program</p>
+			<h2>Interested in learning more? Click on the buttons below for answers to frequently asked questions about the Partnership's Nearshore Credits Program</h2>
 			
 			<button class="button6"><a href="/pspnc-draft-nearshore-habitat.php" target="_blank" style="color:white"><p class="PSPNC-font">Nearshore habitat</p></a></button><br>
 			
