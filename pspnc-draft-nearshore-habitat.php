@@ -90,8 +90,8 @@
 					<figcaption>Nearshore graphic from King County</figcaption>
 				</figure>
             </div>	
-		</div>
-			<button class="button3"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Interested in purchasing nearshore conservation credits? Click here</p></a></button><br><br>
+		</div><br>
+			
 			
 			<div>
 			

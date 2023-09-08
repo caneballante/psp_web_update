@@ -80,58 +80,24 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-			<h2 class="margin-0-top">Nearshore habitat in Puget Sound</h2>
+			<p>The Puget Sound Partnership Nearshore Credits Program sells conservation credits to help federal permit applicants meet obligations to offset impacts to critical habitat and uses funds from those credit sales to implement equivalent conservation projects. The credits represent units of nearshore habitat function (as quantified by <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">a calculator developed by the National Marine Fisheries Service</a>). Conservation projects must occur in the same service area as the permitted impact—see map below.
+			</p><br><br>
 			
-			<h3>What is nearshore habitat?</h3>
-			<div class="row">
-            <div class="col-sm-12">
-				<figure>
-                <img src="images/NearshoreKingCo2.jpg" class="img-responsive" "img-rounded" width=100% alt="Graphic that shows the nearshore area of a shoreline, where the nearshore area extends from feeder bluffs on the land to the subtidal zone in the water"/>
-					<figcaption>Nearshore graphic from King County</figcaption>
-				</figure>
-            </div>	
-		</div>
-			<button class="button3"><a href="/pspnc-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Interested in purchasing nearshore conservation credits? Click here</p></a></button><br><br>
+			<IFRAME WIDTH=900 HEIGHT=850 FRAMEBORDER=0 SRC="https://experience.arcgis.com/experience/3ad3ed63a1d541a5bc1793887aa38a85/"></IFRAME>
+			<br>
+			<br>
 			
-			<div>
+			<button class="button6"><a href="/pspnc-draft-nearshore-habitat.php" target="_blank" style="color:white"><p class="PSPNC-font">Nearshore habitat</p></a></button><br>
 			
-			<p>Puget Sound nearshore habitat – including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/13" target="new">estuaries</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/31" target="new">beaches, and eelgrass beds</a> – make up some of the most valuable habitat for our region’s salmon and orcas. At the same time, the nearshore contributes to the wellbeing of human communities that enjoy the recreation, food, and economic opportunities available where the land meets the water.
-			</p>
+			<button class="button7"><a href="/pspnc-draft-federal-action.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
 			
-			<h3>How does nearshore conservation help Puget Sounds threatened and endangered species, like salmon, orcas, and marbled murrelets?</h3>
-				
-			<p>Juvenile salmon, including <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/32" target="new">Chinook</a>, require healthy nearshore  habitat to  evade predators and feed—growing large before venturing out to the expansive ocean environment. At the same time, healthy nearshore habitat (with intact beaches and thriving eelgrass beds) provides critical spawning habitat for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/33" target="new">forage fish</a> like herring and surf smelt. Those fish, in turn, provide a vital  food source for adult salmon. One step up the food chain, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/19" target="new">Endangered Southern Resident orcas</a> depend on those salmon for prey, making this habitat important for the whales as well.</p>
+			<button class="button4"><a href="/pspnc-draft-in-lieu-fee-program.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
 			
-			<h3>How is our nearshore habitat doing?</h3>
-				
-				<p>Unfortunately, most nearshore habitat has been lost, hamstringing current recovery efforts. Since 1900, about nearly three quarters of Puget Sound’s estuary habitat has either been converted to farmland or filled and developed into urban and industrial uses. Hard armoring disrupts natural processes along nearly a third of Puget Sound shorelines. Toxic chemicals from creosote-treated lumber and other derelict structures continue to leach into the water. In total, more than 93 percent of Puget Sound’s natural shoreline has been modified by human development.</p>
-			</div>
-			<div class="row ">
-				
-				<div class="col-sm-6">
-					<figure>
-					<img class="img-responsive floatleft" src="images/PugetBeaches.jpg" alt="Graphic that shows an undeveloped shoreline, with a river flowing from the mountains, mature forests, and a beach with natural processes"/>
-						<figcaption><strong>Before development.</strong> Graphic from King County</figcaption>
-						</figure>
-				</div>
-				<div class="col-sm-6">
-					<figure>
-				<img class="img-responsive floatright" src="images/PugetBeaches2.jpg" alt="Graphic that shows a developed shoreline, with a managed river, logged forests, and highly developed shorelines"/>
-						<figcaption><strong>After development.</strong> Graphic from King County</figcaption>
-						</figure>
-				</div>
-				
-			</div><br><br>
+			<button class="button5"><a href="/pspnc-draft-credit-prices.php" target="_blank" style="color:white"><p class="PSPNC-font">Credit prices</p></a></button><br>
 			
-			<button class="button6"><a href="/pspnc-draft-federal-action.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
+			<button class="button6"><a href="/pspnc-draft-purchase-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Purchase credits</p></a></button><br>
 			
-			<button class="button7"><a href="/pspnc-draft-in-lieu-fee-program.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
-			
-			<button class="button4"><a href="/pspnc-draft-credit-prices.php" target="_blank" style="color:white"><p class="PSPNC-font">Credit prices</p></a></button><br>
-			
-			<button class="button5"><a href="/pspnc-draft-purchase-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Purchase credits</p></a></button><br>
-			
-			<button class="button6"><a href="/pspnc-draft-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
+			<button class="button7"><a href="/pspnc-draft-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 
 			<p class="last-update">Last updated: 9/7/23</p>
