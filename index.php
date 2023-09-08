@@ -191,8 +191,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/PSP-logo-rgbNews.jpg"  alt="Puget Sound Partnership logo"/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="/partnership-boards-overview.php">Leadership Council seeking nominations for Science Panel and Ecosystem Coordination Board</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/Cedar-overpass-web.jpg"  alt="Photo of an overpass over the Cedar River"/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/03/preventing-stormwater-pollution/">Preventing stormwater pollution protects what we care about</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
