@@ -127,7 +127,7 @@
 			
 			<button class="button5"><a href="/pspnc-credit-prices.php" target="_blank" style="color:white"><p class="PSPNC-font">Credit prices</p></a></button><br>
 			
-			<button class="button7"><a href="/pspnc-draft-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
+			<button class="button7"><a href="/pspnc-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 
 			<p class="last-update">Last updated: 9/7/23</p>
