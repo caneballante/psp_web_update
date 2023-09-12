@@ -310,6 +310,22 @@
 					
 							</div></div></div></div> <!--end col-->
 				</div><!--end row-->
+				
+				<div class="row text-left">
+				
+			 <!--end col-->
+				
+			<div class="col-md-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-inline">
+					<h6 class="margin-0-top">Shoreline Monitoring Toolbox</h6> 
+					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/news-images/shoreline-monitoring-toolbox.jpg" class="img-responsive img-rounded" alt=""/></a> 
+					<p class="psemp-products"><a href="https://sites.google.com/a/uw.edu/toolbox/home">View</a></p></span>
+								<p class="psemp-products">This toolbox emphasizes methods that are simple and affordable, and that can be used for monitoring.</p><br>
+					
+							</div></div></div></div> <!--end col-->
+				</div><!--end row-->
 			
 		</div><!--end container-->
 <!-- InstanceEndEditable --> </div>
