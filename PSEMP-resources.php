@@ -95,6 +95,18 @@
 			
 			<div class="col-md-4">
 					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2021 OVERVIEW</h6>
+					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/ps-marine-waters-report-2021.jpg" class="img-responsive img-rounded" alt="The cover photo from the Puget Sound Marine Waters 2021 Overview report, showing the silhouette of a seaplane flying over blue, green, and orange-colored Puget Sound water."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a></p></span>
+								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2021.</p><br>
+					
+						</div></div></div></div>
+			
+			<div class="col-md-4">
+					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
 					<h6 class="margin-0-top">Equity Guidebook</h6> 
@@ -103,7 +115,11 @@
 								<span class="no-icon"><p class="psemp-products">The purpose of the guidebook is to help the reader develop ideas about equity with the goal of visualizing and articulating environmental disparities in Puget Sound. The guidebook offers a framework made up of a few simple steps for building an analysis of Vital Signs with an equity lens.</p></span><br>
 					
 							</div></div></div></div> <!--end col-->
-				
+			
+			</div><!--end row-->	
+			
+		<div class="row text-left">
+			
 			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -114,12 +130,6 @@
 								<span class="no-icon"><p class="psemp-products">The goals of this virtual summit were to synthesize nearshore science and restoration actions in Puget Sound and create a roadmap that updates restoration conceptual models and identifies uncertainties to address.</p></span><br>
 					
 							</div></div></div></div> <!--end col-->
-			
-			<!--end col-->
-			
-			</div><!--end row-->	
-			
-		<div class="row text-left">
 			
 			<div class="col-md-4">
 					<div class="card">
@@ -143,7 +153,15 @@
 					
 							</div></div></div></div> <!--end col-->
 				
-			<div class="col-md-4">
+			
+			
+			 <!--end col-->
+			
+			</div><!--end row-->
+			
+			<div class="row text-left">
+				
+				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -153,12 +171,6 @@
 								<p class="psemp-products">This project prioritizes contaminants of emerging concern (CECs) for monitoring efforts and management responses. Hundreds of CECs such as pharmaceuticals, plasticizers, and pesticides have been found in Puget Sound.</p><br>
 					
 							</div></div></div></div> <!--end col-->
-			
-			 <!--end col-->
-			
-			</div><!--end row-->
-			
-			<div class="row text-left">
 				
 				<div class="col-md-4">
 					<div class="card">
@@ -183,7 +195,11 @@
 							</div></div></div></div> <!--end col-->
 			
 
-			<div class="col-md-4">
+			</div><!--end row-->
+			
+			<div class="row text-left">
+				
+				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -193,11 +209,6 @@
 								<span class="no-icon"><p class="psemp-products">This project includes a model for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53">index of vulnerability to nitrates in groundwater</a> and the first Vital Sign indicator report for the vulnerability index indicator.</p></span><br>
 					
 							</div></div></div></div> <!--end col-->
-				
-			 <!--end col-->
-			</div><!--end row-->
-			
-			<div class="row text-left">
 				
 				<div class="col-md-4">
 					<div class="card">
