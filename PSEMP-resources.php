@@ -221,8 +221,13 @@
 					
 							</div></div></div></div> <!--end col-->
 				
-			
-			<div class="col-md-4">
+				
+			 <!--end col-->
+			</div><!--end row-->
+							
+			<div class="row text-left">
+				
+				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -231,12 +236,7 @@
 					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/42">View</a></p></span>
 								<p class="psemp-products">This project included HPA-based data compilation; Vital Sign indicator reporting for 2019 and 2020; and a Vital Sign decadal summary report and final data product.</p><br>
 					
-							</div></div></div></div> <!--end col-->
-				
-			 <!--end col-->
-			</div><!--end row-->
-							
-			<div class="row text-left">
+							</div></div></div></div>
 				
 				<div class="col-md-4">
 					<div class="card">
@@ -260,6 +260,13 @@
 					
 							</div></div></div></div> <!--end col-->
 				
+				
+				
+				 <!--end col-->
+				
+			</div><!--end row-->
+				
+			<div class="row text-left">
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -269,15 +276,9 @@
 						 
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/j0ewieqtxk5haxhtc7hdaqorbe7iq8ua">View</a></p></span>
 								<p class="psemp-products">The PSEMP Marine Birds Work Group convened a wide cross-section of bird monitoring groups to develop a common framework for monitoring birds.</p><br>
-							</div></div></div></div><!--end col-->
-				
-				 <!--end col-->
-				
-			</div><!--end row-->
-				
-			<div class="row text-left">
-				
-			<div class="col-md-4">
+							</div></div></div></div>
+			
+				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -299,16 +300,6 @@
 					
 							</div></div></div></div> <!--end col-->
 				
-			<div class="col-md-4">
-					<div class="card">
-						<div class="card-body">
-							<div class="d-inline">
-					<h6 class="margin-0-top">Shoreline Monitoring Toolbox</h6> 
-					<span class="no-icon"><a href="https://sites.google.com/a/uw.edu/toolbox/home"><img src="images/news-images/shoreline-monitoring-toolbox.jpg" class="img-responsive img-rounded" alt=""/></a> 
-					<p class="psemp-products"><a href="https://sites.google.com/a/uw.edu/toolbox/home">View</a></p></span>
-								<p class="psemp-products">This toolbox emphasizes methods that are simple and affordable, and that can be used for monitoring.</p><br>
-					
-							</div></div></div></div> <!--end col-->
 				</div><!--end row-->
 				
 				<div class="row text-left">
