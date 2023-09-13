@@ -351,7 +351,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://pspwa.box.com/shared/static/x69yrpovb3658iugtnik6gf0aidjaogs.pdf">Organizational Chart</a></li>
+				<!--<li role="presentation">Organizational Chart</li> -->
 				
 				<!-- InstanceEndEditable -->
 			</ul>
