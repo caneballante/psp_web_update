@@ -273,6 +273,9 @@
 						<h5>Rebecca Hollender</h5>
 						<p>Social Sciences Coordinator<br>
 							360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
+						<h5>Katie Love</h5>
+						<p>Washington Sea Grant Hershman Fellow<br>
+							360.789.3324 | <a href="mailto:katie.love@psp.wa.gov">katie.love@psp.wa.gov</a></p>
 						
 						
 
