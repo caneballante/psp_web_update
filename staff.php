@@ -89,9 +89,8 @@
 						<p> Special Assistant to the Director<br />
 							360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br /></p>
 	
-						<h5>Melissa Schutten</h5>
-						<p>Equity and Environmental Justice Manager<br />
-						360.870.6165 | <a href="mailto:melissa.schutten@psp.wa.gov">melissa.schutten@psp.wa.gov</a></p>
+						<h5>VACANT</h5>
+						<p>Equity and Environmental Justice Manager<br /></p>
 			
 						<h5>Lea Anne Burke</h5>
 						<p>Tribal Affairs Manager<br>
