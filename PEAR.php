@@ -101,7 +101,7 @@
                     <td><p>Executive Director</p></td>
                 </tr>
                 <tr>
-                    <td><p>Mellisa Schutten</p></td>
+                    <td><p>Vacant</p></td>
                     <td><p>Equity and Environmental Justice Manager</p></td>
                 </tr>
                 <tr>
