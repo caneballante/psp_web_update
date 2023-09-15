@@ -162,8 +162,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/PSAR.jpg"  alt="HEAL Act - "/> <strong>PUBLIC COMMENT PERIOD</strong><br>
-						<a href="https://www.psp.wa.gov/PSAR.php">The 2025-2027 PSAR RFP is out for public comment until September 14, 2023 </a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/samish-bay.jpg"  alt="Aerial photo of shellfish beds in Samish Bay. Photo from Sakgit County Public Works"/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/02/protecting-and-restoring-shellfish-beds/">Protecting and restoring shellfish beds throughout Puget Sound</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
