@@ -194,10 +194,8 @@
 						<h3 class="padding-10-top">ECOSYSTEM RECOVERY TEAM</h3>
 						
 
-						<h5>Rebecca Hollender</h5>
-						<p>Lead Ecosystem Recovery Coordinator<br>
-							<em></em>
-							360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
+						<h5>VACANT</h5>
+						<p>Lead Ecosystem Recovery Coordinator<br></p>
 
 						<h5>Matthew Colston</h5>
 						<p>Ecosystem Recovery Coordinator<br>
@@ -260,8 +258,6 @@
 						<h5>Nathalie Hamel</h5>
 						<p> Vital Signs Lead<br/>
 							360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
-
-
 						<h5>Mary Ramirez</h5>
 						<p> Monitoring Performance Analyst<br>
 							360.764.6149 | <a href="mailto:mary.ramirez">mary.ramirez@psp.wa.gov</a></p>
@@ -274,6 +270,9 @@
 						<h5>Megan Wilson</h5>
 						<p>Salmon Monitoring Data Steward<br>
 							360.522.0546 | <a href="mailto:megan.wilson@psp.wa.gov">megan.wilson@psp.wa.gov</a></p>
+						<h5>Rebecca Hollender</h5>
+						<p>Social Sciences Coordinator<br>
+							360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
 						
 						
 
@@ -342,7 +341,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 8/11/23</p>
+	<p class="last-update">Last updated: 9/15/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
