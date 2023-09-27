@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BGEZ5L3EJY"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K5R1WLJ6VJ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-BGEZ5L3EJY');
-</script>	
+  gtag('config', 'G-K5R1WLJ6VJ');
+</script>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,7 +59,7 @@
 						<img src="images/HealAct-logo-wte.png" alt="" width="368" height="175"/><br>
 
 					
-						<p>The passage of the Healthy Environment for All (HEAL) Act in 2021 identifies the Partnership as one of seven agencies mandated to develop policies and programs most directly impactful to environmental justice </p>
+						<p>The passage of the Healthy Environment for All (HEAL) Act in 2021 identifies the Partnership as one of seven agencies mandated to develop policies and programs most directly impactful to environmental justice!</p>
 
 						<div class="learn-more-box no-icon fontweight-400"><a href="https://www.psp.wa.gov/HEAL-environmental-justice-assessments.php">LEARN ABOUT OUR LATEST PROGRESS: ENVIRONMENTAL JUSTICE ASSESSMENTS</a></div>
 						
@@ -378,15 +378,6 @@
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
 <!-- Google Tracking  --> 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-69373425-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 </body>
 </html>
