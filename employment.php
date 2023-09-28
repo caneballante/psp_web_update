@@ -81,7 +81,11 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 			
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4208762/fiscal-and-budget-analyst-exempt">Fiscal and Budget Analyst (Exempt)</a></p>
+		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4173232/administrative-services-support-specialist-exempt">Administrative Services Support Specialist (Exempt)</a></p>
+			
+			<p>The Partnership’s Administrative Services Support Specialist will provide support for the Internal Operations Division by facilitating work planning activities, managing public disclosure requests and records retention, and conducting research for policy development. The annual range of compensation is between $71,500.00 - $86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment period is open through Wednesday, October 11.</p><br>
+			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4208762/fiscal-and-budget-analyst-exempt">Fiscal and Budget Analyst (Exempt)</a></p>
 			
 			<p>The Partnership’s Fiscal and Budget Analyst performs a variety of senior-level fiscal activities for the agency: responsible for accounts payables, accounts receivables, purchase/travel card, travel reimbursements, timesheets, and assists in planning, monitoring, and controlling of budgets. This position is responsible for ensuring that all expenditures are made in accordance with state and federal law; budget and expenditure data is accurately reflected in the agency’s budget and accounting records; and fiscal policy and procedures are established and conducted in accordance with Generally Accepted Accounting Principles (GAAP) and the State Accounting and Administrative Manual (SAAM).</p>
 			
@@ -101,7 +105,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 9/21/23</p>
+		<p class="last-update">Last updated: 9/28/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
