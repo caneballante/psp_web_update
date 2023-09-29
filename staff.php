@@ -120,6 +120,10 @@
 						<h5>Jennifer Grimm</h5>
 						<p>Strategic Funding Manager<br />
 						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
+			
+						<h5>Jessica Reynolds</h5>
+						<p>Funding Barrier Strategist<br>
+							360.870.6165 | <a href="mailto:jessica.reynolds@psp.wa.gov">jessica.reynolds@psp.wa.gov</a></p>
 						 <!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
 						<h5>Kirsten Feifel</h5>
@@ -343,7 +347,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 9/19/23</p>
+	<p class="last-update">Last updated: 9/29/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
