@@ -252,9 +252,9 @@
 						<h5>Katherine Wyatt</h5>
 						<p>Assistant Science Director<br />
 						360.918.1098 | <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></p>
-						<h5>Jenna Judge</h5>
-						<p> Monitoring Lead<br/>
-							360.870.1467 | <a href="mailto:jenna.judge@psp.wa.gov">jenna.judge@psp.wa.gov</a><br></p>  
+						<h5>Vacant</h5>
+						<p> PSEMP Manager<br/>
+						</p>  
 						<h5>Katrina Radach</h5>
 						<p> Monitoring Network Coordinator<br/>
 							360.764.0272 | <a href="mailto:katrina.radach@psp.wa.gov">katrina.radach@psp.wa.gov</a></p>
@@ -347,7 +347,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 9/29/23</p>
+	<p class="last-update">Last updated: 10/02/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
