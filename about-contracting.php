@@ -96,7 +96,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-			<a href="https://app.powerbigov.us/view?r=eyJrIjoiNjE3ZGJlYTktMGFkYy00OWNlLTgyYWUtYjMyMDBkNWM0ZDE5IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9&pageName=ReportSection4135b7dbe5123b276369">Bipartisan Infrastructure Law (BIL) funding opportunities for Puget Sound recovery</a>
+			
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
