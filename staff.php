@@ -217,8 +217,7 @@
 						<p>Puget Sound Recovery Integration Manager<br>
 							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
 						<h5>Hannah Liss</h5>
-						<p>Ecosystem Recovery Coordinator<br>
-							<em>LE Support</em><br>
+						<p>Salmon Recovery Coordinator<br>
 							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
 
 						<h5>Harriet Booth</h5>
@@ -347,7 +346,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 10/02/23</p>
+	<p class="last-update">Last updated: 10/05/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
