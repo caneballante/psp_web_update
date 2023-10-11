@@ -81,7 +81,11 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 			
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4225976/puget-sound-ecosystem-monitoring-program-psemp-manager-exempt">Puget Sound Ecosystem Monitoring Program (PSEMP) Manager</a></p>
+		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4182404/equity-and-environmental-justice-manager-exempt">Equity and Environmental Justice Manager</a></p>
+			
+			<p>The Partnership’s Equity and Environmental Justice Manager develops and oversees the execution of the Partnership’s DEI and Environmental Justice Action Plan, including the incorporation of strategic activities into the agency’s work programs. This position also leads the Equity and Environmental Justice Program and a team of three staff members. The annual range of compensation is between $85,031 - $96,091. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment period is open through Oct. 22.</p><br>
+			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4225976/puget-sound-ecosystem-monitoring-program-psemp-manager-exempt">Puget Sound Ecosystem Monitoring Program (PSEMP) Manager</a></p>
 			
 			<p>The Partnership’s Puget Sound Ecosystem Monitoring Program (PSEMP) Manager is responsible for managing the overall coordination and support of PSEMP and supervising one FTE employee. PSEMP, which is a broad network of monitoring experts and organizations, is a key element of the Puget Sound Partnership’s strategic science program and the center of the Partnership’s efforts to enable strategic learning about ecosystem conditions and the impact of ecosystem recovery efforts. The annual range of compensation for this position is between $90,693 – $103,965. The expected hiring salary will typically be less than the top of the range to allow for growth and development progression increases.  Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment period is open through Oct. 24.</p><br>
 			
@@ -113,7 +117,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 10/5/23</p>
+		<p class="last-update">Last updated: 10/11/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
