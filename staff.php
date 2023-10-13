@@ -96,6 +96,10 @@
 						<p>Tribal Affairs Manager<br>
 						360.628.7532 | <a href="mailto:lea-anne.burke@psp.wa.gov">lea-anne.burke@psp.wa.gov</a></p>
 			
+						<h5>Signe Lindquist</h5>
+						<p>Community Engagement Coordinator<br>
+						| <a href="mailto:signe.lindquist@psp.wa.gov">signe.lindquist@psp.wa.gov</a></p>
+			
 			
 						<h5>Jackelyn Garcia</h5>
 						<p>Equity Fellow<br>
@@ -326,9 +330,8 @@
 						<h5>Shannon Sanders</h5>
 						<p>Contracts Coordinator<br />
 							360.688.3772 | <a href="mailto:shannon.sanders@psp.wa.gov">shannon.sanders@psp.wa.gov</a></p>						
-						<h5>Arnaud Muamba</h5>
-						<p>Fiscal Analyst<br>
-							360.628.7476 | <a href="mailto:arnaud.muamba@psp.wa.gov">arnaud.muamba@psp.wa.gov</a></p>
+						<h5>VACANT</h5>
+						<p>Fiscal Analyst<br></p>
 						<h5>VACANT</h5>
 						<p>Budget Analyst<br />
 							</p>
@@ -346,7 +349,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 10/05/23</p>
+	<p class="last-update">Last updated: 10/13/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
