@@ -98,7 +98,7 @@
 			
 						<h5>Signe Lindquist</h5>
 						<p>Community Engagement Coordinator<br>
-						| <a href="mailto:signe.lindquist@psp.wa.gov">signe.lindquist@psp.wa.gov</a></p>
+						360.688.4049 | <a href="mailto:signe.lindquist@psp.wa.gov">signe.lindquist@psp.wa.gov</a></p>
 			
 			
 						<h5>Jackelyn Garcia</h5>
@@ -349,7 +349,7 @@
 						<h5>Austin Johnson</h5>
 						<p>IT Intern<br>
 							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 10/13/23</p>
+	<p class="last-update">Last updated: 10/16/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
