@@ -81,7 +81,11 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 			
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4182404/equity-and-environmental-justice-manager-exempt">Equity and Environmental Justice Manager</a></p>
+		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4240751/grants-contracts-and-compliance-manager-exempt">Grants, Contracts, and Compliance Manager</a></p>
+			
+			<p>The Partnership’s Grants, Contracts, and Compliance Manager serves as the agency expert for contracts, procurements and federal compliance and supervises 2 contract coordinators. The annual range of compensation is between $86,000-106,000. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment period is open through Oct. 30.</p><br>
+			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4182404/equity-and-environmental-justice-manager-exempt">Equity and Environmental Justice Manager</a></p>
 			
 			<p>The Partnership’s Equity and Environmental Justice Manager develops and oversees the execution of the Partnership’s DEI and Environmental Justice Action Plan, including the incorporation of strategic activities into the agency’s work programs. This position also leads the Equity and Environmental Justice Program and a team of three staff members. The annual range of compensation is between $85,031 - $96,091. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment period is open through Oct. 22.</p><br>
 			
@@ -117,7 +121,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 10/11/23</p>
+		<p class="last-update">Last updated: 10/16/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
