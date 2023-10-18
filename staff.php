@@ -179,7 +179,7 @@
 						360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
 						
 						<!--INTEGRATED PLANNING TEAM-->
-						<h2>INTEGRATED PLANNING PROGRAM</h2>
+						<h2>ECOSYSTEM RECOVERY PROGRAM</h2>
 						<h5>VACANT</h5>
 						<p>Planning Program Director<br></p>
 						<!--PLANNING TEAM-->
