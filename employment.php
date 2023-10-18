@@ -81,7 +81,11 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 			
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4245133/director-of-ecosystem-recovery-exempt">Director of Ecosystem Recovery</a></p>
+		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4244574/contracts-coordinator-project">Contracts Coordinator (Project)</a></p>
+			
+			<p>The Partnership’s Contracts Coordinator (Project) will lead contract activities for several of the agency’s largest programs and provide expert level consultation and assistance with questions and complex contract fiscal budget matters to ensure funds are used in the most effective and efficient manner possible. The annual range of compensation is between $83,161-94,553. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment is open through Oct. 31. </p><br>
+			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4245133/director-of-ecosystem-recovery-exempt">Director of Ecosystem Recovery</a></p>
 			
 			<p>The Partnership’s Director of Ecosystem Recovery oversees three of the agency’s programs and supervises five staff members who manage ecosystem recovery planning and implementation, the systems that track and communicate ecosystem recovery plans and their implementation, adaptive management, accountability, and coordination of the Local Implementation Organizations (LIO). This leadership position will serve on the agency’s Leadership Team and develop the State of Washington’s goals and strategies for achieving Puget Sound recovery, including setting targets, ensuring system-wide accountability for achieving state goals and targets, and implementing adaptive management to ensure effective implementation of the Action Agenda. The annual range of compensation is between $113,919 - $127,590. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment is open through Oct. 31. </p><br>
 			
@@ -125,7 +129,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 10/16/23</p>
+		<p class="last-update">Last updated: 10/18/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
