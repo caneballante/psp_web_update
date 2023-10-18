@@ -97,7 +97,9 @@
 			<h2>Prioritizing State Agency Budget Requests</h2>
 			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. The Partnership shares this list with the Office of Financial Management, relevant legislative committee members and staff, and our partners. As the Governor and legislators release their respective budget proposals, the Partnership updates information about the Puget Sound Budget to reflect the most recent information.</p>
 			
-			<p>Click the image below for the ranking of the 2023-2025 biennial budget requests.</p>
+			<p>Click the images below for the ranking of the budget requests, for both the main 2023-25 biennial and 2024 supplemental budgets.</p>
+			
+			<a href="https://pspwa.box.com/s/gyt67oko9kx1cajsyzzlfovxlvebx8ba"><img src="images/budget-2024-screenshot.jpg" class="img-responsive" width="100%" alt="Screenshot of the 2024 supplemental Puget Sound Budget Rankings produced by the Puget Sound Partnership"></a><br><br>
 			
 			<a href="https://pspwa.box.com/s/owm36i5u0upo7m7km1t14dsreb7vajxb"><img src="images/Budget2325Screenshot.jpg" class="img-responsive" width="100%" alt="Screenshot of the 2023-2025 Puget Sound Budget Rankings produced by the Puget Sound Partnership."></a>
 			
@@ -120,7 +122,7 @@
 		</div>
 			
 			
-			<p class="last-update">Last updated: 03/20/23</p>
+			<p class="last-update">Last updated: 10/13/23</p>
 			
 		
 			
