@@ -128,6 +128,8 @@
 						<h5>Jessica Reynolds</h5>
 						<p>Funding Barrier Strategist<br>
 							360.870.6165 | <a href="mailto:jessica.reynolds@psp.wa.gov">jessica.reynolds@psp.wa.gov</a></p>
+						<h5>VACANT</h5>
+						<p>Grant Writer and Strategist</p>
 						 <!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
 						<h5>Kirsten Feifel</h5>
@@ -177,11 +179,14 @@
 						<h5>Chase Nuuhiwa</h5>
 						<p>Visual Communications Lead<br>
 						360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
+						<h5>VACANT</h5>
+						<p> Communications Specialist <br>
+						</p>
 						
 						<!--INTEGRATED PLANNING TEAM-->
 						<h2>ECOSYSTEM RECOVERY PROGRAM</h2>
 						<h5>VACANT</h5>
-						<p>Planning Program Director<br></p>
+						<p>Director of Ecosystem Recovery<br></p>
 						<!--PLANNING TEAM-->
 						<h3 class="padding-10-top">PLANNING TEAM</h3>
 						<h5>Dan Stonington</h5>
@@ -202,11 +207,10 @@
 						
 
 						<h5>VACANT</h5>
-						<p>Lead Ecosystem Recovery Coordinator<br></p>
+						<p>Puget Sound Recovery Strategist<br></p>
 
 						<h5>Matthew Colston</h5>
-						<p>Ecosystem Recovery Coordinator<br>
-							<em>LIO Support</em><br>
+						<p>Puget Sound Recovery Strategist<br>
 							360.968.9924 | <a href="mailto:matthew.colston@psp.wa.gov">matthew.colston@psp.wa.gov</a></p>
 			
 						<h5>Jason Lim</h5>
@@ -229,8 +233,7 @@
 							360.819.7232 | <a href="mailto:harriet.booth@psp.wa.gov">harriet.booth@psp.wa.gov</a></p>
 
 						<h5>Juliana Tadano</h5>
-						<p> Ecosystem Recovery Coordinator<br/>
-							<em>LIO Support</em><br>
+						<p>Puget Sound Recovery Strategist<br/>
 							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
 							</p>
 
@@ -313,6 +316,8 @@
 						<p>Agency Workplan and EPA Grant Coordinator<br />
 							360.819.0530 | <a href="mailto:jennifer.carlson@psp.wa.gov">jennifer.carlson@psp.wa.gov</a>
 						   </p>
+						<h5>VACANT</h5>
+						<p>Administrative Services Specialist</p>
 						<!--FISCAL PROGRAM-->
 						<h3 class="padding-10-top">FISCAL PROGRAM</h3>
 						<h5>Sheridan Tabor</h5>
@@ -329,11 +334,13 @@
 							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
 						<h5>Shannon Sanders</h5>
 						<p>Contracts Coordinator<br />
-							360.688.3772 | <a href="mailto:shannon.sanders@psp.wa.gov">shannon.sanders@psp.wa.gov</a></p>						
+							360.688.3772 | <a href="mailto:shannon.sanders@psp.wa.gov">shannon.sanders@psp.wa.gov</a></p>
 						<h5>VACANT</h5>
-						<p>Fiscal Analyst<br></p>
+						<p>Contracts Coordinator</p>
 						<h5>VACANT</h5>
-						<p>Budget Analyst<br />
+						<p>Fiscal and Budget Analyst<br></p>
+						<h5>VACANT</h5>
+						<p>Fiscal and Budget Analyst<br />
 							</p>
 						<!--IT-->        
 						<h3 class="padding-10-top">IT TEAM</h3>
@@ -346,10 +353,8 @@
 						<h5>Justine Sharp</h5>
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
-						<h5>Austin Johnson</h5>
-						<p>IT Intern<br>
-							360.867.8647 | <a href="mailto:austin.johnson@psp.wa.gov">austin.johnson@psp.wa.gov</a></p>
-	<p class="last-update">Last updated: 10/16/23</p>
+						
+	<p class="last-update">Last updated: 10/18/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
