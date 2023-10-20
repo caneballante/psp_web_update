@@ -110,7 +110,7 @@
 				He taught himself how to fish and then passed those skills on to several of his sons and a nephew. Russell started in natural resources as a water quality technician in 1995, then soon was asked to represent his tribe as a commissioner on the Northwest Indian Fisheries Commission.</p>
 			<p>While serving the commission for the past 18 years, he has also served on his tribal council for 16 years, formerly as chair and currently as vice chair. Since 2005, he has served as his tribe's delegate to the Indian Policy Advisory Committee for the Washington State Department of Social & Health Services. He has also been his tribe's delegate to the Coast Salish Gathering since its inception in 2006. When he's not working, he loves spending time in the outdoors, camping and fishing. </p>
 			
-			<h2>Dave Herrera</h2>
+			<h2>Member: Dave Herrera</h2>
 			<p><strong>Term ends:</strong> June 25, 2027<br />
 				<strong>Biography:</strong> Dave Herrera has spent his career protecting and restoring Tribal treaty resources. He has worked in Tribal fisheries and natural resources programs for over 30 years, and he has served the Skokomish Indian Tribe in a policy position for more than a decade. Since 2007, Herrera has been a Tribal government representative on the Partnership’s Ecosystem Coordination Board, which advises the Leadership Council on carrying out its responsibilities. He has served as the board’s vice chair for 15 years. He was a founding member of the board’s land use subcommittee and helped establish its mission, which is to provide recommendations for land use regulations, policies, and implementation that ensure the protection and restoration of habitat in watersheds for the future of all species.</p> 
 				
