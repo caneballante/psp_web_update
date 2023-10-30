@@ -303,9 +303,9 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">DEC<br>
-						6</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
+					<div class="newsbox-date">NOV<br>
+						30</div>
+					<div class="newsbox-text"><a href="board_meetings.php">ALL BOARDS - 2024 legislative priorities<br>
 						<br>
 						</a><br>
 					</div>
@@ -318,12 +318,12 @@
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
 					<div class="newsbox-date">DEC<br>
-						14</div>
-					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
+						6</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
 						<br>
 						</a><br>
 					</div>
-					<!--END news content--> 
+					<!--END news content-->  
 				</div>
 			</div>
 			<!--COLUMN END--> 
