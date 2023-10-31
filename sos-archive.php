@@ -71,7 +71,15 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		
+		
 			<h2 class="margin-0-top">State of the Sound archive</h1>
+			<h3>2021 State of the Sound</h3>
+			<ul>
+				<li><a href="https://pspwa.box.com/shared/static/8axpa1vumenqgrk7lxk4rlwcmprxz03l.pdf">2021 State of the Sound</a></li>
+			</ul>
+            
+				
 			<h3>2019 State of the Sound</h3>
 			<ul>
 				<li><a href="https://pspwa.box.com/shared/static/5epess0s133sinenwmq3w0ee8uk69xky.pdf">2019 State of the Sound</a></li>
