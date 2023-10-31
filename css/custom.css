@@ -402,6 +402,9 @@ display: block
 .margin-0-left {
 	margin-left: 0px;
 }
+.margin-5-left {
+	margin-left: 5px;
+}
 .margin-10-left {
 	margin-left: 10px;
 }
@@ -456,6 +459,9 @@ display: block
 
 .line-height-tight {
 	line-height: 10px;
+}
+.line-height-lesstight {
+	line-height: 1em;
 }
 .border-top {
 	border-top: dotted 1px #434343;
@@ -673,9 +679,9 @@ display: block
 	height: 500px;
 	padding: 20px 0;
 	margin: auto;
-	text-align: center;
+	text-align: right;
 	color: #fff;
-	background: url("../images/home_image20.jpg")no-repeat bottom center scroll;
+	background: url("../images/home_image_2023SOS.jpg")no-repeat bottom center scroll;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -692,7 +698,14 @@ display: block
 	font-size: 30px;
 	text-shadow: 2px 2px #000;
 }
-
+.intro-SOS p {
+	text-shadow: 2px 2px #000;
+}
+.phack a {
+	font-size: 1em !important;
+	line-height: 1em;
+	font-family: georgia, times, serif;
+}
 .intro-AA {
 	display: table;
 	width: 100%;
