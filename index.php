@@ -63,10 +63,10 @@
 							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://www.stateofthesound.wa.gov">LEARN MORE ABOUT THE REPORT</a></div>
 						</div>
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/ijudsxn5pcnl614485td4lgwc3j4wcmi.pdf">DOWNLOAD THE REPORT (ENGLISH) </a></div>
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/ijudsxn5pcnl614485td4lgwc3j4wcmi.pdf">STATE OF THE SOUND IN ENGLISH </a></div>
 						</div>
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/v5yuglnxawmwfyl1t1e7y33riydpclpn.pdf">DOWNLOAD THE REPORT (SPANISH) </a></div>
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/v5yuglnxawmwfyl1t1e7y33riydpclpn.pdf">STATE OF THE SOUND EN ESPANOL</a></div>
 						</div>
 						
 					</div>
@@ -347,21 +347,7 @@
 	</div>
 </div>	
 
-	<header class="intro-SOS">
-		<div class="intro-body">
-			<div class="container-fluid margin-40-top">
-				<div class="row">
-					<div class="col-md-8 col-md-offset-2">
-						<h1 class="emsize-3 fontweight-400">2021 State of the Sound<br>
-						</h1>
-						<div class="learn-more-box no-icon fontweight-400"><a href="https://www.stateofthesound.wa.gov">READ THE REPORT</a></div>
-						&nbsp;
-						<div class="learn-more-box no-icon fontweight-400"><a href="https://www.youtube.com/watch?v=NPY_kF7o0oo">WATCH THE VIDEO</a></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
+	
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-xs-12 white_fill"><br>
