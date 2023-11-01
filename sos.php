@@ -82,6 +82,7 @@
             <p><strong><a href="https://www.stateofthesound.wa.gov">State of the Sound Website</a></strong><br>
         The website  presents the 2023 State of the Sound Executive Summary and the Call to Action for recovery partners. </p>
             <p><strong><a href="https://pspwa.box.com/shared/static/8axpa1vumenqgrk7lxk4rlwcmprxz03l.pdf">Download the State of the Sound Report (PDF)</a></strong></p>
+			<p><strong><a href="https://pspwa.box.com/shared/static/v5yuglnxawmwfyl1t1e7y33riydpclpn.pdf">Download the State of the Sound Report (Espanol PDF)</a></strong></p>
         
 		<!-- InstanceEndEditable --> </div>
 		

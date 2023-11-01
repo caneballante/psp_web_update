@@ -51,17 +51,23 @@
 		</div>
 	</div>
 </header>-->
-	<header class="intro-HEAL">
+	<header class="intro-SOS">
 		<div class="intro-body">
 			<div class="container-fluid margin-40-top">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
-						<img src="images/HealAct-logo-wte.png" alt="" width="368" height="175"/><br>
+						<h1><strong>2023 State of the Sound	</strong></h1>
+						<p><strong>The State of the Sound assesses the health of the Puget Sound ecosystem and progress towards its recovery</strong></p>
 
-					
-						<p>The passage of the Healthy Environment for All (HEAL) Act in 2021 identifies the Partnership as one of seven agencies mandated to develop policies and programs most directly impactful to environmental justice!</p>
-
-						<div class="learn-more-box no-icon fontweight-400"><a href="https://www.psp.wa.gov/HEAL-environmental-justice-assessments.php">LEARN ABOUT OUR LATEST PROGRESS: ENVIRONMENTAL JUSTICE ASSESSMENTS</a></div>
+						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://www.stateofthesound.wa.gov">LEARN MORE ABOUT THE REPORT</a></div>
+						</div>
+						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/ijudsxn5pcnl614485td4lgwc3j4wcmi.pdf">DOWNLOAD THE REPORT (ENGLISH) </a></div>
+						</div>
+						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/v5yuglnxawmwfyl1t1e7y33riydpclpn.pdf">DOWNLOAD THE REPORT (SPANISH) </a></div>
+						</div>
 						
 					</div>
 				</div>
@@ -133,7 +139,7 @@
 			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">Puget Sound Vital Signs</a></div>
 			<div class="padding-5-bottom"><a href="/PSEMP-overview.php">Ecosystem monitoring (PSEMP)</a> </div>
 			<div class="padding-5-bottom"><a href="science-and-evaluation-overview.php">Science and evaluation overview</a></div>
-			<div class="padding-5-bottom"><a href="https://www.stateofthesound.wa.gov">2021 State of the Sound</a> </div>
+			<div class="padding-5-bottom"><a href="https://www.stateofthesound.wa.gov">2023 State of the Sound</a> </div>
 			<div class="padding-5-bottom"><a href="https://www.pugetsoundinfo.wa.gov">Puget Sound Info</a></div>
 			<div class="padding-5-bottom"><a href="https://data-wa-psp.hub.arcgis.com/">Recovery Spatial Data and Tools</a></div>
 		</div>
