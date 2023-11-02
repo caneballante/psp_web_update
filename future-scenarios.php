@@ -74,7 +74,9 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2><span class="new-red">NEW:</span> Future Scenarios and Smart Growth Workshops</h2>
+			<div class="highlightbox margin-0-top margin-20-bottom">
+			
+			<h2 class="margin-0-top"><span class="new-red">NEW:</span> Future Scenarios and Smart Growth Workshops</h2>
 			
 			<p>On Nov. 7 the Future Scenarios project will host a day-long workshop intended to use the alternative futures to explore smart growth. The workshop will look at the updated versions of the future scenarios which are as follows.</p>
 			
@@ -84,7 +86,9 @@
 			
 			<h3>Alternative 3 – Stewardship and Rural Living:</h3> <p>Explores a future where government cohesion and willingness to act is low but where human perceptions and behaviors are very aligned and positive toward Puget Sound. In this future, people distribute themselves more evenly across the Puget Sound region and prefer rural living to urban centers. Cities grow less rapidly and are less dense. Non- and quasi-government actors play a strong role in supporting individuals in implementing best management practices and taking other individual actions to slow Puget Sound decline and implement neighborhood-scale restorations. <a href="https://pspwa.box.com/s/xspjum0qy94973s5fisrxbft2t9r988k">Read more</a>.</p>
 			
-			<p>See the rest of the workshop materials here. For more information or to register for the workshop please contact Andres Sheikh. </p>
+			<p>See the rest of the <a href="https://pspwa.box.com/s/96qnz9sdesctdcvrklpnljnim9xxjdw8">workshop materials here</a>. For more information or to register for the workshop please contact Andres Sheikh at <a href="mailto:asheikh@rossstrategic.com">asheikh@rossstrategic.com</a>. </p>
+				
+			</div>
 
 			
 			
