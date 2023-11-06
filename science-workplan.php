@@ -74,7 +74,18 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		 
+		<div class="highlightbox">
+			<h2 class="margin-0-top"><span class="new-red">NEW! </span>SCIENCE WORK PLAN FOR 2025-2029 </h2>
+<p>Beginning in November 2023 the Partnership will begin developing a Science Work Plan for the period 2025-2029. Partnership staff and Panel members will engage the science community, Tribes, community-based organizations, and others to understand information needs, ongoing research and information gathering, and remaining gaps, as well as opportunities to improve the development and transfer of knowledge in Puget Sound.  This understanding may come from publications or conversations. The Panel will develop science work actions and broader recommendations to complete the plan late in 2024.</p>
+
+<p>For more information, or to submit comments about science needs or recommendations to improve science to support Puget Sound recovery, contact:</p>
+
+<p>Scott Redman</p>
+<p>Science and Evaluation Director</p>
+<p>360.791.2879 | <a href="mailto:scott.redman@psp.wa.gov">Scott.Redman@psp.wa.gov</a></p></div>
+			
+		
+
 			<h2>The Science Work Plan for 2020-2024</h2>
 			<p>The Science Panel is a group of 14 top scientists in Washington State  and the Pacific Northwest that provides advice and guidance to the Puget Sound Partnership (Partnership) to develop a comprehensive, science-based plan to restore Puget Sound. </p>
 			<p>The Science Panel developed a Science Work Plan for 2020-2024 (<a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">access here</a>), which describes strategies to improve our collective understanding of Puget Sound. Implementing this Science Work Plan will generate information that the Puget Sound recovery community uses to improve decision-making and accelerate recovery across Puget Sound for the benefit of the people and communities in the region and the ecosystems on which they depend.  
