@@ -135,7 +135,7 @@
 							360.870.1467 | <a href="mailto:bebhinn.gilbert@psp.wa.gov">bebhinn.gilbert@psp.wa.gov</a></p>
 						<h5>Sadie Normoyle</h5>
 						<p>Strategic Funding Coordinator<br>
-							| <a href="mailto:sadie.normoyle@psp.wa.gov">sadie.normoyle@psp.wa.gov</a>
+							360.628.7476 | <a href="mailto:sadie.normoyle@psp.wa.gov">sadie.normoyle@psp.wa.gov</a>
 						 <!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
 						<h5>Kirsten Feifel</h5>
@@ -345,7 +345,7 @@
 						<p>Contracts Coordinator</p>
 						<h5>Zhen Zhen Yuan</h5>
 						<p>Fiscal and Budget Analyst<br>
-							| <a href="mailto:zhenzhen.yuan@psp.wa.gov">zhenzhen.yuan@psp.wa.gov</a></p>
+							360.827.1927 | <a href="mailto:zhenzhen.yuan@psp.wa.gov">zhenzhen.yuan@psp.wa.gov</a></p>
 						<h5>VACANT</h5>
 						<p>Fiscal and Budget Analyst<br />
 							</p>
