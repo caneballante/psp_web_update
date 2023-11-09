@@ -133,6 +133,9 @@
 						<h5>Bebhinn Gilbert</h5>
 						<p>Restoration and Transportation Funding Strategist<br>
 							360.870.1467 | <a href="mailto:bebhinn.gilbert@psp.wa.gov">bebhinn.gilbert@psp.wa.gov</a></p>
+						<h5>Sadie Normoyle</h5>
+						<p>Strategic Funding Coordinator<br>
+							360.628.7476 | <a href="mailto:sadie.normoyle@psp.wa.gov">sadie.normoyle@psp.wa.gov</a>
 						 <!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
 						<h5>Kirsten Feifel</h5>
@@ -340,8 +343,9 @@
 							360.688.3772 | <a href="mailto:shannon.sanders@psp.wa.gov">shannon.sanders@psp.wa.gov</a></p>
 						<h5>VACANT</h5>
 						<p>Contracts Coordinator</p>
-						<h5>VACANT</h5>
-						<p>Fiscal and Budget Analyst<br></p>
+						<h5>Zhen Zhen Yuan</h5>
+						<p>Fiscal and Budget Analyst<br>
+							360.827.1927 | <a href="mailto:zhenzhen.yuan@psp.wa.gov">zhenzhen.yuan@psp.wa.gov</a></p>
 						<h5>VACANT</h5>
 						<p>Fiscal and Budget Analyst<br />
 							</p>
@@ -357,7 +361,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 10/20/23</p>
+	<p class="last-update">Last updated: 11/9/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
