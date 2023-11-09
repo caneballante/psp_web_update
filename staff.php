@@ -133,6 +133,9 @@
 						<h5>Bebhinn Gilbert</h5>
 						<p>Restoration and Transportation Funding Strategist<br>
 							360.870.1467 | <a href="mailto:bebhinn.gilbert@psp.wa.gov">bebhinn.gilbert@psp.wa.gov</a></p>
+						<h5>Sadie Normoyle</h5>
+						<p>Strategic Funding Coordinator<br>
+							| <a href="mailto:sadie.normoyle@psp.wa.gov">sadie.normoyle@psp.wa.gov</a>
 						 <!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
 						<h5>Kirsten Feifel</h5>
@@ -357,7 +360,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 10/20/23</p>
+	<p class="last-update">Last updated: 11/9/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
