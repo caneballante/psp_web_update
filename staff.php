@@ -343,8 +343,9 @@
 							360.688.3772 | <a href="mailto:shannon.sanders@psp.wa.gov">shannon.sanders@psp.wa.gov</a></p>
 						<h5>VACANT</h5>
 						<p>Contracts Coordinator</p>
-						<h5>VACANT</h5>
-						<p>Fiscal and Budget Analyst<br></p>
+						<h5>Zhen Zhen Yuan</h5>
+						<p>Fiscal and Budget Analyst<br>
+							| <a href="mailto:zhenzhen.yuan@psp.wa.gov">zhenzhen.yuan@psp.wa.gov</a></p>
 						<h5>VACANT</h5>
 						<p>Fiscal and Budget Analyst<br />
 							</p>
