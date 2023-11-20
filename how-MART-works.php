@@ -80,62 +80,23 @@
 			<h3>Opportunities to streamline permits</h3>
 			<p>The permitting process (local, state, and federal) is complex, and several permits are interdependent. If you have a habitat recovery project that is ready to permit, we may be able to assist you with an expedited pathway through the process and provide direct access to a team of permitting agencies that will work with you through the entire process. The MART facilitator and members are contacted about projects through our partners and the Puget Sound recovery community. We select projects that are: 1) ecologically beneficial, 2) priority habitat projects within a watershed, 3) permit ready, and 4) projects with no previous violation or emergency actions (in a floodway).</p>
 			
-			<div class="container-fluid">
-		
-		
-		<div class="row text-left">
+			<h3>The process</h3>
 			
-			<div class="col-md-4">
-					<div class="card">
-							<div class="card-body">
-							<div class="d-inline">
-								<h5 class="margin-0-top">Multi-Agency Review Team</h5>
-								<p class="mart-font">The intent of the MART is to promote and implement habitat restoration as quickly and efficiently as possible within the Puget Sound Basin.</p>
-					
-					
-						</div></div></div></div>
+			<p><ol>
+				<li><p><strong>Federal permit applicant</strong> (or their consultant) determines conservation debits using the <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">Puget Sound Nearshore Conservation Calculator</a>.</p></li>
+				<li><p><strong>Federal permit applicant</strong> submits a completed calculator as part of <a href="https://www.epermitting.wa.gov/site/alias__resourcecenter/9978/default.aspx" target="new">permit application to the US Army Corps of Engineers</a>. Applicants should also indicate their intention to purchase Partnership conservation credits in that application package.</p></li>
+				<li><p>The Army Corps of Engineers submits the permit applicant’s calculator as part of a consultation package to NOAA Fisheries.</p></li>
+				<li><p>NOAA Fisheries works with applicants to avoid and minimize infrastructure and maintenance project-related impacts to nearshore habitat. Unavoidable impacts will require conservation offsets.</p></li>
+				<li><p>NOAA Fisheries verifies the amount of outstanding conservation necessary to account for unavoidable impacts and informs the Partnership of the finalized calculator total.</p></li>
+				<li class="no-icon"><button class="button3"><a href="https://wa-pspsign.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAG8UNV0sn_SVY4luxHRtCYhE7tavvL8G_EO79rvnm6O7RvdQR7wxuyL-OWZqdjekA*" target="new" style="color:white"><p class="PSPNC-font">Federal permit applicant submits project information and NMFS-verified final calculator.</p></a></button></li>
+				<li><p>Partnership verifies eligibility, requests any additional data, and provides presale agreement to the permittee for signature. </p></li>
+				<li><p><strong>Federal permit applicant</strong> and Partnership sign conservation credit presale agreement. Permittee may use the fully executed conservation credit presale agreement to satisfy outstanding conservation obligations, per their final Reasonable and Prudent Alternative decision from NOAA Fisheries.</p></li>
+				<li><p><strong>Federal permit applicant</strong> submits full payment and the Partnership confirms transfer of credit responsibility. Payment must be received by the expiration date in the presale agreement.</p></li>
+				<li><p><strong>Federal permit applicant</strong> may commence construction work on their infrastructure or maintenance.</p></li>
 			
-			<div class="col-md-4">
-					<div class="card">
-							<div class="card-body">
-							<div class="d-inline">
-								<h5 class="margin-0-top">How It Works</h5>
-					<p class="mart-font">Federal and state agencies in coordination with local agencies work with applicants to concurrently process permits to save time and effort.</p>
-					
-						</div></div></div></div>
+			</ol></p>
 			
-			<div class="col-md-4">
-					<div class="card">
-						<div class="card-body">
-							<div class="d-inline">
-					<h5 class="margin-0-top">Have a project in mind?</h5> 
-					<p class="mart-font">The MART works on ecologically beneficial projects in marine or freshwater environments that are permit ready and promote the recovery of Puget Sound Basin. Tell us more about your project to see if the MART can assist you.</p>
-					
-							</div></div></div></div> <!--end col-->
 			
-			</div><!--end row-->	
-				
-			</div><!--end container-->
-			<br>
-			
-			<button class="button6"><a href="" target="_blank" style="color:white"><p class="PSPNC-font">Let us help you streamline the permitting process with our multi-agency team. </p></a></button><br>
-			
-			<h2>About the MART</h2>
-			
-			<p>The Multi-Agency Review Team (MART) is a working group of the Puget Sound Federal Leadership Task Force (PSFLTF). The PSFLTF is a 16 federal agency group that collaborates with the Tribes and Washington State agencies on Puget Sound recovery actions and treaty rights. MART is a team of federal and state regulatory staff working together to streamline the permitting process for habitat recovery projects. The MART started as a 2-year pilot to test a facilitated, coordinated team approach to help permit ecologically beneficial restoration projects on marine shorelines. Due to its success, the MART is implementing this process and expanded its scope to freshwater restoration projects. Efforts focus on streamlining the federal permitting process in coordination with state and local permits.</p>
-			
-			<h3>MART members</h3>
-			
-			<p>Environmental Protection Agency (EPA), U.S. Army Corps of Engineers (USACE), National Marine Fisheries Service (NMFS), U.S. Fish and Wildlife Service (USFWS), Federal Emergency Management Agency (FEMA), WA Department of Fish and Wildlife (WDFW), WA Department of Ecology (Ecology), WA Department of Natural Resources (WDNR), Puget Sound Partnership, and coordinating with local jurisdictions.</p>
-			
-			<h3>Partner programs</h3>
-			
-			<p>Habitat Recovery Pilot Program – streamlined state and local permitting for habitat recovery projects.</p>
-
-<p>Fish Habitat Enhancement Project (FHEP) - expedited Hydraulic Project Approval permit for fish enhancement projects.</p>
-
-<p>Shore Friendly program - helps landowners replace bulkheads with softshore armor or restored shorelines.
-</p>
 			
 			
 			<p class="last-update">Last updated: 11/20/23</p>
