@@ -125,9 +125,22 @@
 			
 			<button class="button6"><a href="" target="_blank" style="color:white"><p class="PSPNC-font">Let us help you streamline the permitting process with our multi-agency team. </p></a></button><br>
 			
-			<h2>About the MART team</h2>
+			<h2>About the MART</h2>
 			
 			<p>The Multi-Agency Review Team (MART) is a working group of the Puget Sound Federal Leadership Task Force (PSFLTF). The PSFLTF is a 16 federal agency group that collaborates with the Tribes and Washington State agencies on Puget Sound recovery actions and treaty rights. MART is a team of federal and state regulatory staff working together to streamline the permitting process for habitat recovery projects. The MART started as a 2-year pilot to test a facilitated, coordinated team approach to help permit ecologically beneficial restoration projects on marine shorelines. Due to its success, the MART is implementing this process and expanded its scope to freshwater restoration projects. Efforts focus on streamlining the federal permitting process in coordination with state and local permits.</p>
+			
+			<h3>MART members</h3>
+			
+			<p>Environmental Protection Agency (EPA), U.S. Army Corps of Engineers (USACE), National Marine Fisheries Service (NMFS), U.S. Fish and Wildlife Service (USFWS), Federal Emergency Management Agency (FEMA), WA Department of Fish and Wildlife (WDFW), WA Department of Ecology (Ecology), WA Department of Natural Resources (WDNR), Puget Sound Partnership, and coordinating with local jurisdictions.</p>
+			
+			<h3>Partner programs</h3>
+			
+			<p>Habitat Recovery Pilot Program – streamlined state and local permitting for habitat recovery projects.</p>
+
+<p>Fish Habitat Enhancement Project (FHEP) - expedited Hydraulic Project Approval permit for fish enhancement projects.</p>
+
+<p>Shore Friendly program - helps landowners replace bulkheads with softshore armor or restored shorelines.
+</p>
 			
 			
 			<p class="last-update">Last updated: 11/20/23</p>
