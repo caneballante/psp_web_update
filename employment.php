@@ -81,7 +81,11 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 			
-		<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4262090/fiscal-and-budget-analyst-exempt">Fiscal and Budget Analyst</a></p>
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4244574/contracts-coordinator">Contracts Coordinator (one permanent, one project)</a></p>
+			
+			<p>The Partnership’s Contracts Coordinators (One Permanent, One Project) will lead contract activities for several of the agency’s largest programs and provide expert level consultation and assistance with questions and complex contract fiscal budget matters to ensure funds are used in the most effective and efficient manner possible. The annual range of compensation is between $80,000.00 - $97,000.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment is open until filled. </p><br>
+		
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4262090/fiscal-and-budget-analyst-exempt">Fiscal and Budget Analyst</a></p>
 			
 			<p>The Partnership’s Fiscal and Budget Analyst will be responsible for the planning, monitoring, reviewing, and controlling of contract budgets and expenditures. You will perform senior-level fiscal activities and will be responsible for ensuring that all contract expenditures are made in accordance with state and federal law; contract budget and expenditure data is accurately reflected in the agency accounting records; and that fiscal policy and procedures are established in accordance with Generally Accepted Accounting Principles (GAAP) and the State Accounting and Administrative Manual (SAAM). The annual range of compensation is between $71,500.00 – 86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment is open through Nov. 14.</p><br>
 			
@@ -133,7 +137,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 10/18/23</p>
+		<p class="last-update">Last updated: 11/20/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
