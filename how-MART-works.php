@@ -99,44 +99,44 @@
 				</li>
 				<li><p><strong>Follow up email to applicant each agencies permit requirements, streamlined permits and next steps</strong></p>
 					<ul class="bullet-size-fix">
-						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
-						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
-						<li>When: Once the MART decides to assist with permitting the project.</li>
+						<li>Action: Prepare follow up email to applicant re: each agency’s permit requirements, expedited permits, and next steps.</li>
+						<li>Who Leads Action: MART facilitator works with members to develop email.</li>
+						<li>When: Within one week of pre-application meeting.</li>
 					</ul>
 				</li>
-				<li><p><strong>Virtual pre-application meeting</strong></p>
+				<li><p><strong>Possible site visit, all agencies or agencies that report back to MART</strong></p>
 					<ul class="bullet-size-fix">
-						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
-						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
-						<li>When: Once the MART decides to assist with permitting the project.</li>
+						<li>Action: If possible, set up site visit with applicant and permitting staff from each agency or those agencies that can attend.</li>
+						<li>Who Leads Action: All agencies that can attend or one or two representative agencies.</li>
+						<li>When: As soon as possible after decision to assist with permitting the project, or when applicant is ready.</li>
 					</ul>
 				</li>
-				<li><p><strong>Virtual pre-application meeting</strong></p>
+				<li><p><strong>Applicant applies for permit to each agency</strong></p>
 					<ul class="bullet-size-fix">
-						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
-						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
-						<li>When: Once the MART decides to assist with permitting the project.</li>
+						<li>Action: Applicant sends in permit applications to each agency through each agency’s specified pathway.</li>
+						<li>Who Leads Action: Applicant, agencies acknowledge receipt.</li>
+						<li>When: Agencies review as soon as possible (with goal of two to three weeks) and send message requesting additional information, or application is complete.</li>
 					</ul>
 				</li>
-				<li><p><strong>Virtual pre-application meeting</strong></p>
+				<li><p><strong>Permit application review</strong></p>
 					<ul class="bullet-size-fix">
-						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
-						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
-						<li>When: Once the MART decides to assist with permitting the project.</li>
+						<li>Action: Agencies review permit applications and proceed with processing or ask applicant for further information, if necessary.</li>
+						<li>Who Leads Action: Agency permit reviewers.</li>
+						<li>When: Review application for completeness within two to three weeks or as quickly as possible after receipt. Once information has been obtained (if needed), review as quickly as possible and within statutory timeframe.</li>
 					</ul>
 				</li>
-				<li><p><strong>Virtual pre-application meeting</strong></p>
+				<li><p><strong>MART monthly project permit status check-ins</strong></p>
 					<ul class="bullet-size-fix">
-						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
-						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
-						<li>When: Once the MART decides to assist with permitting the project.</li>
+						<li>Action: MART members review status of permits of projects, troubleshoot issues that arise, coordinate on interdependent permits.</li>
+						<li>Who Leads Action: MART members collect information from agency permit reviewers.</li>
+						<li>When: Monthly.</li>
 					</ul>
 				</li>
-				<li><p><strong>Virtual pre-application meeting</strong></p>
+				<li><p><strong>Issue Permits</strong></p>
 					<ul class="bullet-size-fix">
-						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
-						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
-						<li>When: Once the MART decides to assist with permitting the project.</li>
+						<li>Action: Each agency issues permits after their respective review. Agencies collaborate on interdependent permits, if needed.</li>
+						<li>Who Leads Action: Each agency.</li>
+						<li>When: As quickly as possible, within statutory timelines.</li>
 					</ul>
 				</li>
 				
