@@ -114,7 +114,7 @@
 						<div class="card-body">
 							<div class="d-inline">
 					<h5 class="margin-0-top">Have a project in mind?</h5> 
-					<p class="psemp-products">The MART works on ecologically beneficial projects in marine or freshwater environments that are permit ready and promote the recovery of Puget Sound Basin. Tell us more about your project to see if the MART can assist you.</p>
+					<p class="mar-font">The MART works on ecologically beneficial projects in marine or freshwater environments that are permit ready and promote the recovery of Puget Sound Basin. Tell us more about your project to see if the MART can assist you.</p>
 					
 							</div></div></div></div> <!--end col-->
 			
