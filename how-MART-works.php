@@ -14,7 +14,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Multi-Agency Review Team</title>
+<title>Puget Sound Partnership - How the Multi-Agency Review Team works</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -56,7 +56,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Multi-Agency Review Team</h1>
+			<h1>How the Multi-Agency Review Team (MART) works</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -74,16 +74,11 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">Multi-Agency Review Team</h2>
-			<p>The Multi-Agency Review Team (MART) is a team of federal and state regulatory staff working together to streamline the permitting process for Puget Sound Basin habitat recovery projects. The MART uses a facilitated, coordinated interagency approach to move projects through the entire permit process expeditiously and efficiently.</p>
 			
-			<h3>Benefits</h3>
-			<ul class="bullet-size-fix">
-				<li>Direct access to team of federal, state, and local permitting agency contacts</li>
-				<li>MART projects may be prioritized by permitting agencies who are responsible for permitting those projects</li>
-				<li>Potential reduction in submittal redundancy and possibly permit process time</li>
-				<li>MART tracks projects monthly and adaptively resolves issues that arise, where possible</li>
-			</ul><br>
+			<p>The Multi-Agency Revie Team (MART) works within existing permitting pathways but differs from the conventional process in two main ways, by: 1) Bringing federal, state, and local agencies together as a coordinated team to assist applicants through the entire permitting process; and 2) facilitating navigation through the permitting process and directing applicants to existing or emerging streamlined permit pathways that might not be known or clear. </p>
+			
+			<h3>Opportunities to streamline permits</h3>
+			<p>The permitting process (local, state, and federal) is complex, and several permits are interdependent. If you have a habitat recovery project that is ready to permit, we may be able to assist you with an expedited pathway through the process and provide direct access to a team of permitting agencies that will work with you through the entire process. The MART facilitator and members are contacted about projects through our partners and the Puget Sound recovery community. We select projects that are: 1) ecologically beneficial, 2) priority habitat projects within a watershed, 3) permit ready, and 4) projects with no previous violation or emergency actions (in a floodway).</p>
 			
 			<div class="container-fluid">
 		
