@@ -83,16 +83,63 @@
 			<h3>The process</h3>
 			
 			<p><ol>
-				<li><p><strong>Federal permit applicant</strong> (or their consultant) determines conservation debits using the <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">Puget Sound Nearshore Conservation Calculator</a>.</p></li>
-				<li><p><strong>Federal permit applicant</strong> submits a completed calculator as part of <a href="https://www.epermitting.wa.gov/site/alias__resourcecenter/9978/default.aspx" target="new">permit application to the US Army Corps of Engineers</a>. Applicants should also indicate their intention to purchase Partnership conservation credits in that application package.</p></li>
-				<li><p>The Army Corps of Engineers submits the permit applicant’s calculator as part of a consultation package to NOAA Fisheries.</p></li>
-				<li><p>NOAA Fisheries works with applicants to avoid and minimize infrastructure and maintenance project-related impacts to nearshore habitat. Unavoidable impacts will require conservation offsets.</p></li>
-				<li><p>NOAA Fisheries verifies the amount of outstanding conservation necessary to account for unavoidable impacts and informs the Partnership of the finalized calculator total.</p></li>
-				<li class="no-icon"><button class="button3"><a href="https://wa-pspsign.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAG8UNV0sn_SVY4luxHRtCYhE7tavvL8G_EO79rvnm6O7RvdQR7wxuyL-OWZqdjekA*" target="new" style="color:white"><p class="PSPNC-font">Federal permit applicant submits project information and NMFS-verified final calculator.</p></a></button></li>
-				<li><p>Partnership verifies eligibility, requests any additional data, and provides presale agreement to the permittee for signature. </p></li>
-				<li><p><strong>Federal permit applicant</strong> and Partnership sign conservation credit presale agreement. Permittee may use the fully executed conservation credit presale agreement to satisfy outstanding conservation obligations, per their final Reasonable and Prudent Alternative decision from NOAA Fisheries.</p></li>
-				<li><p><strong>Federal permit applicant</strong> submits full payment and the Partnership confirms transfer of credit responsibility. Payment must be received by the expiration date in the presale agreement.</p></li>
-				<li><p><strong>Federal permit applicant</strong> may commence construction work on their infrastructure or maintenance.</p></li>
+				<li><p><strong>Develop a list of permit contacts at all agencies</strong></p>
+					<ul class="bullet-size-fix">
+						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
+						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
+						<li>When: Once the MART decides to assist with permitting the project.</li>
+					</ul>
+				</li>
+				<li><p><strong>Virtual pre-application meeting</strong></p>
+					<ul class="bullet-size-fix">
+						<li>Action: Set up virtual pre-application meeting with local, state, and federal agency permitting staff and MART members. Provide applicant with minimum information needed for presenting at pre-application meeting.</li>
+						<li>Who Leads Action: MART facilitator.</li>
+						<li>When: As soon as possible after decision by MART to assist project permitting, or when applicant is ready.</li>
+					</ul>
+				</li>
+				<li><p><strong>Follow up email to applicant each agencies permit requirements, streamlined permits and next steps</strong></p>
+					<ul class="bullet-size-fix">
+						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
+						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
+						<li>When: Once the MART decides to assist with permitting the project.</li>
+					</ul>
+				</li>
+				<li><p><strong>Virtual pre-application meeting</strong></p>
+					<ul class="bullet-size-fix">
+						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
+						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
+						<li>When: Once the MART decides to assist with permitting the project.</li>
+					</ul>
+				</li>
+				<li><p><strong>Virtual pre-application meeting</strong></p>
+					<ul class="bullet-size-fix">
+						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
+						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
+						<li>When: Once the MART decides to assist with permitting the project.</li>
+					</ul>
+				</li>
+				<li><p><strong>Virtual pre-application meeting</strong></p>
+					<ul class="bullet-size-fix">
+						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
+						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
+						<li>When: Once the MART decides to assist with permitting the project.</li>
+					</ul>
+				</li>
+				<li><p><strong>Virtual pre-application meeting</strong></p>
+					<ul class="bullet-size-fix">
+						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
+						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
+						<li>When: Once the MART decides to assist with permitting the project.</li>
+					</ul>
+				</li>
+				<li><p><strong>Virtual pre-application meeting</strong></p>
+					<ul class="bullet-size-fix">
+						<li>Action: Develop a list of permitting staff contacts at each agency who would be permitting the project.</li>
+						<li>Who Leads Action: MART facilitator. USACE internally assigns a Project Manager to the project at this point.</li>
+						<li>When: Once the MART decides to assist with permitting the project.</li>
+					</ul>
+				</li>
+				
 			
 			</ol></p>
 			
