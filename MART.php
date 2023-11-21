@@ -123,7 +123,7 @@
 			</div><!--end container-->
 			<br>
 			
-			<button class="button6"><a href="" target="_blank" style="color:white"><p class="PSPNC-font">Let us help you streamline the permitting process with our multi-agency team. </p></a></button><br>
+			<button class="button6"><a href="/how-MART-works.php" target="_blank" style="color:white"><p class="PSPNC-font">Let us help you streamline the permitting process with our multi-agency team. </p></a></button><br>
 			
 			<h2>About the MART</h2>
 			
