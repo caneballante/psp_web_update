@@ -193,7 +193,7 @@
             </ul>
             <p>Strategies associated with the Shellfish Strategic Initiative:</p>
             <ul class="bullet-size-fix">
-                <li><a href="https://pugetsoundestuary.wa.gov/shellfish-beds/">Shellfish Bed (IS)</a></li>
+                <li><a href="https://pspwa.box.com/s/d3u2rf092imo9pt4foqgrw3m6p6rj9yv">Shellfish Bed (IS)</a></li>
             </uL>
 			
 			
@@ -213,13 +213,13 @@
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2016-00033/">Floodplains Miradi Project</a> </li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2016-00034/">Land Development and Cover Miradi Project</a></li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00033/">Shoreline Armoring Miradi Project</a> </li>
-				<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2015-00004/">Shellfish Beds Miradi Project</a></li>
+				<li><a href="https://www.miradishare.org/ux/project/psp-pugetsoundrecover-2022-00057">Shellfish Beds Miradi Project</a></li>
             	<li><a href="https://www.miradishare.org/projectDetails/psp-pugetsoundrecover-2017-00034/">Benthic Index of Biotic Integrity (B-IBI) Miradi Project</a></li>
 				<li><a href="https://www.miradishare.org/ux/project/psp-pugetsoundrecover-2018-00043/">Toxics in Fish Miradi Project</a></li>
 				<li><a href="https://www.miradishare.org/ux/project/psp-pugetsoundrecover-2019-00053/">Marine Water Quality Miradi Project</a></li>
 				<li><a href="https://www.miradishare.org/ux/project/psp-pugetsoundrecover-2016-00040/">Chinook Salmon Miradi Project</a></li>
            	</ul>
-			<p class="last-update">Last updated: 01/20/23</p>
+			<p class="last-update">Last updated: 11/21/23</p>
 			
 		<!-- InstanceEndEditable --> </div>
 		
@@ -242,7 +242,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/floodplains-and-estuaries/">Floodplains and Estuaries (IS)</a></li>
-				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/shellfish-beds/">Shellfish Bed (IS)</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/d3u2rf092imo9pt4foqgrw3m6p6rj9yv">Shellfish Beds (IS)</a></li>
 				<li role="presentation"><a href="https://pugetsoundestuary.wa.gov/land-development-and-cover/">Land Development and Cover (IS)</a></li>
 				
 				<li role="presentation"><a href="https://pspwa.box.com/v/PublicIS-Chinook">Chinook Salmon (IS)</a></li>
