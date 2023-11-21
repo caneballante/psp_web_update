@@ -95,9 +95,9 @@
 			<p><strong><em>The cumulative effects of nearshore habitat recovery actions on juvenile salmonids in the Whidbey basin.</em></strong> An evidence-based evaluation of cumulative effects to comprehensively evaluate salmon recovery efforts implemented over the past two decades in Whidbey basin nearshore habitats is underway. This study will evaluate the cumulative effects of nearshore habitat restoration in the Whidbey basin aimed at improving critical habitat for juvenile Chinook salmon. A collaborative, multi-institutional research team has been convened to develop and implement this study over the next 2-3 years. <a href="cumulative-effects.php">Learn more.</a></p>
 			
 			<h2>STATE OF THE SOUND</h2>
-			<p>The Partnership is required in Washington state statute to produce a State of the Sound report every 2 years to demonstrate progress in our collective efforts to recover the Sound. The State of the Sound website is a comprehensive and broadly accessible resource that includes the latest report content, as well as additional in-depth analysis and technical information not available in the briefer, printed documents. <a href="https://stateofthesound.wa.gov/" target="new">View the 2021 State of the Sound</a></p>
+			<p>The Partnership is required in Washington state statute to produce a State of the Sound report every two years to demonstrate progress in our collective efforts to recover the Sound. The State of the Sound website is a broadly accessible resource that includes links to download the full report. <a href="https://stateofthesound.wa.gov/" target="new">View the 2023 State of the Sound</a></p>
 			
-			<p class="last-update">Last updated: 8/29/22</p>
+			<p class="last-update">Last updated: 11/21/23</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
