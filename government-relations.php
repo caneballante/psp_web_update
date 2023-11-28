@@ -83,13 +83,13 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox margin-0-top margin-20-bottom">
-			<p><span class="new-red">NEW:</span> The Partnership is creating new interactive tools to share information about the legislative session.</p>
+			<p><span class="new-red">NEW:</span> The Partnership is creating<a href="puget-sound-budget.php"> new interactive tools</a> to share information about the legislative session.</p>
 				
 			</div>
 			
 			<p>The Puget Sound Partnership connects and leverages the efforts of hundreds of organizations working on a shared mission to protect and restore the health of Puget Sound. We are a science-based, non-regulatory state agency bringing people together to advance this shared mission by setting goals and achieving them through actions specified in the common framework of the Puget Sound Action Agenda. During Legislative Session each year, we work to advance policy and mobilize funding to protect and restore Puget Sound. We also monitor proposed legislation to determine whether and how it might affect the health of Puget Sound, then inform decision-makers about the positive and negative effects of such legislation on Puget Sound. Between sessions, we work with legislators to help them understand the issues the ecosystem faces and how state resources are being used to address these issues. </p>
 			<p><strong>The Partnership supports:</strong></p>
-			<ul>
+			<ul class="bullet-size-fix">
 				<li>Legislation and investments to implement the Action Agenda, the regional plan to restore the health of Puget Sound.</li>
 				<li>Policies, strategies, and investments that recognize and support Tribal Treaty rights.</li>
 				<li>Policies, strategies, and investments that support a coordinated investment strategy—advancing Puget Sound recovery while also fostering job creation, public health, safety, and the wellbeing of current and future generations.</li>

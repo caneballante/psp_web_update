@@ -82,7 +82,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">Puget Sound Budget Infographic</h2>
+			<h2 class="margin-0-top">Puget Sound Budget Interactive Infographic</h2>
 			
 			<p>After prioritizing state agency budget requests related to Puget Sound recovery, the Partnership tracks these budget requests through the State’s budgeting process. The Partnership also identifies additional budget items added by the Governor and legislature to their budget proposals. All relevant budget items for the current budget process are included in the below infographic. Use the arrows at the bottom of the infographic to navigate to past budgets.</p>
 <p>In the below interactive graphic, each figure can be interacted with by clicking on different elements of the graphic. Try clicking on a budget type (op/cap) in the pie chart, a request in the list, or an agency in the bar graph. A spreadsheet view of the data is also available below.</p>
