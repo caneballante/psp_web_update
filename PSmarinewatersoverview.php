@@ -56,7 +56,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1 class="grey">PUGET SOUND MARINE WATERS 2021 OVERVIEW</h1>
+			<h1 class="grey">PUGET SOUND MARINE WATERS 2022 OVERVIEW</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -75,19 +75,15 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
-
 <span class="floatright padding-20-left no-icon">
-
-
-<span class="floatright padding-20-left no-icon">
-	<p><a href="https://pspwa.box.com/shared/static/2a35uxkiwv4yspumulkxtv8nrq63cbbp.pdf"><img src="images/ps-marine-waters-report-2021.jpg" width="300" height="225" alt="Cover image from the 2021 Puget Sound Marine Waters Overview, showing Puget Sound water with the silhouette of a plane flying overhead"/></a><br>
-			<a href="https://pspwa.box.com/shared/static/2a35uxkiwv4yspumulkxtv8nrq63cbbp.pdf">Puget Sound Marine Waters 2021 Overview</a></p></span>
+	<p><a href="https://pspwa.box.com/shared/static/ojoowqsu0ykjg72bty9gp1sfya3w3e8p.pdf"><img src="images/ps-marine-waters-report-2022.jpg"  alt="Cover image from the 2021 Puget Sound Marine Waters Overview, showing Puget Sound water with the silhouette of a plane flying overhead" width="305" height="236"/></a><br>
+			<a href="https://pspwa.box.com/shared/static/ojoowqsu0ykjg72bty9gp1sfya3w3e8p.pdf">Click here to download the <br>
+			Puget Sound Marine Waters 2022 Overview</a></p></span>
 			
-<p><strong>New report: Despite cool-phase climate forcing, conditions in Puget Sound were generally warmer and sunnier in 2021, with an extreme summertime heatwave and other abnormalities.</strong></p>
-<p>The Puget Sound region is home to more than 4.2 million people. These people visit the Sound’s beaches, eat the local seafood, and enjoy the diversity of life in and around these waters. The Sound is a social, cultural, and economic lifeline for Western Washington, where the health of human communities and the health of the Sound are inextricably linked.</p>
-<p>Each year, the Marine Waters Work Group releases the annual Puget Sound Marine Waters Overview report, which combines a wealth of data from numerous comprehensive environmental monitoring programs. Since 2011, we have been reporting on the physical, chemical and biological conditions of Puget Sound, including many conditions related to human health and pollution. The 2021 report represents the collective effort of 76 contributors from federal, tribal, state, and local agencies, academia, nonprofits, and private and volunteer groups.</p>
-<p>This edition of the 2021 Puget Sound Marine Waters Overview once again directly informs the <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="new">Puget Sound Vital Signs</a>. The majority of technical summaries (28 out of 38) collectively inform many of the Vital Signs nested under the Puget Sound Partnership’s ecosystem recovery goals (Healthy Water Quality, Abundant Water, Thriving Species and Food Webs, and Healthy Human Populations). In this manner, the annual report makes a valuable contribution to our shared understanding of ecosystem conditions as they relate to Puget Sound recovery efforts.</p>
-<p>The Puget Sound Marine Waters Work Group of the Puget Sound Ecosystem Monitoring Program will continue to provide valuable insight on the status of Puget Sound. We provide these facts to help people understand and make informed policy decisions to protect and restore Puget Sound.</p>
+<p>This report, a product of the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, is the twelfth annual report on marine water conditions in Puget Sound. Since 2011, Puget Sound Marine Waters has compiled data from numerous environmental monitoring programs to report on the state of Puget Sound’s marine waters during the previous year. </p>
+
+<p>The report combines a wealth of data from comprehensive monitoring programs and provides a concise summary of what was happening in Puget Sound’s marine waters during 2022. It covers areas such as climate and weather, river inputs, seawater temperature, salinity, nutrients, dissolved oxygen, ocean acidification, phytoplankton, biotoxins, bacteria and pathogens, shellfish resources, and more.
+</p>
 
 <p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
 
