@@ -92,7 +92,7 @@
 <li>Tracking, managing, and communicating timelines and deadlines to achieve timely proposal submissions.</li>
 <li>Understanding and being able to explain grant regulations and guidelines.</li>
 			</ul>
-<p>The annual range of compensation is between $71,500.00 - $86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the link above. Recruit is open through Dec. 13.
+<p>The annual range of compensation is between $71,500.00 - $86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the link above. Recruitment is open through Dec. 13.
 </p><br>
 			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4244574/contracts-coordinator">Contracts Coordinator (one permanent, one project)</a></p>
