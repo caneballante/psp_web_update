@@ -83,7 +83,7 @@
 			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4139446/grant-writer-and-strategist-exempt">Grant Writer and Strategist</a></p>
 			
-			<p>The Grant Writer and Strategist is part of the Partnership’s new Strategic Funding Team and will provide the state, tribes, and local partners with technical assistance and capacity to prepare grant applications for submission. This position will identify funding opportunities, develop high-quality grant proposals to federal, state, and private funding agencies, and monitor grant progression with the goal of increasing the number of successful submissions for local and regional recovery projects.</p>
+			<p>The Grant Writer and Strategist is part of the Partnership’s new Strategic Funding Team and will provide the state, Tribes, and local partners with technical assistance and capacity to prepare grant applications for submission. This position will identify funding opportunities, develop high-quality grant proposals to federal, state, and private funding agencies, and monitor grant progression with the goal of increasing the number of successful submissions for local and regional recovery projects.</p>
 			<p>Grant Writer and Strategist duties may include:</p>
 	<ul class="bullet-size-fix"><li>Write high-quality concept papers, letters of inquiry, proposals, and reports for current and prospective funders including federal, state, and local government entities and private and corporate foundations.</li>
 <li>Create compelling, persuasive, well-structured grant narratives using effective storytelling and relevant data.</li>
