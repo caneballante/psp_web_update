@@ -83,7 +83,17 @@
 			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4139446/grant-writer-and-strategist-exempt">Grant Writer and Strategist</a></p>
 			
-			<p>The Grant Writer and Strategist is part of the Partnership’s new Strategic Funding Team and will provide the state, tribes, and local partners with technical assistance and capacity to prepare grant applications for submission. This position will identify funding opportunities, develop high-quality grant proposals to federal, state, and private funding agencies, and monitor grant progression with the goal of increasing the number of successful submissions for local and regional recovery projects. The annual range of compensation is between $67,380.00 - $88,416.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment period is open through Oct. 11. </p><br>
+			<p>The Grant Writer and Strategist is part of the Partnership’s new Strategic Funding Team and will provide the state, tribes, and local partners with technical assistance and capacity to prepare grant applications for submission. This position will identify funding opportunities, develop high-quality grant proposals to federal, state, and private funding agencies, and monitor grant progression with the goal of increasing the number of successful submissions for local and regional recovery projects.</p>
+			<p>Grant Writer and Strategist duties may include:</p>
+	<ul class="bullet-size-fix"><li>Write high-quality concept papers, letters of inquiry, proposals, and reports for current and prospective funders including federal, state, and local government entities and private and corporate foundations.</li>
+<li>Create compelling, persuasive, well-structured grant narratives using effective storytelling and relevant data.</li>
+<li>Evaluate, design, determine, and develop competitive grant proposals to appropriate funding opportunities for submission, including budgets and timelines.</li>
+<li>Assist in identifying new funding needs and new proposal opportunities.</li>
+<li>Tracking, managing, and communicating timelines and deadlines to achieve timely proposal submissions.</li>
+<li>Understanding and being able to explain grant regulations and guidelines.</li>
+			</ul>
+<p>The annual range of compensation is between $71,500.00 - $86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the link above. Recruit is open through Dec. 13.
+</p><br>
 			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4244574/contracts-coordinator">Contracts Coordinator (one permanent, one project)</a></p>
 			
