@@ -183,7 +183,7 @@
 						<p> Communications Specialist <br>
 						360.819.3045 | <a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov </a></p>
 						<h5>Chase Nuuhiwa</h5>
-						<p>Visual Communications Lead<br>
+						<p>Visual Communication Lead<br>
 						360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
 						<h5>VACANT</h5>
 						<p> Communications Specialist <br>
