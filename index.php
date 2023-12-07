@@ -80,30 +80,7 @@
 		</div>
 	</div>
 </div>
-<div class="container-fluid padding-40-bottom padding-80-top light-blue-fill">
-	<div class="row">
-		<div class="container light-blue-fill">
-			<div class="row padding-20-all">
-				<div class="col-md-1">
-				</div>
-				<div class="col-md-5">
-					<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/706723427?h=07ec6b9a8a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Bipartisan Infrastructure Law: A game-changer for the environment, people, and salmon"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
 
-				</div>
-
-
-				<div class="col-md-5">
-					<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/785064068?h=3cb967761f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Puget Sound Acquisition and Restoration Fund: Restoring habitat critical to the recovery of Puget Sound salmon"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-				</div>
-
-				<div class="col-md-1">
-				</div>
-			</div>
-		</div>
-		<!-- end container --> 
-	</div>
-</div>
-<!-- end container -->
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-xs-12 orange-fill"><br>
@@ -147,7 +124,8 @@
 		<div class="col-sm-3 padding-20-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
-			<div class="padding-5-bottom"><a href="funding.php">Funding opportunities</a></div>
+			<div class="padding-5-bottom"><a href="psraft.php"><span class="new-red">NEW! </span>Puget Sound RAFT - Recovery Acceleration Funding Tool</a></div>
+			<div class="padding-5-bottom"><a href="funding.php">Science and Monitoring Funding opportunities</a></div>
 			<div class="padding-5-bottom"><a href="federal-support.php">Federal support for Puget Sound recovery</a></div>
 			<div class="padding-5-bottom"><a href="government-relations.php">2023 legislative session</a></div>
 			<div class="padding-5-bottom"><a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a></div>
@@ -281,13 +259,27 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 						<!--news content -->
+					<div class="newsbox-date">OCT<br>
+						26</div>
+					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
+						<br>
+						</a><br>
+					</div>
+					<!--END news content-->  
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
 					<div class="newsbox-date">NOV<br>
 						16</div>
 					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
 						<br>
 						</a><br>
 					</div>
-					<!--END news content-->  
+					<!--END news content-->
 				</div>
 			</div>
 			<!--COLUMN END--> 
@@ -301,7 +293,7 @@
 						<br>
 						</a><br>
 					</div>
-					<!--END news content-->
+					<!--END news content--> 
 				</div>
 			</div>
 			<!--COLUMN END--> 
@@ -312,20 +304,6 @@
 					<div class="newsbox-date">DEC<br>
 						6</div>
 					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content-->
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">DEC<br>
-						14</div>
-					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
 						<br>
 						</a><br>
 					</div>
@@ -347,7 +325,7 @@
 	</div>
 </div>	
 
-	
+<!--CONTAINER END-->	
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-xs-12 white_fill"><br>
@@ -356,6 +334,55 @@
 </div>	
 
 <!--CONTAINER END-->
+<div class="container-fluid padding-40-bottom padding-80-top white_fill ">
+	<div class="row">
+		<div class="container">
+			<div class="row padding-20-right">
+				
+				<div class="col-md-6 padding-60-bottom">
+							<h1 class="margin-0-top"> PUGET SOUND RAFT - FUNDING ACCELERATION FUNDING TOOL</h1>
+				<p><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound RAFT – Recovery Acceleration Funding Tool</a> is now available, centralizing details on  funding opportunities for Puget Sound and salmon recovery. </p>
+				<p>The Puget Sound RAFT tool is a service of the Puget Sound Partnership’s Strategic Funding Team. <a href="psraft.php">Learn more</a></p>
+				</div>
+
+
+				<div class="col-md-5">
+				<div class="padding-50-bottom"><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements"><img src="images/RAFT-screenshot.png" width="422" height="249" alt=""/></a></div>
+				</div>
+
+				<div class="col-md-1">
+				</div>
+			</div>
+		</div>
+		<!-- end container --> 
+	</div>
+</div>
+<!-- end container -->
+	<div class="container-fluid padding-40-bottom padding-80-top light-blue-fill">
+	<div class="row">
+		<div class="container light-blue-fill">
+			<div class="row  padding-20-right">
+				
+				<div class="col-md-6 padding-60-bottom">
+					
+					<h1 class="margin-0-top white padding-40-top">The Puget Sound Acquisition and Restoration (PSAR) Program</h1>
+					<p class="white white-links">PSAR funds projects that restore habitat critical to the survival of Puget Sound salmon populations. These projects are thoroughly reviewed to ensure they benefit salmon populations and local communities. PSAR projects are endorsed by members of the public, cities, counties, tribes, nonprofit organizations, and government agencies. <a href="psar.php">Learn more</a></p>
+				</div>
+
+
+				<div class="col-md-5 padding-40-top">
+					<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/785064068?h=3cb967761f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Puget Sound Acquisition and Restoration Fund: Restoring habitat critical to the recovery of Puget Sound salmon"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+				</div>
+
+				<div class="col-md-1">
+				</div>
+			</div>
+		</div>
+		<!-- end container --> 
+	</div>
+</div>
+<!-- end container -->
+
 </div>
 <!--CONTAINER END--> 
 
