@@ -341,7 +341,7 @@
 				
 				<div class="col-md-6 padding-60-bottom">
 							<h1 class="margin-0-top"> PUGET SOUND RAFT - FUNDING ACCELERATION FUNDING TOOL</h1>
-				<p><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound RAFT – Recovery Acceleration Funding Tool</a> is now available, centralizing details on  funding opportunities for Puget Sound and salmon recovery. </p>
+				<p><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound RAFT – Recovery Acceleration Funding Tool</a> is now available, centralizing details on  funding opportunities for Puget Sound ecosystem and salmon recovery. </p>
 				<p>The Puget Sound RAFT tool is a service of the Puget Sound Partnership’s Strategic Funding Team. <a href="psraft.php">Learn more</a></p>
 				</div>
 
