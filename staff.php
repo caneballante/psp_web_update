@@ -340,7 +340,7 @@
 						<p> Grants, Contracts, and Compliance Manager<br />
 							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
 						<h5>Shannon Sanders</h5>
-						<p>Contracts Coordinator<br />
+						<p>Grants, Contracts, and Compliance Manager<br />
 							360.688.3772 | <a href="mailto:shannon.sanders@psp.wa.gov">shannon.sanders@psp.wa.gov</a></p>
 						<h5>VACANT</h5>
 						<p>Contracts Coordinator</p>
