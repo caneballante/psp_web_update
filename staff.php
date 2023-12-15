@@ -138,9 +138,9 @@
 							360.628.7476 | <a href="mailto:sadie.normoyle@psp.wa.gov">sadie.normoyle@psp.wa.gov</a>
 						 <!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
-						<h5>Kirsten Feifel</h5>
+						<h5>VACANT</h5>
 						<p> Adaptive Systems Manager<br />
-							360.701.1428 | <a href="mailto:kirsten.feifel@psp.wa.gov">kirsten.feifel@psp.wa.gov</a></p>
+							</p>
 						<h5>Jennifer Burke</h5>
 						<p>Information and Geospatial Systems Manager<br />
 							360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
@@ -191,8 +191,9 @@
 						
 						<!--INTEGRATED PLANNING TEAM-->
 						<h2>ECOSYSTEM RECOVERY PROGRAM</h2>
-						<h5>VACANT</h5>
-						<p>Director of Ecosystem Recovery<br></p>
+						<h5>Kirsten Feifel</h5>
+						<p>Director of Ecosystem Recovery<br>
+							360.701.1428 | <a href="mailto:kirsten.feifel@psp.wa.gov">kirsten.feifel@psp.wa.gov</a></p>
 						<!--PLANNING TEAM-->
 						<h3 class="padding-10-top">PLANNING TEAM</h3>
 						<h5>Dan Stonington</h5>
@@ -362,7 +363,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 12/7/23</p>
+	<p class="last-update">Last updated: 12/15/23</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
