@@ -75,7 +75,12 @@
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-			
+			<div class="highlightbox margin-0-top margin-20-bottom">
+			<p><span class="new-red">NEW:</span> The Puget Sound Partnership invites proposals for Large Capital projects that protect and restore salmon habitat to be submitted for preliminary review by April 10, 2024. You can find the request for proposals and supplemental materials through the links below:
+				<ul class="bullet-size-fix">
+					<li><a href="https://pspwa.box.com/s/angvjmxer35zhyddi54vttnfakl79dkk" target="new">2025-2027 Puget Sound Acquisition and Restoration Large Capital Projects request for proposals</a></li>
+					<li><a href="https://pspwa.box.com/s/zvdkt8eeznf1zui178970wketqu4pteu" target="new">Supplemental questions</a></li>
+				</ul></p><br>
 			
 			<div class="container-fluid margin-0-top">
 				<div class="row">
@@ -138,7 +143,7 @@
 			<div>
 				<div> </div>
 			</div>
-	<p class="last-update">Last updated: 9/15/23</p>
+	<p class="last-update">Last updated: 12/18/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
