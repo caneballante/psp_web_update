@@ -146,8 +146,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/samish-bay.jpg"  alt="Aerial photo of shellfish beds in Samish Bay. Photo from Sakgit County Public Works"/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/02/protecting-and-restoring-shellfish-beds/">Protecting and restoring shellfish beds throughout Puget Sound</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/PSAR.jpg"  alt="Logo for the Puget Sound Acquisition and Restoration Fund overlaid on a photo of a river undergoing restoration."/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="/PSAR.php">Puget Sound Acquisition and Restoration (PSAR) Large Capital Projects request for proposals for the 2025-2027 biennium</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
@@ -157,10 +157,10 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/nora-nickum.jpg"  alt="Headshot photo of Nora Nickum, senior ocean policy manager at the Seattle Aquarium and author of books and magazine articles for kids."/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2023/06/09/making-waves-conversations-nora-nickum/">Nora Nickum on her new book, "Superpod: Saving the Endangered Orcas of the Pacific Northwest"</a><br>
-						<!--END news content BOX-->   
+						 <!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/samish-bay.jpg"  alt="Aerial photo of shellfish beds in Samish Bay. Photo from Sakgit County Public Works"/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/02/protecting-and-restoring-shellfish-beds/">Protecting and restoring shellfish beds throughout Puget Sound</a><br>
+						<!--END news content BOX-->     
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -175,8 +175,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/Cedar-overpass-web.jpg"  alt="Photo of an overpass over the Cedar River"/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/03/preventing-stormwater-pollution/">Preventing stormwater pollution protects what we care about</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/nora-nickum.jpg"  alt="Headshot photo of Nora Nickum, senior ocean policy manager at the Seattle Aquarium and author of books and magazine articles for kids."/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2023/06/09/making-waves-conversations-nora-nickum/">Nora Nickum on her new book, "Superpod: Saving the Endangered Orcas of the Pacific Northwest"</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -189,8 +189,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/scenarios-web.jpg"  alt="Chart that illustrates differences in business-as-usual scenario and alternative future scenarios"/> <strong>RESOURCE</strong><br>
-						<a href="/future-scenarios.php">Alternative futures for Puget Sound</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/Cedar-overpass-web.jpg"  alt="Photo of an overpass over the Cedar River"/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/03/preventing-stormwater-pollution/">Preventing stormwater pollution protects what we care about</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -202,8 +202,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt="Photo of the Capitol Building in Olympia with the text Legislative Update written in orange letters superimposed on the top corner of the photo"/> <strong>RESOURCE</strong><br>
-						<a href="https://psp.wa.gov/government-relations.php">2023 session information</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/scenarios-web.jpg"  alt="Chart that illustrates differences in business-as-usual scenario and alternative future scenarios"/> <strong>RESOURCE</strong><br>
+						<a href="/future-scenarios.php">Alternative futures for Puget Sound</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
