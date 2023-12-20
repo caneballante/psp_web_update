@@ -83,7 +83,10 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox margin-0-top margin-20-bottom">
-			<p><span class="new-red">NEW:</span> The Partnership is creating<a href="puget-sound-budget.php"> new interactive tools</a> to share information about the legislative session.</p>
+			<p>The Partnership is creating new interactive tools to share information about the legislative session:</p>
+				<p><a href="/legislative-calendar.php">Legislative calendar</a></p>
+				<p><a href="/puget-sound-budget.php">Puget Sound budget</a></p>
+				<p><a href="legislative_updates.php">Legislative updates</a></p>
 				
 			</div>
 			
