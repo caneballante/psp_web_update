@@ -101,6 +101,7 @@
 				<li>Policies and strategies that account for environmental externalities, recognizing the importance of allocating and understanding full and true costs and impacts of available alternatives when making policy choices.</li>
 			</ul>
 			<h2 class="margin-0-top">&nbsp;</h2>
+			<p class="last-update">Last updated: 12/20/23</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
