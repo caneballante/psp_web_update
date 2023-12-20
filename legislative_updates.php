@@ -87,6 +87,13 @@
 			
 		<h2>Legislative Updates and Calendar Archives</h2>
 			
+			<h2 class="margin-0-top">2023 Legislative Session</h2>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/33b026f" target="new">General session info </a></p>
+			<p><a href="https://pspwa.box.com/s/g9bhwvf5n62fy61f4u13ozh0r0a2224w" target="new">2023 Puget Sound Legislative Priorities</a></p><br>
+			<div>
+			<IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/070d181f4f744fb1937823e8e8550f06"></IFRAME>
+			</div>	
+			
 			<h2>2022 Legislative Session</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/303c1c3" target="new">General session info</a></p>
 			<p><a href="https://pspwa.box.com/s/jpjpse9blqc9ujikty5l9dduf5a8feyk" target="new">2022 legislative priorities</a></p><br>
