@@ -81,6 +81,10 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 			
+			<p><a href="https://app.smartsheet.com/sheets/Vrgg98QWw63r77X8cgg2hW654QQfF9wC4fPW4QJ1">Puget Sound Recovery Strategist</a></p>
+			
+			<p>The Puget Sound Recovery Strategist (PSRS) represents the agency in external venues and functions to influence the work of partners (local, state, federal, tribal, business). The position fosters specific actions and identifies and focuses resources to accelerate ecosystem recovery implementation. The PSRS is responsible for promoting the potential of local recovery partners to advance local priority work for ecosystem in alignment with the Action Agenda, salmon recovery plan, and environmental justice strategies. The annual range of compensation is between $71,500.00 – 86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. Recruitment is open through Jan. 11, 2024.</p>
+			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4139446/grant-writer-and-strategist-exempt">Grant Writer and Strategist</a></p>
 			
 			<p>The Grant Writer and Strategist is part of the Partnership’s new Strategic Funding Team and will provide the state, Tribes, and local partners with technical assistance and capacity to prepare grant applications for submission. This position will identify funding opportunities, develop high-quality grant proposals to federal, state, and private funding agencies, and monitor grant progression with the goal of increasing the number of successful submissions for local and regional recovery projects.</p>
@@ -104,9 +108,6 @@
 			<p>The Partnership’s Fiscal and Budget Analyst will be responsible for the planning, monitoring, reviewing, and controlling of contract budgets and expenditures. You will perform senior-level fiscal activities and will be responsible for ensuring that all contract expenditures are made in accordance with state and federal law; contract budget and expenditure data is accurately reflected in the agency accounting records; and that fiscal policy and procedures are established in accordance with Generally Accepted Accounting Principles (GAAP) and the State Accounting and Administrative Manual (SAAM). The annual range of compensation is between $71,500.00 – 86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment is open through Nov. 14.</p><br>
 			
 						
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4225976/puget-sound-ecosystem-monitoring-program-psemp-manager-exempt">Puget Sound Ecosystem Monitoring Program (PSEMP) Manager</a></p>
-			
-			<p>The Partnership’s Puget Sound Ecosystem Monitoring Program (PSEMP) Manager is responsible for managing the overall coordination and support of PSEMP and supervising one FTE employee. PSEMP, which is a broad network of monitoring experts and organizations, is a key element of the Puget Sound Partnership’s strategic science program and the center of the Partnership’s efforts to enable strategic learning about ecosystem conditions and the impact of ecosystem recovery efforts. The annual range of compensation for this position is between $90,693 – $103,965. The expected hiring salary will typically be less than the top of the range to allow for growth and development progression increases.  Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment period is open through Oct. 24.</p><br>
 			
 			
 			
@@ -128,7 +129,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 12/7/23</p>
+		<p class="last-update">Last updated: 12/21/23</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
