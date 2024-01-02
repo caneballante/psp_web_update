@@ -258,8 +258,8 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 						<!--news content -->
-					<div class="newsbox-date">NOV<br>
-						16</div>
+					<div class="newsbox-date">JAN<br>
+						25</div>
 					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
 						<br>
 						</a><br>
@@ -272,9 +272,9 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">NOV<br>
-						30</div>
-					<div class="newsbox-text"><a href="board_meetings.php">ALL BOARDS - 2024 legislative priorities<br>
+					<div class="newsbox-date">FEB<br>
+						8</div>
+					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
 						<br>
 						</a><br>
 					</div>
@@ -286,8 +286,8 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">DEC<br>
-						6</div>
+					<div class="newsbox-date">FEB<br>
+						22</div>
 					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
 						<br>
 						</a><br>
@@ -300,7 +300,7 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">DEC<br>
+					<div class="newsbox-date">MAR<br>
 						14</div>
 					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
 						<br>
