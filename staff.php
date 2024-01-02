@@ -89,8 +89,9 @@
 						<p> Special Assistant to the Director<br />
 							360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br /></p>
 	
-						<h5>VACANT</h5>
-						<p>Equity and Environmental Justice Manager<br /></p>
+						<h5>Paulina Deschamps Ramirez</h5>
+						<p>Equity and Environmental Justice Manager<br />
+							564.669.8282 | <a href="mailto:paulina.deschamps-ramirez@psp.wa.gov">paulina.deschamps-ramirez@psp.wa.gov</a></p>
 			
 						<h5>Lea Anne Burke</h5>
 						<p>Tribal Affairs Manager<br>
@@ -363,7 +364,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 12/15/23</p>
+	<p class="last-update">Last updated: 1/2/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
