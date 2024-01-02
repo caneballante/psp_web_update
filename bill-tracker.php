@@ -14,7 +14,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Legislative Calendar</title>
+<title>Puget Sound Partnership - Bill Tracker</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -34,7 +34,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 5;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -64,7 +64,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Legislative Calendar</h1>
+			<h1>Bill Tracker</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -84,12 +84,12 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			
-			<p>Listed below are the legislative committee activities the Partnership will be following in the near future. Double click on any calendar item for more information, including date, time, agenda, and hyperlinks to materials and access for the meeting.</p>
-			<p>If you plan to attend a committee meeting, be sure to check the latest committee schedule before you log on/leave home. Committee schedules change frequently and are updated at <a href="https://app.leg.wa.gov/committeeschedules/" target="_blank">https://app.leg.wa.gov/committeeschedules/</a></p><br><br>
+			<p>Listed below are the bills the Partnership has identified as relevant to Puget Sound recovery. Users can filter the Bill Tracker tool by Action Agenda Topic Area. The tracker will be updated regularly to show bill progress through session. Click the link icon for a bill to find more information on the legislature’s page, including full bill text.</p><br><br>
 			
 			<hr>
 			<br>
-			<div><iframe title="LegislativeCalendar" width="1000" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiMzdkODI3MDYtY2VjNi00ZDY0LTlmNWItMWUwMDFlMDc2NzE3IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe></div>
+						
+			<div><iframe title="PartnershipLegislativeUpdates" width="800" height="836" src="https://app.powerbigov.us/view?r=eyJrIjoiY2NkODgxNTItZjA2Yy00YzhhLWE1NDgtZTdiZmMyMTlhZWFmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe></div>
 			
 			<!-- InstanceEndEditable --> </div>
 		
