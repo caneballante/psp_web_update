@@ -81,6 +81,8 @@
 			
 			<h2>PRODUCTS AND INFORMATION ABOUT THIS WORK</h2>
 					
+			<p><a href="https://pspwa.box.com/s/u8vwvj3833weg5ocawm8r8u0fudl5eyy" target="new">Assessing the cumulative effects of nearshore habitat recovery actions for juvenile salmonids in the Whidbey basin: annual report for 2022 – 2023.</a> This report documents recent progress on the Whidbey basin cumulative effects study for 2022-2023. The report details the development of analytical aspects of the study, including methodology for the systematic literature review, synthesis approach, and the evaluation of causal criteria.</p>
+			
 			<p><a href="https://pspwa.box.com/s/dmxg9hmenrbiq8rehhmf1qpe3luatpce" target="new">The cumulative effects of nearshore habitat recovery actions on juvenile salmonids in the Whidbey basin: Study development report.</a> This report details an evidence-based approach to evaluate cumulative effects produced from salmon habitat restoration at a greater basin scale for application to salmon recovery efforts in Puget Sound. This study will continue development and implementation in 2023-2025.</p>
 			
 			<div class="floatright-block blue-outline-5px padding-10-all margin-10-left"><img src="images/cee-web.jpg" width="250" height="250" alt=""/><br>
@@ -104,7 +106,7 @@
 		
 			<p><strong>Stay connected:</strong> <a href="https://public.govdelivery.com/accounts/WAPSP/signup/34165" target="new">Subscribe here</a> for news and announcements on the Whidbey basin cumulative effects study.</p>
 			
-			<p class="last-update">Last updated: 3/7/23</p>
+			<p class="last-update">Last updated: 1/2/24</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
