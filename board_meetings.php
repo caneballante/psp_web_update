@@ -56,7 +56,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2023 BOARDS MEETING SCHEDULE</h1>
+			<h1>2024 BOARDS MEETING SCHEDULE</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -76,7 +76,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Start and end times depend on agenda needs, but meetings generally begin at 9:30 a.m. and adjourn between 3 – 4:30 p.m. Click on the meeting materials link to view the meeting agenda, usually posted one week prior to the meeting. </p>
 			<p>Please note meeting dates, times and/or locations are subject to change and this calendar will be updated accordingly.</p>
-			<div>  <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/6a21b9b107354a2fa92d79101b94a29a"></IFRAME></div>
+			<div>  <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/7b905a4b22d84a24bca8f6b5f092cb40"></IFRAME></div>
             
           
 			<p> Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls.</p>
@@ -88,6 +88,8 @@ Boards Policy Advisor<br>
 360.742.2936 </p>
 			<h3>Board Materials</h3>
 			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a>			</p>
+			
+			<p class="last-update">Last updated: 1/2/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
