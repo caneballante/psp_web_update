@@ -266,12 +266,12 @@
 						<h5>Katherine Wyatt</h5>
 						<p>Assistant Science Director<br />
 						360.918.1098 | <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></p>
-						<h5>Vacant</h5>
-						<p> PSEMP Manager<br/>
-						</p>  
 						<h5>Katrina Radach</h5>
+						<p> PSEMP Manager<br/>
+						360.764.0272 | <a href="mailto:katrina.radach@psp.wa.gov">katrina.radach@psp.wa.gov</a></p>  
+						<h5>VACANT</h5>
 						<p> Monitoring Network Coordinator<br/>
-							360.764.0272 | <a href="mailto:katrina.radach@psp.wa.gov">katrina.radach@psp.wa.gov</a></p>
+							</p>
 						<h5>Nathalie Hamel</h5>
 						<p> Vital Signs Lead<br/>
 							360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
