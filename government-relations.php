@@ -87,6 +87,7 @@
 				<p><a href="/legislative-calendar.php">Legislative calendar</a></p>
 				<p><a href="/puget-sound-budget.php">Puget Sound budget</a></p>
 				<p><a href="legislative_updates.php">Legislative updates</a></p>
+				<p><a href="bill-tracker.php">Bill tracker</a></p>
 				
 			</div>
 			
@@ -101,7 +102,7 @@
 				<li>Policies and strategies that account for environmental externalities, recognizing the importance of allocating and understanding full and true costs and impacts of available alternatives when making policy choices.</li>
 			</ul>
 			<h2 class="margin-0-top">&nbsp;</h2>
-			<p class="last-update">Last updated: 12/20/23</p>
+			<p class="last-update">Last updated: 1/2/24</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
