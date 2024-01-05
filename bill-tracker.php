@@ -89,9 +89,9 @@
 			<hr>
 			<br>
 						
-			<div><iframe title="PartnershipLegislativeUpdates" width="800" height="836" src="https://app.powerbigov.us/view?r=eyJrIjoiY2NkODgxNTItZjA2Yy00YzhhLWE1NDgtZTdiZmMyMTlhZWFmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe></div><br>
+			<div><iframe title="PartnershipLegislativeUpdates" width="1000" height="836" src="https://app.powerbigov.us/view?r=eyJrIjoiY2NkODgxNTItZjA2Yy00YzhhLWE1NDgtZTdiZmMyMTlhZWFmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe></div><br>
 			
-			<p class="last-update">Last updated: 1/2/24</p>
+			<p class="last-update">Last updated: 1/5/24</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
