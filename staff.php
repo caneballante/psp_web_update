@@ -211,15 +211,28 @@
 						<p>Environmental Planner<br />
 						360.485.2117 | <a href="mailto:robb.krehbiel@psp.wa.gov">robb.krehbiel@psp.wa.gov</a></p>
 						<!--ECOSYSTEM RECOVERY TEAM-->
-						<h3 class="padding-10-top">ECOSYSTEM RECOVERY TEAM</h3>
-						
-
-						<h5>VACANT</h5>
-						<p>Puget Sound Recovery Strategist<br></p>
+						<h3 class="padding-10-top">PUGET SOUND RECOVERY INTEGRATION TEAM</h3>
+						<h5>Laura Rivas</h5>
+						<p>Puget Sound Recovery Integration Manager<br>
+							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
 
 						<h5>Matthew Colston</h5>
 						<p>Puget Sound Recovery Strategist<br>
 							360.968.9924 | <a href="mailto:matthew.colston@psp.wa.gov">matthew.colston@psp.wa.gov</a></p>
+			
+						<h5>Juliana Tadano</h5>
+						<p>Puget Sound Recovery Strategist<br/>
+							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
+							</p>
+			
+						<h5>VACANT</h5>
+						<p>Puget Sound Recovery Strategist<br></p>
+			
+						<h3 class="padding-10-top">LIO PROGRAM TEAM</h3>
+			
+						<h5>Harriet Booth</h5>
+						<p> Local Integrating Organization Program Coordinator<br>
+							360.819.7232 | <a href="mailto:harriet.booth@psp.wa.gov">harriet.booth@psp.wa.gov</a></p>
 			
 						<h5>Jason Lim</h5>
 						<p>Ecosystem Recovery Coordinator<br>
@@ -229,34 +242,25 @@
 						<p>Ecosystem Recovery Coordinator<br>
 							</p>
 			
-						<h5>Laura Rivas</h5>
-						<p>Puget Sound Recovery Integration Manager<br>
-							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
-						<h5>Hannah Liss</h5>
-						<p>Salmon Recovery Coordinator<br>
-							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
-
-						<h5>Harriet Booth</h5>
-						<p> Local Integrating Organization Program Coordinator<br>
-							360.819.7232 | <a href="mailto:harriet.booth@psp.wa.gov">harriet.booth@psp.wa.gov</a></p>
-
-						<h5>Juliana Tadano</h5>
-						<p>Puget Sound Recovery Strategist<br/>
-							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
-							</p>
-
-						<h5>Ashley Bagley</h5>
-						<p>Salmon Policy Advisor<br />
-							360.515.6054 | <a href="mailto:ashley.bagley@psp.wa.gov">ashley.bagley@psp.wa.gov</a></p>
+						<h3 class="padding-10-top">SALMON RECOVERY PROGRAM</h3>
+						<h5>Melissa Speeg</h5>
+						<p>Salmon Recovery Manager<br>
+							360.529.6472 | <a href="mailto:melissa.speeg@psp.wa.gov">melissa.speeg@psp.wa.gov</a></p>
 						<h5>Marlies Wierenga</h5>
 						<p>PSAR Program Manager<br />
 							360.968.9673 | <a href="mailto:marlies.wiergenga@psp.wa.gov">marlies.wierenga@psp.wa.gov</a></p>
 						<h5>April Gassman</h5>
 						<p>Salmon Permitting Projects Coordinator<br>
 							360.742.4195 | <a href="mailto:april.gassman@psp.wa.gov">april.gassman@psp.wa.gov</a></p>
-						<h5>Melissa Speeg</h5>
-						<p>Salmon Recovery Manager<br>
-							360.529.6472 | <a href="mailto:melissa.speeg@psp.wa.gov">melissa.speeg@psp.wa.gov</a></p>
+						<h5>Ashley Bagley</h5>
+						<p>Salmon Policy Advisor<br />
+							360.515.6054 | <a href="mailto:ashley.bagley@psp.wa.gov">ashley.bagley@psp.wa.gov</a></p>
+						<h5>Hannah Liss</h5>
+						<p>Salmon Recovery Coordinator<br>
+							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
+						
+						
+						
 						
 						<!--SCIENCE AND EVALUATION-->
 						<h2>SCIENCE AND EVALUATION</h2>
@@ -364,7 +368,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 1/2/24</p>
+	<p class="last-update">Last updated: 1/5/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
