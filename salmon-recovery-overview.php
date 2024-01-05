@@ -78,8 +78,11 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		<div class="highlightbox margin-0-top margin-20-bottom"><p>The Puget Sound Partnership is seeking public input on the development of the Puget Sound Salmon Recovery Plan (Recovery Plan) Addendum, an update to the regional chapter of the Recovery Plan. The goal of this Addendum is to guide the Puget Sound regional salmon recovery organization’s salmon recovery actions over the next ten years. The Addendum includes strategies and actions to move salmon recovery forward, an overview of the region’s role in advancing environmental justice, funding strategies for implementing the Addendum, descriptions of key recovery partners and their role as implementers, and a monitoring and adaptive management framework. The Partnership seeks to develop a succinct, impactful document, with clear regional action that will enhance and accelerate the watersheds’ work on the ground.</p>
+<p>To achieve this outcome requires input and guidance from the Puget Sound community. The public comment period is open from Jan. 8 until Feb. 21. The Puget Sound community has an opportunity to provide feedback on the Puget Sound Salmon Recovery Plan Addendum through an online platform and by submitting letters. Letters can be sent via email to Ashley Bagley, salmon policy advisor at the Puget Sound Partnership (ashley.bagley@psp.wa.gov).
+</p></div>
 		
-		<p>Using the Puget Sound Salmon Recovery Plan as a guide, the Partnership is committed to working with local stakeholders and communities, tribes, businesses, anglers, agriculture, environmental interest groups, and state and federal agencies to identify, sequence, prioritize, and implement projects and programs to recover salmon in Puget Sound. Salmon recovery work in Puget Sound watersheds is the cornerstone of broader Puget Sound recovery efforts. The Partnership coordinates and funds both local salmon recovery and large-scale protection and restoration efforts through the Puget Sound Acquisition and Restoration (PSAR) program. </p>
+			<p>Using the Puget Sound Salmon Recovery Plan as a guide, the Partnership is committed to working with local stakeholders and communities, tribes, businesses, anglers, agriculture, environmental interest groups, and state and federal agencies to identify, sequence, prioritize, and implement projects and programs to recover salmon in Puget Sound. Salmon recovery work in Puget Sound watersheds is the cornerstone of broader Puget Sound recovery efforts. The Partnership coordinates and funds both local salmon recovery and large-scale protection and restoration efforts through the Puget Sound Acquisition and Restoration (PSAR) program. </p>
 		<h4>Salmon recovery honors tribal treaty rights.</h4>
 		<p>Treaties signed in the 1850s reserved tribes &ldquo;the right of taking fish from all usual and accustomed grounds and stations… in common with all citizens.&rdquo; The 1974 Supreme Court ruling, known as the Boldt Decision, re-affirmed the tribes' treaty reserved fishing rights. Today, the tribes and Washington State co-manage salmon recovery and habitat protection. In Puget Sound, the Partnership works with the tribes to achieve our shared goals to recover salmon. </p>
 		<h4>Healthy salmon populations benefit Puget Sound residents.</h4>
@@ -163,7 +166,7 @@
 		<p>The <a href="http://www.psp.wa.gov/PSAR.php"><strong>Puget Sound Acquisition and Restoration</strong></a> <strong>(PSAR)</strong> program has contributed funding to projects that restore and protect salmon habitat throughout Puget Sound. To date, PSAR has invested over $200 million in project which have protected more than 9,600 acres, treated more than 2,700 acres of estuary habitat, and restored in-stream and riparian habitat in and along thousands of river miles.</p>
 		<p><a href="https://stateofsalmon.wa.gov/puget-sound/"><strong>State of the Salmon in Watersheds</strong></a><strong> </strong>is prepared by the Governor's Salmon Recovery Office every two years to report on the status of salmon and habitat across the state. </p>
 			
-			<p class="last-update">Last updated: 01/05/23</p>
+			<p class="last-update">Last updated: 01/05/24</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
