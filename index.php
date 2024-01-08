@@ -145,8 +145,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/PSAR.jpg"  alt="Logo for the Puget Sound Acquisition and Restoration Fund overlaid on a photo of a river undergoing restoration."/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="/PSAR.php">Puget Sound Acquisition and Restoration (PSAR) Large Capital Projects request for proposals for the 2025-2027 biennium</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/salmon.jpg"  alt="Photo of salmon swimming in water."/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="/salmon-recovery-overview.php">Seeking public comment on the development of the Puget Sound Salmon Recovery Plan Addendum</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
@@ -157,9 +157,9 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						 <!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/samish-bay.jpg"  alt="Aerial photo of shellfish beds in Samish Bay. Photo from Sakgit County Public Works"/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/02/protecting-and-restoring-shellfish-beds/">Protecting and restoring shellfish beds throughout Puget Sound</a><br>
-						<!--END news content BOX-->     
+						<img class="img-responsive img-rounded" src="images/news-images/PSAR.jpg"  alt="Logo for the Puget Sound Acquisition and Restoration Fund overlaid on a photo of a river undergoing restoration."/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="/PSAR.php">Puget Sound Acquisition and Restoration (PSAR) Large Capital Projects request for proposals for the 2025-2027 biennium</a><br>
+						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -174,6 +174,20 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/samish-bay.jpg"  alt="Aerial photo of shellfish beds in Samish Bay. Photo from Sakgit County Public Works"/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/02/protecting-and-restoring-shellfish-beds/">Protecting and restoring shellfish beds throughout Puget Sound</a><br>
+						<!--END news content BOX-->   
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<!--COLUMN END--> 
+	
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/nora-nickum.jpg"  alt="Headshot photo of Nora Nickum, senior ocean policy manager at the Seattle Aquarium and author of books and magazine articles for kids."/> <strong>MAKING WAVES</strong><br>
 						<a href="https://makingwaves.psp.wa.gov/index.php/2023/06/09/making-waves-conversations-nora-nickum/">Nora Nickum on her new book, "Superpod: Saving the Endangered Orcas of the Pacific Northwest"</a><br>
 						<!--END news content BOX-->  
@@ -181,8 +195,7 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!--COLUMN END--> 
-	
+			<!--COLUMN END-->
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
@@ -203,7 +216,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/scenarios-web.jpg"  alt="Chart that illustrates differences in business-as-usual scenario and alternative future scenarios"/> <strong>RESOURCE</strong><br>
 						<a href="/future-scenarios.php">Alternative futures for Puget Sound</a><br>
-						<!--END news content BOX--> 
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -216,7 +229,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/PEAR-news.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>STATEMENT</strong><br>
 						<a href="https://psp.wa.gov/pear.php">Partnership's Pro-Equity Anti-Racism statement</a><br>
-						<!--END news content BOX-->   
+						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -229,20 +242,7 @@
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/PSDOTHStill2PlayWeb.jpg"  alt="Screenshot from the Puget Sound Geographic Program video that shows a boat moving through Puget Sound with a semi-transparent play button superimposed on the screenshot to indicate this is a video"/> <strong>MAKING WAVES</strong><br>
 						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/07/puget-sound-geographic-program-funds/">Puget Sound Geographic Program funds at work</a><br>
-						<!--END news content BOX-->   
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!--COLUMN END-->
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/coho-web.jpg"  alt="Young coho salmon swimming in a river, with rocks lining the bottom of the riverbed"/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/03/6ppd-quinone-salmon-recovery/">Clearing the road for salmon recovery: 6PPD-quinone and mitigation solutions</a><br>
-						<!--END news content BOX-->   
+						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
 				</div>
