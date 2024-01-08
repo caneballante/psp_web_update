@@ -78,9 +78,22 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<div class="hidden"><div class="highlightbox margin-0-top margin-20-bottom"><p><span class="new-red">NEW:</span> The Puget Sound Partnership is seeking public input on the <a href="https://pspaddendum.konveio.com/" target="new">development of the Puget Sound Salmon Recovery Plan (Recovery Plan) Addendum</a>, an update to the regional chapter of the Recovery Plan. The goal of this Addendum is to guide the Puget Sound regional salmon recovery organization’s salmon recovery actions over the next ten years. The Addendum includes strategies and actions to move salmon recovery forward, an overview of the region’s role in advancing environmental justice, funding strategies for implementing the Addendum, descriptions of key recovery partners and their role as implementers, and a monitoring and adaptive management framework. The Partnership seeks to develop a succinct, impactful document, with clear regional action that will enhance and accelerate the watersheds’ work on the ground.</p>
+		<div class="highlightbox margin-0-top margin-20-bottom"><p><span class="new-red">NEW:</span> The Puget Sound Partnership is seeking public input on the <a href="https://pspaddendum.konveio.com/" target="new">development of the Puget Sound Salmon Recovery Plan (Recovery Plan) Addendum</a>, an update to the regional chapter of the Recovery Plan. The goal of this Addendum is to guide the Puget Sound regional salmon recovery organization’s salmon recovery actions over the next ten years. The Addendum includes strategies and actions to move salmon recovery forward, an overview of the region’s role in advancing environmental justice, funding strategies for implementing the Addendum, descriptions of key recovery partners and their role as implementers, and a monitoring and adaptive management framework. The Partnership seeks to develop a succinct, impactful document, with clear regional action that will enhance and accelerate the watersheds’ work on the ground.</p>
 <p>To achieve this outcome requires input and guidance from the Puget Sound community. The public comment period is open from Jan. 8 until Feb. 21. The Puget Sound community has an opportunity to <a href="https://pspaddendum.konveio.com/" target="new">provide feedback on the Puget Sound Salmon Recovery Plan Addendum through an online platform</a> and by submitting letters. Letters can be sent via email to Ashley Bagley, salmon policy advisor at the Puget Sound Partnership (<a href="mailto:ashley.bagley@psp.wa.gov">ashley.bagley@psp.wa.gov</a>).
-</p></div></div>
+</p>
+			<p>For this Salmon Recovery Plan Addendum public comment period, the Partnership is utilizing Konveio to capture comments and feedback on the Addendum.</p>
+			
+			<h3>Konveio Tips</h3>
+			
+			<ol>
+			<li><p>To access the comment website, navigate to <a href="https://pspaddendum.konveio.com/" target="new">PSPaddendum.Konveio.com</a>. We recommend accessing and providing comments on a computer or tablet rather than a mobile device, as the document will be challenging to read on a small screen.</p></li>
+			<li><p>To add a comment, simply click anywhere on the document to provide a comment. We welcome any comments about what resonates, what you’d like to see changed, or anything else we should know.</p></li>
+			<li><p>You will need to provide your name and select the category that applies to your comment under the “Comment Type” dropdown menu.</p> </li>
+			<li><p>Providing your email address or making an account is <strong>optional</strong>. If you would like to edit, remove, or return to your comments at a later time, you will need to create an account by clicking Register at the top of the main page. </p></li>
+			<li><p>If you have any technical issues using Konveio, the ? icon in the bottom right of the screen provides a 24/7 support through Konveio. </p> </li>
+			</ol>
+			
+			</div>
 		
 			<p>Using the Puget Sound Salmon Recovery Plan as a guide, the Partnership is committed to working with local stakeholders and communities, tribes, businesses, anglers, agriculture, environmental interest groups, and state and federal agencies to identify, sequence, prioritize, and implement projects and programs to recover salmon in Puget Sound. Salmon recovery work in Puget Sound watersheds is the cornerstone of broader Puget Sound recovery efforts. The Partnership coordinates and funds both local salmon recovery and large-scale protection and restoration efforts through the Puget Sound Acquisition and Restoration (PSAR) program. </p>
 		<h4>Salmon recovery honors tribal treaty rights.</h4>
@@ -166,7 +179,7 @@
 		<p>The <a href="http://www.psp.wa.gov/PSAR.php"><strong>Puget Sound Acquisition and Restoration</strong></a> <strong>(PSAR)</strong> program has contributed funding to projects that restore and protect salmon habitat throughout Puget Sound. To date, PSAR has invested over $200 million in project which have protected more than 9,600 acres, treated more than 2,700 acres of estuary habitat, and restored in-stream and riparian habitat in and along thousands of river miles.</p>
 		<p><a href="https://stateofsalmon.wa.gov/puget-sound/"><strong>State of the Salmon in Watersheds</strong></a><strong> </strong>is prepared by the Governor's Salmon Recovery Office every two years to report on the status of salmon and habitat across the state. </p>
 			
-			<p class="last-update">Last updated: 01/05/24</p>
+			<p class="last-update">Last updated: 01/8/24</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
