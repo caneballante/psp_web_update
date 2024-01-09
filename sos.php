@@ -79,11 +79,13 @@
         <h2 class="margin-0-top">About the State of the Sound</h2>
             <p>As a national and tribal treasure, Puget Sound is worthy of our every effort for protection and restoration. Such effort requires the coordination and collaboration of hundreds of partners in planning, prioritizing, and undertaking the actions needed to recover and sustain Puget Sound.</p>
             <p>The biennial State of the Sound report is intended to help our partners and decision makers better understand (1) how well the recovery effort is going, (2) ecosystem health and progress toward Puget Sound recovery goals, and (3) the role each partner can play in achieving Puget Sound recovery. It also responds specifically to state statute (RCW 90.71.370(3)).            </p>
-            <p><strong><a href="https://www.stateofthesound.wa.gov">State of the Sound Website</a></strong><br>
+            <p><strong><a href="https://stateofthesound.wa.gov">State of the Sound Website</a></strong><br>
         The website  presents the 2023 State of the Sound Executive Summary and the Call to Action for recovery partners. </p>
             <p><strong><a href="https://pspwa.box.com/shared/static/8axpa1vumenqgrk7lxk4rlwcmprxz03l.pdf">Download the State of the Sound Report (PDF)</a></strong></p>
 			<p><strong><a href="https://pspwa.box.com/shared/static/v5yuglnxawmwfyl1t1e7y33riydpclpn.pdf">Download the State of the Sound Report (Espanol PDF)</a></strong></p>
         
+			
+			<p class="last-update">Last updated: 1/9/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
