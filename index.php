@@ -60,7 +60,7 @@
 						<p><strong>The State of the Sound assesses the health of the Puget Sound ecosystem and progress towards its recovery</strong></p>
 
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://www.stateofthesound.wa.gov">LEARN MORE ABOUT THE REPORT</a></div>
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://stateofthesound.wa.gov">LEARN MORE ABOUT THE REPORT</a></div>
 						</div>
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
 							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/ijudsxn5pcnl614485td4lgwc3j4wcmi.pdf">STATE OF THE SOUND IN ENGLISH </a></div>
@@ -116,7 +116,7 @@
 			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">Puget Sound Vital Signs</a></div>
 			<div class="padding-5-bottom"><a href="/PSEMP-overview.php">Ecosystem monitoring (PSEMP)</a> </div>
 			<div class="padding-5-bottom"><a href="science-and-evaluation-overview.php">Science and evaluation overview</a></div>
-			<div class="padding-5-bottom"><a href="https://www.stateofthesound.wa.gov">2023 State of the Sound</a> </div>
+			<div class="padding-5-bottom"><a href="https://stateofthesound.wa.gov">2023 State of the Sound</a> </div>
 			<div class="padding-5-bottom"><a href="https://www.pugetsoundinfo.wa.gov">Puget Sound Info</a></div>
 			<div class="padding-5-bottom"><a href="https://data-wa-psp.hub.arcgis.com/">Recovery Spatial Data and Tools</a></div>
 		</div>
