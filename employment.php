@@ -81,23 +81,18 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4139446/grant-writer-and-strategist-exempt">Grant Writer and Strategist</a></p>
+			
+			<p>The Grant Writer and Strategist is part of the Partnership’s new Strategic Funding Team and will provide the state, Tribes, and local partners with technical assistance and capacity to prepare grant applications for submission. This position will identify funding opportunities, develop high-quality grant proposals to federal, state, and private funding agencies, and monitor grant progression with the goal of increasing the number of successful submissions for local and regional recovery projects.</p>
+
+<p>The annual starting range of compensation for this position is between $71,500 - $79,000 depending upon qualifications. The full position salary range is $71,500 - $86,500. The hiring supervisor can negotiate employment offers with candidates for this recruitment within the boundaries of the starting salary range based on a formulaic approach. The position range is the broader range the newly hired person can expect their salary to grow during their tenure in the position. Salary ranges will increase when future legislatively approved general wage increases for non-represented state employees. For more information about benefits and the details of the position, visit the link above. Recruitment is open through Feb. 12.
+</p><br>
+			
 			<p><a href="https://app.smartsheet.com/sheets/Vrgg98QWw63r77X8cgg2hW654QQfF9wC4fPW4QJ1">Puget Sound Recovery Strategist</a></p>
 			
 			<p>The Puget Sound Recovery Strategist (PSRS) represents the agency in external venues and functions to influence the work of partners (local, state, federal, Tribal, business). The position fosters specific actions and identifies and focuses resources to accelerate ecosystem recovery implementation. The PSRS is responsible for promoting the potential of local recovery partners to advance local priority work for ecosystem in alignment with the Action Agenda, salmon recovery plan, and environmental justice strategies. The annual range of compensation is between $71,500.00 – 86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. Recruitment is open through Jan. 11, 2024.</p><br>
 			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4139446/grant-writer-and-strategist-exempt">Grant Writer and Strategist</a></p>
 			
-			<p>The Grant Writer and Strategist is part of the Partnership’s new Strategic Funding Team and will provide the state, Tribes, and local partners with technical assistance and capacity to prepare grant applications for submission. This position will identify funding opportunities, develop high-quality grant proposals to federal, state, and private funding agencies, and monitor grant progression with the goal of increasing the number of successful submissions for local and regional recovery projects.</p>
-			<p>Grant Writer and Strategist duties may include:</p>
-	<ul class="bullet-size-fix"><li>Write high-quality concept papers, letters of inquiry, proposals, and reports for current and prospective funders including federal, state, and local government entities and private and corporate foundations.</li>
-<li>Create compelling, persuasive, well-structured grant narratives using effective storytelling and relevant data.</li>
-<li>Evaluate, design, determine, and develop competitive grant proposals to appropriate funding opportunities for submission, including budgets and timelines.</li>
-<li>Assist in identifying new funding needs and new proposal opportunities.</li>
-<li>Tracking, managing, and communicating timelines and deadlines to achieve timely proposal submissions.</li>
-<li>Understanding and being able to explain grant regulations and guidelines.</li>
-			</ul>
-<p>The annual range of compensation is between $71,500.00 - $86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the link above. Recruitment is open through Dec. 13.
-</p><br>
 			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4244574/contracts-coordinator">Contracts Coordinator (one permanent, one project)</a></p>
 			
