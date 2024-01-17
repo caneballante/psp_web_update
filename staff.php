@@ -353,9 +353,9 @@
 						<h5>Zhen Zhen Yuan</h5>
 						<p>Fiscal and Budget Analyst<br>
 							360.827.1927 | <a href="mailto:zhenzhen.yuan@psp.wa.gov">zhenzhen.yuan@psp.wa.gov</a></p>
-						<h5>VACANT</h5>
+						<h5>Jennifer Soriano</h5>
 						<p>Fiscal and Budget Analyst<br />
-							</p>
+							564.669.8330 | <a href="mailto:jennifer.soriano@psp.wa.gov">jennifer.soriano@psp.wa.gov</a></p>
 						<!--IT-->        
 						<h3 class="padding-10-top">IT TEAM</h3>
 						<h5>Greg Tudor</h5>
@@ -368,7 +368,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 1/5/24</p>
+	<p class="last-update">Last updated: 1/17/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
