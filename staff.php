@@ -120,6 +120,43 @@
 						<h5>Larry Epstein</h5>
 						<p> Deputy Director<br />
 							360.480.0487 | <a href="mailto:larry.epstein@psp.wa.gov">larry.epstein@psp.wa.gov</a></p>
+						
+						<!--SALMON RECOVERY PROGRAM-->
+						<h3 class="padding-10-top">SALMON RECOVERY PROGRAM</h3>
+						<h5>Melissa Speeg</h5>
+						<p>Salmon Recovery Manager<br>
+							360.529.6472 | <a href="mailto:melissa.speeg@psp.wa.gov">melissa.speeg@psp.wa.gov</a></p>
+						<h5>Marlies Wierenga</h5>
+						<p>PSAR Program Manager<br />
+							360.968.9673 | <a href="mailto:marlies.wiergenga@psp.wa.gov">marlies.wierenga@psp.wa.gov</a></p>
+						<h5>April Gassman</h5>
+						<p>Salmon Permitting Projects Coordinator<br>
+							360.742.4195 | <a href="mailto:april.gassman@psp.wa.gov">april.gassman@psp.wa.gov</a></p>
+						<h5>Ashley Bagley</h5>
+						<p>Salmon Policy Advisor<br />
+							360.515.6054 | <a href="mailto:ashley.bagley@psp.wa.gov">ashley.bagley@psp.wa.gov</a></p>
+						<h5>Hannah Liss</h5>
+						<p>Salmon Recovery Coordinator<br>
+							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
+						
+						<!--PUGET SOUND RECOVERY INTEGRATION TEAM-->
+						<h3 class="padding-10-top">PUGET SOUND RECOVERY INTEGRATION TEAM</h3>
+						<h5>Laura Rivas</h5>
+						<p>Puget Sound Recovery Integration Manager<br>
+							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
+
+						<h5>Matthew Colston</h5>
+						<p>Puget Sound Recovery Strategist<br>
+							360.968.9924 | <a href="mailto:matthew.colston@psp.wa.gov">matthew.colston@psp.wa.gov</a></p>
+			
+						<h5>Juliana Tadano</h5>
+						<p>Puget Sound Recovery Strategist<br/>
+							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
+							</p>
+			
+						<h5>VACANT</h5>
+						<p>Puget Sound Recovery Strategist<br></p>
+						
 						<!--STRATEGIC FUNDING PROGRAM-->
 						<h3 class="padding-10-top">Strategic Funding Program</h3>
 						<h5>Jennifer Grimm</h5>
@@ -137,28 +174,7 @@
 						<h5>Sadie Normoyle</h5>
 						<p>Strategic Funding Coordinator<br>
 							360.628.7476 | <a href="mailto:sadie.normoyle@psp.wa.gov">sadie.normoyle@psp.wa.gov</a>
-						 <!--ADAPTIVE SYSTEMS-->
-						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
-						<h5>VACANT</h5>
-						<p> Adaptive Systems Manager<br />
-							</p>
-						<h5>Jennifer Burke</h5>
-						<p>Information and Geospatial Systems Manager<br />
-							360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
-						<h5>Alex Mitchell</h5>
-						<p> Performance Management Analyst<br/>
-							360.706.3334 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a> </p> 
-						<h5>Wessyl Kelly</h5>
-						<p>Data Systems Support Specialist<br />
-						 360.529.6570 |<a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov </a></p>
-
-						 <h5>Beihua Page</h5>
-						<p>Adaptive Systems Lead<br />
-						360.552.8340 | <a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov </a></p><strong></strong>
-			
-						<h5>Laura Vary</h5>
-						<p>Monitoring Data Coordinator and Analyst<br />
-						360.742.6989 | <a href="mailto:laura.vary@psp.wa.gov">laura.vary@psp.wa.gov</a></p>
+						 
 
 						<!--BOARDS PROGRAM-->
 						<h3 class="padding-10-top">BOARDS PROGRAM</h3>
@@ -210,24 +226,10 @@
 						<h5>Robb Krehbiel</h5>
 						<p>Environmental Planner<br />
 						360.485.2117 | <a href="mailto:robb.krehbiel@psp.wa.gov">robb.krehbiel@psp.wa.gov</a></p>
-						<!--ECOSYSTEM RECOVERY TEAM-->
-						<h3 class="padding-10-top">PUGET SOUND RECOVERY INTEGRATION TEAM</h3>
-						<h5>Laura Rivas</h5>
-						<p>Puget Sound Recovery Integration Manager<br>
-							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
-
-						<h5>Matthew Colston</h5>
-						<p>Puget Sound Recovery Strategist<br>
-							360.968.9924 | <a href="mailto:matthew.colston@psp.wa.gov">matthew.colston@psp.wa.gov</a></p>
+						
 			
-						<h5>Juliana Tadano</h5>
-						<p>Puget Sound Recovery Strategist<br/>
-							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
-							</p>
-			
-						<h5>VACANT</h5>
-						<p>Puget Sound Recovery Strategist<br></p>
-			
+						
+						<!--LIO PROGRAM TEAM-->
 						<h3 class="padding-10-top">LIO PROGRAM TEAM</h3>
 			
 						<h5>Harriet Booth</h5>
@@ -242,22 +244,28 @@
 						<p>Ecosystem Recovery Coordinator<br>
 							</p>
 			
-						<h3 class="padding-10-top">SALMON RECOVERY PROGRAM</h3>
-						<h5>Melissa Speeg</h5>
-						<p>Salmon Recovery Manager<br>
-							360.529.6472 | <a href="mailto:melissa.speeg@psp.wa.gov">melissa.speeg@psp.wa.gov</a></p>
-						<h5>Marlies Wierenga</h5>
-						<p>PSAR Program Manager<br />
-							360.968.9673 | <a href="mailto:marlies.wiergenga@psp.wa.gov">marlies.wierenga@psp.wa.gov</a></p>
-						<h5>April Gassman</h5>
-						<p>Salmon Permitting Projects Coordinator<br>
-							360.742.4195 | <a href="mailto:april.gassman@psp.wa.gov">april.gassman@psp.wa.gov</a></p>
-						<h5>Ashley Bagley</h5>
-						<p>Salmon Policy Advisor<br />
-							360.515.6054 | <a href="mailto:ashley.bagley@psp.wa.gov">ashley.bagley@psp.wa.gov</a></p>
-						<h5>Hannah Liss</h5>
-						<p>Salmon Recovery Coordinator<br>
-							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
+						<!--ADAPTIVE SYSTEMS-->
+						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
+						<h5>VACANT</h5>
+						<p> Adaptive Systems Manager<br />
+							</p>
+						<h5>Jennifer Burke</h5>
+						<p>Information and Geospatial Systems Manager<br />
+							360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
+						<h5>Alex Mitchell</h5>
+						<p> Performance Management Analyst<br/>
+							360.706.3334 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a> </p> 
+						<h5>Wessyl Kelly</h5>
+						<p>Data Systems Support Specialist<br />
+						 360.529.6570 |<a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov </a></p>
+
+						 <h5>Beihua Page</h5>
+						<p>Adaptive Systems Lead<br />
+						360.552.8340 | <a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov </a></p><strong></strong>
+			
+						<h5>Laura Vary</h5>
+						<p>Monitoring Data Coordinator and Analyst<br />
+						360.742.6989 | <a href="mailto:laura.vary@psp.wa.gov">laura.vary@psp.wa.gov</a></p>
 						
 						
 						
