@@ -79,7 +79,7 @@
 			
 			<h2>Chair: Dennis McLerran</h2>
 			<p><strong>Term ends:</strong> June 25, 2026<br />
-				<strong>Biography:</strong> Dennis McLerran served as the Regional Administrator for the U.S. Environmental Protection Agency’s Region 10, which encompasses Alaska, Idaho, Oregon and Washington, and Pacific Northwest Indian Country from 2010 until January of 2017. He currently serves on the Board of Directors for the Stockholm Environment Institute US, a research affiliate of Tufts University specializing in sustainable development and environmental issues. His previous experiences include serving as executive director of the Puget Sound Clean Air Agency, the regional air quality agency for King, Kitsap, Pierce and Snohomish counties; president of the National Association of Clean Air Agencies; and chairman of the Land Use and Environmental Law Section of the Washington State Bar Association. He holds a law degree from Seattle University School of Law and a bachelor’s degree in urban planning from the University of Washington.</p>
+				<strong>Biography:</strong> Dennis McLerran served as the Regional Administrator for the U.S. Environmental Protection Agency’s Region 10, which encompasses Alaska, Idaho, Oregon and Washington, and Pacific Northwest Indian Country from 2010 until January of 2017. He is an attorney with Cascadia Law Group with a practice that focuses on climate change policy and land use and environmental law. His previous experiences include serving as executive director of the Puget Sound Clean Air Agency, the regional air quality agency for King, Kitsap, Pierce and Snohomish counties; president of the National Association of Clean Air Agencies; and chairman of the Land Use and Environmental Law Section of the Washington State Bar Association. He holds a law degree from Seattle University School of Law and a bachelor’s degree in urban planning from the University of Washington.</p>
 			
 			<h2>Vice Chair: Kate Dean</h2>
 			<p><strong>Term ends: </strong>June 25, 2025<br />
@@ -119,7 +119,7 @@
 				<p>Herrera has also served as the vice chair or co-vice chair of the Puget Sound Salmon Recovery Council for over a decade. The Salmon Recovery Council advises the Leadership Council on decisions related to salmon recovery and the implementation of the Puget Sound Salmon Recovery Plan. He has also chaired the Puget Sound Tribal Management Conference, which is a forum where Tribes participate in the Puget Sound Action Agenda update process, set priorities for Puget Sound recovery, and provide input for the National Estuary Program decision-making process. In addition, Herrera has been Skokomish Commissioner for the Northwest Indian Fisheries Commission and chair of its Environmental Policy Committee. He serves as vice chair of the board of directors for the Hood Canal Coordinating Council and he is a member of the State Forest Practices Board, the advisory board for the William D. Ruckelshaus Center, and the board of directors for the Puget Sound Restoration Fund. Herrera was also a member of the Southern Resident Orca Task Force.</p>
 			
 		
-		<p class="last-update">Last updated: 12/15/23</p>
+		<p class="last-update">Last updated: 1/18/24</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
