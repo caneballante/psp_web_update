@@ -181,6 +181,9 @@ td p a {
 .right-align {
 	text-align: right;
 }
+.left-align {
+	text-align: left;
+}
 /* ul, ol, and a styles nested in "content-column" to keep them seperate from all the navigation styles */
 .content-column ul, ol {
 	font-size: 1em;

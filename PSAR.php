@@ -69,6 +69,10 @@
 				
 				<li class="active" role="presentation"> <a href="PSAR.php">PSAR OVERVIEW</a></li>
 				<li class="active" role="presentation"> <a href="PSAR-resources.php">PSAR RESOURCES</a></li>
+					<hr/>
+					<p class="caption left-align">The PSAR program is supported with funding from Washington’s <strong>Climate Commitment Act</strong>. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="www.climate.wa.gov">www.climate.wa.gov</a>.<br>
+					<img class="img-responsive" src="images/CCA-primary-logo.png" width="309" height="156" alt=""/></p>
+					<hr/>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
