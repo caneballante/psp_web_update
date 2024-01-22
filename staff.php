@@ -202,9 +202,9 @@
 						<h5>Chase Nuuhiwa</h5>
 						<p>Visual Communication Lead<br>
 						360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
-						<h5>VACANT</h5>
+						<h5>Ian McCabe</h5>
 						<p> Communications Specialist <br>
-						</p>
+						564.669.8285 | <a href="mailto:ian.mccabe@psp.wa.gov">ian.mccabe@psp.wa.gov</a></p>
 						
 						<!--INTEGRATED PLANNING TEAM-->
 						<h2>ECOSYSTEM RECOVERY PROGRAM</h2>
@@ -376,7 +376,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 1/17/24</p>
+	<p class="last-update">Last updated: 1/19/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
