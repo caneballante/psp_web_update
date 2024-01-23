@@ -367,6 +367,8 @@
 					
 					<h1 class="margin-0-top white padding-40-top">The Puget Sound Acquisition and Restoration (PSAR) Program</h1>
 					<p class="white white-links">PSAR funds projects that restore habitat critical to the survival of Puget Sound salmon populations. These projects are thoroughly reviewed to ensure they benefit salmon populations and local communities. PSAR projects are endorsed by members of the public, cities, counties, tribes, nonprofit organizations, and government agencies. <a href="psar.php"><u>Learn more</u></a></p>
+					
+					<p class="white white-links">The PSAR program is supported with funding from Washington’s Climate Commitment Act. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="climate.wa.gov" target="new">www.climate.wa.gov</a>.</p>
 				</div>
 
 
