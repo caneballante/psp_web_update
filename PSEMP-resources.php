@@ -105,6 +105,12 @@
 					
 						</div></div></div></div>
 			
+			
+			
+			</div><!--end row-->	
+			
+		<div class="row text-left">
+			
 			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -115,10 +121,6 @@
 								<span class="no-icon"><p class="psemp-products">The purpose of the guidebook is to help the reader develop ideas about equity with the goal of visualizing and articulating environmental disparities in Puget Sound. The guidebook offers a framework made up of a few simple steps for building an analysis of Vital Signs with an equity lens.</p></span><br>
 					
 							</div></div></div></div> <!--end col-->
-			
-			</div><!--end row-->	
-			
-		<div class="row text-left">
 			
 			<div class="col-md-4">
 					<div class="card">
@@ -142,7 +144,17 @@
 					
 							</div></div></div></div>
 			
-			<div class="col-md-4">
+			
+				
+			
+			
+			 <!--end col-->
+			
+			</div><!--end row-->
+			
+			<div class="row text-left">
+				
+				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -152,14 +164,6 @@
 								<span class="no-icon"><p class="psemp-products">Puget Sound and the Salish Sea support significant concentrations of shorebirds, waterfowl, and other marine bird species. This project develops science products that support the management needs of estuary birds.</p></span><br>
 					
 							</div></div></div></div> <!--end col-->
-				
-			
-			
-			 <!--end col-->
-			
-			</div><!--end row-->
-			
-			<div class="row text-left">
 				
 				<div class="col-md-4">
 					<div class="card">
@@ -183,6 +187,13 @@
 					
 							</div></div></div></div>
 				
+				
+			
+
+			</div><!--end row-->
+			
+			<div class="row text-left">
+				
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -193,11 +204,6 @@
 								<p class="psemp-products">This project includes processing annual mid-winter WDFW PSAMP seabird and waterfowl survey flight data; marine and terrestrial bird indicator updates; winter birds web map; Pigeon Guillemot citizen science data gathering, storage and summary tools.</p><br>
 					
 							</div></div></div></div> <!--end col-->
-			
-
-			</div><!--end row-->
-			
-			<div class="row text-left">
 				
 				<div class="col-md-4">
 					<div class="card">
@@ -221,7 +227,13 @@
 					
 							</div></div></div></div>
 				
-				<div class="col-md-4">
+				
+				
+				
+			 <!--end col-->
+			</div><!--end row-->
+							
+			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -232,11 +244,7 @@
 					
 							</div></div></div></div> <!--end col-->
 				
-				
-			 <!--end col-->
-			</div><!--end row-->
-							
-			<div class="row text-left">
+				<div class="row text-left">
 				
 				<div class="col-md-4">
 					<div class="card">
@@ -260,7 +268,15 @@
 					
 							</div></div></div></div>
 				
-				<div class="col-md-4">
+				
+				
+				
+				
+				 <!--end col-->
+				
+			</div><!--end row-->
+				
+			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -271,13 +287,7 @@
 					
 							</div></div></div></div> <!--end col-->
 				
-				
-				
-				 <!--end col-->
-				
-			</div><!--end row-->
-				
-			<div class="row text-left">
+				<div class="row text-left">
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -300,7 +310,14 @@
 								<p class="psemp-products">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea.</p><br>
 							</div></div></div></div>
 				
-				<div class="col-md-4">
+				 <!--end col-->
+				
+				</div><!--end row-->
+				
+				<div class="row text-left">
+				
+				
+					<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -309,15 +326,11 @@
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2">View</a></p></span>
 								<p class="psemp-products">This plan includes a goal for PSEMP to convene subject matter experts to communicate scientific information from different parts of the ecosystem to address key management and science questions for recovery of the ecosystem.</p><br>
 					
-							</div></div></div></div> <!--end col-->
-				
-				</div><!--end row-->
-				
-				<div class="row text-left">
-				
-			 <!--end col-->
-				
-			<div class="col-md-4">
+							</div></div></div></div>
+					
+					 <!--end col-->
+			
+					<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
