@@ -109,10 +109,10 @@
 							<div class="card-body">
 							<div class="d-inline">
 								<h6 class="margin-0-top">SCOPING THE ORCA OCCUPANCY INDICATOR DEVELOPMENT</h6>
-					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/PSEMP/orca-occupancy.jpg" class="img-responsive img-rounded" alt="The cover photo from the Puget Sound Marine Waters 2021 Overview report, showing the silhouette of a seaplane flying over blue, green, and orange-colored Puget Sound water."/></a>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/b4h7d31r4c06j53837w1wk7uadg3q3u7" target="new"><img src="images/PSEMP/orca-occupancy.jpg" class="img-responsive img-rounded" alt="Photo of orcas swimming in Puget Sound. Photo credit: NOAA Fisheries Northwest"/></a>
 	 	 		    
-					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a></p></span>
-								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2021.</p><br>
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/b4h7d31r4c06j53837w1wk7uadg3q3u7">Report</a></p></span>
+								<p class="psemp-products">A project that aimed to foster conversations through two workshops in the initial stage of developing the noise indicator. The outcome was to describe the scope of the indicator and provide recommendations for next steps.</p><br>
 					
 						</div></div></div></div>
 			
