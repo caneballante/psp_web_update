@@ -363,7 +363,7 @@
 		<div class="container light-blue-fill">
 			<div class="row  padding-20-right">
 				
-				<div class="col-md-6 padding-60-bottom">
+				<div class="col-md-6">
 					
 					<h1 class="margin-0-top white padding-40-top">The Puget Sound Acquisition and Restoration (PSAR) Program</h1>
 					<p class="white white-links">PSAR funds projects that restore habitat critical to the survival of Puget Sound salmon populations. These projects are thoroughly reviewed to ensure they benefit salmon populations and local communities. PSAR projects are endorsed by members of the public, cities, counties, tribes, nonprofit organizations, and government agencies. <a href="psar.php"><u>Learn more</u></a></p>
