@@ -97,10 +97,10 @@
 							<div class="card-body">
 							<div class="d-inline">
 								<h6 class="margin-0-top">MARINE WATERS OVERVIEW REPORT 2022</h6>
-					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2022-salish-sea-toxics-monitoring-synthesis-selection-research" target="new"><img src="images/psemp/toxics-monitoring.jpg" class="img-responsive img-rounded" alt="The cover photo from the 2022 Salish Sea Toxics Monitoring Synthesis report, which shows a heron standing on a shoreline with a fish in its beak."/></a>
+					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/psemp/marine-waters-2022.jpg" class="img-responsive img-rounded" alt="The cover photo from the Marine Waters Overview Report 2022 shows a sailboat sailing on Puget Sound."/></a>
 	 	 		    
-					<p class="psemp-products"><a href="https://www.eopugetsound.org/articles/2022-salish-sea-toxics-monitoring-synthesis-selection-research">Report</a></p></span>
-								<p class="psemp-products">An overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea.</p><br>
+					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a></p></span>
+								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2022.</p><br>
 					
 						</div></div></div></div>
 			
