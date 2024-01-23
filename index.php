@@ -368,7 +368,7 @@
 					<h1 class="margin-0-top white padding-40-top">The Puget Sound Acquisition and Restoration (PSAR) Program</h1>
 					<p class="white white-links">PSAR funds projects that restore habitat critical to the survival of Puget Sound salmon populations. These projects are thoroughly reviewed to ensure they benefit salmon populations and local communities. PSAR projects are endorsed by members of the public, cities, counties, tribes, nonprofit organizations, and government agencies. <a href="psar.php"><u>Learn more</u></a></p>
 					
-					<p class="white white-links">The PSAR program is supported with funding from Washington’s Climate Commitment Act. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="https://climate.wa.gov/" target="new">www.climate.wa.gov</a>.</p>
+					
 					
 				</div>
 				
@@ -376,6 +376,10 @@
 
 				<div class="col-md-5 padding-40-top">
 					<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/785064068?h=3cb967761f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Puget Sound Acquisition and Restoration Fund: Restoring habitat critical to the recovery of Puget Sound salmon"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+				</div>
+				
+				<div class="col-md-12 padding-60-bottom">
+				<p class="white white-links">The PSAR program is supported with funding from Washington’s Climate Commitment Act. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="https://climate.wa.gov/" target="new">www.climate.wa.gov</a>.</p>
 				</div>
 
 				<div class="col-md-1">
