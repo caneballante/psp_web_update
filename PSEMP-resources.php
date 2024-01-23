@@ -84,7 +84,7 @@
 					<div class="card">
 							<div class="card-body">
 							<div class="d-inline">
-								<h6 class="margin-0-top">THIRD SURVEY FOR VITAL SIGN INDICATORS OF HUMAN WELLBEING</h6>
+								<h6 class="margin-0-top">DEVELOPING A FOUNDATION TO MONITOR MARINE NOISE VITAL SIGN INDICATOR</h6>
 					<span class="no-icon"><a href="https://pspwa.box.com/s/meadbna20m1xyigt9dan7839lmn6x4gm" target="new"><img src="images/psemp/human-wellbeing.jpg" class="img-responsive img-rounded" alt="Photo of people enjoying Owen Beach at Tacoma's Point Defiance Park."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/meadbna20m1xyigt9dan7839lmn6x4gm">2022 Survey Report</a></p></span>
@@ -96,7 +96,7 @@
 					<div class="card">
 							<div class="card-body">
 							<div class="d-inline">
-								<h6 class="margin-0-top">2022 SALISH SEA TOXICS MONITORING SYNTHESIS</h6>
+								<h6 class="margin-0-top">MARINE WATERS OVERVIEW REPORT 2022</h6>
 					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2022-salish-sea-toxics-monitoring-synthesis-selection-research" target="new"><img src="images/psemp/toxics-monitoring.jpg" class="img-responsive img-rounded" alt="The cover photo from the 2022 Salish Sea Toxics Monitoring Synthesis report, which shows a heron standing on a shoreline with a fish in its beak."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://www.eopugetsound.org/articles/2022-salish-sea-toxics-monitoring-synthesis-selection-research">Report</a></p></span>
@@ -108,8 +108,8 @@
 					<div class="card">
 							<div class="card-body">
 							<div class="d-inline">
-								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2021 OVERVIEW</h6>
-					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/ps-marine-waters-report-2021.jpg" class="img-responsive img-rounded" alt="The cover photo from the Puget Sound Marine Waters 2021 Overview report, showing the silhouette of a seaplane flying over blue, green, and orange-colored Puget Sound water."/></a>
+								<h6 class="margin-0-top">SCOPING THE ORCA OCCUPANCY INDICATOR DEVELOPMENT</h6>
+					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/PSEMP/orca-occupancy.jpg" class="img-responsive img-rounded" alt="The cover photo from the Puget Sound Marine Waters 2021 Overview report, showing the silhouette of a seaplane flying over blue, green, and orange-colored Puget Sound water."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a></p></span>
 								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2021.</p><br>
