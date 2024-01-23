@@ -233,7 +233,11 @@
 			 <!--end col-->
 			</div><!--end row-->
 							
-			<div class="col-md-4">
+			
+				
+				<div class="row text-left">
+					
+					<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -243,8 +247,6 @@
 								<p class="psemp-products">This project included monitoring, data compilation, analyses, and reporting at Puget Sound marine beaches for fecal indicator bacteria, and communication to the public when a risk of disease was identified.</p><br>
 					
 							</div></div></div></div> <!--end col-->
-				
-				<div class="row text-left">
 				
 				<div class="col-md-4">
 					<div class="card">
@@ -276,7 +278,11 @@
 				
 			</div><!--end row-->
 				
-			<div class="col-md-4">
+			
+				
+				<div class="row text-left">
+					
+				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -286,8 +292,7 @@
 								<p class="psemp-products">This project assessed compatibility of historical data and assessed time trends. The project included an indicator update for contaminants in juvenile salmon and a draft manuscript and communication product.</p><br>
 					
 							</div></div></div></div> <!--end col-->
-				
-				<div class="row text-left">
+					
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
