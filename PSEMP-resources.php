@@ -88,7 +88,7 @@
 					<span class="no-icon"><a href="https://pspwa.box.com/s/meadbna20m1xyigt9dan7839lmn6x4gm" target="new"><img src="images/psemp/human-wellbeing.jpg" class="img-responsive img-rounded" alt="Photo of people enjoying Owen Beach at Tacoma's Point Defiance Park."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/meadbna20m1xyigt9dan7839lmn6x4gm">2022 Survey Report</a></p></span>
-								<p class="psemp-products">This report covers the third Human Wellbeing survey iteration to monitor the subjective human wellbeing vital signs created by the Puget Sound Partnership and Oregon State University. </p><br>
+								<p class="psemp-products">A project to develop an approach for assessing and reporting on ocean noise levels in Puget Sound as a foundation for the noise in marine water Vital Sign indicator.</p><br>
 					
 						</div></div></div></div>
 			
