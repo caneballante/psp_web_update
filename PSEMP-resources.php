@@ -97,6 +97,18 @@
 					<div class="card">
 							<div class="card-body">
 							<div class="d-inline">
+								<h6 class="margin-0-top">2022 SALISH SEA TOXICS MONITORING SYNTHESIS</h6>
+					<span class="no-icon"><a href="https://www.eopugetsound.org/articles/2022-salish-sea-toxics-monitoring-synthesis-selection-research" target="new"><img src="images/psemp/toxics-monitoring.jpg" class="img-responsive img-rounded" alt="The cover photo from the 2022 Salish Sea Toxics Monitoring Synthesis report, which shows a heron standing on a shoreline with a fish in its beak."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://www.eopugetsound.org/articles/2022-salish-sea-toxics-monitoring-synthesis-selection-research">Report</a></p></span>
+								<p class="psemp-products">An overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea.</p><br>
+					
+						</div></div></div></div>
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
 								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2021 OVERVIEW</h6>
 					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/ps-marine-waters-report-2021.jpg" class="img-responsive img-rounded" alt="The cover photo from the Puget Sound Marine Waters 2021 Overview report, showing the silhouette of a seaplane flying over blue, green, and orange-colored Puget Sound water."/></a>
 	 	 		    
