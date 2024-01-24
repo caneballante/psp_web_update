@@ -77,9 +77,63 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			<div class="container-fluid">
+				
+		<div class="row text-left">
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">DEVELOPING A FOUNDATION TO MONITOR MARINE NOISE VITAL SIGN INDICATOR</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/miu54h6s08kz5v37ow6gn6pwf2xpz2oq" target="new"><img src="images/psemp/marine-noise.jpg" class="img-responsive img-rounded" alt="Photo of hydrophone diagram from the Develop Foundation to Monitor Marine Noise Vital Sign Indicator report."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/ri78k9xm567lqaoeznsq4lt0xt97juga">Factsheet</a> | <a href="https://pspwa.box.com/s/miu54h6s08kz5v37ow6gn6pwf2xpz2oq">Report</a> | <a href="https://pspwa.box.com/s/xe0qj98i8yawos2h5zfagtt46ggjvqop">QAPP</a></p></span>
+								<p class="psemp-products">A project to develop an approach for assessing and reporting on ocean noise levels in Puget Sound as a foundation for the noise in marine water Vital Sign indicator.</p><br>
+					
+						</div></div></div></div>
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2022 OVERVIEW</h6>
+					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/psemp/marine-waters-2022.jpg" class="img-responsive img-rounded" alt="The cover photo from the Marine Waters Overview Report 2022 shows a sailboat sailing on Puget Sound."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a></p></span>
+								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2022.</p><br>
+					
+						</div></div></div></div>
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">SCOPING THE ORCA OCCUPANCY INDICATOR DEVELOPMENT</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/b4h7d31r4c06j53837w1wk7uadg3q3u7" target="new"><img src="images/PSEMP/orca-occupancy.jpg" class="img-responsive img-rounded" alt="Photo of orcas swimming in Puget Sound. Photo credit: NOAA Fisheries Northwest"/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/b4h7d31r4c06j53837w1wk7uadg3q3u7">Report</a></p></span>
+								<p class="psemp-products">A project that aimed to foster conversations through two workshops in the initial stage of developing the noise indicator. The outcome was to describe the scope of the indicator and provide recommendations for next steps.</p><br>
+					
+						</div></div></div></div>
+			
+			
+			
+			</div><!--end row-->
 		
 		
 		<div class="row text-left">
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">THIRD SURVEY FOR VITAL SIGN INDICATORS OF HUMAN WELLBEING</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/meadbna20m1xyigt9dan7839lmn6x4gm" target="new"><img src="images/psemp/human-wellbeing.jpg" class="img-responsive img-rounded" alt="Photo of people enjoying Owen Beach at Tacoma's Point Defiance Park."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/meadbna20m1xyigt9dan7839lmn6x4gm">2022 Survey Report</a></p></span>
+								<p class="psemp-products">This report covers the third Human Wellbeing survey iteration to monitor the subjective human wellbeing vital signs created by the Puget Sound Partnership and Oregon State University. </p><br>
+					
+						</div></div></div></div>
 			
 			<div class="col-md-4">
 					<div class="card">
@@ -105,6 +159,12 @@
 					
 						</div></div></div></div>
 			
+			
+			
+			</div><!--end row-->	
+			
+		<div class="row text-left">
+			
 			<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -115,10 +175,6 @@
 								<span class="no-icon"><p class="psemp-products">The purpose of the guidebook is to help the reader develop ideas about equity with the goal of visualizing and articulating environmental disparities in Puget Sound. The guidebook offers a framework made up of a few simple steps for building an analysis of Vital Signs with an equity lens.</p></span><br>
 					
 							</div></div></div></div> <!--end col-->
-			
-			</div><!--end row-->	
-			
-		<div class="row text-left">
 			
 			<div class="col-md-4">
 					<div class="card">
@@ -142,7 +198,17 @@
 					
 							</div></div></div></div>
 			
-			<div class="col-md-4">
+			
+				
+			
+			
+			 <!--end col-->
+			
+			</div><!--end row-->
+			
+			<div class="row text-left">
+				
+				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -152,14 +218,6 @@
 								<span class="no-icon"><p class="psemp-products">Puget Sound and the Salish Sea support significant concentrations of shorebirds, waterfowl, and other marine bird species. This project develops science products that support the management needs of estuary birds.</p></span><br>
 					
 							</div></div></div></div> <!--end col-->
-				
-			
-			
-			 <!--end col-->
-			
-			</div><!--end row-->
-			
-			<div class="row text-left">
 				
 				<div class="col-md-4">
 					<div class="card">
@@ -183,6 +241,13 @@
 					
 							</div></div></div></div>
 				
+				
+			
+
+			</div><!--end row-->
+			
+			<div class="row text-left">
+				
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -193,11 +258,6 @@
 								<p class="psemp-products">This project includes processing annual mid-winter WDFW PSAMP seabird and waterfowl survey flight data; marine and terrestrial bird indicator updates; winter birds web map; Pigeon Guillemot citizen science data gathering, storage and summary tools.</p><br>
 					
 							</div></div></div></div> <!--end col-->
-			
-
-			</div><!--end row-->
-			
-			<div class="row text-left">
 				
 				<div class="col-md-4">
 					<div class="card">
@@ -221,7 +281,17 @@
 					
 							</div></div></div></div>
 				
-				<div class="col-md-4">
+				
+				
+				
+			 <!--end col-->
+			</div><!--end row-->
+							
+			
+				
+				<div class="row text-left">
+					
+					<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -231,12 +301,6 @@
 								<p class="psemp-products">This project included monitoring, data compilation, analyses, and reporting at Puget Sound marine beaches for fecal indicator bacteria, and communication to the public when a risk of disease was identified.</p><br>
 					
 							</div></div></div></div> <!--end col-->
-				
-				
-			 <!--end col-->
-			</div><!--end row-->
-							
-			<div class="row text-left">
 				
 				<div class="col-md-4">
 					<div class="card">
@@ -260,6 +324,18 @@
 					
 							</div></div></div></div>
 				
+				
+				
+				
+				
+				 <!--end col-->
+				
+			</div><!--end row-->
+				
+			
+				
+				<div class="row text-left">
+					
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -270,14 +346,7 @@
 								<p class="psemp-products">This project assessed compatibility of historical data and assessed time trends. The project included an indicator update for contaminants in juvenile salmon and a draft manuscript and communication product.</p><br>
 					
 							</div></div></div></div> <!--end col-->
-				
-				
-				
-				 <!--end col-->
-				
-			</div><!--end row-->
-				
-			<div class="row text-left">
+					
 				<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
@@ -300,7 +369,14 @@
 								<p class="psemp-products">A 2019 report from the Puget Sound Ecosystem Monitoring Program presents an overview of selected recent monitoring and research activities focused on toxic contaminants in the Salish Sea.</p><br>
 							</div></div></div></div>
 				
-				<div class="col-md-4">
+				 <!--end col-->
+				
+				</div><!--end row-->
+				
+				<div class="row text-left">
+				
+				
+					<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
@@ -309,15 +385,11 @@
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/64eyrsgbvey7psyxcvwc4t6xhcr1gyq2">View</a></p></span>
 								<p class="psemp-products">This plan includes a goal for PSEMP to convene subject matter experts to communicate scientific information from different parts of the ecosystem to address key management and science questions for recovery of the ecosystem.</p><br>
 					
-							</div></div></div></div> <!--end col-->
-				
-				</div><!--end row-->
-				
-				<div class="row text-left">
-				
-			 <!--end col-->
-				
-			<div class="col-md-4">
+							</div></div></div></div>
+					
+					 <!--end col-->
+			
+					<div class="col-md-4">
 					<div class="card">
 						<div class="card-body">
 							<div class="d-inline">
