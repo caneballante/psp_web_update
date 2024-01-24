@@ -379,7 +379,7 @@
 			<div class="row  padding-20-right">
 				<div class="col-md-12 padding-20-bottom">
 					<hr/>
-					<p class="white white-links">The PSAR program is supported with funding from Washington’s <strong>Climate Commitment Act</strong>. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="http://www.climate.wa.gov">www.climate.wa.gov</a>.</p>
+					<p class="white white-links"> The PSAR program is supported with funding from Washington’s <strong>Climate Commitment Act</strong>. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="http://www.climate.wa.gov">www.climate.wa.gov</a>. </p>
 				</div>
 			</div>
 		</div>
