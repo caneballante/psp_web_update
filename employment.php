@@ -81,6 +81,10 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4359165/puget-sound-ecosystem-monitoring-program-psemp-coordinator">PSEMP Coordinator</a></p>
+			
+			<p>This is a great opportunity to work with a wide network of partners that support the Puget Sound Ecosystem Monitoring Network (PSEMP) by managing contracts, fostering relationships, and facilitating and coordinating of meetings. This position will be hosted under the Science and Evaluation team. The annual range of compensation is between $73,840 - $89,000. However, the starting salary range will be $73,840 - $81,420. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. Recruitment is open through Feb. 14.</p>
+			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4344359/grant-writer-and-strategist-exempt">Grant Writer and Strategist</a></p>
 			
 			<p>The Grant Writer and Strategist is part of the Partnership’s new Strategic Funding Team and will provide the state, Tribes, and local partners with technical assistance and capacity to prepare grant applications for submission. This position will identify funding opportunities, develop high-quality grant proposals to federal, state, and private funding agencies, and monitor grant progression with the goal of increasing the number of successful submissions for local and regional recovery projects.</p>
@@ -122,7 +126,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 1/17/24</p>
+		<p class="last-update">Last updated: 1/26/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
