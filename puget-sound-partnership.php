@@ -99,10 +99,12 @@
 <li>Healthy Water Quality—Fresh and marine waters and sediments of a sufficient quality to support water that is safe for drinking, swimming, and other human uses and enjoyment, and which are not harmful to the native marine mammals, fish, birds, and shellfish in the region.</li></ul>
 
 <h2>Funding</h2>
-<p>The Puget Sound Partnership receives the bulk of its funding from federal Puget Sound National Estuary Program dollars. For the 2015-17 biennium, the Partnership has a budget of $18.8 million, including $9.9 million from the U.S. Environmental Protection Agenda, $7.5 million from the State of Washington, and $1.4 million from the National Oceanic and Atmospheric Administration. </p>
-<p>The greater Puget Sound ecosystem recovery effort is funded in number of ways, including local, state, tribal and federal government funding. Nonprofits, businesses, and foundations also make significant investments. The cost to implement the 2014-16 Action Agenda is estimated at $875 million.</p>
+<p>The Partnership’s operating budget comes from state and federal sources. Our state budget consists of funds from the following accounts: General Fund, Aquatic Lands Enhancement Account, and the Model Toxics Control Operating Account. The agency primarily uses these funds as match to federal grants provided by the EPA. In the 2021-23 biennium, the Partnership’s operating budget totaled $16.6 million in state funds and $20.5 million in federal U.S. EPA funds. The Partnership also received $1.3 million from the NOAA Pacific Coastal Salmon Recovery Fund (PCSRF) to continue to serve as the regional salmon recovery organization for Puget Sound. The Partnership also received $300,000 from the Puget Sound Acquisition and Restoration (PSAR) fund through an interagency agreement with the Recreation and Conservation Office (RCO) to co-manage PSAR project prioritization, monitoring, and investments.</p>
 
-<a href="2022AAupdate.php">Puget Sound Action Agenda</a> | <a href="evaluating-about-report-card.php">Action Agenda Report Card</a><!-- InstanceEndEditable --> </div>
+<a href="2022AAupdate.php">Puget Sound Action Agenda</a>
+			
+			<p class="last-update">Last updated: 01/26/24</p>
+			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
