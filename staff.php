@@ -181,9 +181,9 @@
 						<h5>Tristan Contesse</h5>
 						<p> Boards Program Manager<br />
 							360.584.5328 | <a href="mailto:tristan.contesse@psp.wa.gov">tristan.contesse@psp.wa.gov</a> </p>
-						<h5>Anna Petersen</h5>
+						<h5>VACANT</h5>
 						<p> Special Assistant to the Boards<br />
-							360.338.2384 | <a href="mailto:anna.petersen@psp.wa.gov">anna.petersen@psp.wa.gov</a></p>
+							
 						<h5>Jillian Reitz</h5>
 						<p> Boards Policy Advisor<br />
 							360.742.2936 | <a href="mailto:jillian.reitz@psp.wa.gov">jillian.reitz@psp.wa.gov</a></p>
@@ -363,7 +363,7 @@
 							360.827.1927 | <a href="mailto:zhenzhen.yuan@psp.wa.gov">zhenzhen.yuan@psp.wa.gov</a></p>
 						<h5>Jennifer Soriano</h5>
 						<p>Fiscal and Budget Analyst<br />
-							564.669.8330 | <a href="mailto:jennifer.soriano@psp.wa.gov">jennifer.soriano@psp.wa.gov</a></p>
+							360.480.6732 | <a href="mailto:jennifer.soriano@psp.wa.gov">jennifer.soriano@psp.wa.gov</a></p>
 						<!--IT-->        
 						<h3 class="padding-10-top">IT TEAM</h3>
 						<h5>Greg Tudor</h5>
@@ -376,7 +376,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 1/19/24</p>
+	<p class="last-update">Last updated: 1/29/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
