@@ -97,7 +97,7 @@
 							<div class="card-body">
 							<div class="d-inline">
 								<h6 class="margin-0-top">DEVELOPING VITAL SIGN INDICATORS FOR PHYTOPLANKTON AND PRIMARY PRODUCTIVITY (PHASE 1)</h6>
-					<span class="no-icon"><a href="https://pspwa.box.com/s/aoxw731b9fscxdp7ftyovlyvhumj3e90" target="new"><img src="images/psemp/mussel-cage.jpg" class="img-responsive img-rounded" alt="Photo of mussel cage on the beach at Duwamish Head. Photo from Washington State Department of Fish and Wildlife."/></a>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/aoxw731b9fscxdp7ftyovlyvhumj3e90" target="new"><img src="images/psemp/phytoplankton.jpg" class="img-responsive img-rounded" alt="Photo of phytoplankton from the National Oceanic and Atmospheric Administration"/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/aoxw731b9fscxdp7ftyovlyvhumj3e90">Factsheet</a> | <a href="https://pspwa.box.com/s/l6cjqm1fycyq2bzs7pqp3s2kcf9dkxnl">Report</a></p></span>
 								<p class="psemp-products">A collaborative project to conduct a series of workshops to understand the common measurements to develop a phytoplankton and primary productivity Vital Sign.  </p><br>
