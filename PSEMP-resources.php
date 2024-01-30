@@ -120,6 +120,48 @@
 			
 			</div><!--end row-->
 				
+				<div class="row text-left">
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">TROPHIC LINKAGES BETWEEN ZOOPLANKTON, HERRING, AND SALMON VITAL SIGN INDICATORS</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/0dsasqonbwh58yjwk289zqhoq4f619fz" target="new"><img src="images/psemp/zooplankton.jpg" class="img-responsive img-rounded" alt="Photo of euphasiid by Lyndsey Swanson, environmental scientist with King County Environmental Lab."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/0dsasqonbwh58yjwk289zqhoq4f619fz">Factsheet</a> | <a href="https://pspwa.box.com/s/u9jqu5abunss5sgxyswuixfo7na2uu08">Report</a></p></span>
+								<p class="psemp-products">A project that synthesized data related to Pacific herring, Chinook salmon, other competitors, and zooplankton to understand the trophic linkages in the food web. </p><br>
+					
+						</div></div></div></div>
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">DEVELOPING A KELP VITAL SIGN INDICATOR</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/jx3ksw1yrcbxjkn5yajzphtml4ew3vv5" target="new"><img src="images/psemp/kelp.jpg" class="img-responsive img-rounded" alt="Photo of bull kelp near Ebey's Landing. Photo by Rich Yukubousky."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/jx3ksw1yrcbxjkn5yajzphtml4ew3vv5">Factsheet</a> | <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/62">Vital Sign webpage</a></p><p class="psemp-products"><a href="https://wadnr.maps.arcgis.com/apps/webappviewer/index.html?id=f10864050bf14f57ba751ae53bc061f5">Interactive map</a> | <a href="https://www.dnr.wa.gov/publications/aqr_nrsh_kelp_statewide_summary_report_23.pdf">Report</a></p></span>
+								<p class="psemp-products">A highly collaborative project to develop a kelp bed area Vital Sign Indicator. </p><br>
+					
+						</div></div></div></div>
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">DEVELOPING THE MARINE BENTHIC INDEX AS A VITAL SIGN INDICATOR</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/kube18hsksv7vvzed3aowiqg8gmegpey" target="new"><img src="images/PSEMP/benthic.jpg" class="img-responsive img-rounded" alt="Visual model of benthic invertebrate communities in relation to human and natural stressors. Illustration drawn by Maggie Dutch, digitally colored by Grace McKenney."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/kube18hsksv7vvzed3aowiqg8gmegpey">Factsheet</a> | <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/60">Vital Sign webpage</a> | <a href="https://pspwa.box.com/s/mvwjr4x3lfwfvmp0df5j7ua4c5izfc3k">QAPP</a></p></span>
+								<p class="psemp-products">A project to develop a Marine Benthic Index indicator which included modeling species occurrences in relationship to the environment and human disturbance. </p><br>
+					
+						</div></div></div></div>
+			
+			
+			
+			</div><!--end row-->
+				
 		<div class="row text-left">
 			
 			<div class="col-md-4">
