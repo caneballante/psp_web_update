@@ -155,7 +155,7 @@
 					<span class="no-icon"><a href="https://pspwa.box.com/s/7tzaawx2i4g71a5k5vmjitg0a7dlrczu" target="new"><img src="images/PSEMP/knowledge-network.jpg" class="img-responsive img-rounded" alt="Abstract image of a network from Wikimedia Commons."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/7tzaawx2i4g71a5k5vmjitg0a7dlrczu">Factsheet</a> | <a href="https://salishsearestoration.org/wiki/Science_Sprints_to_Support_Regulation">Wiki page</a></p></span>
-								<p class="psemp-products">A project to develop a Marine Benthic Index indicator which included modeling species occurrences in relationship to the environment and human disturbance. </p><br>
+								<p class="psemp-products">A project to develop an iterative conversation between regulators and scientists from multiple agencies around focused topics such as beach nourishment and non-natal habitat use by juvenile salmon outside of their natal watershed. </p><br>
 					
 						</div></div></div></div>
 			
