@@ -171,7 +171,7 @@
 							<div class="card-body">
 							<div class="d-inline">
 								<h6 class="margin-0-top">TROPHIC LINKAGES BETWEEN ZOOPLANKTON, HERRING, AND SALMON VITAL SIGN INDICATORS</h6>
-					<span class="no-icon"><a href="https://pspwa.box.com/s/0dsasqonbwh58yjwk289zqhoq4f619fz" target="new"><img src="images/psemp/zooplankton.jpg" class="img-responsive img-rounded" alt="Photo of euphasiid by Lyndsey Swanson, environmental scientist with King County Environmental Lab."/></a>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/0dsasqonbwh58yjwk289zqhoq4f619fz" target="new"><img src="images/psemp/herring.jpg" class="img-responsive img-rounded" alt="Photo of Pacific herring from U.S. Fish and Wildlife Service."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/0dsasqonbwh58yjwk289zqhoq4f619fz">Factsheet</a> | <a href="https://pspwa.box.com/s/u9jqu5abunss5sgxyswuixfo7na2uu08">Report</a></p></span>
 								<p class="psemp-products">A project that synthesized data related to Pacific herring, Chinook salmon, other competitors, and zooplankton to understand the trophic linkages in the food web. </p><br>
