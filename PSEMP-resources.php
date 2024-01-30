@@ -97,7 +97,7 @@
 							<div class="card-body">
 							<div class="d-inline">
 								<h6 class="margin-0-top">DEVELOPING A VITAL SIGN INDICATOR FOR TOXICS IN THE NEARSHORE USING MUSSELS</h6>
-					<span class="no-icon"><a href="https://pspwa.box.com/s/jx3ksw1yrcbxjkn5yajzphtml4ew3vv5" target="new"><img src="images/psemp/kelp.jpg" class="img-responsive img-rounded" alt="Photo of bull kelp near Ebey's Landing. Photo by Rich Yukubousky."/></a>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/jx3ksw1yrcbxjkn5yajzphtml4ew3vv5" target="new"><img src="images/psemp/mussel-cage.jpg" class="img-responsive img-rounded" alt="Photo of mussel cage on the beach at Duwamish Head. Photo from Washington State Department of Fish and Wildlife."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/jx3ksw1yrcbxjkn5yajzphtml4ew3vv5">Factsheet</a> | <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/62">Literature review</a> | <a href="https://wadnr.maps.arcgis.com/apps/webappviewer/index.html?id=f10864050bf14f57ba751ae53bc061f5">Report</a></p><p class="psemp-products"><a href="https://www.dnr.wa.gov/publications/aqr_nrsh_kelp_statewide_summary_report_23.pdf">Community engagement scoping report</a>
 						<p class="psemp-products"><a href="https://wadnr.maps.arcgis.com/apps/webappviewer/index.html?id=f10864050bf14f57ba751ae53bc061f5">Interactive map</a></p></span>
