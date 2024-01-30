@@ -96,11 +96,11 @@
 					<div class="card">
 							<div class="card-body">
 							<div class="d-inline">
-								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2022 OVERVIEW</h6>
+								<h6 class="margin-0-top">DEVELOPING A KELP VITAL SIGN INDICATOR</h6>
 					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/psemp/marine-waters-2022.jpg" class="img-responsive img-rounded" alt="The cover photo from the Marine Waters Overview Report 2022 shows a sailboat sailing on Puget Sound."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a></p></span>
-								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2022.</p><br>
+								<p class="psemp-products">A highly collaborative project to develop a kelp bed area Vital Sign Indicator. </p><br>
 					
 						</div></div></div></div>
 			
