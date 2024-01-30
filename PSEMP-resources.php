@@ -300,7 +300,9 @@
 					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/ps-marine-waters-report-2021.jpg" class="img-responsive img-rounded" alt="The cover photo from the Puget Sound Marine Waters 2021 Overview report, showing the silhouette of a seaplane flying over blue, green, and orange-colored Puget Sound water."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a></p></span>
-								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2021.</p><br>
+								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2021.</p>
+								
+								<p class="psemp-tag-font">PSEMP Funded Project 2019-2021</p><br>
 					
 						</div></div></div></div>
 			
@@ -328,7 +330,9 @@
 					<h6 class="margin-0-top">Nearshore Summit and Synthesis</h6> 
 					<span class="no-icon"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit" target="new"><img src="images/PSEMP/nearshore.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit">Overview</a> | <a href="https://pspwa.box.com/s/giimspgmm6j23u0jlau96vh9al91zcnl">Video</a></p></span>
-								<span class="no-icon"><p class="psemp-products">The goals of this virtual summit were to synthesize nearshore science and restoration actions in Puget Sound and create a roadmap that updates restoration conceptual models and identifies uncertainties to address.</p></span><br>
+								<span class="no-icon"><p class="psemp-products">The goals of this virtual summit were to synthesize nearshore science and restoration actions in Puget Sound and create a roadmap that updates restoration conceptual models and identifies uncertainties to address.</p></span>
+								
+								<p class="psemp-tag-font">PSEMP Funded Project 2019-2021</p><br>
 					
 							</div></div></div></div> <!--end col-->
 			
@@ -339,7 +343,9 @@
 					<h6 class="margin-0-top">Fundamental Environmental Contextual Metrics Dashboard</h6> 
 					<span class="no-icon"><a href="https://docs.google.com/presentation/d/1KWrj6mEqaT-tytLMIW4_TCNAJTPnxX7yh9vW28dhc7w/edit#slide=id.p" target="new"><img src="images/PSEMP/fundamental-metrics.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">Dashboard</a> | <a href="https://pspwa.box.com/s/z5rl1g2z3e7gkt4g89n8jtlopsfyrzok">Video</a></p></span>
-								<p class="psemp-products">This project uses data from oceanographic and atmospheric measurement programs to develop six fundamental environmental metrics and compare current status to historical values. The metrics are available on a <a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">web-based dashboard</a>.</p><br>
+								<p class="psemp-products">This project uses data from oceanographic and atmospheric measurement programs to develop six fundamental environmental metrics and compare current status to historical values. The metrics are available on a <a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">web-based dashboard</a>.</p>
+								
+								<p class="psemp-tag-font">PSEMP Funded Project 2019-2021</p><br>
 					
 							</div></div></div></div>
 			
@@ -360,7 +366,9 @@
 					<h6 class="margin-0-top">Avian Habitat Suitability Models for Puget Sound Estuary Birds</h6> 
 					<span class="no-icon"><a href="https://pspwa.box.com/v/AvHabModSummary" target="new"><img src="images/PSEMP/pintail.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://pspwa.box.com/v/AvHabModSummary">Overview</a> | <a href="https://storymaps.arcgis.com/stories/3ceca87f5e544265aee6d516ee95aec9">Storymap</a> | <a href="https://pspwa.box.com/s/9suop9ggo6h08v630vf90oum5cyj5kgm">Video</a></p></span>
-								<span class="no-icon"><p class="psemp-products">Puget Sound and the Salish Sea support significant concentrations of shorebirds, waterfowl, and other marine bird species. This project develops science products that support the management needs of estuary birds.</p></span><br>
+								<span class="no-icon"><p class="psemp-products">Puget Sound and the Salish Sea support significant concentrations of shorebirds, waterfowl, and other marine bird species. This project develops science products that support the management needs of estuary birds.</p></span>
+								
+								<p class="psemp-tag-font">PSEMP Funded Project 2019-2021</p><br>
 					
 							</div></div></div></div> <!--end col-->
 				
@@ -371,7 +379,9 @@
 					<h6 class="margin-0-top">Prioritization of Contaminants of Emerging Concern</h6> 
 					<span class="no-icon"><a href="https://pspwa.box.com/s/dtw2o073imaqivbbqm6ikzytstuo7y7q" target="new"><img src="images/PSEMP/CECS.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/e079nutc71del355nnqtiawllrh6hci4">Fact sheet</a> | <a href="https://www.sciencedirect.com/science/article/pii/S0048969723023331?via%3Dihub">Publication</a> | <a href="https://pspwa.box.com/s/tj1k3y6xnn4ww46zxdnmo8lbizuiqs4d">Report</a> | <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">Video</a></p></span>
-								<p class="psemp-products">This project prioritizes contaminants of emerging concern (CECs) for monitoring efforts and management responses. Hundreds of CECs such as pharmaceuticals, plasticizers, and pesticides have been found in Puget Sound.</p><br>
+								<p class="psemp-products">This project prioritizes contaminants of emerging concern (CECs) for monitoring efforts and management responses. Hundreds of CECs such as pharmaceuticals, plasticizers, and pesticides have been found in Puget Sound.</p>
+								
+								<p class="psemp-tag-font">PSEMP Funded Project 2019-2021</p><br>
 					
 							</div></div></div></div> <!--end col-->
 				
@@ -382,7 +392,9 @@
 					<h6 class="margin-0-top">Juvenile Salmonid Monitoring in Large Puget Sound Rivers</h6> 
 					<span class="no-icon"><a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764" target="new"><img src="images/PSEMP/smolt-traps.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/9wp044gr0346subxe8yqxko26njskire">Report</a> | <a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764">Overview</a> | <a href="https://pspwa.box.com/s/yahbdzph6x2oolm8n0orvljvfsn9ej9c">Video</a></p></span>
-								<p class="psemp-products">Juvenile salmonid monitoring is a key part of understanding freshwater productivity and marine survival of Chinook salmon. For this project, tribal and state smolt trap operators helped identify trends in Chinook salmon abundance and productivity across multiple rivers in Puget Sound.</p><br>
+								<p class="psemp-products">Juvenile salmonid monitoring is a key part of understanding freshwater productivity and marine survival of Chinook salmon. For this project, tribal and state smolt trap operators helped identify trends in Chinook salmon abundance and productivity across multiple rivers in Puget Sound.</p>
+								
+								<p class="psemp-tag-font">PSEMP Funded Project 2019-2021</p><br>
 					
 							</div></div></div></div>
 				
@@ -548,7 +560,7 @@
 			
 		</div><!--end container-->
 			
-			<p class="last-update">Last updated: 9/12/23</p>
+			<p class="last-update">Last updated: 1/30/24</p>
 <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
