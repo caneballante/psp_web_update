@@ -88,7 +88,9 @@
 					<span class="no-icon"><a href="https://pspwa.box.com/s/fm28tbw0412tq0sdx9a2k02jcuk7b4xj" target="new"><img src="images/psemp/shellfish-gathering.jpg" class="img-responsive img-rounded" alt="Photo of people gathering shellfish on a Puget Sound beach with orange Home Depot buckets."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/fm28tbw0412tq0sdx9a2k02jcuk7b4xj">Factsheet</a> | <a href="https://pspwa.box.com/s/fm28tbw0412tq0sdx9a2k02jcuk7b4xj">Report</a></p></span>
-								<p class="psemp-products">The highly collaborative project sought to enhance our knowledge of local communities’ human wellbeing in connection to the Vital Signs.</p><br>
+								<p class="psemp-products">The highly collaborative project sought to enhance our knowledge of local communities’ human wellbeing in connection to the Vital Signs.</p>
+								
+								<p class="mar-tag-font">MAR 2021-2023</p><br>
 					
 						</div></div></div></div>
 			
@@ -100,7 +102,9 @@
 					<span class="no-icon"><a href="https://pspwa.box.com/s/aoxw731b9fscxdp7ftyovlyvhumj3e90" target="new"><img src="images/psemp/phytoplankton.jpg" class="img-responsive img-rounded" alt="Photo of phytoplankton from the National Oceanic and Atmospheric Administration"/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/aoxw731b9fscxdp7ftyovlyvhumj3e90">Factsheet</a> | <a href="https://pspwa.box.com/s/l6cjqm1fycyq2bzs7pqp3s2kcf9dkxnl">Report</a></p></span>
-								<p class="psemp-products">A collaborative project to conduct a series of workshops to understand the common measurements to develop a phytoplankton and primary productivity Vital Sign.  </p><br>
+								<p class="psemp-products">A collaborative project to conduct a series of workshops to understand the common measurements to develop a phytoplankton and primary productivity Vital Sign.  </p>
+								
+								<p class="mar-tag-font">MAR 2021-2023</p><br>
 					
 						</div></div></div></div>
 			
@@ -112,7 +116,9 @@
 					<span class="no-icon"><a href="https://pspwa.box.com/s/mkjsgi84yahoj3ehqujrit6gjfvqgnum" target="new"><img src="images/PSEMP/zooplankton.jpg" class="img-responsive img-rounded" alt="Photo of a euphasiid by Lyndsey Swanson, environmental scientist with King County Environmental Lab."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/mkjsgi84yahoj3ehqujrit6gjfvqgnum">Factsheet</a> | <a href="https://pspwa.box.com/s/m0ijjawsqwton2jj7e663ezmrmwp01fh">Report</a> | <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/35">Vital Sign webpage</a></p></span>
-								<p class="psemp-products">A project to develop the Zooplankton Vital Sign with leadership, information, and data sharing from the Puget Sound Zooplankton Monitoring Program.  </p><br>
+								<p class="psemp-products">A project to develop the Zooplankton Vital Sign with leadership, information, and data sharing from the Puget Sound Zooplankton Monitoring Program.  </p>
+								<p class="mar-tag-font">MAR 2021-2023</p>
+								<br>
 					
 						</div></div></div></div>
 			
