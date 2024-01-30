@@ -130,7 +130,7 @@
 					<span class="no-icon"><a href="https://pspwa.box.com/s/drlxc3fe41vobfdtx8zi4ikj4igau4pg" target="new"><img src="images/psemp/chinook-salmon.jpg" class="img-responsive img-rounded" alt="Photo of euphasiid by Lyndsey Swanson, environmental scientist with King County Environmental Lab."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/drlxc3fe41vobfdtx8zi4ikj4igau4pg">Factsheet</a> | <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/32">Vital Sign webpage</a> | <a href="https://pspwa.box.com/s/w6ataeuwfxf3n6thtvjxiknmnsn3xvm2">Report</a></p></span>
-								<p class="psemp-products">A project to compile data for the development of Vital Sign indicators of salmon species abundance.  </p><br>
+								<p class="psemp-products">A project to compile data for the development of Vital Sign Indicators of salmon species abundance.  </p><br>
 					
 						</div></div></div></div>
 			
@@ -197,7 +197,7 @@
 					<span class="no-icon"><a href="https://pspwa.box.com/s/kube18hsksv7vvzed3aowiqg8gmegpey" target="new"><img src="images/PSEMP/benthic.jpg" class="img-responsive img-rounded" alt="Visual model of benthic invertebrate communities in relation to human and natural stressors. Illustration drawn by Maggie Dutch, digitally colored by Grace McKenney."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/kube18hsksv7vvzed3aowiqg8gmegpey">Factsheet</a> | <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/60">Vital Sign webpage</a> | <a href="https://pspwa.box.com/s/mvwjr4x3lfwfvmp0df5j7ua4c5izfc3k">QAPP</a></p></span>
-								<p class="psemp-products">A project to develop a Marine Benthic Index indicator which included modeling species occurrences in relationship to the environment and human disturbance. </p><br>
+								<p class="psemp-products">A project to develop a Marine Benthic Index Indicator which included modeling species occurrences in relationship to the environment and human disturbance. </p><br>
 					
 						</div></div></div></div>
 			
@@ -215,7 +215,7 @@
 					<span class="no-icon"><a href="https://pspwa.box.com/s/miu54h6s08kz5v37ow6gn6pwf2xpz2oq" target="new"><img src="images/psemp/marine-noise.jpg" class="img-responsive img-rounded" alt="Photo of hydrophone diagram from the Develop Foundation to Monitor Marine Noise Vital Sign Indicator report."/></a>
 	 	 		    
 					<p class="psemp-products"><a href="https://pspwa.box.com/s/ri78k9xm567lqaoeznsq4lt0xt97juga">Factsheet</a> | <a href="https://pspwa.box.com/s/miu54h6s08kz5v37ow6gn6pwf2xpz2oq">Report</a> | <a href="https://pspwa.box.com/s/xe0qj98i8yawos2h5zfagtt46ggjvqop">QAPP</a></p></span>
-								<p class="psemp-products">A project to develop an approach for assessing and reporting on ocean noise levels in Puget Sound as a foundation for the noise in marine water Vital Sign indicator.</p><br>
+								<p class="psemp-products">A project to develop an approach for assessing and reporting on ocean noise levels in Puget Sound as a foundation for the noise in marine water Vital Sign Indicator.</p><br>
 					
 						</div></div></div></div>
 			
@@ -393,7 +393,7 @@
 					<h6 class="margin-0-top">Drinking Water Vital Sign indicator</h6> 
 					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53"><img src="images/PSEMP/groundwater.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53">View</a></p></span>
-								<span class="no-icon"><p class="psemp-products">This project includes a model for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53">index of vulnerability to nitrates in groundwater</a> and the first Vital Sign indicator report for the vulnerability index indicator.</p></span><br>
+								<span class="no-icon"><p class="psemp-products">This project includes a model for <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/53">index of vulnerability to nitrates in groundwater</a> and the first Vital Sign Indicator report for the vulnerability index Indicator.</p></span><br>
 					
 							</div></div></div></div> <!--end col-->
 				
@@ -436,7 +436,7 @@
 					<h6 class="margin-0-top">Shoreline Armor Vital Sign, indicator of new and removed armor</h6> 
 					<span class="no-icon"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/42"><img src="images/PSEMP/shoreline-armoring.jpg" class="img-responsive img-rounded" alt=""/></a> 
 					<p class="psemp-products"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/42">View</a></p></span>
-								<p class="psemp-products">This project included HPA-based data compilation; Vital Sign indicator reporting for 2019 and 2020; and a Vital Sign decadal summary report and final data product.</p><br>
+								<p class="psemp-products">This project included HPA-based data compilation; Vital Sign Indicator reporting for 2019 and 2020; and a Vital Sign decadal summary report and final data product.</p><br>
 					
 							</div></div></div></div>
 				
