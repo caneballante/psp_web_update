@@ -109,9 +109,9 @@
 							<div class="card-body">
 							<div class="d-inline">
 								<h6 class="margin-0-top">DEVELOPING THE MARINE BENTHIC INDEX AS A VITAL SIGN INDICATOR</h6>
-					<span class="no-icon"><a href="https://pspwa.box.com/s/b4h7d31r4c06j53837w1wk7uadg3q3u7" target="new"><img src="images/PSEMP/orca-occupancy.jpg" class="img-responsive img-rounded" alt="Photo of orcas swimming in Puget Sound. Photo credit: NOAA Fisheries Northwest"/></a>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/kube18hsksv7vvzed3aowiqg8gmegpey" target="new"><img src="images/PSEMP/benthic.jpg" class="img-responsive img-rounded" alt="Photo of orcas swimming in Puget Sound. Photo credit: NOAA Fisheries Northwest"/></a>
 	 	 		    
-					<p class="psemp-products"><a href="https://pspwa.box.com/s/b4h7d31r4c06j53837w1wk7uadg3q3u7">Report</a></p></span>
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/kube18hsksv7vvzed3aowiqg8gmegpey">Factsheet</a></p></span>
 								<p class="psemp-products">A project to develop a Marine Benthic Index indicator which included modeling species occurrences in relationship to the environment and human disturbance. </p><br>
 					
 						</div></div></div></div>
