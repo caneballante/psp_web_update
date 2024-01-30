@@ -160,7 +160,7 @@
 				</thead>
 				<tbody>
 				<tr>
-					<td><p class=psemp-mar-font>Developing zooplankton Puget Sound Vital Sign indicators </p></td>
+					<td><p class=psemp-mar-font>Developing Vital Sign Indicators for zooplankton</p></td>
 					<td><p class=psemp-mar-font>This project involves hosting a collaborative workshop, compiling existing zooplankton data, and providing the first report of status and trends of Puget Sound zooplankton indicators to the Puget Sound Partnership.<br><br>
 Latest Update: <a href="https://pspwa.box.com/s/8q9tvq9ijsjinee7jd8q4cz63hls28dp" target="new">Workshop summary report</a>
 </p></td>
@@ -168,7 +168,7 @@ Latest Update: <a href="https://pspwa.box.com/s/8q9tvq9ijsjinee7jd8q4cz63hls28dp
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td><p class=psemp-mar-font>Puget Sound primary productivity, phytoplankton monitoring and indicators development workshops</p></td>
+					<td><p class=psemp-mar-font>Developing Vital Sign Indicators for phytoplankton and primary productivity (Phase 1)</p></td>
 					<td><p class=psemp-mar-font>Marine phytoplankton are vital components of the Puget Sound ecosystem as one of the largest primary producers. Through a series of five collaborative workshops that include engagement from the Phytoplankton Science Advisory Team (PSAT), stakeholders, and experts, this project will ultimately develop an action plan for quality assurance project plan.<br><br>
 Latest Update: <a href="https://pspwa.box.com/s/7l56ux1s9egjlz0daiajkwqmx9wltyv5" target="new">Update on 11.16.2022 to Marine Waters WG</a> (slide 54); materials from <a href="https://drive.google.com/drive/folders/1HZs9S6eg28gDhXt0qFVCbXEhd14tjnDZ" target="new">Workshop 1</a>, <a href="https://drive.google.com/drive/folders/1TyABEfY7n0ml7ehzCOS-XJLkVQIJbI41" target="new">Workshop 2</a>, and <a href="https://drive.google.com/file/d/1Y9U3Mzs-99CCmoE6rGr3_HHMThIKtGoS/view" target="new">Workshop 3</a> are available
 </p></td>
@@ -177,7 +177,7 @@ Latest Update: <a href="https://pspwa.box.com/s/7l56ux1s9egjlz0daiajkwqmx9wltyv5
 				</tr>
 				<tr>
 					<td><p class=psemp-mar-font>Enhancing the Human Wellbeing Vital Sign through inclusive engagement</p></td>
-					<td><p class=psemp-mar-font>This project will contribute to the major knowledge and data gaps in the monitoring, assessment and reporting of the status and trends of the Human Wellbeing (HWB) Vital Signs and indicators. This will be achieved through the implementation of a community-based participatory research (CBPR) project that will inclusively engage residents and gauge their HWB through facilitated dialogues. This project focuses on Black and African American and Asian American and Pacific Islander residents due to notable gaps in current HWB Survey data and findings </p></td>
+					<td><p class=psemp-mar-font>This project contributes to the major knowledge and data gaps in the monitoring, assessment and reporting of the status and trends of the Human Wellbeing (HWB) Vital Signs and indicators. This will be achieved through the implementation of a community-based participatory research (CBPR) project that will inclusively engage residents and gauge their HWB through facilitated dialogues. This project focuses on Black and African American and Asian American and Pacific Islander residents due to notable gaps in current HWB Survey data and findings </p></td>
 					<td><p class=psemp-mar-font>David Trimbach, WA Department of Fish and Wildlife (formerly Oregon State University)</p></td>
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
@@ -190,7 +190,7 @@ Latest Update: <a href="https://pspwa.box.com/s/7l56ux1s9egjlz0daiajkwqmx9wltyv5
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td><p class=psemp-mar-font>Puget Sound Marine Benthic Index and Graphical Causal Model</p></td>
+					<td><p class=psemp-mar-font>Developing the Marine Benthic Index as a Vital Sign Indicator</p></td>
 					<td><p class=psemp-mar-font>Benthic invertebrates (benthos) are important to food webs and provide important ecosystem services that can be impaired by human and natural causes. To develop the new Marine Benthic Index Vital Sign indicator, this project is developing two new tools to help us understand how human disturbance affects life at the bottom of Puget Sound: a Marine Benthic Index and a graphical causal model.<br><br>
 Latest Update: <a href="https://pspwa.box.com/s/1k2teeusdn6oan72bf3f3k741nnvtib5" target="new">Update on 8.17.2022 to Marine Waters WG</a> (slide 19), <a href="https://apps.ecology.wa.gov/publications/summarypages/2203005.html" target="new">Project factsheet</a>
 </p></td>
@@ -198,7 +198,7 @@ Latest Update: <a href="https://pspwa.box.com/s/1k2teeusdn6oan72bf3f3k741nnvtib5
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td><p class=psemp-mar-font>Compiling and analyzing data for the new Puget Sound salmon Vital Sign indicators</p></td>
+					<td><p class=psemp-mar-font>Developing Vital Sign Indicators for Salmon Abundance</p></td>
 					<td><p class=psemp-mar-font>Having a more comprehensive indicator approach is critical to having a more holistic status assessment of the salmon population in the Puget Sound. This project provides a data review and analysis for the three new salmon Vital Sign indicators and develops improved analytical methods for estimating Puget Sound steelhead spawning abundance.<br><br>
 Latest Update: <a href="https://pspwa.box.com/s/k2m2cfjzk3an6u60minpbi66anwx760q" target="new">Update on 12.9.2022 to Salmonids WG</a>
 </p></td>
@@ -206,7 +206,7 @@ Latest Update: <a href="https://pspwa.box.com/s/k2m2cfjzk3an6u60minpbi66anwx760q
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td><p class=psemp-mar-font>Designing a toxics biological monitoring program for the nearshore to accelerate recovery of Puget Sound ecosystem health</p></td>
+					<td><p class=psemp-mar-font>Developing a Vital Sign Indicator for toxics in the nearshore using mussels</p></td>
 					<td><p class=psemp-mar-font>Puget Sound’s nearshore native mussels can be monitored to identify whether toxics are increasing or decreasing in the environment. This project is developing a design for field surveys to monitor toxic contaminants with mussels based, involving collaboration with impacted communities. </p></td>
 					<td><p class=psemp-mar-font>James West, Mariko Langness, Louisa Harding, and Sandra O’Neill, WA Department of Fish and Wildlife; Mark Scheuerell, University of Washington</p></td>
 					<td><p class=psemp-mar-font>1</p></td>
@@ -244,8 +244,7 @@ Latest Update: <a href="https://pspwa.box.com/s/34izm5pxun6mmllcez2o60rhko4rzid9
 					<td><p class=psemp-mar-font>Development of the Floating Kelp Canopy Area Vital Sign Indicator</p></td>
 					<td><p class=psemp-mar-font>The purpose of the project is to develop the Puget Sound floating kelp canopy Vital Sign indicator by 1) describing indicator
 requirements, 2) synthesizing existing datasets, 3) analyzing datasets, 4) visualizing results, and 5)
-identify limitations and recommend future improvements. Submit the results via the Vital Sign module on
-Puget Sound Info<br><br>
+identify limitations and recommend future improvements.<br><br>
 Latest update: <a href="https://dnr-wa-gov.zoom.us/rec/play/N7XXxNOfTnQjSBxQVBmm_ol0-l22OBRz1-SpbYJ5dQuDVx7BuOhA0YJPy7oywWNPym9GwawEYkLzjOYr.SVHPxQJ5I_m3TT3C" target="new">1.10.2023 Puget Sound Floating Kelp Canopy Vital Sign Indicator Workshop 3 – Recording</a>; <a href="https://kelp-canopy-vital-sign-for-puget-sound-wadnr.hub.arcgis.com/" target="new">Project Website</a>
 </p></td>
 					<td><p class=psemp-mar-font>Helen Berry, Pete Dowty, Julia Ledbetter, Elizabeth Spaulding, Danielle Claar, WA Department of Natural Resources; Todd Woodard, Samish Indian Nation; Megan Dethier and Wendell Raymond, University of Washington; Nicole Naar, WA Sea Grant; Tom Mumford, Marine Agronomics</p></td>
