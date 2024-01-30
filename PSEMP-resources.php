@@ -78,6 +78,48 @@
 			
 			<div class="container-fluid">
 				
+				<div class="row text-left">
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">DEVELOPING A FOUNDATION TO MONITOR MARINE NOISE VITAL SIGN INDICATOR</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/miu54h6s08kz5v37ow6gn6pwf2xpz2oq" target="new"><img src="images/psemp/marine-noise.jpg" class="img-responsive img-rounded" alt="Photo of hydrophone diagram from the Develop Foundation to Monitor Marine Noise Vital Sign Indicator report."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/ri78k9xm567lqaoeznsq4lt0xt97juga">Factsheet</a> | <a href="https://pspwa.box.com/s/miu54h6s08kz5v37ow6gn6pwf2xpz2oq">Report</a> | <a href="https://pspwa.box.com/s/xe0qj98i8yawos2h5zfagtt46ggjvqop">QAPP</a></p></span>
+								<p class="psemp-products">A project to develop an approach for assessing and reporting on ocean noise levels in Puget Sound as a foundation for the noise in marine water Vital Sign indicator.</p><br>
+					
+						</div></div></div></div>
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">PUGET SOUND MARINE WATERS 2022 OVERVIEW</h6>
+					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/psemp/marine-waters-2022.jpg" class="img-responsive img-rounded" alt="The cover photo from the Marine Waters Overview Report 2022 shows a sailboat sailing on Puget Sound."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a></p></span>
+								<p class="psemp-products">The Puget Sound Marine Waters Overview report, prepared by the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, provides a comprehensive overview of marine conditions in 2022.</p><br>
+					
+						</div></div></div></div>
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">DEVELOPING THE MARINE BENTHIC INDEX AS A VITAL SIGN INDICATOR</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/b4h7d31r4c06j53837w1wk7uadg3q3u7" target="new"><img src="images/PSEMP/orca-occupancy.jpg" class="img-responsive img-rounded" alt="Photo of orcas swimming in Puget Sound. Photo credit: NOAA Fisheries Northwest"/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/b4h7d31r4c06j53837w1wk7uadg3q3u7">Report</a></p></span>
+								<p class="psemp-products">A project to develop a Marine Benthic Index indicator which included modeling species occurrences in relationship to the environment and human disturbance. </p><br>
+					
+						</div></div></div></div>
+			
+			
+			
+			</div><!--end row-->
+				
 		<div class="row text-left">
 			
 			<div class="col-md-4">
