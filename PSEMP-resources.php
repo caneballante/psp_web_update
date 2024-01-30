@@ -111,7 +111,7 @@
 								<h6 class="margin-0-top">DEVELOPING THE MARINE BENTHIC INDEX AS A VITAL SIGN INDICATOR</h6>
 					<span class="no-icon"><a href="https://pspwa.box.com/s/kube18hsksv7vvzed3aowiqg8gmegpey" target="new"><img src="images/PSEMP/benthic.jpg" class="img-responsive img-rounded" alt="Photo of orcas swimming in Puget Sound. Photo credit: NOAA Fisheries Northwest"/></a>
 	 	 		    
-					<p class="psemp-products"><a href="https://pspwa.box.com/s/kube18hsksv7vvzed3aowiqg8gmegpey">Factsheet</a></p></span>
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/kube18hsksv7vvzed3aowiqg8gmegpey">Factsheet</a> | <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/60">Vital Sign webpage</a> | <a href="https://pspwa.box.com/s/mvwjr4x3lfwfvmp0df5j7ua4c5izfc3k">QAPP</a></p></span>
 								<p class="psemp-products">A project to develop a Marine Benthic Index indicator which included modeling species occurrences in relationship to the environment and human disturbance. </p><br>
 					
 						</div></div></div></div>
