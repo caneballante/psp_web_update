@@ -97,9 +97,9 @@
 							<div class="card-body">
 							<div class="d-inline">
 								<h6 class="margin-0-top">DEVELOPING A KELP VITAL SIGN INDICATOR</h6>
-					<span class="no-icon"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php" target="new"><img src="images/psemp/kelp.jpg" class="img-responsive img-rounded" alt="Photo of bull kelp near Ebey's Landing. Photo by Rich Yukubousky."/></a>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/jx3ksw1yrcbxjkn5yajzphtml4ew3vv5" target="new"><img src="images/psemp/kelp.jpg" class="img-responsive img-rounded" alt="Photo of bull kelp near Ebey's Landing. Photo by Rich Yukubousky."/></a>
 	 	 		    
-					<p class="psemp-products"><a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Report</a></p></span>
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/jx3ksw1yrcbxjkn5yajzphtml4ew3vv5">Factsheet</a> | <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/62">Vital Sign webpage</a></p><p class="psemp-products"><a href="https://wadnr.maps.arcgis.com/apps/webappviewer/index.html?id=f10864050bf14f57ba751ae53bc061f5">Interactive map</a> | <a href="https://www.dnr.wa.gov/publications/aqr_nrsh_kelp_statewide_summary_report_23.pdf">Report</a></p></span>
 								<p class="psemp-products">A highly collaborative project to develop a kelp bed area Vital Sign Indicator. </p><br>
 					
 						</div></div></div></div>
