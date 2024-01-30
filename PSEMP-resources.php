@@ -97,10 +97,10 @@
 							<div class="card-body">
 							<div class="d-inline">
 								<h6 class="margin-0-top">DEVELOPING A VITAL SIGN INDICATOR FOR TOXICS IN THE NEARSHORE USING MUSSELS</h6>
-					<span class="no-icon"><a href="https://pspwa.box.com/s/jx3ksw1yrcbxjkn5yajzphtml4ew3vv5" target="new"><img src="images/psemp/mussel-cage.jpg" class="img-responsive img-rounded" alt="Photo of mussel cage on the beach at Duwamish Head. Photo from Washington State Department of Fish and Wildlife."/></a>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/okki0ec43ing9divh9ojm0mb8gri9on3" target="new"><img src="images/psemp/mussel-cage.jpg" class="img-responsive img-rounded" alt="Photo of mussel cage on the beach at Duwamish Head. Photo from Washington State Department of Fish and Wildlife."/></a>
 	 	 		    
-					<p class="psemp-products"><a href="https://pspwa.box.com/s/jx3ksw1yrcbxjkn5yajzphtml4ew3vv5">Factsheet</a> | <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/62">Literature review</a> | <a href="https://wadnr.maps.arcgis.com/apps/webappviewer/index.html?id=f10864050bf14f57ba751ae53bc061f5">Report</a></p><p class="psemp-products"><a href="https://www.dnr.wa.gov/publications/aqr_nrsh_kelp_statewide_summary_report_23.pdf">Community engagement scoping report</a>
-						<p class="psemp-products"><a href="https://wadnr.maps.arcgis.com/apps/webappviewer/index.html?id=f10864050bf14f57ba751ae53bc061f5">Interactive map</a></p></span>
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/okki0ec43ing9divh9ojm0mb8gri9on3">Factsheet</a> | <a href="https://pspwa.box.com/s/rq7jrzvnkqu4c3biklibhyejzo97vmjl">Literature review</a> | <a href="https://pspwa.box.com/s/j53tx44u7rovm5kgmj243rzury2l74nb">Report</a></p><p class="psemp-products"><a href="https://pspwa.box.com/s/l8y3us4kbmld2y0wlhkahzoe76toknq2">Community engagement scoping report</a>
+						<p class="psemp-products"><a href="https://pspwa.box.com/s/ey2ty8u2pk23fp0fxtefm3w28gz3ndhd">Preliminary data analysis</a></p></span>
 								<p class="psemp-products">A project to integrate toxics-related biophysical targets with human wellbeing goals by connecting and communicating directly with communities most affected by toxics in the nearshore.  </p><br>
 					
 						</div></div></div></div>
