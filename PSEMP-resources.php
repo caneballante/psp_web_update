@@ -85,9 +85,9 @@
 							<div class="card-body">
 							<div class="d-inline">
 								<h6 class="margin-0-top">DEVELOPING VITAL SIGN INDICATORS FOR SALMON ABUNDANCE</h6>
-					<span class="no-icon"><a href="https://pspwa.box.com/s/0dsasqonbwh58yjwk289zqhoq4f619fz" target="new"><img src="images/psemp/zooplankton.jpg" class="img-responsive img-rounded" alt="Photo of euphasiid by Lyndsey Swanson, environmental scientist with King County Environmental Lab."/></a>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/drlxc3fe41vobfdtx8zi4ikj4igau4pg" target="new"><img src="images/psemp/chinook-salmon.jpg" class="img-responsive img-rounded" alt="Photo of euphasiid by Lyndsey Swanson, environmental scientist with King County Environmental Lab."/></a>
 	 	 		    
-					<p class="psemp-products"><a href="https://pspwa.box.com/s/0dsasqonbwh58yjwk289zqhoq4f619fz">Factsheet</a> | <a href="https://pspwa.box.com/s/u9jqu5abunss5sgxyswuixfo7na2uu08">Report</a></p></span>
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/drlxc3fe41vobfdtx8zi4ikj4igau4pg">Factsheet</a> | <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/32">Vital Sign webpage</a> | <a href="https://pspwa.box.com/s/w6ataeuwfxf3n6thtvjxiknmnsn3xvm2">Report</a></p></span>
 								<p class="psemp-products">A project to compile data for the development of Vital Sign indicators of salmon species abundance.  </p><br>
 					
 						</div></div></div></div>
