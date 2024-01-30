@@ -109,6 +109,49 @@
 					<div class="card">
 							<div class="card-body">
 							<div class="d-inline">
+								<h6 class="margin-0-top">DEVELOPING VITAL SIGN INDICATORS FOR ZOOPLANKTON</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/7tzaawx2i4g71a5k5vmjitg0a7dlrczu" target="new"><img src="images/PSEMP/knowledge-network.jpg" class="img-responsive img-rounded" alt="Abstract image of a network from Wikimedia Commons."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/7tzaawx2i4g71a5k5vmjitg0a7dlrczu">Factsheet</a> | <a href="https://salishsearestoration.org/wiki/Science_Sprints_to_Support_Regulation">Wiki page</a></p></span>
+								<p class="psemp-products">A project to develop a Marine Benthic Index indicator which included modeling species occurrences in relationship to the environment and human disturbance. </p><br>
+					
+						</div></div></div></div>
+			
+			
+			
+			</div><!--end row-->
+				
+				<div class="row text-left">
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">DEVELOPING VITAL SIGN INDICATORS FOR SALMON ABUNDANCE</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/drlxc3fe41vobfdtx8zi4ikj4igau4pg" target="new"><img src="images/psemp/chinook-salmon.jpg" class="img-responsive img-rounded" alt="Photo of euphasiid by Lyndsey Swanson, environmental scientist with King County Environmental Lab."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/drlxc3fe41vobfdtx8zi4ikj4igau4pg">Factsheet</a> | <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/32">Vital Sign webpage</a> | <a href="https://pspwa.box.com/s/w6ataeuwfxf3n6thtvjxiknmnsn3xvm2">Report</a></p></span>
+								<p class="psemp-products">A project to compile data for the development of Vital Sign indicators of salmon species abundance.  </p><br>
+					
+						</div></div></div></div>
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
+								<h6 class="margin-0-top">DEVELOPING A VITAL SIGN INDICATOR FOR TOXICS IN THE NEARSHORE USING MUSSELS</h6>
+					<span class="no-icon"><a href="https://pspwa.box.com/s/okki0ec43ing9divh9ojm0mb8gri9on3" target="new"><img src="images/psemp/mussel-cage.jpg" class="img-responsive img-rounded" alt="Photo of mussel cage on the beach at Duwamish Head. Photo from Washington State Department of Fish and Wildlife."/></a>
+	 	 		    
+					<p class="psemp-products"><a href="https://pspwa.box.com/s/okki0ec43ing9divh9ojm0mb8gri9on3">Factsheet</a> | <a href="https://pspwa.box.com/s/rq7jrzvnkqu4c3biklibhyejzo97vmjl">Literature review</a> | <a href="https://pspwa.box.com/s/j53tx44u7rovm5kgmj243rzury2l74nb">Report</a></p><p class="psemp-products"><a href="https://pspwa.box.com/s/l8y3us4kbmld2y0wlhkahzoe76toknq2">Community engagement scoping report</a>
+						<p class="psemp-products"><a href="https://pspwa.box.com/s/ey2ty8u2pk23fp0fxtefm3w28gz3ndhd">Preliminary data analysis</a></p></span>
+								<p class="psemp-products">A project to integrate toxics-related biophysical targets with human wellbeing goals by connecting and communicating directly with communities most affected by toxics in the nearshore.  </p><br>
+					
+						</div></div></div></div>
+			
+			<div class="col-md-4">
+					<div class="card">
+							<div class="card-body">
+							<div class="d-inline">
 								<h6 class="margin-0-top">OPEN KNOWLEDGE NETWORKS TO SUPPORT REGULATORY BEST AVAILABLE SCIENCE</h6>
 					<span class="no-icon"><a href="https://pspwa.box.com/s/7tzaawx2i4g71a5k5vmjitg0a7dlrczu" target="new"><img src="images/PSEMP/knowledge-network.jpg" class="img-responsive img-rounded" alt="Abstract image of a network from Wikimedia Commons."/></a>
 	 	 		    
