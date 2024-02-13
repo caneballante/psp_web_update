@@ -207,7 +207,9 @@ Latest Update: <a href="https://pspwa.box.com/s/k2m2cfjzk3an6u60minpbi66anwx760q
 				</tr>
 				<tr>
 					<td><p class=psemp-mar-font>Developing a Vital Sign Indicator for toxics in the nearshore using mussels</p></td>
-					<td><p class=psemp-mar-font>Puget Sound’s nearshore native mussels can be monitored to identify whether toxics are increasing or decreasing in the environment. This project is developing a design for field surveys to monitor toxic contaminants with mussels based, involving collaboration with impacted communities. </p></td>
+					<td><p class=psemp-mar-font>A project to integrate toxics-related biophysical targets with human wellbeing goals by connecting and communicating directly with communities most affected by toxics in the nearshore.<br><br>
+						<p class="psemp-mar-font"><a href="https://pspwa.box.com/s/okki0ec43ing9divh9ojm0mb8gri9on3">Factsheet</a> <p class="psemp-mar-font"><a href="https://pspwa.box.com/s/rq7jrzvnkqu4c3biklibhyejzo97vmjl">Literature review</a> </p> <p class="psemp-mar-font"><a href="https://pspwa.box.com/s/j53tx44u7rovm5kgmj243rzury2l74nb">Report</a></p><p class="psemp-mar-font"><a href="https://pspwa.box.com/s/l8y3us4kbmld2y0wlhkahzoe76toknq2">Community engagement scoping report</a>
+						<p class="psemp-mar-font"><a href="https://pspwa.box.com/s/ey2ty8u2pk23fp0fxtefm3w28gz3ndhd">Preliminary data analysis</a></p></p></td>
 					<td><p class=psemp-mar-font>James West, Mariko Langness, Louisa Harding, and Sandra O’Neill, WA Department of Fish and Wildlife; Mark Scheuerell, University of Washington</p></td>
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
