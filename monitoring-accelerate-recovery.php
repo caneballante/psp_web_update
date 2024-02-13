@@ -241,7 +241,7 @@ Latest Update: <a href="https://pspwa.box.com/s/34izm5pxun6mmllcez2o60rhko4rzid9
 				</thead>
 				<tbody>
 				<tr>
-					<td><p class=psemp-mar-font>Development of the Floating Kelp Canopy Area Vital Sign Indicator</p></td>
+					<td><p class=psemp-mar-font>Developing a Kelp Vital Sign Indicator</p></td>
 					<td><p class=psemp-mar-font>A highly collaborative project to develop a kelp bed area Vital Sign indicator.<br><br>
 <a href="https://pspwa.box.com/s/jx3ksw1yrcbxjkn5yajzphtml4ew3vv5">Factsheet</a><p class="psemp-mar-font"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/62">Vital Sign webpage</a></p><p class="psemp-mar-font"><a href="https://wadnr.maps.arcgis.com/apps/webappviewer/index.html?id=f10864050bf14f57ba751ae53bc061f5">Interactive map</a></p><p class="psemp-mar-font"><a href="https://www.dnr.wa.gov/publications/aqr_nrsh_kelp_statewide_summary_report_23.pdf">Report</a></p></td>
 					<td><p class=psemp-mar-font>Helen Berry, Pete Dowty, Julia Ledbetter, Elizabeth Spaulding, Danielle Claar, WA Department of Natural Resources; Todd Woodard, Samish Indian Nation; Megan Dethier and Wendell Raymond, University of Washington; Nicole Naar, WA Sea Grant; Tom Mumford, Marine Agronomics</p></td>
