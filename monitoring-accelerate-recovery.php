@@ -213,9 +213,8 @@ Latest Update: <a href="https://pspwa.box.com/s/k2m2cfjzk3an6u60minpbi66anwx760q
 				</tr>
 				<tr>
 					<td><p class=psemp-mar-font>Open knowledge networks to support regulatory best available science</p></td>
-					<td><p class=psemp-mar-font>Applying “best available science” is critical to regulatory decisions regarding natural resources. However, there are challenges in finding the information and in a comprehensive and efficient way. This project will develop two “science sprints” on two impactful topics. The sprints will compile scientific evidence and regulatory models to support policy. The results of the sprints will be hosted on an open knowledge network known as the Salish Sea Wiki.<br><br>
-Latest Update: <a href="https://salishsearestoration.org/wiki/Science_Sprints_to_Support_Regulation" target="new">Project webpage</a> 
-</p></td>
+					<td><p class=psemp-mar-font>A project to develop an iterative conversation between regulators and scientists from multiple agencies around focused topics such as beach nourishment and non-natal habitat use by juvenile salmon outside of their natal watershed. <br><br>
+<p class="psemp-mar-font"><a href="https://pspwa.box.com/s/7tzaawx2i4g71a5k5vmjitg0a7dlrczu">Factsheet</a> <p class="psemp-mar-font"><a href="https://salishsearestoration.org/wiki/Science_Sprints_to_Support_Regulation">Wiki page</a></p></td>
 					<td><p class=psemp-mar-font>Max Lambert, WA Department of Fish and Wildlife; Paul Cereghino, Josh Chamberlin, and Stephanie Ehinger, National Oceanic and Atmospheric Administration</p></td>
 					<td><p class=psemp-mar-font>2</p></td>
 				</tr>
