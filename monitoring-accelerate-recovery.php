@@ -199,9 +199,8 @@ Latest Update: <a href="https://pspwa.box.com/s/1k2teeusdn6oan72bf3f3k741nnvtib5
 				</tr>
 				<tr>
 					<td><p class=psemp-mar-font>Developing Vital Sign Indicators for Salmon Abundance</p></td>
-					<td><p class=psemp-mar-font>Having a more comprehensive indicator approach is critical to having a more holistic status assessment of the salmon population in the Puget Sound. This project provides a data review and analysis for the three new salmon Vital Sign indicators and develops improved analytical methods for estimating Puget Sound steelhead spawning abundance.<br><br>
-Latest Update: <a href="https://pspwa.box.com/s/k2m2cfjzk3an6u60minpbi66anwx760q" target="new">Update on 12.9.2022 to Salmonids WG</a>
-</p></td>
+					<td><p class=psemp-mar-font>A project to compile data for the development of Vital Sign Indicators of salmon species abundance.<br><br>
+<p class="psemp-mar-font"><a href="https://pspwa.box.com/s/drlxc3fe41vobfdtx8zi4ikj4igau4pg">Factsheet</a> <p class="psemp-mar-font"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/32">Vital Sign webpage</a></p> <p class="psemp-mar-font"><a href="https://pspwa.box.com/s/w6ataeuwfxf3n6thtvjxiknmnsn3xvm2">Report</a></p></td>
 					<td><p class=psemp-mar-font>Neala Kendall, WA Department of Fish and Wildlife</p></td>
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
