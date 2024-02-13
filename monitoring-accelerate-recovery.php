@@ -220,10 +220,9 @@ Latest Update: <a href="https://salishsearestoration.org/wiki/Science_Sprints_to
 					<td><p class=psemp-mar-font>2</p></td>
 				</tr>
 				<tr>
-					<td><p class=psemp-mar-font>Trophic linkages between zooplankton, herring, and salmon Vital Sign indicators</p></td>
-					<td><p class=psemp-mar-font>Understanding the interrelationships in the food web is key to furthering efforts related to management goals and interventions. This project examines the interrelationships between forage fish, juvenile salmon, and zooplankton. In addition, this effort builds upon recommendations of the Salish Sea Marine Survival Project to further define bottom-up and top-down food web effects on juvenile salmonid mortality in Puget Sound and demonstrate the benefits produced by restoration efforts in the region.<br><br> 
-Latest Update: <a href="https://pspwa.box.com/s/34izm5pxun6mmllcez2o60rhko4rzid9" target="new">Update on 11.7.2022 to Forage Fish and Food Webs WG</a>
-</p></td>
+					<td><p class=psemp-mar-font>Trophic linkages between zooplankton, herring, and salmon Vital Sign Indicators</p></td>
+					<td><p class=psemp-mar-font>A project that synthesized data related to Pacific herring, Chinook salmon, other competitors, and zooplankton to understand the trophic linkages in the food web.<br><br> 
+<p class="psemp-mar-font"><a href="https://pspwa.box.com/s/0dsasqonbwh58yjwk289zqhoq4f619fz">Factsheet</a> <p class="psemp-mar-font"><a href="https://pspwa.box.com/s/u9jqu5abunss5sgxyswuixfo7na2uu08">Report</a></p></td>
 					<td><p class=psemp-mar-font>Correigh Greene, NOAA; Todd Sandell, formerly WA Department of Fish and Wildlife; Julie Keister, University of Washington</p></td>
 					<td><p class=psemp-mar-font>2</p></td>
 				</tr>
