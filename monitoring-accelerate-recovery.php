@@ -182,10 +182,9 @@ Latest Update: <a href="https://pspwa.box.com/s/7l56ux1s9egjlz0daiajkwqmx9wltyv5
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
 				<tr>
-					<td><p class=psemp-mar-font>Develop foundation to monitor noise in marine water Vital Sign indicator</p></td>
-					<td><p class=psemp-mar-font>Monitoring marine noise in the region requires the combined approach of multiple recording systems. This project compiles data from moored, autonomous recording systems, and portable, hand-held hydrophones for spot recordings to identify existing sound levels in Puget Sound including human-made noise. Additionally, based on the findings, they will identify how the noise levels would likely disturb fish and marine mammals.<br><br>
-						Latest Update: <a href="https://pspwa.box.com/s/1k2teeusdn6oan72bf3f3k741nnvtib5" target="new">Update on 8.17.2022 to Marine Waters WG</a> (slide 23)
-</p></td>
+					<td><p class=psemp-mar-font>Develop foundation to monitor marine noise Vital Sign indicator</p></td>
+					<td><p class=psemp-mar-font>A project to develop an approach for assessing and reporting on ocean noise levels in Puget Sound as a foundation for the noise in marine water Vital Sign Indicator.<br><br>
+						<p class="psemp-mar-font"><a href="https://pspwa.box.com/s/ri78k9xm567lqaoeznsq4lt0xt97juga">Factsheet</a> <p class="psemp-mar-font"><a href="https://pspwa.box.com/s/miu54h6s08kz5v37ow6gn6pwf2xpz2oq">Report</a></p> <p class="psemp-mar-font"><a href="https://pspwa.box.com/s/xe0qj98i8yawos2h5zfagtt46ggjvqop">QAPP</a></p></td>
 					<td><p class=psemp-mar-font>Erin Ashe, Oceans Initiative</p></td>
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
