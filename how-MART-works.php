@@ -75,7 +75,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-			<p>The Multi-Agency Review Team (MART) works within existing permitting pathways but differs from the conventional process in two main ways, by: 1) Bringing federal, state, and local agencies together as a coordinated team to assist applicants through the entire permitting process; and 2) facilitating navigation through the permitting process and directing applicants to existing or emerging streamlined permit pathways that might not be known or clear. </p>
+			<p>The Multi-Agency Review Team (MART) works within existing permitting pathways but differs from the conventional process in the following ways, by: 1) Bringing federal, state, and local agencies together as a coordinated team to assist applicants through the entire permitting process; and 2) facilitating navigation through the permitting process and directing applicants to existing or emerging streamlined permit pathways that might not be known or clear. </p>
 			
 			<h3>Opportunities to streamline permits</h3>
 			<p>The permitting process (local, state, and federal) is complex, and several permits are interdependent. If you have a habitat recovery project that is ready to permit, we may be able to assist you with an expedited pathway through the process and provide direct access to a team of permitting agencies that will work with you through the entire process. The MART facilitator and members are contacted about projects through our partners and the Puget Sound recovery community. We select projects that are: 1) ecologically beneficial, 2) priority habitat projects within a watershed, 3) permit ready, and 4) projects with no previous violation or emergency actions (in a floodway).</p>
@@ -132,9 +132,9 @@
 						<li>When: Monthly.</li>
 					</ul>
 				</li>
-				<li><p><strong>Issue Permits</strong></p>
+				<li><p><strong>Permit Decisions</strong></p>
 					<ul class="bullet-size-fix">
-						<li>Action: Each agency issues permits after their respective review. Agencies collaborate on interdependent permits, if needed.</li>
+						<li>Action: Each agency makes permit decisions after their respective review. Agencies collaborate on interdependent permits, if needed.</li>
 						<li>Who Leads Action: Each agency.</li>
 						<li>When: As quickly as possible, within statutory timelines.</li>
 					</ul>
@@ -146,7 +146,7 @@
 			
 			
 			
-			<p class="last-update">Last updated: 1/17/24</p>
+			<p class="last-update">Last updated: 2/15/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
