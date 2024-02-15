@@ -102,6 +102,8 @@
 				<a href="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/">Click to view the PSAR Accomplishments Dashboard<br>
 				<img class="img-responsive padding-10-top" src="images/PSAR2023.jpg" alt=""/></a>
 				<p class="margin-20-top">The Puget Sound Acquisition and Restoration (PSAR) fund supports projects that recover salmon and protect and recover salmon habitat in Puget Sound. The state legislature appropriates money for PSAR every 2 years in the Capital Budget. PSAR is co-managed by the Puget Sound Partnership and the Recreation and Conservation Office. Local entities identify and propose PSAR projects. The Salmon Recovery Funding Board prioritizes projects for funding.</p>
+				<p>For 2023, the first year in which Climate Commitment Act (CCA)  funds were available, PSAR received $10.1million from the CCA out of the total  Capital Budget appropriation of $59.2 million. This combined investment  resulted in full funding of the PSAR program for the first time ever.</p>
+<p class="margin-20-top">&nbsp;</p>
 			</div>
 			<hr />
 		<div class="row margin-10-top"> 
