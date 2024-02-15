@@ -161,9 +161,8 @@
 				<tbody>
 				<tr>
 					<td><p class=psemp-mar-font>Developing Vital Sign Indicators for zooplankton</p></td>
-					<td><p class=psemp-mar-font>This project involves hosting a collaborative workshop, compiling existing zooplankton data, and providing the first report of status and trends of Puget Sound zooplankton indicators to the Puget Sound Partnership.<br><br>
-Latest Update: <a href="https://pspwa.box.com/s/8q9tvq9ijsjinee7jd8q4cz63hls28dp" target="new">Workshop summary report</a>
-</p></td>
+					<td><p class=psemp-mar-font>A project to develop the Zooplankton Vital Sign with leadership, information, and data sharing from the Puget Sound Zooplankton Monitoring Program. <br><br>
+<p class="psemp-mar-font"><a href="https://pspwa.box.com/s/mkjsgi84yahoj3ehqujrit6gjfvqgnum">Factsheet</a> <p class="psemp-mar-font"><a href="https://pspwa.box.com/s/m0ijjawsqwton2jj7e663ezmrmwp01fh">Report</a></p> <p class="psemp-mar-font"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSign/Detail/35">Vital Sign webpage</a></p></td>
 					<td><p class=psemp-mar-font>Julie Keister, Bethel-Lee Herrmann, University of Washington; Phill Dionne, WA Department of Fish and Wildlife; Correigh Greene and Stu Munch, National Oceanographic and Atmospheric Administration</p></td>
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
