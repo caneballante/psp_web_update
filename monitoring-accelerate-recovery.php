@@ -177,7 +177,8 @@ Latest Update: <a href="https://pspwa.box.com/s/7l56ux1s9egjlz0daiajkwqmx9wltyv5
 				</tr>
 				<tr>
 					<td><p class=psemp-mar-font>Enhancing the Human Wellbeing Vital Sign through inclusive engagement</p></td>
-					<td><p class=psemp-mar-font>This project contributes to the major knowledge and data gaps in the monitoring, assessment and reporting of the status and trends of the Human Wellbeing (HWB) Vital Signs and indicators. This will be achieved through the implementation of a community-based participatory research (CBPR) project that will inclusively engage residents and gauge their HWB through facilitated dialogues. This project focuses on Black and African American and Asian American and Pacific Islander residents due to notable gaps in current HWB Survey data and findings </p></td>
+					<td><p class=psemp-mar-font>The highly collaborative project sought to enhance our knowledge of local communities’ human wellbeing in connection to the Vital Signs.<br><br>
+						<p class="psemp-mar-font"><a href="https://pspwa.box.com/s/fm28tbw0412tq0sdx9a2k02jcuk7b4xj">Factsheet</a> <p class="psemp-mar-font"><a href="https://pspwa.box.com/s/fm28tbw0412tq0sdx9a2k02jcuk7b4xj">Report</a></p></td>
 					<td><p class=psemp-mar-font>David Trimbach, WA Department of Fish and Wildlife (formerly Oregon State University)</p></td>
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
