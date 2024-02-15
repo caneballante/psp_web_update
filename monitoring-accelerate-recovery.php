@@ -169,9 +169,8 @@ Latest Update: <a href="https://pspwa.box.com/s/8q9tvq9ijsjinee7jd8q4cz63hls28dp
 				</tr>
 				<tr>
 					<td><p class=psemp-mar-font>Developing Vital Sign Indicators for phytoplankton and primary productivity (Phase 1)</p></td>
-					<td><p class=psemp-mar-font>Marine phytoplankton are vital components of the Puget Sound ecosystem as one of the largest primary producers. Through a series of five collaborative workshops that include engagement from the Phytoplankton Science Advisory Team (PSAT), stakeholders, and experts, this project will ultimately develop an action plan for quality assurance project plan.<br><br>
-Latest Update: <a href="https://pspwa.box.com/s/7l56ux1s9egjlz0daiajkwqmx9wltyv5" target="new">Update on 11.16.2022 to Marine Waters WG</a> (slide 54); materials from <a href="https://drive.google.com/drive/folders/1HZs9S6eg28gDhXt0qFVCbXEhd14tjnDZ" target="new">Workshop 1</a>, <a href="https://drive.google.com/drive/folders/1TyABEfY7n0ml7ehzCOS-XJLkVQIJbI41" target="new">Workshop 2</a>, and <a href="https://drive.google.com/file/d/1Y9U3Mzs-99CCmoE6rGr3_HHMThIKtGoS/view" target="new">Workshop 3</a> are available
-</p></td>
+					<td><p class=psemp-mar-font>A collaborative project to conduct a series of workshops to understand the common measurements to develop a phytoplankton and primary productivity Vital Sign.<br><br>
+<p class="psemp-mar-font"><a href="https://pspwa.box.com/s/aoxw731b9fscxdp7ftyovlyvhumj3e90">Factsheet</a> <p class="psemp-mar-font"><a href="https://pspwa.box.com/s/l6cjqm1fycyq2bzs7pqp3s2kcf9dkxnl">Report</a></p></td>
 					<td><p class=psemp-mar-font>Jude Apple, Padilla Bay National Estuarine Research Reserve; Ashley Bagley, Long Live the Kings; Julia Bos, King County; Cheryl Greengrove, University of Washington Tacoma; Lucas Hall, Long Live the Kings</p></td>
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
