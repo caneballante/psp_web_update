@@ -191,9 +191,8 @@ Latest Update: <a href="https://pspwa.box.com/s/7l56ux1s9egjlz0daiajkwqmx9wltyv5
 				</tr>
 				<tr>
 					<td><p class=psemp-mar-font>Developing the Marine Benthic Index as a Vital Sign Indicator</p></td>
-					<td><p class=psemp-mar-font>Benthic invertebrates (benthos) are important to food webs and provide important ecosystem services that can be impaired by human and natural causes. To develop the new Marine Benthic Index Vital Sign indicator, this project is developing two new tools to help us understand how human disturbance affects life at the bottom of Puget Sound: a Marine Benthic Index and a graphical causal model.<br><br>
-Latest Update: <a href="https://pspwa.box.com/s/1k2teeusdn6oan72bf3f3k741nnvtib5" target="new">Update on 8.17.2022 to Marine Waters WG</a> (slide 19), <a href="https://apps.ecology.wa.gov/publications/summarypages/2203005.html" target="new">Project factsheet</a>
-</p></td>
+					<td><p class=psemp-mar-font>A project to develop a Marine Benthic Index Indicator which included modeling species occurrences in relationship to the environment and human disturbance.<br><br>
+<p class="psemp-mar-font"><a href="https://pspwa.box.com/s/kube18hsksv7vvzed3aowiqg8gmegpey">Factsheet</a> <p class="psemp-mar-font"><a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/60">Vital Sign webpage</a></p> <p class="psemp-mar-font"><a href="https://pspwa.box.com/s/mvwjr4x3lfwfvmp0df5j7ua4c5izfc3k">QAPP</a></p></td>
 					<td><p class=psemp-mar-font>Valerie Partridge, WA Department of Ecology; Donald Schoolmaster, US Geological Survey</p></td>
 					<td><p class=psemp-mar-font>1</p></td>
 				</tr>
