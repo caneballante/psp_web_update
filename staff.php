@@ -77,9 +77,9 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> 
 			<!--EXECUTIVE TEAM-->
 		 <h1 class="margin-0-top">EXECUTIVE DIRECTOR'S OFFICE</h1>
-            <h5>Laura Blackmore</h5>
+            <h5>Laura Bradstreet</h5>
             			<p>Executive Director<br />
-               			 360.628.7707 | <a href="mailto:laura.blackmore@psp.wa.gov">laura.blackmore@psp.wa.gov</a> | Follow on Twitter <a href="https://twitter.com/pspdirector" target="new">@pspdirector</a></p>
+               			 360.628.7707 | <a href="mailto:laura.bradstreet@psp.wa.gov">laura.bradstreet@psp.wa.gov</a> | Follow on Twitter <a href="https://twitter.com/pspdirector" target="new">@pspdirector</a></p>
 			
 						<h5>Chrystal Andoh</h5>
 						<p> Executive Assistant<br />
@@ -376,7 +376,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 1/29/24</p>
+	<p class="last-update">Last updated: 2/20/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
