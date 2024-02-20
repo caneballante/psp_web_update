@@ -93,7 +93,7 @@
 					<li>Chaired the Vessels Working Group of the Task Force; and</li>
 					<li>Coordinated communication across state and federal agencies and to the public.</li>
 				</ul>
-				<p>In addition, the Governor appointed the vice chair of the Leadership Council, Stephanie Solien, to serve as co-chair of the Task Force, alongside former Evergreen State College President, Les Purce. Both Sheida Sahandy, former executive director of the Partnership, and Laura Blackmore, exectuive director of the Partnership, served as Task Force members.</p>
+				<p>In addition, the Governor appointed the vice chair of the Leadership Council, Stephanie Solien, to serve as co-chair of the Task Force, alongside former Evergreen State College President, Les Purce. Both Sheida Sahandy, former executive director of the Partnership, and Laura Bradstreet, exectuive director of the Partnership, served as Task Force members.</p>
 				<p>More information about <a href="https://www.governor.wa.gov/issues/issues/energy-environment/southern-resident-orca-recovery/task-force" target ="_blank">the Task Force and its final recommendations can be found on the Governor's site</a>.</p>
 				<h2>Orcas matter for a healthy Puget Sound</h2>
 				<p>Catching sight of an orca while riding a ferry or visiting a state park is always a memorable event. During the summer months, Southern Resident orcas are found in the inland marine waters of Washington and southern British Columbia hunting Chinook salmon and other fish species. Healthy orcas represent a healthy ecosystem because they occupy an important niche at the top of the food web. The thrill of seeing an orca in the wild supports a multi-million dollar whale-watching industry, which supports a healthy local economy. </p>
@@ -111,7 +111,7 @@
 					<li><strong><a href="https://medium.com/puget-sound-partnership/new-rules-for-boating-around-orcas-edd234fcc4d7" target="_blank">Puget Sound Partnership blog: Reviewing the new rules for boating around orcas</a></strong></li>
 					<li><strong><a href="https://parks.state.wa.us">Washington State Parks</a></strong></li>
 				</ul>
-				<p class="last-update">Last updated: 07/21/22</p>
+				<p class="last-update">Last updated: 02/20/24</p>
 			</div>
 
 			
