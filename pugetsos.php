@@ -55,9 +55,9 @@
 						<p><a href="https://pspwa.box.com/s/f12g2ktyf9ep5ejxkow0b7js0h7pcrhh">Letter of Support from the Puget Sound Recovery Community</a></p>
 						<hr>
 						<p><a href="https://pspwa.box.com/s/dj6bg16xk2r9modsbtrclm7u9f0h21fq">Puget SOS bill</a></p>
-						<p><a href="https://transportation.house.gov/committee-activity/hearings/the-subcommittee-on-water-resources-and-environment-hearing-on_--protecting-and-restoring-americas-iconic-waters">Video of Laura Blackmore's testimony</a>
+						<p><a href="https://transportation.house.gov/committee-activity/hearings/the-subcommittee-on-water-resources-and-environment-hearing-on_--protecting-and-restoring-americas-iconic-waters">Video of Laura Bradstreet's testimony</a>
 					</div>
-					<P class="margin-0-top">Testimony of Laura L. Blackmore, Executive Director of the Puget Sound Partnership, before the House Committee on Transportation and Infrastructure Subcommittee on Water Resources and Environment hearing on Protecting and Restoring America’s Iconic Waters, Tuesday, June 25, 2019
+					<P class="margin-0-top">Testimony of Laura L. Bradstreet, Executive Director of the Puget Sound Partnership, before the House Committee on Transportation and Infrastructure Subcommittee on Water Resources and Environment hearing on Protecting and Restoring America’s Iconic Waters, Tuesday, June 25, 2019
 					</p>
 					<hr>
 					<p>Chair Napolitano, Ranking Member Westerman, and distinguished members of the subcommittee, thank you for inviting me here today. On behalf of the Puget Sound Partnership and our hundreds of partners, I want to thank you for convening this important hearing today.</p>
@@ -130,7 +130,7 @@
 						<li>PUGET SOS demonstrates to the nation that Puget Sound is vital to the economic, cultural, and environmental security of the United States. By investing significantly in the health and well-being of Puget Sound, on par with other great waters like the Great Lakes and Chesapeake Bay, federal decision- makers demonstrate that Puget Sound is worth saving. They affirm that it is of critical importance to national well-being, and that they too are concerned for the future of their children and grandchildren. They demonstrate that recovering an ecosystem is more than a one-time effort, that our fates are interlinked with the environment we live in, and that we must stay ever vigilant and ever active in protecting and restoring our home.</li>
 					</ul>
 					<p>Thank you again for the opportunity to appear before you today, and I look forward to your questions.</p>
-					<p>Laura Blackmore<br>
+					<p>Laura Bradstreet<br>
 						Executive Director, Puget Sound Partnership
 					</p>
 					<br><br>
@@ -140,6 +140,8 @@
 					<p>iv <a href="https://stateofsalmon.wa.gov/exec-summary/">Governor&rsquo;s Salmon Recovery Office, 2018. State of the Salmon Report, Executive Summary, page 9. Accessed June 20, 2019.</a> </p>
 				</div>
 			</div>
+			
+			<p class="last-update">Last updated: 02/20/24</p>
 			<!--END OF ROW -->
 		</div>
 		<!--END OF CONTENT CONTAINER -->
