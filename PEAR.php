@@ -90,14 +90,14 @@
             <li>In 2023, we will update our agency&rsquo;s  strategic plan, and ensure that we infuse  pro-equity, anti- racism and  environmental justice work into it, in accordance with the HEAL Act and our own  values.</li>
         </ul>
         <p>I am looking forward to  continuing this journey with each of you, our partners, and the Office of  Equity. Please don&rsquo;t hesitate to  reach out to me or any member  of the Executive Team or our PEAR Team – Mel,  Lea Anne, Denise, and me – with questions or ideas.</p>
-        <p>Laura Blackmore<br>
+        <p>Laura Bradstreet<br>
             <em> Executive Director</em><br>
         The Puget Sound Partnership</p>
             
         <h2>Partnership PEAR team</h2>
             <table class="table-striped">
                 <tr>
-                    <td><p>Laura Blackmore</p></td>
+                    <td><p>Laura Bradstreet</p></td>
                     <td><p>Executive Director</p></td>
                 </tr>
                 <tr>
@@ -117,6 +117,8 @@
                     <td><p></p></td>
                 </tr>
             </table>
+			
+			<p class="last-update">Last updated: 02/20/24</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		
