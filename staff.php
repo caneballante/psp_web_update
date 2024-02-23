@@ -287,9 +287,9 @@
 						<h5>Nathalie Hamel</h5>
 						<p> Vital Signs Lead<br/>
 							360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
-						<h5>Mary Ramirez</h5>
+						<h5>VACANT</h5>
 						<p> Monitoring Performance Analyst<br>
-							360.764.6149 | <a href="mailto:mary.ramirez">mary.ramirez@psp.wa.gov</a></p>
+							</p>
 						<h5>Elene Trujillo</h5>
 						<p> Monitoring Performance Analyst <br>
 							360.819.6018 | <a href="mailto:elene.trujillo@psp.wa.gov">elene.trujillo@psp.wa.gov</a></p>
@@ -376,7 +376,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 2/20/24</p>
+	<p class="last-update">Last updated: 2/23/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
