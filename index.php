@@ -259,37 +259,9 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 						<!--news content -->
-					<div class="newsbox-date">JAN<br>
-						25</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">FEB<br>
-						8</div>
-					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content-->
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">FEB<br>
-						22</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
+					<div class="newsbox-date">MAR<br>
+						14</div>
+					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
 						<br>
 						</a><br>
 					</div>
@@ -302,8 +274,36 @@
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
 					<div class="newsbox-date">MAR<br>
-						14</div>
-					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
+						28</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
+						<br>
+						</a><br>
+					</div>
+					<!--END news content-->
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">APR<br>
+						11</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
+						<br>
+						</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">MAY<br>
+						9</div>
+					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
 						<br>
 						</a><br>
 					</div>
