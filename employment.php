@@ -81,6 +81,10 @@
 			
 		<h2 class="margin-0-top">Employment opportunities	    </h2>
 			
+			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4320226/puget-sound-recovery-strategist">Puget Sound Recovery Strategist</a></p>
+			
+			<p>The Puget Sound Recovery Strategist (PSRS) represents the agency in external venues and functions to influence the work of partners (local, state, federal, Tribal, business). The position fosters specific actions and identifies and focuses resources to accelerate ecosystem recovery implementation. The PSRS is responsible for promoting the potential of local recovery partners to advance local priority work for ecosystem in alignment with the Action Agenda, salmon recovery plan, and environmental justice strategies. The annual range of compensation is between $71,500.00 – 86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. Recruitment is open through March 12. </p><br>
+			
 			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4401580/boards-program-coordinator-exempt">Boards Program Coordinator</a></p>
 			
 			<p>The Boards Program Coordinator is part of the Partnership’s Boards Team and coordinates all aspects of the agency’s board operations.  The position also provides administrative support and project management support that keeps the boards organized in meeting agency deadlines and ensuring actions are taken and issues are moving forward promptly. The annual starting range of compensation for this position is between $71,500 - $79,000 depending upon qualifications.  The full position salary range for this position is $71,500 - $86,500.  Hiring supervisors can negotiate employment offers with candidates for this recruitment within the boundaries of the starting salary range based on a formulaic approach.  The position range is the broader range the newly hired person can expect their salary to grow during their tenure in the position.  Salary ranges will increase when future legislatively approved general wage increases for non-represented state employees occur.  For more information about benefits and the details of the position, and to apply, visit the link above. Recruitment is open through March 7.</p><br>
@@ -138,7 +142,7 @@
 			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 2/27/24</p>
+		<p class="last-update">Last updated: 3/1/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
