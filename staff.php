@@ -350,9 +350,7 @@
 						<h5>PHAN DOAN</h5>
 						<p>Lead Budget Analyst<br />
 							360.280.6664 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov</a></p>
-						<h5>Arjean Travis</h5>
-						<p> Grants, Contracts, and Compliance Manager<br />
-							360.742.7147  | <a href="mailto:arjean.travis@psp.wa.gov">arjean.travis@psp.wa.gov </a> </p>
+						
 						<h5>Shannon Sanders</h5>
 						<p>Grants, Contracts, and Compliance Manager<br />
 							360.688.3772 | <a href="mailto:shannon.sanders@psp.wa.gov">shannon.sanders@psp.wa.gov</a></p>
@@ -376,7 +374,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 2/23/24</p>
+	<p class="last-update">Last updated: 3/1/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
