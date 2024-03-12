@@ -78,15 +78,15 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">Commitment  to Safety and Respectful Engagement</h2>
+			<p>The Puget Sound Partnership operates at its best when we create collaboration where  people can be brave with their ideas, where healthy dialogue can take place  with different viewpoints, and where accountability is present. Our natural  resource community collectively is more successful and productive when we show  mutual respect, validate each other&rsquo;s perspectives, and remain aware of our  effect on others, especially when conversations are difficult. </p>
+<p>Below are each of the four Core Principles of Engagement and a brief description of how we understand each one, what we expect, and what we seek from it.</p>
+			<img src="images/ppre.jpg" width="734" height="722" alt=""/>
+			<h2>Commitment  to Safety and Respectful Engagement</h2>
 			<p>The Partnership promotes a safe and productive working environment sponsored by its agency, councils, and boards. Informed by  the guidance provided by the Equal Employment Opportunity Commission (EEOC),  the Partnership will respond appropriately to reports of harassment against employees by non-employees, including independent contractors or customers  participating in Partnership activities and on the premises, or remove  communications facilitated by the Partnership. </p>
 			<p>In addition, the Partnership expects and strives to provide  an environment where communications and interactions are respectful and  professional. The following are, but not limited to, behavior the Partnership  expects will be reported immediately to a Partnership staff member should it  occur to any individual or is witnessed by an individual at a  Partnership-sponsored meeting, activity, or event: <br>
 			<a href="https://www.eeoc.gov/discrimination-type">Discrimination</a> <br>
 			<a href="https://www.eeoc.gov/harassment">Harassment</a> <br>
 			<a href="https://www.eeoc.gov/sexual-harassment">Sexual harassment</a>, including inappropriate and unwelcomed physical  contact. </p>
-			<h2>Core Principles</h2>
-			<p>Below are each of the four Core Principles of Engagement and a brief description of how we understand each one, what we expect, and what we seek from it.</p>
-			<img src="images/ppre.png" width="580" height="571" alt=""/>
 <h2>How the Partnership Addresses Disrespectful Behavior</h2>
 			<p>If you observe disrespectful behavior that does not support  the principles, please contact Partnership Leadership staff, or Boards/Council  Chairs. Each situation will be assessed individually, and the Partnership may  respond differently on a case-by-case basis. The Partnership&rsquo;s goal will be to  resolve the conflict, but we may choose to take other actions if deemed  appropriate. </p>
 			<h2>Additional resources</h2>
