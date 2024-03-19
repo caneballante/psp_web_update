@@ -710,10 +710,10 @@ display: block
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		background-size: cover;
-		-o-background-size: cover;
+		 -o-background-size: cover;
 	}
 }
-
+ 
 .intro-SOS .intro-body {
 	display: table-cell;
 	vertical-align: middle;
