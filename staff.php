@@ -344,9 +344,9 @@
 						<h5>Sheridan Tabor</h5>
 						<p>Chief Financial Officer<br />
 							360.706.4955 | <a href="mailto:sheridan.tabor@psp.wa.gov">sheridan.tabor@psp.wa.gov</a></p>
-						<h5>Melissa Clarey</h5>
+						<h5>VACANT</h5>
 						<p>Accounting and Budget Program Manager<br />
-							360.819.0342 | <a href="mailto:melissa.clarey@psp.wa.gov">melissa.clarey@psp.wa.gov</a></p>
+							</p>
 						<h5>PHAN DOAN</h5>
 						<p>Lead Budget Analyst<br />
 							360.280.6664 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov</a></p>
@@ -374,7 +374,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 3/1/24</p>
+	<p class="last-update">Last updated: 3/19/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
