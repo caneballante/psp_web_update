@@ -75,31 +75,42 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 
-       		<div class="pull-right"></div>
+   		<div class="pull-right"></div>
 			
-			<p>The Puget Sound  Partnership&rsquo;s Strategic Funding Team (SFT) was established in 2023 to accelerate  Puget Sound&rsquo;s ecosystem and salmon recovery by organizing funding, particularly  through new federal funding opportunities available as a result of the  Bipartisan Infrastructure Law (BIL) and the Inflation Reduction Act (IRA).</p>
-            <p>The  SFT assists Tribes, Local Integrating Organizations (LIOs), Lead Entities  (LEs), and other local partners in responding to rapid funding availabilities that  support the implementation of the Action Agenda and Salmon Recovery Plan, our  community&rsquo;s shared recovery plans for Puget Sound.&nbsp;<br>
-              The SFT supports the efforts of the  recovery community to plan and act across sectors and geographies to align  transportation, land use, habitat restoration and protection, agriculture,  climate change mitigation, flood hazard reduction, and stormwater  infrastructure to achieve a multi-benefit approach. <br>
-              Additionally, we will align state and  federal programs and increase investments that support Puget Sound recovery and  Tribal and local priorities.<br>
-  <strong>Salmon Recovery and Restoration  Funding Opportunities</strong><br>
-              We document funding  needs and, as possible, connect those with available funding opportunities related to salmon recovery and restoration. We aim to increase coordination and collaboration and will work to connect Tribes,  LIOs, LEs,  and other partners that might  be working on similar projects or pursuing the same funding opportunity.&nbsp;<br>
+			<p>The Puget Sound  Partnership&rsquo;s Strategic Funding Team (SFT) was established in 2023 to accelerate  Puget Sound&rsquo;s ecosystem and salmon recovery by organizing funding, particularly  through new federal funding opportunities available as a result of the  Bipartisan Infrastructure Law (BIL) and the Inflation Reduction Act (IRA).<br>
+			  <br>
+			</p>
+			<p>The  SFT assists Tribes, Local Integrating Organizations (LIOs), Lead Entities  (LEs), and other local partners in responding to rapid funding availabilities that  support the implementation of the Action Agenda and Salmon Recovery Plan, our  community&rsquo;s shared recovery plans for Puget Sound.&nbsp;<br>
+        </p>
+            <p>The SFT supports the efforts of the  recovery community to plan and act across sectors and geographies to align  transportation, land use, habitat restoration and protection, agriculture,  climate change mitigation, flood hazard reduction, and stormwater  infrastructure to achieve a multi-benefit approach. <br>
+        </p>
+            <p>Additionally, we will align state and  federal programs and increase investments that support Puget Sound recovery and  Tribal and local priorities.<br>
+              </p>
+            <p><strong>Salmon Recovery and Restoration  Funding Opportunities</strong><br>
+              We document funding  needs and, as possible, connect those with available funding opportunities related to salmon recovery and restoration. We aim to increase coordination and collaboration and will work to connect Tribes,  LIOs, LEs,  and other partners that might  be working on similar projects or pursuing the same funding opportunity.&nbsp; <br>
               For more information,  reach out to our strategic funding coordinator, <a href="mailto:Sadie.normoyle@psp.wa.gov">Sadie Normoyle</a>.<strong></strong><br>
-  <strong>Overcoming Funding  Barriers </strong><br>
+              </p>
+            <p><strong>Overcoming Funding  Barriers </strong><br>
               We work in  collaboration with Tribes, LIO, and LEs to identify barriers that hinder  funding from reaching implementation. Our goal is to develop strategies to  address these barriers and support Tribes and local partners to secure  additional funding needed to implement our <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda </a>and Salmon Recovery  Plan.<br>
               For more information,  reach out to <a href="mailto:jessica.reynolds@psp.wa.gov">Jessica Reynolds</a>.<strong></strong><br>
-  <strong>Restoration and  Transportation Funding opportunities</strong><br>
+              </p>
+            <p><strong>Restoration and  Transportation Funding opportunities</strong><br>
               We work to build on the traditional  overlap and strengthen the alignment between transportation and Puget Sound  ecosystem and salmon recovery. Our aim is to unite the recovery and  transportation sectors throughout partnerships, planning, and implementation of  projects, to create Sound Safe Infrastructure. This is transportation  infrastructure that does not create additional stressors and pressures, but contributes  to Puget Sound ecosystem and salmon recovery.<br>
               For more information,  reach out to our restoration and transportation funding strategist, <a href="mailto:bebhinn.gilbert@psp.wa.gov">Bebhinn Gilbert</a>.<strong></strong><br>
-  <strong>Grant Writing</strong><br>
+              </p>
+            <p><strong>Grant Writing</strong><br>
               We provide the Tribes, LIOs,  LEs, and local partners with technical assistance and the capacity to prepare  their grant applications for submission. Our grant writer will help identify  funding opportunities, develop high-quality grant proposals to federal, state,  and private funding agencies, and monitor grant progression with the goal of  increasing the number of successful submissions for local and regional recovery  projects.<br>
               For more information,  reach out to <a href="mailto:strategicfunding@psp.wa.gov">strategicfunding@psp.wa.gov</a><u>.</u><strong> </strong><br>
-  <strong>The Puget Sound Recovery  Acceleration Funding Tool</strong><br>
+              </p>
+            <p><strong>The Puget Sound Recovery  Acceleration Funding Tool</strong><br>
               We created the <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a> to provide any  grant-seeking partner with a centralized location for information about  national, state, and regional funding opportunities for Puget Sound ecosystem  and salmon recovery projects. In addition to active funding opportunities, PS  RAFT allows users to search through closed funding opportunities for historical  reference and future planning. PS RAFT also provides partners with a forum to  connect and collaborate on funding applications .<br>
               PS RAFT will help  federal and state agencies provide timely funding information to partners and  increase the effectiveness of funding from the Bipartisan Infrastructure Law  and other resources.  This tool  is intended to help reduce barriers and capacity needs and to share and find  funding opportunities.</p>
             <p>To <a href="https://www.psp.wa.gov/psraft.php">learn more about PS RAFT</a>,  or to submit a funding opportunity, please email us at <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
+            <p>&nbsp;</p>
             <p><strong>Frequently  Asked Questions</strong></p>
             <p><strong>I need funding,  what can the Strategic Funding Team do for me?</strong></p>
-            <p>We provide Tribes,  LIOs, LEs, and other local partners with support by connecting them with  funding opportunities as well as offering grant-writing assistance. Our goal is  to strengthen collaboration across the Puget Sound region and provide  coordination in tracking funding opportunities. You can find more information  about currently available and past funding opportunities by using our <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a>. </p>
+        <p>We provide Tribes,  LIOs, LEs, and other local partners with support by connecting them with  funding opportunities as well as offering grant-writing assistance. Our goal is  to strengthen collaboration across the Puget Sound region and provide  coordination in tracking funding opportunities. You can find more information  about currently available and past funding opportunities by using our <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a>. </p>
+            <p>&nbsp;</p>
             <p><strong>What kinds of  technical assistance can the SFT provide?</strong></p>
             <ul>
               <li>Assist  with grant strategy.</li>
@@ -107,16 +118,19 @@
               <li>Support  the development of collective, cross-geography/sector grant proposals.</li>
               <li>Assist  in acquiring funding for large-scale, transformative initiatives.</li>
               <li>Guidance  on the development of grant applications for restoration projects applying for transportation  funding.</li>
-            </ul>
+        </ul>
             <p><strong>&nbsp;</strong></p>
-            <p><strong>How do I connect  with others who are interested in similar projects or funding</strong><br>
+        <p><strong>How do I connect  with others who are interested in similar projects or funding</strong><br>
               <strong>applications?</strong><br>
               PS RAFT has a &ldquo;connections&rdquo; page where you  can register your interest in a particular funding opportunity and allow others  to contact you if they are interested as well.<br>
               You can also email our strategic funding coordinator, Sadie at <a href="mailto:Sadie.normoyle@psp.wa.gov"><strong>Sadie.normoyle@psp.wa.gov</strong></a> to talk more about  your funding needs and how to connect with other entities with similar projects. </p>
+            <p>&nbsp;</p>
             <p><strong>Can the Strategic  Funding Team apply for funding on our behalf? </strong></p>
             <p>No, while we can&rsquo;t  apply on behalf of an organization or group, we can assist with the application  process itself as well as accessing funding opportunities. </p>
+            <p>&nbsp;</p>
             <p><strong>Does the Strategic  Funding Team have its own funding opportunities?</strong></p>
             <p>No, the Strategic  Funding Team does not currently have any funds that we award. You can find more  information about currently available and past funding opportunities with our <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a>. </p>
+            <p>&nbsp;</p>
             <p><strong>Contact</strong><strong>&nbsp;</strong><strong> </strong><br>
               If  you have any specific funding needs, please email <a href="mailto:Sadie.normoyle@psp.wa.gov">Sadie Normoyle</a>,  strategic funding coordinator, or if your funding needs have a specific  transportation nexus, please contact <a href="mailto:bebhinn.gilbert@psp.wa.gov">Bebhinn Gilbert</a>,  restoration and transportation funding strategist.</p>
             <p>If  you have any other questions about the Strategic Funding Team or PS RAFT,  please email <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
