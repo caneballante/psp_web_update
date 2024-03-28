@@ -14,7 +14,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership Strategic Funding Team</title>
+<title>Puget Sound Partnership 2022-2026 Action Agenda</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -34,8 +34,10 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
-</script> 
+navSelected = 1;
+	
+</script>
+<meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -44,19 +46,24 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image118"> </header>
-<!-- InstanceEndEditable -->  
+<header class="overview-page-image-style overview-page-image118">
+</header>
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-xs-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Puget Sound Partnership  Strategic Funding Team</h1>
+			<h1>STRATEGIC FUNDING PROGRAM</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -66,16 +73,18 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<!--<?php include 'includes/ln-strategic-funding.html';?>-->	
-	
-			<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-strategic-funding.html';?>
+					
+					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-
-   		<div class="pull-right"></div>
+	<!--
+		<div class="highlightbox">
+			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
+		</div>-->
 			
 			<p>The Puget Sound  Partnership&rsquo;s Strategic Funding Team (SFT) was established in 2023 to increase  Puget Sound&rsquo;s ecosystem and salmon recovery by organizing funding, particularly  through new federal funding opportunities available as a result of the <a href="https://www.epa.gov/infrastructure">Bipartisan Infrastructure Law (BIL)</a> and the <a href="https://home.treasury.gov/policy-issues/inflation-reduction-act">Inflation  Reduction Act (IRA)</a>.</p>
             <p>The  SFT assists Tribes, Local Integrating Organizations (LIOs), Lead Entities  (LEs), and other local partners in responding to rapid funding availabilities that  support the implementation of the <a href="https://psp.wa.gov/2022AAupdate.php">Action  Agenda</a> and <a href="https://psp.wa.gov/salmon-recovery-overview.php">Salmon  Recovery Plan</a>, our community&rsquo;s shared recovery plans for Puget Sound.&nbsp;<br>
@@ -102,7 +111,7 @@
             <h3>I need funding, what can the Strategic Funding Team do for me?</h3>
         <p>We provide Tribes,  LIOs, LEs, and other local partners with support by connecting them with  funding opportunities as well as offering grant-writing assistance. Our goal is  to strengthen collaboration across the Puget Sound region and provide  coordination in tracking funding opportunities. You can find more information  about currently available and past funding opportunities by using our <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a>. </p>
             <h3>What kinds of technical assistance can the SFT provide?            </h3>
-            <ul>
+            <ul class="bullet-size-fix">
               <li>Assist  with grant strategy.</li>
               <li>Support  grant application development.</li>
               <li>Support  the development of collective, cross-geography/sector grant proposals.</li>
@@ -120,23 +129,20 @@
             <h2><strong>Contact</strong><strong>&nbsp;</strong></h2>
             <p>If  you have any specific funding needs, please email <a href="mailto:Sadie.normoyle@psp.wa.gov">Sadie Normoyle</a>,  strategic funding coordinator, or if your funding needs have a specific  transportation nexus, please contact <a href="mailto:bebhinn.gilbert@psp.wa.gov">Bebhinn Gilbert</a>,  restoration and transportation funding strategist.</p>
             <p>If  you have any other questions about the Strategic Funding Team or PS RAFT,  please email <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
-<div><div>
-  </div>
-  <div> </div>
-  <div> </div>
-  <div> </div>
-</div>
-<p class="last-update">Last updated: 03/27/24</p>
-		
-			<!-- InstanceEndEditable --> </div>
+			
+		<!-- LAST UPDATED -->
+		<p class="last-update">Last updated: 3/28/24</p>
+
+        <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="2022AAupdate.php">2022-2026 Action Agenda for Puget Sound</a></li>
-
+				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
+				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/ck3b5pdx2vj4dmlfgqkynvnlafoet1k0" target="new">View our 2022-2026 Action Agenda overview presentation</a></li>
+			
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
