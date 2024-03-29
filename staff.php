@@ -288,7 +288,7 @@
 						<p> Vital Signs Lead<br/>
 							360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
 						<h5>VACANT</h5>
-						<p> Monitoring Performance Analyst<br>
+						<p> Vital Signs Reporting Analyst<br>
 							</p>
 						<h5>Elene Trujillo</h5>
 						<p> Monitoring Performance Analyst <br>
