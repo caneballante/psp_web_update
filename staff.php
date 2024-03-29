@@ -89,9 +89,9 @@
 						<p> Special Assistant to the Director<br />
 							360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br /></p>
 	
-						<h5>Paulina Deschamps Ramirez</h5>
+						<h5>VACANT</h5>
 						<p>Equity and Environmental Justice Manager<br />
-							564.669.8282 | <a href="mailto:paulina.deschamps-ramirez@psp.wa.gov">paulina.deschamps-ramirez@psp.wa.gov</a></p>
+							</p>
 			
 						<h5>Lea Anne Burke</h5>
 						<p>Tribal Affairs Manager<br>
@@ -344,12 +344,12 @@
 						<h5>Sheridan Tabor</h5>
 						<p>Chief Financial Officer<br />
 							360.706.4955 | <a href="mailto:sheridan.tabor@psp.wa.gov">sheridan.tabor@psp.wa.gov</a></p>
-						<h5>VACANT</h5>
-						<p>Accounting and Budget Program Manager<br />
-							</p>
-						<h5>PHAN DOAN</h5>
-						<p>Lead Budget Analyst<br />
+						<h5>Phan Doan</h5>
+						<p>Acting Accounting and Budget Program Manager<br />
 							360.280.6664 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov</a></p>
+						<h5>VACANT</h5>
+						<p>Lead Budget Analyst<br />
+							</p>
 						
 						<h5>Shannon Sanders</h5>
 						<p>Grants, Contracts, and Compliance Manager<br />
@@ -374,7 +374,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 3/19/24</p>
+	<p class="last-update">Last updated: 3/29/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
