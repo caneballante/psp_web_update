@@ -246,9 +246,9 @@
 			
 						<!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
-						<h5>VACANT</h5>
+						<h5>Beihua Page</h5>
 						<p> Adaptive Systems Manager<br />
-							</p>
+							360.552.8340 | <a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov </a></p>
 						<h5>Jennifer Burke</h5>
 						<p>Information and Geospatial Systems Manager<br />
 							360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
@@ -259,9 +259,9 @@
 						<p>Data Systems Support Specialist<br />
 						 360.529.6570 |<a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov </a></p>
 
-						 <h5>Beihua Page</h5>
+						 <h5>VACANT</h5>
 						<p>Adaptive Systems Lead<br />
-						360.552.8340 | <a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov </a></p><strong></strong>
+						
 			
 						<h5>Laura Vary</h5>
 						<p>Monitoring Data Coordinator and Analyst<br />
@@ -374,7 +374,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 3/29/24</p>
+	<p class="last-update">Last updated: 4/1/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
