@@ -131,7 +131,7 @@ navSelected = 1;
             <p>If  you have any other questions about the Strategic Funding Team or PS RAFT,  please email <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 3/28/24</p>
+		<p class="last-update">Last updated: 4/4/24</p>
 
         <!-- InstanceEndEditable --> </div>
 		
