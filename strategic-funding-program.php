@@ -14,7 +14,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership 2022-2026 Action Agenda</title>
+<title>Puget Sound Partnership Strategic Funding Team</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -141,7 +141,7 @@ navSelected = 1;
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
-				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/ck3b5pdx2vj4dmlfgqkynvnlafoet1k0" target="new">View our 2022-2026 Action Agenda overview presentation</a></li>
+				
 			
 				<!-- InstanceEndEditable -->
 			</ul>
