@@ -124,7 +124,7 @@
 		<div class="col-sm-3 padding-20-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
-			<div class="padding-5-bottom"><a href="strategic-funding-program.php"><span class="new-red">NEW! </span>Puget Sound Strategic Funding Program</a></div>
+			<div class="padding-5-bottom"><a href="strategic-funding-program.php"><span class="new-red">NEW! </span>Strategic Funding Program</a></div>
 			<div class="padding-5-bottom"><a href="psraft.php"><span class="new-red">NEW! </span>Puget Sound RAFT - Recovery Acceleration Funding Tool</a></div>
 			<div class="padding-5-bottom"><a href="funding.php">Science and Monitoring Funding opportunities</a></div>
 			<div class="padding-5-bottom"><a href="federal-support.php">Federal support for Puget Sound recovery</a></div>
