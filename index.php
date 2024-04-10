@@ -260,34 +260,6 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 						<!--news content -->
-					<div class="newsbox-date">MAR<br>
-						14</div>
-					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">MAR<br>
-						28</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content-->
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
 					<div class="newsbox-date">APR<br>
 						11</div>
 					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
@@ -303,8 +275,36 @@
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
 					<div class="newsbox-date">MAY<br>
-						9</div>
+					9</div>
 					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
+						<br>
+						</a><br>
+					</div>
+					<!--END news content-->
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">MAY<br>
+					23</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
+						<br>
+						</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">JUNE<br>
+					5&amp;6</div>
+					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
 						<br>
 						</a><br>
 					</div>
@@ -343,7 +343,7 @@
 				<div class="col-md-6 padding-60-bottom">
 							<h1 class="margin-0-top"> PUGET SOUND RAFT - FUNDING ACCELERATION FUNDING TOOL</h1>
 				<p><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound RAFT – Recovery Acceleration Funding Tool</a> is now available, centralizing details on  funding opportunities for Puget Sound ecosystem and salmon recovery. </p>
-				<p>The Puget Sound RAFT tool is a service of the Puget Sound Partnership’s Strategic Funding Team. <a href="psraft.php">Learn more</a></p>
+				<p>The Puget Sound RAFT tool is a service of the Puget Sound Partnership’s Strategic Funding Team. <a href="/strategic-funding-program.php">Learn more</a></p>
 				</div>
 
 
