@@ -260,27 +260,13 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 						<!--news content -->
-					<div class="newsbox-date">APR<br>
-						11</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content--> 
-				</div>
-			</div>
-			<!--COLUMN END--> 
-			<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
 					<div class="newsbox-date">MAY<br>
 					9</div>
 					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
 						<br>
 						</a><br>
 					</div>
-					<!--END news content-->
+					<!--END news content--> 
 				</div>
 			</div>
 			<!--COLUMN END--> 
@@ -294,7 +280,7 @@
 						<br>
 						</a><br>
 					</div>
-					<!--END news content--> 
+					<!--END news content-->
 				</div>
 			</div>
 			<!--COLUMN END--> 
@@ -303,8 +289,22 @@
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
 					<div class="newsbox-date">JUNE<br>
-					5&amp;6</div>
+5&amp;6</div>
 					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
+						<br>
+						</a><br>
+					</div>
+					<!--END news content--> 
+				</div>
+			</div>
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox calendarbox"> 
+					<!--news content -->
+					<div class="newsbox-date">JULY<br>
+					17&amp;18</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
 						<br>
 						</a><br>
 					</div>
