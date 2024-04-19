@@ -166,8 +166,9 @@
 						<h5>Jessica Reynolds</h5>
 						<p>Funding Barrier Strategist<br>
 							360.870.6165 | <a href="mailto:jessica.reynolds@psp.wa.gov">jessica.reynolds@psp.wa.gov</a></p>
-						<h5>VACANT</h5>
-						<p>Grant Writer and Strategist</p>
+						<h5>Michelle Deckard</h5>
+						<p>Grant Writer and Strategist<br>
+							360.819.0342 | <a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a></p>
 						<h5>Bebhinn Gilbert</h5>
 						<p>Restoration and Transportation Funding Strategist<br>
 							360.870.1467 | <a href="mailto:bebhinn.gilbert@psp.wa.gov">bebhinn.gilbert@psp.wa.gov</a></p>
@@ -374,7 +375,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 4/1/24</p>
+	<p class="last-update">Last updated: 4/19/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
