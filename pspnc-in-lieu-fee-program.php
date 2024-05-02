@@ -123,7 +123,7 @@
 			
 			<p>As of August 2023, we have sold 2,090 conservation credits. Credit sales by service area are shown below:</p>
 			
-			<img src="images/nearshore-credits-sold.jpg" class="img-responsive" width=60% alt="A map graphic that shows how many conservation credits the Partnership has sold in each marine service area. The Partnership has sold 1,382 credits in the North Puget Sound service area; O credits in the Strait of Juan de Fuca service area; 31 credits in the Whidbey service area; 307 credits in the Hood Canal service area; and 370 credits in the South Central Puget Sound service area."/><br>
+			<img src="https://pspwa.box.com/shared/static/rwbrypmstb74nejrgg9v23w41gxbdkvn.jpg" class="img-responsive" width=60% alt="A map graphic that shows how many conservation credits the Partnership has sold in each marine service area. The Partnership has sold 1,382 credits in the North Puget Sound service area; O credits in the Strait of Juan de Fuca service area; 31 credits in the Whidbey service area; 307 credits in the Hood Canal service area; and 370 credits in the South Central Puget Sound service area."/><br>
 			
 			<h3>Have any conservation projects been fully implemented?</h3>
 			
@@ -156,7 +156,7 @@
 			<button class="button7"><a href="/pspnc-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 
-			<p class="last-update">Last updated: 9/7/23</p>
+			<p class="last-update">Last updated: 4/9/24</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		

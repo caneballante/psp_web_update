@@ -101,7 +101,7 @@ navSelected = 1;
               For more information,  reach out to our restoration and transportation funding strategist, <a href="mailto:bebhinn.gilbert@psp.wa.gov">Bebhinn Gilbert</a>.<strong></strong></p>
             <h2><strong>Grant Writing</strong></h2>
             <p>We provide the Tribes, LIOs,  LEs, and local partners with technical assistance and the capacity to prepare  their grant applications for submission. Our grant writer will help identify  funding opportunities, develop high-quality grant proposals to federal, state,  and private funding agencies, and monitor grant progression with the goal of  increasing the number of successful submissions for local and regional recovery  projects.<br>
-              For more information,  reach out to our grant writer, Michelle Deckard at <a href="mailto:strategicfunding@psp.wa.gov">strategicfunding@psp.wa.gov</a><u>.</u><strong> </strong></p>
+              For more information,  reach out to our grant writer, Michelle Deckard at <a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a><u>.</u><strong> </strong></p>
         <h2><strong>The Puget Sound Recovery Acceleration  Funding Tool</strong></h2>
             <p>We created the <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a> to provide any  grant-seeking partner with a centralized location for information about  national, state, and regional funding opportunities for Puget Sound ecosystem  and salmon recovery projects. In addition to active funding opportunities, PS  RAFT allows users to search through closed funding opportunities for historical  reference and future planning. PS RAFT also provides partners with a forum to  connect and collaborate on funding applications.<br>
               </p>
@@ -131,7 +131,7 @@ navSelected = 1;
             <p>If  you have any other questions about the Strategic Funding Team or PS RAFT,  please email <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 3/28/24</p>
+		<p class="last-update">Last updated: 4/4/24</p>
 
         <!-- InstanceEndEditable --> </div>
 		
