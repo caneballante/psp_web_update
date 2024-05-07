@@ -191,7 +191,7 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/nora-nickum.jpg"  alt="Headshot photo of Nora Nickum, senior ocean policy manager at the Seattle Aquarium and author of books and magazine articles for kids."/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2023/06/09/making-waves-conversations-nora-nickum/">Nora Nickum on her new book, "Superpod: Saving the Endangered Orcas of the Pacific Northwest."</a><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2023/06/09/making-waves-conversations-nora-nickum/">Nora Nickum on her new book, "Superpod: Saving the Endangered Orcas of the Pacific Northwest"</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
