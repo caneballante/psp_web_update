@@ -87,7 +87,7 @@
 			<div>
 			  <p class="margin-20-top">In 2021, Governor Jay Inslee signed the Climate Commitment Act (CCA). The CCA created a 
 				  program that requires the state’s largest polluters to reduce greenhouse gas pollution.				  Greenhouse gases, such as carbon dioxide and methane, trap the sun’s heat and are raising the<br>
-				  temperature of the earth.</p>
+				  temperature of the earth. </p>
 				<p class="margin-20-top">				  The CCA is the centerpiece of the state’s climate action efforts. Money from the program will 
 				  support thousands of projects that reduce pollution and improve the environment. Some of 
 				  that money has been and likely will be invested in projects to improve shorelines and<br>
