@@ -79,61 +79,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-		<h2 class="margin-0-top">Employment opportunities	    </h2>
-			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4453482/vital-signs-reporting-analyst-ems">Vital Signs Reporting Analyst</a></p>
-			
-			<p>The Partnership’s Vital Signs Reporting Analyst leads the collaborative effort to report findings for the Puget Sound Vital Signs and their indicators, a set of socio-ecological measures to assess ecosystem conditions and how conditions change over time. The position collaborates with scientists, managers and practitioners at partner agencies within the Puget Sound Ecosystem Monitoring Program (PSEMP) to compile, analyze and map data for a number of indicators, from water to whales and human wellbeing. The annual range of compensation is between $78,000.00 - $94,000.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, visit the link above. Recruitment is open through April 30.</p><br>
-			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4320226/puget-sound-recovery-strategist">Puget Sound Recovery Strategist</a></p>
-			
-			<p>The Puget Sound Recovery Strategist (PSRS) represents the agency in external venues and functions to influence the work of partners (local, state, federal, Tribal, business). The position fosters specific actions and identifies and focuses resources to accelerate ecosystem recovery implementation. The PSRS is responsible for promoting the potential of local recovery partners to advance local priority work for ecosystem in alignment with the Action Agenda, salmon recovery plan, and environmental justice strategies. The annual range of compensation is between $71,500.00 – 86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. Recruitment is open through March 12. </p><br>
-			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4401580/boards-program-coordinator-exempt">Boards Program Coordinator</a></p>
-			
-			<p>The Boards Program Coordinator is part of the Partnership’s Boards Team and coordinates all aspects of the agency’s board operations.  The position also provides administrative support and project management support that keeps the boards organized in meeting agency deadlines and ensuring actions are taken and issues are moving forward promptly. The annual starting range of compensation for this position is between $71,500 - $79,000 depending upon qualifications.  The full position salary range for this position is $71,500 - $86,500.  Hiring supervisors can negotiate employment offers with candidates for this recruitment within the boundaries of the starting salary range based on a formulaic approach.  The position range is the broader range the newly hired person can expect their salary to grow during their tenure in the position.  Salary ranges will increase when future legislatively approved general wage increases for non-represented state employees occur.  For more information about benefits and the details of the position, and to apply, visit the link above. Recruitment is open through March 7.</p><br>
-			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4319586-0/ecosystem-recovery-coordinator-exempt">Ecosystem Recovery Coordinator</a></p>
-			
-			<p>The Partnership’s Ecosystem Recovery Coordinator is a part of the Local Integrating Organization (LIO) Program Team and plays a key role in supporting the work of our local partners. This position will support PSP and our local partners in working to implement actions in local geographies that support Puget Sound recovery and align with needs outlined in the Action Agenda and local recovery plans. The annual range of compensation is between $71,000 - $86,500. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. Recruitment is open through Feb. 25.</p><br>
-			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4351205/adaptive-systems-manager-exempt">Adaptive Systems Manager</a></p>
-			
-			<p>The Partnership’s Adaptive Systems Manager is the program manager for the Adaptive Systems and Accountability Program (ASAP).  This position will provide leadership and strategic guidance to the agency on improving the agency’s use of adaptive management, expanding systems to hold the agency and partners accountable to progress, developing targets and indicators to assess Puget Sound recovery, and the development and maintenance of GIS and information management systems. The annual range of compensation is between $94,500 - $114,400. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. Recruitment is open through Feb. 8. </p><br>
-			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4359165/puget-sound-ecosystem-monitoring-program-psemp-coordinator">PSEMP Coordinator</a></p>
-			
-			<p>This is a great opportunity to work with a wide network of partners that support the Puget Sound Ecosystem Monitoring Network (PSEMP) by managing contracts, fostering relationships, and facilitating and coordinating of meetings. This position will be hosted under the Science and Evaluation team. The annual range of compensation is between $73,840 - $89,000. However, the starting salary range will be $73,840 - $81,420. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. Recruitment is open through Feb. 14.</p><br>
-			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4344359/grant-writer-and-strategist-exempt">Grant Writer and Strategist</a></p>
-			
-			<p>The Grant Writer and Strategist is part of the Partnership’s new Strategic Funding Team and will provide the state, Tribes, and local partners with technical assistance and capacity to prepare grant applications for submission. This position will identify funding opportunities, develop high-quality grant proposals to federal, state, and private funding agencies, and monitor grant progression with the goal of increasing the number of successful submissions for local and regional recovery projects.</p>
-
-<p>The annual starting range of compensation for this position is between $71,500 - $79,000 depending upon qualifications. The full position salary range is $71,500 - $86,500. The hiring supervisor can negotiate employment offers with candidates for this recruitment within the boundaries of the starting salary range based on a formulaic approach. The position range is the broader range the newly hired person can expect their salary to grow during their tenure in the position. Salary ranges will increase when future legislatively approved general wage increases for non-represented state employees. For more information about benefits and the details of the position, visit the link above. Recruitment is open through Feb. 12.
-</p><br>
-			
-			<p><a href="https://app.smartsheet.com/sheets/Vrgg98QWw63r77X8cgg2hW654QQfF9wC4fPW4QJ1">Puget Sound Recovery Strategist</a></p>
-			
-			<p>The Puget Sound Recovery Strategist (PSRS) represents the agency in external venues and functions to influence the work of partners (local, state, federal, Tribal, business). The position fosters specific actions and identifies and focuses resources to accelerate ecosystem recovery implementation. The PSRS is responsible for promoting the potential of local recovery partners to advance local priority work for ecosystem in alignment with the Action Agenda, salmon recovery plan, and environmental justice strategies. The annual range of compensation is between $71,500.00 – 86,500.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. Recruitment is open through Jan. 11, 2024.</p><br>
-			
-			
-			
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/4244574/contracts-coordinator">Contracts Coordinator (one permanent, one project)</a></p>
-			
-			<p>The Partnership’s Contracts Coordinators (One Permanent, One Project) will lead contract activities for several of the agency’s largest programs and provide expert level consultation and assistance with questions and complex contract fiscal budget matters to ensure funds are used in the most effective and efficient manner possible. The annual range of compensation is between $80,000.00 - $97,000.00. Employees and their families are covered by medical (including vision), dental, long-term disability, and basic life insurance. State employees are members of the Washington Public Employees’ Retirement System and can participate in the Deferred Compensation Program, a supplemental retirement savings program. Employees are given paid time off, designated paid holidays, allowances for professional growth, and hiring incentives. For more information about benefits and the details of the position, and to apply, visit the link above. The recruitment is open until filled. </p><br>
-		
-			
-			
-						
-			
-			
-			
-			
-			
-			
-				
-			
-		<h3>We are an Employer of Choice</h3>
+		<h2>We are an Employer of Choice</h2>
 		<p>The Puget Sound Partnership is the state agency leading the region’s effort to restore and protect Puget Sound. We have office locations in Olympia, Tacoma, and Seattle. Part of our mission as a learning organization is to provide employees with a work/life balance. We do this by employing a business strategy that promotes a modern and flexible workplace, making us a destination employer. Some of our flexible working options include:</p>
 		<ul class="bullet-size-fix">
 			<li>Teleworking </li>
@@ -143,10 +89,16 @@
 			<li>Agency-sponsored public transit cards </li>
 			<li>Infant-at-Work program </li>
 		</ul>
-			 <img src="images/Employer-of-choice.jpg" width="753" height="707" alt="Puget Sound Partnership employer of choice benefits"/><br>
+			 <img src="images/Employer-of-choice.jpg" width="650" height="610" alt="Puget Sound Partnership employer of choice benefits"/><br>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 4/10/24</p>
+		<br>
+		<br>
+			
+			<h2>Employment opportunities	    </h2>
+			<p>Open employment opportunities for the Partnership are posted at <a href="https://www.careers.wa.gov/" target="new">careers.wa.gov</a>.</p>
+			
+		<p class="last-update">Last updated: 5/7/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
