@@ -14,7 +14,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership Strategic Funding Team</title>
+<title>Sound Safe Infrastructure</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -86,46 +86,48 @@ navSelected = 1;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-			<p>The Sound Safe Infrastructure initiative is our vision of how we integrate transportation and restoration,<br>
-			  and the benefits it will have for Puget Sound ecosystem recovery and the transportation sector. Through<br>
-			  Sound Safe Infrastructure we aim to build on and strengthen the alignment between transportation and<br>
-			  Puget Sound ecosystem and salmon recovery to fundamentally unite the restoration and transportation<br>
+			<p><b>The Sound Safe Infrastructure initiative</b> is our vision of how we integrate transportation and restoration,<br>
+			  and the benefits it will have for Puget Sound ecosystem recovery and the transportation sector. Through
+			  Sound Safe Infrastructure we aim to build on and strengthen the alignment between transportation and
+			  Puget Sound ecosystem and salmon recovery to fundamentally unite the restoration and transportation
 		    sectors throughout partnerships, planning, and implementation of projects.</p>
-			<p>			  Collaboration is crucial to the success of restoration of the region’s salmon and shellfish populations, and<br>
-			  the jobs and natural industries they support. To uphold Tribal treaty fishing rights, successful cooperation<br>
-			  between transportation and restoration professionals is needed to ensure that habitat is protected and<br>
-			  restored, so that there are fish to harvest. This cooperation is also essential for achieving Puget Sound<br>
-			  ecosystem recovery goals and supports the Washington State Department of Transportation’s values of<br>
+			<p>			  Collaboration is crucial to the success of restoration of the region’s salmon and shellfish populations, and
+			  the jobs and natural industries they support. To uphold Tribal treaty fishing rights, successful cooperation
+			  between transportation and restoration professionals is needed to ensure that habitat is protected and
+			  restored, so that there are fish to harvest. This cooperation is also essential for achieving Puget Sound
+			  ecosystem recovery goals and supports the Washington State Department of Transportation’s values of
 		    economic vitality, preservation, safety, mobility, environment, and stewardship.</p>
-			<p>We invite partners to engage in this work and take on this shared initiative for increased partnerships<br>
-			  and to create a strong cross-sector collaborative environment for a world-class transportation system<br>
+			<p>We invite partners to engage in this work and take on this shared initiative for increased partnerships
+			  and to create a strong cross-sector collaborative environment for a world-class transportation system
 		    alongside thriving ecological processes and salmon populations</p>
             <h2><strong>Areas of work</strong></h2>
-            <p>1. Partnerships: Strengthen existing relationships between the transportation and restoration<br>
-              sector and develop new connections when available. Broaden the restoration community to include<br>
+		<p>1. <b>Partnerships:</b> Strengthen existing relationships between the transportation and restoration
+              sector and develop new connections when available. Broaden the restoration community to include
               transportation, and emphasize common values and goals.<br>
-              2. Planning: Strengthen communication between the transportation and restoration sectors as<br>
-              well as explore opportunities to align priorities throughout Puget Sound’s many decision-making<br>
+				2. <b>Planning:</b> Strengthen communication between the transportation and restoration sectors as
+              well as explore opportunities to align priorities throughout Puget Sound’s many decision-making
               bodies.<br>
-              3. Projects: Connect current and future projects from both sectors to maximize mutual benefit,<br>
+				3. <b>Projects:</b> Connect current and future projects from both sectors to maximize mutual benefit,
               streamline processes, and invest efficiently.<br>
-              4. Funding: Jointly pursue funding for projects which sit at the nexus of restoration and<br>
+				4. <b>Funding:</b> Jointly pursue funding for projects which sit at the nexus of restoration and
             transportation.</p>
             <h2><strong>anticipated outcomes </strong></h2>
-            <p>1. Broad cross-sectoral adoption of the Sound Safe Infrastructure Initiative and understanding of<br>
+            <p>1. Broad cross-sectoral adoption of the Sound Safe Infrastructure Initiative and understanding of
               the benefits it presents to the restoration and transportation communities.<br>
-              2. Establish and strengthen the system of collaboration for restoration and transportation sectors,<br>
+              2. Establish and strengthen the system of collaboration for restoration and transportation sectors,
               rooted in shared values and goals.<br>
-              3. Increase communication and coordination of project planning and implementation to support<br>
+              3. Increase communication and coordination of project planning and implementation to support
               efficient investments in ecosystem restoration, salmon recovery, and transportation networks.<br>
-              4. Create a funding landscape that is supportive of the restoration and transportation work needed<br>
-              for ecosystem and salmon recovery. Increase awareness of funding opportunities and reduce barriers<br>
+              4. Create a funding landscape that is supportive of the restoration and transportation work needed
+              for ecosystem and salmon recovery. Increase awareness of funding opportunities and reduce barriers
             to project application and implementation.</p>
             <h2><strong>Contact</strong><strong>&nbsp;</strong></h2>
             <p><strong>Bebbhin Gilbert</strong><u></u></p>
+            <p>Restoration and Transportation Funding Strategist</p>
+			<p>360.870.1467 |<a href="mailto:bebhinn.gilbert@psp.wa.gov"> bebhinn.gilbert@psp.wa.gov</a></p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 4/4/24</p>
+		<p class="last-update">Last updated: 5/8/24</p>
 
         <!-- InstanceEndEditable --> </div>
 		
