@@ -52,7 +52,15 @@ a[href^="http"] {
 	padding-left: 0px;
 }
 /*created this to make some email addresses smaller to fit in a table on the lead entities page*/
-
+.height {
+	height: 100%;
+}
+.heightVH {
+	height: 100VH;
+}
+.height50 {
+	height: 50px;
+}
 .orange-outline {
 	border: solid 2px #E99348;
 }
@@ -290,8 +298,14 @@ display: block
 .padding-80-top {
 	padding-top: 80px;
 }
+.padding-100-top {
+	padding-top: 100px;
+}
 .padding-150-top {
-	padding-top: 20px;
+	padding-top: 150px;
+}
+.padding-250-top {
+	padding-top: 250px;
 }
 /*padding right*/
 .padding-0-right {
@@ -374,8 +388,14 @@ display: block
 .margin-50-top {
 	margin-top: 50px;
 }
+.margin-100-top {
+	margin-top: 100px;
+}
 .margin-150-top {
 	margin-top: 150px;
+}
+.margin-250-top {
+	margin-top: 250px;
 }
 /*margin right*/
 .margin-0-right {
