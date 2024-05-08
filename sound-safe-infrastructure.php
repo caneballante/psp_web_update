@@ -122,7 +122,7 @@ navSelected = 1;
               for ecosystem and salmon recovery. Increase awareness of funding opportunities and reduce barriers
             to project application and implementation.</p>
             <h2><strong>Contact</strong><strong>&nbsp;</strong></h2>
-            <p><strong>Bebbhin Gilbert</strong><u></u></p>
+            <p><strong>Bebhinn Gilbert</strong><u></u></p>
             <p>Restoration and Transportation Funding Strategist</p>
 			<p>360.870.1467 |<a href="mailto:bebhinn.gilbert@psp.wa.gov"> bebhinn.gilbert@psp.wa.gov</a></p>
 			
