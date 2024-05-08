@@ -56,7 +56,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Climate commitment act</h1>
+			<h1>Climate commitment act - PSAR</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -69,7 +69,7 @@
 				
 				<li class="active" role="presentation"> <a href="PSAR.php">PSAR OVERVIEW</a></li>
 				<li class="active" role="presentation"> <a href="PSAR-resources.php">PSAR RESOURCES</a></li>
-				<li class="active" role="presentation"> <a href="PSAR-CCA.php">CLIMATE COMMITMENT ACT (CCA)</a></li>
+				<li class="active" role="presentation"> <a href="PSAR-CCA.php">CLIMATE COMMITMENT ACT (CCA - PSAR)</a></li>
 					<hr/>
 					<hr/>
 				<!-- InstanceEndEditable -->
@@ -80,35 +80,38 @@
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<div class="highlightbox margin-0-top margin-20-bottom">
 			<p></p>
-			<span class="caption left-align">The Puget Sound Acquition and Restoration (PSAR) program is supported with funding from Washington’s <strong>Climate Commitment Act</strong>. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="http://www.climate.wa.gov">www.climate.wa.gov</a>.<br>
+			<span class="caption left-align">The Puget Sound Acquition and Restoration (PSAR) program is partially supported with funding from Washington’s <strong>Climate Commitment Act</strong>. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="http://www.climate.wa.gov">www.climate.wa.gov</a>.<br>
             <img class="img-responsive" src="images/CCA-primary-logo.png" width="309" height="156" alt=""/></span></div>
 			<div class="container-fluid margin-0-top">
 				<div class="row"></div>
 				<div class="h-divider"></div>
 			<div>
 			  <p class="margin-20-top">In 2021, Governor Jay Inslee signed the Climate Commitment Act (CCA). The CCA created a 
-				  program that requires the state’s largest polluters to reduce greenhouse gas pollution.				  Greenhouse gases, such as carbon dioxide and methane, trap the sun’s heat and are raising the<br>
+				  program that requires the state’s largest polluters to reduce greenhouse gas pollution.				  Greenhouse gases, such as carbon dioxide and methane, trap the sun’s heat and are raising the 
 				  temperature of the earth.</p>
 				<p class="margin-20-top">				  The CCA is the centerpiece of the state’s climate action efforts. Money from the program will 
 				  support thousands of projects that reduce pollution and improve the environment. Some of 
-				  that money has been and likely will be invested in projects to improve shorelines and<br>
+				  that money has been and likely will be invested in projects to improve shorelines and
 				  waterways for salmon, which also benefit humans and can help reduce climate change.</p>
 				<p class="margin-20-top">For 2023, the first year in which CCA funds were available, PSAR received $10.1 million from the 
 				  CCA out of the total Capital Budget appropriation of $59.2 million. This combined investment
-				  resulted in full funding of the Puget Sound Acquisition and Resotoration (PSAR) program for the first time ever including 8 large scale capital
+				  resulted in full funding of the PSAR program for the first time ever including 8 large scale capital
 				  projects!</p>
 				<p class="margin-20-top"> Under the CCA, applicants for funding must share information about the proposed project with
 				  tribal partners and offer to discuss the project. In addition, State Agencies that administer grant
 				  programs that could receive CCA funding must offer consultation to federally recognized tribes.</p>
 				<p class="margin-20-top">				  The following project lists have been developed to support the notice requirements. Included is
 				  the initial project information from applicants in a list format, and a map of the projects that
-				  are moving forward in the grant round. The information will be updated after final applications<br>
+				  are moving forward in the grant round. The information will be updated after final applications
 				  are received after May 21, 2024. Projects may change from initial to final application.</p>
 				<p class="margin-20-top"><b>Proposed Projects:</b><br>
 				  ➢ List of 2025-2027 PSAR Large Capital Project applications submitted for first round
 				  review.<br>
 				  ➢ Map of 2025-2027 PSAR Large Capital proposed projects invited to submit final
 				  applications.		</p>
+				<b><p class="margin-20-top">PSAR Large Capital project proposals map FY2024</p></b>
+				<p class="margin-20-top"><img src="images/PSAR/psarccamap.PNG" width="767" height="689" alt=""/></p>
+				<p class="margin-20-top">A more detailed view of the map can be found here [LINK COMING].</p>
 		</div>
 			<hr />
 		<div class="row margin-10-top"><br>
@@ -121,7 +124,7 @@
 			<div>
 				<div> </div>
 			</div>
-	<p class="last-update">Last updated: 05/07/24</p>
+	<p class="last-update">Last updated: 05/08/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>

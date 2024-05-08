@@ -69,6 +69,7 @@
 				
 				<li class="active" role="presentation"> <a href="PSAR.php">PSAR OVERVIEW</a></li>
 				<li class="active" role="presentation"> <a href="PSAR-resources.php">PSAR RESOURCES</a></li>
+				<li class="active" role="presentation"> <a href="PSAR-CCA.php">CLIMATE COMMITMENT ACT (CCA - PSAR)</a></li>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
