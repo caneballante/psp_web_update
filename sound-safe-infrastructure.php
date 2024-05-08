@@ -86,7 +86,7 @@ navSelected = 1;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-			<p><b>The Sound Safe Infrastructure initiative</b> is our vision of how we integrate transportation and restoration,<br>
+			<p><b>The Sound Safe Infrastructure initiative</b> is our vision of how we integrate transportation and restoration,
 			  and the benefits it will have for Puget Sound ecosystem recovery and the transportation sector. Through
 			  Sound Safe Infrastructure we aim to build on and strengthen the alignment between transportation and
 			  Puget Sound ecosystem and salmon recovery to fundamentally unite the restoration and transportation
