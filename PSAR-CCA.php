@@ -105,13 +105,11 @@
 				  are moving forward in the grant round. The information will be updated after final applications
 				  are received after May 21, 2024. Projects may change from initial to final application.</p>
 				<p class="margin-20-top"><b>Proposed Projects:</b><br>
-				  ➢ List of 2025-2027 PSAR Large Capital Project applications submitted for first round
-				  review.<br>
-				  ➢ Map of 2025-2027 PSAR Large Capital proposed projects invited to submit final
-				  applications.		</p>
-				<b><p class="margin-20-top">PSAR Large Capital project proposals map FY2024</p></b>
+				  ➢ <a href="https://pspwa.box.com/s/c4obilmp4wgi1hnz8s4zd01mjxcu4j1u"> List of 2025-2027 PSAR Large Capital Project applications submitted for first round review.</a>
+				  <br>
+			    ➢ <a href="https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae"> Map of 2025-2027 PSAR Large Capital proposed projects invited to submit final applications.</a></p>
 				<p class="margin-20-top"><img src="images/PSAR/psarccamap.PNG" width="767" height="689" alt=""/></p>
-				<p class="margin-20-top">A more detailed view of the map can be found here [LINK COMING].</p>
+				<p class="margin-20-top">&nbsp;</p>
 		</div>
 			<hr />
 		<div class="row margin-10-top"><br>
