@@ -78,7 +78,7 @@ navSelected = 3;
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-			<div>				<img class="img-responsive floatright" src="images/CCA-primary-logo.png" width="309" height="156" alt=""/>	
+			<div>				<img class="img-responsive floatleft" src="images/CCA-primary-logo.png" width="309" height="156" alt="Climate Commitment Act logo"/>	
 			<p> The Puget Sound Acquition and Restoration (PSAR) program is partially supported with funding from Washington’s <strong>Climate Commitment Act</strong>. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="http://www.climate.wa.gov">www.climate.wa.gov</a>.<br>
             	</p>
 		</div>
@@ -108,6 +108,9 @@ navSelected = 3;
 				  <br>
 			    ➢ <a href="https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae"> Map of 2025-2027 PSAR Large Capital proposed projects invited to submit final applications.</a></p>
 				<p class="margin-20-top"><img src="images/PSAR/PSARCCAmap2.png" width="825" height="638.5" alt="Map of 2025-2027 PSAR Large Capital proposed projects"/></p>
+				<iframe src=”https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae” width="900" height="820" alt="Map of 2025-2027 PSAR Large Capital proposed projects">
+</iframe>
+
 				<p class="margin-20-top">&nbsp;</p>
 		</div>
 			<hr />

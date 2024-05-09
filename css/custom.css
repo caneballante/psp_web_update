@@ -563,6 +563,9 @@ display: block
 .border-thin-blue {
 	 border: solid #0a3b5c 1px;
 }
+.floatleft{
+	float: left;
+}
 .floatright{
 	float: right;
 }
