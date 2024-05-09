@@ -71,11 +71,7 @@ navSelected = 3;
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
 				
-				<li class="active" role="presentation"> <a href="PSAR.php">PSAR OVERVIEW</a></li>
-				<li class="active" role="presentation"> <a href="PSAR-resources.php">PSAR RESOURCES</a></li>
-				<li class="active" role="presentation"> <a href="PSAR-CCA.php">CLIMATE COMMITMENT ACT (CCA - PSAR)</a></li>
-					<hr/>
-					<hr/>
+				<?php include 'includes/ln-psar.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
