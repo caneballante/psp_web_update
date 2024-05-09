@@ -80,9 +80,6 @@ navSelected = 3;
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 				<p> The Puget Sound Acquition and Restoration (PSAR) program is partially supported with funding from Washington’s <strong>Climate Commitment Act</strong>. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="http://www.climate.wa.gov">www.climate.wa.gov</a>.<br>
             	<img class="img-responsive" src="images/CCA-primary-logo.png" width="309" height="156" alt=""/></p>
-			<div class="container-fluid margin-0-top">
-			<div class="row"></div>
-			<div class="h-divider"></div>
 			<div>
 			  <p class="margin-20-top">In 2021, Governor Jay Inslee signed the Climate Commitment Act (CCA). The CCA created a 
 				  program that requires the state’s largest polluters to reduce greenhouse gas pollution.				  Greenhouse gases, such as carbon dioxide and methane, trap the sun’s heat and are raising the 
