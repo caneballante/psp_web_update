@@ -109,7 +109,7 @@ navSelected = 3;
 				  <br>
 			    ➢ <a href="https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae"> Map of 2025-2027 PSAR Large Capital proposed projects invited to submit final applications.</a></p>
 		</div>
-			<iframe src= "https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae" width="900" height="820" alt="Map of 2025-2027 PSAR Large Capital proposed projects">
+			<iframe src= "https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae" width="100%" height="820" alt="Map of 2025-2027 PSAR Large Capital proposed projects">
 </iframe>
 
 			<hr />
