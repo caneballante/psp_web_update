@@ -36,6 +36,7 @@
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
 navSelected = 3;	
 </script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
