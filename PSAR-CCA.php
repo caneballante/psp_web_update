@@ -110,6 +110,9 @@ navSelected = 3;
 			  <p class="margin-20-top"><img src="images/PSAR/PSARCCAmap.png" width="825" height="638.5" alt="Map of 2025-2027 PSAR Large Capital proposed projects"/></p>
 			  <p class="margin-20-top">&nbsp;</p>
 		</div>
+			<iframe src= "https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae" width="900" height="820" alt="Map of 2025-2027 PSAR Large Capital proposed projects">
+</iframe>
+
 			<hr />
 		<div class="row margin-10-top"><br>
 		</div>
