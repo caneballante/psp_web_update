@@ -60,7 +60,7 @@
 						<h1>Raising awareness to recover Puget Sound!</h1>
 						<p>Dates: May 13-16, 2024 Location: Washington D.C. </p>
 
-						<div class="learn-more-box no-icon fontweight-400"><a href="http://www.psdoth.com">LEARN MORE</a></div>
+						<div class="learn-more-box no-icon fontweight-400"><a href="http://www.psdoth.org">LEARN MORE</a></div>
 					</div>
 				</div>
 			</div>
