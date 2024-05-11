@@ -36,6 +36,7 @@
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
 navSelected = 3;	
 </script>
+	
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -107,9 +108,10 @@ navSelected = 3;
 				  ➢ <a href="https://pspwa.box.com/s/c4obilmp4wgi1hnz8s4zd01mjxcu4j1u"> List of 2025-2027 PSAR Large Capital Project applications submitted for first round review.</a>
 				  <br>
 			    ➢ <a href="https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae"> Map of 2025-2027 PSAR Large Capital proposed projects invited to submit final applications.</a></p>
-			  <p class="margin-20-top"><img src="images/PSAR/PSARCCAmap.png" width="825" height="638.5" alt="Map of 2025-2027 PSAR Large Capital proposed projects"/></p>
-			  <p class="margin-20-top">&nbsp;</p>
 		</div>
+			<iframe src= "https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae" width="100%" height="820" alt="Map of 2025-2027 PSAR Large Capital proposed projects">
+</iframe>
+
 			<hr />
 		<div class="row margin-10-top"><br>
 		</div>
