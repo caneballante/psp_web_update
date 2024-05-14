@@ -261,7 +261,7 @@
 						 360.529.6570 |<a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov </a></p>
 
 						 <h5>VACANT</h5>
-						<p>Adaptive Systems Lead<br />
+						<p>Progress Indicator Lead<br />
 						
 			
 						<h5>Laura Vary</h5>
@@ -375,7 +375,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 5/10/24</p>
+	<p class="last-update">Last updated: 5/14/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
