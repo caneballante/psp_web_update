@@ -59,8 +59,8 @@
 						<h1><strong>2023 State of the Sound	</strong></h1>
 						<p><strong>The State of the Sound assesses the health of the Puget Sound ecosystem and progress towards its recovery</strong></p>
 
-<<<<<<< HEAD
-						<div class="learn-more-box no-icon fontweight-400"><a href="http://www.psdoth.org">LEARN MORE</a></div>
+
+						
 =======
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
 							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://stateofthesound.wa.gov">LEARN MORE ABOUT THE REPORT</a></div>
@@ -72,7 +72,7 @@
 							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/v5yuglnxawmwfyl1t1e7y33riydpclpn.pdf">STATE OF THE SOUND EN ESPANOL</a></div>
 						</div>
 						
->>>>>>> parent of 231cd7fd (2024PSDOTH)
+
 					</div>
 				</div>
 			</div>
