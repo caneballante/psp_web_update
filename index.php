@@ -130,6 +130,7 @@
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
 			<div class="padding-5-bottom"><a href="strategic-funding-program.php"><span class="new-red">NEW! </span>Strategic Funding Program</a></div>
 			<div class="padding-5-bottom"><a href="psraft.php"><span class="new-red">NEW! </span>Puget Sound RAFT - Recovery Acceleration Funding Tool</a></div>
+			<div class="padding-5-bottom"><a href="/PSAR-CCA.php"><span class="new-red">NEW! </span>PSAR Climate Commitment Act</a></div>
 			<div class="padding-5-bottom"><a href="funding.php">Science and Monitoring Funding opportunities</a></div>
 			<div class="padding-5-bottom"><a href="federal-support.php">Federal support for Puget Sound recovery</a></div>
 			<div class="padding-5-bottom"><a href="government-relations.php">2024 legislative session</a></div>
@@ -194,8 +195,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/nora-nickum.jpg"  alt="Headshot photo of Nora Nickum, senior ocean policy manager at the Seattle Aquarium and author of books and magazine articles for kids."/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2023/06/09/making-waves-conversations-nora-nickum/">Nora Nickum on her new book, "Superpod: Saving the Endangered Orcas of the Pacific Northwest"</a><br>
+						<img class="img-responsive img-rounded" src="images/2024PSDOTH_Logo.png"  alt="Puget Sound Day on the Hill 2024 logo"/> <strong>Puget Sound Day on the Hill 2024</strong><br>
+						<a href="https://psdoth.org/">Raising awareness to recover puget sound - May 13-17, 2024</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -265,8 +266,8 @@
 				<div class="newsbox calendarbox"> 
 						<!--news content -->
 					<div class="newsbox-date">MAY<br>
-					9</div>
-					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
+					23</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
 						<br>
 						</a><br>
 					</div>
@@ -278,9 +279,9 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">MAY<br>
-					23</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
+					<div class="newsbox-date">June<br>
+					5&6</div>
+					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
 						<br>
 						</a><br>
 					</div>
@@ -292,9 +293,9 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
-					<div class="newsbox-date">JUNE<br>
-5&amp;6</div>
-					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
+					<div class="newsbox-date">July<br>
+17&amp;18</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
 						<br>
 						</a><br>
 					</div>
@@ -307,8 +308,8 @@
 				<div class="newsbox calendarbox"> 
 					<!--news content -->
 					<div class="newsbox-date">JULY<br>
-					17&amp;18</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
+					25</div>
+					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
 						<br>
 						</a><br>
 					</div>
