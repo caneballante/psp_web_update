@@ -51,16 +51,18 @@
 		</div>
 	</div>
 </header>-->
-	<header class="intro-PSDOTH">
+	<header class="intro-HEAL">
 		<div class="intro-body">
 			<div class="container-fluid margin-40-top">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
-						<img src="images/2024PSDOTH_logo.png" width="357" height="337" alt=""/>
-						<h1>Raising awareness to recover Puget Sound!</h1>
-						<p>Dates: May 13-16, 2024 Location: Washington D.C. </p>
+						<img src="images/HealAct-logo-wte.png" alt="" width="440" height="210"/><br>
 
-						<div class="learn-more-box no-icon fontweight-400"><a href="http://www.psdoth.com">LEARN MORE</a></div>
+					
+						<p>The passage of the Healthy Environment for All (HEAL) Act in 2021 identifies the Partnership as one of seven agencies mandated to develop policies and programs most directly impactful to environmental justice </p>
+
+						<div class="learn-more-box no-icon fontweight-400"><a href="https://www.psp.wa.gov/HEAL-environmental-justice-assessments.php">LEARN ABOUT OUR LATEST PROGRESS: ENVIRONMENTAL JUSTICE ASSESSMENTS</a></div>
+						
 					</div>
 				</div>
 			</div>
