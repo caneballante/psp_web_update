@@ -181,8 +181,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/samish-bay.jpg"  alt="Aerial photo of shellfish beds in Samish Bay. Photo from Sakgit County Public Works"/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/02/protecting-and-restoring-shellfish-beds/">Protecting and restoring shellfish beds throughout Puget Sound</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/FriendlyShorescrop.jpg"  alt="Photo of a shell-filled muddy shore."/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2024/05/17/friendly-shores/">Shore Friendly: Protecting your property and Puget Sound</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
@@ -195,8 +195,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/2024PSDOTH_Logo.png"  alt="Puget Sound Day on the Hill 2024 logo"/> <strong>Puget Sound Day on the Hill 2024</strong><br>
-						<a href="https://psdoth.org/">Raising awareness to recover puget sound - May 13-17, 2024</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/NisquallyBridgeShot-300x225.jpg"  alt="An aerial photo of the Nisqually Bridge."/> <strong>Making Waves</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2024/05/17/sound-safe-infrastructure/">Sound Safe: Building a future with resilient infrastructure and ecosystems</a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -208,8 +208,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/Cedar-overpass-web.jpg"  alt="Photo of an overpass over the Cedar River"/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/03/preventing-stormwater-pollution/">Preventing stormwater pollution protects what we care about</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/ResilientFloodplainscrop.jpg"  alt="A photo of a whale surfacing from the water."/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2024/05/17/resilient-floodplains-for-people-and-salmon/">Resilient floodplains for people and salmon</a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -247,8 +247,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/PSDOTHStill2PlayWeb.jpg"  alt="Screenshot from the Puget Sound Geographic Program video that shows a boat moving through Puget Sound with a semi-transparent play button superimposed on the screenshot to indicate this is a video"/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2023/05/07/puget-sound-geographic-program-funds/">Puget Sound Geographic Program funds at work</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/NavigatingDepthscrop.jpg"  alt="Screenshot from the Puget Sound Geographic Program video that shows a boat moving through Puget Sound with a semi-transparent play button superimposed on the screenshot to indicate this is a video"/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/index.php/2024/05/17/navigating-the-depths/">The Cetacean Desk's marine mission for the Southern Resident killer whales.</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
