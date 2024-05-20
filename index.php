@@ -105,6 +105,7 @@
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> Salmon recovery</a></div>
 			<div class="padding-5-bottom"><a href="PSAR.php">Puget Sound Acquisition and Restoration (PSAR)&nbsp;program</a></div>
+			<div class="padding-5-bottom"><a href="https://pspwa.box.com/s/2k2bkn5uivi7yoxchjsnn4fn8knzs8v2"><span class="new-red">NEW! </span>Climate Commitment Act funding and investments fact sheet</a></div>
 			<div class="padding-5-bottom"><a href="NEP-overview.php">National Estuary Program (NEP)</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">Local recovery and Local Integrating Organizations (LIOs)</a></div>
 			<div class="padding-5-bottom"><a href="pspnc.php">Puget Sound Nearshore Credits</a></div>
