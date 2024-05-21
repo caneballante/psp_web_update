@@ -78,7 +78,26 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		
+			
+			<div class="highlightbox margin-0-top margin-20-bottom"><h2 class=margin-0-top>The 2024 Puget Sound Salmon Recovery Plan Addendum (Addendum) schedule: </h2><ul class="bullet-size-fix">
+				<li>January 8 to February 21: Public comment period for draft Addendum.* </li>
+				<li>January 8 to March 14: First Tribal Consultation period for draft Addendum.  </li>
+				<li>May 1 to June 14: Second Tribal Consultation period for revised Addendum. </li>
+				<li>May 23: The Salmon Recovery Council discusses revised version. </li>
+				<li>June 5 to 6: The Leadership Council discusses revised version. </li>
+				<li>July 25: The Salmon Recovery Council reviews and discusses the final Addendum draft. </li>
+				<li>September 11 to 12: The Leadership Council reviews and discusses the final Addendum draft. </li>
+				<li>September 26: The Salmon Recovery Council votes to recommend the Leadership Council approve the Addendum. </li>
+				<li>December 11: The Leadership Council considers approval of the Addendum. </li>
+				</ul>
+			
+				<p><em>*All public comments and responses will be made publicly available following the finalization and adoption of the Addendum.</em></p>
+			
+				<h3>Background</h3>
+				<p>The Addendum is an update to the Regional Chapter of the 2007 Puget Sound Salmon Recovery Plan and serves as a guide to inform the work of the region and ensure accountability. It highlights what is going well and addresses issues not included in the Regional Chapter of the original Plan. The strategies and actions integrate recommendations from recent processes such as the <a href="https://orca.wa.gov/progress/all-recommendations/" target="new">Southern Resident Killer Whale Task Force</a>, <a href="/SR_about.php" target="new">Puget Sound Salmon Recovery Council (PSSRC)</a>, <a href="https://pspwa.box.com/s/27jiyo5c7c35pcumk9alqmkhn56eslgg" target="new">Bold Actions</a>, and <a href="/implementation-strategies.php" target="new">Implementation Strategies</a>. The Addendum builds on the original Plan by identifying new approaches, roles, responsibilities, incorporating new research and findings, providing specific actions for the recovery community, and determining gaps in implementation and providing suggestions for how to fill them. Finally, the Addendum documents expectations to clearly delineate roles in salmon recovery.</p>
+				
+				<p>If you have questions about the Addendum, please reach out to Ashley Bagley, Salmon Policy Advisor, at <a href="mailto:ashley.bagley@psp.wa.gov">ashley.bagley@psp.wa.gov</a>. </p>
+			</div>
 		
 			<p>Using the Puget Sound Salmon Recovery Plan as a guide, the Partnership is committed to working with local stakeholders and communities, tribes, businesses, anglers, agriculture, environmental interest groups, and state and federal agencies to identify, sequence, prioritize, and implement projects and programs to recover salmon in Puget Sound. Salmon recovery work in Puget Sound watersheds is the cornerstone of broader Puget Sound recovery efforts. The Partnership coordinates and funds both local salmon recovery and large-scale protection and restoration efforts through the Puget Sound Acquisition and Restoration (PSAR) program. </p>
 		<h4>Salmon recovery honors tribal treaty rights.</h4>
