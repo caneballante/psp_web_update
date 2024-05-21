@@ -105,7 +105,8 @@ navSelected = 3;
 				  are moving forward in the grant round. The information will be updated after final applications
 				  are received after May 21, 2024. Projects may change from initial to final application.</p>
 				<p class="margin-20-top"><b>Proposed Projects:</b><br>
-				  ➢ <a href="https://pspwa.box.com/s/c4obilmp4wgi1hnz8s4zd01mjxcu4j1u"> List of 2025-2027 PSAR Large Capital Project applications submitted for first round review.</a>
+				  ➢ <a href="https://pspwa.box.com/s/c4obilmp4wgi1hnz8s4zd01mjxcu4j1u"> List of 2025-2027 PSAR Large Capital Project applications submitted for first round review.</a><br>
+					➢ <a href="https://pspwa.box.com/s/gvflymebbrnl9vpwhilcgsd5yrnvsw63">  List of 2025-2027 PSAR Large Capital Project applications submitted for final round review.</a>
 				  <br>
 			    ➢ <a href="https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae"> Map of 2025-2027 PSAR Large Capital proposed projects invited to submit final applications.</a></p>
 		</div>
@@ -123,7 +124,7 @@ navSelected = 3;
 			<div>
 				<div> </div>
 			</div>
-	<p class="last-update">Last updated: 05/08/24</p>
+	<p class="last-update">Last updated: 05/21/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
