@@ -183,7 +183,7 @@
 		<p>The <a href="http://www.psp.wa.gov/PSAR.php"><strong>Puget Sound Acquisition and Restoration</strong></a> <strong>(PSAR)</strong> program has contributed funding to projects that restore and protect salmon habitat throughout Puget Sound. To date, PSAR has invested over $200 million in project which have protected more than 9,600 acres, treated more than 2,700 acres of estuary habitat, and restored in-stream and riparian habitat in and along thousands of river miles.</p>
 		<p><a href="https://stateofsalmon.wa.gov/puget-sound/"><strong>State of the Salmon in Watersheds</strong></a><strong> </strong>is prepared by the Governor's Salmon Recovery Office every two years to report on the status of salmon and habitat across the state. </p>
 			
-			<p class="last-update">Last updated: 4/4/24</p>
+			<p class="last-update">Last updated: 5/21/24</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
