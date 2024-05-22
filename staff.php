@@ -145,17 +145,17 @@
 						<p>Puget Sound Recovery Integration Manager<br>
 							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
 
-						<h5>Matthew Colston</h5>
-						<p>Puget Sound Recovery Strategist<br>
-							360.968.9924 | <a href="mailto:matthew.colston@psp.wa.gov">matthew.colston@psp.wa.gov</a></p>
+						<h5>VACANT</h5>
+						<p>Puget Sound Recovery Strategist<br></p>
 			
 						<h5>Juliana Tadano</h5>
 						<p>Puget Sound Recovery Strategist<br/>
 							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
 							</p>
 			
-						<h5>VACANT</h5>
-						<p>Puget Sound Recovery Strategist<br></p>
+						<h5>Peter Ravella</h5>
+						<p>Puget Sound Recovery Strategist<br>
+							360.972.4054 | <a href="mailto:peter.ravella@psp.wa.gov">peter.ravella@psp.wa.gov</a></p>
 						
 						<!--STRATEGIC FUNDING PROGRAM-->
 						<h3 class="padding-10-top">Strategic Funding Program</h3>
@@ -375,7 +375,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 5/14/24</p>
+	<p class="last-update">Last updated: 5/22/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
