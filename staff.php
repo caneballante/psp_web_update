@@ -88,15 +88,15 @@
 						<h5>Todd Hass</h5>
 						<p> Special Assistant to the Director<br />
 							360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br /></p>
-	
-						<h5>VACANT</h5>
-						<p>Equity and Environmental Justice Manager<br />
-							</p>
 			
 						<h5>Lea Anne Burke</h5>
 						<p>Tribal Affairs Manager<br>
 						360.628.7532 | <a href="mailto:lea-anne.burke@psp.wa.gov">lea-anne.burke@psp.wa.gov</a></p>
-			
+	
+						<h5>VACANT</h5>
+						<p>Equity and Environmental Justice Manager<br />
+							</p>
+				
 						<h5>Signe Lindquist</h5>
 						<p>Community Engagement Coordinator<br>
 						360.688.4049 | <a href="mailto:signe.lindquist@psp.wa.gov">signe.lindquist@psp.wa.gov</a></p>
@@ -298,7 +298,7 @@
 						<p>	Monitoring Performance Analyst/Salmon Scientist <br>
 							360.584.5306 | <a href="mailto:annelise.delrio@psp.wa.gov">annelise.delrio@psp.wa.gov</a></p>
 						<h5>Megan Wilson</h5>
-						<p>Salmon Monitoring Data Steward<br>
+						<p>Salmon Scientist<br>
 							360.522.0546 | <a href="mailto:megan.wilson@psp.wa.gov">megan.wilson@psp.wa.gov</a></p>
 						<h5>Rebecca Hollender</h5>
 						<p>Social Sciences Coordinator<br>
@@ -375,7 +375,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 5/22/24</p>
+	<p class="last-update">Last updated: 5/23/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
