@@ -92,6 +92,10 @@
 						<h5>Lea Anne Burke</h5>
 						<p>Tribal Affairs Manager<br>
 						360.628.7532 | <a href="mailto:lea-anne.burke@psp.wa.gov">lea-anne.burke@psp.wa.gov</a></p>
+			
+						<h5>Ahren Stroming</h5>
+						<p>Special Assistant for Federal Affairs<br />
+							360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
 	
 						<h5>VACANT</h5>
 						<p>Equity and Environmental Justice Manager<br />
@@ -106,9 +110,7 @@
 						<p>Equity Fellow<br>
 						360.480.0475 | <a href="mailto:jackelyn.garcia@psp.wa.gov">jackelyn.garcia@psp.wa.gov</a></p>
 			
-						<h5>Ahren Stroming</h5>
-						<p>Special Assistant for Federal Affairs<br />
-							360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
+						
 
 						<!--GOVERNMENTAL RELATIONS-->
 						<h3 class="padding-10-top">GOVERNMENTAL RELATIONS</h3>
