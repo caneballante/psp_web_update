@@ -85,18 +85,6 @@
 						<p> Executive Assistant<br />
 							360.870.6664 | <a href="mailto:chrystal.andoh@psp.wa.gov">chrystal.andoh@psp.wa.gov</a></p>
             
-						<h5>Todd Hass</h5>
-						<p> Special Assistant to the Director<br />
-							360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br /></p>
-			
-						<h5>Lea Anne Burke</h5>
-						<p>Tribal Affairs Manager<br>
-						360.628.7532 | <a href="mailto:lea-anne.burke@psp.wa.gov">lea-anne.burke@psp.wa.gov</a></p>
-			
-						<h5>Ahren Stroming</h5>
-						<p>Special Assistant for Federal Affairs<br />
-							360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
-	
 						<h5>VACANT</h5>
 						<p>Equity and Environmental Justice Manager<br />
 							</p>
@@ -117,6 +105,18 @@
 						<h5>Don Gourlie</h5>
 						<p>Legislative Policy Director<br />
 						360.688.3253 | <a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov </a> </p>
+			
+						<h5>Todd Hass</h5>
+						<p> Special Assistant to the Director<br />
+							360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br /></p>
+			
+						<h5>Lea Anne Burke</h5>
+						<p>Tribal Affairs Manager<br>
+						360.628.7532 | <a href="mailto:lea-anne.burke@psp.wa.gov">lea-anne.burke@psp.wa.gov</a></p>
+			
+						<h5>Ahren Stroming</h5>
+						<p>Special Assistant for Federal Affairs<br />
+							360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
 						<!--EXTERNAL OPERATIONS-->
 						<h1 class="padding-20-top padding-20-bottom">EXTERNAL OPERATIONS DIVISION</h1>
 						<h5>Larry Epstein</h5>
@@ -377,7 +377,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 5/23/24</p>
+	<p class="last-update">Last updated: 5/24/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
