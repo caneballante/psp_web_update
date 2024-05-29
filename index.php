@@ -58,12 +58,8 @@
 					<div class="col-md-8 col-md-offset-2">
 						<h1><strong>2023 State of the Sound	</strong></h1>
 						<p><strong>The State of the Sound assesses the health of the Puget Sound ecosystem and progress towards its recovery</strong></p>
-
-
-						
-=======
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://stateofthesound.wa.gov">LEARN MORE ABOUT THE REPORT</a></div>
+						  <div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://stateofthesound.wa.gov">LEARN MORE ABOUT THE REPORT</a></div>
 						</div>
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
 							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/ijudsxn5pcnl614485td4lgwc3j4wcmi.pdf">STATE OF THE SOUND IN ENGLISH </a></div>
