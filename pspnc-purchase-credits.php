@@ -98,7 +98,7 @@
 				<li><p>The Army Corps of Engineers submits the permit applicant’s calculator as part of a consultation package to NOAA Fisheries.</p></li>
 				<li><p>NOAA Fisheries works with applicants to avoid and minimize infrastructure and maintenance project-related impacts to nearshore habitat. Unavoidable impacts will require conservation offsets.</p></li>
 				<li><p>NOAA Fisheries verifies the amount of outstanding conservation necessary to account for unavoidable impacts and informs the Partnership of the finalized calculator total.</p></li>
-				<li class="no-icon"><button class="button3"><a href="https://wa-pspsign.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAG8UNV0sn_SVY4luxHRtCYhE7tavvL8G_EO79rvnm6O7RvdQR7wxuyL-OWZqdjekA*" target="new" style="color:white"><p class="PSPNC-font">Federal permit applicant submits project information and NMFS-verified final calculator.</p></a></button></li>
+				<li class="no-icon"><button class="button3"><a href="https://wa-pspsign.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAPNVOqnwNj4M_qZyKBJgWQqQLmTRkjVfGZrEex4iVEzVG06RRzf8i00WLqmpBCZSU*" target="new" style="color:white"><p class="PSPNC-font">Federal permit applicant submits project information and NMFS-verified final calculator.</p></a></button></li>
 				<li><p>Partnership verifies eligibility, requests any additional data, and provides presale agreement to the permittee for signature. </p></li>
 				<li><p><strong>Federal permit applicant</strong> and Partnership sign conservation credit presale agreement. Permittee may use the fully executed conservation credit presale agreement to satisfy outstanding conservation obligations, per their final Reasonable and Prudent Alternative decision from NOAA Fisheries.</p></li>
 				<li><p><strong>Federal permit applicant</strong> submits full payment and the Partnership confirms transfer of credit responsibility. Payment must be received by the expiration date in the presale agreement.</p></li>
@@ -109,7 +109,7 @@
 			
 			<h3>How do I submit a credit purchase request for Partnership Nearshore Credits?</h3>
 				
-				<p>Fill out the credit purchase request form here: <a href="https://wa-pspsign.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAG8UNV0sn_SVY4luxHRtCYhE7tavvL8G_EO79rvnm6O7RvdQR7wxuyL-OWZqdjekA*" target="new">Adobe Acrobat Sign</a>.</p>
+				<p>Fill out the credit purchase request form here: <a href="https://wa-pspsign.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAPNVOqnwNj4M_qZyKBJgWQqQLmTRkjVfGZrEex4iVEzVG06RRzf8i00WLqmpBCZSU*" target="new">Adobe Acrobat Sign</a>.</p>
 			
 			
 			<h3>Are there other credit providers besides the Partnership?</h3>
@@ -130,7 +130,7 @@
 			<button class="button7"><a href="/pspnc-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 
-			<p class="last-update">Last updated: 9/7/23</p>
+			<p class="last-update">Last updated: 6/5/24</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
