@@ -60,7 +60,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Principles of Partner Respect and Engagement</h1>
+			<h1><a href="https://pspwa.app.box.com/file/1470222318399?s=3dlwt9zbeaxc1qfkemy53q5kndq86zs3">Principles of Partner Respect and Engagement</a></h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -79,7 +79,8 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Puget Sound Partnership operates at its best when we create collaboration where  people can be brave with their ideas, where healthy dialogue can take place  with different viewpoints, and where accountability is present. Our natural  resource community collectively is more successful and productive when we show  mutual respect, validate each other&rsquo;s perspectives, and remain aware of our  effect on others, especially when conversations are difficult. </p>
-<p>Below are each of the four Core Principles of Engagement and a brief description of how we understand each one, what we expect, and what we seek from it.</p>
+			<p>You can learn more about our Principles of Partner Respect Engagement on this page, or by <a href="Core Principles of Engagement" target="new">downloading our PDF with a letter from Laura Bradstreet, executive director of the Puget Sound Partnership</a>. </p>
+<p>Below are each of the four Core Principles of Engagement and a brief description of how we understand each one, what we expect, and what we seek from it. </p>
 			<img class="img-responsive" src="images/PSPCorePrincipleEngagement_03.jpg" alt="" width="919" height="919"/>
 			<h2>Commitment  to Safety and Respectful Engagement</h2>
 			<p>The Partnership promotes a safe and productive working environment sponsored by its agency, councils, and boards. Informed by  the guidance provided by the Equal Employment Opportunity Commission (EEOC),  the Partnership will respond appropriately to reports of harassment against employees by non-employees, including independent contractors or customers  participating in Partnership activities and on the premises, or remove  communications facilitated by the Partnership. </p>
@@ -96,7 +97,7 @@
 			<a href="https://governor.wa.gov/sites/default/files/exe_order/22-02%20-%20Equity%20in%20State%20Government%20%28tmp%29.pdf">Governor&rsquo;s  Executive Order 22-02 Achieving Equity in Washington State Government</a><br>
 			<a href="https://ofm.wa.gov/sites/default/files/public/shr/Directives/WorkforceDiversityDirective.pdf">State HR  Directive 20-02 Workforce Diversity Directive</a></p>
 			<p class="caption"><em>The statements on this page are statements of general agency policy, and nothing on this page, or similar, creates an employment contract or alters the terms or conditions of an employee’s relationship with the Partnership. The Partnership reserves the right in its discretion to amend, modify, or discontinue these procedures and guidelines without prior notice, notwithstanding any person's acts, omissions, or statements to the contrary. These procedures do not address every situation that could arise in the workplace and employees are expected to follow management direction regarding exceptions to the policies or circumstances not addressed in policy. Furthermore, these procedures do not replace current or future internal agency policies that address employee conduct or behavior in the workplace nor do these procedures in this document take precedence over them.</em></p>
-			<p class="last-update">Last updated: 03/12/24</p>
+			<p class="last-update">Last updated: 03/05/24</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
