@@ -60,7 +60,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1><a href="https://pspwa.app.box.com/file/1470222318399?s=3dlwt9zbeaxc1qfkemy53q5kndq86zs3">Principles of Partner Respect and Engagement</a></h1>
+			<h1><a href="https://pspwa.app.box.com/file/1470222318399?https://pspwa.box.com/s/3dlwt9zbeaxc1qfkemy53q5kndq86zs3">Principles of Partner Respect and Engagement</a></h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -79,7 +79,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Puget Sound Partnership operates at its best when we create collaboration where  people can be brave with their ideas, where healthy dialogue can take place  with different viewpoints, and where accountability is present. Our natural  resource community collectively is more successful and productive when we show  mutual respect, validate each other&rsquo;s perspectives, and remain aware of our  effect on others, especially when conversations are difficult. </p>
-			<p>You can learn more about our Principles of Partner Respect Engagement on this page, or by <a href="Core Principles of Engagement" target="new">downloading our PDF with a letter from Laura Bradstreet, executive director of the Puget Sound Partnership</a>. </p>
+			<p>You can learn more about our Principles of Partner Respect Engagement on this page, or by <a href="https://pspwa.box.com/s/3dlwt9zbeaxc1qfkemy53q5kndq86zs3" target="new">downloading our PDF with a letter from Laura Bradstreet, executive director of the Puget Sound Partnership</a>. </p>
 <p>Below are each of the four Core Principles of Engagement and a brief description of how we understand each one, what we expect, and what we seek from it. </p>
 			<img class="img-responsive" src="images/PSPCorePrincipleEngagement_03.jpg" alt="" width="919" height="919"/>
 			<h2>Commitment  to Safety and Respectful Engagement</h2>
