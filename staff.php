@@ -293,9 +293,9 @@
 						<h5>VACANT</h5>
 						<p> Vital Signs Reporting Analyst<br>
 							</p>
-						<h5>Elene Trujillo</h5>
+						<h5>VACANT</h5>
 						<p> Monitoring Performance Analyst <br>
-							360.819.6018 | <a href="mailto:elene.trujillo@psp.wa.gov">elene.trujillo@psp.wa.gov</a></p>
+							</p>
 						<h5>Annelise Del Rio</h5>
 						<p>	Monitoring Performance Analyst/Salmon Scientist <br>
 							360.584.5306 | <a href="mailto:annelise.delrio@psp.wa.gov">annelise.delrio@psp.wa.gov</a></p>
@@ -377,7 +377,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 5/24/24</p>
+	<p class="last-update">Last updated: 6/7/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
