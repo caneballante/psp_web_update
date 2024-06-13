@@ -79,7 +79,7 @@
 			<h2 class="margin-0-top"><span class="new-red">NEW:</span><strong> Exploring Bold Land Use Ideas in Puget Sound  WORKSHOP</strong></h2>
 			
 			<p><br>
-			  On June 18, 2024, the  Future Scenarios project will host a morning workshop to: <br>
+			  On June 18, 2024, the  Future Scenarios project will host a <a href="https://pspwa.box.com/s/qzcsdqj5vdxnb1j58fc1i1meepr5jms2" target="new">morning workshop</a> to: <br>
               <strong> - Learn about a new alternative scenario that incorporates bold land  use ideas</strong>. Join other leaders in Puget Sound recovery to consider a future  that encompasses five of the bold ideas you helped generate in the November  2023 Bold Land Use Planning in Puget Sound workshop. <br>
               <strong>- Explore each bold land use idea.</strong> Consider the assumptions that  underpin the bold ideas and their associated tradeoffs to identify specific  implications, risks, and opportunities, as well as ways to navigate and offset  them. <br>
               <strong>- Contribute to a working list of concrete next steps.</strong> Using  insights from the scenario analysis, help identify actions that could advance  some or all the bold ideas in both the near and long terms.<br>
@@ -91,10 +91,13 @@
 			  <li><strong>Redefine  critical areas.</strong> Protect  remaining salmon habitat through enhanced and more consistent critical area  definitions and implementation across Puget Sound and invest in restoration of  habitat important to salmon including barrier removal, riparian habitat,  floodplains, and estuaries. Use climate impacts as a catalyst to expand  restoration efforts in impacted areas.</li>
 			  <li><strong>Protect  and expand working lands.</strong> Adopt  policies that increase the viability of working agriculture and working  forestry. Fully value working lands and their services to incentivize farm and  forest land preservation.</li>
 			  <li><strong>Emphasize  innovative stormwater management</strong><strong>.</strong> Implement a variety of stormwater policies that emphasize  multiple benefits at the watershed scale such as use of regional facilities,  stormwater parks, and stormwater transfers.</li>
-			  </ol>
-			<p>If you&rsquo;d like to join us or  learn more, please contact Katherine Wyatt - <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a>.
+		  </ol>
+			<p>If you&rsquo;d like to join us or  learn more, please explore the workshop <a href="https://pspwa.box.com/s/0txxppe3lheqyhelxdpupjbh0v0kofzg" target="new">agenda</a> and <a href="https://pspwa.box.com/s/qzcsdqj5vdxnb1j58fc1i1meepr5jms2" target="new">materials</a>, or contact Katherine Wyatt - <a href="mailto:katherine.wyatt@psp.wa.gov" target="new">katherine.wyatt@psp.wa.gov</a>.</div>
 			
-			</p><h2>BOLD LAND USE  PLanning WORKSHOP, 2023</h2><br>
+						<div class="highlightbox margin-0-top margin-20-bottom">
+
+			</p>
+			<h2>BOLD LAND USE  PLanning WORKSHOP, 2023</h2><br>
 		  <p>The Bold Land Use Planning Workshop on November 7, 2023,  brought together over sixty regional land use and growth management experts,  local and state agency planners and coordinators, and stormwater and salmon  managers as members of the Puget Sound recovery community to generate bold  ideas that could help shepherd the <a href="https://pspwa.box.com/s/lcjugfkkijtffulmmyak0670jj4z6imf">Action Agenda&rsquo;s  Smart Growth strategy</a> into the future. (Links: <a href="https://pspwa.box.com/s/wqudt2vkenh1kkyiwww8muhwf6g5a562">Workshop Agenda</a>, <a href="https://pspwa.box.com/s/jirh8hdfbbsen7iifi2ktcy2wdhb4tux">Workshop  Presentation</a>, <a href="https://pspwa.box.com/s/o7pj56ivao3paimyxheaumf9sym41lif">Additional  Workshop Materials</a>, <a href="https://pspwa.box.com/s/21soyjonl5xcpbg07xvtvg6ztjs8do7f">Workshop  Synopsis</a>)<br></p>
 			  <p>Together, the group examined alternative future scenarios  and <strong>identified over seventy future implications</strong> for development, human  wellbeing and equity, and ecosystem restoration and conservation.  They <strong>generated twenty-seven individual  bold ideas</strong> that could address those implications.<br>
 		  Three Alternative Future  Scenarios informed that workshop.   Scenarios are not intended to be predictive, but rather illuminate a  range of possible conditions to assess our strategies and spur creative  thinking.  The scenarios were as follows: </p>
@@ -104,8 +107,7 @@
 			<h3>Alternative 2 – Networked Growth:</h3> <p>Government cohesion and willingness to act remain positive toward Puget Sound but human perceptions and behaviors are not. This alternative explores a future where people are less willing to live in dense urban centers and instead distribute themselves more evenly across the Puget Sound region and are relatively unengaged in considering the impacts of dispersed growth. Government responds to this by developing new planning models that ensure small and medium sized cities can make the infrastructure investments needed to manage new growth and land use continues to be tightly managed. <a href="https://pspwa.box.com/s/uuhaahsb4g8zqacbhg9eshmfa54lymas">Read more</a>.</p>  
 			
 		  <h3>Alternative 3 – Stewardship and Rural Living:</h3> <p>Explores a future where government cohesion and willingness to act is low but where human perceptions and behaviors are very aligned and positive toward Puget Sound. In this future, people distribute themselves more evenly across the Puget Sound region and prefer rural living to urban centers. Cities grow less rapidly and are less dense. Non- and quasi-government actors play a strong role in supporting individuals in implementing best management practices and taking other individual actions to slow Puget Sound decline and implement neighborhood-scale restorations. <a href="https://pspwa.box.com/s/xspjum0qy94973s5fisrxbft2t9r988k">Read more</a></p></div>
-
-			
+				
 			
 			<h2>Puget Sound future scenarios project</h2>
 			
