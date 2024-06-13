@@ -78,7 +78,8 @@
 			
 			<h2 class="margin-0-top"><span class="new-red">NEW:</span><strong> Exploring Bold Land Use Ideas in Puget Sound  WORKSHOP</strong></h2>
 			
-			<p>On June 18, 2024, the  Future Scenarios project will host a morning workshop to: <br>
+			<p><br>
+			  On June 18, 2024, the  Future Scenarios project will host a morning workshop to: <br>
               <strong> - Learn about a new alternative scenario that incorporates bold land  use ideas</strong>. Join other leaders in Puget Sound recovery to consider a future  that encompasses five of the bold ideas you helped generate in the November  2023 Bold Land Use Planning in Puget Sound workshop. <br>
               <strong>- Explore each bold land use idea.</strong> Consider the assumptions that  underpin the bold ideas and their associated tradeoffs to identify specific  implications, risks, and opportunities, as well as ways to navigate and offset  them. <br>
               <strong>- Contribute to a working list of concrete next steps.</strong> Using  insights from the scenario analysis, help identify actions that could advance  some or all the bold ideas in both the near and long terms.<br>
@@ -132,7 +133,7 @@
 <p>In the current phase, Phase 3,  the project team and its advisors examined these bold ideas, plus other bold  ideas from multiple Puget Sound recovery plans and sources to identify a subset  of ideas that break from the region&rsquo;s current growth and development  approaches. With advice from policy experts, these big ideas were translated  into a specific set of policies that were then represented in a new alternative  scenario comprised of elements of each of the Phase 2 alternative scenarios.  Using one &ldquo;hybrid&rdquo; scenario in Phase 3 is intended to facilitate discussion of  how big ideas and their related policies could play out, and to illustrate how  their impacts and outcomes could interact in different settings.&nbsp;&nbsp;</p>
 <p>As before, the Phase  3 hybrid scenario has two parts: a character-driven narrative, or story, about  what life might be like for a variety of Puget Sound residents (including the  people introduced in the Phase 2 scenarios), and a set of modeled results to  help better understand scenario outcomes<br>
 </p>
-<h2>what mode;s do the results come from?</h2>
+<h2>what models do the results come from?</h2>
 			
 			<p>The model results help us  visualize the alternative future being explored by testing policies that  reflect the bold ideas and illustrating how they might look on the Puget Sound  landscape. This allows us to explore possible outcomes of those ideas and understand  additional implications that may not be explicitly modeled.&nbsp;</p>
 			<p>The results come from three  models:</p>
