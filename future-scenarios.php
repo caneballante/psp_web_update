@@ -74,85 +74,74 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom">
+		<div class="highlightbox margin-0-top margin-20-bottom">
 			
-			<h2 class="margin-0-top"><span class="new-red">NEW:</span> Future Scenarios and Smart Growth Workshops</h2>
+			<h2 class="margin-0-top"><span class="new-red">NEW:</span><strong> Exploring Bold Land Use Ideas in Puget Sound  WORKSHOP</strong></h2>
 			
-			<p>On Nov. 7 the Future Scenarios project will host a day-long workshop intended to use the alternative futures to explore smart growth. The workshop will look at the updated versions of the future scenarios which are as follows.</p>
+			<p>On June 18, 2024, the  Future Scenarios project will host a morning workshop to: <br>
+              <strong> - Learn about a new alternative scenario that incorporates bold land  use ideas</strong>. Join other leaders in Puget Sound recovery to consider a future  that encompasses five of the bold ideas you helped generate in the November  2023 Bold Land Use Planning in Puget Sound workshop. <br>
+              <strong>- Explore each bold land use idea.</strong> Consider the assumptions that  underpin the bold ideas and their associated tradeoffs to identify specific  implications, risks, and opportunities, as well as ways to navigate and offset  them. <br>
+              <strong>- Contribute to a working list of concrete next steps.</strong> Using  insights from the scenario analysis, help identify actions that could advance  some or all the bold ideas in both the near and long terms.<br>
+              <br>
+              This workshop  builds on the work of the<a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpspwa.box.com%2Fs%2F21soyjonl5xcpbg07xvtvg6ztjs8do7f&data=05%7C02%7Ckatherine.wyatt%40psp.wa.gov%7Cb751ac52be7342f566cc08dc83ecc79e%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638530300562853263%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=xuukOQenh5kQNVsdyKeX67WTLtZrJk1fr3MoQ5ePKFw%3D&reserved=0">November  2023 workshop</a>, which generated bold ideas that  address various development, human wellbeing, equity, and ecosystem restoration  implications derived from three alternative scenarios. Since then, the Future  Scenarios Project Team has worked closely with Strategic Initiative Leads and  other partners to create another alternative scenario that illustrates a subset  of bold land use ideas.  The workshop  explores a new hybrid scenario that includes five bold ideas: </p>
+		  <ol class="bullet-size-fix">
+			  <li><strong>Integrate  growth management.</strong> Adopt  growth management frameworks that encourage cohesion and planning to achieve  multiple benefits at the watershed scale working across jurisdictions.&nbsp;&nbsp;</li>
+			  <li><strong>Concentrate  growth in already developed areas.</strong> Adopt  policies and incentives that funnel growth into already developed urban areas  and emphasize redevelopment; limit rural growth and ensure rural growth that  does occur is near urban boundaries.&nbsp;&nbsp;</li>
+			  <li><strong>Redefine  critical areas.</strong> Protect  remaining salmon habitat through enhanced and more consistent critical area  definitions and implementation across Puget Sound and invest in restoration of  habitat important to salmon including barrier removal, riparian habitat,  floodplains, and estuaries. Use climate impacts as a catalyst to expand  restoration efforts in impacted areas.</li>
+			  <li><strong>Protect  and expand working lands.</strong> Adopt  policies that increase the viability of working agriculture and working  forestry. Fully value working lands and their services to incentivize farm and  forest land preservation.</li>
+			  <li><strong>Emphasize  innovative stormwater management</strong><strong>.</strong> Implement a variety of stormwater policies that emphasize  multiple benefits at the watershed scale such as use of regional facilities,  stormwater parks, and stormwater transfers.</li>
+			  </ol>
+			<p>If you&rsquo;d like to join us or  learn more, please contact Katherine Wyatt - <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a>.
 			
-			<h3>Alternative 1 – Salmon Forward:</h3> <p>Explores a future where both government cohesion and willingness to act and human perceptions & behaviors are positive toward Puget Sound. This creates a mutually reinforcing virtuous cycle that unlocks large scale changes in how big cities are developed to minimize their impacts and maximize their livability in a way that calls people in to dense urban living and maximizes protection and restoration of land outside growth centers in existing urban areas. Land use is tightly managed, and protection of critical areas is high. <a href="https://pspwa.box.com/s/5w0i44z9toz52ay5kpder8urzwsuiknv">Read more</a>.</p>
+			</p><h2>BOLD LAND USE  PLanning WORKSHOP, 2023</h2><br>
+		  <p>The Bold Land Use Planning Workshop on November 7, 2023,  brought together over sixty regional land use and growth management experts,  local and state agency planners and coordinators, and stormwater and salmon  managers as members of the Puget Sound recovery community to generate bold  ideas that could help shepherd the <a href="https://pspwa.box.com/s/lcjugfkkijtffulmmyak0670jj4z6imf">Action Agenda&rsquo;s  Smart Growth strategy</a> into the future. (Links: <a href="https://pspwa.box.com/s/wqudt2vkenh1kkyiwww8muhwf6g5a562">Workshop Agenda</a>, <a href="https://pspwa.box.com/s/jirh8hdfbbsen7iifi2ktcy2wdhb4tux">Workshop  Presentation</a>, <a href="https://pspwa.box.com/s/o7pj56ivao3paimyxheaumf9sym41lif">Additional  Workshop Materials</a>, <a href="https://pspwa.box.com/s/21soyjonl5xcpbg07xvtvg6ztjs8do7f">Workshop  Synopsis</a>)<br></p>
+			  <p>Together, the group examined alternative future scenarios  and <strong>identified over seventy future implications</strong> for development, human  wellbeing and equity, and ecosystem restoration and conservation.  They <strong>generated twenty-seven individual  bold ideas</strong> that could address those implications.<br>
+		  Three Alternative Future  Scenarios informed that workshop.   Scenarios are not intended to be predictive, but rather illuminate a  range of possible conditions to assess our strategies and spur creative  thinking.  The scenarios were as follows: </p>
+<h3>Alternative 1 – Salmon Forward:</h3> 
+			<p>Explores a future where both government cohesion and willingness to act and human perceptions & behaviors are positive toward Puget Sound. This creates a mutually reinforcing virtuous cycle that unlocks large scale changes in how big cities are developed to minimize their impacts and maximize their livability in a way that calls people in to dense urban living and maximizes protection and restoration of land outside growth centers in existing urban areas. Land use is tightly managed, and protection of critical areas is high. <a href="https://pspwa.box.com/s/5w0i44z9toz52ay5kpder8urzwsuiknv">Read more</a>.</p>
 			
 			<h3>Alternative 2 – Networked Growth:</h3> <p>Government cohesion and willingness to act remain positive toward Puget Sound but human perceptions and behaviors are not. This alternative explores a future where people are less willing to live in dense urban centers and instead distribute themselves more evenly across the Puget Sound region and are relatively unengaged in considering the impacts of dispersed growth. Government responds to this by developing new planning models that ensure small and medium sized cities can make the infrastructure investments needed to manage new growth and land use continues to be tightly managed. <a href="https://pspwa.box.com/s/uuhaahsb4g8zqacbhg9eshmfa54lymas">Read more</a>.</p>  
 			
-			<h3>Alternative 3 – Stewardship and Rural Living:</h3> <p>Explores a future where government cohesion and willingness to act is low but where human perceptions and behaviors are very aligned and positive toward Puget Sound. In this future, people distribute themselves more evenly across the Puget Sound region and prefer rural living to urban centers. Cities grow less rapidly and are less dense. Non- and quasi-government actors play a strong role in supporting individuals in implementing best management practices and taking other individual actions to slow Puget Sound decline and implement neighborhood-scale restorations. <a href="https://pspwa.box.com/s/xspjum0qy94973s5fisrxbft2t9r988k">Read more</a>.</p>
-			
-			<p>See the rest of the <a href="https://pspwa.box.com/s/96qnz9sdesctdcvrklpnljnim9xxjdw8">workshop materials here</a>. For more information or to register for the workshop please contact Andres Sheikh at <a href="mailto:asheikh@rossstrategic.com">asheikh@rossstrategic.com</a>. </p>
-				
-			</div>
+		  <h3>Alternative 3 – Stewardship and Rural Living:</h3> <p>Explores a future where government cohesion and willingness to act is low but where human perceptions and behaviors are very aligned and positive toward Puget Sound. In this future, people distribute themselves more evenly across the Puget Sound region and prefer rural living to urban centers. Cities grow less rapidly and are less dense. Non- and quasi-government actors play a strong role in supporting individuals in implementing best management practices and taking other individual actions to slow Puget Sound decline and implement neighborhood-scale restorations. <a href="https://pspwa.box.com/s/xspjum0qy94973s5fisrxbft2t9r988k">Read more</a></p></div>
 
 			
 			
-			<h2>Alternative futures for Puget Sound</h2>
+			<h2>Puget Sound future scenarios project</h2>
 			
-			<p>We’re starting the second phase of a scenario-planning effort to explore and understand the implications of different plausible futures for Puget Sound. The Puget Sound Future Scenarios Project (Future Scenarios)  will help the Puget Sound recovery community plan for the region’s future by considering multiple possibilities of what might happen. The project is not meant to predict the future but, rather, communicate the effects of current policy choices and prepare for uncertainties like climate change and population growth. </p>
+			<p>Future Scenarios help plan for a changing future that is shifting in known and unknown ways. We do this by generating and then exploring a suite of distinct, plausible futures.  Alternative scenarios help reveal what it takes to achieve recovery goals, and the trade-offs and co-benefits of present-day policy choices for future outcomes.  Scenarios often spur creative solutions.   </p>
 			
-			<p>Future Scenarios explores the interactions between driving forces (such as population growth, land use policy, climate change, and others) and looks at how our Puget Sound recovery goals (such as human wellbeing and orca populations) might respond to different driver trajectories.</p>
+			<p>Scenarios are both a conceptual approach to decision making and an analysis tool to describe how the socio-ecological system might fare in the future.  Scenario planning is a structured process that helps communities plan for an uncertain future by exploring multiple possibilities of what might happen. How might the future unfold and what does that mean for our plans?  What happens if we stay on our current trajectory? And what might happen if we change course, by our own volition or by changing external dynamics? </p>
 			
-			<p>The overarching goal of the project is to help the Partnership and the Puget Sound recovery community do the following: </p>
+			<p>The scenarios work <span class="new-red">strives to improve the resilience of Puget Sound recovery by doing the following:</span> </p>
 			
 			<ol class="bullet-size-fix">
-				<li>Explore the root causes and interactions that drive long-term Puget Sound system dynamics; </li>
-				<li>Think systematically when considering choices and tradeoffs in the face of limited resources in the future. </li>
+				<li><strong>Strengthening  recovery strategies</strong>.  Scenarios help us stress test our strategies  and ensure they are effective in a changing region.  This exploration can surface creative  solutions</li>
+				<li><strong>Communicating implications</strong>.  Scenarios  enable us to assess and communicate the co-benefits and trade-offs of current  and potential policy and management choices.</li>
+				<li><strong>Nurturing the community of  practice</strong> by bridging social and  natural science disciplines.  Scenarios  incorporate varied drivers of change, sectors, and types of impact.</li>
 			</ol>
+			<p>Stay Tuned as we share more of our findings here!</p>
+<h2>How are scenarios made?</h2>
+<p>The scenarios are iteratively  developed and refined with input from the recovery community. The project began  by looking at past scenario planning efforts in Puget Sound and, through  workshops and conversations and with the support of an Advisory Group, sought  input on important drivers related to achieving Puget Sound recovery goals.  Four drivers were selected as important and (relatively) uncertain factors to  consider:&nbsp;&nbsp; </p>
+<ul class="bullet-size-fix">
+		  <li><em>Population growth</em> is  the number of people expected to come to the region by 2080 based on Office of  Financial Management projections. All scenarios reflect the high end of OFM  projections to demonstrate the most likely, and the most stressful, direction.&nbsp;</li>
+		  <li><em>Climate change</em> includes temperature  and precipitation forecasts. All scenarios reflect relatively high climate  change. This was considered the most likely and the most stressful direction.  Holding population growth and climate change constant across the scenarios supports  scenario comparisons.&nbsp;</li>
+		  <li><em>Governance </em>reflects whether government actors are aligned and coordinating,  the amount of central vs. local control, and the willingness of government to  change legacy systems vs take an incremental approach. The trajectory of this  driver is used to inform the types of growth and development policies  represented in the scenarios, with more aligned and coordinated governance  generally supporting more ambitious policies.&nbsp;&nbsp; </li>
+<li><em>Human perceptions and behaviors </em>reflect  the attitudes and choices of people – where and how people live on the  landscape, and whether behaviors support (or do not support) Puget Sound  recovery work. Similar to the governance driver, the trajectory of this driver  is used to inform the types of growth and development policies represented in  the scenarios, and also informs thinking about the potential success of these  policies and where in Puget Sound people might choose to live. More positive  human perceptions and behaviors generally support more ambitious and successful  policies and more central, urban living.</li>
+</ul>
+<p>In the previous phase, Phase 2,  the project team presented three alternative scenarios – Salmon Forward,  Networked Growth, and Rural Stewardship – each constructed to explore how Smart  Growth ideas and policies might &ldquo;play out&rdquo; in a different growth and development  trajectory. The three Phase 2 scenarios were used to spark creative thinking  and help Puget Sound recovery partners generate bold ideas for Smart  Growth.&nbsp;&nbsp;</p>
+<p>In the current phase, Phase 3,  the project team and its advisors examined these bold ideas, plus other bold  ideas from multiple Puget Sound recovery plans and sources to identify a subset  of ideas that break from the region&rsquo;s current growth and development  approaches. With advice from policy experts, these big ideas were translated  into a specific set of policies that were then represented in a new alternative  scenario comprised of elements of each of the Phase 2 alternative scenarios.  Using one &ldquo;hybrid&rdquo; scenario in Phase 3 is intended to facilitate discussion of  how big ideas and their related policies could play out, and to illustrate how  their impacts and outcomes could interact in different settings.&nbsp;&nbsp;</p>
+<p>As before, the Phase  3 hybrid scenario has two parts: a character-driven narrative, or story, about  what life might be like for a variety of Puget Sound residents (including the  people introduced in the Phase 2 scenarios), and a set of modeled results to  help better understand scenario outcomes<br>
+</p>
+<h2>what mode;s do the results come from?</h2>
 			
-			<h2>What will the Future Scenarios project help us do?</h2>
-			<ul class="bullet-size-fix">
-				<li>Strengthen recovery strategies and enable quicker adaptive management by assessing the implications of a range of possible contexts;</li>
-				<li>Identify ways to improve planning and policy-setting; and</li>
-				<li>Strengthen the community of practice by bridging social and natural science disciplines.</li>
-			</ul>
-			
-			<img src="images/science-figures/future-scenario-phases.png" class="img-responsive" width=100% alt="Graphic that shows the timeline for phase two of the Future Scenarios project. The text in the timeline says the following: Future Scenarios phase one began in June 2021 and was completed in June 2022 with a final report. Phase two work can be broken down into five main steps: Refine project models to better reflect salmon-related outcomes across scenarios and connect the project to salmon recovery, July – September 2022. Develop the second version of the business-as-usual scenario to understand what could happen in Puget Sound on current trajectory, Sept. – Dec. 2022. Develop the second version of the four alternative scenarios to understand what could happen in Puget Sound if the recovery strategy changes or things don't go as planned, Oct. 2022 – Jan. 2023. Share scenario outcomes and analysis with broader recovery community to gauge consequences, Jan. – March 2023. Consider how scenarios can support decision makers and capture next steps for Future Scenarios in phase two report, April – June 2023"/><br>
-			
-			<h3>Future Scenarios phase one takeaways</h3>
-			
-			<p>In phase one of the project (March 2021- June 2022), Future Scenarios identified four key drivers of change in Puget Sound: (1) population growth (2) climate change (3) governance (4) public perceptions and behaviors. These drivers helped build the first version of five different scenarios the Puget Sound region could experience in the future: </p>
-			
-			<ul class="bullet-size-fix">
-				<li>one business-as-usual (BAU) scenario that reflects the region’s current trajectories and </li>
-				<li>four alternative-to-BAU scenarios that reflect variations of those trajectories. </li>
-			</ul>
-			
-			<p>The initial scenarios and how they compare in terms of drivers are illustrated in the figure below:</p>
-			
-			
-					<img class="img-responsive floatleft" src="images/science-figures/ScenariosChart.jpg" alt="Chart that illustrates differences in business-as-usual scenarios and alternative scenarios"/><br>
-						
-			<p>Initial trends and outcomes from phase one include:</p>
+			<p>The model results help us  visualize the alternative future being explored by testing policies that  reflect the bold ideas and illustrating how they might look on the Puget Sound  landscape. This allows us to explore possible outcomes of those ideas and understand  additional implications that may not be explicitly modeled.&nbsp;</p>
+			<p>The results come from three  models:</p>
 			
 			<ul class="bullet-size-fix">
-				<li>The rate of population growth seems to significantly impact scenario results, as much as or more than other factors. </li>
-				<li>Existing urban growth areas  in Puget Sound can accommodate high population growth, provided there is a willingness to increase densities. </li>
+				<li>Envision, a  map-based modelling platform, that helps to explore how different population  distribution, growth, development, and conservation &ldquo;rules&rdquo; or actions could  play out on the landscape;&nbsp;&nbsp; </li>
+<li>A qualitative network model  (QNM) of a Puget Sound watershed that identifies and links elements of the  recovery system.&nbsp; QNM speaks to water quality, natural resource economy,  and sense of place; and:</li>
+				<li>An index-based assessment  of salmon favorability based on freshwater habitats.			</li>
 			</ul>
-			
-			<h2>Future Scenarios phase two</h2>
-			
-			<p>Phase two of the project (July 2022 - June 2023) will:</p>
-			
-			<ul class="bullet-size-fix">
-				<li>Refine and expand the quantitative and qualitative models used to develop scenarios (with particular emphasis on salmon-related outcomes); </li>
-				<li>Develop a second version of the five scenarios; and </li>
-				<li>Consider ways Future Scenarios outcomes can support the recovery community in different contexts. </li>
-			</ul>
-			
-			<h3>Future Scenarios advisory group</h3>
-			
-			<p>Future Scenarios is supported by an advisory group that functions as an overall sounding board for the project.   This group is made up of representatives of the Puget Sound advisory boards and others in the Puget Sound recovery community. Advisory group members also serve as points of contact and ambassadors for the project. They help ensure the project is reflective of and responsive to real-world recovery challenges. Regular input from the Puget Sound advisory boards helps inform the project.</p>
-			
-			<h3>Want to learn more?</h3>
-			
-			<p>More in-depth information on Future Scenarios, including additional project background, FAQs, and the advisory group, can be found in <a href="https://pspwa.box.com/s/8a776uv94xxlb3cduo3a17zcdyye8hox" target="new">the project’s public Box note.</a></p>
-			
 			<p>If you would like to be involved in this project work, have data to share, or would like a briefing, please get in touch with one of the project leads:</p>
 			
 			<ul class="bullet-size-fix">
