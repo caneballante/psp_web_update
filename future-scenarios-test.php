@@ -77,6 +77,9 @@
 			<div class="highlightbox margin-0-top margin-20-bottom">
 			
 			<h2 class="margin-0-top"><span class="new-red">NEW:</span> Future Scenarios and Smart Growth Workshops</h2>
+				
+				<button type="button" class="collapsible">Collapse to read more about the workshop</button>
+<div class="content">
 			
 			<p>On Nov. 7 the Future Scenarios project will host a day-long workshop intended to use the alternative futures to explore smart growth. The workshop will look at the updated versions of the future scenarios which are as follows.</p>
 			
@@ -90,7 +93,7 @@
 				
 			</div>
 
-			
+			</div>
 			
 			<h2>Alternative futures for Puget Sound</h2>
 			
