@@ -78,6 +78,32 @@
 			
 			<h2 class="margin-0-top"><span class="new-red">NEW:</span> Future Scenarios and Smart Growth Workshops</h2>
 				
+				<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
 				<button type="button" class="collapsible">Collapse to read more about the workshop</button>
 <div class="content">
 			
