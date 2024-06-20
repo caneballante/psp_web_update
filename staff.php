@@ -321,7 +321,7 @@
 						360.819.0208 | <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p>
 			
 						<h5>Jackelyn Garcia</h5>
-						<p>Workplace Culture Specialist<br>
+						<p>
 						360.480.0475 | <a href="mailto:jackelyn.garcia@psp.wa.gov">jackelyn.garcia@psp.wa.gov</a></p>
 						<!--ADMINISTRATIVE SUPPORT-->
 						<h3 class="padding-10-top">Administrative Support Team</h3>
