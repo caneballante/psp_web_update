@@ -118,6 +118,22 @@
 			<p>See the rest of the <a href="https://pspwa.box.com/s/96qnz9sdesctdcvrklpnljnim9xxjdw8">workshop materials here</a>. For more information or to register for the workshop please contact Andres Sheikh at <a href="mailto:asheikh@rossstrategic.com">asheikh@rossstrategic.com</a>. </p>
 				
 			</div>
+	<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
 
 			</div>
 			
