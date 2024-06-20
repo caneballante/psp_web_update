@@ -145,10 +145,11 @@
 <li>A qualitative network model  (QNM) of a Puget Sound watershed that identifies and links elements of the  recovery system.&nbsp; QNM speaks to water quality, natural resource economy,  and sense of place; and:</li>
 				<li>An index-based assessment  of salmon favorability based on freshwater habitats.			</li>
 			</ul>
+			<p><h2>Contact us</h2></p>
 			<p>If you would like to be involved in this project work, have data to share, or would like a briefing, please get in touch with one of the project leads:</p>
 			
 			<ul class="bullet-size-fix">
-				<li>Katherine Wyatt, <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></li>
+			  <li>Katherine Wyatt, <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></li>
 				<li>Elizabeth McManus, <a href="mailto:emcmanus@rosstrategic.com">emcmanus@rossstrategic.com</a></li>
 			</ul>
 			
