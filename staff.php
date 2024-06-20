@@ -94,9 +94,7 @@
 						360.688.4049 | <a href="mailto:signe.lindquist@psp.wa.gov">signe.lindquist@psp.wa.gov</a></p>
 			
 			
-						<h5>Jackelyn Garcia</h5>
-						<p>Equity Fellow<br>
-						360.480.0475 | <a href="mailto:jackelyn.garcia@psp.wa.gov">jackelyn.garcia@psp.wa.gov</a></p>
+						
 			
 						
 
@@ -319,8 +317,12 @@
 						<!--HUMAN RESOURCES PROGRAM-->
 						<h3 class="padding-10-top">Human Resources</h3>
 						<h5>Denise Ross</h5>
-						<p>Human Resources Manager<br>
+						<p>Workplace Culture and Development Manager<br>
 						360.819.0208 | <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p>
+			
+						<h5>Jackelyn Garcia</h5>
+						<p>Workplace Culture Specialist<br>
+						360.480.0475 | <a href="mailto:jackelyn.garcia@psp.wa.gov">jackelyn.garcia@psp.wa.gov</a></p>
 						<!--ADMINISTRATIVE SUPPORT-->
 						<h3 class="padding-10-top">Administrative Support Team</h3>
 												
@@ -377,7 +379,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 6/7/24</p>
+	<p class="last-update">Last updated: 6/20/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
