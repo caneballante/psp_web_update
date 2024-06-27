@@ -101,6 +101,9 @@ a[href^="http"] {
 	font-family: georgia, times, serif;
 	
 }
+.hidden {
+	display: none;
+}
 #home-squares a {
 	font-size: 1.2em;
 	font-weight: 300;

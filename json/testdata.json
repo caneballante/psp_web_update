@@ -1,0 +1,69 @@
+{
+  "Sheet1": [
+    {
+      "sponsor": "Cheryl Baumann",
+      "entity": "North Olympic Peninsula Lead Entity for Salmon",
+      "date": "2023-2025",
+      "title": "Using remote sensing to quantify the hydrogeomorphic response of historically disconnected habitats in the Dungeness River floodplain following restoration of hydrologic connectivity",
+      "grant": "Puget Sound Scientific Research",
+      "description": "This project aims to document the hydrogeomorphic response of historically disconnected habitats in the Dungeness River floodplain following restoration of hydrologic connectivity to the mainstem river. ",
+      "Goal1": "yes",
+      "Goal2": "no",
+      "Goal3": "no",
+      "Goal4": "no",
+      "Goal5": "no"
+    },
+    {
+      "sponsor": "Jason Hall",
+      "entity": "Cramer Fish Sciences",
+      "date": "2023-2025",
+      "title": "Synthesis of restoration effectiveness in estuary and nearshore habitats in Puget Sound",
+      "grant": "Puget Sound Scientific Research",
+      "description": "This project will conduct a systematic evidence-based literature review and meta-analysis of habitat monitoring, salmon response, and restoration effectiveness data in Puget Sound tidal delta and nearshore habitats.",
+      "Goal1": "yes",
+      "Goal2": "no",
+      "Goal3": "no",
+      "Goal4": "no",
+      "Goal5": "no"
+    },
+    {
+      "sponsor": "Emily Howe",
+      "entity": "The Nature Conservancy",
+      "date": "2023-2025",
+      "title": "Using bioenergetics and landscape connectivity to plan effective tidal delta restoration projects for Chinook salmon under a changing climate",
+      "grant": "Salmon Science Investigations",
+      "description": "This project is developing an analytical framework using hydraulic, landscape connectivity-abundance, and bioenergetic models to compare the abundance and growth potential of juvenile Chinook salmon across a suite of restoration and climate scenarios in the Stillaguamish estuary.",
+      "Goal1": "yes",
+      "Goal2": "no",
+      "Goal3": "no",
+      "Goal4": "no",
+      "Goal5": "no"
+    },
+    {
+      "sponsor": "Sara Jo Breslow",
+      "entity": "Sara Jo Breslow LLC",
+      "date": 2021,
+      "title": "Qualitative social science through the Skagit story",
+      "grant": "Puget Sound Scientific Research",
+      "description": "This interdisciplinary study updates and expands prior work to investigate conflict in the efforts to recover salmon in the Skagit watershed. This draws from multiple fields across the environmental social sciences and humanities: the environmental history of the American West; ‘first world’ political ecology; social studies of environmental science and conservation; conflict studies; rural sociology; environmental politics; performance studies; humanistic studies of the Anthropocene; inter- and trans- disciplinarity; sustainability; social-ecological systems; science communication; Native American and indigenous studies; settler-colonial studies; and environmental justice.",
+      "Goal1": "yes",
+      "Goal2": "yes",
+      "Goal3": "no",
+      "Goal4": "no",
+      "Goal5": "no"
+    },
+    {
+      "sponsor": "Tish Conway-Cranos",
+      "entity": "Washington Department of Fish and Wildlife",
+      "date": 2021,
+      "title": "Nearshore Summit and synthesis",
+      "grant": "Monitoring to Accelerate Recovery",
+      "description": "The goals of this virtual summit were to synthesize nearshore science and restoration actions in Puget Sound and create a roadmap that updates restoration conceptual models and identifies uncertainties to address.",
+      "Goal1": "yes",
+      "Goal2": "yes",
+      "Goal3": "no",
+      "Goal4": "no",
+      "Goal5": "no"
+    }
+  ]
+}
