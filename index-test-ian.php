@@ -54,15 +54,9 @@
 	<header class="intro-AA">
 		<div class="intro-body">
 			<div class="container-fluid margin-40-top">
-				<div class="container">
-  <h2>Carousel Example</h2>  
+				<div class="container">  
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-    </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
@@ -97,13 +91,7 @@
     </a>
   </div>
 </div>
-				<div class="row">
-					<div class="col-md-8 col-md-offset-2">
-						<h1 class="emsize-3 fontweight-400">2022-2026 Action Agenda For Puget Sound<br>
-						</h1>
-						<p>The 2022-2026 Action Agenda charts the course for Puget Sound recovery</p>
-						<div class="learn-more-box no-icon fontweight-400"><a href="2022AAupdate.php">LEARN MORE</a></div>
-					</div>
+			
 				</div>
 			</div>
 		</div>
