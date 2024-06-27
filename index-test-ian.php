@@ -76,6 +76,9 @@
 
       <div class="item">
         <img src="images/caroseltest2.jpg" alt="Chicago" style="width:100%;">
+		  <div class="carousel-caption">
+			  <div class="learn-more-box no-icon fontweight-400"><a href="/https://stateofthesound.wa.gov/">LEARN MORE ABOUT THE STATE OF THE SOUND</a></div>
+		</div>
       </div>
     
       <div class="item">
