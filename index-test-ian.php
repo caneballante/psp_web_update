@@ -67,7 +67,11 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="images/news-images/2019-day-on-the-hill.jpg" alt="Los Angeles" style="width:100%;">
+        <img src="images/news-images/2019-day-on-the-hill.jpg" alt="PSDOTH" style="width:100%;">
+		  <div class="carousel-caption">
+			  <h3>Puget Sound Day on the Hill</h3>
+			  <p><a href="/psdoth2019.php"></a>Learn more here</a></p>
+		</div>
       </div>
 
       <div class="item">
