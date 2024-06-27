@@ -9,6 +9,9 @@ function displayJSONData(data) {
         for (const key in item) {
             const cell = document.createElement('td');
             cell.textContent = item[key];
+            if (key.startsWith('Goal')) {
+                cell.classList.add('hidden');
+            }
             row.appendChild(cell);
         }
         tableBody.appendChild(row);
