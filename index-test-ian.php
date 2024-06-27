@@ -70,7 +70,7 @@
         <img src="images/news-images/2019-day-on-the-hill.jpg" alt="PSDOTH" style="width:100%;">
 		  <div class="carousel-caption">
 			  <h3>Puget Sound Day on the Hill</h3>
-			  <p><a href="/psdoth2019.php"></a>Learn more here</a></p>
+			  <div class="learn-more-box no-icon fontweight-400"><a href="/psdoth2019.php">LEARN MORE</a></div>
 		</div>
       </div>
 
