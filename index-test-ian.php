@@ -67,7 +67,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="images/news-images/2019-day-on-the-hill.jpg" alt="PSDOTH" style="width:100%;">
+        <img src="images/caroseltest1.jpg" alt="PSDOTH" style="width:100%;">
 		  <div class="carousel-caption">
 			  <h3>Puget Sound Day on the Hill</h3>
 			  <div class="learn-more-box no-icon fontweight-400"><a href="/psdoth2019.php">LEARN MORE</a></div>
@@ -75,11 +75,11 @@
       </div>
 
       <div class="item">
-        <img src="images/news-images/EPA.jpg" alt="Chicago" style="width:100%;">
+        <img src="images/caroseltest2.jpg" alt="Chicago" style="width:100%;">
       </div>
     
       <div class="item">
-        <img src="images/news-images/2022-leg.jpg" alt="New york" style="width:100%;">
+        <img src="images/caroseltest3.jpg" alt="New york" style="width:100%;">
       </div>
     </div>
 
