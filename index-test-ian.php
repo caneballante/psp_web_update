@@ -53,8 +53,7 @@
 </header>-->
 	<header class="intro-AA">
 		<div class="intro-body">
-			<div class="container-fluid margin-40-top">
-				<div class="container">  
+			<div class="container-fluid margin-40-top">  
   					<div id="myCarousel" class="carousel slide" data-ride="carousel">
    					 <!-- Indicators -->
 
