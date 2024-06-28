@@ -261,6 +261,9 @@ display: block
 	color: #555;
 }
 /*padding all*/
+.padding-0-all {
+	padding: 0px 0px 0px 0px;
+}
 .padding-10-all {
 	padding: 10px 10px 10px 10px;
 }
