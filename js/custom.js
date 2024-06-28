@@ -57,4 +57,6 @@ $(".newsbox").click(function () {
 //$("#nav"+navSelected).addClass("active");
 //});
 
-// JQuery to set the appropriate left nav item to "active". navSelected and subNavSelected is set in the html head and matches the order with that page appears in the nav	
+// JQuery to set the appropriate left nav item to "active". navSelected and subNavSelected is set in the html head and matches the order with that page appears in the nav
+
+

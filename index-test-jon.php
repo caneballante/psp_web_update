@@ -18,7 +18,7 @@
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
-
+<link href="css/custom-jon-test.css" rel="stylesheet" type="text/css">
 <!-- Font PRENTON TYPEKIT --> 
 <script src="https://use.typekit.net/srt5jze.js"></script> 
 <script>try{Typekit.load({ async: true });}catch(e){}</script> 
@@ -53,7 +53,7 @@
 </header>-->
 	<header class="intro-AA">
 		<div class="intro-body">
-			<div class="container-fluid">
+			
 				<div id="myCarousel" class="carousel slide" data-ride="carousel">
    					 <!-- Indicators -->
 
@@ -66,14 +66,14 @@
 								  <h3>Puget Sound Day on the Hill</h3>
 								  <div class="learn-more-box no-icon fontweight-400"><a href="/psdoth2019.php">LEARN MORE</a></div>
 							</div>
-						  </div>
+						  	</div>
 						<!-- slide 2 -->	
-							 <div class="item">
-							<img src="images/caroseltest2.jpg" alt="Chicago" style="width:100%;">
-							  <div class="carousel-caption">
+							<div class="item">
+								<img src="images/caroseltest2.jpg" alt="Chicago" style="width:100%;">
+							 	<div class="carousel-caption">
 								  <div class="learn-more-box no-icon fontweight-400"><a href="/https://stateofthesound.wa.gov/">LEARN MORE ABOUT THE STATE OF THE SOUND</a></div>
 							</div>
-						  </div>
+						  	</div>
 						<!-- slide 3 -->
 						  <div class="item">
 							<img src="images/caroseltest3.jpg" alt="New york" style="width:100%;">
@@ -90,10 +90,10 @@
 						  <span class="glyphicon glyphicon-chevron-right"></span>
 						  <span class="sr-only">Next</span>
 						</a>
-					</div>
+						</div>
 					<!-- End wrapper for slides -->
 				</div>
-			</div>
+			
 		</div>
 	</header>
 <div class="container-fluid">
@@ -297,57 +297,29 @@
 			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-						<!--news content -->
-					<div class="newsbox-date">JAN<br>
-						26</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content-->
+				<div id="calendar1" class="newsbox calendarbox"> 
+						<!--json content here -->
 				</div>
 			</div>
 			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">FEB<br>
-						1</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content-->  
+				<div id="calendar2" class="newsbox calendarbox"> 
+						<!--json content here -->
 				</div>
 			</div>
 			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">FEB<br>
-						9</div>
-					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content-->
+				<div id="calendar3" class="newsbox calendarbox"> 
+						<!--json content here -->
 				</div>
 			</div>
 			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">MAR<br>
-						15</div>
-					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content--> 
+				<div id="calendar4" class="newsbox calendarbox"> 
+						<!--json content here -->
 				</div>
 			</div>
 			<!--COLUMN END--> 
@@ -401,6 +373,8 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
+<!-- board date loader test --> 
+<script src="js/hp-date-loader.js"></script> 
 <!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
