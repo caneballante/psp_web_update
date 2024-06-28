@@ -1455,7 +1455,3 @@ display: block
 }
 /*science funding json css*/
 
-#jsonTable th.hidden, 
-#jsonTable td.hidden {
-            display: none;
-        }
