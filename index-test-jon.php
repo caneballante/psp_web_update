@@ -54,45 +54,44 @@
 	<header class="intro-AA">
 		<div class="intro-body">
 			<div class="container-fluid">
-				<div class="container padding-0-all">  
-  					<div id="myCarousel" class="carousel slide" data-ride="carousel">
+				<div id="myCarousel" class="carousel slide" data-ride="carousel">
    					 <!-- Indicators -->
 
 					<!-- Wrapper for slides -->
-					<div class="carousel-inner">
-					<!-- slide 1 -->	
-					  <div class="item active">
-						<img class="img-responsive" src="images/caroseltest1.jpg" alt="PSDOTH" style="width:100%;">
-						  <div class="carousel-caption">
-							  <h3>Puget Sound Day on the Hill</h3>
-							  <div class="learn-more-box no-icon fontweight-400"><a href="/psdoth2019.php">LEARN MORE</a></div>
+						<div class="carousel-inner">
+							<!-- slide 1 -->	
+							 <div class="item active">
+							<img class="img-responsive" src="images/caroseltest1.jpg" alt="PSDOTH" style="width:100%;">
+							  <div class="carousel-caption">
+								  <h3>Puget Sound Day on the Hill</h3>
+								  <div class="learn-more-box no-icon fontweight-400"><a href="/psdoth2019.php">LEARN MORE</a></div>
+							</div>
+						  </div>
+						<!-- slide 2 -->	
+							 <div class="item">
+							<img src="images/caroseltest2.jpg" alt="Chicago" style="width:100%;">
+							  <div class="carousel-caption">
+								  <div class="learn-more-box no-icon fontweight-400"><a href="/https://stateofthesound.wa.gov/">LEARN MORE ABOUT THE STATE OF THE SOUND</a></div>
+							</div>
+						  </div>
+						<!-- slide 3 -->
+						  <div class="item">
+							<img src="images/caroseltest3.jpg" alt="New york" style="width:100%;">
+						  </div>
+						
 						</div>
-					  </div>
-					<!-- slide 2 -->	
-					  <div class="item">
-						<img src="images/caroseltest2.jpg" alt="Chicago" style="width:100%;">
-						  <div class="carousel-caption">
-							  <div class="learn-more-box no-icon fontweight-400"><a href="/https://stateofthesound.wa.gov/">LEARN MORE ABOUT THE STATE OF THE SOUND</a></div>
-						</div>
-					  </div>
-					<!-- slide 3 -->
-					  <div class="item">
-						<img src="images/caroseltest3.jpg" alt="New york" style="width:100%;">
-					  </div>
+						<!--slide wrapper end -->
+						<!-- Left and right controls -->
+						<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+						  <span class="glyphicon glyphicon-chevron-left"></span>
+						  <span class="sr-only">Previous</span>
+						</a>
+						<a class="right carousel-control" href="#myCarousel" data-slide="next">
+						  <span class="glyphicon glyphicon-chevron-right"></span>
+						  <span class="sr-only">Next</span>
+						</a>
 					</div>
-
-					<!-- Left and right controls -->
-					<a class="left carousel-control" href="#myCarousel" data-slide="prev">
-					  <span class="glyphicon glyphicon-chevron-left"></span>
-					  <span class="sr-only">Previous</span>
-					</a>
-					<a class="right carousel-control" href="#myCarousel" data-slide="next">
-					  <span class="glyphicon glyphicon-chevron-right"></span>
-					  <span class="sr-only">Next</span>
-					</a>
-				  </div>
-				</div>
-			
+					<!-- End wrapper for slides -->
 				</div>
 			</div>
 		</div>
