@@ -322,6 +322,7 @@
 						<!--json content here -->
 				</div>
 			</div>
+
 			<!--COLUMN END--> 
 			
 		</div>

@@ -20,7 +20,8 @@ document.addEventListener('DOMContentLoaded', () => {
            upcomingMeetings.forEach((entry, index) => {
                 const content = `
                     <div class="calbox-date">${entry['Meeting Date.1']}</div>
-					<divclass="calbox-text">${entry['Board']}</div> 
+					<div><a href="board_meetings.php">${entry['Board']}</a></div> 
+ 
                 `;
                 divs[index].innerHTML += content;
             });
