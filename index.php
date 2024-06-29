@@ -18,6 +18,7 @@
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
+<link href="css/custom-jon-test.css" rel="stylesheet" type="text/css">
 
 <!-- Font PRENTON TYPEKIT --> 
 <script src="https://use.typekit.net/srt5jze.js"></script> 
@@ -256,63 +257,37 @@
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
+		<!--boards calendar - updates from JSON file for 2024-->
 		<div class="row light-blue-fill"> 
 			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-						<!--news content -->
-					<div class="newsbox-date">JULY<br>
-17&18</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SCIENCE PANEL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content--> 
+				<div id="calendar1" class="newsbox calendarbox"> 
+						<!--json content here -->
 				</div>
 			</div>
 			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">JULY<br>
-					25</div>
-					<div class="newsbox-text"><a href="board_meetings.php">SALMON RECOVERY COUNCIL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content-->
+				<div id="calendar2" class="newsbox calendarbox"> 
+						<!--json content here -->
 				</div>
 			</div>
 			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">AUG<br>
-7</div>
-					<div class="newsbox-text"><a href="board_meetings.php">LEADERSHIP COUNCIL<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content--> 
+				<div id="calendar3" class="newsbox calendarbox"> 
+						<!--json content here -->
 				</div>
 			</div>
 			<!--COLUMN END--> 
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
-				<div class="newsbox calendarbox"> 
-					<!--news content -->
-					<div class="newsbox-date">AUG<br>
-					15</div>
-					<div class="newsbox-text"><a href="board_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
-						<br>
-						</a><br>
-					</div>
-					<!--END news content-->  
+				<div id="calendar4" class="newsbox calendarbox"> 
+						<!--json content here -->
 				</div>
 			</div>
+
 			<!--COLUMN END--> 
 			
 		</div>
@@ -405,6 +380,8 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
+	<!-- board date loader test --> 
+<script src="js/hp-date-loader.js"></script> 
 <!-- Google Tracking  --> 
 
 </body>
