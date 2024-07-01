@@ -64,7 +64,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Tribal RELATIONS</h1>
+			<h1>Tribal RELATIONS - DRAFT</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -159,8 +159,8 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<p class="right-nav-contact">For questions about Tribal Relations:<br />
 					<br>
-					<strong>Lea Anne Burke,</strong> <br>
-					Tribal Affairs Manage<br>
+					<strong>Lea Anne Burke (Lumbee),</strong> <br>
+					Tribal Affairs Manager<br>
 					<a href="mailto:don.gourlie@psp.wa.gov">lea-anne.burke@psp.wa.gov</a><br>
 					360.682.7532<br><br>
 				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Click here</a> to provide feedback on the content and functionality of this page.</p>
