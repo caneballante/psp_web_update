@@ -82,7 +82,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom">
+			<div class="margin-0-top margin-20-bottom">
 			<p>Federally recognized Tribes (Tribes)  retain their rights since time immemorial and are as such inherently sovereign.  Tribes have a unique trust relationship with the United States federal  government as a result of treaties, legislation, and Executive Orders. Their  status as sovereign nations entitles them to a direct government-to-government  relationship with the Federal Government, independent of the states or local  jurisdictions where these Tribes may reside. Tribal nations retain their  inherent rights and are, as such, sovereign and operate their own Tribal  governments to govern their Tribal lands, citizenry and reservation populations  through self-governance and self-determination. </p>
 			<p>			  Under eight treaties negotiated by Territorial Governor  Stevens on behalf of the United States, Tribes ceded 64 million acres of land  to the U.S. for non-Indian settlement and the subsequent establishment of  Washington State. Tribes retained about 6 million acres of reservation land and  specifically retained the right to take fish in their &ldquo;usual and accustomed&rdquo;  areas along with the privilege of hunting on &ldquo;open and unclaimed lands,&rdquo; among  other things.<br>
 			  In 1989, the 26 federally recognized tribes and  the State of Washington under Governor Booth Gardner signed the <a href="https://goia.wa.gov/relations/centennial-accord">Centennial  Accord</a>. This made Washington  State and the Tribes historically the first in the nation to establish a  relationship to strengthen tribal government-to-government relations on issues  of shared interests and to promote collaborative best management practices. Washington  State recognizes its Indigenous peoples&rsquo; inherent right to exercise their  language, cultural beliefs, protection of Tribal resources,  sense of place and territory through their existence and inhabitance of  Washington territory since time immemorial. </p>
@@ -118,17 +118,8 @@
               PTCC typically meets the first Thursday of every month  and is open to all Tribal elected officials and staff. For meeting information please contact the  Partnership&rsquo;s <a href="mailto:lea-anne.burke@pap.wa.gov">Tribal Affairs Manager</a>.</p>
             <h2>Centennial Accord </h2>
             <p>Our Centennial Accord Implementation plan is available at the  Governor&rsquo;s <a href="https://goia.wa.gov/relations/centennial-accord">Office of Indian Affairs</a> website. <br>
-              Agency Centennial  Accord highlights are also available at the Governor&rsquo;s Office of Indian Affairs <a href="https://goia.wa.gov/relations">State-Tribal Relations / Centennial Accord | GOIA (wa.gov)</a> webpage.</p>
-            <h2>Healthy Environment for All (HEAL) Act </h2>
-            <p>The objective of the HEAL Act is to reduce environmental and health  disparities throughout Washington State and improve the health of all  Washington State residents. The Washington State Legislature passed Senate Bill  5141, <a href="http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?q=20210624103236">HEAL Act</a>, to be effective on July 25, 2021. </p>
-            <p> Key priorities of the HEAL Act include reducing exposure to  environmental hazards within Tribal lands, ensuring Tribal sovereignty and  rights in environmental justice (EJ), and eliminating environmental and health  disparities in disadvantaged, vulnerable, and low-income populations.<br>
-              Read more about the <a href="https://psp.wa.gov/HEAL.php">Partnership&rsquo;s HEAL Act</a> program and implementation.<br>
-              HEAL Act Tribal Government Engagement  Guide (Link soon!!)<br>
-              HEAL Act Native American Community  Engagement Guide (Link soon!!)</p><h2>Map of reservations</h2>
-              <p><br>
-                <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpspwa.box.com%2Fs%2Fne189qesovfa5319cqu2z1u17n5s7oz2&data=05%7C02%7Clea-anne.burke%40psp.wa.gov%7C69f7fece3e71425a346508dc6f9c0149%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638507963024255736%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Bhq%2BPFpcrF%2FXsg0jbJ03jXYtRaoM%2BF0zWZkILw%2Fush8%3D&reserved=0">MAP GOES HERE</a><a href="https://pspwa.box.com/s/qzq53cwupaq8tfcswj8lqgqginxd2vi2"></a>
-                </p>
-              </p>
+              Agency Centennial  Accord highlights are also available at the Governor&rsquo;s Office of Indian Affairs <a href="https://goia.wa.gov/relations">State-Tribal Relations / Centennial Accord | GOIA (wa.gov)</a> webpage.</p><h2>Map of reservations<br>
+                <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpspwa.box.com%2Fs%2Fne189qesovfa5319cqu2z1u17n5s7oz2&data=05%7C02%7Clea-anne.burke%40psp.wa.gov%7C69f7fece3e71425a346508dc6f9c0149%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638507963024255736%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Bhq%2BPFpcrF%2FXsg0jbJ03jXYtRaoM%2BF0zWZkILw%2Fush8%3D&reserved=0">MAP GOES HERE</a>              </h2>
               <div>
               <div>
                 <h2>Links and Resources</h2>
