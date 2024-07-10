@@ -50,7 +50,8 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image12"> </header>
+<header class="overview-page-image-style overview-page-image34"> </header>
+
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
 	<div class="col-sm-12 orange"></div>
