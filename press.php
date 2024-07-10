@@ -76,13 +76,20 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<?php include('includes/media_contact.html')?>
-			<h2>Latest News Releases</h2>
-			<div id="newsDiv"></div>
+			<h2 class="margin-0-top">Latest News Releases</h2>
+			<div id="news-releases"></div>
 
 			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top "><p><?php include('includes/media_contact.html')?></p></div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
@@ -97,7 +104,8 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
-<!-- Google Tracking  --> 
+<!-- Google Tracking  -->
+<!-- InstanceBeginEditable name="EditRegion12" --><script src="js/news.js"></script> <!-- InstanceEndEditable --> 
 
 </body>
 <!-- InstanceEnd --></html>

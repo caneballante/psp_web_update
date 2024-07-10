@@ -171,7 +171,8 @@ PULL Quote “Beside this educational value, there is a lasting impression made 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
-<!-- Google Tracking  --> 
+<!-- Google Tracking  -->
+<!-- InstanceBeginEditable name="EditRegion12" -->EditRegion12<!-- InstanceEndEditable --> 
 
 </body>
 <!-- InstanceEnd --></html>
