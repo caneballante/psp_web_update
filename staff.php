@@ -338,7 +338,7 @@
 						<!--EPA PROGRAM-->
 						<h3 class="padding-10-top">EPA PROGRAM</h3>
 						<h5>Jennifer Carlson</h5>
-						<p>Agency Workplan and EPA Grant Coordinator<br />
+						<p>Agency Workplan and EPA Grant Manager<br />
 							360.819.0530 | <a href="mailto:jennifer.carlson@psp.wa.gov">jennifer.carlson@psp.wa.gov</a>
 						   </p>
 						<h5>Colleen Carbery</h5>
@@ -379,7 +379,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 7/8/24</p>
+	<p class="last-update">Last updated: 7/19/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
