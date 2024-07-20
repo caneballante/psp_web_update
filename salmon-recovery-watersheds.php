@@ -166,9 +166,9 @@
 				</tr>
 				<tr>
 					<td>Skagit </td>
-					<td>Richard Brocksmith, Skagit Watershed Council </td>
-					<td>360-826-2164</td>
-					<td><a class="small-links" href="mailto:rbrocksmith@skagitwatershed.org" target="_blank">rbrocksmith@skagitwatershed.org</a></td>
+					<td> Aundrea McBride, Skagit Watershed Council </td>
+					<td>301-661-4270</td>
+					<td><a class="small-links" href="mailto:amcbride@skagitwatershed.org" target="_blank">amcbride@skagitwatershed.org</a></td>
 					<td><a href="https://pspwa.box.com/s/nkozi1aav9l6jadot39sq9qy55mjdp5s">2005 Skagit Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
