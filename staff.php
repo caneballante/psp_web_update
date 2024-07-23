@@ -359,8 +359,9 @@
 						<h5>Shannon Sanders</h5>
 						<p>Grants, Contracts, and Compliance Manager<br />
 							360.688.3772 | <a href="mailto:shannon.sanders@psp.wa.gov">shannon.sanders@psp.wa.gov</a></p>
-						<h5>VACANT</h5>
-						<p>Contracts Coordinator</p>
+						<h5>Kevin tongue</h5>
+						<p>Contracts Coordinator<br  />
+							360.819.6018 | <a href="mailto:kevin.tongue@psp.wa.gov">kevin.tongue@psp.wa.gov</a></p>
 						<h5>Zhen Zhen Yuan</h5>
 						<p>Fiscal and Budget Analyst<br>
 							360.827.1927 | <a href="mailto:zhenzhen.yuan@psp.wa.gov">zhenzhen.yuan@psp.wa.gov</a></p>
