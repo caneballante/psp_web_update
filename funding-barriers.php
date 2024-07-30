@@ -102,18 +102,23 @@ navSelected = 4;
 		<p> To identify and organize funding barriers faced by Tribes and local partners in a way that is actionable, the Strategic Funding Team conducted an analysis of over 400
 			  documents leading to the creation of a funding barriers framework. Through this 
 			  framework, we organized funding barriers identified by Tribes and local partners into 
-			  four primary funding barriers including: 1) Misalignment of Scale, 2) Systemic 
-			  Application Constraints, 3) Failed Governance, and 4) Insufficient Organizational
-			  Capacity. As these are complex and dynamic challenges, the Strategic Funding Team
+		    four primary funding barriers including: </p>
+		<p>1) Misalignment of Scale</p>
+		<p>2) Systemic 
+		    Application Constraints</p>
+		<p>3) Failed Governance</p>
+		<p>4) Insufficient Organizational
+		    Capacity. </p>
+		<p>As these are complex and dynamic challenges, the Strategic Funding Team
 			  identified enabling conditions that not only contribute to each of these barriers but also
-			  occur as a result of these barriers. Addressing any one of these primary funding barriers<br>
+			  occur as a result of these barriers. Addressing any one of these primary funding barriers
 		  as well as the enabling conditions will require a large amount of capacity, coordination,
 		  and systems change. With this in mind, as well as our team’s capacity, it was determined
 		  to begin addressing these barriers at the enabling conditions level. Below is a visual
 		  representation of how we understand these issues to be interacting with one another.
 		  This information will be summarized in our <strong>Funding Barriers Framework
 		    Document </strong>(expected for release Fall 2024).</p>
-		<p>IMAGE</p>
+		<p><img src="images/Four-Primary-Funding-Barriers.png" width="1246" height="769" alt=""/></p>
 		<p>The Strategic Funding Team weighed the pros and cons of addressing each enabling
 			  condition, reviewed identified solutions discussed within previous forums, and held
 			  internal discussions to make decisions of where to focus. Five criteria were also used to
