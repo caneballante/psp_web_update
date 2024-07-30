@@ -103,12 +103,14 @@ navSelected = 4;
 			  documents leading to the creation of a funding barriers framework. Through this 
 			  framework, we organized funding barriers identified by Tribes and local partners into 
 		    four primary funding barriers including: </p>
-		<p>1) Misalignment of Scale</p>
-		<p>2) Systemic 
-		    Application Constraints</p>
-		<p>3) Failed Governance</p>
-		<p>4) Insufficient Organizational
-		    Capacity. </p>
+		<ol>
+		  <li>Misalignment of Scale.</li>
+		  <li> Systemic 
+		    Application Constraints.</li>
+		  <li>Failed Governance.</li>
+		  <li> Insufficient Organizational
+		    Capacity. </li>
+	    </ol>
 		<p>As these are complex and dynamic challenges, the Strategic Funding Team
 			  identified enabling conditions that not only contribute to each of these barriers but also
 			  occur as a result of these barriers. Addressing any one of these primary funding barriers
@@ -118,7 +120,9 @@ navSelected = 4;
 		  representation of how we understand these issues to be interacting with one another.
 		  This information will be summarized in our <strong>Funding Barriers Framework
 		    Document </strong>(expected for release Fall 2024).</p>
+		<p>&nbsp;</p>
 		<p><img src="images/Four-Primary-Funding-Barriers.png" width="1246" height="769" alt=""/></p>
+		<p>&nbsp;</p>
 		<p>The Strategic Funding Team weighed the pros and cons of addressing each enabling
 			  condition, reviewed identified solutions discussed within previous forums, and held
 			  internal discussions to make decisions of where to focus. Five criteria were also used to
@@ -149,18 +153,22 @@ navSelected = 4;
 		<p> One of the consistent messages from LIOs during these forums is the large burden
 			  associated with current grant program design and administration that perpetuate
 			  inequities (between rural and urban areas) and continue to strain capacity of project
-			  sponsors (especially those of smaller organizations and Tribes, non-profits, and rural<br>
-			  communities). To address these burdens felt by project sponsors, LIOs have asked the
+			  sponsors (especially those of smaller organizations and Tribes, non-profits, and rural communities). To address these burdens felt by project sponsors, LIOs have asked the
 			  Leadership Council to support increased regional coordination, regional allocations,
 			  streamlined grant processes, elimination of duplicative applications,
 	        reduced/eliminated match requirements, and exploration of integrated watershed-
 	        based portfolios. These same challenges have been voiced by Tribes and LEs as well.</p>
 			<p> This work aims to address these concerns and asks brought forth to the Management
 	        Boards by our partners. The Leadership Council and Puget Sound Partnership continue
-	        to address several of these barriers through two mechanisms: 1) by strengthening the
-	        ability of the Align Partnership to advance efforts that crosscut and streamline state
-	        grant programs; and 2) by establishing a Strategic Funding Team to address additional<br>
-	        funding-related barriers and increase capacity to secure funding.</p><h2><strong>ANTICIPATED NEXT STEPS &amp; OUTCOMES</strong></h2></p>
+	        to address several of these barriers through two mechanisms: </p>
+			<ol>
+			  <li>By strengthening the
+			    ability of the Align Partnership to advance efforts that crosscut and streamline state
+			    grant programs.</li>
+			  <li>By establishing a Strategic Funding Team to address additional
+			    funding-related barriers and increase capacity to secure funding.</li>
+	    </ol>
+			<h2><strong>ANTICIPATED NEXT STEPS &amp; OUTCOMES</strong></h2></p>
 		<p> Addressing any of the primary funding barriers or enabling conditions will require
 			  significant systems change. The landscape to apply for and acquire funding varies
 			  greatly as each funder’s system is different. That in and of itself is a barrier, but it is also
