@@ -121,7 +121,7 @@ navSelected = 4;
 		  This information will be summarized in our <strong>Funding Barriers Framework
 		    Document </strong>(expected for release Fall 2024).</p>
 		<p>&nbsp;</p>
-		<p><img src="images/Four-Primary-Funding-Barriers.png" width="1246" height="769" alt=""/></p>
+		<p><img src="images/Four-Primary-Funding-Barriers.png" width="1246" height="769" alt="" class="img-responsive img-rounded"/></p>
 		<p>&nbsp;</p>
 		<p>The Strategic Funding Team weighed the pros and cons of addressing each enabling
 			  condition, reviewed identified solutions discussed within previous forums, and held
