@@ -209,20 +209,17 @@ navSelected = 4;
 
         <!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->Contact
-        <div class="right-nav-title margin-0-top "></div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" --><strong>CONTACT</strong>
+                <div class="right-nav-title margin-0-top "></div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p>For questions about funding barriers:</p>
-				<p><strong>Jessica Reynolds<br>
-				</strong>Funding Barrier Strategist<br>
-				<a href="mailto:jessica.reynolds@psp.wa.gov" target="_blank"><strong>jessica.reynolds@psp.wa.gov<br>
-				</strong></a>360.870.6165</p>
-				</li>
-				
-			
-				<!-- InstanceEndEditable -->
+				<p class="right-nav-contact">For questions about funding barriers:<br />
+					<br>
+					<strong>Jessica Reynolds,</strong> <br>
+					Funding Barrier Strategist<br>
+					<a href="mailto:jessica.reynolds@psp.wa.gov">jessica.reynolds@psp.wa.gov</a><br>
+					360.870.6165<br><br><!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
