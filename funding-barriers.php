@@ -92,7 +92,9 @@ navSelected = 4;
 			  an update on these lines of work, including an overview of the funding barriers framework and the Strategic Funding Team’s decision to begin addressing the issues of
 		  <strong>match requirements</strong> and <strong>multiple application demands</strong>. </p>
 			<p>Below please find a 12-minute video that summarizes this work here:</p>
-			<p>Website Funding Barriers Recording.mp4 | Powered by Box</p><h2>What is a funding barrier?</h2></p>
+			<p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/993016997?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Addressing Funding Barriers"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>
+			<p>&nbsp;</p>
+			<h2>What is a funding barrier?</h2></p>
 			<p>We define a<strong> funding barrier</strong> as systemic roadblocks that hinder one’s ability to access and acquire funding needed to support projects and initiatives. These barriers can
 			  include things like complicated application processes or not enough capacity to look for
 			  available funds; however, for our purposes, they do not include solely a general lack of 
