@@ -93,7 +93,7 @@ navSelected = 4;
 		  framework and the Strategic Funding Team’s decision to begin addressing the issues of
 		  <strong>match requirements</strong> and <strong>multiple application demands</strong>. </p>
 			<p>Below please find a 12-minute video that summarizes this work here:</p>
-			<p>Website Funding Barriers Recording.mp4 | Powered by Box</p>
+			<p>Website Funding Barriers Recording.mp4 | Powered by Box</p><h2>What is a funding barrier?</h2></p>
 			<p>We define a<strong> funding barrier</strong> as systemic roadblocks that hinder one’s ability to access and acquire funding needed to support projects and initiatives. These barriers can
 			  include things like complicated application processes or not enough capacity to look for
 			  available funds; however, for our purposes, they do not include solely a general lack of 
@@ -129,18 +129,19 @@ navSelected = 4;
 			  weigh these enabling conditions between one another. These criteria included whether
 	    addressing each enabling condition: </p>
 		<ol>
-		  <li>Helps to address other issues </li>
-		  <li>Contributes to
-		    EEJ goals</li>
-		  <li>Has momentum throughout the region that we can build on and learn
-		    from</li>
-		  <li>Can be addressed quickly, and 5) seems feasible given support (or lack thereof)
+		  <li>Helps to address other issues. </li>
+		  <li>Contributes to EEJ goals.</li>
+		  <li>Has momentum throughout the region that we can build on and learn from.</li>
+		  <li>Can be addressed quickly.</li>
+		  <li>Seems feasible given support (or lack thereof)
 		    for these issues already.</li>
 	    </ol>
 		<p> As a result of this selection process, the Strategic Funding Team will begin by addressing:		    </p>
-		<p>1) match requirements </p>
-		<p>2) multiple application demands over the next
-		    coming years. </p>
+		<ol>
+		  <li>Match requirements. </li>
+		  <li>Multiple application demands over the next
+		    coming years. </li>
+	    </ol>
 		<p>Our team is dedicated to leading the implementation of strategies to
 			  address these enabling conditions, which we hope will create a more efficient and
 		    equitable funding application process. </p>
@@ -184,14 +185,18 @@ navSelected = 4;
 			  strategies developed to specifically tackle<strong> match requirements</strong> and <strong>multiple application
 		    demands. </strong>The Strategic Funding Team will then brief the management boards on the
 		    strategies developed to specifically tackle match requirements and multiple application
-		    demands and seek feedback. </p><h2><strong>PARTNER ENGAGEMENT &amp; REQUEST FOR INPUT</strong></h2></p>
+		    demands and seek feedback. </p>
+	<p><h2>Request for input</h2></p>
+			<h3><strong>PARTNER ENGAGEMENT</strong>			</h3>
 			<p> We invite partners to engage in this work and share experiences with various funding
-		    barriers, which is needed to tackle these huge issues together. </p><h2><strong>FOR TRIBES AND LOCAL PARTNERS</strong></h2></p>
+		    barriers, which is needed to tackle these huge issues together. </p>
+	<h3><strong>FOR TRIBES AND LOCAL PARTNERS</strong></h3></p>
 			<p> If you have experienced or are experiencing barriers to accessing, receiving, and
-		    implementing funding, please let us know by filling out this quick form <a href="https://app.smartsheet.com/b/form/3e88c1292c5d468596221957fcb1fe57" target="new"><strong>here</strong></a>. </p><h2><strong>FOR INTERNAL PSP STAFF, FUNDERS, AND OTHER INTERESTED
-			PARTIES</strong></h2></p>
+		    implementing funding, please let us know by filling out this quick form <a href="https://app.smartsheet.com/b/form/3e88c1292c5d468596221957fcb1fe57" target="new"><strong>here</strong></a>. </p>
+<h3><strong>FOR INTERNAL PSP STAFF, FUNDERS, AND OTHER INTERESTED
+			PARTIES</strong></h3></p>
 			<p> If you hear of funding barriers that our partners are facing, please let us know by filling
-		    out this quick form <a href="https://app.smartsheet.com/b/form/eb5e60e65da845e797215c35fc90d745" target="new"><strong>here</strong></a>. </p><h2><strong>FOR FUNDERS</strong></h2></p>
+		    out this quick form <a href="https://app.smartsheet.com/b/form/eb5e60e65da845e797215c35fc90d745" target="new"><strong>here</strong></a>. </p><h3><strong>FOR FUNDERS</strong></h3></p>
 			<p> If you would like a summary of funding barriers identified through our previous work
 			  and encountered by partners as they specifically relate to your funding program, please
 			  submit a request <a href="https://app.smartsheet.com/b/form/62a069e9e72a443e90a8d25721f1c039" target="new"><strong>here</strong></a>.</p>
@@ -209,12 +214,13 @@ navSelected = 4;
 
         <!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->Contact
+		        <div class="right-nav-title margin-0-top "></div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
+				<li class="active" role="presentation"><strong>Jessica Reynolds</strong> - Funding Barrier Strategist</li>
+				<li class="active" role="presentation"><a href="mailto:jessica.reynolds@psp.wa.gov" target="_blank"><strong>jessica.reynolds@psp.wa.gov</strong></a> - 360.870.6165</li>
 				
 			
 				<!-- InstanceEndEditable -->
