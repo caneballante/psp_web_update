@@ -261,13 +261,13 @@
 						<p>Data Systems Support Specialist<br />
 						 360.529.6570 |<a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov </a></p>
 
-						 <h5>VACANT</h5>
+						 <h5>Laura Vary</h5>
 						<p>Progress Indicator Lead<br />
-						
-			
-						<h5>Laura Vary</h5>
-						<p>Monitoring Data Coordinator and Analyst<br />
 						360.742.6989 | <a href="mailto:laura.vary@psp.wa.gov">laura.vary@psp.wa.gov</a></p>
+			
+						<h5>VACANT</h5>
+						<p>Monitoring Data Coordinator and Analyst<br />
+						
 						
 						
 						
