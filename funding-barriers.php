@@ -89,8 +89,7 @@ navSelected = 4;
 		<p>Our vision is to address barriers Tribes and local partners have in acquiring funding, 
 			  creating a more efficient, equitable system that increases funding for salmon and 
 			  ecosystem recovery work. Through the information provided below, we aim to provide
-			  an update on these lines of work, including an overview of the funding barriers<br>
-		  framework and the Strategic Funding Team’s decision to begin addressing the issues of
+			  an update on these lines of work, including an overview of the funding barriers framework and the Strategic Funding Team’s decision to begin addressing the issues of
 		  <strong>match requirements</strong> and <strong>multiple application demands</strong>. </p>
 			<p>Below please find a 12-minute video that summarizes this work here:</p>
 			<p>Website Funding Barriers Recording.mp4 | Powered by Box</p><h2>What is a funding barrier?</h2></p>
@@ -199,11 +198,7 @@ navSelected = 4;
 		    out this quick form <a href="https://app.smartsheet.com/b/form/eb5e60e65da845e797215c35fc90d745" target="new"><strong>here</strong></a>. </p><h3><strong>FOR FUNDERS</strong></h3></p>
 			<p> If you would like a summary of funding barriers identified through our previous work
 			  and encountered by partners as they specifically relate to your funding program, please
-			  submit a request <a href="https://app.smartsheet.com/b/form/62a069e9e72a443e90a8d25721f1c039" target="new"><strong>here</strong></a>.</p>
-			<h2><strong>Contact</strong><strong>&nbsp;</strong></h2>
-            <p><strong>Jessica Reynolds</strong><br>
-              Funding Barrier Strategist<br>
-              360.870.6165 | <a href="mailto:jessica.reynolds@psp.wa.gov" target="new">jessica.reynolds@psp.wa.gov</a><br>
+			  submit a request <a href="https://app.smartsheet.com/b/form/62a069e9e72a443e90a8d25721f1c039" target="new"><strong>here</strong></a>.<br>
             </p>
         <p><br>
         </p>
@@ -215,12 +210,16 @@ navSelected = 4;
         <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->Contact
-		        <div class="right-nav-title margin-0-top "></div>
+        <div class="right-nav-title margin-0-top "></div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"><strong>Jessica Reynolds</strong> - Funding Barrier Strategist</li>
-				<li class="active" role="presentation"><a href="mailto:jessica.reynolds@psp.wa.gov" target="_blank"><strong>jessica.reynolds@psp.wa.gov</strong></a> - 360.870.6165</li>
+				<p>For questions about funding barriers:</p>
+				<p><strong>Jessica Reynolds<br>
+				</strong>Funding Barrier Strategist<br>
+				<a href="mailto:jessica.reynolds@psp.wa.gov" target="_blank"><strong>jessica.reynolds@psp.wa.gov<br>
+				</strong></a>360.870.6165</p>
+				</li>
 				
 			
 				<!-- InstanceEndEditable -->
