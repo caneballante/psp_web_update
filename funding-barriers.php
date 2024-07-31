@@ -185,9 +185,9 @@ navSelected = 4;
 		    demands. </strong>The Strategic Funding Team will then brief the management boards on the
 		    strategies developed to specifically tackle match requirements and multiple application
 		    demands and seek feedback. </p>
-	<p><h2>Request for input</h2></p>
-			<h3><strong>PARTNER ENGAGEMENT</strong>			</h3>
-			<p> We invite partners to engage in this work and share experiences with various funding
+	<p>
+	<h2>Partner engagement and Request for input		</h2>
+	<p> We invite partners to engage in this work and share experiences with various funding
 		    barriers, which is needed to tackle these huge issues together. </p>
 	<h3><strong>FOR TRIBES AND LOCAL PARTNERS</strong></h3></p>
 			<p> If you have experienced or are experiencing barriers to accessing, receiving, and
