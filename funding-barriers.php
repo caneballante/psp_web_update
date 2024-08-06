@@ -86,7 +86,7 @@ navSelected = 4;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-		<p><em>Our  vision is to address barriers Tribes and local partners have in acquiring  funding, creating a more efficient and fair system that increases funding for  salmon and ecosystem recovery work</em>.</p>
+		<p><em>Our  vision is to address barriers Tribes and local partners have in acquiring  funding, creating a more efficient and equitable system that increases funding for  salmon and ecosystem recovery work</em>.</p>
 		<h2>Overview</h2>
 		<p>Since  September of 2020, the Leadership Council and Ecosystem Coordination Board have  hosted local forums to provide Local Integrating Organizations (LIOs), Lead  Entities (LEs), and other partners the opportunity to identify and help  troubleshoot barriers that local partners are facing in implementing recovery  plans and priorities. From 2022 to 2024, barriers related to grant funding have  featured prominently in recent local forums with the Leadership Council and  Ecosystem Coordination Board. </p>
 			<p>Please find a 12-minute video that summarizes this work below:</p>
@@ -94,12 +94,13 @@ navSelected = 4;
 			<p>&nbsp;</p>
 			<h2>What is a funding barrier?</h2></p>
 			<p>We  define a <strong>funding barrier</strong> as a roadblock that prevents someone from  accessing and acquiring funding needed to support projects and initiatives. These  barriers can include things like complicated application processes or not  enough capacity to look for available funds. This does not include a general  lack of funds, which we consider <em>funding needs</em> or <em>funding gaps</em> and are being tackled separately by the Strategic Funding Team.</p>
+			<h2>Methods and next steps</h2>
 			<p>To  identify and organize funding barriers faced by Tribes and local partners, the  Strategic Funding Team conducted an analysis of over 400 documents, including  those from the local forums, leading to the creation of a funding barriers  framework. The framework is organized into four primary funding barriers and  the conditions that not only contribute to each of these barriers but also  occur because of them. Below is an image of how we understand these issues to  be interacting with one another. This information will be summarized in our <strong><u>Funding  Barriers Framework Document</u></strong> (expected for release Fall 2024). </p>
 		<p>&nbsp;</p>
 		<p><img src="images/Four-Primary-Funding-Barriers.png" width="1246" height="769" alt="" class="img-responsive img-rounded"/></p>
 		<p>&nbsp;</p>
 		<p>Over  the next few years, the Strategic Funding Team will begin addressing these barriers,  starting at the enabling condition level. </p>
-		<p>After  a selection process, the Strategic Funding Team will begin by addressing 1) <strong>match  requirements </strong>and 2) <strong>multiple application demands</strong>. Our team is  dedicated to leading the implementation of strategies to address these enabling  conditions, which we hope will create a more efficient and fair funding  application process.		    </p>
+		<p>After  a selection process, the Strategic Funding Team will begin by addressing 1) <strong>match  requirements </strong>and 2) <strong>multiple application demands</strong>. Our team is  dedicated to leading the implementation of strategies to address these enabling  conditions, which we hope will create a more efficient and equitable funding  application process.		    </p>
 		<h2>Partner engagement and Request for input		</h2>
 	<p>We  invite partners to engage in this work and share experiences with various  funding barriers, which is needed to tackle these huge issues together. </p>
 	<h3><strong>FOR TRIBES AND LOCAL PARTNERS</strong></h3></p>
