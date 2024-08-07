@@ -86,7 +86,7 @@ navSelected = 4;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-		<p><em>Our  vision is to address barriers Tribes and local partners have in acquiring  funding, creating a more efficient and equitable system that increases funding for  salmon and ecosystem recovery work</em>.</p>
+		<p><em>Our  goal is to address barriers Tribes and local partners have in acquiring  funding, creating a more efficient and equitable system that increases funding for  salmon and ecosystem recovery work</em>.</p>
 		<h2>Overview</h2>
 		<p>Since  September of 2020, the Leadership Council and Ecosystem Coordination Board have  hosted local forums to provide Local Integrating Organizations (LIOs), Lead  Entities (LEs), and other partners the opportunity to identify and help  troubleshoot barriers that local partners are facing in implementing recovery  plans and priorities. From 2022 to 2024, barriers related to grant funding have  featured prominently in recent local forums with the Leadership Council and  Ecosystem Coordination Board. </p>
 			<p>Please find a 12-minute video that summarizes this work below:</p>
