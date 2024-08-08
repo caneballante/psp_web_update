@@ -258,7 +258,7 @@
 						<p> Performance Management Analyst<br/>
 							360.706.3334 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a> </p> 
 						<h5>Wessyl Kelly</h5>
-						<p>Data Systems Support Specialist<br />
+						<p>Data and Adaptive Systems Support Specialist<br />
 						 360.529.6570 |<a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov </a></p>
 
 						 <h5>Laura Vary</h5>
@@ -385,7 +385,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 8/6/24</p>
+	<p class="last-update">Last updated: 8/8/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
