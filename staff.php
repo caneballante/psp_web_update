@@ -325,9 +325,7 @@
 						<p>Workplace Culture Specialist<br>
 						360.968.9924 | <a href="mailto:bryan.gordon@psp.wa.gov">bryan.gordon@psp.wa.gov</a></p>
 						
-						<h5>Jackelyn Garcia</h5>
-						<p>
-						360.480.0475 | <a href="mailto:jackelyn.garcia@psp.wa.gov">jackelyn.garcia@psp.wa.gov</a></p>
+						
 						<!--ADMINISTRATIVE SUPPORT-->
 						<h3 class="padding-10-top">Administrative Support Team</h3>
 												
@@ -349,6 +347,10 @@
 						<h5>Colleen Carbery</h5>
 						<p>Administrative Services Support Specialist<br>
 							360.827.0768 | <a href="mailto:colleen.carbery@psp.wa.gov">colleen.carbery@psp.wa.gov</a></p>
+			
+						<h5>Jackelyn Garcia</h5>
+						<p>Compliance and Reporting Specialist<br>
+						360.480.0475 | <a href="mailto:jackelyn.garcia@psp.wa.gov">jackelyn.garcia@psp.wa.gov</a></p>
 						<!--FISCAL PROGRAM-->
 						<h3 class="padding-10-top">FISCAL PROGRAM</h3>
 						<h5>Sheridan Tabor</h5>
@@ -385,7 +387,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 8/8/24</p>
+	<p class="last-update">Last updated: 8/15/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
