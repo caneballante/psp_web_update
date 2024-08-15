@@ -349,7 +349,7 @@
 							360.827.0768 | <a href="mailto:colleen.carbery@psp.wa.gov">colleen.carbery@psp.wa.gov</a></p>
 			
 						<h5>Jackelyn Garcia</h5>
-						<p>Compliance and Reporting Specialist<br>
+						<p>
 						360.480.0475 | <a href="mailto:jackelyn.garcia@psp.wa.gov">jackelyn.garcia@psp.wa.gov</a></p>
 						<!--FISCAL PROGRAM-->
 						<h3 class="padding-10-top">FISCAL PROGRAM</h3>
