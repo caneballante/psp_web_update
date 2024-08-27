@@ -92,6 +92,39 @@ navSelected = 4;
 			
 			<h2>Significant Agency Action</h2>
 			<p>Our initial list of specific significant  agency actions include:			</p>
+			<table width="902" height="202" border="1">
+			  <tbody>
+			    <tr>
+			      <th width="110" scope="col">Initiation Date</th>
+			      <th width="290" scope="col">Project Name (more info link)</th>
+			      <th width="178" scope="col">Key Themes</th>
+			      <th width="108" scope="col">Status</th>
+			      <th width="182" scope="col">Significatn Agency Action Type (link to relevant code)</th>
+		        </tr>
+			    <tr>
+			      <th scope="row">7/18/24</th>
+			      <td><p data-pm-slice="1 1 []"><a href="https://psp.wa.gov/PSAR.php" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-00104174-3250-43fd-ad05-bb313fd98171">PSAR</a> Large Capital Grant Round Request for Proposals</p></td>
+			      <td><p data-pm-slice="1 1 []">Salmon, flood reduction, treaty rights, public/community access, climate resilience, infrastructure, restoration.</p></td>
+			      <td>Ongoing</td>
+			      <td><p data-pm-slice="1 1 []"><a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.010" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-253d596f-cc6d-4cb4-a21a-2b9a16b81a78">New grant or loan program</a></p></td>
+		        </tr>
+			    <tr>
+			      <th scope="row">11/9/23</th>
+			      <td><p data-pm-slice="1 1 []"><a href="https://psp.wa.gov/science-workplan.php" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-933ee8bd-dea2-41bd-9649-c9b1a3366e63">Science Work Plan</a> for 2025-2029</p></td>
+			      <td><p data-pm-slice="1 1 []">Science investment, science priorities, research, science advancements.</p></td>
+			      <td>Ongoing</td>
+			      <td><p data-pm-slice="1 1 []"><a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-5c6ea7ae-f533-4ef8-9eae-2cff41a500a9">Other</a></p></td>
+		        </tr>
+			    <tr>
+			      <th scope="row">1/1/24</th>
+			      <td><p data-pm-slice="1 1 []">2026-2030 <a href="https://psp.wa.gov/2022AAupdate.php" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-584f086b-8d78-49fa-ac2e-95dba09db524">Action Agenda</a> for Puget Sound</p></td>
+			      <td><p data-pm-slice="1 1 []">Planning, ecosystem recovery, climate resilience, water quality, public health.</p></td>
+			      <td>Ongoing</td>
+			      <td><p data-pm-slice="1 1 []"><a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-4901278c-6321-4136-922a-f8504338c982">Other</a></p></td>
+		        </tr>
+		      </tbody>
+	    </table>
+			<p>&nbsp;</p>
 			<p>	Per <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.leg.wa.gov%2FRCW%2Fdefault.aspx%3Fcite%3D70A.02.010&data=05%7C01%7Clea-anne.burke%40psp.wa.gov%7C1d86ba148c604c448ab408db53130195%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638195113315120507%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b6pK6Z8jtPz0cfn1Mk84UsvwC4qs5Zzs23%2B8UqxSKhw%3D&reserved=0" target="_blank">RCW 70A.02.010 (12)</a> (c)</p>
 			<ul class="bullet-size-fix">
 				<li><a href="/PSAR.php">Puget Sound Acquisition and Restoration biennial grant round</a></li>
