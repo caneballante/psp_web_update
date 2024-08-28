@@ -76,10 +76,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox">
-			<p>SAVE THE DATE: Puget Sound Day on the Hill is scheduled for the week of May 8, 2023. Registration and travel information is <a href="https://www.psdoth.org/" target="new">available here.</a></p>
-			</div><br>
-			
+						
 			<p>Puget Sound recovery is a not only a regional priority; it is critical to the environmental and economic well-being of the entire nation. As such, the Environmental Protection Agency designated Puget Sound as an “Estuary of National Significance” under the <a href="https://www.epa.gov/nep/overview-national-estuary-program" target="new">National Estuary Program</a> in 1988. From appropriator to regulator to trustee for Tribes, numerous Federal government entities play multiple critical roles to help advance Puget Sound recovery efforts</p><br>
 			
 			<h2>New Funding Opportunities</h2>
