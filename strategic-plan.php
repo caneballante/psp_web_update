@@ -75,7 +75,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Puget Sound Partnership's <a href="https://pspwa.box.com/s/rm9jw5ievexxhs32hx3c3djvwbjok0ih" target="_blank">Strategic Plan 2020-2025</a> contains information about our vision, mission, roles, and outcomes, and our goals for 2022 and 2025 for improving effectiveness and accountability; strengthening the system of recovery; building the case for recovery and rallying support; and enhancing our internal performance.</p>
+			<p>The Puget Sound Partnership's <a href="https://pspwa.box.com/s/q4ahwskmrytiqz6b9ya1271djv9bb9bb" target="_blank">Strategic Plan 2024-2029</a> contains information about our vision, mission, roles, and outcomes, and our goals for 2024 and 2029 for improving effectiveness and accountability; strengthening the system of recovery; building the case for recovery and rallying support; and enhancing our internal performance.</p>
 			<p><br>
 			  <br>
 			  <br>
