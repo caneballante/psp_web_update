@@ -97,7 +97,7 @@
 			<div class="padding-5-bottom"><a href="2022AAupdate.php">2022-2026 Action Agenda</a></div>
 			<div class="padding-5-bottom"><a href="implementation-strategies.php">Implementation Strategies</a> </div>
 			<div class="padding-5-bottom"><a href="science-adaptive-management-framework.php">Results-based management</a></div>
-			<div class="padding-5-bottom"><a href="strategic-plan.php">Strategic Plan 2024-2029</a></div>
+			<div class="padding-5-bottom"><a href="strategic-plan.php"><span class="new-red">NEW! </span>Strategic Plan 2024-2029</a></div>
 		</div>
 		<div class="col-sm-3 padding-40-top"> <img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive img-rounded"/> </div>
 		<div class="col-sm-3 padding-20-top">
