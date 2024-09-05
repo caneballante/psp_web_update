@@ -294,7 +294,7 @@
 						<p> Vital Signs Reporting Analyst<br>
 							564.669.8282 | <a href="mailto:kenna.kuhn@psp.wa.gov">kenna.kuhn@psp.wa.gov</a></p>
 						<h5>VACANT</h5>
-						<p> Monitoring Performance Analyst <br>
+						<p> Monitoring Program Effectiveness Analyst <br>
 							</p>
 						<h5>Annelise Del Rio</h5>
 						<p>	Monitoring Performance Analyst/Salmon Scientist <br>
@@ -391,7 +391,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 8/27/24</p>
+	<p class="last-update">Last updated: 9/5/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
