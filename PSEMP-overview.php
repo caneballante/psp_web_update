@@ -121,7 +121,7 @@
 					<tr>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5" target="new">Salmonids </a></td>
 						<td class="no-icon"><a href="https://psemp-spatialdataworkgroup-wa-psp.hub.arcgis.com/" target="new">Spatial Data </a></td>
-						<td class="no-icon"><a href="https://ecology.wa.gov/About-us/Accountability-transparency/Partnerships-committees/Stormwater-Work-Group" target="new">Stormwater </a></td>
+						<td class="no-icon"><a href="https://sites.google.com/site/pugetsoundstormwaterworkgroup/home" target="new">Stormwater </a></td>
 						<td class="no-icon"><a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics </a></td>
 					</tr>
 					<tr>
@@ -130,8 +130,7 @@
 					</tr>
 					<tr>
 						
-						<td colspan="4" class="no-icon"><a href="https://pspwa.app.box.com/notes/834293417461?s=qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a><br><br>
-						<a href="https://pspwa.box.com/s/ytvmmzdddoelx0y0s6750akzeu47ch00" target="new">Communications Subcommittee</a></td>
+						<td colspan="4" class="no-icon"><a href="https://pspwa.box.com/s/ytvmmzdddoelx0y0s6750akzeu47ch00" target="new">Communications Subcommittee</a></td>
 						
 					</tr>
 					
@@ -146,10 +145,10 @@
 			<p>PSEMP is a coordinated network of the Puget Sound monitoring community, working together to accelerate Puget Sound recovery.  PSEMP members track ecosystem and human wellbeing conditions and, in topical work groups, determine trends, monitoring priorities and effectiveness of recovery actions – all intended to inform recovery actions throughout Puget Sound.  The network is supported by Puget Sound Partnership and fueled by significant in-kind contributions of participating organizations, especially those who serve in leadership roles. </p>
 			
 			<h4>Adaptive Management</h4>
-			<p>Information and products coming out of the PSEMP network provides the relevant, credible, and timely information needed to support adaptive management of recovery efforts. The four major elements of the Adaptive Management Framework are described in this <a href="images/PSEMP/2018-psemp-figures-1.jpg" target="_blank">image</a>. More information about PSEMP’s Adaptive Management roles can be found in the <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi" target="new">PSEMP Strategic Plan</a>.</p>
+			<p>Information and products coming out of the PSEMP network provides the relevant, credible, and timely information needed to support adaptive management of recovery efforts. The four major elements of the Adaptive Management Framework are described in this <a href="images/PSEMP/2018-psemp-figures-1.jpg" target="_blank">image</a>. More information about PSEMP’s Adaptive Management roles can be found in the <a href="https://pspwa.box.com/s/xf3swog4yshyiylrpcwx74owvy8yscum" target="new">PSEMP Strategic Plan</a>.</p>
 			<h4>Communication</h4>
 			<p>The recently produced  <a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke" target="new">PSEMP Communications Strategy</a></li> lays the groundwork for improving access to, and use of, credible information to guide Puget Sound recovery decisions.  Our primary communication goals are to foster dialogue and information sharing within the monitoring and assessment community and to those who are making decisions on the ground, in policy and in funding decisions.  </p>
-			<p class="last-update">Last updated: 9/5/23</p>
+			<p class="last-update">Last updated: 9/5/24</p>
 			
 			
 <!-- InstanceEndEditable --> </div>
@@ -161,7 +160,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				
 				<li role="presentation"> <a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke" target="new">PSEMP Communications Plan</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/hjfgnvf7v8qvf66pbejzz9wby71uqsoi" target="new">PSEMP Strategic Plan</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/xf3swog4yshyiylrpcwx74owvy8yscum" target="new">PSEMP Strategic Plan</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/ul7s825ij31l10bnbvgn0p1hofjfhy9k" target="new">PSEMP Work Plans and Annual Reports</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/h2jphymdvsg5ooyi35jxjsdo0y22qzn1" target="new">PSEMP Brochure</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/7yvv4a8gsndi4w6dkx7rexufct3ypp16" target="new">PSEMP Newsletters</a></li>
@@ -185,9 +184,8 @@
 					<li role="presentation"> <a href="https://pspwa.box.com/s/wgbl9zmrov2nd4qdor5iwvlnkckg6hac" target="new">Nearshore Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5" target="new">Salmonids Work Group</a></li>
 					<li role="presentation"> <a href="https://psemp-spatialdataworkgroup-wa-psp.hub.arcgis.com/" target="new">Spatial Data Work Group</a></li>
-					<li role="presentation"> <a href="https://ecology.wa.gov/About-us/Accountability-transparency/Partnerships-committees/Stormwater-Work-Group" target="new">Stormwater Work Group</a></li>
+					<li role="presentation"> <a href="https://sites.google.com/site/pugetsoundstormwaterworkgroup/home" target="new">Stormwater Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics Work Group</a></li>
-				    <li role="presentation"> <a href="https://pspwa.box.com/s/qo0omx4i4k49unvaa5jykd3w6v1heb45" target="new">Justice, Equity, Diversity, and Inclusion Subcommittee</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/ytvmmzdddoelx0y0s6750akzeu47ch00" target="new">Communications Subcommittee</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
