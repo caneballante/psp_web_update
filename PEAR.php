@@ -90,7 +90,7 @@
             <li>Executive Team members plan to reflect on the  state&rsquo;s diversity, equity, and inclusion competencies, assess our personal  progress toward them, and make individual action  plans based on them. We&rsquo;ll  make ours available to others as a model for the agency.</li>
             <li>In 2023, we will update our agency&rsquo;s  strategic plan, and ensure that we infuse  pro-equity, anti- racism and  environmental justice work into it, in accordance with the HEAL Act and our own  values.</li>
         </ul>
-        <p>I am looking forward to  continuing this journey with each of you, our partners, and the Office of  Equity. Please don&rsquo;t hesitate to  reach out to me or any member  of the Executive Team or our PEAR Team – Mel,  Lea Anne, Denise, and me – with questions or ideas.</p>
+        <p>I am looking forward to  continuing this journey with each of you, our partners, and the Office of  Equity. Please don&rsquo;t hesitate to  reach out to me or any member  of the Executive Team or our PEAR Team – Bryan,  Lea Anne, Denise, and me – with questions or ideas.</p>
         <p>Laura Bradstreet<br>
             <em> Executive Director</em><br>
         The Puget Sound Partnership</p>
@@ -102,16 +102,16 @@
                     <td><p>Executive Director</p></td>
                 </tr>
                 <tr>
-                    <td><p>Vacant</p></td>
-                    <td><p>Equity and Environmental Justice Manager</p></td>
-                </tr>
-                <tr>
                     <td><p>Lea Anne Burke</p></td>
                     <td><p>Tribal Affairs Manager</p></td>
                 </tr>
                 <tr>
                     <td><p>Denise Ross</p></td>
-                    <td><p>Human Resource Manager</p></td>
+                    <td><p>Workplace Culture and Development Manager</p></td>
+                </tr>
+				<tr>
+                    <td><p>Bryan Gordon</p></td>
+                    <td><p>Workplace Culture Specialist</p></td>
                 </tr>
                 <tr>
                     <td><p>Community Member (vacant)</p></td>
@@ -119,7 +119,7 @@
                 </tr>
             </table>
 			
-			<p class="last-update">Last updated: 02/20/24</p>
+			<p class="last-update">Last updated: 09/12/24</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		
