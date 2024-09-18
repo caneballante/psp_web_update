@@ -173,13 +173,14 @@
 						<h5>Bebhinn Gilbert</h5>
 						<p>Restoration and Transportation Funding Strategist<br>
 							360.870.1467 | <a href="mailto:bebhinn.gilbert@psp.wa.gov">bebhinn.gilbert@psp.wa.gov</a></p>
-						<h5>Sadie Normoyle</h5>
+		<h5>Sadie Normoyle</h5>
 						<p>Strategic Funding Coordinator<br>
-							360.628.7476 | <a href="mailto:sadie.normoyle@psp.wa.gov">sadie.normoyle@psp.wa.gov</a>
-						 
-
-						<!--BOARDS PROGRAM-->
-						<h3 class="padding-10-top">BOARDS PROGRAM</h3>
+						360.628.7476 | <a href="mailto:sadie.normoyle@psp.wa.gov">sadie.normoyle@psp.wa.gov</a>                        
+						<h5>Heeju jung</h5>
+                        <p>Hershman Fellow <br>
+        564.250.0979 | <a href="mailto:heeju.jung@psp@psp.wa.gov">heeju.jung@psp.wa.gov</a></p>
+						  <!--BOARDS PROGRAM-->
+	    <h3 class="padding-10-top">BOARDS PROGRAM</h3>
 						<h5>Tristan Contesse</h5>
 						<p> Boards Program Manager<br />
 							360.584.5328 | <a href="mailto:tristan.contesse@psp.wa.gov">tristan.contesse@psp.wa.gov</a> </p>
@@ -304,14 +305,13 @@
 							360.522.0546 | <a href="mailto:megan.wilson@psp.wa.gov">megan.wilson@psp.wa.gov</a></p>
 						<h5>Rebecca Hollender</h5>
 						<p>Social Sciences Coordinator<br>
-							360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
-						<h5>Katie Love</h5>
-						<p>Washington Sea Grant Hershman Fellow<br>
-							360.789.3324 | <a href="mailto:katie.love@psp.wa.gov">katie.love@psp.wa.gov</a></p>
-						
-						
-
-						<!--INTERNAL OPERATIONS-->
+						360.280.1023 | <a href="mailto:rebecca.hollender@psp.wa.gov">rebecca.hollender@psp.wa.gov</a></p>
+						  
+						  
+						  <!--INTERNAL OPERATIONS-->						
+						<h5>Rondi nordal</h5>
+                        <p>Washington Sea Grant Hershman Fellow<br>
+        564.250.0925 | <a href="mailto:rondi.nordal@psp.wa.gov">rondi.nordal@psp.wa.gov</a></p>
 						<h1 class="padding-20-top padding-20-bottom">INTERNAL OPERATIONS DIVISION</h1>
 						<h5>Brent Barnes</h5>
 						<p>Chief Operating Officer<br />
