@@ -75,7 +75,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>In accordance with <a href="https://ocio.wa.gov/policy/technology-portfolio-foundation">OCIO POL 112</a>,  the Puget Sound Partnership must publish the agency IT strategic plan on it's website. <a href="https://pspwa.box.com/s/10v6c2r5dssz71u45uxp5w4pct0nokpq" target="new">You can click here to view the Recreation and Conservation Office and Puget Sound Partnership Joint Information Technology Strategic Plan FY2021.</a></p>
+			<p>In accordance with <a href="https://ocio.wa.gov/policy/technology-portfolio-foundation">OCIO POL 112</a>,  the Puget Sound Partnership must publish the agency IT strategic plan on it's website. <a href="" target="new">You can click here to view the Recreation and Conservation Office and Puget Sound Partnership Joint Information Technology Strategic Plan FY2021.</a> (COMING SOON)</p>
 			<p><br>
 			  <br>
 			  <br>
