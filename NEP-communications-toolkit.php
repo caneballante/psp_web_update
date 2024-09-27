@@ -93,9 +93,9 @@
 				
 				
 					<p class="right-nav-contact">For questions about the NEP Toolkit contact :<br />
-					<strong>Kevin Hyde</strong>									<a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov</a><br>
+					<strong>Ian McCabe </strong>									<a href="mailto:ian.mccabe@psp.wa.gov">ian.mccabe@psp.wa.gov</a><br>
 			
-360.819.3045</p>
+564.669.4628</p>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
