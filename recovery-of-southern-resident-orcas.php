@@ -111,18 +111,18 @@
 					<li><strong><a href="https://medium.com/puget-sound-partnership/new-rules-for-boating-around-orcas-edd234fcc4d7" target="_blank">Puget Sound Partnership blog: Reviewing the new rules for boating around orcas</a></strong></li>
 					<li><strong><a href="https://parks.state.wa.us">Washington State Parks</a></strong></li>
 				</ul>
-				<p class="last-update">Last updated: 02/20/24</p>
+				<p class="last-update">Last updated: 09/27/24</p>
 			</div>
 
 			
 		<div class="col-sm-2 padding-20-top padding-0-right">
 				<div class="right-nav-title margin-0-top ">CONTACT</div>
 				<ul class="nav-rightside-custom">
-					<li role="presentation"> <p>Kevin Hyde,<br>
+					<li role="presentation"> <p>Ian McCabe,<br>
 					
 						
-						360-819-3045<br>
-						<a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov</a>			</p>
+						564.669.4628<br>
+						<a href="mailto:ian.mccabe@psp.wa.gov">ian.mccabe@psp.wa.gov</a>			</p>
 					</li>
 				</ul>
 			</div>
