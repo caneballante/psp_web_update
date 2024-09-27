@@ -147,9 +147,9 @@
 						<h5>Jon Bridgman</h5>
 						<p>Communications Manager<br />
 							360.999.3847 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov </a></p>
-						<h5>Kevin Hyde</h5>
+						<h5>Ian mccabe</h5>
 						<p> Communications Specialist <br>
-						360.819.3045 | <a href="mailto:kevin.hyde@psp.wa.gov">kevin.hyde@psp.wa.gov </a></p>
+						564.669.4628 | <a href="mailto:ian.mccabe@psp.wa.gov">ian.mccabe@psp.wa.gov </a></p>
 						<h5>Chase Nuuhiwa</h5>
 						<p>Visual Communications Lead<br>
 						360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
