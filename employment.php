@@ -128,9 +128,9 @@ Students and anyone else&nbsp;interested in an informational  interview to gain 
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li>
 					<p>Denise Ross<br>
-						Human Resources Manager<br />
+					  <em>Workplace Culture and Development Manager</em><br />
 						360.819.0208 <br>
-						<a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p>
+					  <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p>
 				</li>
 				<!-- InstanceEndEditable -->
 			</ul>
