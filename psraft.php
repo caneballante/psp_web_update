@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> PUGET SOUND RAFT - FUNDING ACCELERATION FUNDING TOOL</h1>
+			<h1> PUGET SOUND RAFT - Recovery ACCELERATION FUNDING TOOL</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -84,7 +84,7 @@
 
 			<p>For additional information, please contact <a href="mailto:strategicfunding@psp.wa.gov">strategicfunding@psp.wa.gov</a></p>
 			
-			<p class="last-update">Last updated: 12/7/23</p>
+			<p class="last-update">Last updated: 10/21/21</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		
