@@ -142,7 +142,6 @@
 			<p>The selected projects are referred to here as apparent successful because they will not be considered fully successful until contracts are in place.</p>
 			<p>We would like to thank the Puget Sound Ecosystem Monitoring Program (PSEMP) Steering Committee members, PSEMP Work Group Leads, and Partnership staff colleagues who contributed their time and perspective as members of the Evaluation Panel.</p>
 			<p>We are excited about this newest cohort of projects and look forward to working with all the project teams in implementing the projects!</p>
-			<p>For more information about the proposals or the solicitation process, please contact Nathalie Hamel, <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a>.</p>
 			</div>
 		
 		
@@ -327,7 +326,7 @@
 		
 		
 
-			<p class="last-update">Last updated: 2/15/24</p>
+			<p class="last-update">Last updated: 10/22/24</p>
  
 			 
 		<!-- InstanceEndEditable --> </div>
