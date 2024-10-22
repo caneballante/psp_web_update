@@ -285,9 +285,9 @@
 						<h5>Hannah Mittelstaedt</h5>
 						<p> Monitoring Network Coordinator<br/>
 							360.764.6149 | <a href="mailto:hannah.mittelstaedt@psp.wa.gov">hannah.mittelstaedt@psp.wa.gov</a></p>
-						<h5>Nathalie Hamel</h5>
+						<h5>Vacant</h5>
 						<p> Vital Signs Lead<br/>
-							360.819.3412 | <a href="mailto:nathalie.hamel@psp.wa.gov">nathalie.hamel@psp.wa.gov</a></p>
+						</p>
 						<h5>Kenna Kuhn</h5>
 						<p> Vital Signs Reporting Analyst<br>
 							564.669.8282 | <a href="mailto:kenna.kuhn@psp.wa.gov">kenna.kuhn@psp.wa.gov</a></p>
@@ -391,7 +391,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 9/18/24</p>
+	<p class="last-update">Last updated: 10/22/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
