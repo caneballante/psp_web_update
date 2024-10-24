@@ -57,7 +57,7 @@ navSelected = 1;
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-	<div class="col-xs-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
+	<div class="col-xs-12 orange-fill align-center overview-logo-banner"></div>
 </div>
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
