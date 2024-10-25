@@ -116,7 +116,7 @@ navSelected = 4;
 			      <th scope="row"><p data-pm-slice="1 1 []">7/18/24</p></th>
 			      <td><p data-pm-slice="1 1 []"><a href="https://psp.wa.gov/PSAR.php" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-00104174-3250-43fd-ad05-bb313fd98171">PSAR</a> Large Capital Grant Round Request for Proposals</p></td>
 			      <td><p data-pm-slice="1 1 []">Salmon, flood reduction, treaty rights, public/community access, climate resilience, infrastructure, restoration.</p></td>
-					<td><p data-pm-slice="1 1 []">Ongoing</p></td>
+					<td><p data-pm-slice="1 1 []"><a href="https://pspwa.box.com/s/n1xsktr1msvgk3hcqghl1gh2oulswu9k" target="new">EJA 25-27 PSAR RFP Oct 2024</a></p></td>
 			      <td><p data-pm-slice="1 1 []"><a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.010" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-253d596f-cc6d-4cb4-a21a-2b9a16b81a78">New grant or loan program</a></p></td>
 		        </tr>
 			    <tr>
@@ -220,7 +220,7 @@ navSelected = 4;
 			<br>
 		<br>
 			
-<p class="last-update">Last updated: 8/27/24</p>
+<p class="last-update">Last updated: 10/25/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
