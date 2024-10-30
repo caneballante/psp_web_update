@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1 class="grey">PUGET SOUND MARINE WATERS 2022 OVERVIEW</h1>
+			<h1 class="grey">PUGET SOUND MARINE WATERS 2023 OVERVIEW</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -77,14 +77,11 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
 <span class="floatright padding-20-left no-icon">
-	<p><a href="https://pspwa.box.com/shared/static/ojoowqsu0ykjg72bty9gp1sfya3w3e8p.pdf"><img src="images/ps-marine-waters-report-2022.jpg"  alt="Cover image from the 2021 Puget Sound Marine Waters Overview, showing Puget Sound water with the silhouette of a plane flying overhead" width="305" height="236"/></a><br>
-			<a href="https://pspwa.box.com/shared/static/ojoowqsu0ykjg72bty9gp1sfya3w3e8p.pdf">Click here to download the <br>
-			Puget Sound Marine Waters 2022 Overview</a></p></span>
+	<p><a href="https://pspwa.box.com/shared/static/vn146azam00pf1xr2lig4gouy98rwf75.pdf"><img src="images/ps-marine-waters-report-2023.jpg"  alt="Cover image from the 2021 Puget Sound Marine Waters Overview, showing Puget Sound water with the silhouette of a plane flying overhead" width="400" height="309"/></a><br>
+			<a href="https://pspwa.box.com/shared/static/vn146azam00pf1xr2lig4gouy98rwf75.pdf">Click here to download the <br>
+			Puget Sound Marine Waters 2023 Overview</a></p></span>
 			
-<p>This report, a product of the Puget Sound Ecosystem Monitoring Program’s Marine Waters Work Group, is the twelfth annual report on marine water conditions in Puget Sound. Since 2011, Puget Sound Marine Waters has compiled data from numerous environmental monitoring programs to report on the state of Puget Sound’s marine waters during the previous year. </p>
-
-<p>The report combines a wealth of data from comprehensive monitoring programs and provides a concise summary of what was happening in Puget Sound’s marine waters during 2022. It covers areas such as climate and weather, river inputs, seawater temperature, salinity, nutrients, dissolved oxygen, ocean acidification, phytoplankton, biotoxins, bacteria and pathogens, shellfish resources, and more.
-</p>
+<p>This report provides a collective view of 2023 Puget Sound marine water quality and conditions and associated biota from comprehensive monitoring and observing programs. While the report focuses on the marine waters of greater Puget Sound, additional selected conditions are also included due to their influence on Puget Sound waters. These include large-scale climate indices and conditions along the Washington coast. It is important to document and understand regional drivers of variability and patterns on various timescales so that water quality data may be interpreted with these variations in mind, to better attribute human effects versus natural variations and change. This is the thirteenth annual report produced for the PSEMP Marine Waters Workgroup.</p>
 
 <p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">click to see an archive of past Puget Sound Marine Waters reports</a></p>
 
