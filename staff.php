@@ -121,8 +121,13 @@
 						<h5>Larry Epstein</h5>
 						<p> Deputy Director<br />
 							360.480.0487 | <a href="mailto:larry.epstein@psp.wa.gov">larry.epstein@psp.wa.gov</a></p>
+			<!--IMPLEMENTATION PROGRAM-->
+						<h3 class="padding-10-top">IMPLEMENTATON PROGRAM</h3>
+						<h5>Emilie Litsinger</h5>
+						<p>Director of Implementation<br>
+							360.819.3045 | <a href="mailto:emilie.litsinger@psp.wa.gov">emilie.litsinger@psp.wa.gov</a></p>			
 						
-						<!--SALMON RECOVERY PROGRAM-->
+			<!--SALMON RECOVERY PROGRAM-->
 						<h3 class="padding-10-top">SALMON RECOVERY PROGRAM</h3>
 						<h5>Melissa Speeg</h5>
 						<p>Salmon Recovery Manager<br>
