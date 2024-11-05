@@ -100,7 +100,7 @@
 			
 			<p>Select the images below for the ranking of the Puget Sound-related budget requests for both the 2025-27 biennial budget.<br><br>
 			
-			  <a href="https://pspwa.box.com/s/owm36i5u0upo7m7km1t14dsreb7vajxb"><img src="images/Budget2325Screenshot.jpg" class="img-responsive" width="100%" alt="Screenshot of the 2023-2025 Puget Sound Budget Rankings produced by the Puget Sound Partnership."></a>			</p>
+			  <a href="https://pspwa.box.com/s/wyyotqv50kah086pvfrqy3gdus4uylax"><img src="images/25-27-biennial-buget-ranking.PNG" class="img-responsive" width="100%" alt="Screenshot of the 2023-2025 Puget Sound Budget Rankings produced by the Puget Sound Partnership."></a>			</p>
 			<hr>
 			
 			<div class="container-fluid blue-outline-5px padding-20-all margin-20-top">
