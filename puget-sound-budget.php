@@ -85,29 +85,22 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">Puget Sound Budget Interactive Infographic</h2>
 			
-			<p>After prioritizing state agency budget requests related to Puget Sound recovery, the Partnership tracks these budget requests through the State’s budgeting process. The Partnership also identifies additional budget items added by the Governor and legislature to their budget proposals. All relevant budget items for the current budget process are included in the below infographic. Use the arrows at the bottom of the infographic to navigate to past budgets.</p>
-<p>In the below interactive graphic, each figure can be interacted with by clicking on different elements of the graphic. Try clicking on a budget type (op/cap) in the pie chart, a request in the list, or an agency in the bar graph. A spreadsheet view of the data is also available below.</p>
+			<p>After prioritizing state agency budget requests related to Puget Sound recovery, the Partnership tracks these budget requests through the State’s budgeting process. The Partnership also identifies additional budget items added by the Governor and legislature to their budget proposals. All relevant budget items for the current budget process are included in the below infographic. Use the arrows at the bottom of the infographic to view past budgets.</p>
+<p>In the below interactive graphic, each figure can be interacted with by clicking on different elements of the graphic. Try selecting a budget type (op/cap) in the pie chart, a request in the list, or an agency in the bar graph. A spreadsheet view of the data is also available below.</p>
 		
 			
 			<br>
 			
 			<iframe title="BudgetPBI_2022 - Page 1" width="1000" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiNTFmOTI3ZDAtNzNhZi00ZmFlLTgxNzQtMzg3MTAxMWI1OGQ3IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br><br>
 			
-			<iframe WIDTH="1000" HEIGHT="700" FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=a39d72c49e74438b86e535499ecc81f6"></IFRAME><br>
+			<iframe WIDTH="1000" HEIGHT="700" FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=547d834312234add871f9a4b899d5e6e"></IFRAME><br>
 			
 			<h2>Prioritizing State Agency Budget Requests</h2>
 			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. The Partnership shares this list with the Office of Financial Management, relevant legislative committee members and staff, and our partners. As the Governor and legislators release their respective budget proposals, the Partnership updates information about the Puget Sound Budget to reflect the most recent information.</p>
 			
-			<p>Click the images below for the ranking of the budget requests, for both the main 2023-25 biennial and 2024 supplemental budgets.</p>
+			<p>Select the images below for the ranking of the Puget Sound-related budget requests for both the 2025-27 biennial budget.<br><br>
 			
-			<a href="https://pspwa.box.com/s/gyt67oko9kx1cajsyzzlfovxlvebx8ba"><img src="images/budget-2024-screenshot.jpg" class="img-responsive" width="100%" alt="Screenshot of the 2024 supplemental Puget Sound Budget Rankings produced by the Puget Sound Partnership"></a><br><br>
-			
-			<a href="https://pspwa.box.com/s/owm36i5u0upo7m7km1t14dsreb7vajxb"><img src="images/Budget2325Screenshot.jpg" class="img-responsive" width="100%" alt="Screenshot of the 2023-2025 Puget Sound Budget Rankings produced by the Puget Sound Partnership."></a>
-			
-			
-			
-			
-			
+			  <a href="https://pspwa.box.com/s/owm36i5u0upo7m7km1t14dsreb7vajxb"><img src="images/Budget2325Screenshot.jpg" class="img-responsive" width="100%" alt="Screenshot of the 2023-2025 Puget Sound Budget Rankings produced by the Puget Sound Partnership."></a>			</p>
 			<hr>
 			
 			<div class="container-fluid blue-outline-5px padding-20-all margin-20-top">
@@ -115,6 +108,8 @@
 				
 				<div class="col-sm-12">
 					<h2 class="margin-0-top">Budget Ranking Archive</h2>
+					<p><a href="https://pspwa.box.com/s/gyt67oko9kx1cajsyzzlfovxlvebx8ba" target="new">2024 Supplemental Budget</a></p>
+					<p><a href="https://pspwa.box.com/s/owm36i5u0upo7m7km1t14dsreb7vajxb" target="new">2023-25 Biennial Budget</a></p>
 					<p><a href="https://pspwa.box.com/s/74t62zylvtfa7az77vj47wnputkboczd" target="new">2022 Supplemental Budget</a></p>
 					<p><a href="https://pspwa.box.com/s/2d2lpjwf209ixffxmm4mgxv0nz8k1pq0" target="new">2021-2023 Biennial Budget</a></p>
 				</div>	
@@ -123,7 +118,7 @@
 		</div>
 			
 			
-			<p class="last-update">Last updated: 12/20/23</p>
+			<p class="last-update">Last updated: 11/05/24</p>
 			
 		
 			
