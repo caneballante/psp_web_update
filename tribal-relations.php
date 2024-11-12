@@ -110,13 +110,8 @@
               </ul>
               <li>Tribes hold multiple seats on our  two advisory boards: </li>
               <li><strong>Puget Sound Salmon Recovery Council</strong> <em>N</em><em>ote: Each federally recognized Tribe within the Puget  Sound region can appoint a primary and alternate delegate to this Council.</em></li>
-              <li><strong>Puget  Sound Ecosystem Monitoring Program</strong> Steering Committee. </li>
+              <li><strong>Puget  Sound Ecosystem Monitoring Program</strong> Steering Committee.            </li>
             </ul>
-            <h2>Partnership Tribal Co-Management Council (PTCC)</h2>
-            <p>Co-chaired by the Partnership's Leadership Council Chair  and a Northwest Indian Fisheries Commissioner, PTCC is a collaborative space,  facilitating communications and coordination between the Partnership and  sovereign Tribal nations. PTCC promotes ongoing State-Tribal  government-to-government priority setting and information sharing and provides  a reliable format for early and often engagement. The Tribal Affairs Manager  and Northwest Indian Fisheries Commission staff provide support on agenda  development and meeting logistics. </p>
-            <p> The PTCC promotes, but does not replace, timely state-tribal  government-to-government communication and consultation between each individual  tribal government and the Partnership to develop common objectives and  priorities for the protection and restoration of the Puget Sound ecosystem. <br>
-              The PTCC ensures policy decisions receive the benefit of  tribal technical expertise, increases opportunities to resolve differences  amongst the governments in policies or approaches, and provides an opportunity  for other State agencies to join and participate to increase coordination and  cooperation. <br>
-              PTCC typically meets the first Thursday of every month  and is open to all Tribal elected officials and staff. For meeting information please contact the  Partnership&rsquo;s <a href="mailto:lea-anne.burke@pap.wa.gov">Tribal Affairs Manager</a>.</p>
             <h2>Centennial Accord </h2>
             <p>Our Centennial Accord Implementation plan is available at the  Governor&rsquo;s <a href="https://goia.wa.gov/relations/centennial-accord">Office of Indian Affairs</a> website. <br>
               Agency Centennial  Accord highlights are also available at the Governor&rsquo;s Office of Indian Affairs <a href="https://goia.wa.gov/relations">State-Tribal Relations / Centennial Accord | GOIA (wa.gov)</a> webpage.</p>
