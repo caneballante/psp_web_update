@@ -51,7 +51,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image124">
+<header class="overview-page-image-style overview-page-image21">
 	<div class="overview-quote pull-right">
 		<h3>&nbsp;</h3>
 	</div>
@@ -76,7 +76,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-gov.html';?>
+				<?php include 'includes/ln-tribal-gov.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
