@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Federal Support for Puget Sound Recovery</title>
+<title>Puget Sound Partnership - Government Relations</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -33,6 +33,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 2;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -41,23 +45,28 @@
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image121">
-
-<div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
-
- </header>
-<!-- InstanceEndEditable -->  
+<header class="overview-page-image-style overview-page-image21">
+	<div class="overview-quote pull-right">
+		<h3>&nbsp;</h3>
+	</div>
+</header>
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<div class="row">
+	<div class="col-sm-12 orange"></div>
+</div>
+<!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> Federal Support for Puget Sound Recovery</h1>
+			<h1>Partnership Tribal Co-Management Council (PTCC)</h1>
+			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -67,53 +76,39 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				
-			
-		
-			<!-- InstanceEndEditable -->
+				<?php include 'includes/ln-tribal-gov.html';?>
+				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-						
-			<p>Puget Sound recovery is a not only a regional priority; it is critical to the environmental and economic well-being of the entire nation. As such, the Environmental Protection Agency designated Puget Sound as an “Estuary of National Significance” under the <a href="https://www.epa.gov/nep/overview-national-estuary-program" target="new">National Estuary Program</a> in 1988. From appropriator to regulator to trustee for Tribes, numerous Federal government entities play multiple critical roles to help advance Puget Sound recovery efforts</p><br>
-			
-			<h2>New Funding Opportunities</h2>
-			
-			<div class="row padding-30-bottom">
-				<div class="col-sm-9">
-					<div style="padding:56.25% 0 0 0;position:relative;">
-						<iframe src="https://player.vimeo.com/video/706723427?h=07ec6b9a8a&title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-					</div>
-				</div>
-			</div>
-			
-			
-			<p>The Bipartisan Infrastructure Law (the Infrastructure Investment and Jobs Act) and the Inflation Reduction Act represent potentially transformational funding opportunities for Puget Sound recovery. The Partnership is committed to helping partners seek funding for programs, projects, and other work. </p>
-			<br>
-			
-			
-			<p class="last-update">Last updated: 08/28/24</p>
- 
-			 
-		<!-- InstanceEndEditable --> </div>
+			<div class="margin-0-top margin-20-bottom">
+			  <p>Co-chaired by the Partnership's Leadership Council Chair and a Northwest Indian Fisheries Commissioner, PTCC is a collaborative space, facilitating communications and coordination between the Partnership and sovereign Tribal nations. PTCC promotes ongoing State-Tribal government-to-government priority setting and information sharing and provides a reliable format for early and often engagement. The Tribal Affairs Manager and Northwest Indian Fisheries Commission staff provide support on agenda development and meeting logistics.</p>
+			  <p>The PTCC promotes, but does not replace, timely state-tribal government-to-government communication and consultation between each individual tribal government and the Partnership to develop common objectives and priorities for the protection and restoration of the Puget Sound ecosystem.<br>
+			    The PTCC ensures policy decisions receive the benefit of tribal technical expertise, increases opportunities to resolve differences amongst the governments in policies or approaches, and provides an opportunity for other State agencies to join and participate to increase coordination and cooperation.<br>
+		      PTCC typically meets the first Thursday of every month and is open to all Tribal elected officials and staff. For meeting information please contact the Partnership&rsquo;s <a href="mailto:lea-anne.burke@pap.wa.gov">Tribal Relations Manager</a>.</p>
+			  <p>&nbsp;</p>
+			<div>
+			  <div> </div>
+          </div>
+		</div>
+			<h2 class="margin-0-top">&nbsp;</h2>
+			<p class="last-update">Last updated: 11/12/24</p>
+			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top">CONTACT</div>
-			<li class="active" role="presentation"> <?php include 'includes/federal_contact.html';?></li>
-			
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="https://www.whitehouse.gov/build/resources/nofos-to-know/" target="new">Bipartisan Infrastructure Law: Open Funding Opportunities</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/shared/static/vh7n99hidr4otld8smr56y0c03tzq20d.pdf">Download open and upcoming Bipartisan Infrastructure Law funding opportunities</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/9hcdue4rf085aj9fxl1et9auryio8arf" target="new">117th Congress end-of-session review</a></li>
-				<li class="active" role="presentation"> <a href="https://www.epa.gov/puget-sound/puget-sound-federal-task-force" target="new">Puget Sound Federal Task Force</a></li>
-				<li role="presentation"> <a href="/NEP-overview.php">Puget Sound National Estuary Program</a></li><br>
-				<button>The Partnership will soon hire new staff to assist project implementers to track and apply for grants, report on federal investments in Puget Sound recovery, and more. Stay tuned for updates.</button>
-				
+				<p class="right-nav-contact">For questions about Tribal Relations:<br />
+					<br>
+					<strong>Lea Anne Burke (Lumbee),</strong> <br>
+					Tribal Affairs Manager<br>
+					<a href="mailto:don.gourlie@psp.wa.gov">lea-anne.burke@psp.wa.gov</a><br>
+					360.682.7532<br><br>
+				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Click here</a> to provide feedback on the content and functionality of this page.</p>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
