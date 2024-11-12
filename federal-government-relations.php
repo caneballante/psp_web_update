@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> Federal Support for Puget Sound Recovery</h1>
+			<h1>federal government relations</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -94,7 +94,7 @@
 			<br>
 			
 			
-			<p class="last-update">Last updated: 08/28/24</p>
+			<p class="last-update">Last updated: 11/12/24</p>
  
 			 
 		<!-- InstanceEndEditable --> </div>

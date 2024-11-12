@@ -122,7 +122,7 @@
 		<div class="col-sm-3 padding-20-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
-			<div class="padding-5-bottom"><a href="government-relations.php">2022 legislative session</a></div>
+			<div class="padding-5-bottom"><a href="state-government-relations.php">2022 legislative session</a></div>
 			<div class="padding-5-bottom"><a href="psdoth2021.php">2021 Puget Sound Day on the Hill</a></div>
 			<div class="padding-5-bottom"><a href="https://makingwaves.psp.wa.gov/">Making Waves magazine</a></div>
 		</div>
