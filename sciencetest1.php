@@ -71,7 +71,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top">
-<h1>JSON Data Display</h1>
+<h1><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-parastyle="heading 1">Science and Evaluation Funding</span></span><span data-ccp-props="{'134245418':true,'134245529':true,'335559738':360,'335559739':80}"> </span></h1>
 			</div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -86,9 +86,10 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column">
-			
-
-    <h1>Project Information</h1>
+    	<p>The Puget Sound Partnership Science and Evaluation team  makes strategic investments in research, modeling, and monitoring contributing  to the knowledge basis for Puget Sound ecosystem recovery. The Partnership  funds projects every biennium through three solicitations in the form of  Requests for Information. The Puget Sound Scientific Research solicitation  funds projects that address priority information needs described in the Science  Work Plan. The <a href="https://psp.wa.gov/monitoring-accelerate-recovery.php" target="_blank">Monitoring to Accelerate Recovery</a> solicitation funds  projects that address priority monitoring information needs and support the  objectives of the Puget Sound Ecosystem Monitoring Program&rsquo;s strategic plan and  Action Agenda. The <a href="https://psp.wa.gov/salmon-science-investigations.php" target="_blank">Salmon  Science Investigations</a> solicitation funds projects that will advance Puget  Sound salmon recovery efforts and the Puget Sound Salmon Recovery Plan.</p>
+    	<p>Partnership funded investigations cover a broad range of  topics related to Puget Sound ecosystem recovery that contribute to the  Partnership&rsquo;s statutory recovery goals of a healthy human population, vibrant  quality of life, thriving species and food web, functioning habitat, and  healthy water quality. Select a recovery goal below to learn more about the  funded projects that support each goal.&nbsp;&nbsp;&nbsp;</p>
+		<p paraid="921025832" paraeid="{2d556153-ffaf-4db4-aed3-ee06156d9a7c}{168}">&nbsp;</p>
+ 
     
     <!-- Buttons for Filtering by Primary Goal -->
     <div id="filter-buttons"></div>
@@ -110,6 +111,8 @@
             <!-- Rows will be dynamically generated here -->
         </tbody>
     </table>
+			<br>
+
 
 
 
