@@ -101,7 +101,8 @@ navSelected = 4;
 				<li><a href="/science-workplan.php">The Puget Sound Partnership Science Work Plan, 2025-2028 and beyond</a></li>
 				<li><a href="/2022AAupdate.php">The Action Agenda for Puget Sound, 2026-2030 and beyond</a></li>
 			</ul>
-			<h2>Environmental Justice Assessment</h2>
+			<h2>Environmental Justice Assessments</h2>
+			<p><a href="https://pspwa.box.com/s/lzkdjtefhhhmtqoxu120lfksia9zrers">2024 Environmental Justice Assessment OFM Questionairre</a></p>
 			<p>Ongoing and Completed Environmental Justice Assessments:			</p>
 			<table width="902" height="202" border="1">
 			  <tbody>
@@ -109,14 +110,14 @@ navSelected = 4;
 			      <th width="110" scope="col">Initiation Date</th>
 			      <th width="290" scope="col">Project Name (more info link)</th>
 			      <th width="178" scope="col">Key Themes</th>
-			      <th width="108" scope="col">Status</th>
-			      <th width="182" scope="col">Significant Agency Action Type (link to relevant code)</th>
+			      <th width="144" scope="col">Assesment</th>
+			      <th width="146" scope="col">Significant Agency Action Type (link to relevant code)</th>
 		        </tr>
 			    <tr>
 			      <th scope="row"><p data-pm-slice="1 1 []">7/18/24</p></th>
 			      <td><p data-pm-slice="1 1 []"><a href="https://psp.wa.gov/PSAR.php" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-00104174-3250-43fd-ad05-bb313fd98171">PSAR</a> Large Capital Grant Round Request for Proposals</p></td>
 			      <td><p data-pm-slice="1 1 []">Salmon, flood reduction, treaty rights, public/community access, climate resilience, infrastructure, restoration.</p></td>
-					<td><p data-pm-slice="1 1 []"><a href="https://pspwa.box.com/s/n1xsktr1msvgk3hcqghl1gh2oulswu9k" target="new">EJA 25-27 PSAR RFP Oct 2024</a></p></td>
+					<td><p data-pm-slice="1 1 []"><a href="https://pspwa.box.com/s/n1xsktr1msvgk3hcqghl1gh2oulswu9k" target="new">Environmental Justice Assessment 25-27 PSAR RFP Oct 2024</a></p></td>
 			      <td><p data-pm-slice="1 1 []"><a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.010" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-253d596f-cc6d-4cb4-a21a-2b9a16b81a78">New grant or loan program</a></p></td>
 		        </tr>
 			    <tr>
