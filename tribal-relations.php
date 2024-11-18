@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Government Relations</title>
+<title>Puget Sound Partnership - Tribal Relations</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -65,7 +65,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Tribal RELATIONS - DRAFT</h1>
+			<h1>Tribal RELATIONS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -84,13 +84,9 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="margin-0-top margin-20-bottom">
-			<p>Federally recognized Tribes (Tribes)  retain their rights since time immemorial and are as such inherently sovereign.  Tribes have a unique trust relationship with the United States federal  government as a result of treaties, legislation, and Executive Orders. Their  status as sovereign nations entitles them to a direct government-to-government  relationship with the Federal Government, independent of the states or local  jurisdictions where these Tribes may reside. Tribal nations retain their  inherent rights and are, as such, sovereign and operate their own Tribal  governments to govern their Tribal lands, citizenry and reservation populations  through self-governance and self-determination. </p>
-			<p>			  Under eight treaties negotiated by Territorial Governor  Stevens on behalf of the United States, Tribes ceded 64 million acres of land  to the U.S. for non-Indian settlement and the subsequent establishment of  Washington State. Tribes retained about 6 million acres of reservation land and  specifically retained the right to take fish in their &ldquo;usual and accustomed&rdquo;  areas along with the privilege of hunting on &ldquo;open and unclaimed lands,&rdquo; among  other things.<br>
-			  In 1989, the 26 federally recognized tribes and  the State of Washington under Governor Booth Gardner signed the <a href="https://goia.wa.gov/relations/centennial-accord">Centennial  Accord</a>. This made Washington  State and the Tribes historically the first in the nation to establish a  relationship to strengthen tribal government-to-government relations on issues  of shared interests and to promote collaborative best management practices. Washington  State recognizes its Indigenous peoples&rsquo; inherent right to exercise their  language, cultural beliefs, protection of Tribal resources,  sense of place and territory through their existence and inhabitance of  Washington territory since time immemorial. </p>
-			<p> Washington State Cabinet Agencies maintain a  government-to-government relation with 29 federally recognized Tribes located  within Washington; there are also an additional six federally recognized tribes  are located outside of the state, but who have interests, traditional territory  or treaty rights within the state- who may be involved in consultation  processes.</p>
-			<p> As a Cabinet Agency with a regionally  bound directive, Puget Sound Partnership engages with Tribal governments, with  a focus on the 19 federally recognized Tribal nations within the Puget Sound  and Salish Sea. across Washington state to foster a strong and effective  government-to-government relationship. <br>
-			  The Partnership recognizes, respects and  honors Tribal nations as unique, distinct, sovereign people with inherent  rights and connections to the Puget Sound. The Partnership acknowledges its  government-to-government duties and will prioritize consultation with federally  recognized Tribal nations. </p>
-            <h2>Invitations for Consultation and Informational DTLLs</h2>
+			<p>In 1989, federally recognized Tribal Nations and the State  of Washington signed the<a href="https://goia.wa.gov/relations/centennial-accord">Centennial  Accord</a>. This historic, first-in-the-nation Accord strengthens Tribal-State  relations on issues of shared interests and to promote collaborative best  management practices. </p>
+			<p>The Puget Sound Partnership respects and honors Tribes  as unique, sovereign nations with treaty, cultural and inherent rights. We  acknowledge our government-to-government responsibilities and prioritize early  and often engagement and consultation.            </p>
+			<h2>Invitations for Consultation and Informational DTLLs</h2>
             <p>The Partnership invites Tribes to engage in formal  consultation in the development of policies, agreements, and program  implementation that directly affects Tribes and Tribal people. The  Partnership&rsquo;s policy is to consult on a government-to-government basis with  Tribes when our actions and decisions may affect tribal treaty and sovereign  interests.</p>
             <p> Our Dear Tribal Leader Letters (DTLL) serve as formal  written mechanisms to notify Tribal Leaders from all federally recognized  tribes of consultation activities and invites Tribal Leaders to events or  meetings to provide other critical information to tribes. Other elected Tribal  leaders and staff may be included in these invites. <br>
               <a href="https://pspwa.box.com/s/ehwsoz1ug2icmnwkpvyavv89et8j52dj"><strong>Archived</strong></a><strong>  </strong><br>
