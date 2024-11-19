@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Ecoysystem Coordination Board Members</title>
+<title>Puget Sound Partnership - Ecosystem Coordination Board Members</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -73,11 +73,21 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Ecosystem Coordination Board's main role is to advise the Puget Sound Partnership&rsquo;s Leadership Council on carrying out its responsibilities. The Board is made up of 27 members representing specific interests around the Sound.<br>
-			<!--include-->
-			<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=90a68c68b1994be19b120790df268fa9"></IFRAME>
-				<h3>Board contact</h3>
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --><p>The Ecosystem Coordination Board's main role is to advise the Puget Sound Partnership’s Leadership Council in carrying out its responsibilities in implementing <a src href="https://app.leg.wa.gov/RCW/default.aspx?cite=90.71.230">chapter 90.71 RCW</a>, including development and implementation of the Action Agenda. This includes the following duties:</P>        
+		
+	    <li>Assist  with public education and recruit involvement and collaboration to achieve  Puget Sound recovery</li>
+		<li>Seek funding to implement the Action Agenda</li>
+		<li>Build and deploy broad-based support for the  Action Agenda</li>
+		<li>Provide input on key policy decisions and  legislative priorities</li>
+		<li>Problem-solve around Action Agenda priorities,  emerging issues, and implementation roadblocks</li>
+		<li>Help to focus local integration efforts and  implementation support</li>
+		<li>Provide cross caucus reporting and dialogue on  priority issues</li>
+		<li>Coordinate with the Science Panel		</li>
+		<p>The Board is made up of 27 voting members and 6 ex-office  members representing specific interests around the Puget Sound, including representatives  from federal, state, local, and tribal governments, businesses, Port districts,  and environmental organizations.</p>
+<br>
+		  <!--include-->
+		  <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=90a68c68b1994be19b120790df268fa9"></IFRAME>
+	    <h3>Board contact</h3>
 			<p>For questions about the Partnership's boards contact:<br />
 	   		<strong>Jillian Reitz, <br>
             Boards Policy Advisor<br>
