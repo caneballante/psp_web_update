@@ -175,9 +175,9 @@
 						<h5>Michelle Deckard</h5>
 						<p>Grant Writer and Strategist<br>
 							360.819.0342 | <a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a></p>
-						<h5>Bebhinn Gilbert</h5>
+						<h5>Bebhinn Dechery</h5>
 						<p>Restoration and Transportation Funding Strategist<br>
-							360.870.1467 | <a href="mailto:bebhinn.gilbert@psp.wa.gov">bebhinn.gilbert@psp.wa.gov</a></p>
+							360.870.1467 | <a href="mailto:bebhinn.dechery@psp.wa.gov">bebhinn.dechery@psp.wa.gov</a></p>
 		<h5>Sadie Normoyle</h5>
 						<p>Strategic Funding Coordinator<br>
 						360.628.7476 | <a href="mailto:sadie.normoyle@psp.wa.gov">sadie.normoyle@psp.wa.gov</a>                        
@@ -396,7 +396,7 @@
 						<p>IT Specialist<br />
 							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 10/22/24</p>
+	<p class="last-update">Last updated: 11/20/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		

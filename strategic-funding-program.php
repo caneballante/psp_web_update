@@ -99,7 +99,7 @@ navSelected = 1;
 				To learn about <a href="/funding-barriers.php">updates on funding barriers</a> or to request  more information, reach out to our Funding Barriers Strategist, <a href="mailto:jessica.reynolds@psp.wa.gov">Jessica Reynolds</a>.<strong></strong></p>
             <h2><strong>Restoration and Transportation Funding  opportunities</strong></h2>
             <p>We work to build on the traditional  overlap and strengthen the alignment between transportation and Puget Sound  ecosystem and salmon recovery. Our aim is to unite the recovery and  transportation sectors throughout partnerships, planning, and implementation of  projects, to create <a href="/soundsafe.php">Sound Safe Infrastructure</a>. This is transportation  infrastructure that does not create additional stressors and pressures but contributes  to Puget Sound ecosystem and salmon recovery.<br>
-              For more information,  reach out to our restoration and transportation funding strategist, <a href="mailto:bebhinn.gilbert@psp.wa.gov">Bebhinn Gilbert</a>.<strong></strong></p>
+              For more information,  reach out to our restoration and transportation funding strategist, <a href="mailto:bebhinn.dechery@psp.wa.gov">Bebhinn Dechery</a>.<strong></strong></p>
             <h2><strong>Grant Writing</strong></h2>
             <p>We provide the Tribes, LIOs,  LEs, and local partners with technical assistance and the capacity to prepare  their grant applications for submission. Our grant writer will help identify  funding opportunities, develop high-quality grant proposals to federal, state,  and private funding agencies, and monitor grant progression with the goal of  increasing the number of successful submissions for local and regional recovery  projects.<br>
               For more information,  reach out to our grant writer, Michelle Deckard at <a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a><u>.</u><strong> </strong></p>
@@ -128,11 +128,11 @@ navSelected = 1;
             <h3>Does the Strategic Funding Team have its own funding opportunities?            </h3>
             <p>No, the Strategic  Funding Team does not currently have any funds that we award. You can find more  information about currently available and past funding opportunities with our <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a>. </p>
             <h2><strong>Contact</strong><strong>&nbsp;</strong></h2>
-            <p>If  you have any specific funding needs, please email <a href="mailto:Sadie.normoyle@psp.wa.gov">Sadie Normoyle</a>,  strategic funding coordinator, or if your funding needs have a specific  transportation nexus, please contact <a href="mailto:bebhinn.gilbert@psp.wa.gov">Bebhinn Gilbert</a>,  restoration and transportation funding strategist.</p>
+            <p>If  you have any specific funding needs, please email <a href="mailto:Sadie.normoyle@psp.wa.gov">Sadie Normoyle</a>,  strategic funding coordinator, or if your funding needs have a specific  transportation nexus, please contact <a href="mailto:bebhinn.dechery@psp.wa.gov">Bebhinn Dechery</a>,  restoration and transportation funding strategist.</p>
             <p>If  you have any other questions about the Strategic Funding Team or PS RAFT,  please email <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 4/4/24</p>
+		<p class="last-update">Last updated: 11/20/24</p>
 
         <!-- InstanceEndEditable --> </div>
 		
