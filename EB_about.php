@@ -83,7 +83,7 @@
 		<li>Help to focus local integration efforts and  implementation support</li>
 		<li>Provide cross caucus reporting and dialogue on  priority issues</li>
 		<li>Coordinate with the Science Panel		</li>
-		<p>The Board is made up of 27 voting members and 6 ex-office  members representing specific interests around the Puget Sound, including representatives  from federal, state, local, and tribal governments, businesses, Port districts,  and environmental organizations.</p>
+		<p>The Board is made up of 27 voting members and 6 ex-officio  members representing specific interests around the Puget Sound, including representatives  from federal, state, local, and tribal governments, businesses, port districts,  and environmental organizations.</p>
 <br>
 		  <!--include-->
 		  <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=90a68c68b1994be19b120790df268fa9"></IFRAME>
