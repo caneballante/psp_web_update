@@ -86,11 +86,12 @@ navSelected = 3;
 			<p>The Puget Sound Partnership adopted its <a href="/strategic-plan.php" target="new"> 2024-2029 Strategic Plan </a> in August 2024. Goal 9 in the new 
 		    plan commits us to centering equity and environmental justice in our work.</p>
 <p>The Partnership published its <a href="https://pspwa.box.com/s/ywh3fvh26piwbajhi2ap8ezus3s43kh8" target="new">Healthy Environment for All (HEAL) Implementation Plan in 2023</a>. In 2024, we updated the graphics and   made small edits to address formatting and spelling errors only. <a href="https://pspwa.box.com/s/ywh3fvh26piwbajhi2ap8ezus3s43kh8">The HEAL Implementation Plan</a> describes how we will evaluate our progress toward this Strategic Plan goal. We look forward to reporting on our progress and publishing an updated plan in 2025.</p>
+<p>See below for reporting details to the Office of  Financial Management, the Governor&rsquo;s Office, and the Environmental Justice  Council:</p>
 <p><a href="https://pspwa.box.com/s/ywh3fvh26piwbajhi2ap8ezus3s43kh8" target="new">Download a copy of the draft Puget Sound Partnership HEAL Implementation Plan</a></p>
 
 
  
-			 <p class="last-update">Last updated: 08/28/24</p>
+			 <p class="last-update">Last updated: 11/20/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
