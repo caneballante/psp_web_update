@@ -104,7 +104,7 @@
                 <th>Title</th>
                 <th>Funding Source</th>
                 <th>Description</th>
-                <th>Link</th>
+                <th>Project Factsheet</th>
             </tr>
         </thead>
         <tbody>
