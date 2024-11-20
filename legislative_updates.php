@@ -88,7 +88,7 @@
 			
 		<h2>Legislative Updates and Calendar Archives</h2>
 		<h2 class="margin-0-top">2024 Legislative Session</h2>
-        <p>	General session info (coming soon)</p>
+        <p>	<a src href="https://content.govdelivery.com/accounts/WAPSP/bulletins/380a5be" target="new">General session info</a></p>
         <p><a href="https://pspwa.box.com/s/64ck6qrhiv57gwey8emn48cujtcanr7x" target="new">2024 Puget Sound Legislative Priorities</a></p>
         <br>
         <div>
