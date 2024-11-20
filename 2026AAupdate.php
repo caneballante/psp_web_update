@@ -64,7 +64,7 @@ navSelected = 1;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2026-230 Action Agenda</h1>
+			<h1>2026-2030 Action Agenda</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -89,7 +89,7 @@ navSelected = 1;
 		<div>
 		<h2 class="margin-0-top">What is the Action Agenda? </h2>
 			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt=""/>
-		<p>COMING SOON - The 2022-2026 Action Agenda charts the course for Puget Sound recovery as our community's shared plan for advancing protection and restoration efforts across the region.</p>
+		<p>COMING SOON - The 2026-2030 Action Agenda charts the course for Puget Sound recovery as our community's shared plan for advancing protection and restoration efforts across the region.</p>
 		
 			<p>Learn about the Action Agenda:</p>
 			<ul class="bullet-size-fix">
