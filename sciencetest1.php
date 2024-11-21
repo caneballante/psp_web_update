@@ -90,12 +90,17 @@
     	<p>Partnership funded investigations cover a broad range of  topics related to Puget Sound ecosystem recovery that contribute to the  Partnership&rsquo;s statutory recovery goals of a healthy human population, vibrant  quality of life, thriving species and food web, functioning habitat, and  healthy water quality. Select a recovery goal below to learn more about the  funded projects that support each goal.&nbsp;&nbsp;&nbsp;</p>
 		<p paraid="921025832" paraeid="{2d556153-ffaf-4db4-aed3-ee06156d9a7c}{168}">&nbsp;</p>
  
-    
-    <!-- Buttons for Filtering by Primary Goal -->
-    <div id="filter-buttons"></div>
+       
 
-    <!-- Table to Display JSON Data -->
-    <table id="data-table" border="1">
+    <!-- Buttons for Filtering by Primary Goal -->
+    <div id="filter-buttons"></div><br>
+
+    <!-- Div to Display Selected Primary Goal -->
+ 	<div id="custom-table-title"></div>
+
+
+			<!-- Table to Display JSON Data -->
+			<table class="table table-striped" id="data-table" border="1">
         <thead>
             <tr>
                 <th>Point of Contact</th>
