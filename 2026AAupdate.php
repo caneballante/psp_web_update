@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Sound Safe Infrastructure</title>
+<title>Puget Sound Partnership 2026-2030 Action Agenda</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-navSelected = 3;
+navSelected = 1;
 	
 </script>
 <meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
@@ -57,14 +57,14 @@ navSelected = 3;
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
-	<div class="col-xs-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
+	<div class="col-xs-12 orange-fill align-center overview-logo-banner"></div>
 </div>
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Sound safe infrastructure</h1>
+			<h1>2026-2030 Action Agenda</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -74,7 +74,7 @@ navSelected = 3;
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/ln-strategic-funding.html';?>
+					<?php include 'includes/ln-2022-AA.html';?>
 					
 					<!-- InstanceEndEditable -->
 				</ul>
@@ -86,49 +86,56 @@ navSelected = 3;
 		<div class="highlightbox">
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
+		<div>
+		<h2 class="margin-0-top">What is the Action Agenda? </h2>
+			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt=""/>
+		<p>COMING SOON - The 2026-2030 Action Agenda charts the course for Puget Sound recovery as our community's shared plan for advancing protection and restoration efforts across the region.</p>
+		
+			<p>Learn about the Action Agenda:</p>
+			<ul class="bullet-size-fix">
+			<li><a href="https://makingwaves.psp.wa.gov/index.php/2022/10/28/introduction-action-agenda/" target="new">Watch our Action Agenda video in the Q4 2022 Making Waves issue</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/30dh5a9bmlhankz516d7vm443dgqm70t.pdf">Read the Action Agenda brochure</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/7lwvn8letqiyt342o1y00ltq02mnk5v9.pdf">Lea el folleto de la Agenda de Acción en español</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/ri8a5rhkpkm5oej7jx3cx0i7c2qjhbuj.pdf">Basahin ang brosyur ng Action Agenda sa Tagalog</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/tk022vggf87myu23slwdwxyzaloo8z3p.pdf">Đọc tập quảng cáo v&#7873; Chương Trình Hành Động b&#7857;ng Ti&#7871;ng Việt</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/moe8onysucqeayu2aghh582r8ap527n6.pdf">Ознакомьтесь с брошюрой Action Agenda ("План действий") на русском языке</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/j3iolontqjx1m4gpja78dprg3isvubmw.pdf">請閱讀繁體中文版行動議程手冊</a></li>
+			<li><a href="https://pspwa.box.com/shared/static/zqzl3t0y68imthqclpuy4iavphulkbr2.pdf">请阅读繁体中文版行动议程手册</a></li>
+			</ul><br>
+			<p>2022-2026 Action Agenda, Executive Summary, and related information:</p>
+			<ul class="bullet-size-fix">
+				<li><a href="https://pspwa.box.com/shared/static/7svj5x4xtrj6duyccqgo2y0ryekk9zjr.pdf">Download the 2022-2026 Action Agenda Executive Summary</a> </li>
+				<li><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf">Download the full 2022-2026 Action Agenda PDF</a></li>
+				<li><a href="https://pspwa.box.com/shared/static/mejeolwllwccjj3rmc8kiduia604vxos.pdf">Lea la Agenda de Acción 2022-2026 en español</a></li>
+				<li><a href="https://pspwa.box.com/shared/static/adopaw136pastn603ojfzc046k9iza5b.xlsx">Download an Excel table of 2022-2026 Action Agenda strategies, actions, key opportunities, and implementation considerations</a></li>
+			</ul>
+			</div>
+		<div class="clearfix"></div>
+	
+		
+		<div class="container-fluid blue-outline-5px padding-20-all margin-20-top">
+			<div class="row ">
+				
+				<div class="col-sm-6">
+					<h4 class="margin-0-top">VISIT THE ONLINE ACTION AGENDA EXPLORER</h4>
+					<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion tool to the Action Agenda. The Explorer allows for dynamic searchability of content relating to each one of the 31 strategies in the Action Agenda. Content will be updated regularly through 2026.</p>
+				</div>	
+				<div class="col-sm-6">
+					<img class="img-responsive floatright" src="images/AA-explorer-with-photo.jpg" alt=""/>	
+				</div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+
 			
-			<p><b>The Sound Safe Infrastructure initiative</b> is our vision of how we integrate transportation and restoration,
-			  and the benefits it will have for Puget Sound ecosystem recovery and the transportation sector. Through
-			  Sound Safe Infrastructure we aim to build on and strengthen the alignment between transportation and
-			  Puget Sound ecosystem and salmon recovery to fundamentally unite the restoration and transportation
-		    sectors throughout partnerships, planning, and implementation of projects.</p>
-			<p>			  Collaboration is crucial to the success of restoration of the region’s salmon and shellfish populations, and
-			  the jobs and natural industries they support. To uphold Tribal treaty fishing rights, successful cooperation
-			  between transportation and restoration professionals is needed to ensure that habitat is protected and
-			  restored, so that there are fish to harvest. This cooperation is also essential for achieving Puget Sound
-			  ecosystem recovery goals and supports the Washington State Department of Transportation’s values of
-		    economic vitality, preservation, safety, mobility, environment, and stewardship.</p>
-			<p>We invite partners to engage in this work and take on this shared initiative for increased partnerships
-			  and to create a strong cross-sector collaborative environment for a world-class transportation system
-		    alongside thriving ecological processes and salmon populations</p>
-            <h2><strong>Areas of work</strong></h2>
-		<p>1. <b>Partnerships:</b> Strengthen existing relationships between the transportation and restoration
-              sector and develop new connections when available. Broaden the restoration community to include
-              transportation, and emphasize common values and goals.<br>
-				2. <b>Planning:</b> Strengthen communication between the transportation and restoration sectors as
-              well as explore opportunities to align priorities throughout Puget Sound’s many decision-making
-              bodies.<br>
-				3. <b>Projects:</b> Connect current and future projects from both sectors to maximize mutual benefit,
-              streamline processes, and invest efficiently.<br>
-				4. <b>Funding:</b> Jointly pursue funding for projects which sit at the nexus of restoration and
-            transportation.</p>
-            <h2><strong>anticipated outcomes </strong></h2>
-            <p>1. Broad cross-sectoral adoption of the Sound Safe Infrastructure Initiative and understanding of
-              the benefits it presents to the restoration and transportation communities.<br>
-              2. Establish and strengthen the system of collaboration for restoration and transportation sectors,
-              rooted in shared values and goals.<br>
-              3. Increase communication and coordination of project planning and implementation to support
-              efficient investments in ecosystem restoration, salmon recovery, and transportation networks.<br>
-              4. Create a funding landscape that is supportive of the restoration and transportation work needed
-              for ecosystem and salmon recovery. Increase awareness of funding opportunities and reduce barriers
-            to project application and implementation.</p>
-            <h2><strong>Contact</strong><strong>&nbsp;</strong></h2>
-            <p><strong>Bebhinn Dechery</strong><u></u></p>
-            <p>Restoration and Transportation Funding Strategist</p>
-			<p>360.870.1467 |<a href="mailto:bebhinn.dechery@psp.wa.gov"> bebhinn.dechery@psp.wa.gov</a></p>
+		<h2>Why do we need an Action Agenda? </h2>
+		
+		<p>&nbsp;</p>
+			
+			
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 11/20/24</p>
+		<p class="last-update">Last updated: 10/24/24</p>
 
         <!-- InstanceEndEditable --> </div>
 		
@@ -138,7 +145,15 @@ navSelected = 3;
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
-				
+				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/ck3b5pdx2vj4dmlfgqkynvnlafoet1k0" target="new">View our 2022-2026 Action Agenda overview presentation</a></li>
+				<li><a href="https://pspwa.box.com/shared/static/adopaw136pastn603ojfzc046k9iza5b.xlsx">Download an Excel table of 2022-2026 Action Agenda strategies, actions, key opportunities, and implementation considerations</a></li>
+				<li><a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
+				<li><a href="https://pspwa.box.com/s/qwqatl3l3zi4x3ncchizy68auca9xcte">Tribal Habitat Priorities</a></li>
+				<li><a href="https://nwtreatytribes.org/habitatstrategy/" target="_blank"><em>gw∂dzadad &ldquo;Teaching of Our Ancestors&rdquo;, Tribal Habitat Strategy</em></a></li>
+				<li><a href="https://goia.wa.gov/relations/centennial-accord">Centennial Accord </a> </li>
+				<li><a href="https://www.psp.wa.gov/science-basis-of-recovery-overview.php">Science basis of recovery</a></li>
+				<li><a href="https://www.psp.wa.gov/salmon-recovery-overview.php">Salmon Recovery in Puget Sound</a></li>
+				<li><a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organizations </a>
 			
 				<!-- InstanceEndEditable -->
 			</ul>
