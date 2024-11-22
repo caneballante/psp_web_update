@@ -86,7 +86,8 @@ navSelected = 4;
 		<div class="highlightbox">
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
-		<div class="highlightbox margin-0-top margin-20-bottom"><p>Development of the 2026-2030 Action Agenda is now under way. To learn more, vist the <a href="/2026AAupdate.php" target="new">2026-2030 Action Agenda Update page.</a></p>
+		<div class="highlightbox margin-0-top margin-20-bottom">
+		  <p>Development of the 2026-2030 Action Agenda is now under way. To learn more, please visit the <a href="/2026AAupdate.php" target="new">2026-2030 Action Agenda Update page.</a></p>
 			</div>
 		<h2 class="margin-0-top">What is the Action Agenda? </h2>
 			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt=""/>
