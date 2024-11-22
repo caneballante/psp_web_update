@@ -115,7 +115,7 @@ navSelected = 1;
 </div>
 		</div>
 		
-		<h2>Timeline		</h2>
+		<h3>Timeline		</h3>
 		<p><strong>2025</strong> <strong></strong><br>
         January-March 2025: Update 2026-2030 Action Agenda  content.</p>
         <p>April-June 2025: Compile, develop initial draft 2026-2030  Action Agenda.&nbsp;</p>
