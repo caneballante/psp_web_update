@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-navSelected = 1;
+navSelected = 4;
 	
 </script>
 <meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
@@ -86,7 +86,8 @@ navSelected = 1;
 		<div class="highlightbox">
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
-		<div>
+		<div class="highlightbox margin-0-top margin-20-bottom"><h3 class=margin-0-top>Development of the 2026-2030 Action Agenda is now under way. To learn more, vist the <a href="/2026AAupdate.php" target="new">2026-2030 Action Agenda Update page.</a></h3>
+			</div>
 		<h2 class="margin-0-top">What is the Action Agenda? </h2>
 			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt=""/>
 		<p>The 2022-2026 Action Agenda charts the course for Puget Sound recovery as our community's shared plan for advancing protection and restoration efforts across the region.</p>
@@ -109,7 +110,7 @@ navSelected = 1;
 				<li><a href="https://pspwa.box.com/shared/static/mejeolwllwccjj3rmc8kiduia604vxos.pdf">Lea la Agenda de Acción 2022-2026 en español</a></li>
 				<li><a href="https://pspwa.box.com/shared/static/adopaw136pastn603ojfzc046k9iza5b.xlsx">Download an Excel table of 2022-2026 Action Agenda strategies, actions, key opportunities, and implementation considerations</a></li>
 			</ul>
-			</div>
+			
 		<div class="clearfix"></div>
 	
 		
