@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
         tableTitleDiv.style.display = 'block';
         tableTitleDiv.style.visibility = 'visible';
         tableTitleDiv.style.opacity = '1';
-        tableTitleDiv.innerHTML = "Currently Displaying: All"; // Set initial content to display "All"
+        tableTitleDiv.innerHTML = "<h2><strong>Currently Displaying: </strong> All</h2>"; // Set initial content to display "All"
     } else {
         console.error('Did not find #custom-table-title element'); // Log if element is missing
     }
@@ -27,6 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
             console.log('JSON data loaded', data); // Log loaded data
             displayData(data.Project_Overviews);
             createFilterButtons(data.Project_Overviews);
+            setupTableHeaders(data.Project_Overviews);
         })
         .catch(error => console.error('Error loading JSON data:', error));
 });
@@ -82,7 +83,7 @@ function setTableTitle(title) {
         tableTitleDiv.style.display = 'block'; // Ensure it is not hidden
         tableTitleDiv.style.visibility = 'visible';
         tableTitleDiv.style.opacity = '1';
-        tableTitleDiv.innerHTML = `Currently Displaying: ${title.trim()}`;
+        tableTitleDiv.innerHTML = `<h2><strong>Currently Displaying:</strong> ${title.trim()}</h2>`;
         console.log("Title set successfully to:", title.trim());
     } else {
         console.error("Table title div not found");
@@ -113,20 +114,58 @@ function displayData(data) {
     tableBody.innerHTML = '';
 
     data.forEach(item => {
+        // Skip rows where essential fields are undefined or empty
+        if (!item['Title'] || item['Title'].trim() === '') {
+            console.warn('Skipping row with missing Title');
+            return;
+        }
+
         const row = document.createElement('tr');
         
         const linkCell = item['Link to project factsheet'] ? `<a href="${item['Link to project factsheet']}">Link</a>` : '';
         
         row.innerHTML = `
-            <td>${item['Point of Contact']}</td>
-            <td>${item['Affiliation']}</td>
-            <td>${item['Biennium']}</td>
-            <td>${item['Title']}</td>
-            <td>${item['Funding Source']}</td>
-            <td>${item['Description (1-2 sentence overview to be on landing list)']}</td>
+            <td><strong>${item['Title']}</strong></td>
+            <td>${item['Description (1-2 sentence overview to be on landing list)'] || 'N/A'}</td>
+            <td>${item['Point of Contact'] || 'N/A'}</td>
+            <td>${item['Affiliation'] || 'N/A'}</td>
+            <td>${item['Biennium'] || 'N/A'}</td>
+            <td>${item['Funding Source'] || 'N/A'}</td>
             <td>${linkCell}</td>
         `;
 
         tableBody.appendChild(row);
+    });
+}
+
+// Function to setup clickable table headers for sorting
+function setupTableHeaders(data) {
+    console.log('Setting up table headers for sorting...');
+    const headers = document.querySelectorAll('#data-table thead th');
+    const headerKeys = [
+        'Title', 
+        'Description (1-2 sentence overview to be on landing list)', 
+        'Point of Contact', 
+        'Affiliation', 
+        'Biennium', 
+        'Funding Source',
+        'Link to project factsheet'
+    ];
+
+    headers.forEach((header, index) => {
+        let sortOrder = 1; // 1 for ascending, -1 for descending
+        header.addEventListener('click', () => {
+            const key = headerKeys[index];
+            console.log(`Sorting by column: ${key}`);
+            const sortedData = [...data].sort((a, b) => {
+                const aValue = a[key] ? a[key].toString().toLowerCase() : '';
+                const bValue = b[key] ? b[key].toString().toLowerCase() : '';
+                if (aValue < bValue) return -1 * sortOrder;
+                if (aValue > bValue) return 1 * sortOrder;
+                return 0;
+            });
+            sortOrder *= -1; // Toggle sorting order
+            displayData(sortedData);
+        });
     });
 }
