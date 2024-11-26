@@ -151,8 +151,10 @@
 						<p>Puget Sound Recovery Integration Manager<br>
 							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
 
-						<h5>VACANT</h5>
-						<p>Puget Sound Recovery Strategist<br></p>
+						<h5>Doug kennedy</h5>
+						<p>Puget Sound Recovery Strategist<br>
+						  360.819.3412 | <a href="mailto:doug.kennedy@psp.wa.gov">doug.kennedy@psp.wa.gov</a><br>
+	    </p>
 			
 						<h5>Juliana Tadano</h5>
 						<p>Puget Sound Recovery Strategist<br/>
