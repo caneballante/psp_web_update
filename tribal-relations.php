@@ -151,7 +151,20 @@
 					<strong>Lea Anne Burke (Lumbee),</strong> <br>
 					Tribal Affairs Manager<br>
 					<a href="mailto:don.gourlie@psp.wa.gov">lea-anne.burke@psp.wa.gov</a><br>
-					360.682.7532<br><br>
+				360.682.7532</p>
+				<p class="right-nav-contact"><br>
+				<br><h2>Links and Resources</h2>
+                <ul>
+                  <li><a href="https://goia.wa.gov/">GOIA | Governor's Office of Indian Affairs  (GOIA) (wa.gov)</a></li>
+                  <li>Government-to-Government  Consultation <a href="https://app.leg.wa.gov/rcw/default.aspx?cite=43.376">Chapter 43.376 RCW: GOVERNMENT-TO-GOVERNMENT  RELATIONSHIP WITH INDIAN TRIBES (wa.gov)</a></li>
+                  <li>Healthy  Environment for All Act&nbsp; <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.100">RCW 70A.02.100: Tribal consultation. (wa.gov)</a></li>
+                  <li>Department  of Archaeology and Historic Preservation <a href="https://dahp.wa.gov/archaeology/tribal-consultation-information">Tribal Consultation Information | Washington  State Department of Archaeology &amp; Historic Preservation (DAHP)</a></li>
+                  <li>Washington  State Department of Fish and Wildlife <a href="https://wdfw.wa.gov/fishing/management/north-falcon">North of Falcon</a></li>
+                  <li><a href="https://www.washingtontribes.org/">Washington Tribes</a></li>
+                  <li><a href="https://nwifc.org/">Northwest Indian Fisheries Commission (NWIFC) |  Serving the Treaty Tribes in Western Washington</a></li>
+                  <li><a href="http://pnptc.org/">Point No Point Treaty Council – Port Gamble and  Jamestown S&rsquo;Klallam Tribes (pnptc.org)</a></li>
+                  <li><a href="http://skagitcoop.org/">Skagit River System Cooperative  (skagitcoop.org)</a></li>
+                  <li><a href="https://atnitribes.org/">Affiliated  Tribes of Northwest Indians – Dedicated to Promoting Tribal Self Determination  &amp; Sovereignty (atnitribes.org</a> </li>
 				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Click here</a> to provide feedback on the content and functionality of this page.</p>
 				<!-- InstanceEndEditable -->
 			</ul>
