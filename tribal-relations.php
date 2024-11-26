@@ -114,15 +114,13 @@
             <p>The objective of the HEAL Act is to reduce environmental and health  disparities throughout Washington State and improve the health of all  Washington State residents. The Washington State Legislature passed Senate Bill  5141, <a href="http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?q=20210624103236">HEAL Act</a>, to be effective on July 25, 2021. </p>
             <p> Key priorities of the HEAL Act include reducing exposure to  environmental hazards within Tribal lands, ensuring Tribal sovereignty and  rights in environmental justice (EJ), and eliminating environmental and health  disparities in disadvantaged, vulnerable, and low-income populations.<br>
               Read more about the <a href="https://psp.wa.gov/HEAL.php">Partnership&rsquo;s HEAL Act</a> program and implementation.<br>
-              HEAL Act Tribal Government Engagement  Guide (Link soon!!)<br>
-              HEAL Act Native American Community  Engagement Guide (Link soon!!)</p><h2>Map of reservations</h2>
-              <p><br>
-                <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpspwa.box.com%2Fs%2Fne189qesovfa5319cqu2z1u17n5s7oz2&data=05%7C02%7Clea-anne.burke%40psp.wa.gov%7C69f7fece3e71425a346508dc6f9c0149%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638507963024255736%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Bhq%2BPFpcrF%2FXsg0jbJ03jXYtRaoM%2BF0zWZkILw%2Fush8%3D&reserved=0">MAP GOES HERE</a><a href="https://pspwa.box.com/s/qzq53cwupaq8tfcswj8lqgqginxd2vi2"></a>
-                </p>
-              </p>
+              <a href="https://pspwa.box.com/s/3q34inra9pi56askq35r7xn4mlkkqo3x">HEAL Act Tribal Government Engagement  Guide</a><br>
+              <a href="https://pspwa.box.com/s/qjskpfh3ip1zoa0xnktws8z3ykplj5k4">HEAL Act Native American Community  Engagement Guide</a></p><h2>Map of reservations</h2>
+              <p><a href="https://pspwa.box.com/s/ne189qesovfa5319cqu2z1u17n5s7oz2"><img src="/images/tribalreservationmap1.png" width="683" height="683"></a> <br>
+              
               <div>
-              <div>
-                <h2>Links and Resources</h2>
+                <div>
+                  <h2>Links and Resources</h2>
                 <ul>
                   <li><a href="https://goia.wa.gov/">GOIA | Governor's Office of Indian Affairs  (GOIA) (wa.gov)</a></li>
                   <li>Government-to-Government  Consultation <a href="https://app.leg.wa.gov/rcw/default.aspx?cite=43.376">Chapter 43.376 RCW: GOVERNMENT-TO-GOVERNMENT  RELATIONSHIP WITH INDIAN TRIBES (wa.gov)</a></li>
@@ -140,7 +138,7 @@
             </div>
 			</div>
 			<h2 class="margin-0-top">&nbsp;</h2>
-			<p class="last-update">Last updated: 7/1/24</p>
+			<p class="last-update">Last updated: 11/26/24</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
