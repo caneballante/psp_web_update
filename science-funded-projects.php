@@ -1,19 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
+
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K5R1WLJ6VJ"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BGEZ5L3EJY"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-K5R1WLJ6VJ');
+  gtag('config', 'G-BGEZ5L3EJY');
 </script>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Science Funded Projects</title>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Puget Sound Partnership Science and Evaluation Funded Projects</title>
+<!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
@@ -29,50 +32,39 @@
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+<!-- InstanceBeginEditable name="head" -->
+<script defer src="js/sciencefunding1.js"></script>
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+navSelected = 1;
 	
-	
-	<style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-            text-align: left;
-        }
-        .filter-buttons {
-            margin-bottom: 10px;
-        }
-        .filter-buttons button {
-            margin-right: 5px;
-        }
-        /* CSS to hide the columns in #jsonTable only */
-        #jsonTable th.hidden, 
-        #jsonTable td.hidden {
-            display: none;
-        }
-    </style>
-	
-	
+</script>
+<meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
+ <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image120">
- 	
-	<div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
- 	
 </header>
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+
+<!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
-		<div class="col-sm-7 padding-20-top">
-<h1><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-parastyle="heading 1">Science and Evaluation Funding</span></span><span data-ccp-props="{'134245418':true,'134245529':true,'335559738':360,'335559739':80}"> </span></h1>
-			</div>
+		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
+			<h1>Science and Evaluation Funded Projects</h1>
+			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -80,18 +72,24 @@
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-<!--<?php include 'includes/ln-HEAL.html';?>-->
-			</ul>
+					<!-- InstanceBeginEditable name="left_nav" -->
+					<?php include 'includes/ln-science-funded.html';?>
+					
+					<!-- InstanceEndEditable -->
+				</ul>
 			</div>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column">
-    	<p>The Puget Sound Partnership Science and Evaluation team  makes strategic investments in research, modeling, and monitoring contributing  to the knowledge basis for Puget Sound ecosystem recovery. The Partnership  funds projects every biennium through three solicitations in the form of  Requests for Information. The Puget Sound Scientific Research solicitation  funds projects that address priority information needs described in the <a href="https://psp.wa.gov/science-workplan.php">Science  Work Plan</a>. The <a href="https://psp.wa.gov/monitoring-accelerate-recovery.php" target="_blank">Monitoring to Accelerate Recovery</a> solicitation funds  projects that address priority monitoring information needs and support the  objectives of the <a href="https://pspwa.box.com/s/xf3swog4yshyiylrpcwx74owvy8yscum">Puget Sound Ecosystem Monitoring Program&rsquo;s strategic plan</a> and <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a>. The <a href="https://psp.wa.gov/salmon-science-investigations.php" target="_blank">Salmon  Science Investigations</a> solicitation funds projects that will advance Puget  Sound salmon recovery efforts and the Puget Sound Salmon Recovery Plan.</p>
-    	<p>Partnership funded investigations cover a broad range of  topics related to Puget Sound ecosystem recovery that contribute to the  Partnership&rsquo;s statutory recovery goals of a healthy human population, vibrant  quality of life, thriving species and food web, functioning habitat, and  healthy water quality. Select a recovery goal below to learn more about the  funded projects that support each goal.&nbsp;&nbsp;&nbsp;</p>
-		<p paraid="921025832" paraeid="{2d556153-ffaf-4db4-aed3-ee06156d9a7c}{168}">&nbsp;</p>
- 
-       
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+	<!--
+		<div class="highlightbox">
+			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
+		</div>-->
+		<p>The Puget Sound Partnership Science and Evaluation team  makes strategic investments in research, modeling, and monitoring contributing  to the knowledge basis for Puget Sound ecosystem recovery. The Partnership  funds projects every biennium through three solicitations in the form of  Requests for Information. The Puget Sound Scientific Research solicitation  funds projects that address priority information needs described in the <a href="https://psp.wa.gov/science-workplan.php">Science  Work Plan</a>. The <a href="https://psp.wa.gov/monitoring-accelerate-recovery.php" target="_blank">Monitoring to Accelerate Recovery</a> solicitation funds  projects that address priority monitoring information needs and support the  objectives of the <a href="https://pspwa.box.com/s/xf3swog4yshyiylrpcwx74owvy8yscum">Puget Sound Ecosystem Monitoring Program&rsquo;s strategic plan</a> and <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a>. The <a href="https://psp.wa.gov/salmon-science-investigations.php" target="_blank">Salmon  Science Investigations</a> solicitation funds projects that will advance Puget  Sound salmon recovery efforts and the Puget Sound Salmon Recovery Plan.</p>
+    	<p>Partnership funded investigations cover a broad range of  topics related to Puget Sound ecosystem recovery that contribute to the  Partnership&rsquo;s statutory recovery goals of a healthy human population, vibrant  quality of life, thriving species and food web, functioning habitat, and  healthy water quality. Select a recovery goal below to learn more about the  funded projects that support each goal.</p><br>
+<br>
 
+      
     <!-- Buttons for Filtering by Primary Goal -->
     <div id="filter-buttons"></div><br>
 
@@ -116,14 +114,25 @@
             <!-- Rows will be dynamically generated here -->
         </tbody>
     </table>
-			<br>
 
+        <!-- LAST UPDATED -->
+		<p class="last-update">Last updated: 12/03/24</p>
 
-
-
-
-
-
+        <!-- InstanceEndEditable --> </div>
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"><a href="https://psp.wa.gov/science-workplan.php">Science  Work Plan</a></li>
+				<li class="active" role="presentation"><a href="https://psp.wa.gov/monitoring-accelerate-recovery.php" target="_blank">Monitoring to Accelerate Recovery</a></li>
+				<li class="active" role="presentation">	<a href="https://pspwa.box.com/s/xf3swog4yshyiylrpcwx74owvy8yscum">PSEMP strategic plan</a></li>
+				<li class="active" role="presentation"> <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a></li>
+				<li class="active" role="presentation"><a href="https://psp.wa.gov/salmon-science-investigations.php" target="_blank">Salmon  Science Investigations</a> </li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
@@ -138,17 +147,8 @@
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
-<script defer src="js/sciencefunding1.js"></script>
-<!-- Google Tracking  --> 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<!-- Google Tracking  -->
+<!-- InstanceBeginEditable name="EditRegion12" -->EditRegion12<!-- InstanceEndEditable --> 
 
-  ga('create', 'UA-69373425-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 </body>
-</html>
+<!-- InstanceEnd --></html>
