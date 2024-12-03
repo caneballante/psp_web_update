@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Government Relations</title>
+<title>Puget Sound Partnership - Partnership Tribal Co-Management Council (PTCC)</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -94,7 +94,7 @@
           </div>
 		</div>
 			<h2 class="margin-0-top">&nbsp;</h2>
-			<p class="last-update">Last updated: 11/12/24</p>
+			<p class="last-update">Last updated: 11/26/24</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
