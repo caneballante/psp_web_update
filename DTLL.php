@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Tribal Relations</title>
+<title>Puget Sound Partnership - Invitations for Consultation and Informational Dear Tribal Leader Letters	</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
+  	navSelected = 3;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -65,7 +65,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Tribal RELATIONS			</h1>
+			<h1>Invitations for Consultation and Informational Dear Tribal Leader Letters			</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -83,39 +83,12 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="margin-0-top margin-20-bottom">
-			<p>In 1989, federally recognized Tribal Nations and the State  of Washington signed the<a href="https://goia.wa.gov/relations/centennial-accord">Centennial  Accord</a>. This historic, first-in-the-nation Accord strengthens Tribal-State  relations on issues of shared interests and to promote collaborative best  management practices. </p>
-			<p>The Puget Sound Partnership respects and honors Tribes  as unique, sovereign nations with treaty, cultural and inherent rights. We  acknowledge our government-to-government responsibilities and prioritize early  and often engagement and consultation.            </p>
-			<h2>Tribal Engagement </h2>
-            <p>Ongoing collaboration with Tribal nations and consortia is  central to our collective effort of Puget Sound recovery. Tribal nations lead,  maintain, and participate in forums that guide and inform salmon and Puget  Sound recovery and the development and implementation of the 2022-2026 Puget  Sound Action Agenda. </p>
-            <ul>
-              <li>Tribal representatives hold seats on  our three boards established in statute: </li>
-              <ul>
-                <li><strong>Leadership  Council</strong> (Lower Elwha Klallam Tribe,  Skokomish Indian Tribe) </li>
-                <li><strong>Ecosystem  Coordination Board</strong> (Jamestown S&rsquo;Klallam, Lummi Nation,  Nisqually Indian Tribe) </li>
-                <li><strong>Science  Panel</strong> (Northwest Indian Fisheries  Commission (NWIFC)). </li>
-              </ul>
-              <li>Tribes hold multiple seats on our  two advisory boards: </li>
-              <li><strong>Puget Sound Salmon Recovery Council</strong> <em>N</em><em>ote: Each federally recognized Tribe within the Puget  Sound region can appoint a primary and alternate delegate to this Council.</em></li>
-              <li><strong>Puget  Sound Ecosystem Monitoring Program</strong> Steering Committee.            </li>
-            </ul>
-            <h2>Centennial Accord </h2>
-            <p>Our Centennial Accord Implementation plan is available at the  Governor&rsquo;s <a href="https://goia.wa.gov/relations/centennial-accord">Office of Indian Affairs</a> website. <br>
-              Agency Centennial  Accord highlights are also available at the Governor&rsquo;s Office of Indian Affairs <a href="https://goia.wa.gov/relations">State-Tribal Relations / Centennial Accord | GOIA (wa.gov)</a> webpage.</p>
-            <h2>Healthy Environment for All (HEAL) Act </h2>
-            <p>The objective of the HEAL Act is to reduce environmental and health  disparities throughout Washington State and improve the health of all  Washington State residents. The Washington State Legislature passed Senate Bill  5141, <a href="http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?q=20210624103236">HEAL Act</a>, to be effective on July 25, 2021. </p>
-            <p> Key priorities of the HEAL Act include reducing exposure to  environmental hazards within Tribal lands, ensuring Tribal sovereignty and  rights in environmental justice (EJ), and eliminating environmental and health  disparities in disadvantaged, vulnerable, and low-income populations.<br>
-              Read more about the <a href="https://psp.wa.gov/HEAL.php">Partnership&rsquo;s HEAL Act</a> program and implementation.<br>
-              <a href="https://pspwa.box.com/s/3q34inra9pi56askq35r7xn4mlkkqo3x">HEAL Act Tribal Government Engagement  Guide</a><br>
-              <a href="https://pspwa.box.com/s/qjskpfh3ip1zoa0xnktws8z3ykplj5k4">HEAL Act Native American Community  Engagement Guide</a></p><h2>Map of reservations</h2>
-              <p><a href="https://pspwa.box.com/s/ne189qesovfa5319cqu2z1u17n5s7oz2"><img src="/images/tribalreservationmap1.png" width="683" height="683"></a> <br>
-              
-              <div>
-                <div></div>
-              <div> </div>
-            </div>
+			<p>Tribal Nations and communities have been the  stewards of the lands and waters of Washington State since time immemorial. The  Puget Sound Partnership respects their leadership and stewardship, and actively  works to honor their Tribal Sovereignty by engaging in meaningful government to  government work, as defined and guided by <a href="https://apps.leg.wa.gov/rcw/default.aspx?cite=43.376&full=true">RCW  43.376,</a> <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.leg.wa.gov%2FRCW%2Fdefault.aspx%3Fcite%3D70A.02.010&data=05%7C02%7Cian.mccabe%40psp.wa.gov%7C3b2b0ca7ceb544690e5a08dd130f71a2%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638687679254323812%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=cqfpeWGksXcsqHEMiNTRLBfh%2FEO8hCvRzC81Icw7IRU%3D&reserved=0">RCW  70A.02.010 (12)(c)</a>, and the <a href="https://goia.wa.gov/relations/centennial-accord">Washington  State Centennial Accord of 1989</a>.</p>
+			<p><br>
+			  Smartsheet table with more information coming soon.</p>
+            <p>&nbsp;</p>
 			</div>
-			<h2 class="margin-0-top">&nbsp;</h2>
-			<p class="last-update">Last updated: 12/04/24</p>
+			<p class="last-update">Last updated: 12/03/24</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
