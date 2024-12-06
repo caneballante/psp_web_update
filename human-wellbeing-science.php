@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Human Wellbeing</title>
+<title>Human Wellbeing: Science</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-navSelected = 1;
+navSelected = 2;
 	
 </script>
 <meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
@@ -64,7 +64,7 @@ navSelected = 1;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>human wellbeing</h1>
+			<h1>human wellbeing: Science</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -87,39 +87,28 @@ navSelected = 1;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-			<p>People  are an important part of Puget Sound. If we want to help restore and conserve  Puget Sound&rsquo;s ecosystem, we must do so while also caring for ourselves.  Our Human Wellbeing work aims to help everyone  live a fulfilling life, including physically, emotionally, socially, and  economically.</p>
-			<div class="highlightbox margin-0-top margin-20-bottom">
-			<p><i>People are part of nature and the wellbeing of one depends on the wellbeing  of the other.</i>			</p>
-			</div>
-			<h2>What is Human Wellbeing?</h2>
-			<p>Human  Wellbeing is a good quality of life that is supported by a healthy and  functional Puget Sound that is not threatened by the changes in our ecosystem.</p>
-		<p>Two  of our six recovery goals in Washington State Statute (RCW 90.71.300) address  human wellbeing:</p>
+			<h2>Human Wellbeing and Social Sciences</h2>
+			<p>Social  sciences help us understand and address Human Wellbeing and our impact on the  ecosystem, including:</p>
 			<ul class="bullet-size-fix">
-			<li>A  healthy human population that is supported by a healthy Puget Sound and is not  threatened by changes in the ecosystem.</li>
-				<li>A  quality of human life that is sustained by a functioning Puget Sound ecosystem.
-				  </p>
-		</li></ul>
-		  <p>You  can read more about how we <a href="https://www.psp.wa.gov/evaluating-human-wellbeing.php" target="new">evaluate Human Wellbeing  here</a>.</p>
-		  <h2>Human Wellbeing and Environmental Justice</h2>
-		  <p>Environmental Justice is an important part of Human  Wellbeing. It is applied across all six of our ecosystem recovery goals by  applying <a href="https://psp.wa.gov/HEAL-environmental-justice-assessments.php">our  Environmental Justice Principles</a>, especially those that help communities  involved in recovery efforts.  </p>
-		  <p>You can find more information about  Environmental Justice within our Human Wellbeing work: </p>
-		  <ul class="bullet-size-fix">
-		    <li><a href="https://psp.wa.gov/HEAL.php">Learn about Washington&rsquo;s HEAL Act</a>.</li>
-		    <li><a href="https://psp.wa.gov/HEAL-environmental-justice-assessments.php">Learn more  about the Partnership&rsquo;s Equity &amp; Environmental Justice Program</a>.
-		      </p>
-	        </li>
-	      </ul>
-	<h2>Human Wellbeing across our work</h2>
-	<p>We  focus on Human Wellbeing in three areas of our work. Select one of the work  area examples below to learn more.</p>
-	<ul class="bullet-size-fix">
-		<li><a href="/human-wellbeing-science.php">Science</a></li>
-	  <li>Planning</li>
-	  <li>Monitoring</li>
-	  </ul>
-	<div class="highlightbox margin-0-top margin-20-bottom">
-	<p><i>The Equity &amp; Environmental Justice Program promotes accountability,  builds relationships, advances education, and advises across these three work  areas and the larger work of the Partnership.</i>		</p>
-	
-		</div>
+			  <li>People&rsquo;s beliefs</li>
+              <li>People&rsquo;s preferences</li>
+              <li>How and why we interact with the environment.			</li>
+		</ul>
+			<p>You can read more about our social science research and  efforts <a href="https://www.psp.wa.gov/social-science-research.php" target="new">here</a>. </p>
+<p><i>We  also value and use traditional ways of research and knowledge that are not  limited to the western sciences.</i></p>
+<h2>Expert Advice</h2>
+		<p>Human Wellbeing is supported by expert advice from social  scientists, including:</p>
+<ul class="bullet-size-fix">
+		<li>The Social Sciences Advisory Committee (SSAC),  which includes scientists who recommend how humans can help ecosystem recovery.  The SSAC discusses advancements in social science research and monitoring,  reviews our materials, and guides our social science efforts. </li>
+	    <li>Our Science Panel also includes social science  experts who make recommendations on applying the best available science and  help us decide our priorities for science funding.	    </li></ul>
+<h2>Science Work Plan</h2>
+		  <p>Our  Science Panel writes the <a href="https://psp.wa.gov/science-workplan.php">Science  Work Plan</a> to describe the information, learning, and capacity needed to  support efforts to recover, protect, and improve Puget Sound. The Work Plan  identifies several  research priorities,  including social science and Human Wellbeing .  </p>
+		  <p>You  can read more about the <a href="https://psp.wa.gov/science-workplan.php" target="new">Science  Work Plan here</a>.</p>
+	<h2>Scientific research funding awards</h2>
+	<p>Funding research into how ecosystem recovery affects us and  our daily lives supports our Human Wellbeing work.<br>
+Our Science Panel, Science &amp; Evaluation team, Salmon  Science team, and Strategic Initiatives and Ecosystem Monitoring Program fund  social science and Human Wellbeing monitoring with State and Federally funds.</p>
+	<p>Example studies can be found on our <a href="https://www.psp.wa.gov/social-science-research.php" target="new">Social Science  Research Effort page</a>.
+	  </p>
 			
 		<!-- LAST UPDATED -->
 		<p class="last-update">Last updated: 12/6/24</p>
