@@ -99,7 +99,6 @@ navSelected = 1;
 				<li>A  quality of human life that is sustained by a functioning Puget Sound ecosystem.
 				  </p>
 		</li></ul>
-		<div class="highlightbox margin-10-left">
 		  <p>You  can read more about how we <a href="https://www.psp.wa.gov/evaluating-human-wellbeing.php" target="new">evaluate Human Wellbeing  here</a>.</p>
 		  <h2>Human Wellbeing and Environmental Justice</h2>
 		  <p>Environmental Justice is an important part of Human  Wellbeing. It is applied across all six of our ecosystem recovery goals by  applying <a href="https://psp.wa.gov/HEAL-environmental-justice-assessments.php">our  Environmental Justice Principles</a>, especially those that help communities  involved in recovery efforts.  </p>
