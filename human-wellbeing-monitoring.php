@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Human Wellbeing: Planning</title>
+<title>Human Wellbeing: monitoring</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-navSelected = 3;
+navSelected = 4;
 	
 </script>
 <meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
@@ -64,7 +64,7 @@ navSelected = 3;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>human wellbeing: Planning</h1>
+			<h1>human wellbeing: monitoring</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -87,33 +87,39 @@ navSelected = 3;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-			<h2>Human Wellbeing and Planning</h2>
-			<p>Human Wellbeing is included in our planning ,  including: </p>
-            <div>
-              <div></div></div>
-            <ul class="bullet-size-fix">
-	          <li><a href="https://psp.wa.gov/2022AAupdate.php" target="new">Action  Agenda</a></li>
-              <li><a href="http://www.psp.wa.gov/implementation-strategies.php" target="new">Implementation  Strategies</a></li>
-              <li><a href="https://psp.wa.gov/LIO-overview.php" target="new">Local  Integrating Organizations&rsquo; (LIO) Recovery Plans</a>.</li>
-		</ul>
-			<h2>Action Agenda</h2>
-			<p>Our <a href="https://psp.wa.gov/2022AAupdate.php" target="new">Action  Agenda</a> includes a plan for Puget Sound recovery, including 31 Strategies for  funding, policy decisions, and recovery actions.</p>
-			<p>The <a href="https://psp.wa.gov/2022AAupdate.php" target="new">2022-2026  Action Agenda</a> has six strategies for Human Wellbeing outcomes:</p>
+			<h2>Human Wellbeing and Monitoring at Puget Sound Partnership</h2>
+			<p>Monitoring allows the Puget Sound recovery community,  partners, and the public to track the status and trends of ecosystem recovery.  Knowing the status and trends of Human Wellbeing helps communities and  ecosystem recovery planners highlight needs and prioritize areas of recovery  work.</p>
+			<p>We check Human Wellbeing through our Vital Signs  and provide the Human Wellbeing status and trends in the <a href="https://www.pugetsoundinfo.wa.gov/" target="new">Puget Sound Info interactive website</a> and <a href="http://stateofthesound.wa.gov/" target="new">State of the Sound report</a>.</p>
+			<p><i>Monitoring can find communities or cultural practices that are most  affected by the health of their natural environment. </i></p>
+			<h2>Human Wellbeing Vital Signs</h2>
+			<p>The <a href="https://www.psp.wa.gov/evaluating-vital-signs.php">Puget Sound Vital  Signs</a> are the building blocks of   the Puget Sound Recovery Goals for ecosystem  health. There are 23 total Vital Signs and ten of those measure the two Human  Wellbeing recovery goals:
+			  </p><div>
+		  <div></div>
+		  <div></div>
+		</div>
 			<ul class="bullet-size-fix">
-			  <li><a href="https://actionagenda.pugetsoundinfo.wa.gov/Strategy/Detail/21" target="new">Strategy 21: Place Attachment</a></li>
-              <li><a href="https://actionagenda.pugetsoundinfo.wa.gov/Strategy/Detail/22" target="new">Strategy 22: Outdoor Recreation and Stewardship</a></li>
-              <li><a href="https://actionagenda.pugetsoundinfo.wa.gov/Strategy/Detail/23" target="new">Strategy 23: Good Governance</a></li>
-              <li><a href="https://actionagenda.pugetsoundinfo.wa.gov/Strategy/Detail/24" target="new">Strategy 24: Cultural Practices and Local Foods</a></li>
-              <li><a href="https://actionagenda.pugetsoundinfo.wa.gov/Strategy/Detail/25" target="new">Strategy 25: Economic Benefits</a></li>
-              <li><a href="https://actionagenda.pugetsoundinfo.wa.gov/Strategy/Detail/26" target="new">Strategy 26: Human Health</a></li>
+			  <li>Air Quality</li>
+              <li>Drinking Water</li>
+              <li>Local Foods</li>
+              <li>Outdoor Activity</li>
+              <li>Shellfish Beds</li>
+              <li>Cultural Wellbeing</li>
+              <li>Economic Vitality</li>
+              <li>Good Governance</li>
+              <li>Sense of Place</li>
+              <li>Sound Stewardship</li>
         </ul>
-			<p><i>We conduct an environmental justice assessment on the Action Agenda to  decide impacts on overburdened communities and vulnerable populations.		</i></p>
-		<h2>Implementation Strategies</h2>
-		<p>Implementation Strategy Work Groups are teams of experts  across the Puget Sound Recovery system who create, update, and provide advice  on plans to help meet our <a href="https://pspwa.box.com/s/8oip3k51d9stga82vt5waal24adj6t9e" target="new">Vital Signs</a> goals.</p>
-		<p><a href="https://pspwa.box.com/s/w1galqayttesd0rkh8uhwavl0dt1cp0c" target="new">The Human  Dimensions Protocol</a>  includes social  science information to help our Implementation Strategies. You can read more  about the Human Dimensions Protocol <a href="https://pspwa.box.com/s/w1galqayttesd0rkh8uhwavl0dt1cp0c" target="new">here</a>. </p>
-<h2>Local Recovery Plans (LIOs)</h2>
-		  <p><a href="https://psp.wa.gov/LIO-overview.php" target="new">LIOs</a> are local forums that come  together to develop local Recovery Plans, including combining human wellbeing  goals and social approaches. 	
-		<!-- LAST UPDATED -->		</p>
+			<p>All  Vital Sign trends can be found on <a href="https://www.pugetsoundinfo.wa.gov/" target="new">Puget  Sound Info</a>. You can also learn more about our Human Wellbeing Vital Signs  in the links below:		</p>
+			<ul class="bullet-size-fix">
+			  <li><a href="https://pspwa.box.com/s/8oip3k51d9stga82vt5waal24adj6t9e" target="new">Human Wellbeing  Vital Signs factsheet</a></li>
+			  <li><a href="https://pspwa.box.com/s/d2vbgz1nracbrlcoaxxglwybk1jbxnpz" target="new">Human Wellbeing  Vital Signs and indicators for Puget Sound Recovery Technical Memorandum.</a></li>
+	    </ul>
+			<p>Six Human Wellbeing Vital Signs are measured in a survey  sent to Puget Sound residents. You can find the latest findings in <a href="https://www.eopugetsound.org/articles/summary-report-2022-human-wellbeing-vital-signs-survey" target="new">the  Human Wellbeing Vital Sign Survey</a> 2022 Summary.</p>
+			<p>The other four Human Wellbeing Vital Signs are monitored  by other state agencies and Tribal Governments. </p>
+		<h2>State of the Sound</h2>
+		<p>The <a href="http://stateofthesound.wa.gov/" target="new">State of the Sound</a> provides an  update on the Puget Sound ecosystem recovery effort. It includes ecosystem  health and progress toward recovery goals, and the role each recovery partner plays.  The report includes a review of the two Human Wellbeing Recovery Goals.<br>
+		  <br>
+	    <!-- LAST UPDATED -->		</p>
 	    <p class="last-update">Last updated: 12/6/24</p>
 
         <!-- InstanceEndEditable --> </div>

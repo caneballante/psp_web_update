@@ -102,7 +102,7 @@ navSelected = 2;
 		<li>The Social Sciences Advisory Committee (SSAC),  which includes scientists who recommend how humans can help ecosystem recovery.  The SSAC discusses advancements in social science research and monitoring,  reviews our materials, and guides our social science efforts. </li>
 	    <li>Our Science Panel also includes social science  experts who make recommendations on applying the best available science and  help us decide our priorities for science funding.	    </li></ul>
 <h2>Science Work Plan</h2>
-		  <p>Our  Science Panel writes the <a href="https://psp.wa.gov/science-workplan.php">Science  Work Plan</a> to describe the information, learning, and capacity needed to  support efforts to recover, protect, and improve Puget Sound. The Work Plan  identifies several  research priorities,  including social science and Human Wellbeing .  </p>
+		  <p>Our  Science Panel writes the <a href="https://psp.wa.gov/science-workplan.php" target="new">Science  Work Plan</a> to describe the information, learning, and capacity needed to  support efforts to recover, protect, and improve Puget Sound. The Work Plan  identifies several  research priorities,  including social science and Human Wellbeing .  </p>
 		  <p>You  can read more about the <a href="https://psp.wa.gov/science-workplan.php" target="new">Science  Work Plan here</a>.</p>
 	<h2>Scientific research funding awards</h2>
 	<p>Funding research into how ecosystem recovery affects us and  our daily lives supports our Human Wellbeing work.<br>

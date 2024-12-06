@@ -113,8 +113,8 @@ navSelected = 1;
 	<p>We  focus on Human Wellbeing in three areas of our work. Select one of the work  area examples below to learn more.</p>
 	<ul class="bullet-size-fix">
 		<li><a href="/human-wellbeing-science.php">Science</a></li>
-	  <li>Planning</li>
-	  <li>Monitoring</li>
+		<li><a href="/human-wellbeing-planning.php">Planning</a></li>
+		<li><a href="/human-wellbeing-monitoring.php">Monitoring</a></li>
 	  </ul>
 	<div class="highlightbox margin-0-top margin-20-bottom">
 	<p><i>The Equity &amp; Environmental Justice Program promotes accountability,  builds relationships, advances education, and advises across these three work  areas and the larger work of the Partnership.</i>		</p>
