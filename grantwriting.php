@@ -98,7 +98,7 @@ navSelected = 5;
             </p>
             <h2><strong>What specific grant writing help do we provide? </strong></h2>
             <h3>What we can do:</h3>
-            <ul>
+            <ul class="bullet-size-fix">
               <li>Review and edit applications. </li>
               <li>Draft grant applications.</li>
               <li>Review opportunities or notices of funding.</li>
@@ -106,7 +106,7 @@ navSelected = 5;
               <li>Provide grant strategy development.</li>
             </ul>
             <h3>What we cannot do:</h3>
-            <ul>
+            <ul class="bullet-size-fix">
               <li>Write a grant application by ourselves. This  requires collaboration from the partner.</li>
               <li>Submit a grant for a partner. </li>
               <li>Be a lead applicant or fiscal agent on any  grant we are helping with.</li>
@@ -148,7 +148,7 @@ navSelected = 5;
             <p>Before  starting a funding strategy, your project should  be assessed through community processes, have partners named, and have activities and outcomes  already determined. A request to develop a funding strategy will begin with an  in-depth consultation so we can learn  about your project, its history, timelines, and begin to review any materials  that have been created. We will use that information to find existing funding  sources that align with the project&rsquo;s needs and that the project would likely  be competitive for. This may mean piecing together different types of funding  for phases and looking out over multiple years. Together we will select the  funding opportunities that seem best fitted to pursue to fully fund the  project.</p>
             <p>We are not the funders and while we might create a funding strategy with  options that seem promising, we have no guarantee that you will be awarded  those specific funding opportunities. We will do our best to help you to be in the best possible shape for your  applications with our technical assistance. </p>
         <h3>Funding Strategy Steps:</h3>
-            <ul>
+            <ul class="bullet-size-fix">
               <li>Internal  Partner Readiness. </li>
               <li>Consultation. </li>
               <li>Strategy  Development. </li>
