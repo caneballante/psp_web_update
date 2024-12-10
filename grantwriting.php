@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership Grant Writing Assistance</title>
+<title>Puget Sound Partnership Technical Assistance and Grant Writing</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-navSelected = 4;
+navSelected = 5;
 	
 </script>
 <meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
@@ -64,7 +64,7 @@ navSelected = 4;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>grant writing Assistance</h1>
+			<h1>Technical assistant and grant writing</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -155,8 +155,7 @@ navSelected = 4;
               <li>Post  Discussion.            </li>
             </ul>
             <h2>Post Assistance</h2>
-            <p>To track and improve the effectiveness of our technical assistance, we ask that you keep us informed  by confirming you have submitted an  application and if it is successful. Other data on impact and success will  be explored on a case-by-case basis. We will contact you for this information. </p>
-            <h3>&nbsp;</h3>
+            <p>To track and improve the effectiveness of our technical assistance, we ask that you keep us informed  by confirming you have submitted an  application and if it is successful. Other data on impact and success will  be explored on a case-by-case basis. We will contact you for this information.            </p>
             <h2>Contact</h2>
 <p>For more information or if you have any questions  about your inquiry, please contact our Grant Writer and Strategist, Michelle  Deckard at&nbsp;<a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a>. or follow this <a href="https://app.smartsheet.com/b/form/d835519e3c454ef286dbbdcdf9ae008b">link</a>.</P>
 <p>&nbsp;</p>
