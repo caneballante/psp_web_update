@@ -87,9 +87,9 @@
 			<p>The Puget Sound Partnership respects and honors Tribes  as unique, sovereign nations with treaty, cultural and inherent rights. We  acknowledge our government-to-government responsibilities and prioritize early  and often engagement and consultation.            </p>
 			<h2>Tribal Engagement </h2>
             <p>Ongoing collaboration with Tribal nations and consortia is  central to our collective effort of Puget Sound recovery. Tribal nations lead,  maintain, and participate in forums that guide and inform salmon and Puget  Sound recovery and the development and implementation of the 2022-2026 Puget  Sound Action Agenda. </p>
-            <ul>
+            <ul class="bullet-size-fix">
               <li>Tribal representatives hold seats on  our three boards established in statute: </li>
-              <ul>
+              <ul class="bullet-size-fix">
                 <li><strong>Leadership  Council</strong> (Lower Elwha Klallam Tribe,  Skokomish Indian Tribe) </li>
                 <li><strong>Ecosystem  Coordination Board</strong> (Jamestown S&rsquo;Klallam, Lummi Nation,  Nisqually Indian Tribe) </li>
                 <li><strong>Science  Panel</strong> (Northwest Indian Fisheries  Commission (NWIFC)). </li>
