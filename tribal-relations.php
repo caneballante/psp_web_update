@@ -123,24 +123,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p class="right-nav-contact">For questions about Tribal Relations:<br />
-					<br>
-					<strong>Lea Anne Burke (Lumbee),</strong> <br>
-					Tribal Affairs Manager<br>
-					<a href="mailto:don.gourlie@psp.wa.gov">lea-anne.burke@psp.wa.gov</a><br>
-				360.682.7532</p>
-				<p><strong>Links and resources</strong></p>
-				 <li><a href="https://goia.wa.gov/" target="new">Governor's Office of Indian Affairs (GOIA)</a></li>
-  <li><a href="https://app.leg.wa.gov/rcw/default.aspx?cite=43.376" target="new">Government-to-Government Consultation</a></li>
-  <li><a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.100" target="new">Healthy Environment for All Act </a></li>
-  <li><a href="https://dahp.wa.gov/archaeology/tribal-consultation-information" target="new">Department of Archaeology and Historic Preservation: Tribal Consultation Information</a></li>
-  <li><a href="https://wdfw.wa.gov/fishing/management/north-falcon" target="new">Washington State Department of Fish and Wildlife North of Falcon</a></li>
-  <li><a href="https://www.washingtontribes.org/" target="new">Washington Tribes</a></li>
-  <li><a href="https://nwifc.org/" target="new">Northwest Indian Fisheries Commission (NWIFC)</a></li>
-  <li><a href="http://pnptc.org/" target="new">Point No Point Treaty Council – Port Gamble and Jamestown S&rsquo;Klallam Tribes </a></li>
-  <li><a href="http://skagitcoop.org/" target="new">Skagit River System Cooperative </a></li>
-  <li><a href="https://atnitribes.org/" target="new">Affiliated Tribes of Northwest Indians</a></li>
-				<p><a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Click here</a> to provide feedback on the content and functionality of this page.</p>
+				<?php include 'includes/rn-tribalrelations.html';?>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
