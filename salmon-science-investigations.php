@@ -183,10 +183,25 @@
 					</tbody>
 				</table><br>
 			
+		<h2>Request for information</h2>
+		<p>The Puget Sound Partnership is pleased to announce a <a href="https://pspwa.box.com/s/i9c1nu0wb9haqh8dvo036fx874rsocm6">Salmon Science Investigations Request for Information </a> for collaborative proposals to conduct studies that support regional salmon recovery. Projects should advance progress towards self-sustaining, harvestable salmon populations that uphold Tribal treaty rights and support thriving communities and ecosystems in Puget Sound.</p>
+		<p>We intend to award up to $3,000,000 during the 2025-2027 biennium depending on funding availability. We anticipate supporting 6-15 projects with a minimum budget of $100,000 each. Projects are expected to begin in July 2025 and continue through June 30, 2027.</p>
+		<p>Project proposals must align with one or more information need categories:</p>
+		<p>1. Relationships between salmonid populations, recovery actions, and salmonid habitat quality or quantity</p>
+		<p>2. Marine survival and marine food webs</p>
+		<p>3. Salmon production potential across landscapes and habitats</p>
+		<p>4. Human dimensions of salmon recovery</p>
+		<p>As an implementing agency of Washington State&rsquo;s Healthy Environment for All Act, the Partnership encourages respondents to submit proposals that address one or more cross-cutting principles of 1. environmental justice and 2. Indigenous knowledge and multiple ways of knowing.</p>
+			<p>Responses are due by <b>12:00 pm on March 10, 2025</b>. Please see the full announcement for additional details about the proposal requirements, how to apply, and the information needs. Questions should be directed to <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a> during two Question-and-Answer periods or asked during the webinar.		</p>
+	
+		<h2>Save the date: Salmon Science Investigations RFI Informational Webinar (via Zoom)</h2>
+		<p>Wednesday, January 8, 2025</p>
+		<p>1:00 – 2:00 p.m. Pacific Time Registration required</p>
+		<p>&nbsp;</p>
 					<p>For more information about the proposals or solicitation process, please contact Annelise Del Rio at <a href="mailto:annelise.delrio@psp.wa.gov">annelise.delrio@psp.wa.gov</a>.
-</p>
+                    </p>
 			
-			<p class="last-update">Last updated: 06/28/23</p>
+			<p class="last-update">Last updated: 12/12/24</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
@@ -197,6 +212,8 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 						<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
+				<li role="presentation"><a href="https://www.psp.wa.gov/science-funded-projects.php">Science and evaluation funded projects</a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/i9c1nu0wb9haqh8dvo036fx874rsocm6">Request for information</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/shared/static/k0xpbegydhwww61vq3xzjc36y3fawfwx.pdf">Puget Sound Nearshore Chinook Salmon Strategies</a></li>
 				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/k50wb4xz16sbbzfjz8zcutfrqnfvhdc3">Lead Entity guidance on Chinook salmon and climate change</a></li>
