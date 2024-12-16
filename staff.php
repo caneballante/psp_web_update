@@ -84,22 +84,9 @@
 			
 						<h5>Chrystal Andoh</h5>
 						<p> Executive Assistant<br />
-							360.870.6664 | <a href="mailto:chrystal.andoh@psp.wa.gov">chrystal.andoh@psp.wa.gov</a></p>
-            
-						<h5>VACANT</h5>
-						<p>Equity and Environmental Justice Manager<br />
-		</p>
-				
-						<h5>Signe Lindquist</h5>
-						<p>Community Engagement Coordinator<br>
-						360.688.4049 | <a href="mailto:signe.lindquist@psp.wa.gov">signe.lindquist@psp.wa.gov</a></p>
-			
-			
-						
-			
-						
+							360.870.6664 | <a href="mailto:chrystal.andoh@psp.wa.gov">chrystal.andoh@psp.wa.gov</a><br />
 
-						<!--GOVERNMENTAL RELATIONS-->
+					    <!--GOVERNMENTAL RELATIONS-->		</p>
 						<h3 class="padding-10-top">GOVERNMENTAL RELATIONS</h3>
 						<h5>Don Gourlie</h5>
 						<p>Legislative Policy Director<br />
@@ -125,10 +112,12 @@
 						<h3 class="padding-10-top">IMPLEMENTATON PROGRAM</h3>
 						<h5>Emilie Litsinger</h5>
 						<p>Director of Implementation<br>
-							360.819.3045 | <a href="mailto:emilie.litsinger@psp.wa.gov">emilie.litsinger@psp.wa.gov</a></p>			
-						
-			<!--SALMON RECOVERY PROGRAM-->
-						<h3 class="padding-10-top">SALMON RECOVERY PROGRAM</h3>
+							360.819.3045 | <a href="mailto:emilie.litsinger@psp.wa.gov">emilie.litsinger@psp.wa.gov</a></p>
+						<h5>Signe Lindquist</h5>
+                        <p>Community Engagement Coordinator<br>
+                          360.688.4049 | <a href="mailto:signe.lindquist@psp.wa.gov">signe.lindquist@psp.wa.gov</a>			
+			<!--SALMON RECOVERY PROGRAM-->		</p>
+        <h3 class="padding-10-top">SALMON RECOVERY PROGRAM</h3>
 						<h5>Melissa Speeg</h5>
 						<p>Salmon Recovery Manager<br>
 							360.529.6472 | <a href="mailto:melissa.speeg@psp.wa.gov">melissa.speeg@psp.wa.gov</a></p>
@@ -302,7 +291,7 @@
 						<p> Monitoring Program Effectiveness Analyst <br>
 		</p>
 						<h5>Annelise Del Rio</h5>
-						<p>	Monitoring Performance Analyst/Salmon Scientist <br>
+						<p>	Salmon Science Lead<br>
 							360.584.5306 | <a href="mailto:annelise.delrio@psp.wa.gov">annelise.delrio@psp.wa.gov</a></p>
 						<h5>Megan Wilson</h5>
 						<p>Salmon Scientist<br>
@@ -365,7 +354,7 @@
 						<p>Chief Financial Officer<br />
 							360.706.4955 | <a href="mailto:sheridan.tabor@psp.wa.gov">sheridan.tabor@psp.wa.gov</a></p>
 						<h5>Phan Doan</h5>
-						<p>Acting Accounting and Budget Program Manager<br />
+						<p>Accounting and Budget Program Manager<br />
 							360.280.6664 | <a href="mailto:phan.doan@psp.wa.gov">phan.doan@psp.wa.gov</a></p>
 						<h5>VACANT</h5>
 						<p>Lead Budget Analyst<br />
@@ -394,11 +383,11 @@
 						<h5>Eric Green</h5>
 						<p>IT Specialist<br />
 							360.628.7412 | <a href="mailto:eric.green@psp.wa.gov">eric.green@psp.wa.gov</a></p>
-						<h5>Justine Sharp</h5>
+						<h5>Anthony Ouren</h5>
 						<p>IT Specialist<br />
-							360.490.9680 | <a href="mailto:justine.sharp@psp.wa.gov">justine.sharp@psp.wa.gov</a> </p>
+							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 11/20/24</p>
+	<p class="last-update">Last updated: 12/16/24</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
