@@ -33,9 +33,9 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-	<script>
+<script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-navSelected = 1;
+  	navSelected = 1;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -43,20 +43,18 @@ navSelected = 1;
 <!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image7">
-	<div class="overview-quote pull-right">
-		<h3>Investing in habitat restoration to bring back Puget Sound’s dynamic natural systems – for salmon, people, and community</h3>
-	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
@@ -71,48 +69,55 @@ navSelected = 1;
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				
 				<?php include 'includes/ln-psar.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom">
-			<p><span class="new-red"></span> The 2025-2027 Puget Sound Acquisition and Restoration Large Capital Projects review process is complete. The ranked project list will be posted here after approval from the Leadership Council on August 7, 2024.
-				<ul class="bullet-size-fix">
-					<li><a href="https://pspwa.box.com/s/angvjmxer35zhyddi54vttnfakl79dkk" target="new">2025-2027 Puget Sound Acquisition and Restoration Large Capital Projects request for proposals</a></li>
-					<li><a href="https://pspwa.box.com/s/zvdkt8eeznf1zui178970wketqu4pteu" target="new">Supplemental questions</a></li>
-				</ul></p>
-		</div><br>
-			
-			<div class="container-fluid margin-0-top">
-				<div class="row">
-				<div class="col-lg-4"><p><a href="https://pspwa.box.com/s/ckw368t070rmlcdl182999fnbi0dtun2" target="new">2023-2025 PSAR Large Capital Project ranked list and project factsheets</a></p></div>
-				<div class="col-lg-8">
-					<iframe src="https://player.vimeo.com/video/785064068?h=3cb967761f" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-				</div>
-				
-			</div>	<br>
-
-			<div class="h-divider"></div>
-			<div>
-            	
-				<a href="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/">Click to view the PSAR Accomplishments Dashboard<br>
-				<img class="img-responsive padding-10-top" src="images/PSAR2023.jpg" alt=""/></a>
-				<p class="margin-20-top">The Puget Sound Acquisition and Restoration (PSAR) fund supports projects that recover salmon and protect and recover salmon habitat in Puget Sound. The state legislature appropriates money for PSAR every 2 years in the Capital Budget. PSAR is co-managed by the Puget Sound Partnership and the Recreation and Conservation Office. Local entities identify and propose PSAR projects. The Salmon Recovery Funding Board prioritizes projects for funding.</p>
-				<p>For 2023, the first year in which Climate Commitment Act (CCA)  funds were available, PSAR received $10.1million from the CCA out of the total  Capital Budget appropriation of $59.2 million. This combined investment  resulted in full funding of the PSAR program for the first time ever.</p>
-<p class="margin-20-top">&nbsp;</p>
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<div class="highlightbox">
+				<p><a href="https://pspwa.box.com/s/bj4sh2qk4u19yglcd4kj7r6p0ic2j0q1" target="new">2025-2026 PSAR Large Capital Project ranked list and project factsheets</a></p>
 			</div>
+			<iframe class="floatright margin-50-top" src="https://player.vimeo.com/video/785064068?h=3cb967761f" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+			<h2>PSAR projects restore habitat critical to the survival of Puget Sound Salmon Populations.</h2>
+			<p><strong>PSAR projects:</strong></p>
+			<ul class="bullet-size-fix">
+				<li>Will restore over 900 acres and over 10 river miles</li>
+				<li>Uphold Tribal treaty rights</li>
+				<li>Support recovery of Puget Sound salmon, a critical food source for endangered Southern Resident orcas</li>
+				<li>Provide local jobs, public access, and recreation opportunities</li>
+				<li>Advance the Puget Sound Salmon Recovery Plan, the Puget Sound Action Agenda, and the NOAA-approved Chinook salmon recovery strategy</li>
+			</ul>
+			<p>PSAR investments create shovel ready projects! Years of planning, capacity building and collaborating means that there are valuable opportunities for shovel ready projects now. Fully funding these PSAR projects will make a difference in restoring our salmon.</p>
+			<p><strong>How PSAR works</strong></p>
+			<ul class="bullet-size-fix">
+				<li>PSAR was created in 2007 to help carry out the most important habitat protection and restoration projects for Puget Sound</li>
+				<li>PSAR has two parts: base funding for locally significant projects ($30.6M) and additional funding for regionally significant projects</li>
+				<li>Projects are proposed locally and then vetted and prioritized regionally to ensure they benefit salmon populations and local communities.</li>
+				<li>Projects are endorsed by members of the public, cities, counties, Tribes, nonprofit organizations, and government agencies</li>
+				<li>The Washington State Legislature budgets funding every two years for PSAR and issues the money through the Salmon Recovery Funding Board</li>
+			</ul>
+			<div class="h-divider"></div>
+			
+			<div class="floatright margin-20-left margin-20-bottom">
+			
+				<p><a href="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/">Click to view the PSAR Accomplishments Dashboard</a></p>
+				
+				<div class="no-icon"> <a href="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/"><img src="images/PSAR2023.jpg" alt="" width="607" height="372" class="img-responsive padding-10-top"/></a></div>
+			</div>
+			
+			<p class="margin-20-top">The Puget Sound Acquisition and Restoration (PSAR) fund supports projects that recover salmon and protect and recover salmon habitat in Puget Sound. The state legislature appropriates money for PSAR every 2 years in the Capital Budget. PSAR is co-managed by the Puget Sound Partnership and the Recreation and Conservation Office. Local entities identify and propose PSAR projects. The Salmon Recovery Funding Board prioritizes projects for funding.</p>
+			<p>For 2023, the first year in which Climate Commitment Act (CCA)  funds were available, PSAR received $10.1million from the CCA out of the total  Capital Budget appropriation of $59.2 million. This combined investment  resulted in full funding of the PSAR program for the first time ever.</p>	
 			<hr />
-		<div class="row margin-10-top"> 
+		<!--	<div class="row margin-10-top"> 
 			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/"><h4>Puget Sound Innovation Recovery Stories</h4></a></div>
 			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/08/24/calistoga-levee-setback/"><img class="img-responsive" src="images/PSAR/ps-innovation-calistoga.jpg" width="874" height="743" alt=""/></a></div>
 			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/04/21/leque-island-estuary-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-leque.jpg" width="874" height="743" alt=""/></a></div>
 			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/05/17/smith-island-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-smith.jpg" width="874" height="743" alt=""/></a></div>
 		</div>
-		<hr />
+		<hr />-->
 		<h2>COMMUNITY INVOLVEMENT IN PSAR PROJECTS</h2>
 		<p><strong>Each community decides which projects matter most. </strong>
 			Washington approaches salmon recovery in a unique way. People in communities around Puget Sound organized themselves to address Endangered Species Act listings of Chinook and other salmonids in Washington state. This local approach to a difficult problem is known as &ldquo;the Washington Way.&rdquo;</p>
@@ -140,20 +145,24 @@ navSelected = 1;
 		<ul class="bullet-size-fix">
 			<li>Every $1 million invested in watershed restoration produces more than 16 new or sustained jobs roughly $2.5 million in total economic activity. </li>
 			<li>80 percent of the funds invested in restoration projects stays in the county where the projects are located, providing needed cash in more rural and distressed counties. </li>
-		</ul><br><br>
+		</ul>
+	
 		
-		<p><strong>For more information contact:</strong></p>
-			<h5>Marlies Wierenga</h5>
-			<p>PSAR Program Manager<br />
-			360.968.9673 | <a href="mailto:Marlies.Wierenga@psp.wa.gov">Marlies.Wierenga@psp.wa.gov</a></p>
-			<p>&nbsp;</p>
-			<div>
-				<div> </div>
-			</div>
-	<p class="last-update">Last updated: 07/02/24</p>
+	<p class="last-update">Last updated: 12/18/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<p>For more information contact:<br>
+				Marlies Wierenga<br>
+				PSAR Program Manager<br>
+				360.968.9673 | Marlies.Wierenga@psp.wa.gov</p>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

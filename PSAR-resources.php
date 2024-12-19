@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - PSAR Fund</title>
+<title>Puget Sound Partnership - PSAR Resources</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -33,9 +33,9 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-	<script>
+<script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-navSelected = 2;
+  	navSelected = 2;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -43,25 +43,23 @@ navSelected = 2;
 <!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion7" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion8" type="boolean" value="true" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image7">
-	<div class="overview-quote pull-right">
-		<h3>Investing in habitat restoration to bring back Puget Sound’s dynamic natural systems – for salmon, people, and community</h3>
-	</div>
 </header>
-<!-- InstanceEndEditable -->  
+<!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
+<!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>PUGET SOUND ACQUISITION AND RESTORATION (PSAR) FUND</h1>
+			<h1>PUGET SOUND ACQUISITION AND RESTORATION (PSAR) RESOURCES</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -71,22 +69,23 @@ navSelected = 2;
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				
 				<?php include 'includes/ln-psar.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-		
-			<p class="padding-10-all"><span class="new-red">NEW!</span>&nbsp;<a href="https://pspwa.box.com/s/ckw368t070rmlcdl182999fnbi0dtun2" target="new">2023-2025 Puget Sound Acquisition and Restoration (PSAR) Large Capital Project ranked list <br>and project factsheets are available here.</a></p>
-			
-			<p><strong>PSAR RAPID RESPONSE REVOLVING FUND</strong></p>
-			<p>The Puget Sound Rapid Response Revolving Fund ("Rapid Response Fund") is designed provide rapid access to funds for urgent and essential strategic habitat acquisitions within the Puget Sound.  <a href="https://pspwa.box.com/s/68nk6ix5yhssidt56j2668742zi6i2yx">View criteria for the Rapid Response Fund here.</a></p>
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			<div class="highlightbox">
+				<p><a href="https://pspwa.box.com/s/bj4sh2qk4u19yglcd4kj7r6p0ic2j0q1" target="new">2025-2026 PSAR Large Capital Project ranked list and project factsheets</a></p>
+			</div>
+			<iframe class="floatright margin-50-top margin-20-left" src="https://player.vimeo.com/video/785064068?h=3cb967761f" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+		<h2>PSAR RAPID RESPONSE REVOLVING FUND</h2>
+			<p>The Puget Sound Rapid Response Revolving Fund ("Rapid Response Fund") is designed provide rapid access to funds for urgent and essential strategic habitat acquisitions within the Puget Sound. For additional information, please contact the <a href="mailto:Marlies.Wierenga@psp.wa.gov">PSAR Program Manager</a>.</a></p>
 			
 			<p class="padding-10-all">Links to Puget Sound Acquisition and Restoration Large Capital Project legislative tours<br />
-				<ul>
+				<ul class="bullet-size-fix">
 				<li><a href="https://kingcounty.gov/services/environment/animals-and-plants/restoration-projects/projects/fall-city-floodplain-restoration.aspx" target="_blank">Fall City Floodplain Restoration</a></li>
 				<li><a href="https://youtu.be/cBvJSBVW-ts" target="_blank">Stillaguamish Delta Projects (Florence Island and Port Susan Bay)</a></li>
 				<li><a href="https://connects.sumnerwa.gov/white-river-restoration-project" target="_blank">Sumner White River Restoration</a></li>
@@ -98,7 +97,9 @@ navSelected = 2;
 			<p class="padding-10-all"><a href="https://pspwa.box.com/shared/static/hxdjsl9nq33asc1b1l3fpol1m4ja1wqo.pdf">  PSAR Program Effectiveness <br>	</a></p>
 			
 			<h3>Archive PSAR Factsheets </h3>
-		<p class="margin-0-top"><strong>PSAR 2021-2023</strong></p>
+			<p class="margin-0-top"><strong>PSAR 2023-2025</strong></p>
+			<p><a href="https://pspwa.box.com/s/ckw368t070rmlcdl182999fnbi0dtun2" target="new">2023-2025 PSAR Large Capital Project ranked list and project factsheets</a>
+			<p><strong>PSAR 2021-2023</strong></p>
 			<p><a href="https://pspwa.box.com/shared/static/qau7lafrhcct46hjrzfqjdd32dmzege8.pdf">PSAR 2021-2023 Ranked List</a></p>
 			<p><a href="https://pspwa.box.com/shared/static/wwy8n314q925h0ft1qrq9wtu6u8qexqz.pdf">Ranked #1 of 8: Fall City Floodplain Restoration</a></p>
 			<p><a href="https://pspwa.box.com/shared/static/n96lj8d0k7w35re4v8to0y0oc8z9p5ts.pdf">Ranked #2 of 8: Florence Island Tidal Wetland Acquisition</a></p>
@@ -144,14 +145,22 @@ navSelected = 2;
 			<p>Organizations from across Washington State are coming together to stand up for Puget Sound protection and recovery.  The stories on this site are curated from partners and community members who are each investing in keeping this place great.<a href="https://pugetsoundinnovationstories.blog">VIEW BLOG</a></p><br><br>	<p class="margin-20-top"><strong>2018 PSAR LARGE CAP REQUEST FOR PROPOSALS</strong></p>
 			<p class=""><a href="https://pspwa.box.com/v/2018PSAR">View materials</a></p><p><strong>For more information contact:</strong></p>
 			
-			<h5>Marlies Wierenga</h5>
-			<p>PSAR Program Manager<br />
-			360.968.9673 | <a href="mailto:Marlies.Wierenga@psp.wa.gov">Marlies.Wierenga@psp.wa.gov</a></p>
 		
-		<p class="last-update">Last updated: 07/19/23</p>
+		<p class="last-update">Last updated: 12/18/24</p>
 		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<p>For more information contact:<br>
+				Marlies Wierenga<br>
+				PSAR Program Manager<br>
+				360.968.9673 | Marlies.Wierenga@psp.wa.gov</p>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

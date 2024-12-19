@@ -80,7 +80,10 @@ navSelected = 3;
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-			<div>				<img class="img-responsive floatleft" src="images/CCA-primary-logo.png" width="309" height="156" alt="Climate Commitment Act logo"/>	
+			
+			<!--NOTE THAT THIS IS A VARIATION ON THE TEMPLATE WITH 9 COLUMNS. LOOKING INTO HOW I MADE IT. I THINK WHEN YOU CREATE A PAGE FROM THE TEMPLATE YOU CAN SELECT SOME OF THE OPTIONS. THE OPTIONAL RIGHT NAV CANNOT BE USED-->
+			
+			<div><img class="img-responsive floatleft" src="images/CCA-primary-logo.png" width="309" height="156" alt="Climate Commitment Act logo"/>	
 			<p> The Puget Sound Acquition and Restoration (PSAR) program is partially supported with funding from Washington’s <strong><a href="https://pspwa.box.com/s/2k2bkn5uivi7yoxchjsnn4fn8knzs8v2" target="new">Climate Commitment Act and Puget Sound</a></strong>. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="http://www.climate.wa.gov">www.climate.wa.gov</a>. <br>
             	</p>
 		</div>

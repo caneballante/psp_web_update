@@ -88,14 +88,15 @@
 			<p>Listed below are the bills the Partnership has identified as relevant to Puget Sound recovery. Users can filter the Bill Tracker tool by Action Agenda Topic Area. The tracker will be updated regularly to show bill progress through session. Click the link icon for a bill to find more information on the legislature’s page, including full bill text.</p><br><br>
 			
 			<hr>
-			<br>
+			<br><br>
+
 						
-			<div><iframe title="PartnershipLegislativeUpdates" width="1000" height="836" src="https://app.powerbigov.us/view?r=eyJrIjoiY2NkODgxNTItZjA2Yy00YzhhLWE1NDgtZTdiZmMyMTlhZWFmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe></div><br>
+			<iframe title="PartnershipLegislativeUpdates2025" width="1000" height="630" src="https://app.powerbigov.us/view?r=eyJrIjoiNDIzZTc3ZTktYzkwYS00YTZmLTk0OGEtY2Y5MWZmMGU1NGRiIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe>
+			<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiNDIzZTc3ZTktYzkwYS00YTZmLTk0OGEtY2Y5MWZmMGU1NGRiIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" target="new">Full-screen option</a></p>
 			
-			<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiY2NkODgxNTItZjA2Yy00YzhhLWE1NDgtZTdiZmMyMTlhZWFmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" target="new">Full-screen option</a></p>
-			
-			<p class="last-update">Last updated: 1/23/24</p>
-			
+			<p class="last-update">Last updated: 12/18/24</p>
+			<h2>Bill Tracker Archive</h2>
+			<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiY2NkODgxNTItZjA2Yy00YzhhLWE1NDgtZTdiZmMyMTlhZWFmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9">2024 Bill Tracker</a></p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

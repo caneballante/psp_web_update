@@ -82,24 +82,39 @@
 		<h2 class="margin-0-top">Purpose</h2>
 		
 		<p>The Partnership funds salmon science investigations each biennium that will advance Puget Sound salmon recovery. Funds are awarded through a competitive solicitation process in the form of a Request for Information (RFI). The RFI is developed in collaboration with the <a href="https://pspwa.box.com/s/gmid2sz9hha80r9aw14jw6rctucqf1yr" target="new">Salmon Science Advisory Group</a> to address priority salmon science needs for the region.</p>
-		<p>Investigations can include but are not limited to modeling, research, and syntheses to address emerging issues of concern, factors limiting recovery, and other critical science and monitoring questions to address knowledge gaps and critical uncertainties in salmon recovery. Outcomes of the proposed investigations should support ongoing recovery planning and adaptive management efforts to ensure self-sustaining, harvestable salmon runs that sustain people and orcas in Puget Sound. Proposed investigations are strongly encouraged to address environmental justice, tribal priorities, and treaty rights in relation to salmon recovery.</p>
 		
+
+		<h2>Request For Information</h2>
+		<p>The Puget Sound Partnership is pleased to announce a Salmon  Science Investigations <a href="https://pspwa.app.box.com/file/1721759732613?s=i9c1nu0wb9haqh8dvo036fx874rsocm6">Request  for Information</a> for collaborative proposals to conduct studies that support  regional salmon recovery. Projects should advance progress towards  self-sustaining, harvestable salmon populations that uphold Tribal treaty  rights and support thriving communities and ecosystems in Puget Sound. </p>
+		<p>We intend to award up to $3,000,000 during the 2025-2027  biennium depending on funding availability. We anticipate supporting 6-15  projects with a minimum budget of $100,000 each. Projects are expected to begin  in July 2025 and continue through June 30, 2027.</p>
+		<p>Project proposals must align with one or more information  need categories: </p>
+		<ol class="bullet-size-fix" start="1" type="1">
+			<li>Relationships between salmonid populations, recovery actions, and salmonid habitat quality or quantity</li>
+			<li>Marine survival and marine food webs</li>
+			<li>Salmon production potential across landscapes and habitats</li>
+			<li>Human dimensions of salmon recovery</li>
+		</ol>
+		<p>As an  implementing agency of Washington State&rsquo;s Healthy Environment for All Act, the  Partnership encourages respondents to submit proposals that address one or more  cross-cutting principles of 1. environmental justice and 2. Indigenous  knowledge and multiple ways of knowing. </p>
+		<p><strong>Responses  are due by 12:00 pm on March 10, 2025.</strong> Please see the full announcement for  additional details about the proposal requirements, how to apply, and the  information needs. Questions should be directed to <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a> during two qestion-and-answer periods or asked during the webinar. </p>
+		<h2>Save the Date</h2>
+		<p>Salmon Science Investigations RFI Informational Webinar (via Zoom)<br>
+			Wednesday, January 8, 2025<br>
+			1:00 – 2:00 p.m. Pacific Time<br>
+		<a href="https://us06web.zoom.us/meeting/register/tZwvcuiprTooHtN4_M_SQOrp46w0zw6X-H7h">Registration  required</a></p>
 		<h2>Projects funded in 2023-2025</h2>
-			
-			<p>For the 2023-2025 biennium, the Puget Sound Partnership requested proposals for projects that address priority information needs to advance regional salmon recovery under the Puget Sound Salmon Science Investigations RFI (<a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">RFI #2023-165</a>). The RFI allocated up to $2,000,000 for proposals up to $400,000 each. </p>
-			<p>The following 6 proposals were selected for funding:</p><br>
-			
-			<table class="table-responsive table-condensed table-bordered">
-					<thead>
-						<tr>
-						<th>Project title</th>
-						<th>Description</th>
-						<th>Project leads and affiliations</th>
-						</tr>
-					</thead>
-					<tbody>
-					<tr>
-						<td><p class="psemp-mar-font">Modeling population-level impacts from Contaminants of Emerging Concern exposures to endangered salmonids</p></td>
+		<p>For the 2023-2025 biennium, the Puget Sound Partnership requested proposals for projects that address priority information needs to advance regional salmon recovery under the Puget Sound Salmon Science Investigations RFI (<a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">RFI #2023-165</a>). The RFI allocated up to $2,000,000 for proposals up to $400,000 each. </p>
+		<p>The following 6 proposals were selected for funding:</p><br>
+		<table class="table-responsive table-condensed table-bordered">
+			<thead>
+				<tr>
+				<th>Project title</th>
+				<th>Description</th>
+				<th>Project leads and affiliations</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td><p class="psemp-mar-font">Modeling population-level impacts from Contaminants of Emerging Concern exposures to endangered salmonids</p></td>
 						<td><p class="psemp-mar-font">Contaminants of Emerging Concern (CECs) are a group of anthropogenic chemicals that occur in the environment, have the potential to cause harm to exposed organisms, and are poorly regulated. The objective of this proposed project is to develop and apply a modeling framework that will evaluate the population-level impacts of CEC exposures on Chinook salmon.  A population matrix model will be developed to analyze how exposures to CECs under different scenarios affects population outcomes and stable age distributions. The models will be applied to a highly impacted system, the Puyallup River, and a lightly impacted system, the Nisqually. </p></td>
 						<td><p class="psemp-mar-font">Andy James, University of Washington and Ruth Sofield, Western Washington University </p></td>
 						

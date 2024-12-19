@@ -52,9 +52,6 @@
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image21">
-	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
@@ -66,7 +63,6 @@
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>Partnership Tribal Co-Management Council (PTCC)</h1>
-			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -83,19 +79,11 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="margin-0-top margin-20-bottom">
-			  <p>Co-chaired by the Partnership's Leadership Council Chair and a Northwest Indian Fisheries Commissioner, PTCC is a collaborative space, facilitating communications and coordination between the Partnership and sovereign Tribal nations. PTCC promotes ongoing State-Tribal government-to-government priority setting and information sharing and provides a reliable format for early and often engagement. The Tribal Affairs Manager and Northwest Indian Fisheries Commission staff provide support on agenda development and meeting logistics.</p>
-			  <p>The PTCC promotes, but does not replace, timely state-tribal government-to-government communication and consultation between each individual tribal government and the Partnership to develop common objectives and priorities for the protection and restoration of the Puget Sound ecosystem.<br>
-			    The PTCC ensures policy decisions receive the benefit of tribal technical expertise, increases opportunities to resolve differences amongst the governments in policies or approaches, and provides an opportunity for other State agencies to join and participate to increase coordination and cooperation.<br>
-		      PTCC typically meets the first Thursday of every month and is open to all Tribal elected officials and staff. For meeting information please contact the Partnership&rsquo;s <a href="mailto:lea-anne.burke@pap.wa.gov">Tribal Relations Manager</a>.</p>
-			  <p>&nbsp;</p>
-			<div>
-			  <div> </div>
-          </div>
-		</div>
-			<h2 class="margin-0-top">&nbsp;</h2>
-			<p class="last-update">Last updated: 11/26/24</p>
-			<!-- InstanceEndEditable --> </div>
+			  <p  class="margin-0-top">Co-chaired by the Partnership's Leadership Council Chair and a Northwest Indian Fisheries Commissioner, PTCC is a collaborative space, facilitating communications and coordination between the Partnership and sovereign Tribal nations to develop common objectives and priorities, and share information for the protection and restoration of the Puget Sound ecosystem. </p>
+			  <p>PTCC promotes, but does not replace, timely state-Tribal government-to-government communication and consultation between each individual Tribal government and the Partnership. Standard agenda items may include, but are not limited to, reports on legislative issues, species and habitat protection and restoration issues, program updates, and Partnership proposals for government-to-government consultation on emerging issues.</P>
+			   <p>PTCC typically meets monthly and is open to all Tribal elected officials and staff. For meeting information please contact the Partnership’s <a href="mailto:lea-anne.burke@pap.wa.gov">Tribal Relations Manager</a>.</p>
+			<p class="last-update">Last updated: 12/18/24</p>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">CONTACT</div>
