@@ -148,26 +148,27 @@
 		<!--copy column to column to create new blog post--> 
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
-			 <!--COLUMN START-->
+				 <!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/salmon.jpg"  alt="Photo of salmon swimming in water."/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="/salmon-recovery-overview.php">Seeking public comment on the development of the Puget Sound Salmon Recovery Plan Addendum</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt="Photo of the Washington State Capitol building"/> <strong>RESOURCE</strong><br>
+						<a href="https://www.psp.wa.gov/state-government-relations.php">2025 Washington State Legislative session information</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<!--COLUMN END--> <!--COLUMN START-->
+			<!--COLUMN END--> 
+			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
-						 <!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/PSAR.jpg"  alt="Logo for the Puget Sound Acquisition and Restoration Fund overlaid on a photo of a river undergoing restoration."/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="/PSAR.php">Puget Sound Acquisition and Restoration (PSAR) Large Capital Projects request for proposals for the 2025-2027 biennium</a><br>
-						<!--END news content BOX-->    
+						  <!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/2025_science_workplan.jpg"  alt="Cover of the plan with the title Priority Science to Support Puget Sound Recovery"/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="https://pspwa.box.com/s/px3jikktphwhphj7q1y41wqcpzib5jlc">Science Work Plan finalized and adopted (download PDF) </a><br>
+						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
 				</div>

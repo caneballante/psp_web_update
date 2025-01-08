@@ -1,105 +1,109 @@
 {
-    "2024 PSP Public Boards Calendar": [
+    "2025 PSP Public Boards Calendar": [
         {
             "Board": "Salmon Recovery Council",
-            "Meeting Date": "2024-01-25 00:00:00",
-            "Meeting Date.1": "Thursday, January 25, 2024"
+            "Meeting Date": "2025-01-23 00:00:00",
+            "Meeting Date.1": "Thursday, January 23, 2025"
         },
         {
             "Board": "Ecosystem Coordination Board",
-            "Meeting Date": "2024-02-08 00:00:00",
-            "Meeting Date.1": "Thursday, February 8, 2024"
+            "Meeting Date": "2025-02-05 00:00:00",
+            "Meeting Date.1": "Wednesday, February 5, 2025"
         },
         {
             "Board": "Science Panel",
-            "Meeting Date": "2024-02-22 00:00:00",
-            "Meeting Date.1": "Thursday, February 22, 2024"
+            "Meeting Date": "2025-02-25 00:00:00",
+            "Meeting Date.1": "Tuesday, February 25, 2025"
         },
         {
             "Board": "Leadership Council",
-            "Meeting Date": "2024-03-14 00:00:00",
-            "Meeting Date.1": "Mar 14"
+            "Meeting Date": "2025-03-06 00:00:00",
+            "Meeting Date.1": "Thursday, March 6, 2025"
         },
         {
             "Board": "Salmon Recovery Council",
-            "Meeting Date": "2024-03-28 00:00:00",
-            "Meeting Date.1": "Thursday, March 28, 2024"
+            "Meeting Date": "2025-03-27 00:00:00",
+            "Meeting Date.1": "Thursday, March 27, 2025"
         },
         {
             "Board": "Science Panel",
-            "Meeting Date": "2024-04-11 00:00:00",
-            "Meeting Date.1": "Thursday, April 11, 2024"
+            "Meeting Date": "2025-04-10 00:00:00",
+            "Meeting Date.1": "Thursday, April 10, 2025"
         },
         {
             "Board": "Ecosystem Coordination Board",
-            "Meeting Date": "2024-05-09 00:00:00",
-            "Meeting Date.1": "Thursday May 9, 2024"
+            "Meeting Date": "2025-05-08 00:00:00",
+            "Meeting Date.1": "Thursday, May 8, 2025"
         },
         {
             "Board": "Salmon Recovery Council",
-            "Meeting Date": "2024-05-23 00:00:00",
-            "Meeting Date.1": "Thursday, May 23, 2024"
+            "Meeting Date": "2025-05-22 00:00:00",
+            "Meeting Date.1": "Thursday, May 22, 2025"
         },
         {
             "Board": "Leadership Council",
-            "Meeting Date": "2024-06-05 00:00:00",
-            "Meeting Date.1": "Wednesday, June 5, 2024"
+            "Meeting Date": "2025-06-04 00:00:00",
+            "Meeting Date.1": "Wednesday, June 4-5, 2025"
         },
         {
             "Board": "Science Panel",
-            "Meeting Date": "2024-07-17 00:00:00",
-            "Meeting Date.1": "Jul 17-18"
+            "Meeting Date": "2025-07-09 00:00:00",
+            "Meeting Date.1": "Wednesday, July 9, 2025"
+        },
+        {
+            "Board": "Science Panel",
+            "Meeting Date": "2025-07-10 00:00:00",
+            "Meeting Date.1": "Thursday, July 10, 2025"
         },
         {
             "Board": "Salmon Recovery Council",
-            "Meeting Date": "2024-07-25 00:00:00",
-            "Meeting Date.1": "Jul 25"
+            "Meeting Date": "2025-07-31 00:00:00",
+            "Meeting Date.1": "Thursday, July 31, 2025"
         },
         {
             "Board": "Leadership Council",
-            "Meeting Date": "2024-08-07 00:00:00",
-            "Meeting Date.1": "Aug 7"
+            "Meeting Date": "2025-08-20 00:00:00",
+            "Meeting Date.1": "Wednesday, August 20, 2025"
+        },
+        {
+            "Board": "Leadership Council",
+            "Meeting Date": "2025-08-21 00:00:00",
+            "Meeting Date.1": "Thursday, August 21, 2025"
         },
         {
             "Board": "Ecosystem Coordination Board",
-            "Meeting Date": "2024-08-15 00:00:00",
-            "Meeting Date.1": "Aug 15"
-        },
-        {
-            "Board": "Leadership Council",
-            "Meeting Date": "2024-09-11 00:00:00",
-            "Meeting Date.1": "Sept 11-12"
+            "Meeting Date": "2025-09-10 00:00:00",
+            "Meeting Date.1": "Wednesday, September 10, 2025"
         },
         {
             "Board": "Salmon Recovery Council",
-            "Meeting Date": "2024-09-26 00:00:00",
-            "Meeting Date.1": "Sept 26"
+            "Meeting Date": "2025-09-25 00:00:00",
+            "Meeting Date.1": "Thursday, September 25, 2025"
         },
         {
             "Board": "Science Panel",
-            "Meeting Date": "2024-10-09 00:00:00",
-            "Meeting Date.1": "Oct 9-10"
+            "Meeting Date": "2025-10-08 00:00:00",
+            "Meeting Date.1": "Wednesday, October 8-9, 2025"
         },
         {
             "Board": "Ecosystem Coordination Board",
-            "Meeting Date": "2024-11-06 00:00:00",
-            "Meeting Date.1": "Nov 6"
+            "Meeting Date": "2025-11-05 00:00:00",
+            "Meeting Date.1": "Wednesday, November 5, 2025"
         },
         {
             "Board": "Salmon Recovery Council",
-            "Meeting Date": "2024-11-21 00:00:00",
-            "Meeting Date.1": "Nov 21"
+            "Meeting Date": "2025-11-20 00:00:00",
+            "Meeting Date.1": "Thursday, November 20, 2025"
         },
         {
             "Board": "Science Panel",
-            "Meeting Date": "2024-12-04 00:00:00",
-            "Meeting Date.1": "Dec 4"
+            "Meeting Date": "2025-12-03 00:00:00",
+            "Meeting Date.1": "Wednesday, December 3, 2025"
         },
         {
             "Board": "Leadership Council",
-            "Meeting Date": "2024-12-11 00:00:00",
-            "Meeting Date.1": "Dec 11"
+            "Meeting Date": "2025-12-17 00:00:00",
+            "Meeting Date.1": "Wednesday, December 17, 2025"
         }
-    ],
-    "Comments": []
+    ]
 }
