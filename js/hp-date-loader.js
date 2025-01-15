@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(response => response.json())
         .then(jsonData => {
           
-            const upcomingMeetings = jsonData['2024 PSP Public Boards Calendar']
+            const upcomingMeetings = jsonData['2025 PSP Public Boards Calendar']
                 .filter(entry => new Date(entry['Meeting Date']) > currentDate)
                 .slice(0, 4);
 

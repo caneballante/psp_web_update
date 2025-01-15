@@ -77,7 +77,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Start and end times depend on agenda needs, but meetings generally begin at 9:30 a.m. and adjourn between 3 – 4:30 p.m. Select the meeting materials link to view the meeting agenda, usually posted one week prior to the meeting. </p>
 			<p>Please note meeting dates, times and/or locations are subject to change and this calendar will be updated accordingly.</p>
-			<div>  <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/7b905a4b22d84a24bca8f6b5f092cb40"></IFRAME></div>
+			<div>  <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/3b54eaa7f50741b1969394b3bdd84df6"></IFRAME></IFRAME></div>
             
           
 			<p> Please note meeting dates, times, and locations are subject to change. Every effort will be made to distribute agendas and meeting materials a week prior to meetings or conference calls.</p>
