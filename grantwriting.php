@@ -87,7 +87,7 @@ navSelected = 5;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-			<p>Our Strategic Funding  Team (SFT) supports partners by helping them find available funding that  supports our <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpsp.wa.gov%2F2022AAupdate.php&data=05%7C02%7Cjennifer.grimm%40psp.wa.gov%7Cb89a15cb177a42af77ba08dc96d08865%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638551069583933493%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=RgU6mqTi4v4LybhCNWEmZDpRA5%2F3KhrRAfF9AjavD6U%3D&reserved=0">Action  Agenda</a>, <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpsp.wa.gov%2Fsalmon-recovery-overview.php&data=05%7C02%7Cjennifer.grimm%40psp.wa.gov%7Cb89a15cb177a42af77ba08dc96d08865%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638551069583943886%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=PQd9SFAKrgKzNE%2BoRyjJkwiiz5W8HQdbqJLCgJoSyeA%3D&reserved=0">Salmon  Recovery Plan</a>, or the <a href="https://psp.wa.gov/science-workplan.php">Science  Work Plan</a>. The  SFT also offers free grant writing technical support. On this page, you can  learn more about our grant writing support along with some tips and resources.</p>
+			<p>&ldquo;Our Strategic Funding Team (SFT) supports  partners by helping them find available funding that supports ecosystem and  salmon recovery. The  SFT also offers free grant writing technical support. On this page, you can  learn more about our grant writing support along with some tips and resources.</p>
 			<p>You can read more about the SFT at our <a href="https://www.psp.wa.gov/strategic-funding-program.php">Strategic Funding Program page</a>. </p>
 			<h2>What does a Grant Writer do?</h2>
 <p>A grant writer drafts or assists in the  drafting of a proposal that is used to request grant funding from an awarding  body.   </p>
@@ -161,7 +161,7 @@ navSelected = 5;
 <p>&nbsp;</p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 12/10/24</p>
+		<p class="last-update">Last updated: 1/09/25</p>
 
         <!-- InstanceEndEditable --> </div>
 		

@@ -81,9 +81,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<h2 class="margin-0-top">Purpose</h2>
 		
-		<p>The Partnership funds salmon science investigations each biennium that will advance Puget Sound salmon recovery. Funds are awarded through a competitive solicitation process in the form of a Request for Information (RFI). The RFI is developed in collaboration with the <a href="https://pspwa.box.com/s/gmid2sz9hha80r9aw14jw6rctucqf1yr" target="new">Salmon Science Advisory Group</a> to address priority salmon science needs for the region.</p>
-		
-
+		<p>The Partnership funds salmon science investigations each biennium that will advance Puget Sound salmon recovery. Funds are awarded through a competitive solicitation process in the form of a Request for Information (RFI). The RFI is developed in collaboration with the <a href="https://pspwa.box.com/s/gmid2sz9hha80r9aw14jw6rctucqf1yr" target="new">Salmon Science Advisory Group</a> to address priority salmon science needs for the region.        </p>
 		<h2>Request For Information</h2>
 		<p>The Puget Sound Partnership is pleased to announce a Salmon  Science Investigations <a href="https://pspwa.app.box.com/file/1721759732613?s=i9c1nu0wb9haqh8dvo036fx874rsocm6">Request  for Information</a> for collaborative proposals to conduct studies that support  regional salmon recovery. Projects should advance progress towards  self-sustaining, harvestable salmon populations that uphold Tribal treaty  rights and support thriving communities and ecosystems in Puget Sound. </p>
 		<p>We intend to award up to $3,000,000 during the 2025-2027  biennium depending on funding availability. We anticipate supporting 6-15  projects with a minimum budget of $100,000 each. Projects are expected to begin  in July 2025 and continue through June 30, 2027.</p>
@@ -198,25 +196,9 @@
 					</tbody>
 				</table><br>
 			
-		<h2>Request for information</h2>
-		<p>The Puget Sound Partnership is pleased to announce a <a href="https://pspwa.box.com/s/i9c1nu0wb9haqh8dvo036fx874rsocm6">Salmon Science Investigations Request for Information </a> for collaborative proposals to conduct studies that support regional salmon recovery. Projects should advance progress towards self-sustaining, harvestable salmon populations that uphold Tribal treaty rights and support thriving communities and ecosystems in Puget Sound.</p>
-		<p>We intend to award up to $3,000,000 during the 2025-2027 biennium depending on funding availability. We anticipate supporting 6-15 projects with a minimum budget of $100,000 each. Projects are expected to begin in July 2025 and continue through June 30, 2027.</p>
-		<p>Project proposals must align with one or more information need categories:</p>
-		<p>1. Relationships between salmonid populations, recovery actions, and salmonid habitat quality or quantity</p>
-		<p>2. Marine survival and marine food webs</p>
-		<p>3. Salmon production potential across landscapes and habitats</p>
-		<p>4. Human dimensions of salmon recovery</p>
-		<p>As an implementing agency of Washington State&rsquo;s Healthy Environment for All Act, the Partnership encourages respondents to submit proposals that address one or more cross-cutting principles of 1. environmental justice and 2. Indigenous knowledge and multiple ways of knowing.</p>
-			<p>Responses are due by <b>12:00 pm on March 10, 2025</b>. Please see the full announcement for additional details about the proposal requirements, how to apply, and the information needs. Questions should be directed to <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a> during two Question-and-Answer periods or asked during the webinar.		</p>
-	
-		<h2>Save the date: Salmon Science Investigations RFI Informational Webinar (via Zoom)</h2>
-		<p>Wednesday, January 8, 2025</p>
-		<p>1:00 – 2:00 p.m. Pacific Time Registration required</p>
-		<p>&nbsp;</p>
-					<p>For more information about the proposals or solicitation process, please contact Annelise Del Rio at <a href="mailto:annelise.delrio@psp.wa.gov">annelise.delrio@psp.wa.gov</a>.
-                    </p>
+		<h2>&nbsp;</h2>
 			
-			<p class="last-update">Last updated: 12/12/24</p>
+			<p class="last-update">Last updated: 01/09/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>

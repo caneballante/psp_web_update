@@ -78,9 +78,9 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> 
 			<!--EXECUTIVE TEAM-->
 		 <h1 class="margin-0-top">EXECUTIVE DIRECTOR'S OFFICE</h1>
-            <h5>Laura Bradstreet</h5>
+            <h5>Vacant</h5>
             			<p>Executive Director<br />
-               			 360.628.7707 | <a href="mailto:laura.bradstreet@psp.wa.gov">laura.bradstreet@psp.wa.gov</a> | Follow on Twitter <a href="https://twitter.com/pspdirector" target="new">@pspdirector</a></p>
+               			  | Follow on Twitter <a href="https://twitter.com/pspdirector" target="new">@pspdirector</a></p>
 			
 						<h5>Chrystal Andoh</h5>
 						<p> Executive Assistant<br />
@@ -366,9 +366,6 @@
 						<h5>Kevin tongue</h5>
 						<p>Contracts Coordinator<br  />
 							360.819.6018 | <a href="mailto:kevin.tongue@psp.wa.gov">kevin.tongue@psp.wa.gov</a></p>
-						<h5>Mark Fu</h5>
-						<p>Contracts Coordinator<br>
-							360.870.8913 | <a href="mailto:mark.fu@psp.wa.gov">mark.fu@psp.wa.gov</a></p>
 						<h5>Zhen Zhen Yuan</h5>
 						<p>Fiscal and Budget Analyst<br>
 							360.827.1927 | <a href="mailto:zhenzhen.yuan@psp.wa.gov">zhenzhen.yuan@psp.wa.gov</a></p>
