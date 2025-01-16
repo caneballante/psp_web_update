@@ -80,8 +80,8 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">2025 Legislative Session</h2>
-			<p>General session info (coming soon)</p>
-			<p>2025 Puget Sound Legislative Priorities (coming soon)</p><br>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/3c9ec38">General session info</a></p>
+			<p><a href="https://pspwa.box.com/s/8vds4aob3hc6ldvqi3l98tgi8sxgd2w7">2025 Puget Sound Legislative Priorities</a></p><br>
 			<div>
 			<IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/74287bc8bd884ab9b827d35792ef97ea"></IFRAME>
 			</div>	
