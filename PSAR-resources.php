@@ -77,7 +77,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox">
-				<p><a href="https://pspwa.box.com/s/bj4sh2qk4u19yglcd4kj7r6p0ic2j0q1" target="new">2025-2026 PSAR Large Capital Project ranked list and project factsheets</a></p>
+				<p><a href="https://pspwa.box.com/s/bj4sh2qk4u19yglcd4kj7r6p0ic2j0q1" target="new">2025-2027 PSAR Large Capital Project ranked list and project factsheets</a></p>
 			</div>
 			<iframe class="floatright margin-50-top margin-20-left" src="https://player.vimeo.com/video/785064068?h=3cb967761f" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
