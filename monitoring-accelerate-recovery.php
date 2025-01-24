@@ -81,7 +81,16 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h3>Purpose</h3>
+			<div class="highlightbox margin-0-top margin-20-bottom"><h3>Announcement</h3>  
+				<p>The Puget Sound Partnership is pleased to announce the Monitoring to Accelerate Recovery Request for Information for collaborative proposals to address priority information needs to support and accelerate the recovery of the Puget Sound ecosystem.     </P>
+				<p>All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan which aims to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication and access to credible information that guides recovery decisions. As an implementing agency of Washington State&rsquo;s Healthy Environment for All (HEAL) Act, the Partnership encourages respondents to submit proposals that create environmental benefits for overburdened and vulnerable populations, collaborate with community scientists, and provide opportunities for Tribes, vulnerable populations, and overburdened communities to participate.     </P>
+				<p>We intend to award up to $950,000 during the 2025-2027 biennium depending on funding availability. We anticipate supporting up to 12 projects with a budget of $50,000 - $150,000 each. Projects are expected to begin in July 2025 and continue through June 30, 2027.    </P>
+				<p>Project proposals must align with one or more information need categories:<br>
+Category 1 – Developing and reporting of Vital Sign Indicators and other types of measures used by the Puget Sound Partnership  <br>
+Category 2 – Assessing, synthesizing and disseminating monitoring information that can inform decision-making and support a thriving and resilient Puget Sound.    </P>
+				<p>Responses are due by 12:00 pm on March 28, 2025. Please see the full announcement for additional details about the proposal requirements, how to apply, and the information needs. Questions should be directed to <a href="mailto: pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a> during two Question-and-Answer periods or asked during the webinar. Learn more about the Monitoring to Accelerate Recovery program and previously funded projects by visiting our webpage. </P>
+			</div>
+		<h3>Purpose</h3>
 			<p>The Puget Sound Partnership (Partnership) funds projects every biennium that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects are funded via a formal project solicitation process. All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) strategic plan to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication to improve access to credible information to guide recovery decisions.</p>
 			
 			<p>All of the project products funded by this solication process are accessible on the <a href="/PSEMP-resources.php">PSEMP Products webpage</a>.</p>
@@ -326,7 +335,7 @@
 		
 		
 
-			<p class="last-update">Last updated: 10/22/24</p>
+			<p class="last-update">Last updated: 01/24/25</p>
  
 			 
 		<!-- InstanceEndEditable --> </div>
