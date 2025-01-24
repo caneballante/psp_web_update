@@ -249,6 +249,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				
+				<li role="presentation"><a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">2020-24 Biennial Science Work Plan</a><br /></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/hy1hmhjdnmgtr97nswosy0vsuypsnqkv">2016-18 Biennial Science Work Plan</a><br /></li>
 				<li role="presentation"><a href="downloads/SCIENCE/2014-16_BSWP_Final_10Dec_2014.pdf">2014-16 Biennial Science Work Plan</a><br /></li>
 					<li role="presentation"> <a href="downloads/APPROVED_BSWPApril2012.pdf">2012 Biennal Science Work Plan </a></li>
