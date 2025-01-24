@@ -57,9 +57,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>science work plan</h1>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --></div>
+			<h1>science work plan			</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -77,73 +76,160 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<div class="highlightbox">
 			<h2 class="margin-0-top"><span class="new-red">NEW! </span>SCIENCE WORK PLAN FOR 2025-2029 </h2>
-<p>Beginning in November 2023 the Partnership will begin developing a Science Work Plan for the period 2025-2029. Partnership staff and Panel members will engage the science community, Tribes, community-based organizations, and others to understand information needs, ongoing research and information gathering, and remaining gaps, as well as opportunities to improve the development and transfer of knowledge in Puget Sound.  This understanding may come from publications or conversations. The Panel will develop science work actions and broader recommendations to complete the plan late in 2024.</p>
-
-<p>For more information, or to submit comments about science needs or recommendations to improve science to support Puget Sound recovery, contact:</p>
-
-<p>Scott Redman</p>
+<p>On behalf of the Puget Sound Partnership Science Panel, the Partnership is excited to announce the
+  adoption of <a href="https://pspwa.box.com/s/px3jikktphwhphj7q1y41wqcpzib5jlc" target="new">Priority Science to Support Puget Sound Recovery: A Science Work Plan for 2025-2029 (SWP for 2025-2029).</a></p>
+<p> The Science Work Plan for 2025-2029 identifies 18 priority Science Work Actions and six broader recommendations to improve ongoing science. These priorities and recommendations describe the needed research, monitoring, evaluation and the broader improvements to the science to recovery, protect, and improve the resilience of the Puget Sound ecosystem.  </p>
+<p>The Panel and Partnership anticipate funding projects related to the 18 priority Science Work Actions 
+  through the Puget Sound Scientific Research solicitation. The solicitation expects to award ~$1.5million 
+  and will be released later this winter. The solicitation is one of three solicitations run by the Science and 
+  Evaluation team.</p>
+<p> For more information please contact:<br>
+  Scott Redman</p>
 <p>Science and Evaluation Director</p>
-<p>360.791.2879 | <a href="mailto:scott.redman@psp.wa.gov">Scott.Redman@psp.wa.gov</a></p></div>
+<p>360.791.2879 | <a href="mailto:scott.redman@psp.wa.gov">Scott.Redman@psp.wa.gov</a></p>
+<p>  Or<br>
+  Katherine Wyatt<br>
+  Assistant Science Director<br>
+	360.918.1098 | <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></p></div>
 			
 		
 
-			<h2>The Science Work Plan for 2020-2024</h2>
-			<p>The Science Panel is a group of 14 top scientists in Washington State  and the Pacific Northwest that provides advice and guidance to the Puget Sound Partnership (Partnership) to develop a comprehensive, science-based plan to restore Puget Sound. </p>
-			<p>The Science Panel developed a Science Work Plan for 2020-2024 (<a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">access here</a>), which describes strategies to improve our collective understanding of Puget Sound. Implementing this Science Work Plan will generate information that the Puget Sound recovery community uses to improve decision-making and accelerate recovery across Puget Sound for the benefit of the people and communities in the region and the ecosystems on which they depend.  
-				The <a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">Science Work Plan for 2020-2024</a> was adopted by the Science Panel on December 10, 2020 and approved by the Leadership Council on December 17, 2020.</p>
-			<h2>Supporting and growing an inclusive knowledge network</h2>
-	<p>One prominent part of the Science Work Plan is to develop a more inclusive, more coordinated network of organizations and entities dedicated to building our understanding of Puget Sound – expanding beyond western science to also emphasize the central importance of Indigenous knowledge and environmental justice.</p> 
-
-<p>The Partnership recognizes that implementing this vision will require a collaborative approach and leadership from organizations dedicated to Indigenous knowledge and environmental justice. In this spirit, Partnership staff and Panel members will be reaching out to potential partners to listen and open conversations  about what this network might look like, including purpose, scope, roles for key partners, potential partnership structure, and funding (see graphic below, courtesy of the Oregon Watershed Enhancement Board's "Partnership Learning Project"). 
-</p>
-			<img src="images/dynamicpartnershipssized.jpg" width="500" height="423" alt="diagram of partnership dynamics"</>
-			<p>Throughout this process, the Partnership is being intentional to respectfully acknowledge other networks in the region and create space for organizations that focus on equity and that may not have worked closely with the Partnership before. As conversations with equity-focused organizations begin to take shape, the Partnership aims to provide different avenues for new and existing partners to share creative ideas that will allow us to have a collective conversation and promote valuable new connections among organizations.</p> 
-
-<p>We are committed to a years-long process to share the implementation of the Science Work Plan through a knowledge network that is more inclusive and more coordinated.   In this spirit, the Partnership welcomes your suggestions and creativity.</p>
-
-<p>If you'd like to join in a conversation, please contact Scott Redman, Science and Evaluation Director at the Puget Sound Partnership: <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a> or Katherine Wyatt, Assistant Director of Science and Evaluation <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a>.
-			<h2>Summary of the Science Work Plan for 2020-2024</h2>
-			<p>The Puget Sound Partnership seeks to support greater understanding of the health and recovery of Puget Sound among decision makers and the public, and encourage them to make effective, high-impact recovery decisions through the application of science. Over 760 organizations work on Puget Sound recovery in one way or another, and the public has a high interest in Puget Sound recovery.</p>   
-
-<p>This work plan offers an opportunity to engage leaders of regional science programs in a discussion of priority science needs. The term science here is used to include western science, but also importantly programs dedicated to Indigenous knowledge and environmental justice. This document should promote conversations about how to work together effectively as a more inclusive, more coordinated network that builds understanding and improves the capacity to support the people and communities in Puget Sound and the ecosystems they depend on.</p>
-
-<p>The Science Panel and Partnership staff commit to working with potential new partners and existing partners to understand how individuals and institutions can help implement the described Science Work Actions and broader recommendations in this document. The Science Panel envisions that as we collaborate on implementing the actions and recommendations in this document, the process will mature over time to co-develop future Science Work Plans and co-lead their implementation. The Science Panel’s expectation is that this collaboration will spur innovative thinking and mobilize additional resources.</p>
+			<h2>The Science Work Plan for 2025-2029</h2>
+			<p><a href="https://pspwa.box.com/s/px3jikktphwhphj7q1y41wqcpzib5jlc" target="new">Priority Science to Support Puget Sound Recovery: A Science Work Plan for 2025-2029 (SWP for 2025-2029).</a> describes the research, monitoring, and coordination needed to recover, protect, and improve the health and resilience of the Puget Sound ecosystem. The Puget Sound Partnership’s 
+			  Science Panel (Panel) acknowledges that bold science and inclusive information sharing, along with bold 
+			  implementation of protection and recovery actions are required to accomplish the region’s six recovery 
+			  goals: a healthy human population, vibrant quality of life, thriving species and food web, protected and 
+			  restored habitat, abundant water quantity, and healthy water quality. These goals underscore the 
+			  inextricable links that exist between environmental quality, animal health, and human health and
+		    wellbeing.</p>
+			<p> The Science Work Actions and the broader recommendations aim to improve the ongoing science that supports and facilitates Puget Sound recovery. They identify important initiatives that will sustain and 
+			  enhance the research, modeling, and monitoring programs that deliver needed information to achieve
+			  PSP’s recovery goals. The Panel encourages the Puget Sound Partnership (“Partnership”) to continue to 
+			  strengthen its role as a backbone organization through advancing evidence-based recovery efforts and
+			  supporting the expansion of a strong and extensive recovery network. This includes facilitating the 
+			  tracking of Vital Signs and indicators, utilizing the Puget Sound Ecosystem Monitoring Program (PSEMP), 
+			  employing the Action Agenda and Implementation Strategies, and evaluating the effectiveness of
+			  recovery and protection actions to improve future management. The Panel appreciates that there are
+			  hundreds of organizations work on Puget Sound recovery in one way or another and the public has a
+			  high interest in Puget Sound recovery. The Panel encourages the broader recovery community to<br>
+		    consider these Science Work Actions and broader recommendations to prioritize investments in recovery
+		    science and management.</p>
+			<h2>Priority Science work actions</h2>
+	<p>The 18 Priority Science Work Actions identified in the Science Work Plan for 2024-2029 highlight areas of particular 
+	  importance for future science and monitoring. These priority actions address the Panel’s objectives to
+	  add value by filling gaps, aid science innovation, support continuity, link socio-ecological resilience,
+	  enable transformative and effective large-scale actions, and address inequities to achieve greater
+	  environmental justice in recovery efforts. Each science work action was derived from an existing need
+	  expressed by recovery partners or the Panel.	  </p>
+	<table class="table-responsive table-condensed table-bordered">
+					<thead>
+						<tr>
+						  <th><h2>climate chage impacts</h2></th>
+						</tr>
+		</thead>
+					<tbody>
+					<tr>
+						<td><h3>monitoring climate impacts</h3></p>
+						  <p> 1. Monitor the distribution of impacts of ocean and terrestrial climate change and variability on
+			    Puget Sound infrastructure, Tribal lifeways, ecosystems, native and invasive species, pathogens,
+			    human health, and quality of life. (Climate M1/M5)
+		      Climate impacts research.</p>
+						  <h3>climate impacts research</h3></p>
+					      <p>2. What are the impacts and management implications of projected future climate conditions and
+				          climate variability on floodplains, watersheds, and shorelines? (Climate R1).</p>
+					      <p> 3. How will climate change affect salmon survival at specific life stages, directly or through indirect
+				          effects to habitat and prey? (Climate R2).</p>
+					      <p> 4. How will future climate and ocean conditions and variability affect fisheries and the viability and
+                          harvestability of shellfish? (Climate R4).</p>
+					      <p> 5. What are the impacts of a changing climate on disease and toxic contaminants on salmon,
+                          forage fish, marine mammals, and marine vegetation, and people? (Pollution R15).</p>
+					      <p> 6. What is the abundance, distribution, and trend in forage fish population and what factors affect
+                            this? (Species R05/Species R06)
+                          Climate change tools.</p>
+                          <h3>climate change tools</h3>
+                          </p>
+                            <p>7. Develop and apply tools to provide information and warnings about potential harm to
+                            resources, environmental, animal, and human health from extreme natural events. Assess 
+                            responses to events and compile lessons learned. (Other TC1).</p></td>
+						
+					</tr>
+					<tr>
+						<td><h2>Pollution and toxicology</h2></td>
+						
+					</tr>
+					<tr>
+						<td><h3>Pollution and toxicology</h3>
+					    <p>8. Evaluate, identify, prioritize, and monitor chemicals, pollutants, and pathogens with impacts to
+					      marine and freshwater organisms. This includes toxicity testing, biomonitoring, and other types
+					      of monitoring for exposures and disease outcomes, chemicals of emerging concerns, and areas
+					      requiring cleanup or isolation. (Pollution M1).</p>
+					    <p> 9. How can new approaches improve our understanding of the impacts of exposure to toxic
+					      chemicals including emerging contaminants, and pathogens on human health and
+					      wellbeing? (Human R10/Human R11).</p>
+					    <p> 10. What are sources, loading, transport, fate, and effects of toxic and potentially toxic substances
+				        in Puget Sound? (Pollution R02, Pollution R03, Pollution R10)</p></td>
+						
+					</tr>
+					<tr>
+						<td><h2>Land use and ecosystem management</h2></td>
+						
+					</tr>
+					<tr>
+						<td><h3>land use change</h3>
+					    <p>11. Identify and assess drivers of land use trends and decisions (e.g. climate change, migration,
+					      urbanization, development) that are impacting the Puget Sound social-ecological system. How
+					      can impacts be mitigated through planning, incentives, or regulations? (Human R13/Climate
+					      R7).</p>
+					    <p> 12. Monitor habitat and landscape changes resulting from development and other stressors. Assess
+					      compliance of current regulations, enforcement, and incentives and support net ecological gain
+				        monitoring. (Habitat M1).</p>
+						<h3>Socio-ecological ecosystem management</h3>
+						<p>13. How can ecosystem management efforts be designed to better reflect understandings and
+						  desires of people's preferences, values, and behaviors? (Human R01).</p>
+						<p> 14. What are the connections between human wellbeing, cultural practices, local foods, and
+						  ecosystem management? How does pollution, including emerging chemicals and biotoxins, and
+						  climate change affect these connections? (Human R05/Pollution R18).</p>
+						<p> 15. What opportunities are there to improve the effectiveness and equity of pollution control and
+						  cleanup programs through applying social science approaches (including public finance, benefit-
+						  cost analysis, motivation of behaviors, including incentives, and program evaluation)? (Pollution<br>
+					    R09).</p></td>
+						
+					</tr>
+					<tr>
+						<td><h2>Effectiveness</h2></td>
+						
+					</tr>
+	<tr>
+						<td><h3>Effectiveness</h3>
+					    <p>16. Assess the effectiveness of efforts to mitigate climate impacts. (Climate M2).</p>
+					    <p>17. Assess effectiveness of best management practices and of state, regional, and local programs to
+					      prevent, treat, mitigate, or clean up air, water, soil, sediment (including isolation), and noise
+					      pollution. (Pollution M2).</p>
+					    <p> 18. Develop a social-sciences and epidemiologic informed monitoring and evaluation plan to help
+				        track effectiveness of programs on human health. (Habitat M2).</p></td>
+						
+					</tr>
+					</tbody>
+		</table>
 			
-		<h3>Section 1: Approach to the 2020-2024 Science Work Plan</h3>
-			<p>This document builds from a foundation of the Science Panel’s objectives for system-oriented science. It also incorporates recommendations from others about the science needed to identify, coordinate, and implement effective recovery and protection strategies for the Puget Sound ecosystem. This document follows the science work planning approach specified in <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=90.71.290">Washington State statute at RCW 90.71.290(5)</a>.</p>  
-
-<p>In developing this document, the Panel focused on identifying two complementary questions: 
-</p>
-			<ul><li>What are the priority Science Work Actions for 2020-2024? </li>
-			<li>What broader recommendations should be pursued to improve ongoing science and its dissemination? </li></ul>
-			<a id="Section2"></a>
-			
-			<h3>Section 2: Objectives for selecting and prioritizing Science Work Actions</h3>
-			<p>Science Work Actions within the Science Work Plan prioritize scientific research that can:</p>
-			<ul><li>change the policy landscape</li>
-			<li>spur science innovation</li>
-			<li>add value through addressing critical gaps and uncertainties or taking larger temporal or spatial perspectives,</li>
-			<li>work to link socio-ecological resilience, or</li>
-			<li>ensure that critical ongoing work continues.</li>
-			</ul>
-			<p>These objectives were collectively developed and revised by the Science Panel in advance of evaluating Science Work Actions.</p>
-			
-			<h3>Section 3: Priority Science Work Actions</h3>
-			<p>Partnership staff compiled recommendations from the recovery community, with an initial focus on materials that articulated the science and questions from managers and policymakers. These recommendations address a wide scope of topics.  Topical experts from the Science Panel looked at recommendations within their field of expertise and suggested potential Science Work Actions that reflected the content and intent of multiple recommendations.   Science Work Actions represent discrete and actionable areas of investigation that a scientific study could reasonably be initiated to answer or address.  The Science Panel will use the objectives articulated in section 3 to evaluate each Science Work Action.  Preliminary scoring of Science Work Actions is presented in Appendix B. </p>
-			
-			<a id="Section5"></a>
-			<h3>Section 4: Recommendations to improve ongoing science</h3>
-			<ol><li>Collaboratively develop a more inclusive, more coordinated network dedicated to western science, Indigenous knowledge, and environmental justice to support Puget Sound ecosystem recovery </li>
-				<li>Improve incorporation of Indigenous knowledge into science and monitoring efforts</li>
-				<li>Develop capacity and coordinate efforts to assess and report on ecosystem conditions and the effectiveness of strategies and actions </li>
-				<li>Coordinate production and use of interdisciplinary research that explores and emphasizes the integrated nature of socio-ecological systems </li>
-				<li>Build and sustain robust programs and relationships across science-policy interfaces to inform recovery</li>
-				<li>Communicate science findings clearly and to the appropriate audiences </li>
-				<li>Develop and analyze alternative future scenarios to explore and express desired futures and evaluate trade-offs among possible approaches</li>
-				
-				
-			</ol>
-<p class="last-update">Last updated: 01/15/21</p>
+		
+<h2>Broader Recommendations to improve ongoing science</h2>
+<p>In addition to specific Science Work Actions, the Panel also identified cross-cutting broader
+  recommendations that support the development, efficacy, and implementation, of science. There are six
+  broader recommendations, which are described in depth in the main text and summarized by their titles
+	  here:<br>
+	  A. Collaborate with Tribal Nations and Native communities to support Puget Sound ecosystem
+	  recovery.</p>
+<p> B. Consider equity in scientific efforts that focus on the recovery of Puget Sound.</p>
+<p> C. Expand research on the linkages between social, ecological, human and animal health.</p>
+<p> D. Ensure decision makers have access to decision-critical science by supporting a strengthened,
+  sustained science-policy interface.</p>
+<p> E. Expand Assessment Activities.</p>
+<p> F. Improve our understanding of local climate impacts, management, and interacti</p>
+	<h2>Read more about the science work plan here</h2>
+	<p><a href="https://pspwa.box.com/s/px3jikktphwhphj7q1y41wqcpzib5jlc" target="new">Priority Science to Support Puget Sound Recovery: A Science Work Plan for 2025-2029 (SWP for 2025-2029).</a></p>
+	<p></p>
+<p class="last-update">Last updated: 01/24/25</p>
   		
 
   		
