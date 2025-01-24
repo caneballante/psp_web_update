@@ -111,8 +111,7 @@
 			  employing the Action Agenda and Implementation Strategies, and evaluating the effectiveness of
 			  recovery and protection actions to improve future management. The Panel appreciates that there are
 			  hundreds of organizations work on Puget Sound recovery in one way or another and the public has a
-			  high interest in Puget Sound recovery. The Panel encourages the broader recovery community to<br>
-		    consider these Science Work Actions and broader recommendations to prioritize investments in recovery
+			  high interest in Puget Sound recovery. The Panel encourages the broader recovery community to consider these Science Work Actions and broader recommendations to prioritize investments in recovery
 		    science and management.</p>
 			<h2>Priority Science work actions</h2>
 	<p>The 18 Priority Science Work Actions identified in the Science Work Plan for 2024-2029 highlight areas of particular 
