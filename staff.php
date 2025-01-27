@@ -212,11 +212,7 @@
 						<h3 class="padding-10-top">PLANNING TEAM</h3>
 						<h5>Dan Stonington</h5>
 						<p>Planning Manager<br />
-							360.764.0164 | <a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a></p>
-
-						<h5>Nick Tealer</h5>
-						<p>Environmental Planner<br />
-							360.791.0966 | <a href="mailto:nick.tealer@psp.wa.gov">nick.tealer@psp.wa.gov</a></p>
+							360.764.0164 | <a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a>						</p>
 						<h5>Wren McNally</h5>
 						<p>Environmental Planner<br />
 						360.870.6292 | <a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a></p>
@@ -259,8 +255,10 @@
 						 <h5>Laura Vary</h5>
 						<p>Progress Indicator Lead<br />
 						360.742.6989 | <a href="mailto:laura.vary@psp.wa.gov">laura.vary@psp.wa.gov</a></p>
-			
-						<h5>VACANT</h5>
+		<h5>Lila Bowen</h5>
+		<p>Progress Indicator Analyst<br />
+						360.870.8913 | <a href="mailto:lila.bowen@psp.wa.gov">lila.bowen@psp.wa.gov</a>						</p>
+		<h5>VACANT</h5>
 						<p>Monitoring Data Coordinator and Analyst<br />
 						
 						
@@ -281,7 +279,10 @@
 						<h5>Hannah Mittelstaedt</h5>
 						<p> Monitoring Network Coordinator<br/>
 							360.764.6149 | <a href="mailto:hannah.mittelstaedt@psp.wa.gov">hannah.mittelstaedt@psp.wa.gov</a></p>
-						<h5>Vacant</h5>
+						<h5>Nick Tealer</h5>
+                        <p>Environmental Planner<br />
+                          360.791.0966 | <a href="mailto:nick.tealer@psp.wa.gov">nick.tealer@psp.wa.gov</a>						</p>
+                        <h5>Vacant</h5>
 						<p> Vital Signs Lead<br/>
 						</p>
 						<h5>Kenna Kuhn</h5>
