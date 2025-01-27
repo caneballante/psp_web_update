@@ -94,12 +94,12 @@ Category 2 – Assessing, synthesizing and disseminating monitoring information 
 			<p>The Puget Sound Partnership (Partnership) funds projects every biennium that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects are funded via a formal project solicitation process. All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) strategic plan to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication to improve access to credible information to guide recovery decisions.</p>
 			
 			<p>All of the project products funded by this solication process are accessible on the <a href="/PSEMP-resources.php">PSEMP Products webpage</a>.</p>
-			
-			<div class="highlightbox margin-0-top margin-20-bottom"><h3>Announcing apparent successful project proposals for the Monitoring to Accelerate Recovery Request for Information (RFI #2023-163 posted on WEBS January 24, 2023) </h3>
-			<p> For the 2023-25 biennium, the Puget Sound Partnership (Partnership) requested project proposals that address priority monitoring information needs to inform and accelerate recovery of Puget Sound under <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">the Monitoring to Accelerate Recovery Request for Information</a> (RFI #2023-163) to allocate up to $750,000.</p>
-	
-			<p>We are pleased to announce the following six apparent successful projects: </p>
-				<table class="table-responsive table-condensed table-bordered">
+		
+		<hr>
+		<h3>Projects funded in 2023-2025</h3>
+		<p>For the 2023-25 biennium, the Puget Sound Partnership (Partnership) requested project proposals that address priority monitoring information needs to inform and accelerate recovery of Puget Sound under <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">the Monitoring to Accelerate Recovery Request for Information</a> (RFI #2023-163) to allocate up to $750,000.        
+        <p>We are pleased to announce the following six  successful projects:</p>
+        <table class="table-responsive table-condensed table-bordered">
 					<thead>
 						<tr>
 						<th>Respondent name</th>
@@ -146,18 +146,12 @@ Category 2 – Assessing, synthesizing and disseminating monitoring information 
 						<td><p class="psemp-mar-font">$96,011</p></td>
 					</tr>
 					</tbody>
-				</table><br>
-			
-			<p>The selected projects are referred to here as apparent successful because they will not be considered fully successful until contracts are in place.</p>
-			<p>We would like to thank the Puget Sound Ecosystem Monitoring Program (PSEMP) Steering Committee members, PSEMP Work Group Leads, and Partnership staff colleagues who contributed their time and perspective as members of the Evaluation Panel.</p>
-			<p>We are excited about this newest cohort of projects and look forward to working with all the project teams in implementing the projects!</p>
-			</div>
-		
-		<hr>
-		<h3>Projects funded in 2023-2025</h3>
-		<hr>
+				</table><br></p>
+        <p>We would like to thank the Puget Sound Ecosystem Monitoring Program (PSEMP) Steering Committee members, PSEMP Work Group Leads, and Partnership staff colleagues who contributed their time and perspective as members of the Evaluation Panel.</p>
+                <p>We are excited about this newest cohort of projects and look forward to working with all the project teams in implementing the projects!</p>
+        <hr>
 		<h3>Projects funded in 2021-2023</h3>
-			<p><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl">Original project solicitation: 2021-2023 Monitoring to Accelerate Recovery. </a></p><br>
+			<p><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl">Original project solicitation: 2021-2023 Monitoring to Accelerate Recovery. </a></p>
 			<p>Monitoring to Accelerate Recovery Projects for July 2021-June 2023</p>
 			<table class="table-responsive table-condensed table-bordered table-striped">
 			<thead>
@@ -336,7 +330,7 @@ Category 2 – Assessing, synthesizing and disseminating monitoring information 
 		
 		
 
-			<p class="last-update">Last updated: 01/24/25</p>
+			<p class="last-update">Last updated: 01/27/25</p>
  
 			 
 		<!-- InstanceEndEditable --> </div>
