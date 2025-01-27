@@ -82,8 +82,7 @@ navSelected = 1;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p><strong>See also:</strong><br>
-		    - <a href="https://pspwa.box.com/s/rycymd6097nx2u0z5my1wg5w4ufrcqlw">Jan.  15 Lunch &amp; Learn: 26-30 Action Agenda update overview recording</a></p>
+			
 			<div class="highlightbox margin-0-top margin-20-bottom">
 			  <p>As a first step in the Action Agenda update process, Puget Sound Partnership and recovery partners are hosting <a href="https://pspwa.box.com/s/lmcobgdmya9a7dusrdelbrl7ak1w22w6" target="new">‘Evaluate and Learn’</a> workshops to refine the 2022-26 Action Agenda content. These workshops will be a rapid assessment of what has or has not been achieved for Action Agenda recovery topics and will inform the first draft of the 2026-30 Action Agenda. For more information, see the <a href="https://pspwa.box.com/s/omxlzv0uusa39f274pf7ter5sdlp3sdp" target="new">workshop agenda</a> for all Topic updates or <a href="https://forms.office.com/pages/responsepage.aspx?id=eCgFR53Gc0uxesXQDXVJuPeyypfKOR5Gj2Gz6aPXBGpUMVBXSjg5Q1pSRE0xR0xDVzk0TkpXWVZNUS4u&route=shorturl" target="new">register</a> to attend a workshop.</a></p>
 		</div>
@@ -205,6 +204,7 @@ navSelected = 1;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li><a href="https://pspwa.box.com/s/rycymd6097nx2u0z5my1wg5w4ufrcqlw">Jan.  15 Lunch &amp; Learn: 26-30 Action Agenda update overview recording</a></li>
 				<li><a href="https://pspwa.box.com/s/2u8djhjls0ys2b3uxdmdj3h8spq92s9i" target="_blank">2026-30 Action Agenda Factsheet</a></li>
 				<li><a href="https://pspwa.box.com/s/lmcobgdmya9a7dusrdelbrl7ak1w22w6" target="_blank">Evaluate and Learn Workshop</a></li>
 				
