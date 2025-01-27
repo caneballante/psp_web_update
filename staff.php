@@ -239,9 +239,9 @@
 			
 						<!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
-						<h5>Beihua Page</h5>
+						<h5>VACANT</h5>
 						<p> Adaptive Systems Manager<br />
-							360.552.8340 | <a href="mailto:beihua.page@psp.wa.gov">beihua.page@psp.wa.gov </a></p>
+						</p>
 						<h5>Jennifer Burke</h5>
 						<p>Information and Geospatial Systems Manager<br />
 							360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
