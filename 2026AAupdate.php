@@ -115,8 +115,7 @@ navSelected = 1;
 
 		<h3>Timeline</h3>
 		<p>&nbsp;</p>
-			
-		<img src="images/action-agenda/AA2630timeline.png" alt="An image of 2026-2030 Action Agenda Timeline, depicting the information listed below." width="672" height="255"/>
+		<img src="images/action-agenda/AA2630timeline.png" alt="An image of 2026-2030 Action Agenda Timeline, depicting the information listed below.">
 		<table class="table-striped table-responsive">
 		<tbody>
 		<tr>
