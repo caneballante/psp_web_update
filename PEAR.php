@@ -82,25 +82,15 @@
        <p> <a href="https://pspwa.box.com/s/hxfglg57ny33e9qfvc8u5malexh1vr9d" target="new">Video recorded staff presentation  8/18/2022</a><br>
        </p><p><a href="https://pspwa.box.com/s/fixteo94kpihc84q103vi9z7rrpy6upq" target="new">PEAR Strategic Plan</a></p></div>    
         <p>On March 21, 2022, Governor Inslee signed Executive Order 22-04, Implementing the Washington State Pro-Equity Anti-Racism (PEAR) Plan  &amp; Playbook. The Executive Order  directs all Cabinet agencies to develop a PEAR Strategic Action Plan, implement  it, and report our progress on implementation.</p>
-        <p>In this Executive Order,  the Governor clearly  states his intention  that we and our sister state agencies  do our part to create a PEAR ecosystem in the state of Washington. Our  founding statute also directs us to support a healthy human population and a  vibrant quality of life. Achieving  these goals will help us achieve our mission, but it&rsquo;s also quite simply the  right and deeply decent thing to do.</p>
-        <p>I and the Executive Team are  committed to implementing this Executive Order. While responsibilities may vary across our staff for  implementing the specifics of the PSP PEAR Strategic Plan, we know that each of us must do our own anti-racism, pro-equity work. We look forward  to continued work with the Equity &amp; Environmental Justice  Team, supervisors, and all staff to build diversity, equity, inclusion, and  environmental justice into the programs and products we lead and every staff  member&rsquo;s work plan.</p>
-        <p>We also plan the following:</p>
-        <ul class="bullet-size-fix">
-            <li>The Executive Team will continue  working with the Equity &amp; Environmental Justice  Team to develop our DEI Action  Plan, and with all of you to implement it.</li>
-            <li>Executive Team members plan to reflect on the  state&rsquo;s diversity, equity, and inclusion competencies, assess our personal  progress toward them, and make individual action  plans based on them. We&rsquo;ll  make ours available to others as a model for the agency.</li>
-            <li>In 2023, we will update our agency&rsquo;s  strategic plan, and ensure that we infuse  pro-equity, anti- racism and  environmental justice work into it, in accordance with the HEAL Act and our own  values.</li>
-        </ul>
-        <p>I am looking forward to  continuing this journey with each of you, our partners, and the Office of  Equity. Please don&rsquo;t hesitate to  reach out to me or any member  of the Executive Team or our PEAR Team – Bryan,  Lea Anne, Denise, and me – with questions or ideas.</p>
-        <p>Laura Bradstreet<br>
-            <em> Executive Director</em><br>
-        The Puget Sound Partnership</p>
+        <p>In this Executive Order,  the Governor clearly  stated his intention  that we and our sister state agencies  musr do our part to create a PEAR ecosystem in the state of Washington. Our  founding statute also directs us to support a healthy human population and a  vibrant quality of life. Achieving  these goals will help us achieve our mission, but it&rsquo;s also quite simply the  right and deeply decent thing to do.</p>
+        <p>The Leadership Team are  committed to implementing this Executive Order. While responsibilities may vary across our staff for  implementing the specifics of the PSP PEAR Strategic Plan, we know that each of us must do our own anti-racism, pro-equity work. We look forward  to continued work with managers, supervisors, and  staff in impementing this into our programs and work plans.        </p>
+        <p>The Leadership Team is looking forward to  continuing this journey with each of you, our partners, and the Office of  Equity. Please don&rsquo;t hesitate to  reach out to any member  of the Leadership Team or our PEAR Team – Bryan,  Lea Anne, Denise, – with questions or ideas.</p>
+        <p>The Leadership Team<em></em><br>
+        </p>
             
         <h2>Partnership PEAR team</h2>
             <table class="table-striped">
-                <tr>
-                    <td><p>Laura Bradstreet</p></td>
-                    <td><p>Executive Director</p></td>
-                </tr>
+                
                 <tr>
                     <td><p>Lea Anne Burke</p></td>
                     <td><p>Tribal Affairs Manager</p></td>
@@ -114,12 +104,12 @@
                     <td><p>Workplace Culture Specialist</p></td>
                 </tr>
                 <tr>
-                    <td><p>Community Member (vacant)</p></td>
-                    <td><p></p></td>
+                    <td><p>Dave Herrera</p></td>
+                    <td><p>Community Member</p></td>
                 </tr>
             </table>
 			
-			<p class="last-update">Last updated: 09/12/24</p>
+			<p class="last-update">Last updated: 01/28/25</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		
