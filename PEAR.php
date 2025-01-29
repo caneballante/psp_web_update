@@ -92,8 +92,8 @@
             <table class="table-striped">
                 
                 <tr>
-                    <td width="170"><p>Lea Anne Burke</p></td>
-                    <td width="358"><p>Tribal Affairs Manager</p></td>
+                    <td width="164"><p>Lea Anne Burke</p></td>
+                    <td width="499"><p>Tribal Affairs Manager</p></td>
                 </tr>
                 <tr>
                     <td><p>Denise Ross</p></td>
