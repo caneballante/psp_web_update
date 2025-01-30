@@ -79,22 +79,7 @@
 						
 			<p>Puget Sound recovery is a not only a regional priority; it is critical to the environmental and economic well-being of the entire nation. As such, the Environmental Protection Agency designated Puget Sound as an “Estuary of National Significance” under the <a href="https://www.epa.gov/nep/overview-national-estuary-program" target="new">National Estuary Program</a> in 1988. From appropriator to regulator to trustee for Tribes, numerous Federal government entities play multiple critical roles to help advance Puget Sound recovery efforts</p><br>
 			
-			<h2>New Funding Opportunities</h2>
 			
-			<div class="row padding-30-bottom">
-				<div class="col-sm-9">
-					<div style="padding:56.25% 0 0 0;position:relative;">
-						<iframe src="https://player.vimeo.com/video/706723427?h=07ec6b9a8a&title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-					</div>
-				</div>
-			</div>
-			
-			
-			<p>The Bipartisan Infrastructure Law (the Infrastructure Investment and Jobs Act) and the Inflation Reduction Act represent potentially transformational funding opportunities for Puget Sound recovery. The Partnership is committed to helping partners seek funding for programs, projects, and other work. </p>
-			<br>
-			
-			
-			<p class="last-update">Last updated: 11/12/24</p>
  
 			 
 		<!-- InstanceEndEditable --> </div>
