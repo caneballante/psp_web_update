@@ -92,12 +92,10 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="https://www.whitehouse.gov/build/resources/nofos-to-know/" target="new">Bipartisan Infrastructure Law: Open Funding Opportunities</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/shared/static/vh7n99hidr4otld8smr56y0c03tzq20d.pdf">Download open and upcoming Bipartisan Infrastructure Law funding opportunities</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/9hcdue4rf085aj9fxl1et9auryio8arf" target="new">117th Congress end-of-session review</a></li>
 				<li class="active" role="presentation"> <a href="https://www.epa.gov/puget-sound/puget-sound-federal-task-force" target="new">Puget Sound Federal Task Force</a></li>
 				<li role="presentation"> <a href="/NEP-overview.php">Puget Sound National Estuary Program</a></li><br>
-				<button>The Partnership will soon hire new staff to assist project implementers to track and apply for grants, report on federal investments in Puget Sound recovery, and more. Stay tuned for updates.</button>
+		
 				
 				<!-- InstanceEndEditable -->
 			</ul>
