@@ -212,10 +212,7 @@
 						<h3 class="padding-10-top">PLANNING TEAM</h3>
 						<h5>Dan Stonington</h5>
 						<p>Planning Manager<br />
-							360.764.0164 | <a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a>						</p>
-						<h5>Wren McNally</h5>
-						<p>Environmental Planner<br />
-						360.870.6292 | <a href="mailto:wren.mcnally@psp.wa.gov">wren.mcnally@psp.wa.gov</a></p>
+							360.764.0164 | <a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a></p>
 						<h5>Robb Krehbiel</h5>
 						<p>Environmental Planner<br />
 						360.485.2117 | <a href="mailto:robb.krehbiel@psp.wa.gov">robb.krehbiel@psp.wa.gov</a></p>
@@ -239,8 +236,9 @@
 			
 						<!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
-						<h5>VACANT</h5>
-						<p> Adaptive Systems Manager<br />
+						<h5>Alex Mitchell</h5>
+						<p> Adaptive Systems Manager (acting)<br>
+						  360.706.3334 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a>						  <br />
 						</p>
 						<h5>Jennifer Burke</h5>
 						<p>Information and Geospatial Systems Manager<br />
