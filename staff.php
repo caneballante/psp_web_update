@@ -339,12 +339,8 @@
 	    </p>
 						<h5>Colleen Carbery</h5>
 						<p>Administrative Services Support Specialist<br>
-							360.827.0768 | <a href="mailto:colleen.carbery@psp.wa.gov">colleen.carbery@psp.wa.gov</a></p>
-			
-		<h5>Jackelyn Garcia</h5>
-						<p>
-						360.480.0475 | <a href="mailto:jackelyn.garcia@psp.wa.gov">jackelyn.garcia@psp.wa.gov</a><a href="mailto:jackelyn.garcia@psp.wa.gov"><br>
-					    </a>						<!--FISCAL PROGRAM--></p>
+							360.827.0768 | <a href="mailto:colleen.carbery@psp.wa.gov">colleen.carbery@psp.wa.gov</a><a href="mailto:jackelyn.garcia@psp.wa.gov"><br>
+	                        </a>						<!--FISCAL PROGRAM--></p>
 		<h5>Jill wisehart</h5>
                         <p>Compliance and Reporting Specialist<br>
                           564.200.2065 | <a href="mailto:jill.wisehart@psp.wa.gov">jill.wisehart@psp.wa.gov</a> </p>
