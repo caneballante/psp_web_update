@@ -286,9 +286,10 @@
 						<h5>Kenna Kuhn</h5>
 						<p> Vital Signs Reporting Analyst<br>
 							564.669.8282 | <a href="mailto:kenna.kuhn@psp.wa.gov">kenna.kuhn@psp.wa.gov</a></p>
-						<h5>VACANT</h5>
-						<p> Monitoring Program Effectiveness Analyst <br>
-		</p>
+						<h5>Raquel Gilliland</h5>
+		<p> Monitoring Program Effectiveness Analyst<br>
+		  360.552.8340 | <a href="mailto:raquel.gilliland@psp.wa.gov">raquel.gilliland@psp.wa.gov</a> <br>
+	    </p>
 						<h5>Annelise Del Rio</h5>
 						<p>	Salmon Science Lead<br>
 							360.584.5306 | <a href="mailto:annelise.delrio@psp.wa.gov">annelise.delrio@psp.wa.gov</a></p>
@@ -379,7 +380,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 12/16/24</p>
+	<p class="last-update">Last updated: 02/18/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
