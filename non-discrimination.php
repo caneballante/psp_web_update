@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Accessibility Policy</title>
+<title>Non Discrimination</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 5;
+  	navSelected = 12;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -58,8 +58,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>ACCESSIBILITY POLICY</h1>
-			<p>&nbsp;</p>
+			<h1>NON DISCRIMINATION</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -76,21 +75,23 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-<h2 class="margin-0-top">OUR COMMITMENT TO ACCESSIBILITY</h2>
-			<p>The Puget Sound Partnership (PSP) recognizes the importance of using technology to provide information and services to carry out our mission. As such, PSP is committed to ensuring our Web sites, documents, and application systems are accessible to the public and Washington State employees, including individuals with disabilities.</p>
-			<h2>GUIDELINES AND STANDARDS</h2>
-			<p>PSP strives to meet the Washington State Office of the Chief Information Officer (OCIO)<a href="https://ocio.wa.gov/policy/accessibility" target="_blank"> Policy 188 Accessibility</a>, <a href="http://ocio.wa.gov/policy/minimum-accessibility-standard" target="_blank">188.10 Minimum Accessibility Standards, </a>and the <a href="http://www.w3.org/TR/WCAG20/" target="_blank">Web Content Accessibility Guidelines (WCAG) 2.0</a>, Level AA compliance, including the guidelines associated with these principles:</p>
-			<ol class="bullet-size-fix">
-				<li><strong>Perceivable:</strong> Information and user interface components must be presentable to users in ways they can perceive.</li>
-				<li><strong>Operable:</strong> User interface components and navigation must be operable.</li>
-				<li><strong>Understandable:</strong> Information and the operation of user interface must be understandable.</li>
-				<li><strong>Robust:</strong> Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.</li>
-			</ol>
-			<h2>Need assistance with our Web sites or want to report an accessibility issue?</h2>
-			<p>Please contact the PSP Accessibility Coordinator with information on Web sites, documents, or application systems that are not fully accessible to you, along with the type of accommodation that you need. The Accessibility Coordinator will review your accessibility request, contact the responsible agency staff, determine how to best meet your accessibility request, and respond to you within five (5) business days with the access or information that you need, and the plan to improve accessibility in the future. </p>
-			<h3>Contact Us</h3>
-			<p><a href="mailto:brent.barnes@psp.wa.gov">Accessibility Coordinator</a>,<br>
-			 360.339.5861</p>
+				<p>The Puget Sound Partnership does not discriminate on the basis of race, color, national origin, disability, age, or sex in administration of its programs or activities.  The Puget Sound Partnership does not intimidate or retaliate against any individual or group because they have exercised their rights to participate in actions protected, or oppose action prohibited, by 40 C.F.R. Parts 5 and 7, or for the purpose of interfering with such rights.</p>
+
+	<p>Denise Ross, the Workplace Culture and Development Manager is responsible for coordination of compliance efforts and receipt of inquiries concerning non-discrimination requirements implemented by 40 C.F.R. Parts 5 and 7 (Non-discrimination in Programs or Activities Receiving Federal Assistance from the Environmental Protection Agency), including Title VI of the Civil Rights Act of 1964, as amended; Section 504 of the Rehabilitation Act of 1973; the Age Discrimination Act of 1975; Title IX of the Education Amendments of 1972; and Section 13 of the Federal Water Pollution Control Act Amendments of 1972 (hereinafter referred to collectively as the federal non-discrimination laws).</p>
+
+	<p>If you have any questions about this notice or any of the Puget Sound Partnership’s non-discrimination programs, policies or procedures, you may contact: </p>
+
+	<p>Denise Ross, Workplace Culture and Development Manager<br>
+	Puget Sound Partnership<br>
+	PO Box 40900<br>
+	Olympia WA 98504-0900<br>
+	360.819.0208<br>
+	denise.ross@psp.wa.gov</p>
+
+	<p>If you believe that you have been discriminated against with respect to a Puget Sound Partnership program or activity, you may contact the Workplace Culture and Development Manager identified above.
+	</p>
+			
+			
 			
 			<!-- InstanceEndEditable --> </div>
 		
