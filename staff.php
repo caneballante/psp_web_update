@@ -140,9 +140,6 @@
 						<p>Puget Sound Recovery Integration Manager<br>
 							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
 
-						<h5>Doug kennedy</h5>
-						<p>Puget Sound Recovery Strategist<br>
-						  360.819.3412 | <a href="mailto:doug.kennedy@psp.wa.gov">doug.kennedy@psp.wa.gov</a><br>
 	    </p>
 			
 						<h5>Juliana Tadano</h5>
@@ -216,6 +213,9 @@
 						<h5>Robb Krehbiel</h5>
 						<p>Environmental Planner<br />
 						360.485.2117 | <a href="mailto:robb.krehbiel@psp.wa.gov">robb.krehbiel@psp.wa.gov</a></p>
+		<h5>Doug kennedy</h5>
+						<p>Environmental Planner<br>
+						  360.819.3412 | <a href="mailto:doug.kennedy@psp.wa.gov">doug.kennedy@psp.wa.gov</a><br>
 						
 			
 						
