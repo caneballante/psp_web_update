@@ -107,7 +107,7 @@
               Read more about the <a href="https://psp.wa.gov/HEAL.php">Partnership&rsquo;s HEAL Act</a> program and implementation.<br>
               <a href="https://pspwa.box.com/s/3q34inra9pi56askq35r7xn4mlkkqo3x">HEAL Act Tribal Government Engagement  Guide</a><br>
               <a href="https://pspwa.box.com/s/qjskpfh3ip1zoa0xnktws8z3ykplj5k4">HEAL Act Native American Community  Engagement Guide</a></p><h2>Map of reservations</h2>
-              <p>The map below provides a list of the 19 federally recognized tribes in the Puget Sound. Select a tribe from the list on the left to learn more them. </p>
+              <p>The map below provides a list of the 19 federally recognized tribes and the Draft Treaty ceded areas in the Puget Sound. Select a tribe from the list on the left to learn more. </p>
               <p>A full screen version of the map can be viewed <a href="https://experience.arcgis.com/experience/98dc152906ec478f9256dcc83093c63d/" target="new">here</a>.</p> 
 			  <iframe src= "https://experience.arcgis.com/experience/98dc152906ec478f9256dcc83093c63d/" width="100%" height="1000" alt="Map of Tribal Reservations and Draft Treaty Ceded Areas of Puget Sound">
 </iframe>
