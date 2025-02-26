@@ -107,7 +107,7 @@
               Read more about the <a href="https://psp.wa.gov/HEAL.php">Partnership&rsquo;s HEAL Act</a> program and implementation.<br>
               <a href="https://pspwa.box.com/s/3q34inra9pi56askq35r7xn4mlkkqo3x">HEAL Act Tribal Government Engagement  Guide</a><br>
               <a href="https://pspwa.box.com/s/qjskpfh3ip1zoa0xnktws8z3ykplj5k4">HEAL Act Native American Community  Engagement Guide</a></p><h2>Map of reservations</h2>
-              <p><iframe src= "https://wa-psp.maps.arcgis.com/apps/dashboards/98dc152906ec478f9256dcc83093c63d" width="100%" height="820" alt="Map of 2025-2027 PSAR Large Capital proposed projects">
+              <p><iframe src= "https://experience.arcgis.com/experience/98dc152906ec478f9256dcc83093c63d/" width="100%" height="820" alt="Map of 2025-2027 PSAR Large Capital proposed projects">
 </iframe>
                 <br>
               
