@@ -339,7 +339,7 @@
 							360.819.0530 | <a href="mailto:jennifer.carlson@psp.wa.gov">jennifer.carlson@psp.wa.gov</a>
 	    </p>
 						<h5>VACANT</h5>
-						<p>Administrative Services Support Specialist<a href="mailto:jackelyn.garcia@psp.wa.gov"><br>
+						<p>Records and Information Specialist<a href="mailto:jackelyn.garcia@psp.wa.gov"><br>
 	                        </a>						<!--FISCAL PROGRAM--></p>
 		<h5>Jill wisehart</h5>
                         <p>Compliance and Reporting Specialist<br>
