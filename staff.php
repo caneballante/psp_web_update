@@ -306,9 +306,9 @@
                         <p>Washington Sea Grant Hershman Fellow<br>
         564.250.0925 | <a href="mailto:rondi.nordal@psp.wa.gov">rondi.nordal@psp.wa.gov</a></p>
 						<h1 class="padding-20-top padding-20-bottom">INTERNAL OPERATIONS DIVISION</h1>
-						<h5>Brent Barnes</h5>
-						<p>Chief Operating Officer<br />
-							360.890.6219 | <a href="mailto:brent.barnes@psp.wa.gov">brent.barnes@psp.wa.gov</a> </p>
+						<h5>JENNIFER CARLSON</h5>
+						<p>Chief Operating Officer (Acting)<br />
+							360.819.0530 | <a href="mailto:jennifer.carlson@psp.wa.gov">jennifer.carlson@psp.wa.gov</a> </p>
 						<!--HUMAN RESOURCES PROGRAM-->
 						<h3 class="padding-10-top">Human Resources</h3>
 						<h5>Denise Ross</h5>
