@@ -115,7 +115,11 @@
 							360.819.3045 | <a href="mailto:emilie.litsinger@psp.wa.gov">emilie.litsinger@psp.wa.gov</a></p>
 						<h5>Signe Lindquist</h5>
                         <p>Community Engagement Coordinator<br>
-                          360.688.4049 | <a href="mailto:signe.lindquist@psp.wa.gov">signe.lindquist@psp.wa.gov</a>			
+                          360.688.4049 | <a href="mailto:signe.lindquist@psp.wa.gov">signe.lindquist@psp.wa.gov</a>	
+							
+							<h5>Peter Ravella</h5>
+						<p>Puget Sound Recovery Strategist<br>
+							360.972.4054 | <a href="mailto:peter.ravella@psp.wa.gov">peter.ravella@psp.wa.gov</a></p>
 			<!--SALMON RECOVERY PROGRAM-->		</p>
         <h3 class="padding-10-top">SALMON RECOVERY PROGRAM</h3>
 						<h5>Melissa Speeg</h5>
@@ -147,9 +151,7 @@
 							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
 		</p>
 			
-						<h5>Peter Ravella</h5>
-						<p>Puget Sound Recovery Strategist<br>
-							360.972.4054 | <a href="mailto:peter.ravella@psp.wa.gov">peter.ravella@psp.wa.gov</a></p>
+					
 						
 						<!--STRATEGIC FUNDING PROGRAM-->
 						<h3 class="padding-10-top">Strategic Funding Program</h3>
