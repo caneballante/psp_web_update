@@ -119,7 +119,9 @@
 							
 							<h5>Peter Ravella</h5>
 						<p>Puget Sound Recovery Strategist<br>
-							360.972.4054 | <a href="mailto:peter.ravella@psp.wa.gov">peter.ravella@psp.wa.gov</a></p>
+							360.972.4054 | <a href="mailto:peter.ravella@psp.wa.gov">peter.ravella@psp.wa.gov</a></p><h5>Juliana Tadano</h5>
+						<p>Puget Sound Recovery Strategist<br/>
+							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a></p>
 			<!--SALMON RECOVERY PROGRAM-->		</p>
         <h3 class="padding-10-top">SALMON RECOVERY PROGRAM</h3>
 						<h5>Melissa Speeg</h5>
@@ -142,19 +144,14 @@
 						<h3 class="padding-10-top">PUGET SOUND RECOVERY INTEGRATION TEAM</h3>
 						<h5>Laura Rivas</h5>
 						<p>Puget Sound Recovery Integration Manager<br>
-							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov </a></p>
-
-	    </p>
-			
-						<h5>Juliana Tadano</h5>
-						<p>Puget Sound Recovery Strategist<br/>
-							360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a>
+							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a>
 		</p>
 			
 					
 						
 						<!--STRATEGIC FUNDING PROGRAM-->
-						<h3 class="padding-10-top">Strategic Funding Program</h3>
+						</p>
+		<h3 class="padding-10-top">Strategic Funding Program</h3>
 						<h5>Jennifer Grimm</h5>
 						<p>Strategic Funding Manager<br />
 						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
