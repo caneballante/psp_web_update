@@ -270,9 +270,9 @@
 						<h5>Scott Redman</h5>
 						<p> Program Director<br />
 							360.791.2879 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
-						<h5>Katherine Wyatt</h5>
+						<h5>VACANT</h5>
 						<p>Assistant Science Director<br />
-						360.918.1098 | <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></p>
+						</p>
 						<h5>Katrina Radach</h5>
 						<p> PSEMP Manager<br/>
 						360.764.0272 | <a href="mailto:katrina.radach@psp.wa.gov">katrina.radach@psp.wa.gov</a></p>  
@@ -381,7 +381,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 03/18/25</p>
+	<p class="last-update">Last updated: 03/25/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
