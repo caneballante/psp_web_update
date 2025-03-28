@@ -110,10 +110,11 @@ navSelected = 4;
 			      <th width="110" scope="col">Initiation Date</th>
 			      <th width="290" scope="col">Project Name (more info link)</th>
 			      <th width="178" scope="col">Key Themes</th>
-			      <th width="144" scope="col">Assesment</th>
+			      <th width="144" scope="col">Assessment</th>
 			      <th width="146" scope="col">Significant Agency Action Type (link to relevant code)</th>
 		        </tr>
-			    <tr>
+			    
+				  <tr>
 			      <th scope="row"><p data-pm-slice="1 1 []">7/18/24</p></th>
 			      <td><p data-pm-slice="1 1 []"><a href="https://psp.wa.gov/PSAR.php" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-00104174-3250-43fd-ad05-bb313fd98171">PSAR</a> Large Capital Grant Round Request for Proposals</p></td>
 			      <td><p data-pm-slice="1 1 []">Salmon, flood reduction, treaty rights, public/community access, climate resilience, infrastructure, restoration.</p></td>
@@ -124,7 +125,7 @@ navSelected = 4;
 			      <th scope="row"><p data-pm-slice="1 1 []">11/9/23</p></th>
 			      <td><p data-pm-slice="1 1 []"><a href="https://psp.wa.gov/science-workplan.php" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-933ee8bd-dea2-41bd-9649-c9b1a3366e63">Science Work Plan</a> for 2025-2029</p></td>
 			      <td><p data-pm-slice="1 1 []">Science investment, science priorities, research, science advancements.</p></td>
-			      <td><p data-pm-slice="1 1 []">Ongoing</p></td>
+			      <td><p data-pm-slice="1 1 []"><a href="https://pspwa.box.com/s/q4o82adxgdrhytgfos122fk0coi5q8oz" target="new">Environmental Justice Assessment SWP 25-29</a></p></td>
 			      <td><p data-pm-slice="1 1 []"><a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-5c6ea7ae-f533-4ef8-9eae-2cff41a500a9">Other</a></p></td>
 		        </tr>
 			    <tr>
@@ -221,7 +222,7 @@ navSelected = 4;
 			<br>
 		<br>
 			
-<p class="last-update">Last updated: 10/25/24</p>
+<p class="last-update">Last updated: 03/28/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
