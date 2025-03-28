@@ -93,7 +93,7 @@ navSelected = 1;
               Additionally, we will align state and  federal programs and increase investments that support Puget Sound recovery and  Tribal and local priorities.</p>
             <h2><strong>Salmon Recovery and Restoration  Funding Opportunities</strong></h2>
             <p>We document funding  needs and, as possible, connect those with available funding opportunities related to salmon recovery and restoration.  We aim to increase coordination and collaboration and will work to connect Tribes,  LIOs, LEs, and other partners that might be working on similar projects or  pursuing the same funding opportunity.&nbsp;<br>
-              For more information,  reach out to our strategic funding coordinator, <a href="mailto:Sadie.normoyle@psp.wa.gov">Sadie Normoyle</a>.<strong></strong></p>
+              For more information, please email us at <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a>
             <h2><strong>Overcoming Funding Barriers </strong></h2>
             <p>We work in  collaboration with Tribes, LIO, and LEs to identify barriers that hinder  funding from reaching implementation. Our goal is to develop strategies to  address these barriers and support Tribes and local partners to secure  additional funding needed to implement our <a href="https://psp.wa.gov/2022AAupdate.php">Action Agenda</a> and <a href="https://psp.wa.gov/salmon-recovery-overview.php">Salmon Recovery Plan</a>.<br>
 				To learn about <a href="/funding-barriers.php">updates on funding barriers</a> or to request  more information, reach out to our Funding Barriers Strategist, <a href="mailto:jessica.reynolds@psp.wa.gov">Jessica Reynolds</a>.<strong></strong></p>
@@ -122,17 +122,16 @@ navSelected = 1;
             <h3>How do I connect with others who are interested in similar projects or  funding</h3>
             <h3>applications?</h3>
         <p>PS RAFT has a &ldquo;connections&rdquo; page where you  can register your interest in a particular funding opportunity and allow others  to contact you if they are interested as well.<br>
-              You can also email our strategic funding coordinator, Sadie at <a href="mailto:Sadie.normoyle@psp.wa.gov"><strong>Sadie.normoyle@psp.wa.gov</strong></a> to talk more about  your funding needs and how to connect with other entities with similar projects. </p>
+              You can also email us at <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a> to talk more about  your funding needs and how to connect with other entities with similar projects. </p>
             <h3>Can the Strategic Funding Team apply for funding on our behalf?            </h3>
             <p>No, while we can&rsquo;t  apply on behalf of an organization or group, we can assist with the application  process itself as well as accessing funding opportunities. </p>
             <h3>Does the Strategic Funding Team have its own funding opportunities?            </h3>
             <p>No, the Strategic  Funding Team does not currently have any funds that we award. You can find more  information about currently available and past funding opportunities with our <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a>. </p>
             <h2><strong>Contact</strong><strong>&nbsp;</strong></h2>
-            <p>If  you have any specific funding needs, please email <a href="mailto:Sadie.normoyle@psp.wa.gov">Sadie Normoyle</a>,  strategic funding coordinator, or if your funding needs have a specific  transportation nexus, please contact <a href="mailto:bebhinn.dechery@psp.wa.gov">Bebhinn Dechery</a>,  restoration and transportation funding strategist.</p>
-            <p>If  you have any other questions about the Strategic Funding Team or PS RAFT,  please email <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
+            <p>If  you have any questions about the Strategic Funding Team. PS RAFT, or any specific funding needs, please email <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 01/17/25</p>
+		<p class="last-update">Last updated: 03/28/25</p>
 
         <!-- InstanceEndEditable --> </div>
 		
