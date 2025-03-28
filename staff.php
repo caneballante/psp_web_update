@@ -165,9 +165,8 @@
 						<h5>Bebhinn Dechery</h5>
 						<p>Restoration and Transportation Funding Strategist<br>
 							360.870.1467 | <a href="mailto:bebhinn.dechery@psp.wa.gov">bebhinn.dechery@psp.wa.gov</a></p>
-		<h5>Sadie Normoyle</h5>
+		<h5>VACANT</h5>
 						<p>Strategic Funding Coordinator<br>
-						360.628.7476 | <a href="mailto:sadie.normoyle@psp.wa.gov">sadie.normoyle@psp.wa.gov</a>                        
 						<h5>Heeju jung</h5>
                         <p>Hershman Fellow <br>
         564.250.0979 | <a href="mailto:heeju.jung@psp@psp.wa.gov">heeju.jung@psp.wa.gov</a></p>
@@ -378,7 +377,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 03/25/25</p>
+	<p class="last-update">Last updated: 03/27/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
