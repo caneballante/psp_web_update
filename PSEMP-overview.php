@@ -148,7 +148,7 @@
 			<p>Information and products coming out of the PSEMP network provides the relevant, credible, and timely information needed to support adaptive management of recovery efforts. The four major elements of the Adaptive Management Framework are described in this <a href="images/PSEMP/2018-psemp-figures-1.jpg" target="_blank">image</a>. More information about PSEMP’s Adaptive Management roles can be found in the <a href="https://pspwa.box.com/s/xf3swog4yshyiylrpcwx74owvy8yscum" target="new">PSEMP Strategic Plan</a>.</p>
 			<h4>Communication</h4>
 			<p>The recently produced  <a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke" target="new">PSEMP Communications Strategy</a></li> lays the groundwork for improving access to, and use of, credible information to guide Puget Sound recovery decisions.  Our primary communication goals are to foster dialogue and information sharing within the monitoring and assessment community and to those who are making decisions on the ground, in policy and in funding decisions.  </p>
-			<p class="last-update">Last updated: 01/27/25</p>
+			<p class="last-update">Last updated: 04/03/25</p>
 			
 			
 <!-- InstanceEndEditable --> </div>
@@ -177,7 +177,7 @@
 					<li role="presentation"> <a href="https://pspwa.box.com/s/8yiq86nl46w3sea0jdtjktnku7vs1qsk" target="new">Diseases Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd" target="new">Forage Fish and Food Webs Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub" target="new">Freshwater Work Group</a></li>
-					<li role="presentation"> <a href="https://pspwa.box.com/s/vyx3oq4ilqtz2d0te8sj3we14fo03blz" target="new">Marine Birds Work Group</a></li>
+					<li role="presentation"> <a href="https://psemp-marinebirdsworkgroup-wa-psp.hub.arcgis.com/" target="new">Marine Birds Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/ltd6c5kmlv0g9kgzce4n571anvk09kef" target="new">Marine Mammals Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/5lq9cfr18b13p7zno86n9yor2uin3vra" target="new">Marine Waters Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/1cjl3znjgx9bplmrk7h2qhpqjw52zndy" target="new">Modeling Work Group</a></li>
