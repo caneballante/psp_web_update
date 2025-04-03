@@ -86,6 +86,7 @@
 		<div class="col-sm-3 padding-20-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> Salmon recovery</a></div>
+			<div class="padding-5-bottom"><a href="https://pssalmonhub.wa.gov/"> <span class="new-red">NEW! </span>Salmon recovery Hub</a></div>
 			<div class="padding-5-bottom"><a href="PSAR.php">Puget Sound Acquisition and Restoration (PSAR)&nbsp;program</a></div>
 			<div class="padding-5-bottom"><a href="https://pspwa.box.com/s/2k2bkn5uivi7yoxchjsnn4fn8knzs8v2"><span class="new-red">NEW! </span>Climate Commitment Act and Puget Sound funding and investments fact sheet</a></div>
 			<div class="padding-5-bottom"><a href="/human-wellbeing.php"><span class="new-red">NEW! </span>Human Wellbeing</a></div>
@@ -233,8 +234,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/NavigatingDepthscrop.jpg"  alt="Screenshot from the Puget Sound Geographic Program video that shows a boat moving through Puget Sound with a semi-transparent play button superimposed on the screenshot to indicate this is a video"/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2024/05/17/navigating-the-depths/">The Cetacean Desk's marine mission for the Southern Resident killer whales.</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/vs-salmon-Chinook_PNNL-crop.png"  alt="Chinook salmon moving through the water."/> <strong>SALMON RECOVERY HUB</strong><br>
+						<a href="https://pssalmonhub.wa.gov/">An interactive platform to centralize and share vital information about Chinook salmon recovery efforts in the Puget Sound.</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
