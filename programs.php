@@ -81,10 +81,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<h2 class="margin-0-top">Executive Management Team</h2>
 			<p>The Executive Management Team is responsible for the strategic leadership and management oversight of the Puget Sound Partnership. The Executive Management Team includes the Executive Director, Executive Assistant, Deputy Director, Special Assistant to the Director, Legislative Policy Director, Special Assistant for Federal Affairs, Equity and Environmental Justice Manager, and Chief Operating Officer.			</p>
-			<button type="button" class="collapsible"><h2>External Operations</h2></button>
-<div class="content">
-  <p>The External Operations Division consists of the Boards, Salmon Recovery, Communications, Ecosystem Recovery, Implementation, and Science and Evaluation programs.</p>
-</div>
+			
 			<h2>EXTERNAL OPERATIONS</h2>
 			<p>The External Operations Division consists of the Boards, Salmon Recovery, Communications, Ecosystem Recovery, Implementation, and Science and Evaluation programs. </p>
 		
