@@ -177,6 +177,7 @@
 		</ul>
 		<h4>Key Documents and Programs for Puget Sound Salmon Recovery</h4>
 		<p><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/puget_sound_chinook_recovery_plan.html"><strong>The Puget Sound Salmon Recovery Plan</strong></a> includes strategies and actions for habitat protection and restoration, hatchery management, and harvest management and is organized as a regional chapter (Volume I), 16 watershed-specific chapters, and a nearshore chapter (Volume II). The original plan included 14 chapters, but since 2005, the Skokomish and Elwha chapters have been completed.</p>
+			<p><a href="https://pssalmonhub.wa.gov/"><strong>The Salmon Recovery Hub</strong></a> is an innovative, interactive online platform designed to centralize and share vital information about Chinook salmon recovery efforts in the Puget Sound region.</p>
 		<p><strong><a href="salmon-recovery-watersheds.php">Local Salmon Recovery Chapters</a></strong><strong> </strong>are developed from individual Puget Sound watersheds and make up Volume II of the Puget Sound Recovery Plan. These chapters provide strategies to accelerate salmon habitat recovery locally and recommends specific and achievable projects, programs, and policies that can be implemented.<strong></strong></p>
 		<p><a href="https://pspwa.box.com/v/PublicIS-Chinook"><strong>The Chinook Implementation Strategy</strong></a> was developed by many key salmon recovery partners in the Puget Sound including: the Partnership, the Tribal Management Conference, and Puget Sound Salmon Recovery Council. The plan sets recovery priorities and actions for the Action Agenda and guides local planning for development and implementation of watershed recovery plans. </p>
 		<p><a href="https://pspwa.box.com/s/6e4u4wbdkmcqh7v4nj762n50n3v0douu"><strong>Four Year Work Plans</strong></a> are developed every biennium by lead entities to describe each lead entity's accomplishments during the previous year, identify the current status of recovery actions, and to propose future actions and any changes in recovery strategies in the next 4 years necessary to implement the local salmon recovery chapters. Technical and policy reviews of each watershed's four-year work plan update are conducted by regional experts to evaluate the consistency and appropriate sequencing of actions with the Puget Sound Salmon Recovery Plan, as well as to identify support at both the watershed and regional scale for overcoming barriers to implementation. </p>
@@ -184,7 +185,7 @@
 		<p>The <a href="http://www.psp.wa.gov/PSAR.php"><strong>Puget Sound Acquisition and Restoration</strong></a> <strong>(PSAR)</strong> program has contributed funding to projects that restore and protect salmon habitat throughout Puget Sound. To date, PSAR has invested over $200 million in project which have protected more than 9,600 acres, treated more than 2,700 acres of estuary habitat, and restored in-stream and riparian habitat in and along thousands of river miles.</p>
 		<p><a href="https://stateofsalmon.wa.gov/puget-sound/"><strong>State of the Salmon in Watersheds</strong></a><strong> </strong>is prepared by the Governor's Salmon Recovery Office every two years to report on the status of salmon and habitat across the state. </p>
 			
-			<p class="last-update">Last updated: 5/21/24</p>
+			<p class="last-update">Last updated: 04/03/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
@@ -194,7 +195,8 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-						<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
+				<li role="presentation"><a href="https://pssalmonhub.wa.gov/">Salmon Recovery Hub</a></li>		
+				<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/shared/static/k0xpbegydhwww61vq3xzjc36y3fawfwx.pdf">Puget Sound Nearshore Chinook Salmon Strategies</a></li>
 				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/k50wb4xz16sbbzfjz8zcutfrqnfvhdc3">Lead Entity guidance on Chinook salmon and climate change</a></li>
