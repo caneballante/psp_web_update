@@ -140,17 +140,7 @@
 						<p>Salmon Recovery Coordinator<br>
 							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
 						
-						<!--PUGET SOUND RECOVERY INTEGRATION TEAM-->
-						<h3 class="padding-10-top">PUGET SOUND RECOVERY INTEGRATION TEAM</h3>
-						<h5>Laura Rivas</h5>
-						<p>Puget Sound Recovery Integration Manager<br>
-							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a>
-		</p>
-			
-					
-						
-						<!--STRATEGIC FUNDING PROGRAM-->
-						</p>
+						<!--PUGET SOUND RECOVERY INTEGRATION TEAM--><!--STRATEGIC FUNDING PROGRAM-->
 		<h3 class="padding-10-top">Strategic Funding Program</h3>
 						<h5>Jennifer Grimm</h5>
 						<p>Strategic Funding Manager<br />
@@ -266,10 +256,12 @@
 						<h5>Scott Redman</h5>
 						<p> Program Director<br />
 							360.791.2879 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
-						<h5>VACANT</h5>
-						<p>Assistant Science Director<br />
+						<h5>Laura Rivas</h5>
+						<p>Assistant Science Director<br>
+							360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a>
+		</p>
 						</p>
-						<h5>Katrina Radach</h5>
+		<h5>Katrina Radach</h5>
 						<p> PSEMP Manager<br/>
 						360.764.0272 | <a href="mailto:katrina.radach@psp.wa.gov">katrina.radach@psp.wa.gov</a></p>  
 						<h5>Hannah Mittelstaedt</h5>
@@ -377,7 +369,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 03/27/25</p>
+	<p class="last-update">Last updated: 04/04/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
