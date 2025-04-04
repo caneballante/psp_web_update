@@ -84,7 +84,7 @@ navSelected = 1;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			<div class="highlightbox margin-0-top margin-20-bottom">
-			  <p>As a first step in the Action Agenda update process, Puget Sound Partnership and recovery partners are hosting <a href="https://pspwa.box.com/s/lmcobgdmya9a7dusrdelbrl7ak1w22w6" target="new">‘Evaluate and Learn’</a> workshops to refine the 2022-26 Action Agenda content. These workshops will be a rapid assessment of what has or has not been achieved for Action Agenda recovery topics and will inform the first draft of the 2026-30 Action Agenda. For more information, see the <a href="https://pspwa.box.com/s/omxlzv0uusa39f274pf7ter5sdlp3sdp" target="new">workshop agenda</a> for all Topic updates or <a href="https://forms.office.com/pages/responsepage.aspx?id=eCgFR53Gc0uxesXQDXVJuPeyypfKOR5Gj2Gz6aPXBGpUMVBXSjg5Q1pSRE0xR0xDVzk0TkpXWVZNUS4u&route=shorturl" target="new">register</a> to attend a workshop.</a></p>
+			  <p>In March 2025, Puget Sound Partnership staff and recovery partners completed a round of public workshops to review and refine content from the 2022–26 Action Agenda. Thank you to everyone who participated! We are developing the first draft of the 2026–30 Action Agenda based on feedback from those workshops. Check the timeline below to see where we are in the process.</p>
 		</div>
 		<h2 class="margin-0-top">&nbsp;</h2>
 		<h2 class="margin-0-top">We are updating the Puget Sound Action Agenda </h2>
@@ -194,7 +194,7 @@ navSelected = 1;
        
     
         <!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 01/27/25</p>
+		<p class="last-update">Last updated: 04/04/25</p>
 
         <!-- InstanceEndEditable --> </div>
 		
