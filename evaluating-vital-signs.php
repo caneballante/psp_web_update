@@ -88,16 +88,7 @@
             <p>Vital Signs and indicators are core to the <a href="https://www.psp.wa.gov/PSEMP-overview.php">Puget Sound Ecosystem Monitoring Program (PSEMP)</a>. Thanks to both long-standing and new monitoring  programs from throughout PSEMP, we are able to report data contributed by  dozens of people from state and federal agencies, local jurisdictions, tribes,  not-for-profit environmental organizations, academia, and consultants. The  Partnership collaborates with expert teams who contribute their monitoring results  and topical work groups in PSEMP who review the indicators and synthesize  information to produce high-level messaging for each Vital Sign. As a means of  supporting indicator reporting, the Partnership funds several projects through  a biennial solicitation process. Information about the <a href="https://www.psp.wa.gov/monitoring-accelerate-recovery.php">Monitoring to  Accelerate Recovery solicitation is available at this link</a>. </p>
             <h3><strong>THE VITAL SIGNS are FOR communication and more </strong><strong> </strong></h3>
             <p>The Vital Signs and their indicators are  primarily a communication tool to help draw attention to the condition of Puget  Sound. They are part of a larger suite of <a href="https://pspwa.box.com/s/o23f9meiyo2qeyn8777r8ownzj79k0zc">indicators</a>, coordinated by the Partnership, that  tell the story of Puget Sound recovery progress and serve as a shared  monitoring and evaluation system for the recovery effort. The <a href="https://pspwa.box.com/s/o23f9meiyo2qeyn8777r8ownzj79k0zc">Puget Sound Indicators</a> include <a href="https://pspwa.box.com/s/10utqrjbcj138nf5oejl1ogjxihvky4a">Vital Sign Indicators</a> and <a href="https://pspwa.box.com/s/h7u8zka98s5ru9ltmbu5jz2gpu07rvxv">Action Agenda Progress Indicators</a>. Together  they describe the collective progress desired for Puget Sound recovery (Vital  Sign Indicators) and the actions that we need to do to make progress  (Action Agenda Progress Indicators). </p>
-            <h3><strong>&nbsp;</strong></h3>
-            <h3><strong>RESOURCES </strong></h3>
-        <ul class="bullet-size-fix" type="disc">
-              <li><a href="https://pspwa.box.com/s/10utqrjbcj138nf5oejl1ogjxihvky4a">Fact sheet</a>&nbsp;and&nbsp;<a href="https://pspwa.box.com/s/rqn16bdt9gr6r7gypb399ugv5mlrmidi">full report</a> that describes how the 2020 Vital Signs revisions </li>
-              <li><a href="https://pspwa.box.com/v/RevisedVSIndicators">List of Vital Signs and indicators in a spreadsheet form</a></li>
-              <li><a href="https://pspwa.box.com/s/mv0udt5jldtqlgjrvdr9szoc79g7kmil">Targets</a></li>
-              <li><a href="https://pspwa.box.com/s/a74utmwux962n3khpaf5zl4njocl10id">Vital Signs visuals</a></li>
-              <li><a href="https://www.psp.wa.gov/PSEMP-resources.php">Projects funded by the Partnership to support indicators and other aspects of monitoring</a></li>
-			<li><a href="https://pspwa.box.com/s/fjib71hve2kcm9h9ldr6bmeepb8kijyt">Equity Guidebook: A framework and tools to help the monitoring community apply an equity lens to the Puget Sound Vital Signs</a></li>
-            </ul>
+            <h3><strong>&nbsp;</strong>            </h3>
             <div>
               <div> </div>
               <div> </div>
