@@ -107,7 +107,7 @@
               Read more about the <a href="https://psp.wa.gov/HEAL.php" target="new">Partnership&rsquo;s HEAL Act</a> program and implementation.<br>
               <a href="https://pspwa.box.com/s/3q34inra9pi56askq35r7xn4mlkkqo3x" target="new">HEAL Act Tribal Government Engagement  Guide</a>
 				<br>
-           <a href="https://pspwa.box.com/s/qjskpfh3ip1zoa0xnktws8z3ykplj5k4" target="new">HEAL Act Native American Community  Engagement Guide</a></br>
+           <a href="https://pspwa.box.com/s/qjskpfh3ip1zoa0xnktws8z3ykplj5k4" target="new">HEAL Act Native American Community  Engagement Guide</a>
 			<br>
               <a href="https://pspwa.box.com/s/78p224b2rqgd1mwvujy37sb6jo1b554x" target="new">HEAL Act Tribal Definitions Appendix</a><br></p><h2>Map of reservations</h2>
               <p>The map below provides a list of the 19 federally recognized tribes and the  Treaty ceded areas in the Puget Sound. Select a tribe from the list on the left to learn more. </p>
