@@ -105,8 +105,9 @@
             <p>The objective of the HEAL Act is to reduce environmental and health  disparities throughout Washington State and improve the health of all  Washington State residents. The Washington State Legislature passed Senate Bill  5141, <a href="http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?q=20210624103236">HEAL Act</a>, to be effective on July 25, 2021. </p>
             <p> Key priorities of the HEAL Act include reducing exposure to  environmental hazards within Tribal lands, ensuring Tribal sovereignty and  rights in environmental justice (EJ), and eliminating environmental and health  disparities in disadvantaged, vulnerable, and low-income populations.<br>
               Read more about the <a href="https://psp.wa.gov/HEAL.php" target="new">Partnership&rsquo;s HEAL Act</a> program and implementation.<br>
-              <a href="https://pspwa.box.com/s/3q34inra9pi56askq35r7xn4mlkkqo3x" target="new">HEAL Act Tribal Government Engagement  Guide</a><br>
-              <a href="https://pspwa.box.com/s/qjskpfh3ip1zoa0xnktws8z3ykplj5k4" target="new">HEAL Act Native American Community  Engagement Guide</a></br>
+              <a href="https://pspwa.box.com/s/3q34inra9pi56askq35r7xn4mlkkqo3x" target="new">HEAL Act Tribal Government Engagement  Guide</a>
+				<br>
+           <a href="https://pspwa.box.com/s/qjskpfh3ip1zoa0xnktws8z3ykplj5k4" target="new">HEAL Act Native American Community  Engagement Guide</a></br>
 			<br>
               <a href="https://pspwa.box.com/s/78p224b2rqgd1mwvujy37sb6jo1b554x" target="new">HEAL Act Tribal Definitions Appendix</a><br></p><h2>Map of reservations</h2>
               <p>The map below provides a list of the 19 federally recognized tribes and the  Treaty ceded areas in the Puget Sound. Select a tribe from the list on the left to learn more. </p>
