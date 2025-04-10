@@ -104,9 +104,11 @@
             <h2>Healthy Environment for All (HEAL) Act </h2>
             <p>The objective of the HEAL Act is to reduce environmental and health  disparities throughout Washington State and improve the health of all  Washington State residents. The Washington State Legislature passed Senate Bill  5141, <a href="http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?q=20210624103236">HEAL Act</a>, to be effective on July 25, 2021. </p>
             <p> Key priorities of the HEAL Act include reducing exposure to  environmental hazards within Tribal lands, ensuring Tribal sovereignty and  rights in environmental justice (EJ), and eliminating environmental and health  disparities in disadvantaged, vulnerable, and low-income populations.<br>
-              Read more about the <a href="https://psp.wa.gov/HEAL.php">Partnership&rsquo;s HEAL Act</a> program and implementation.<br>
-              <a href="https://pspwa.box.com/s/3q34inra9pi56askq35r7xn4mlkkqo3x">HEAL Act Tribal Government Engagement  Guide</a><br>
-              <a href="https://pspwa.box.com/s/qjskpfh3ip1zoa0xnktws8z3ykplj5k4">HEAL Act Native American Community  Engagement Guide</a></p><h2>Map of reservations</h2>
+              Read more about the <a href="https://psp.wa.gov/HEAL.php" target="new">Partnership&rsquo;s HEAL Act</a> program and implementation.<br>
+              <a href="https://pspwa.box.com/s/3q34inra9pi56askq35r7xn4mlkkqo3x" target="new">HEAL Act Tribal Government Engagement  Guide</a><br>
+              <a href="https://pspwa.box.com/s/qjskpfh3ip1zoa0xnktws8z3ykplj5k4" target="new">HEAL Act Native American Community  Engagement Guide</a></br>
+			<br>
+              <a href="https://pspwa.box.com/s/78p224b2rqgd1mwvujy37sb6jo1b554x" target="new">HEAL Act Tribal Definitions Appendix</a><br></p><h2>Map of reservations</h2>
               <p>The map below provides a list of the 19 federally recognized tribes and the  Treaty ceded areas in the Puget Sound. Select a tribe from the list on the left to learn more. </p>
               <p>A full screen version of the map can be viewed <a href="https://experience.arcgis.com/experience/98dc152906ec478f9256dcc83093c63d/" target="new">here</a>.</p> 
 			  <iframe src= "https://experience.arcgis.com/experience/98dc152906ec478f9256dcc83093c63d/" width="100%" height="1000" alt="Map of Tribal Reservations and Draft Treaty Ceded Areas of Puget Sound">
@@ -119,7 +121,7 @@
             </div>
 			</div>
 			<h2 class="margin-0-top">&nbsp;</h2>
-			<p class="last-update">Last updated: 03/06/25</p>
+			<p class="last-update">Last updated: 04/10/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
