@@ -82,78 +82,20 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->		
 			
-			<h2 class="margin-0-top">2/21/23 - Puget Sound Scientific Research - OPEN UNTIL MAY 22, 2023</h2>
-				<p><strong>Learn more: <a href="https://pspwa.box.com/s/fuvl3x3hijxak9agnb0x1dyqxa6to427" target="new">Request for Information</a></strong></p>
-				<p><strong>Timeline:</strong> Responses are due by noon on May 22, 2023.</p>
-				<p><strong>Funding amount:</strong> $1,400,000, split between 5-13 projects. Project period is August 2023 - June 30, 2025</p>
-				<p><strong>Informational webinar:</strong> March 30, 10 - 11 a.m. <a href="https://us06web.zoom.us/meeting/register/tZ0ocuysrDIjH9RJCENLQjWK940NoOmK__Pp" target="new">Registration is required</a>.</p>
-				<p><strong>Details:</strong> Respondents can use one of two project types—Integrated Social Ecological Systems Projects or Targeted Research projects—to advance one or more Priority Science Work Actions.  Priority Science Work Actions cover a range of topics that cover human-biophysical interactions, effectiveness of recovery interventions, ecological conditions and effects, and science-based decision support.</p>
+			<h2 class="margin-0-top">21/3/25 - Puget Sound Scientific Research for the 2025-2027 State Biennium - OPEN UNTIL APRIL 11, 2025</h2>
+				<p><strong>Learn more: <a href="https://pspwa.box.com/s/gj69xc1khnwfwf01n1ue7lyc3knsfv6n" target="new">Request for Information</a></strong></p>
+				<p><strong>Timeline:</strong> Responses are due by noon on April 11, 2025.</p>
+				<p><strong>Funding amount:</strong> $1,300,000 to support up to 15 projects. Project  period is July 2025 - June 30, 2027</p>
+				<p><strong>Informational webinar:</strong> <a href="https://pspwa.box.com/s/778oa3i1hyphzg6koa1xzatd6lp24ra3" target="new">RFI 2025-182 Informational Webinar Recording</a>.</p>
+			<p><strong>Question & Answer Amendments:</strong><strong><a href="hhttps://pspwa.box.com/s/iqzebm731gsgt0e6pqre6zejqgwa6tm2"> Amendment  #1 Q&amp;A,</a><a href="https://pspwa.box.com/s/za2f9z3pamkmts40f7azjvztt2d3rcl5">Amendment  #3 Q&amp;A</a></strong>
+			<p><strong>Details:</strong> Respondents can use one of two project  types—Integrated Social Ecological Systems Projects or Targeted Research  projects—to advance one or more Priority Science Work Actions. Priority Science  Work Actions cover a range of topics such as climate change impacts, pollution  and toxicology, land use and ecosystem management, and effectiveness.</p>
 				<br><br>
 
 			<h2>1/23/2023 - Monitoring to Accelerate Recovery - Selected Proposals Announced</h2>
 	<p><strong>Learn more about the apparent successful proposals here: <a href="/monitoring-accelerate-recovery.php">Monitoring to Accelerate Recovery webpage</a></strong></p>
 	
 	<br><br>
-	
-<h2>12/22/2022 - Puget Sound Salmon Science Investigations - OPEN UNTIL MARCH 13, 2023</h2>
-	<p><strong>Learn more: <a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">Request for Information</a></strong></p>
-	<p><strong>Funding amount: </strong>Up to $2 million will be awarded for projects up to $400,000 each. Up to 15 projects will be supported during the funding period from July 2023 - June 30, 2025.</p>
-	<p><strong>Informational webinar:</strong> A recording of the January 31, 2023 webinar is <a href="https://pspwa.box.com/s/onojhem8jaw9aieffv7yvenjhvj18iwb" target="new">available here.</a> Q&amp;A #1 is <a href="https://pspwa.box.com/s/8s40cj2kji3rpqqggnlc7pv3dmv651em" target="new">available here</a> and Q&amp;A #2 is <a href="https://pspwa.box.com/s/0498lkps2abos6w5jupq9s0wtpn7tbgw" target="new">available here.</a></p>
-	<p><strong>Details: </strong>This is a <a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">Request for Information</a> for collaborative proposals to conduct salmon scientific investigations that will advance Puget Sound salmon recovery.</p>
-	
-	<p>Project proposals must align with one or more priority information needs: </p>
-			<ol class="bullet-size-fix">
-				<li>Relationships between salmon populations, salmon habitats, and recovery actions;</li>
-				<li>Marine survival and marine food webs;</li>
-				<li>Salmon production potential across landscapes; and</li>
-				<li>Human dimensions of salmon recovery and Indigenous knowledge.</li>
-			</ol>
-			
-	<p>&nbsp;</p>
-			
-<h2>Upcoming Funding Overview</h2>
-			
-			
-<h3>Strategic Initiative Leads Requests for Proposals (Strategic Initiative Leads Affiliation)</h3>
-	<ul class="bullet-size-fix">
-	<li><strong>Funding content focus: </strong>These RFPs will solicit for proposals to advance our investment priorities, described in the joint SILs Investment Plan for FFY2021-2022, that were designed to protect and restore habitat, water quality, and harvestable shellfish beds and to result in a more resilient, equitable, and sustainable future for Puget Sound communities and ecosystems.</li>
-	<li><strong>Estimated or determined timeline: </strong>There are three separate timelines depending on the SIL of interest.</li>
-		<ul class="bullet-size-fix">
-			<li><strong>Shellfish SIL RFP: </strong>Coming winter 2023 for proposals supporting Investment Priority D to integrate shellfish bed classification priorities in wastewater facility function, planning, and/or upgrades.</li>
-			<li><strong>Stormwater SIL RFP: </strong>Multiple grant opportunities coming spring 2023 including Chemical Action Plan Implementation, Research for Chemicals of Emerging Concern, and Exploring a Toxics and Stormwater Infrastructure Fund.  </li>
-			
-		</ul>
-		<li><strong>Estimated or determined funding amount:</strong></li>
-		<ul class="bullet-size-fix">
-			<li><strong>Shellfish SIL RFP: </strong>Up to $1 million for proposals between $100,000 to $700,000 for up to 4 years. </li>
-			<li><strong>Stormwater SIL RFP: </strong></li>
-				<ul class="bullet-size-fix">
-					<li>Up to $1.5 million for proposals up to $500,00 for Chemical Action Plan Implementation </li>
-					<li>Up to $1 million for proposals between $200,000 and $750,000 for Research for Chemicals of Emerging Concern</li>
-					<li>Up to $300,000 for Explore a Toxics and Stormwater Infrastructure Fund</li>
-				</ul>
-			
-		</ul>
-	<li><strong>Additional background information: </strong>More information about the funding is available on their <a href="https://pugetsoundestuary.wa.gov/rfp/">website</a>.</li>
-	</ul>
-
-<h3>Washington Sea Grant (WSG) 2023 Request for Proposals</h3>
-	<ul class="bullet-size-fix">
-	<li><strong>Funding content focus: </strong>Funded projects will contribute to WSG and state priority information needs by advancing knowledge in one of the four WSG focus areas: environmental literacy and workforce development, resilient communities and economies, healthy coastal ecosystems, and sustainable fisheries and aquaculture. </li>
-	<li><strong>Estimated or determined timeline: </strong>The request for proposals will be released in early January 2023. Preliminary proposals are due February 16, 2023 and full proposals are due May 4, 2023. </li>
-	<li><strong>Estimated or determined funding amount: </strong>Approximately $2 million will be awarded during the two-year funding cycle.  </li>
-	<li><strong>Additional background information: </strong>More information can be found on the <a href="https://wsg.washington.edu/funding/apply-for-funding/" target="new">WSG website.</a></li>
-	</ul>
-			
-<h3>Salmon Recovery Funding Board (SRFB) Monitoring Program (SRFB, Lead Entities, and Watersheds Affiliation)</h3>
-	<ul class="bullet-size-fix">
-	<li><strong>Funding content focus: </strong>Regional monitoring projects must address high priority information needs or data gaps identified within a recovery plan; associated regional research, monitoring, and evaluation plan; or lead entity strategy. Regional monitoring projects should complement, enhance, or leverage ongoing monitoring efforts. Regional monitoring projects must be consistent or compatible with data collection, analysis, and management methods and protocols being used in the region, and shall, to the maximum extent practicable, be consistent or compatible with methods and protocols in common use throughout the state.</li>
-	<li><strong>Estimated or determined timeline: </strong>Applications are through the local lead entity and will follow that specific timeline. Applications are as early as January 2022 in some watersheds and as late as May in others. Funding approval will be by SRFB September 2023.</li>
-	<li><strong>Estimated or determined funding amount: </strong>Funding amounts are to be determined but previously have been $350,000 for the state.  </li>
-	<li><strong>Additional background information: </strong>More information can be found in the <a href="https://rco.wa.gov/wp-content/uploads/2019/05/SAL-Manual18.pdf" target="new">Recreation and Conservation Office’s Manual 18.</a></li>
-	</ul>
-			
-	<p class="last-update">Last updated: 5/26/23</p>
+	<p class="last-update">Last updated: 4/08/25</p>
 
  
 			 
