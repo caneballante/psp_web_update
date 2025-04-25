@@ -85,15 +85,14 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">Puget Sound Budget Interactive Infographic</h2>
 			
-			<p>After prioritizing state agency budget requests related to Puget Sound recovery, the Partnership tracks these budget requests through the State’s budgeting process. The Partnership also identifies additional budget items added by the Governor and legislature to their budget proposals. All relevant budget items for the current budget process are included in the below infographic. Use the arrows at the bottom of the infographic to view past budgets.</p>
-<p>In the below interactive graphic, each figure can be interacted with by clicking on different elements of the graphic. Try selecting a budget type (op/cap) in the pie chart, a request in the list, or an agency in the bar graph. A spreadsheet view of the data is also available below.</p>
+			<p>"Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. After prioritizing agency requests, the Partnership tracks all budget items through the State's budgeting process. The Partnership also identifies additional budget items added by the Governor and legislature that are relevant to Puget Sound recovery. All relevant budget items for the most recent budget process are included in the below infographic and spreadsheet. The infographic and spreadsheet contain the same information but provide different formatting to suit the preferences of different users. Both visuals are interactive and allow filtering by budget type, agency, Action Agenda topic area, and more.</p>
 		
 			
 			<br>
 			
 			<iframe title="BudgetPBI_2022 - Page 1" width="1000" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiNTFmOTI3ZDAtNzNhZi00ZmFlLTgxNzQtMzg3MTAxMWI1OGQ3IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br><br>
 			
-			<iframe WIDTH="1000" HEIGHT="700" FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=547d834312234add871f9a4b899d5e6e"></IFRAME><br>
+			<iframe title="PSBudgetSpreadsheet" width="600" height="373.5" src="https://app.powerbigov.us/view?r=eyJrIjoiYTQwNjBjYjItN2MzYS00NzQ0LWE4ZjktOWY1ZDY5Y2FhZGM3IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br>
 			
 			<h2>Prioritizing State Agency Budget Requests</h2>
 			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. The Partnership shares this list with the Office of Financial Management, relevant legislative committee members and staff, and our partners. As the Governor and legislators release their respective budget proposals, the Partnership updates information about the Puget Sound Budget to reflect the most recent information.</p>
@@ -118,7 +117,7 @@
 		</div>
 			
 			
-			<p class="last-update">Last updated: 11/05/24</p>
+			<p class="last-update">Last updated: 04/25/25</p>
 			
 		
 			
