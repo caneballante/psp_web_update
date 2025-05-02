@@ -61,6 +61,12 @@ a[href^="http"] {
 .height50 {
 	height: 50px;
 }
+.width300 {
+	width: 300px;
+}
+.width400 {
+	width: 400px;
+}
 .orange-outline {
 	border: solid 2px #E99348;
 }
