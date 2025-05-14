@@ -83,14 +83,14 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 		<h3>Purpose</h3>
-			<p>The Puget Sound Partnership (Partnership) funds projects every biennium that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects are funded via a formal project solicitation process. All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) strategic plan to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication to improve access to credible information to guide recovery decisions.</p>
-			
-			<p>All of the project products funded by this solication process are accessible on the <a href="/PSEMP-resources.php">PSEMP Products webpage</a>.</p>
+			<p>The  Puget Sound Partnership provides funding every two years for projects that  address important monitoring needs to support the recovery of Puget Sound.  Projects are funded through a formal application process. </p>
+            <p>All  projects are expected to support the objectives of the Puget Sound Ecosystem  Monitoring Program (PSEMP) strategic plan to increase collaboration, support  adaptive management of Puget Sound recovery efforts, and improve how  information is shared and used to guide recovery decisions.</p>
+        <p>All of the project products funded by this solication process are accessible on the <a href="/PSEMP-resources.php">PSEMP Products webpage</a>.</p>
 		
 		<hr>
-		<h3>Projects funded in 2023-2025</h3>
-		<p>For the 2023-25 biennium, the Puget Sound Partnership (Partnership) requested project proposals that address priority monitoring information needs to inform and accelerate recovery of Puget Sound under <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">the Monitoring to Accelerate Recovery Request for Information</a> (RFI #2023-163) to allocate up to $750,000.        
-        <p>We are pleased to announce the following six  successful projects:</p>
+		<h3>Projects funded in 2025-2027</h3>
+		<p>For the  2025-27 funding cycle, the Puget Sound Partnership requested project proposals  through the <em>Monitoring to Accelerate Recovery Request for  Information&nbsp;(RFI #2025-175).</em> The goal was to fund projects that  address important monitoring needs help speed up the recovery of Puget Sound.        
+		<p>We are pleased to announce the following six  successful projects:</p>
         <table class="table-responsive table-condensed table-bordered">
 					<thead>
 						<tr>
@@ -139,8 +139,7 @@
 					</tr>
 					</tbody>
 				</table><br></p>
-        <p>We would like to thank the Puget Sound Ecosystem Monitoring Program (PSEMP) Steering Committee members, PSEMP Work Group Leads, and Partnership staff colleagues who contributed their time and perspective as members of the Evaluation Panel.</p>
-                <p>We are excited about this newest cohort of projects and look forward to working with all the project teams in implementing the projects!</p>
+        <p>We would like to thank the PSEMP  Steering Committee members and Puget Sound Partnership staff colleagues who shared  their time and perspective as members of the Evaluation Panel. We are excited  about this newest group of projects and look forward to working with all the  project teams to bring them to life.</p>
         <hr>
 		<h3>Projects funded in 2023-2025		</h3>
 		<p>Monitoring to Accelerate  Recovery Projects for July 2023-June 2025.</p>
