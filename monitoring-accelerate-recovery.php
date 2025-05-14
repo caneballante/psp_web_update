@@ -147,9 +147,9 @@
 		<table class="table-responsive table-condensed table-bordered">
 		  <tbody>
 		    <tr>
-		      <th width="417">Project title</th>
-		      <th width="385">Project team</th>
-		      <th width="73">Category</th>
+		      <th>Project title</th>
+		      <th>Project team</th>
+		      <th>Category</th>
 	        </tr>
 		    <tr>
 		      <td><p class=psemp-mar-font>Developing groundfish and benthic  invertebrate Vital Sign indicators for Puget Sound using bottom trawl survey  data spanning 36 years.</p></td>
