@@ -144,7 +144,7 @@
         <hr>
 		<h3>Projects funded in 2023-2025		</h3>
 		<p>Monitoring to Accelerate  Recovery Projects for July 2023-June 2025.</p>
-		<table width="897" border="1">
+		<table class="table-responsive table-condensed table-bordered">
 		  <tbody>
 		    <tr>
 		      <th width="417">Project title</th>
