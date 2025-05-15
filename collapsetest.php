@@ -97,12 +97,12 @@
   </div>
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingTwo">
-      <div>
-		<h4 class="panel-title">
-			<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+     	<div class="flexme">
+			<h4 class="panel-title">
+				<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 			  Collapsible Group Item #2
-			</a>
-		  </h4>
+				</a>
+		  	</h4>
    		</div>
 	</div>
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">

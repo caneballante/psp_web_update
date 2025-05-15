@@ -51,6 +51,10 @@ a[href^="http"] {
 	background: none !important;
 	padding-left: 0px!important;
 }
+.flexme {
+	display: flex;
+}
+
 /*created this to make some email addresses smaller to fit in a table on the lead entities page*/
 .height {
 	height: 100%;
