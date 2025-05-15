@@ -81,79 +81,111 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox margin-0-top margin-20-bottom"><h3>Announcement</h3>  
-				<p>The Puget Sound Partnership is pleased to announce the <a href="https://pspwa.box.com/s/kym5rd06d3afjdmy6ey16hteyyq7cjyw" target="new">Monitoring to Accelerate Recovery Request for Information</a> for collaborative proposals to address priority information needs to support and accelerate the recovery of the Puget Sound ecosystem.     </P>
-				<p>All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan which aims to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication and access to credible information that guides recovery decisions. As an implementing agency of Washington State&rsquo;s Healthy Environment for All (HEAL) Act, the Partnership encourages respondents to submit proposals that create environmental benefits for overburdened and vulnerable populations, collaborate with community scientists, and provide opportunities for Tribes, vulnerable populations, and overburdened communities to participate.     </P>
-				<p>We intend to award up to $950,000 during the 2025-2027 biennium depending on funding availability. We anticipate supporting up to 12 projects with a budget of $50,000 - $150,000 each. Projects are expected to begin in July 2025 and continue through June 30, 2027.    </P>
-				<p>Project proposals must align with one or more information need categories:<br>
-Category 1 – Developing and reporting of Vital Sign Indicators and other types of measures used by the Puget Sound Partnership  <br>
-Category 2 – Assessing, synthesizing and disseminating monitoring information that can inform decision-making and support a thriving and resilient Puget Sound.    </P>
-				<p>Responses are due by 12:00 pm on March 28, 2025. Please see the <a href="https://pspwa.box.com/s/kym5rd06d3afjdmy6ey16hteyyq7cjyw" target="new">full announcement</a> for additional details about the proposal requirements, how to apply, and the information needs. Questions should be directed to <a href="mailto: pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a> during two Question-and-Answer periods or asked during the <a href="https://us06web.zoom.us/meeting/register/tZ0odeChrj8uGtNnI7OAb7LVQ2PtOYEtAObk#/registration" target="new">webinar</a>. </P>
-			</div>
-		<h3>Purpose</h3>
-			<p>The Puget Sound Partnership (Partnership) funds projects every biennium that address priority monitoring information needs to inform and accelerate the recovery of Puget Sound. Projects are funded via a formal project solicitation process. All projects are expected to support the objectives of the Puget Sound Ecosystem Monitoring Program (PSEMP) strategic plan to increase collaboration, support adaptive management of Puget Sound recovery efforts, and improve communication to improve access to credible information to guide recovery decisions.</p>
 			
-			<p>All of the project products funded by this solication process are accessible on the <a href="/PSEMP-resources.php">PSEMP Products webpage</a>.</p>
+		<h3>Purpose</h3>
+			<p>The  Puget Sound Partnership provides funding every two years for projects that  address important monitoring needs to support the recovery of Puget Sound.  Projects are funded through a formal application process. </p>
+            <p>All  projects are expected to support the objectives of the Puget Sound Ecosystem  Monitoring Program (PSEMP) strategic plan to increase collaboration, support  adaptive management of Puget Sound recovery efforts, and improve how  information is shared and used to guide recovery decisions.</p>
+        <p>All of the project products funded by this solication process are accessible on the <a href="/PSEMP-resources.php">PSEMP Products webpage</a>.</p>
 		
 		<hr>
-		<h3>Projects funded in 2023-2025</h3>
-		<p>For the 2023-25 biennium, the Puget Sound Partnership (Partnership) requested project proposals that address priority monitoring information needs to inform and accelerate recovery of Puget Sound under <a href="https://pspwa.box.com/s/jq3z2x11d9uvdthg4jiu0std4uw4qz05" target="new">the Monitoring to Accelerate Recovery Request for Information</a> (RFI #2023-163) to allocate up to $750,000.        
-        <p>We are pleased to announce the following six  successful projects:</p>
+		<h3>Projects funded in 2025-2027</h3>
+		<p>For the  2025-27 funding cycle, the Puget Sound Partnership requested project proposals  through the <em>Monitoring to Accelerate Recovery Request for  Information&nbsp;(RFI #2025-175).</em> The goal was to fund projects that  address important monitoring needs help speed up the recovery of Puget Sound.        
+		<p>We are pleased to announce the following six  successful projects:</p>
         <table class="table-responsive table-condensed table-bordered">
 					<thead>
 						<tr>
 						<th>Respondent name</th>
 						<th>Affiliation</th>
 						<th>Title</th>
-						<th>Requested budget</th>
+						<th>Category</th>
 						</tr>
 					</thead>
 					<tbody>
 					<tr>
-						<td><p class="psemp-mar-font">Kathryn Meyer</p></td>
-						<td><p class="psemp-mar-font">WDFW</p></td>
-						<td><p class="psemp-mar-font">Developing groundfish and benthic invertebrate Vital Sign indicators for Puget Sound using bottom trawl survey data spanning 36 years. </p></td>
-						<td><p class="psemp-mar-font">$116,491</p></td>
-					</tr>
-					<tr>
 						<td><p class="psemp-mar-font">Jude Apple</p></td>
-						<td><p class="psemp-mar-font">Padilla Bay NERR/ Dept of Ecology </p></td>
-						<td><p class="psemp-mar-font">Puget Sound Phytoplankton/Primary Productivity Vital Sign Indicator Development - Phase 2: Data Synthesis</p></td>
-						<td><p class="psemp-mar-font">$118,819</p></td>
+						<td><p class="psemp-mar-font">Padilla Bay NERR/Dept. of  Ecology (ECY)</p></td>
+						<td><p class="psemp-mar-font">Puget Sound Phytoplankton  Vital Sign Indicator- Phase 3: Defining metrics and the indicator reporting  plan. </p></td>
+						<td><p class="psemp-mar-font">1</p></td>
 					</tr>
 					<tr>
-						<td><p class="psemp-mar-font">Jim Johannessen</p></td>
-						<td><p class="psemp-mar-font">Coastal Geologic Services, Inc.</p></td>
-						<td><p class="psemp-mar-font">Shoreline Armoring Trends to Inform Beaches and Marine Vegetation Vital Sign Indicators in Puget Sound, WA.</p></td>
-						<td><p class="psemp-mar-font">$119,969</p></td>
-					</tr>
-					<tr>
-						<td><p class="psemp-mar-font">Michael LeMoine</p></td>
-						<td><p class="psemp-mar-font">Skagit River System Cooperative</p></td>
-						<td><p class="psemp-mar-font">Monitoring and evaluating adaptive management strategies at two restoration projects in the Skagit Delta</p></td>
-						<td><p class="psemp-mar-font">$66,852</p></td>
+						<td><p class="psemp-mar-font">Hannah Drummond</p></td>
+						<td><p class="psemp-mar-font">Dept of Ecology (ECY)</p></td>
+						<td><p class="psemp-mar-font">Drift cell functional  condition status reporting and trend development.</p></td>
+						<td><p class="psemp-mar-font">1</p></td>
 					</tr>
 					<tr>
 						<td><p class="psemp-mar-font">Gary Slater</p></td>
 						<td><p class="psemp-mar-font">Ecostudies Institute</p></td>
-						<td><p class="psemp-mar-font">Operationalizing the Salish Sea Estuaries Avian Monitoring Framework</p></td>
-						<td><p class="psemp-mar-font">$75,253</p></td>
+						<td><p class="psemp-mar-font">Advancing the development  of an estuarine bird Puget Sound Vital Sign Indicator.</p></td>
+						<td><p class="psemp-mar-font">1</p></td>
 					</tr>
 					<tr>
-						<td><p class="psemp-mar-font">Jenny L. Atkinson</p></td>
-						<td><p class="psemp-mar-font">The Whale Museum</p></td>
-						<td><p class="psemp-mar-font">Development of Robust Estimate of Orca (Orcinus orca) Occupancy in Puget Sound</p></td>
-						<td><p class="psemp-mar-font">$96,011</p></td>
+						<td><p class="psemp-mar-font">Michael Weiss</p></td>
+						<td><p class="psemp-mar-font">Center for Whale  Research</p></td>
+						<td><p class="psemp-mar-font">Developing integrated  health metrics to inform management of Puget Sound's killer whales.</p></td>
+						<td><p class="psemp-mar-font">2</p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Emily Buckner</p></td>
+						<td><p class="psemp-mar-font">Puget Sound  Restoration Fund</p></td>
+						<td><p class="psemp-mar-font">Synthesizing and sharing  knowledge of Puget Sound Dungeness crab populations with fisheries co-managers.</p></td>
+						<td><p class="psemp-mar-font">2</p></td>
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Jim Johannessen</p></td>
+						<td><p class="psemp-mar-font">Natural Systems  Design + Coastal Geologic Services</p></td>
+						<td><p class="psemp-mar-font">Beach Nourishment  Effectiveness for Restoration in Puget Sound.</p></td>
+						<td><p class="psemp-mar-font">2</p></td>
 					</tr>
 					</tbody>
 				</table><br></p>
-        <p>We would like to thank the Puget Sound Ecosystem Monitoring Program (PSEMP) Steering Committee members, PSEMP Work Group Leads, and Partnership staff colleagues who contributed their time and perspective as members of the Evaluation Panel.</p>
-                <p>We are excited about this newest cohort of projects and look forward to working with all the project teams in implementing the projects!</p>
+        <p>We would like to thank the PSEMP  Steering Committee members and Puget Sound Partnership staff colleagues who shared  their time and perspective as members of the Evaluation Panel. We are excited  about this newest group of projects and look forward to working with all the  project teams to bring them to life.</p>
         <hr>
-		<h3>Projects funded in 2021-2023</h3>
-			<p><a href="https://pspwa.box.com/s/cpppaacw9u5kcntaap8u4o0so59d6gsl">Original project solicitation: 2021-2023 Monitoring to Accelerate Recovery. </a></p>
-			<p>Monitoring to Accelerate Recovery Projects for July 2021-June 2023</p>
-			<table class="table-responsive table-condensed table-bordered table-striped">
+		<h3>Projects funded in 2023-2025		</h3>
+		<p>Monitoring to Accelerate  Recovery Projects for July 2023-June 2025.</p>
+		<table class="table-responsive table-condensed table-bordered">
+		  <tbody>
+		    <tr>
+		      <th>Project title</th>
+		      <th>Project team</th>
+		      <th>Category</th>
+	        </tr>
+		    <tr>
+		      <td><p class=psemp-mar-font>Developing groundfish and benthic  invertebrate Vital Sign indicators for Puget Sound using bottom trawl survey  data spanning 36 years.</p></td>
+		      <td><p class=psemp-mar-font>Kathryn Meyer and Anne  Polyakov, WDFW.</td>
+		      <td><p class=psemp-mar-font>1</td>
+	        </tr>
+		    <tr>
+		      <td><p class=psemp-mar-font>Puget Sound  Phytoplankton/Primary Productivity Vital Sign Indicator Development - Phase 2:  Data Synthesis.</td>
+		      <td><p class=psemp-mar-font>Jude Apple, Padilla Bay  National Estuarine Research Reserve; Julia Bos, King County; Cheryl Greengrove,  University of Washington Tacoma; Lucas Hall, Long Live the Kings.</td>
+		      <td><p class=psemp-mar-font>1</td>
+	        </tr>
+		    <tr>
+		      <td><p class=psemp-mar-font>Shoreline Armoring Trends  to Inform Beaches and Marine Vegetation Vital Sign Indicators in Puget Sound,  WA.</td>
+		      <td><p class=psemp-mar-font>Jim Johannessen, Avery  Maverick, and Ben Johnson, Coastal Geologic Services, Inc.</td>
+		      <td><p class=psemp-mar-font>1</td>
+	        </tr>
+		    <tr>
+		      <td><p class=psemp-mar-font>Monitoring and evaluating  adaptive management strategies at two restoration projects in the Skagit Delta.</td>
+		      <td><p class=psemp-mar-font>Michael LeMoine and  Kathleen McKeegan, Skagit River System Cooperative.</td>
+		      <td>2</td>
+	        </tr><p class=psemp-mar-font>
+		    <tr>
+		      <td><p class=psemp-mar-font>Operationalizing the Salish  Sea Estuaries Avian Monitoring Framework.</td>
+		      <td><p class=psemp-mar-font>Gary Slater and Isabel  Brofsky, Ecostudies Institute.</td>
+		      <td><p class=psemp-mar-font>2</td>
+	        </tr>
+		    <tr>
+		      <td><p class=psemp-mar-font>Development of Robust  Estimate of Orca (Orcinus orca) Occupancy in Puget Sound.</td>
+		      <td><p class=psemp-mar-font>Alexis Morrigan, The Whale  Museum.</td>
+				<td><p class=psemp-mar-font>2</p></td>
+	        </tr>
+	      </tbody>
+	    </table>
+		<hr>
+		<h3>Projects funded in 2021-2023		</h3>
+		<p>Monitoring to Accelerate Recovery Projects for July 2021-June 2023</p>
+		<table class="table-responsive table-condensed table-bordered table-striped">
 			<thead>
 				<tr>
 				<th>Project title</th>
@@ -330,7 +362,7 @@ Category 2 – Assessing, synthesizing and disseminating monitoring information 
 		
 		
 
-			<p class="last-update">Last updated: 01/27/25</p>
+			<p class="last-update">Last updated: 05/14/25</p>
  
 			 
 		<!-- InstanceEndEditable --> </div>
