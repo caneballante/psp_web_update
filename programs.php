@@ -108,7 +108,8 @@
       </h4>
     </div>
     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-      <div class="panel-body"><span class="padding-20-left">The Adaptive Systems and Accountability Program leads the development, management, and implementation of adaptive management processes and information management systems that support the recovery and long-term protection of the Puget Sound ecosystem. Using the <a href="http://cmp-openstandards.org/">Open Standards for the Practice of Conservation</a> as a guiding framework, the team works closely with Partnership staff and partners to ensure decisions about Puget Sound recovery are informed by the best available science, consider the diverse perspectives from around the region, and incorporate learning from past and current efforts</span></div>
+      <div class="panel-body"><span class="padding-20-left">
+      <p>The Adaptive Systems and Accountability Program leads the development, management, and implementation of adaptive management processes and information management systems that support the recovery and long-term protection of the Puget Sound ecosystem. Using the <a href="http://cmp-openstandards.org/">Open Standards for the Practice of Conservation</a> as a guiding framework, the team works closely with Partnership staff and partners to ensure decisions about Puget Sound recovery are informed by the best available science, consider the diverse perspectives from around the region, and incorporate learning from past and current efforts</p></span></div>
     </div>
   </div>
   <div class="panel panel-default">
@@ -123,7 +124,7 @@
 	</div>
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
-        The Boards Program is responsible for supporting the Leadership Council, Ecosystem Coordination Board, and Science Panel, which in turn guide the agency in its charge to accelerate Puget Sound recovery. The Boards Program also supports the Puget Sound Salmon Recovery Council, which advises the Leadership Council on matters related to salmon recovery. This program coordinates and focuses the efforts of recovery partners on each of the agency’s boards to align actions, remove barriers, build partnerships, mobilize funding, and drive innovation to advance the recovery effort.
+        <p>The Boards Program is responsible for supporting the Leadership Council, Ecosystem Coordination Board, and Science Panel, which in turn guide the agency in its charge to accelerate Puget Sound recovery. The Boards Program also supports the Puget Sound Salmon Recovery Council, which advises the Leadership Council on matters related to salmon recovery. This program coordinates and focuses the efforts of recovery partners on each of the agency’s boards to align actions, remove barriers, build partnerships, mobilize funding, and drive innovation to advance the recovery effort.</p>
       </div>
     </div>
   </div>
@@ -137,7 +138,7 @@
     </div>
     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
       <div class="panel-body">
-       The Communications Team fosters the networks and relationships through the which the Puget Sound recovery community can come together to create and deliver effective, decision-critical communications. The Communications Team engages partners in Puget Sound recovery to build trust, reinforce relationships, and foster commitments, enabling key decision-makers to have the tools, information, and support needed to make policy and funding decisions that support Puget Sound recovery.	
+       <p>The Communications Team fosters the networks and relationships through the which the Puget Sound recovery community can come together to create and deliver effective, decision-critical communications. The Communications Team engages partners in Puget Sound recovery to build trust, reinforce relationships, and foster commitments, enabling key decision-makers to have the tools, information, and support needed to make policy and funding decisions that support Puget Sound recovery.</p>	
       </div>
     </div>
   </div>
@@ -151,7 +152,7 @@
     </div>
     <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
       <div class="panel-body">
-       The Local Integrating Organization (LIO) Program  is responsible for coordinating and supporting the 10 LIOs of Puget Sound. LIOs  are watershed-scale networks of ecosystem recovery practitioners,  decision-makers, NGOs, Tribes, and staff from local governments and agencies,  and they play a key role in identifying and coordinating local strategies and  actions that contribute to ecosystem recovery. The LIO Program manages the LIO  capacity contracts, facilitates regular group meetings with LIO Coordinators and  various partners, coordinates programmatic initiatives, and serves as liaison  and regional representative at LIO committee meetings. The LIO Program supports  LIOs in developing LIO Action Plans on Action Agenda topics, maintaining the  longer-term Ecosystem Recovery Plans, and hosting Ecosystem Coordination Board  and Leadership Council meetings as part of the LIO Local Forums, generally  working to facilitate and amplify local-regional connections and collaboration.	
+       <p>The Local Integrating Organization (LIO) Program  is responsible for coordinating and supporting the 10 LIOs of Puget Sound. LIOs  are watershed-scale networks of ecosystem recovery practitioners,  decision-makers, NGOs, Tribes, and staff from local governments and agencies,  and they play a key role in identifying and coordinating local strategies and  actions that contribute to ecosystem recovery. The LIO Program manages the LIO  capacity contracts, facilitates regular group meetings with LIO Coordinators and  various partners, coordinates programmatic initiatives, and serves as liaison  and regional representative at LIO committee meetings. The LIO Program supports  LIOs in developing LIO Action Plans on Action Agenda topics, maintaining the  longer-term Ecosystem Recovery Plans, and hosting Ecosystem Coordination Board  and Leadership Council meetings as part of the LIO Local Forums, generally  working to facilitate and amplify local-regional connections and collaboration.</p>	
       </div>
     </div>
   </div>
@@ -165,7 +166,7 @@
     </div>
     <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
       <div class="panel-body">
-       The Planning Team leads the planning activities of the agency, particularly the collaborative development, adoption, and implementation of the <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a>, as well as the development and execution of <a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a>.  The Planning Team works collaboratively to incorporate the work of many partners to identify and describe regional strategies and specific actions needed to protect and restore Puget Sound. The Team also works to ensure that the Action Agenda brings efficiency and coordination to a complex system, guides effective investment in Puget Sound recovery, and meets both our federal National Estuary Program and state-mandated requirements.	
+       <p>The Planning Team leads the planning activities of the agency, particularly the collaborative development, adoption, and implementation of the <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a>, as well as the development and execution of <a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a>.  The Planning Team works collaboratively to incorporate the work of many partners to identify and describe regional strategies and specific actions needed to protect and restore Puget Sound. The Team also works to ensure that the Action Agenda brings efficiency and coordination to a complex system, guides effective investment in Puget Sound recovery, and meets both our federal National Estuary Program and state-mandated requirements.</p>	
       </div>
     </div>
   </div>
@@ -179,7 +180,7 @@
     </div>
     <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
       <div class="panel-body">
-       The Science & Evaluation Program is responsible for coordinating and implementing a shared, science-based system of measurement and monitoring that allows assessment of collective actions. This team’s work informs updates to the Puget Sound Action Agenda by tracking the status of ecosystem recovery indicators and assessing the effectiveness of recovery efforts. Science & Evaluation staff report ecosystem recovery progress through the Vital Signs website, as well as the biennial State of the Sound report. The Science & Evaluation Program also provides support to the Science Panel, including development of the Quadrennial Science Work Plan, and provides support for the Puget Sound Ecosystem Monitoring Program (PSEMP).	
+       <p>The Science & Evaluation Program is responsible for coordinating and implementing a shared, science-based system of measurement and monitoring that allows assessment of collective actions. This team’s work informs updates to the Puget Sound Action Agenda by tracking the status of ecosystem recovery indicators and assessing the effectiveness of recovery efforts. Science & Evaluation staff report ecosystem recovery progress through the Vital Signs website, as well as the biennial State of the Sound report. The Science & Evaluation Program also provides support to the Science Panel, including development of the Quadrennial Science Work Plan, and provides support for the Puget Sound Ecosystem Monitoring Program (PSEMP).	</p>
       </div>
     </div>
   </div>
@@ -193,7 +194,7 @@
     </div>
     <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
       <div class="panel-body">
-       The Implementation Program is responsible for leading the shared regional plan for Puget Sound recovery and achieving the goals of the Puget Sound Vital Signs. This team supports the agency to advance recovery actions by breaking down barriers, broadening partnerships, addressing challenges, and building opportunities to accelerate implementation of Puget Sound recovery plans. The Implementation Program plays a leadership role in how the agency strategically addresses salmon and ecosystem recovery challenges as well as environmental health and human wellbeing disparities across the Puget Sound region. The Implementation Program establishes and holds the vision of the agency’s environmental justice work, leads initiatives to incorporate environmental justice into agency program work, and ensures the agency’s compliance with the Healthy Environment for All (HEAL) Act and related Executive Orders.	
+       <p>The Implementation Program is responsible for leading the shared regional plan for Puget Sound recovery and achieving the goals of the Puget Sound Vital Signs. This team supports the agency to advance recovery actions by breaking down barriers, broadening partnerships, addressing challenges, and building opportunities to accelerate implementation of Puget Sound recovery plans. The Implementation Program plays a leadership role in how the agency strategically addresses salmon and ecosystem recovery challenges as well as environmental health and human wellbeing disparities across the Puget Sound region. The Implementation Program establishes and holds the vision of the agency’s environmental justice work, leads initiatives to incorporate environmental justice into agency program work, and ensures the agency’s compliance with the Healthy Environment for All (HEAL) Act and related Executive Orders.</p>	
       </div>
     </div>
   </div>
@@ -207,7 +208,7 @@
     </div>
     <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
       <div class="panel-body">
-       Honoring our commitment to Treaty rights, the Salmon Recovery Program works with Tribes and our partners collaboratively to protect critical salmon habitat and restore ecosystems as we strive to meet our collective recovery goals. The Salmon Recovery Program leads implementation of the regional salmon recovery plan and develops updates, coordinates strategic actions, finds and removes funding and policy barriers, shares information that connects science to action, centers environmental justice in salmon recovery, and mobilizesfunding for restoration, acquisition, research, assessment work, and more. Driven by science and evolving knowledge, the Program adapts approaches as we strive for healthy, harvestable salmon runs.	
+       <p>Honoring our commitment to Treaty rights, the Salmon Recovery Program works with Tribes and our partners collaboratively to protect critical salmon habitat and restore ecosystems as we strive to meet our collective recovery goals. The Salmon Recovery Program leads implementation of the regional salmon recovery plan and develops updates, coordinates strategic actions, finds and removes funding and policy barriers, shares information that connects science to action, centers environmental justice in salmon recovery, and mobilizesfunding for restoration, acquisition, research, assessment work, and more. Driven by science and evolving knowledge, the Program adapts approaches as we strive for healthy, harvestable salmon runs.</p>	
       </div>
     </div>
   </div>
@@ -221,7 +222,7 @@
     </div>
     <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
       <div class="panel-body">
-       The Strategic Funding Program is responsible for  the effective implementation and accountability for the agency&rsquo;s agreement with  the Environmental Protection Agency under the Bipartisan Infrastructure Law.  The team leads the efforts of removing barriers to funding for local and  regional recovery projects and provides technical and policy support for  acquiring and managing grants and loans for partners.	
+       <p>The Strategic Funding Program is responsible for  the effective implementation and accountability for the agency&rsquo;s agreement with  the Environmental Protection Agency under the Bipartisan Infrastructure Law.  The team leads the efforts of removing barriers to funding for local and  regional recovery projects and provides technical and policy support for  acquiring and managing grants and loans for partners.</p>	
       </div>
     </div>
   </div>
@@ -238,7 +239,7 @@
       </h4>
     </div>
     <div id="collapseTen" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-      <div class="panel-body"><span class="padding-20-left">The Fiscal Services Program provides leadership and support for agency priorities and programs through quality budgeting, contracting, grant management, purchasing, and accounting services. The program performs agency-wide financial activities, and ensures financial compliance with state and federal laws/regulations and reporting requirements, as well as ensures operational effectiveness and financial stability of the agency. Fiscal Services monitors the day-to-day fiscal operations of the agency, ensuring funds are effectively requested and used in alignment with the agency's mission and goals.</span></div>
+      <div class="panel-body"><span class="padding-20-left"><p>The Fiscal Services Program provides leadership and support for agency priorities and programs through quality budgeting, contracting, grant management, purchasing, and accounting services. The program performs agency-wide financial activities, and ensures financial compliance with state and federal laws/regulations and reporting requirements, as well as ensures operational effectiveness and financial stability of the agency. Fiscal Services monitors the day-to-day fiscal operations of the agency, ensuring funds are effectively requested and used in alignment with the agency's mission and goals.</p></span></div>
     </div>
   </div>
   <div class="panel panel-default">
@@ -253,11 +254,12 @@
 	</div>
     <div id="collapseEleven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
-        The Puget Sound Partnership is part of the National Estuary Program (NEP) administered by the U.S. Environmental Protection Agency (EPA). The Partnership and EPA have cooperative agreements that support our base responsibilities related to the Puget Sound NEP and implementation of the Puget Sound Action Agenda. The Partnership’s EPA Program Manager is responsible for compliance with the requirements in the cooperative agreements. The Program Manager is the lead for developing cooperative agreements, negotiating amendments to the agreements, complying with EPA reporting requirements, coordinating activities with other NEPs in EPA Region 10 and nationally as needed, as well as providing subcontract oversight, coordinating with other state agencies and entities that receive NEP funds, and other related activities.
+        <p>The Puget Sound Partnership is part of the National Estuary Program (NEP) administered by the U.S. Environmental Protection Agency (EPA). The Partnership and EPA have cooperative agreements that support our base responsibilities related to the Puget Sound NEP and implementation of the Puget Sound Action Agenda. The Partnership’s EPA Program Manager is responsible for compliance with the requirements in the cooperative agreements. The Program Manager is the lead for developing cooperative agreements, negotiating amendments to the agreements, complying with EPA reporting requirements, coordinating activities with other NEPs in EPA Region 10 and nationally as needed, as well as providing subcontract oversight, coordinating with other state agencies and entities that receive NEP funds, and other related activities.</p>
       </div>
     </div>
   </div>
 			
+			<p class="last-update">&nbsp;</p>
 			<p class="last-update">Last updated: 05/16/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
