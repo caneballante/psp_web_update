@@ -267,9 +267,9 @@
 						<h5>Hannah Mittelstaedt</h5>
 						<p> Monitoring Network Coordinator<br/>
 							360.764.6149 | <a href="mailto:hannah.mittelstaedt@psp.wa.gov">hannah.mittelstaedt@psp.wa.gov</a></p>
-						<h5>Nick Tealer</h5>
+						<h5>VACANT</h5>
                         <p>Environmental Planner<br />
-                          360.791.0966 | <a href="mailto:nick.tealer@psp.wa.gov">nick.tealer@psp.wa.gov</a>						</p>
+                        </p>
                         <h5>Vacant</h5>
 						<p> Vital Signs Lead<br/>
 						</p>
