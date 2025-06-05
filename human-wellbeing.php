@@ -87,42 +87,39 @@ navSelected = 1;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-			<p>People  are an important part of Puget Sound. If we want to help restore and conserve  Puget Sound&rsquo;s ecosystem, we must do so while also caring for ourselves.  Our Human Wellbeing work aims to help everyone  live a fulfilling life, including physically, emotionally, socially, and  economically.</p>
+			<p>People are an important part of the Puget Sound ecosystem and restoring and conserving it includes caring for ourselves. Our human wellbeing work aims to help everyone live a healthy and fulfilling life.</p>
 			<div class="highlightbox margin-0-top margin-20-bottom">
 			<p><i>People are part of nature and the wellbeing of one depends on the wellbeing  of the other.</i>			</p>
 			</div>
 			<h2>What is Human Wellbeing?</h2>
-			<p>Human  Wellbeing is a good quality of life that is supported by a healthy and  functional Puget Sound that is not threatened by the changes in our ecosystem.</p>
-		<p>Two  of our six recovery goals in Washington State Statute (RCW 90.71.300) address  human wellbeing:</p>
+		<p>Human wellbeing is the ways in which  people benefit from engagement with the natural environment of Puget Sound. Wellbeing  includes familiar aspects of human health, like physical and psychological  health, as well as social, cultural, and economic wellbeing.</p>
+			<p>Two of our six recovery  goals in<a href="https://app.leg.wa.gov/RCW/default.aspx?cite=90.71.300" target="new">Washington  State Statute (RCW 90.71.300)</a> address human wellbeing:</p>
 			<ul class="bullet-size-fix">
 			<li>A  healthy human population that is supported by a healthy Puget Sound and is not  threatened by changes in the ecosystem.</li>
 				<li>A  quality of human life that is sustained by a functioning Puget Sound ecosystem.
 				  </p>
 		</li></ul>
-		  <p>You  can read more about how we <a href="https://www.psp.wa.gov/evaluating-human-wellbeing.php" target="new">evaluate Human Wellbeing  here</a>.</p>
+		  <p>You  can read more about how we <a href="https://www.psp.wa.gov/evaluating-human-wellbeing.php" target="new">measure human wellbeing  here</a>.</p>
 		  <h2>Human Wellbeing and Environmental Justice</h2>
-		  <p>Environmental Justice is an important part of Human  Wellbeing. It is applied across all six of our ecosystem recovery goals by  applying <a href="https://psp.wa.gov/HEAL-environmental-justice-assessments.php">our  Environmental Justice Principles</a>, especially those that help communities  involved in recovery efforts.  </p>
-		  <p>You can find more information about  Environmental Justice within our Human Wellbeing work: </p>
+		  <p>Environmental Justice is an important part of human  wellbeing. It is applied across all six of our ecosystem recovery goals by  applying <a href="https://psp.wa.gov/HEAL-environmental-justice-assessments.php">our  Environmental Justice Principles</a>, especially those that help communities  involved in recovery efforts.  </p>
+		  <p>You can find more information about  Environmental Justice within our human wellbeing work: </p>
 		  <ul class="bullet-size-fix">
 		    <li><a href="https://psp.wa.gov/HEAL.php">Learn about Washington&rsquo;s HEAL Act</a>.</li>
 		    <li><a href="https://psp.wa.gov/HEAL-environmental-justice-assessments.php">Learn more  about the Partnership&rsquo;s Equity &amp; Environmental Justice Program</a>.
 		      </p>
 	        </li>
 	      </ul>
+	<p><em>The Equity &amp; Environmental Justice Program  promotes accountability, builds relationships, advances education, and advises  across these three work areas and the larger work of the Partnership</em></hp>.
 	<h2>Human Wellbeing across our work</h2>
-	<p>We  focus on Human Wellbeing in three areas of our work. Select one of the work  area examples below to learn more.</p>
+	<p>We  focus on human wellbeing in three areas of our work. Select one of the work  area examples below to learn more.</p>
 	<ul class="bullet-size-fix">
 		<li><a href="/human-wellbeing-science.php">Science</a></li>
 		<li><a href="/human-wellbeing-planning.php">Planning</a></li>
 		<li><a href="/human-wellbeing-monitoring.php">Monitoring</a></li>
-	  </ul>
-	<div class="highlightbox margin-0-top margin-20-bottom">
-	<p><i>The Equity &amp; Environmental Justice Program promotes accountability,  builds relationships, advances education, and advises across these three work  areas and the larger work of the Partnership.</i>		</p>
-	
-		</div>
+	</ul>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 12/6/24</p>
+		<p class="last-update">Last updated: 06/05/25</p>
 
         <!-- InstanceEndEditable --> </div>
 		
