@@ -80,7 +80,7 @@
 	<p>The Strategic Science Plan is a high-level, living document that is revised as needed. Specific implementation of science work is guided by the Partnership&rsquo;s&nbsp;<a href="science-workplan.php" target="new"> Science Work Plan</a>. </p>
 	<p>Primary audiences for the Strategic Science Plan include the Science Panel, Partnership staff, Partnership leadership boards, Puget Sound region science program managers, Puget Sound science community, and the public.</p>
 		<p>In the Strategic Science Plan, the Science Panel recommends a strategic science program that includes the following elements:</p>
-<ul>
+<ul class="bullet-size-fix">
 	<li>A clear understanding by the Partnership about critical roles for science within an adaptive management framework and performance management system.</li>
 	<li>A means to support ongoing, two-way engagement between science and policy participants; and to continually identify and prioritize information needs as the work proceeds.</li>
 	<li>Development of specific science capacities to assure that the program&rsquo;s science capabilities are responsive to identified needs, including monitoring, modeling, data management, and research.</li>
