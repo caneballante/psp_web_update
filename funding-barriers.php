@@ -115,7 +115,7 @@ navSelected = 4;
         <p></p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 8/5/24</p>
+		<p class="last-update">Last updated: 06/06/25</p>
 
         <!-- InstanceEndEditable --> </div>
 		
@@ -124,12 +124,7 @@ navSelected = 4;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p class="right-nav-contact">For questions about funding barriers:<br />
-					<br>
-					<strong>Jessica Reynolds,</strong> <br>
-					Funding Barrier Strategist<br>
-					<a href="mailto:jessica.reynolds@psp.wa.gov">jessica.reynolds@psp.wa.gov</a><br>
-					360.870.6165<br><br><!-- InstanceEndEditable -->
+				<p class="right-nav-contact">For questions about funding barriers, please email us at <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a>.<br><br><!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
