@@ -146,9 +146,9 @@
 						<p>Strategic Funding Manager<br />
 						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
 			
-						<h5>Jessica Reynolds</h5>
+						<h5>VACANT</h5>
 						<p>Funding Barrier Strategist<br>
-							360.870.6165 | <a href="mailto:jessica.reynolds@psp.wa.gov">jessica.reynolds@psp.wa.gov</a></p>
+						</p>
 						<h5>Michelle Deckard</h5>
 						<p>Grant Writer and Strategist<br>
 							360.819.0342 | <a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a></p>
@@ -369,7 +369,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 05/16/25</p>
+	<p class="last-update">Last updated: 06/06/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
