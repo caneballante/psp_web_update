@@ -81,7 +81,71 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<h2 class="margin-0-top">Purpose</h2>
 		
-		<p>The Partnership funds salmon science investigations each biennium that will advance Puget Sound salmon recovery. Funds are awarded through a competitive solicitation process in the form of a Request for Information (RFI). The RFI is developed in collaboration with the <a href="https://pspwa.box.com/s/gmid2sz9hha80r9aw14jw6rctucqf1yr" target="new">Salmon Science Advisory Group</a> to address priority salmon science needs for the region.		</p>
+		<p>The Partnership funds salmon science investigations each biennium that will advance Puget Sound salmon recovery. Funds are awarded through a competitive solicitation process in the form of a Request for Information (RFI). The RFI is developed in collaboration with the <a href="https://pspwa.box.com/s/gmid2sz9hha80r9aw14jw6rctucqf1yr" target="new">Salmon Science Advisory Group</a> to address priority salmon science needs for the region.		To view additional projects funded through Partnership science  solicitations, please visit the <a href="https://www.psp.wa.gov/science-funded-projects.php">Science and Evaluation Funded Projects webpage</a>.</p>
+		<h2>Projects funded in 2023-2025</h2>
+		<p>For  the 2025-2027 biennium, the Puget Sound Partnership requested proposals for  studies to advance Puget Sound salmon recovery efforts by addressing  information needs described in the Salmon Science Investigations Request for  Information (RFI # 2025-176). The RFI allocated up to $3,000,000 among the  following 8 proposals selected for funding:</p>
+		<table class="table-responsive table-condensed table-bordered">
+			<thead>
+				<tr>
+				<th>Project title</th>
+				<th>Description</th>
+				<th>Project leads and affiliations</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td><p class="psemp-mar-font">Salmon  Governance for Multispecies Planning</p></td>
+						<td><p>The Puget Sound and British Columbia vary in the actors  involved in decision making and the types and scale of policies for salmon  governance. This project will use process tracing to analyze data from existing  documentation and expert interviews to evaluate correlational and causal  inferences between historical salmon policy processes and the outcomes. It will  describe the current salmon governance landscape in the transboundary Salish  Sea region through a comparative analysis, while elevating multispecies justice  thinking within current salmon governance efforts.  </p></td>
+						<td><p class="psemp-mar-font">Kelly  Biedenweg (Oregon State University) and David Trimbach (Washington Department  of Fish and Wildlife)</p></td>
+						
+			  </tr>
+					<tr>
+						<td><p class="psemp-mar-font">Evaluating  Experimental Hatchery Rearing Strategies to Increase Puget Sound Chinook&rsquo;s  Resilience to Climate Change and Future Ecosystem Conditions</p></td>
+						<td><p class="psemp-mar-font">In  Washington State, approximately 80% of returning adult Chinook are of hatchery  origin. Seven hatcheries in Puget Sound launched experiments to evaluate the  impact of variable rearing and release strategies on size-at-age,  age-at-maturity, and marine survival of Chinook salmon. This project will  analyze scale and otolith samples and synthesize hatchery return data for  experimental fish release years 2018-2021 to provide guidance toward optimizing  hatchery management strategies.</p></td>
+						<td><p class="psemp-mar-font">Liz  Duffy (Long Live the Kings)</p></td>
+						
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Linking  Spatial Distribution and Residency of Tagged Juvenile Salmon to Adult  Recruitment and Identifying Mortality Hotspots</p></td>
+						<td><p class="psemp-mar-font">Juvenile  rearing habitat is a limiting factor in the Green/Duwamish (WRIA 9) watershed,  especially for parr migrants that contribute to most adult returns. This  project will expand PIT tagging efforts in the Green River to include mobile tracking,  continued juvenile tagging, and the installation of an adult return detection  array. These data will be used to link juvenile rearing patterns to adult  returns, identify potential mortality hotspots, and identify locations to  prioritize for habitat restoration</p></td>
+						<td><p class="psemp-mar-font">Chris  Gregersen (King County)</p></td>
+						
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Addressing  Water Quality Impacts on Salmonids in Runoff-Impaired Watersheds</p></td>
+						<td><p>Roadway runoff entering surface waters can be acutely lethal  to coho salmon, driven by the presence of 6PPD-quinone from vehicle tires. Building  upon previous work on coho salmon, this project will evaluate the impacts of real-time  exposures to ambient stream water and roadway runoff in Chinook salmon and  steelhead. It will also assess a runoff treatment best management practice to reduce  toxic chemical exposure for juvenile salmon.
+</p></td>
+						<td><p class="psemp-mar-font">Jen  McIntyre (Washington State University), John Hansen and Justin Greer (US  Geological Survey), and Ed Kolodziej (University of Washington)</p></td>
+						
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Salmon  Stories: Honoring the Ancestors, Protecting the Future</p></td>
+						<td><p>Salmon are integral to the ecological, cultural, and  economic fabric of the Pacific Northwest,  particularly for Native communities who have stewarded these fisheries for
+					    millennia.  This project will develop a comprehensive awareness campaign highlighting the  deep relationship between Native peoples and salmon, tracing this connection  from ancestral stewardship to modern conservation efforts. By illuminating the  role of Indigenous communities in salmon stewardship, this project will  enhance public understanding, strengthen collaborations between tribal and non-tribal entities, and support more inclusive  decision-making processes.</p></td>
+						<td><p class="psemp-mar-font">Valerie  Segrest and Matika Wilbur (Tahoma Peak Solutions)</p></td>
+						
+					</tr>
+					<tr>
+						<td><p class="psemp-mar-font">Cognitive  Mapping for the Co-Production of Ecosystem-Based Solutions to Salmon Recovery  and Killer Whale Conservation in Puget Sound</p></td>
+						<td><p class="psemp-mar-font">Reliance  on hatchery-raised Chinook to support endangered Southern Resident Killer  Whales has intensified conflicts between conservation goals and fisheries  management. Addressing these challenges requires a deeper understanding of  stakeholder values, regulatory frameworks, and socio-ecological trade-offs to  support sustainable policy decisions. By identifying shared values and areas of  contention using social science methods and socio-ecological models, this study  will inform strategies for balancing fisheries sustainability with orca  conservation.</p></td>
+						<td><p class="psemp-mar-font">Jordan  Smith and Chase Lamborn (Utah State University)</p></td>
+						
+					</tr>
+				<tr>
+						<td><p class="psemp-mar-font">Juvenile  Salmonid Habitat Use of Bull Kelp in Puget Sound: Application to Recovery and  Protection Goals</p></td>
+						<td><p class="psemp-mar-font">Although  bull kelp forests have been documented as important habitat used by  out-migrating juvenile salmon, there is a critical need to define this use  across the Salish Sea including to what extent kelp forest features such as  size, density, and position in Puget Sound factor into juvenile salmonid use.  This project will address these critical  knowledge gaps by analyzing juvenile Chinook salmon abundance and behavior in  bull kelp forests at 16 locations in Puget Sound using snorkel surveys and eDNA.  Results will be used to develop a connectivity framework, linking juvenile  salmon habitat use with the &ldquo;kelp highway&rdquo;, addressing fragmentation, target  areas for conservation and restoration, and priorities for future work.</p></td>
+						<td><p class="psemp-mar-font">Jason  Toft (University of Washington)</p></td>
+						
+			  </tr>
+				<tr>
+						<td><p class="psemp-mar-font">Using  an Individual Based Model to Examine Shared Benefits of Tidal Delta and  Nearshore Restoration in the Whidbey Basin</p></td>
+						<td><p>This project will develop an individual based model (IBM) to evaluate benefits of habitat restoration  on juvenile Chinook salmon growth and survival in the Whidbey Basin. Building  upon an IBM for the Skagit River delta, this work will modify the IBM to  encompass the entire Whidbey Basin and incorporate multiple outmigration  populations, nearshore habitat types, fish competitors, and predators. It will  evaluate the benefits of changes in connectivity and habitat capacity to  individual salmon and cohort survival to better understand intertidal habitat  restoration benefits for salmon and prioritize future restoration efforts.  </p></td>
+						<td><p>Todd Zackey (Tulalip Tribes), Correigh Greene (Skagit River System  Cooperative), Josh Chamberlin (National Oceanic and Atmospheric Administration)  </p>
+					    <p class="psemp-mar-font">&nbsp;</p></td>
+						
+			  </tr>
+					</tbody>
+				</table><br>
 		<h2>Projects funded in 2023-2025</h2>
 		<p>For the 2023-2025 biennium, the Puget Sound Partnership requested proposals for projects that address priority information needs to advance regional salmon recovery under the Puget Sound Salmon Science Investigations RFI (<a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">RFI #2023-165</a>). The RFI allocated up to $2,000,000 for proposals up to $400,000 each. </p>
 		<p>The following 6 proposals were selected for funding:</p><br>
