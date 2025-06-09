@@ -81,24 +81,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		<h2 class="margin-0-top">Purpose</h2>
 		
-		<p>The Partnership funds salmon science investigations each biennium that will advance Puget Sound salmon recovery. Funds are awarded through a competitive solicitation process in the form of a Request for Information (RFI). The RFI is developed in collaboration with the <a href="https://pspwa.box.com/s/gmid2sz9hha80r9aw14jw6rctucqf1yr" target="new">Salmon Science Advisory Group</a> to address priority salmon science needs for the region.        </p>
-		<h2>Request For Information</h2>
-		<p>The Puget Sound Partnership is pleased to announce a Salmon  Science Investigations <a href="https://pspwa.app.box.com/file/1721759732613?s=i9c1nu0wb9haqh8dvo036fx874rsocm6">Request  for Information</a> for collaborative proposals to conduct studies that support  regional salmon recovery. Projects should advance progress towards  self-sustaining, harvestable salmon populations that uphold Tribal treaty  rights and support thriving communities and ecosystems in Puget Sound. </p>
-		<p>We intend to award up to $3,000,000 during the 2025-2027  biennium depending on funding availability. We anticipate supporting 6-15  projects with a minimum budget of $100,000 each. Projects are expected to begin  in July 2025 and continue through June 30, 2027.</p>
-		<p>Project proposals must align with one or more information  need categories: </p>
-		<ol class="bullet-size-fix" start="1" type="1">
-			<li>Relationships between salmonid populations, recovery actions, and salmonid habitat quality or quantity</li>
-			<li>Marine survival and marine food webs</li>
-			<li>Salmon production potential across landscapes and habitats</li>
-			<li>Human dimensions of salmon recovery</li>
-		</ol>
-		<p>As an  implementing agency of Washington State&rsquo;s Healthy Environment for All Act, the  Partnership encourages respondents to submit proposals that address one or more  cross-cutting principles of 1. environmental justice and 2. Indigenous  knowledge and multiple ways of knowing. </p>
-		<p><strong>Responses  are due by 12:00 pm on March 10, 2025.</strong> Please see the full announcement for  additional details about the proposal requirements, how to apply, and the  information needs. Questions should be directed to <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a> during two qestion-and-answer periods or asked during the webinar. </p>
-		<h2>Save the Date</h2>
-		<p>Salmon Science Investigations RFI Informational Webinar (via Zoom)<br>
-			Wednesday, January 8, 2025<br>
-			1:00 – 2:00 p.m. Pacific Time<br>
-		<a href="https://us06web.zoom.us/meeting/register/tZwvcuiprTooHtN4_M_SQOrp46w0zw6X-H7h">Registration  required</a></p>
+		<p>The Partnership funds salmon science investigations each biennium that will advance Puget Sound salmon recovery. Funds are awarded through a competitive solicitation process in the form of a Request for Information (RFI). The RFI is developed in collaboration with the <a href="https://pspwa.box.com/s/gmid2sz9hha80r9aw14jw6rctucqf1yr" target="new">Salmon Science Advisory Group</a> to address priority salmon science needs for the region.		</p>
 		<h2>Projects funded in 2023-2025</h2>
 		<p>For the 2023-2025 biennium, the Puget Sound Partnership requested proposals for projects that address priority information needs to advance regional salmon recovery under the Puget Sound Salmon Science Investigations RFI (<a href="https://pspwa.box.com/s/dmbng1beev0iiowfhrw3fdi91uj9v6vf" target="new">RFI #2023-165</a>). The RFI allocated up to $2,000,000 for proposals up to $400,000 each. </p>
 		<p>The following 6 proposals were selected for funding:</p><br>
