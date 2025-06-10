@@ -82,7 +82,7 @@
 		<h2 class="margin-0-top">Purpose</h2>
 		
 		<p>The Partnership funds salmon science investigations each biennium that will advance Puget Sound salmon recovery. Funds are awarded through a competitive solicitation process in the form of a Request for Information (RFI). The RFI is developed in collaboration with the <a href="https://pspwa.box.com/s/gmid2sz9hha80r9aw14jw6rctucqf1yr" target="new">Salmon Science Advisory Group</a> to address priority salmon science needs for the region.		To view additional projects funded through Partnership science  solicitations, please visit the <a href="https://www.psp.wa.gov/science-funded-projects.php">Science and Evaluation Funded Projects webpage</a>.</p>
-		<h2>Projects funded in 2023-2025</h2>
+		<h2>Projects funded in 2025-2027</h2>
 		<p>For  the 2025-2027 biennium, the Puget Sound Partnership requested proposals for  studies to advance Puget Sound salmon recovery efforts by addressing  information needs described in the Salmon Science Investigations Request for  Information (RFI # 2025-176). The RFI allocated up to $3,000,000 among the  following 8 proposals selected for funding:</p>
 		<table class="table-responsive table-condensed table-bordered">
 			<thead>
