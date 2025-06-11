@@ -198,7 +198,7 @@
 						</td>
 					<td>425-388-3464 Ext. 4658</td>
 					<td><a class="small-links" href=" Donald.Crump@snoco.org"> Donald.Crump@snoco.org</a></td>
-					<td><a href="http://www.psp.wa.gov/downloads/SALMON_RECOVERY/VOL_2/STILLAGUAMISH.zip">2005 Stillaguamish Chapter</a></td>
+					<td><a href="https://www.dropbox.com/scl/fo/acioda08rb39wclsqflio/h?rlkey=2319s20p6atncu7vix31l4fut&e=2&dl=0" target="new">2005 Stillaguamish Chapter</a></td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
@@ -213,7 +213,7 @@
 			</table>
 			<p>Lead Entity Contact list and Chapter links last updated July 2022</p>
 			<p>Please note that this list is intended to be representative but not comprehensive of all the critical organizations and agencies working in the watershed for salmon recovery.</p>
-			<p class="last-update">Last updated: 3/15/23</p>
+			<p class="last-update">Last updated: 06/11/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
