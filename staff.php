@@ -328,9 +328,10 @@
 						<p>Agency Workplan and EPA Grant Manager<br />
 							360.819.0530 | <a href="mailto:jennifer.carlson@psp.wa.gov">jennifer.carlson@psp.wa.gov</a>
 	    </p>
-						<h5>VACANT</h5>
+						<h5>Aaron Smith</h5>
 						<p>Records and Information Specialist<a href="mailto:jackelyn.garcia@psp.wa.gov"><br>
-	                        </a>						<!--FISCAL PROGRAM--></p>
+	                        360.827.0768 | aaron.smith@psp.wa.gov</a> </p>						
+						<!--FISCAL PROGRAM--></p>
 		<h5>Jill wisehart</h5>
                         <p>Compliance and Reporting Specialist<br>
                           564.200.2065 | <a href="mailto:jill.wisehart@psp.wa.gov">jill.wisehart@psp.wa.gov</a> </p>
@@ -369,7 +370,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 06/06/25</p>
+	<p class="last-update">Last updated: 06/13/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
