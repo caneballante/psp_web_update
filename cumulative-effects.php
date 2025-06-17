@@ -76,38 +76,45 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-			<p>The cumulative effects of recovery actions and how well they contribute to ecosystem recovery are not well understood. Puget Sound Partnership is initiating an evaluation of the cumulative effects to inform the understanding ecosystem processes related to recovery and clarify what interventions are most effective in accomplishing our collective recovery targets. </p>
-			
-			<p><strong><em>The cumulative effects of nearshore habitat recovery actions on juvenile salmonids in the Whidbey basin.</em></strong> An evidence-based evaluation of cumulative effects to comprehensively evaluate salmon recovery efforts implemented over the past two decades in Whidbey basin nearshore habitats is underway. This study will evaluate the cumulative effects of nearshore habitat restoration in the Whidbey basin aimed at improving critical habitat for juvenile Chinook salmon. A collaborative, multi-institutional research team has been convened to develop and implement this study over the next 2-3 years.</p>
-			
-			<h2>PRODUCTS AND INFORMATION ABOUT THIS WORK</h2>
+		<p>At the Puget Sound Partnership, our mission is to accelerate  and advance the collective effort to recover the Puget Sound. Effectiveness  means achieving the desired outcomes of a healthy, resilient ecosystem and  thriving communities. Our effectiveness work focuses on evaluating how well  recovery actions are achieving those intended results.</p>
+			<p>Thousands of restoration and conservation projects have been  implemented throughout Puget Sound, many with involvement from the Partnership.  While these efforts contribute to recovery, it is challenging to directly  attribute ecosystem improvements to individual projects—let alone to assess the  cumulative effects of multiple projects and recovery actions on the ecosystem  and its species.</p>
+		<p>To address this knowledge gap, the Puget Sound Partnership  is supporting a multiyear, science-based evaluation of how nearshore habitat  recovery actions impact juvenile salmonids in the Whidbey Basin. By  collaborating with a team of leading researchers from multiple institutions,  this project seeks to understand the cumulative impacts of habitat restoration  efforts implemented over the past two decades—particularly those aimed at  improving critical habitat for juvenile Chinook salmon. </p>
+			<p>Launched in 2021, this ongoing study is helping  to identify which interventions are most effective in achieving our collective  recovery goals. The findings will deepen our understanding of key ecosystem  processes and inform more strategic, effective recovery actions moving forward.</p>
+			<h2>Learn  more:</h2>
+<p>We recommend starting with our webinar,<a href="https://www.youtube.com/watch?v=vo49qF34xGM" target="new">&lsquo;Cumulative Effects Evaluation  for Salmon Restoration&rsquo;,</a> presented at the Salish Sea Ecosystem Roundtable on December 3, 2024, which  offers an overview of the project and the latest developments.</p>
+<h2>Fact sheets</h2>
+<table width="200" border="1">
+  <tbody>
+    <tr>
+      <th scope="col"><img src="images/cee-web.jpg" width="250" height="250" alt=""/><br></th>
+      <th scope="col"><img src="https://pspwa.box.com/shared/static/oozt7kzi0jf4r16kqqb4g8kcbr16hydk.jpg" width="250" height="250" alt=""/></th>
+    </tr>
+    <tr>
+      <td><a href="https://pspwa.box.com/s/8qxouataobuz63fzp0sowx0wm18dzs5i" target="new">Fact sheet - Cumulative Effects Evaluation - Whidbey Basin</a></td>
+      <td><a href="https://pspwa.box.com/s/aygnbxy9cqeg58z7cthk5izy6c1crz75" target="new">Fact sheet - Cumulative Effects Evaluation - Evaluation Framework for Puget Soun</a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+        <h2>Status reports</h2>
 					
-			<p><a href="https://pspwa.box.com/s/u8vwvj3833weg5ocawm8r8u0fudl5eyy" target="new">Assessing the cumulative effects of nearshore habitat recovery actions for juvenile salmonids in the Whidbey basin: annual report for 2022 – 2023.</a> This report documents recent progress on the Whidbey basin cumulative effects study for 2022-2023. The report details the development of analytical aspects of the study, including methodology for the systematic literature review, synthesis approach, and the evaluation of causal criteria.</p>
+		<p><a href="https://pspwa.box.com/s/u8vwvj3833weg5ocawm8r8u0fudl5eyy" target="new">2022 – 2023 Annual Report:</a> This report documents recent progress on the Whidbey basin cumulative effects study for 2022-2023. The report details the development of analytical aspects of the study, including methodology for the systematic literature review, synthesis approach, and the evaluation of causal criteria.</p>
+			<p><a href="https://pspwa.box.com/s/dmxg9hmenrbiq8rehhmf1qpe3luatpce" target="new">January - June 2022 Status Report:</a> This report details an evidence-based approach to evaluate cumulative effects produced from salmon habitat restoration at a greater basin scale for application to salmon recovery efforts in Puget Sound.</p>
+			<h2>Past Presentations in chronological order </h2>
+			<p><a href="https://pspwa.box.com/s/7m3b28gmczaheehc1jopjeb9i4n81dqi" target="new">Presentation to the Puget Sound Science Panel - December 2021:</a> This presentation was used to introduce cumulative effects concepts and provides an overview of a Puget Sound case study.</p>
+			<p><a href="https://pspwa.app.box.com/s/ibkth6a0xi8sw8hd0vodrd17cru8tafx" target="new">Public webomar focused on updates from the project as of August 5th, 2022:</a> This webinar presents progress on the development of this cumulative effects evaluation in Whidbey basin and provides an overview of study implementation looking to occur between 2022-2025.</p>
+			<h2>Planning documents and additional resources</h2>
+			<p><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">The following documents showcase the road map</span><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">s and building blocks used to create this </span><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">ongoing <span data-contrast="auto" xml:lang="EN-US" lang="EN-US">cumulative </span> effects research project</span>.		</p>
+		<p><a href="https://pspwa.box.com/s/ifskd6ldxss0p9zkykb2wjq2mlg14g0m" target="new">Methodology and Design for a Case Study of Juvenile Salmonids and Nearshore Habitats in Whidbey Basin</a>: Preliminary design proposal for a case study applying cumulative effects evaluation to restoration of nearshore habitats in the Whidbey basin.</p>
 			
-			<p><a href="https://pspwa.box.com/s/dmxg9hmenrbiq8rehhmf1qpe3luatpce" target="new">The cumulative effects of nearshore habitat recovery actions on juvenile salmonids in the Whidbey basin: Study development report.</a> This report details an evidence-based approach to evaluate cumulative effects produced from salmon habitat restoration at a greater basin scale for application to salmon recovery efforts in Puget Sound. This study will continue development and implementation in 2023-2025.</p>
+			<p><a href="https://pspwa.box.com/s/ho176jksm2npelz1afxsy4hx5z8qmngw" target="new">Guidance for Evaluation of Cumulative Effects of Puget Sound Recovery Actions</a>: General guidance document for practical application of a cumulative effects evaluation methodology in Puget Sound.</p>
 			
-			<div class="floatright-block blue-outline-5px padding-10-all margin-10-left"><img src="images/cee-web.jpg" width="250" height="250" alt=""/><br>
-       <p> <a href="https://pspwa.box.com/s/8qxouataobuz63fzp0sowx0wm18dzs5i" target="new">Fact sheet</a><br>
-       </p></div>
-			
-			<p><a href="https://pspwa.box.com/s/ibkth6a0xi8sw8hd0vodrd17cru8tafx" target="new">Webinar</a> and <a href="https://pspwa.box.com/s/6ipmc7z3zkyr3i3yt1jzo8ylu6uhurcc" target="new">presentation</a> on the Whidbey basin evaluation of cumulative effects. This webinar presents the recent progress on the development of a cumulative effects evaluation in Whidbey basin and provides an overview of study implementation to occur over the next two to three years.</p> 
-			
-			<p><a href="https://pspwa.box.com/s/7m3b28gmczaheehc1jopjeb9i4n81dqi" target="new">Evaluating the cumulative effects of Puget Sound recovery</a>. Presentation to the Puget Sound			</p>
-			<p>Science Panel, December 2021, introducing cumulative effects and provides an overview of a Puget Sound case study.</p>
-			<p><a href="https://pspwa.box.com/s/ifskd6ldxss0p9zkykb2wjq2mlg14g0m" target="new">Cumulative Effects of Puget Sound Recovery Actions: Methodology and Design for a Case Study of Juvenile Salmonids and Nearshore Habitats in Whidbey Basin</a>. </p>
-			<div class="floatright-block blue-outline-5px padding-10-all margin-10-left"><img src="https://pspwa.box.com/shared/static/oozt7kzi0jf4r16kqqb4g8kcbr16hydk.jpg" width="250" height="250" alt=""/><br>
-			  <p> <a href="https://pspwa.box.com/s/aygnbxy9cqeg58z7cthk5izy6c1crz75" target="new">Fact sheet</a><br>
-		      </p>
-	    </div>
-			<p>Preliminary design proposal for a case study applying cumulative effects evaluation to restoration of nearshore habitats in the Whidbey basin.</p>
-			
-			<p><a href="https://pspwa.box.com/s/ho176jksm2npelz1afxsy4hx5z8qmngw" target="new">Guidance for Evaluation of Cumulative Effects of Puget Sound Recovery Actions</a>. General guidance document for practical application of a cumulative effects evaluation methodology in Puget Sound.</p>
-			
-			<p><a href="https://pspwa.box.com/s/rxxiwg5jxtcyee8ywhdncuhfyqp54n9l" target="new">Communications plan for the cumulative effects evaluation work in Puget Sound.</a> The plan outlines specific audiences, strategies, products, actions, and known barriers. Included in the plan is a table of anticipated engagement and outreach opportunities for 2023-2025.</p>
+			<p><a href="https://pspwa.box.com/s/rxxiwg5jxtcyee8ywhdncuhfyqp54n9l" target="new">Communications plan for the cumulative effects evaluation work in Puget Sound:</a> The plan outlines specific audiences, strategies, products, actions, and known barriers. Included in the plan is a table of anticipated engagement and outreach opportunities for 2023-2025.</p>
 		
 			<p><strong>Stay connected:</strong> <a href="https://public.govdelivery.com/accounts/WAPSP/signup/34165" target="new">Subscribe here</a> for news and announcements on the Whidbey basin cumulative effects study.</p>
 			
-			<p class="last-update">Last updated: 1/2/24</p>
+			<p class="last-update">Last updated: 06/16/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
