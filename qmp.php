@@ -89,7 +89,7 @@
 						<ul>
 								<li><a href="downloads/2014_qmp/Quality Management Plan April 2014.pdf" style="font-weight: bold">Quality Management Plan April 2014</a></li>
 								<li><a href="downloads/2014_qmp/Appx A Quaility Assurance Policy.pdf" style="font-weight: bold">Appx A Quality Assurance Policy</a></li>
-								<li><a href="https://pspwa.box.com/s/nium8veqhgiqbf1ml27bo7e8om5c66cs" style="font-weight: bold">Appx B Org Chart Quality Mgmt System</a></li>
+								<li><a href="https://pspwa.box.com/s/nium8veqhgiqbf1ml27bo7e8om5c66cs" target="new" style="font-weight: bold">Appx B Org Chart Quality Mgmt System</a></li>
 								<li><a href="downloads/2014_qmp/Appx C A_500 Agency Records Management and Retention.pdf" style="font-weight: bold">Appx C A_500 Agency Records Management and Retention</a></li>
 								<li><a href="downloads/2014_qmp/Appx D PSP_GISProgramAndStandards_workingdocument.pdf" style="font-weight: bold">Appx D PSP_GISProgramAndStandards_workingdocument</a></li>
 								<li><a href="downloads/2014_qmp/Appx E Washington State OCIO oversight policies and standards.pdf" style="font-weight: bold">Appx E Washington State OCIO oversight policies and standards</a></li>
