@@ -112,7 +112,8 @@
 			
 			<p><a href="https://pspwa.box.com/s/rxxiwg5jxtcyee8ywhdncuhfyqp54n9l" target="new">Communications plan for the cumulative effects evaluation work in Puget Sound:</a> The plan outlines specific audiences, strategies, products, actions, and known barriers. Included in the plan is a table of anticipated engagement and outreach opportunities for 2023-2025.</p>
 		
-			<p><strong>Stay connected:</strong> <a href="https://public.govdelivery.com/accounts/WAPSP/signup/34165" target="new">Subscribe here</a> for news and announcements on the Whidbey basin cumulative effects study.</p>
+			<h2>Stay connected</h2>
+			<p> <a href="https://public.govdelivery.com/accounts/WAPSP/signup/34165" target="new">Subscribe here</a> for news and announcements on the Whidbey basin cumulative effects study.</p>
 			
 			<p class="last-update">Last updated: 06/16/25</p>
 			<!-- InstanceEndEditable --> </div>
