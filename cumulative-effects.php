@@ -81,7 +81,10 @@
 		<p>To address this knowledge gap, the Puget Sound Partnership  is supporting a multiyear, science-based evaluation of how nearshore habitat  recovery actions impact juvenile salmonids in the Whidbey Basin. By  collaborating with a team of leading researchers from multiple institutions,  this project seeks to understand the cumulative impacts of habitat restoration  efforts implemented over the past two decades—particularly those aimed at  improving critical habitat for juvenile Chinook salmon. </p>
 			<p>Launched in 2021, this ongoing study is helping  to identify which interventions are most effective in achieving our collective  recovery goals. The findings will deepen our understanding of key ecosystem  processes and inform more strategic, effective recovery actions moving forward.</p>
 			<h2>Learn  more:</h2>
-<p>We recommend starting with our webinar,<a href="https://www.youtube.com/watch?v=vo49qF34xGM" target="new">&lsquo;Cumulative Effects Evaluation  for Salmon Restoration&rsquo;,</a> presented at the Salish Sea Ecosystem Roundtable on December 3, 2024, which  offers an overview of the project and the latest developments.</p>
+<p>We recommend starting with our webinar,<a href="https://www.youtube.com/watch?v=vo49qF34xGM" target="new">&lsquo;Cumulative Effects Evaluation  for Salmon Restoration&rsquo;,</a> presented at the Salish Sea Ecosystem Roundtable on December 3, 2024, which  offers an overview of the project and the latest developments.<br>
+</p>
+<h2>Open Source Scientific Journals </h2>
+<p><a href ="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1514508/full" target="new">Assessing the cumulative effects of nearshore habitat restoration actions for multiple populations of juvenile salmon in Whidbey Basin, Washington: Foundation and approach for synthesis and evaluation - </a>Kathryn Sobocinski, Michael LeMoine, Joshua Chamberlin, Letitia Conway-Cranos, Annelise Del Rio, Heida Diefenderfer, Correigh Greene, Jason Hall, Gary Johnson, Ronald Thom, Elene Trujillo, and Todd Zackey. Published in Frontiers in Marine Science on June 16, 2025.</p>
 <h2>Fact sheets</h2>
 <table width="200" border="1">
   <tbody>
@@ -115,7 +118,7 @@
 			<h2>Stay connected</h2>
 			<p> <a href="https://public.govdelivery.com/accounts/WAPSP/signup/34165" target="new">Subscribe here</a> for news and announcements on the Whidbey basin cumulative effects study.</p>
 			
-			<p class="last-update">Last updated: 06/16/25</p>
+			<p class="last-update">Last updated: 06/20/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
