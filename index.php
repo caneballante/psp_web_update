@@ -222,7 +222,7 @@
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/salmon.jpg"  alt="salmon swimming together"/> <strong>RESEARCH</strong><br>
-						<a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1514508/full" target="new">Assessing the cumulative effects of nearshore habitat restoration actions for multiple populations of juvenile salmon in Whidbey Basin, Washington: foundation and approach for synthesis and evaluation</a><br>
+						<a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1514508/full" target="new">Assessing the cumulative effects of nearshore habitat restoration actions for multiple populations of juvenile salmon in Whidbey Basin, Washington.</a><br>
 						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
