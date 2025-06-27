@@ -210,9 +210,9 @@
 						<!--LIO PROGRAM TEAM-->
 						<h3 class="padding-10-top">LIO PROGRAM TEAM</h3>
 			
-						<h5>Harriet Booth</h5>
-						<p> Local Integrating Organization Program Coordinator<br>
-							360.819.7232 | <a href="mailto:harriet.booth@psp.wa.gov">harriet.booth@psp.wa.gov</a></p>
+						<h5>VACANT</h5>
+		<p> Local Integrating Organization Program Coordinator<br>
+						</p>
 			
 						<h5>Jason Lim</h5>
 						<p>Ecosystem Recovery Coordinator<br>
@@ -370,7 +370,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 06/13/25</p>
+	<p class="last-update">Last updated: 06/27/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
