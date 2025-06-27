@@ -92,10 +92,12 @@
 			<p>The Human Wellbeing Vital Signs address the recovery goals for healthy human population and vibrant human quality of life, particularly as these goals relate to how people engage with the natural environment of Puget Sound. The Human Wellbeing Vital Signs include familiar topics such as physical and psychological health, as well as governance, social, cultural, and economic wellbeing.  <a href="http://www.psp.wa.gov/evaluating-human-wellbeing.php">LEARN MORE </a></p>
 		
 			<h2>EFFECTIVENESS MONITORING</h2>
-			<p>Many restoration and management actions have been effective in restoring ecosystem components and processes in Puget Sound, but much of the evidence of success is found in technical documents that are not easy to access. Partnership staff finds and reviews these documents to collect information about what’s working to restore Puget Sound. This information, once vetted by regional experts, is presented in fact sheets and narrative summaries that can be used to help develop effective recovery programs and projects. <a href="evaluating-effective-action.php">LEARN MORE</a></p>
+			<p>Many restoration and management actions have been  effective in restoring ecosystem components and processes in Puget Sound. Partnership  staff and contractors find and review restoration and management action reports  and results to collect information about what&rsquo;s working to restore Puget Sound  and what could be better improved. This information, once vetted by regional  experts, is summarized and used to help develop effective recovery programs and  projects. <a href="evaluating-effective-action.php">LEARN MORE</a></p>
 
 			<h2>ADAPTIVE MANAGEMENT FRAMEWORK </h2>
-			<p>The Partnership uses a results-based—or adaptive—approach to managing ecosystem recovery. This approach helps to ensure that decisions about ecosystem recovery priorities are based on the best available information about the effectiveness of management investments. This approach also helps accommodate the profound uncertainties about how Puget Sound responds to stresses and to different management efforts. <a href="science-adaptive-management-framework.php">LEARN MORE</a></p>
+			<p>The Partnership uses a results-based—or adaptive—approach to managing ecosystem recovery. This approach helps to ensure that decisions about ecosystem recovery priorities are based on the best available information about the effectiveness of management investments. This approach also helps accommodate the profound uncertainties about how Puget Sound responds to stresses and to different management efforts. <a href="science-adaptive-management-framework.php">LEARN MORE</a>.</p>
+			
+			<p class="last-update">Last updated: 06/27/25</p>
 
 			<!-- InstanceEndEditable --> </div>
 		
