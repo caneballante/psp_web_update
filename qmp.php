@@ -85,11 +85,11 @@
 						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/fcs3ggeiv7z1yz04gjxu78sxatwogs4j">2016 QAPP Training</a></p>
 						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/kzd0lvbizx5r842z0t8vx3th7spimfpg">2016 Quality Management Plan</a></p>
 			<p style="font-weight: bold">&nbsp;</p>
-						<p style="font-weight: bold"><a href="downloads/2014_qmp/Quality Management Plan April 2014_with_appendices.pdf">Quality Management Plan April 2014 (with appendices)</a>						</p>
+		<p style="font-weight: bold"><a href="downloads/2014_qmp/Quality Management Plan April 2014_with_appendices.pdf">Quality Management Plan April 2014 (with appendices)</a>						</p>
 						<ul>
 								<li><a href="downloads/2014_qmp/Quality Management Plan April 2014.pdf" style="font-weight: bold">Quality Management Plan April 2014</a></li>
 								<li><a href="downloads/2014_qmp/Appx A Quaility Assurance Policy.pdf" style="font-weight: bold">Appx A Quality Assurance Policy</a></li>
-								<li><a href="downloads/2014_qmp/Appx B Org Chart Quality Mgmt System.pdf" style="font-weight: bold">Appx B Org Chart Quality Mgmt System</a></li>
+								<li><a href="https://pspwa.box.com/s/nium8veqhgiqbf1ml27bo7e8om5c66cs" target="new" style="font-weight: bold">Appx B Org Chart Quality Mgmt System</a></li>
 								<li><a href="downloads/2014_qmp/Appx C A_500 Agency Records Management and Retention.pdf" style="font-weight: bold">Appx C A_500 Agency Records Management and Retention</a></li>
 								<li><a href="downloads/2014_qmp/Appx D PSP_GISProgramAndStandards_workingdocument.pdf" style="font-weight: bold">Appx D PSP_GISProgramAndStandards_workingdocument</a></li>
 								<li><a href="downloads/2014_qmp/Appx E Washington State OCIO oversight policies and standards.pdf" style="font-weight: bold">Appx E Washington State OCIO oversight policies and standards</a></li>
@@ -97,6 +97,7 @@
 								<li><a href="downloads/2014_qmp/Appx G Delegation of Authority (RCW 39.26.090).pdf" style="font-weight: bold">Appx G Delegation of Authority (RCW 39.26.090)</a></li>
 						</ul>
 						<p style="font-weight: bold"><a href="downloads/2014_qmp/Guidelines for scientific review_Jan 25 FINAL.pdf">Guidelines for Scientific Review</a></p>
+			<p class="last-update">Last updated: 06/17/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>

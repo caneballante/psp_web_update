@@ -221,8 +221,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/PEAR-news.jpg"  alt="Puget Sound Acquisition and Restoration Fund (PSAR) logo superimposed on a photo of a creek with trees in the background"/> <strong>STATEMENT</strong><br>
-						<a href="https://psp.wa.gov/pear.php">Partnership's Pro-Equity Anti-Racism statement</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/salmon.jpg"  alt="salmon swimming together"/> <strong>RESEARCH</strong><br>
+						<a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1514508/full" target="new">Assessing the cumulative effects of nearshore habitat restoration actions for multiple populations of juvenile salmon in Whidbey Basin, Washington.</a><br>
 						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
