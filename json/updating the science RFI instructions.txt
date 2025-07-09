@@ -1,0 +1,6 @@
+1. Make a copy of the file to your desktop
+2. Delete all the columns not included in the JSON file
+3. Delete the additional tabs in the .xls. You only want “project overviews”
+4. Check the “links to products if available”. Only the text of the link should be included. Not additional text that is hyperlinked or additional text adjacent to the link.
+5. Check that all the vital sign text is consistent. There are misspellings and alternate spellings. All the text needs to be exactly the same or new sortable headers will appear.
+6. I used Excel to JSON Converter: Convert Excel sheet to JSON table format to make the conversion to JSON.
