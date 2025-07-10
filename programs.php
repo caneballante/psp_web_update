@@ -267,14 +267,14 @@
       </h4>
     </div>
   </div>
-			<div id="collapseEleven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+			<div id="collapseTwelve" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
         <p>The Partnership’s Human Resources and Workplace Culture Program leads the agency’s objective to attract, support, and empower the most diverse talent that drives the Partnership’s mission forward. The program leads the development of equitable strategies that meet the agency’s organizational development needs and its staff, including employee relations and workplace/personnel compliance with state and federal laws. The program performs agency-wide activities that drive employee engagement and promote well-being through inclusive workplace culture initiatives. The Human Resources and Workplace Culture Team engages with people at each stage of the employee life cycle to optimize the employee experience, productivity, and performance management.</p>
       </div>
     </div>
-			<p class="last-update">&nbsp;</p>
-			<p class="last-update">Last updated: 07/09/25</p>
-			<!-- InstanceEndEditable --> </div>
+		<p class="last-update">&nbsp;</p>
+			<p class="last-update">Last updated: 07/09/25			</p>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
