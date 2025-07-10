@@ -99,91 +99,91 @@
 			<p>The External Operations Division consists of the Boards, Communications, Ecosystem Recovery, Implementation, Salmon Recovery Strategic Funding, and Science and Evaluation programs. </p>
 			<p>Select the header of each division to read expand and read more about them.</p>
 		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
-      <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          ADAPTIVE SYSTEMS AND ACCOUNTABILITY PROGRAM
-        </a>
-      </h4>
-    </div>
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-      <div class="panel-body"><span class="padding-20-left">
-      <p>The Adaptive Systems and Accountability Program leads the development, management, and implementation of adaptive management processes and information management systems that support the recovery and long-term protection of the Puget Sound ecosystem. Using the <a href="http://cmp-openstandards.org/">Open Standards for the Practice of Conservation</a> as a guiding framework, the team works closely with Partnership staff and partners to ensure decisions about Puget Sound recovery are informed by the best available science, consider the diverse perspectives from around the region, and incorporate learning from past and current efforts</p></span></div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
-     	<div class="flexme">
-			<h4 class="panel-title">
-				<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-			  Boards
-				</a>
-		  	</h4>
-   		</div>
-	</div>
-    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-      <div class="panel-body">
-        <p>The Boards Program is responsible for supporting the Leadership Council, Ecosystem Coordination Board, and Science Panel, which in turn guide the agency in its charge to accelerate Puget Sound recovery. The Boards Program also supports the Puget Sound Salmon Recovery Council, which advises the Leadership Council on matters related to salmon recovery. This program coordinates and focuses the efforts of recovery partners on each of the agency’s boards to align actions, remove barriers, build partnerships, mobilize funding, and drive innovation to advance the recovery effort.</p>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Communications
-        </a>
-      </h4>
-    </div>
-    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-      <div class="panel-body">
-       <p>The Communications Team fosters the networks and relationships through the which the Puget Sound recovery community can come together to create and deliver effective, decision-critical communications. The Communications Team engages partners in Puget Sound recovery to build trust, reinforce relationships, and foster commitments, enabling key decision-makers to have the tools, information, and support needed to make policy and funding decisions that support Puget Sound recovery.</p>	
-      </div>
-    </div>
-  </div>
+			  <div class="panel panel-default">
+				<div class="panel-heading" role="tab" id="headingOne">
+				  <h4 class="panel-title">
+					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+					  ADAPTIVE SYSTEMS AND ACCOUNTABILITY PROGRAM
+					</a>
+				  </h4>
+				</div>
+				<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+				  <div class="panel-body"><span class="padding-20-left">
+				 	 <p>The Adaptive Systems and Accountability Program leads the development, management, and implementation of adaptive management processes and information management systems that support the recovery and long-term protection of the Puget Sound ecosystem. Using the <a href="http://cmp-openstandards.org/">Open Standards for the Practice of Conservation</a> as a guiding framework, the team works closely with Partnership staff and partners to ensure decisions about Puget Sound recovery are informed by the best available science, consider the diverse perspectives from around the region, and incorporate learning from past and current efforts</p></span></div>
+				</div>
+			  </div>
+			  <div class="panel panel-default">
+				<div class="panel-heading" role="tab" id="headingTwo">
+					<div class="flexme">
+						<h4 class="panel-title">
+							<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						  Boards
+							</a>
+						</h4>
+					</div>
+				</div>
+				<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+				  <div class="panel-body">
+					<p>The Boards Program is responsible for supporting the Leadership Council, Ecosystem Coordination Board, and Science Panel, which in turn guide the agency in its charge to accelerate Puget Sound recovery. The Boards Program also supports the Puget Sound Salmon Recovery Council, which advises the Leadership Council on matters related to salmon recovery. This program coordinates and focuses the efforts of recovery partners on each of the agency’s boards to align actions, remove barriers, build partnerships, mobilize funding, and drive innovation to advance the recovery effort.</p>
+				  </div>
+				</div>
+			  </div>
+			  <div class="panel panel-default">
+				<div class="panel-heading" role="tab" id="headingThree">
+				  <h4 class="panel-title">
+					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+					  Communications
+					</a>
+				  </h4>
+				</div>
+				<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+				  <div class="panel-body">
+				   <p>The Communications Team fosters the networks and relationships through the which the Puget Sound recovery community can come together to create and deliver effective, decision-critical communications. The Communications Team engages partners in Puget Sound recovery to build trust, reinforce relationships, and foster commitments, enabling key decision-makers to have the tools, information, and support needed to make policy and funding decisions that support Puget Sound recovery.</p>	
+				  </div>
+				</div>
+			  </div>
 			<div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapsezFour">
-          Local Integrating Organizations
-        </a>
-      </h4>
-    </div>
-    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-      <div class="panel-body">
-       <p>The Local Integrating Organization (LIO) Program  is responsible for coordinating and supporting the 10 LIOs of Puget Sound. LIOs  are watershed-scale networks of ecosystem recovery practitioners,  decision-makers, NGOs, Tribes, and staff from local governments and agencies,  and they play a key role in identifying and coordinating local strategies and  actions that contribute to ecosystem recovery. The LIO Program manages the LIO  capacity contracts, facilitates regular group meetings with LIO Coordinators and  various partners, coordinates programmatic initiatives, and serves as liaison  and regional representative at LIO committee meetings. The LIO Program supports  LIOs in developing LIO Action Plans on Action Agenda topics, maintaining the  longer-term Ecosystem Recovery Plans, and hosting Ecosystem Coordination Board  and Leadership Council meetings as part of the LIO Local Forums, generally  working to facilitate and amplify local-regional connections and collaboration.</p>	
-      </div>
-    </div>
-  </div>
+				<div class="panel-heading" role="tab" id="headingThree">
+				  <h4 class="panel-title">
+					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapsezFour">
+					  Local Integrating Organizations
+					</a>
+				  </h4>
+				</div>
+				<div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+				  <div class="panel-body">
+				   <p>The Local Integrating Organization (LIO) Program  is responsible for coordinating and supporting the 10 LIOs of Puget Sound. LIOs  are watershed-scale networks of ecosystem recovery practitioners,  decision-makers, NGOs, Tribes, and staff from local governments and agencies,  and they play a key role in identifying and coordinating local strategies and  actions that contribute to ecosystem recovery. The LIO Program manages the LIO  capacity contracts, facilitates regular group meetings with LIO Coordinators and  various partners, coordinates programmatic initiatives, and serves as liaison  and regional representative at LIO committee meetings. The LIO Program supports  LIOs in developing LIO Action Plans on Action Agenda topics, maintaining the  longer-term Ecosystem Recovery Plans, and hosting Ecosystem Coordination Board  and Leadership Council meetings as part of the LIO Local Forums, generally  working to facilitate and amplify local-regional connections and collaboration.</p>	
+				  </div>
+				</div>
+			  </div>
 			<div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-          Planning
-        </a>
-      </h4>
-    </div>
-    <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
-      <div class="panel-body">
-       <p>The Planning Team leads the planning activities of the agency, particularly the collaborative development, adoption, and implementation of the <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a>, as well as the development and execution of <a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a>.  The Planning Team works collaboratively to incorporate the work of many partners to identify and describe regional strategies and specific actions needed to protect and restore Puget Sound. The Team also works to ensure that the Action Agenda brings efficiency and coordination to a complex system, guides effective investment in Puget Sound recovery, and meets both our federal National Estuary Program and state-mandated requirements.</p>	
-      </div>
-    </div>
-  </div>
-			<div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-          Science & Evaluation
-        </a>
-      </h4>
-    </div>
-    <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
-      <div class="panel-body">
-       <p>The Science & Evaluation Program is responsible for coordinating and implementing a shared, science-based system of measurement and monitoring that allows assessment of collective actions. This team’s work informs updates to the Puget Sound Action Agenda by tracking the status of ecosystem recovery indicators and assessing the effectiveness of recovery efforts. Science & Evaluation staff report ecosystem recovery progress through the Vital Signs website, as well as the biennial State of the Sound report. The Science & Evaluation Program also provides support to the Science Panel, including development of the Quadrennial Science Work Plan, and provides support for the Puget Sound Ecosystem Monitoring Program (PSEMP).	</p>
-      </div>
-    </div>
-  </div>
+				<div class="panel-heading" role="tab" id="headingThree">
+				  <h4 class="panel-title">
+					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+					  Planning
+					</a>
+				  </h4>
+				</div>
+				<div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+				  <div class="panel-body">
+				   <p>The Planning Team leads the planning activities of the agency, particularly the collaborative development, adoption, and implementation of the <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a>, as well as the development and execution of <a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a>.  The Planning Team works collaboratively to incorporate the work of many partners to identify and describe regional strategies and specific actions needed to protect and restore Puget Sound. The Team also works to ensure that the Action Agenda brings efficiency and coordination to a complex system, guides effective investment in Puget Sound recovery, and meets both our federal National Estuary Program and state-mandated requirements.</p>	
+				  </div>
+				</div>
+			  </div>
+						<div class="panel panel-default">
+				<div class="panel-heading" role="tab" id="headingThree">
+				  <h4 class="panel-title">
+					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+					  Science & Evaluation
+					</a>
+				  </h4>
+				</div>
+				<div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+				  <div class="panel-body">
+				   <p>The Science & Evaluation Program is responsible for coordinating and implementing a shared, science-based system of measurement and monitoring that allows assessment of collective actions. This team’s work informs updates to the Puget Sound Action Agenda by tracking the status of ecosystem recovery indicators and assessing the effectiveness of recovery efforts. Science & Evaluation staff report ecosystem recovery progress through the Vital Signs website, as well as the biennial State of the Sound report. The Science & Evaluation Program also provides support to the Science Panel, including development of the Quadrennial Science Work Plan, and provides support for the Puget Sound Ecosystem Monitoring Program (PSEMP).	</p>
+				  </div>
+				</div>
+			  </div>
 			<div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h4 class="panel-title">
@@ -242,6 +242,7 @@
       <div class="panel-body"><span class="padding-20-left"><p>The Fiscal Services Program provides leadership and support for agency priorities and programs through quality budgeting, contracting, grant management, purchasing, and accounting services. The program performs agency-wide financial activities, and ensures financial compliance with state and federal laws/regulations and reporting requirements, as well as ensures operational effectiveness and financial stability of the agency. Fiscal Services monitors the day-to-day fiscal operations of the agency, ensuring funds are effectively requested and used in alignment with the agency's mission and goals.</p></span></div>
     </div>
   </div>
+			</div>
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingEleven">
      	<div class="flexme">
@@ -272,7 +273,7 @@
         <p>The Partnership’s Human Resources and Workplace Culture Program leads the agency’s objective to attract, support, and empower the most diverse talent that drives the Partnership’s mission forward. The program leads the development of equitable strategies that meet the agency’s organizational development needs and its staff, including employee relations and workplace/personnel compliance with state and federal laws. The program performs agency-wide activities that drive employee engagement and promote well-being through inclusive workplace culture initiatives. The Human Resources and Workplace Culture Team engages with people at each stage of the employee life cycle to optimize the employee experience, productivity, and performance management.</p>
       </div>
     </div>
-		<p class="last-update">&nbsp;</p>
+</div>
 			<p class="last-update">Last updated: 07/09/25			</p>
 		<!-- InstanceEndEditable --> </div>
 		
