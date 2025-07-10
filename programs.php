@@ -91,13 +91,13 @@
 		    Legislative Policy Director<br>
 		    - Special Assistant for Federal Affairs<br>
 		    - 
-		    Equity and Environmental Justice Manager<br>
+		    Tribal Affairs Manager<br>
 		    - 
 		    Chief Operating Officer. </p>
 			
 			<h2>EXTERNAL OPERATIONS</h2>
-			<p>The External Operations Division consists of the Boards, Communications, Communications, Ecosystem Recovery, Implementation, Salmon Recovery, and Science and Evaluation programs. </p>
-			<p>Select the header of each division to read expan and read more about them.</p>
+			<p>The External Operations Division consists of the Boards, Communications, Ecosystem Recovery, Implementation, Salmon Recovery Strategic Funding, and Science and Evaluation programs. </p>
+			<p>Select the header of each division to read expand and read more about them.</p>
 		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingOne">
@@ -257,10 +257,23 @@
         <p>The Puget Sound Partnership is part of the National Estuary Program (NEP) administered by the U.S. Environmental Protection Agency (EPA). The Partnership and EPA have cooperative agreements that support our base responsibilities related to the Puget Sound NEP and implementation of the Puget Sound Action Agenda. The Partnership’s EPA Program Manager is responsible for compliance with the requirements in the cooperative agreements. The Program Manager is the lead for developing cooperative agreements, negotiating amendments to the agreements, complying with EPA reporting requirements, coordinating activities with other NEPs in EPA Region 10 and nationally as needed, as well as providing subcontract oversight, coordinating with other state agencies and entities that receive NEP funds, and other related activities.</p>
       </div>
     </div>
+	  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwelve">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="true" aria-controls="collapseTwelve">
+          Human Resources and Workplace Culture Program 
+        </a>
+      </h4>
+    </div>
   </div>
-			
+			<div id="collapseEleven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+        <p>The Partnership’s Human Resources and Workplace Culture Program leads the agency’s objective to attract, support, and empower the most diverse talent that drives the Partnership’s mission forward. The program leads the development of equitable strategies that meet the agency’s organizational development needs and its staff, including employee relations and workplace/personnel compliance with state and federal laws. The program performs agency-wide activities that drive employee engagement and promote well-being through inclusive workplace culture initiatives. The Human Resources and Workplace Culture Team engages with people at each stage of the employee life cycle to optimize the employee experience, productivity, and performance management.</p>
+      </div>
+    </div>
 			<p class="last-update">&nbsp;</p>
-			<p class="last-update">Last updated: 05/16/25</p>
+			<p class="last-update">Last updated: 07/09/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
