@@ -99,7 +99,7 @@
               <li><strong>Puget  Sound Ecosystem Monitoring Program</strong> Steering Committee.            </li>
             </ul>
             <h2>Centennial Accord </h2>
-            <p>Our Centennial Accord Implementation plan is available at the  Governor&rsquo;s <a href="https://goia.wa.gov/relations/centennial-accord">Office of Indian Affairs</a> website. <br>
+				<p>Our Centennial Accord  plan can be found <a href="https://pspwa.box.com/s/ci93ww2odf533vop02ohl4kp9lzkabm6" target="new">here.</a> <br>
               Agency Centennial  Accord highlights are also available at the Governor&rsquo;s Office of Indian Affairs <a href="https://goia.wa.gov/relations">State-Tribal Relations / Centennial Accord | GOIA (wa.gov)</a> webpage.</p>
             <h2>Healthy Environment for All (HEAL) Act </h2>
             <p>The objective of the HEAL Act is to reduce environmental and health  disparities throughout Washington State and improve the health of all  Washington State residents. The Washington State Legislature passed Senate Bill  5141, <a href="http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?q=20210624103236">HEAL Act</a>, to be effective on July 25, 2021. </p>
@@ -122,7 +122,7 @@
             </div>
 			</div>
 			<h2 class="margin-0-top">&nbsp;</h2>
-			<p class="last-update">Last updated: 04/10/25</p>
+			<p class="last-update">Last updated: 07/14/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
