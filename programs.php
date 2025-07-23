@@ -92,7 +92,7 @@
 				<li>Chief Operating Officer</li>
 			</ul>
 			<h2>EXTERNAL OPERATIONS</h2>
-			<p>The External Operations Division consists of the Boards, Communications, Ecosystem Recovery, Implementation, Salmon Recovery Strategic Funding, and Science and Evaluation programs. </p>
+			<p>The External Operations Division consists of the Boards, Communications, Ecosystem Recovery, Implementation, Salmon, Recovery Strategic Funding, and Science and Evaluation programs. </p>
 			<p>Select the header of each division to read expand and read more about them.</p>
 		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 			  <div class="panel panel-default">
