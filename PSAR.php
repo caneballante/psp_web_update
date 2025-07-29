@@ -79,37 +79,27 @@
 			<div class="highlightbox">
 				<p><a href="https://pspwa.box.com/s/bj4sh2qk4u19yglcd4kj7r6p0ic2j0q1" target="new">2025-2027 PSAR Large Capital Project ranked list and project factsheets</a></p>
 			</div>
-			<iframe class="floatright margin-50-top" src="https://player.vimeo.com/video/785064068?h=3cb967761f" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+		<iframe class="floatright margin-50-top" src="https://player.vimeo.com/video/785064068?h=3cb967761f" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-			<h2>PSAR projects restore habitat critical to the survival of Puget Sound Salmon Populations.</h2>
-			<p><strong>PSAR projects:</strong></p>
-			<ul class="bullet-size-fix">
-				<li>Will restore over 900 acres and over 10 river miles</li>
-				<li>Uphold Tribal treaty rights</li>
-				<li>Support recovery of Puget Sound salmon, a critical food source for endangered Southern Resident orcas</li>
-				<li>Provide local jobs, public access, and recreation opportunities</li>
-				<li>Advance the Puget Sound Salmon Recovery Plan, the Puget Sound Action Agenda, and the NOAA-approved Chinook salmon recovery strategy</li>
-			</ul>
-			<p>PSAR investments create shovel ready projects! Years of planning, capacity building and collaborating means that there are valuable opportunities for shovel ready projects now. Fully funding these PSAR projects will make a difference in restoring our salmon.</p>
-			<p><strong>How PSAR works</strong></p>
-			<ul class="bullet-size-fix">
-				<li>PSAR was created in 2007 to help carry out the most important habitat protection and restoration projects for Puget Sound</li>
-				<li>PSAR has two parts: base funding for locally significant projects ($30.6M) and additional funding for regionally significant projects</li>
-				<li>Projects are proposed locally and then vetted and prioritized regionally to ensure they benefit salmon populations and local communities.</li>
-				<li>Projects are endorsed by members of the public, cities, counties, Tribes, nonprofit organizations, and government agencies</li>
-				<li>The Washington State Legislature budgets funding every two years for PSAR and issues the money through the Salmon Recovery Funding Board</li>
-			</ul>
+			<p>The Puget Sound Acquisition and Restoration (PSAR) program began in 2007 and supports salmon recovery by directing funds to the most important habitat protection and restoration projects for Puget Sound. The program has two parts: base funding for local priority projects vetted and selected through a local process (regular/base PSAR), and additional funding for regionally significant projects vetted locally and selected through a regional process (PSAR Large Capital Projects). The Washington State Legislature budgets funding every two years for PSAR.</p>
+		<p>In  the 2025 legislative session, $60.5M was allocated to PSAR from the state&rsquo;s  capital budget and from the Climate Commitment Act. $30.5M of the total will  support PSAR regular/base funding and locally vetted projects. And $30M will support-  the top ranked project on the regionally vetted <a href="https://pspwa.app.box.com/file/1729014099829?s=38g6y7ix0xkhwr89u6ew0uo126fze1y8">2025-2027  PSAR list</a>: <a href="https://pspwa.app.box.com/file/1938128315503">WDFW&rsquo;s  Island Unit estuary restoration project</a>. The Partnership appreciates the  legislature&rsquo;s support and the hard work of Tribes, project sponsors, community  members, Lead Entity coordinators and so many more!</p>
+			<p>PSAR investments are based on years of planning, capacity building, science, community involvement and collaboration to ensure that projects will make a difference in restoring our salmon. Over $350M has been invested in Puget Sound projects through PSAR since 2007 to:			</p>
+		<ul class="bullet-size-fix">
+			  <li>Protect over 16,000 acres of important habitat</li>
+				<li>Restore over 14,000 acres of critical floodplain and estuary habitat</li>
+				<li>Reconnect over 150 miles of waterways for fish passage</li>
+				<li>Support over 4,700 jobs to plan, organize and construct the projects.</li>
+		</ul>
+			<p>PSAR benefits ripple across local economies with 80% of the funds invested staying in the county where the projects are located. Community access, recreation, water quality, flood protection, food for orcas and much more also result from PSAR projects. To explore PSAR accomplishments and projects, view the dashboard <a href"https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/">here.</a>			</p>
 			<div class="h-divider"></div>
 			
-			<div class="floatright margin-20-left margin-20-bottom">
+		
 			
 				<p><a href="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/">Click to view the PSAR Accomplishments Dashboard</a></p>
 				
-				<div class="no-icon"> <a href="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/"><img src="images/PSAR2023.jpg" alt="" width="607" height="372" class="img-responsive padding-10-top"/></a></div>
-			</div>
-			
-			<p class="margin-20-top">The Puget Sound Acquisition and Restoration (PSAR) fund supports projects that recover salmon and protect and recover salmon habitat in Puget Sound. The state legislature appropriates money for PSAR every 2 years in the Capital Budget. PSAR is co-managed by the Puget Sound Partnership and the Recreation and Conservation Office. Local entities identify and propose PSAR projects. The Salmon Recovery Funding Board prioritizes projects for funding.</p>
-			<p>For 2023, the first year in which Climate Commitment Act (CCA)  funds were available, PSAR received $10.1million from the CCA out of the total  Capital Budget appropriation of $59.2 million. This combined investment  resulted in full funding of the PSAR program for the first time ever.</p>	
+				<div class="no-icon"></div>
+		<p class="margin-20-top"><span class="no-icon"><a href="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/"><img src="images/PSAR2025.jpg" alt="" width="607" height="372" class="img-responsive padding-10-top"/><br>
+		</a></span></p>
 			<hr />
 		<!--	<div class="row margin-10-top"> 
 			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/"><h4>Puget Sound Innovation Recovery Stories</h4></a></div>
@@ -120,35 +110,10 @@
 		<hr />-->
 		<h2>COMMUNITY INVOLVEMENT IN PSAR PROJECTS</h2>
 		<p><strong>Each community decides which projects matter most. </strong>
-			Washington approaches salmon recovery in a unique way. People in communities around Puget Sound organized themselves to address Endangered Species Act listings of Chinook and other salmonids in Washington state. This local approach to a difficult problem is known as &ldquo;the Washington Way.&rdquo;</p>
-			<p>The 15 community-based groups that organized in Puget Sound are called <a href="https://www.rco.wa.gov/salmon_recovery/lead_entities.shtml">Lead Entities</a>. Lead Entities are supported by regional entities called <a href="http://www.psp.wa.gov/salmon-recovery-overview.php">regional recovery organizations</a>. There are seven around the state, including two in the Puget Sound region. The Puget Sound Partnership is the regional recovery organization for all of Puget Sound except the Hood Canal area. Recovery organizations are accepted by NOAA as the owners of each region&rsquo;s recovery and are responsible to carrying out salmon recovery plans. </p>
-		<h2>LESSONS LEARNED</h2>
-			<p><strong>The PSAR program continues to improve with feedback from Local Entities.</strong><br>
-			As managers of the PSAR program, RCO and the Partnership continuously look for opportunities to improve how PSAR works. Some of the improvements over the past 10 years include the following:</p>
-		<ul class="bullet-size-fix">
-			<li>Developed methods to more clearly communicate how requested PSAR funds are used throughout the region</li>
-			<li>Improved the reporting and data management of PSAR projects to help project partners and constituents visualize results in their area and where money has been spent</li>
-			<li>Updated PSAR Large Capital criteria assist reviewers in selecting only the best projects shown to benefit salmon in Puget Sound and advance regional restoration targets </li>
-			<li>Synthesis of the most effective restoration actions further our knowledge of what&rsquo;s working for salmon recovery and help guide our actions and priorities in the region</li>
-		</ul>
-		<p>All this and more improvements are underway. We are constantly evaluating our activities to develop an understanding of effectiveness and impact that PSAR has on salmon recovery.<strong> </strong></p>
-		<h2>PROJECT EVALUATION</h2>
-			<p><strong>Evaluation helps verify project successes.</strong><br>
-			By monitoring PSAR project sites and evaluating the resulting data, scientists are observing many ecosystem successes, including the following: </p>
-		<ul class="bullet-size-fix">
-			<li>Eelgrass beds have expanded, water quality has improved, and shellfish areas are improving in the Skokomish River estuary, as a result of a PSAR-funded restoration project. <a href="https://pspwa.box.com/s/fdxzgqwtsct1xy4l6ohfpeepjg4ho42a" target="new">VIEW FACT SHEET</a></li>
-			<li>In the South Fork of the Skagit River, 461 estuary acres were restored and now support an additional 160,000 young Chinook each year; this represents about 12 percent of the salmon recovery goal for this area. <a href="https://pspwa.box.com/s/crre7nvc9ru3z14qegb5zojf1ofjtdon" target="new">VIEW FACT SHEET </a></li>
-			<li>An estimated 65,000 young Chinook salmon are expected to be produced annually after restoration is complete at Fir Island Farm in Skagit County, which holds some of the largest runs of Chinook, pink, and chum in the state. <a href="https://pspwa.box.com/s/zfbfd0ynmc3wec4cije7a89dop7zsr7k">VIEW FACT SHEET</a></li>
-		</ul>
-		<h2>PSAR PROJECT BENEFITS </h2>
-		<p><strong>PSAR benefits extend beyond the local ecosystem:</strong></p>
-		<ul class="bullet-size-fix">
-			<li>Every $1 million invested in watershed restoration produces more than 16 new or sustained jobs roughly $2.5 million in total economic activity. </li>
-			<li>80 percent of the funds invested in restoration projects stays in the county where the projects are located, providing needed cash in more rural and distressed counties. </li>
-		</ul>
-	
-		
-	<p class="last-update">Last updated: 12/18/24</p>
+			Washington approaches salmon recovery in a unique way as salmon are a Tribal treaty right and part of our collective heritage. When Chinook salmon and other salmonids were listed as threatened under the Endangered Species Act, people in communities around Puget Sound organized themselves to help. This local approach to a difficult problem is known as “the Washington Way.”</p>
+			<p>The 15 community-based groups that organized in Puget Sound are called <a href="https://www.rco.wa.gov/salmon_recovery/lead_entities.shtml">Lead Entities</a>. Lead Entities are supported by regional entities called <a href="http://www.psp.wa.gov/salmon-recovery-overview.php">regional recovery organizations</a>. There are seven around the state, including two in the Puget Sound region. The Puget Sound Partnership is the regional recovery organization for all of Puget Sound except the Hood Canal area. Recovery organizations are recognized by NOAA as responsible to lead efforts to meet goals set in salmon recovery plans. </p>
+			<p>The  Puget Sound Partnership continues to broaden our connections to people across  the region who are interested in salmon. For more information contact the PSAR  program manager: <a href="mailto:marlies.wierenga@psp.wa.gov">marlies.wierenga@psp.wa.gov.</a>	</p>
+		<p class="last-update">Last updated: 07/29/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
