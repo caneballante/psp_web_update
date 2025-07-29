@@ -98,7 +98,7 @@
 				<p><a href="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/">Click to view the PSAR Accomplishments Dashboard</a></p>
 				
 				<div class="no-icon"></div>
-		<p class="margin-20-top"><span class="no-icon"><a href="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/"><img src="images/PSAR2025.jpg" alt="" width="607" height="372" class="img-responsive padding-10-top"/><br>
+		<p class="margin-20-top"><span class="no-icon"><a href="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/"><img src="images/PSAR2025.png" alt="" width="607" height="372" class="img-responsive padding-10-top"/><br>
 		</a></span></p>
 			<hr />
 		<!--	<div class="row margin-10-top"> 
