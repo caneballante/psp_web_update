@@ -113,7 +113,7 @@
 			Washington approaches salmon recovery in a unique way as salmon are a Tribal treaty right and part of our collective heritage. When Chinook salmon and other salmonids were listed as threatened under the Endangered Species Act, people in communities around Puget Sound organized themselves to help. This local approach to a difficult problem is known as “the Washington Way.”</p>
 			<p>The 15 community-based groups that organized in Puget Sound are called <a href="https://www.rco.wa.gov/salmon_recovery/lead_entities.shtml">Lead Entities</a>. Lead Entities are supported by regional entities called <a href="http://www.psp.wa.gov/salmon-recovery-overview.php">regional recovery organizations</a>. There are seven around the state, including two in the Puget Sound region. The Puget Sound Partnership is the regional recovery organization for all of Puget Sound except the Hood Canal area. Recovery organizations are recognized by NOAA as responsible to lead efforts to meet goals set in salmon recovery plans. </p>
 			<p>The  Puget Sound Partnership continues to broaden our connections to people across  the region who are interested in salmon. For more information contact the PSAR  program manager: <a href="mailto:marlies.wierenga@psp.wa.gov">marlies.wierenga@psp.wa.gov.</a>	</p>
-		<p class="last-update">Last updated: 07/29/25</p>
+		<p class="last-update">Last updated: 08/01/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
