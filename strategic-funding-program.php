@@ -99,7 +99,7 @@ navSelected = 1;
 				To learn about <a href="/funding-barriers.php">updates on funding barriers</a> or to request  more information, please email us at <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a> .<strong></strong></p>
             <h2><strong>Restoration and Transportation Funding  opportunities</strong></h2>
             <p>We work to build on the traditional  overlap and strengthen the alignment between transportation and Puget Sound  ecosystem and salmon recovery. Our aim is to unite the recovery and  transportation sectors throughout partnerships, planning, and implementation of  projects, to create <a href="/soundsafe.php">Sound Safe Infrastructure</a>. This is transportation  infrastructure that does not create additional stressors and pressures but contributes  to Puget Sound ecosystem and salmon recovery.<br>
-              For more information,  reach out to our restoration and transportation funding strategist, <a href="mailto:bebhinn.dechery@psp.wa.gov">Bebhinn Dechery</a>.<strong></strong></p>
+              For more information,  please email us at <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
             <h2><strong>Grant Writing</strong></h2>
             <p>We provide the Tribes, LIOs,  LEs, and local partners with technical assistance and the capacity to prepare  their grant applications for submission. Our grant writer will help identify  funding opportunities, develop high-quality grant proposals to federal, state,  and private funding agencies, and monitor grant progression with the goal of  increasing the number of successful submissions for local and regional recovery  projects.<br>
               For more information,  please read our <a href="/grantwriting.php">grant writing and technical assistance page</a>, or reach out to our grant writer, <a href="mailto:michelle.deckard@psp.wa.gov">Michelle Deckard</a><u>.</u><strong> </strong></p>
@@ -131,7 +131,7 @@ navSelected = 1;
             <p>If  you have any questions about the Strategic Funding Team. PS RAFT, or any specific funding needs, please email <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 06/06/25</p>
+		<p class="last-update">Last updated: 08/06/25</p>
 
         <!-- InstanceEndEditable --> </div>
 		
