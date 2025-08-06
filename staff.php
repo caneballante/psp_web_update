@@ -157,9 +157,6 @@
 							</p>
 		<h5>VACANT</h5>
 						<p>Strategic Funding Coordinator<br>
-						<h5>Heeju jung</h5>
-                        <p>Hershman Fellow <br>
-        564.250.0979 | <a href="mailto:heeju.jung@psp@psp.wa.gov">heeju.jung@psp.wa.gov</a></p>
 						  <!--BOARDS PROGRAM-->
 	    <h3 class="padding-10-top">BOARDS PROGRAM</h3>
 						<h5>Tristan Contesse</h5>
@@ -370,7 +367,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 08/05/25</p>
+	<p class="last-update">Last updated: 08/06/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
