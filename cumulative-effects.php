@@ -103,6 +103,8 @@
 </table>
 <br>
 <br>
+        <h2>Peer reviewed publications</h2>
+        <p>- Sobocinski, Kathryn L., Michael LeMoine, Joshua W. Chamberlin, Letitia Conway-Cranos, Annelise Del Rio, Heida L. Diefenderfer, Correigh M. Greene et al.<a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1514508/pdf" target="new">Assessing the cumulative effects of nearshore habitat restoration actions for multiple populations of juvenile salmon in Whidbey Basin, Washington: foundation and approach for synthesis and evaluation."</a> Frontiers in Marine Science 12 (2025): 1514508.</p>
         <h2>Status reports</h2>
 					
 		<p><a href="https://pspwa.box.com/s/u8vwvj3833weg5ocawm8r8u0fudl5eyy" target="new">2022 – 2023 Annual Report:</a> This report documents recent progress on the Whidbey basin cumulative effects study for 2022-2023. The report details the development of analytical aspects of the study, including methodology for the systematic literature review, synthesis approach, and the evaluation of causal criteria.</p>
