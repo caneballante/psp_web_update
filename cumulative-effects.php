@@ -93,7 +93,10 @@
       <th scope="col"><img src="https://pspwa.box.com/shared/static/oozt7kzi0jf4r16kqqb4g8kcbr16hydk.jpg" width="250" height="250" alt=""/></th>
     </tr>
     <tr>
-      <td><a href="https://pspwa.box.com/s/8qxouataobuz63fzp0sowx0wm18dzs5i" target="new">Fact sheet - Cumulative Effects Evaluation - Whidbey Basin</a></td>
+      <td><a href="https://pspwa.box.com/s/8qxouataobuz63fzp0sowx0wm18dzs5i" target="new">- Fact sheet - Cumulative Effects Evaluation - Whidbey Basin<br>
+      </a><a href="https://pspwa.box.com/s/chkovwt4x3ynno1spcpvlv1ihv1h2kxt" target="new"><br>
+        - 
+        Fact sheet - Evidence Based Review of Estuary & Nearshore Habitat Restoration in Whidbey Basin</a></td>
       <td><a href="https://pspwa.box.com/s/aygnbxy9cqeg58z7cthk5izy6c1crz75" target="new">Fact sheet - Cumulative Effects Evaluation - Evaluation Framework for Puget Soun</a></td>
     </tr>
   </tbody>
@@ -118,7 +121,7 @@
 			<h2>Stay connected</h2>
 			<p> <a href="https://public.govdelivery.com/accounts/WAPSP/signup/34165" target="new">Subscribe here</a> for news and announcements on the Whidbey basin cumulative effects study.</p>
 			
-			<p class="last-update">Last updated: 06/20/25</p>
+			<p class="last-update">Last updated: 08/07/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
