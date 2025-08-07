@@ -81,14 +81,14 @@
 			</div>
 			<p>The Puget Sound Acquisition and Restoration (PSAR) program began in 2007 and supports salmon recovery by directing funds to the most important habitat protection and restoration projects for Puget Sound. The program has two parts: base funding for local priority projects vetted and selected through a local process (regular/base PSAR), and additional funding for regionally significant projects vetted locally and selected through a regional process (PSAR Large Capital Projects). The Washington State Legislature budgets funding every two years for PSAR.</p>
 		<p>In  the 2025 legislative session, $60.5M was allocated to PSAR from the state&rsquo;s  capital budget and from the Climate Commitment Act. $30.5M of the total will  support PSAR regular/base funding and locally vetted projects. And $30M will support-  the top ranked project on the regionally vetted <a href="https://pspwa.app.box.com/file/1729014099829?s=38g6y7ix0xkhwr89u6ew0uo126fze1y8">2025-2027  PSAR list</a>: <a href="https://pspwa.app.box.com/file/1938128315503">WDFW&rsquo;s  Island Unit estuary restoration project</a>. The Partnership appreciates the  legislature&rsquo;s support and the hard work of Tribes, project sponsors, community  members, Lead Entity coordinators and so many more!</p>
-			<p>PSAR investments are based on years of planning, capacity building, science, community involvement and collaboration to ensure that projects will make a difference in restoring our salmon. Over $350M has been invested in Puget Sound projects through PSAR since 2007 to:			</p>
+			<iframe src="https://player.vimeo.com/video/785064068?h=3cb967761f" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+		<p>PSAR investments are based on years of planning, capacity building, science, community involvement and collaboration to ensure that projects will make a difference in restoring our salmon. Over $350M has been invested in Puget Sound projects through PSAR since 2007 to:			</p>
 		<ul class="bullet-size-fix">
 			  <li>Protect over 16,000 acres of important habitat</li>
 				<li>Restore over 14,000 acres of critical floodplain and estuary habitat</li>
 				<li>Reconnect over 150 miles of waterways for fish passage</li>
 				<li>Support over 4,700 jobs to plan, organize and construct the projects.</li>
 		</ul>
-			<iframe src="https://player.vimeo.com/video/785064068?h=3cb967761f" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 		<p>PSAR benefits ripple across local economies with 80% of the funds invested staying in the county where the projects are located. Community access, recreation, water quality, flood protection, food for orcas and much more also result from PSAR projects. To explore PSAR accomplishments and projects, view the dashboard <a href"https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/">here.</a>			</p>
 			<div class="h-divider"></div>
 			
