@@ -121,14 +121,9 @@ navSelected = 3;
               efficient investments in ecosystem restoration, salmon recovery, and transportation networks.<br>
               4. Create a funding landscape that is supportive of the restoration and transportation work needed
               for ecosystem and salmon recovery. Increase awareness of funding opportunities and reduce barriers
-            to project application and implementation.</p>
-            <h2><strong>Contact</strong><strong>&nbsp;</strong></h2>
-            <p><strong>Bebhinn Dechery</strong><u></u></p>
-            <p>Restoration and Transportation Funding Strategist</p>
-			<p>360.870.1467 |<a href="mailto:bebhinn.dechery@psp.wa.gov"> bebhinn.dechery@psp.wa.gov</a></p>
-			
-		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 11/20/24</p>
+            to project application and implementation.
+		<!-- LAST UPDATED -->		</p>
+        <p class="last-update">Last updated: 08/06/25</p>
 
         <!-- InstanceEndEditable --> </div>
 		

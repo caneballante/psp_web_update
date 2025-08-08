@@ -91,15 +91,23 @@
     <tr>
       <th scope="col"><img src="images/cee-web.jpg" width="250" height="250" alt=""/><br></th>
       <th scope="col"><img src="https://pspwa.box.com/shared/static/oozt7kzi0jf4r16kqqb4g8kcbr16hydk.jpg" width="250" height="250" alt=""/></th>
+		<th scope="col"><img src="images/CEEwhidbeybasinreview.png" width="250" height="250" alt=""/></th>
     </tr>
     <tr>
-      <td><a href="https://pspwa.box.com/s/8qxouataobuz63fzp0sowx0wm18dzs5i" target="new">Fact sheet - Cumulative Effects Evaluation - Whidbey Basin</a></td>
-      <td><a href="https://pspwa.box.com/s/aygnbxy9cqeg58z7cthk5izy6c1crz75" target="new">Fact sheet - Cumulative Effects Evaluation - Evaluation Framework for Puget Soun</a></td>
+      <td><a href="https://pspwa.box.com/s/8qxouataobuz63fzp0sowx0wm18dzs5i" target="new">- Fact sheet - Cumulative Effects Evaluation - Whidbey Basin<br>
+      </a><a href="https://pspwa.box.com/s/chkovwt4x3ynno1spcpvlv1ihv1h2kxt" target="new"><br>
+      </a></td>
+      <td><a href="https://pspwa.box.com/s/aygnbxy9cqeg58z7cthk5izy6c1crz75" target="new">Fact sheet - Cumulative Effects Evaluation - Evaluation Framework for Puget Sound</a></td>
+		<td><a href="https://pspwa.box.com/s/chkovwt4x3ynno1spcpvlv1ihv1h2kxt" target="new">-         
+        Fact sheet - Evidence Based Review of Estuary & Nearshore Habitat Restoration in Whidbey Basin</a><a href="https://pspwa.box.com/s/aygnbxy9cqeg58z7cthk5izy6c1crz75" target="new"></a></td>
     </tr>
+	  
   </tbody>
 </table>
 <br>
 <br>
+        <h2>Peer reviewed publications</h2>
+        <p>- Sobocinski, Kathryn L., Michael LeMoine, Joshua W. Chamberlin, Letitia Conway-Cranos, Annelise Del Rio, Heida L. Diefenderfer, Correigh M. Greene et al.<a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1514508/pdf" target="new">Assessing the cumulative effects of nearshore habitat restoration actions for multiple populations of juvenile salmon in Whidbey Basin, Washington: foundation and approach for synthesis and evaluation."</a> Frontiers in Marine Science 12 (2025): 1514508.</p>
         <h2>Status reports</h2>
 					
 		<p><a href="https://pspwa.box.com/s/u8vwvj3833weg5ocawm8r8u0fudl5eyy" target="new">2022 – 2023 Annual Report:</a> This report documents recent progress on the Whidbey basin cumulative effects study for 2022-2023. The report details the development of analytical aspects of the study, including methodology for the systematic literature review, synthesis approach, and the evaluation of causal criteria.</p>
@@ -118,7 +126,7 @@
 			<h2>Stay connected</h2>
 			<p> <a href="https://public.govdelivery.com/accounts/WAPSP/signup/34165" target="new">Subscribe here</a> for news and announcements on the Whidbey basin cumulative effects study.</p>
 			
-			<p class="last-update">Last updated: 06/20/25</p>
+			<p class="last-update">Last updated: 08/07/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
