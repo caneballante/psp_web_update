@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Biennial Science Work Plan</title>
+<title>Puget Sound Partnership - Science Work Plan</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -88,9 +88,9 @@
 <p>Science and Evaluation Director</p>
 <p>360.791.2879 | <a href="mailto:scott.redman@psp.wa.gov">Scott.Redman@psp.wa.gov</a></p>
 <p>  Or<br>
-  Katherine Wyatt<br>
+  Laura Rivas<br>
   Assistant Science Director<br>
-	360.918.1098 | <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></p></div>
+	360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">Laura.Rivas@psp.wa.gov</a></p></div>
 			
 		
 
@@ -175,8 +175,8 @@
 					</tr>
 					<tr>
 						<td><h3>land use change</h3>
-					    <p>11. Identify and assess drivers of land use trends and decisions (e.g. climate change, migration,
-					      urbanization, development) that are impacting the Puget Sound social-ecological system. How
+					    <p>11. Identify and assess drivers of land use trends and decisions (such as climate change, migration,
+					      urbanization, anddevelopment) that are impacting the Puget Sound social-ecological system. How
 					      can impacts be mitigated through planning, incentives, or regulations? (Human R13/Climate
 					      R7).</p>
 					    <p> 12. Monitor habitat and landscape changes resulting from development and other stressors. Assess
@@ -228,7 +228,7 @@
 	<h2>Read more about the science work plan here</h2>
 	<p><a href="https://pspwa.box.com/s/px3jikktphwhphj7q1y41wqcpzib5jlc" target="new">Priority Science to Support Puget Sound Recovery: A Science Work Plan for 2025-2029 (SWP for 2025-2029).</a></p>
 	<p></p>
-<p class="last-update">Last updated: 01/24/25</p>
+<p class="last-update">Last updated: 08/11/25</p>
   		
 
   		
@@ -259,6 +259,8 @@
 						<li role="presentation"> <a href="downloads/SP2009/IndicatorSummaryReport(Final)120108.doc">Environmental Indicators for the Puget Sound Partnership: A Regional Effort to Select Provisional Indicators (Phase 1) Summary Report</a></li>
 						
 						<li role="presentation"> <a href="downloads/SP2009/IndicatorEvaluationSpreadsheet091308.xls">Indicator Evaluation Spreadsheet </a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/funding.php">Funding Opportunities </a></li>
+				<li role="presentation"> <a href="https://psp.wa.gov/science-funded-projects.php">Science and Evaluation Funded Projects </a></li>
 						
 						
 					
