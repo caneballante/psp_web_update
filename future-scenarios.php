@@ -149,6 +149,7 @@
 			<p><h2>Contact us</h2></p>
 			<p>If you would like to be involved in this project work, have data to share, or would like a briefing, please get in touch with one of the project leads:</p>
 			<ul class="bullet-size-fix">
+				<li>Laura Rivas, <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a> </li>
 				<li>Elizabeth McManus, <a href="mailto:emcmanus@rosstrategic.com">emcmanus@rossstrategic.com</a></li>
 			</ul>
 			
