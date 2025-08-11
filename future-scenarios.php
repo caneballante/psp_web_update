@@ -148,14 +148,13 @@
 			</ul>
 			<p><h2>Contact us</h2></p>
 			<p>If you would like to be involved in this project work, have data to share, or would like a briefing, please get in touch with one of the project leads:</p>
-			
 			<ul class="bullet-size-fix">
-			  <li>Katherine Wyatt, <a href="mailto:katherine.wyatt@psp.wa.gov">katherine.wyatt@psp.wa.gov</a></li>
+				<li>Laura Rivas, <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a> </li>
 				<li>Elizabeth McManus, <a href="mailto:emcmanus@rosstrategic.com">emcmanus@rossstrategic.com</a></li>
 			</ul>
 			
 			
-			<p class="last-update">Last updated: 06/26/24</p>
+			<p class="last-update">Last updated: 08/11/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
