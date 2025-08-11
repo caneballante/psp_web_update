@@ -76,12 +76,11 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>The Puget Sound Partnership's <a href="https://pspwa.box.com/s/q4ahwskmrytiqz6b9ya1271djv9bb9bb" target="_blank">Strategic Plan 2024-2029</a> contains information about our vision, mission, roles, and outcomes, and our goals for 2024 and 2029 for improving effectiveness and accountability; strengthening the system of recovery; building the case for recovery and rallying support; and enhancing our internal performance.</p>
-			<p><br>
-			  <br>
-			  <br>
-			</p>
-			<h2>&nbsp;</h2>
-			
+			<p><a href="https://pspwa.box.com/shared/static/assixvv1og5hnjkd73nwswfjdtq7pq7a.pdf">Recreation and Conservation Office and Puget Sound Partnership Joint Information Technology Strategic Plan Biennium 2025-27, FY2025</a></p>
+		<br>
+<br>
+<br>
+<p class="last-update">Last updated: 08/08/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>

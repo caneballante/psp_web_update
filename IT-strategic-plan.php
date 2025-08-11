@@ -75,11 +75,11 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>In accordance with <a href="https://ocio.wa.gov/policy/technology-portfolio-foundation">OCIO POL 112</a>,  the Puget Sound Partnership must publish the agency IT strategic plan on it's website. <a href="" target="new">You can click here to view the Recreation and Conservation Office and Puget Sound Partnership Joint Information Technology Strategic Plan FY2021.</a> (COMING SOON)</p>
-			<p><br>
-			  <br>
-			  <br>
-			</p>
+			<p>In accordance with&nbsp;<a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwatech.wa.gov%2Fpolicies%2Ftechnology-portfolio-foundation&data=05%7C02%7Cjon.bridgman%40psp.wa.gov%7Cadadd811546b43314bd308ddd6be1203%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638902834008426213%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oL5fxaT6paG1z8pvYeNhR6rOO0blhhWVOtn8f9UpEoE%3D&reserved=0">WaTech  MGMT-01 Technology Portfolio Foundation Policy</a>, the Puget Sound  Partnership must publish the agency IT strategic plan on it's website.&nbsp;<a href="https://pspwa.box.com/shared/static/assixvv1og5hnjkd73nwswfjdtq7pq7a.pdf" target="new">You can click here to view the Recreation and Conservation Office  and Puget Sound Partnership Joint Information Technology Strategic Plan FY2025.</a>&nbsp;</p>
+<p><br>
+	    <br>
+	    <br>
+		</p>
 			<h2>&nbsp;</h2>
 			
 			<!-- InstanceEndEditable --> </div>
