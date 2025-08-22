@@ -155,8 +155,9 @@
 						<h5>VACANT</h5>
 						<p>Restoration and Transportation Funding Strategist<br>
 							</p>
-		<h5>VACANT</h5>
+		<h5>MELISSA CIESIELSKI</h5>
 						<p>Strategic Funding Coordinator<br>
+							360.819.7232 | <a href="mailto:melissa.ciesielski@psp.wa.gov">melissa.ciesielski@psp.wa.gov</a></p>
 						  <!--BOARDS PROGRAM-->
 	    <h3 class="padding-10-top">BOARDS PROGRAM</h3>
 						<h5>Tristan Contesse</h5>
@@ -367,7 +368,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 08/06/25</p>
+	<p class="last-update">Last updated: 08/22/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
