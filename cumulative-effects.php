@@ -81,9 +81,9 @@
 		<p>To address this knowledge gap, the Puget Sound Partnership  is supporting a multiyear, science-based evaluation of how nearshore habitat  recovery actions impact juvenile salmonids in the Whidbey Basin. By  collaborating with a team of leading researchers from multiple institutions,  this project seeks to understand the cumulative impacts of habitat restoration  efforts implemented over the past two decades—particularly those aimed at  improving critical habitat for juvenile Chinook salmon. </p>
 			<p>Launched in 2021, this ongoing study is helping  to identify which interventions are most effective in achieving our collective  recovery goals. The findings will deepen our understanding of key ecosystem  processes and inform more strategic, effective recovery actions moving forward.</p>
 			<h2>Learn  more:</h2>
-<p>We recommend starting with our webinar,<a href="https://www.youtube.com/watch?v=vo49qF34xGM" target="new">&lsquo;Cumulative Effects Evaluation  for Salmon Restoration&rsquo;,</a> presented at the Salish Sea Ecosystem Roundtable on December 3, 2024, which  offers an overview of the project and the latest developments.<br>
+<p>We recommend starting with our webinar,<a href="https://www.youtube.com/watch?v=vo49qF34xGM" target="new">&lsquo;Cumulative Effects Evaluation  for Salmon Restoration&rsquo;,</a> presented at the Salish Sea Ecosystem Roundtable on December 3, 2024.<br>
 </p>
-<h2>Open Source Scientific Journals </h2>
+<h2>peer reviewed publications </h2>
 <p><a href ="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1514508/full" target="new">Assessing the cumulative effects of nearshore habitat restoration actions for multiple populations of juvenile salmon in Whidbey Basin, Washington: Foundation and approach for synthesis and evaluation - </a>Kathryn Sobocinski, Michael LeMoine, Joshua Chamberlin, Letitia Conway-Cranos, Annelise Del Rio, Heida Diefenderfer, Correigh Greene, Jason Hall, Gary Johnson, Ronald Thom, Elene Trujillo, and Todd Zackey. Published in Frontiers in Marine Science on June 16, 2025.</p>
 <h2>Fact sheets</h2>
 <table width="200" border="1">
@@ -106,11 +106,10 @@
 </table>
 <br>
 <br>
-        <h2>Peer reviewed publications</h2>
-        <p>- Sobocinski, Kathryn L., Michael LeMoine, Joshua W. Chamberlin, Letitia Conway-Cranos, Annelise Del Rio, Heida L. Diefenderfer, Correigh M. Greene et al.<a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1514508/pdf" target="new">Assessing the cumulative effects of nearshore habitat restoration actions for multiple populations of juvenile salmon in Whidbey Basin, Washington: foundation and approach for synthesis and evaluation."</a> Frontiers in Marine Science 12 (2025): 1514508.</p>
-        <h2>Status reports</h2>
+<h2>Status reports</h2>
 					
-		<p><a href="https://pspwa.box.com/s/u8vwvj3833weg5ocawm8r8u0fudl5eyy" target="new">2022 – 2023 Annual Report:</a> This report documents recent progress on the Whidbey basin cumulative effects study for 2022-2023. The report details the development of analytical aspects of the study, including methodology for the systematic literature review, synthesis approach, and the evaluation of causal criteria.</p>
+		<p><a href="https://pspwa.box.com/s/xbgw71eoktuxvduta3b2u225djn2i01p" target="new">2023 – 2025 Biennium Report:</a> This report highlights progress made on the Whidbey Basin cumulative effects study during the 2023–2025 biennium. Early in the project, the team defined key research questions, mapped out the study’s scope, built conceptual models, and developed a framework of hypotheses to guide the work. We also identified key indicators and lines of evidence to help evaluate the effects of restoration. Later in the biennium, we conducted a pilot study to test our methods. This focused on two mid-level hypotheses related to habitat structure and salmon movement and included 12 more specific, detailed hypotheses within those areas. The pilot study produced preliminary findings that begin to show how salmon habitat restoration projects are influencing conditions across the Whidbey Basin. It also helped refine the tools and methods we’ll use in future phases of the research.</p>
+			<p><a href="https://pspwa.box.com/s/u8vwvj3833weg5ocawm8r8u0fudl5eyy" target="new">2022 – 2023  Report:</a> This report documents recent progress on the Whidbey basin cumulative effects study for 2022-2023. The report details the development of analytical aspects of the study, including methodology for the systematic literature review, synthesis approach, and the evaluation of causal criteria.</p>
 			<p><a href="https://pspwa.box.com/s/dmxg9hmenrbiq8rehhmf1qpe3luatpce" target="new">January - June 2022 Status Report:</a> This report details an evidence-based approach to evaluate cumulative effects produced from salmon habitat restoration at a greater basin scale for application to salmon recovery efforts in Puget Sound.</p>
 			<h2>Past Presentations in chronological order </h2>
 			<p><a href="https://pspwa.box.com/s/7m3b28gmczaheehc1jopjeb9i4n81dqi" target="new">Presentation to the Puget Sound Science Panel - December 2021:</a> This presentation was used to introduce cumulative effects concepts and provides an overview of a Puget Sound case study.</p>
@@ -126,7 +125,7 @@
 			<h2>Stay connected</h2>
 			<p> <a href="https://public.govdelivery.com/accounts/WAPSP/signup/34165" target="new">Subscribe here</a> for news and announcements on the Whidbey basin cumulative effects study.</p>
 			
-			<p class="last-update">Last updated: 08/07/25</p>
+			<p class="last-update">Last updated: 08/22/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
