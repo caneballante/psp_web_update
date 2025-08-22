@@ -155,6 +155,16 @@
 					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>--> 
 				<!-- InstanceEndEditable -->
 			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> <a href="/workshops.php">WORKSHOPS</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/qzcsdqj5vdxnb1j58fc1i1meepr5jms2">EXPLORING BOLD LAND USE IDEAS IN PUGET SOUND WORKSHOP (2024)</a></li>
+				<li role="presentation"> <a href="#">BOLD LAND USE PLANNING WORKSHOP (2023)</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
