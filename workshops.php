@@ -93,7 +93,7 @@
 		  </ol>
 			<p>If you&rsquo;d like to   learn more, please explore the workshop<a href="https://pspwa.box.com/s/0txxppe3lheqyhelxdpupjbh0v0kofzg" target="new">agenda</a> and<a href="https://pspwa.box.com/s/qzcsdqj5vdxnb1j58fc1i1meepr5jms2" target="new">materials</a><a href="mailto:katherine.wyatt@psp.wa.gov" target="new"></a>.
 			
-		<div class="highlightbox margin-0-top margin-20-bottom">
+		
 
 			</p>
 		<h2>BOLD LAND USE  PLanning WORKSHOP, 2023</h2>
