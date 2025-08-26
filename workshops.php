@@ -78,10 +78,13 @@
 			
 			<h2>Past workshops</h2><h2 class="margin-0-top"><strong>Exploring Bold Land Use Ideas in Puget Sound  WORKSHOP</strong></h2>
 			
+		
 			<p>			  On June 18, 2024, the  Future Scenarios project hosted a<a href="https://pspwa.box.com/s/qzcsdqj5vdxnb1j58fc1i1meepr5jms2" target="new">morning workshop</a> with the invitation to: <br>
               <strong> - Learn about a new alternative scenario that incorporates bold land  use ideas</strong>. Leaders in Puget Sound recovery joined together to consider a future  that encompasses five of the bold ideas you helped generate in the November  2023 Bold Land Use Planning in Puget Sound workshop. <br>
               <strong>- Explore each bold land use idea.</strong> A discussion was held to consider the assumptions that  underpin the bold ideas and their associated tradeoffs to identify specific  implications, risks, and opportunities, as well as ways to navigate and offset  them. <br>
               <strong>- Contribute to a working list of concrete next steps.</strong> Using  insights from the scenario analysis, we helped to identify actions that could advance  some or all the bold ideas in both the near and long terms.<br>
+				<br><img src="images/Sanjuan1.jpg" width="530" height="353" alt="An aerial shot showing San Juan Islands farmland."/>
+              <br>
               <br>
         This workshop  built on the work of the<a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpspwa.box.com%2Fs%2F21soyjonl5xcpbg07xvtvg6ztjs8do7f&data=05%7C02%7Ckatherine.wyatt%40psp.wa.gov%7Cb751ac52be7342f566cc08dc83ecc79e%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638530300562853263%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=xuukOQenh5kQNVsdyKeX67WTLtZrJk1fr3MoQ5ePKFw%3D&reserved=0">November  2023 workshop</a>, which generated bold ideas that  address various development, human wellbeing, equity, and ecosystem restoration  implications derived from three alternative scenarios. Since then, the Future  Scenarios Project Team has worked closely with Strategic Initiative Leads and  other partners to create another alternative scenario that illustrates a subset  of bold land use ideas.  The June 2024 workshop  explored a new hybrid scenario that included five bold ideas: </p>
 		  <ol class="bullet-size-fix">
@@ -97,6 +100,7 @@
 
 			</p>
 		<h2>BOLD LAND USE  PLanning WORKSHOP, 2023</h2>
+			<img class="floatright" src="images/Skagitflowers.jpg" width="282" height="424" alt="Pink flowers on a farmland in Skagit Valley with a barn and farmhouse in the background."/>
 	    <p>The Bold Land Use Planning Workshop on November 7, 2023,  brought together over sixty regional land use and growth management experts,  local and state agency planners and coordinators, and stormwater and salmon  managers as members of the Puget Sound recovery community to generate bold  ideas that could help shepherd the <a href="https://pspwa.box.com/s/lcjugfkkijtffulmmyak0670jj4z6imf">Action Agenda&rsquo;s  Smart Growth strategy</a> into the future. (Links:<a href="https://pspwa.box.com/s/wqudt2vkenh1kkyiwww8muhwf6g5a562">Workshop Agenda</a>,<a href="https://pspwa.box.com/s/jirh8hdfbbsen7iifi2ktcy2wdhb4tux">Workshop  Presentation</a>,<a href="https://pspwa.box.com/s/o7pj56ivao3paimyxheaumf9sym41lif">Additional  Workshop Materials</a>,<a href="https://pspwa.box.com/s/21soyjonl5xcpbg07xvtvg6ztjs8do7f">Workshop  Synopsis</a>)<br></p>
 			  <p>Together, the group examined alternative future scenarios  and <strong>identified over seventy future implications</strong> for development, human  wellbeing and equity, and ecosystem restoration and conservation.  They <strong>generated twenty-seven individual  bold ideas</strong> that could address those implications.<br>
 		  Three Alternative Future  Scenarios informed that workshop.   Scenarios are not intended to be predictive, but rather illuminate a  range of possible conditions to assess our strategies and spur creative  thinking.  The scenarios were as follows: </p>
