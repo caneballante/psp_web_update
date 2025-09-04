@@ -104,7 +104,7 @@
 			<div class="padding-5-bottom"><a href="evaluating-actions-to-recover-puget-sound.php">Evaluating actions to recover Puget Sound</a></div>
 			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">Puget Sound Vital Signs</a></div>
 			<div class="padding-5-bottom"><a href="/PSEMP-overview.php">Ecosystem monitoring (PSEMP)</a> </div>
-			<div class="padding-5-bottom"><a href="science-and-evaluation-overview.php">Science and evaluation overview</a></div>
+			<div class="padding-5-bottom"><a href="https://psp.wa.gov/science-funded-projects.php">Science and evaluation funded projects</a></div>
 			<div class="padding-5-bottom"><a href="https://stateofthesound.wa.gov">2023 State of the Sound</a> </div>
 			<div class="padding-5-bottom"><a href="https://www.pugetsoundinfo.wa.gov">Puget Sound Info</a></div>
 			<div class="padding-5-bottom"><a href="https://data-wa-psp.hub.arcgis.com/">Recovery Spatial Data and Tools</a></div>
