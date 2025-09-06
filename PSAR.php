@@ -76,10 +76,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="highlightbox">
-				<p>We  invite you to review and offer suggestions on the <a href="https://links-2.govdelivery.com/CL0/https:%2F%2Fpspwa.box.com%2Fs%2Fxl71u1df2yt7t5xc6qrb9djxczfhbywt/1/010101985815efaa-c626ca19-5a88-48bb-9cc6-6d4c672b008e-000000/QeRmIjRCeoYBUWdSLppJ8F9mjH3tq6NbHRp2DX5JLmI=416" target="_blank"> Draft 2027-2029 PSAR Large Capital  Projects Request for Proposals (RFP)</a> developed for the next grant round beginning in 2026. Please  use the <a href="https://links-2.govdelivery.com/CL0/https:%2F%2Fapp.smartsheet.com%2Fb%2Fform%2F019833eb0f8b7cfd9ecf88d1c1f9b6ce/1/010101985815efaa-c626ca19-5a88-48bb-9cc6-6d4c672b008e-000000/Sjh1a8Jq1vp6Dck3O3a9SEQ3gnt3pU_tetylEbXnDVE=416" target="_blank">online comment form</a> or email to: <a href="mailto:communications@psp.wa.gov">communications@psp.wa.gov</a> by <strong>August  30, 2025.</strong> Partnership staff, the Salmon Recovery Council, and  the Leadership Council will consider the input provided. </p>
-              
-			</div>
+		
 		
 
 			<p class="margin-20-top">The Puget Sound Acquisition and Restoration (PSAR) program began in 2007 and supports salmon recovery by directing funds to the most important habitat protection and restoration projects for Puget Sound. The program has two parts: base funding for local priority projects vetted and selected through a local process (regular/base PSAR), and additional funding for regionally significant projects vetted locally and selected through a regional process (PSAR Large Capital Projects). The Washington State Legislature budgets funding every two years for PSAR.</p>
