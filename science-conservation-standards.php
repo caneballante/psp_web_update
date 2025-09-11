@@ -75,9 +75,9 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<p>Developed by leading experts in natural resource conservation work from around the world, the <em>Conservation Standards</em> provides a framework for strategic planning, evaluation of progress by using shared measures, and shared learning related to ecosystem recovery. The Partnership works with our many partner organizations in using the <em>Conservation Standards</em> to adaptively manage ecosystem recovery and build an evaluation framework with which to assess progress toward ecosystem recovery. </p>
+		<p>Developed by leading experts in natural resource conservation work from around the world, the <em><a href="https://www.conservationmeasures.org/about-cmp/" target="new">Conservation Standards</a></em> provides a framework for strategic planning, evaluation of progress by using shared measures, and shared learning related to ecosystem recovery. We work with our many partner organizations in using the <em>Conservation Standards</em> to adaptively manage ecosystem recovery and build an evaluation framework with which to assess progress toward ecosystem recovery. </p>
 		<p>The <em>Conservation Standards</em> include specific steps for deciding how to: </p>
-		<ul>
+		<ul class="bullet-size-fix">
 			<li>Represent partner interests in the Puget Sound ecosystem</li>
 			<li>Identify and rate pressures on the system</li>
 			<li>Conduct situation analyses </li>
@@ -85,8 +85,9 @@
 			<li>Build conceptual cause-and-effect models of how strategies and actions can address pressures and ecosystem components</li>
 			<li>Identify expected results that form the basis for evaluating progress toward ecosystem recovery</li>
 		</ul>
-<p>Since 2009, the Partnership has used the Conservation Standards to develop Vital Sign indicators, describe sources of pressure and stressors on Puget Sound ecosystems, describe Chinook salmon recovery efforts and LIO planning priorities, and identify the roadmap for achieving Vital Sign indicator targets through use of Implementation Strategies.<a href="science-adaptive-management-framework.php"> LEARN MORE</a></p>
+<p>Since 2009, the Partnership has used the Conservation Standards to develop Vital Sign indicators, describe sources of pressure and stressors on Puget Sound ecosystems, describe Chinook salmon recovery efforts and LIO planning priorities, and identify the roadmap for achieving Vital Sign indicator targets through use of Implementation Strategies.<a href="science-adaptive-management-framework.php"> Learn more</a>.</p>
 </p>
+		<p class="last-update">Last updated: 09/11/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -109,7 +110,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<li class="active" role="presentation"> <a href="http://www.conservationmeasures.org/" target="new">Conservation Measures Partnership</a></li>
-					<li class="active" role="presentation"> <a href="http://cmp-openstandards.org/" target="new">Open Standards for the Practice of Conservation</a></li>
+					<li class="active" role="presentation"> <a href="https://www.conservationmeasures.org/about-cmp/" target="new">Open Standards for the Practice of Conservation</a></li>
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
