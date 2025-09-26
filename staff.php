@@ -57,10 +57,9 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>PARTNERSHIP STAFF</h1>
-			<p>&nbsp;</p>
-			<!--ANCHOR LINK above target--> 
-			<a name="executive_team"></a> <!-- InstanceEndEditable --></div>
+			<h1>PARTNERSHIP STAFF			<!--ANCHOR LINK above target--> 
+			<a name="executive_team"></a> </h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -179,7 +178,10 @@
 						<h5>Jon Bridgman</h5>
 						<p>Communications Manager<br />
 							360.999.3847 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov </a>						</p>
-						<h5>Chase Nuuhiwa</h5>
+						<h5>KATIE LOVE</h5>
+                        <p>Communications Lead<br />
+                          564.250.0925 | <a href="mailto:katie.love@psp.wa.gov">katie.love@psp.wa.gov </a>						</p>
+                        <h5>Chase Nuuhiwa</h5>
 						<p>Visual Communication Lead<br>
 						360.480.1020 | <a href="mailto:chase.nuuhiwa@psp.wa.gov">chase.nuuhiwa@psp.wa.gov</a></p>
 						<h5>Ian McCabe</h5>
@@ -368,7 +370,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 08/22/25</p>
+	<p class="last-update">Last updated: 09/26/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
