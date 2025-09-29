@@ -225,7 +225,7 @@
 						<!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
 						<h5>Alex Mitchell</h5>
-						<p> Adaptive Systems Manager (acting)<br>
+						<p> Adaptive Systems Manager<br>
 						  360.706.3334 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a>						  <br />
 						</p>
 						<h5>Jennifer Burke</h5>
