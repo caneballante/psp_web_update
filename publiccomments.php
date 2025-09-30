@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Technology Strategic Plan</title>
+<title>Puget Sound Partnership - Public Comments</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -33,10 +33,10 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-<script>
+	<script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 11;
-</script> 
+  	navSelected = 8;
+</script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -57,8 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Technology Strategic Plan</h1>
-			<p>&nbsp;</p>
+			<h1>Partnership Financials</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -68,21 +67,17 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-psp-overview.html';?>	
-				<!-- InstanceEndEditable -->
+					<?php include 'includes/ln-psp-overview.html';?>	
+			<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>In accordance with&nbsp;<a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwatech.wa.gov%2Fpolicies%2Ftechnology-portfolio-foundation&data=05%7C02%7Cjon.bridgman%40psp.wa.gov%7Cadadd811546b43314bd308ddd6be1203%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638902834008426213%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oL5fxaT6paG1z8pvYeNhR6rOO0blhhWVOtn8f9UpEoE%3D&reserved=0">WaTech  MGMT-01 Technology Portfolio Foundation Policy</a>, the Puget Sound  Partnership must publish the agency IT strategic plan on it's website.&nbsp;<a href="https://pspwa.box.com/shared/static/assixvv1og5hnjkd73nwswfjdtq7pq7a.pdf" target="new">You can click here to view the Recreation and Conservation Office  and Puget Sound Partnership Joint Information Technology Strategic Plan FY2025.</a>&nbsp;</p>
-<p><br>
-	    <br>
-	    <br>
-		</p>
-			<h2>&nbsp;</h2>
-			
-			<!-- InstanceEndEditable --> </div>
+		
+						<p>coming soon</p>
+			<p class="last-update">Last updated: 09/30/25</p>
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>
