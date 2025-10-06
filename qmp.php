@@ -80,11 +80,11 @@
 						The Partnership completed a review of the Quality Management Program in June 2016, based on activity from April 2015 to April 2016 to determine: (a) if the Partnership’s Quality Management Plan conforms to U.S. Environmental Protection Agency (EPA) requirements, (b) if all projects or work assignments that require quality assurance project plan (QAPP) waivers or project plans have them, (c) assess whether Partnership staff follows the QMP, and (d) what steps could be taken to improve the Partnership’s quality management system.</p><p>
 						The Quality Assurance Program specifies that every three years the Partnership prepares a status report on quality assurance and quality control information. This is the first such report. Topics covered in this report include an overview of the Quality Management Plan, a description of the agency’s Quality Management Program, including training provided to agency staff, meetings of the agency quality team, technical assistance to agency staff, subawardees and contractors, and description of issues, personnel needs and other information requested specifically by agency leadership.</p>
 						<p style="font-weight: bold">Download</p>
-						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/gdty94bvgdcoxqqk9ocwlnw49pwq79or">2025 Quality Report to Management</a></p>
-						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/wh0whzwdpa6iwpmr9ygggvbq9tg6gv76">2025 Annual Quality Assurance Training</a></p>
-						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/fcs3ggeiv7z1yz04gjxu78sxatwogs4j">2016 QAPP Training</a></p>
-						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/1u4l86h0xjorh0xhlvn73qta7p6y5qzg">2023 Quality Management Plan for Puget Sound Partnership</a>			</p>
-			<p style="font-weight: bold"><a href="downloads/2014_qmp/Guidelines for scientific review_Jan 25 FINAL.pdf">Guidelines for Scientific Review</a></p>
+						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/gdty94bvgdcoxqqk9ocwlnw49pwq79or" target="new">2023 Quality Report to Management</a></p>
+						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/wh0whzwdpa6iwpmr9ygggvbq9tg6gv76" target="new">2025 Annual Quality Assurance Training</a></p>
+						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/fcs3ggeiv7z1yz04gjxu78sxatwogs4j" target="new">2016 QAPP Training</a></p>
+						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/1u4l86h0xjorh0xhlvn73qta7p6y5qzg" target="new">2025 Quality Management Plan for Puget Sound Partnership</a>			</p>
+			<p style="font-weight: bold"><a href="downloads/2014_qmp/Guidelines for scientific review_Jan 25 FINAL.pdf" target="new">Guidelines for Scientific Review</a></p>
 			<p class="last-update">Last updated: 10/06/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
