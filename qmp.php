@@ -83,9 +83,19 @@
 						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/gdty94bvgdcoxqqk9ocwlnw49pwq79or" target="new">2023 Quality Report to Management</a></p>
 						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/wh0whzwdpa6iwpmr9ygggvbq9tg6gv76" target="new">2025 Annual Quality Assurance Training</a></p>
 						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/fcs3ggeiv7z1yz04gjxu78sxatwogs4j" target="new">2016 QAPP Training</a></p>
-						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/1u4l86h0xjorh0xhlvn73qta7p6y5qzg" target="new">2025 Quality Management Plan for Puget Sound Partnership</a>			</p>
+		<p style="font-weight: bold"><a href="https://pspwa.box.com/s/1u4l86h0xjorh0xhlvn73qta7p6y5qzg" target="new">2025 Quality Management Plan for Puget Sound Partnership</a>			</p>
 			<p style="font-weight: bold"><a href="downloads/2014_qmp/Guidelines for scientific review_Jan 25 FINAL.pdf" target="new">Guidelines for Scientific Review</a></p>
-			<p class="last-update">Last updated: 10/06/25</p>
+			<p style="font-weight: bold">&nbsp;</p>
+		<p><strong>Quality Management Plan  Appendices</strong><br>
+			  <p style="font-weight: bold">Appendix A:&nbsp;<a href="https://pspwa.box.com/s/1ika6ub3pqd3j4s2zgu5q5o7qogplw55" target="new">Puget Sound Partnership Policy 700-A (Establishing Quality  Assurance)</a>&nbsp;<br>
+			  Appendix B: <a href="https://pspwa.box.com/s/oudq7zxz387otnge27pe9x1kubr7gu1g" target="new">Puget Sound Partnership Organizational Chart Showing QMS Roles  &amp; Responsibilities</a>&nbsp;<br>
+			  Appendix C:&nbsp;<a href="https://des.wa.gov/purchase/washington-state-procurement-manual#EPP" target="new">Washington  State Procurement &amp; Contracting Policies&nbsp;</a><br>
+			  Appendix D: <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=39.26.090" target="new">Delegation of Authority</a> (RCW 39.26.090)&nbsp;<br>
+			  Appendix E:&nbsp;<a href="https://watech.wa.gov/policies/technology-portfolio-foundation" target="new">Washington State OCIO Oversight Policies and Standards</a>&nbsp;<br>
+	    Appendix F: <a href="https://pspwa.box.com/s/mqyfyrcyisi94mt0oqvzefjmm14b6e5b" target="new">Records Retention and Public Disclosures Policy</a>&nbsp;</p>
+			  <p style="font-weight: bold">Appendix G: <a href="https://pspwa.box.com/s/9ceuysiqr91edssunkqo6uivblpseav5" target="new">Puget Sound Partnership Geospatial Data and Applications  Standards</a>        </p>
+			<p style="font-weight: bold">&nbsp;</p>
+			<p class="last-update">Last updated: 10/08/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
