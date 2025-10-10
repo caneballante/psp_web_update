@@ -85,7 +85,7 @@
 			<p class="padding-10-top">The environmental justice law (SB 5141) known as the <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02">Healthy Environment  for All Act</a> (HEAL), passed in 2021. Chapter 70A.02 RCW provides a  roadmap for integrating environmental justice into state agencies. The law  requires seven state agencies  <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.050">to create and adopt  community engagement plans</a> by July 1, 2022. For this and other parts  of HEAL, agencies work closely with the <a href="https://waportal.org/partners/home/environmental-justice-council">Environmental  Justice Council</a> (EJ Council), which consists of members  appointed by the Governor. HEAL states that the EJ Council will  provide guidance on community engagement plans as agencies create and update  them. HEAL also requires that each covered agency consider the guidance  developed by the EJ Council.  See the <a href="https://waportal.org/partners/home/environmental-justice-council">Environmental  Justice Council website</a> for more details on the role of the EJ  Council.<br>
 			  <br>
 			</p>
-			<p class="last-update">Last updated: 10/09/25</p>
+			<p class="last-update">Last updated: 10/10/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -104,8 +104,6 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"> </li>
-				<li class="active"><a href="https://pspwa.box.com/s/4pn47mj5prmn525yzqorq747ch1ew1cw" target="new">Puget Sound Partnerhsip Community Engagement Guide</a></li>
-				<li class="active"><a href="https://pspwa.box.com/s/jzqins3m00mbowdrlmz3gzsjq0o9m4kr" target="new">Community Engagement Guide Toolkit and Worksheets</a></li>
 				<li class="active"><a href="https://pspwa.box.com/s/8awrzq9xpg8u8smlwy9zc88j9v8g8o21" target="new">HEAL Act Key Terms, Definitions, and Acronyms</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/7dm19iz5lt6rvdhmz7zqxci7boddv969" target="new">Process to Identify Overburdened Communities and Vulnerable Populations</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/hb95aoyeeiq8k5i1pw6452qnsah86wg7" target="new">Engaging the Partnership Tribal Co-management Council, the Equity Advisory Group, and the Environmental Justice Community Advisory Committee in Expenditure Decisions</a></li>
