@@ -71,7 +71,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-community-engagement.html';?>	
+				<?php include 'includes/ln-HEAL.html';?>	
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -94,7 +94,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<div class="nonresponsive-object-hide-rightnav-li">
-				<li class="active" role="presentation"> <?php include 'includes/ln-HEAL-contact.html';?></li>
+				<li class="active" role="presentation"> <?php include 'includes/ln-community-engagement.html';?></li>
 				</div>
 				<!-- InstanceEndEditable -->
 			</ul>
