@@ -195,11 +195,8 @@
 							360.701.1428 | <a href="mailto:kirsten.feifel@psp.wa.gov">kirsten.feifel@psp.wa.gov</a></p>
 						<!--PLANNING TEAM-->
 						<h3 class="padding-10-top">PLANNING TEAM</h3>
-						<h5>Dan Stonington</h5>
-						<p>Planning Manager<br />
-							360.764.0164 | <a href="mailto:daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a></p>
 						<h5>Robb Krehbiel</h5>
-						<p>Environmental Planner<br />
+						<p>Planning Manager (Acting)<br />
 						360.485.2117 | <a href="mailto:robb.krehbiel@psp.wa.gov">robb.krehbiel@psp.wa.gov</a></p>
 		<h5>Doug kennedy</h5>
 						<p>Environmental Planner<br>
@@ -370,7 +367,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 09/29/25</p>
+	<p class="last-update">Last updated: 10/14/25</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
