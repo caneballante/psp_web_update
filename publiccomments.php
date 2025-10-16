@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 	<script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 8;
+  	navSelected = 15;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -57,7 +57,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Partnership Financials</h1>
+			<h1>Public Comments</h1>
+			<p>The Puget Sound Partnership periodically posts materials for public comment. Upcoming and past public comment information will be posted here. </p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>

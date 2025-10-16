@@ -88,7 +88,7 @@
 			<p>It is notable that the Partnership’s state  funding represents an overall decrease of $1.8 million compared to the 2023-25 biennium. Federal funding has  increased sharply by 1.5 times due to increases in funding allocations for U.S. EPA’s National Estuary and Puget Sound Geographic programs and receiving a new 4-year EPA’s National Estuary and Puget Sound Geographic grant in the amount of $32 million
 	        <img src="images/psp_financials_2023-2027.jpg" width="1016" height="454" alt=""/></p>
 			
-			<p class="last-update">Last updated: 09/30/25</p>
+			<p class="last-update">Last updated: 10/2/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
