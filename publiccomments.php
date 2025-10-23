@@ -77,11 +77,10 @@
 		
 						<p>The Puget Sound Partnership periodically posts materials for public comment. Upcoming and past public comment information will be posted here. </p>
 						<h2>Science Work Plan for 2025-2029</h2>
-						  <p>Comments on the<a href="https://www.psp.wa.gov/science-workplan.php" target="new">2025-2029 Science Work Plan</a> were accepted in August and October 2024.<br>
-						  The Science Work Plan describes the research, monitoring, and coordination needed to recover<br>
+						  <p>Comments on the<a href="https://www.psp.wa.gov/science-workplan.php" target="new">2025-2029 Science Work Plan</a> were accepted in August and October 2024. 
+						  The Science Work Plan describes the research, monitoring, and coordination needed to recover 
 						  the Puget Sound. It identifies and prioritizes gaps in scientific knowledge, provides broader 
-						  recommendations to improve ongoing science, and drives the allocation of scientific funding. <br>
-					    Comments can be found in Appendix E of the <a href="https://www.psp.wa.gov/science-workplan.php" target="new">Science Work Plan.</a><br>
+						  recommendations to improve ongoing science, and drives the allocation of scientific funding.					    Comments can be found in Appendix E of the <a href="https://www.psp.wa.gov/science-workplan.php" target="new">Science Work Plan.</a><br>
 					    <h2>2024 Puget Sound Salmon Recovery Plan Addendum</h2>
 						  <p>Public comments for the <a href="https://pspwa.box.com/s/4g1ncowwl2at9l59fxzfl1kz11cvkuzf">2024 Puget Sound Salmon Recovery Plan Addendum</a> were accepted January 8 to February 21, 2024. This Addendum is an addition to the Regional Chapter of the 
 						  2007 Puget Sound Salmon Recovery Plan and serves as a guide to recovering salmon populations in the region. It highlights successes and areas for growth, integrates recommendations from partners, incorporates new scientific findings, and identifies specific actions implementers will be taking to advance salmon recovery. A matrix of public comments
