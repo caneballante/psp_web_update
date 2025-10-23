@@ -90,16 +90,19 @@
 			
 			<br>
 			
-			<iframe title="2026 Puget Sound Budget" width="1000" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiOGNiMDgwYTMtMjQ1Ny00OTVmLWIzMjQtNDJmMWVhOTNmMDdhIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br><br>
+			<iframe title="2026 Puget Sound Budget" width="800" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiOGNiMDgwYTMtMjQ1Ny00OTVmLWIzMjQtNDJmMWVhOTNmMDdhIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br><br>
 			
-			<iframe title="PSBudgetTracker" width="1000" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiYjExNmFkNzQtMzcxOC00NWZlLThhZTktYzE4NjhjNjVhOWZkIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br>
+			<iframe title="PSBudgetTracker" width="800" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiYjExNmFkNzQtMzcxOC00NWZlLThhZTktYzE4NjhjNjVhOWZkIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br>
 			
 			<h2>Prioritizing State Agency Budget Requests</h2>
 			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. The Partnership shares this list with the Office of Financial Management, relevant legislative committee members and staff, and our partners. As the Governor and legislators release their respective budget proposals, the Partnership updates information about the Puget Sound Budget to reflect the most recent information.</p>
 			
-			<p>Select the image below for the ranking of the Puget Sound-related budget requests for both the 2025-27 biennial budget.<br><br>
+			<p>Select the images below for the ranking of the Puget Sound-related budget requests for both the 2025-27 biennial budget.<br><br>
 			
-			  <a href="https://pspwa.box.com/s/m8i1uzmp54z6vzd6gki8zjp8z8tqqslk" target="new"><img src="images/25-27-biennial-buget-ranking26.PNG" class="img-responsive" width="100%" alt="Screenshot of the 2025-2027 Puget Sound Budget Rankings produced by the Puget Sound Partnership."></a>			</p>
+			  <a href="https://pspwa.box.com/s/m8i1uzmp54z6vzd6gki8zjp8z8tqqslk" target="new"><img src="images/25-27-biennial-buget-ranking26.PNG" class="img-responsive" width="100%" alt="Screenshot of the 2025-2027 Puget Sound Budget Rankings produced by the Puget Sound Partnership."></a></p>
+			<p>&nbsp;</p>
+			<p><a href="https://pspwa.box.com/s/wyyotqv50kah086pvfrqy3gdus4uylax" target="new"><img src="images/25-27-biennial-buget-ranking.PNG" class="img-responsive" width="100%" alt="Screenshot of the 2025-2027 Puget Sound Budget Rankings produced by the Puget Sound Partnership."></a></p></p>
+		<p>&nbsp;			</p>
 			<hr>
 			
 			<div class="container-fluid blue-outline-5px padding-20-all margin-20-top">
