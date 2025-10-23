@@ -57,9 +57,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Public Comments</h1>
-			<p>The Puget Sound Partnership periodically posts materials for public comment. Upcoming and past public comment information will be posted here. </p>
-			<!-- InstanceEndEditable --></div>
+			<h1>Public Comments			</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -76,8 +75,47 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-						<p>coming soon</p>
-			<p class="last-update">Last updated: 09/30/25</p>
+						<p>The Puget Sound Partnership periodically posts materials for public comment. Upcoming and past public comment information will be posted here. </p>
+						<h2>Science Work Plan for 2025-2029</h2>
+						  <p>Comments on the 2025-2029 Science Work Plan were accepted in August and October 2024.<br>
+						  The Science Work Plan describes the research, monitoring, and coordination needed to recover<br>
+						  the Puget Sound. It identifies and prioritizes gaps in scientific knowledge, provides broader 
+						  recommendations to improve ongoing science, and drives the allocation of scientific funding. <br>
+					    Comments can be found in Appendix E of the Science Work Plan.<br>
+					    <h2>2024 Puget Sound Salmon Recovery Plan Addendum</h2>
+						  <p>Public comments for the 2024 Puget Sound Salmon Recovery Plan Addendum were accepted 
+						  January 8 to February 21, 2024. This Addendum is an addition to the Regional Chapter of the 
+						  2007 Puget Sound Salmon Recovery Plan and serves as a guide to recovering salmon 
+						  populations in the region. It highlights successes and areas for growth, integrates 
+						  recommendations from partners, incorporates new scientific findings, and identifies specific
+						  actions implementers will be taking to advance salmon recovery. A matrix of public comments<br>
+					    and Partnership responses can be found here.</p>
+					    <h2>PSEMP Strategic Plan 2018-2022 Assessment</h2>
+						  <p>Feedback for the Assessment of the 2018-22 Puget Sound Ecosystem Monitoring Program
+						  (PSEMP) Strategic Plan was solicited via online survey in February and March 2023. PSEMP is a
+						  collaborative network of subject matter experts that generates, organizes, synthesizes, and
+						  communicates scientific information critical to Puget Sound recovery. The assessment provided
+						  insights regarding the achievements, challenges, and evolution of PSEMP between 2018-2023,
+						  and informed the development of the strategic plan for 2024-2028. Survey results can be found
+					    in Appendix B of the plan.</p>
+					    <h2>2027-2029 PSAR Large Capital Projects Request for Proposals</h2>
+						  <p>Public comments for the draft 2027-2029 PSAR Large Capital Projects Request for Proposals
+						  (RFP) were accepted August 1-30, 2025. The Puget Sound Acquisition and Restoration program
+						  (PSAR) supports salmon recovery by directing funds appropriated by the Legislature to habitat
+						  protection and restoration projects that will have the greatest benefit to salmonid species
+						  throughout the region. This RFP will invite funding applicants for large projects that cost more
+						  than lead entities are typically able to support through the standard funding process and are
+					    ready for construction. No public comments were received.<br>
+					    </p>
+					    <h2>Environmental Justice Assessment for the 2026-2030 Action Agenda</h2>
+						  <p>Comments for the Environmental Justice Assessment for the 2026-2030 Action Agenda were
+						  received through consultations and workshops in July and August 2025. As part of the HEAL Act,
+						  the Partnership is conducting environmental justice assessments for all significant agency
+						  actions, such as the Action Agenda, to determine their impact on overburdened communities
+						  and vulnerable populations. The Action Agenda outlines strategies and actions for partners to
+						  better invest in projects to advance Puget Sound recovery. A summary of comments will be
+					    available in December 2025.</p>
+			<p class="last-update">Last updated: 10/23/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
