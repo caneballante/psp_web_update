@@ -88,8 +88,8 @@
 						  2007 Puget Sound Salmon Recovery Plan and serves as a guide to recovering salmon 
 						  populations in the region. It highlights successes and areas for growth, integrates 
 						  recommendations from partners, incorporates new scientific findings, and identifies specific
-						  actions implementers will be taking to advance salmon recovery. A matrix of public comments<br>
-					    and Partnership responses can be found here.</p>
+						  actions implementers will be taking to advance salmon recovery. A matrix of public comments
+					    and Partnership responses can be found <a href="https://pspwa.app.box.com/file/2016025807177" target="new">here.</a></p>
 					    <h2>PSEMP Strategic Plan 2018-2022 Assessment</h2>
 						  <p>Feedback for the Assessment of the 2018-22 Puget Sound Ecosystem Monitoring Program
 						  (PSEMP) Strategic Plan was solicited via online survey in February and March 2023. PSEMP is a
