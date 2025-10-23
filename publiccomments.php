@@ -77,26 +77,21 @@
 		
 						<p>The Puget Sound Partnership periodically posts materials for public comment. Upcoming and past public comment information will be posted here. </p>
 						<h2>Science Work Plan for 2025-2029</h2>
-						  <p>Comments on the 2025-2029 Science Work Plan were accepted in August and October 2024.<br>
+						  <p>Comments on the<a href="https://www.psp.wa.gov/science-workplan.php" target="new">2025-2029 Science Work Plan</a> were accepted in August and October 2024.<br>
 						  The Science Work Plan describes the research, monitoring, and coordination needed to recover<br>
 						  the Puget Sound. It identifies and prioritizes gaps in scientific knowledge, provides broader 
 						  recommendations to improve ongoing science, and drives the allocation of scientific funding. <br>
-					    Comments can be found in Appendix E of the Science Work Plan.<br>
+					    Comments can be found in Appendix E of the <a href="https://www.psp.wa.gov/science-workplan.php" target="new">Science Work Plan.</a><br>
 					    <h2>2024 Puget Sound Salmon Recovery Plan Addendum</h2>
-						  <p>Public comments for the 2024 Puget Sound Salmon Recovery Plan Addendum were accepted 
-						  January 8 to February 21, 2024. This Addendum is an addition to the Regional Chapter of the 
-						  2007 Puget Sound Salmon Recovery Plan and serves as a guide to recovering salmon 
-						  populations in the region. It highlights successes and areas for growth, integrates 
-						  recommendations from partners, incorporates new scientific findings, and identifies specific
-						  actions implementers will be taking to advance salmon recovery. A matrix of public comments
+						  <p>Public comments for the <a href="https://pspwa.box.com/s/4g1ncowwl2at9l59fxzfl1kz11cvkuzf">2024 Puget Sound Salmon Recovery Plan Addendum</a> were accepted January 8 to February 21, 2024. This Addendum is an addition to the Regional Chapter of the 
+						  2007 Puget Sound Salmon Recovery Plan and serves as a guide to recovering salmon populations in the region. It highlights successes and areas for growth, integrates recommendations from partners, incorporates new scientific findings, and identifies specific actions implementers will be taking to advance salmon recovery. A matrix of public comments
 					    and Partnership responses can be found <a href="https://pspwa.app.box.com/file/2016025807177" target="new">here.</a></p>
 					    <h2>PSEMP Strategic Plan 2018-2022 Assessment</h2>
-						  <p>Feedback for the Assessment of the 2018-22 Puget Sound Ecosystem Monitoring Program
-						  (PSEMP) Strategic Plan was solicited via online survey in February and March 2023. PSEMP is a
+						  <p>Feedback for the <a href="https://pspwa.box.com/s/kf31gf0zpqmukwbkw63lp44rbmuya45s">Assessment of the 2018-22 Puget Sound Ecosystem Monitoring Program (PSEMP) Strategic Plan</a> was solicited via online survey in February and March 2023. PSEMP is a
 						  collaborative network of subject matter experts that generates, organizes, synthesizes, and
 						  communicates scientific information critical to Puget Sound recovery. The assessment provided
 						  insights regarding the achievements, challenges, and evolution of PSEMP between 2018-2023,
-						  and informed the development of the strategic plan for 2024-2028. Survey results can be found
+						  and informed the development of the <a href="https://pspwa.box.com/s/xf3swog4yshyiylrpcwx74owvy8yscum">strategic plan for 2024-2028.</a> Survey results can be found
 					    in Appendix B of the plan.</p>
 					    <h2>2027-2029 PSAR Large Capital Projects Request for Proposals</h2>
 						  <p>Public comments for the draft 2027-2029 PSAR Large Capital Projects Request for Proposals
