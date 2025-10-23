@@ -90,7 +90,7 @@
 			
 			<br>
 			
-			<iframe title="2026 Puget Sound Budget" width="900" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiOGNiMDgwYTMtMjQ1Ny00OTVmLWIzMjQtNDJmMWVhOTNmMDdhIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br><br>
+			<iframe title="2026 Puget Sound Budget" width="100%" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiOGNiMDgwYTMtMjQ1Ny00OTVmLWIzMjQtNDJmMWVhOTNmMDdhIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br><br>
 			
 			<iframe title="PSBudgetTracker" width="900" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiYjExNmFkNzQtMzcxOC00NWZlLThhZTktYzE4NjhjNjVhOWZkIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br>
 			
