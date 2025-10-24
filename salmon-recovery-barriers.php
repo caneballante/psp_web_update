@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Salmon Recovery - Science</title>
+<title>Puget Sound Salmon Recovery - Barriers</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 3;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -61,7 +61,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Salmon Recovery - Science			</h1>
+			<h1>Salmon Recovery - Barriers			</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -81,29 +81,36 @@
 			
 			
 		
-			<p>Our Salmon Science Program helps guide  salmon recovery efforts using the best available science and planning. We fund and  report on studies, share knowledge, and work with experts to increase our understanding  of Puget Sound salmon ecosystems. This science-first and knowledge approach helps  us support and improve policy solutions. with the goal of improving planning  and support policy solutions. </p>
-        <p>Examples of  this work include:</p>
-        <ul class="bullet-size-fix">
-              <li><strong>Tracking progress - </strong>We develop,  analyze and report on <a href="https://www.pugetsoundinfo.wa.gov/Indicator/Index">Puget Sound Indicators</a>, including  Salmon Habitat Indicators, to measure and share our progress towards salmon  recovery. This helps our understanding of salmon-specific ecosystem conditions  in Puget Sound. <br>
-              </li>
-              <li><strong>Funding research - </strong>We offer  funding opportunities ask important questions and fill knowledge gaps to help improve  recovery efforts.<br>
-              </li>
-            <li><strong>Leading adaptive management - </strong>We lead  adaptive management efforts for the <a href="https://pspwa.box.com/s/4g1ncowwl2at9l59fxzfl1kz11cvkuzf">Puget Sound  Salmon Recovery Plan Addendum</a>.</li>
-              <li><strong>Providing expert support</strong> - We provide technical  support and guidance to our agency and external partners along with a regional  network of science and monitoring experts, such as <a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr">the  Salmon Science Advisory Group</a> and the <a href="https://pspwa.app.box.com/notes/362558043449?s=auxo6d6pshs6hi55bacs8900q2dsk0i5">Puget Sound  Ecosystem Monitoring Program Salmonids Work Group</a>.
-
-			  </li>
+			<h2>Policy Barriers</h2>
+		<p>Policy barriers at the local, state, and federal  levels can cause delays in salmon recovery efforts. <br>
+		  Salmon habitat restoration projects often  face the same permitting hurdles as large development projects that can  potentially harm habitat. We work to streamline the permitting processes for  salmon habitat restoration projects that have gone through state and local  review, like the <a href="https://psp.wa.gov/PSAR.php">PSAR Large  Capital Projects</a> and Salmon Recovery Funding Board (SRFB)  processes. <br>
+	    We also work with partners to integrate salmon  recovery into all levels of development policy. This includes encouraging: </p>
+<ul class="bullet-size-fix">
+            <li><a href="https://www.psp.wa.gov/soundsafe" target="new">Sound Safe  Infrastructure</a>, </li>
+        <li>Salmon smart critical areas, and </li>
+<li>Shoreline development policies<strong>.</strong></li>
         </ul>
-        <p><strong>Related links</strong>: </p>
+        <p>By adding salmon recovery objectives into these  development policies, we are helping to prevent future recovery barriers while  addressing current barriers that slow salmon recovery progress. </p>
+        <h2>Funding Barriers </h2>
+        <p>Our partners also experience funding barriers which prevent them from accessing and acquiring  funding needed to support projects and initiatives. These barriers can include  complicated application processes or not  enough staff to search for available funds. </p>
+        <p> These are not the same  as funding gaps (which refer to a lack of available dollars), but they can  still prevent projects from moving forward. For more information on funding  barriers, please visit our Strategic Funding Team&rsquo;s <a href="https://psp.wa.gov/funding-barriers.php" target="new">webpage</a>. </p>
+<h2>Related links: </h2>
         <ul class="bullet-size-fix">
-          <li>Marlies&rsquo;  funding page (duplication of SSI/WHA information)</li>
-          <li><a href="https://www.psp.wa.gov/science-funded-projects.php">Science and  Evaluation Overview and Funding</a></li>
-          <li><a href="https://psp.wa.gov/salmon-science-investigations.php">Salmon  Science Investigations</a></li>
-          <li><a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr">Salmon  Science Advisory Group</a></li>
+          <li><a href="/salmon-recovery-policy.php" target="new">Salmon Recovery - Policy webpage</a> </li>
+          <li><a href="/salmon-recovery-funding.php" target="new">Salmon Recovery - Funding webpage</a> </li>
+          <li>MART: <a href="https://www.psp.wa.gov/MART.php">Puget  Sound Partnership - Multi-Agency Review Team</a></li>
+          <li>HRPP: <a href="https://wdfw.wa.gov/licenses/environmental/hpa/types/pilot">Habitat Recovery Pilot Program | Washington Department  of Fish &amp; Wildlife</a></li>
+          <li>FEMA Story Map: <a href="https://storymaps.arcgis.com/stories/72d12b54dc054748a786561f0949bccb">Resilient Floodplains for People &amp; Salmon</a>
+          </li>
         </ul>
         <div>
           <div> </div>
+          <div> </div>
         </div>
-<p class="last-update">Last updated: 09/22/25</p>
+        <div>
+          <div> </div>
+        </div>
+<p class="last-update">Last updated: 10/24/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>

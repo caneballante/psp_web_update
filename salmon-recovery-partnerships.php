@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Salmon Recovery - Science</title>
+<title>Puget Sound Salmon Recovery - Partnerships</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 7;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -61,7 +61,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Salmon Recovery - Science			</h1>
+			<h1>Salmon Recovery - Partnerships			</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -81,29 +81,52 @@
 			
 			
 		
-			<p>Our Salmon Science Program helps guide  salmon recovery efforts using the best available science and planning. We fund and  report on studies, share knowledge, and work with experts to increase our understanding  of Puget Sound salmon ecosystems. This science-first and knowledge approach helps  us support and improve policy solutions. with the goal of improving planning  and support policy solutions. </p>
-        <p>Examples of  this work include:</p>
+		<p>Relationships are at the  center of our recovery efforts. Salmon recovery is complex, and we work with partners  to connect Tribal, local, regional, state, and federal efforts to collaboratively develop and implement priority  actions needed to accelerate ecosystem recovery. </p>
+        <p>To achieve this, we work with partners to: </p>
         <ul class="bullet-size-fix">
-              <li><strong>Tracking progress - </strong>We develop,  analyze and report on <a href="https://www.pugetsoundinfo.wa.gov/Indicator/Index">Puget Sound Indicators</a>, including  Salmon Habitat Indicators, to measure and share our progress towards salmon  recovery. This helps our understanding of salmon-specific ecosystem conditions  in Puget Sound. <br>
-              </li>
-              <li><strong>Funding research - </strong>We offer  funding opportunities ask important questions and fill knowledge gaps to help improve  recovery efforts.<br>
-              </li>
-            <li><strong>Leading adaptive management - </strong>We lead  adaptive management efforts for the <a href="https://pspwa.box.com/s/4g1ncowwl2at9l59fxzfl1kz11cvkuzf">Puget Sound  Salmon Recovery Plan Addendum</a>.</li>
-              <li><strong>Providing expert support</strong> - We provide technical  support and guidance to our agency and external partners along with a regional  network of science and monitoring experts, such as <a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr">the  Salmon Science Advisory Group</a> and the <a href="https://pspwa.app.box.com/notes/362558043449?s=auxo6d6pshs6hi55bacs8900q2dsk0i5">Puget Sound  Ecosystem Monitoring Program Salmonids Work Group</a>.
-
-			  </li>
+          <li>Remove funding and  policy barriers</li>
+          <li>Develop policy that  advances salmon recovery</li>
+          <li>Pursue and provide  funding to accelerate restoration and protection efforts</li>
+          <li>Support science and  adaptive management using a knowledge-driven approach </li>
         </ul>
-        <p><strong>Related links</strong>: </p>
+        <h2>Key Partners </h2>
+        <h3>Federally Recognized  Tribes</h3> 
+          <p>Federally recognized Tribes play an  essential role in advancing regional salmon recovery efforts and overall  ecosystem health. Tribes are key knowledge holders and inform management  practices through their cultural and traditional knowledge systems that have  been built over millennia, as well as through Western scientific research led  by their natural resource departments. Treaty Tribes are co-managers of salmon  and implement hundreds of salmon recovery projects. 
+          </p>
+        <h3>Federal  Agencies</h3>
+          <p>Federal agencies are leaders and partners in  advancing scientific understanding of complex issues affecting salmon recovery  and have a regulatory responsibility to protect species and clean water (for  example, the Endangered Species Act and Marine Mammal Protection Act) from the  freshwater to the marine environment, as well as provide funding opportunities. </p>
+        <h3>State Agencies</h3>
+          <p>State agencies play an  important role in salmon recovery through policies and regulations, programs  and projects, and funding opportunities. They oversee programs and projects  that lead to direct action regarding restoration and protection of Puget Sound  by using the best available science, guidance, and technical assistance. State  agencies run grant programs that fund projects to advance protection and  restoration work. </p>
+        <h3>Local Governments</h3>
+          <p>Local governments play a key  role in the implementation and enforcement of state programs, policies, and  regulations that impact regional salmon recovery efforts. Local governments  implement decisions that can lead to habitat impacts, such as water use, zoning,  and land use. Through comprehensive planning and permitting, enacting the  Growth Management Act and Shoreline Management Act, local governments can  dictate and influence the amount, type, and location of development within  their jurisdictions. Their support for programs such as urban forestry, water  conservation, invasive species management, and energy efficiency have a  significant impact on local communities.</p>
+        <h3>Watershed Partners</h3>
+          <p>A wide range of local partners work together to restore, protect, and advocate  for salmon recovery. Local partners bring local expertise, creativity, and  perseverance to problem solve in collaborative ways as they implement projects.  They include: </p>
         <ul class="bullet-size-fix">
-          <li>Marlies&rsquo;  funding page (duplication of SSI/WHA information)</li>
-          <li><a href="https://www.psp.wa.gov/science-funded-projects.php">Science and  Evaluation Overview and Funding</a></li>
-          <li><a href="https://psp.wa.gov/salmon-science-investigations.php">Salmon  Science Investigations</a></li>
-          <li><a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr">Salmon  Science Advisory Group</a></li>
+          <li>Lead entities,</li>
+          <li>Local integrating  organizations,</li>
+          <li>Non-profit  organizations,</li>
+          <li>Regional  fisheries enhancement groups, </li>
+          <li>Landowners, and</li>
+          <li>Business and  agricultural entities. </li>
         </ul>
+        <h3>Puget Sound Partnership  Boards</h3>
+        <ul class="bullet-size-fix">
+          <li><strong>The Leadership  Council</strong> - A seven-member panel  appointed by the Governor that makes decisions relating to salmon recovery and  the implementation of the Puget Sound Salmon Recovery Plan.</li>
+          <li><strong>Puget Sound  Salmon Recovery Council</strong> - Advises the  Leadership Council on decisions relating to salmon recovery and the  implementation of the Puget Sound Salmon Recovery Plan.</li>
+        </ul>
+        <h2>Links and resources</h2>
+        <ul class="bullet-size-fix">
+          <li><a href="https://pssalmonhub.wa.gov/" target="new">Puget  Sound Salmon Recovery Hub</a></li>
+          <li><a href="https://psp.wa.gov/psraft.php" target="new">Puget  Sound RAFT</a></li>
+          <li><a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal Relations</a></li>
+          <li><a href="https://psp.wa.gov/HEAL.php" target="new">Healthy  Environments for All (HEAL)</a></li>
+        </ul>
+        <p>Partnership Salmon Recovery Contacts can be found<a href="https://pspwa.box.com/s/c5roh430xy1elc001yziit61jzn703yg" target="new">here.</a>        </p>
         <div>
           <div> </div>
+          <div> </div>
         </div>
-<p class="last-update">Last updated: 09/22/25</p>
+<p class="last-update">Last updated: 10/24/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>

@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Salmon Recovery - Science</title>
+<title>Puget Sound Salmon Recovery - Policy</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 5;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -61,7 +61,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Salmon Recovery - Science			</h1>
+			<h1>Salmon Recovery - Policy			</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -81,29 +81,53 @@
 			
 			
 		
-			<p>Our Salmon Science Program helps guide  salmon recovery efforts using the best available science and planning. We fund and  report on studies, share knowledge, and work with experts to increase our understanding  of Puget Sound salmon ecosystems. This science-first and knowledge approach helps  us support and improve policy solutions. with the goal of improving planning  and support policy solutions. </p>
-        <p>Examples of  this work include:</p>
+		<p>As we work towards our collective goal of  recovering salmon, we operate within a system of rules and laws, referred to as  policy. To be effective, these policies need to change and evolve over time as  the Puget Sound population grows, and we learn more from science and Tribal  knowledge. </p>
+					<p> We work with Tribal co-managers and our  salmon recovery community to identify and advance policy changes that protect  and restore critical salmon habitat and strengthen ecosystems. <br>
+					  There are many ways for this to take  place: </p>
+                    <ul class="bullet-size-fix">
+                      <li><strong>The Salmon Recovery Council</strong> - Guides overall policy direction for implementing the Puget Sound  Salmon Recovery Plan. </li>
+                      <li><strong>The 2024 Puget Sound Salmon Recovery Plan  Addendum</strong> - Identifies key policy areas, such as  population growth and water quantity. The Addendum&rsquo;s implementation plan will  identify policy change that needs to occur within the next 2-4 years. </li>
+                      <li><strong>The Salmon Science Advisory Group</strong> – Supports policies backed by science that support salmon recovery. </li>
+                      <li><strong>The Puget Sound Leadership Council</strong> – Serves as the regional salmon recovery organization for Puget  Sound. Each year, they adopt legislative priorities that include state policy  needs identified by the Salmon Recovery Council and Salmon Recovery Plan. </li>
+                      <li><strong>Tribal engagement</strong> – We consult and coordinate with federally  recognized Tribes to improve policy that impacts salmon recovery.                    </li>
+                    </ul>
+                  
+<h2>Key Salmon Policy Topics</h2>
+<p>Policy  topics that impact salmon recovery efforts include, but are not limited to:</p>
+			<ul class="bullet-size-fix">
+			  <li><strong>Endangered  species -</strong> Protects fish, wildlife, and plants that  are listed as threatened or endangered through the preparation and  implementation of recovery plans. </li>
+              <ul class="bullet-size-fix">
+                <li>Examples:  Endangered Species Act, Salmon Recovery Act </li>
+              </ul>
+			</ul>
         <ul class="bullet-size-fix">
-              <li><strong>Tracking progress - </strong>We develop,  analyze and report on <a href="https://www.pugetsoundinfo.wa.gov/Indicator/Index">Puget Sound Indicators</a>, including  Salmon Habitat Indicators, to measure and share our progress towards salmon  recovery. This helps our understanding of salmon-specific ecosystem conditions  in Puget Sound. <br>
-              </li>
-              <li><strong>Funding research - </strong>We offer  funding opportunities ask important questions and fill knowledge gaps to help improve  recovery efforts.<br>
-              </li>
-            <li><strong>Leading adaptive management - </strong>We lead  adaptive management efforts for the <a href="https://pspwa.box.com/s/4g1ncowwl2at9l59fxzfl1kz11cvkuzf">Puget Sound  Salmon Recovery Plan Addendum</a>.</li>
-              <li><strong>Providing expert support</strong> - We provide technical  support and guidance to our agency and external partners along with a regional  network of science and monitoring experts, such as <a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr">the  Salmon Science Advisory Group</a> and the <a href="https://pspwa.app.box.com/notes/362558043449?s=auxo6d6pshs6hi55bacs8900q2dsk0i5">Puget Sound  Ecosystem Monitoring Program Salmonids Work Group</a>.
-
-			  </li>
-        </ul>
-        <p><strong>Related links</strong>: </p>
+          <li><strong>Land  use - </strong>State laws and implementing guidelines  that direct local governments about where and how different types of  development should occur. Local governments must include environmental  protection and other elements that benefits salmon in their land use planning.</li>
+          <ul class="bullet-size-fix">
+            <li>Examples:  Growth Management Act, Shoreline Management Act            </li>
+          </ul>
+            </ul>
+            <ul class="bullet-size-fix">
+              <li><strong>Clean  water -</strong> State established and federally approved  water quality standards, discharge permits, and water quality improvement plans  that ensure clean water to support human and environmental health.</li>
+              <ul class="bullet-size-fix">
+                <li>Examples:  Washington Water Pollution Control Act, Clean Water Act </li>
+              </ul>
+            </ul>
         <ul class="bullet-size-fix">
-          <li>Marlies&rsquo;  funding page (duplication of SSI/WHA information)</li>
-          <li><a href="https://www.psp.wa.gov/science-funded-projects.php">Science and  Evaluation Overview and Funding</a></li>
-          <li><a href="https://psp.wa.gov/salmon-science-investigations.php">Salmon  Science Investigations</a></li>
-          <li><a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr">Salmon  Science Advisory Group</a></li>
-        </ul>
+          <li><strong>Water  availability -</strong> State law requires that enough water is  kept in streams and rivers to protect and support fish, wildlife, recreation,  water quality, and other instream uses.</li>
+          <ul class="bullet-size-fix">
+            <li>Examples:  Streamflow Restoration Act, instream flow rules            </li>
+          </ul>
+            </ul>
+            <ul class="bullet-size-fix">
+              <li><strong>Human  wellbeing - </strong>State legislation aims to include human  wellbeing and environmental justice into decision-making processes of state  agencies. <strong></strong></li>
+              <ul class="bullet-size-fix">
+                <li>Example:  Healthy Environment for All Act (HEAL) </li>
+              </ul>
+            </ul>
         <div>
-          <div> </div>
+        
         </div>
-<p class="last-update">Last updated: 09/22/25</p>
+<p class="last-update">Last updated: 10/24/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>

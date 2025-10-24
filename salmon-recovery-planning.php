@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Salmon Recovery - Science</title>
+<title>Puget Sound Salmon Recovery - Planning</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 6;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -61,7 +61,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Salmon Recovery - Science			</h1>
+			<h1>Salmon Recovery - Planning			</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -81,29 +81,47 @@
 			
 			
 		
-			<p>Our Salmon Science Program helps guide  salmon recovery efforts using the best available science and planning. We fund and  report on studies, share knowledge, and work with experts to increase our understanding  of Puget Sound salmon ecosystems. This science-first and knowledge approach helps  us support and improve policy solutions. with the goal of improving planning  and support policy solutions. </p>
-        <p>Examples of  this work include:</p>
+		<p>Salmon recovery in  Puget Sound has been guided over the years by collaborative processes which  have resulted in recovery documents, like the Puget Sound Salmon Recovery Plan.  Recovery documents guide our regional efforts to advance salmon and steelhead recovery  by identifying strategies and actions aimed at protecting and restoring habitat  salmon depend on. </p>
+        <p><strong>Puget Sound Salmon Recovery Plan</strong><br>
+          The Puget Sound Salmon Recovery Plan  (Plan) includes strategies and actions for habitat protection and restoration,  hatchery management, and harvest management.</p>
+        <p>The Plan is made up of a regional chapter, the 2024 Addendum to the  regional chapter, and 16 watershed recovery chapters (see image below). </p>
+        <p>&nbsp;</p>
+        <p><img src="/images/salmon-planning-graphic1.png" alt="An image showing 16 watershed represented by blue circles, a plus sign, two orange circles representing regional and addendum, and an equals icon followed by an image of a document saying 'plan'"/></p>
+        <p>&nbsp;</p>
+        <h2>Regional Chapter </h2>
+<p>The <strong>Regional Chapter</strong> (formerly known as the Shared Strategy)  was first developed in 2005 and then approved by NOAA Fisheries in 2007. It  outlines the status and criteria for threatened species (such as Puget Sound  Chinook, Hood Canal summer chum, and bull trout) and includes regional recovery  strategies and adaptive management.<br>
+<h3>The 2024 Puget Sound Salmon Recovery Plan Addendum </h3>
+<p>The <strong>2024 Puget Sound Salmon Recovery Plan Addendum (Addendum) </strong>is  a complementary streamlined, focused, actionable addition to the Regional  Chapter of the 2007 Puget Sound Salmon Recovery Plan to tackle cross-watershed  challenges and policy barriers. The Addendum will guide regional salmon  recovery efforts for the next 10 years.</p>
+<div class="highlightbox margin-0-top margin-20-bottom"><p>The 2024 Puget Sound Salmon Recovery Plan Addendum went through two rounds of Tribal Consultation and one round of public comment. You can find the public comment responses <a href="https://pspwa.app.box.com/file/1474947824505?s=hz4q4pe7d4i0a9u1deoqih1rmeiemo7c" target="new">here.</a></p></div>
+<p>Our staff are developing an <strong>Implementation  Plan</strong> to track and advance 20 regional-focused actions selected from the Addendum  over the next two years. To create the plan, we worked with  partners to develop a long-term shared vision. This includes identifying  activities (called commitments) implementers can take over the next two years  to work towards our shared vision and understand how to track their activity. <br>
+        <h2>Watershed Recovery Chapters</h2>
+          <p>Watershed recovery chapters are  developed by lead entities and Tribes from individual Puget Sound watersheds.  These<strong> </strong>chapters provide strategies for local salmon habitat recovery and  recommend projects, programs, and policies. </p>
         <ul class="bullet-size-fix">
-              <li><strong>Tracking progress - </strong>We develop,  analyze and report on <a href="https://www.pugetsoundinfo.wa.gov/Indicator/Index">Puget Sound Indicators</a>, including  Salmon Habitat Indicators, to measure and share our progress towards salmon  recovery. This helps our understanding of salmon-specific ecosystem conditions  in Puget Sound. <br>
-              </li>
-              <li><strong>Funding research - </strong>We offer  funding opportunities ask important questions and fill knowledge gaps to help improve  recovery efforts.<br>
-              </li>
-            <li><strong>Leading adaptive management - </strong>We lead  adaptive management efforts for the <a href="https://pspwa.box.com/s/4g1ncowwl2at9l59fxzfl1kz11cvkuzf">Puget Sound  Salmon Recovery Plan Addendum</a>.</li>
-              <li><strong>Providing expert support</strong> - We provide technical  support and guidance to our agency and external partners along with a regional  network of science and monitoring experts, such as <a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr">the  Salmon Science Advisory Group</a> and the <a href="https://pspwa.app.box.com/notes/362558043449?s=auxo6d6pshs6hi55bacs8900q2dsk0i5">Puget Sound  Ecosystem Monitoring Program Salmonids Work Group</a>.
-
-			  </li>
+          <li><strong>Four Year Work Plans</strong> – Every  two years, lead entities provide Four Year Work Plans for salmon recovery. In  these plans they describe their accomplishments during the previous year,  report on their progress, and identify next steps over the next four years  needed to implement their watershed chapter. </li>
         </ul>
-        <p><strong>Related links</strong>: </p>
+        <h2>Additional Salmon  Recovery Documents</h2>
+          <p>Chinook  Implementation Strategy - Developed in 2018, this strategy helps focus  recovery actions across Puget Sound, especially for Chinook salmon, and guides  both the Action Agenda and local watershed planning. It is a collaborative  effort between the Puget Sound Partnership, the Tribal Management Conference,  and the Puget Sound Salmon Recovery Council. <br>
+          <strong>Puget Sound Steelhead  Recovery Plan - </strong>Approved in 2019,  this plan guides the protection and recovery of Puget Sound steelhead, a  species listed as threatened under the federal Endangered Species Act (ESA).  This plan aims to improve steelhead viability by addressing the pressures that  contribute to the current condition, including: <strong> </strong></p>
         <ul class="bullet-size-fix">
-          <li>Marlies&rsquo;  funding page (duplication of SSI/WHA information)</li>
-          <li><a href="https://www.psp.wa.gov/science-funded-projects.php">Science and  Evaluation Overview and Funding</a></li>
-          <li><a href="https://psp.wa.gov/salmon-science-investigations.php">Salmon  Science Investigations</a></li>
-          <li><a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr">Salmon  Science Advisory Group</a></li>
+          <ul>
+            <li>Habitat loss and  degradation,</li>
+            <li>Water  withdrawals,</li>
+            <li>Declining water  quality,</li>
+            <li>Barriers to fish  passage</li>
+            <li>Farm operations</li>
+            <li>Hatchery and harvest impacts,<strong> </strong></li>
+            <li>Climate change  effects, and</li>
+            <li>Low survival rates in early marine life.<strong> </strong></li>
+          </ul>
         </ul>
         <div>
           <div> </div>
+          <div> </div>
+          <div> </div>
+          <div> </div>
+          <div> </div>
         </div>
-<p class="last-update">Last updated: 09/22/25</p>
+        <p class="last-update">Last updated: 10/24/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
