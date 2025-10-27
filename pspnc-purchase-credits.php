@@ -85,7 +85,7 @@
 			
 			<h3>What is the current price for one Nearshore Conservation Credit from the Partnership?</h3>
 						
-			<p>$1,411.00</p>
+			<p>$2,000.00</p>
 			
 			<h3>What information is required prior to submitting a purchase request for Partnership Nearshore Credits?</h3>
 			
@@ -131,7 +131,7 @@
 			<button class="button7"><a href="/pspnc-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 
-			<p class="last-update">Last updated: 6/5/24</p>
+			<p class="last-update">Last updated: 10/27/25</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
