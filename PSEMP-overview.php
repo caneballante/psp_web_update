@@ -191,11 +191,11 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://experience.arcgis.com/experience/5740ab1de3e349b5a61b1000fdd16486">Contact us</a></li>
-				<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a></li>
-				<li role="presentation"> <a href="https://www.psp.wa.gov/202AAupdate.php">2018-2022 Action Agenda For Puget Sound</a></li>
-				<li role="presentation"> <a href="https://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
-				<li role="presentation"> <a href="https://www.psp.wa.gov/science-and-evaluation-overview.php">Puget Sound Partnership Science and Evaluation Overview</a></li>
+				<li role="presentation"> <a href="https://experience.arcgis.com/experience/5740ab1de3e349b5a61b1000fdd16486" target="new">Contact us</a></li>
+				<li role="presentation"> <a href="https://vitalsigns.pugetsoundinfo.wa.gov" target="new">Puget Sound Vital Signs</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/202AAupdate.php" target="new">2018-2022 Action Agenda For Puget Sound</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/implementation-strategies.php" target="new">Implementation Strategies</a></li>
+				<li role="presentation"> <a href="https://www.psp.wa.gov/science-and-evaluation-overview.php" target="new">Puget Sound Partnership Science and Evaluation Overview</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
