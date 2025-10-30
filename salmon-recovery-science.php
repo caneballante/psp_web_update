@@ -81,7 +81,7 @@
 			
 			
 		
-			<p>Our Salmon Science Program helps guide  salmon recovery efforts using the best available science and planning. We fund and  report on studies, share knowledge, and work with experts to increase our understanding  of Puget Sound salmon ecosystems. This science-first and knowledge approach helps  us support and improve policy solutions. with the goal of improving planning  and support policy solutions. </p>
+			<p>Our Salmon Science Program helps guide  salmon recovery efforts using the best available science and planning. We fund and  report on studies, share knowledge, and work with experts to increase our understanding  of Puget Sound salmon ecosystems. This science-first and knowledge approach helps  us support and improve policy solutions with the goal of improving planning  and support policy solutions. </p>
         <p>Examples of  this work include:</p>
         <ul class="bullet-size-fix">
               <li><strong>Tracking progress - </strong>We develop,  analyze and report on <a href="https://www.pugetsoundinfo.wa.gov/Indicator/Index">Puget Sound Indicators</a>, including  Salmon Habitat Indicators, to measure and share our progress towards salmon  recovery. This helps our understanding of salmon-specific ecosystem conditions  in Puget Sound. <br>

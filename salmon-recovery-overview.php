@@ -80,7 +80,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			<h2>Overview</h2>
-			<p>The health of  salmon populations reflects the overall health of Puget Sound. At the Puget  Sound Partnership, we play an  important role in salmon recovery by investing in related projects and helping  to coordinate and track the work of local, Tribal, and regional partners.  Working closely with <a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal nations</a> and partners is vital to  achieving our collective goal of protecting and restoring critical salmon  habitat to support their recovery.<br>
+			<p>The health of  salmon populations reflects the overall health of Puget Sound. At the Puget  Sound Partnership, we play an  important role in salmon recovery by investing in related projects and helping  to coordinate and track the work of local, Tribal, and regional partners.  Working closely with <a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal nations</a> and partners is vital to  achieving our collective goal of protecting and restoring critical salmon  habitat to support their recovery.
 We lead these efforts in the  following ways (select each one for more information):</p>
         <ul class="bullet-size-fix">
 			<li><strong><a href="/salmon-recovery-science.php" target="new">Science</a></strong> - Share information, connect science to action, adapt  recovery efforts as we learn more</li>

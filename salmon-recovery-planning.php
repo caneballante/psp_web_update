@@ -83,14 +83,12 @@
 		
 		<p>Salmon recovery in  Puget Sound has been guided over the years by collaborative processes which  have resulted in recovery documents, like the Puget Sound Salmon Recovery Plan.  Recovery documents guide our regional efforts to advance salmon and steelhead recovery  by identifying strategies and actions aimed at protecting and restoring habitat  salmon depend on. </p>
         <p><strong>Puget Sound Salmon Recovery Plan</strong><br>
-          The Puget Sound Salmon Recovery Plan  (Plan) includes strategies and actions for habitat protection and restoration,  hatchery management, and harvest management.</p>
-        <p>The Plan is made up of a regional chapter, the 2024 Addendum to the  regional chapter, and 16 watershed recovery chapters (see image below). </p>
+          The Puget Sound Salmon Recovery Plan  (Plan) includes strategies and actions for habitat protection and restoration,  hatchery management, and harvest management. The Plan is made up of a regional chapter, the 2024 Addendum to the  regional chapter, and 16 watershed recovery chapters (see image below). </p>
         <p>&nbsp;</p>
         <p><img src="/images/salmon-planning-graphic1.png" alt="An image showing 16 watershed represented by blue circles, a plus sign, two orange circles representing regional and addendum, and an equals icon followed by an image of a document saying 'plan'"/></p>
         <p>&nbsp;</p>
         <h2>Regional Chapter </h2>
 <p>The <strong>Regional Chapter</strong> (formerly known as the Shared Strategy)  was first developed in 2005 and then approved by NOAA Fisheries in 2007. It  outlines the status and criteria for threatened species (such as Puget Sound  Chinook, Hood Canal summer chum, and bull trout) and includes regional recovery  strategies and adaptive management.<br>
-<h3>The 2024 Puget Sound Salmon Recovery Plan Addendum </h3>
 <p>The <strong>2024 Puget Sound Salmon Recovery Plan Addendum (Addendum) </strong>is  a complementary streamlined, focused, actionable addition to the Regional  Chapter of the 2007 Puget Sound Salmon Recovery Plan to tackle cross-watershed  challenges and policy barriers. The Addendum will guide regional salmon  recovery efforts for the next 10 years.</p>
 <div class="highlightbox margin-0-top margin-20-bottom"><p>The 2024 Puget Sound Salmon Recovery Plan Addendum went through two rounds of Tribal Consultation and one round of public comment. You can find the public comment responses <a href="https://pspwa.app.box.com/file/1474947824505?s=hz4q4pe7d4i0a9u1deoqih1rmeiemo7c" target="new">here.</a></p></div>
 <p>Our staff are developing an <strong>Implementation  Plan</strong> to track and advance 20 regional-focused actions selected from the Addendum  over the next two years. To create the plan, we worked with  partners to develop a long-term shared vision. This includes identifying  activities (called commitments) implementers can take over the next two years  to work towards our shared vision and understand how to track their activity. <br>
@@ -100,7 +98,7 @@
           <li><strong>Four Year Work Plans</strong> – Every  two years, lead entities provide Four Year Work Plans for salmon recovery. In  these plans they describe their accomplishments during the previous year,  report on their progress, and identify next steps over the next four years  needed to implement their watershed chapter. </li>
         </ul>
         <h2>Additional Salmon  Recovery Documents</h2>
-          <p>Chinook  Implementation Strategy - Developed in 2018, this strategy helps focus  recovery actions across Puget Sound, especially for Chinook salmon, and guides  both the Action Agenda and local watershed planning. It is a collaborative  effort between the Puget Sound Partnership, the Tribal Management Conference,  and the Puget Sound Salmon Recovery Council. <br>
+          <p><strong>Chinook  Implementation Strategy</strong> - Developed in 2018, this strategy helps focus  recovery actions across Puget Sound, especially for Chinook salmon, and guides  both the Action Agenda and local watershed planning. It is a collaborative  effort between the Puget Sound Partnership, the Tribal Management Conference,  and the Puget Sound Salmon Recovery Council. <br>
           <strong>Puget Sound Steelhead  Recovery Plan - </strong>Approved in 2019,  this plan guides the protection and recovery of Puget Sound steelhead, a  species listed as threatened under the federal Endangered Species Act (ESA).  This plan aims to improve steelhead viability by addressing the pressures that  contribute to the current condition, including: <strong> </strong></p>
         <ul class="bullet-size-fix">
           <ul>

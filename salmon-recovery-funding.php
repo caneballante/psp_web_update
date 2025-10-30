@@ -81,10 +81,9 @@
 			
 			
 		
-					<p>Salmon recovery is a collective effort involving  a community of partners across Puget Sound. Tribal knowledge, scientific  studies, monitoring, and assessments play a vital role in moving our salmon  recovery and habitat restoration goals forward. They help us target where  restoration efforts are most needed and carry out essential projects that  protect and restore the habitat that salmon depend on. </p>
-					<p>Some of the partners we work with include: </p>
+					<p>Salmon recovery is a collective effort involving  a community of partners across Puget Sound. Tribal knowledge, scientific  studies, monitoring, and assessments play a vital role in moving our salmon  recovery and habitat restoration goals forward. They help us target where  restoration efforts are most needed and carry out essential projects that  protect and restore the habitat that salmon depend on. Some of the partners we work with include: </p>
 <ul class="bullet-size-fix">
-            <li>Lead entities, </li>
+        <li>Lead entities, </li>
             <li>Local partners,</li>
             <li>Non-governmental organizations,</li>
             <li>Tribes,</li>
@@ -93,20 +92,19 @@
 </ul>
         <p>We invest in this collective effort because  healthy salmon are an important part of our region and our long-term wellbeing.  Salmon runs also support jobs, recreation, and ecosystems across Puget Sound. </p>
        <ul class="bullet-size-fix">
-          <li><strong><a href="https://psp.wa.gov/salmon-science-investigations.php" target="new">Salmon  Science Investigations</a></strong>- Supports studies that address key  questions and knowledge gaps outlined in the Request for Information updated every  two years.<br>
+          <li><strong><a href="https://psp.wa.gov/salmon-science-investigations.php" target="new">Salmon  Science Investigations </a></strong>- Supports studies that address key  questions and knowledge gaps outlined in the Request for Information updated every  two years.<br>
           </li>
-         <li><strong>Watershed Habitat Assessment</strong><strong>s</strong> – Helps  lead entities assess and report on salmon habitat conditions to understand  progress toward habitat goals and plan implementation. </li>
+         <li><strong>Watershed Habitat Assessment</strong><strong>s</strong> - Helps  lead entities assess and report on salmon habitat conditions to understand  progress toward habitat goals and plan implementation. </li>
          <li><strong>Watershed Chapter Updates -</strong> Supports  lead entities and Tribes in using new data and science to update local recovery  strategies and targets.</li>
-         <li><strong><a href="https://psp.wa.gov/monitoring-accelerate-recovery.php" target="new">Monitoring  to Accelerate Recovery </a></strong>–<strong> </strong>Funds high-priority monitoring projects that  support recovery of Puget Sound and meet objectives of the Puget Sound  Ecosystem Monitoring Program (PSEMP).</li>
-          <li><strong>Puget Sound Scientific Research</strong>: The purpose is to fund projects that address priority information  needs described in the Science Work Plan.
-                   </li>
+         <li><strong><a href="https://psp.wa.gov/monitoring-accelerate-recovery.php" target="new">Monitoring  to Accelerate Recovery </a></strong>-<strong> </strong>Funds high-priority monitoring projects that  support recovery of Puget Sound and meet objectives of the Puget Sound  Ecosystem Monitoring Program (PSEMP).</li>
+          <li><strong>Puget Sound Scientific Research</strong> - The purpose is to fund projects that address priority information  needs described in the Science Work Plan. </li>
         </ul>
        <p>For additional information, please read the <u></u><a href="https://www.psp.wa.gov/science-funded-projects.php" target="new">funded science projects.</a></p>
 			<h2>Funding for Project Implementation</h2>
 			<ul class="bullet-size-fix">
 			  <li><strong>Puget Sound Acquisition and Restoration (PSAR)  Base Funds </strong>- Supports restoration and protection of habitat projects for salmon  recovery in Puget Sound. Projects are reviewed and selected by local citizen  and technical committees led by Puget Sound lead entities. Contact your local <a href="https://rco.wa.gov/salmon-recovery/managing-organizations/lead-entities/" target="new">lead entity  coordinator</a> for grant round information.<br>
 		      </li>
-			  <li><strong><a href="https://psp.wa.gov/PSAR.php" target="new">PSAR Large  Capital</a></strong><strong> Projects </strong>- Funds the most regionally significant  salmon habitat protection and restoration projects for Puget Sound reviewed and  selected by a regional committee of experts. These projects usually cost more  than one million dollars.</li>
+			  <li><strong><a href="https://psp.wa.gov/PSAR.php" target="new">PSAR Large  Capital Projects </a></strong>- Funds the most regionally significant  salmon habitat protection and restoration projects for Puget Sound reviewed and  selected by a regional committee of experts. These projects usually cost more  than one million dollars.</li>
 			  <li><strong>Riparian Focused Projects </strong>- Supports  stewardship of riparian areas through plantings, noxious weed control, and  acquisitions. Contact your local <a href="https://rco.wa.gov/salmon-recovery/managing-organizations/lead-entities/" target="new">lead entity  coordinator</a> for information.
 			  </li>
 			</ul>

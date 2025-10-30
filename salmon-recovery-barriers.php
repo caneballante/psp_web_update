@@ -82,13 +82,13 @@
 			
 		
 			<h2>Policy Barriers</h2>
-		<p>Policy barriers at the local, state, and federal  levels can cause delays in salmon recovery efforts. <br>
-		  Salmon habitat restoration projects often  face the same permitting hurdles as large development projects that can  potentially harm habitat. We work to streamline the permitting processes for  salmon habitat restoration projects that have gone through state and local  review, like the <a href="https://psp.wa.gov/PSAR.php">PSAR Large  Capital Projects</a> and Salmon Recovery Funding Board (SRFB)  processes. <br>
+		<p>Policy barriers at the local, state, and federal  levels can cause delays in salmon recovery efforts. 
+		  Salmon habitat restoration projects often  face the same permitting hurdles as large development projects that can  potentially harm habitat. We work to streamline the permitting processes for  salmon habitat restoration projects that have gone through state and local  review, like the <a href="https://psp.wa.gov/PSAR.php">PSAR Large  Capital Projects</a> and Salmon Recovery Funding Board (SRFB)  processes. 
 	    We also work with partners to integrate salmon  recovery into all levels of development policy. This includes encouraging: </p>
 <ul class="bullet-size-fix">
             <li><a href="https://www.psp.wa.gov/soundsafe" target="new">Sound Safe  Infrastructure</a>, </li>
         <li>Salmon smart critical areas, and </li>
-<li>Shoreline development policies<strong>.</strong></li>
+<li>Shoreline development policies.</li>
         </ul>
         <p>By adding salmon recovery objectives into these  development policies, we are helping to prevent future recovery barriers while  addressing current barriers that slow salmon recovery progress. </p>
         <h2>Funding Barriers </h2>
