@@ -80,11 +80,11 @@
 		
 			<div class="pull-right"><img src="images/PSEMP/PSEMP_logo.jpg" width="277" height="303" alt=""/></div>
 			<p>The Puget Sound Ecosystem Monitoring Program (PSEMP) is a collaborative network of subject matter experts from many monitoring organizations and different parts of the region.  Together, they generate, organize, synthesize, and communicate scientific information, across political and organizational boundaries, to track ecosystem conditions that directly address management and science questions critical to Puget Sound recovery.  </p>
-<p>To achieve this mission, PSEMP has  the following <strong><u>objectives</u></strong>:</p>
-			<ol>
-				<li><em><u>Increase collaboration</u></em> across monitoring programs by creating and maintaining forums for open communication, data sharing, synthesis, and effectiveness assessment.</li>
-				<li><em><u>Support&nbsp;adaptive management</u></em>&nbsp;of recovery efforts by facilitating dialogue among PSEMP participants, planners, managers, and decision-makers.</li>
-				<li><em><u>I</u></em><em><u>mprove&nbsp;communication</u></em>&nbsp;within and beyond the monitoring and assessment community to improve access to credible information to guide recovery decisions.</li>
+<p>To achieve this mission, PSEMP has  the following <strong>objectives</strong>:</p>
+			<ol class="bullet-size-fix">
+				<li><strong>Increase collaboration</strong> across monitoring programs by creating and maintaining forums for open communication, data sharing, synthesis, and effectiveness assessment.</li>
+				<li><strong>Support&nbsp;adaptive management</strong>&nbsp;of recovery efforts by facilitating dialogue among PSEMP participants, planners, managers, and decision-makers.</li>
+				<li><u><strong></strong><strong>Improve&nbsp;communication</strong>&nbsp;within and beyond the monitoring and assessment community to improve access to credible information to guide recovery decisions.</li>
 			</ol>
 			<p>The Puget Sound Partnership supports and assists PSEMP and facilitates communication among the Partnership's programs, the Puget Sound Science Panel, the Ecosystem Coordination Board, the Leadership Council, and the Salmon Recovery Council. The monitoring program is called for in the Partnership's enabling statute (RCW 90.71.290)</p>
 
@@ -92,37 +92,36 @@
 				<tbody>
 					<tr>
 						
-						<td colspan="5"><h3>For more information about each group in the PSEMP Network, please click on the links below</h3></td>
+						<td colspan="5"><h3>For more information about each group in the PSEMP Network, please SELECT  the links below</h3></td>
 					</tr>
+					<tr><td colspan="4" class="no-icon"><a href="https://psemp-wa-psp.hub.arcgis.com/" target="new">ALL PSEMP Work Groups</a></td></tr>
 					<tr>
 						<td colspan="1" rowspan="10"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
 						<td colspan="4" class="no-icon"><h3 class="PSEMP-blue">COORDINATING BODIES</h3></td>
 						
 					</tr>
-					<tr>
-						<td colspan="2" class="no-icon"><a href="https://pspwa.box.com/s/5f7aymlldxt4wqsfmcutmy3iz3h6l3ts" target="new">Steering Committee</a></td>
-						<td colspan="2" class="no-icon"><a href="https://pspwa.box.com/s/dyvtti9au3jdfp65wbj0k3tdyo4kqdl5" target="new">Work Group Leads</a></td>
+				  <tr>
+						<td colspan="2" class="no-icon"><a href="https://psemp-steeringcommittee-wa-psp.hub.arcgis.com/" target="new">Steering Committee</a></td>
+				
 					</tr>
 					<tr>
 						<td colspan="4"><h3 class="PSEMP-green">WORK GROUPS</h3></td>
 					</tr>
 					<tr>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/8yiq86nl46w3sea0jdtjktnku7vs1qsk" target="new">Diseases </a></td>
-						<td colspan="1" class="no-icon"><a href="https://pspwa.box.com/s/ma6eqsw9bbqza748101ypr5mexstxcjd" target="new">Forage Fish and Food Webs </a></td>
-						<td colspan="1" class="no-icon"><a href="https://pspwa.box.com/s/l2rw4npfymga6x9rqsh8z15qs45uv9ub" target="new">Freshwater </a></td>
+						<td class="no-icon"><a href="https://psemp-diseasesworkgroup-wa-psp.hub.arcgis.com/" target="new">Diseases </a></td>
+						<td colspan="1" class="no-icon"><a href="https://psemp-foragefishandfoodwebsworkgroup-wa-psp.hub.arcgis.com/" target="new">Forage Fish and Food Webs </a></td>
 						<td colspan="1" class="no-icon"><a href="https://psemp-marinebirdsworkgroup-wa-psp.hub.arcgis.com/" target="new">Marine Birds </a></td>
 					</tr>
 					<tr>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/ltd6c5kmlv0g9kgzce4n571anvk09kef" target="new">Marine Mammals </a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/5lq9cfr18b13p7zno86n9yor2uin3vra" target="new">Marine Waters </a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/1cjl3znjgx9bplmrk7h2qhpqjw52zndy" target="new">Modeling </a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/wgbl9zmrov2nd4qdor5iwvlnkckg6hac" target="new">Nearshore </a></td>
+						<td class="no-icon"><a href="https://psemp-marinemammalsworkgroup-wa-psp.hub.arcgis.com/" target="new">Marine Mammals </a></td>
+						<td class="no-icon"><a href="https://psemp-marinewatersworkgroup-wa-psp.hub.arcgis.com/" target="new">Marine Waters </a></td>
+						<td class="no-icon"><a href="https://psemp-nearshoreworkgroup-wa-psp.hub.arcgis.com/" target="new">Nearshore </a></td>
 					</tr>
 					<tr>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/auxo6d6pshs6hi55bacs8900q2dsk0i5" target="new">Salmonids </a></td>
+						<td class="no-icon"><a href="https://psemp-salmonidsworkgroup-wa-psp.hub.arcgis.com/" target="new">Salmonids </a></td>
 						<td class="no-icon"><a href="https://psemp-spatialdataworkgroup-wa-psp.hub.arcgis.com/" target="new">Spatial Data </a></td>
 						<td class="no-icon"><a href="https://sites.google.com/site/pugetsoundstormwaterworkgroup/home" target="new">Stormwater </a></td>
-						<td class="no-icon"><a href="https://pspwa.box.com/s/cbyi59r5gpjk7yro89k0pb4g61gi3ksm" target="new">Toxics </a></td>
+						<td class="no-icon"><a href="https://psemp-toxicsworkgroup-wa-psp.hub.arcgis.com/" target="new">Toxics </a></td>
 					</tr>
 					<tr>
 					<td colspan="4"><h3 class="PSEMP-green">SUBCOMMITTEES</h3></td>
