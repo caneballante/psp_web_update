@@ -84,7 +84,7 @@
 			<ol class="bullet-size-fix">
 				<li><strong>Increase collaboration</strong> across monitoring programs by creating and maintaining forums for open communication, data sharing, synthesis, and effectiveness assessment.</li>
 				<li><strong>Support&nbsp;adaptive management</strong>&nbsp;of recovery efforts by facilitating dialogue among PSEMP participants, planners, managers, and decision-makers.</li>
-				<li><u><strong></strong><strong>Improve&nbsp;communication</strong>&nbsp;within and beyond the monitoring and assessment community to improve access to credible information to guide recovery decisions.</li>
+				<li><strong></strong><strong>Improve&nbsp;communication</strong>&nbsp;within and beyond the monitoring and assessment community to improve access to credible information to guide recovery decisions.</li>
 			</ol>
 			<p>The Puget Sound Partnership supports and assists PSEMP and facilitates communication among the Partnership's programs, the Puget Sound Science Panel, the Ecosystem Coordination Board, the Leadership Council, and the Salmon Recovery Council. The monitoring program is called for in the Partnership's enabling statute (RCW 90.71.290)</p>
 
