@@ -128,7 +128,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="www.stateofthesound.wa.gov">2019 State of the Sound</a></li>
+				<li class="active" role="presentation"> <a href="/sos.php">2025 State of the Sound</a></li>
 				<li role="presentation"> <a href="PSmarinewatersoverview.php">Marine Waters Overview Reports</a></li>
 				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/" target="new">State of the Salmon</a></li>
 				<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>

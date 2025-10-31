@@ -59,9 +59,7 @@
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-		<div class="col-sm-12 orange-fill align-center overview-logo-banner margin-20-bottom"><img src="images/stateofthesound-logo-no-date.png" width="388" height="59" alt=""/></div>
-	</div>
+
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row"> 
@@ -76,17 +74,14 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<div class="floatright"><a class="no-icon text-right" href="https://www.stateofthesound.wa.gov"><img class="img-responsive" src="images/2023SOS-cover.jpg" width="300" height="388" alt=""/></a><br><p class="text-right">&nbsp;</p></div>
+			<div class="floatright"><a class="no-icon text-right" href="https://www.stateofthesound.wa.gov"><img class="img-responsive" src="images/2025SOS-cover.png" width="300" height="388" alt=""/></a><br><p class="text-right">&nbsp;</p></div>
         <h2 class="margin-0-top">About the State of the Sound</h2>
             <p>As a national and tribal treasure, Puget Sound is worthy of our every effort for protection and restoration. Such effort requires the coordination and collaboration of hundreds of partners in planning, prioritizing, and undertaking the actions needed to recover and sustain Puget Sound.</p>
             <p>The biennial State of the Sound report is intended to help our partners and decision makers better understand (1) how well the recovery effort is going, (2) ecosystem health and progress toward Puget Sound recovery goals, and (3) the role each partner can play in achieving Puget Sound recovery. It also responds specifically to state statute (RCW 90.71.370(3)).            </p>
-            <p><strong><a href="https://stateofthesound.wa.gov">State of the Sound Website</a></strong><br>
-        The website  presents the 2023 State of the Sound Executive Summary and the Call to Action for recovery partners. </p>
-            <p><strong><a href="https://pspwa.box.com/shared/static/ijudsxn5pcnl614485td4lgwc3j4wcmi.pdf">Download the State of the Sound Report (PDF)</a></strong></p>
-			<p><strong><a href="https://pspwa.box.com/shared/static/v5yuglnxawmwfyl1t1e7y33riydpclpn.pdf">Download the State of the Sound Report (Espanol PDF)</a></strong></p>
-        
-			
-			<p class="last-update">Last updated: 2/5/24</p>
+            <p>More information about the 2025 State of the Sound can be found at the<strong><a href="https://stateofthesound.wa.gov">State of the Sound Website</a></strong><br>
+        </p>
+            <p><strong><a href="https://pspwa.box.com/shared/static/ijudsxn5pcnl614485td4lgwc3j4wcmi.pdf">Download the State of the Sound Report (PDF)</a></strong>			</p>
+            <p class="last-update">Last updated: 11/01/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -100,14 +95,9 @@
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-20-top ">PARTNER REPORTS</div>
-			<!-- InstanceEndEditable -->
+						<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="https://stateofsalmon.wa.gov/">State of the Salmon</a></li>
-				<li role="presentation"> <a href="https://nwifc.org/publications/state-of-our-watersheds/" target="_blank">2020 State of our Watersheds</a></li>
-			
-             
+				<!-- InstanceBeginEditable name="right_nav_links" -->            
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

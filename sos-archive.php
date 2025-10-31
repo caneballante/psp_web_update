@@ -55,9 +55,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image113"></header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-		<div class="col-sm-12 orange-fill align-center overview-logo-banner margin-20-bottom"><img src="images/stateofthesound-logo-no-date.png" width="388" height="59" alt=""/></div>
-	</div>
+
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row"> 
@@ -75,9 +73,13 @@
 		
 		
 			<h2 class="margin-0-top">State of the Sound archive</h1>
+			<h3>2023 State of the Sound</h3>
+            <ul>
+              <li><a href="https://pspwa.box.com/shared/static/ijudsxn5pcnl614485td4lgwc3j4wcmi.pdf">2023 State of the Sound</a></li>
+            </ul>
 			<h3>2021 State of the Sound</h3>
 			<ul>
-				<li><a href="https://pspwa.box.com/shared/static/8axpa1vumenqgrk7lxk4rlwcmprxz03l.pdf">2021 State of the Sound</a></li>
+			  <li><a href="https://pspwa.box.com/shared/static/8axpa1vumenqgrk7lxk4rlwcmprxz03l.pdf">2021 State of the Sound</a></li>
 			</ul>
             
 				
@@ -127,13 +129,10 @@
 				<li role="presentation"> <a href="evaluating-effective-action.php" target="_blank">Effectiveness</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-20-top ">PARTNER REPORTS</div>
-			<!-- InstanceEndEditable -->
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" --><!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="http://stateofsalmon.wa.gov/governors-report-2016/">2016 State of the Salmon</a></li>
-				<li role="presentation"> <a href="https://nwifc.org/publications/state-of-our-watersheds/" target="_blank">2016 State of our Watersheds</a></li>
+			
 			
              
 				<!-- InstanceEndEditable -->
