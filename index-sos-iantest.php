@@ -183,8 +183,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/FriendlyShorescrop.jpg"  alt="Photo of a shell-filled muddy shore."/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2024/05/17/friendly-shores/">Shore Friendly: Protecting your property and Puget Sound</a><br>
+						<img class="img-responsive img-rounded" src="images/2025sosbox.png"  alt="Photo of people working in a river."/> <strong>2025 STATE OF THE SOUND</strong><br>
+						<a href="/sos.php">A report on the health of Puget Sound and the state of our recovery efforts</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
