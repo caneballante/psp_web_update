@@ -61,7 +61,7 @@
 						<p><strong>The State of the Sound assesses the health of the Puget Sound ecosystem and progress towards its recovery</strong></p>
 
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://www.stateofthesound.wa.gov">LEARN MORE ABOUT THE REPORT</a></div>
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://www.stateofthesound.wa.gov" target="new">LEARN MORE ABOUT THE REPORT</a></div>
 						</div>
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
 							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/40b99uyucp7yhzq27om2qbb6y1vy39dj.pdf">DOWNLOAD THE STATE OF THE SOUND</a></div>
