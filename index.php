@@ -54,6 +54,20 @@
 	</div>
 </header>-->
 	<header class="intro-SOS">
+		<div class="col-md-8 col-md-offset-2">
+						<h1>&nbsp;</h1>
+						<h1>&nbsp;</h1>
+						<h1><strong>2025 State of the Sound	</strong></h1>
+						<p><strong>The State of the Sound assesses the health of the Puget Sound ecosystem and progress towards its recovery</strong></p>
+
+						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://www.stateofthesound.wa.gov">LEARN MORE ABOUT THE REPORT</a></div>
+						</div>
+						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/40b99uyucp7yhzq27om2qbb6y1vy39dj.pdf">DOWNLOAD THE STATE OF THE SOUND</a></div>
+						</div>
+						
+	  </div>
 	  <div class="intro-body">
 	    
 	    </div>
@@ -102,11 +116,11 @@
 		<div class="col-sm-3 padding-40-top"> <img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive img-rounded"/> </div>
 		<div class="col-sm-3 padding-20-top">
 			<h1>MEASURING RECOVERY</h1>
+			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="https://stateofthesound.wa.gov">2025 State of the Sound</a> </div>
 			<div class="padding-5-bottom"><a href="evaluating-actions-to-recover-puget-sound.php">Evaluating actions to recover Puget Sound</a></div>
 			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">Puget Sound Vital Signs</a></div>
 			<div class="padding-5-bottom"><a href="/PSEMP-overview.php">Ecosystem monitoring (PSEMP)</a> </div>
 			<div class="padding-5-bottom"><a href="https://psp.wa.gov/science-funded-projects.php">Science and evaluation funded projects</a></div>
-			<div class="padding-5-bottom"><a href="https://stateofthesound.wa.gov">2023 State of the Sound</a> </div>
 			<div class="padding-5-bottom"><a href="https://www.pugetsoundinfo.wa.gov">Puget Sound Info</a></div>
 			<div class="padding-5-bottom"><a href="https://data-wa-psp.hub.arcgis.com/">Recovery Spatial Data and Tools</a></div>
 		</div>
@@ -169,8 +183,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/FriendlyShorescrop.jpg"  alt="Photo of a shell-filled muddy shore."/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2024/05/17/friendly-shores/">Shore Friendly: Protecting your property and Puget Sound</a><br>
+						<img class="img-responsive img-rounded" src="images/2025sosbox.png"  alt="Photo of people working in a river."/> <strong>2025 STATE OF THE SOUND</strong><br>
+						<a href="/sos.php">A report on the health of Puget Sound and the state of our recovery efforts</a><br><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>

@@ -64,7 +64,7 @@
 							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://www.stateofthesound.wa.gov">LEARN MORE ABOUT THE REPORT</a></div>
 						</div>
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/ijudsxn5pcnl614485td4lgwc3j4wcmi.pdf">DOWNLOAD THE STATE OF THE SOUND IN ENGLISH </a></div>
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/40b99uyucp7yhzq27om2qbb6y1vy39dj.pdf">DOWNLOAD THE STATE OF THE SOUND</a></div>
 						</div>
 						
 	  </div>
