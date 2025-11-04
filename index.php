@@ -116,7 +116,7 @@
 		<div class="col-sm-3 padding-40-top"> <img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive img-rounded"/> </div>
 		<div class="col-sm-3 padding-20-top">
 			<h1>MEASURING RECOVERY</h1>
-			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="https://stateofthesound.wa.gov">2025 State of the Sound</a> </div>
+			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="https://stateofthesound.wa.gov" target="new">2025 State of the Sound</a> </div>
 			<div class="padding-5-bottom"><a href="evaluating-actions-to-recover-puget-sound.php">Evaluating actions to recover Puget Sound</a></div>
 			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">Puget Sound Vital Signs</a></div>
 			<div class="padding-5-bottom"><a href="/PSEMP-overview.php">Ecosystem monitoring (PSEMP)</a> </div>
