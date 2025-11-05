@@ -94,16 +94,16 @@
 			<div class="padding-5-bottom"><a href="2026AAupdate.php"><span class="new-red">NEW! </span>2026-2030 Action Agenda Update</a></div>
 			<div class="padding-5-bottom"><a href="implementation-strategies.php">Implementation Strategies</a> </div>
 			<div class="padding-5-bottom"><a href="science-adaptive-management-framework.php">Results-based management</a></div>
-			<div class="padding-5-bottom"><a href="strategic-plan.php"><span class="new-red">NEW! </span>Strategic Plan 2024-2029</a></div>
-			<div class="padding-5-bottom"><a href="publiccomments.php"><span class="new-red">NEW! </span>Public comments</a></div>
+			<div class="padding-5-bottom"><a href="strategic-plan.php">Strategic Plan 2024-2029</a></div>
+			<div class="padding-5-bottom"><a href="publiccomments.php">Public comments</a></div>
 		</div>
 		<div class="col-sm-3 padding-40-top"> <img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive img-rounded"/> </div>
 		<div class="col-sm-3 padding-20-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> Salmon recovery</a></div>
-			<div class="padding-5-bottom"><a href="https://pssalmonhub.wa.gov/"> <span class="new-red">NEW! </span>Salmon recovery Hub</a></div>
+			<div class="padding-5-bottom"><a href="https://pssalmonhub.wa.gov/">Salmon recovery Hub</a></div>
 			<div class="padding-5-bottom"><a href="PSAR.php">Puget Sound Acquisition and Restoration (PSAR)&nbsp;program</a></div>
-			<div class="padding-5-bottom"><a href="https://pspwa.box.com/s/2k2bkn5uivi7yoxchjsnn4fn8knzs8v2"><span class="new-red">NEW! </span>Climate Commitment Act and Puget Sound funding and investments fact sheet</a></div>
+			<div class="padding-5-bottom"><a href="https://pspwa.box.com/s/2k2bkn5uivi7yoxchjsnn4fn8knzs8v2">Climate Commitment Act and Puget Sound funding and investments fact sheet</a></div>
 			<div class="padding-5-bottom"><a href="/human-wellbeing.php"><span class="new-red">NEW! </span>Human Wellbeing</a></div>
 			<div class="padding-5-bottom"><a href="NEP-overview.php">National Estuary Program (NEP)</a></div>
 			<div class="padding-5-bottom"><a href="LIO-overview.php">Local recovery and Local Integrating Organizations (LIOs)</a></div>
@@ -128,10 +128,10 @@
 		<div class="col-sm-3 padding-20-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
-			<div class="padding-5-bottom"><a href="strategic-funding-program.php"><span class="new-red">NEW! </span>Strategic Funding Program</a></div>
-			<div class="padding-5-bottom"><a href="psraft.php"><span class="new-red">NEW! </span>Puget Sound RAFT - Recovery Acceleration Funding Tool</a></div>
-			<div class="padding-5-bottom"><a href="/PSAR-CCA.php"><span class="new-red">NEW! </span>PSAR Climate Commitment Act</a></div>
-			<div class="padding-5-bottom"><a href="/tribal-relations.php"><span class="new-red">NEW! </span>Tribal Relations</a></div>
+			<div class="padding-5-bottom"><a href="strategic-funding-program.php">Strategic Funding Program</a></div>
+			<div class="padding-5-bottom"><a href="psraft.php">Puget Sound RAFT - Recovery Acceleration Funding Tool</a></div>
+			<div class="padding-5-bottom"><a href="/PSAR-CCA.php">PSAR Climate Commitment Act</a></div>
+			<div class="padding-5-bottom"><a href="/tribal-relations.php">Tribal Relations</a></div>
 			<div class="padding-5-bottom"><a href="funding.php">Science and Monitoring Funding opportunities</a></div>
 			<div class="padding-5-bottom"><a href="federal-government-relations.php">Federal support for Puget Sound recovery</a></div>
 			<div class="padding-5-bottom"><a href="state-government-relations.php">2025 legislative session</a></div>
