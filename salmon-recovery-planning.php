@@ -93,7 +93,7 @@
 <div class="highlightbox margin-0-top margin-20-bottom"><p>The 2024 Puget Sound Salmon Recovery Plan Addendum went through two rounds of Tribal Consultation and one round of public comment. You can find the public comment responses <a href="https://pspwa.app.box.com/file/1474947824505?s=hz4q4pe7d4i0a9u1deoqih1rmeiemo7c" target="new">here.</a></p></div>
 <p>Our staff are developing an <strong>Implementation  Plan</strong> to track and advance 20 regional-focused actions selected from the Addendum  over the next two years. To create the plan, we worked with  partners to develop a long-term shared vision. This includes identifying  activities (called commitments) implementers can take over the next two years  to work towards our shared vision and understand how to track their activity. <br>
         <h2>Watershed Recovery Chapters</h2>
-          <p><a href="https://psp.wa.gov/salmon-recovery-watersheds.php" target="new">Watershed recovery chapters</a> are  developed by lead entities and Tribes from individual Puget Sound watersheds.  These<strong> </strong>chapters provide strategies for local salmon habitat recovery and  recommend projects, programs, and policies. For additional information on watershed recovery chapters, please visit the <a href="https://pssalmonhub.wa.gov/pages/salmon-recovery-plans#local" target="new">Local Recovery Plans section </a> of the <a href="https://pssalmonhub.wa.gov/">Puget Sound Salmon Recovery Hub.</a> </p>
+          <p><a href="/salmon-recovery-watersheds.php" target="new">Watershed recovery chapters</a> are  developed by lead entities and Tribes from individual Puget Sound watersheds.  These<strong> </strong>chapters provide strategies for local salmon habitat recovery and  recommend projects, programs, and policies. For additional information on watershed recovery chapters, please visit the <a href="https://pssalmonhub.wa.gov/pages/salmon-recovery-plans#local" target="new">Local Recovery Plans section </a> of the <a href="https://pssalmonhub.wa.gov/">Puget Sound Salmon Recovery Hub.</a> </p>
         <ul class="bullet-size-fix">
           <li><strong>Four Year Work Plans</strong> – Every  two years, lead entities provide Four Year Work Plans for salmon recovery. In  these plans they describe their accomplishments during the previous year,  report on their progress, and identify next steps over the next four years  needed to implement their watershed chapter. </li>
         </ul>
@@ -120,7 +120,7 @@
           <div> </div>
           <div> </div>
         </div>
-        <p class="last-update">Last updated: 11/05/25</p>
+        <p class="last-update">Last updated: 12/05/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
@@ -131,9 +131,9 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="https://pssalmonhub.wa.gov/" target="new">Puget Sound Recovery Hub</a></li>		
-				<li role="presentation"><a href="https://psp.wa.gov/psraft.php" target="new">Puget Sound RAFT</a></li>
-				<li role="presentation"><a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal Relations</a></li>
-				<li role="presentation"><a href="https://psp.wa.gov/HEAL.php" target="new">Healthy Environment For All (HEAL) </a></li>
+				<li role="presentation"><a href="/psraft.php" target="new">Puget Sound RAFT</a></li>
+				<li role="presentation"><a href="/tribal-relations.php" target="new">Tribal Relations</a></li>
+				<li role="presentation"><a href="/HEAL.php" target="new">Healthy Environment For All (HEAL) </a></li>
 				
 				
 				<!-- InstanceEndEditable -->
