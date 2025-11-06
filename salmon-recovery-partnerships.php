@@ -81,13 +81,12 @@
 			
 			
 		
-		<p>Relationships are at the  center of our recovery efforts. Salmon recovery is complex, and we work with partners  to connect Tribal, local, regional, state, and federal efforts to collaboratively develop and implement priority  actions needed to accelerate ecosystem recovery. </p>
-        <p>To achieve this, we work with partners to: </p>
+		<p>Relationships are at the  center of our recovery efforts. Salmon recovery is complex, and we work with partners  to connect Tribal, local, regional, state, and federal efforts to collaboratively develop and implement priority  actions needed to accelerate ecosystem recovery. To achieve this, we work with partners to: </p>
         <ul class="bullet-size-fix">
           <li>Remove funding and  policy barriers</li>
           <li>Develop policy that  advances salmon recovery</li>
           <li>Pursue and provide  funding to accelerate restoration and protection efforts</li>
-          <li>Support science and  adaptive management using a knowledge-driven approach </li>
+          <li>Support science and  adaptive management using a knowledge-driven approach. </li>
         </ul>
         <h2>Key Partners </h2>
         <h3>Federally Recognized  Tribes</h3> 
@@ -112,21 +111,13 @@
         <h3>Puget Sound Partnership  Boards</h3>
         <ul class="bullet-size-fix">
           <li><strong>The Leadership  Council</strong> - A seven-member panel  appointed by the Governor that makes decisions relating to salmon recovery and  the implementation of the Puget Sound Salmon Recovery Plan.</li>
-          <li><strong>Puget Sound  Salmon Recovery Council</strong> - Advises the  Leadership Council on decisions relating to salmon recovery and the  implementation of the Puget Sound Salmon Recovery Plan.</li>
+          <li><strong>Puget Sound  Salmon Recovery Council</strong> - Advises the  Leadership Council on decisions relating to salmon recovery and the  implementation of the Puget Sound Salmon Recovery Plan.        </li>
         </ul>
-        <h2>Links and resources</h2>
-        <ul class="bullet-size-fix">
-          <li><a href="https://pssalmonhub.wa.gov/" target="new">Puget  Sound Salmon Recovery Hub</a></li>
-          <li><a href="https://psp.wa.gov/psraft.php" target="new">Puget  Sound RAFT</a></li>
-          <li><a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal Relations</a></li>
-          <li><a href="https://psp.wa.gov/HEAL.php" target="new">Healthy  Environments for All (HEAL)</a></li>
-        </ul>
-        <p>Partnership Salmon Recovery Contacts can be found<a href="https://pspwa.box.com/s/c5roh430xy1elc001yziit61jzn703yg" target="new">here.</a>        </p>
         <div>
           <div> </div>
           <div> </div>
         </div>
-<p class="last-update">Last updated: 10/24/25</p>
+<p class="last-update">Last updated: 11/05/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
@@ -136,13 +127,14 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="https://pssalmonhub.wa.gov/">Salmon Recovery Hub</a></li>		
-				<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/shared/static/k0xpbegydhwww61vq3xzjc36y3fawfwx.pdf">Puget Sound Nearshore Chinook Salmon Strategies</a></li>
-				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/k50wb4xz16sbbzfjz8zcutfrqnfvhdc3">Lead Entity guidance on Chinook salmon and climate change</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/aikkubhd6at4eo7yibqdsmvdrwcsrr4z">Lead Entity guidance on Chinook salmon and climate change flow chart</a></li>
-				<li role="presentation"><a href="http://www.psp.wa.gov/shared-salmon-strategy/index.htm">Shared Salmon Strategy archived website</a></li>
+				<li role="presentation"><a href="https://pssalmonhub.wa.gov/" target="new">Puget Sound Recovery Hub</a></li>		
+				<li role="presentation"><a href="https://psp.wa.gov/psraft.php" target="new">Puget Sound RAFT</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal Relations</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/HEAL.php" target="new">Healthy Environment For All (HEAL) </a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/c5roh430xy1elc001yziit61jzn703yg" target="new">Partnership Salmon Recovery Contacts </a></li>
+				
+				
+				
 				
 				
 				<!-- InstanceEndEditable -->

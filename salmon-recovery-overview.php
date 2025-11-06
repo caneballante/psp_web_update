@@ -79,7 +79,6 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-			<h2>Overview</h2>
 			<p>The health of  salmon populations reflects the overall health of Puget Sound. At the Puget  Sound Partnership, we play an  important role in salmon recovery by investing in related projects and helping  to coordinate and track the work of local, Tribal, and regional partners.  Working closely with <a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal nations</a> and partners is vital to  achieving our collective goal of protecting and restoring critical salmon  habitat to support their recovery.
 We lead these efforts in the  following ways (select each one for more information):</p>
         <ul class="bullet-size-fix">
@@ -89,26 +88,26 @@ We lead these efforts in the  following ways (select each one for more informati
               <li><strong><a href="/salmon-recovery-policy.php" target="new">Policy</a> </strong>-  Promote policy changes that better protect and restore critical salmon habitat  and ecosystem function </li>
               <li><strong><a href="/salmon-recovery-planning.php" target="new">Planning</a></strong> - Coordinate, develop, and support the  implementation of recovery plans</li>
               <li><strong><a href="/salmon-recovery-partnerships.php" target="new">Partnerships</a> </strong>– Bring  people together and support salmon recovery partners  </li>
-              <li><strong>Environmental  Justice</strong> - Keep environmental justice at the  center of salmon recovery efforts</li>
+              <li><strong><a href="https://www.psp.wa.gov/HEAL.php" target="new">Environmental Justice</a></strong> - Keep environmental justice at the  center of salmon recovery efforts</li>
             </ul>
         <h2>Our  Goals</h2>
-              <p>In  1999, Chinook salmon were listed as threatened under the federal Endangered  Species Act (ESA).  Steelhead trout were  added to the list in 2007. These listings were a call to action with  challenges, solutions, and goals outlined in the <a href="https://repository.library.noaa.gov/view/noaa/16005" target="new">2007 Puget Sound Salmon Recovery Plan</a> and 2019 ESA Recovery Plan for Puget Sound <a href="https://www.fisheries.noaa.gov/resource/document/esa-recovery-plan-puget-sound-steelhead-distinct-population-segment-oncorhynchus" target="new">Steelhead</a>. Since then,  communities, Tribes, partners, and local, state and federal governments have  come together to meet the following goals:<u></u></p>
+              <p>In  1999, Chinook salmon were listed as threatened under the federal Endangered  Species Act (ESA).  Steelhead trout were  added to the list in 2007. These listings were a call to action with  challenges, solutions, and goals outlined in the <a href="https://repository.library.noaa.gov/view/noaa/16005" target="new">2007 Puget Sound Salmon Recovery Plan</a> and<a href="https://www.fisheries.noaa.gov/resource/document/esa-recovery-plan-puget-sound-steelhead-distinct-population-segment-oncorhynchus" target="new">2019 ESA Recovery Plan for Puget Sound Steelhead</a>. Since then,  communities, Tribes, partners, and local, state and federal governments have  come together to meet the following goals:<u></u></p>
             <ul class="bullet-size-fix">
               <li><strong><u>Puget Sound Salmon  Recovery Goal <br>
               </u></strong>Recover  self-sustaining, harvestable salmon runs that contribute to the overall health  of Puget Sound and its watersheds and allows us to enjoy and use these precious  resources alongside a strong regional economy. </li>
             </ul>
             <ul class="bullet-size-fix">
-              <li><strong><u>Puget Sound Chinook  Salmon </u><a href="https://www.pugetsoundinfo.wa.gov/Indicator/Detail/4" target="new">Vital Sign Target</a></strong><strong><u> <br>
+              <li><strong><u>Puget Sound Chinook  Salmon </u></strong><strong><u> <br>
               </u></strong>By 2050, all Chinook salmon populations  increase, and at least 50 percent of the populations reach their recovery  goals. <a href="https://www.pugetsoundinfo.wa.gov/Indicator/Detail/4" target="new">Read more about this Vital Sign Indicator.</a></li>
         </ul>
-            <ul class="bullet-size-fix">
+        <ul class="bullet-size-fix">
               <li><strong><u>Puget Sound Steelhead  Recovery Goal<br>
         </u></strong>Ensure  that steelhead populations are self-sustaining in the wild and no longer need  the protection of the Endangered Species Act (ESA). A self-sustaining viable  population has a low risk of extinction and should be resilient and able to  survive over the long term without depending on hatcheries. </li></ul>
             <ul class="bullet-size-fix">
-              <li><strong><u>Puget Sound Steelhead </u><a href="https://www.pugetsoundinfo.wa.gov/Indicator/Detail/124" target="new">Vital Sign Indicator</a></strong></li>
-              <li>We are working with partners to measure  and track the number of steelhead trout on spawning grounds. This helps us monitor  progress and will inform a new Vital Sign target for steelhead recovery. <a href="https://www.pugetsoundinfo.wa.gov/Indicator/Detail/124" target="new">Read more about this Vital Sign Indicator</a>.</li>
+              <li><strong><u>Puget Sound Steelhead <br>
+              </u></strong>We are working with partners to measure  and track the number of steelhead trout on spawning grounds. This helps us monitor  progress and will inform a new Vital Sign target for steelhead recovery. <a href="https://www.pugetsoundinfo.wa.gov/Indicator/Detail/124" target="new">Read more about this Vital Sign Indicator</a>.</li>
             </ul>
-<p class="last-update">Last updated: 10/24/25</p>
+<p class="last-update">Last updated: 11/05/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
@@ -118,13 +117,10 @@ We lead these efforts in the  following ways (select each one for more informati
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="https://pssalmonhub.wa.gov/">Salmon Recovery Hub</a></li>		
-				<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/shared/static/k0xpbegydhwww61vq3xzjc36y3fawfwx.pdf">Puget Sound Nearshore Chinook Salmon Strategies</a></li>
-				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/k50wb4xz16sbbzfjz8zcutfrqnfvhdc3">Lead Entity guidance on Chinook salmon and climate change</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/aikkubhd6at4eo7yibqdsmvdrwcsrr4z">Lead Entity guidance on Chinook salmon and climate change flow chart</a></li>
-				<li role="presentation"><a href="http://www.psp.wa.gov/shared-salmon-strategy/index.htm">Shared Salmon Strategy archived website</a></li>
+				<li role="presentation"><a href="https://pssalmonhub.wa.gov/" target="new">Puget Sound Recovery Hub</a></li>		
+				<li role="presentation"><a href="https://psp.wa.gov/psraft.php" target="new">Puget Sound RAFT</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal Relations</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/HEAL.php" target="new">Healthy Environment For All (HEAL) </a></li>
 				
 				
 				<!-- InstanceEndEditable -->

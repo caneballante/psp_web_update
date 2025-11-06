@@ -81,9 +81,10 @@
 			
 			
 		
+			<p>In coordination with our partners, we work towards removing policy and funding barriers that slow down and prevent salmon recovery</p>
 			<h2>Policy Barriers</h2>
 		<p>Policy barriers at the local, state, and federal  levels can cause delays in salmon recovery efforts. 
-		  Salmon habitat restoration projects often  face the same permitting hurdles as large development projects that can  potentially harm habitat. We work to streamline the permitting processes for  salmon habitat restoration projects that have gone through state and local  review, like the <a href="https://psp.wa.gov/PSAR.php">PSAR Large  Capital Projects</a> and Salmon Recovery Funding Board (SRFB)  processes. 
+		  Salmon habitat restoration projects often  face the same permitting hurdles as large development projects that can  potentially harm habitat. We work to streamline the permitting processes for  salmon habitat restoration projects that have gone through state and local  review, like the <a href="https://psp.wa.gov/PSAR.php" target="new">PSAR Large  Capital Projects</a> and Salmon Recovery Funding Board (SRFB)  processes. 
 	    We also work with partners to integrate salmon  recovery into all levels of development policy. This includes encouraging: </p>
 <ul class="bullet-size-fix">
             <li><a href="https://www.psp.wa.gov/soundsafe" target="new">Sound Safe  Infrastructure</a>, </li>
@@ -92,17 +93,7 @@
         </ul>
         <p>By adding salmon recovery objectives into these  development policies, we are helping to prevent future recovery barriers while  addressing current barriers that slow salmon recovery progress. </p>
         <h2>Funding Barriers </h2>
-        <p>Our partners also experience funding barriers which prevent them from accessing and acquiring  funding needed to support projects and initiatives. These barriers can include  complicated application processes or not  enough staff to search for available funds. </p>
-        <p> These are not the same  as funding gaps (which refer to a lack of available dollars), but they can  still prevent projects from moving forward. For more information on funding  barriers, please visit our Strategic Funding Team&rsquo;s <a href="https://psp.wa.gov/funding-barriers.php" target="new">webpage</a>. </p>
-<h2>Related links: </h2>
-        <ul class="bullet-size-fix">
-          <li><a href="/salmon-recovery-policy.php" target="new">Salmon Recovery - Policy webpage</a> </li>
-          <li><a href="/salmon-recovery-funding.php" target="new">Salmon Recovery - Funding webpage</a> </li>
-          <li>MART: <a href="https://www.psp.wa.gov/MART.php">Puget  Sound Partnership - Multi-Agency Review Team</a></li>
-          <li>HRPP: <a href="https://wdfw.wa.gov/licenses/environmental/hpa/types/pilot">Habitat Recovery Pilot Program | Washington Department  of Fish &amp; Wildlife</a></li>
-          <li>FEMA Story Map: <a href="https://storymaps.arcgis.com/stories/72d12b54dc054748a786561f0949bccb">Resilient Floodplains for People &amp; Salmon</a>
-          </li>
-        </ul>
+        <p>Our partners also experience funding barriers which prevent them from accessing and acquiring  funding needed to support projects and initiatives. These barriers can include  complicated application processes or not  enough staff to search for available funds.  These are not the same  as funding gaps (which refer to a lack of available dollars), but they can  still prevent projects from moving forward. For more information on funding  barriers, please visit our Strategic Funding Team&rsquo;s <a href="https://psp.wa.gov/funding-barriers.php" target="new">webpage</a>.        </p>
         <div>
           <div> </div>
           <div> </div>
@@ -110,23 +101,26 @@
         <div>
           <div> </div>
         </div>
-<p class="last-update">Last updated: 10/24/25</p>
+<p class="last-update">Last updated: 11/05/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
+					<div class="right-nav-title">RELATED LINKS</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="https://pssalmonhub.wa.gov/">Salmon Recovery Hub</a></li>		
-				<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/shared/static/k0xpbegydhwww61vq3xzjc36y3fawfwx.pdf">Puget Sound Nearshore Chinook Salmon Strategies</a></li>
-				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/k50wb4xz16sbbzfjz8zcutfrqnfvhdc3">Lead Entity guidance on Chinook salmon and climate change</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/aikkubhd6at4eo7yibqdsmvdrwcsrr4z">Lead Entity guidance on Chinook salmon and climate change flow chart</a></li>
-				<li role="presentation"><a href="http://www.psp.wa.gov/shared-salmon-strategy/index.htm">Shared Salmon Strategy archived website</a></li>
+				<li role="presentation"><a href="/salmon-recovery-policy.php" target="new">Salmon Recovery - Policy webpage</a></li>		
+				<li role="presentation"><a href="/salmon-recovery-funding.php" target="new">Salmon Recovery - Funding webpage</a></li>
+				<li role="presentation"><a href="https://www.psp.wa.gov/MART.php" target="new">MART: Puget  Sound Partnership - Multi-Agency Review Team</a></li>
+				<li role="presentation"><a href="https://wdfw.wa.gov/licenses/environmental/hpa/types/pilot" target="new">HRPP: Habitat Recovery Pilot Program | Washington Department  of Fish &amp; Wildlife</a></li>
+				<li role="presentation"><a href="https://storymaps.arcgis.com/stories/72d12b54dc054748a786561f0949bccb" target="new">FEMA Story Map: Resilient Floodplains for People &amp; Salmon</a></li>
+				<div class="right-nav-title">SEE ALSO</div>
+				<li role="presentation"><a href="https://pssalmonhub.wa.gov/" target="new">Puget Sound Recovery Hub</a></li>		
+				<li role="presentation"><a href="https://psp.wa.gov/psraft.php" target="new">Puget Sound RAFT</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal Relations</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/HEAL.php" target="new">Healthy Environment For All (HEAL) </a></li>
 				
 				
 				<!-- InstanceEndEditable -->

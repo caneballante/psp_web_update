@@ -81,21 +81,14 @@
 			
 			
 		
-					<p>Salmon recovery is a collective effort involving  a community of partners across Puget Sound. Tribal knowledge, scientific  studies, monitoring, and assessments play a vital role in moving our salmon  recovery and habitat restoration goals forward. They help us target where  restoration efforts are most needed and carry out essential projects that  protect and restore the habitat that salmon depend on. Some of the partners we work with include: </p>
-<ul class="bullet-size-fix">
-        <li>Lead entities, </li>
-            <li>Local partners,</li>
-            <li>Non-governmental organizations,</li>
-            <li>Tribes,</li>
-            <li>Regional fish enhancement groups, and</li>
-            <li>Community-based organizations.</li>
-</ul>
+					<p>Salmon recovery is a collective effort involving  a community of partners across Puget Sound. Tribal knowledge, scientific  studies, monitoring, and assessments play a vital role in moving our salmon  recovery and habitat restoration goals forward. They help us target where  restoration efforts are most needed and carry out essential projects that  protect and restore the habitat that salmon depend on. Some of the partners we work with include lead entities, local partners, non-governmental organizations, Tribes, regional fish enhancement groups, and community-based organizations.</p>
+			<h2>FUnding to project implementation</h2>
         <p>We invest in this collective effort because  healthy salmon are an important part of our region and our long-term wellbeing.  Salmon runs also support jobs, recreation, and ecosystems across Puget Sound. </p>
        <ul class="bullet-size-fix">
           <li><strong><a href="https://psp.wa.gov/salmon-science-investigations.php" target="new">Salmon  Science Investigations </a></strong>- Supports studies that address key  questions and knowledge gaps outlined in the Request for Information updated every  two years.<br>
           </li>
          <li><strong>Watershed Habitat Assessment</strong><strong>s</strong> - Helps  lead entities assess and report on salmon habitat conditions to understand  progress toward habitat goals and plan implementation. </li>
-         <li><strong>Watershed Chapter Updates -</strong> Supports  lead entities and Tribes in using new data and science to update local recovery  strategies and targets.</li>
+         <li><strong>Watershed Chapter Updates </strong> - Supports  lead entities and Tribes in using new data and science to update local recovery  strategies and targets.</li>
          <li><strong><a href="https://psp.wa.gov/monitoring-accelerate-recovery.php" target="new">Monitoring  to Accelerate Recovery </a></strong>-<strong> </strong>Funds high-priority monitoring projects that  support recovery of Puget Sound and meet objectives of the Puget Sound  Ecosystem Monitoring Program (PSEMP).</li>
           <li><strong>Puget Sound Scientific Research</strong> - The purpose is to fund projects that address priority information  needs described in the Science Work Plan. </li>
         </ul>
@@ -109,8 +102,8 @@
 			  </li>
 			</ul>
 			<h2>Funding for Partner and Community Support</h2>
-			<p>Our <a href="https://psp.wa.gov/strategic-funding-program.php" target="new">Strategic Funding  Team</a> can help connect community partners with funding opportunities that  support salmon restoration. Email: <a href="mailto:strategicfunding@psp.wa.gov" target="new">strategicfunding@psp.wa.gov.</a></p>
-			<h3>Key Dates:</h3>
+			<p>Our <a href="https://psp.wa.gov/strategic-funding-program.php" target="new">Strategic Funding  Program</a> can help connect community partners with funding opportunities that  support salmon restoration. Email: <a href="mailto:strategicfunding@psp.wa.gov" target="new">strategicfunding@psp.wa.gov.</a></p>
+			<h2>Key Dates:</h2>
 			<table border="1" cellspacing="0" cellpadding="0" width="767">
 			  <tr>
 			    <td width="190" valign="top"><p><strong>Season</strong></p></td>
@@ -149,36 +142,31 @@
 	    </table>
 <h2>Spotlight Investment</h2>
 <p>Our Leadership Council recently joined  the City of Sumner, Puyallup Tribe, Muckleshoot Tribe, Pierce County, and many  partners in celebrating the progress of one of the PSAR programs&rsquo; largest  investments: the restoration of 170 acres of floodplain, riparian, and wetland  habitat in the Lower White River. </p>
-<p>This project opens a new area for the river to move into new channels  and through wetland areas with help from constructed log jams, which helps  reduce flooding risk for nearby businesses, and boosts the local economy by  generating new jobs. It also supports White River Spring Chinook salmon, which  are the only remaining spring Chinook salmon stock found in South Puget Sound.</p>
-<h2>Related links: </h2>
-        <ul class="bullet-size-fix">
-          <li><a href="https://psp.wa.gov/psraft.php" target="new">Puget Sound  RAFT</a></li>
-          <li><a href="https://psp.wa.gov/grantwriting.php" target="new">Technical  Assistance and Grant Writing Support</a></li>
-        </ul>
-        <div>
-          <div> </div>
+<p>This project opens a new area for the river to move into new channels  and through wetland areas with help from constructed log jams, which helps  reduce flooding risk for nearby businesses, and boosts the local economy by  generating new jobs. It also supports White River Spring Chinook salmon, which  are the only remaining spring Chinook salmon stock found in South Puget Sound.        </p>
+<div>
+        <div> </div>
           <div> </div>
         </div>
         <div>
           <div> </div>
         </div>
-<p class="last-update">Last updated: 10/24/25</p>
+<p class="last-update">Last updated: 11/05/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
+					<div class="right-nav-title">RELATED LINKS</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="https://pssalmonhub.wa.gov/">Salmon Recovery Hub</a></li>		
-				<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/shared/static/k0xpbegydhwww61vq3xzjc36y3fawfwx.pdf">Puget Sound Nearshore Chinook Salmon Strategies</a></li>
-				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/k50wb4xz16sbbzfjz8zcutfrqnfvhdc3">Lead Entity guidance on Chinook salmon and climate change</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/aikkubhd6at4eo7yibqdsmvdrwcsrr4z">Lead Entity guidance on Chinook salmon and climate change flow chart</a></li>
-				<li role="presentation"><a href="http://www.psp.wa.gov/shared-salmon-strategy/index.htm">Shared Salmon Strategy archived website</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/psraft.php" target="new">Puget Sound RAFT</a></li>		
+				<li role="presentation"><a href="https://psp.wa.gov/grantwriting.php" target="new">Technical  Assistance and Grant Writing Support</a></li>
+				<div class="right-nav-title">SEE ALSO</div>
+				<li role="presentation"><a href="https://pssalmonhub.wa.gov/" target="new">Puget Sound Recovery Hub</a></li>		
+				<li role="presentation"><a href="https://psp.wa.gov/psraft.php" target="new">Puget Sound RAFT</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal Relations</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/HEAL.php" target="new">Healthy Environment For All (HEAL) </a></li>
 				
 				
 				<!-- InstanceEndEditable -->

@@ -82,14 +82,14 @@
 			
 		
 		<p>As we work towards our collective goal of  recovering salmon, we operate within a system of rules and laws, referred to as  policy. To be effective, these policies need to change and evolve over time as  the Puget Sound population grows, and we learn more from science and Tribal  knowledge. </p>
-					<p> We work with Tribal co-managers and our  salmon recovery community to identify and advance policy changes that protect  and restore critical salmon habitat and strengthen ecosystems. <br>
+					<p> We work with Tribal co-managers and our  salmon recovery community to identify and advance policy changes that protect  and restore critical salmon habitat and strengthen ecosystems. 
 					  There are many ways for this to take  place: </p>
                     <ul class="bullet-size-fix">
                       <li><strong>The Salmon Recovery Council</strong> - Guides overall policy direction for implementing the Puget Sound  Salmon Recovery Plan. </li>
                       <li><strong>The 2024 Puget Sound Salmon Recovery Plan  Addendum</strong> - Identifies key policy areas, such as  population growth and water quantity. The Addendum&rsquo;s implementation plan will  identify policy change that needs to occur within the next 2-4 years. </li>
-                      <li><strong>The Salmon Science Advisory Group</strong> – Supports policies backed by science that support salmon recovery. </li>
-                      <li><strong>The Puget Sound Leadership Council</strong> – Serves as the regional salmon recovery organization for Puget  Sound. Each year, they adopt legislative priorities that include state policy  needs identified by the Salmon Recovery Council and Salmon Recovery Plan. </li>
-                      <li><strong>Tribal engagement</strong> – We consult and coordinate with federally  recognized Tribes to improve policy that impacts salmon recovery.                    </li>
+                      <li><strong>The Salmon Science Advisory Group</strong> - Supports policies backed by science that support salmon recovery. </li>
+                      <li><strong>The Puget Sound Leadership Council</strong> - Serves as the regional salmon recovery organization for Puget  Sound. Each year, they adopt legislative priorities that include state policy  needs identified by the Salmon Recovery Council and Salmon Recovery Plan. </li>
+                      <li><strong>Tribal engagement</strong> - We consult and coordinate with federally  recognized Tribes to improve policy that impacts salmon recovery.                    </li>
                     </ul>
                   
 <h2>Key Salmon Policy Topics</h2>
@@ -103,31 +103,31 @@
         <ul class="bullet-size-fix">
           <li><strong>Land  use - </strong>State laws and implementing guidelines  that direct local governments about where and how different types of  development should occur. Local governments must include environmental  protection and other elements that benefits salmon in their land use planning.</li>
           <ul class="bullet-size-fix">
-            <li>Examples:  Growth Management Act, Shoreline Management Act            </li>
+            <li>Examples:  Growth Management Act, Shoreline Management Act.            </li>
           </ul>
-            </ul>
+        </ul>
             <ul class="bullet-size-fix">
               <li><strong>Clean  water -</strong> State established and federally approved  water quality standards, discharge permits, and water quality improvement plans  that ensure clean water to support human and environmental health.</li>
               <ul class="bullet-size-fix">
-                <li>Examples:  Washington Water Pollution Control Act, Clean Water Act </li>
+                <li>Examples:  Washington Water Pollution Control Act, Clean Water Act. </li>
               </ul>
             </ul>
         <ul class="bullet-size-fix">
           <li><strong>Water  availability -</strong> State law requires that enough water is  kept in streams and rivers to protect and support fish, wildlife, recreation,  water quality, and other instream uses.</li>
           <ul class="bullet-size-fix">
-            <li>Examples:  Streamflow Restoration Act, instream flow rules            </li>
+            <li>Examples:  Streamflow Restoration Act, instream flow rules.            </li>
           </ul>
-            </ul>
+        </ul>
             <ul class="bullet-size-fix">
               <li><strong>Human  wellbeing - </strong>State legislation aims to include human  wellbeing and environmental justice into decision-making processes of state  agencies. <strong></strong></li>
               <ul class="bullet-size-fix">
-                <li>Example:  Healthy Environment for All Act (HEAL) </li>
+                <li>Example:  Healthy Environment for All  (HEAL) Act. </li>
               </ul>
             </ul>
         <div>
         
         </div>
-<p class="last-update">Last updated: 10/24/25</p>
+<p class="last-update">Last updated: 11/05/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
@@ -137,13 +137,10 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="https://pssalmonhub.wa.gov/">Salmon Recovery Hub</a></li>		
-				<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/shared/static/k0xpbegydhwww61vq3xzjc36y3fawfwx.pdf">Puget Sound Nearshore Chinook Salmon Strategies</a></li>
-				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/k50wb4xz16sbbzfjz8zcutfrqnfvhdc3">Lead Entity guidance on Chinook salmon and climate change</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/aikkubhd6at4eo7yibqdsmvdrwcsrr4z">Lead Entity guidance on Chinook salmon and climate change flow chart</a></li>
-				<li role="presentation"><a href="http://www.psp.wa.gov/shared-salmon-strategy/index.htm">Shared Salmon Strategy archived website</a></li>
+				<li role="presentation"><a href="https://pssalmonhub.wa.gov/" target="new">Puget Sound Recovery Hub</a></li>		
+				<li role="presentation"><a href="https://psp.wa.gov/psraft.php" target="new">Puget Sound RAFT</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal Relations</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/HEAL.php" target="new">Healthy Environment For All (HEAL) </a></li>
 				
 				
 				<!-- InstanceEndEditable -->

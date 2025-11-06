@@ -81,45 +81,40 @@
 			
 			
 		
-			<p>Our Salmon Science Program helps guide  salmon recovery efforts using the best available science and planning. We fund and  report on studies, share knowledge, and work with experts to increase our understanding  of Puget Sound salmon ecosystems. This science-first and knowledge approach helps  us support and improve policy solutions with the goal of improving planning  and support policy solutions. </p>
-        <p>Examples of  this work include:</p>
+			<p>Our Salmon Science Program helps guide  salmon recovery efforts using the best available science and planning. We fund and  report on studies, share knowledge, and work with experts to increase our understanding  of Puget Sound salmon ecosystems. This science-first and knowledge approach helps  us support and improve policy solutions with the goal of improving planning  and support policy solutions. Examples of  this work include:</p>
         <ul class="bullet-size-fix">
-              <li><strong>Tracking progress - </strong>We develop,  analyze and report on <a href="https://www.pugetsoundinfo.wa.gov/Indicator/Index">Puget Sound Indicators</a>, including  Salmon Habitat Indicators, to measure and share our progress towards salmon  recovery. This helps our understanding of salmon-specific ecosystem conditions  in Puget Sound. <br>
+              <li><strong>Tracking progress - </strong>We develop,  analyze and report on <a href="https://www.pugetsoundinfo.wa.gov/Indicator/Index" target="new">Puget Sound Indicators</a>, including  Salmon Habitat Indicators, to measure and share our progress towards salmon  recovery. This helps our understanding of salmon-specific ecosystem conditions  in Puget Sound. <br>
               </li>
               <li><strong>Funding research - </strong>We offer  funding opportunities ask important questions and fill knowledge gaps to help improve  recovery efforts.<br>
               </li>
-            <li><strong>Leading adaptive management - </strong>We lead  adaptive management efforts for the <a href="https://pspwa.box.com/s/4g1ncowwl2at9l59fxzfl1kz11cvkuzf">Puget Sound  Salmon Recovery Plan Addendum</a>.</li>
-              <li><strong>Providing expert support</strong> - We provide technical  support and guidance to our agency and external partners along with a regional  network of science and monitoring experts, such as <a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr">the  Salmon Science Advisory Group</a> and the <a href="https://pspwa.app.box.com/notes/362558043449?s=auxo6d6pshs6hi55bacs8900q2dsk0i5">Puget Sound  Ecosystem Monitoring Program Salmonids Work Group</a>.
+            <li><strong>Leading adaptive management - </strong>We lead  adaptive management efforts for the <a href="https://pspwa.box.com/s/4g1ncowwl2at9l59fxzfl1kz11cvkuzf" target="new">Puget Sound  Salmon Recovery Plan Addendum</a>.</li>
+              <li><strong>Providing expert support</strong> - We provide technical  support and guidance to our agency and external partners along with a regional  network of science and monitoring experts, such as <a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr" target="new">the  Salmon Science Advisory Group</a> and the <a href="https://pspwa.app.box.com/notes/362558043449?s=auxo6d6pshs6hi55bacs8900q2dsk0i5" target="new">Puget Sound  Ecosystem Monitoring Program Salmonids Work Group</a>.
 
-			  </li>
-        </ul>
-        <p><strong>Related links</strong>: </p>
-        <ul class="bullet-size-fix">
-          <li>Marlies&rsquo;  funding page (duplication of SSI/WHA information)</li>
-          <li><a href="https://www.psp.wa.gov/science-funded-projects.php">Science and  Evaluation Overview and Funding</a></li>
-          <li><a href="https://psp.wa.gov/salmon-science-investigations.php">Salmon  Science Investigations</a></li>
-          <li><a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr">Salmon  Science Advisory Group</a></li>
+        </li>
         </ul>
         <div>
           <div> </div>
         </div>
-<p class="last-update">Last updated: 09/22/25</p>
+<p class="last-update">Last updated: 11/05/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title">SEE ALSO</div>
+					<div class="right-nav-title">RELATED LINKS</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="https://pssalmonhub.wa.gov/">Salmon Recovery Hub</a></li>		
-				<li role="presentation"><a href="SR_about.php">Salmon Recovery Council</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/shared/static/k0xpbegydhwww61vq3xzjc36y3fawfwx.pdf">Puget Sound Nearshore Chinook Salmon Strategies</a></li>
-				<li role="presentation"><a href="http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/PS_steelhead_recovery_team.html">Puget Sound Steelhead Recovery Team</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/k50wb4xz16sbbzfjz8zcutfrqnfvhdc3">Lead Entity guidance on Chinook salmon and climate change</a></li>
-				<li role="presentation"><a href="https://pspwa.box.com/s/aikkubhd6at4eo7yibqdsmvdrwcsrr4z">Lead Entity guidance on Chinook salmon and climate change flow chart</a></li>
-				<li role="presentation"><a href="http://www.psp.wa.gov/shared-salmon-strategy/index.htm">Shared Salmon Strategy archived website</a></li>
+				<li role="presentation"><a href="https://www.psp.wa.gov/salmon-science-funding.php" target="new">Salmon Science Funding</a></li>		
+				<li role="presentation"><a href="https://www.psp.wa.gov/science-funded-projects.php" target="new">Science and Evaluation Overview and Funding</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/salmon-science-investigations.php" target="new">Salmon Science Investigations</a></li>
+				<li role="presentation"><a href="https://pspwa.app.box.com/notes/1102930116350?s=gmid2sz9hha80r9aw14jw6rctucqf1yr" target="new">Salmon Science Advisory Group</a></li>
+				<div class="right-nav-title">SEE ALSO</div>
+				<li role="presentation"><a href="https://pssalmonhub.wa.gov/" target="new">Puget Sound Recovery Hub</a></li>		
+				<li role="presentation"><a href="https://psp.wa.gov/psraft.php" target="new">Puget Sound RAFT</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal Relations</a></li>
+				<li role="presentation"><a href="https://psp.wa.gov/HEAL.php" target="new">Healthy Environment For All (HEAL) </a></li>
+				
 				
 				
 				<!-- InstanceEndEditable -->
