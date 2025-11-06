@@ -118,9 +118,9 @@ We lead these efforts in the  following ways (select each one for more informati
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li role="presentation"><a href="https://pssalmonhub.wa.gov/" target="new">Puget Sound Recovery Hub</a></li>		
-				<li role="presentation"><a href="https://psp.wa.gov/psraft.php" target="new">Puget Sound RAFT</a></li>
-				<li role="presentation"><a href="https://psp.wa.gov/tribal-relations.php" target="new">Tribal Relations</a></li>
-				<li role="presentation"><a href="https://psp.wa.gov/HEAL.php" target="new">Healthy Environment For All (HEAL) </a></li>
+				<li role="presentation"><a href="/psraft.php" target="new">Puget Sound RAFT</a></li>
+				<li role="presentation"><a href="/tribal-relations.php" target="new">Tribal Relations</a></li>
+				<li role="presentation"><a href="/HEAL.php" target="new">Healthy Environment For All (HEAL) </a></li>
 				
 				
 				<!-- InstanceEndEditable -->
