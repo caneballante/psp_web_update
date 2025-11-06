@@ -104,11 +104,11 @@
 			<h2>Funding for Partner and Community Support</h2>
 			<p>Our <a href="https://psp.wa.gov/strategic-funding-program.php" target="new">Strategic Funding  Program</a> can help connect community partners with funding opportunities that  support salmon restoration. Email: <a href="mailto:strategicfunding@psp.wa.gov" target="new">strategicfunding@psp.wa.gov.</a></p>
 			<h2>Key Dates:</h2>
-			<table border="1" cellspacing="0" cellpadding="0" width="767">
+			<table class="table-striped" width="767">
 			  <tr>
-			    <td width="190" valign="top"><p><strong>Season</strong></p></td>
-			    <td width="191" valign="top"><p><strong>Timing </strong></p></td>
-			    <td width="378" valign="top"><p><strong>Funding programs </strong></p></td>
+			    <th width="190" valign="top"><p>Season</p></th>
+			    <th width="191" valign="top"><p>Timing </p></th>
+			    <th width="378" valign="top"><p>Funding programs</p></th>
 		      </tr>
 			  <tr>
 			    <td width="190" valign="top"><p>Winter </p></td>

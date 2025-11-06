@@ -367,7 +367,26 @@
 			</div>
 		</div>
 		<!-- end container --> 
-	</div>
+	<div class="container-fluid padding-40-bottom padding-80-top white_fill ">
+	<div class="row">
+		<div class="container">
+			<div class="row padding-20-right">
+				
+				<div class="col-md-6 padding-60-bottom">
+							<br><h1 class="margin-0-top"> PUGET SOUND SALMON RECOVERY HUB</h1>
+				<p><a href="https://pssalmonhub.wa.gov/" target="new">The Puget Sound Salmon Recovery Hub</a> is now live, and is a central location for information about our salmon targets, recovery plans, and maps of areas with threatened populations of Chinook salmon. </p>
+				</div>
+
+
+				<div class="col-md-5">
+				<div class="padding-50-bottom"><a href="https://pssalmonhub.wa.gov/" target="new"><img src="images/salmon.jpg" width="422" height="249" alt=""/></a></div>
+				</div>
+
+				<div class="col-md-1">
+				</div>
+			</div>
+		</div>
+		</div>
 </div>
 <!-- end container -->
 
