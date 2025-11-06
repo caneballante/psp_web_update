@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Quality Management Plan</title>
+<title>Puget Sound Partnership - Quality Management System</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>QUALITY MANAGEMENT PLAN (QMP)</h1>
+			<h1>QUALITY MANAGEMENT System</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -75,18 +75,17 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-						<p>The Puget Sound Partnership (Partnership) adopted Policy A-700 as its quality assurance policy on August 9, 2013. That policy establishes the agency’s Quality Assurance program, specifying that it applies to all aspects of Partnership operations and to all employees, and contractors who collect data, analyze data, or conduct modeling. The policy includes definitions, provides guidelines for scientific review, and describes the quality assurance responsibilities of the agency.</p><p>
-						The Partnership adopted its Quality Management Plan in 2014. The plan describes the level of quality the agency aspires to, describes how that level of quality applies to external partners, and lays out the processes for managing quality across all Partnership functions.</p><p>
-						The Partnership completed a review of the Quality Management Program in June 2016, based on activity from April 2015 to April 2016 to determine: (a) if the Partnership’s Quality Management Plan conforms to U.S. Environmental Protection Agency (EPA) requirements, (b) if all projects or work assignments that require quality assurance project plan (QAPP) waivers or project plans have them, (c) assess whether Partnership staff follows the QMP, and (d) what steps could be taken to improve the Partnership’s quality management system.</p><p>
-						The Quality Assurance Program specifies that every three years the Partnership prepares a status report on quality assurance and quality control information. This is the first such report. Topics covered in this report include an overview of the Quality Management Plan, a description of the agency’s Quality Management Program, including training provided to agency staff, meetings of the agency quality team, technical assistance to agency staff, subawardees and contractors, and description of issues, personnel needs and other information requested specifically by agency leadership.</p>
-						<p style="font-weight: bold">Download</p>
+						<p>We adopted Policy A-700 as our quality assurance policy on August 9, 2013. That policy establishes our Quality Assurance program and applies it to all aspects of our work, including all employees and contractors who collect or analyze data, or conduct modeling. The policy includes definitions, provides guidelines for scientific review, and describes the our quality assurance responsibilities.						</p>
+						<p>The Puget Sound Partnership is responsible for  overseeing the restoration of Puget Sound. This work involves compiling, assessing, collecting, and reporting on environmental and other technical information. We use this information to inform the public, make decisions,
+					    recommend actions, measure performance, and track implementation.</p>
+			<h2>Quality Management Plan</h2>
+						<p>Our <a href="https://pspwa.box.com/s/1u4l86h0xjorh0xhlvn73qta7p6y5qzg" target="new"> Quality Management Plan </a> describes the processes and policies we use to ensure that the quality of our technical information supports our actions and decisions. It applies to all of our staff, contractors, and subaward recipients. As part of this plan, we also prepare a <a href="https://pspwa.box.com/s/gdty94bvgdcoxqqk9ocwlnw49pwq79or" target="new"> Quality Report to Management </a> every three years. </p>
+						<h2>Download</h2>
 						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/gdty94bvgdcoxqqk9ocwlnw49pwq79or" target="new">2023 Quality Report to Management</a></p>
 						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/wh0whzwdpa6iwpmr9ygggvbq9tg6gv76" target="new">2025 Annual Quality Assurance Training</a></p>
 						<p style="font-weight: bold"><a href="https://pspwa.box.com/s/fcs3ggeiv7z1yz04gjxu78sxatwogs4j" target="new">2016 QAPP Training</a></p>
-		<p style="font-weight: bold"><a href="https://pspwa.box.com/s/1u4l86h0xjorh0xhlvn73qta7p6y5qzg" target="new">2025 Quality Management Plan for Puget Sound Partnership</a>			</p>
-			
-			<p style="font-weight: bold">&nbsp;</p>
-		<p><strong>Quality Management Plan  Appendices</strong><br>
+		<p style="font-weight: bold"><a href="https://pspwa.box.com/s/1u4l86h0xjorh0xhlvn73qta7p6y5qzg" target="new">2025 Quality Management Plan for Puget Sound Partnership</a></p>
+		<h2>Quality Management Plan  Appendices</h2>
 	    <p style="font-weight: bold">Appendix A:&nbsp;<a href="https://pspwa.box.com/s/1ika6ub3pqd3j4s2zgu5q5o7qogplw55" target="new">Puget Sound Partnership Policy 700-A (Establishing Quality  Assurance)</a>&nbsp;<br>
 			  Appendix B: <a href="https://pspwa.box.com/s/oudq7zxz387otnge27pe9x1kubr7gu1g" target="new">Puget Sound Partnership Organizational Chart Showing QMS Roles  &amp; Responsibilities</a>&nbsp;<br>
 			  Appendix C:&nbsp;<a href="https://des.wa.gov/purchase/washington-state-procurement-manual#EPP" target="new">Washington  State Procurement &amp; Contracting Policies&nbsp;</a><br>
@@ -97,7 +96,7 @@
 		<p style="font-weight: bold">&nbsp;</p>
 			<p style="font-weight: bold"><a href="downloads/2014_qmp/Guidelines for scientific review_Jan 25 FINAL.pdf" target="new">Guidelines for Scientific Review</a></p>
 			<p style="font-weight: bold">&nbsp;</p>
-			<p class="last-update">Last updated: 10/08/25</p>
+			<p class="last-update">Last updated: 12/10/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
