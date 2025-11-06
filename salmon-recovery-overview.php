@@ -84,10 +84,10 @@ We lead these efforts in the  following ways (select each one for more informati
         <ul class="bullet-size-fix">
 			<li><strong><a href="/salmon-recovery-science.php" target="new">Science</a></strong> - Share information, connect science to action, adapt  recovery efforts as we learn more</li>
               <li><strong><a href="/salmon-recovery-barriers.php" target="new">Barriers</a></strong> - Identify and remove policy and funding barriers to  salmon recovery </li>
-              <li><strong><a href="/salmon-recovery-funding.php" target="new">Funding</a></strong> – Help secure funding for restoration, land acquisition,  research, and assessment work </li>
+              <li><strong><a href="/salmon-recovery-funding.php" target="new">Funding</a></strong> - Help secure funding for restoration, land acquisition,  research, and assessment work </li>
               <li><strong><a href="/salmon-recovery-policy.php" target="new">Policy</a> </strong>-  Promote policy changes that better protect and restore critical salmon habitat  and ecosystem function </li>
               <li><strong><a href="/salmon-recovery-planning.php" target="new">Planning</a></strong> - Coordinate, develop, and support the  implementation of recovery plans</li>
-              <li><strong><a href="/salmon-recovery-partnerships.php" target="new">Partnerships</a> </strong>– Bring  people together and support salmon recovery partners  </li>
+              <li><strong><a href="/salmon-recovery-partnerships.php" target="new">Partnerships</a> </strong>- Bring  people together and support salmon recovery partners  </li>
               <li><strong><a href="https://www.psp.wa.gov/HEAL.php" target="new">Environmental Justice</a></strong> - Keep environmental justice at the  center of salmon recovery efforts</li>
             </ul>
         <h2>Our  Goals</h2>
