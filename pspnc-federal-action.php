@@ -97,7 +97,8 @@
 				
 				<p>While Mitigation and Conservation Banks are often for-profit businesses, ILF sponsorship is limited to government agencies or non-profit organizations with expertise in natural resource management. Users of ILFs include Federal agencies like the Navy, state agencies, businesses, and private entities.</p>
 			
-				<p>Other than the Partnership, there are currently three other ILFs in Washington State approved for wetland mitigation. There is one public use ILF in Hood Canal, and two private use ILF’ in the Puget Sound area, the King County ILF, and Pierce County ILF. The Puget Sound Partnership Nearshore Credits Program provides mitigation for salmonid habitat. You can read more about wetland ILFs <a href="https://ecology.wa.gov/Water-Shorelines/Wetlands/Mitigation/In-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here</a>.</p><br>
+				<p>There are currently four ILFs in Washington State approved for wetland mitigation under the Clean Water Act (<a href="https://kingcounty.gov/en/dept/dnrp/nature-recreation/environment-ecology-conservation/wetlands/mitigation-reserves-program" target="new">King County ILF,</a><a href="https://www.piercecountywa.gov/1847/In-Lieu-Fee-Program" target="new">Pierce County ILF,</a><a href="https://www.quilcedavillage.org/Government/Departments/WetlandsProgram" target="new">Quil Ceda Village ILF,</a> and<a href="https://hccc.wa.gov/mitigation/" target="new">Hood Canal ILF</a>), and many more around the country. You can read more about wetland ILFs <a href="https://ecology.wa.gov/water-shorelines/wetlands/mitigation/in-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here.</a> While those ILF programs typically seek to offset impacts regulated under the Clean Water Act, the Puget Sound Partnership Nearshore Credits Program is unique in that it was established to provide mitigation for salmonid habitat under in accordance with the Endangered Species Act.</p>
+				<br>
 			
 			<button class="button6"><a href="/pspnc-nearshore-habitat.php" target="_blank" style="color:white"><p class="PSPNC-font">Nearshore habitat</p></a></button><br>
 			
@@ -110,7 +111,7 @@
 			<button class="button7"><a href="/pspnc-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 
-			<p class="last-update">Last updated: 9/7/23</p>
+			<p class="last-update">Last updated: 11/12/25</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
