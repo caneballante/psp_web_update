@@ -85,7 +85,7 @@
 			
 			<h3>How does the Partnership's Nearshore Conservation Credits program work?</h3>
 						
-			<p>The Puget Sound Partnership Nearshore Credits Program is an In-Lieu Fee (ILF) program. We sell conservation credits to help federal permit applicants meet obligations to offset adverse impacts to important nearshore habitat. An ILF program allows a permittee to pay a fee to a third party instead of conducting mitigation themselves. This is similar to paying a fee to a conservation bank. However, while a bank constructs mitigation prior to impacts, an ILF program constructs the mitigation after sufficient funds from different permittees have been collected. The Puget Sound Partnership uses funds from those credit sales to carry out equivalent conservation projects as soon as possible and within a maximum of six years. We aggregate funds from credit purchases, select nearshore conservation projects to generate credits, track their progress, and report on those projects.</p>
+			<p>Our Nearshore Credits Program is an In-Lieu Fee (ILF) program. We sell conservation credits to help federal permit applicants meet obligations to offset adverse impacts to important nearshore habitat. An ILF program allows a permittee to pay a fee to a third party instead of conducting mitigation themselves. This is similar to paying a fee to a conservation bank. However, while a bank constructs mitigation prior to impacts, an ILF program constructs the mitigation after sufficient funds from different permittees have been collected. The Puget Sound Partnership uses funds from those credit sales to carry out equivalent conservation projects as soon as possible and within a maximum of six years. We aggregate funds from credit purchases, select nearshore conservation projects to generate credits, track their progress, and report on those projects.</p>
 			
 			<img src="images/nearshore-graphic.jpg" class="img-responsive" width=100% alt="A graphic that shows how the Partnership Nearshore Credit Program works. Applicants seeking federal permits for maintenance and development work that will adversely affect nearshore habitat can quantify those impacts using a conservation calculator developed by NOAA scientists. Permit applicants may offset outstanding impacts with either on-site or off-site conservation. Applicants may also choose to purchase conservation credits through the Partnership Nearshore Credits program. The Partnership aggregates funds from credits purchase, selects conservation projects to generate credits, tracks their progress, and reports on those projects."/><br>
 			
@@ -94,23 +94,14 @@
 				
 				<p>While Mitigation and Conservation Banks are often for-profit businesses, ILF sponsorship is limited to government agencies or non-profit organizations with expertise in natural resource management. Users of ILFs include Federal agencies like the Navy, state agencies, businesses, and private entities.</p>
 			
-				<p>Other than the Partnership, there are currently three other ILFs in Washington State approved for wetland mitigation. There is one public use ILF in Hood Canal, and two private use ILF’ in the Puget Sound area, the King County ILF, and Pierce County ILF. The Puget Sound Partnership Nearshore Credits Program provides mitigation for salmonid habitat. You can read more about wetland ILFs <a href="https://ecology.wa.gov/Water-Shorelines/Wetlands/Mitigation/In-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here</a>.</p>
+				<p>There are currently four ILFs in Washington State approved for wetland mitigation under the Clean Water Act (<a href="https://kingcounty.gov/en/dept/dnrp/nature-recreation/environment-ecology-conservation/wetlands/mitigation-reserves-program" target="new">King County ILF,</a><a href="https://www.piercecountywa.gov/1847/In-Lieu-Fee-Program" target="new">Pierce County ILF,</a><a href="https://www.quilcedavillage.org/Government/Departments/WetlandsProgram" target="new">Quil Ceda Village ILF,</a> and<a href="https://hccc.wa.gov/mitigation/" target="new">Hood Canal ILF</a>), and many more around the country. You can read more about wetland ILFs <a href="https://ecology.wa.gov/water-shorelines/wetlands/mitigation/in-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here.</a> While those ILF programs typically seek to offset impacts regulated under the Clean Water Act, the Puget Sound Partnership Nearshore Credits Program is unique in that it was established to provide mitigation for salmonid habitat under in accordance with the Endangered Species Act.</p>
 			
-			<h3>What conservation projects will the Partnership support to generate conservation?</h3>
+			<h3>What types of conservation projects will the Partnership support to generate conservation?</h3>
 			
-			<p>Initially, we will work with the <a href="https://www.dnr.wa.gov/programs-and-services/aquatics/restoration/creosote-removal" target="new">Department of Natural Resources' Creosote Removal Program</a> to bring about conservation through the removal of creosote-soaked pilings and piers. Creosote-treated wood leaks chemicals into sediments and water, causing adverse effects in juvenile Chinook and high mortality and developmental abnormalities in herring eggs. Herring are an important forage fish in Puget Sound and a key food source for our migrating salmon, which in turn are the primary food source for endangered Southern Resident orcas.</p>
-			
-			<p>Candidate projects for near-term funding include the <a href="https://www.dnr.wa.gov/news/legislation-remove-derelict-structures-would-promote-healthier-environment-communities" target="new">“Filthy Four”</a> identified by the Department of Natural Resources:</p>
-			
-			<ul class="bullet-size-fix">
-				<li>Former Dickman Lumber Mill site, Tacoma</li>
-				<li>Ray’s Boathouse pier, Seattle</li>
-				<li>Former Triton-America pier, Anacortes</li>
-				<li>Former High Tides Seafood pier, Neah Bay</li>
-			
-			</ul>
-			
-			<p>In addition to the initial creosote removal projects, we will explore opportunities to remove shoreline armoring. Shoreline armoring disrupts natural erosion, which supplies much of the sand and gravel that forms our beaches and creates habitat for many other species.</p>
+			<p>Initially, we will work with the <a href="https://www.dnr.wa.gov/programs-and-services/aquatics/restoration/creosote-removal" target="new">Department of Natural Resources' Creosote Removal Program</a> to bring about conservation through the removal of creosote-soaked pilings and piers. Creosote-treated wood leaks chemicals into sediments and water, causing adverse effects in juvenile Chinook and high mortality and developmental abnormalities in herring eggs. Herring are an important forage fish in Puget Sound and a key food source for our migrating salmon, which in turn are the primary food source for endangered Southern Resident orcas.			</p>
+			<p>In addition to creosote removal, we will pursue – and to extent possible, prioritize – opportunities to remove shoreline armoring and restore natural shoreline function. Shoreline armoring disrupts natural erosion, which supplies much of the sand and gravel that forms our beaches and creates habitat for many other species.</p>
+			<h3>Which specific conservation projects has the Partnership supported with credit sales?</h3>
+			<p>The Partnership&rsquo;s credit program has supported conservation work in Commencement Bay in Tacoma, the Snohomish River estuary near Marysville, Jackson Beach on San Juan Island, the Union River estuary near Belfair, and in Neah Bay on the Makah Indian Reservation. For more information, check out the Partnership&rsquo;s online magazine, Making Waves, here: <a href="https://makingwaves.psp.wa.gov/index.php/2024/05/17/doubling-down-on-restoration/" target="new">Doubling down on restoration - Making Waves.</a></p>
 			
 			<h3>Can credit sales from one service area be used to fund conservation projects in other service areas?</h3>
 			
@@ -122,27 +113,16 @@
 			
 			<h3>How many credits has the Partnership sold?</h3>
 			
-			<p>As of August 2023, we have sold 2,090 conservation credits. Credit sales by service area are shown below:</p>
+			<p>As of November 2025, we have sold approximately 6,000 conservation credits. Credit sales by service area are shown below:</p>
 			
-			<img src="https://pspwa.box.com/shared/static/rwbrypmstb74nejrgg9v23w41gxbdkvn.jpg" class="img-responsive" width=60% alt="A map graphic that shows how many conservation credits the Partnership has sold in each marine service area. The Partnership has sold 1,382 credits in the North Puget Sound service area; O credits in the Strait of Juan de Fuca service area; 31 credits in the Whidbey service area; 307 credits in the Hood Canal service area; and 370 credits in the South Central Puget Sound service area."/><br>
-			
-			<h3>Have any conservation projects been fully implemented?</h3>
-			
-			<p>Not yet. As with any “In-Lieu Fee-style” program, it can take years of credit sales to build up the amount of funding needed to carry out an effective conservation project. While the exact timing depends on the rate of credit sales, we hope we’ll be able to begin construction on one or more projects in 2024.</p>
-			
-			<h3>When will the Partnership complete its conservation projects?</h3>
-			
-			<p>Under our ILF agreement with the NOAA Fisheries and the US Fish and Wildlife Service, we must implement conservation within six years of selling the first credit for an impact within the service area.</p>
+			<img src="images/conservationcredits.png" class="img-responsive" width=60% alt="A map graphic that shows how many conservation credits the Partnership has sold in each marine service area. The Partnership has sold 2,842 credits in the North Puget Sound service area; 41 credits in the Strait of Juan de Fuca service area; 169 credits in the Whidbey service area; 1,136 credits in the Hood Canal service area; and 1,740 credits in the South Central Puget Sound service area."/><br>
 			
 			<h3>Will the Partnership run out of credits?</h3>
 			
-			<p>No. As of August 2023, we have identified potential credit-generating conservation projects that will create about 8,700 credits. That estimate only includes projects that have been measured using the NOAA Conservation Calculator. Many more projects could be eligible for funding projects that create conservation credits in the future!</p>
-			
-			<p>“Running out of credits” would mean that there are no more opportunities to restore the nearshore habitat of Puget Sound. We remain very far from fully restoring nearshore habitat function (and running out of all opportunities to generate conservation credits).</p>
-			
+			<p>No. &ldquo;Running out of credits&rdquo; would mean that there are no  more opportunities to restore the nearshore habitat of Puget Sound. Unfortunately,  the significantly degraded state of nearshore habitat in Puget Sound  necessarily means that we remain very, very far from exhausting all  opportunities for restoration (and running out of all opportunities to generate  conservation credits).			</p>
 			<h3>Are there other credit providers besides the Partnership?</h3>
 			
-			<p>Yes, the Blue Heron Slough Conservation Bank, the Hood Canal In-Lieu Fee Program, and the Port of Tacoma all offer conservation credits for sale to impacting projects that fall within their service areas.</p>
+			<p>Yes, the <a href="https://www.wildlandsinc.com/banks/blue-heron-slough-conservation-bank-salm/" target="new">Blue Heron Slough Conservation Bank,</a> the <a href="https://hccc.wa.gov/mitigation/" target="new">Hood Canal In-Lieu Fee Program,</a> and the <a href="https://www.portoftacoma.com/news/port-receives-approval-first-environmental-mitigation-bank" target="new">Port of Tacoma</a> all offer conservation credits for sale to impacting projects that fall within their service areas.</p>
 			
 			<p>Additionally, federal permit applicants may generate their own conservation (onsite or offsite) with approval from NOAA Fisheries and the U.S. Fish and Wildlife Service.</p><br>
 			
@@ -157,7 +137,7 @@
 			<button class="button7"><a href="/pspnc-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 
-			<p class="last-update">Last updated: 4/9/24</p>
+			<p class="last-update">Last updated: 11/12/25</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
