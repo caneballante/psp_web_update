@@ -114,6 +114,38 @@
 			<h3>How many credits has the Partnership sold?</h3>
 			
 			<p>As of November 2025, we have sold approximately 6,000 conservation credits. Credit sales by service area are shown below:</p>
+			<table width="386" border="1">
+			  <caption>
+			    A table to show how many conservation credits the Partnership has sold in each marine service area
+		      </caption>
+			  <tbody>
+			    <tr>
+			      <th width="207">Service area</th>
+			      <th width="163">Credits sold</th>
+		        </tr>
+			    <tr>
+			      <td>North Puget Sound</td>
+			      <td>2,842</td>
+		        </tr>
+			    <tr>
+			      <td>Strait of Juan de Fuca</td>
+			      <td>41</td>
+		        </tr>
+			    <tr>
+			      <td>Whidbey</td>
+			      <td>169</td>
+		        </tr>
+			    <tr>
+			      <td>Hood Canal</td>
+			      <td>1,136</td>
+		        </tr>
+			    <tr>
+			      <td>South Central Puget Sound</td>
+			      <td>1,740</td>
+		        </tr>
+		      </tbody>
+	    </table>
+			<p>&nbsp;</p>
 			
 			<img src="images/conservationcredits.png" class="img-responsive" width=60% alt="A map graphic that shows how many conservation credits the Partnership has sold in each marine service area. The Partnership has sold 2,842 credits in the North Puget Sound service area; 41 credits in the Strait of Juan de Fuca service area; 169 credits in the Whidbey service area; 1,136 credits in the Hood Canal service area; and 1,740 credits in the South Central Puget Sound service area."/><br>
 			
