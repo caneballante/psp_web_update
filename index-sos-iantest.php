@@ -381,7 +381,7 @@
 				<div class="col-md-5">
 				<div class="padding-50-bottom">
 				  <p><br>
-			      <a href="https://pssalmonhub.wa.gov/" target="new"><img src="images/salmon.jpg" alt=""/></a></p>
+			      <a href="https://pssalmonhub.wa.gov/" target="new"><img src="images/news-images/vs-salmon-Chinook_PNNL-crop.png" alt=""/></a></p>
 				</div>
 				</div>
 
