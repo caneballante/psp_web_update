@@ -119,7 +119,7 @@ navSelected = 4;
 			<div class="row ">
 				
 				<div class="col-sm-6">
-					<h4 class="margin-0-top">VISIT THE ONLINE ACTION AGENDA EXPLORER</h4>
+					<h3 class="margin-0-top">VISIT THE ONLINE ACTION AGENDA EXPLORER</h3>
 					<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion tool to the Action Agenda. The Explorer allows for dynamic searchability of content relating to each one of the 31 strategies in the Action Agenda. Content will be updated regularly through 2026.</p>
 				</div>	
 				<div class="col-sm-6">
@@ -172,7 +172,7 @@ navSelected = 4;
 			
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 10/24/24</p>
+		<p class="last-update">Last updated: 12/02/25</p>
 
         <!-- InstanceEndEditable --> </div>
 		
