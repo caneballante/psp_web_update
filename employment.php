@@ -81,7 +81,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-		<h2>We are an Employer of Choice</h2>
+		<h2 class="margin-0-top">We are an Employer of Choice</h2>
 		<p>The Puget Sound Partnership is the state agency leading the region’s effort to restore and protect Puget Sound. We have office locations in Olympia, Tacoma, and Seattle. Part of our mission as a learning organization is to provide employees with a work/life balance. We do this by employing a business strategy that promotes a modern and flexible workplace, making us a destination employer. Some of our flexible working options include:</p>
 		<ul class="bullet-size-fix">
 			<li>Teleworking </li>
@@ -110,7 +110,7 @@ Students and anyone else&nbsp;interested in an informational  interview to gain 
         <p>Puget Sound Partnership is an Equal Opportunity  Employer and prohibits discrimination and harassment of any kind. We are  committed to providing equal employment opportunities in a fair and impartial  manner for all persons without regard to age, sex, marital status, sexual  orientation, gender identity, race, creed, color, national  origin,&nbsp;religion,&nbsp;genetic information, military status, or the  presence of any sensory, mental or physical disability or the use of a trained  dog guide or service animal by a person with a disability.
         </p>
         <p>&nbsp; </p>
-        <p class="last-update">Last updated: 10/14/24</p>
+        <p class="last-update">Last updated: 12/3/2025</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
