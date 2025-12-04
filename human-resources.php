@@ -144,6 +144,8 @@
             </li>
           </ol>
           <p>The Partnership is committed to fostering  a workplace that reflects the diversity of our region and supports the  wellbeing and growth of every team member.</p>
+			
+		<p class="last-update">Last updated: 12/3/2025</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
