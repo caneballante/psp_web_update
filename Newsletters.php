@@ -111,7 +111,7 @@
 			<li>Announcements from the Puget Sound Partnership and partners related to salmon recovery efforts.</li>
             <p>Puget Sound Ecosystem Monitoring Program (PSEMP) updates</p>
             
-        <li>Updates and news from PSEMP - a collaborative network of experts from many monitoring organizations and different parts of the region</li>
+			<li>Updates and news from <a href="https://www.psp.wa.gov/PSEMP-overview.php" target="new">PSEMP</a> - a collaborative network of experts from many monitoring organizations and different parts of the region</li>
         <h2>Making Waves</h2>
 		 <p>Making Waves</p>
 			<li>Receive updates about new stories from our online <a href="https://makingwaves.psp.wa.gov/">Making Waves magazine</a>, told from the people protecting and restoring Puget Sound.</li>
