@@ -109,10 +109,11 @@
 			<li>The email list of watershed leads and interested parties.</li>
 	    <p>Salmon recovery announcements</p>
 			<li>Announcements from the Puget Sound Partnership and partners related to salmon recovery efforts.</li>
-            <p>Puget Sound Ecosystem Monitoring Program (PSEMP) updates</p>
-            
-			<li>Updates and news from <a href="https://www.psp.wa.gov/PSEMP-overview.php" target="new">PSEMP</a> - a collaborative network of experts from many monitoring organizations and different parts of the region</li>
-        <h2>Making Waves</h2>
+            <h2>Puget Sound Ecosystem Monitoring Program (PSEMP) </h2>
+            <p>Receive information about the <a href="https://www.psp.wa.gov/PSEMP-overview.php" target="new">Puget Sound Ecosystem Monitoring Program (PSEMP)</a>.<a href="https://www.psp.wa.gov/PSEMP-overview.php" target="new"></p>
+        <p>PSEMP Interested Parties</p>
+				<li>Register your interest in receiving PSEMP updates.        </li>
+		<h2>Making Waves</h2>
 		 <p>Making Waves</p>
 			<li>Receive updates about new stories from our online <a href="https://makingwaves.psp.wa.gov/">Making Waves magazine</a>, told from the people protecting and restoring Puget Sound.</li>
 						
