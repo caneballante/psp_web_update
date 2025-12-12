@@ -110,7 +110,7 @@
 	    <p>Salmon recovery announcements</p>
 			<li>Announcements from the Puget Sound Partnership and partners related to salmon recovery efforts.</li>
             <h2>Puget Sound Ecosystem Monitoring Program (PSEMP) </h2>
-            <p>Receive information about the <a href="https://www.psp.wa.gov/PSEMP-overview.php" target="new">Puget Sound Ecosystem Monitoring Program (PSEMP)</a>.<a href="https://www.psp.wa.gov/PSEMP-overview.php" target="new"></p>
+            <p>Receive information about the <a href="https://www.psp.wa.gov/PSEMP-overview.php" target="new">Puget Sound Ecosystem Monitoring Program (PSEMP)</a>.</p>
         <p>PSEMP Interested Parties</p>
 				<li>Register your interest in receiving PSEMP updates.        </li>
 		<h2>Making Waves</h2>
