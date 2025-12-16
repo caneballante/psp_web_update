@@ -132,7 +132,7 @@ navSelected = 4;
 					<th scope="row"><p data-pm-slice="1 1 []">1/1/24</p></th>
 			      <td><p data-pm-slice="1 1 []">2026-2030 <a href="https://psp.wa.gov/2022AAupdate.php" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-584f086b-8d78-49fa-ac2e-95dba09db524">Action Agenda</a> for Puget Sound</p></td>
 			      <td><p data-pm-slice="1 1 []">Planning, ecosystem recovery, climate resilience, water quality, public health.</p></td>
-			      <td><p data-pm-slice="1 1 []"><a href="https://pspwa.box.com/s/bbklv40imuft0wg43w58on2bpq98y9d3" target="new">Environmental Justice Assessment Final Report</a></p></td>
+			      <td><p data-pm-slice="1 1 []"><a href="https://pspwa.box.com/s/om58scpqwp317rhjoklc0wr2zkbq8igf" target="new">Environmental Justice Assessment Final Report</a></p></td>
 			      <td><p data-pm-slice="1 1 []"><a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new" rel="noopener noreferrer nofollow" data-attrib-id="link-4901278c-6321-4136-922a-f8504338c982">Other</a></p></td>
 		        </tr>
 		      </tbody>
@@ -222,7 +222,7 @@ navSelected = 4;
 			<br>
 		<br>
 			
-<p class="last-update">Last updated: 12/15/25</p>
+<p class="last-update">Last updated: 12/16/25</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
