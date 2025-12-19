@@ -41,6 +41,7 @@ a[href^="http"] {
 	background: url(../images/external_link_icon.gif) left no-repeat;
 	padding-left: 20px;
 }
+
 /*added as a way to remove the icon in special cases. Used on the social icons*/
 .light-icon a[href^="http"] {
 	background: url(../images/external_link_icon-light.gif) left no-repeat;
@@ -588,6 +589,16 @@ display: block
 .floatright-block{
 	float: right;
 	display: block;
+}
+/* added to fix accessibility contrast issues with the google translate injection 12/18/2025 */
+.google-translate-white-background {
+	background: #fff;
+	padding: 10px 8px;
+	margin-top: 5px;
+	border-radius: 4px;
+	display: inline-block;
+	border: 1px solid rgba (0,0,0,.2);
+	text-align: right;
 }
 /*news boxes on homepage*/
 .newsbox {
