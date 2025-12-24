@@ -91,12 +91,12 @@
 			<br><br>
 
 						
-			<iframe title="PartnershipLegislativeUpdates2025" width="1000" height="630" src="https://app.powerbigov.us/view?r=eyJrIjoiNDIzZTc3ZTktYzkwYS00YTZmLTk0OGEtY2Y5MWZmMGU1NGRiIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe>
-			<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiNDIzZTc3ZTktYzkwYS00YTZmLTk0OGEtY2Y5MWZmMGU1NGRiIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" target="new">Full-screen option</a></p>
-			
-			<p class="last-update">Last updated: 12/18/24</p>
+			<iframe title="PartnershipLegislativeUpdates2026" width="1140" height="541.25" src=https://app.powerbigov.us/reportEmbed?reportId=b009b350-db53-416e-9b71-a381ff6b474f&autoAuth=true&ctid=11d0e217-264e-400a-8ba0-57dcc127d72d frameborder="0" allowFullScreen="true"></iframe>
+			<p><a href="https://app.powerbigov.us/reportEmbed?reportId=b009b350-db53-416e-9b71-a381ff6b474f&autoAuth=true&ctid=11d0e217-264e-400a-8ba0-57dcc127d72d" target="new">Full-screen option<br>
+			</a>			</p>
 			<h2>Bill Tracker Archive</h2>
 			<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiY2NkODgxNTItZjA2Yy00YzhhLWE1NDgtZTdiZmMyMTlhZWFmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9">2024 Bill Tracker</a></p>
+			<p class="last-update">Last updated: 12/24/25</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
