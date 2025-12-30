@@ -91,8 +91,8 @@
 			<br><br>
 
 						
-			<iframe title="PartnershipLegislativeUpdates2026" width="1140" height="541.25" src=https://app.powerbigov.us/reportEmbed?reportId=b009b350-db53-416e-9b71-a381ff6b474f&autoAuth=true&ctid=11d0e217-264e-400a-8ba0-57dcc127d72d frameborder="0" allowFullScreen="true"></iframe>
-			<p><a href="https://app.powerbigov.us/reportEmbed?reportId=b009b350-db53-416e-9b71-a381ff6b474f&autoAuth=true&ctid=11d0e217-264e-400a-8ba0-57dcc127d72d" target="new">Full-screen option<br>
+			<iframe title="PartnershipLegislativeUpdates2026" width="1140" height="541.25" src=https://app.powerbigov.us/view?r=eyJrIjoiMmRlZTUxMDYtOWJkYi00MDcwLTg3ODMtN2JkZmFmY2NlZDJmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9 frameborder="0" allowFullScreen="true"></iframe>
+			<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiMmRlZTUxMDYtOWJkYi00MDcwLTg3ODMtN2JkZmFmY2NlZDJmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" target="new">Full-screen option<br>
 			</a>			</p>
 			<h2>Bill Tracker Archive</h2>
 			<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiY2NkODgxNTItZjA2Yy00YzhhLWE1NDgtZTdiZmMyMTlhZWFmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9">2024 Bill Tracker</a></p>
