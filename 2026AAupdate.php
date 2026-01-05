@@ -84,7 +84,7 @@ navSelected = 1;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			<div class="highlightbox margin-0-top margin-20-bottom">
-			  <p>The 2026-2030 Action Agenda is  now open for public comment! Until February 3rd, we are  accepting comments on the draft Strategies and Actions developed with the input  of subject matter experts, Tribal co-managers, and community members across the  region. Below are the links and information needed to review the draft Action  Agneda and provide comments: </p>
+			  <p>The 2026-2030 Action Agenda is  now open for public comment! Until February 3rd, we are  accepting comments on the draft Strategies and Actions developed with the input  of subject matter experts, Tribal co-managers, and community members across the  region. Below are the links and information needed to review the draft Action  Agenda and provide comments: </p>
               <ul class="bullet-size-fix">
                 <li><a href="https://pspwa.box.com/s/sqst47hbnutu01gt1ak9m9uza6grqc54" target="new">Public comment period cover letter</a></li>
                 <li><a href="https://pspwa.box.com/s/cpor6rbxl1fgmlly9h9rwp81am2fqxcq" target="new">2026-2030 Action Agenda draft</a></li>
