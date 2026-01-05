@@ -84,8 +84,22 @@ navSelected = 1;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			<div class="highlightbox margin-0-top margin-20-bottom">
-			  <p>In March 2025, Puget Sound Partnership staff and recovery partners completed a round of public workshops to review and refine content from the 2022–26 Action Agenda. Thank you to everyone who participated! We are developing the first draft of the 2026–30 Action Agenda based on feedback from those workshops. Check the timeline below to see where we are in the process.</p>
-		</div>
+			  <p>The 2026-2030 Action Agenda is  now open for public comment! Until February 3rd, we are  accepting comments on the draft Strategies and Actions developed with the input  of subject matter experts, Tribal co-managers, and community members across the  region. Below are the links and information needed to review the draft Action  Agneda and provide comments: </p>
+              <ul class="bullet-size-fix">
+                <li><a href="https://pspwa.box.com/s/sqst47hbnutu01gt1ak9m9uza6grqc54" target="new">Public comment period cover letter</a></li>
+                <li>2026-2030 Action Agenda draft: (coming soon)</li>
+                <li>Submit comments: <a href="https://app.smartsheet.com/b/form/6fb4a744ef84497388d42d1ec8bba38e" target="new">2026-2030  Action Agenda Public Comment Form</a></li>
+              </ul>
+              <p>There are several supplemental  documents that inform this draft of the Action Agenda. These documents provide  important context and additional information that reviewers may find helpful  when providing feedback on the Action Agenda: </p>
+              <ul class="bullet-size-fix">
+                <li><a href="https://pspwa.box.com/s/ubovilzww2mycjinv4cxnnl8wzcl1hqa" target="new">Summary of changes between the 2022-2026 and  2026-2030 Action Agendas</a></li>
+                <li><a href="https://pspwa.box.com/s/2qt7471wbcw1ru81m4x1qk8b7kksjrtf" target="new">Puget Sound Partnerships Scientific  Monitoring Plan</a></li>
+                <li><a href="https://pspwa.box.com/s/131i7nk5r8blk7agmjsgig1q42zuy024">Puget Sound Implementation Plan </a></li>
+                <li><a href="https://pspwa.box.com/s/om58scpqwp317rhjoklc0wr2zkbq8igf">Final Environmental Justice Assessment for  the 2026-2030 Action Agenda</a></li>
+                <li>Vulnerability Assessment for the 2026-2030  Action Agenda: <a href="https://cig.uw.edu/publications/preliminary-climate-change-assessment-for-the-puget-sound-partnership/" target="new">Preliminary  Climate Change Assessment for the Puget Sound Partnership</a></li>
+              </ul>
+              <p>During the draft 2026-2030 Action Agenda public  comment period, the Habitat Strategic Initiative Lead is also developing a  Marine Vegetation Implementation Strategy, a plan to accelerate progress  towards improving health of Puget Sound kelp and seagrasses. The Marine  Vegetation Implementation Strategy implements the Strategies and Actions in the  Action Agenda&rsquo;s Marine Vegetation Topic, but the Implementation Strategy  contains more information to guide on-the-ground implementation. The public  comment period for both plans closes on February 3, 2026. <a href="https://pugetsoundestuary.wa.gov/2026/01/05/open-for-comment-marine-vegetation-implementation-strategy/" target="new">Click  here</a> for more information on how to provide comment on the Implementation  Strategy.</p>
+        </div>
 		<h2 class="margin-0-top">&nbsp;</h2>
 		<h2 class="margin-0-top">We are updating the Puget Sound Action Agenda </h2>
 		<p>The Action Agenda is our community&rsquo;s  shared plan for advancing Puget Sound recovery. The 2026-30 Action Agenda  update will advance progress towards recovery of the Puget Sound&rsquo;s ecosystem and human wellbeing <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="new">Vital Signs</a> by building on  the foundation of the<a href="https://www.psp.wa.gov/2022AAupdate.php" target="new">2022-26  Action Agenda</a>.</p>
@@ -194,7 +208,7 @@ navSelected = 1;
        
     
         <!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 04/04/25</p>
+		<p class="last-update">Last updated: 01/05/25</p>
 
         <!-- InstanceEndEditable --> </div>
 		
