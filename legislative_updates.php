@@ -80,8 +80,8 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">2026 Legislative Session</h2>
-			<p>General session info (coming soon)</p>
-			<p>2025 Puget Sound Legislative Priorities (coming soon)</p><br>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/4014866" target="new">General session info</a></p>
+			<p><a href="https://pspwa.box.com/s/zbe76vto5pm7kbj11kfhxeqggoitrlfw" target="new">2025 Puget Sound Legislative Priorities</a></p><br>
 		<div>
 		  <IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC=https://app.smartsheet.com/b/publish?EQBCT=08e4eadc90534836b4ba1440cfd101a9></IFRAME>
 			</div>	
@@ -252,7 +252,7 @@
 			<p><a href="https://pspwa.box.com/s/e9rn1ckyd5u1ljol5he0t6obmjxlj35w">View 2014 materials</a></p>
 			<p><a href="https://pspwa.box.com/s/i36bxnm4gogzeaye44345erld870ny5y">View 2013 materials</a> </p>
 			<p><a href="https://pspwa.box.com/s/m1ixjryou2m4la3j1sdocfj9umcsws41">View 2012 materials</a></p>
-			<p class="last-update">Last updated: 12/24/25</p>
+			<p class="last-update">Last updated: 01/05/26</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
