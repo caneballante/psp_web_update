@@ -229,9 +229,6 @@
 						<h5>Jennifer Burke</h5>
 						<p>Information and Geospatial Systems Manager<br />
 							360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
-						<h5>Alex Mitchell</h5>
-						<p> Performance Management Analyst<br/>
-							360.706.3334 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a> </p> 
 						<h5>Wessyl Kelly</h5>
 						<p>Data and Adaptive Systems Support Specialist<br />
 						 360.529.6570 |<a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov </a></p>
