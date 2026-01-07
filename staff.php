@@ -145,9 +145,10 @@
 						<p>Strategic Funding Manager<br />
 						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
 			
-						<h5>VACANT</h5>
-						<p>Funding Barrier Strategist<br>
-						</p>
+						<h5>Ali carter</h5>
+						<p>Funding Barrier Strategist</p>
+						<p>360.791.0966  | <a href="mailto:alexandra.carter@psp.wa.gov">alexandra.carter@psp.wa.gov</a><br>
+	    </p>
 						<h5>Michelle Deckard</h5>
 						<p>Grant Writer and Strategist<br>
 							360.819.0342 | <a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a></p>
