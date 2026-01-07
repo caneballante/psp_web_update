@@ -151,9 +151,10 @@
 						<h5>Michelle Deckard</h5>
 						<p>Grant Writer and Strategist<br>
 							360.819.0342 | <a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a></p>
-						<h5>VACANT</h5>
-						<p>Restoration and Transportation Funding Strategist<br>
-							</p>
+						<h5>Paris Mcclusky</h5>
+						<p>Restoration and Transportation Funding Strategist</p>
+						<p>360.764.0164 | <a href="mailto:paris.mcclusky@psp.wa.gov">paris.mcclusky@psp.wa.gov</a><br>
+	    </p>
 		<h5>MELISSA CIESIELSKI</h5>
 						<p>Strategic Funding Coordinator<br>
 							360.819.7232 | <a href="mailto:melissa.ciesielski@psp.wa.gov">melissa.ciesielski@psp.wa.gov</a></p>
@@ -367,7 +368,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 10/21/25</p>
+	<p class="last-update">Last updated: 01/07/26</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
