@@ -93,13 +93,13 @@ navSelected = 1;
               Additionally, we will align state and  federal programs and increase investments that support Puget Sound recovery and  Tribal and local priorities.</p>
             <h2><strong>Salmon Recovery and Restoration  Funding Opportunities</strong></h2>
             <p>We document funding  needs and, as possible, connect those with available funding opportunities related to salmon recovery and restoration.  We aim to increase coordination and collaboration and will work to connect Tribes,  LIOs, LEs, and other partners that might be working on similar projects or  pursuing the same funding opportunity.&nbsp;<br>
-              For more information, please email us at <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a>
+              For more information, please email our Strategic Funding Coordinator, Melissa Ciesielski at <a href="mailto:melissa.ciesielski@psp.wa.gov" target="_blank">melissa.ciesielski@psp.wa.gov</a>
             <h2><strong>Overcoming Funding Barriers </strong></h2>
             <p>We work in  collaboration with Tribes, LIO, and LEs to identify barriers that hinder  funding from reaching implementation. Our goal is to develop strategies to  address these barriers and support Tribes and local partners to secure  additional funding needed to implement our <a href="https://psp.wa.gov/2022AAupdate.php">Action Agenda</a> and <a href="https://psp.wa.gov/salmon-recovery-overview.php">Salmon Recovery Plan</a>.<br>
-				To learn about <a href="/funding-barriers.php">updates on funding barriers</a> or to request  more information, please email us at <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a> .<strong></strong></p>
+				To learn about <a href="/funding-barriers.php">updates on funding barriers</a> or to request  more information, please reach out to our Funding Barrier Strategist, Ali Carter at <a href="mailto:alexandra.carter@psp.wa.gov" target="_blank">alexandra.carter@psp.wa.gov</a> .<strong></strong></p>
             <h2><strong>Restoration and Transportation Funding  opportunities</strong></h2>
             <p>We work to build on the traditional  overlap and strengthen the alignment between transportation and Puget Sound  ecosystem and salmon recovery. Our aim is to unite the recovery and  transportation sectors throughout partnerships, planning, and implementation of  projects, to create <a href="/soundsafe.php">Sound Safe Infrastructure</a>. This is transportation  infrastructure that does not create additional stressors and pressures but contributes  to Puget Sound ecosystem and salmon recovery.<br>
-              For more information,  please email us at <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
+              For more information,  please email our Restoration and Transportation Funding Strategist, Paris McClusky at <a href="mailto:paris.mcclusky@psp.wa.gov" target="_blank">paris.mcclusky@psp.wa.gov</a><u>. </u></p>
             <h2><strong>Grant Writing</strong></h2>
             <p>We provide the Tribes, LIOs,  LEs, and local partners with technical assistance and the capacity to prepare  their grant applications for submission. Our grant writer will help identify  funding opportunities, develop high-quality grant proposals to federal, state,  and private funding agencies, and monitor grant progression with the goal of  increasing the number of successful submissions for local and regional recovery  projects.<br>
               For more information,  please read our <a href="/grantwriting.php">grant writing and technical assistance page</a>, or reach out to our grant writer, <a href="mailto:michelle.deckard@psp.wa.gov">Michelle Deckard</a><u>.</u><strong> </strong></p>
@@ -131,7 +131,7 @@ navSelected = 1;
             <p>If  you have any questions about the Strategic Funding Team. PS RAFT, or any specific funding needs, please email <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 08/06/25</p>
+		<p class="last-update">Last updated: 01/07/26</p>
 
         <!-- InstanceEndEditable --> </div>
 		
