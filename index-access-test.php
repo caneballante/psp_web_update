@@ -38,6 +38,7 @@
 <?php include 'includes/modal-inc.html';?>
 
 <main id="main-content" tabindex="-1">
+<h1 class="sr-only">Puget Sound Partnership homepage</h1>	
 <!-- Intro Header --> 
 <!--<header class="intro-test">
 	<div class="intro-body">
@@ -58,7 +59,7 @@
 		<div class="col-md-8 col-md-offset-2">
 					<div aria-hidden="true" class="spacer"></div>
 					<div aria-hidden="true" class="spacer"></div>
-<h1><strong>2025 State of the Sound	</strong></h1>
+						<h2><strong>2025 State of the Sound	</strong></h2>
 						<p><strong>The State of the Sound assesses the health of the Puget Sound ecosystem and progress towards its recovery</strong></p>
 
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
