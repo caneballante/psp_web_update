@@ -145,15 +145,16 @@
 						<p>Strategic Funding Manager<br />
 						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
 			
-						<h5>VACANT</h5>
-						<p>Funding Barrier Strategist<br>
-						</p>
+						<h5>Ali carter</h5>
+						<p>Funding Barrier Strategist</p>
+						<p>360.791.0966  | <a href="mailto:alexandra.carter@psp.wa.gov">alexandra.carter@psp.wa.gov</a></p>
 						<h5>Michelle Deckard</h5>
 						<p>Grant Writer and Strategist<br>
 							360.819.0342 | <a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a></p>
-						<h5>VACANT</h5>
-						<p>Restoration and Transportation Funding Strategist<br>
-							</p>
+						<h5>Paris Mcclusky</h5>
+						<p>Restoration and Transportation Funding Strategist</p>
+						<p>360.764.0164 | <a href="mailto:paris.mcclusky@psp.wa.gov">paris.mcclusky@psp.wa.gov</a><br>
+	    </p>
 		<h5>MELISSA CIESIELSKI</h5>
 						<p>Strategic Funding Coordinator<br>
 							360.819.7232 | <a href="mailto:melissa.ciesielski@psp.wa.gov">melissa.ciesielski@psp.wa.gov</a></p>
@@ -228,9 +229,6 @@
 						<h5>Jennifer Burke</h5>
 						<p>Information and Geospatial Systems Manager<br />
 							360.999.3849 | <a href="mailto:jennifer.burke@psp.wa.gov">jennifer.burke@psp.wa.gov</a><br /></p>
-						<h5>Alex Mitchell</h5>
-						<p> Performance Management Analyst<br/>
-							360.706.3334 | <a href="mailto:alex.mitchell@psp.wa.gov">alex.mitchell@psp.wa.gov </a> </p> 
 						<h5>Wessyl Kelly</h5>
 						<p>Data and Adaptive Systems Support Specialist<br />
 						 360.529.6570 |<a href="mailto:wessyl.kelly@psp.wa.gov">wessyl.kelly@psp.wa.gov </a></p>
@@ -367,7 +365,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 10/21/25</p>
+	<p class="last-update">Last updated: 01/07/26</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
