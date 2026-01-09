@@ -87,12 +87,12 @@
 		<p>The Board is made up of 27 voting members and 6 ex-officio  members representing specific interests around the Puget Sound, including representatives  from federal, state, local, and tribal governments, businesses, port districts,  and environmental organizations.</p>
 		<h2>Ecosystem Coordination Board Web Roster</h2>
 		<p> <a href="https://app.smartsheet.com/b/publish?EQBCT=90a68c68b1994be19b120790df268fa9" target="_blank" rel="noopener">
-Open the Ecosystem Coordination Board Web Roster in a new tab.
+Open the Ecosystem Coordination Board Web Roster Smartsheet in a new tab.
 </a>
 </p>
 <br>
 		  <!--include-->
-		  <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=90a68c68b1994be19b120790df268fa9" title="Ecosystem Coordination Board Web Roster"></IFRAME>
+		  <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=90a68c68b1994be19b120790df268fa9" title="A Smartsheet file of the Ecosystem Coordination Board Web Roster"></IFRAME>
 	    <h2>Board contact</h2>
 			<p>For questions about the Partnership's boards contact:<br />
 	   		<strong>Jillian Reitz, <br>
