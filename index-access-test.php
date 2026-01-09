@@ -55,12 +55,10 @@
 		</div>
 	</div>
 </header>-->
-	<header class="intro-SOS">
+<header class="intro-SOS">
 		<div class="col-md-8 col-md-offset-2">
-					<div aria-hidden="true" class="spacer"></div>
-					<div aria-hidden="true" class="spacer"></div>
-						<h2><strong>2025 State of the Sound	</strong></h2>
-						<p><strong>The State of the Sound assesses the health of the Puget Sound ecosystem and progress towards its recovery</strong></p>
+						<h2 class="padding-40-top">2025 State of the Sound</h2>
+						<p>The State of the Sound assesses the health of the Puget Sound ecosystem and progress towards its recovery</p>
 
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
 							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://www.stateofthesound.wa.gov" target="new">LEARN MORE ABOUT THE REPORT</a></div>
@@ -73,7 +71,7 @@
 	  <div class="intro-body">
 	    
 	    </div>
-	</header>
+</header>
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-xs-12 orange-fill"><br>
@@ -87,11 +85,11 @@
 		</div>
 	</div>
 </div>
-<div class="container padding-40-bottom" id="home-squares">
+<section class="container padding-40-bottom" id="home-squares">
 	<div class="row">
 		<div class="col-sm-3 padding-40-top"> <img src="images/home_roadmap.png" width="264" height="264" alt="satellite view of the Salish Sea" class="img-responsive img-rounded"/> </div>
 		<div class="col-sm-3 padding-20-top">
-			<h2 class="h1">CHARTING THE COURSE TO RECOVERY</h2>
+			<h2 class="margin-10-top">CHARTING THE COURSE TO RECOVERY</h2>
 			<div class="padding-5-bottom"><a href="2022AAupdate.php">2022-2026 Action Agenda</a></div>
 			<div class="padding-5-bottom"><a href="2026AAupdate.php"><span class="new-red">NEW! </span>2026-2030 Action Agenda Update</a></div>
 			<div class="padding-5-bottom"><a href="implementation-strategies.php">Implementation Strategies</a> </div>
@@ -101,7 +99,7 @@
 		</div>
 		<div class="col-sm-3 padding-40-top"> <img src="images/home_local.png" width="264" height="264" alt="construction of an engineered log jam" class="img-responsive img-rounded"/> </div>
 		<div class="col-sm-3 padding-20-top">
-			<h2 class="h1">ACTIONS ACROSS THE SOUND</h2>
+			<h2 class="margin-10-top">ACTIONS ACROSS THE SOUND</h2>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> Salmon recovery</a></div>
 			<div class="padding-5-bottom"><a href="https://pssalmonhub.wa.gov/">Salmon recovery Hub</a></div>
 			<div class="padding-5-bottom"><a href="PSAR.php">Puget Sound Acquisition and Restoration (PSAR)&nbsp;program</a></div>
@@ -117,7 +115,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-40-top"> <img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive img-rounded"/> </div>
 		<div class="col-sm-3 padding-20-top">
-			<h2 class="h1">MEASURING RECOVERY</h2>
+			<h2 class="margin-10-top">MEASURING RECOVERY</h2>
 			<div class="padding-5-bottom"><span class="new-red">NEW! </span><a href="https://stateofthesound.wa.gov">2025 State of the Sound</a> </div>
 			<div class="padding-5-bottom"><a href="evaluating-actions-to-recover-puget-sound.php">Evaluating actions to recover Puget Sound</a></div>
 			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">Puget Sound Vital Signs</a></div>
@@ -128,7 +126,7 @@
 		</div>
 		<div class="col-sm-3 padding-40-top"> <img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive img-rounded"/> </div>
 		<div class="col-sm-3 padding-20-top">
-			<h2 class="h1">SUPPORTING OUR PARTNERS</h2>
+			<h2 class="margin-10-top">SUPPORTING OUR PARTNERS</h2>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">Partnership boards</a></div>
 			<div class="padding-5-bottom"><a href="strategic-funding-program.php">Strategic Funding Program</a></div>
 			<div class="padding-5-bottom"><a href="psraft.php">Puget Sound RAFT - Recovery Acceleration Funding Tool</a></div>
@@ -142,11 +140,11 @@
 		</div>
 	</div>
 	<!-- end row --> 
-</div>
+</section>
 <!-- end container -->
 
 <div class="container-fluid light-blue-fill margin-20-top padding-40-bottom light-icon">
-	<div class="container"> 
+	<section role="region" aria-label="news and announcements" class="container"> 
 		<!--copy column to column to create new blog post--> 
 		<!--ROW START-->
 		<div class="row margin-20-top"> 
@@ -298,17 +296,16 @@
 			
 		</div>
 		<!--ROW END--> 
-		<br><br>
+		<br><br>	
 
-	</div>
-	<!--CONTAINER END-->
+	</section>
+	<!--ANNOUNCEMENT CONTAINER END-->
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-xs-12 white_fill"><br>
 		</div>
 	</div>
 </div>	
-
 <!--CONTAINER END-->	
 <div class="container-fluid">
 	<div class="row">
@@ -316,86 +313,73 @@
 		</div>
 	</div>
 </div>	
-
+<section role="region" id="highlight-topics">
 <!--CONTAINER END-->
-<div class="container-fluid padding-40-bottom padding-80-top white_fill ">
-	<div class="row">
-		<div class="container">
-			<div class="row padding-20-right">
-				
-				<div class="col-md-6 padding-60-bottom">
-							<h2 class="h1 margin-0-top">PUGET SOUND RAFT - FUNDING ACCELERATION FUNDING TOOL</h2>
-				<p><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">The Puget Sound RAFT – Recovery Acceleration Funding Tool</a> is now available, centralizing details on  funding opportunities for Puget Sound ecosystem and salmon recovery. </p>
-				<p>The Puget Sound RAFT tool is a service of the Puget Sound Partnership’s Strategic Funding Team. <a href="/strategic-funding-program.php">Learn more</a>.</p>
-				</div>
-
-
-				<div class="col-md-5">
-				<div class="padding-50-bottom"><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements"><img src="images/RAFT-screenshot.png" width="422" height="249" alt="screenshot with input fields on the left and funding opportunities display on the right"/></a></div>
-				</div>
-
-				<div class="col-md-1">
+	<div class="container-fluid padding-40-bottom padding-80-top white_fill">
+		<div class="row">
+			<div class="container">
+				<div class="row padding-20-right">
+					<div class="col-md-6 padding-60-bottom">
+						<h2 class="margin-0-top">PUGET SOUND RAFT - FUNDING ACCELERATION FUNDING TOOL</h2>
+						<p><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">The Puget Sound RAFT – Recovery Acceleration Funding Tool</a> is now available, centralizing details on  funding opportunities for Puget Sound ecosystem and salmon recovery. </p>
+						<p>The Puget Sound RAFT tool is a service of the Puget Sound Partnership’s Strategic Funding Team. <a href="/strategic-funding-program.php">Learn more</a>.</p>
+					</div>
+					<div class="col-md-5">
+						<div class="padding-50-bottom"><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements"><img src="images/RAFT-screenshot.png" width="422" height="249" alt="screenshot with input fields on the left and funding opportunities display on the right"/></a>
+						</div>
+					</div>
+					<div class="col-md-1"></div>
 				</div>
 			</div>
+			<!-- end container --> 
 		</div>
-		<!-- end container --> 
+		<!-- end row --> 
 	</div>
-</div>
-<!-- end container -->
-	<div class="container-fluid padding-40-bottom padding-80-top light-blue-fill">
-	<div class="row">
-		
-
-		
-		
-		<div class="container light-blue-fill">
-			<div class="row  padding-20-right">
-				<div class="col-md-6">
-					<h2 class="h1 margin-0-top white padding-40-top">The Puget Sound Acquisition and Restoration (PSAR) Program</h2>
-					<p class="white white-links">PSAR funds projects that restore habitat critical to the survival of Puget Sound salmon populations. These projects are thoroughly reviewed to ensure they benefit salmon populations and local communities. PSAR projects are endorsed by members of the public, cities, counties, tribes, nonprofit organizations, and government agencies. <a href="psar.php"><u>Learn more</u></a></p>
-				</div>
-				<div class="col-md-6 padding-40-top">
-					<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/785064068?h=3cb967761f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Puget Sound Acquisition and Restoration Fund: Restoring habitat critical to the recovery of Puget Sound salmon"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-				</div>
-			</div>
-		</div>
-		<!-- end container --> 
-		<div class="container light-blue-fill">
-			<div class="row  padding-20-right">
-				<div class="col-md-12 padding-20-bottom">
+	<!-- end container -->
+	<div  class="container-fluid padding-40-bottom padding-80-top light-blue-fill">
+		<div class="row">
+			<div class="container light-blue-fill">
+				<div class="row  padding-20-right">
+					<div class="col-md-6">
+						<h2 class="margin-0-top white padding-40-top">The Puget Sound Acquisition and Restoration (PSAR) Program</h2>
+						<p class="white white-links">PSAR funds projects that restore habitat critical to the survival of Puget Sound salmon populations. These projects are thoroughly reviewed to ensure they benefit salmon populations and local communities. PSAR projects are endorsed by members of the public, cities, counties, tribes, nonprofit organizations, and government agencies. <a href="psar.php"><u>Learn more</u></a></p>
+					</div>
+					<div class="col-md-6 padding-40-top">
+						<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/785064068?h=3cb967761f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Puget Sound Acquisition and Restoration Fund: Restoring habitat critical to the recovery of Puget Sound salmon"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+					</div>
+					<div class="col-md-12 padding-20-bottom">
 					<hr/>
 					<p class="white white-links"> The PSAR program is supported with funding from Washington’s <strong>Climate Commitment Act</strong>. The CCA supports Washington’s climate action efforts by putting cap-and-invest dollars to work reducing climate pollution, creating jobs, and improving public health. Information about the CCA is available at <a href="http://www.climate.wa.gov">www.climate.wa.gov</a>. </p>
+					</div>
 				</div>
 			</div>
+			<!-- end container --> 	
 		</div>
-		<!-- end container --> 
 	</div>
-		<div class="container-fluid padding-40-bottom padding-80-top white_fill ">
-	<div class="row">
-		<div class="container">
-			<div class="row padding-20-right">
-				
-				<div class="col-md-6 padding-60-bottom">
-							<br><h2 class="h1 margin-0-top padding-40-top">PUGET SOUND SALMON RECOVERY HUB</h2>
-				<p><a href="https://pssalmonhub.wa.gov/" target="new">The Puget Sound Salmon Recovery Hub</a> is an online interactive tool that is the central location for Puget Sound Chinook salmon recovery information. </p>
-				</div>
-
-
-				<div class="col-md-5">
-				<div class="padding-50-bottom">
-				  <p><br>
-			      <a href="https://pssalmonhub.wa.gov/" target="new"><img src="images/news-images/vs-salmon-Chinook_PNNL-crop.png" alt="several chinook salmon swimming underwater" width="385" height="264"/></a></p>
-				</div>
-				</div>
-
-				<div class="col-md-1">
+	<!-- end container --> 
+	<div class="container-fluid padding-40-bottom padding-80-top white_fill ">
+		<div class="row">
+			<div class="container">
+				<div class="row padding-20-right">
+					<div class="col-md-6 padding-60-bottom">
+						<br><h2 class="margin-0-top padding-40-top">PUGET SOUND SALMON RECOVERY HUB</h2>
+						<p><a href="https://pssalmonhub.wa.gov/" target="new">The Puget Sound Salmon Recovery Hub</a> is an online interactive tool that is the central location for Puget Sound Chinook salmon recovery information. </p>
+					</div>
+					<div class="col-md-5">
+						<div class="padding-50-bottom">
+						  <p><br>
+						  <a href="https://pssalmonhub.wa.gov/" target="new"><img src="images/news-images/vs-salmon-Chinook_PNNL-crop.png" alt="several chinook salmon swimming underwater" width="385" height="264"/></a></p>
+						</div>
+					</div>
+					<div class="col-md-1">
+					</div>
 				</div>
 			</div>
+			<!-- end container --> 
 		</div>
-		</div>
-</div>
-</div>
-<!-- end container -->
+	</div>
+		<!-- end container --> 
+</section>
 
 </div>
 <!--CONTAINER END--> 
