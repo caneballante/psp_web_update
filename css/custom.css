@@ -120,8 +120,12 @@ a[href^="http"] {
 	font-weight: 300;
 	line-height: 1.2em;
 }
-#home-squares h1 {
-	font-size: 1.5em;
+#home-squares h2 {
+	font-size: 2.3em;
+	font-weight: 500;
+}
+#highlight-topics h2 {
+	font-size: 2.3em;
 	font-weight: 500;
 }
 
@@ -736,7 +740,7 @@ display: block
 		height: 500px;
 		padding: 20px 0;
 		margin: auto;
-		text-align: right;
+		text-align: center;
 		color: #fff;
 		background: url("../images/2025SOSheader-sm-dark.jpg")no-repeat bottom center scroll;
 		background-color: #000;
@@ -753,7 +757,7 @@ display: block
 		height: 500px;
 		padding: 20px 0;
 		margin: auto;
-		text-align: right;
+		text-align: center;
 		color: #fff;
 		background: url("../images/2025SOSheader-sm-dark_wide.jpg")no-repeat bottom center scroll;
 		background-color: #000;
@@ -770,7 +774,7 @@ display: block
 		height: 500px;
 		padding: 20px 0;
 		margin: auto;
-		text-align: right;
+		text-align: center;
 		color: #fff;
 		background: url("../images/2025SOSheader-sm-dark_widest.jpg")no-repeat bottom center scroll;
 		background-color: #000;
@@ -787,8 +791,9 @@ display: block
 
 }
 /*sets text size on the jumbotron*/
-.intro-SOS h1 {
+.intro-SOS h2 {
 	font-size: 30px;
+	color: #fff;
 	text-shadow: 2px 2px #000;
 }
 .intro-SOS p {
@@ -798,99 +803,6 @@ display: block
 	font-size: 1em !important;
 	line-height: 1em;
 	font-family: georgia, times, serif;
-}
-.intro-AA {
-	display: table;
-	width: 100%;
-	height: 650px;
-	padding: 20px 0;
-	margin: auto;
-	text-align: center;
-	color: #fff;
-	background: url("../images/home_image21.jpg")no-repeat bottom center scroll;
-	background-color: #000;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-}
-.intro-AA .intro-body {
-	display: table-cell;
-	vertical-align: middle;
-
-}
-/*sets text size on the jumbotron*/
-.intro-AA h1 {
-	font-size: 30px;
-	text-shadow: 2px 2px #000;
-}
-
-
-.intro-PSDOTH {
-	display: table;
-	width: 100%;
-	height: 650px;
-	padding: 20px 0;
-	margin: auto;
-	text-align: center;
-	color: #fff;
-	background: url("../images/salmon.jpg")no-repeat bottom center scroll;
-	background-color: #000;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-}
-.intro-PSDOTH .intro-body {
-	display: table-cell;
-	vertical-align: middle;
-
-}
-/*sets text size on the jumbotron*/
-.intro-PSDOTH h1 {
-	font-size: 30px;
-	text-shadow: 2px 2px #000;
-}
-
-.intro-HEAL {
-	display: table;
-	width: 100%;
-	height: 500px;
-	padding: 20px 0;
-	margin: auto;
-	text-align: center;
-	color: #fff;
-	background: url("../images/home_image24.jpg")no-repeat bottom center scroll;
-	background-color: #000;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-}
-.intro-HEAL .intro-body {
-	display: table-cell;
-	vertical-align: middle;
-
-}
-/*sets text size on the jumbotron*/
-.intro-HEAL h1 {
-	font-size: 30px;
-	text-shadow: 2px 2px #000;
-}
-
-.intro-HEAL .learn-more-box a {
-	font-size: 18px;
-}
-.intro-HEAL .learn-more-box a:hover {
-	text-decoration: none;
-}
-.intro-HEAL .learn-more-box {
-	width: 400px;
-	background-color: white;
-	display:  inline-block;
-	border: solid #fff 1px;
-	margin: 5px auto;
-	border-radius: 5px
 }
 
 .learn-more-box a {
