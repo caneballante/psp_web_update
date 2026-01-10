@@ -137,8 +137,13 @@ navSelected = 4;
 		        </tr>
 		      </tbody>
 	    </table>
-		<p>You can view the Puget Sound Partnership Enivronmental Justice Assessment Policy below or <a href="https://pspwa.box.com/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r" target="new">click here to download</a></p>
-			<iframe src="https://pspwa.app.box.com/embed/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r?sortColumn=date" width="600" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen>
+		<p>You can view the Puget Sound Partnership Enivronmental Justice Assessment Policy below or <a href="https://pspwa.box.com/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r" target="new">download it at this link.</a></p>
+		<h2>Puget Sound Partnership Enivronmental Justice Assessment Policy</h2>
+			<p><a href="https://pspwa.app.box.com/embed/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r?sortColumn=date" target="_blank" rel="noopener">
+Open the Puget Sound Partnership Enivronmental Justice Assessment Policy in a new tab.
+</a>
+</p>
+			<iframe src="https://pspwa.app.box.com/embed/s/ebskw6hhrm4btsix6wk1j6cncwqtov1r?sortColumn=date" title="Puget Sound Partnership Enivronmental Justice Assessment Policy" width="600" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen>
 			<p>&nbsp;</p>
 			<p>&nbsp;</p>
 			</iframe>
@@ -146,7 +151,7 @@ navSelected = 4;
 			<p>The environmental justice assessment obligation of a covered agency for a significant agency action is satisfied by the completion of a checklist developed by the covered agency pursuant to chapter <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.060" target="new">RCW 70A.02.060</a>. This checklist should enable the Partnership to advance our goals of reducing environmental harms, identifying and reducing environmental and health disparities, and improving the distribution of environmental benefits. </p>
 			
 			<h3>Step 1: Describe the Significant Agency Action (SAA)</h3>
-			<ol>
+			<ol class="bullet-size-fix">
 				<li><p class="psemp-mar-font">Describe the SAA and any specific geographic areas the action will take place.</p></li>
 				<li><p class="psemp-mar-font">Describe the projected environmental exposures that may result from the SAA.</p></li>
 				<li><p class="psemp-mar-font">Using cumulative health impact analysis tools:</p></li>
@@ -158,7 +163,7 @@ navSelected = 4;
 			
 			<h3>STEP 2: Engage Impacted Communities</h3>
 			
-			<ol>
+			<ol class="bullet-size-fix">
 				<li><p class="psemp-mar-font">Describe any community engagement with impacted OBCs and tribes regarding the SAA to date and any plans for ongoing community engagement.</p></li>
 				<li><p class="psemp-mar-font">Describe the socioeconomic conditions of OBCs and tribes as identified through a cumulative health impact analysis tool and with input from impacts communities.</p></li>
 				<li><p class="psemp-mar-font">Describe the input and priorities that OBCs and tribes shared in response to projected environmental exposures.</p></li>
@@ -167,7 +172,7 @@ navSelected = 4;
 			
 			<h3>STEP 3: Identify Environmental Harms</h3>
 			
-			<ol>
+			<ol class="bullet-size-fix">
 				<li><p class="psemp-mar-font">Describe the potential intended or unintended environmental harms (projected environmental health impacts) of the proposed action? Describe where these will take place.</p></li>
 				<li><p class="psemp-mar-font">Describe the potential environmental health impacts that OBCs identified as a result of the projected environmental exposures.</p></li>
 				<li><p class="psemp-mar-font">Describe the input and priorities that OBCs shared in response to the identification of environmental harms and environmental benefits, or the combined environmental impacts.</p></li>
@@ -175,7 +180,7 @@ navSelected = 4;
 			</ol>
 			
 			<h3>Step 4: Plan for Tribal Consultation</h3>
-			<ol>
+			<ol class="bullet-size-fix">
 				<li><p class="psemp-mar-font">Collate the information specific to Tribes collected in steps 1-3.</p></li>
 				<li><p class="psemp-mar-font">In coordination with the Tribal Affairs Manager:</p></li>
 					<ul class="bullet-size-fix">
@@ -187,7 +192,7 @@ navSelected = 4;
 			
 			<h3>STEP 5: Identify Environmental Benefits</h3>
 			
-			<ol>
+			<ol class="bullet-size-fix">
 				<li><p class="psemp-mar-font">Describe all community identified needs related to the SAA and if or how these community identified needs may be met by the SAA.</p></li>
 				<li><p class="psemp-mar-font">Describe the potential intended/unintended environmental benefits of the proposed action.</p></li>
 				<li><p class="psemp-mar-font">Identify which of the following strategies will be pursued to eliminate, reduce, or mitigate environmental harms (check all that apply) and summarize the implementation plan to do so:</p></li>
@@ -208,7 +213,7 @@ navSelected = 4;
 			
 			<h3>STEP 6: Equitably Distribute Environmental Health Impacts</h3>
 			
-			<ol>
+			<ol class="bullet-size-fix">
 				<li><p class="psemp-mar-font">Describe how any environmental benefits will be equitably distributed and the resulting cumulative impacts of the proposed action.</p></li>
 				<li><p class="psemp-mar-font">If the agency determines that it does not have the ability or authority to fully eliminate, reduce, or mitigate environmental harms caused by the significant agency action, or does not address the equitable distribution of environmental benefits, provide a justification for not doing so.</p></li>
 			
@@ -222,7 +227,7 @@ navSelected = 4;
 			<br>
 		<br>
 			
-<p class="last-update">Last updated: 12/16/25</p>
+<p class="last-update">Last updated: 01/09/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

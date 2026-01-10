@@ -97,7 +97,7 @@ navSelected = 5;
 				<li>Considering a broad scope</li>
 				<li>Establishing a goal of 40 percent</li>
 			</ul>
-			<p align="left">You can view the Puget Sound Partnership HEAL Budget and Funding Policy below or <a href="https://pspwa.box.com/s/38wgbs8o3x8ordfry8ospgp025fdbzau" target="new">click here to download</a>.</p>
+			<p align="left">You can view the Puget Sound Partnership HEAL Budget and Funding Policy below or <a href="https://pspwa.box.com/s/38wgbs8o3x8ordfry8ospgp025fdbzau" target="new">download it at this link</a>.</p>
 			<h2>Puget Sound Partnership HEAL Budget and Funding Policy</h2>
 			<p>
 <a href="https://pspwa.app.box.com/embed/s/38wgbs8o3x8ordfry8ospgp025fdbzau?sortColumn=date" target="_blank" rel="noopener">
