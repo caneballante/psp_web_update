@@ -83,6 +83,12 @@
 						
 			<p class="margin-20-top">The Puget Sound Acquisition and Restoration (PSAR) fund supports projects that recover salmon and protect and recover salmon habitat in Puget Sound. The state legislature appropriates money for PSAR every 2 years in the Capital Budget. PSAR is co-managed by the Puget Sound Partnership and the Recreation and Conservation Office. Local entities identify and propose PSAR projects. The Salmon Recovery Funding Board prioritizes projects for funding.</p>
 			<br>
+			<h2>PSAR Accomplishments Dashboard</h2>
+			<p>
+<a href="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f" title="PSAR Accomplishments Dashboard" target="_blank" rel="noopener">
+Open the PSAR Accomplishments Dashboard in a new tab
+</a>
+</p>
 			
 				<IFRAME WIDTH=850 HEIGHT=800 FRAMEBORDER=0 SRC="https://experience.arcgis.com/experience/d4feafd9cf854a118306f26f727d8d6f/"></IFRAME>
 			
@@ -136,7 +142,7 @@
 			<div>
 				<div> </div>
 			</div>
-	<p class="last-update">Last updated: 11/7/22</p>
+	<p class="last-update">Last updated: 01/5/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
