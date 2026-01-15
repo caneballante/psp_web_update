@@ -112,7 +112,7 @@ navSelected = 3;
 				  ➢ <a href="https://pspwa.box.com/s/c4obilmp4wgi1hnz8s4zd01mjxcu4j1u"> List of 2025-2027 PSAR Large Capital Project applications submitted for first round review.</a><br>
 					➢ <a href="https://pspwa.box.com/s/gvflymebbrnl9vpwhilcgsd5yrnvsw63">  List of 2025-2027 PSAR Large Capital Project applications submitted for final round review.</a>
 				  <br>
-			    ➢ <a href="https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae"> Map of 2025-2027 PSAR Large Capital proposed projects invited to submit final applications.</a></p>
+			    <a href="https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae"> Map of 2025-2027 PSAR Large Capital proposed projects invited to submit final applications.</a></p>
 				</div>
 				<h2>Map of 2025-2027 PSAR Large Capital proposed projects</h2>
 			<p>
