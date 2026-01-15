@@ -134,7 +134,7 @@
 			<div class="padding-5-bottom"><a href="/tribal-relations.php">Tribal Relations</a></div>
 			<div class="padding-5-bottom"><a href="funding.php">Science and Monitoring Funding opportunities</a></div>
 			<div class="padding-5-bottom"><a href="federal-government-relations.php">Federal support for Puget Sound recovery</a></div>
-			<div class="padding-5-bottom"><a href="state-government-relations.php">2025 legislative session</a></div>
+			<div class="padding-5-bottom"><a href="state-government-relations.php">2026 legislative session</a></div>
 			<div class="padding-5-bottom"><a href="https://makingwaves.psp.wa.gov/">Making Waves magazine</a></div>
 			<div class="padding-5-bottom"><a href="MART.php">Multi-Agency Review Team</a></div>
 		</div>
@@ -154,7 +154,7 @@
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
 						<img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt="Photo of the Washington State Capitol building"/> <strong>RESOURCE</strong><br>
-						<a href="https://www.psp.wa.gov/state-government-relations.php">2025 Washington State Legislative session information</a><br>
+						<a href="https://www.psp.wa.gov/state-government-relations.php">2026 Washington State Legislative session information</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
