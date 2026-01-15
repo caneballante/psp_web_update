@@ -113,8 +113,15 @@ navSelected = 3;
 					➢ <a href="https://pspwa.box.com/s/gvflymebbrnl9vpwhilcgsd5yrnvsw63">  List of 2025-2027 PSAR Large Capital Project applications submitted for final round review.</a>
 				  <br>
 			    ➢ <a href="https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae"> Map of 2025-2027 PSAR Large Capital proposed projects invited to submit final applications.</a></p>
-		</div>
-			<iframe src= "https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae" width="100%" height="820" alt="Map of 2025-2027 PSAR Large Capital proposed projects">
+				</div>
+				<h2>Map of 2025-2027 PSAR Large Capital proposed projects</h2>
+			<p>
+<a href="https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae" target="_blank" rel="noopener">
+Open the Map of 2025-2027 PSAR Large Capital proposed projects in a new tab
+</a>
+</p>
+	    
+			<iframe src= "https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae" title="Map of 2025-2027 PSAR Large Capital proposed projects" width="100%" height="820" alt="Map of 2025-2027 PSAR Large Capital proposed projects">
 </iframe>
 
 			<hr />
@@ -128,7 +135,7 @@ navSelected = 3;
 			<div>
 				<div> </div>
 			</div>
-	<p class="last-update">Last updated: 05/21/24</p>
+	<p class="last-update">Last updated: 01/15/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
