@@ -115,6 +115,17 @@ a[href^="http"] {
 .hidden {
 	display: none;
 }
+/*special case modal h2*/
+#modal-h3 h3{
+	font-size: 50px;
+	font-weight: 900;
+	/*border-bottom: solid #777 1px;*/
+	margin-top: 50px;
+	padding-bottom: 25px;
+	margin-bottom: 0px;
+	color: #0a3b5c;
+	
+}
 #home-squares a {
 	font-size: 1.2em;
 	font-weight: 300;
