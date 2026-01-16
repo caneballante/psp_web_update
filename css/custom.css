@@ -32,6 +32,43 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
 	/*letter-spacing: 1px;*/
 }
+h1 {
+	font-size: 30px;
+	font-weight: 100;
+}
+
+@media (max-width: 768px) {
+h1 {
+	font-size: 25px;
+	font-weight: 100;
+}
+}
+
+/* page-content class is used so I can specifically target h1 children in the content areas of inside pages. I'm centering them for mobile*/
+@media (max-width: 768px) {
+.page-content h1 {
+	text-align: center;
+}
+}
+h2 {
+	font-size: 18px;
+	font-weight: 900;
+	/*border-bottom: solid #777 1px;*/
+	margin-top: 50px;
+	padding-bottom: 25px;
+	margin-bottom: 0px;
+	color: #0a3b5c;
+}
+h3 {
+	font-size: 15px;
+	font-weight: 800;
+	line-height: 1.5em;
+}
+p {
+	font-size: 1.3em;
+	line-height: 1.9;
+	font-family: georgia, times, serif;
+}
 a {
 	color: #00549a;
 
@@ -120,10 +157,10 @@ a[href^="http"] {
 	font-size: 20px;
 	font-weight: 900;
 	/*border-bottom: solid #777 1px;*/
-	margin-top: 50px;
-	padding-bottom: 25px;
+	margin-top: 5px;
+	padding-bottom: 5px;
 	margin-bottom: 0px;
-	color: #0a3b5c;
+	color: #fff;
 	
 }
 #home-squares a {
@@ -140,43 +177,7 @@ a[href^="http"] {
 	font-weight: 500;
 }
 
-h1 {
-	font-size: 30px;
-	font-weight: 100;
-}
 
-@media (max-width: 768px) {
-h1 {
-	font-size: 25px;
-	font-weight: 100;
-}
-}
-
-/* page-content class is used so I can specifically target h1 children in the content areas of inside pages. I'm centering them for mobile*/
-@media (max-width: 768px) {
-.page-content h1 {
-	text-align: center;
-}
-}
-h2 {
-	font-size: 18px;
-	font-weight: 900;
-	/*border-bottom: solid #777 1px;*/
-	margin-top: 50px;
-	padding-bottom: 25px;
-	margin-bottom: 0px;
-	color: #0a3b5c;
-}
-h3 {
-	font-size: 15px;
-	font-weight: 800;
-	line-height: 1.5em;
-}
-p {
-	font-size: 1.3em;
-	line-height: 1.9;
-	font-family: georgia, times, serif;
-}
 /*removed these on 6/2/2022 - not sure what will break, but we don't want table text to be smaller as a rule*/
 /*td p {
 	font-size: 1.1em;
