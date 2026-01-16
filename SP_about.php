@@ -76,9 +76,15 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Science Panel's expertise and advice are critical to the Puget Sound Partnership&rsquo;s efforts to develop a comprehensive, science-based plan to restore Puget Sound. The members, appointed by the Leadership Council, were chosen from the top scientists in Washington State. 2024 Meeting schedules can be found <a href="board_meetings.php">here.</a><br></p>
+			<p>The Science Panel's expertise and advice are critical to the Puget Sound Partnership&rsquo;s efforts to develop a comprehensive, science-based plan to restore Puget Sound. The members, appointed by the Leadership Council, were chosen from the top scientists in Washington State. 2026 Meeting schedules can be found <a href="board_meetings.php">here.</a></p>
+			<h2>Science Panel Roster</h2>
+	   <p>
+<a href="https://app.smartsheet.com/b/publish?EQBCT=34b79c1749f94979b7fcc38cb37bdce0" target="_blank" rel="noopener">
+Open the Science Panel roster in a new tab.
+</a>
+</p>
 		<!--START IFRAME-->
-	       <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=34b79c1749f94979b7fcc38cb37bdce0"></IFRAME>
+        <IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=34b79c1749f94979b7fcc38cb37bdce0" title="Science Panel Roster"></IFRAME>
 			 <!--END IFRAME-->
 			<h3>Board contact</h3>
 			<p>For questions about the Partnership's boards contact:<br />
@@ -88,7 +94,7 @@
             360.742.2936 </p>
 			<h3>Board Materials</h3>
 			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a>			</p>
-			<p class="last-update">Last updated: 1/2/24</p>
+			<p class="last-update">Last updated: 01/16/26</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		

@@ -57,9 +57,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>PSEMP - CALENDAR</h1>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --></div>
+			<h1>Puget Sound Ecosystem monitoring program (PSEMP) - CALENDAR			</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -76,7 +75,14 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-	<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=9e1264a977d644e5b1c7b4fa1b02d03d"></IFRAME>
+	<h2>PSEMP Calendar</h2>
+	<p>Below is a calendar of future and previous PSEMP events and meetings. </p>
+			<p>
+<a href="https://app.smartsheet.com/b/publish?EQBCT=9e1264a977d644e5b1c7b4fa1b02d03d" target="_blank" rel="noopener">
+Open the PSEMP calendar in a new tab.
+</a>
+</p>
+		<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=9e1264a977d644e5b1c7b4fa1b02d03d" title="PSEMP Calendar"></IFRAME>
 						
 						
 		<!-- InstanceEndEditable --> </div>
