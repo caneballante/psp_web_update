@@ -57,9 +57,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>ABOUT THE SALMON RECOVERY COUNCIL</h1>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --></div>
+			<h1>ABOUT THE SALMON RECOVERY COUNCIL			</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -85,8 +84,13 @@
 				<li>Hold others and itself accountable for the implementation of the Puget Sound Salmon Recovery Plan.</li>
 			</ul>
 			
-			
-		<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=2e7f840b27c04cc5bf44a7267306611a"></IFRAME>
+			<h2>Salmon Recovery Council Roster</h2>
+			<p>
+<a href="https://app.smartsheet.com/b/publish?EQBCT=2e7f840b27c04cc5bf44a7267306611a" target="_blank" rel="noopener">
+Open the Salmon Recovery Council roster in a new tab.
+</a>
+</p>
+		<IFRAME WIDTH=1000 HEIGHT=700 FRAMEBORDER=0 SRC="https://app.smartsheet.com/b/publish?EQBCT=2e7f840b27c04cc5bf44a7267306611a" title="Salmon Recovery Council Roster"></IFRAME>
 			 <!--END IFRAME-->
 			<h3>Board contact</h3>
 			<p>For questions about the Partnership's boards contact:<br />
@@ -96,7 +100,8 @@
 			360.584.5328
 			</p>
 			<h3>Board Materials</h3>
-			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a>			</p>
+			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a>.			</p>
+			<p class="last-update">Last updated: 01/16/26</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		

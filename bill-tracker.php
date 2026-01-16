@@ -65,9 +65,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Bill Tracker</h1>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --></div>
+			<h1>Bill Tracker			</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -89,14 +88,19 @@
 			
 			<hr>
 			<br><br>
-
+<h2>2026 Puget Sound Bill Tracker</h2>
+			<p>
+<a href="https://app.powerbigov.us/view?r=eyJrIjoiMmRlZTUxMDYtOWJkYi00MDcwLTg3ODMtN2JkZmFmY2NlZDJmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" target="_blank" rel="noopener">
+Open the Bill Tracker in a new tab.
+</a>
+</p>
 						
-			<iframe title="PartnershipLegislativeUpdates2026" width="1140" height="541.25" src=https://app.powerbigov.us/view?r=eyJrIjoiMmRlZTUxMDYtOWJkYi00MDcwLTg3ODMtN2JkZmFmY2NlZDJmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9 frameborder="0" allowFullScreen="true"></iframe>
-			<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiMmRlZTUxMDYtOWJkYi00MDcwLTg3ODMtN2JkZmFmY2NlZDJmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" target="new">Full-screen option<br>
-			</a>			</p>
+		<iframe title="PartnershipLegislativeUpdates2026" width="1140" height="541.25" src=https://app.powerbigov.us/view?r=eyJrIjoiMmRlZTUxMDYtOWJkYi00MDcwLTg3ODMtN2JkZmFmY2NlZDJmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9 frameborder="0" allowFullScreen="true"></iframe>
+		<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiMmRlZTUxMDYtOWJkYi00MDcwLTg3ODMtN2JkZmFmY2NlZDJmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" title="Puget Sound Bill Tracker" target="new"><br>
+		</a>			</p>
 			<h2>Bill Tracker Archive</h2>
 			<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiY2NkODgxNTItZjA2Yy00YzhhLWE1NDgtZTdiZmMyMTlhZWFmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9">2024 Bill Tracker</a></p>
-			<p class="last-update">Last updated: 12/24/25</p>
+			<p class="last-update">Last updated: 01/16/26</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
