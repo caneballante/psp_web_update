@@ -65,9 +65,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Legislative Calendar</h1>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --></div>
+			<h1>Legislative Calendar			</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -86,11 +85,19 @@
 			
 			
 			<p>Listed below are the legislative committee activities the Partnership will be following in the near future. Double click on any calendar item for more information, including date, time, agenda, and hyperlinks to materials and access for the meeting.</p>
-			<p>If you plan to attend a committee meeting, be sure to check the latest committee schedule before you log on/leave home. Committee schedules change frequently and are updated at <a href="https://app.leg.wa.gov/committeeschedules/" target="_blank">https://app.leg.wa.gov/committeeschedules/</a></p><br><br>
-			
+			<p>If you plan to attend a committee meeting, be sure to check the latest committee schedule before you log on/leave home. Committee schedules change frequently and are updated at <a href="https://app.leg.wa.gov/committeeschedules/" target="_blank">https://app.leg.wa.gov/committeeschedules/</a></p><br>
 			<hr>
-			<br>
+			<h2>Puget Sound Legislative Calendar</h2>
+			<p>
+<a href="https://app.powerbigov.us/view?r=eyJrIjoiZThjOGNiNGMtNzIxMC00ZjY0LWJhZTctM2NjNDYwYjlmMjY2IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" target="_blank" rel="noopener">
+Open the Puget Sound Legislative Calendar in a new tab.
+</a>
+</p>
 			<div><iframe title="LegislativeCalendar" width="1000" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiZThjOGNiNGMtNzIxMC00ZjY0LWJhZTctM2NjNDYwYjlmMjY2IiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe></div>
+			
+			<!-- LAST UPDATED -->
+		<p class="last-update">&nbsp;</p>
+		<p class="last-update">Last updated: 01/20/26</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		

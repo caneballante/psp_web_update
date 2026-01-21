@@ -81,13 +81,28 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<h2 class="padding-0-top margin-0-top">Sole-Source Contract Notification</h2>
- 		<iframe src="https://pspwa.app.box.com/embed/s/neuz5umsrp82r4t2dyxjiuq2mfioaeow?showParentPath=false&sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
-		<h2>Puget Sound Partnership Solicitation Notice</h2>
-		<iframe src="https://pspwa.app.box.com/embed/s/dof9kqx343g44tl4yk5wr7lsnxuocg8v?showParentPath=false&sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+		<h2 class="padding-0-top margin-0-top">Sole-Source Contract Notification (Funding notices)</h2>
+			<p>
+<a href="https://pspwa.app.box.com/embed/s/neuz5umsrp82r4t2dyxjiuq2mfioaeow?showParentPath=false&sortColumn=date&view=list" target="_blank" rel="noopener">
+Open the Sole-Source Contract Notification (Funding notices) in a new tab.
+</a>
+</p>
+ 		<iframe src="https://pspwa.app.box.com/embed/s/neuz5umsrp82r4t2dyxjiuq2mfioaeow?showParentPath=false&sortColumn=date&view=list" title="Sole-Source Contract Notification" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+		<h2>Puget Sound Partnership Solicitation Notices</h2>
+			<p><a href="https://pspwa.app.box.com/embed/s/dof9kqx343g44tl4yk5wr7lsnxuocg8v?showParentPath=false&sortColumn=date&view=list">
+Open the SPuget Sound Partnership Solicitation Notices in a new tab.
+</a>
+</p>
+		<iframe src="https://pspwa.app.box.com/embed/s/dof9kqx343g44tl4yk5wr7lsnxuocg8v?showParentPath=false&sortColumn=date&view=list" title="Puget Sound Partnership Solicitation Notices" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
  		<h2>Agency Forecasting Reports</h2>
-		<iframe src="https://pspwa.app.box.com/embed/s/srp9gq6hw5xpw0gjt0n5w5py9mgk2cfk?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
-			 
+		<p>
+<a href="https://pspwa.app.box.com/embed/s/srp9gq6hw5xpw0gjt0n5w5py9mgk2cfk?sortColumn=date&view=list" target="_blank" rel="noopener">
+Open the Agency Forecasting Reports in a new tab.
+</a>
+</p>
+		<iframe src="https://pspwa.app.box.com/embed/s/srp9gq6hw5xpw0gjt0n5w5py9mgk2cfk?sortColumn=date&view=list" title="Agency Forecasting Reports" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+			 <p class="last-update">&nbsp;</p>
+			 <p class="last-update">Last updated: 01/20/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

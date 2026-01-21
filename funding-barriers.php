@@ -90,6 +90,11 @@ navSelected = 4;
 		<h2>Overview</h2>
 		<p>Since  September of 2020, the Leadership Council and Ecosystem Coordination Board have  hosted local forums to provide Local Integrating Organizations (LIOs), Lead  Entities (LEs), and other partners the opportunity to identify and help  troubleshoot barriers that local partners are facing in implementing recovery  plans and priorities. From 2022 to 2024, barriers related to grant funding have  featured prominently in recent local forums with the Leadership Council and  Ecosystem Coordination Board. </p>
 			<p>Please find a 12-minute video that summarizes this work below:</p>
+			<h2>Funding Barriers Discussion for Partners presentation video</h2>
+			<p><a href="https://player.vimeo.com/video/993016997?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" target="_blank" rel="noopener">
+Open the Funding Barriers Discussion for Partners presentation video in a new tab (will open in Vimeo player).
+</a>
+</p>
 			<p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/993016997?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Addressing Funding Barriers"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>
 			<p>&nbsp;</p>
 			<h2>What is a funding barrier?</h2></p>
@@ -115,7 +120,7 @@ navSelected = 4;
         <p></p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 06/06/25</p>
+		<p class="last-update">Last updated: 01/20/26</p>
 
         <!-- InstanceEndEditable --> </div>
 		
