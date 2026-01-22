@@ -58,7 +58,7 @@
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>Effective Action Summaries</h1>
-			<p>&nbsp;</p>
+	
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -77,7 +77,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			
-			<h2>FACT SHEETS AND NARRATIVE SUMMARIES</h2>
+			<h2 class="margin-0-top">FACT SHEETS AND NARRATIVE SUMMARIES</h2>
 				<h3>STRATEGIC INITIATIVE: RESTORE AND RE-OPEN SHELLFISH BEDS</h3>
                
 				<p><a href="#samish">Keeping shellfish beds open by reducing fecal coliform (Samish Basin)</a></p>
