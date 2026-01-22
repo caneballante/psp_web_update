@@ -81,22 +81,39 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">2026 Legislative Session</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/4014866" target="new">General session info</a></p>
-			<p><a href="https://pspwa.box.com/s/zbe76vto5pm7kbj11kfhxeqggoitrlfw" target="new">2026 Puget Sound Legislative Priorities</a></p><br>
+			<p><a href="https://pspwa.box.com/s/zbe76vto5pm7kbj11kfhxeqggoitrlfw" target="new">2026 Puget Sound Legislative Priorities</a></p>
+			<p>
+<a href="https://app.smartsheet.com/b/publish?EQBCT" target="_blank" rel="noopener">
+Open the 2026 Legislative Updates in a new tab.
+</a>
+</p>
 		<div>
 		  <IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC=https://app.smartsheet.com/b/publish?EQBCT=08e4eadc90534836b4ba1440cfd101a9></IFRAME>
 			</div>	
-			<h2 class="margin-0-top">&nbsp;</h2>
+			<h1 class="margin-0-top"><br>
+		    Legislative Updates and Calendar Archives</h1>
 			<h2 class="margin-0-top">2025 Legislative Session</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/3c9ec38">General session info</a></p>
-			<p><a href="https://pspwa.box.com/s/8vds4aob3hc6ldvqi3l98tgi8sxgd2w7">2025 Puget Sound Legislative Priorities</a></p><br>
+			<p><a href="https://pspwa.box.com/s/8vds4aob3hc6ldvqi3l98tgi8sxgd2w7">2025 Puget Sound Legislative Priorities</a></p>
+			<p>
+<a href="https://publish.smartsheet.com/74287bc8bd884ab9b827d35792ef97ea" target="_blank" rel="noopener">
+Open the 2025 Legislative Updates in a new tab.
+</a>
+</p>
 			<div>
 			<IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/74287bc8bd884ab9b827d35792ef97ea"></IFRAME>
 			</div>	
 			
-		<h2>Legislative Updates and Calendar Archives</h2>
-		<h2 class="margin-0-top">2024 Legislative Session</h2>
+		
+		<h2 class="margin-0-top"><br>
+	    2024 Legislative Session</h2>
         <p>	<a src href="https://content.govdelivery.com/accounts/WAPSP/bulletins/380a5be" target="new">General session info</a></p>
         <p><a href="https://pspwa.box.com/s/64ck6qrhiv57gwey8emn48cujtcanr7x" target="new">2024 Puget Sound Legislative Priorities</a></p>
+        <p>
+<a href="https://publish.smartsheet.com/8bd6dfb5d5f24d3081adb50a7d6ceccb" target="_blank" rel="noopener">
+Open the 2024 Legislative Updates in a new tab.
+</a>
+</p>
         <br>
         <div>
           <IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/8bd6dfb5d5f24d3081adb50a7d6ceccb"></IFRAME>
@@ -105,14 +122,26 @@
 			
 			<h2 class="margin-0-top">2023 Legislative Session</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/33b026f" target="new">General session info </a></p>
-			<p><a href="https://pspwa.box.com/s/g9bhwvf5n62fy61f4u13ozh0r0a2224w" target="new">2023 Puget Sound Legislative Priorities</a></p><br>
+			<p><a href="https://pspwa.box.com/s/g9bhwvf5n62fy61f4u13ozh0r0a2224w" target="new">2023 Puget Sound Legislative Priorities</a></p>
+			 <p>
+<a href="https://publish.smartsheet.com/070d181f4f744fb1937823e8e8550f06" target="_blank" rel="noopener">
+Open the 2023 Legislative Updates in a new tab.
+</a>
+</p>
+			<br>
 			<div>
 			<IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/070d181f4f744fb1937823e8e8550f06"></IFRAME>
 			</div>	
 			
 			<h2>2022 Legislative Session</h2>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/303c1c3" target="new">General session info</a></p>
-			<p><a href="https://pspwa.box.com/s/jpjpse9blqc9ujikty5l9dduf5a8feyk" target="new">2022 legislative priorities</a></p><br>
+			<p><a href="https://pspwa.box.com/s/jpjpse9blqc9ujikty5l9dduf5a8feyk" target="new">2022 legislative priorities</a></p>
+			 <p>
+<a href="https://publish.smartsheet.com/60dbf92632154659b7cbdc2d98ecd66e" target="_blank" rel="noopener">
+Open the 2022 Legislative Updates in a new tab.
+</a>
+</p>
+			<br>
 			<h3>2022 Legislative Updates</h3>
 			<div>
 			<IFRAME WIDTH=700 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/60dbf92632154659b7cbdc2d98ecd66e"></IFRAME>
@@ -252,7 +281,7 @@
 			<p><a href="https://pspwa.box.com/s/e9rn1ckyd5u1ljol5he0t6obmjxlj35w">View 2014 materials</a></p>
 			<p><a href="https://pspwa.box.com/s/i36bxnm4gogzeaye44345erld870ny5y">View 2013 materials</a> </p>
 			<p><a href="https://pspwa.box.com/s/m1ixjryou2m4la3j1sdocfj9umcsws41">View 2012 materials</a></p>
-			<p class="last-update">Last updated: 01/05/26</p>
+			<p class="last-update">Last updated: 01/21/26</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
