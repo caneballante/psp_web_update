@@ -96,7 +96,7 @@
 							360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br /></p>
 			
 						<h5>Lea Anne Burke</h5>
-						<p>Tribal Affairs Manager<br>
+						<p>Director of Tribal Affairs <br>
 						360.628.7532 | <a href="mailto:lea-anne.burke@psp.wa.gov">lea-anne.burke@psp.wa.gov</a></p>
 			
 						<h5>Ahren Stroming</h5>
@@ -140,7 +140,7 @@
 							360.995.2465 | <a href="mailto:hannah.liss@psp.wa.gov">hannah.liss@psp.wa.gov</a></p>
 						
 						<!--PUGET SOUND RECOVERY INTEGRATION TEAM--><!--STRATEGIC FUNDING PROGRAM-->
-		<h3 class="padding-10-top">Strategic Funding Program</h3>
+		<h3 class="padding-10-top">Strategic Funding Team</h3>
 						<h5>Jennifer Grimm</h5>
 						<p>Strategic Funding Manager<br />
 						   360.485.7419  | <a href="mailto:jennifer.grimm@psp.wa.gov">jennifer.grimm@psp.wa.gov</a></p>
@@ -365,7 +365,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 01/07/26</p>
+	<p class="last-update">Last updated: 01/22/26</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
