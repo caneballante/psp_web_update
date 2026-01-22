@@ -111,7 +111,7 @@
 			<br>
               <a href="https://pspwa.box.com/s/78p224b2rqgd1mwvujy37sb6jo1b554x" target="new">HEAL Act Tribal Definitions Appendix</a><br></p><h2>Map of reservations</h2>
               <p>The map below provides a list of the 19 federally recognized tribes and the  Treaty ceded areas in the Puget Sound. Select a tribe from the list on the left to learn more. </p>
-              <p>A full screen version of the map can be viewed <a href="https://experience.arcgis.com/experience/98dc152906ec478f9256dcc83093c63d/" target="new">here</a>.</p> 
+              <p><a href="https://experience.arcgis.com/experience/98dc152906ec478f9256dcc83093c63d/" target="new">Open the Tribal Reservations and Treaty Ceded Areas of Puget Sound map in a new tab</a>.</p> 
 			  <iframe src= "https://experience.arcgis.com/experience/98dc152906ec478f9256dcc83093c63d/" width="100%" height="1000" alt="Map of Tribal Reservations and Draft Treaty Ceded Areas of Puget Sound">
 </iframe>
                 <br>
@@ -121,8 +121,8 @@
               <div> </div>
             </div>
 			</div>
-			<h2 class="margin-0-top">&nbsp;</h2>
-			<p class="last-update">Last updated: 07/14/25</p>
+		
+			<p class="last-update">Last updated: 01/21/26</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

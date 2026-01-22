@@ -82,9 +82,13 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 			<p>The Puget Sound Partnership Nearshore Credits Program is an in-lieu fee program that sells conservation credits to help federal permit applicants meet obligations to offset impacts to critical habitat and uses funds from those credit sales to implement equivalent conservation projects. The credits represent units of nearshore habitat function (as quantified by <a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="new">a calculator developed by the National Marine Fisheries Service</a>). Conservation projects must occur in the same service area as the permitted impact—see map below.
-			</p><br><br>
+			</p><p>
+<a href="https://experience.arcgis.com/experience/3ad3ed63a1d541a5bc1793887aa38a85/" target="_blank" rel="noopener">
+Open the Nearshore Conservation Credits map in a new tab.
+</a>
+</p>
 			
-			<IFRAME WIDTH=900 HEIGHT=850 FRAMEBORDER=0 SRC="https://experience.arcgis.com/experience/3ad3ed63a1d541a5bc1793887aa38a85/"></IFRAME>
+			<IFRAME WIDTH=900 HEIGHT=850 FRAMEBORDER=0 SRC="https://experience.arcgis.com/experience/3ad3ed63a1d541a5bc1793887aa38a85/" title="Nearshore Conservation credits map"></IFRAME>
 			<br>
 			<br>
 			<br>
@@ -104,7 +108,7 @@
 			<button class="button7"><a href="/pspnc-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 
-			<p class="last-update">Last updated: 9/11/23</p>
+			<p class="last-update">Last updated: 01/21/26</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
