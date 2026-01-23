@@ -83,7 +83,7 @@
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/4014866" target="new">General session info</a></p>
 			<p><a href="https://pspwa.box.com/s/zbe76vto5pm7kbj11kfhxeqggoitrlfw" target="new">2026 Puget Sound Legislative Priorities</a></p>
 			<p>
-<a href="https://app.smartsheet.com/b/publish?EQBCT" target="_blank" rel="noopener">
+<a href="https://app.smartsheet.com/b/publish?EQBCT=08e4eadc90534836b4ba1440cfd101a9" target="_blank" rel="noopener">
 Open the 2026 Legislative Updates in a new tab.
 </a>
 </p>
