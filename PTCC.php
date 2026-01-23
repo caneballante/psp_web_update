@@ -79,10 +79,10 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			  <p  class="margin-0-top">Co-chaired by the Partnership's Leadership Council Chair and a Northwest Indian Fisheries Commissioner, PTCC is a collaborative space, facilitating communications and coordination between the Partnership and sovereign Tribal nations to develop common objectives and priorities, and share information for the protection and restoration of the Puget Sound ecosystem. </p>
-			  <p>PTCC promotes, but does not replace, timely state-Tribal government-to-government communication and consultation between each individual Tribal government and the Partnership. Standard agenda items may include, but are not limited to, reports on legislative issues, species and habitat protection and restoration issues, program updates, and Partnership proposals for government-to-government consultation on emerging issues.</P>
-			   <p>PTCC typically meets monthly and is open to all Tribal elected officials and staff. For meeting information please contact the Partnership’s <a href="mailto:lea-anne.burke@pap.wa.gov">Tribal Relations Manager</a>.</p>
-			<p class="last-update">Last updated: 01/15/25</p>
+			  <p  class="margin-0-top">Co-chaired by our Leadership Council Chair and a Northwest Indian Fisheries Commissioner, the Partnership Tribal C0-Management Council (PTCC) is a collaborative space, facilitating communications and coordination between the Partnership and sovereign Tribal nations to develop common objectives and priorities, and share information for the protection and restoration of the Puget Sound ecosystem. </p>
+			  <p>PTCC promotes, but does not replace, timely state-Tribal government-to-government communication and consultation between each individual Tribal government and the Partnership. Standard agenda items may include, but are not limited to, reports on legislative issues, species and habitat protection and restoration issues, program updates, and our proposals for government-to-government consultation on emerging issues.</P>
+			   <p>PTCC typically meets monthly and is open to all Tribal elected officials and staff. For meeting information please contact our <a href="mailto:lea-anne.burke@pap.wa.gov">Director of Tribal Relations - Lea Anne Burke</a>.</p>
+			<p class="last-update">Last updated: 01/23/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

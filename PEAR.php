@@ -78,9 +78,6 @@
 
        
         <h2 class="margin-0-top">The Partnership's PEAR statement</h2>
-        <div class="floatright-block blue-outline-5px padding-10-all margin-10-left"><img src="images/PEAR.jpg" width="299" height="171" alt=""/><br>
-       <p> <a href="https://pspwa.box.com/s/hxfglg57ny33e9qfvc8u5malexh1vr9d" target="new">Video recorded staff presentation  8/18/2022</a><br>
-       </p><p><a href="https://pspwa.box.com/s/fixteo94kpihc84q103vi9z7rrpy6upq" target="new">PEAR Strategic Plan</a></p></div>    
         <p>On March 21, 2022, Governor Inslee signed Executive Order 22-04, Implementing the Washington State Pro-Equity Anti-Racism (PEAR) Plan  &amp; Playbook. The Executive Order  directs all Cabinet agencies to develop a PEAR Strategic Action Plan, implement  it, and report our progress on implementation.</p>
         <p>In this Executive Order,  the Governor clearly  stated his intention  that we and our sister state agencies  must do our part to create a PEAR ecosystem in the State of Washington. Our  founding statute also directs us to support a healthy human population and a  vibrant quality of life. Achieving  these goals will help us achieve our mission, but it&rsquo;s also quite simply the  right and deeply decent thing to do.</p>
         <p>The Leadership Team is  committed to implementing this Executive Order. While responsibilities may vary across our staff for  implementing the specifics of the PSP PEAR Strategic Plan, we know that each of us must do our own anti-racism, pro-equity work. We look forward  to continued work with managers, supervisors, and  staff in implementing this into our programs and work plans.        </p>
@@ -93,7 +90,7 @@
                 
                 <tr>
                     <td width="164"><p>Lea Anne Burke</p></td>
-                    <td width="499"><p>Tribal Affairs Manager</p></td>
+                    <td width="499"><p>Director of Tribal Affairs</p></td>
                 </tr>
                 <tr>
                     <td><p>Denise Ross</p></td>
@@ -109,6 +106,12 @@
                 </tr>
             </table>
 			
+			<h2>Staff Presentation Video - 8/18/2022</h2>
+			<p><img src="images/PEAR.jpg" width="299" height="171" alt=""/><br>
+            </p>
+			<p> <a href="https://pspwa.box.com/s/hxfglg57ny33e9qfvc8u5malexh1vr9d" target="new">Open the video recording of our staff presentation from 8/18/2022 in a new tab.</a><br>
+	    </p>
+			<p><a href="https://pspwa.box.com/s/fixteo94kpihc84q103vi9z7rrpy6upq" target="new">PEAR Strategic Plan</a></p>
 			<p class="last-update">Last updated: 01/28/25</p>
 		
 			<!-- InstanceEndEditable --> </div>
