@@ -95,7 +95,7 @@ Open the Bill Tracker in a new tab.
 </a>
 </p>
 						
-		<iframe title="PartnershipLegislativeUpdates2026" width="1140" height="541.25" src=https://app.powerbigov.us/view?r=eyJrIjoiMmRlZTUxMDYtOWJkYi00MDcwLTg3ODMtN2JkZmFmY2NlZDJmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9 frameborder="0" allowFullScreen="true"></iframe>
+		<iframe title="PartnershipLegislativeUpdates2026" width="1140" height="775" src=https://app.powerbigov.us/view?r=eyJrIjoiMmRlZTUxMDYtOWJkYi00MDcwLTg3ODMtN2JkZmFmY2NlZDJmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9 frameborder="0" allowFullScreen="true"></iframe>
 		<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiMmRlZTUxMDYtOWJkYi00MDcwLTg3ODMtN2JkZmFmY2NlZDJmIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" title="Puget Sound Bill Tracker" target="new"><br>
 		</a>			</p>
 			<h2>Bill Tracker Archive</h2>
