@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Pro-Equity Anti-Racism (PEAR)</h1> 
+			<h1>Pro-Equity Anti-Racism</h1> 
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -77,20 +77,19 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 
        
-        <h2 class="margin-0-top">The Partnership's PEAR statement</h2>
-        <p>On March 21, 2022, Governor Inslee signed Executive Order 22-04, Implementing the Washington State Pro-Equity Anti-Racism (PEAR) Plan  &amp; Playbook. The Executive Order  directs all Cabinet agencies to develop a PEAR Strategic Action Plan, implement  it, and report our progress on implementation.</p>
-        <p>In this Executive Order,  the Governor clearly  stated his intention  that we and our sister state agencies  must do our part to create a PEAR ecosystem in the State of Washington. Our  founding statute also directs us to support a healthy human population and a  vibrant quality of life. Achieving  these goals will help us achieve our mission, but it&rsquo;s also quite simply the  right and deeply decent thing to do.</p>
-        <p>The Leadership Team is  committed to implementing this Executive Order. While responsibilities may vary across our staff for  implementing the specifics of the PSP PEAR Strategic Plan, we know that each of us must do our own anti-racism, pro-equity work. We look forward  to continued work with managers, supervisors, and  staff in implementing this into our programs and work plans.        </p>
-        <p>The Leadership Team is looking forward to  continuing this journey with each of you, our partners, and the Office of  Equity. Please don&rsquo;t hesitate to  reach out to any member  of the Leadership Team or our PEAR Team – Bryan,  Lea Anne, Denise, – with questions or ideas.</p>
-        <p>The Leadership Team<em></em><br>
+        <h2 class="margin-0-top"><strong>Our Pro-Equity Anti-Racism Statement</strong></h2>
+        <p>On March 21, 2022, Governor Inslee signed Executive Order 22-04, Implementing the Washington State Pro-Equity Anti-Racism (PEAR) Plan  &amp; Playbook. The Executive Order  directs all Cabinet agencies to partner with the Office of Equity in a  commitment to being an anti-racist government system.</p>
+        <p>The Puget Sound Partnership is dedicated to  upholding this executive order in our application of environmental justice  principles in Puget Sound ecosystem recovery goals. We stand in unity for the  just treatment and meaningful involvement of all people in government  decision-making, especially   decisions that affect human health and the environment.</p>
+        <p>The Leadership Team is  committed to the development of its Five-Year Well-being, Equity, and Belonging Action Plan  for embedding equity and environmental justice into its operations,  policymaking, and funding decisions.</p>
+        <p>We look forward to  continuing this journey with each of you, our partners, and the Office of  Equity. Please don&rsquo;t hesitate to  reach out to our Pro-Equity Anti-Racism  Team.<br>
         </p>
             
-        <h2>Partnership PEAR team</h2>
+        <h2>Our <strong>Pro-Equity Anti-Racism </strong> team</h2>
             <table class="table-striped">
                 
                 <tr>
                     <td width="164"><p>Lea Anne Burke</p></td>
-                    <td width="499"><p>Director of Tribal Affairs</p></td>
+                    <td width="499"><p>Director of Tribal Relations</p></td>
                 </tr>
                 <tr>
                     <td><p>Denise Ross</p></td>
@@ -100,9 +99,17 @@
                     <td><p>Bryan Gordon</p></td>
                     <td><p>Workplace Culture Specialist</p></td>
                 </tr>
+				<tr>
+                    <td><p>Signe Lindquist</p></td>
+                    <td><p>Community Engagement Coordinator</p></td>
+                </tr>
                 <tr>
                     <td><p>Dave Herrera</p></td>
                     <td><p>Community Member</p></td>
+                </tr>
+				 <tr>
+                    <td><p>Larry Epstein</p></td>
+                    <td><p>Deputy Director</p></td>
                 </tr>
             </table>
 			
@@ -110,9 +117,8 @@
 			<p><img src="images/PEAR.jpg" width="299" height="171" alt=""/><br>
             </p>
 			<p> <a href="https://pspwa.box.com/s/hxfglg57ny33e9qfvc8u5malexh1vr9d" target="new">Open the video recording of our staff presentation from 8/18/2022 in a new tab.</a><br>
-	    </p>
-			<p><a href="https://pspwa.box.com/s/fixteo94kpihc84q103vi9z7rrpy6upq" target="new">PEAR Strategic Plan</a></p>
-			<p class="last-update">Last updated: 01/28/25</p>
+		</p>
+			<p class="last-update">Last updated: 02/09/26</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		
