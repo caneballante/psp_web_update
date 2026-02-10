@@ -57,9 +57,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>HUMAN WELLBEING</h1>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --></div>
+			<h1>HUMAN WELLBEING			</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -75,8 +74,8 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Of the Partnership&rsquo;s six recovery goals specified in Washington State statute (RCW 90.71.300), two address human wellbeing:</p>
-			<ul>
+			<p>Of our six recovery goals specified in Washington State statute (RCW 90.71.300), two address human wellbeing:</p>
+			<ul class="bullet-size-fix">
 				<li>A healthy human population that is supported by a healthy Puget Sound and is not threatened by changes in the ecosystem</li>
 				<li>A quality of human life that is sustained by a functioning Puget Sound ecosystem</li>
 			</ul>
