@@ -86,7 +86,7 @@
         <p><strong>Note</strong>: As the Community Advocacy Council is  piloting this effort, they have focused on adding resources related to water  quality. The council hopes to add resources related to other environmental  justice topics in the future.<br>
         </p>
         <h2>WATER QUALITY</h2>
-            <h3>Groups focusing on climate justice for youth related to water quality and  beyond:            </h3>
+            <h3>Groups focusing on climate justice for youth related to water quality and  beyond            </h3>
             <h4>YMCA Earth Service Corps</h4>
         <ul class="bullet-size-fix">
               <li><strong>Website</strong><em>:</em> <a href="https://www.seattleymca.org/programs/youthprograms/earthservicecorps/about-us">About  Us | YMCA of Greater Seattle</a></li>
@@ -162,7 +162,7 @@
               <li><strong>Website</strong>: <a href="https://www.pugetsoundinfo.wa.gov/OngoingProgram/Programs">Ongoing  Programs Portal program list</a></li>
               <li><strong>Description</strong>: Use  the search bar to look up keywords, such as &ldquo;salmon&rdquo;, to find programs and work  that we are connected to and that are related to topics you are interested in.            </li>
             </ul>
-            <h2>Resources for home owners, small businesses, residents, etc.:</h2>
+            <h2>Resources for home owners, small businesses, residents, and more</h2>
             <h3>SEATTLE</h3>
         <h4>RainCity Partnerships</h4>
             <ul class="bullet-size-fix">
