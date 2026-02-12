@@ -114,7 +114,7 @@
             </table>
 			
 			<h2>Staff Presentation Video - 8/18/2022</h2>
-			<p><img src="images/PEAR.jpg" width="299" height="171" alt=""/><br>
+			<p><img src="images/PEAR.jpg" width="299" height="171" alt="A screenshot of the Microsoft Teams presentation showing images of the attendees and speakers."/><br>
             </p>
 			<p> <a href="https://pspwa.box.com/s/hxfglg57ny33e9qfvc8u5malexh1vr9d" target="new">Open the video recording of our staff presentation from 8/18/2022 in a new tab.</a><br>
 		</p>

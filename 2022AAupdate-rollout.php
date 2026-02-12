@@ -107,7 +107,7 @@ navSelected = 1;
           Includes the progress measures framework (Vital Signs and intermediate and  activity progress measures), strategies from the mobilizing funding  project,&nbsp;alterative future scenarios information, climate adaptation and  resilience strategies, and strategic communications.&nbsp;</li>
 		</ol>
 
-		<img class="img-responsive" src="https://pspwa.box.com/shared/static/uoeewhy6v4831exjd3uufd86pv21dszy.png" width="1491" height="421" alt=""/>
+		<img class="img-responsive" src="https://pspwa.box.com/shared/static/uoeewhy6v4831exjd3uufd86pv21dszy.png" width="1491" height="421" alt="A timeline of the Action Agenda rollout which is also reflected in the table below"/>
 <table class="table" width="774" border="1">
         <caption>
         Phases of work for the 2022-2026 Action Agenda development

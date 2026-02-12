@@ -90,7 +90,7 @@ navSelected = 4;
 		  <p>Development of the 2026-2030 Action Agenda is now under way. To learn more, please visit the <a href="/2026AAupdate.php" target="new">2026-2030 Action Agenda Update page.</a></p>
 			</div>
 		<h2 class="margin-0-top">What is the Action Agenda? </h2>
-			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt=""/>
+			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt="A screenshot of the Action Agenda front cover. A mountain and trees is surrounded by water and framed by a blue and orange box."/>
 		<p>The 2022-2026 Action Agenda charts the course for Puget Sound recovery as our community's shared plan for advancing protection and restoration efforts across the region.</p>
 		
 			<p>Learn about the Action Agenda:</p>
@@ -123,7 +123,7 @@ navSelected = 4;
 					<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion tool to the Action Agenda. The Explorer allows for dynamic searchability of content relating to each one of the 31 strategies in the Action Agenda. Content will be updated regularly through 2026.</p>
 				</div>	
 				<div class="col-sm-6">
-					<img class="img-responsive floatright" src="images/AA-explorer-with-photo.jpg" alt=""/>	
+					<img class="img-responsive floatright" src="images/AA-explorer-with-photo.jpg" alt="A screenshot of the Action Agenda Explorer page showing the Strategies for Puget Sound"/>	
 				</div>
 			</div>
 		</div>

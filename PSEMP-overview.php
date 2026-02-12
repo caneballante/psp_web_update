@@ -78,7 +78,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<div class="highlightbox margin-0-top margin-20-bottom"><p><a href="https://public.govdelivery.com/accounts/WAPSP/subscriber/new?topic_id=WAPSP_113" target="_blank">Sign up to receive the PSEMP newsletter</a></p></div>
 		
-			<div class="pull-right"><img src="images/PSEMP/PSEMP_logo.jpg" width="277" height="303" alt=""/></div>
+			<div class="pull-right"><img src="images/PSEMP/PSEMP_logo.jpg" width="277" height="303" alt="The Puget Sound Ecosystem Monitoring Program logo. It's a circle with the letters P S E M P in the center framed by a blue background. The top half is green with a diagram of a mountain."/></div>
 			<p>The Puget Sound Ecosystem Monitoring Program (PSEMP) is a collaborative network of subject matter experts from many monitoring organizations and different parts of the region.  Together, they generate, organize, synthesize, and communicate scientific information, across political and organizational boundaries, to track ecosystem conditions that directly address management and science questions critical to Puget Sound recovery.  </p>
 <p>To achieve this mission, PSEMP has  the following <strong>objectives</strong>:</p>
 			<ol class="bullet-size-fix">
@@ -96,7 +96,7 @@
 					</tr>
 					<tr><td colspan="4" class="no-icon"><a href="https://psemp-wa-psp.hub.arcgis.com/" target="new">ALL PSEMP Work Groups</a></td></tr>
 					<tr>
-						<td colspan="1" rowspan="10"><img src="images/PSEMP/network.jpg" width="260" height="247" alt=""/></td>
+						<td colspan="1" rowspan="10">&nbsp;</td>
 						<td colspan="4" class="no-icon"><h3 class="PSEMP-blue">COORDINATING BODIES</h3></td>
 						
 					</tr>
@@ -138,7 +138,7 @@
 			
 			<hr/>
 			
-			<div class="floatright"><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-3.jpg" width="352" height="363" alt=""/><p class="align-center"><a href="images/PSEMP/2018-psemp-figures-3.jpg" target="_blank">view full size image</a></p></div>
+			<div class="floatright"><img class="img-responsive" src="images/PSEMP/2018-psemp-figures-3.jpg" width="352" height="363" alt="A list showing the PSEMP community and their relationships, including Puget Sound Partnership, Partnership Boards System, PSEMP, Strategic initative leads, science partners and advisors, and recovery partners."/><p class="align-center"><a href="images/PSEMP/2018-psemp-figures-3.jpg" target="_blank">view full size image</a></p></div>
 			
 			<h4>Collaboration</h4>
 			<p>PSEMP is a coordinated network of the Puget Sound monitoring community, working together to accelerate Puget Sound recovery.  PSEMP members track ecosystem and human wellbeing conditions and, in topical work groups, determine trends, monitoring priorities and effectiveness of recovery actions – all intended to inform recovery actions throughout Puget Sound.  The network is supported by Puget Sound Partnership and fueled by significant in-kind contributions of participating organizations, especially those who serve in leadership roles. </p>
