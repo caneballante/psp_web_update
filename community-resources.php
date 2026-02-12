@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Community Engagement</title>
+<title>Community Resources</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -222,10 +222,9 @@
         <ul class="bullet-size-fix">
               <li><strong>Website</strong>: <a href="https://piercecd.org/246/Depave-Puget-Sound">Depave Puget Sound | Pierce  Conservation District, WA</a></li>
               <li><strong>Description</strong>: Project to remove pavement in  Pierce County. It aims to reduce water pollution and urban heat island effect  by creating more green spaces. More info <a href="https://piercecd.org/246/Depave-Puget-Sound">here</a>. </li>
-              <li><strong>Contact</strong>: Melissa  Buckingham; (253) 845-9770, <a href="mailto:melissab@piercecd.org">melissab@piercecd.org</a></li>
-            </ul>
-            <p>&nbsp;</p>
-            <h4>City of Tacoma Low Impact Development surface water rate reduction</h4>
+              <li><strong>Contact</strong>: Melissa  Buckingham; (253) 845-9770, <a href="mailto:melissab@piercecd.org">melissab@piercecd.org</a>            </li>
+        </ul>
+        <h4>City of Tacoma Low Impact Development surface water rate reduction</h4>
         <ul class="bullet-size-fix">
               <li><strong>Website</strong>: <a href="https://www.tacomapermits.org/tip-sheet-index/low-impact-development">Low  Impact Development Surface Water Rate Reduction — Tacoma Permits</a></li>
               <li><strong>Description</strong>: &quot;Property owners may qualify  for a surface water rate reduction if they choose to utilize permanent Low  Impact Development (LID) Best Management Practices (BMPs) beyond what is  required per the Stormwater Management Manual (SWMM) for development or  redevelopment or as a retrofit for stormwater management.&quot; Tip sheet for  the program is <a href="https://www.12000raingardens.org/wp-content/uploads/2013/01/S-401-Low-Impact-Development-Surface-Water-Rate-Reduction.pdf">here</a>.</li>
@@ -283,8 +282,8 @@
               <li><strong>Website</strong>:<a href="https://ecology.wa.gov/water-shorelines/water-quality/water-quality-grants-and-loans#combined">Water  quality grants and loans - Washington State Department of Ecology</a></li>
               <li>This page outlines grants and loans related to  water quality. Farmers can apply for <a href="https://ecology.wa.gov/about-us/payments-contracts-grants/grants-loans/find-a-grant-or-loan/water-quality-combined">the  water quality combined funding program</a>. Interpretation service is available <a href="https://ecology.wa.gov/about-us/accessibility-equity/language-services/servicios-de-idiomas">here</a>.            </li>
         </ul>
-        <h3>Resources for emergencies</h3>
-            <h4>WA Department of Health            </h4>
+        <h2>Resources for emergencies</h2>
+            <h3>WA Department of Health            </h3>
             <h4>CDC safety in flood water resource website</h4>
         <ul class="bullet-size-fix">
               <li><strong>Website</strong>: <a href="https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html">Safety  Guidelines: Floodwater | Floods | CDC</a></li>
@@ -294,8 +293,7 @@
             <h4>FEMA drinking tap water FAQ site</h4>
         <ul class="bullet-size-fix">
             <li><strong>Website</strong>: <a href="https://www.fema.gov/node/tap-water-safe-drink-after-disaster">FAQ: Is  tap water safe to drink after a disaster? | FEMA.gov</a></li>
-              <li>Description: Quick explanation about not  drinking tap water if contaminated in a flood event with links to further  resources.
-              </li>
+              <li><strong>Description</strong>: Quick explanation about not  drinking tap water if contaminated in a flood event with links to further  resources. </li>
         </ul>
         <p><br>
             </p>
