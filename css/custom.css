@@ -141,7 +141,7 @@ a[href^="http"] {
 
 /*add this style to links that are on the dark blue background*/
 .light-blue-links a {
-	color: #A7C9F7;
+	color: #;
 	font-weight: 500;
 	
 }
@@ -878,7 +878,7 @@ display: block
 .search-custom {
 	color: #000;
 	text-align: left;
-	width: 50%;
+	width: 30%;
 	margin: auto;
 }
 
