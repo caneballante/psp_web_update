@@ -49,7 +49,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image120">
 
-<div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
+<div class="overview-quote pull-right"></div>
 
  </header>
 <!-- InstanceEndEditable -->  
@@ -87,7 +87,7 @@
 
 			<p>Need some guidance with travel arrangements? Don't miss this chance to make your voice heard and connect with other leaders in the Puget Sound community. Click here to make travel arrangements and secure your spot at Puget Sound Day on the Hill!</p><br>
 
-			<p><a href="https://pspwa.box.com/shared/static/r6ptvhhm1zg0db97ijzej9bj7lw8c023.pdf" target="new" class="btn btn-default btn-lg" role="button">Click to download the latest date travel information</a></p>
+			<p><a href="https://pspwa.box.com/shared/static/r6ptvhhm1zg0db97ijzej9bj7lw8c023.pdf" target="new" class="btn btn-default btn-lg" role="button">Download the latest date travel information</a></p>
 			<p class="last-update">Last updated: 3/17/23</p>
 			
 		<!-- InstanceEndEditable --> </div>
@@ -130,7 +130,7 @@
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
 <!-- Google Tracking  -->
-<!-- InstanceBeginEditable name="EditRegion12" -->EditRegion12<!-- InstanceEndEditable --> 
+<!-- InstanceBeginEditable name="" --><!-- InstanceEndEditable --> 
 
 </body>
 <!-- InstanceEnd --></html>

@@ -106,7 +106,7 @@
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
 <!-- Google Tracking  -->
-<!-- InstanceBeginEditable name="EditRegion12" --><script src="js/news.js"></script> <!-- InstanceEndEditable --> 
+<!-- InstanceBeginEditable name="" --><script src="js/news.js"></script> <!-- InstanceEndEditable --> 
 
 </body>
 <!-- InstanceEnd --></html>

@@ -53,7 +53,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image14">
 	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
+		
 	</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
@@ -114,7 +114,7 @@ Open the Bill Tracker in a new tab.
 					Legislative Policy Director <br>
 					<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a><br>
 					360.688.3253<br><br>
-				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Click here</a> to provide feedback on the content and functionality of this page.</p>
+				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Provide feedback on the content and functionality of this page.</a></p>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
@@ -133,7 +133,7 @@ Open the Bill Tracker in a new tab.
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
 <!-- Google Tracking  -->
-<!-- InstanceBeginEditable name="EditRegion12" -->EditRegion12<!-- InstanceEndEditable --> 
+<!-- InstanceBeginEditable name="" --><!-- InstanceEndEditable --> 
 
 </body>
 <!-- InstanceEnd --></html>

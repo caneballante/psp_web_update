@@ -57,7 +57,7 @@
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>SCIENCE BASIS FOR RECOVERY</h1>
 			<!-- InstanceEndEditable --></div>
-		<div class="col-sm-2 padding-20-top"><!-- InstanceBeginEditable name="EditRegion12" --><img src="images/PSAR/PSAR-logo.jpg" width="233" height="119" alt=""/><!-- InstanceEndEditable --></div>
+		<div class="col-sm-2 padding-20-top"><!-- InstanceBeginEditable name="" --><img src="images/PSAR/PSAR-logo.jpg" width="233" height="119" alt=""/><!-- InstanceEndEditable --></div>
 	</div>
 	
 	<div class="row"> 
