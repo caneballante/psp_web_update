@@ -51,11 +51,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image16">
-
-<div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
-
- </header>
+<header class="overview-page-image-style overview-page-image16"></header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -84,8 +80,12 @@
 			
 
 
-<p>The Partnership works collaboratively with all levels of government, tribes, businesses and citizen groups in its charge to lead and coordinate efforts to protect and restore Puget Sound. Our goal is to make Puget Sound healthy again, and create a roadmap for how to get it done. In order to help achieve this goal, we fund partner organizations through contracts and grants. <a href="https://omwbe.wa.gov/" target="_blank">The Washington State Office of Minority and Women's Business Enterprises (OMWBE)</a> is charged with certifying small, minority and women-owned businesses to facilitate their participation in public contracting and procurement. If you have a small, minority or women-owned business and would like to apply for state or federal certification, <a href="https://omwbe.wa.gov/" target="_blank">please see OMWBE's site.</a><br /></p>
-            
+<p>The Partnership works collaboratively with all levels of government, tribes, businesses and citizen groups in its charge to lead and coordinate efforts to protect and restore Puget Sound. Our goal is to make Puget Sound healthy again, and create a roadmap for how to get it done. In order to help achieve this goal, we fund partner organizations through contracts and grants. <a href="https://omwbe.wa.gov/" target="_blank">The Washington State Office of Minority and Women's Business Enterprises (OMWBE)</a> is charged with certifying small, minority and women-owned businesses to facilitate their participation in public contracting and procurement. If you have a small, minority or women-owned business and would like to apply for state or federal certification, please see OMWBE's site.</p>
+<br>
+<br>
+
+			
+				<p class="last-update">Last updated: 02/17/26</p>
 
 			
  
