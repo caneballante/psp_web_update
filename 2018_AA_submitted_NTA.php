@@ -95,7 +95,7 @@
 			<p><a href="#what">What is a Near Term Action? </a>|<a href="#how"> How were NTAs solicited?</a></p>
 			
 					<div class="  floatcenter padding-10-all">
-		 <p>Please visit the Action Agenda Tracker for a complete list of Near Term Actions, as well as a map that shows the locations of all Near Term Actions in the 2018-2022 Action Agenda.</p> <a href="https://actionagenda.pugetsoundinfo.wa.gov/"><img src="images/news-images/AA-tracker.jpg" width="500" height="425" alt=""/></a> 
+		 <p>Please visit the Action Agenda Tracker for a complete list of Near Term Actions, as well as a map that shows the locations of all Near Term Actions in the 2018-2022 Action Agenda.</p> <a href="https://actionagenda.pugetsoundinfo.wa.gov/"><img src="images/news-images/AA-tracker.jpg" width="500" height="425" alt="A screenshot of the Action Agenda tracker"/></a> 
 			</div>
 
 			<span id="what"></span>

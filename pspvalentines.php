@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Pro-Equity Anti-Racism (PEAR)</title>
+<title>PSP Valentines Cards</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 1;
+  	navSelected = 2;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -51,14 +51,18 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image120"> </header>
+<header class="overview-page-image-style overview-page-image120">
+	<div class="overview-quote pull-right">
+		<h3>&nbsp;</h3>
+	</div>
+</header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Pro-Equity Anti-Racism</h1> 
-			<!-- InstanceEndEditable --></div>
+			<h1>PSP Valentine's cards</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -67,62 +71,59 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<!--<?php include 'includes/ln-boards.html';?>-->	
-	
-			<!-- InstanceEndEditable -->
+					
+				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-
-       
-        <h2 class="margin-0-top"><strong>Our Pro-Equity Anti-Racism Statement</strong></h2>
-        <p>On March 21, 2022, Governor Inslee signed Executive Order 22-04, Implementing the Washington State Pro-Equity Anti-Racism (PEAR) Plan  &amp; Playbook. The Executive Order  directs all Cabinet agencies to partner with the Office of Equity in a  commitment to being an anti-racist government system.</p>
-        <p>The Puget Sound Partnership is dedicated to  upholding this executive order in our application of environmental justice  principles in Puget Sound ecosystem recovery goals. We stand in unity for the  just treatment and meaningful involvement of all people in government  decision-making, especially   decisions that affect human health and the environment.</p>
-        <p>The Leadership Team is  committed to the development of its Five-Year Well-being, Equity, and Belonging Action Plan  for embedding equity and environmental justice into its operations,  policymaking, and funding decisions.</p>
-        <p>We look forward to  continuing this journey with each of you, our partners, and the Office of  Equity. Please don&rsquo;t hesitate to  reach out to our Pro-Equity Anti-Racism  Team.<br>
-        </p>
-            
-        <h2>Our <strong>Pro-Equity Anti-Racism </strong> team</h2>
-            <table class="table-striped">
-                
-                <tr>
-                    <td width="164"><p>Lea Anne Burke</p></td>
-                    <td width="499"><p>Director of Tribal Relations</p></td>
-                </tr>
-                <tr>
-                    <td><p>Denise Ross</p></td>
-                    <td><p>Workplace Culture and Development Manager</p></td>
-                </tr>
-				<tr>
-                    <td><p>Bryan Gordon</p></td>
-                    <td><p>Workplace Culture Specialist</p></td>
-                </tr>
-				<tr>
-                    <td><p>Signe Lindquist</p></td>
-                    <td><p>Community Engagement Coordinator</p></td>
-                </tr>
-                <tr>
-                    <td><p>Dave Herrera</p></td>
-                    <td><p>Community Member</p></td>
-                </tr>
-				 <tr>
-                    <td><p>Larry Epstein</p></td>
-                    <td><p>Deputy Director</p></td>
-                </tr>
-            </table>
+		
 			
-			<h2>Staff Presentation Video - 8/18/2022</h2>
-			<p><img src="images/PEAR.jpg" width="299" height="171" alt="A screenshot of the Microsoft Teams presentation showing images of the attendees and speakers."/><br>
-            </p>
-			<p> <a href="https://pspwa.box.com/s/hxfglg57ny33e9qfvc8u5malexh1vr9d" target="new">Open the video recording of our staff presentation from 8/18/2022 in a new tab.</a><br>
-		</p>
-			<p class="last-update">Last updated: 02/09/26</p>
+			
+			<p class="padding-10-top">Show your loved one how much they mean to you with some Puget Sound Partnership themed Valentine wishes. <br>
+			  <br>
+	    <img src="images/cardsalmon2.png" width="620" height="512" alt=""/></p>
+		<p class="padding-10-top"><a href="http://psp.wa.gov/images/cardsalmon2.png">Open full size version.</a><br>
+	    </p>
+			<p class="last-update"><img src="images/cardsalmon3.png" width="639" height="505" alt=""/></p>
+			<p class="last-update">&nbsp;</p>
+			<p class="padding-10-top"><a href="http://psp.wa.gov/images/cardsalmon3.png">Open full size version.</a><br>
+	    </p
+			<p class="last-update"><img src="images/cardestuary2.png" width="624" height="519" alt=""/></p>
+			<p class="last-update">&nbsp;</p>
+			<p class="padding-10-top"><a href="http://psp.wa.gov/images/cardestuary2.png">Open full size version.</a><br>
+	    </p
+			<p class="last-update"><img src="images/cardsalmon1.png" width="631" height="1019" alt=""/></p>
+			<p class="last-update">&nbsp;</p>
+			<p class="padding-10-top"><a href="http://psp.wa.gov/images/cardsalmon1.png">Open full size version.</a><br>
+	    </p
+			<p class="last-update"><img src="images/cardwatershed.png" width="638" height="889" alt=""/></p>
+			<p class="padding-10-top"><a href="http://psp.wa.gov/images/cardwatershed.png">Open full size version.</a><br>
+	    </p
+			<p class="last-update">&nbsp;</p>
+		<!-- InstanceEndEditable --> </div>
 		
-			<!-- InstanceEndEditable --> </div>
-		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top nonresponsive-object-hide-rightnav">CONTACT</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<div class="nonresponsive-object-hide-rightnav-li">
+				<li class="active" role="presentation"> <?php include 'includes/ln-community-engagement.html';?></li>
+				</div>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top "></div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> </li>
+				<li class="active"></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

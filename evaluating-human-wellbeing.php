@@ -57,9 +57,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>HUMAN WELLBEING</h1>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --></div>
+			<h1>HUMAN WELLBEING			</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -75,8 +74,8 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>Of the Partnership&rsquo;s six recovery goals specified in Washington State statute (RCW 90.71.300), two address human wellbeing:</p>
-			<ul>
+			<p>Of our six recovery goals specified in Washington State statute (RCW 90.71.300), two address human wellbeing:</p>
+			<ul class="bullet-size-fix">
 				<li>A healthy human population that is supported by a healthy Puget Sound and is not threatened by changes in the ecosystem</li>
 				<li>A quality of human life that is sustained by a functioning Puget Sound ecosystem</li>
 			</ul>
@@ -84,7 +83,7 @@
 			<p>The effort to address human wellbeing within the context of our Puget Sound recovery goals falls within a broader attempt to better understand the full spectrum of roles that people play in ecosystem recovery. Understanding the human dimensions of Puget Sound recovery helps to ensure a more complete, holistic, and ultimately more successful approach to achieving ecosystem goals.</p>
 			<p>An  Integrated Conceptual Model for Ecosystem Recovery  provides a framework for understanding the diverse roles that people play in Puget Sound health. The balanced design of the model gives equal importance to the conditions of human wellbeing and ecosystems, showing that we can&rsquo;t have one without the other. <a href="https://www.eopugetsound.org/research/ecosystem-based-management-social-science/integrated-conceptual-model-ecosystem-recovery-0" target="new">You can learn more about the Integrated Conceptual Model for Ecosystem Recovery at the Encylopedia of Puget Sound. </a></p>
 			
-			<img class="img-responsive" src="images/science-figures/integrated-ecosystem-recovery-conceptual-model.jpg" width="788" height="546" alt=""/>
+			<img class="img-responsive" src="images/science-figures/integrated-ecosystem-recovery-conceptual-model.jpg" width="788" height="546" alt="Conceptual model showing how human behavior, ecosystem services, human wellbeing, biophysical condition, and ecosystem recovery actions interact in Puget Sound recovery. Human behavior is central: it both drives effects on biophysical condition and engages with ecosystem services. Ecosystem services support the biophysical condition and deliver benefits to human wellbeing. Human wellbeing benefits from and influences human behavior, and informs recovery actions. Ecosystem recovery actions help restore biophysical condition. External drivers influence both human wellbeing and biophysical condition. The model emphasizes feedback loops between social and ecological systems."/>
 
 			<p><a href="http://www.ourhoodcanal.org/" target="new">To learn how local partners are addressing human wellbeing, see the Hood Canal Coordinating Council&rsquo;s Our Hood Canal report.</a></p>
 			<p><a href="https://www.eopugetsound.org/terms/16" target="new">To learn more about human wellbeing studies and research in Puget Sound, see the Encyclopedia of Puget Sound.</a></p>

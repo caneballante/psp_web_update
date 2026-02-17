@@ -88,7 +88,7 @@ navSelected = 1;
 			<table border="0">
 				<tbody>
 					<tr>
-						<td><img class="img-responsive" src="images/2019-2022-actionagenda-cover.jpg" width="550" height="430" alt=""/></td>
+						<td><img class="img-responsive" src="images/2019-2022-actionagenda-cover.jpg" width="550" height="430" alt="An image of the front cover of the Action Agenda showing mountains and water"/></td>
 						<td>
 							<p><a href="https://pspwa.box.com/s/osxaeqg19fevxu5n3k8xnjytzkwol512">Download the full 2018 – 2022 Action Agenda</a> <br>
 							<a href="https://pspwa.box.com/s/vr7o6f9x72j214ikeekkg946cdibufct">Download only the 2018 – 2022 Action Agenda Comprehensive Plan</a> <br>

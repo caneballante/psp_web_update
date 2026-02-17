@@ -89,9 +89,9 @@
 <table width="200" border="1">
   <tbody>
     <tr>
-      <th scope="col"><img src="images/cee-web.jpg" width="250" height="250" alt=""/><br></th>
-      <th scope="col"><img src="https://pspwa.box.com/shared/static/oozt7kzi0jf4r16kqqb4g8kcbr16hydk.jpg" width="250" height="250" alt=""/></th>
-		<th scope="col"><img src="images/CEEwhidbeybasinreview.png" width="250" height="250" alt=""/></th>
+      <th scope="col"><img src="images/cee-web.jpg" width="250" height="250" alt="The cover of the Cumulative Effects Evaluation of Whidbey Basin showing the sun setting over water and trees as birds fly over."/><br></th>
+      <th scope="col"><img src="https://pspwa.box.com/shared/static/oozt7kzi0jf4r16kqqb4g8kcbr16hydk.jpg" width="250" height="250" alt="The cover of the Cumulative Effects Evaluation: Evaluation Framework for Puget Sound, showing salmon swimming together."/></th>
+		<th scope="col"><img src="images/CEEwhidbeybasinreview.png" width="250" height="250" alt="The cover of the Evidence Based Review of Estuary and Nearshore Habitat Restoration in Whidbey Basin, showing the sun setting over water and trees as birds fly over."/></th>
     </tr>
     <tr>
       <td><a href="https://pspwa.box.com/s/8qxouataobuz63fzp0sowx0wm18dzs5i" target="new">- Fact sheet - Cumulative Effects Evaluation - Whidbey Basin<br>

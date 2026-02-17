@@ -61,7 +61,7 @@
 					<p><a href="https://pspwa.box.com/s/zropxfbjldozeloagyd14s2nlmx3ceg4" target="_blank">Be Whale Wise boating guidelines</a></p>
 					<hr>
 					<p><a href="https://pspwa.box.com/v/orca-task-force-boating-guide">Orca Task Force boating guidelines</a> (released 8.17.18)</p>
-					<p><a href="https://pspwa.box.com/v/orca-task-force-boating-guide"><img src="images/orca-task-force-boating-guidelines.jpg" width="230" height="290" alt=""/></a></p>
+					<p>&nbsp;</p>
 				</div>
 				<h2 class="margin-0-top">A species in crisis</h2>
 					<p>Puget Sound&rsquo;s Southern Resident orcas became the focus of international attention in 2018, when their plummeting numbers and critical situation culminated in the death of a newborn calf whose mother grieved over the body for an unprecedented 17 days and 1000 miles. <br>

@@ -78,8 +78,13 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 						
 			<p>Puget Sound recovery is a not only a regional priority; it is critical to the environmental and economic well-being of the entire nation. As such, the Environmental Protection Agency designated Puget Sound as an “Estuary of National Significance” under the <a href="https://www.epa.gov/nep/overview-national-estuary-program" target="new">National Estuary Program</a> in 1988. From appropriator to regulator to trustee for Tribes, numerous Federal government entities play multiple critical roles to help advance Puget Sound recovery efforts.</p>
-			<p>&nbsp;</p>
-			<p><span class="last-update">Last updated: 01/23/26</span></p>
+			<h2>2026 Puget Sound Budget Tracker - Federal</h2>
+			<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiYjExNmFkNzQtMzcxOC00NWZlLThhZTktYzE4NjhjNjVhOWZkIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9&pageName=876bdc458fcfe42b8d97">Open the Budget Tracker in a new tab</a></p>
+			<iframe title="PartnershipFederalBudget2026" width="100%" height="700" src=https://app.powerbigov.us/view?r=eyJrIjoiYjExNmFkNzQtMzcxOC00NWZlLThhZTktYzE4NjhjNjVhOWZkIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9&pageName=876bdc458fcfe42b8d97 frameborder="0" allowFullScreen="true"></iframe>
+		<p><a href="https://app.powerbigov.us/view?r=eyJrIjoiYjExNmFkNzQtMzcxOC00NWZlLThhZTktYzE4NjhjNjVhOWZkIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9&pageName=876bdc458fcfe42b8d97" title="Puget Sound Budget Tracker" target="new"><br>
+		</a>			</p>
+		<p>&nbsp;</p>
+			<p><span class="last-update">Last updated: 02/05/26</span></p>
 			<br>
 			
 			

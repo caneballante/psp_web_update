@@ -97,7 +97,7 @@
 							360.280.1588 | <a href="mailto:todd.hass@psp.wa.gov">todd.hass@psp.wa.gov</a><br /></p>
 			
 						<h4>Lea Anne Burke</h4>
-						<p>Director of Tribal Affairs <br>
+						<p>Director of Tribal Relations <br>
 						360.628.7532 | <a href="mailto:lea-anne.burke@psp.wa.gov">lea-anne.burke@psp.wa.gov</a></p>
 			
 						<h4>Ahren Stroming</h4>
@@ -210,17 +210,17 @@
 						<!--LIO PROGRAM TEAM-->
 						<h3 class="padding-10-top">local integrating organization (LIO) PROGRAM TEAM</h3>
 			
-						<h4>VACANT</h4>
+						<h4>Monea Kerr</h4>
 		<p> Local Integrating Organization Program Coordinator<br>
-						</p>
+						360.742.7147 | <a href="mailto:monea.kerr@psp.wa.gov">monea.kerr@psp.wa.gov</a></p>
 			
 						<h4>Jason Lim</h4>
 						<p>Ecosystem Recovery Coordinator<br>
 							360.742.7434 | <a href="mailto:jason.lim@psp.wa.gov">jason.lim@psp.wa.gov</a></p>        
 
-						<h4>Monea Kerr</h4>
+						<h4>VACANT</h4>
 						<p>Ecosystem Recovery Coordinator<br>
-							360.742.7147 | <a href="mailto:monea.kerr@psp.wa.gov">monea.kerr@psp.wa.gov</a></p>
+						</p>
 			
 						<!--ADAPTIVE SYSTEMS-->
 						<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
@@ -362,7 +362,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 01/29/26</p>
+	<p class="last-update">Last updated: 02/05/26</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
