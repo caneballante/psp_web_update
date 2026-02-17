@@ -63,6 +63,7 @@ h3 {
 	font-size: 15px;
 	font-weight: 800;
 	line-height: 1.5em;
+	text-transform: capitalize;
 }
 p {
 	font-size: 1.3em;
