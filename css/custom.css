@@ -59,6 +59,9 @@ h2 {
 	margin-bottom: 0px;
 	color: #0a3b5c;
 }
+.sitemap h2 {
+/*	text-decoration: underline; */
+}
 h3 {
 	font-size: 15px;
 	font-weight: 800;
@@ -138,7 +141,9 @@ a[href^="http"] {
 
 /*add this style to links that are on the dark blue background*/
 .light-blue-links a {
-	color: #1ab3ff;
+	color: #A7C9F7;
+	font-weight: 500;
+	
 }
 .white-links a {
 	color: #fff;
@@ -708,7 +713,7 @@ display: block
 /* Added to the main nav when it scrolls 9-28-15*/
 .navbar-default {
 	padding: 0;
-	background: rgba(9,57,93,1);
+	background: #09395d;
 	border: none;
 }
 /*using this instead of the jumbotron - pulled CSS from the gray theme 9-28-15*/
@@ -1321,10 +1326,11 @@ display: block
 	padding-bottom: 3px;
 }
 .sitemap ul li a {
-	font-size: 10px;
+	font-size: 12px;
 }
+
 .sitemap-subheads {
-	font-size: 10px;
+	font-size: 11px;
 	padding-top: 10px;
 }
 .iframe-actionagenda{
@@ -1358,7 +1364,7 @@ display: block
 }
 .last-update {
 	font-size: 12px;
-	color: #D3D3D3;
+	color: #3F3F3F;
 }
 .psemp-products {
 	font-size: 14px;
