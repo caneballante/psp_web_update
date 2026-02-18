@@ -92,9 +92,8 @@ navSelected = 1;
               </ul>
 		</div>
 			<div class="highlightbox margin-0-top margin-20-bottom">
-				 <p>During the draft 2026-2030 Action Agenda public  comment period, the Habitat Strategic Initiative Lead is also developing a  Marine Vegetation Implementation Strategy, a plan to accelerate progress  towards improving health of Puget Sound kelp and seagrasses. The Marine  Vegetation Implementation Strategy implements the Strategies and Actions in the  Action Agenda&rsquo;s Marine Vegetation Topic, but the Implementation Strategy  contains more information to guide on-the-ground implementation. The public  comment period for both plans closes on February 3, 2026. <a href="https://pugetsoundestuary.wa.gov/2026/01/05/open-for-comment-marine-vegetation-implementation-strategy/" target="new">Click  here</a> for more information on how to provide comment on the Implementation  Strategy.</p>
+				 <p>During the draft 2026-2030 Action Agenda public  comment period, the Habitat Strategic Initiative Lead is also developing a  Marine Vegetation Implementation Strategy, a plan to accelerate progress  towards improving health of Puget Sound kelp and seagrasses. The Marine  Vegetation Implementation Strategy implements the Strategies and Actions in the  Action Agenda&rsquo;s Marine Vegetation Topic, but the Implementation Strategy  contains more information to guide on-the-ground implementation. The public  comment period for both plans closes on February 3, 2026. <a href="https://pugetsoundestuary.wa.gov/2026/01/05/open-for-comment-marine-vegetation-implementation-strategy/" target="new">information on how to provide comment on the Implementation  Strategy.</a></p>
 			</div>
-		<h2 class="margin-0-top">&nbsp;</h2>
 		<h2 class="margin-0-top">We are updating the Puget Sound Action Agenda </h2>
 		<p>The Action Agenda is our community&rsquo;s  shared plan for advancing Puget Sound recovery. The 2026-30 Action Agenda  update will advance progress towards recovery of the Puget Sound&rsquo;s ecosystem and human wellbeing <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="new">Vital Signs</a> by building on  the foundation of the<a href="https://www.psp.wa.gov/2022AAupdate.php" target="new">2022-26  Action Agenda</a>.</p>
 		<h2>Our Vision for the 2026-30 Action Agenda </h2>	
@@ -125,11 +124,18 @@ navSelected = 1;
 		<p>&nbsp;</p>
         <a href="https://pspwa.box.com/s/vv3uprzyufrxb4jdxhj1tcnd258ovcs3"><img src="images/action-agenda/AA2630timeline.png" alt="An image of 2026-2030 Action Agenda Timeline, depicting the information listed below." width="953" height="200"></a>
 		<table class="table-striped table-responsive">
+			
+		<thead>
+			<tr>
+				<th><h3>Date</h3></th>
+				<th><h3>Milestone</h3></th>
+			</tr>
+			</thead>
 		<tbody>
-		<tr>
-			<td><p><strong>2025</strong></p></td>
-			<td>&nbsp;</td>
-		</tr>
+			<tr>
+				<td><p><strong>2025</strong></p></td>
+				<td>&nbsp;</td>
+			</tr>
 		<tr>
 			<td> <p>January-March 2025:</p></td>
 			<td>
@@ -202,7 +208,7 @@ navSelected = 1;
        
     
         <!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 01/05/26</p>
+		<p class="last-update">Last updated: 02/17/26</p>
 
         <!-- InstanceEndEditable --> </div>
 		
@@ -234,7 +240,7 @@ navSelected = 1;
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
 <!-- Google Tracking  -->
-<!-- InstanceBeginEditable name="" --><!-- InstanceEndEditable --> 
+<!-- InstanceBeginEditable name="EditRegion12" --><!-- InstanceEndEditable --> 
 
 </body>
 <!-- InstanceEnd --></html>
