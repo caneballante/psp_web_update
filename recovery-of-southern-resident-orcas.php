@@ -115,18 +115,7 @@
 			</div>
 
 			
-		<div class="col-sm-2 padding-20-top padding-0-right">
-				<div class="right-nav-title margin-0-top ">CONTACT</div>
-				<ul class="nav-rightside-custom">
-					<li role="presentation"> <p>Ian McCabe,<br>
-					
-						
-						564.669.4628<br>
-						<a href="mailto:ian.mccabe@psp.wa.gov">ian.mccabe@psp.wa.gov</a>			</p>
-					</li>
-				</ul>
-			</div>
-		</div>
+		
 		
 
 	</div>
