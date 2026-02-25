@@ -135,7 +135,7 @@ navSelected = 5;
             <p><strong>Note</strong>: <em>If you have a  project or concept that you have been unable to identify a funding opportunity  that fits, or if you have a project and/or funding need and want support in  identifying possible local partnerships, please contact our </em><em>Strategic Funding Coordinator</em><em> for help. It does not mean you cannot receive  assistance; it just means you are not at the writing stage yet.</em>            </p>
             <h3>Capacity  &amp; Readiness</h3>
             <p>Before beginning the grant application process, assess your  organization&rsquo;s ability complete the project, along with financial management,  compliance, reporting, and that you can manage your relationship with your  grant management officer and/or program officer. <em>Puget Sound Partnership  will not be able to provide any post award support through this team. </em></p>
-        <p>Make sure there are no barriers that would prevent the success of  the project if the funding was awarded. If there is a barrier, please contact  to our <a href="mailto:Reynolds,%20Jessica%20(PSP)%20%3cjessica.reynolds@psp.wa.gov%3e">Funding Barriers Strategist</a> for help before applying for funding. Read  more about funding barriers <a href="https://www.psp.wa.gov/funding-barriers.php">here</a>.</p>
+        <p>Make sure there are no barriers that would prevent the success of  the project if the funding was awarded. If there is a barrier, please contact  to our <a href="mailto:alexandra.carter@psp.wa.gov">Funding Barriers Strategist</a> for help before applying for funding. Read  more about funding barriers <a href="https://www.psp.wa.gov/funding-barriers.php">here</a>.</p>
             <p>You should also make sure that you are ready to receive the  funding. This could include a current SAM account and UEI for federal  opportunities.            </p>
             <h3>Financial  Information</h3>
             <p>Please prepare a draft or a completed budget. We may be able to  give general feedback and advice on formatting, but specific numbers need to  come from the project sponsor. You should also have your organization&rsquo;s  financial documents in order and ready to include in any application. </p>
@@ -161,7 +161,7 @@ navSelected = 5;
 <p>&nbsp;</p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 1/09/25</p>
+		<p class="last-update">Last updated: 02/25/26</p>
 
         <!-- InstanceEndEditable --> </div>
 		
