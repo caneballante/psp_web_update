@@ -88,7 +88,7 @@
 				<li>Special Assistant to the Director</li>
 				<li>Legislative Policy Director</li>
 				<li>Special Assistant for Federal Affairs</li>
-				<li>Tribal Affairs Manager</li>
+				<li>Tribal Relations Manager</li>
 				<li>Chief Operating Officer</li>
 			</ul>
 			<h2>EXTERNAL OPERATIONS</h2>
