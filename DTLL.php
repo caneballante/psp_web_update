@@ -85,10 +85,10 @@
 			<div class="margin-0-top margin-20-bottom">
 			<p>Tribal Nations and communities have been the  stewards of the lands and waters of Washington State since time immemorial. The  Puget Sound Partnership respects their leadership and stewardship, and actively  works to honor their Tribal Sovereignty by engaging in meaningful government to  government work, as defined and guided by <a href="https://apps.leg.wa.gov/rcw/default.aspx?cite=43.376&full=true">RCW  43.376,</a> <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.leg.wa.gov%2FRCW%2Fdefault.aspx%3Fcite%3D70A.02.010&data=05%7C02%7Cian.mccabe%40psp.wa.gov%7C3b2b0ca7ceb544690e5a08dd130f71a2%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638687679254323812%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=cqfpeWGksXcsqHEMiNTRLBfh%2FEO8hCvRzC81Icw7IRU%3D&reserved=0">RCW  70A.02.010 (12)(c)</a>, and the <a href="https://goia.wa.gov/relations/centennial-accord">Washington  State Centennial Accord of 1989</a>.</p>
 			<p><br>
-			  Smartsheet table with more information coming soon.</p>
+			  <a href="https://pspwa.box.com/s/h0vc9kh8ggzwws2434jw3kq1n39bxntw" target="new">View the Active and Archived consultations.</a></p>
             <p>&nbsp;</p>
 			</div>
-			<p class="last-update">Last updated: 12/03/24</p>
+			<p class="last-update">Last updated: 02/25/26</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
