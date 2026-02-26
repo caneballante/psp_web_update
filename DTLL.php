@@ -53,8 +53,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image21">
 	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
+			</div>
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
