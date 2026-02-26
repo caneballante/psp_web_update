@@ -47,11 +47,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image10">
-	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
-</header>
+<header class="overview-page-image-style overview-page-image10"></header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -109,7 +105,7 @@
 			<p> Information from nine recently completed LIO Ecosystem Recovery Plans is also informing Strategy development and updates and will be used for 2018 Acton Agenda priority-setting.</p>
 			<a name="How-do-Implementation-Strategies-differ-from-Strategic-Initiatives"></a>
 			<h3>HOW DO IMPLEMENTATION STRATEGIES DIFFER FROM STRATEGIC INITIATIVES?</h3>
-			<img class="img-responsive" src="images/2015-strategic-icons_final.jpg" width="500" height="210" alt=""/> <br />
+			<br />
 			<p><a href="strategic-initiatives-leads.php">Strategic Initiatives </a>(prevent pollution from urban stormwater, protect and restore habitat, and protect and recover shellfish beds) are regional priorities that have been emphasized in the Action Agenda since 2012. The Strategic Initiatives help direct spending and resources and guide the Partnership’s work with partners to increase funding, seek policy changes, report successes and challenges, and educate and engage people in the recovery effort. By contrast, an Implementation Strategy is a strategic plan designed to help meet a specific 2020 Vital Sign indicator target. Each Strategy is nested within one or more Strategic Initiatives.</p>
 			<a name="How-is-the-order-of-Implementation-Strategies-determined"></a>
 			<h3>HOW IS THE ORDER OF IMPLEMENTATION STRATEGIES DETERMINED?</h3>
@@ -129,8 +125,7 @@
 			<p>Contact: Dan Stonington, planning manager, <a href="daniel.stonington@psp.wa.gov">daniel.stonington@psp.wa.gov</a></p>
 			<a name="How-does-the-Vital-Sign-revision-impact-Implementation-Strategies"></a>
 			<h3>HOW DOES THE VITAL SIGN REVISION IMPACT IMPLEMENTATION STRATEGIES</h3>
-			<p><a href="https://vitalsigns.pugetsoundinfo.wa.gov/About" target="_blank">The Vital Signs site on PS Info</a> has more information about the revisions to the Puget Sound Vital Signs and indicators.</p>
-			<p>&nbsp;</p>
+			<p><a href="https://vitalsigns.pugetsoundinfo.wa.gov/About" target="_blank">The Vital Signs site on PS Info</a> has more information about the revisions to the Puget Sound Vital Signs and indicators.			</p>
 			<hr>
             <p><strong>Implementation Strategies</strong> (Strategies) are plans for accelerating progress toward the 2020 <a href="action_agenda_targets.php">ecosystem recovery targets</a> for the <a href="https://vitalsigns.pugetsoundinfo.wa.gov">Puget Sound Vital Signs</a>. The Strategies are developed collaboratively with technical, professional, and policy experts and with local and regional input. An overview of the Strategies is available at the <a href="https://www.eopugetsound.org/magazine/is/implementation-strategies">Encyclopedia of Puget Sound</a> website.</p>
             <p>Each Strategy accomplishes the following</p>
@@ -162,8 +157,7 @@
 			   <li>Marine water quality</li>
        	</ul>
            
-           <p>Based on the Regional Priorities defined by the Leadership Council for the 2018-2022 Action Agenda, the next Vital Sign to be addressed by an Implementation Strategy is <a href="https://www.psp.wa.gov/vitalsigns/summer_stream_flows.php">Summer Stream Flows</a>. Preparatory work on this Vital Sign has begun, including the compilation of existing Vital Sign-related and other Puget Sound-wide planning and analysis products that will form the technical basis for the IS, will be used as reference throughout IS content development, and will likely serve as references for future updates to the IS.</p>
-           <p><br>
+           <p>Based on the Regional Priorities defined by the Leadership Council for the 2018-2022 Action Agenda, the next Vital Sign to be addressed by an Implementation Strategy is <a href="https://www.psp.wa.gov/vitalsigns/summer_stream_flows.php">Summer Stream Flows</a>. Preparatory work on this Vital Sign has begun, including the compilation of existing Vital Sign-related and other Puget Sound-wide planning and analysis products that will form the technical basis for the IS, will be used as reference throughout IS content development, and will likely serve as references for future updates to the IS.<br>
            Additionally, adaptive management of existing implementation strategies will look include more connections among existing strategies, ongoing Near Term Actions, and ongoing programs that are working to support Puget Sound recovery. </p>
 <h2>WHO DEVELOPS IMPLEMENTATION STRATEGIES?</h2>
             <p>The first five Strategies were developed under the leadership of the Partnership with support from the EPA and the Puget Sound Institute (PSI). Following lessons learned from the first Implementation Strategy pilot project, which addressed the recovery target for the Eelgrass Vital Sign, the Partnership convened interdisciplinary teams (IDTs) of partners from 2015-2016 to develop four more Implementation Strategies addressing recovery targets for estuaries, shellfish beds, floodplains, and land development and cover. This Partnership-led team also produced common guidelines for developing new Strategies. </p>
