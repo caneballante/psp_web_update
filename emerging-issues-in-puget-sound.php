@@ -53,8 +53,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image101">
 	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
+			</div>
 </header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
@@ -89,10 +88,11 @@
  
 <p>Futurewise: Legislature&rsquo;s action on Hirst is inadequate <a href="http://www.futurewise.org/blog/2018/test">http://www.futurewise.org/blog/2018/test</a></p>
 <p>Northwest Treaty Tribes: Treaty Tribes Disappointed with Hirst Legislation <a href="https://nwtreatytribes.org/treaty-tribes-disappointed-hirst-legislation/">https://nwtreatytribes.org/treaty-tribes-disappointed-hirst-legislation/</a></p>
+<p>&nbsp;</p>
  <!--TOPIC ENDS HERE -->
 <!--TOPIC STARTS HERE -->
 
-			<h2>&nbsp;</h2><!-- InstanceEndEditable --> </div>
+			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">CONTACT</div>
