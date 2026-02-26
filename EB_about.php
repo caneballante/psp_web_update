@@ -101,6 +101,8 @@ Open the Ecosystem Coordination Board Web Roster Smartsheet in a new tab.
             360.742.2936 </p>
 			<h2>Board Materials</h2>
 			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a>			</p>
+			<p>&nbsp;</p>
+			<p><span class="last-update">Last updated: 02/25/26</span></p>
 			<!--end include-->	   
 				 
 				
