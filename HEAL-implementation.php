@@ -53,7 +53,7 @@ navSelected = 3;
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image120">
 
-<div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
+
 
  </header>
 <!-- InstanceEndEditable -->  
@@ -87,7 +87,6 @@ navSelected = 3;
 		    plan commits us to centering equity and environmental justice in our work.</p>
 <p>The Partnership published its <a href="https://pspwa.box.com/s/ywh3fvh26piwbajhi2ap8ezus3s43kh8" target="new">Healthy Environment for All (HEAL) Implementation Plan in 2023</a>. In 2024, we updated the graphics and   made small edits to address formatting and spelling errors only. <a href="https://pspwa.box.com/s/ywh3fvh26piwbajhi2ap8ezus3s43kh8">The HEAL Implementation Plan</a> describes how we will evaluate our progress toward this Strategic Plan goal. We look forward to reporting on our progress and publishing an updated plan in 2025.</p>
 <p>See below for reporting details to the Office of  Financial Management, the Governor&rsquo;s Office, and the Environmental Justice  Council:</p>
-<p>.</p>
 <p><a href="https://pspwa.box.com/s/ywh3fvh26piwbajhi2ap8ezus3s43kh8" target="new">Download a copy of the draft Puget Sound Partnership HEAL Implementation Plan</a></p>
 
 
