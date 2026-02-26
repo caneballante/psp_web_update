@@ -51,11 +51,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image14">
-	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
-</header>
+<header class="overview-page-image-style overview-page-image14"></header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -295,8 +291,8 @@ Open the 2022 Legislative Updates in a new tab.
 					Legislative Policy Director <br>
 					<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a><br>
 					360.688.3253<br><br>
-						<a href="https://public.govdelivery.com/accounts/WAPSP/subscriber/new?topic_id=WAPSP_27" target="new">To sign up for future Puget Sound legislative updates, click here.</a><br><br>
-				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Click here</a> to provide feedback on the content and functionality of this page.</p>
+						<a href="https://public.govdelivery.com/accounts/WAPSP/subscriber/new?topic_id=WAPSP_27" target="new">Sign up for future Puget Sound legislative updates.</a><br><br>
+				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Provide feedback on the content and functionality of this page.</a></p>
 				
 				
 			
