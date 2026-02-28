@@ -84,16 +84,12 @@ navSelected = 1;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			<div class="highlightbox margin-0-top margin-20-bottom">
-			  <p>The 2026-2030 Action Agenda is  now open for public comment! Until February 3rd, we are  accepting comments on the draft Strategies and Actions developed with the input  of subject matter experts, Tribal co-managers, and community members across the  region. Below are the links and information needed to review the draft Action  Agenda and provide comments: </p>
+			  <p>The public comment period for the 2026-2030 Action Agenda Update has closed. The timeline below reflects the next steps in the update process. We are on schedule to submit the 2026-2030 Action Agenda Update to the EPA in the summer of 2026! </p>
               <ul class="bullet-size-fix">
-                <li><a href="https://pspwa.box.com/s/sqst47hbnutu01gt1ak9m9uza6grqc54" target="new">Public comment period cover letter</a></li>
                 <li><a href="https://pspwa.box.com/s/cpor6rbxl1fgmlly9h9rwp81am2fqxcq" target="new">2026-2030 Action Agenda draft</a></li>
-                <li>Submit comments: <a href="https://app.smartsheet.com/b/form/6fb4a744ef84497388d42d1ec8bba38e" target="new">2026-2030  Action Agenda Public Comment Form</a>        </li>
               </ul>
 		</div>
-			<div class="highlightbox margin-0-top margin-20-bottom">
-				 <p>During the draft 2026-2030 Action Agenda public  comment period, the Habitat Strategic Initiative Lead is also developing a  Marine Vegetation Implementation Strategy, a plan to accelerate progress  towards improving health of Puget Sound kelp and seagrasses. The Marine  Vegetation Implementation Strategy implements the Strategies and Actions in the  Action Agenda&rsquo;s Marine Vegetation Topic, but the Implementation Strategy  contains more information to guide on-the-ground implementation. The public  comment period for both plans closes on February 3, 2026. <a href="https://pugetsoundestuary.wa.gov/2026/01/05/open-for-comment-marine-vegetation-implementation-strategy/" target="new">information on how to provide comment on the Implementation  Strategy.</a></p>
-			</div>
+			
 		<h2 class="margin-0-top">We are updating the Puget Sound Action Agenda </h2>
 		<p>The Action Agenda is our community&rsquo;s  shared plan for advancing Puget Sound recovery. The 2026-30 Action Agenda  update will advance progress towards recovery of the Puget Sound&rsquo;s ecosystem and human wellbeing <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="new">Vital Signs</a> by building on  the foundation of the<a href="https://www.psp.wa.gov/2022AAupdate.php" target="new">2022-26  Action Agenda</a>.</p>
 		<h2>Our Vision for the 2026-30 Action Agenda </h2>	
