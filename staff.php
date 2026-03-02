@@ -211,7 +211,7 @@
 						<h3 class="padding-10-top">local integrating organization (LIO) PROGRAM TEAM</h3>
 			
 						<h4>Monea Kerr</h4>
-		<p> Local Integrating Organization Program Coordinator<br>
+		<p> Local Integrating Organization Program Manager<br>
 						360.742.7147 | <a href="mailto:monea.kerr@psp.wa.gov">monea.kerr@psp.wa.gov</a></p>
 			
 						<h4>Jason Lim</h4>
@@ -242,7 +242,7 @@
 		<p>Progress Indicator Analyst<br />
 						360.870.8913 | <a href="mailto:lila.bowen@psp.wa.gov">lila.bowen@psp.wa.gov</a>						</p>
 		<h4>VACANT</h4>
-						<p>Monitoring Data Coordinator and Analyst<br />
+						<p>Performance Management Analyst<br />
 						
 						
 						
@@ -362,7 +362,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 02/05/26</p>
+	<p class="last-update">Last updated: 03/02/26</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
