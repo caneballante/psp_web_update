@@ -153,8 +153,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt="Photo of the Washington State Capitol building"/> <strong>RESOURCE</strong><br>
-						<a href="https://www.psp.wa.gov/state-government-relations.php">2026 Washington State Legislative session information</a><br>
+						<img class="img-responsive img-rounded" src="images/WAstatelogo.png"  alt="Photo of the Washington State Capitol building"/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="https://governor.wa.gov/news/2026/governor-ferguson-appoints-mindy-roberts-serve-puget-sound-partnership-executive-director" target="new">Governor Ferguson appoints Mindy Roberts to serve as Puget Sound Partnership Executive Director</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
@@ -166,8 +166,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/2025_science_workplan.jpg"  alt="Cover of the plan with the title Priority Science to Support Puget Sound Recovery"/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="https://pspwa.box.com/s/px3jikktphwhphj7q1y41wqcpzib5jlc">Science Work Plan finalized and adopted (download PDF) </a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt="Photo of the Washington State Capitol building"/> <strong>RESOURCE</strong><br>
+						<a href="https://www.psp.wa.gov/state-government-relations.php">2026 Washington State Legislative session information</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
@@ -197,8 +197,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/NisquallyBridgeShot-300x225.jpg"  alt="An aerial photo of the Nisqually Bridge."/> <strong>Making Waves</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2024/05/17/sound-safe-infrastructure/">Sound Safe: Building a future with resilient infrastructure and ecosystems</a><br>
+						<img class="img-responsive img-rounded" src="images/news-images/2025_science_workplan.jpg"  alt="The Washington State flag."/> <strong>ANNOUNCEMENT</strong><br>
+						<a href="https://pspwa.box.com/s/px3jikktphwhphj7q1y41wqcpzib5jlc">Science Work Plan finalized and adopted (download PDF) </a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>

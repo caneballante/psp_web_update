@@ -2,6 +2,14 @@
      
 	
 	"news-releases": {
+		"release226": {
+            "date": "March, 05, 2026",
+            "link": "<a href='https://content.govdelivery.com/accounts/WAGOV/bulletins/40ce1be'>Governor Ferguson appoints Mindy Roberts to serve as Puget Sound Partnership Executive Director</a>"
+        },
+		"release225": {
+            "date": "March, 02, 2026",
+            "link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/40c4cb3'>Puget Sound Partnership Leadership Council to discuss Flood Impacts and Puget Sound Ecosystem Recovery</a>"
+        },
 		"release224": {
             "date": "February, 20, 2026",
             "link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/40ad98a'>Ecosystem Coordination Board to Discuss the State of the Sound, Action Agenda Implementation, and Program Targets</a>"

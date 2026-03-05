@@ -78,9 +78,10 @@
 			<!--EXECUTIVE TEAM-->
 		 <h2 class="margin-0-top">EXECUTIVE DIRECTOR'S OFFICE</h2>
 		 <h3>Executive staff</h3>
-            <h4>Vacant</h4>
-            			<p>Executive Director<br />
-               			  | Follow on Twitter <a href="https://twitter.com/pspdirector" target="new">@pspdirector</a></p>
+            <h4>Mindy Roberts</h4>
+            			<p>Executive Director<br>
+            			  360.791.6744
+            			  | <a href="mailto:mindy.roberts@psp.wa.gov">mindy.roberts@psp.wa.gov</a></p>
 			
 						<h4>Chrystal Andoh</h4>
 						<p> Executive Assistant<br />
@@ -117,7 +118,7 @@
                         <p>Community Engagement Coordinator<br>
                           360.688.4049 | <a href="mailto:signe.lindquist@psp.wa.gov">signe.lindquist@psp.wa.gov</a>	
 							
-							<h4>Peter Ravella</h4>
+		<h4>Peter Ravella</h4>
 						<p>Puget Sound Recovery Strategist<br>
 							360.972.4054 | <a href="mailto:peter.ravella@psp.wa.gov">peter.ravella@psp.wa.gov</a></p><h4>Juliana Tadano</h4>
 						<p>Puget Sound Recovery Strategist<br/>
@@ -266,7 +267,7 @@
 							360.764.6149 | <a href="mailto:hannah.mittelstaedt@psp.wa.gov">hannah.mittelstaedt@psp.wa.gov</a></p>
 						<h4>VACANT</h4>
         <p>Environmental Planner<br/>
-		  </p>
+	    </p>
 						<h4>Kenna Kuhn</h4>
 						<p> Vital Signs Lead (Acting)<br>
 							564.669.8282 | <a href="mailto:kenna.kuhn@psp.wa.gov">kenna.kuhn@psp.wa.gov</a></p>
