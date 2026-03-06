@@ -81,9 +81,8 @@
 		
 			
 			
-			<p>The Puget Sound Partnership organizes  a Community Advocacy Council (CAC) made up of leaders from around the Puget  Sound, working to make their communities healthier, stronger, and safer for  all. One focus of the CAC is to gather resources that council members identify  as most important to the communities that they serve. The group&rsquo;s goal is to  share those resources with any community that may find them useful. On this  page, you can find a collection of resources gathered by the CAC. Resources are  organized by topic area. </p>
-        <p>If you have a resource to suggest  that we add to this list, or if you have questions about any of these  resources, please contact us at environmental.justice@psp.wa.gov.</p>
-        <p><strong>Note</strong>: As the Community Advocacy Council is  piloting this effort, they have focused on adding resources related to water  quality. The council hopes to add resources related to other environmental  justice topics in the future.<br>
+			<p>The Puget Sound Partnership organizes  a Community Advocacy Council (CAC) made up of leaders from around the Puget  Sound, working to make their communities healthier, stronger, and safer for  all. One focus of the CAC is to gather resources that council members identify  as most important to the communities that they serve. The group&rsquo;s goal is to  share those resources with any community that may find them useful. On this  page, you can find a collection of resources gathered by the CAC. Resources are  organized by topic area.        </p>
+		<p><strong>Note</strong>: As the Community Advocacy Council is  piloting this effort, they have focused on adding resources related to water  quality. The council hopes to add resources related to other environmental  justice topics in the future.<br>
         </p>
         <h2>WATER QUALITY</h2>
             <h3>Groups focusing on climate justice for youth related to water quality and  beyond            </h3>
@@ -308,9 +307,12 @@
             <li><strong>Website</strong>: <a href="https://www.fema.gov/node/tap-water-safe-drink-after-disaster">FAQ: Is  tap water safe to drink after a disaster? | FEMA.gov</a></li>
               <li><strong>Description</strong>: A short explanation about about the dangers of drinking tap water if contaminated in a flood event. It also includes links to further  resources. </li>
         </ul>
+        <h2>Contact us</h2>
+			
+        <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
-            </p>
-			<p class="last-update">Last updated: 02/11/26</p>
+        </p>
+			<p class="last-update">Last updated: 03/05/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
