@@ -127,8 +127,8 @@ Open the Map of 2025-2027 PSAR Large Capital proposed projects in a new tab
 			<hr />
 		<div class="row margin-10-top"><br>
 		</div>
-<p><strong>For more information contact:</strong></p>
-			<h5>Marlies Wierenga</h5>
+<h3>For more information contact:</h3>
+			<h4>Marlies Wierenga</h4>
 			<p>PSAR Program Manager<br />
 			360.968.9673 | <a href="mailto:Marlies.Wierenga@psp.wa.gov">Marlies.Wierenga@psp.wa.gov</a></p>
 			<p>&nbsp;</p>

@@ -47,11 +47,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image7">
-	<div class="overview-quote pull-right">
-		<h3>Investing in habitat restoration to bring back Puget Sound’s dynamic natural systems – for salmon, people, and community</h3>
-	</div>
-</header>
+<header class="overview-page-image-style overview-page-image7"></header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -94,24 +90,24 @@ Open the PSAR Accomplishments Dashboard in a new tab
 			
 			
 		
-		<button class="button button1"><a href="https://www.pugetsoundinfo.wa.gov/PSARDashboard" target="_blank" style="color:white"><strong>Puget Sound Acquisition and Restoration Dashboard on Puget Sound Info</strong></a></button>
 		
-			<hr /><br><br><br><br><br><br><br><br><br><br>
+		
+			<hr /><br>
 		<div class="row margin-10-top"> 
-			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/"><h4>Puget Sound Innovation Recovery Stories</h4></a></div>
-			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/08/24/calistoga-levee-setback/"><img class="img-responsive" src="images/PSAR/ps-innovation-calistoga.jpg" width="874" height="743" alt=""/></a></div>
-			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/04/21/leque-island-estuary-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-leque.jpg" width="874" height="743" alt=""/></a></div>
-			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/05/17/smith-island-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-smith.jpg" width="874" height="743" alt=""/></a></div>
+			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/"><h2>Puget Sound Innovation Recovery Stories</h2></a></div>
+			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/08/24/calistoga-levee-setback/"><img class="img-responsive" src="images/PSAR/ps-innovation-calistoga.jpg" width="874" height="743" alt="Calistoga levee setback - An aerial image of a traffic on a bridge crossing over a body of water"/></a></div>
+			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/04/21/leque-island-estuary-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-leque.jpg" width="874" height="743" alt="Leque Island Estuary - An aerial image of an estuary with rural land reaching out into the distance."/></a></div>
+			<div class="col-sm-3"><a href="https://innovationstories.psp.wa.gov/index.php/2017/05/17/smith-island-2/"><img class="img-responsive" src="images/PSAR/ps-innovation-smith.jpg" width="874" height="743" alt="Smith Island - Tall grass frames a body of water as a small village appears behind trees in the background."/></a></div>
 		</div>
 		<hr />
 		<h2>COMMUNITY INVOLVEMENT IN PSAR PROJECTS</h2>
-		<p><strong>COMMUNITY INVOLVEMENT IN PSAR PROJECTS</strong><br>
-			<strong>Each community decides which projects matter most. </strong><br>
-			Washington approaches salmon recovery in a unique way. People in communities around Puget Sound organized themselves to address Endangered Species Act listings of Chinook and other salmonids in Washington state. This local approach to a difficult problem is known as &ldquo;the Washington Way.&rdquo;</p>
+			<h3>Each community decides which projects matter most.	    </h3>
+			<p>Washington approaches salmon recovery in a unique way. People in communities around Puget Sound organized themselves to address Endangered Species Act listings of Chinook and other salmonids in Washington state. This local approach to a difficult problem is known as &ldquo;the Washington Way.&rdquo;</p>
+	    </p>
 			<p>The 15 community-based groups that organized in Puget Sound are called <a href="https://www.rco.wa.gov/salmon_recovery/lead_entities.shtml">Lead Entities</a>. Lead Entities are supported by regional entities called <a href="http://www.psp.wa.gov/salmon-recovery-overview.php">regional recovery organizations</a>. There are seven around the state, including two in the Puget Sound region. The Puget Sound Partnership is the regional recovery organization for all of Puget Sound except the Hood Canal area. Recovery organizations are accepted by NOAA as the owners of each region&rsquo;s recovery and are responsible to carrying out salmon recovery plans. </p>
 		<h2>LESSONS LEARNED</h2>
-			<p><strong>The PSAR program continues to improve with feedback from Local Entities.</strong><br>
-			As managers of the PSAR program, RCO and the Partnership continuously look for opportunities to improve how PSAR works. Some of the improvements over the past 10 years include the following:</p>
+			<h3>The PSAR program continues to improve with feedback from Local Entities.</h3>
+			<p>As managers of the PSAR program, RCO and the Partnership continuously look for opportunities to improve how PSAR works. Some of the improvements over the past 10 years include the following:</p>
 		<ul>
 			<li>Developed methods to more clearly communicate how requested PSAR funds are used throughout the region</li>
 			<li>Improved the reporting and data management of PSAR projects to help project partners and constituents visualize results in their area and where money has been spent</li>
@@ -120,24 +116,24 @@ Open the PSAR Accomplishments Dashboard in a new tab
 		</ul>
 		<p>All this and more improvements are underway. We are constantly evaluating our activities to develop an understanding of effectiveness and impact that PSAR has on salmon recovery.<strong> </strong></p>
 		<h2>PROJECT EVALUATION</h2>
-			<p><strong>Evaluation helps verify project successes.</strong><br>
-			By monitoring PSAR project sites and evaluating the resulting data, scientists are observing many ecosystem successes, including the following: </p>
+			<h3>Evaluation helps verify project successes.</h3>
+			<p>By monitoring PSAR project sites and evaluating the resulting data, scientists are observing many ecosystem successes, including the following: </p>
 		<ul>
 			<li>Eelgrass beds have expanded, water quality has improved, and shellfish areas are improving in the Skokomish River estuary, as a result of a PSAR-funded restoration project. <a href="https://pspwa.box.com/s/fdxzgqwtsct1xy4l6ohfpeepjg4ho42a" target="new">VIEW FACT SHEET</a></li>
 			<li>In the South Fork of the Skagit River, 461 estuary acres were restored and now support an additional 160,000 young Chinook each year; this represents about 12 percent of the salmon recovery goal for this area. <a href="https://pspwa.box.com/s/crre7nvc9ru3z14qegb5zojf1ofjtdon" target="new">VIEW FACT SHEET </a></li>
 			<li>An estimated 65,000 young Chinook salmon are expected to be produced annually after restoration is complete at Fir Island Farm in Skagit County, which holds some of the largest runs of Chinook, pink, and chum in the state. <a href="https://pspwa.box.com/s/zfbfd0ynmc3wec4cije7a89dop7zsr7k">VIEW FACT SHEET</a></li>
 		</ul>
 		<h2>PSAR PROJECT BENEFITS </h2>
-		<p><strong>PSAR benefits extend beyond the local ecosystem:</strong></p>
+		<h3>PSAR benefits extend beyond the local ecosystem:</h3>
 		<ul>
 			<li>Every $1 million invested in watershed restoration produces more than 16 new or sustained jobs roughly $2.5 million in total economic activity. </li>
 			<li>80 percent of the funds invested in restoration projects stays in the county where the projects are located, providing needed cash in more rural and distressed counties. </li>
 		</ul><br><br>
 		
-		<p><strong>For more information contact:</strong></p>
-			<h5>Alison Agness</h5>
+		<h3>For more information contact:</h3>
+			<h4>Marlies Wierenga</h4>
 			<p>PSAR Program Manager<br />
-			360.968.9673 | <a href="mailto:alison.agness@psp.wa.gov">alison.agness@psp.wa.gov</a></p>
+			360.968.9673 | <a href="mailto:Marlies.Wierenga@psp.wa.gov">Marlies.Wierenga@psp.wa.gov</a></p>
 			<p>&nbsp;</p>
 			<div>
 				<div> </div>
