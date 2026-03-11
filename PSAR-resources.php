@@ -96,7 +96,7 @@
 			
 			<p class="padding-10-all"><a href="https://pspwa.box.com/shared/static/hxdjsl9nq33asc1b1l3fpol1m4ja1wqo.pdf">  PSAR Program Effectiveness <br>	</a></p>
 			
-			<h3>Archive PSAR Factsheets </h3>
+			<h2>Archive PSAR Factsheets </h2>
 			<p class="margin-0-top"><strong>PSAR 2023-2025</strong></p>
 			<p><a href="https://pspwa.box.com/s/ckw368t070rmlcdl182999fnbi0dtun2" target="new">2023-2025 PSAR Large Capital Project ranked list and project factsheets</a>
 			<p><strong>PSAR 2021-2023</strong></p>
@@ -111,9 +111,8 @@
 			<p><a href="https://pspwa.box.com/shared/static/wmfd35946nbxqzggpb3p0viurzuspjqh.pdf">Ranked #8 of 8: Stewart Mountain Riparian Reserve 2</a></p>
 			<br>
 			<p><strong>PSAR 2019-2021</strong></p>
+		<p><a href="https://pspwa.box.com/shared/static/wgu6mw3afazp02axap5biim58c1471rv.pdf" target="new">Download the PSAR 2019-2021 factsheet.</a></p>
 			<!-- Use the direct link option in box to make these downloadable on the phone - this also keeps the item from being viewed in box -->
-			<p><a href="https://pspwa.box.com/shared/static/wgu6mw3afazp02axap5biim58c1471rv.pdf" target="new"><img src="images/PSAR/psar-overview.jpg" width="200" height="311" alt=""/></a></p>
-			<p>&nbsp; </p>
 			<p class="margin-20-top"><strong>2019-2021 PSAR FACT SHEETS</strong></p>
 			<p><a href="https://pspwa.box.com/shared/static/uuj6bhv8zfi0prowa0mnqnfqdikbtb97.pdf">PSAR LOCALLY SIGNIFICANT PROJECTS BASE FUNDING BUDGET 2019-2021</a></p>
 			<p><a href="https://pspwa.box.com/shared/static/kw6bgtplbvh35ghduz6kvwldei9sznf0.pdf">*PSAR ranked list</a></p>
@@ -129,7 +128,7 @@
 			<p><a href="https://pspwa.box.com/shared/static/krtqmpl1k03o98kfqprjyzpdz7qykat8.pdf">Ranked #10 of 11 : Shelton Harbor Estuary Restoration</a></p>
 			<p><a href="https://pspwa.box.com/shared/static/xc2y35w84vrzf7nvo97z0q4n6dtjrul5.pdf">Ranked #11 of 11 : Harper Estuary Armor Removal and Bridge</a></p>
 			
-			<p class="margin-20-top"><strong>PREVIOUS PSAR PROJECT FACT SHEETS</strong></p>
+			<h2>PREVIOUS PSAR PROJECT FACT SHEETS</h2>
 			<p class=""><a href="https://pspwa.box.com/shared/static/lnestm5eu9qhftfgi3nmsh5ke3wxxhd1.pdf">Ala Spit restoration, Whidbey Island</a></p>
 			<p class=""><a href="https://pspwa.box.com/shared/static/cfm1ffrc56w3pfbob5vh5t2ujhhdq22q.pdf">Deschutes watershed and Kennedy-Goldsborough watershed</a></p>
 			<p class=""><a href="https://pspwa.box.com/shared/static/6swr9ogwf2gd2pedlhw85bahl1n57aq6.pdf">Fennel creek restoration and Calistoga seback levee</a></p>
@@ -141,8 +140,9 @@
 			<p class=""><a href="https://pspwa.box.com/shared/static/1rjoc2333p5z5h36ulm7o693t2a3neld.pdf">San Juan Islands Cascade creek</a></p>
 			<p class=""><a href="https://pspwa.box.com/shared/static/ob22ncmooxzqeswojgpyl9r4acfff3je.pdf">West Bainbridge shoreline protection project</a></p>
 
-			<p class="margin-20-top"><strong>INNOVATION RECOVERY STORIES</strong></p>
-			<p>Organizations from across Washington State are coming together to stand up for Puget Sound protection and recovery.  The stories on this site are curated from partners and community members who are each investing in keeping this place great.<a href="https://pugetsoundinnovationstories.blog">VIEW BLOG</a></p><br><br>	<p class="margin-20-top"><strong>2018 PSAR LARGE CAP REQUEST FOR PROPOSALS</strong></p>
+			<h2>INNOVATION RECOVERY STORIES</h2>
+			<p>Organizations from across Washington State are coming together to stand up for Puget Sound protection and recovery.  The stories on this site are curated from partners and community members who are each investing in keeping this place great.<a href="https://pugetsoundinnovationstories.blog">VIEW BLOG</a></p><br><br>
+		<h2>2018 PSAR LARGE CAP REQUEST FOR PROPOSALS</h2>
 			<p class=""><a href="https://pspwa.box.com/v/2018PSAR">View materials</a></p><p><strong>For more information contact:</strong></p>
 			
 		
