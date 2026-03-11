@@ -51,11 +51,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image6">
-
-<div class="overview-quote pull-right"><h3>The Puget Sound NEP brings together regional leaders, experts and community members to protect, restore and maintain the ecological integrity of Puget Sound.</h3></div>
-
- </header>
+<header class="overview-page-image-style overview-page-image6"></header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">

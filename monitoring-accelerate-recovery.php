@@ -51,11 +51,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image111">
-
-<div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
-
- </header>
+<header class="overview-page-image-style overview-page-image111"></header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -82,13 +78,13 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
-		<h3>Purpose</h3>
+		<h2>Purpose</h2>
 			<p>The  Puget Sound Partnership provides funding every two years for projects that  address important monitoring needs to support the recovery of Puget Sound.  Projects are funded through a formal application process. </p>
             <p>All  projects are expected to support the objectives of the Puget Sound Ecosystem  Monitoring Program (PSEMP) strategic plan to increase collaboration, support  adaptive management of Puget Sound recovery efforts, and improve how  information is shared and used to guide recovery decisions.</p>
         <p>All of the project products funded by this solication process are accessible on the <a href="/PSEMP-resources.php">PSEMP Products webpage</a>.</p>
 		
 		<hr>
-		<h3>Projects funded in 2025-2027</h3>
+		<h2>Projects funded in 2025-2027</h2>
 		<p>For the  2025-27 funding cycle, the Puget Sound Partnership requested project proposals  through the <em>Monitoring to Accelerate Recovery Request for  Information&nbsp;(RFI #2025-175).</em> The goal was to fund projects that  address important monitoring needs help speed up the recovery of Puget Sound.        
 		<p>We are pleased to announce the following six  successful projects:</p>
         <table class="table-responsive table-condensed table-bordered">
@@ -141,7 +137,7 @@
 				</table><br></p>
         <p>We would like to thank the PSEMP  Steering Committee members and Puget Sound Partnership staff colleagues who shared  their time and perspective as members of the Evaluation Panel. We are excited  about this newest group of projects and look forward to working with all the  project teams to bring them to life.</p>
         <hr>
-		<h3>Projects funded in 2023-2025		</h3>
+		<h2>Projects funded in 2023-2025		</h2>
 		<p>Monitoring to Accelerate  Recovery Projects for July 2023-June 2025.</p>
 		<table class="table-responsive table-condensed table-bordered">
 		  <tbody>
@@ -183,7 +179,7 @@
 	      </tbody>
 	    </table>
 		<hr>
-		<h3>Projects funded in 2021-2023		</h3>
+		<h2>Projects funded in 2021-2023		</h2>
 		<p>Monitoring to Accelerate Recovery Projects for July 2021-June 2023</p>
 		<table class="table-responsive table-condensed table-bordered table-striped">
 			<thead>
@@ -262,7 +258,7 @@
 							
 				</tbody>
 			</table>
-		<h3>Additional Vital Signs Development</h3>
+		<h2>Additional Vital Signs Development</h2>
 		<table class="table-responsive table-condensed table-bordered table-striped">
 			<thead>
 				<tr>
@@ -281,7 +277,7 @@
 					
 				</tbody>
 			</table>
-		<h3>Projects funded in 2019-2021:</h3>
+		<h2>Projects funded in 2019-2021:</h2>
 		<p>The Partnership funded the following projects using funding allocated to support PSEMP work groups and reporting of the Vital Signs during the 2019-21 biennium:</p>
 			<table class="table-responsive table-condensed table-bordered table-striped">
 			<thead>
@@ -294,32 +290,32 @@
 				<tbody>
 				<tr>
 					<td><p class=psemp-mar-font>Nearshore Summit and Synthesis</p></td>
-					<td><p class=psemp-mar-font>This virtual nearshore summit, held from March 10-25, 2021, included about 80 speakers representing over 50 institutions and over 500 registrants. The goal is to connect restoration scientists and practitioners to synthesize nearshore science and restoration actions in Puget Sound to create a durable roadmap that updates restoration conceptual models and identifies key uncertainties for future research and management to address. You can find more information about the summit and its synthesis <a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit">here.</a> You can find a <a href="https://pspwa.box.com/s/giimspgmm6j23u0jlau96vh9al91zcnl">video overview here</a>.</p></td>
+					<td><p class=psemp-mar-font>This virtual nearshore summit, held from March 10-25, 2021, included about 80 speakers representing over 50 institutions and over 500 registrants. The goal is to connect restoration scientists and practitioners to synthesize nearshore science and restoration actions in Puget Sound to create a durable roadmap that updates restoration conceptual models and identifies key uncertainties for future research and management to address. You can find more information about the summit and its synthesis <a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/nearshore/conservation/programs/esrp/nearshore-summit">View the dashboard.</a> You can also watch a <a href="https://pspwa.box.com/s/giimspgmm6j23u0jlau96vh9al91zcnl">video overview</a>.</p></td>
 					<td><p class=psemp-mar-font>Tish Conway-Cranos, Washington Department of Fish and Wildlife; Jason Toft, University of Washington; David Trimbach, Oregon State University</p></td>
 					</tr>
 					<tr>
 					<td><p class=psemp-mar-font>Fundamental Environmental Contextual Metrics Dashboard</p></td>
-						<td><p class=psemp-mar-font>Climate change poses a serious threat to Puget Sound recovery efforts. To adapt recovery efforts to these changes, we need metrics that show why change is occurring. The project will use data from ongoing oceanographic and atmospheric measurement programs to develop six fundamental environmental metrics and compare current status updates to historical values. When finished, the metrics will be available to the public via a web-based dashboard that will concisely summarize current conditions. The dashboard is accessible at this <a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">link</a>. You can find a <a href="https://pspwa.box.com/s/z5rl1g2z3e7gkt4g89n8jtlopsfyrzok">video overview here</a>.</p></td>
+						<td><p class=psemp-mar-font>Climate change poses a serious threat to Puget Sound recovery efforts. To adapt recovery efforts to these changes, we need metrics that show why change is occurring. The project will use data from ongoing oceanographic and atmospheric measurement programs to develop six fundamental environmental metrics and compare current status updates to historical values. When finished, the metrics will be available to the public via a web-based dashboard that will concisely summarize current conditions.  <a href="http://www.nanoos.org/products/ps_metrics/home.php" target="new">View the dashboard</a>. You can also watch a <a href="https://pspwa.box.com/s/z5rl1g2z3e7gkt4g89n8jtlopsfyrzok">video overview</a>.</p></td>
 						<td><p class=psemp-mar-font>John Mickett, University of Washington</p></td>
 					</tr>
 					<tr>
 					<td><p class=psemp-mar-font>Marine Waters Annual Overview</p></td>
-						<td><p class=psemp-mar-font>The Marine Waters Overview Report and annual workshop communicates the results from regional monitoring programs through a virtual workshop and published report of technical summaries and high-level information synthesis across monitoring programs and scientific disciplines. The annual workshop and report provided an integrative understanding of current trends in Puget Sound marine water quality and impacts through the food web, link to the Puget Sound Vital Signs and goals for ecosystem recovery, and share critical information for making evidence-based decisions about recovery efforts.  The link to the full report can be found <a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">here</a> and you can find a <a href="https://pspwa.box.com/s/v6wrf24bx30j9ep3qfbxwgtlkrckwxwd">video overview here.</a> </p></td>
+						<td><p class=psemp-mar-font>The Marine Waters Overview Report and annual workshop communicates the results from regional monitoring programs through a virtual workshop and published report of technical summaries and high-level information synthesis across monitoring programs and scientific disciplines. The annual workshop and report provided an integrative understanding of current trends in Puget Sound marine water quality and impacts through the food web, link to the Puget Sound Vital Signs and goals for ecosystem recovery, and share critical information for making evidence-based decisions about recovery efforts.  <a href="https://www.psp.wa.gov/PSmarinewatersoverview.php">Read the full report</a> or <a href="https://pspwa.box.com/s/v6wrf24bx30j9ep3qfbxwgtlkrckwxwd">watch the video overview.</a> </p></td>
 						<td><p class=psemp-mar-font>Jude Apple, Padilla Bay National Estuarine Research Reserve; Rachel Wold, University of Washington</p></td>
 					</tr>
 					<tr>
 					<td><p class=psemp-mar-font>Avian Habitat Suitability Models for Puget Sound Estuary Birds</p></td>
-						<td><p class=psemp-mar-font>Puget Sound and the Salish Sea support hemispherically significant concentrations of shorebirds, waterfowl, and other marine bird species. Despite this importance, birds have received little attention by state and federal recovery efforts. This project develops science products that support the management needs of estuary birds, including end-user stakeholder engagement, avian-habitat suitability models, and the initiation of a regional avian monitoring framework for river delta estuaries. A monitoring framework will facilitate targeted data collection that allows for avian conservation planning and management at local and regional scales and supports integration of birds in estuary recovery efforts. This project produced an <a href="https://pspwa.box.com/v/AvHabModSummary">executive summary</a> and <a href="https://storymaps.arcgis.com/stories/3ceca87f5e544265aee6d516ee95aec9">storymap.</a> You can find a <a href="https://pspwa.box.com/s/9suop9ggo6h08v630vf90oum5cyj5kgm">video overview here</a>.</p></td>
+						<td><p class=psemp-mar-font>Puget Sound and the Salish Sea support hemispherically significant concentrations of shorebirds, waterfowl, and other marine bird species. Despite this importance, birds have received little attention by state and federal recovery efforts. This project develops science products that support the management needs of estuary birds, including end-user stakeholder engagement, avian-habitat suitability models, and the initiation of a regional avian monitoring framework for river delta estuaries. A monitoring framework will facilitate targeted data collection that allows for avian conservation planning and management at local and regional scales and supports integration of birds in estuary recovery efforts. This project produced an <a href="https://pspwa.box.com/v/AvHabModSummary">executive summary</a> and <a href="https://storymaps.arcgis.com/stories/3ceca87f5e544265aee6d516ee95aec9">storymap.</a> You can also watch a <a href="https://pspwa.box.com/s/9suop9ggo6h08v630vf90oum5cyj5kgm">video overview</a>.</p></td>
 						<td><p class=psemp-mar-font>Amanda Summers, Stillaguamish Tribes of Indians; Trina Bayard, Audubon Washington </p></td>
 					</tr>
 					<tr>
 					<td><p class=psemp-mar-font>Prioritization of Contaminants of Emerging Concern</p></td>
-						<td><p class=psemp-mar-font>This project identified and prioritized a suite of contaminants of emerging concern (CECs), based on biological relevance, to focus future monitoring efforts and provide the information necessary for a management response. Hundreds of CECs such as pharmaceuticals, plasticizers, pesticides, and others have been detected in Puget Sound. We must prioritize limited funding to address the chemicals of greatest concern and for future regulatory requirements. This project has finished its first phase and the report is <a href="https://pspwa.box.com/s/tj1k3y6xnn4ww46zxdnmo8lbizuiqs4d">linked here</a>. You can find a <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">video overview here</a>.</p></td>
+						<td><p class=psemp-mar-font>This project identified and prioritized a suite of contaminants of emerging concern (CECs), based on biological relevance, to focus future monitoring efforts and provide the information necessary for a management response. Hundreds of CECs such as pharmaceuticals, plasticizers, pesticides, and others have been detected in Puget Sound. We must prioritize limited funding to address the chemicals of greatest concern and for future regulatory requirements. This project has finished its first phase and the report is <a href="https://pspwa.box.com/s/tj1k3y6xnn4ww46zxdnmo8lbizuiqs4d">linked here</a>. You can watch a <a href="https://pspwa.box.com/s/d7w99q8sxit90rja5vpig3umgve3wnck">video overview</a>.</p></td>
 						<td><p class=psemp-mar-font>Andy James, University of Washington Tacoma; Ruth Sofield, Western Washington University</p></td>
 					</tr>
 					<tr>
 						<td><p class=psemp-mar-font>Juvenile Salmonid Monitoring in Large Puget Sound Rivers</p></td>
-					<td><p class=psemp-mar-font>Juvenile salmonid monitoring is a critical component of understanding both freshwater productivity and marine survival. The project worked with a network of tribal and state smolt trap operators to identify shared trends in Chinook salmon abundance and productivity metrics through time across 11 rivers throughout the Puget Sound region. Results from this project indicate that Puget Sound Chinook salmon retain signs of resilience, both in terms of asynchronous survival trends among populations and recent periods of increased survival for some populations. In a changing climate, salmon recovery can further bolster resilience by fostering life history diversity and adopting management strategies robust to periods of both high and low survival. Additionally, this project showed the value of a cohesive network of juvenile salmonid monitoring in the region for informing recovery efforts. The project has developed a <a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764">one-page overview</a> and <a href="https://pspwa.box.com/s/9wp044gr0346subxe8yqxko26njskire">report</a>. You can find a <a href="https://pspwa.box.com/s/yahbdzph6x2oolm8n0orvljvfsn9ej9c">video overview here</a>.</p></td>
+					<td><p class=psemp-mar-font>Juvenile salmonid monitoring is a critical component of understanding both freshwater productivity and marine survival. The project worked with a network of tribal and state smolt trap operators to identify shared trends in Chinook salmon abundance and productivity metrics through time across 11 rivers throughout the Puget Sound region. Results from this project indicate that Puget Sound Chinook salmon retain signs of resilience, both in terms of asynchronous survival trends among populations and recent periods of increased survival for some populations. In a changing climate, salmon recovery can further bolster resilience by fostering life history diversity and adopting management strategies robust to periods of both high and low survival. Additionally, this project showed the value of a cohesive network of juvenile salmonid monitoring in the region for informing recovery efforts. The project has developed a <a href="https://pspwa.box.com/s/05nom10gpsm1pzsut4ur9rvg31fvm764">one-page overview</a> and <a href="https://pspwa.box.com/s/9wp044gr0346subxe8yqxko26njskire">report</a>. You can watch a <a href="https://pspwa.box.com/s/yahbdzph6x2oolm8n0orvljvfsn9ej9c">video overview</a>.</p></td>
 						<td><p class=psemp-mar-font>Joe Anderson and Peter Lisi, Washington Department of Fish and Wildlife; Dawn Pucci, Island County</p></td>
 					</tr>
 					<tr>

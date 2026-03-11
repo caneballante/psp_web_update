@@ -77,7 +77,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> 
 			<!--EXECUTIVE TEAM-->
-		 <h1 class="margin-0-top">keep up to date with the puget sound partnership</h1>
+		 <h2 class="margin-0-top">keep up to date with the puget sound partnership</h2>
 		 <p>You can keep up to date with news from the Puget Sound Partnership, as well as upcoming opportunities to join events and workshops, by subscribing to our newsletters. Your email address will only be used to send you the newsletter of your choosing.</p>
 		<p>
 	    <?php include 'includes/newsletters-inc.html';?>
