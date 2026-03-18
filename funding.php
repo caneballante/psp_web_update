@@ -87,7 +87,7 @@
 				<p><strong>Timeline:</strong> Responses are due by noon on April 11, 2025.</p>
 				<p><strong>Funding amount:</strong> $1,300,000 to support up to 15 projects. Project  period is July 2025 - June 30, 2027</p>
 				<p><strong>Informational webinar:</strong> <a href="https://pspwa.box.com/s/778oa3i1hyphzg6koa1xzatd6lp24ra3" target="new">RFI 2025-182 Informational Webinar Recording</a>.</p>
-			<p><strong>Question & Answer Amendments:</strong><strong><a href="hhttps://pspwa.box.com/s/iqzebm731gsgt0e6pqre6zejqgwa6tm2"> Amendment  #1 Q&amp;A,</a><a href="https://pspwa.box.com/s/za2f9z3pamkmts40f7azjvztt2d3rcl5">Amendment  #3 Q&amp;A</a></strong>
+			<p><strong>Question & Answer Amendments:</strong><strong><a href="https://pspwa.box.com/s/iqzebm731gsgt0e6pqre6zejqgwa6tm2"> Amendment  #1 Q&amp;A,</a><a href="https://pspwa.box.com/s/za2f9z3pamkmts40f7azjvztt2d3rcl5">Amendment  #3 Q&amp;A</a></strong>
 			<p><strong>Details:</strong> Respondents can use one of two project  types—Integrated Social Ecological Systems Projects or Targeted Research  projects—to advance one or more Priority Science Work Actions. Priority Science  Work Actions cover a range of topics such as climate change impacts, pollution  and toxicology, land use and ecosystem management, and effectiveness.</p>
 				<br><br>
 
