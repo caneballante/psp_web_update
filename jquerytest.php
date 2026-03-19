@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
 <head>
 
 <!-- Google tag (gtag.js) -->
@@ -14,9 +14,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- InstanceBeginEditable name="doctitle" -->
 <title>Puget Sound Partnership - Funding Opportunities</title>
-<!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet" type="text/css">
@@ -32,37 +30,25 @@
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-<!-- InstanceBeginEditable name="head" -->
-	<script>
+<script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 1;
 </script> 
-<!-- InstanceEndEditable -->
-<!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion4" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
- <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image16">
-
-<div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
-
- </header>
-<!-- InstanceEndEditable -->  
+   
+  <div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
+   
+</header>
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
-		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> Funding opportunities</h1>
-			<!-- InstanceEndEditable --></div>
+		<div class="col-sm-7 padding-20-top">
+<h1> Funding opportunities</h1>
+			</div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -70,19 +56,13 @@
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
-					<!-- InstanceBeginEditable name="left_nav" -->
-				
-				<?php include 'includes/ln-funding.html';?>	
-			
-		
-			<!-- InstanceEndEditable -->
-				</ul>
+<?php include 'includes/ln-funding.html';?>	
+			</ul>
 			</div>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->		
-			
-			<h2 class="margin-0-top">21/3/25 - Puget Sound Scientific Research for the 2025-2027 State Biennium - OPEN UNTIL APRIL 11, 2025</h2>
+		<div class="col-sm-7 padding-20-top content-column">
+<h2 class="margin-0-top">21/3/25 - Puget Sound Scientific Research for the 2025-2027 State Biennium - OPEN UNTIL APRIL 11, 2025</h2>
 				<p><strong>Learn more: <a href="https://pspwa.box.com/s/gj69xc1khnwfwf01n1ue7lyc3knsfv6n" target="new">Request for Information</a></strong></p>
 				<p><strong>Timeline:</strong> Responses are due by noon on April 11, 2025.</p>
 				<p><strong>Funding amount:</strong> $1,300,000 to support up to 15 projects. Project  period is July 2025 - June 30, 2027</p>
@@ -96,20 +76,13 @@
 	
 	<br><br>
 	<p class="last-update">Last updated: 03/18/2026</p>
-
- 
-			 
-		<!-- InstanceEndEditable --> </div>
+		</div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
-			<!-- InstanceEndEditable -->
+		<div class="col-sm-2 padding-20-top padding-0-right">
+<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-			
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+		  </ul>
+			</div>
 	</div>
 	<!--END OF ROW --> 
 </div>
@@ -118,13 +91,15 @@
 <?php include 'includes/footer-inc.html';?>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        crossorigin="anonymous"></script>
+
+
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
 <!-- Google Tracking  -->
-
-
 </body>
-<!-- InstanceEnd --></html>
+</html>

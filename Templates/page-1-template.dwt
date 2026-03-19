@@ -217,7 +217,10 @@
 </div>
 <div class="align-right"> page # 001 - <a href="https://app.smartsheet.com/b/form?EQBCT=54600eddd8ea4d5c82ed0b94f1d4a259" target="_blank">report a problem or make a suggestion</a></div>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="../js/jquery-1.11.2.min.js"></script> 
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        crossorigin="anonymous"></script>
+
 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="../js/bootstrap.js"></script> 

@@ -118,14 +118,13 @@ To support shared learning and collaboration among partners and across projects,
 <?php include 'includes/footer-inc.html';?>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="js/jquery-1.11.2.min.js"></script> 
-
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
 <!-- Google Tracking  -->
-<!-- InstanceBeginEditable name="" --><!-- InstanceEndEditable --> 
+
 
 </body>
 <!-- InstanceEnd --></html>

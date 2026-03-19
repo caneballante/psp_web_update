@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
+
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K5R1WLJ6VJ"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BGEZ5L3EJY"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-K5R1WLJ6VJ');
+  gtag('config', 'G-BGEZ5L3EJY');
 </script>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -189,14 +190,13 @@ navSelected = 5;
 <?php include 'includes/footer-inc.html';?>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="js/jquery-1.11.2.min.js"></script> 
-
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script> 
 <!-- custom js --> 
 <script src="js/custom.js"></script> 
 <!-- Google Tracking  -->
-<!-- InstanceBeginEditable name="" --><!-- InstanceEndEditable --> 
+
 
 </body>
 <!-- InstanceEnd --></html>
