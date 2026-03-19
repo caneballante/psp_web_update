@@ -251,8 +251,8 @@
 				
 				<li role="presentation"><a href="https://pspwa.box.com/s/e81y0ap941ntik8o0me8o1lo6v12act1">2020-24 Biennial Science Work Plan</a><br /></li>
 				<li role="presentation"><a href="https://pspwa.box.com/s/hy1hmhjdnmgtr97nswosy0vsuypsnqkv">2016-18 Biennial Science Work Plan</a><br /></li>
-				<li role="presentation"><a href="downloads/SCIENCE/2014-16_BSWP_Final_10Dec_2014.pdf">2014-16 Biennial Science Work Plan</a><br /></li>
-					<li role="presentation"> <a href="downloads/APPROVED_BSWPApril2012.pdf">2012 Biennal Science Work Plan </a></li>
+				<li role="presentation"><a href="https://pspwa.box.com/s/15y7ecvrx9ar9yjnt4v0uvy69lza8pez">2014-16 Biennial Science Work Plan</a><br /></li>
+					<li role="presentation"> <a href="https://pspwa.box.com/s/xle551a1j16ac0fc1pmv6zsdmsxcbesc">2012 Biennal Science Work Plan </a></li>
 				<!--	<li role="presentation"><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1021&amp;Itemid=238">Approved Leadership Council Resolution for the Biennal Work Plan, April 26, 2012</a></li>-->
 						<li role="presentation"> <a href="downloads/ACTION_AGENDA_2008/BSWP_1Dec2008_as_submitted.pdf">2008 Biennal Work Plan </a></li>
 						
