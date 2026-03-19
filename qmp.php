@@ -94,7 +94,7 @@
 	    Appendix F: <a href="https://pspwa.box.com/s/mqyfyrcyisi94mt0oqvzefjmm14b6e5b" target="new">Records Retention and Public Disclosures Policy</a>&nbsp;</p>
 			  <p style="font-weight: bold">Appendix G: <a href="https://pspwa.box.com/s/9ceuysiqr91edssunkqo6uivblpseav5" target="new">Puget Sound Partnership Geospatial Data and Applications  Standards</a>        </p>
 		<p style="font-weight: bold">&nbsp;</p>
-			<p style="font-weight: bold"><a href="downloads/2014_qmp/Guidelines for scientific review_Jan 25 FINAL.pdf" target="new">Guidelines for Scientific Review</a></p>
+			<p style="font-weight: bold"><a href="https://pspwa.box.com/s/mtz83mzapanzoe1ecbi8ta6vr8b9x9ut" target="new">Guidelines for Scientific Review</a></p>
 			<p style="font-weight: bold">&nbsp;</p>
 			<p class="last-update">Last updated: 12/10/25</p>
 		<!-- InstanceEndEditable --> </div>
