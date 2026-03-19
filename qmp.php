@@ -96,7 +96,7 @@
 		<p style="font-weight: bold">&nbsp;</p>
 			<p style="font-weight: bold"><a href="https://pspwa.box.com/s/mtz83mzapanzoe1ecbi8ta6vr8b9x9ut" target="new">Guidelines for Scientific Review</a></p>
 			<p style="font-weight: bold">&nbsp;</p>
-			<p class="last-update">Last updated: 12/10/25</p>
+			<p class="last-update">Last updated: 03/18/2026</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>

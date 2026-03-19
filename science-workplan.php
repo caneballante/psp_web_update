@@ -261,7 +261,7 @@
 						<li role="presentation"> <a href="downloads/SP2009/IndicatorEvaluationSpreadsheet091308.xls">Indicator Evaluation Spreadsheet </a></li>
 				<li role="presentation"> <a href="https://www.psp.wa.gov/funding.php">Funding Opportunities </a></li>
 				<li role="presentation"> <a href="https://psp.wa.gov/science-funded-projects.php">Science and Evaluation Funded Projects </a></li>
-						
+				<p class="last-update">Last updated: 03/18/26</p>		
 						
 					
 						<!-- InstanceEndEditable -->
