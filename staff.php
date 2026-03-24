@@ -131,9 +131,9 @@
 						<h4>Marlies Wierenga</h4>
 						<p>PSAR Program Manager<br />
 							360.968.9673 | <a href="mailto:marlies.wiergenga@psp.wa.gov">marlies.wierenga@psp.wa.gov</a></p>
-						<h4>April Gassman</h4>
+						<h4>VACANT</h4>
 						<p>Salmon Permitting Projects Coordinator<br>
-							360.742.4195 | <a href="mailto:april.gassman@psp.wa.gov">april.gassman@psp.wa.gov</a></p>
+						</p>
 						<h4>Ashley Bagley</h4>
 						<p>Salmon Policy Advisor<br />
 							360.515.6054 | <a href="mailto:ashley.bagley@psp.wa.gov">ashley.bagley@psp.wa.gov</a></p>
@@ -363,7 +363,7 @@
 						<p>IT Specialist<br />
 							360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 						
-	<p class="last-update">Last updated: 03/02/26</p>
+	<p class="last-update">Last updated: 03/19/26</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
