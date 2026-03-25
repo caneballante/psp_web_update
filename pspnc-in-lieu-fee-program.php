@@ -51,11 +51,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image8">
-	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
-</header>
+<header class="overview-page-image-style overview-page-image8"></header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -81,7 +77,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-			<h2 class="margin-0-top">The Partnership's In-Lieu Fee Program</h2>
+			<h2 class="margin-0-top">The Puget Sound Partnership's In-Lieu Fee Program</h2>
 			
 			<h3>How does the Partnership's Nearshore Conservation Credits program work?</h3>
 						
@@ -113,11 +109,9 @@
 			
 			<h3>How many credits has the Partnership sold?</h3>
 			
-			<p>As of November 2025, we have sold approximately 6,000 conservation credits. Credit sales by service area are shown below:</p>
+			<p>As of November 2025, we have sold approximately 6,000 conservation credits. The table below shows how many conservation credits we have sold in each marine service area:</p>
 			<table width="386" border="1">
-			  <caption>
-			    A table to show how many conservation credits the Partnership has sold in each marine service area
-		      </caption>
+			  
 			  <tbody>
 			    <tr>
 			      <th width="207">Service area</th>
