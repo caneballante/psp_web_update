@@ -78,29 +78,29 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 <p>The Puget Sound Partnership is the state agency leading the region’s collective effort to restore and protect Puget Sound. The Puget Sound Partnership brings together hundreds of partners to mobilize partner action around a common agenda, advance Sound investments, and advance priority actions by supporting partners. </p>
-<h3>Vision</h3>
-<p>Vibrant, enduring natural systems and communities</p>
-<h3>Mission</h3>
-<p>Accelerate and advance the collective effort to recover Puget Sound</p>
+<h2>Vision</h2>
+<p>Vibrant, enduring natural systems and communities.</p>
+<h2>Mission</h2>
+<p>Accelerate and advance the collective effort to recover Puget Sound.</p>
 
 <h2>Our roles</h2>
-<p>The Partnership created and now manages the infrastructure needed to enable and encourage partners to come together to develop and implement priority actions needed to accelerate ecosystem recovery.</p>
-<p>ALIGN THE WORK OF PARTNERS around a shared vision and strategy, the Puget Sound Action Agenda. We steward the effort to collaboratively build the Action Agenda so that recovery resources can be efficiently allocated based on a science-driven, prioritized system. We ensure decisionmakers are well-informed and have the information they need to advance these priorities. </p>
+<p>We created and now manage the infrastructure needed to enable and encourage partners to come together to develop and implement priority actions needed to accelerate ecosystem recovery.</p>
+<p>ALIGN THE WORK OF PARTNERS around a shared vision and strategy, the <a href="2022AAupdate.php" target="new">Puget Sound Action Agenda</a>. We steward the effort to collaboratively build the Action Agenda so that recovery resources can be efficiently allocated based on a science-driven, prioritized system. We ensure decisionmakers are well-informed and have the information they need to advance these priorities. </p>
 <p>ENSURE SMART INVESTMENTS through a shared, science-based system of measurement and monitoring that promotes accountability, effectiveness, and progress. This helps inform decisions about the most efficient and effective ways to allocate future investments. </p>
 <p>SUPPORT PRIORITY ACTIONS by advancing policy and mobilizing funding needed for local and regional partners to succeed in achieving Puget Sound recovery goals. We strive to remove financial, regulatory, and resource barriers for our partners by directing outside resources toward priority actions, improving the policy and regulatory environment, and working as a catalyst within the system to get the job done. </p>
 
-<h2>6 recovery goals</h2>
+<h2>Six recovery goals</h2>
 <p>The Washington State Legislature identified six ecosystem recovery goals for creating a resilient Puget Sound:</p>
-<ul>
-<li>Healthy Human Population—A healthy population supported by a healthy Puget Sound that is not threatened by changes in the ecosystem.</li>
-<li>Vibrant Quality of Life—A quality of human life that is sustained by a functioning Puget Sound ecosystem.</li>
-<li>Thriving Species and Food Web—Healthy and sustaining populations of native species in Puget Sound, including a robust food web. </li>
-<li>Protect and Restored Habitat—A healthy Puget Sound where freshwater, estuary, nearshore, marine, and upland habitats are protected, restored, and sustained. </li>
-<li>Abundant Water Quantity—An ecosystem that is supported by good groundwater levels as well as river and stream flows sufficient to sustain people, fish, wildlife, and the natural functions of the environment. </li>
-<li>Healthy Water Quality—Fresh and marine waters and sediments of a sufficient quality to support water that is safe for drinking, swimming, and other human uses and enjoyment, and which are not harmful to the native marine mammals, fish, birds, and shellfish in the region.</li></ul>
+<ul class="bullet-size-fix">
+<li><strong>Healthy Human Population</strong>—A healthy population supported by a healthy Puget Sound that is not threatened by changes in the ecosystem.</li>
+<li><strong>Vibrant Quality of Life</strong>—A quality of human life that is sustained by a functioning Puget Sound ecosystem.</li>
+<li><strong>Thriving Species and Food Web</strong>—Healthy and sustaining populations of native species in Puget Sound, including a robust food web. </li>
+<li><strong>Protect and Restored Habitat</strong>—A healthy Puget Sound where freshwater, estuary, nearshore, marine, and upland habitats are protected, restored, and sustained. </li>
+<li><strong>Abundant Water Quantity</strong>—An ecosystem that is supported by good groundwater levels as well as river and stream flows sufficient to sustain people, fish, wildlife, and the natural functions of the environment. </li>
+<li><strong>Healthy Water Quality</strong>—Fresh and marine waters and sediments of a sufficient quality to support water that is safe for drinking, swimming, and other human uses and enjoyment, and which are not harmful to the native marine mammals, fish, birds, and shellfish in the region.</li></ul>
 
 <h2>Funding</h2>
-<p>The Partnership’s operating budget comes from state and federal sources. Our state budget consists of funds from the following accounts: General Fund, Aquatic Lands Enhancement Account, and the Model Toxics Control Operating Account. The agency primarily uses these funds as match to federal grants provided by the EPA. In the 2021-23 biennium, the Partnership’s operating budget totaled $16.6 million in state funds and $20.5 million in federal U.S. EPA funds. The Partnership also received $1.3 million from the NOAA Pacific Coastal Salmon Recovery Fund (PCSRF) to continue to serve as the regional salmon recovery organization for Puget Sound. The Partnership also received $300,000 from the Puget Sound Acquisition and Restoration (PSAR) fund through an interagency agreement with the Recreation and Conservation Office (RCO) to co-manage PSAR project prioritization, monitoring, and investments.</p>
+<p>Our operating budget comes from state and federal sources. Our state budget consists of funds from the following accounts: General Fund, Aquatic Lands Enhancement Account, and the Model Toxics Control Operating Account. We primarily uses these funds as match to federal grants provided by the Environmental Protection Agency (EPA). In the 2021-23 biennium, our operating budget totaled $16.6 million in state funds and $20.5 million in federal U.S. EPA funds. We also received $1.3 million from the NOAA Pacific Coastal Salmon Recovery Fund (PCSRF) to continue to serve as the regional salmon recovery organization for Puget Sound. We also received $300,000 from the Puget Sound Acquisition and Restoration (PSAR) fund through an interagency agreement with the Recreation and Conservation Office (RCO) to co-manage PSAR project prioritization, monitoring, and investments.</p>
 
 <a href="2022AAupdate.php">Puget Sound Action Agenda</a>
 			

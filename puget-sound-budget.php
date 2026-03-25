@@ -51,11 +51,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image14">
-	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
-</header>
+<header class="overview-page-image-style overview-page-image14"></header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
 	<div class="col-sm-12 orange"></div>
@@ -156,7 +152,7 @@ Open the Biennial Budget Ranking in a new tab. </a>
 					Legislative Policy Director <br>
 					<a href="mailto:don.gourlie@psp.wa.gov">don.gourlie@psp.wa.gov</a><br>
 					360.688.3253<br><br>
-				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Click here</a> to provide feedback on the content and functionality of this page.</p>
+				<a href="https://app.smartsheet.com/b/form/ab94add956f34fbdaa9114193168738e" target="new">Provide feedback on the content and functionality of this page.</a></p>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

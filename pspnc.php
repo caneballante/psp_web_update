@@ -51,11 +51,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image8">
-	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
-</header>
+<header class="overview-page-image-style overview-page-image8"></header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -93,7 +89,7 @@ Open the Nearshore Conservation Credits map in a new tab.
 			<br>
 			<br>
 			
-			<h2>Interested in learning more? Click on the buttons below for answers to frequently asked questions about the Partnership's Nearshore Credits Program</h2>
+			<h2>Interested in learning more? Select the buttons below for answers to frequently asked questions about our Nearshore Credits Program</h2>
 			
 			<button class="button6"><a href="/pspnc-nearshore-habitat.php" target="_blank" style="color:white"><p class="PSPNC-font">Nearshore habitat</p></a></button><br>
 			
