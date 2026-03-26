@@ -113,7 +113,7 @@ navSelected = 3;
 		  </ul>
 			<h2>Map of 2027-2029 PSAR Large Capital proposed projects</h2>
 		  <p class="margin-20-top">Available after April 13, 2026.</p>
-		  <h2><b>2025-27 Projects:</h2>
+		  <h2><b>2025-27 Projects</h2>
 		  <ul class="bullet-size-fix">
 		    <li><a href="https://pspwa.box.com/s/c4obilmp4wgi1hnz8s4zd01mjxcu4j1u" class="margin-20-top">List of 2025-2027 PSAR Large Capital Project applications submitted for first round review.</a></li>
 		    <li><a href="https://pspwa.box.com/s/gvflymebbrnl9vpwhilcgsd5yrnvsw63" class="margin-20-top">List of 2025-2027 PSAR Large Capital Project applications submitted for final round review.</a></li>
