@@ -107,7 +107,7 @@ navSelected = 3;
 			  are received after June 3, 2026. Projects may change from initial to final application.</p>
 			<h2>Proposed Projects (Available after april 13, 2026)</h2>
 		  <ul class="bullet-size-fix">
-			  <li>List  of 2027 -202  PSAR Large Capital Project  applications submitted for first round review. <em>Available after April 13, 2026</em></li>
+			  <li>List  of 2027 -2029  PSAR Large Capital Project  applications submitted for first round review. <em>Available after April 13, 2026</em></li>
 			  <li>List  of 2027 -2029   PSAR Large Capital Project applications submitted for final round review. <em>Available after June 3, 2026</em></li>
 			  <li>Map  of 2027 -2029   PSAR Large Capital proposed projects invited to submit final applications. <em>Available end of April, 2026</em></li>
 		  </ul>
