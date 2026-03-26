@@ -141,7 +141,19 @@ navSelected = 3;
 	<p class="last-update">Last updated: 03/26/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<p><strong>Marlies Wierenga</strong></P>
+			<p>PSAR Program Manager<br />
+			360.968.9673 | <a href="mailto:Marlies.Wierenga@psp.wa.gov">Marlies.Wierenga@psp.wa.gov</a></p>
+			<p>&nbsp;</p>
+			<div>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
