@@ -154,10 +154,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p>For more information contact:<br>
-				Marlies Wierenga<br>
-				PSAR Program Manager<br>
-				360.968.9673 | Marlies.Wierenga@psp.wa.gov</p>
+				<?php include 'includes/rn-PSAR.html';?></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
