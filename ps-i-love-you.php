@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>PSP Valentines Cards</title>
+<title>PS I Love You</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 3;
+  	navSelected = 2;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -51,17 +51,13 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image120">
-	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
-</header>
+<header class="overview-page-image-style overview-page-image120"></header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>PSP Valentine's cards</h1>
+			<h1>P.S. I Love you</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -80,28 +76,21 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 			
-			
-			<p class="padding-10-top">Show your loved one how much they mean to you with some Puget Sound Partnership themed Valentine wishes. <br>
-			  <br>
-	    <img src="images/cardsalmon2.png" width="620" height="512" alt=""/></p>
-		<p class="padding-10-top"><a href="http://psp.wa.gov/images/cardsalmon2.png">Open full size version.</a><br>
+		<h2 class="padding-10-top">Puget Sound Connects us</h2>
+		<p>			  Through memories, work, culture, and community.</p>
+			<p> <strong>“P.S. I Love You”</strong> shares real stories from people who care about Puget Sound and the work to protect
+			  it. Tell us what makes this place special to you and tag @pspartnership for a chance to be featured in
+		    the next edition of Making Waves.</p>
+			<p><em>“Puget Sound was the backdrop to my childhood,
+		    and it's where I raised my own family.
+		    My connection to this place goes beyond words.</em>”<br>
+			  JON BRIDGMAN<br>
+			  Communications Manager<br>
+	    Puget Sound Partnership</p>
+		<p>&nbsp;</p>
+			<p>More information coming soon.<br>
 	    </p>
-			<p class="last-update"><img src="images/cardsalmon3.png" width="639" height="505" alt=""/></p>
-			<p class="last-update">&nbsp;</p>
-			<p class="padding-10-top"><a href="http://psp.wa.gov/images/cardsalmon3.png">Open full size version.</a><br>
-	    </p
-			<p class="last-update"><img src="images/cardestuary2.png" width="624" height="519" alt=""/></p>
-			<p class="last-update">&nbsp;</p>
-			<p class="padding-10-top"><a href="http://psp.wa.gov/images/cardestuary2.png">Open full size version.</a><br>
-	    </p
-			<p class="last-update"><img src="images/cardsalmon1.png" width="631" height="1019" alt=""/></p>
-			<p class="last-update">&nbsp;</p>
-			<p class="padding-10-top"><a href="http://psp.wa.gov/images/cardsalmon1.png">Open full size version.</a><br>
-	    </p
-			<p class="last-update"><img src="images/cardwatershed.png" width="638" height="889" alt=""/></p>
-			<p class="padding-10-top"><a href="http://psp.wa.gov/images/cardwatershed.png">Open full size version.</a><br>
-	    </p
-			<p class="last-update">&nbsp;</p>
+		<p class="last-update">&nbsp;</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
