@@ -71,7 +71,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-HEAL.html';?>	
+				<?php include 'includes/ln-community.html';?>	
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -81,9 +81,9 @@
 		
 			
 			
-			<p>The Puget Sound Partnership organizes  a Community Advocacy Council (CAC) made up of leaders from around the Puget  Sound, working to make their communities healthier, stronger, and safer for  all. One focus of the CAC is to gather resources that council members identify  as most important to the communities that they serve. The group&rsquo;s goal is to  share those resources with any community that may find them useful. On this  page, you can find a collection of resources gathered by the CAC. Resources are  organized by topic area.        </p>
+			<div class="highlightbox"><p>The Puget Sound Partnership organizes  a Community Advocacy Council (CAC) made up of leaders from around the Puget  Sound, working to make their communities healthier, stronger, and safer for  all. One focus of the CAC is to gather resources that council members identify  as most important to the communities that they serve. The group&rsquo;s goal is to  share those resources with any community that may find them useful. On this  page, you can find a collection of resources gathered by the CAC. Resources are  organized by topic area.        </p>
 		<p><strong>Note</strong>: As the Community Advocacy Council is  piloting this effort, they have focused on adding resources related to water  quality. The council hopes to add resources related to other environmental  justice topics in the future.<br>
-        </p>
+				</p></div>
         <h2>WATER QUALITY</h2>
             <h3>Groups focusing on climate justice for youth related to water quality and  beyond            </h3>
             <h4>YMCA Earth Service Corps</h4>
@@ -323,18 +323,6 @@
 				<div class="nonresponsive-object-hide-rightnav-li">
 				<li class="active" role="presentation"> <?php include 'includes/ln-community-engagement.html';?></li>
 				</div>
-				<!-- InstanceEndEditable -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->SEE ALSO
-			<div class="right-nav-title margin-0-top "></div>
-			<!-- InstanceEndEditable -->
-			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> </li>
-				<li class="active"><a href="https://pspwa.box.com/s/8awrzq9xpg8u8smlwy9zc88j9v8g8o21" target="new">HEAL Act Key Terms, Definitions, and Acronyms</a></li>
-				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/7dm19iz5lt6rvdhmz7zqxci7boddv969" target="new">Process to Identify Overburdened Communities and Vulnerable Populations</a></li>
-				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/hb95aoyeeiq8k5i1pw6452qnsah86wg7" target="new">Engaging the Partnership Tribal Co-management Council, the Equity Advisory Group, and the Environmental Justice Community Advisory Committee in Expenditure Decisions</a></li>
-				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/3f1865sjd28i5hp23i6s2pxwcw52akpn" target="new">Puget Sound Partnership Equity Guidebook</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
