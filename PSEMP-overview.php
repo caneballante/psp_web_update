@@ -57,9 +57,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP) OVERVIEW</h1>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --></div>
+			<h1>PUGET SOUND ECOSYSTEM MONITORING PROGRAM (PSEMP) OVERVIEW			</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -120,7 +119,7 @@
 					<tr>
 						<td class="no-icon"><a href="https://psemp-salmonidsworkgroup-wa-psp.hub.arcgis.com/" target="new">Salmonids </a></td>
 						<td class="no-icon"><a href="https://psemp-spatialdataworkgroup-wa-psp.hub.arcgis.com/" target="new">Spatial Data </a></td>
-						<td class="no-icon"><a href="https://sites.google.com/site/pugetsoundstormwaterworkgroup/home" target="new">Stormwater </a></td>
+						<td class="no-icon"><a href="https://ecology.wa.gov/about-us/accountability-transparency/partnerships-committees/stormwater-work-group" target="new">Stormwater </a></td>
 						<td class="no-icon"><a href="https://psemp-toxicsworkgroup-wa-psp.hub.arcgis.com/" target="new">Toxics </a></td>
 					</tr>
 					<tr>
@@ -147,7 +146,8 @@
 			<p>Information and products coming out of the PSEMP network provides the relevant, credible, and timely information needed to support adaptive management of recovery efforts. The four major elements of the Adaptive Management Framework are described in this <a href="images/PSEMP/2018-psemp-figures-1.jpg" target="_blank">image</a>. More information about PSEMP’s Adaptive Management roles can be found in the <a href="https://pspwa.box.com/s/xf3swog4yshyiylrpcwx74owvy8yscum" target="new">PSEMP Strategic Plan</a>.</p>
 			<h4>Communication</h4>
 			<p>The recently produced  <a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke" target="new">PSEMP Communications Strategy</a></li> lays the groundwork for improving access to, and use of, credible information to guide Puget Sound recovery decisions.  Our primary communication goals are to foster dialogue and information sharing within the monitoring and assessment community and to those who are making decisions on the ground, in policy and in funding decisions.  </p>
-			<p class="last-update">Last updated: 10/30/25</p>
+			<p>&nbsp;</p>
+			<p class="last-update">Last updated: 04/08/26</p>
 			
 			
 <!-- InstanceEndEditable --> </div>
@@ -181,7 +181,7 @@
 					<li role="presentation"> <a href="https://psemp-nearshoreworkgroup-wa-psp.hub.arcgis.com/" target="new">Nearshore Work Group</a></li>
 					<li role="presentation"> <a href="https://psemp-salmonidsworkgroup-wa-psp.hub.arcgis.com/" target="new">Salmonids Work Group</a></li>
 					<li role="presentation"> <a href="https://psemp-spatialdataworkgroup-wa-psp.hub.arcgis.com/" target="new">Spatial Data Work Group</a></li>
-					<li role="presentation"> <a href="https://sites.google.com/site/pugetsoundstormwaterworkgroup/home" target="new">Stormwater Work Group</a></li>
+					<li role="presentation"> <a href="https://ecology.wa.gov/about-us/accountability-transparency/partnerships-committees/stormwater-work-group" target="new">Stormwater Work Group</a></li>
 					<li role="presentation"> <a href="https://psemp-toxicsworkgroup-wa-psp.hub.arcgis.com/" target="new">Toxics Work Group</a></li>
 					<li role="presentation"> <a href="https://pspwa.box.com/s/ytvmmzdddoelx0y0s6750akzeu47ch00" target="new">Communications Subcommittee</a></li>
 						<!-- InstanceEndEditable -->
