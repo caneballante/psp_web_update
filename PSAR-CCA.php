@@ -90,7 +90,7 @@
 <p class="margin-20-top">The CCA is the centerpiece of the state’s climate action efforts. Money from the program supports <a href="https://climate.wa.gov/washington-climate-action-work/climate-commitment-act-projects-and-programs" target="new"> thousands of projects</a> that reduce pollution and improve the environment. Some of that money is invested in projects to improve shorelines and waterways for salmon, which can help reduce impacts from climate change and also benefit humans.				</p>
 <p class="margin-20-top"> Under the CCA, applicants for funding from programs like PSAR must share information about the proposed project with Tribal partners and offer to discuss the project. In addition, State Agencies that administer grant programs that could receive CCA funding must offer consultation to federally recognized Tribes.</p>
 <p class="margin-20-top">For the 27-29 PSAR Large Capital Projects grant  round, project lists will be posted  here and shared with Tribes  to support the CCA notice requirements. Included will be the initial project information from applicants in a list format, and a map of the projects that are moving forward in the grant round. The information will be updated after final applications are received after June 3, 2026. Projects may change from initial to final application.</p>
-<h2>2027-2029 Proposed Projects</h2>
+<h2>2027-2029 PSAR LARGE CAPITAL Proposed Projects</h2>
 <ul class="bullet-size-fix">
   <li><a href="https://pspwa.box.com/s/qfg32j2fxqbjjp1dr0ray334599sr9yq" target="new">List of 2027-2029 PSAR Large Capital Project applications submitted for first round review.</a></li>
   <li>List of 2027 -2029 PSAR Large Capital Project  applications submitted for final round review.&nbsp;<em>Available after June 3,  2026.</em></li>
@@ -104,7 +104,7 @@ Open the Map of 2027-2029 PSAR Large Capital proposed projects in a new tab.
 	    
 <iframe src= "https://wa-psp.maps.arcgis.com/apps/dashboards/0d6ef4eb07164273a68f32e78089dfae" title="Map of 2025-2027 PSAR Large Capital proposed projects" width="100%" height="820" alt="Map of 2025-2027 PSAR Large Capital proposed projects">
 </iframe>
-<h2><b>2025-27 Projects</h2>
+<h2><b>2025-27 PSAR LARGE CAPITAL Proposed Projects</h2>
 <ul class="bullet-size-fix">
 <li><a href="https://pspwa.box.com/s/c4obilmp4wgi1hnz8s4zd01mjxcu4j1u" class="margin-20-top">List of 2025-2027 PSAR Large Capital Project applications submitted for first round review.</a></li>
 <li><a href="https://pspwa.box.com/s/gvflymebbrnl9vpwhilcgsd5yrnvsw63" class="margin-20-top">List of 2025-2027 PSAR Large Capital Project applications submitted for final round review.</a></li>
