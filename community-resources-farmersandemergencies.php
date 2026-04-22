@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Community Resources - Key Resources in Puget Sound Info</title>
+<title>Community Resources - Farmers and Emergencies</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 4;
+  	navSelected = 6;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> Community: Key resources in Puget  Sound Info</a></h1>
+			<h1> Community Resources - Farmers and emergencies</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -77,34 +77,54 @@
 		
 			
 			
-			
-       <p>On this page you'll find community engagement resources from our <a href="https://www.pugetsoundinfo.wa.gov/#goals">Puget  Sound Info site</a>.</p>
-       <p><img src="images/Key Resources in Puget Sound Info.png" width="674" height="476" alt=""/></p>
-            <h2>Healthy Water Quality Section</h2>
+       <table align="center"width="200" border="1">
+  <tbody>
+    <tr>
+      <td><a href="#section1"><img src="images/resources for farmers.jpg" width="357" height="241" alt=""/></a></td>
+		
+      <td><a href="#section2"><img src="images/resources for emergencies.jpg" width="357" height="241" alt=""/></a></td>
+    </tr>
+    <tr>
+		<td><a href="#section1">Resources for Farmers</a></td>
+      <td><a href="#section2">Resources for Emergencies</a></td>
+    </tr>
+  </tbody>
+</table>
+        <h2 id="section1">Resources for farmers            </h2>
+            <h3>PUGET SOUND-WIDE</h3>
+            <h3>Resilient  Food System Infrastructure | Washington State Department of Agriculture</h3>
         <ul class="bullet-size-fix">
-              <li><strong>Website</strong>: <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/6">Healthy  Water Quality Section</a>: </li>
-              <li><strong>Description</strong>: Provides an overview of  water quality in Puget Sound, why it&rsquo;s an important topic, how it has changed  over the years, and what big issues of concern are.</li>
-              <ul class="bullet-size-fix">
-                <li><strong>Tip</strong>: At the bottom of the page, expand  any of the vital signs (Freshwater, Marine Water, or Toxics in Aquatic Life) to  find more specific information, data, and reports about how the Puget Sound is  doing on each vital sign indicator. For example, selecting the &ldquo;contaminants in  adult salmon&rdquo; indicator will provide data about contaminants in adult salmon.</li>
-                <li><strong>Tip</strong>: Selecting a vital sign header, such  as &ldquo;Freshwater&rdquo;, will provide background documents on the vital sign, and  information about related strategies that this work interconnects with.</li>
-              </ul>
-            </ul>
-            <h2>National Estuary Program activities list</h2>
+              <li><strong>Website</strong>:<a href="https://agr.wa.gov/services/grant-opportunities/resilient-food-system-infrastructure">Resilient  Food System Infrastructure | Washington State Department of Agriculture</a></li>
+              <li><strong>Description</strong>: Areas of work that this grant is focusing on  include projects focused on the construction of wastewater management  structures and other similar infrastructure. The website is available in  Spanish.            </li>
+        </ul>
+        <h3>Washington  | Environmental Quality Incentives Program | Natural Resources Conservation  Service</h3>
         <ul class="bullet-size-fix">
-              <li><strong>Website</strong>: <a href="https://nepatlas.pugetsoundinfo.wa.gov/Activity/Index">National Estuary  Program activities list</a></li>
-              <li><strong>Description</strong>: Use the search bar to look  up keywords and find events/opportunities/activities that you may want to get  involved in.</li>
-            </ul>
-        <h2>Ongoing Programs Portal Program list</h2>
-            <ul class="bullet-size-fix">
-              <li><strong>Website</strong>: <a href="https://www.pugetsoundinfo.wa.gov/OngoingProgram/Programs">Ongoing  Programs Portal program list</a></li>
-              <li><strong>Description</strong>: Use  the search bar to look up keywords, such as &ldquo;salmon&rdquo;, to find programs and work  that we are connected to and that are related to topics you are interested in.        </li>
-            </ul>
+              <li><strong>Website</strong>:<a href="https://www.nrcs.usda.gov/programs-initiatives/eqip-environmental-quality-incentives/washington/washington-environmental">Washington  | Environmental Quality Incentives Program | Natural Resources Conservation  Service</a></li>
+              <li><strong>Description</strong>: The USDA&rsquo;s Natural Resource Conservation  Service (NRCS) provides one-on-one consulting about farm resource issues. &lsquo;Improved water and air quality&rsquo; is one  area of work. Washington state farmers are eligible to apply. The  website is not available in Spanish.</li>
+        </ul>
+            <h3>Water  quality grants and loans - Washington State Department of Ecology</h3>
+        <ul class="bullet-size-fix">
+              <li><strong>Website</strong>:<a href="https://ecology.wa.gov/water-shorelines/water-quality/water-quality-grants-and-loans#combined">Water  quality grants and loans - Washington State Department of Ecology</a></li>
+              <li><strong>Description</strong>: This page outlines grants and loans related to  water quality. Farmers can apply for <a href="https://ecology.wa.gov/about-us/payments-contracts-grants/grants-loans/find-a-grant-or-loan/water-quality-combined">the  water quality combined funding program</a>. Interpretation service is available <a href="https://ecology.wa.gov/about-us/accessibility-equity/language-services/servicios-de-idiomas">here</a>.            </li>
+        </ul>
+        <h2 id="section2">Resources for emergencies</h2>
+            <h3>WA Department of Health            </h3>
+            <h3>CDC safety in flood water resource website</h3>
+        <ul class="bullet-size-fix">
+              <li><strong>Website</strong>: <a href="https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html">Safety  Guidelines: Floodwater | Floods | CDC</a></li>
+              <li><strong>Description</strong>: Spanish and English resources  helping toexplain how to stay safe and take care of your home during a flood.<br>
+          </li>
+        </ul>
+            <h3>FEMA drinking tap water FAQ site</h3>
+        <ul class="bullet-size-fix">
+            <li><strong>Website</strong>: <a href="https://www.fema.gov/node/tap-water-safe-drink-after-disaster">FAQ: Is  tap water safe to drink after a disaster? | FEMA.gov</a></li>
+              <li><strong>Description</strong>: A short explanation about about the dangers of drinking tap water if contaminated in a flood event. It also includes links to further  resources. 
         <h2>Contact us</h2>
 			
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
         </p>
-			<p class="last-update">Last updated: 03/05/26</p>
+			<p class="last-update">Last updated: 04/21/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

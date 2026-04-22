@@ -81,9 +81,6 @@
 		
 			
 			
-			<div class="highlightbox"><p>The Puget Sound Partnership organizes  a Community Advocacy Council (CAC) made up of leaders from around the Puget  Sound, working to make their communities healthier, stronger, and safer for  all. One focus of the CAC is to gather resources that council members identify  as most important to the communities that they serve. The group&rsquo;s goal is to  share those resources with any community that may find them useful. On this  page, you can find a collection of resources gathered by the CAC. Resources are  organized by topic area.        </p>
-		<p><strong>Note</strong>: As the Community Advocacy Council is  piloting this effort, they have focused on adding resources related to water  quality. The council hopes to add resources related to other environmental  justice topics in the future.<br>
-				</p></div>
         <h2>WATER QUALITY</h2>
             <h3>Groups focusing on climate justice for youth related to water quality and  beyond            </h3>
             <h4>YMCA Earth Service Corps</h4>
@@ -321,7 +318,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<div class="nonresponsive-object-hide-rightnav-li">
-				<li class="active" role="presentation"> <?php include 'includes/ln-community-engagement.html';?></li>
+				<li class="active" role="presentation"> <?php include 'includes/ln-community-advocacy.html';?></li>
 				</div>
 				<!-- InstanceEndEditable -->
 			</ul>

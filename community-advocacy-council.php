@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 1;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -91,7 +91,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<div class="nonresponsive-object-hide-rightnav-li">
-				<li class="active" role="presentation"> <?php include 'includes/ln-community-engagement.html';?></li>
+				<li class="active" role="presentation"> <?php include 'includes/ln-community-advocacy.html';?></li>
 				</div>
 				<!-- InstanceEndEditable -->
 			</ul>
