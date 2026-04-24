@@ -88,7 +88,7 @@
 	<td><a href="#section4"><img src="images/Puget Sound-wide.jpg" width="192" height="163" alt=""/></td>
     </tr>
     <tr>
-		<td><a href="#section1">Seattle</a></td>
+		<td><p><a href="#section1">Seattle</a></p></td>
       <td><a href="#section2">Tacoma</a></td>
 		<td><a href="#section3">Sewer-related programs in Tacoma Pierce County</a></td>
 		<td><a href="#section4">Olympia</a></td>
