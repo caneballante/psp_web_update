@@ -57,9 +57,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>ABOUT THE LEADERSHIP COUNCIL</h1>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --></div>
+			<h1>ABOUT THE LEADERSHIP COUNCIL			</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -75,8 +74,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<p>The Leadership Council is the governing body of the Puget Sound Partnership. Its seven members are leading citizens chosen from around the Sound. Members are appointed by the Governor to serve four-year terms, but may continue to serve until being officially reappointed or replaced by a new member. Dennis McLerran currently chairs the Leadership Council.<br>
-			</p>
+			<p>The Leadership Council is the governing body of the Puget Sound Partnership. Its seven members are leading citizens chosen from around the Sound. Members are appointed by the Governor to serve four-year terms, but may continue to serve until being officially reappointed or replaced by a new member. Dennis McLerran currently chairs the Leadership Council.</p>
 			
 			<h2>Chair: Dennis McLerran</h2>
 			<p><strong>Term ends:</strong> June 25, 2026<br />

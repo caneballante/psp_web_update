@@ -57,9 +57,8 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>PARTNERSHIP BOARDS OVERVIEW</h1>
-			<p>&nbsp;</p>
-			<!-- InstanceEndEditable --></div>
+			<h1>PARTNERSHIP BOARDS OVERVIEW			</h1>
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -75,23 +74,16 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			
-            
-			<p><strong>Overview</strong></p>
-            <p>The Puget Sound Partnership&rsquo;s boards support and guide the agency in its charge of mobilizing and accelerating the science-based effort to protect and restore Puget Sound.  They consist of:  <br>
-1.              Leadership Council<br>
-2.              Ecosystem Coordination Board<br>
-3.              Science Panel<br>
-            </p>
+			<h2>Overview</h2>
+        <p>The Puget Sound Partnership&rsquo;s boards support and guide the agency in its charge of mobilizing and accelerating the science-based effort to protect and restore Puget Sound.  They consist of:  </p>
+            <ol class="bullet-size-fix">
+			  <li><a href="LC_about.php">Leadership Council</a></li>
+			  <li><a href="EB_about.php">Ecosystem Coordination Boards</a></li>
+			  <li><a href="SP_about.php">Science Panel</a></li>
+		    <li><a href="SR_about.php">Salmon Recovery Council</a></li></ol>
 			<p>The Leadership Council is also the statutorily designated regional salmon recovery organization for Puget Sound and is advised by the Puget Sound Salmon Recovery Council on matters related to salmon recovery. The board system and its networks are integral to the success of Puget Sound restoration and protection effort.</p>
 			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o">Link to Board's documents, meeting materials, summaries, and Resolutions</a></p>
-			<p>Washington State has over 200 boards and commissions to which the Governor appoints citizen members. Appointees are responsible for advising the Governor, the legislature, and state agencies. For more information on board and commission appointments visit <a href="http://governor.wa.gov/boards/default.aspx">http://governor.wa.gov/boards/default.aspx</a></p>
-<p><br>
-				<br>
-				<br>
-				<br>
-				<br>
-				<br>
+			<p>Washington State has over 200 boards and commissions to which the Governor appoints citizen members. Appointees are responsible for advising the Governor, the legislature, and state agencies. For more information on board and commission appointments visit <a href="http://governor.wa.gov/boards/default.aspx">http://governor.wa.gov/boards/default.aspx</a><br>
 				<br>
 				<br>
 			</p>
@@ -104,11 +96,10 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-					<li>
 					<?php include 'includes/board_overviewcontact.html';?>
-				</li>
+					<li></li>
 				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></li>
-				
+				&lt;?php include 'includes/board_overviewcontact.html';?&gt; 					&lt;li&gt;&lt;/li&gt; 				&lt;li&gt;&lt;a href=&quot;https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o&quot;&gt; Board's documents, meeting materials, summaries, and Resolutions&lt;/a&gt;&lt;/li&gt;
 				
 				
 				<!-- InstanceEndEditable -->
