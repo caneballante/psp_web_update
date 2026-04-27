@@ -61,7 +61,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> Community Engagement Guide			</h1>
+			<h1> Community Engagement			</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -80,12 +80,24 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 			
+			<h2>About the community engagement Program</h2>
+			<p>Our Community Engagement Program directs our best practices for community engagement. Our engagement is focused on building meaningful relationships with diverse communities across Puget Sound that are most affected by environmental injustices. This work is essential to our agency because it allows for community solutions to shape our agency&rsquo;s direction, policies, and programs.</p>
+			<p>Are you interested in learning more about our community engagement work or collaborating with us on a community engagement project? Are you a community leader or community-based organization looking for assistance or opportunities to share feedback on our work? Please <a href="signe.lindquist@psp.wa.gov" target="new">reach out to our Community Engagement Coordinator.</a>			</p>
+			<h2>Community Engagement Guide </h2>
+			<p><span class="padding-10-top">The environmental justice law (SB 5141) known as the <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02">Healthy Environment  for All Act</a> (HEAL), passed in 2021. Part of this law  requires our agency (and six others)  <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.050">to create and adopt  community engagement plans</a>.</span></p>
+			<p>The community engagement plan that Puget Sound Partnership uses is called<a href="https://pspwa.box.com/s/sb8odrd01gt0t3pzals7en1rxzze8vx2" target="new"> the Community Engagement Guide.</a> We call it a guide rather than a plan because this document is designed to help staff walk through their own unique community engagement processes. </p>
+			<p>The guide includes:</p>
+			<ul class="bullet-size-fix">
+			  <li>Context about how our agency approaches community engagement work.</li>
+			  <li>An eight-step process for community engagement.</li>
+			  <li>An accompanying &ldquo;Toolkit&rdquo; of worksheets to support staff as they design, conduct, and report about community engagement work.</li>
+			  <li>Helpful resources.</li>
+	    </ul>
 			<div class="highlightbox">
-				<p>Download the <a href="https://pspwa.box.com/s/sb8odrd01gt0t3pzals7en1rxzze8vx2" target="new">Puget Sound Partnership’s Community Engagement Guide</a>.</p></div>
-			<p class="padding-10-top">The environmental justice law (SB 5141) known as the <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02">Healthy Environment  for All Act</a> (HEAL), passed in 2021. Chapter 70A.02 RCW provides a  roadmap for integrating environmental justice into state agencies. The law  requires seven state agencies  <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.050">to create and adopt  community engagement plans</a> by July 1, 2022. For this and other parts  of HEAL, agencies work closely with the <a href="https://waportal.org/partners/home/environmental-justice-council">Environmental  Justice Council</a> (EJ Council), which consists of members  appointed by the Governor. HEAL states that the EJ Council will  provide guidance on community engagement plans as agencies create and update  them. HEAL also requires that each covered agency consider the guidance  developed by the EJ Council.  See the <a href="https://waportal.org/partners/home/environmental-justice-council">Environmental  Justice Council website</a> for more details on the role of the EJ  Council.<br>
-			  <br>
-			</p>
-			<p class="last-update">Last updated: 12/23/25</p>
+	    <p>Download the <a href="https://pspwa.box.com/s/sb8odrd01gt0t3pzals7en1rxzze8vx2" target="new">Puget Sound Partnership’s Community Engagement Guide</a>.</p></div>
+			<p class="padding-10-top"><br>
+	    </p>
+			<p class="last-update">Last updated: 04/27/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -94,8 +106,24 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<div class="nonresponsive-object-hide-rightnav-li">
-				<li class="active" role="presentation"> <?php include 'includes/ln-community-engagement.html';?></li>
+				
 				</div>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<p>CONTACT</p>
+			<p>Signe Lindquist</p>
+			<p><strong>Community Engagement Coordinator </strong><a href="signe.lindquist@psp.wa.gov" target="new">signe.lindquist@psp.wa.gov</a></p>
+			<p>360.688.4049</p>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<p><strong>Resources</strong></p>
+				<p><a href="https://pspwa.box.com/s/4pn47mj5prmn525yzqorq747ch1ew1cw" target="new">PSP Community Engagement Guide</a></p>
+				<p><a href="https://pspwa.box.com/s/jzqins3m00mbowdrlmz3gzsjq0o9m4kr" target="new">PSP Community Engagement Guide Toolkit and Worksheets</a></p>
+				<p><a href="https://pspwa.box.com/s/78p224b2rqgd1mwvujy37sb6jo1b554x" target="new">PSP HEAL Act Tribal Definition</a><a href="https://pspwa.box.com/s/3q34inra9pi56askq35r7xn4mlkkqo3x" target="new">PSP HEAL ACT Tribal Government Engagement Guide</a><a href="https://pspwa.box.com/s/78p224b2rqgd1mwvujy37sb6jo1b554x" target="new">ns Appendix</a>
+				</p>
+				<li role="presentation"></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->SEE ALSO
