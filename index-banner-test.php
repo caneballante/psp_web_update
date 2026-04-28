@@ -18,7 +18,7 @@
 
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/custom.css" rel="stylesheet" type="text/css">
+<link href="css/custom-bannertest.css" rel="stylesheet" type="text/css">
 <link href="css/custom-jon-test.css" rel="stylesheet" type="text/css">
 
 <!-- Font PRENTON TYPEKIT --> 
