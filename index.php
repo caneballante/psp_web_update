@@ -55,22 +55,41 @@
 		</div>
 	</div>
 </header>-->
-<header class="intro-SOS">
-		<div class="col-md-8 col-md-offset-2">
-						<h2 class="padding-40-top">2025 State of the Sound</h2>
-						<p>The State of the Sound assesses the health of the Puget Sound ecosystem and progress towards its recovery</p>
-
-						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="http://www.stateofthesound.wa.gov" target="new">LEARN MORE ABOUT THE REPORT</a></div>
-						</div>
-						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/40b99uyucp7yhzq27om2qbb6y1vy39dj.pdf">DOWNLOAD THE STATE OF THE SOUND</a></div>
-						</div>
-						
-	  </div>
-	  <div class="intro-body">
-	    
-	    </div>
+<header class="intro-SOS home-hero" aria-label="Featured Puget Sound Partnership updates">
+	<img src="images/2025SOSheader-sm_wide.jpg" alt="" class="home-hero-bg" aria-hidden="true">
+	<div class="home-hero-wrap">
+		<section class="home-hero-feature no-icon" aria-labelledby="home-hero-feature-title">
+			<div class="home-hero-feature-copy">
+				<p class="home-hero-kicker">Featured report</p>
+				<h2 id="home-hero-feature-title">2025 State of the Sound</h2>
+				<p>The State of the Sound assesses the health of the Puget Sound ecosystem and progress toward its recovery.</p>
+				<a href="https://stateofthesound.wa.gov/" class="home-hero-link">Learn more about the report</a>
+			</div>
+		</section>
+		<aside class="home-hero-stack" aria-label="More homepage links">
+			<article class="home-hero-card no-icon">
+				<img src="images/home_roadmap.png" alt="Satellite view of the Salish Sea">
+				<div>
+					<h3>Charting the course to recovery</h3>
+					<a href="2026AAupdate.php">2026-2030 Action Agenda Update</a>
+				</div>
+			</article>
+			<article class="home-hero-card no-icon">
+				<img src="images/home_local.png" alt="Construction of an engineered log jam">
+				<div>
+					<h3>Actions across the Sound</h3>
+					<a href="salmon-recovery-overview.php">Explore salmon recovery work</a>
+				</div>
+			</article>
+			<article class="home-hero-card no-icon">
+				<img src="images/home_support.png" alt="Community meeting">
+				<div>
+					<h3>Supporting our partners</h3>
+					<a href="partnership-boards-overview.php">View partnership boards</a>
+				</div>
+			</article>
+		</aside>
+	</div>
 </header>
 <div class="container-fluid">
 	<div class="row">
