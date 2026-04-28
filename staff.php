@@ -193,7 +193,7 @@
 						</p>
 						
 						<!--INTEGRATED PLANNING TEAM-->
-						<h2>ECOSYSTEM RECOVERY PROGRAM</h2>
+						<h3>ECOSYSTEM RECOVERY PROGRAM</h3>
 						<h4>Kirsten Feifel</h4>
 						<p>Director of Ecosystem Recovery<br>
 							360.701.1428 | <a href="mailto:kirsten.feifel@psp.wa.gov">kirsten.feifel@psp.wa.gov</a></p>
@@ -250,7 +250,7 @@
 						
 						
 						<!--SCIENCE AND EVALUATION-->
-						<h2>SCIENCE AND EVALUATION</h2>
+						<h3>SCIENCE AND EVALUATION</h3>
 						<h4>Scott Redman</h4>
 						<p> Program Director<br />
 							360.791.2879 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
