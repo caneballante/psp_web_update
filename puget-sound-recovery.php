@@ -58,7 +58,6 @@
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>PUGET SOUND RECOVERY</h1>
-			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -99,6 +98,7 @@
 			</ul>
 			<p>We build a shared vision for recovery through the Action Agenda, which identifies the top priority actions or programs to stay on course to recovery. Regional Implementation Strategies  help us identify how best to achieve recovery, as well as identify the biggest challenges to recovery and the monitoring and research needs that help to inform and improve recovery. </p>
 			<p><a href="puget-sound-partnership.php">About the Partnership </a>| <a href="2022AAupdate.php">Action Agenda</a> | <a href="implementation-strategies.php">Implementation Strategies</a></p>
+			<p class="last-update">Last updated: 04/29/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
