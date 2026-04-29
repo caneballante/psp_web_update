@@ -914,7 +914,7 @@ display: block
 	position: relative;
 	min-height: 514px;
 	overflow: hidden;
-	background: linear-gradient(90deg, rgba(0, 0, 0, .34), rgba(0, 0, 0, .08));
+	/*background: linear-gradient(90deg, rgba(0, 0, 0, .34), rgba(0, 0, 0, .08));*/
 	box-shadow: none;
 }
 .home-hero-feature-copy {
