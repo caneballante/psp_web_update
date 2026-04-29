@@ -165,17 +165,17 @@ navSelected = 5;
 
         <!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" --><strong>CONTACT</strong>
+<div class="right-nav-title margin-0-top "></div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
-				
-			
+				<div class="nonresponsive-object-hide-rightnav-li">
+				<li class="active" role="presentation"> <?php include 'includes/rn-grant_contact.html';?></li>
+				</div>
 				<!-- InstanceEndEditable -->
 			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
+	  <!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>
