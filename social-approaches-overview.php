@@ -56,8 +56,6 @@
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>SOCIAL APPROACHES</h1>
-			<h1><br>
-			</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -87,10 +85,9 @@
 <h2>Enabling Partners</h2>
 			
 <p>The Partnership engages Puget Sound residents primarily through our networks of local partners. Our partners include Local Integrating Organizations (LIOs), salmon recovery Lead Entities (LEs), Marine Resource Committees (MRCs), and Education, Communication, and Outreach Networks (ECO Nets), among many others. The Partnership supports local partners who are the practitioners of social approaches, and ensures that local partners have the necessary resources to effectively engage people in their local areas. Here are some of the ways we support and enable our partners: </p>
-<ul>
+<ul class="bullet-size-fix">
   <li>The Partnership supports LIOs that coordinate planning and implementation of local ecosystem recovery efforts. <a href="http://www.psp.wa.gov/LIO-overview.php">LEARN MORE</a>. </li>
   <li>In order to better support local ecosystem recovery, the Partnership is conducting a comprehensive synthesis of the LIO Ecosystem Recovery Plans. <a href="https://pspwa.box.com/v/LIOSynthesisReportLinks">LEARN MORE</a>. </li>
-  <li>ECO Net chapters operate in select counties around Puget Sound. The Partnership supports the ECO Net chapters&rsquo; participation in local ecosystem recovery and the Action Agenda. <a href="https://pspwa.box.com/v/ECONetInfo">LEARN MORE</a>.  </li>
   <li><em>Puget Sound Starts Here</em> is a collaborative campaign that connects individual Puget Sound residents to ways to help recover Puget Sound. The Partnership is a member of the <em>Puget Sound Starts Here</em> steering committee. <a href="http://www.pugetsoundstartshere.org/">LEARN MORE</a>. </li>
   <li>The Partnership houses and periodically updates resources to assist partners who are implementing social approaches. <a href="https://pspwa.box.com/v/PartnerResources">LEARN MORE</a>. </li>
 </ul>
@@ -131,22 +128,14 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-			
 				<li role="presentation"> <a href="https://www.pugetsoundstartshere.org/">Puget Sound Starts Here</a></li>
-				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-10-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-			
-				<li><p class="right-nav-contact">
-
-</p></li>
-				
-				<!-- InstanceEndEditable -->
+			<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>

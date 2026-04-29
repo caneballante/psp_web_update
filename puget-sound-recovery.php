@@ -79,16 +79,15 @@
 			<p>Puget Sound is a deep fjord estuary that lies within the broader Salish Sea. As a saltwater body, it is far from being uniform: each basin, carved by retreating glaciers more than 10,000 years ago, varies in its physical, chemical, and biological properties. Together, the basins contain an astounding diversity of life.</p>
 			<p>For the purposes of Puget Sound ecosystem recovery, Puget Sound is the area from the snowcaps to the whitecaps, including the watersheds and saltwaters east of the Pacific Ocean and south of the international boundary with Canada. Considered the largest estuary by volume in the United States (with perhaps the exception of unexplored estuaries in Alaska), Puget Sound is a complex ecosystem encompassing mountains, farmlands, cities, rivers, forests, and wetlands.</p>
 			<p>Humans have long relied on the Puget Sound watershed for healthy food and clean water and the other services it provides. Puget Sound supports a large part of our state’s economy and provides vital recreational, spiritual, and other essential quality of life benefits. </p>
-			<strong><a href="http://www.eopugetsound.org" target="new">Encyclopedia of Puget Sound</a></strong>  |  <strong><a href="http://www.eopugetsound.org/articles/2015-puget-sound-fact-book" target="new">Puget Sound Fact Book</a></strong><a href="#"></p></a>
 			<h2>WHAT IS THE PROBLEM?</h2>
 			<p>Human actions over the past century have damaged Puget Sound. These actions have degraded the water quality, water quantity, and habitats of the region, including the natural resources on which people depend. </p>
 			<p>People are drawn to the vibrant economy and landscape of Puget Sound. As the regional population grows, it brings changes to these landscapes through increased land development, infrastructure, and pollutants. The threat of climate change is ever-present, with warmer streams and ocean waters, reduced snowpack, more extreme weather events, and increased fires and floods. As a result, the pressures on the ecosystem relentlessly continue to take their toll on Puget Sound and the communities supported by it.</p>
 			<p>Puget Sound will never be the same as it was 100 years ago. But the future wellbeing of Puget Sound and residents around the region is being defined by today&rsquo;s actions. Together, as communities and individuals, we can accelerate the recovery of Puget Sound and protect its health for the benefit of everyone.</p>
-			<strong><a href="sos.php">State of the Sound</a></strong> | <strong><a href="evaluating-vital-signs.php" target="new">Puget Sound Vital Signs</a></strong> | <strong><a href="people-and-puget-sound.php">People and Puget Sound </a></strong></p></a>
+			<p><a href="sos.php">State of the Sound</a> | <a href="evaluating-vital-signs.php" target="new">Puget Sound Vital Signs</a> | <a href="people-and-puget-sound.php">People and Puget Sound </a></p></a>
 			<h2>WHAT ARE WE DOING TO RECOVER PUGET SOUND?</h2>
 			<p>As a backbone organization, the Partnership works with hundreds of state, local, and tribal partners to chart a course to recovery, track shared measures of recovery, and support the work that protects and recovers Puget Sound. </p>
 			<p>Along with our partners, we are addressing the six goals of recovery:</p>
-			<ul>
+			<ul class="bullet-size-fix">
 				<li>Healthy human population </li>
 				<li>Vibrant quality of life</li>
 				<li>Thriving species and food web</li>
