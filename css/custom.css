@@ -33,8 +33,8 @@ h1, h2, h3, h4, h5, h6 {
 	/*letter-spacing: 1px;*/
 }
 h1 {
-	margin: 50px 0 50px 0;
-	font-size: 37px;
+	margin: 35px 0 35px 0;
+	font-size: 33px;
 	font-weight: 400;
 }
 
@@ -52,7 +52,7 @@ h1 {
 }
 }
 h2 {
-	font-size: 18px;
+	font-size: 20px;
 	font-weight: 900;
 	/*border-bottom: solid #777 1px;*/
 	margin-top: 50px;
@@ -60,8 +60,11 @@ h2 {
 	margin-bottom: 0px;
 	color: #0a3b5c;
 }
-.sitemap h2 {
-/*	text-decoration: underline; */
+
+#stafflist h2 {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+
 }
 h3 {
 	font-size: 15px;
@@ -69,6 +72,26 @@ h3 {
 	line-height: 1.5em;
 	text-transform: capitalize;
 }
+#stafflist h3 {
+	font-size: 20px;
+	font-weight: 300;
+}
+h4 {
+	font-family: georgia, times, serif;
+	font-size: 18px;
+	font-weight: 800;
+	line-height: 1.5em;
+	text-transform: capitalize;
+}
+#stafflist h4 {
+	margin: 30px 0 0 0;
+	font-family: georgia, times, serif;
+	font-size: 18px;
+	font-weight: 800;
+	line-height: 1.5em;
+	text-transform: capitalize;
+}
+
 p {
 	font-size: 1.3em;
 	line-height: 1.9;

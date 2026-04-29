@@ -58,7 +58,6 @@
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>ABOUT THE PARTNERSHIP</h1>
-			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -101,10 +100,7 @@
 
 <h2>Funding</h2>
 <p>Our operating budget comes from state and federal sources. Our state budget consists of funds from the following accounts: General Fund, Aquatic Lands Enhancement Account, and the Model Toxics Control Operating Account. We primarily uses these funds as match to federal grants provided by the Environmental Protection Agency (EPA). In the 2021-23 biennium, our operating budget totaled $16.6 million in state funds and $20.5 million in federal U.S. EPA funds. We also received $1.3 million from the NOAA Pacific Coastal Salmon Recovery Fund (PCSRF) to continue to serve as the regional salmon recovery organization for Puget Sound. We also received $300,000 from the Puget Sound Acquisition and Restoration (PSAR) fund through an interagency agreement with the Recreation and Conservation Office (RCO) to co-manage PSAR project prioritization, monitoring, and investments.</p>
-
-<a href="2022AAupdate.php">Puget Sound Action Agenda</a>
-			
-			<p class="last-update">Last updated: 01/26/24</p>
+<p class="last-update">Last updated: 01/26/24</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
