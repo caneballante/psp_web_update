@@ -76,11 +76,10 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> 
 		<!--EXECUTIVE TEAM-->
 		<div id="stafflist">
-			<hr class="margin-0-top"/>
+			<hr class="two-point margin-0-top"/>
 			<h2>EXECUTIVE DIRECTOR'S OFFICE</h2>
-			<hr/>
-			<h3>EXECUTIVE STAFF</h3>
-            <h4>Mindy Roberts</h4>
+			<hr class="two-point"/>
+			<h4>Mindy Roberts</h4>
             <p>Executive Director<br>
 			360.791.6744 | <a href="mailto:mindy.roberts@psp.wa.gov">mindy.roberts@psp.wa.gov</a></p>
 			<h4>Chrystal Andoh</h4>
@@ -101,9 +100,9 @@
 			<p>Special Assistant for Federal Affairs<br />
 			360.918.1337 | <a href="mailto:ahren.stroming@psp.wa.gov">ahren.stroming@psp.wa.gov</a></p>
 			<!--EXTERNAL OPERATIONS-->
-			<hr class="margin-40-top"/>
+			<hr class="two-point margin-40-top"/>
 			<h2 class="padding-20-top padding-20-bottom">EXTERNAL OPERATIONS DIVISION</h2>
-			<hr />
+			<hr class="two-point"/>
 			<h4>Larry Epstein</h4>
 			<p> Deputy Director<br />
 			360.480.0487 | <a href="mailto:larry.epstein@psp.wa.gov">larry.epstein@psp.wa.gov</a></p>
@@ -172,7 +171,7 @@
 			<h4>Jon Bridgman</h4>
 			<p>Communications Manager<br />
 			360.999.3847 | <a href="mailto:jon.bridgman@psp.wa.gov">jon.bridgman@psp.wa.gov </a></p>
-			<h4>KATIE LOVE</h4>
+			<h4>Katie Love</h4>
 			<p>Communications Lead<br />
 			564.250.0925 | <a href="mailto:katie.love@psp.wa.gov">katie.love@psp.wa.gov </a></p>
 			<h4>Chase Nuuhiwa</h4>
@@ -227,7 +226,6 @@
 			<!--SCIENCE AND EVALUATION-->
 			<hr class="margin-40-top"/>
 			<h3>SCIENCE AND EVALUATION</h3>
-			<hr/>
 			<h4>Scott Redman</h4>
 			<p> Program Director<br />
 			360.791.2879 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
@@ -261,9 +259,9 @@
 			<p>Washington Sea Grant Hershman Fellow<br>
 			564.250.0925 | <a href="mailto:rondi.nordal@psp.wa.gov">rondi.nordal@psp.wa.gov</a></p>
 			<!--INTERNAL OPERATIONS-->	
-			<hr class="margin-40-top"/>
+			<hr class="two-point margin-40-top"/>
 			<h2 class="padding-20-top padding-20-bottom">INTERNAL OPERATIONS DIVISION</h2>
-			<hr/>
+			<hr class="two-point"/>
 			<h4>Jennifer Carlson</h4>
 			<p>Chief Operating Officer (Acting)<br />
 			360.819.0530 | <a href="mailto:jennifer.carlson@psp.wa.gov">jennifer.carlson@psp.wa.gov</a> </p>
@@ -325,7 +323,7 @@
 			<p>IT Specialist<br />
 			360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 	</div>					
-	<p class="last-update">Last updated: 03/19/26</p>
+	<p class="last-update">Last updated: 04/29/26</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
