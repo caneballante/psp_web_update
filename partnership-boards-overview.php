@@ -74,7 +74,7 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2>Overview</h2>
+			<h2 class="margin-0-top">Overview</h2>
         <p>The Puget Sound Partnership&rsquo;s boards support and guide the agency in its charge of mobilizing and accelerating the science-based effort to protect and restore Puget Sound.  They consist of:  </p>
             <ol class="bullet-size-fix">
 			  <li><a href="LC_about.php">Leadership Council</a></li>
@@ -98,10 +98,7 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 					<?php include 'includes/board_overviewcontact.html';?>
 					<li></li>
-				<li><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></li>
-				&lt;?php include 'includes/board_overviewcontact.html';?&gt; 					&lt;li&gt;&lt;/li&gt; 				&lt;li&gt;&lt;a href=&quot;https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o&quot;&gt; Board's documents, meeting materials, summaries, and Resolutions&lt;/a&gt;&lt;/li&gt;
-				
-				
+				<li><p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a></p></li>	
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
