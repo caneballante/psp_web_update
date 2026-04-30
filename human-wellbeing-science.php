@@ -87,7 +87,7 @@ navSelected = 2;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-			<h2>Human Wellbeing and Social Sciences</h2>
+			<h2 class="margin-0-top">Human Wellbeing and Social Sciences</h2>
 			<p>Social  sciences help us understand and address Human Wellbeing and our impact on the  ecosystem, including:</p>
 			<ul class="bullet-size-fix">
 			  <li>People&rsquo;s beliefs</li>

@@ -87,7 +87,7 @@ navSelected = 3;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-			<h2>Human Wellbeing and Planning</h2>
+			<h2 class="margin-0-top">Human Wellbeing and Planning</h2>
 			<p>Human Wellbeing is included in our planning ,  including: </p>
             <div>
               <div></div></div>

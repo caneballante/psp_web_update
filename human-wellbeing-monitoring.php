@@ -87,7 +87,7 @@ navSelected = 4;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-			<h2>Human Wellbeing and Monitoring at Puget Sound Partnership</h2>
+			<h2 class="margin-0-top">Human Wellbeing and Monitoring at Puget Sound Partnership</h2>
 			<p>Monitoring allows the Puget Sound recovery community,  partners, and the public to track the status and trends of ecosystem recovery.  Knowing the status and trends of Human Wellbeing helps communities and  ecosystem recovery planners highlight needs and prioritize areas of recovery  work.</p>
 			<p>We check Human Wellbeing through our Vital Signs  and provide the Human Wellbeing status and trends in the <a href="https://www.pugetsoundinfo.wa.gov/" target="new">Puget Sound Info interactive website</a> and <a href="http://stateofthesound.wa.gov/" target="new">State of the Sound report</a>.</p>
 			<p><i>Monitoring can find communities or cultural practices that are most  affected by the health of their natural environment. </i></p>
