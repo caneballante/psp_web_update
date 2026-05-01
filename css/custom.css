@@ -599,6 +599,16 @@ display: block
 .border-top {
 	border-top: dotted 1px #434343;
 }
+.border-top-orange {
+	border-top: solid 3px #EF892E;
+}
+.border-bottom-orange {
+	border-bottom: solid 2px #EF892E;
+}
+.border-top-blue {
+	border-top: solid 5px #0a3b5c;
+}
+
 .border-bottom {
 	border-bottom: dotted 1px #434343;
 }

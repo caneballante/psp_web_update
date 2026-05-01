@@ -18,8 +18,8 @@
 
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/custom-bannertest.css" rel="stylesheet" type="text/css">
-<link href="css/custom-jon-test.css" rel="stylesheet" type="text/css">
+<link href="css/custom.css" rel="stylesheet" type="text/css">
+
 
 <!-- Font PRENTON TYPEKIT --> 
 <script src="https://use.typekit.net/srt5jze.js"></script> 
@@ -55,9 +55,10 @@
 		</div>
 	</div>
 </header>-->
+
 <header class="intro-SOS home-hero" aria-label="Featured Puget Sound Partnership updates">
 	<img src="images/2025SOSheader-sm_wide.jpg" alt="" class="home-hero-bg" aria-hidden="true">
-	<div class="home-hero-wrap">
+	<div class="home-hero-wrap border-top-blue border-bottom-orange">
 		<section class="home-hero-feature no-icon" aria-labelledby="home-hero-feature-title">
 			<div class="home-hero-feature-copy">
 				<p class="home-hero-kicker">Featured report</p>
@@ -71,7 +72,7 @@
 				<img src="images/homepage-thumbs-ferry.jpg" alt="people on a ferry">
 				<div>
 					<h3>Charting the course to recovery</h3>
-					<a href="2026AAupdate.php">2026-2030 Action Agenda Update</a>
+					<a href="2026AAupdate.php">Our Puget Sound recovery plan: 2026-2030 Action Agenda Update</a>
 				</div>
 			</article>
 			<article class="home-hero-card no-icon">
@@ -85,19 +86,11 @@
 				<img src="images/homepage-thumbs-orca.jpg" alt="orca breaching">
 				<div>
 					<h3>Supporting our partners</h3>
-					<a href="partnership-boards-overview.php">Find project funding support</a>
-				</div>
+					<a href="strategic-funding-program.php">Find project funding support</a></div>
 			</article>
 		</aside>
 	</div>
 </header>
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-xs-12 orange-fill"><br>
-		</div>
-	</div>
-</div>
-
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-xs-12 orange-fill"><br>
