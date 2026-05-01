@@ -58,7 +58,6 @@
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
 			<h1>LOCAL INTEGRATING ORGANIZATIONS (LIOs)</h1>
-			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -81,7 +80,7 @@
 			<p>Each LIO coordinates with local salmon recovery bodies and other ecosystem recovery entities to align local priorities and goals.</p>
 			<p>The Puget Sound Partnership supports LIOs through capacity funding, resources, and liaison support via Ecosystem Recovery Coordinators (Puget Sound Partnership Staff)</p>
 			<p style="font-weight: bold">Local Integrating Organizations:</p>
-			<ul>
+			<ul class="bullet-size-fix">
 				<li><a href="https://www.sanjuanco.com/1628/Ecosystem-Recovery-SJ-LIO" target="new">San Juan Action Agenda Oversight Group </a></li>
 				<li><a href="http://www.govlink.org/sc-puget-sound-action-area/Index.htm" target="new">South Central Action Area Caucus Group</a></li>
 				<li><a href="http://www.healthysouthsound.org/" target="new">Alliance for a Healthy South Sound</a></li>
