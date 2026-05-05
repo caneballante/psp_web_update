@@ -78,24 +78,13 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">Puget Sound Budget Interactive Infographic</h2>
+			<h2 class="margin-0-top">Puget Sound Budget Interactive SPREADSHEET</h2>
 			
-			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. After prioritizing agency requests, the Partnership tracks all budget items through the State's budgeting process. The Partnership also identifies additional budget items added by the Governor and legislature that are relevant to Puget Sound recovery. All relevant budget items for the most recent budget process are included in the below infographic and spreadsheet. The infographic and spreadsheet contain the same information but provide different formatting to suit the preferences of different users. Both visuals are interactive and allow filtering by budget type, agency, Action Agenda topic area, and more.</p>
-		
-			
+			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. After prioritizing agency requests, the Partnership tracks all budget items through the State's budgeting process. The Partnership also identifies additional budget items added by the Governor and legislature that are relevant to Puget Sound recovery. All relevant budget items for the most recent budget process are included in the below infographic and spreadsheet. The infographic and spreadsheet contain the same information but provide different formatting to suit the preferences of different users. Both visuals are interactive and allow filtering by budget type, agency, Action Agenda topic area, and more.			</p>
 			<p>
-<a href="https://app.powerbigov.us/view?r=eyJrIjoiOGNiMDgwYTMtMjQ1Ny00OTVmLWIzMjQtNDJmMWVhOTNmMDdhIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" target="_blank" rel="noopener">
-Open the Puget Sound Budget Infographic in a new tab.
-</a>
-</p>
-			
-			<iframe title="2026 Puget Sound Budget" width="100%" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiOGNiMDgwYTMtMjQ1Ny00OTVmLWIzMjQtNDJmMWVhOTNmMDdhIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe>
-		<p>&nbsp;</p>
-			
-			<p>
-<a href="https://app.powerbigov.us/view?r=eyJrIjoiYjExNmFkNzQtMzcxOC00NWZlLThhZTktYzE4NjhjNjVhOWZkIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" target="_blank" rel="noopener">
-Open the Puget Sound Budget Tracker in a new tab.
-</a>
+			  <a href="https://app.powerbigov.us/view?r=eyJrIjoiYjExNmFkNzQtMzcxOC00NWZlLThhZTktYzE4NjhjNjVhOWZkIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" target="_blank" rel="noopener">
+		      Open the Puget Sound Budget Tracker in a new tab.
+		      </a>
 </p>
 			<iframe title="PSBudgetTracker" width="100%" height="700" src="https://app.powerbigov.us/view?r=eyJrIjoiYjExNmFkNzQtMzcxOC00NWZlLThhZTktYzE4NjhjNjVhOWZkIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" frameborder="0" allowFullScreen="true"></iframe><br>
 			
@@ -124,18 +113,32 @@ Open the Biennial Budget Ranking in a new tab. </a>
 			<div class="row ">
 				
 				<div class="col-sm-12">
-					<h2 class="margin-0-top">Budget Ranking Archive</h2>
-					<p><a href="https://pspwa.box.com/s/gyt67oko9kx1cajsyzzlfovxlvebx8ba" target="new">2024 Supplemental Budget</a></p>
-					<p><a href="https://pspwa.box.com/s/owm36i5u0upo7m7km1t14dsreb7vajxb" target="new">2023-25 Biennial Budget</a></p>
-					<p><a href="https://pspwa.box.com/s/74t62zylvtfa7az77vj47wnputkboczd" target="new">2022 Supplemental Budget</a></p>
-					<p><a href="https://pspwa.box.com/s/2d2lpjwf209ixffxmm4mgxv0nz8k1pq0" target="new">2021-2023 Biennial Budget</a></p>
+					<h2 class="margin-0-top">Budget Information Archive</h2>
+					<p><strong>2025-27 Biennium</strong></p>
+					<ul class="bullet-size-fix">
+					  <li><a href="https://pspwa.box.com/s/wyyotqv50kah086pvfrqy3gdus4uylax" target="new">2025-27 Ranking</a></li>
+					  <li>2026 Supplemental Ranking</li>
+					  <li>25-27 Budget Tracker Interactive Spreadsheet</li>
+					  <li>25-27 Buget Tracker Infographic</li>
+				  </ul>
+					<p><strong>2023-25 Biennium</strong></p>
+					<ul class="bullet-size-fix">
+					  <li><a href="https://pspwa.box.com/s/owm36i5u0upo7m7km1t14dsreb7vajxb" target="new">2023-25 Biennial Budget</a></li>
+					  <li><a href="https://pspwa.box.com/s/gyt67oko9kx1cajsyzzlfovxlvebx8ba" target="new">2024 Supplemental Budget</a></li>
+					  <li>23-25 Buget Tracker Infographic</li>
+				  </ul>
+					<p><strong>2021-23 Biennium</strong></p>
+					<ul class="bullet-size-fix">
+					  <li><a href="https://pspwa.box.com/s/2d2lpjwf209ixffxmm4mgxv0nz8k1pq0" target="new">2021-2023 Biennial Budget</a></li>
+					  <li><a href="https://pspwa.box.com/s/74t62zylvtfa7az77vj47wnputkboczd" target="new">2022 Supplemental Budget</a>				</li>
+				  </ul>
 				</div>	
 				
 			</div>
 		</div>
 			
 			
-			<p class="last-update">Last updated: 01/21/26</p>
+			<p class="last-update">Last updated: 05/05/26</p>
 			
 		
 			

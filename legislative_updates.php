@@ -84,7 +84,7 @@ Open the 2026 Legislative Updates in a new tab.
 </a>
 </p>
 		<div>
-		  <IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC=https://app.smartsheet.com/b/publish?EQBCT=08e4eadc90534836b4ba1440cfd101a9></IFRAME>
+		  <IFRAME WIDTH=700 HEIGHT=700 FRAMEBORDER=0 SRC=https://app.smartsheet.com/b/publish?EQBCT=08e4eadc90534836b4ba1440cfd101a9></IFRAME>
 			</div>	
 			<h1 class="margin-0-top"><br>
 		    Legislative Updates and Calendar Archives</h1>
@@ -97,7 +97,7 @@ Open the 2025 Legislative Updates in a new tab.
 </a>
 </p>
 			<div>
-			<IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/74287bc8bd884ab9b827d35792ef97ea"></IFRAME>
+			<IFRAME WIDTH=700 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/74287bc8bd884ab9b827d35792ef97ea"></IFRAME>
 			</div>	
 			
 		
@@ -112,7 +112,7 @@ Open the 2024 Legislative Updates in a new tab.
 </p>
         <br>
         <div>
-          <IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/8bd6dfb5d5f24d3081adb50a7d6ceccb"></IFRAME>
+          <IFRAME WIDTH=700 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/8bd6dfb5d5f24d3081adb50a7d6ceccb"></IFRAME>
         </div>
         <p>&nbsp;</p>
 			
@@ -126,7 +126,7 @@ Open the 2023 Legislative Updates in a new tab.
 </p>
 			<br>
 			<div>
-			<IFRAME WIDTH=700 HEIGHT=500 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/070d181f4f744fb1937823e8e8550f06"></IFRAME>
+			<IFRAME WIDTH=700 HEIGHT=700 FRAMEBORDER=0 SRC="https://publish.smartsheet.com/070d181f4f744fb1937823e8e8550f06"></IFRAME>
 			</div>	
 			
 			<h2>2022 Legislative Session</h2>
