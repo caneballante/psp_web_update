@@ -88,7 +88,15 @@ navSelected = 5;
 		</div>-->
 			
 			<p>Being prepared for a funding  opportunity is half the battle. Sometimes new and exciting opportunities arise  and being ready to apply to them will help your organization be nimble and  resilient. </p>
-            <h2>General Project Information</h2>
+			<p id="section1">On this page:
+			<ul class="bullet-size-fix">
+				<li><a href="#section2">General Project Information</a></li>
+				<li><a href="#section3">Funding Specific Guidance</a></li>
+				<li><a href="#section4">Federal Specific Grant Writing Tips and Resources</a></li>
+				<li><a href="#section5">General Grant Writing Tips</a></li>
+			  <li><a href="#section6">Logic Models and Evaluation</a></li>
+        </ul>
+            <h2 id="section2">General Project Information</h2>
             <p>Create a fact sheet for your  potential project through answering the following questions:</p>
         <ul class="bullet-size-fix">
               <li><strong>Project Title:</strong> Create a concise project title. (Ideally with a 75-character  limit, including spaces)</li>
@@ -112,7 +120,8 @@ navSelected = 5;
               </ul>
               <li><strong>Decision  Points:</strong> Are there any sticking points  to the project? If so, what are they? Does land need to be acquired? Does there  need to be planning and community outreach before design work is started?  </li>
             </ul>
-            <h2>Funding Specific Guidance </h2>
+			<p><a href="#section1">Back to the top.</a></p>
+            <h2 id="section3">Funding Specific Guidance </h2>
             <p>The following funding  opportunity guidance is specific to the type of funding you are seeking. We  have separated this down into two categories: smaller, private and foundation grants,  and larger Federal and State grants. </p>
             <h3>Private/Foundation and Smaller Grants</h3>
         <ul class="bullet-size-fix">
@@ -121,10 +130,9 @@ navSelected = 5;
               <li><strong>Information on  your Board</strong> – Prepare information about  your board members, such as their experience, current roles on the board, and a  statement of their involvement in your day-to-day operations and programs. </li>
               <li><strong>Experience  summary and current project summaries</strong> – What are your current programs/projects and past successful programs/projects?  Be prepared to write about these with their quantifiable outcomes. </li>
               <li><strong>Straightforward  organization budget</strong> – Some  applications will ask for your overall organization budget, not just project  specific. </li>
-              <li><strong>Copies of past  successful grant applications</strong> – Ideally  all this information (or copies of it) will be in one place for easy  accessibility and capacity building. </li>
-            </ul>
-            <p>&nbsp;</p>
-            <h3>Federal/State and Large Grants</h3>
+              <li><strong>Copies of past  successful grant applications</strong> – Ideally  all this information (or copies of it) will be in one place for easy  accessibility and capacity building.            </li>
+        </ul>
+        <h3>Federal/State and Large Grants</h3>
         <ul class="bullet-size-fix">
               <li><strong>SAM.gov  account and UEI</strong>– Federal only, this  process can take weeks to complete!</li>
               <li>Biographies and  Resumes – prepare up to date resumes (1 page) - different applications will ask  for different formats.</li>
@@ -135,10 +143,10 @@ navSelected = 5;
               <li>Ensure you are  aware of community and regional planning efforts and where your potential  projects may align. </li>
               <li>Prepare copies of  past successful grant applications – Ideally all this information (or copies  of) would be in one place for easy accessibility and capacity building. </li>
             </ul>
-            <h2>Federal Specific Grant Writing Tips and Resources </h2>
-            <p>&nbsp;</p>
+		<p><a href="#section1">Back to the top.</a></p>
+            <h2 id="section4">Federal Specific Grant Writing Tips and Resources        </h2>
         <ul class="bullet-size-fix">
-              <li>Grants.gov has  many resources</li>
+          <li>Grants.gov has  many resources</li>
               <ul>
                 <li><a href="https://www.grants.gov/learn-grants/grant-terminology">Grant Terminology</a></li>
                 <li><a href="https://grantsgovprod.wordpress.com/2024/04/11/grant-searching-made-easy-mastering-keywords-on-grants-gov/">Grant Searching Made Easy: Mastering Keywords on  Grants.gov</a></li>
@@ -159,7 +167,8 @@ navSelected = 5;
               <li>USDA  How-to series on YouTube: <a href="https://www.youtube.com/watch?v=okA8udk8-ME">SF  424, How to complete an Application for Federal Assistance </a></li>
               <li>The United States  Department of Transportation (USDOT) developed the&nbsp;<a href="https://www.transportation.gov/rural/grant-toolkit"><em>Rural Grant Applicant Toolkit for Competitive Federal  Transportation Funding&nbsp;</em></a>to  guide potential applicants in identifying and navigating these discretionary  opportunities for rural transportation projects.</li>
             </ul>
-            <h2>General Grant Writing Tips</h2>
+			<p><a href="#section1">Back to the top.</a></p>
+            <h2 id="section5">General Grant Writing Tips</h2>
             <p><strong>Try to keep your overall  narrative brief and supported</strong>.  Explain the need behind the project and support any claims - Grant reviewers  may not be familiar with your area or project context. Avoid filler words and  cliches. Consider becoming familiar with &ldquo;Business Writing&rdquo;.</p>
             <p><strong>Use meaningful language or  &ldquo;buzzwords&rdquo; from the funding opportunity<em>.</em></strong> In a strategic and authentic manner, use meaningful  words from the funding opportunity, specifically in a scoring criteria or in  any funder or program priorities. If you find your project and proposal are not  aligning closely with this language, consider reviewing it again to see if this  is the right fit for your project. </p>
             <p><strong>Create an elevator pitch</strong><em>.</em> It maybe  not something you include in every narrative but consider creating an elevator  pitch. If you do encounter character limits, being able to briefly describe the  need, the project, and the outcome all in two or three sentences is powerful. Write  the full narrative, then write a high-level executive summary that will be a  standalone page or two, and then finally trim and narrow it down to the two or  three sentences that gets to the root of your project. Again, you might not  need it for the application but being ready with this to use it when you engage  partners, or when you are talking with the funder can go a long way. This  applies to your organization as well. What is your mission? What is your  general body of work? How do you describe this to someone who knows nothing of  your organization, all in two or three sentences?</p>
@@ -167,7 +176,8 @@ navSelected = 5;
             <p><strong>Prepare an answer to the  sustainability question</strong><em>.</em> Funders want to know how your project will be sustained  or continue to benefit the environment/community beyond their monetary  contribution. Some may ask this directly whereas others may be vague. Take the  time to think through an answer with your team that is realistic and shows the  funder that this is not something that will disappear once funding runs out. If  there is no continued funding source for after the grant money, describe the long-standing  benefits of what the grant funded. </p>
         <h3>Transportation funding assistance </h3>
             <p>Are you applying for a  transportation-oriented funding opportunity and have some questions about the  application and approach? Contact the Strategic Funding Team&rsquo;s <a href="mailto:%20paris.mcclusky@psp.wa.gov">Restoration and  Transportation Funding Strategist</a> for  assistance.            </p>
-            <h2>Logic Models and Evaluation             </h2>
+			<p><a href="#section1">Back to the top.</a></p>
+            <h2 id="section6">Logic Models and Evaluation             </h2>
             <h3>Logic Model</h3>
             <p>Are you unsure about some of  the objectives and outcomes for your project<strong>? </strong>Make a Logic Model! A  Logic Model is a visual exercise that can help your organization demonstrate  how the activities in your project will achieve results. Consider it as a flowchart,  of your project&rsquo;s inputs, activities, outputs, outcomes, and impacts. It should  be detailed, effective, and created collaboratively.  </p>
         <ul class="bullet-size-fix">
@@ -189,27 +199,28 @@ navSelected = 5;
             </ul>
             <h3>Evaluation</h3>
             <p>Building  off the Logic Model, evaluation is a critical portion of your proposed grant  application. A funder wants to know how you will evaluate the program they will  be funding and how you are showing success. Clearly differentiating between  Outputs, Outcomes, and Impacts presents a clear picture to the funder. If you  are awarded and results and evaluation are not progressing as anticipated, do  not worry. Regular communication with your funder, honest reporting, and  pursing a holistic approach to determine where issues are arising from will  help you adapt and continue to implement your program. </p>
+			<p><a href="#section1">Back to the top.</a></p>
         <div>
           <div></div>
         </div>
         <div>
               <div> </div>
         </div>
-            <h2>Contact</h2>
-<p>For more information or if you have any questions  about your inquiry, please contact our Grant Writer and Strategist, Michelle  Deckard at&nbsp;<a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a>. or follow this <a href="https://app.smartsheet.com/b/form/d835519e3c454ef286dbbdcdf9ae008b">link</a>.</P>
-<p>&nbsp;</p>
+        <p>&nbsp;</p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 03/24/26</p>
+		<p class="last-update">Last updated: 05/05/26</p>
 
         <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
+				<div class="nonresponsive-object-hide-rightnav-li">
+				<li class="active" role="presentation"> <?php include 'includes/rn-grant_contact.html';?></li>
+				</div>
 				
 			
 				<!-- InstanceEndEditable -->

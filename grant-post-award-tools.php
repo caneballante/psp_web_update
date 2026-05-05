@@ -64,7 +64,7 @@ navSelected = 5;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1 id="section1">Grant Writing: Post Award Toolkit</h1>
+			<h1>Grant Writing: Post Award Toolkit</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -87,7 +87,7 @@ navSelected = 5;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-		<p>On this Page:
+		<p id="section1">On this Page:
 			<ul class="bullet-size-fix">
 			  <li><a href="#section2">Getting ahead before award</a></li>
 				<li><a href="#section3">When You Receive Notice that You Have Been Awarded Funding</a></li>

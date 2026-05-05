@@ -87,9 +87,9 @@ navSelected = 5;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 			
-			<p>In the event the Strategic  Funding Team is unable to assist, there may be other programs that can help. If  you are a partner looking for business resources, please see our <strong>XYZ</strong>. </p>
+			<p>In the event the Strategic  Funding Team is unable to assist, there may be other programs that can help. If  you are a partner looking for <a href="https://pspwa.box.com/s/fods1rckomndo6bu5bhrs3xfmxhd686f">business resources</a>, please see our <strong>XYZ</strong>. </p>
             <ul class="bullet-size-fix">
-              <li>The Washington  Department of Commerce&rsquo;s <a href="https://www.commerce.wa.gov/federal-energy-funding/ffgwap/">Federal Funds Grant Writing Assistance Program</a> (FFGWAP) is designed for Washington  community-based organizations, local government agencies, ports, housing  authorities, tribes, businesses, and other organizations eligible to receive  Federal funds to prepare and submit grant applications, and to help Washington  meet its clean electricity and greenhouse gas reduction goals using approaches  that enhance equity, innovation, economic growth, and job creation. The  FFGWAP is free for participants across Washington, and institutions serving  underrepresented, overburdened, and/or vulnerable communities will be  prioritized. State agencies are not eligible to&nbsp;participate. Contact:&nbsp; <a href="mailto:WAFederalGrants@hagertyconsulting.com" title="mailto:WAFederalGrants@hagertyconsulting.com">WAFederalGrants@hagertyconsulting.com</a>        </li>
+              <li>The Washington  Department of Commerce&rsquo;s <a href="https://www.commerce.wa.gov/federal-energy-funding/ffgwap/" target="new">Federal Funds Grant Writing Assistance Program</a> (FFGWAP) is designed for Washington  community-based organizations, local government agencies, ports, housing  authorities, tribes, businesses, and other organizations eligible to receive  Federal funds to prepare and submit grant applications, and to help Washington  meet its clean electricity and greenhouse gas reduction goals using approaches  that enhance equity, innovation, economic growth, and job creation. The  FFGWAP is free for participants across Washington, and institutions serving  underrepresented, overburdened, and/or vulnerable communities will be  prioritized. State agencies are not eligible to&nbsp;participate. Contact:&nbsp; <a href="mailto:WAFederalGrants@hagertyconsulting.com" title="mailto:WAFederalGrants@hagertyconsulting.com">WAFederalGrants@hagertyconsulting.com</a>        </li>
             </ul>
         <ul class="bullet-size-fix">
           <li><a href="https://www.pscleanair.gov/676/Grant-Support">Puget Sound Clean Air Agency</a> is available to help community-based organizations, Tribal organizations, local  governments, and ports pursue grant funding for emission-reduction projects in  overburdened communities. Complete this <a href="https://forms.office.com/pages/responsepage.aspx?id=FialJ_Lv30ecHUm7s3M7trYL53jS54VBt8qudP5oeO5UOU5NOFVSVUVUUVZKNjc0SkVLNFBJRzExTC4u&origin=lprLink&route=shorturl">interest form</a> if you would like to discuss if a grant your organization is interested in  applying for would be considered for support, if your organization has ideas  for a pollution-reduction project to match with future grant opportunities, or  to be added to their contact list for when projects and funding opportunities  are identified.&nbsp;</li>
@@ -152,11 +152,13 @@ navSelected = 5;
         <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
+				<div class="nonresponsive-object-hide-rightnav-li">
+				<li class="active" role="presentation"> <?php include 'includes/rn-grant_contact.html';?></li>
+				</div>
 				
 			
 				<!-- InstanceEndEditable -->
