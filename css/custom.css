@@ -1534,6 +1534,8 @@ display: block
 /*left nav*/
 .nav-leftside-custom {
 	text-align: right;
+	max-width: 260px;
+	margin-left: auto;
 }
 
 .nav-leftside-custom a{
@@ -1558,7 +1560,7 @@ display: block
 }
 
 .nav-leftside-custom .left-subnav {
-	margin: 4px 0 12px 0;
+	margin: 4px 10px 12px 18px;
 	padding: 4px 0;
 	border-top: solid 2px #777;
 	border-bottom: solid 2px #777;
@@ -1597,6 +1599,8 @@ display: block
 @media (max-width: 768px) {
 .nav-leftside-custom {
 	text-align: center;
+	max-width: none;
+	margin-left: 0;
 }
 }
 /*turns off top nav for all pages on print - NOT SURE WHETHER TO KEEP THIS
