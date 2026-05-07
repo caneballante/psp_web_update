@@ -2,9 +2,12 @@
 
 $(document).ready(function () {
 
-	$("#nav" + navSelected).addClass("active");
-	$("#nav" + navSelected).addClass("subNavOn");
-	if (subNavSelected != "non"){
+	if (typeof navSelected !== "undefined") {
+		$("#nav" + navSelected).addClass("active");
+		$("#nav" + navSelected).addClass("subNavOn");
+	}
+
+	if (typeof subNavSelected !== "undefined" && subNavSelected !== "non") {
 		$("#subnav" + subNavSelected).addClass("active");
 	}
 

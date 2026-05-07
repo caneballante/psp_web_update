@@ -1534,6 +1534,8 @@ display: block
 /*left nav*/
 .nav-leftside-custom {
 	text-align: right;
+	max-width: 260px;
+	margin-left: auto;
 }
 
 .nav-leftside-custom a{
@@ -1557,6 +1559,28 @@ display: block
     display: block;           
 }
 
+.nav-leftside-custom .left-subnav {
+	margin: 4px 10px 12px 18px;
+	padding: 4px 0;
+	border-top: solid 2px #777;
+	border-bottom: solid 2px #777;
+}
+
+.nav-leftside-custom .left-subnav > li > a {
+	font-size: 13px;
+	line-height: 1.25;
+	padding: 7px 8px 7px 18px;
+	text-transform: none;
+}
+
+.nav-leftside-custom .left-subnav > li + li {
+	border-top: solid 1px #D6D4D4;
+}
+
+.nav-leftside-custom .has-subnav.subNavOn > a {
+	font-weight: 700;
+}
+
 /*left nav customization of bootstrap nav class*/
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
 	font-weight: 700;
@@ -1575,6 +1599,8 @@ display: block
 @media (max-width: 768px) {
 .nav-leftside-custom {
 	text-align: center;
+	max-width: none;
+	margin-left: 0;
 }
 }
 /*turns off top nav for all pages on print - NOT SURE WHETHER TO KEEP THIS
