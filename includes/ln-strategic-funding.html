@@ -1,6 +1,23 @@
+<!--
+	On each page, set these variables in the page head:
+		navSelected = 6;
+		subNavSelected = 1;
+
+	navSelected opens/highlights the top-level item.
+	subNavSelected highlights the nested item.
+	Use subNavSelected = "non"; on top-level pages with no active subpage.
+-->		
+
+
 	<li id="nav1" role="presentation"> <a href="strategic-funding-program.php">STRATEGIC FUNDING PROGRAM</a></li>
 	<li id="nav2" role="presentation"> <a href="psraft.php">PUGET SOUND FUNDING TOOL (PSRAFT)</a></li>
 	<li id="nav3" role="presentation"> <a href="/soundsafe.php">SOUND SAFE INFRASTRUCTURE</a></li>
 	<li id="nav4" role="presentation"> <a href="/funding-barriers.php">FUNDING BARRIERS</a></li>
-	<li id="nav5" role="presentation"> <a href="/grantwriting.php">TECHNICAL ASSISTANCE &amp; GRANT WRITING</a></li>
+	<li id="nav5" role="presentation"> <a href="/grantwriting.php">TECHNICAL ASSISTANCE &amp; GRANT WRITING</a>
+		<ul class="nav nav-stacked nav-pills left-subnav">
+			<li id="subnav1" role="presentation"><a href="grantwriting-tips.php">Grant writing tips tricks</a></li>
+			<li id="subnav2" role="presentation"><a href="grant-post-award-tools.php">Post award toolkit</a></li>
+			<li id="subnav3" role="presentation"><a href="grantwriting-other-programs.php">Other technical assistance programs</a></li>
+		</ul>
+	</li>
 
