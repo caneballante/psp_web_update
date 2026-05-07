@@ -235,10 +235,7 @@ Open the Puget Sound Partnership Enivronmental Justice Assessment Policy in a ne
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<div class="nonresponsive-object-hide-rightnav-li">
-				<li class="active" role="presentation"> <?php include 'includes/ln-HEAL-contact.html';?></li>
-				</div>
-				
+				<li class="active" role="presentation"> <?php include 'includes/ln-HEAL-contact.html';?></li>			
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

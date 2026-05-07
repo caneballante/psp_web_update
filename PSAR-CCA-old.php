@@ -128,9 +128,8 @@ Open the Map of 2025-2027 PSAR Large Capital proposed projects in a new tab.
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<div class="nonresponsive-object-hide-rightnav-li">
+
 				<?php include 'includes/rn-PSAR.html';?></li>
-				</div>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

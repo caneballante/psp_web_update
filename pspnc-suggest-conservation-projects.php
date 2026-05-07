@@ -112,7 +112,6 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<div class="nonresponsive-object-hide-rightnav-li">
 				<li class="active" role="presentation"> <?php include 'includes/pspnc_contact.html';?></li>
 				<li class="active" role="presentation"><button class=button><a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank" style="color:white">Puget Sound Nearshore Habitat Conservation Calculator</a></button></li>
 				<div class="right-nav-title margin-0-top nonresponsive-object-hide-rightnav">SEE ALSO</div>
@@ -120,7 +119,6 @@
 				<li class="active" role="presentation"><a href="https://www.noaa.gov/news-release/army-and-noaa-to-advance-endangered-species-act-consultations" target="new"><strong>Army and NOAA to advance Endangered Species Act consulations</strong></a></li>
 				<li class="active" role="presentation"><a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target ="_blank"><strong>Puget Sound Partnership credits will fund nearshore conservation</strong></a></li>
 				<li class="active" role="presentation"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/puget-sound/nearshore-program" target="new"><strong>Washington State Department of Fish and Wildlife Nearshore Program</strong></a></li>
-				</div>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
