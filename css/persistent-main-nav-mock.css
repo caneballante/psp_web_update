@@ -1,0 +1,142 @@
+/* Persistent main navigation mockup styles. Load only on test pages. */
+.persistent-main-nav-spacer {
+	height: 118px;
+}
+
+.persistent-main-nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 1030;
+	background: #09395d;
+	box-shadow: 0 2px 8px rgba(0,0,0,.22);
+}
+
+.persistent-main-nav-top {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	min-height: 70px;
+	padding: 8px 28px 8px 22px;
+}
+
+.persistent-main-nav-logo {
+	display: block;
+}
+
+.persistent-main-nav-logo img {
+	display: block;
+	max-width: 250px;
+	height: auto;
+}
+
+.persistent-main-nav-actions {
+	display: flex;
+	align-items: center;
+	gap: 18px;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: .04em;
+}
+
+.persistent-main-nav-actions a,
+.persistent-main-nav-chapters a {
+	color: #fff;
+}
+
+.persistent-main-nav-search {
+	padding: 7px 11px;
+	border: solid 1px rgba(255,255,255,.6);
+}
+
+.persistent-main-nav-chapters {
+	position: relative;
+	border-top: solid 1px rgba(255,255,255,.22);
+	background: #0a3b5c;
+}
+
+.persistent-main-nav-chapters > ul {
+	display: flex;
+	justify-content: center;
+	margin: 0;
+	padding: 0 18px;
+	list-style: none;
+}
+
+.persistent-main-nav-chapters > ul > li {
+	position: static;
+}
+
+.persistent-main-nav-chapters > ul > li > a {
+	display: block;
+	padding: 13px 10px;
+	font-size: 12px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: .03em;
+}
+
+.persistent-main-nav-chapters > ul > li > a:hover,
+.persistent-main-nav-chapters > ul > li > a:focus {
+	background: #fff;
+	color: #0a3b5c;
+	text-decoration: none;
+}
+
+.persistent-main-nav-panel {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	right: 0;
+	padding: 22px 28px;
+	background: #fff;
+	border-bottom: solid 4px #EF892E;
+	box-shadow: 0 8px 14px rgba(0,0,0,.22);
+}
+
+.persistent-main-nav-chapters > ul > li:hover .persistent-main-nav-panel,
+.persistent-main-nav-chapters > ul > li:focus-within .persistent-main-nav-panel {
+	display: block;
+}
+
+.persistent-main-nav-panel > div {
+	max-width: 1080px;
+	margin: 0 auto;
+	column-count: 3;
+	column-gap: 34px;
+}
+
+.persistent-main-nav-panel h2 {
+	margin: 0 0 8px 0;
+	font-size: 18px;
+	color: #0a3b5c;
+	column-span: all;
+}
+
+.persistent-main-nav-panel a {
+	display: block;
+	padding: 6px 0;
+	color: #0a3b5c;
+	font-size: 14px;
+	break-inside: avoid;
+}
+
+@media (max-width: 991px) {
+	.persistent-main-nav-spacer {
+		height: 76px;
+	}
+
+	.persistent-main-nav-top {
+		min-height: 76px;
+	}
+
+	.persistent-main-nav-chapters {
+		display: none;
+	}
+
+	.persistent-main-nav-actions a:not(.persistent-main-nav-search) {
+		display: none;
+	}
+}
