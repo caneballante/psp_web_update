@@ -56,9 +56,7 @@ subNavSelected = 2;
 <header class="overview-page-image-style overview-page-image118">
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-xs-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
-</div>
+
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -192,9 +190,7 @@ subNavSelected = 2;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<div class="nonresponsive-object-hide-rightnav-li">
 				<li class="active" role="presentation"> <?php include 'includes/rn-grant_contact.html';?></li>
-				</div>
 				
 			
 				<!-- InstanceEndEditable -->

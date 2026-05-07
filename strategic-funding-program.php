@@ -56,9 +56,7 @@ navSelected = 1;
 <header class="overview-page-image-style overview-page-image118">
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-xs-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
-</div>
+
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -103,12 +101,6 @@ navSelected = 1;
             <h2><strong>Grant Writing</strong></h2>
             <p>We provide the Tribes, LIOs,  LEs, and local partners with technical assistance and the capacity to prepare  their grant applications for submission. Our grant writer will help identify  funding opportunities, develop high-quality grant proposals to federal, state,  and private funding agencies, and monitor grant progression with the goal of  increasing the number of successful submissions for local and regional recovery  projects.<br>
               For more information,  please read our <a href="/grantwriting.php">grant writing and technical assistance page</a>, or reach out to our grant writer, <a href="mailto:michelle.deckard@psp.wa.gov">Michelle Deckard</a><u>.</u><strong> </strong></p>
-        <p>Other links:</p>
-			<ul>
-  <li><a href="/grantwriting-tips.php"> GRANT WRITING TIPS AND TRICKS</a></li>
-  <li><a href="/grant-post-award-tools.php">POST AWARD TOOLKIT</a></li>
-  <li><a href="/grantwriting-other-programs.php">OTHER TECHNICAL ASSISTANCE PROGRAMS</a></li>
-</ul>
         <h2><strong>The Puget Sound Recovery Acceleration  Funding Tool</strong></h2>
             <p>We created the <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a> to provide any  grant-seeking partner with a centralized location for information about  national, state, and regional funding opportunities for Puget Sound ecosystem  and salmon recovery projects. In addition to active funding opportunities, PS  RAFT allows users to search through closed funding opportunities for historical  reference and future planning. PS RAFT also provides partners with a forum to  connect and collaborate on funding applications.<br>
               </p>
