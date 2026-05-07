@@ -135,15 +135,13 @@
 			
 			<h3>Partner programs</h3>
 			
-			<p><a href="https://wdfw.wa.gov/licenses/environmental/hpa/types/pilot" target="new">Habitat Recovery Pilot Program</a> – streamlined state and local permitting for habitat recovery projects.</p>
+			<p><a href="https://wdfw.wa.gov/about/regulations/adopted/2023/fish-passage-project-permits-streamlined-process" target="new">Fish Habitat Enhancement Project (FHEP)</a> - expedited Hydraulic Project Approval permit for fish enhancement projects.</p>
 
-<p><a href="https://wdfw.wa.gov/about/regulations/adopted/2023/fish-passage-project-permits-streamlined-process" target="new">Fish Habitat Enhancement Project (FHEP)</a> - expedited Hydraulic Project Approval permit for fish enhancement projects.</p>
-
-<p><a href="http://www.shorefriendly.org/" target="new">Shore Friendly program</a> - helps landowners replace bulkheads with softshore armor or restored shorelines.
-</p>
+			<p><a href="http://www.shorefriendly.org/" target="new">Shore Friendly program</a> - helps landowners replace bulkheads with softshore armor or restored shorelines.
+			</p>
 			
 			
-			<p class="last-update">Last updated: 1/17/24</p>
+			<p class="last-update">Current as of: 5/7/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
