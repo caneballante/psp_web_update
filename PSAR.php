@@ -80,7 +80,7 @@
 		
 
 		<div class="highlightbox margin-0-top margin-20-bottom">
-			  <p>The Puget Sound Partnership invites proposals  for regionally significant Large Capital projects that protect and restore  salmon habitat to be submitted for preliminary review by noon on April 8, 2026.  </p>
+			  <p>The 27-29 PSAR Large Capital projects review process is underway. No new applications can be accepted. Current applicants invited to continue must submit updated applications and responses to supplemental questions by noon on June 3, 2026.  </p>
 			  <p><a href="https://pspwa.box.com/s/rxiq86g944ezxqylzyk8ok4h1lpc0vje" target="new">Download the Request For Proposals can be downloaded</a>.</p>
 		</div>
 		<p class="margin-20-top">The Puget Sound Acquisition and Restoration (PSAR) program began in 2007 and supports salmon recovery by directing funds to the most important habitat protection and restoration projects for Puget Sound. The program has two parts: base funding for local priority projects vetted and selected through a local process (regular/base PSAR), and additional funding for regionally significant projects vetted locally and selected through a regional process (PSAR Large Capital Projects). The Washington State Legislature budgets funding every two years for PSAR.</p>
@@ -123,7 +123,7 @@ Open the PSAR Accomplishments Dashboard in a new tab.
 			Washington approaches salmon recovery in a unique way as salmon are a Tribal treaty right and part of our collective heritage. When Chinook salmon and other salmonids were listed as threatened under the Endangered Species Act, people in communities around Puget Sound organized themselves to help. This local approach to a difficult problem is known as “the Washington Way.”</p>
 			<p>The 15 community-based groups that organized in Puget Sound are called <a href="https://www.rco.wa.gov/salmon_recovery/lead_entities.shtml">Lead Entities</a>. Lead Entities are supported by regional entities called <a href="http://www.psp.wa.gov/salmon-recovery-overview.php">regional recovery organizations</a>. There are seven around the state, including two in the Puget Sound region. The Puget Sound Partnership is the regional recovery organization for all of Puget Sound except the Hood Canal area. Recovery organizations are recognized by NOAA as responsible to lead efforts to meet goals set in salmon recovery plans. </p>
 			<p>The  Puget Sound Partnership continues to broaden our connections to people across  the region who are interested in salmon. For more information contact the PSAR  program manager: <a href="mailto:marlies.wierenga@psp.wa.gov">marlies.wierenga@psp.wa.gov.</a>	</p>
-		<p class="last-update">Last updated: 01/16/26</p>
+		<p class="last-update">Last updated: 05/07/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
