@@ -80,7 +80,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<h2 class="margin-0-top">Puget Sound Budget Interactive SPREADSHEET</h2>
 			
-			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. After prioritizing agency requests, the Partnership tracks all budget items through the State's budgeting process. The Partnership also identifies additional budget items added by the Governor and legislature that are relevant to Puget Sound recovery. All relevant budget items for the most recent budget process are included in the below infographic and spreadsheet. The infographic and spreadsheet contain the same information but provide different formatting to suit the preferences of different users. Both visuals are interactive and allow filtering by budget type, agency, Action Agenda topic area, and more.			</p>
+			<p>Each year, the Puget Sound Partnership develops a prioritized list of state agency budget requests related to Puget Sound recovery. After prioritizing agency requests, the Partnership tracks all budget items through the State's budgeting process. We also identify additional budget items added by the Governor and legislature that are relevant to Puget Sound recovery. All relevant budget items for the most recent budget process are included in the below spreadsheet. The spreadsheet contain is interactive and allows filtering by budget type, agency, Action Agenda topic area, and more.			</p>
 			<p>
 			  <a href="https://app.powerbigov.us/view?r=eyJrIjoiYjExNmFkNzQtMzcxOC00NWZlLThhZTktYzE4NjhjNjVhOWZkIiwidCI6IjExZDBlMjE3LTI2NGUtNDAwYS04YmEwLTU3ZGNjMTI3ZDcyZCJ9" target="_blank" rel="noopener">
 		      Open the Puget Sound Budget Tracker in a new tab.
@@ -138,7 +138,7 @@ Open the Biennial Budget Ranking in a new tab. </a>
 		</div>
 			
 			
-			<p class="last-update">Last updated: 05/07/26</p>
+			<p class="last-update">Last updated: 05/08/26</p>
 			
 		
 			
