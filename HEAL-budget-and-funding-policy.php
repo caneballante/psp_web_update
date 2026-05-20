@@ -95,20 +95,9 @@ navSelected = 5;
 				<li>Creating meaningful participation opportunities</li>
 				<li>Clearly articulating environmental justice goals and performance metrics</li>
 				<li>Considering a broad scope</li>
-				<li>Establishing a goal of 40 percent</li>
+				<li>Establishing a goal of 40 percent		</li>
 			</ul>
-			<p align="left">You can view the Puget Sound Partnership HEAL Budget and Funding Policy below or <a href="https://pspwa.box.com/s/38wgbs8o3x8ordfry8ospgp025fdbzau" target="new">download it at this link</a>.</p>
-			<h2>Puget Sound Partnership HEAL Budget and Funding Policy</h2>
-			<p>
-<a href="https://pspwa.app.box.com/embed/s/38wgbs8o3x8ordfry8ospgp025fdbzau?sortColumn=date" target="_blank" rel="noopener">
-Open the Puget Sound Partnership HEAL Budget and Funding Policy in a new tab.
-</a>
-</p>
-		<p><iframe src="https://pspwa.app.box.com/embed/s/38wgbs8o3x8ordfry8ospgp025fdbzau?sortColumn=date" title="Puget Sound Partnership HEAL Budget and Funding Policy" width="600" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></p>
-			
-			
-			
-<p class="last-update">Last updated: 01/09/26</p>
+		<p class="last-update">Last updated: 05/20/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
