@@ -67,7 +67,7 @@
 							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/40b99uyucp7yhzq27om2qbb6y1vy39dj.pdf">DOWNLOAD THE STATE OF THE SOUND</a></div>
 						</div>
 			<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/s/badt5r6eozmrhqgwhxndl891t5j7r9hr">DESCARGAR EL STATE OF THE SOUND IN ESPAÑOL</a></div>
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/badt5r6eozmrhqgwhxndl891t5j7r9hr.pdf">DESCARGAR EL STATE OF THE SOUND EN ESPAÑOL</a></div>
 						</div>
 						
 	  </div>
@@ -213,10 +213,10 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/ResilientFloodplainscrop.jpg"  alt="A photo of a whale surfacing from the water."/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/index.php/2024/05/17/resilient-floodplains-for-people-and-salmon/">Resilient floodplains for people and salmon</a><br>
+						<img src="images/LEKT-Ranney-Reach-ELJs-2024-1632-new.jpg" width="270" height="190" class="img-responsive img-rounded"/> <strong>MAKING WAVES</strong><br>
+					  <a href="https://makingwaves.psp.wa.gov/2026/04/08/approaching-the-funding-cliff-what-happens-when-bil-expires/" target="new">Approaching the Funding Cliff: What Happens When BIL Expires?</a><br>
 						<!--END news content BOX--> 
-					</div>
+				  </div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
@@ -379,6 +379,25 @@
 				</div>
 			</div>
 			<!-- end container --> 
+			<div  class="container-fluid padding-40-bottom padding-80-top light-blue-fill">
+		<div class="row">
+			<div class="container light-blue-fill">
+				<div class="row  padding-20-right">
+				  <div class="col-md-6">
+					<br>
+					<h2 class="margin-0-top white padding-40-top">MAKING WAVES MAGAZINE</h2>
+					  <p class="white white-links"><em>Making Waves</em> is the Puget Sound Partnership&rsquo;s online magazine. <em>Making Waves</em> features stories from the people protecting and restoring Puget Sound.</p>
+					  <p class="white white-links">Read the stories and  sign up to receive at printed copy at <a href="https://makingwaves.psp.wa.gov/" target="new">https://makingwaves.psp.wa.gov.</a></p>
+				  </div>
+					<div class="col-md-5">
+					  <p><br>
+						<a href="https://makingwaves.psp.wa.gov/" target="new"><img src="images/Makingwavesmagmar26.png"  alt="screenshot of the front cover of the Q1 issue of Making Waves magazine" width="297" height="380"/></a>
+						</div>
+					<div class="col-md-12 padding-20-bottom">
+					
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 		<!-- end container --> 
