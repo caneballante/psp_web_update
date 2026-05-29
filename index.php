@@ -67,7 +67,7 @@
 							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/40b99uyucp7yhzq27om2qbb6y1vy39dj.pdf">DOWNLOAD THE STATE OF THE SOUND</a></div>
 						</div>
 			<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/badt5r6eozmrhqgwhxndl891t5j7r9hr.pdf">DESCARGAR EL STATE OF THE SOUND EN ESPAÑOL</a></div>
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/shared/static/badt5r6eozmrhqgwhxndl891t5j7r9hr.pdf">DESCARGAR STATE OF THE SOUND EN ESPAÑOL</a></div>
 						</div>
 						
 	  </div>
