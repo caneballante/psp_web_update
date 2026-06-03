@@ -92,8 +92,8 @@
 <p class="margin-20-top">For the 27-29 PSAR Large Capital Projects grant  round, project lists will be posted  here and shared with Tribes  to support the CCA notice requirements. Included will be the initial project information from applicants in a list format, and a map of the projects that are moving forward in the grant round. The information will be updated after final applications are received after June 3, 2026. Projects may change from initial to final application.</p>
 <h2>2027-2029 PSAR LARGE CAPITAL Proposed Projects</h2>
 <ul class="bullet-size-fix">
-  <li><a href="https://pspwa.box.com/s/qfg32j2fxqbjjp1dr0ray334599sr9yq" target="new">List of 2027-2029 PSAR Large Capital Project applications submitted for first round review.</a></li>
-  <li>List of 2027 -2029 PSAR Large Capital Project  applications submitted for final round review.&nbsp;<em>Available after June 3,  2026.</em></li>
+  <li><a href="https://pspwa.box.com/s/qfg32j2fxqbjjp1dr0ray334599sr9yq" target="new">List of 2027-2029 PSAR Large Capital Project applications submitted for <strong>first </strong>round review.</a></li>
+  <li><a href="https://pspwa.box.com/s/rq4keqmlcddgi1b4drksqy406gl1hhjf" target=new>List of 2027 -2029 PSAR Large Capital Project  applications submitted for <strong>final </strong>round review</a><em>.</em></li>
 </ul>
 	
 <h2>Map of 2027-2029 PSAR Large Capital proposed projects</h2>
@@ -113,7 +113,7 @@ Open the Map of 2027-2029 PSAR Large Capital proposed projects in a new tab.
 <div>
   <div> </div>
 </div>
-<p class="last-update">Last updated: 04/14/26		</p>
+<p class="last-update">Last updated: 03/06/26		</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
