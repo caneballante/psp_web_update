@@ -37,7 +37,6 @@
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
   	navSelected = 3;
 </script>
-<meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -52,7 +51,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image114">
+<header class="overview-page-image-style overview-page-image125">
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
 <div class="row">
@@ -80,6 +79,12 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+				<div class="highlightbox margin-0-top margin-20-bottom">
+			  <p>June 3, 2026 | the Leadership Council adopted the 2026-2030 Action Agenda for Puget Sound, our region’s bold, science-based, and solution-oriented roadmap for restoring and protecting the Puget Sound ecosystem. It identifies the most urgent threats to our waters, lands, and communities, and lays out the coordinated strategies we and our partners will implement to drive measurable recovery. The Action Agenda has been sent to the Environmental Protection Agency (EPA) for final review and approval.</p>
+              
+              <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/41a4e96" target="new">Read the press release</a> | <a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya">Download the Action Agenda </a>| <a href="https://actionagenda.pugetsoundinfo.wa.gov/2026-2030" target="new" > Visit the online Action Agenda Explorer</a></p>
+            
+		</div>
 		<p><a href="https://pspwa.box.com/s/osxaeqg19fevxu5n3k8xnjytzkwol512">2018-2022 Action Agenda (PDF)</a> </p>
 		<p><a href="https://pspwa.box.com/shared/static/h2ysd0bz8a1yxagtgkdaikqr1czl0owz.pdf">2016-2018  Action Agenda (PDF)</a></p>
 		<p><a href="https://pspwa.box.com/s/dzu9cwtwho06i56lt1f4bnx45j65n53q">2014/15 Action Agenda (PDF)</a></p>

@@ -38,7 +38,6 @@
 navSelected = 2;
 	
 </script>
-<meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -53,12 +52,10 @@ navSelected = 2;
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image114">
+<header class="overview-page-image-style overview-page-image125">
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-xs-12 orange-fill align-center overview-logo-banner"><img src="images/2016-AA-banner-logo-none-small.png" width="146" height="30" alt=""/></div>
-</div>
+
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -81,7 +78,12 @@ navSelected = 2;
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		
+			<div class="highlightbox margin-0-top margin-20-bottom">
+			  <p>June 3, 2026 | the Leadership Council adopted the 2026-2030 Action Agenda for Puget Sound, our region’s bold, science-based, and solution-oriented roadmap for restoring and protecting the Puget Sound ecosystem. It identifies the most urgent threats to our waters, lands, and communities, and lays out the coordinated strategies we and our partners will implement to drive measurable recovery. The Action Agenda has been sent to the Environmental Protection Agency (EPA) for final review and approval.</p>
+              
+              <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/41a4e96" target="new">Read the press release</a> | <a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya">Download the Action Agenda </a>| <a href="https://actionagenda.pugetsoundinfo.wa.gov/2026-2030" target="new" > Visit the online Action Agenda Explorer</a></p>
+            
+		</div>
 		<p>In 2007, in response to the imperiled status of Puget Sound, the Washington State Legislature created the Puget Sound Partnership to coordinate  and lead the effort to recover Puget Sound through a strategic, prioritized,  science-based Action Agenda &ldquo;that addresses all of the complex connections  among the land, water, web of species, and human needs.&rdquo; (<a href="https://app.leg.wa.gov/rcw/default.aspx?cite=90.71.200">RCW 90.71.200</a>).  The Action Agenda also fulfills the Partnership&rsquo;s statutory mandate and purpose  of the Clean Water Act&rsquo;s <a href="https://psp.wa.gov/NEP-overview.php">National  Estuary Program (NEP).</a></p>
 		<p>The Partnership updates each Action Agenda through an  adaptive management approach. The updated 2022-2026 Action Agenda has a strategic  approach to recovery that: </p>
 		<ul class="bullet-size-fix">

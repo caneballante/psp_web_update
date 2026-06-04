@@ -53,12 +53,9 @@ navSelected = 4;
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image118">
+<header class="overview-page-image-style overview-page-image125">
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-xs-12 orange-fill align-center overview-logo-banner"></div>
-</div>
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -87,8 +84,12 @@ navSelected = 4;
 			<p>On August 4, 2022, the Environmental Protection Agency (EPA) approved the<a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda adopted by the Leadership Council in June</a> as the Puget Sound National Estuary Program's (NEP) <a href="https://www.epa.gov/nep/comprehensive-conservation-and-management-plans" target="new">Comprehensive Conservation and Management Plan</a>. Learn more about the 2022-2026 Action Agenda below or visit the interactive <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">2022-2026 Action Agenda Explorer</a>.</p>
 		</div>-->
 		<div class="highlightbox margin-0-top margin-20-bottom">
-		  <p>Development of the 2026-2030 Action Agenda is now under way. To learn more, please visit the <a href="/2026AAupdate.php" target="new">2026-2030 Action Agenda Update page.</a></p>
-			</div>
+			  <p>June 3, 2026 | the Leadership Council adopted the 2026-2030 Action Agenda for Puget Sound, our region’s bold, science-based, and solution-oriented roadmap for restoring and protecting the Puget Sound ecosystem. It identifies the most urgent threats to our waters, lands, and communities, and lays out the coordinated strategies we and our partners will implement to drive measurable recovery. The Action Agenda has been sent to the Environmental Protection Agency (EPA) for final review and approval.</p>
+              
+              <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/41a4e96" target="new">Read the press release</a> | <a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya">Download the Action Agenda </a>| <a href="https://actionagenda.pugetsoundinfo.wa.gov/2026-2030" target="new" > Visit the online Action Agenda Explorer</a></p>
+            
+		</div>
+
 		<h2 class="margin-0-top">What is the Action Agenda? </h2>
 			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt="A screenshot of the Action Agenda front cover. A mountain and trees is surrounded by water and framed by a blue and orange box."/>
 		<p>The 2022-2026 Action Agenda charts the course for Puget Sound recovery as our community's shared plan for advancing protection and restoration efforts across the region.</p>

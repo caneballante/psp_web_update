@@ -53,12 +53,9 @@ navSelected = 1;
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image118">
+<header class="overview-page-image-style overview-page-image125">
 </header>
 <!-- InstanceEndEditable -->  <!-- InstanceBeginEditable name="EditRegion11" -->
-<div class="row">
-	<div class="col-xs-12 orange-fill align-center overview-logo-banner"></div>
-</div>
 <!-- InstanceEndEditable -->
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -84,10 +81,10 @@ navSelected = 1;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			
 			<div class="highlightbox margin-0-top margin-20-bottom">
-			  <p>The public comment period for the 2026-2030 Action Agenda Update has closed. The timeline below reflects the next steps in the update process. We are on schedule to submit the 2026-2030 Action Agenda Update to the EPA in the summer of 2026! </p>
-              <ul class="bullet-size-fix">
-                <li><a href="https://pspwa.box.com/s/cpor6rbxl1fgmlly9h9rwp81am2fqxcq" target="new">2026-2030 Action Agenda draft</a></li>
-              </ul>
+			  <p>June 3, 2026 | the Leadership Council adopted the 2026-2030 Action Agenda for Puget Sound, our region’s bold, science-based, and solution-oriented roadmap for restoring and protecting the Puget Sound ecosystem. It identifies the most urgent threats to our waters, lands, and communities, and lays out the coordinated strategies we and our partners will implement to drive measurable recovery. The Action Agenda has been sent to the Environmental Protection Agency (EPA) for final review and approval.</p>
+              
+              <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/41a4e96" target="new">Read the press release</a> | <a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya">Download the Action Agenda </a>| <a href="https://actionagenda.pugetsoundinfo.wa.gov/2026-2030" target="new" > Visit the online Action Agenda Explorer</a></p>
+            
 		</div>
 			
 		<h2 class="margin-0-top">We are updating the Puget Sound Action Agenda </h2>

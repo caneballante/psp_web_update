@@ -59,7 +59,7 @@
 		<div class="col-md-8 col-md-offset-2">
 						<h2 class="padding-40-top">2026-2030 ACTION AGENDA FOR PUGET SOUND</h2>
 			<hr/>
-						<p>June 3, 2026 | The Puget Sound Partnership Leadership Council adopts the 2026-2030 Action Agenda for Puget Sound, our region’s bold, science-based, and solution-oriented roadmap for restoring and protecting the Puget Sound ecosystem.</p>
+						<p>June 3, 2026 | The Puget Sound Partnership Leadership Council adopted the 2026-2030 Action Agenda for Puget Sound, our region’s bold, science-based, and solution-oriented roadmap for restoring and protecting the Puget Sound ecosystem. The Action Agenda has been sent to the Environmental Protection Agency (EPA) for final review and approval.</p>
 			<hr/>
 
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">

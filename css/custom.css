@@ -1467,6 +1467,9 @@ display: block
 .overview-page-image112 {
 	background: url(../images/inside_image_112.jpg)no-repeat bottom center scroll;
 }
+.overview-page-image125 {
+	background: url(../images/home_image25.jpg)no-repeat bottom center scroll;
+}
 
 
 @media (max-width: 1500px) {
