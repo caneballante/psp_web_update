@@ -63,13 +63,13 @@
 			<hr/>
 
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="2026AAupdate.php">LEARN MORE ABOUT THE ACTION AGENDA</a></div>
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="2026AAupdate.php" target="new">LEARN MORE ABOUT THE ACTION AGENDA</a></div>
 						</div>
 						<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya">DOWNLOAD THE ACTION AGENDA</a></div>
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya" target="new">DOWNLOAD THE ACTION AGENDA</a></div>
 						</div>
 			<div class="phack learn-more-box no-icon fontweight-400 margin-20-left">
-							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2026-2030">VISIT THE ONLINE ACTION AGENDA EXPLORER</a></div>
+							<div class="line-height-lesstight padding-10-top padding-10-bottom align-center noshadow"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2026-2030" target="new">VISIT THE ONLINE ACTION AGENDA EXPLORER</a></div>
 						</div>
 						
 	  </div>
