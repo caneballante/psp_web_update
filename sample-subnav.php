@@ -48,7 +48,7 @@
 	<div class="row">
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
-				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
+				<ul id="sectionNav" class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<?php include 'includes/ln-salmon-subnav-sample.html';?>
 				</ul>
 			</div>
@@ -68,6 +68,10 @@
 &lt;/li&gt;</code></pre>
 
 			<p>On a child page, set both variables. On a normal top-level page, set <code>subNavSelected = "non";</code> or omit it.</p>
+
+			<h2>Next and Back demo</h2>
+			<p>The left nav <code>ul</code> on this page has <code>id="sectionNav"</code>, and the placeholder below has <code>id="sectionPager"</code>. Pages without those IDs will keep using <code>custom.js</code> normally without showing next/back links.</p>
+			<div id="sectionPager"></div>
 		</div>
 
 		<div class="col-sm-2 padding-20-top padding-0-right">
