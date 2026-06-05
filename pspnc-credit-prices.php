@@ -102,10 +102,10 @@
 			<p>We review and adjust our credit price annually to ensure it will fully cover the costs of the conservation that we are taking on through credit sales. Credit prices reflect the “going rate” to carry out nearshore conservation projects.</p><br>
 			
 			
-			
 
-			<p class="last-update">Last updated: 10/27/25</p><br>
+			<p class="last-update">Last updated: 10/27/25</p><br><br>
 
+			<div id="sectionPager"></div><br>
 			
 			<!-- InstanceEndEditable --> </div>
 		

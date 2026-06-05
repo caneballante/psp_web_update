@@ -119,8 +119,11 @@
 				</div>
 				
 			</div>
+			
+			<p class="last-update">Last updated: 9/7/23</p><br><br>
 
-			<p class="last-update">Last updated: 9/7/23</p>
+
+			<div id="sectionPager"></div><br>
 			
 			<!-- InstanceEndEditable --> </div>
 		

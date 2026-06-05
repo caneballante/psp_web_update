@@ -100,8 +100,10 @@
 				<p>There are currently four ILFs in Washington State approved for wetland mitigation under the Clean Water Act (<a href="https://kingcounty.gov/en/dept/dnrp/nature-recreation/environment-ecology-conservation/wetlands/mitigation-reserves-program" target="new">King County ILF,</a><a href="https://www.piercecountywa.gov/1847/In-Lieu-Fee-Program" target="new">Pierce County ILF,</a><a href="https://www.quilcedavillage.org/Government/Departments/WetlandsProgram" target="new">Quil Ceda Village ILF,</a> and<a href="https://hccc.wa.gov/mitigation/" target="new">Hood Canal ILF</a>), and many more around the country. You can read more about wetland ILFs <a href="https://ecology.wa.gov/water-shorelines/wetlands/mitigation/in-lieu-fee-mitigation#:~:text=In%2Dlieu%20fee%20(ILF),from%20a%20wetland%20mitigation%20bank." target="new">here.</a> While those ILF programs typically seek to offset impacts regulated under the Clean Water Act, the Puget Sound Partnership Nearshore Credits Program is unique in that it was established to provide mitigation for salmonid habitat under in accordance with the Endangered Species Act.</p>
 				<br>
 			
-			<p class="last-update">Last updated: 11/12/25</p>
-			
+			<p class="last-update">Last updated: 11/12/25</p><br>
+			<br>
+
+			<div id="sectionPager"></div><br>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

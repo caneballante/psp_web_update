@@ -151,8 +151,11 @@
 			<p>Yes, the <a href="https://www.wildlandsinc.com/banks/blue-heron-slough-conservation-bank-salm/" target="new">Blue Heron Slough Conservation Bank,</a> the <a href="https://hccc.wa.gov/mitigation/" target="new">Hood Canal In-Lieu Fee Program,</a> and the <a href="https://www.portoftacoma.com/news/port-receives-approval-first-environmental-mitigation-bank" target="new">Port of Tacoma</a> all offer conservation credits for sale to impacting projects that fall within their service areas.</p>
 			
 			<p>Additionally, federal permit applicants may generate their own conservation (onsite or offsite) with approval from NOAA Fisheries and the U.S. Fish and Wildlife Service.</p><br>
-	
-			<p class="last-update">Last updated: 11/12/25</p>
+			
+			<p class="last-update">Last updated: 11/12/25</p><br>
+			<br>
+
+			<div id="sectionPager"></div><br>
 			
 			<!-- InstanceEndEditable --> </div>
 		

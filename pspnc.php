@@ -89,9 +89,10 @@ Open the Nearshore Conservation Credits map in a new tab.
 			
 			
 			<h2>Interested in learning more? Select the buttons below for answers to frequently asked questions about our Nearshore Credits Program</h2>
-
-
-			<p class="last-update">Last updated: 01/21/26</p>
+			<p class="last-update">Last updated: 01/21/26</p><br><br>
+	
+			<div id="sectionPager"></div><br>
+			
 			
 			<!-- InstanceEndEditable --> </div>
 		

@@ -108,8 +108,11 @@ Open the Nearshore Conservation Credits map in a new tab.
 			
 			<p>NOTE: If other federal, local, or state agencies also require mitigation, and that mitigation was not already included in the conservation calculator, <strong>it is the applicant's responsibility to clarify with those agencies whether the conservation credits provided by the Puget Sound Partnership would meet those obligations.</strong></p>
 			
-			<p class="last-update">Last updated: 01/21/26</p>
 			
+			<p class="last-update">Last updated: 01/21/26</p><br><br>
+
+
+			<div id="sectionPager"></div><br>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

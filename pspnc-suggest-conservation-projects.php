@@ -84,8 +84,10 @@
 			<p>If you have a nearshore conservation project in need of funding, please submit details here: <a href="https://survey123.arcgis.com/share/4dc19656090f438ebe621eb153254539" target="new">Projects eligible for Nearshore Conservation Credits</a>.</p>
 			<p>Please note: In order to be considered, the project’s benefits must be “quantifiable” through the NOAA Fisheries Conservation Calculator.</p><br>
 		
-			<p class="last-update">Last updated: 9/7/23</p>
-			
+			<p class="last-update">Last updated: 9/7/23</p><br>
+			<br>
+
+			<div id="sectionPager"></div><br>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

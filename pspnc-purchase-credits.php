@@ -114,7 +114,11 @@
 			<p>Yes, the Blue Heron Slough Conservation Bank, the Hood Canal In-Lieu Fee Program, and the Port of Tacoma all offer conservation credits for sale to impacting projects that fall within their service areas.</p>
 			<p>Additionally, federal permit applicants may generate their own conservation (onsite or offsite) with approval from NOAA Fisheries and the U.S. Fish and Wildlife Service.
 			</p><br>
-			<p class="last-update">Last updated: 10/27/25</p>
+		
+		
+			<p class="last-update">Last updated: 10/27/25</p><br>
+			<br>
+			<div id="sectionPager"></div><br>
 			
 			<!-- InstanceEndEditable --> </div>
 		
