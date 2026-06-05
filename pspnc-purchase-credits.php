@@ -68,7 +68,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/ln-pspnc-left-draft.html';?>
+					<?php include 'includes/ln-pspnc-left.html';?>
 					
 				<!-- InstanceEndEditable -->
 				</ul>
@@ -112,38 +112,26 @@
 			<h3>Are there other credit providers besides the Partnership?</h3>
 			
 			<p>Yes, the Blue Heron Slough Conservation Bank, the Hood Canal In-Lieu Fee Program, and the Port of Tacoma all offer conservation credits for sale to impacting projects that fall within their service areas.</p>
-<p>Additionally, federal permit applicants may generate their own conservation (onsite or offsite) with approval from NOAA Fisheries and the U.S. Fish and Wildlife Service.
-</p><br>
-			
-			
-			<button class="button6"><a href="/pspnc-nearshore-habitat.php" target="_blank" style="color:white"><p class="PSPNC-font">Nearshore habitat</p></a></button><br>
-			
-			<button class="button7"><a href="/pspnc-federal-action.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
-			
-			<button class="button4"><a href="/pspnc-in-lieu-fee-program.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
-			
-			<button class="button5"><a href="/pspnc-credit-prices.php" target="_blank" style="color:white"><p class="PSPNC-font">Credit prices</p></a></button><br>
-			
-			<button class="button7"><a href="/pspnc-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
-			
-
+			<p>Additionally, federal permit applicants may generate their own conservation (onsite or offsite) with approval from NOAA Fisheries and the U.S. Fish and Wildlife Service.
+			</p><br>
 			<p class="last-update">Last updated: 10/27/25</p>
 			
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			
-			<div class="right-nav-title margin-0-top nonresponsive-object-hide-rightnav">CONTACT</div>
+			<button class="button margin-20-bottom rounded-corners "><p class="line-height-evenlesstight"><a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank" style="color:white">Puget Sound Nearshore Habitat Conservation Calculator</a></p></button>
+
+			<div class="right-nav-title margin-20-top nonresponsive-object-hide-rightnav">CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"> <?php include 'includes/pspnc_contact.html';?></li>
-				<li class="active" role="presentation"><button class=button><a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank" style="color:white">Puget Sound Nearshore Habitat Conservation Calculator</a></button></li>
-				<div class="right-nav-title margin-0-top nonresponsive-object-hide-rightnav">SEE ALSO</div>
-				<li class="active" role="presentation"><a href="https://vimeo.com/637105177/d4713aa7ee" target="new"><strong>A new conservation marketplace in the Puget Sound</strong></a></li>
-				<li class="active" role="presentation"><a href="https://www.noaa.gov/news-release/army-and-noaa-to-advance-endangered-species-act-consultations" target="new"><strong>Army and NOAA to advance Endangered Species Act consulations</strong></a></li>
-				<li class="active" role="presentation"><a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target ="_blank"><strong>Puget Sound Partnership credits will fund nearshore conservation</strong></a></li>
-				<li class="active" role="presentation"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/puget-sound/nearshore-program" target="new"><strong>Washington State Department of Fish and Wildlife Nearshore Program</strong></a></li>
+				<div class="right-nav-title margin-20-top nonresponsive-object-hide-rightnav">SEE ALSO</div>
+				<li class="active" role="presentation"><a href="https://vimeo.com/637105177/d4713aa7ee" target="new">A new conservation marketplace in the Puget Sound</a></li>
+				<li class="active" role="presentation"><a href="https://www.noaa.gov/news-release/army-and-noaa-to-advance-endangered-species-act-consultations" target="new">Army and NOAA to advance Endangered Species Act consulations</a></li>
+				<li class="active" role="presentation"><a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target ="_blank">Puget Sound Partnership credits will fund nearshore conservation</a></li>
+					<li class="active" role="presentation"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/puget-sound/nearshore-program" target="new">Washington State Department of Fish and Wildlife Nearshore Program</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

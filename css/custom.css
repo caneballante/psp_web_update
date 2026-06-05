@@ -596,6 +596,9 @@ display: block
 .line-height-lesstight {
 	line-height: 1em;
 }
+.line-height-evenlesstight {
+	line-height: 1.2em;
+}
 .border-top {
 	border-top: dotted 1px #434343;
 }
@@ -827,73 +830,7 @@ display: block
 	border-radius: 5px
 }
 */
-/*banners specalized for the AA and SOS*/
-@media (max-width: 1500px) {
-	.intro-aa {
-		display: table;
-		width: 100%;
-		height: 500px;
-		padding: 20px 0;
-		margin: auto;
-		text-align: center;
-		color: #fff;
-		background: url("../images/2026AAheader-sm-dark.jpg")no-repeat bottom center scroll;
-		background-color: #000;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		background-size: cover;
-		-o-background-size: cover;
-	}
-}
-@media (min-width: 1501px) and (max-width:2000px) {
-	.intro-aa {
-		display: table;
-		width: 100%;
-		height: 500px;
-		padding: 20px 0;
-		margin: auto;
-		text-align: center;
-		color: #fff;
-		background: url("../images/2026AAheader-sm-dark_wide.jpg")no-repeat bottom center scroll;
-		background-color: #000;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		background-size: cover;
-		 -o-background-size: cover;
-	}
-}
-@media (min-width: 2001px) {
-	.intro-aa {
-		display: table;
-		width: 100%;
-		height: 500px;
-		padding: 20px 0;
-		margin: auto;
-		text-align: center;
-		color: #fff;
-		background: url("../images/2026AAheader-sm-dark_widest.jpg")no-repeat bottom center scroll;
-		background-color: #000;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		background-size: cover;
-		 -o-background-size: cover;
-	}
-}
-  
-.intro-aa .intro-body {
-	display: table-cell;
-	vertical-align: middle;
 
-}
-/*sets text size on the jumbotron*/
-.intro-aa h2 {
-	font-size: 30px;
-	color: #fff;
-	text-shadow: 2px 2px #000;
-}
-.intro-aa p {
-	text-shadow: 2px 2px #000;
-}
 /*banners specalized for the AA and SOS*/
 @media (max-width: 1500px) {
 	.intro-SOS {
@@ -1466,9 +1403,6 @@ display: block
 }
 .overview-page-image112 {
 	background: url(../images/inside_image_112.jpg)no-repeat bottom center scroll;
-}
-.overview-page-image125 {
-	background: url(../images/home_image25.jpg)no-repeat bottom center scroll;
 }
 
 
