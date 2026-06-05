@@ -68,7 +68,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-					<?php include 'includes/ln-pspnc-left-draft.html';?>
+					<?php include 'includes/ln-pspnc-left.html';?>
 					
 				<!-- InstanceEndEditable -->
 				</ul>
@@ -110,7 +110,9 @@ Open the Nearshore Conservation Credits map in a new tab.
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			
-			<div class="right-nav-title margin-0-top nonresponsive-object-hide-rightnav">CONTACT</div>
+			<button class="button margin-20-bottom rounded-corners "><p class="line-height-evenlesstight"><a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank" style="color:white">Puget Sound Nearshore Habitat Conservation Calculator</a></p></button>
+
+			<div class="right-nav-title margin-20-top nonresponsive-object-hide-rightnav">CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
