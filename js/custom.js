@@ -27,9 +27,110 @@ $(document).ready(function () {
 		});
     }
 
+	buildSectionPager();
 
+	function buildSectionPager() {
+		var $sectionNav = $("#sectionNav").first();
 
+		if (!$sectionNav.length || typeof window.navSelected === "undefined") {
+			return;
+		}
 
+		var navId = "nav" + window.navSelected;
+		var $currentItem = $sectionNav.find('[id="' + navId + '"]').first();
+
+		if (!$currentItem.length) {
+			return;
+		}
+
+		if (typeof window.subNavSelected !== "undefined" && String(window.subNavSelected).toLowerCase() !== "non") {
+			var subNavId = "subnav" + window.subNavSelected;
+			var $subNavItem = $currentItem.find('[id="' + subNavId + '"]').first();
+
+			if ($subNavItem.length) {
+				$currentItem = $subNavItem;
+			}
+		}
+
+		var navItems = [];
+
+		$sectionNav.find('li[id^="nav"], li[id^="subnav"]').each(function () {
+			var $item = $(this);
+			var $link = $item.children("a[href]").first();
+			var href = $.trim($link.attr("href") || "");
+
+			if (!$link.length || $item.is("[data-pager-skip]") || $link.is("[data-pager-skip]")) {
+				return;
+			}
+
+			if (!href || href === "#" || href.indexOf("javascript:") === 0) {
+				return;
+			}
+
+			navItems.push({
+				item: this,
+				href: href,
+				text: $.trim($link.text())
+			});
+		});
+
+		var currentIndex = -1;
+
+		$.each(navItems, function (index, navItem) {
+			if (navItem.item === $currentItem[0]) {
+				currentIndex = index;
+				return false;
+			}
+		});
+
+		if (currentIndex === -1) {
+			return;
+		}
+
+		var previousItem = navItems[currentIndex - 1];
+		var nextItem = navItems[currentIndex + 1];
+
+		if (!previousItem && !nextItem) {
+			return;
+		}
+
+		var $pager = $('<nav class="section-pager" aria-label="Section page navigation"><ul class="pager"></ul></nav>');
+		var $pagerList = $pager.find("ul");
+
+		$pagerList.append(makePagerItem(previousItem, "previous"));
+		$pagerList.append(makePagerItem(nextItem, "next"));
+
+		if ($("#sectionPager").length) {
+			$("#sectionPager").first().empty().append($pager);
+		} else {
+			$(".content-column").first().find(".section-pager").remove();
+			$(".content-column").first().append($pager);
+		}
+	}
+
+	function makePagerItem(navItem, pagerClass) {
+		var $item = $("<li></li>", {
+			"class": pagerClass
+		});
+
+		if (!navItem) {
+			return $item.addClass("disabled").append($("<span></span>").html("&nbsp;"));
+		}
+
+		var $link = $("<a></a>", {
+			href: navItem.href
+		});
+
+		if (pagerClass === "previous") {
+			$link.append($("<span></span>").html("&larr; Back: "));
+			$link.append(document.createTextNode(navItem.text));
+		} else {
+			$link.append(document.createTextNode("Next: " + navItem.text + " "));
+			$link.append($("<span></span>").html("&rarr;"));
+		}
+
+		return $item.append($link);
+	}
 });
 
 // jQuery to change the menu button on window resize
