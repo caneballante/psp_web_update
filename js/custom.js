@@ -30,16 +30,24 @@ $(document).ready(function () {
 	buildSectionPager();
 
 	function buildSectionPager() {
-		var $sectionNav = $("#sectionNav").first();
+		var $pagerTarget = $("#sectionPager").first();
 
-		if (!$sectionNav.length || typeof window.navSelected === "undefined") {
+		if (!$pagerTarget.length || typeof window.navSelected === "undefined") {
 			return;
 		}
 
 		var navId = "nav" + window.navSelected;
-		var $currentItem = $sectionNav.find('[id="' + navId + '"]').first();
+		var $currentItem = $('[id="' + navId + '"]').filter(function () {
+			return $(this).closest(".nav-leftside-custom").length;
+		}).first();
 
 		if (!$currentItem.length) {
+			return;
+		}
+
+		var $sectionNav = $currentItem.closest("ul.nav-leftside-custom, ul.nav").first();
+
+		if (!$sectionNav.length) {
 			return;
 		}
 
@@ -100,12 +108,7 @@ $(document).ready(function () {
 		$pagerList.append(makePagerItem(previousItem, "previous"));
 		$pagerList.append(makePagerItem(nextItem, "next"));
 
-		if ($("#sectionPager").length) {
-			$("#sectionPager").first().empty().append($pager);
-		} else {
-			$(".content-column").first().find(".section-pager").remove();
-			$(".content-column").first().append($pager);
-		}
+		$pagerTarget.empty().append($pager);
 	}
 
 	function makePagerItem(navItem, pagerClass) {
