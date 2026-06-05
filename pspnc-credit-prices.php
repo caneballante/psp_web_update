@@ -102,18 +102,10 @@
 			<p>We review and adjust our credit price annually to ensure it will fully cover the costs of the conservation that we are taking on through credit sales. Credit prices reflect the “going rate” to carry out nearshore conservation projects.</p><br>
 			
 			
-			<button class="button6"><a href="/pspnc-nearshore-habitat.php" target="_blank" style="color:white"><p class="PSPNC-font">Nearshore habitat</p></a></button><br>
-			
-			<button class="button7"><a href="/pspnc-federal-action.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
-			
-			<button class="button4"><a href="/pspnc-in-lieu-fee-program.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
-			
-			<button class="button6"><a href="/pspnc-purchase-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Purchase credits</p></a></button><br>
-			
-			<button class="button7"><a href="/pspnc-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
 			
 
-			<p class="last-update">Last updated: 10/27/25</p>
+			<p class="last-update">Last updated: 10/27/25</p><br>
+
 			
 			<!-- InstanceEndEditable --> </div>
 		
