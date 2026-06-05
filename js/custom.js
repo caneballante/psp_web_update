@@ -97,8 +97,13 @@ $(document).ready(function () {
 		var $pager = $('<nav class="section-pager" aria-label="Section page navigation"><ul class="pager"></ul></nav>');
 		var $pagerList = $pager.find("ul");
 
-		$pagerList.append(makePagerItem(previousItem, "previous"));
-		$pagerList.append(makePagerItem(nextItem, "next"));
+		if (previousItem) {
+			$pagerList.append(makePagerItem(previousItem, "previous"));
+		}
+
+		if (nextItem) {
+			$pagerList.append(makePagerItem(nextItem, "next"));
+		}
 
 		if ($("#sectionPager").length) {
 			$("#sectionPager").first().empty().append($pager);
@@ -114,7 +119,7 @@ $(document).ready(function () {
 		});
 
 		if (!navItem) {
-			return $item.addClass("disabled").append($("<span></span>").html("&nbsp;"));
+			return $();
 		}
 
 		var $link = $("<a></a>", {
