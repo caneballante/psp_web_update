@@ -86,23 +86,10 @@ Open the Nearshore Conservation Credits map in a new tab.
 			
 			<IFRAME WIDTH=900 HEIGHT=850 FRAMEBORDER=0 SRC="https://experience.arcgis.com/experience/3ad3ed63a1d541a5bc1793887aa38a85/" title="Nearshore Conservation credits map"></IFRAME>
 			<br>
-			<br>
-			<br>
+			
 			
 			<h2>Interested in learning more? Select the buttons below for answers to frequently asked questions about our Nearshore Credits Program</h2>
-			
-			<button class="button6"><a href="/pspnc-nearshore-habitat.php" target="_blank" style="color:white"><p class="PSPNC-font">Nearshore habitat</p></a></button><br>
-			
-			<button class="button7"><a href="/pspnc-federal-action.php" target="_blank" style="color:white"><p class="PSPNC-font">Federal action</p></a></button><br>
-			
-			<button class="button4"><a href="/pspnc-in-lieu-fee-program.php" target="_blank" style="color:white"><p class="PSPNC-font">The Partnership's in-lieu fee program</p></a></button><br>
-			
-			<button class="button5"><a href="/pspnc-credit-prices.php" target="_blank" style="color:white"><p class="PSPNC-font">Credit prices</p></a></button><br>
-			
-			<button class="button6"><a href="/pspnc-purchase-credits.php" target="_blank" style="color:white"><p class="PSPNC-font">Purchase credits</p></a></button><br>
-			
-			<button class="button7"><a href="/pspnc-suggest-conservation-projects.php" target="_blank" style="color:white"><p class="PSPNC-font">Suggest conservation projects for funding</p></a></button><br>
-			
+
 
 			<p class="last-update">Last updated: 01/21/26</p>
 			
