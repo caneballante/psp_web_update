@@ -1701,6 +1701,31 @@ display: block
 .PSPNC-font {
 	font-size: 20px;
 }
+.pspnc-calculator-button {
+	display: block;
+	width: 100%;
+	padding: 14px 16px;
+	background: #005c7a;
+	border: 1px solid #0f7897;
+	border-top: 4px solid #7fbf3f;
+	border-radius: 4px;
+	box-shadow: 0 3px 8px rgba(0, 0, 0, 0.18);
+	color: #fff;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 1.25;
+	text-align: center;
+	text-decoration: none;
+	transition: background-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+.pspnc-calculator-button:hover,
+.pspnc-calculator-button:focus {
+	background: #004f68;
+	box-shadow: 0 5px 12px rgba(0, 0, 0, 0.22);
+	color: #fff;
+	text-decoration: none;
+	transform: translateY(-1px);
+}
 .psemp-mar-font {
 	font-size: 16px;
 }
