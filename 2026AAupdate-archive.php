@@ -87,10 +87,121 @@ navSelected = 1;
             
 		</div>
 			
-		<h2 class="margin-0-top">&nbsp;</h2>
+		<h2 class="margin-0-top">We are updating the Puget Sound Action Agenda </h2>
+		<p>The Action Agenda is our community&rsquo;s  shared plan for advancing Puget Sound recovery. The 2026-30 Action Agenda  update will advance progress towards recovery of the Puget Sound&rsquo;s ecosystem and human wellbeing <a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="new">Vital Signs</a> by building on  the foundation of the<a href="https://www.psp.wa.gov/2022AAupdate.php" target="new">2022-26  Action Agenda</a>.</p>
+		<h2>Our Vision for the 2026-30 Action Agenda </h2>	
+		<p>The Action Agenda should articulate what priority actions and policy changes need to occur over the next four years to accelerate Puget Sound recovery. The 2026-30 Action Agenda update will improve our ability to implement and monitor recovery efforts, and will elevate human wellbeing, climate change, and environmental justice. Updates to the Strategies and Actions will allow PSP, PSP’s Boards, and partners to identify commitments, investments, or geographically specific needs to drive implementation of recovery work. The updated plan will also have more indicators and targets to help us assess the effectiveness of our collective efforts and hold ourselves accountable to making meaningful progress. </p>
+      
+		<h2>What will this update achieve? </h2>	
+		<p>The Action Agenda update process follows an adaptive management approach, that will allow us to evaluate and learn what the recovery community did or did not achieve, so we can adjust the Action Agenda (our plan) to improve recovery efforts (do). </p>
+			
+		<div class="floatright margin-30-left">  
+			<img src="images/adaptive_management_cycle.gif" alt="An image of the simplified adaptive management cycle. Four arrows make up a circle to show that each part of the cycle interacts with the others. Each arrow says Evaluate and Learn, Adjust, Plan, and Do." width="289" height="285"/>
+			<p class="caption align-center">The simplified adaptive management cycle</p>
+		</div>
+			
+		<p>The 2026-30 Action Agenda update will: </p>
+        <ul class="bullet-size-fix">
+          <li>Strengthen implementation, accountability,  alignment and tracking of the Action Agenda.   </li>
+          <li>Elevate and further human wellbeing, climate change, and environmental justice.</li>
+          <li>Elevate and honor Tribal sovereignty and treaty  rights.</li>
+          <li>Promote meaningful engagement of diverse audiences, including vulnerable populations (VP) and overburdened communities (OBC).</li>
+          <li>Update the online Action Agenda to improve  accessibility and usability. </li>
+        </ul>
+       
+		<h2>Approach and timeline </h2>
+		
+		<p>Over the course of 2025, the Partnership will work with recovery partners to evaluate and learn from successes and challenges to implementing the 2022-26 Action Agenda and revise the 2026-30 Action Agenda as needed. The 2026-30 Action Agenda is scheduled to be approved in summer 2026.</p>
 
-		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 06/05/26</p>
+		<h3>Timeline</h3>
+		<p>&nbsp;</p>
+        <a href="https://pspwa.box.com/s/vv3uprzyufrxb4jdxhj1tcnd258ovcs3"><img src="images/action-agenda/AA2630timeline.png" alt="An image of 2026-2030 Action Agenda Timeline, depicting the information listed below." width="953" height="200"></a>
+		<table class="table-striped table-responsive">
+			
+		<thead>
+			<tr>
+				<th><h3>Date</h3></th>
+				<th><h3>Milestone</h3></th>
+			</tr>
+			</thead>
+		<tbody>
+			<tr>
+				<td><p><strong>2025</strong></p></td>
+				<td>&nbsp;</td>
+			</tr>
+		<tr>
+			<td> <p>January-March 2025:</p></td>
+			<td>
+				<ul class="bullet-size-fix">
+					<li>Update 2026-30 Action Agenda content.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><p>April-June 2025:</p> </td>
+			<td>
+				<ul class="bullet-size-fix">
+					<li>Develop initial draft 2026-30 Action Agenda</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><p>July-September 2025:</p> </td>
+			<td>
+				<ul class="bullet-size-fix">
+					<li>Review initial draft of the 2026-30 Action Agenda</li>
+					<li>Tribal consultation</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><p>October-December 2025:</p> </td>
+			<td>
+				<ul class="bullet-size-fix">
+					<li>Confirm commitments and targets</li>
+					<li>Revise 2-26-30 Action Agenda</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><p><strong>2026</strong></p> </td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td><p>January-March 2026:</p> </td>
+			<td>
+				<ul class="bullet-size-fix">
+					<li>Public comment on 2026-30 Action Agenda</li>
+					<li>Tribal consultation</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><p>April-June 2026:</p> </td>
+			<td>
+				<ul class="bullet-size-fix">
+					<li>Coordinate Boards review</li>
+					<li>Present 2026-30 Action Agenda to Leadership Council for adoption</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><p>July-September 2026:</p> </td>
+			<td>
+				<ul class="bullet-size-fix">
+					<li>Submit adopted Action Agenda to EPA for approval</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+	</table>
+
+	
+       
+    
+        <!-- LAST UPDATED -->
+		<p class="last-update">Last updated: 06/04/26</p>
 
         <!-- InstanceEndEditable --> </div>
 		
