@@ -137,7 +137,6 @@
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"> <?php include 'includes/pspnc_contact.html';?></li>
 				<div class="right-nav-title margin-20-top nonresponsive-object-hide-rightnav">SEE ALSO</div>
-				<li class="active" role="presentation"><a href="https://vimeo.com/637105177/d4713aa7ee" target="new">A new conservation marketplace in the Puget Sound</a></li>
 				<li class="active" role="presentation"><a href="https://www.noaa.gov/news-release/army-and-noaa-to-advance-endangered-species-act-consultations" target="new">Army and NOAA to advance Endangered Species Act consulations</a></li>
 				<li class="active" role="presentation"><a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target ="_blank">Puget Sound Partnership credits will fund nearshore conservation</a></li>
 					<li class="active" role="presentation"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/puget-sound/nearshore-program" target="new">Washington State Department of Fish and Wildlife Nearshore Program</a></li>
