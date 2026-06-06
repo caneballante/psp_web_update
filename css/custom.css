@@ -1705,10 +1705,10 @@ display: block
 	display: block;
 	width: 100%;
 	padding: 14px 16px;
-	background: #005c7a;
+	background: #0a3b5c!important;
 	border: 1px solid #0f7897;
 	border-top: 4px solid #7fbf3f;
-	border-radius: 4px;
+	border-radius: 8px;
 	box-shadow: 0 3px 8px rgba(0, 0, 0, 0.18);
 	color: #fff;
 	font-size: 14px;
@@ -1720,7 +1720,6 @@ display: block
 }
 .pspnc-calculator-button:hover,
 .pspnc-calculator-button:focus {
-	background: #004f68;
 	box-shadow: 0 5px 12px rgba(0, 0, 0, 0.22);
 	color: #fff;
 	text-decoration: none;

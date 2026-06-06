@@ -161,7 +161,7 @@
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			
-			<button class="button margin-20-bottom rounded-corners "><p class="line-height-evenlesstight"><a href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank" style="color:white">Puget Sound Nearshore Habitat Conservation Calculator</a></p></button>
+			<a class="pspnc-calculator-button margin-20-bottom" href="https://www.fisheries.noaa.gov/west-coast/habitat-conservation/puget-sound-nearshore-habitat-conservation-calculator" target="_blank">Puget Sound Nearshore Habitat Conservation Calculator</a>
 
 			<div class="right-nav-title margin-20-top nonresponsive-object-hide-rightnav">CONTACT</div>
 			<!-- InstanceEndEditable -->
