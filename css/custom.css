@@ -890,7 +890,7 @@ display: block
 }
 
 /*sets text size on the jumbotron*/
-/*sets text size on the jumbotron*/
+
 .intro-aa h2 {
 	font-size: 30px;
 	color: #fff;
@@ -1465,7 +1465,9 @@ display: block
 .overview-page-image124 {
 	background: url("../images/inside_image_124.jpg")no-repeat bottom center scroll;
 }
-
+.overview-page-image125 {
+	background: url(../images/home_image25.jpg)no-repeat bottom center scroll;
+}
 .overview-page-image-style {
 	width: 100%;
 	
