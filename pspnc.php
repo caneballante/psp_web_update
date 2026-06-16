@@ -87,8 +87,7 @@ Open the Nearshore Conservation Credits map in a new tab.
 			<IFRAME WIDTH=900 HEIGHT=850 FRAMEBORDER=0 SRC="https://experience.arcgis.com/experience/3ad3ed63a1d541a5bc1793887aa38a85/" title="Nearshore Conservation credits map"></IFRAME>
 			<br>
 			
-			
-			<h2>Interested in learning more? Select the buttons below for answers to frequently asked questions about our Nearshore Credits Program</h2>
+		
 			<p class="last-update">Last updated: 01/21/26</p><br><br>
 	
 			<div id="sectionPager"></div><br>
