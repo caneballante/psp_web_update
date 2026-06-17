@@ -77,7 +77,7 @@
 		
 			
 			
-        <table align="center"width="200" border="1">
+        <table align="center"width="200" border="0">
   <tbody>
     <tr>
       <td><a href="#section1"><img src="images/seattle-map.gif" width="192" height="163" alt=""/></a></td>
@@ -87,7 +87,7 @@
 	<td><a href="#section3"><img src="images/Olympia.png" width="192" height="163" alt=""/></td>
 	<td><a href="#section4"><img src="images/Puget Sound-wide.jpg" width="192" height="163" alt=""/></td>
     </tr>
-    <tr>
+    <tr style="text-align: center;">
 		<td><p><a href="#section1">Seattle</a></p></td>
       <td><a href="#section2">Tacoma</a></td>
 		<td><a href="#section3">Sewer-related programs in Tacoma Pierce County</a></td>
@@ -129,7 +129,8 @@
           <li><strong>Stormwater facility credit</strong>: Save money on  the drainage fee that the City of Seattle charges if you have a qualifying  stormwater system on your property. Learn more <a href="https://www.seattle.gov/utilities/your-services/discounts-and-incentives/stormwater-facility-credit">here</a>.</li>
           <li>Low-income customer may get a $100 toilet replacement rebate, $100  sprinkler timer rebate, or  a free water saving toilet. Learn more <a href="https://www.seattle.gov/utilities/protecting-our-environment/sustainability-tips/conserve-water/for-residents">here</a>.  This page also has information about free gardening classes and how to check  for and fix leaks. </li>
         </ul>
-        <h2 id="section2">TACOMA</h2>
+        <p id="section2"><a href="#top">Return to top</a></p>
+        <h2>TACOMA</h2>
         <h3>Make a Splash Grant Program</h3>
         <ul class="bullet-size-fix">
           <li><strong>Website</strong>: <a href="https://www.cityoftacoma.org/government/city_departments/environmentalservices/surface_water/make_a_splash_stormwater_project_funding#:~:text=Apply%20for%20a%20Make%20a%20Splash%20grant%20through,and%20restore%20our%20lakes%2C%20streams%20and%20Puget%20Sound.">Make  a Splash Stormwater Project Funding - City of Tacoma</a></li>
@@ -154,7 +155,8 @@
             <li>Qualified homeowners can receive payment  assistance with utility bills. Available in Spanish. </li>
           </ul>
         </ul>
-        <h2 id="section3">Sewer-related programs in Tacoma/Pierce County </h2>
+		<p id="section3"><a href="#top">Return to top</a></p>
+        <h2>Sewer-related programs in Tacoma/Pierce County </h2>
         <h3>City of Tacoma Sewer Conservation Loan Program </h3>
         <ul class="bullet-size-fix">
           <li><strong>Website</strong>: <a href="https://www.cityoftacoma.org/government/city_departments/environmentalservices/sewer_conservation_loan_program">Sewer Conservation  Loan Program - City of Tacoma</a></li>
@@ -182,13 +184,15 @@
           <li><strong>Website</strong>: <a href="https://www.piercecountywa.gov/1872/Small-Grants-Program">Watersheds  Small Grants Program | Pierce County, WA - Official Website</a></li>
           <li><strong>Description</strong>: The <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.piercecountywa.gov%2F1872%2FSmall-Grants-Program&data=05%7C02%7Csigne.lindquist%40psp.wa.gov%7Cf930e1b5fdf04791661808dd7ec0f97c%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638806089487391983%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Vhnr7Luv0pCI9c34SbXg9CvyqIoMmy7lcbx9IWdpfPc%3D&reserved=0">2025 Watersheds Small Grants Program</a> funds community projects that improve water quality, restore habitats, and  protect the environment. This grant is open to everyone! Nonprofits, schools,  teachers, tribes, local governments, and individuals are encouraged to apply  for up to <strong>$2,500</strong> to start neighborhood cleanups, build rain gardens,  remove invasive species, and more. Grant applications are due by <strong>April 30, 2025</strong>. </li>
         </ul>
-        <h2 id="section4">OLYMPIA</h2>
+		<p id="section4"><a href="#top">Return to top</a></p>
+        <h2>OLYMPIA</h2>
         <h3>Rain Garden Incentive Program from City of Olympia </h3>
         <ul class="bullet-size-fix">
           <li><strong>Website</strong>: <a href="https://www.olympiawa.gov/services/water_utilities/storm___surface_water/rain_gardens.php">Rain  Gardens</a></li>
           <li><strong>Description</strong>: The City of Olympia reimburses private property  owners up to $400 upon the completion of a rain garden. Commercial, school, or  religious-use properties could also be considered. These incentives aim to  build new rain gardens and new development or construction of already existing  rain gardens are not eligible for reimbursement. </li>
         </ul>
-        <h2 id="section5">PUGET SOUND-WIDE</h2>
+		<p id="section5"><a href="#top">Return to top</a></p>
+        <h2>PUGET SOUND-WIDE</h2>
         <h3>Puget Sound Starts Here</h3>
         <ul class="bullet-size-fix">
           <li><strong>Website</strong>: <a href="https://www.pugetsoundstartshere.org/Default.aspx">Puget Sound Starts  Here</a></li>
@@ -212,12 +216,13 @@
           <li><strong>Website</strong>: <a href="https://app.box.com/s/o7x7akxyueft74on1oup5caqd12c8gv1">PSI Payments to  Landowners Program Catalog_PUBLIC.xlsx | Powered by Box</a></li>
           <li><strong>Description</strong>: Puget Sound Institute has compiled  a list of payment programs, rebates, and more available to landowners. It was  last updated in January 2025.        </li>
         </ul>
+		<p><a href="#top">Return to top</a></p>
         <h2>Contact us</h2>
 			
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
         </p>
-			<p class="last-update">Last updated: 04/21/26</p>
+			<p class="last-update">Last updated: 06/16/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
