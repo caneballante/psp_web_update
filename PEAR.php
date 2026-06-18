@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Pro-Equity Anti-Racism</h1> 
+			<h1>Pro-Equity Anti-Racism impact</h1> 
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -77,14 +77,14 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 
        
-        <h2 class="margin-0-top"><strong>Our Pro-Equity Anti-Racism Statement</strong></h2>
+        <h2 class="margin-0-top"><strong>Our Pro-Equity Anti-Racism impact Statement</strong></h2>
         <p>On March 21, 2022, Governor Inslee signed Executive Order 22-04, Implementing the Washington State Pro-Equity Anti-Racism (PEAR) Plan  &amp; Playbook. The Executive Order  directs all Cabinet agencies to partner with the Office of Equity in a  commitment to being an anti-racist government system.</p>
         <p>The Puget Sound Partnership is dedicated to  upholding this executive order in our application of environmental justice  principles in Puget Sound ecosystem recovery goals. We stand in unity for the  just treatment and meaningful involvement of all people in government  decision-making, especially   decisions that affect human health and the environment.</p>
         <p>The Leadership Team is  committed to the development of its<a href="https://pspwa.box.com/s/ggerhxalpjxp3ubf8bqphqswokexl6rl" target="new"> Five-Year Well-being, Equity, and Belonging Action Plan</a>  for embedding equity and environmental justice into its operations,  policymaking, and funding decisions.</p>
-        <p>We look forward to  continuing this journey with each of you, our partners, and the Office of  Equity. Please don&rsquo;t hesitate to  reach out to our Pro-Equity Anti-Racism  Team.<br>
+        <p>We look forward to  continuing this journey with each of you, our partners, and the Office of  Equity. Please don&rsquo;t hesitate to  reach out to our Impact  Team.<br>
         </p>
             
-        <h2>Our <strong>Pro-Equity Anti-Racism </strong> team</h2>
+        <h2>Our <strong>Impact </strong> team</h2>
             <table class="table-striped">
                 
                  <tr>
