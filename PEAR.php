@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Pro-Equity Anti-Racism (PEAR)</title>
+<title>Pro-Equity Anti-Racism (Impact)</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Pro-Equity Anti-Racism impact</h1> 
+			<h1>Pro-Equity Anti-Racism (impact)</h1> 
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
