@@ -75,9 +75,9 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-		<p>By the end of 2025, the Future Scenarios project included five  scenarios: one baseline scenario and four alternative scenarios. These  scenarios are not predictions of Puget Sound&rsquo;s future. Instead, they are meant  to provide descriptive, memorable, and distinct visions of potential futures to  help us understand the potential implications and outcomes of current  management choices.<br>
-All five scenarios assume that, by 2080, the Puget Sound  region will experience high impacts from climate change and high population  growth. The project uses these &ldquo;high&rdquo; assumptions because they create the best  test for the region&rsquo;s growth management and recovery strategies in an uncertain  future. <br>
-Each scenario assumes a unique set of growth and development  choices intended to explore how Puget Sound recovery goals might be met across  a range of population distributions, from more concentrated in urban areas to  less concentrated in urban areas. </p>
+		<p>By the end of 2025, the Future Scenarios project included five  scenarios: one baseline scenario and four alternative scenarios. These  scenarios are not predictions of Puget Sound&rsquo;s future. Instead, they are meant  to provide descriptive, memorable, and distinct visions of potential futures to  help us understand the potential implications and outcomes of current  management choices.</p>
+		<p> All five scenarios assume that, by 2080, the Puget Sound  region will experience high impacts from climate change and high population  growth. The project uses these &ldquo;high&rdquo; assumptions because they create the best  test for the region&rsquo;s growth management and recovery strategies in an uncertain  future. </p>
+		<p> Each scenario assumes a unique set of growth and development  choices intended to explore how Puget Sound recovery goals might be met across  a range of population distributions, from more concentrated in urban areas to  less concentrated in urban areas. </p>
         <h2>Baseline Scenario</h2>
         <p>The Baseline Scenario projects Puget Sound&rsquo;s 2020 population  growth trends and current policies, including conservation and restoration  funding levels, into 2080. The purpose of the Baseline Scenario is to provide a  comparison for the alternative scenarios. It helps illustrate the potential  differences between the current trajectory and the variations explored in the  alternative scenarios.&nbsp;</p>
         <h2>Alternative Scenarios</h2>
@@ -86,25 +86,25 @@ Each scenario assumes a unique set of growth and development  choices intended t
           <li>Through their narrative storytelling</li>
           <li>Through modeled results. </li>
         </ul>
-        <p>The narratives are the project&rsquo;s main tool to explore the  future. In exploratory   scenario planning, narratives can take many forms. Future Scenarios created  four character-driven narratives (one for each alternative scenario) that show different  ways Puget Sound might progress towards its recovery goals by 2080 and how an  individual might experience them. <br>
-          In each narrative, the characters are in their different futures and  travel to the same fictional event in Olympia called <em>Shadow and Song</em>.  The shared setting creates a common point or reference across the scenarios,  making the stories easier to compare and follow. Because each scenario is  designed to explore how to achieve recovery goals, <em>Shadow and Song</em> is intended  to be plausible in each future.</p>
+        <p>The narratives are the project&rsquo;s main tool to explore the  future. In exploratory   scenario planning, narratives can take many forms. Future Scenarios created  four character-driven narratives (one for each alternative scenario) that show different  ways Puget Sound might progress towards its recovery goals by 2080 and how an  individual might experience them. </p>
+        <p> In each narrative, the characters are in their different futures and  travel to the same fictional event in Olympia called <em>Shadow and Song</em>.  The shared setting creates a common point or reference across the scenarios,  making the stories easier to compare and follow. Because each scenario is  designed to explore how to achieve recovery goals, <em>Shadow and Song</em> is intended  to be plausible in each future.</p>
         <h3>Salmon Forward </h3>
-        <p>SF Icon; <br>
-          In the <strong>Salmon Forward </strong>alternative&nbsp;scenario,  Puget Sound&nbsp;is&nbsp;a region where dense urban life and nature exist  in&nbsp;a deliberate balance. Decades of coordinated planning, conservation  efforts, and public commitment to restoring the landscape have concentrated growth  in existing urban areas in central Puget Sound. This has resulted in compact,  transit-oriented cities, while surrounding rural and wild  areas&nbsp;remain&nbsp;intact and thriving. The contrast is&nbsp;striking. Dense  urban neighborhoods are seamlessly connected to working farms, salmon-bearing  streams, and mature forests, all within reach of the urban core<em>.</em><br>
-  <strong><em>Click  here</em></strong><em>to  open the Salmon Forward narrative and spend a day with Maya, a retired land use  planner from Bremerton.</em></p>
+        <img src="/images/Icon-salmonforward.png">                 
+        <p>In the <strong>Salmon Forward </strong>alternative&nbsp;scenario,  Puget Sound&nbsp;is&nbsp;a region where dense urban life and nature exist  in&nbsp;a deliberate balance. Decades of coordinated planning, conservation  efforts, and public commitment to restoring the landscape have concentrated growth  in existing urban areas in central Puget Sound. This has resulted in compact,  transit-oriented cities, while surrounding rural and wild  areas&nbsp;remain&nbsp;intact and thriving. The contrast is&nbsp;striking. Dense  urban neighborhoods are seamlessly connected to working farms, salmon-bearing  streams, and mature forests, all within reach of the urban core<em>.</em></p>
+        <p><a href="https://pspwa.box.com/s/71sw8bk7wcj46tr9wk9uymss9ndxqrgx" target="new">Read the Salmon Forward narrative and spend a day with Maya, a retired land use  planner from Bremerton.</a></p>
         <h3>Networked Growth</h3>
-        <p>NG Icon; <br>
-          In&nbsp;the&nbsp;<strong>Networked Growth</strong>&nbsp;alternative  scenario, all Puget Sound counties&nbsp;participate&nbsp;in a shared growth  model that channels growth and development into existing urban growth areas  across the region. <br>
-          This approach makes sure that no single county&nbsp;bears  the pressure of&nbsp;growth, while also preserving working lands, restoring  watersheds, and making more efficient infrastructure investments. Smaller urban  areas have become thriving hubs of climate-smart development, thanks to  regionalfunding tools, local planning authority, and a commitment to  shared outcomes.&nbsp;&nbsp;<br>
-  <em> <strong>Click here</strong> to  open the Networked Growth narrative and spend a day with Jenna, a middle-aged  farmer from Chimacum.</em></p>
+			<p><img src="/images/Icon-networkedgrowth.png"></p>
+        <p> In&nbsp;the&nbsp;<strong>Networked Growth</strong>&nbsp;alternative  scenario, all Puget Sound counties&nbsp;participate&nbsp;in a shared growth  model that channels growth and development into existing urban growth areas  across the region.</p>
+        <p> This approach makes sure that no single county&nbsp;bears  the pressure of&nbsp;growth, while also preserving working lands, restoring  watersheds, and making more efficient infrastructure investments. Smaller urban  areas have become thriving hubs of climate-smart development, thanks to  regionalfunding tools, local planning authority, and a commitment to  shared outcomes.&nbsp;&nbsp;</p>
+        <p>          <a href="https://pspwa.box.com/s/w9ogfb29ft2grz283pevmk1k1a31bc2v" target="new">Read the Networked Growth narrative and spend a day with Jenna, a middle-aged  farmer from Chimacum.</a></p>
         <h3>Rural Stewardship</h3>
-        <p>RS Icon; <br>
-          In the <strong>Rural Stewardship</strong> alternative  scenario,&nbsp;Puget Sound evolves into a region where rural living and  environmental stewardship coexist through many individual choices and  collective actions rather than centralized planning. This future is shaped by  local decisions, private initiatives, and community-driven conservation.  Population is distributed more evenly across the landscape, both within and  near urban growth areas, but without regional mandates.&nbsp;Rural conservation  villages, community land trusts, and community benefit agreements with  developers have enabled pockets of higher density development in rural areas  while preserving ecological function. The result is a variety of communities  that adapt in their own ways which contribute to Puget Sound&rsquo;s  resilience.&nbsp;<br>
-  <em> <strong>Click here</strong> to  open the Rural Stewardship narrative and spend a day with Rafa and Lena, two  salmon biologists from Bellingham and rural Whatcom County.</em></p>
+        <p><img src="/images/Icon-ruralstewardship.png"></p>
+        <p> In the <strong>Rural Stewardship</strong> alternative  scenario,&nbsp;Puget Sound evolves into a region where rural living and  environmental stewardship coexist through many individual choices and  collective actions rather than centralized planning. This future is shaped by  local decisions, private initiatives, and community-driven conservation.  Population is distributed more evenly across the landscape, both within and  near urban growth areas, but without regional mandates.&nbsp;Rural conservation  villages, community land trusts, and community benefit agreements with  developers have enabled pockets of higher density development in rural areas  while preserving ecological function. The result is a variety of communities  that adapt in their own ways which contribute to Puget Sound&rsquo;s  resilience.<br>
+        <a href="https://pspwa.box.com/s/h57e3fusy9zmj3o0m10r8xa7w48seueb" target="new">Read the Rural Stewardship narrative and spend a day with Rafa and Lena, two salmon biologists from Bellingham and rural Whatcom County.</a></p>
         <h3>Hybrid</h3>
-        <p>Hyb Icon; <br>
-          The <strong>Hybrid </strong>alternative scenario combines ideas  explored in Salmon Forward, Networked Growth, and Rural Stewardship. In this  future, Puget Sound is defined by thoughtful density and watershed-conscious  design. Land use decisions are shaped by watersheds, not just by city and  county boundaries. Stormwater and wastewater systems have become tools of  ecological restoration, not just infrastructure.</p>
-        <p><em> <strong>Click here</strong> to  open the Hybrid narrative and spend a day with Sam, an early-career youth  engagement leader from Olympia.</em>        </p>
+        <p><img src="/images/Icon-hybrid.png"></p>
+        <p> The <strong>Hybrid </strong>alternative scenario combines ideas  explored in Salmon Forward, Networked Growth, and Rural Stewardship. In this  future, Puget Sound is defined by thoughtful density and watershed-conscious  design. Land use decisions are shaped by watersheds, not just by city and  county boundaries. Stormwater and wastewater systems have become tools of  ecological restoration, not just infrastructure.</p>
+        <p><a href="https://pspwa.box.com/s/y09xycln6kobtl4ln7zxuij8wuaptnhs" target="new">Read the Hybrid narrative and spend a day with Sam, an early-career youth  engagement leader from Olympia.</a></p>
       
 <h2>Want to learn more or get involved?</h2></p>
 			<p>We would love to  connect with you!<strong> </strong>Please reach out to our Assistant Science Director and  Future Scenarios Lead, Laura Rivas at <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a>.</p>
@@ -138,6 +138,14 @@ Each scenario assumes a unique set of growth and development  choices intended t
 				
 				<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
 					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>--> 
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> <?php include 'includes/rn-futurescenarios-contact.html';?></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

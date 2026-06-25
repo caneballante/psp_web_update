@@ -77,7 +77,7 @@
 		
 		<p>The future is uncertain. The Puget Sound region&rsquo;s climate is  changing and its population is growing. These changes bring challenges  including housing availability and affordability, increased flooding, pressure  to convert working lands, and at-risk salmon and orca populations. The choices  we make now can guide us toward a more resilient future.</p>
         <p>The Puget Sound Future  Scenarios project, or Future Scenarios, is an exploratory scenario project,  which means it supports open-ended, interdisciplinary, and future-focused thinking.  It offers a structured way to explore possible futures and consider creative  and strategic approaches to resilience. Future Scenarios examines the of  different potential futures and provides a framework for thinking about  possible futures and preparing for uncertainties.</p>
-        <p><strong><em>Click here </em></strong><em>to learn more about  Future Scenarios&rsquo; origins and background.</em></p>
+        <p><a href="/future-scenarios-origins.php">Learn more about  Future Scenarios&rsquo; origins and background.</a></p>
         <h2>What are the scenarios?</h2>
 		<p>The Future Scenarios  project explores what Puget Sound could look like in 2080 with one baseline  scenario based on current growth, development, and land use trends, along with four  alternative scenarios that change those trends in different ways. Each scenario  is centered around a narrative, or story, about how a Puget Sound resident involved  in Puget Sound recovery might experience the future. Modeling helps bring those  stories to life by showing what each future could look like.</p>
 		<p>Some assumptions about the future stay the same across all  the scenarios:</p>
@@ -95,8 +95,8 @@
   <li>The extent to which people make environmentally conscious  choices and lifestyle decisions.</li>
   <li>How jurisdictions coordinate planning and  restoration activities.</li>
 </ul>
-<p><strong><em>Click  here</em></strong><em>to  learn more about the five scenarios, read each scenario story, and see the  scenario results.</em><br>
-  <strong><em>Click  here</em></strong><em>to  learn more about the scenario development and modeling process.</em></p>
+<p><a href="/future-scenarios-five-scenarios.php">Learn more about the five scenarios, read each scenario story, and see the  scenario results.</a><br>
+  <a href="/future-scenarios-development.php">Learn more about the scenario development and modeling process.</a></p>
 <h2>What have the scenarios shown us so far? </h2>
 <p>Across all scenarios, we observed some potential changes  between now and 2080 that are not as expected:</p>
 <ul class="bullet-size-fix">
@@ -131,6 +131,14 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> <?php include 'includes/rn-futurescenarios-contact.html';?></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

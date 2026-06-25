@@ -76,12 +76,12 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 		<h2>Project Origins</h2>
-			<p>In 2018, our Leadership Council adopted <a href="https://pspwa.box.com/s/2d7y0i1qk5a4rce6jcv5s143c16oyy7p" target="new">Beyond 2020 Resolution</a> which described our goals for Puget Sound recovery and made a call to action. The  resolution challenged the Puget Sound recovery community to pursue ambitious solutions,  secure funding, seek supportive legislation, and stay accountable for  implementing all actions needed to make Puget Sound resilient.<br>
-              <em>We have made  progress, but our efforts have not been at a scale or pace sufficient to  restore Puget Sound to health…This is our moment to define what our future can  look like, and to fight to make it a reality…</em><br>
-              <em>Our vision includes a resilient  ecosystem…a thriving economy, sustainable farms and forests, and human  communities with high quality of life…Most importantly, our vision includes a  broad community of engaged citizens who commit to save Puget Sound.</em><br>
-              <em>[We issue this call to action to everyone  connected to Puget Sound:] Join us in protecting habitat, recovering iconic  species, and ensuring that our lands and waters sustain generations to come.&rdquo;</em><br>
-			Excerpted from PSP&rsquo;s 2018 Action Agenda and  the Leadership Council&rsquo;s Call to Action <br>
-			The Puget Sound Future Scenarios project (Future Scenarios) grew  from our Leadership Council&rsquo;s vision and call to action. Achieving the goals of  the Beyond 2020 Resolution means planning for a future in a region that is  changing in significant ways, some of which we understand and can predict, while  others are uncertain. <br>
+			<p>In 2018, our Leadership Council adopted <a href="https://pspwa.box.com/s/2d7y0i1qk5a4rce6jcv5s143c16oyy7p" target="new">Beyond 2020 Resolution</a> which described our goals for Puget Sound recovery and made a call to action. The  resolution challenged the Puget Sound recovery community to pursue ambitious solutions,  secure funding, seek supportive legislation, and stay accountable for  implementing all actions needed to make Puget Sound resilient.</p>
+			<p> <em>We have made  progress, but our efforts have not been at a scale or pace sufficient to  restore Puget Sound to health…This is our moment to define what our future can  look like, and to fight to make it a reality…</em><br>
+            <em>Our vision includes a resilient  ecosystem…a thriving economy, sustainable farms and forests, and human  communities with high quality of life…Most importantly, our vision includes a  broad community of engaged citizens who commit to save Puget Sound.</em></p>
+			<p><em>We issue this call to action to everyone  connected to Puget Sound: Join us in protecting habitat, recovering iconic  species, and ensuring that our lands and waters sustain generations to come.&rdquo;</em></p>
+			<p>			Excerpted from the 2018 Action Agenda for Puget Sound and  the our Leadership Council&rsquo;s Call to Action.</p>
+			<p> The Puget Sound Future Scenarios project (Future Scenarios) grew  from our Leadership Council&rsquo;s vision and call to action. Achieving the goals of  the Beyond 2020 Resolution means planning for a future in a region that is  changing in significant ways, some of which we understand and can predict, while  others are uncertain. <br>
 			In 2020-21, after consulting with the Science Panel, we launched  Future Scenarios to:</p>
             <ul class="bullet-size-fix">
               <li>Invite creative and innovative thinking about  Puget Sound recovery strategies.</li>
@@ -104,14 +104,14 @@
   <li>Refined and expanded modeling representation,  including a salmon favorability index model that combines habitat factors into  a single score to compare outcomes across scenarios</li>
   <li>Held  the first of two science-policy workshops in November 2023: Bold Land Use  Planning in Puget Sound. The workshop brought together over 60 regional land  use and growth management experts, local and state agency planners and  coordinators, and stormwater and salmon experts. Participants identified over 70  potential future impacts related to development, human wellbeing and equity,  and ecosystem restoration and conservation. They also generated 27 bold ideas  that could address those impacts.</li>
 </ul>
-<p><strong><em>Click here</em></strong><em>to read the November 2023 Future Scenarios </em>Bold Land Use Planning in Puget Sound<em> workshop synopsis, including the bold ideas that could address future  development, human wellbeing and equity, and ecosystem restoration and  conservation challenges.</em></p>
+<p><a href="https://pspwa.box.com/s/zvtmkplqrzft57yu6lyzgk1le4zae5gl" target="new">Read the November 2023 Future Scenarios <em>Bold Land Use Planning in Puget Sound</em> workshop synopsis, including the bold ideas that could address future development, human wellbeing and equity, and ecosystem restoration and  conservation challenges.</a></p>
 <h3>Future Scenarios Phase 3 | 2023-2024</h3>
 <ul class="bullet-size-fix">
   <li>Created the Hybrid Scenario, a fourth  alternative scenario that explores several bold  ideas  from the November 2023 Bold Land Use Planning workshop. </li>
   <li>Continued to refine and expand modeling  representation.</li>
   <li>Hosted the second science-policy workshop in  June 2024: Exploring Bold Land Use Ideas in Puget Sound. The workshop brought  together over 50 recovery experts who considered what it would take to  implement ideas from the November workshop. They generated 31 &ldquo;seeds of bold  action&rdquo; that can accelerate Puget Sound recovery.</li>
 </ul>
-<p><strong><em>Click here</em></strong><em>to read the June 2024 </em>Exploring Bold Land Use Ideas in Puget Sound<em> workshop synopsis, including the &ldquo;seeds of bold action&rdquo; to accelerate Puget  Sound recovery.</em></p>
+<p><a href="https://pspwa.box.com/s/laalg3hoaz481mvxnek1fyy3g0w55sm1" target="new">Read the June 2024 <em>Exploring Bold Land Use Ideas in Puget Sound</em> workshop synopsis, including the &ldquo;seeds of bold action&rdquo; to accelerate Puget  Sound recovery.</a></p>
 <h3>Advancing Future Scenarios | 2024-2026</h3>
 <ul class="bullet-size-fix">
   <li>Updated all four alternative scenario narratives   to improve cohesion and reflect small changes in assumptions.</li>
@@ -161,6 +161,14 @@
 				
 				<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
 					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>--> 
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> <?php include 'includes/rn-futurescenarios-contact.html';?></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
