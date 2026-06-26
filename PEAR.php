@@ -79,9 +79,7 @@
        
         <div class="highlightbox margin-0-top margin-20-bottom">
 			
-		  <p>The Pro-Equity Anti-Racism (PEAR) page has moved and is now called PEAR Impact.             
-			<p>Please see our <a href="/PEAR-impact.php" target="new">new PEAR Impact page.</a>
-	    </div>
+	    <p>The Pro-Equity Anti-Racism (PEAR) page has moved to our <a href="/PEAR-impact.php" target="new">new PEAR Impact page.</a>	      </div>
 		</p>
 			<p class="last-update">Last updated: 06/26/26</p>
 		
