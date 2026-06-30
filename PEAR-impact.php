@@ -112,10 +112,6 @@
                     <td><p>Community Member</p></td>
                 </tr>
 				 <tr>
-                    <td><p>Larry Epstein</p></td>
-                    <td><p>Deputy Director</p></td>
-                </tr>
-				<tr>
                     <td><p>Shannon Sanders</p></td>
                     <td><p>Grants, Contracts, and Compliance Manager</p></td>
                 </tr>
@@ -126,7 +122,7 @@
             </p>
 			<p> <a href="https://pspwa.box.com/s/hxfglg57ny33e9qfvc8u5malexh1vr9d" target="new">Open the video recording of our staff presentation from 8/18/2022 in a new tab.</a><br>
 		</p>
-			<p class="last-update">Last updated: 06/17/26</p>
+			<p class="last-update">Last updated: 06/30/26</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		
