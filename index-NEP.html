@@ -1,0 +1,590 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NEP 40th Anniversary Survey Results</title>
+  <style>
+    :root {
+      --ink: #17221f;
+      --muted: #62716d;
+      --line: #d8e0dc;
+      --paper: #fbfcfa;
+      --panel: #ffffff;
+      --green: #1e7a5f;
+      --blue: #2869a8;
+      --gold: #b47b1f;
+      --coral: #b55243;
+      --teal-soft: #dff2ea;
+      --blue-soft: #e4eef8;
+      --gold-soft: #f8ecd3;
+      --coral-soft: #f7e2dc;
+      --shadow: 0 20px 45px rgba(32, 54, 48, .09);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background:
+        linear-gradient(180deg, rgba(241, 247, 244, .8), rgba(251, 252, 250, 1) 460px),
+        var(--paper);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+
+    header {
+      padding: 34px clamp(18px, 4vw, 56px) 20px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .eyebrow {
+      color: var(--green);
+      font-size: .78rem;
+      font-weight: 800;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      margin: 0 0 10px;
+    }
+
+    h1 {
+      max-width: 980px;
+      margin: 0;
+      font-size: clamp(2rem, 5vw, 4.7rem);
+      line-height: .98;
+      letter-spacing: 0;
+    }
+
+    .lede {
+      max-width: 920px;
+      color: var(--muted);
+      font-size: clamp(1rem, 1.5vw, 1.2rem);
+      margin: 18px 0 0;
+    }
+
+    main {
+      padding: 24px clamp(18px, 4vw, 56px) 56px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 18px;
+      align-items: stretch;
+    }
+
+    .metric {
+      grid-column: span 3;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      padding: 18px;
+      min-height: 138px;
+    }
+
+    .metric strong {
+      display: block;
+      font-size: clamp(2rem, 4vw, 3.4rem);
+      line-height: 1;
+      margin-bottom: 10px;
+    }
+
+    .metric span {
+      display: block;
+      color: var(--muted);
+      font-size: .94rem;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      padding: clamp(18px, 2.4vw, 28px);
+    }
+
+    .panel h2 {
+      margin: 0 0 14px;
+      font-size: clamp(1.25rem, 2.3vw, 2rem);
+      line-height: 1.1;
+      letter-spacing: 0;
+    }
+
+    .panel p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .theme-bars {
+      grid-column: span 7;
+    }
+
+    .theme-matrix {
+      grid-column: span 5;
+    }
+
+    .bar-row {
+      display: grid;
+      grid-template-columns: minmax(108px, 190px) 1fr 44px;
+      gap: 12px;
+      align-items: center;
+      margin: 16px 0;
+      font-size: .95rem;
+    }
+
+    .track {
+      height: 16px;
+      border-radius: 999px;
+      background: #eef3f0;
+      overflow: hidden;
+      border: 1px solid #dce6e1;
+    }
+
+    .fill {
+      display: block;
+      height: 100%;
+      border-radius: 999px;
+    }
+
+    .matrix {
+      display: grid;
+      gap: 8px;
+      margin-top: 18px;
+    }
+
+    .matrix-row {
+      display: grid;
+      grid-template-columns: 1fr repeat(4, 22px);
+      gap: 8px;
+      align-items: center;
+      font-size: .82rem;
+      color: var(--muted);
+    }
+
+    .dot {
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: #edf2ef;
+      border: 1px solid #d7e0dc;
+    }
+
+    .dot.on.partnerships { background: var(--green); }
+    .dot.on.science { background: var(--blue); }
+    .dot.on.local { background: var(--gold); }
+    .dot.on.restoration { background: var(--coral); }
+
+    .section-title {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 18px;
+      margin: 34px 0 16px;
+    }
+
+    .section-title h2 {
+      margin: 0;
+      font-size: clamp(1.5rem, 3vw, 2.6rem);
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+
+    .section-title p {
+      max-width: 640px;
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+
+    button {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: #fff;
+      color: var(--ink);
+      padding: 10px 14px;
+      font: inherit;
+      font-size: .9rem;
+      cursor: pointer;
+    }
+
+    button[aria-pressed="true"] {
+      background: var(--ink);
+      color: #fff;
+      border-color: var(--ink);
+    }
+
+    .groups {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .group-card, .program-card, .note {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 18px;
+    }
+
+    .group-card h3, .program-card h3, .note h3 {
+      margin: 0 0 10px;
+      font-size: 1rem;
+      letter-spacing: 0;
+    }
+
+    .count {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 30px;
+      height: 30px;
+      margin-right: 8px;
+      border-radius: 999px;
+      background: #eff5f1;
+      color: var(--green);
+      font-weight: 800;
+    }
+
+    .program-list {
+      margin: 12px 0 0;
+      padding: 0;
+      list-style: none;
+      color: var(--muted);
+      font-size: .92rem;
+    }
+
+    .program-list li {
+      margin-top: 6px;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .program-card {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-height: 260px;
+    }
+
+    .program-card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: .92rem;
+    }
+
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 5px 8px;
+      border-radius: 999px;
+      font-size: .74rem;
+      font-weight: 750;
+      white-space: nowrap;
+    }
+
+    .chip.partnerships { background: var(--teal-soft); color: var(--green); }
+    .chip.science { background: var(--blue-soft); color: var(--blue); }
+    .chip.local { background: var(--gold-soft); color: var(--gold); }
+    .chip.restoration { background: var(--coral-soft); color: var(--coral); }
+
+    .observations {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .note {
+      min-height: 188px;
+    }
+
+    .note p {
+      margin: 0;
+      color: var(--muted);
+      font-size: .95rem;
+    }
+
+    .logo-result {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .logo-result div {
+      border-radius: 8px;
+      background: #f2f6f4;
+      padding: 12px;
+    }
+
+    .logo-result strong { font-size: 1.6rem; }
+
+    footer {
+      margin-top: 40px;
+      color: var(--muted);
+      font-size: .86rem;
+      border-top: 1px solid var(--line);
+      padding-top: 16px;
+    }
+
+    @media (max-width: 1180px) {
+      .metric { grid-column: span 6; }
+      .theme-bars, .theme-matrix { grid-column: span 12; }
+      .groups { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .observations { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+
+    @media (max-width: 720px) {
+      header { padding-top: 24px; }
+      .metric { grid-column: span 12; }
+      .section-title { display: block; }
+      .section-title p { margin-top: 8px; }
+      .groups, .cards, .observations { grid-template-columns: 1fr; }
+      .bar-row { grid-template-columns: 1fr 44px; }
+      .bar-row .track { grid-column: 1 / -1; grid-row: 2; }
+      .matrix-row { grid-template-columns: 1fr repeat(4, 18px); gap: 6px; }
+      .dot { width: 18px; height: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <p class="eyebrow">NEP 40th Anniversary campaign survey</p>
+    <h1>Directors describe a network built around partnerships, restoration, and locally trusted science.</h1>
+    <p class="lede">A dashboard-style summary of 20 survey responses, with special attention to columns G-J: partnerships, science and data, locally led solutions, and restoration or protection examples.</p>
+  </header>
+
+  <main>
+    <section class="grid" aria-label="Survey headline metrics">
+      <article class="metric">
+        <strong>20</strong>
+        <span>director survey responses analyzed</span>
+      </article>
+      <article class="metric">
+        <strong>18</strong>
+        <span>programs supplied restoration, conservation, or protection examples</span>
+      </article>
+      <article class="metric">
+        <strong>17</strong>
+        <span>programs described partnership or consensus work</span>
+      </article>
+      <article class="metric">
+        <strong>7</strong>
+        <span>programs described all four focus areas in columns G-J</span>
+      </article>
+    </section>
+
+    <section class="grid" style="margin-top: 18px;" aria-label="Theme summary">
+      <article class="panel theme-bars">
+        <h2>Theme volume across columns G-J</h2>
+        <p>Restoration and partnerships are nearly universal. Science/data appears in three quarters of responses, while locally led solutions are more selective but often act as the bridge between planning and implementation.</p>
+        <div id="themeBars"></div>
+      </article>
+      <article class="panel theme-matrix">
+        <h2>Program theme matrix</h2>
+        <p>Each row is one NEP response. Filled dots show which of the four narrative fields had a substantive response.</p>
+        <div class="matrix" id="matrix"></div>
+      </article>
+    </section>
+
+    <section aria-label="Program groupings">
+      <div class="section-title">
+        <h2>How programs group by survey results</h2>
+        <p>The strongest grouping signal is not geography. It is how many parts of the NEP model each response connected: convening, science, local action, and ecological results.</p>
+      </div>
+      <div class="groups" id="groups"></div>
+    </section>
+
+    <section aria-label="Program cards">
+      <div class="section-title">
+        <h2>Program snapshots</h2>
+        <p>Use the filters to isolate programs that described a specific focus area in columns G-J.</p>
+      </div>
+      <div class="filters" id="filters"></div>
+      <div class="cards" id="cards"></div>
+    </section>
+
+    <section aria-label="Additional observations">
+      <div class="section-title">
+        <h2>Additional observations</h2>
+        <p>Patterns from the rest of the workbook reinforce the same story: respondents want the anniversary campaign to translate local credibility into national visibility and durable support.</p>
+      </div>
+      <div class="observations">
+        <article class="note">
+          <h3>Visibility is the campaign job</h3>
+          <p>Responses repeatedly ask for greater public recognition, stronger national awareness, and clearer explanation of what NEPs do. The campaign can help local audiences see their NEP as part of a national program with shared credibility.</p>
+        </article>
+        <article class="note">
+          <h3>Funding and bipartisan support sit just below the surface</h3>
+          <p>Many campaign hopes mention Congress, appropriations, reauthorization, funding stability, or bipartisan support. The anniversary is being treated as a storytelling moment with policy consequences.</p>
+        </article>
+        <article class="note">
+          <h3>ROI stories are concrete and compelling</h3>
+          <p>Several responses include leverage figures or project-scale evidence: 19:1, 17:1, $6-7 per $1, $32M, $40 per $1, and a kelp restoration example growing from $20K to more than $12M.</p>
+        </article>
+        <article class="note">
+          <h3>Water quality remains the shared backbone</h3>
+          <p>Top-priority answers often return to nutrient reduction, clean water, stormwater, wastewater, monitoring, hydrology, and habitat. Restoration is usually framed as both ecological recovery and community resilience.</p>
+        </article>
+        <article class="note">
+          <h3>Logo 2 has clear preference</h3>
+          <p>Among logo responses, Logo 2 received 17 votes and Logo 3 received 2. Written feedback asks for readability improvements, fuller "National Estuary Program" language, and stronger ties to the Clean Water Act or national identity.</p>
+          <div class="logo-result">
+            <div><strong>17</strong><br>Logo 2</div>
+            <div><strong>2</strong><br>Logo 3</div>
+          </div>
+        </article>
+        <article class="note">
+          <h3>One duplicate deserves review</h3>
+          <p>The workbook includes both "Delaware Estuary" and "Delaware Estuary Program" as separate responses. They are kept separate here, but the campaign team may want to confirm whether they represent distinct submissions or a duplicate program entry.</p>
+        </article>
+      </div>
+    </section>
+
+    <footer>
+      Source: NEP 40th Anniversary Campaign Directors' Survey responses workbook. Personal names and point-of-contact fields were intentionally excluded from this public-facing summary.
+    </footer>
+  </main>
+
+  <script>
+    const themes = [
+      { key: "partnerships", label: "Partnerships", color: "var(--green)", count: 17 },
+      { key: "science", label: "Science/data", color: "var(--blue)", count: 15 },
+      { key: "local", label: "Locally led", color: "var(--gold)", count: 11 },
+      { key: "restoration", label: "Restoration", color: "var(--coral)", count: 18 }
+    ];
+
+    const programs = [
+      { name: "Barnegat Bay Partnership", themes: ["partnerships", "science"], summary: "Uses partners and county resources for baywide trash cleanups, then applies public concern and long-term data to practical recreation solutions such as jellyfish exclusion nets.", roi: "Low staff-cost cleanups leverage volunteers and county resources to remove tons of trash." },
+      { name: "Indian River Lagoon FL", themes: ["partnerships", "science", "local", "restoration"], summary: "Combines a large management conference, science gap-filling, city and county technical assistance, and a seagrass restoration nursery network.", roi: "EPA funds helped position a $9.4M NOAA restoration and resilience grant." },
+      { name: "Tampa Bay Estuary Program", themes: ["science", "local", "restoration"], summary: "Pairs open data tools with nitrogen management, wastewater investment, and habitat master planning to support seagrass recovery.", roi: "Federal funds support public and private wastewater infrastructure improvements." },
+      { name: "Coastal & Heartland National Estuary Partnership", themes: ["partnerships", "science", "restoration"], summary: "Acts as the shared watershed forum for inland agricultural counties and coastal tourism counties, with flood modeling and adaptation planning.", roi: "Reports 19:1+ leverage on projects year after year." },
+      { name: "Delaware Estuary", themes: ["partnerships", "science", "local", "restoration"], summary: "Emphasizes longstanding regional partnerships, watershed collaborations, science-based work, CCMP implementation, and restoration.", roi: "Frames federal support as broadly high ROI across program work." },
+      { name: "Piscataqua Region Estuaries Partnership", themes: ["partnerships", "science", "local", "restoration"], summary: "Highlights municipal adaptive management, science translation around eelgrass loss, riparian buffer work, and eelgrass and oyster restoration.", roi: "Story emphasis is collaboration, communication, and fundraising capacity." },
+      { name: "Galveston Bay Estuary Program", themes: ["partnerships", "science", "restoration"], summary: "Works through land conservation partnerships, research and monitoring priorities, subcommittees, stakeholder outreach, and CCMP implementation.", roi: "Land acquisition is presented as durable conservation value." },
+      { name: "Mobile Bay", themes: ["partnerships", "science", "local", "restoration"], summary: "Uses watershed planning, marsh science, stormwater education, beneficial dredged material, and stream restoration as a full-spectrum NEP example.", roi: "Federal NEP planning and coordination helped leverage larger restoration and resilience investments." },
+      { name: "Peconic Estuary Partnership", themes: ["partnerships", "science", "restoration"], summary: "Centers partner-forward outreach, water-quality science, seagrass monitoring, fish passage, salt marsh restoration, and sentinel species.", roi: "Points to clean-water funding mechanisms and aquaculture impacts as ROI storylines to refine." },
+      { name: "Puget Sound", themes: ["partnerships", "science", "local", "restoration"], summary: "Connects boards, local integrating organizations, tribal and salmon recovery groups, science monitoring, local action plans, and state-funded restoration priorities.", roi: "Reports federal dollars leverage 17:1 for Puget Sound recovery." },
+      { name: "SMBNEP", themes: ["partnerships", "restoration"], summary: "Describes restoration work carried by many partners, with habitat enhancement for kelp forests, eelgrass beds, and dunes.", roi: "$20K in early kelp restoration investment helped grow more than $12M in habitat restoration work." },
+      { name: "Lower Columbia Estuary Partnership", themes: ["partnerships", "restoration"], summary: "Highlights complex floodplain reconnection projects that align local, state, federal, private, port, city, and school partners.", roi: "Steigerwald is a $32M project with ongoing avoided pumping costs and local economic benefits." },
+      { name: "Morro Bay NEP", themes: ["local", "restoration"], summary: "Connects teacher training and environmental education with low-tech, process-based creek restoration that is easier to permit and lower cost.", roi: "Teacher workshops extend environmental education through local classrooms." },
+      { name: "Sarasota Bay Estuary Program", themes: ["science", "local", "restoration"], summary: "Positions the NEP as a balanced science communicator and a convener of utility leaders around nitrogen reduction, report cards, and water quality protection planning.", roi: "Planning helped guide municipal investments in nitrogen pollution reduction." },
+      { name: "Narragansett Bay Estuary Program", themes: ["partnerships", "local"], summary: "Focuses on building local capacity for project development, especially pre-construction support that helps partners secure implementation funding.", roi: "A $100K planning award is tied to a $940K implementation grant example." },
+      { name: "Tillamook Estuaries Partnership", themes: ["partnerships", "science", "local", "restoration"], summary: "Combines outdoor education coalitions, volunteer water-quality monitoring, Southern Flow Corridor restoration, and Salmon SuperHwy fish passage work.", roi: "Typically leverages $6-7 for every $1 of EPA funding." },
+      { name: "Delaware Estuary Program", themes: ["partnerships", "science", "local", "restoration"], summary: "Describes coalition building, recurring technical reporting, committee-guided work, mussels, oyster shell recycling, living shorelines, and wetlands.", roi: "Oyster restoration is cited as an award-winning example with strong partner coalition value." },
+      { name: "Coastal Bend Bays & Estuaries Program", themes: ["partnerships", "science", "restoration"], summary: "Works with nonprofits, industry, municipalities, volunteers, researchers, and engineers to protect habitat, restore oyster reefs, build rookery islands, and support monitoring.", roi: "ROI narrative is implied through durable habitat protection and restoration investments." },
+      { name: "BTNEP", themes: ["partnerships", "restoration"], summary: "Reports that most projects are implemented by partners, with restoration represented through HSAP.", roi: "Project delivery depends heavily on partner implementation capacity." },
+      { name: "NY-NJ Harbor & Estuary Program (HEP)", themes: ["partnerships", "science", "restoration"], summary: "Connects watershed planning, community groups, long-term Harbor Herons monitoring, and the Hudson-Raritan Estuary Comprehensive Restoration Plan.", roi: "$230K in green-infrastructure grants and staff support helped attract $1.5M for implementation." }
+    ];
+
+    const groupNarratives = [
+      { keys: ["partnerships", "science", "local", "restoration"], title: "Full-spectrum integrators", take: "These programs show the complete NEP model in motion: convene partners, translate science, let local structures shape action, and deliver restoration." },
+      { keys: ["partnerships", "science", "restoration"], title: "Science-backed restoration coalitions", take: "These responses stress partnerships, monitoring or research, and ecological implementation, with local leadership less explicitly named in columns G-J." },
+      { keys: ["partnerships", "restoration"], title: "Partner-powered restoration", take: "These programs frame the value proposition around partner implementation and visible habitat or floodplain restoration." },
+      { keys: ["science", "local", "restoration"], title: "Data-to-local-action programs", take: "These responses place science communication and locally coordinated solutions at the center of restoration strategy." },
+      { keys: ["partnerships", "science"], title: "Partnership plus applied science", take: "This response is narrower but sharp: public concern is translated into data-backed action through local partners." },
+      { keys: ["local", "restoration"], title: "Local learning and lower-cost restoration", take: "This pattern emphasizes locally carried education and practical restoration methods." },
+      { keys: ["partnerships", "local"], title: "Capacity-building conveners", take: "This response highlights local project development capacity as the core NEP value." }
+    ];
+
+    const themeBars = document.querySelector("#themeBars");
+    themes.forEach(theme => {
+      const row = document.createElement("div");
+      row.className = "bar-row";
+      row.innerHTML = `
+        <span>${theme.label}</span>
+        <span class="track"><span class="fill" style="width:${theme.count / 20 * 100}%; background:${theme.color};"></span></span>
+        <strong>${theme.count}/20</strong>
+      `;
+      themeBars.append(row);
+    });
+
+    const matrix = document.querySelector("#matrix");
+    const matrixHeader = document.createElement("div");
+    matrixHeader.className = "matrix-row";
+    matrixHeader.innerHTML = `<strong>Program</strong><strong>P</strong><strong>S</strong><strong>L</strong><strong>R</strong>`;
+    matrix.append(matrixHeader);
+    programs.forEach(program => {
+      const row = document.createElement("div");
+      row.className = "matrix-row";
+      row.innerHTML = `<span>${program.name}</span>` + themes.map(theme => {
+        const on = program.themes.includes(theme.key);
+        return `<span class="dot ${on ? `on ${theme.key}` : ""}" title="${theme.label}"></span>`;
+      }).join("");
+      matrix.append(row);
+    });
+
+    const groups = document.querySelector("#groups");
+    groupNarratives.forEach(group => {
+      const members = programs.filter(program => group.keys.every((key, index) => program.themes[index] === key) && program.themes.length === group.keys.length);
+      const article = document.createElement("article");
+      article.className = "group-card";
+      article.innerHTML = `
+        <h3><span class="count">${members.length}</span>${group.title}</h3>
+        <p>${group.take}</p>
+        <ul class="program-list">${members.map(member => `<li>${member.name}</li>`).join("")}</ul>
+      `;
+      groups.append(article);
+    });
+
+    const filters = document.querySelector("#filters");
+    const filterDefs = [{ key: "all", label: "All programs" }, ...themes];
+    let activeFilter = "all";
+    filterDefs.forEach(filter => {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.textContent = filter.label;
+      button.setAttribute("aria-pressed", filter.key === activeFilter ? "true" : "false");
+      button.addEventListener("click", () => {
+        activeFilter = filter.key;
+        document.querySelectorAll("#filters button").forEach(btn => btn.setAttribute("aria-pressed", btn === button ? "true" : "false"));
+        renderCards();
+      });
+      filters.append(button);
+    });
+
+    const cards = document.querySelector("#cards");
+    function renderCards() {
+      cards.innerHTML = "";
+      programs
+        .filter(program => activeFilter === "all" || program.themes.includes(activeFilter))
+        .forEach(program => {
+          const article = document.createElement("article");
+          article.className = "program-card";
+          article.innerHTML = `
+            <div>
+              <h3>${program.name}</h3>
+              <div class="chips">${program.themes.map(key => {
+                const theme = themes.find(item => item.key === key);
+                return `<span class="chip ${key}">${theme.label}</span>`;
+              }).join("")}</div>
+            </div>
+            <p>${program.summary}</p>
+            <p><strong>ROI signal:</strong> ${program.roi}</p>
+          `;
+          cards.append(article);
+        });
+    }
+    renderCards();
+  </script>
+</body>
+</html>
