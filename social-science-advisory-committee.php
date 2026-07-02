@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 8;
+  	navSelected = 3;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -67,7 +67,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include 'includes/ln-science-basis.html';?>
+				<?php include 'includes/ln-social-science.html';?>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -146,16 +146,22 @@
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">DOWNLOADS</div>
+			<div class="right-nav-title margin-0-top ">CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"><a href="https://pspwa.box.com/shared/static/iak8x19qh0qhem1qhsvqhmgcnmdg9m2g.pdf">S4 social science research agenda</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/knxdmd0st71w4f3z3ggk7nfk76oqbx6d">Analysis of Organizations Engaged in Puget Sound Ecosystem Recovery</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/45tqlfh4w6qidabkzlr21jy3y82xv0po" target="new">Sound Behavior Index reports</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/uybht4wqvv0q04t6nltnsp9uyo9j6r3e" target="new">Public opion surveys</a></li>
-				<li role="presentation"> <a href="https://pspwa.box.com/s/w1galqayttesd0rkh8uhwavl0dt1cp0c" target="new">Human Dimensions Protocol</a></li>
+				<li class="active" role="presentation"> <?php include 'includes/rn-socialsciences-contact.html';?></li>
 				
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">RESOURCES</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/shared/static/iak8x19qh0qhem1qhsvqhmgcnmdg9m2g.pdf" target="new">Social Science for the Salish Sea (S4)</a></li>
+				<li role="presentation"> <a href="#">Special Issue for Coastal Management (Volume 54, Issue 05)</a></li>
+				<li role="presentation"> <a href="#">Puget Sound Social Science Research Agenda (PS3)</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
