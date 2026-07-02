@@ -78,28 +78,7 @@ navSelected = 1;
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-	<p>Each of us is inseparably linked to Puget Sound through the many ways we interact with our natural environment. All Puget Sound residents are valuable and necessary participants in Puget Sound recovery efforts.</p>
-			
-<p>Our many everyday actions and behaviors may seem benign on their own, but when combined with the actions of over 4 million residents in the Puget Sound region, the cumulative effects can have a harmful impact to our health and the health of the Puget Sound. Fostering beneficial activities and reducing damaging behaviors is a key step toward recovering Puget Sound and maintaining a healthy environment that everyone enjoys. </p>
-			
-<p>Social approaches are the applied methods and actions that focus on Puget Sound residents&rsquo; attitudes and behaviors affecting Puget Sound recovery. These approaches include education, outreach, public engagement, stewardship, social marketing, technical assistance, and enforcement, among others. </p>
-			
-<p>The Partnership supports integration of social approaches throughout the Action Agenda and Implementation Strategies, in order to build public and political support for implementation of many types of projects, and to ensure resiliency for future Puget Sound recovery efforts. </p>
-			
-<h2>Enabling Partners</h2>
-			
-<p>The Partnership engages Puget Sound residents primarily through our networks of local partners. Our partners include Local Integrating Organizations (LIOs), salmon recovery Lead Entities (LEs), Marine Resource Committees (MRCs), and Education, Communication, and Outreach Networks (ECO Nets), among many others. The Partnership supports local partners who are the practitioners of social approaches, and ensures that local partners have the necessary resources to effectively engage people in their local areas. Here are some of the ways we support and enable our partners: </p>
-<ul class="bullet-size-fix">
-  <li>The Partnership supports LIOs that coordinate planning and implementation of local ecosystem recovery efforts. <a href="http://www.psp.wa.gov/LIO-overview.php">LEARN MORE</a>. </li>
-  <li>In order to better support local ecosystem recovery, the Partnership is conducting a comprehensive synthesis of the LIO Ecosystem Recovery Plans. <a href="https://pspwa.box.com/v/LIOSynthesisReportLinks">LEARN MORE</a>. </li>
-  <li><em>Puget Sound Starts Here</em> is a collaborative campaign that connects individual Puget Sound residents to ways to help recover Puget Sound. The Partnership is a member of the <em>Puget Sound Starts Here</em> steering committee. <a href="http://www.pugetsoundstartshere.org/">LEARN MORE</a>. </li>
-  <li>The Partnership houses and periodically updates resources to assist partners who are implementing social approaches. <a href="https://pspwa.box.com/v/PartnerResources">LEARN MORE</a>. </li>
-</ul>
-    <h2>History of Stewardship at the Partnership</h2>
-			
-  <p>From 2010 through September 2015, the U.S. Environmental Protection Agency provided $6 million in National Estuary Program funds to the Puget Sound Partnership to support region wide programs in stewardship and education. The Stewardship and Outreach Program at the Partnership worked with hundreds of local and regional partner organizations to address issue awareness and understanding, change harmful practices and behaviors, and strengthen social and institutional infrastructure. <a href="https://pspwa.box.com/v/StewardshipFinalReport">LEARN MORE</a>.</p>
-      
-<p>Although the EPA funding for the Stewardship and Outreach Program has ended, the theories that formed the grant program continue to guide Partnership efforts in developing social approaches for inclusion in the Action Agenda and throughout local ecosystem recovery efforts. </p>
+	<p></p>
         <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
