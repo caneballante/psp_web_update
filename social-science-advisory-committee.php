@@ -74,14 +74,13 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">Overview</h2>
-			<h3>VISION</h3>
+			<p class="margin-0-top">The Puget Sound Social Sciences Advisory Committee (SSAC)  was established in 2010 by our Science Panel. It brings together social  scientists and recovery specialists from multiple disciplines to support advise us on social sciences, salmon and  ecosystem recovery, equity, environmental justice. and our other goals. </p>
+			<p class="margin-0-top">Committee members include social scientists from academic,  government, and non-profit institutions across the Puget Sound and Salish Sea  region and beyond. </p>
+			<h2 class="margin-0-top">VISION</h2>
 			<p>We integrate social science research and human  dimensions into our planning, decision-making, and adaptive management. This  helps create more complete and effective recovery strategies that strengthen  the resilience of Puget Sound ecosystems and communities. </p>
-			<h3>PURPOSE</h3>
-			<p>The Puget Sound Social Sciences Advisory Committee (SSAC)  was established in 2010 by our Science Panel. The SSAC brings together social  scientists from multiple disciplines to advise us, including our Boards and  recovery partners, and provides guidance on social sciences, salmon and  ecosystem recovery, equity, environmental justice. and support our other goals. </p>
-            <p>Committee members include social scientists from academic,  government, and non-profit institutions across the Puget Sound and Salish Sea  region and beyond. </p>
-        <p>The SSAC meets regularly to: <br>
-            </p>
+			<h2>PURPOSE</h2>
+			<p>The SSAC meets regularly to: <br>
+        </p>
             <ul class="bullet-size-fix">
               <li>Build regional capacity in the social sciences</li>
               <li>Discuss advancements in social science research  and monitoring </li>
@@ -143,7 +142,7 @@
             <p>&nbsp;</p>
         <p class="last-update">Last updated: 07/02/26</p>
 			
-		<!-- InstanceEndEditable --> </div>
+	  <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">CONTACT</div>

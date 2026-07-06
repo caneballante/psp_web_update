@@ -78,31 +78,35 @@ navSelected = 1;
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-	<p></p>
+	<p>A general overview of social sciences - what it is, how it ties into our work, etc, etc. </p>
+	<h2>VISION</h2>
+	<p>[Lifted from the SSAC content as an example] We integrate social science research and human  dimensions into our planning, decision-making, and adaptive management. This  helps create more complete and effective recovery strategies that strengthen  the resilience of Puget Sound ecosystems and communities. </p>
+	<h2>What is social science?</h2>
+	<p>Perhaps something to describe it in a nutshell - add a little bit about what we do and how readers can learn more on the other pages. </p>
+	<h2>Resources</h2>
+	<p>If there are any general resources, we can add them here. Not necessary if they're already on other pages - we also have some listed on the right. But this is an opportunity to add anything you can think of, including more information, links to partners, etc.</p>
+	<p>&nbsp;</p>
+			 <p class="last-update">Last updated: 07/06/26</p>
         <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-					<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+					<div class="right-nav-title margin-0-top ">CONTACT</div>
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li role="presentation"> <a href="http://www.psp.wa.gov/people-and-puget-sound.php">People and Puget Sound</a></li>
-				<li role="presentation"> <a href="http://www.psp.wa.gov/evaluating-human-wellbeing.php">Human Wellbeing</a></li>
-				<li role="presentation"> <a href="social-science-research.php">Social science research and efforts</a></li>
-				<li role="presentation"> <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a></li>
-				<li role="presentation"> <a href="http://www.psp.wa.gov/implementation-strategies.php">Implentation Strategies</a></li>
-				<li role="presentation"> <a href="https://medium.com/puget-sound-partnership">Puget Sound Partnership Blog</a></li>
+				<li class="active" role="presentation"> <?php include 'includes/rn-socialsciences-contact.html';?></li>
 					
 						<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-10-top ">RELATED DOCUMENTS</div>
+			<div class="right-nav-title margin-10-top ">RESOURCES</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 		
-				<li role="presentation"> <a href="https://pspwa.box.com/v/StewardshipFinalReport">Stewardship Final Report</a></li>
-				<li role="presentation"> <a href="https://www.eopugetsound.org/research/ecosystem-based-management-social-science/integrated-conceptual-model-ecosystem-recovery-0">Integrated Concetual Model of Ecosystem Recovery</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/shared/static/iak8x19qh0qhem1qhsvqhmgcnmdg9m2g.pdf" target="new">Social Science for the Salish Sea (S4)</a></li>
+				<li role="presentation"> <a href="#">Special Issue for Coastal Management (Volume 54, Issue 05)</a></li>
+				<li role="presentation"> <a href="#">Puget Sound Social Science Research Agenda (PS3)</a></li>
 				
 				<!-- InstanceEndEditable -->
 			</ul>
