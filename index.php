@@ -214,8 +214,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img src="images/LEKT-Ranney-Reach-ELJs-2024-1632-new.jpg" width="270" height="190" class="img-responsive img-rounded"/> <strong>MAKING WAVES</strong><br>
-					  <a href="https://makingwaves.psp.wa.gov/2026/04/08/approaching-the-funding-cliff-what-happens-when-bil-expires/" target="new">Approaching the Funding Cliff: What Happens When BIL Expires?</a><br>
+						<img src="images/coastalmanagementjournal.png" class="img-responsive img-rounded"/> <strong>RESEARCH</strong><br>
+					  <a href="https://www.tandfonline.com/doi/full/10.1080/08920753.2026.2682008#abstract" target="new">Coastal Management Journal: Cultural Benefits Knowledge and Social Learning in Elwha River Dam Removal and Ecosystem Decision-Making</a><br>
 						<!--END news content BOX--> 
 				  </div>
 					<div class="clearfix"></div>
