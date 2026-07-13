@@ -78,11 +78,8 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		
-			
-			
-        <h2>WATER QUALITY</h2>
-            <p><strong>Groups focusing on climate justice for youth related to water quality and  beyond            </strong></p>
+	  <h2 class="margin-0-top">WATER QUALITY</h2>
+            <p><strong>Groups focusing on climate justice for youth related to water quality and  beyond </strong></p>
             <h3>YMCA Earth Service Corps</h3>
         <ul class="bullet-size-fix">
               <li>Website<em>:</em> <a href="https://www.seattleymca.org/programs/youthprograms/earthservicecorps/about-us">About  Us | YMCA of Greater Seattle</a></li>
