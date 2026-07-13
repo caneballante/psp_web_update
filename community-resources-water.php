@@ -35,7 +35,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 3;
+navSelected = 2;
+subNavSelected = 1;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -77,16 +78,18 @@
 		
 			
 			
-        <table align="center"width="200" border="1">
+        <table align="center"width="200" border="0" style="text-align: center;">
   <tbody>
     <tr>
-      <td><a href="#section1"><img src="images/Groups focused on climate justice for youth.jpg" width="357" height="241" alt=""/></a></td>
+      <td><a href="#section1"><img src="images/Groups focused on climate justice for youth.jpg" width="243" height="163" alt=""/></a></td>
 		
-      <td><a href="#section2"><img src="images/groups working to measure stormwater temperature.jpg" width="357" height="241" alt=""/></a></td>
+      <td><a href="#section2"><img src="images/groups working to measure stormwater temperature.jpg" width="249" height="164" alt=""/></a></td>
+		<td><a href="#section3"><img src="images/commwater1.png" width="250" height="165" alt=""/></a></td>
     </tr>
     <tr>
 		<td><a href="#section1">Groups focused on climate justice for youth</a></td>
       <td><a href="#section2">Groups working to measure stormwater temperature (for the purpose of  combatting urban heat islands)</a></td>
+		<td><a href="#section3">Water utility providers and watershed managers</a></td>
     </tr>
   </tbody>
 </table>
@@ -134,7 +137,8 @@
               <li><strong>Description</strong><em>: </em>A semi-official group  that is charged with implementing the Education Partnership's strategy for the <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a>.</li>
               <li><strong>Contact</strong><em>: </em>Contact Puget Sound  Partnership Staff (<a href="mailto:environmental.justice@psp.wa.gov"> environmental.justice@psp.wa.gov</a>) for an introduction to the  group.</li>
             </ul>
-            <h2 id="section2">Groups working to measure stormwater temperature (for the purpose of  combatting urban heat islands):            </h2>
+		<p id="section2"><a href="#top">Return to top</a></p>
+            <h2>Groups working to measure stormwater temperature (for the purpose of  combatting urban heat islands):            </h2>
             <h3>Puget Small Streams Study</h3>
         <ul class="bullet-size-fix">
               <li><strong>Website</strong>: <a href="https://ecology.wa.gov/regulations-permits/reporting-requirements/stormwater-monitoring/stormwater-action-monitoring/sam-status-and-trends/puget-small-streams">Puget  Small Streams Study</a></li>
@@ -146,12 +150,27 @@
               <li><strong>Website</strong>: <a href="https://ecology.wa.gov/regulations-permits/reporting-requirements/stormwater-monitoring/stormwater-action-monitoring/sam-effectiveness-studies/stormwater-characterization">Stormwater  characterization - Washington State Department of Ecology</a></li>
           <li><strong>Description</strong>: The City of Tacoma will  study 16 different sites to determine their differences according to their land  uses (industrial, commercial, residential), and to discover stormwater trends. They  also collect and sample stormwater and stormwater sediment.        </li>
         </ul>
-        <h2>Contact us</h2>
+			<p id="section3"><a href="#top">Return to top</a></p>
+        <h2>Water Utility Providers and Watershed Managers</h2>
+        <h3>Find a Water Utility Provider:</h3>
+<p><strong>Washington State Department of Health Water Service Areas  Map</strong></p>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://geo.wa.gov/datasets/WADOH::drinking-water-service-areas/explore?location=47.262222%2C-120.677631%2C6" target="new">Water Service Areas Map</a></li>
+          <li><strong>Description</strong>: This interactive map shows areas serviced by Washington State public water systems. You can use this tool to search any address and find out what utility controls water service for that area.</li>
+        </ul>
+        <h3>Find Watershed Managers and Regulators:</h3>
+          <p><strong>Washington State Department of Ecology Watershed Look-Up  Tool</strong></p>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://ecology.wa.gov/water-shorelines/water-supply/water-availability/in-your-watershed/watershed-look-up" target="new">Watershed Lookup Tool</a></li>
+          <li><strong>Description</strong>: This interactive map shows watersheds, otherwise known as Water Resource Inventory Areas across Washington State. You can use this tool to search any address and find out what watershed it is a part of. By clicking on a watershed boundary, you can learn more about information like the regional rules, water availability limits, and local managing entities for that area.</li>
+        </ul>
+        <p><a href="#top">Return to top</a></p>
+<h2>Contact us</h2>
 			
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
         </p>
-			<p class="last-update">Last updated: 04/21/26</p>
+			<p class="last-update">Last updated: 06/16/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

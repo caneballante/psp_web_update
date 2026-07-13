@@ -35,7 +35,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 4;
+  	navSelected = 2;
+	subNavSelected = 2;
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -78,8 +79,8 @@
 			
 			
 			
-       <p>On this page you'll find community engagement resources from our <a href="https://www.pugetsoundinfo.wa.gov/#goals">Puget  Sound Info site</a>.</p>
-       <p><img src="images/Key Resources in Puget Sound Info.png" width="674" height="476" alt=""/></p>
+       <p>On this page you'll find community engagement resources from our <a href="https://www.pugetsoundinfo.wa.gov/#goals" target="new">Puget  Sound Info site</a>.</p>
+       <p><a href="https://www.pugetsoundinfo.wa.gov/#goals" target="new"><img src="images/Key Resources in Puget Sound Info.png" width="477" height="335" alt=""/></a></p>
             <h2>Healthy Water Quality Section</h2>
         <ul class="bullet-size-fix">
               <li><strong>Website</strong>: <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/6">Healthy  Water Quality Section</a>: </li>
@@ -104,7 +105,7 @@
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
         </p>
-			<p class="last-update">Last updated: 03/05/26</p>
+			<p class="last-update">Last updated: 06/16/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
