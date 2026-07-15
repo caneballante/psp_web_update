@@ -38,6 +38,127 @@
   	navSelected = 2;
 	subNavSelected = 3;
 </script> 
+<style>
+	.resource-jump-comparison {
+		margin: 0 0 36px;
+	}
+	.resource-jump-option + .resource-jump-option {
+		border-top: 1px solid #d6e0e6;
+		margin-top: 28px;
+		padding-top: 24px;
+	}
+	.resource-jump-option-title {
+		color: #555;
+		font-size: 14px;
+		font-weight: 700;
+		letter-spacing: 0;
+		margin: 0 0 12px;
+		text-transform: uppercase;
+	}
+	.resource-card-grid,
+	.resource-link-grid {
+		display: grid;
+		gap: 14px;
+	}
+	.resource-card-grid {
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+	}
+	.resource-card {
+		background: #fff;
+		border: 1px solid #c6d4dd;
+		border-radius: 4px;
+		color: #0a3b5c;
+		display: flex;
+		flex-direction: column;
+		min-width: 0;
+		overflow: hidden;
+		text-decoration: none;
+	}
+	.resource-card:hover,
+	.resource-card:focus {
+		border-color: #ef892e;
+		box-shadow: 0 3px 10px rgba(10, 59, 92, .18);
+		color: #0a3b5c;
+		text-decoration: none;
+	}
+	.resource-card:focus,
+	.resource-link:focus {
+		outline: 3px solid rgba(239, 137, 46, .45);
+		outline-offset: 2px;
+	}
+	.resource-card-image {
+		align-items: center;
+		aspect-ratio: 4 / 3;
+		background: #e6ebee;
+		display: flex;
+		justify-content: center;
+		overflow: hidden;
+	}
+	.resource-card-image img {
+		display: block;
+		height: 100%;
+		object-fit: contain;
+		width: 100%;
+	}
+	.resource-card-label {
+		font-size: 16px;
+		font-weight: 700;
+		line-height: 1.25;
+		padding: 11px 12px 13px;
+	}
+	.resource-link-grid {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+	.resource-link {
+		background: #eef4f7;
+		border-left: 4px solid #ef892e;
+		color: #0a3b5c;
+		display: grid;
+		grid-template-columns: 88px minmax(0, 1fr);
+		min-height: 76px;
+		text-decoration: none;
+	}
+	.resource-link:hover,
+	.resource-link:focus {
+		background: #e0ebf0;
+		color: #00549a;
+		text-decoration: none;
+	}
+	.resource-link img {
+		display: block;
+		height: 76px;
+		object-fit: cover;
+		width: 88px;
+	}
+	.resource-link span {
+		align-self: center;
+		font-size: 15px;
+		font-weight: 700;
+		line-height: 1.3;
+		min-width: 0;
+		padding: 9px 11px;
+	}
+	#section1,
+	#section2,
+	#section3,
+	#section4,
+	#section5 {
+		scroll-margin-top: 20px;
+	}
+	@media (max-width: 560px) {
+		.resource-card-grid {
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+		}
+		.resource-link-grid {
+			grid-template-columns: 1fr;
+		}
+	}
+	@media (max-width: 380px) {
+		.resource-card-grid {
+			grid-template-columns: 1fr;
+		}
+	}
+</style>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion2" type="boolean" value="false" -->
@@ -74,29 +195,49 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		<div id="top" class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 			
 			
-        <table align="center"width="200" border="0">
-  <tbody>
-    <tr>
-      <td><a href="#section1"><img src="images/seattle-map.gif" width="192" height="163" alt=""/></a></td>
+		<div class="resource-jump-comparison">
+			<section class="resource-jump-option" aria-labelledby="resource-cards-title">
+				<h2 id="resource-cards-title" class="resource-jump-option-title">Variation 1: Image cards</h2>
+				<nav class="resource-card-grid" aria-label="Jump to location resources using image cards">
+					<a class="resource-card" href="#section1">
+						<span class="resource-card-image"><img src="images/seattle-map.gif" width="1300" height="1248" alt=""></span>
+						<span class="resource-card-label">Seattle</span>
+					</a>
+					<a class="resource-card" href="#section2">
+						<span class="resource-card-image"><img src="images/Tacoma.png" width="248" height="214" alt=""></span>
+						<span class="resource-card-label">Tacoma</span>
+					</a>
+					<a class="resource-card" href="#section3">
+						<span class="resource-card-image"><img src="images/sewer-related programs in Tacoma Pierce County.jpg" width="474" height="316" alt=""></span>
+						<span class="resource-card-label">Sewer-related programs in Tacoma/Pierce County</span>
+					</a>
+					<a class="resource-card" href="#section4">
+						<span class="resource-card-image"><img src="images/Olympia.png" width="288" height="253" alt=""></span>
+						<span class="resource-card-label">Olympia</span>
+					</a>
+					<a class="resource-card" href="#section5">
+						<span class="resource-card-image"><img src="images/Puget Sound-wide.jpg" width="474" height="366" alt=""></span>
+						<span class="resource-card-label">Puget Sound-wide</span>
+					</a>
+				</nav>
+			</section>
+
+			<section class="resource-jump-option" aria-labelledby="resource-list-title">
+				<h2 id="resource-list-title" class="resource-jump-option-title">Variation 2: Compact links</h2>
+				<nav class="resource-link-grid" aria-label="Jump to location resources using compact links">
+					<a class="resource-link" href="#section1"><img src="images/seattle-map.gif" width="1300" height="1248" alt=""><span>Seattle</span></a>
+					<a class="resource-link" href="#section2"><img src="images/Tacoma.png" width="248" height="214" alt=""><span>Tacoma</span></a>
+					<a class="resource-link" href="#section3"><img src="images/sewer-related programs in Tacoma Pierce County.jpg" width="474" height="316" alt=""><span>Sewer-related programs in Tacoma/Pierce County</span></a>
+					<a class="resource-link" href="#section4"><img src="images/Olympia.png" width="288" height="253" alt=""><span>Olympia</span></a>
+					<a class="resource-link" href="#section5"><img src="images/Puget Sound-wide.jpg" width="474" height="366" alt=""><span>Puget Sound-wide</span></a>
+				</nav>
+			</section>
+		</div>
 		
-    <td><a href="#section2"><img src="images/Tacoma.png" width="192" height="163" alt=""/></a></td>
-		<td><a href="#section3"><img src="images/sewer-related programs in Tacoma Pierce County.jpg" width="192" height="163" alt=""/></td>
-	<td><a href="#section3"><img src="images/Olympia.png" width="192" height="163" alt=""/></td>
-	<td><a href="#section4"><img src="images/Puget Sound-wide.jpg" width="192" height="163" alt=""/></td>
-    </tr>
-    <tr style="text-align: center;">
-		<td><p><a href="#section1">Seattle</a></p></td>
-      <td><a href="#section2">Tacoma</a></td>
-		<td><a href="#section3">Sewer-related programs in Tacoma Pierce County</a></td>
-		<td><a href="#section4">Olympia</a></td>
-		<td><a href="#section5">Puget Sound-Wide</a></td>
-    </tr>
-  </tbody>
-</table>
         <h2 id="section1">SEATTLE</h2>
         <h3>RainCity Partnerships</h3>
         <ul class="bullet-size-fix">
@@ -130,8 +271,8 @@
           <li><strong>Stormwater facility credit</strong>: Save money on  the drainage fee that the City of Seattle charges if you have a qualifying  stormwater system on your property. Learn more <a href="https://www.seattle.gov/utilities/your-services/discounts-and-incentives/stormwater-facility-credit">here</a>.</li>
           <li>Low-income customer may get a $100 toilet replacement rebate, $100  sprinkler timer rebate, or  a free water saving toilet. Learn more <a href="https://www.seattle.gov/utilities/protecting-our-environment/sustainability-tips/conserve-water/for-residents">here</a>.  This page also has information about free gardening classes and how to check  for and fix leaks. </li>
         </ul>
-        <p id="section2"><a href="#top">Return to top</a></p>
-        <h2>TACOMA</h2>
+        <p><a href="#top">Return to top</a></p>
+        <h2 id="section2">TACOMA</h2>
         <h3>Make a Splash Grant Program</h3>
         <ul class="bullet-size-fix">
           <li><strong>Website</strong>: <a href="https://www.cityoftacoma.org/government/city_departments/environmentalservices/surface_water/make_a_splash_stormwater_project_funding#:~:text=Apply%20for%20a%20Make%20a%20Splash%20grant%20through,and%20restore%20our%20lakes%2C%20streams%20and%20Puget%20Sound.">Make  a Splash Stormwater Project Funding - City of Tacoma</a></li>
@@ -156,8 +297,8 @@
             <li>Qualified homeowners can receive payment  assistance with utility bills. Available in Spanish. </li>
           </ul>
         </ul>
-		<p id="section3"><a href="#top">Return to top</a></p>
-        <h2>Sewer-related programs in Tacoma/Pierce County </h2>
+		<p><a href="#top">Return to top</a></p>
+        <h2 id="section3">Sewer-related programs in Tacoma/Pierce County </h2>
         <h3>City of Tacoma Sewer Conservation Loan Program </h3>
         <ul class="bullet-size-fix">
           <li><strong>Website</strong>: <a href="https://www.cityoftacoma.org/government/city_departments/environmentalservices/sewer_conservation_loan_program">Sewer Conservation  Loan Program - City of Tacoma</a></li>
@@ -185,15 +326,15 @@
           <li><strong>Website</strong>: <a href="https://www.piercecountywa.gov/1872/Small-Grants-Program">Watersheds  Small Grants Program | Pierce County, WA - Official Website</a></li>
           <li><strong>Description</strong>: The <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.piercecountywa.gov%2F1872%2FSmall-Grants-Program&data=05%7C02%7Csigne.lindquist%40psp.wa.gov%7Cf930e1b5fdf04791661808dd7ec0f97c%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638806089487391983%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Vhnr7Luv0pCI9c34SbXg9CvyqIoMmy7lcbx9IWdpfPc%3D&reserved=0">2025 Watersheds Small Grants Program</a> funds community projects that improve water quality, restore habitats, and  protect the environment. This grant is open to everyone! Nonprofits, schools,  teachers, tribes, local governments, and individuals are encouraged to apply  for up to <strong>$2,500</strong> to start neighborhood cleanups, build rain gardens,  remove invasive species, and more. Grant applications are due by <strong>April 30, 2025</strong>. </li>
         </ul>
-		<p id="section4"><a href="#top">Return to top</a></p>
-        <h2>OLYMPIA</h2>
+		<p><a href="#top">Return to top</a></p>
+        <h2 id="section4">OLYMPIA</h2>
         <h3>Rain Garden Incentive Program from City of Olympia </h3>
         <ul class="bullet-size-fix">
           <li><strong>Website</strong>: <a href="https://www.olympiawa.gov/services/water_utilities/storm___surface_water/rain_gardens.php">Rain  Gardens</a></li>
           <li><strong>Description</strong>: The City of Olympia reimburses private property  owners up to $400 upon the completion of a rain garden. Commercial, school, or  religious-use properties could also be considered. These incentives aim to  build new rain gardens and new development or construction of already existing  rain gardens are not eligible for reimbursement. </li>
         </ul>
-		<p id="section5"><a href="#top">Return to top</a></p>
-        <h2>PUGET SOUND-WIDE</h2>
+		<p><a href="#top">Return to top</a></p>
+        <h2 id="section5">PUGET SOUND-WIDE</h2>
         <h3>Puget Sound Starts Here</h3>
         <ul class="bullet-size-fix">
           <li><strong>Website</strong>: <a href="https://www.pugetsoundstartshere.org/Default.aspx">Puget Sound Starts  Here</a></li>
