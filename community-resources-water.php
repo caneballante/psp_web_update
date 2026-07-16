@@ -80,11 +80,11 @@ subNavSelected = 1;
 			
 		<nav class="resource-card-grid" aria-label="Jump to water resource sections">
 			<a class="resource-card" href="#section1">
-				<span class="resource-card-image"><img src="images/Groups focused on climate justice for youth.jpg" width="1000" height="667" alt=""></span>
+				<span class="resource-card-image"><img src="images/Groups focused on climate justice for youth.jpg" width="300" height="200" alt=""></span>
 				<span class="resource-card-label">Groups focused on climate justice for youth</span>
 			</a>
 			<a class="resource-card" href="#section2">
-				<span class="resource-card-image"><img src="images/groups working to measure stormwater temperature.jpg" width="768" height="431" alt=""></span>
+				<span class="resource-card-image"><img src="images/groups working to measure stormwater temperature.jpg" width="300" height="200" alt=""></span>
 				<span class="resource-card-label">Groups working to measure stormwater temperature</span>
 			</a>
 			<a class="resource-card" href="#section3">
@@ -177,7 +177,7 @@ subNavSelected = 1;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <?php include 'includes/ln-community-advocacy.html';?></li>
+				<li class="active" role="presentation"> <?php include 'includes/rn-community-advocacy.html';?></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

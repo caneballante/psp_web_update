@@ -79,8 +79,9 @@
 			
 			
 			
-       <p>On this page you'll find community engagement resources from our <a href="https://www.pugetsoundinfo.wa.gov/#goals" target="new">Puget  Sound Info site</a>.</p>
-       <p><a href="https://www.pugetsoundinfo.wa.gov/#goals" target="new"><img src="images/Key Resources in Puget Sound Info.png" width="477" height="335" alt=""/></a></p>
+        <div class="floatright-block"><a href="https://www.pugetsoundinfo.wa.gov/#goals" target="new"><img src="images/Key Resources in Puget Sound Info.png"  height="300" alt=""/></a></div>
+			<p>On this page you'll find community engagement resources from our <a href="https://www.pugetsoundinfo.wa.gov/#goals" target="new">Puget  Sound Info site</a>.</p>
+      
             <h2>Healthy Water Quality Section</h2>
         <ul class="bullet-size-fix">
               <li><strong>Website</strong>: <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/6">Healthy  Water Quality Section</a>: </li>
@@ -109,11 +110,11 @@
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top nonresponsive-object-hide-rightnav">CONTACT</div>
+			<div class="right-nav-title margin-0-top">CONTACT</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <?php include 'includes/ln-community-advocacy.html';?></li>
+				<li class="active" role="presentation"> <?php include 'includes/rn-community-advocacy.html';?></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

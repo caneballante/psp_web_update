@@ -80,11 +80,11 @@
 			
 		<nav class="resource-card-grid" aria-label="Jump to farmer and emergency resource sections">
 			<a class="resource-card" href="#section1">
-				<span class="resource-card-image"><img src="images/resources for farmers.jpg" width="1000" height="667" alt=""></span>
+				<span class="resource-card-image"><img src="images/resources for farmers.jpg" width="300" height="200" alt=""></span>
 				<span class="resource-card-label">Resources for farmers</span>
 			</a>
 			<a class="resource-card" href="#section2">
-				<span class="resource-card-image"><img src="images/resources for emergencies.jpg" width="1249" height="700" alt=""></span>
+				<span class="resource-card-image"><img src="images/resources for emergencies.jpg" width="300" height="200" alt=""></span>
 				<span class="resource-card-label">Resources for emergencies</span>
 			</a>
 		</nav>
@@ -132,7 +132,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <?php include 'includes/ln-community-advocacy.html';?></li>
+				<li class="active" role="presentation"> <?php include 'includes/rn-community-advocacy.html';?></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

@@ -234,7 +234,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <?php include 'includes/ln-community-advocacy.html';?></li>
+				<li class="active" role="presentation"> <?php include 'includes/rn-community-advocacy.html';?></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

@@ -155,9 +155,7 @@ subNavSelected = 3;
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<div class="nonresponsive-object-hide-rightnav-li">
 				<li class="active" role="presentation"> <?php include 'includes/rn-grant_contact.html';?></li>
-				</div>
 				
 			
 				<!-- InstanceEndEditable -->
