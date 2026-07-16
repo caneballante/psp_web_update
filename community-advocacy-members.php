@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Community Resources</title>
+<title>Community Advocacy Council Members</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,8 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 3;
+	
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -51,17 +52,13 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image120">
-	<div class="overview-quote pull-right">
-		<h3>&nbsp;</h3>
-	</div>
-</header>
+<header class="overview-page-image-style overview-page-image120"></header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> Community Resources </h1>
+			<h1> Community advocacy council members</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -77,33 +74,27 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-	    <h2>Overview</h2>
-        <p>The Community Advocacy Council has collected resources to  help residents, community organizations, businesses, and local partners find  programs and services throughout Puget Soud. The following pages will connect you  with organizations that can provide more information and help with water  quality, home and business assistance, local environmental programs, or  emergency and agricultural resources. <br>
-          Many of these resources are organized by county or city and include  a brief description, contact information, and a link to the resource itself. Follow the links below or at the left of the page to see more. </p>
-        <p>The council hopes to add resources related to other environmental justice topics in the future.</p>
-        <h2>Water Quality Resources</h2>
-        <p>Find organizations, programs, and tools that support clean  water, watershed health, stormwater management, pollution prevention, and other  water quality initiatives throughout Puget Sound region.<br>
-           <a href="/community-resources-water.php"><strong>View Water Quality Resources </strong></a></p>
-        <h2>Key Resources in ps info</h2>
-        <p>Read more about our goals and what we are trying to achieve in our PS Info website. This page includes resources within the site that are related to community advocacy and environmental justice.<br>
-        <a href="/community-resources-PSinfo.php"><strong>View Key Resources in PS Info</strong></a><br>
-        </p>
-        <h2>Resources for Homes, Businesses &amp; Residents</h2>
-        <p>Find programs and services for homeowners, renters,  businesses, and community members, including environmental assistance,  sustainability programs, rebates, waste reduction, and more.<br>
-          <a href="/community-resources-homeandbusiness.php"><strong>View Resources for Homes, Businesses &amp; Residents</strong></a><br>
-        </p>
-        <h2>Farmers &amp; Emergency Resources</h2>
-        <p>Find resources to help farmers, rural communities, and  emergency preparedness. This page includes organizations and programs that  support farming, natural resource management, resilience, and emergency  response.</p>
-        <p> <a href="/community-resources-farmersandemergencies.php"><strong>View Resources for Farmers &amp; Emergencies </strong><br>
-        </a></p>
-        <p>&nbsp;</p>
+		<div id="top" class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		
+			
+			
+		<p>The Community Advocacy Council (CAC) is a space that was created in June 2024. The council is made up of community leaders who serve and represent communities most impacted by environmental injustices around the Puget Sound. </p>
+		<p>The CAC offers a space for us to come up with ideas, collaborate, and share decision-making with council members to achieve shared priorities. Members bring lived and professional expertise to the table as well as strong relationships to communities across Puget Sound, which is essential to help implement initiatives related to the Healthy Environments for All Act. Our hope is that one result of this work addresses the inequities of power in resources and decision-making. Find the biographies of some of our council members below.</p>
+		<h2>CAC members</h2>
+		<p><strong>Normae Mendoza</strong></p>
+		<p>Normae   is  dual citizen of the UK and USA and currently serves&nbsp;as First Lady of the  Filipino American Association of Kitsap County. Normae believes in supporting  marginalized communities and aims to provide outreach to different communities  through tapping into resources that can provide a fair distribution of wealth  and support amongst citizens that don&rsquo;t have the necessary means to gain  access.</p>
+		<hr class="solid">
+		<p><strong>Mic</strong> </p>
+		<p>Mic is a Tacoma resident of 9 years who is  passionate about interconnected and interdependent local communities and non  car-centered infrastructure among other things. They are a new member of the  council as of August 2025 and are also connected with Tacoma Sharing Community,  Remakery, and Tacoma Tree Foundation. You can find them puttering in their  garden or riding their bright yellow e-bike around town.</p>
+		<hr class="solid">
+		<p><strong>Jewel  Shepherd-Sampson</strong> </p>
+		<p>Jewel is  a native of Bremerton. Early childhood accomplishments include starting The  Black Youth Organization under Blacks in Government, Founder of Bridge Builders  Multicultural Club at Marcus Whitman JH, President at Marcus Whitman JH, and  BSU President at Bremerton High. These early achievements are listed because  young people need to know that they can make a positive impact on the world  while young. Some current organizations include: Elected State Rep 26th  Legislative District, Precinct Committee Officer, Equity Board for Puget Sound  Regional Council and several other board positions. Jewel is the Founder and  Director of Kitsap Black Student Union.</p>
         <h2>Contact us</h2>
 			
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
         </p>
-			<p class="last-update">Last updated: 07/16/26</p>
+			<p class="last-update">Last updated: 07/17/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

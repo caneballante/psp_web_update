@@ -99,6 +99,10 @@
 				<span class="resource-card-image"><img src="images/Puget Sound-wide.jpg" width="474" height="366" alt=""></span>
 				<span class="resource-card-label">Puget Sound-wide</span>
 			</a>
+			<a class="resource-card" href="#section6">
+				<span class="resource-card-image"><img src="images/Kitsap-Map2.png" width="300" height="289" alt=""></span>
+				<span class="resource-card-label">Kitsap County</span>
+			</a>
 		</nav>
         <h2 id="section1" class="resource-section-anchor">SEATTLE</h2>
         <h3>RainCity Partnerships</h3>
@@ -221,6 +225,54 @@
           <li><strong>Description</strong>: Puget Sound Institute has compiled  a list of payment programs, rebates, and more available to landowners. It was  last updated in January 2025.        </li>
         </ul>
 		<p><a href="#top">Return to top</a></p>
+		<h2 id="section6" class="resource-section-anchor">Kitsap County</h2>
+        <h3>Kitsap Public Utility Distrcit</h3>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://www.kpud.org/water-wastewater/your-water/">https://www.kpud.org/water-wastewater/your-water/</a></li>
+          <li><strong>Description</strong>: Find information and resources  about drinking water provided to Kitsap County residents, including water  quality reports and information about how Kitsap County manages water  resources.</li>
+        </ul>
+        <h3>Water Purveyors Association of Kitsap </h3>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://waterpak.org/">WaterPAK.org</a></li>
+          <li><strong>Description</strong>: WaterPAK is made up of Kitsap  County utilities and others who are committed to protecting drinking water. Find  water quality-related career opportunities, tips on water conservation, and  more on their website.</li>
+        </ul>
+        <h3>Washington State University Extension Kitsap Water Stewardship Programs</h3>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://extension.wsu.edu/kitsap/water-stewardship/">https://extension.wsu.edu/kitsap/water-stewardship/</a></li>
+          <li><strong>Description</strong>: Find non-credit classes and  community education open to the public to learn about topics like salmon tours  and septic system care.</li>
+        </ul>
+        <h3>WaterZen Bremerton Water Data</h3>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://waterzen.com/water-providers/bremerton-water/">https://waterzen.com/water-providers/bremerton-water/</a></li>
+          <li><strong>Description</strong>: Find information about Bremerton&rsquo;s  water providers and water quality reports.</li>
+        </ul>
+        <h3>City of Bremerton Utility Billing:</h3>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://www.bremertonwa.gov/524/Utility-Billing">Utility Billing |  Bremerton, WA - Official Website</a></li>
+          <li><strong>Description</strong>: Find information about utility  subsidy programs from the City of Bremerton.</li>
+        </ul>
+        <h3>Port Orchard 2025 Water Quality Report</h3>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://storage.googleapis.com/proudcity/portorchardwa/2026/04/570cab8f-ccr-port-orchard-2025.pdf">https://storage.googleapis.com/proudcity/portorchardwa/2026/04/570cab8f-ccr-port-orchard-2025.pdf</a></li>
+          <li><strong>Description</strong>: View Port Orchard&rsquo;s recent 2025  water quality report.</li>
+        </ul>
+        <h3>West Sound Utility District Water Service Area</h3>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://www.wsud.us/water/page/water-service-area">Water Service Area |  West Sound Utility District WA</a></li>
+          <li><strong>Description</strong>: Learn about the water service area  that this utility district serves, find water quality reports, and more.</li>
+        </ul>
+        <h3>Kitsap County Central Kitsap Treatment Plant</h3>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://www.kitsap.gov/pw/Pages/cktp.aspx">https://www.kitsap.gov/pw/Pages/cktp.aspx</a></li>
+          <li><strong>Description</strong>: Learn about this facility serving  to treat water in the central area of Kitsap County.</li>
+        </ul>
+        <h3>City of Poulsbo Public Works Water Information</h3>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://poulsbo.gov/public-works-water/">Public Works &gt; Water | City  of Poulsbo</a></li>
+          <li><strong>Description</strong>: Learn about the City of Poulsbo&rsquo;s  recent water infrastructure improvements        </li>
+        </ul>
+			<p><a href="#top">Return to top</a></p>
+			<p>&nbsp;</p>
         <h2>Contact us</h2>
 			
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
