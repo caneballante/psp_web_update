@@ -74,24 +74,21 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		<div id="top" class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 			
 			
-       <table align="center"width="200" border="0" style="text-align: center;">
-  <tbody>
-    <tr>
-      <td><a href="#section1"><img src="images/resources for farmers.jpg" width="357" height="241" alt=""/></a></td>
-		
-      <td><a href="#section2"><img src="images/resources for emergencies.jpg" width="357" height="241" alt=""/></a></td>
-    </tr>
-    <tr>
-		<td><a href="#section1">Resources for Farmers</a></td>
-      <td><a href="#section2">Resources for Emergencies</a></td>
-    </tr>
-  </tbody>
-</table>
-        <h2 id="section1">Resources for farmers            </h2>
+		<nav class="resource-card-grid" aria-label="Jump to farmer and emergency resource sections">
+			<a class="resource-card" href="#section1">
+				<span class="resource-card-image"><img src="images/resources for farmers.jpg" width="1000" height="667" alt=""></span>
+				<span class="resource-card-label">Resources for farmers</span>
+			</a>
+			<a class="resource-card" href="#section2">
+				<span class="resource-card-image"><img src="images/resources for emergencies.jpg" width="1249" height="700" alt=""></span>
+				<span class="resource-card-label">Resources for emergencies</span>
+			</a>
+		</nav>
+        <h2 id="section1" class="resource-section-anchor">Resources for farmers            </h2>
             <h3>PUGET SOUND-WIDE</h3>
             <h3>Resilient  Food System Infrastructure | Washington State Department of Agriculture</h3>
         <ul class="bullet-size-fix">
@@ -108,8 +105,8 @@
               <li><strong>Website</strong>:<a href="https://ecology.wa.gov/water-shorelines/water-quality/water-quality-grants-and-loans#combined">Water  quality grants and loans - Washington State Department of Ecology</a></li>
               <li><strong>Description</strong>: This page outlines grants and loans related to  water quality. Farmers can apply for <a href="https://ecology.wa.gov/about-us/payments-contracts-grants/grants-loans/find-a-grant-or-loan/water-quality-combined">the  water quality combined funding program</a>. Interpretation service is available <a href="https://ecology.wa.gov/about-us/accessibility-equity/language-services/servicios-de-idiomas">here</a>.            </li>
         </ul>
-			<p id="section2"><a href="#top">Return to top</a></p>
-        <h2 id="section2">Resources for emergencies</h2>
+			<p><a href="#top">Return to top</a></p>
+        <h2 id="section2" class="resource-section-anchor">Resources for emergencies</h2>
             <h3>WA Department of Health            </h3>
             <h3>CDC safety in flood water resource website</h3>
         <ul class="bullet-size-fix">

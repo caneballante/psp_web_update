@@ -1806,3 +1806,66 @@ display: block
 }
 /*science funding json css*/
 
+/* Community resource section links */
+.resource-card-grid {
+	display: grid;
+	gap: 14px;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	margin: 0 0 36px;
+}
+.resource-card {
+	background: #fff;
+	border: 1px solid #c6d4dd;
+	border-radius: 4px;
+	color: #0a3b5c;
+	display: flex;
+	flex-direction: column;
+	min-width: 0;
+	overflow: hidden;
+	text-decoration: none;
+}
+.resource-card:hover,
+.resource-card:focus {
+	border-color: #ef892e;
+	box-shadow: 0 3px 10px rgba(10, 59, 92, .18);
+	color: #0a3b5c;
+	text-decoration: none;
+}
+.resource-card:focus {
+	outline: 3px solid rgba(239, 137, 46, .45);
+	outline-offset: 2px;
+}
+.resource-card-image {
+	align-items: center;
+	aspect-ratio: 4 / 3;
+	background: #e6ebee;
+	display: flex;
+	justify-content: center;
+	overflow: hidden;
+}
+.resource-card-image img {
+	display: block;
+	height: 100%;
+	object-fit: contain;
+	width: 100%;
+}
+.resource-card-label {
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 1.25;
+	padding: 11px 12px 13px;
+}
+.resource-section-anchor {
+	scroll-margin-top: 20px;
+}
+@media (max-width: 560px) {
+	.resource-card-grid {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+}
+@media (max-width: 380px) {
+	.resource-card-grid {
+		grid-template-columns: 1fr;
+	}
+}
+

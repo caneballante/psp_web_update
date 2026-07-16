@@ -74,26 +74,25 @@ subNavSelected = 1;
 			</div>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		<div id="top" class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 			
 			
-        <table align="center"width="200" border="0" style="text-align: center;">
-  <tbody>
-    <tr>
-      <td><a href="#section1"><img src="images/Groups focused on climate justice for youth.jpg" width="243" height="163" alt=""/></a></td>
-		
-      <td><a href="#section2"><img src="images/groups working to measure stormwater temperature.jpg" width="249" height="164" alt=""/></a></td>
-		<td><a href="#section3"><img src="images/commwater1.png" width="250" height="165" alt=""/></a></td>
-    </tr>
-    <tr>
-		<td><a href="#section1">Groups focused on climate justice for youth</a></td>
-      <td><a href="#section2">Groups working to measure stormwater temperature (for the purpose of  combatting urban heat islands)</a></td>
-		<td><a href="#section3">Water utility providers and watershed managers</a></td>
-    </tr>
-  </tbody>
-</table>
-        <h2 id="section1">Groups focusing on climate justice for youth related to water quality and  beyond            </h2>
+		<nav class="resource-card-grid" aria-label="Jump to water resource sections">
+			<a class="resource-card" href="#section1">
+				<span class="resource-card-image"><img src="images/Groups focused on climate justice for youth.jpg" width="1000" height="667" alt=""></span>
+				<span class="resource-card-label">Groups focused on climate justice for youth</span>
+			</a>
+			<a class="resource-card" href="#section2">
+				<span class="resource-card-image"><img src="images/groups working to measure stormwater temperature.jpg" width="768" height="431" alt=""></span>
+				<span class="resource-card-label">Groups working to measure stormwater temperature</span>
+			</a>
+			<a class="resource-card" href="#section3">
+				<span class="resource-card-image"><img src="images/commwater1.png" width="850" height="640" alt=""></span>
+				<span class="resource-card-label">Water utility providers and watershed managers</span>
+			</a>
+		</nav>
+        <h2 id="section1" class="resource-section-anchor">Groups focusing on climate justice for youth related to water quality and  beyond            </h2>
             <h3>YMCA Earth Service Corps</h3>
         <ul class="bullet-size-fix">
               <li><strong>Website</strong><em>:</em> <a href="https://www.seattleymca.org/programs/youthprograms/earthservicecorps/about-us">About  Us | YMCA of Greater Seattle</a></li>
@@ -137,8 +136,8 @@ subNavSelected = 1;
               <li><strong>Description</strong><em>: </em>A semi-official group  that is charged with implementing the Education Partnership's strategy for the <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a>.</li>
               <li><strong>Contact</strong><em>: </em>Contact Puget Sound  Partnership Staff (<a href="mailto:environmental.justice@psp.wa.gov"> environmental.justice@psp.wa.gov</a>) for an introduction to the  group.</li>
             </ul>
-		<p id="section2"><a href="#top">Return to top</a></p>
-            <h2>Groups working to measure stormwater temperature (for the purpose of  combatting urban heat islands):            </h2>
+		<p><a href="#top">Return to top</a></p>
+            <h2 id="section2" class="resource-section-anchor">Groups working to measure stormwater temperature (for the purpose of  combatting urban heat islands):            </h2>
             <h3>Puget Small Streams Study</h3>
         <ul class="bullet-size-fix">
               <li><strong>Website</strong>: <a href="https://ecology.wa.gov/regulations-permits/reporting-requirements/stormwater-monitoring/stormwater-action-monitoring/sam-status-and-trends/puget-small-streams">Puget  Small Streams Study</a></li>
@@ -150,8 +149,8 @@ subNavSelected = 1;
               <li><strong>Website</strong>: <a href="https://ecology.wa.gov/regulations-permits/reporting-requirements/stormwater-monitoring/stormwater-action-monitoring/sam-effectiveness-studies/stormwater-characterization">Stormwater  characterization - Washington State Department of Ecology</a></li>
           <li><strong>Description</strong>: The City of Tacoma will  study 16 different sites to determine their differences according to their land  uses (industrial, commercial, residential), and to discover stormwater trends. They  also collect and sample stormwater and stormwater sediment.        </li>
         </ul>
-			<p id="section3"><a href="#top">Return to top</a></p>
-        <h2>Water Utility Providers and Watershed Managers</h2>
+			<p><a href="#top">Return to top</a></p>
+        <h2 id="section3" class="resource-section-anchor">Water Utility Providers and Watershed Managers</h2>
         <h3>Find a Water Utility Provider:</h3>
 <p><strong>Washington State Department of Health Water Service Areas  Map</strong></p>
         <ul class="bullet-size-fix">
