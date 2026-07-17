@@ -112,8 +112,8 @@
         </ul>
         <h4>RainWise Program</h4>
         <ul class="bullet-size-fix">
-          <li><strong>Website</strong>: <a href="https://700milliongallons.org/rainwise/">RainWise</a></li>
-          <li><strong>Description</strong>: Prevents flooding on   properties, adds nice looking garden space, and collects rain water to use for  watering plants (while saving money on water bills). RainWise also gives rebates,  cisterns, and rain gardens to eligible properties in Seattle. Learn more <a href="https://700milliongallons.org/rainwise/">here</a>. </li>
+          <li><strong>Website</strong>: <a href="https://SeattleRainWise.org">RainWise</a></li>
+          <li><strong>Description</strong>: RainWise is a partnership program of King County Wastewater Treatment Division (WTD) and Seattle Public Utilities (SPU) that provides rebates for rain gardens and cisterns built on eligible properties within Seattle. RainWise keeps polluted water out of Seattle waterways by reducing combined sewer overflows. To be eligible for the RainWise rebate your property must be in a RainWise eligible area and be connected to the combined sewer system.<a href="https://SeattleRainWise.org">Find more information and check your eligibility.</a>. </li>
         </ul>
         <h4>Trees for Neighborhoods</h4>
         <ul class="bullet-size-fix">

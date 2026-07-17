@@ -163,6 +163,12 @@ subNavSelected = 1;
           <li><strong>Website</strong>: <a href="https://ecology.wa.gov/water-shorelines/water-supply/water-availability/in-your-watershed/watershed-look-up" target="new">Watershed Lookup Tool</a></li>
           <li><strong>Description</strong>: This interactive map shows watersheds, otherwise known as Water Resource Inventory Areas across Washington State. You can use this tool to search any address and find out what watershed it is a part of. By clicking on a watershed boundary, you can learn more about information like the regional rules, water availability limits, and local managing entities for that area.</li>
         </ul>
+        <h3>Kitsap Public Utility Distrcit</h3>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://www.kpud.org/water-wastewater/your-water/">https://www.kpud.org/water-wastewater/your-water/</a></li>
+          <li><strong>Description</strong>: Find information and resources  about drinking water provided to Kitsap County residents, including water  quality reports and information about how Kitsap County manages water  resources.</li>
+        </ul>
+        <p>&nbsp;</p>
         <p><a href="#top">Return to top</a></p>
 <h2>Contact us</h2>
 			
