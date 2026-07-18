@@ -102,13 +102,13 @@ navSelected = 1;
             <p>We provide the Tribes, LIOs,  LEs, and local partners with technical assistance and the capacity to prepare  their grant applications for submission. Our grant writer will help identify  funding opportunities, develop high-quality grant proposals to federal, state,  and private funding agencies, and monitor grant progression with the goal of  increasing the number of successful submissions for local and regional recovery  projects.<br>
               For more information,  please read our <a href="/grantwriting.php">grant writing and technical assistance page</a>, or reach out to our grant writer, <a href="mailto:michelle.deckard@psp.wa.gov">Michelle Deckard</a><u>.</u><strong> </strong></p>
         <h2><strong>The Puget Sound Recovery Acceleration  Funding Tool</strong></h2>
-            <p>We created the <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a> to provide any  grant-seeking partner with a centralized location for information about  national, state, and regional funding opportunities for Puget Sound ecosystem  and salmon recovery projects. In addition to active funding opportunities, PS  RAFT allows users to search through closed funding opportunities for historical  reference and future planning. PS RAFT also provides partners with a forum to  connect and collaborate on funding applications.<br>
+            <p>We created the <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/" target="new">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a> to provide any  grant-seeking partner with a centralized location for information about  national, state, and regional funding opportunities for Puget Sound ecosystem  and salmon recovery projects. In addition to active funding opportunities, PS  RAFT allows users to search through closed funding opportunities for historical  reference and future planning. PS RAFT also provides partners with a forum to  connect and collaborate on funding applications.<br>
               </p>
             <p>PS RAFT will help  federal and state agencies provide timely funding information to partners and  increase the effectiveness of funding from the Bipartisan Infrastructure Law  and other resources. This tool is intended  to help reduce barriers and capacity needs and to share and find funding  opportunities.</p>
             <p>To <a href="https://www.psp.wa.gov/psraft.php">learn more about PS RAFT</a>,  or to submit a funding opportunity, please email us at <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
             <h2>Frequently Asked Questions            </h2>
             <h3>I need funding, what can the Strategic Funding Team do for me?</h3>
-        <p>We provide Tribes,  LIOs, LEs, and other local partners with support by connecting them with  funding opportunities as well as offering grant-writing assistance. Our goal is  to strengthen collaboration across the Puget Sound region and provide  coordination in tracking funding opportunities. You can find more information  about currently available and past funding opportunities by using our <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a>. </p>
+        <p>We provide Tribes,  LIOs, LEs, and other local partners with support by connecting them with  funding opportunities as well as offering grant-writing assistance. Our goal is  to strengthen collaboration across the Puget Sound region and provide  coordination in tracking funding opportunities. You can find more information  about currently available and past funding opportunities by using our <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/" target="new">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a>. </p>
             <h3>What kinds of technical assistance can the SFT provide?            </h3>
             <ul class="bullet-size-fix">
               <li>Assist  with grant strategy.</li>
@@ -124,12 +124,12 @@ navSelected = 1;
             <h3>Can the Strategic Funding Team apply for funding on our behalf?            </h3>
             <p>No, while we can&rsquo;t  apply on behalf of an organization or group, we can assist with the application  process itself as well as accessing funding opportunities. </p>
             <h3>Does the Strategic Funding Team have its own funding opportunities?            </h3>
-            <p>No, the Strategic  Funding Team does not currently have any funds that we award. You can find more  information about currently available and past funding opportunities with our <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a>. </p>
+            <p>No, the Strategic  Funding Team does not currently have any funds that we award. You can find more  information about currently available and past funding opportunities with our <a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/" target="new">Puget Sound Recovery  Acceleration Funding Tool (PS RAFT)</a>. </p>
             <h2><strong>Contact</strong><strong>&nbsp;</strong></h2>
             <p>If  you have any questions about the Strategic Funding Team. PS RAFT, or any specific funding needs, please email <a href="mailto:strategicfunding@psp.wa.gov" target="_blank">strategicfunding@psp.wa.gov</a><u>. </u></p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 01/07/26</p>
+		<p class="last-update">Last updated: 07/17/26</p>
 
         <!-- InstanceEndEditable --> </div>
 		

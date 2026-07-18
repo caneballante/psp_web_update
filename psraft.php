@@ -76,15 +76,15 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 
-       		<div class="pull-right"><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements"><img src="images/RAFT-screenshot.png" width="478" height="293" alt="A screenshot of the PS Raft page showing a table with options and a summary of a sample project."/></a></div>
+       		<div class="pull-right"><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/"><img src="images/psrafthome1.png" alt="A screenshot of the PS Raft page showing a table with options and a summary of a sample project." width="538" height="263"/></a></div>
 			
-			<p><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/page/Home/?views=Active-Announcements">Puget Sound RAFT – Recovery Acceleration Funding Tool</a> is now available,  centralizing details on numerous funding opportunities for Puget Sound ecosystem and salmon recovery. More opportunities will be added. To contribute, email <a href="mailto:strategicfunding@psp.wa.gov">strategicfunding@psp.wa.gov</a>.</p>
+			<p><a href="https://experience.arcgis.com/experience/6f12941d99644b0e93deaed86f1674f0/" target="new">Puget Sound RAFT – Recovery Acceleration Funding Tool</a> is now available,  centralizing details on numerous funding opportunities for Puget Sound ecosystem and salmon recovery. More opportunities will be added. To contribute, email <a href="mailto:strategicfunding@psp.wa.gov">strategicfunding@psp.wa.gov</a>.</p>
 			<p>The Puget Sound RAFT tool is a service of the Puget Sound Partnership’s Strategic Funding Team. Established in 2023, this team assists Tribes, Local Integrating Organizations (LIOs), Lead Entities (LEs), and other local partners in obtaining funding for transformative, large-scale projects that promote regional and local priorities aligned with the Action Agenda.</p>
 			<p>The Strategic Funding Team aids the recovery community's efforts to collaboratively plan and implement strategies across various sectors and regions. These strategies are designed to integrate transportation, land use, habitat restoration and protection, agriculture, climate change mitigation, flood hazard reduction, and stormwater infrastructure. The team facilitates partners' ability to quickly react to opportunities for rapid funding, ensuring projects can be expedited and executed successfully.</p>
 
 			<p>For additional information, please contact <a href="mailto:strategicfunding@psp.wa.gov">strategicfunding@psp.wa.gov</a></p>
 			
-			<p class="last-update">Last updated: 10/21/21</p>
+			<p class="last-update">Last updated: 07/17/26</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		
