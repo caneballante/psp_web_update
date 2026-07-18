@@ -175,7 +175,7 @@
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="/workshops.php">WORKSHOPS</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/ll52gxl0cefllrwksiml8kf1ticfi8gi" target="new">PUGET SOUND FUTURE SCENARIOS FACT SHEET</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/qzcsdqj5vdxnb1j58fc1i1meepr5jms2" target="new">EXPLORING BOLD LAND USE IDEAS IN PUGET SOUND WORKSHOP (2024)</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/o7pj56ivao3paimyxheaumf9sym41lif" target="new">BOLD LAND USE PLANNING WORKSHOP (2023)</a></li>
 				<!-- InstanceEndEditable -->
