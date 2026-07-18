@@ -83,35 +83,36 @@
         <h2>Alternative Scenarios</h2>
         <p>Alternative scenarios are presented in two ways: </p>
         <ul class="bullet-size-fix">
-          <li>Through their narrative storytelling</li>
+          <li>Through  narrative storytelling</li>
           <li>Through modeled results. </li>
         </ul>
         <p>The narratives are the project&rsquo;s main tool to explore the  future. In exploratory   scenario planning, narratives can take many forms. Future Scenarios created  four character-driven narratives (one for each alternative scenario) that show different  ways Puget Sound might progress towards its recovery goals by 2080 and how an  individual might experience them. </p>
-        <p> In each narrative, the characters are in their different futures and  travel to the same fictional event in Olympia called <em>Shadow and Song</em>.  The shared setting creates a common point or reference across the scenarios,  making the stories easier to compare and follow. Because each scenario is  designed to explore how to achieve recovery goals, <em>Shadow and Song</em> is intended  to be plausible in each future.</p>
-        <h3>Salmon Forward </h3>
-        <img src="/images/Icon-salmonforward.png">                 
-        <p>In the <strong>Salmon Forward </strong>alternative&nbsp;scenario,  Puget Sound&nbsp;is&nbsp;a region where dense urban life and nature exist  in&nbsp;a deliberate balance. Decades of coordinated planning, conservation  efforts, and public commitment to restoring the landscape have concentrated growth  in existing urban areas in central Puget Sound. This has resulted in compact,  transit-oriented cities, while surrounding rural and wild  areas&nbsp;remain&nbsp;intact and thriving. The contrast is&nbsp;striking. Dense  urban neighborhoods are seamlessly connected to working farms, salmon-bearing  streams, and mature forests, all within reach of the urban core<em>.</em></p>
+        <p> In each narrative, the characters are in their different futures and  travel to the same fictional event in Olympia called <em>Shadow and Song, a celebration of  Southern Resident killer whale recovery</em>.  The shared setting creates a common point or reference across the scenarios,  making the stories easier to compare and follow. Because each scenario is  designed to explore how to achieve recovery goals, <em>Shadow and Song</em> is intended  to be plausible in each future.</p>
+        <p>&nbsp;</p>
+        <div class="floatleft margin-10-right"><img src="/images/Icon-salmonforward.png" width="159" height="213">  </div>                 
+        <p>In the <strong>Salmon Forward </strong>alternative scenario,  Puget Sound is a region where dense urban life and nature exist  in a deliberate balance. Decades of coordinated planning, conservation  efforts, and public commitment to restoring the landscape have concentrated growth  in existing urban areas in central Puget Sound. This has resulted in compact,  transit-oriented cities, while surrounding rural and wild  areas remain intact and thriving. The contrast is striking. Dense  urban neighborhoods are seamlessly connected to working farms, salmon-bearing  streams, and mature forests, all within reach of the urban core<em>.</em></p>
         <p><a href="https://pspwa.box.com/s/71sw8bk7wcj46tr9wk9uymss9ndxqrgx" target="new">Read the Salmon Forward narrative and spend a day with Maya, a retired land use  planner from Bremerton.</a></p>
-        <h3>Networked Growth</h3>
-			<p><img src="/images/Icon-networkedgrowth.png"></p>
+        <p>&nbsp;</p>
+        <div class="floatleft margin-10-right"><img src="/images/Icon-networkedgrowth.png" width="169" height="226"></div>
         <p> In&nbsp;the&nbsp;<strong>Networked Growth</strong>&nbsp;alternative  scenario, all Puget Sound counties&nbsp;participate&nbsp;in a shared growth  model that channels growth and development into existing urban growth areas  across the region.</p>
-        <p> This approach makes sure that no single county&nbsp;bears  the pressure of&nbsp;growth, while also preserving working lands, restoring  watersheds, and making more efficient infrastructure investments. Smaller urban  areas have become thriving hubs of climate-smart development, thanks to  regionalfunding tools, local planning authority, and a commitment to  shared outcomes.&nbsp;&nbsp;</p>
+        <p> This approach makes sure that no single county&nbsp;bears  the pressure of&nbsp;growth, while also preserving working lands, restoring  watersheds, and making more efficient infrastructure investments. Smaller urban  areas have become thriving hubs of climate-smart development, thanks to  regionalfunding tools, local planning authority, and a commitment to  shared outcomes.&nbsp;<br>
+        &nbsp;</p>
         <p>          <a href="https://pspwa.box.com/s/w9ogfb29ft2grz283pevmk1k1a31bc2v" target="new">Read the Networked Growth narrative and spend a day with Jenna, a middle-aged  farmer from Chimacum.</a></p>
-        <h3>Rural Stewardship</h3>
-        <p><img src="/images/Icon-ruralstewardship.png"></p>
+        <p>&nbsp;</p>
+			<div class="floatleft margin-10-right"><img src="/images/Icon-ruralstewardship.png" width="184" height="216"></div>
         <p> In the <strong>Rural Stewardship</strong> alternative  scenario,&nbsp;Puget Sound evolves into a region where rural living and  environmental stewardship coexist through many individual choices and  collective actions rather than centralized planning. This future is shaped by  local decisions, private initiatives, and community-driven conservation.  Population is distributed more evenly across the landscape, both within and  near urban growth areas, but without regional mandates.&nbsp;Rural conservation  villages, community land trusts, and community benefit agreements with  developers have enabled pockets of higher density development in rural areas  while preserving ecological function. The result is a variety of communities  that adapt in their own ways which contribute to Puget Sound&rsquo;s  resilience.<br>
+          <br>
         <a href="https://pspwa.box.com/s/h57e3fusy9zmj3o0m10r8xa7w48seueb" target="new">Read the Rural Stewardship narrative and spend a day with Rafa and Lena, two salmon biologists from Bellingham and rural Whatcom County.</a></p>
-        <h3>Hybrid</h3>
-        <p><img src="/images/Icon-hybrid.png"></p>
-        <p> The <strong>Hybrid </strong>alternative scenario combines ideas  explored in Salmon Forward, Networked Growth, and Rural Stewardship. In this  future, Puget Sound is defined by thoughtful density and watershed-conscious  design. Land use decisions are shaped by watersheds, not just by city and  county boundaries. Stormwater and wastewater systems have become tools of  ecological restoration, not just infrastructure.</p>
-        <p><a href="https://pspwa.box.com/s/y09xycln6kobtl4ln7zxuij8wuaptnhs" target="new">Read the Hybrid narrative and spend a day with Sam, an early-career youth  engagement leader from Olympia.</a></p>
-      
-<h2>Want to learn more or get involved?</h2></p>
-			<p>We would love to  connect with you!<strong> </strong>Please reach out to our Assistant Science Director and  Future Scenarios Lead, Laura Rivas at <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a>.</p>
-			<p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <div class="floatleft margin-10-right"><img src="/images/Icon-hybrid.png" width="181" height="178"></div>
+        <p> The <strong>Hybrid </strong>alternative scenario combines ideas  explored in Salmon Forward, Networked Growth, and Rural Stewardship. In this  future, Puget Sound is defined by thoughtful density and watershed-conscious  design. Land use decisions are shaped by watersheds, not just by city and  county boundaries. Stormwater and wastewater systems have become tools of  ecological restoration, not just infrastructure.<br>
+          <br>
+        </p>
+        <p><a href="https://pspwa.box.com/s/y09xycln6kobtl4ln7zxuij8wuaptnhs" target="new">Read the Hybrid narrative and spend a day with Sam, an early-career youth  engagement leader from Olympia.</a>			</p>
+        <p>&nbsp;</p>
 			
 			
-			<p class="last-update">Current as of: 06/25/26</p>
+			<p class="last-update">Current as of: 07/17/26</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

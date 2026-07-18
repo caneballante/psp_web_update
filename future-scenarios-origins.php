@@ -85,11 +85,12 @@
 			In 2020-21, after consulting with the Science Panel, we launched  Future Scenarios to:</p>
             <ul class="bullet-size-fix">
               <li>Invite creative and innovative thinking about  Puget Sound recovery strategies.</li>
-              <li>Strengthen the interdisciplinary community of  recovery practice </li>
+              <li>Strengthen the interdisciplinary community of  recovery practice. </li>
               <li>Better understand and communicate potential consequences  and tradeoffs of current policy and management choices on future conditions.</li>
               </ul>
 			<p>Over the years, Future  Scenarios has been implemented through multiple phases, each with different  purposes, outcomes, questions, and forms of engagement. Despite evolving over  time, the project stayed true to its original intent by exploring a range of potential  futures for Puget Sound recovery through character-driven stories that reflect  different approaches to growth and development management.</p>
 			<h2>Project Background</h2>
+			 <img src="/images/Futurescenariostimeline1.png" width="713" height="402">
 <p>There have been four  main phases for the Future Scenarios effort. Activities and accomplishments for  each phase are listed below.</p>
 <h3>Future Scenarios Phase 1 | 2020-22</h3>
 <ul class="bullet-size-fix">
@@ -107,7 +108,7 @@
 <p><a href="https://pspwa.box.com/s/zvtmkplqrzft57yu6lyzgk1le4zae5gl" target="new">Read the November 2023 Future Scenarios <em>Bold Land Use Planning in Puget Sound</em> workshop synopsis, including the bold ideas that could address future development, human wellbeing and equity, and ecosystem restoration and  conservation challenges.</a></p>
 <h3>Future Scenarios Phase 3 | 2023-2024</h3>
 <ul class="bullet-size-fix">
-  <li>Created the Hybrid Scenario, a fourth  alternative scenario that explores several bold  ideas  from the November 2023 Bold Land Use Planning workshop. </li>
+  <li>Created the Hybrid Scenario, a fourth  alternative scenario that explores several   ideas  from the November 2023 Bold Land Use Planning workshop. </li>
   <li>Continued to refine and expand modeling  representation.</li>
   <li>Hosted the second science-policy workshop in  June 2024: Exploring Bold Land Use Ideas in Puget Sound. The workshop brought  together over 50 recovery experts who considered what it would take to  implement ideas from the November workshop. They generated 31 &ldquo;seeds of bold  action&rdquo; that can accelerate Puget Sound recovery.</li>
 </ul>
@@ -126,15 +127,12 @@
     <li>The restoration economy.</li>
   </ul>
   <li>Worked with Jefferson County to consider how  Future Scenarios findings align with its recent comprehensive plan&rsquo;s goals and  policies.</li>
-  <li>Continued to engage with  key partners, including our boards team, Strategic Initiative Leads, and the  Puget Sound Institute.</li>
-</ul>            
-            
-<h2>Want to learn more or get involved?</h2></p>
-			<p>We would love to  connect with you!<strong> </strong>Please reach out to our Assistant Science Director and  Future Scenarios Lead, Laura Rivas at <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a>.</p>
-			<p>&nbsp;</p>
+  <li>Continued to engage with  key partners, including our boards team, Strategic Initiative Leads, and the  Puget Sound Institute.		</li>
+</ul>
+<p>&nbsp;</p>
 			
 			
-			<p class="last-update">Current as of: 06/25/26</p>
+			<p class="last-update">Current as of: 07/17/26</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - How Were the Future Scenarios Developed?</title>
+<title>Puget Sound Partnership - How Were the Scenarios Developed?</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>How Were the Future Scenarios Developed?</h1>
+			<h1>How Were the  Scenarios Developed?</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -75,9 +75,9 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-		<p>The Future Scenarios project used an iterative and collaborative  process that combined expert input, recovery community engagement, and technical  modeling. We worked closely with interdisciplinary advisors and members of the  region&rsquo;s recovery community to  Define the alternative scenarios and model  what each might look like on the landscape.</p>
+		<p>The Future Scenarios project used an iterative and collaborative  process that combined expert input, recovery community engagement, and technical  modeling. We worked closely with interdisciplinary advisors and members of the  region&rsquo;s recovery community to define the alternative scenarios and model  what each might look like on the landscape.</p>
         <h2>Collaboration with Regional Experts</h2>
-        <p>The Project Team worked with the Puget Sound recovery  community to identify focal questions and theories about how stressors that  influence both the ecosystem and human wellbeing—climate change and population  growth—could over time. </p>
+        <p>The Project Team worked with the Puget Sound recovery  community to identify focal questions and theories about how stressors that  influence both the ecosystem and human wellbeing—climate change and population  growth—could change over time. </p>
         <p> An Advisory Group served as an overall sounding board for  the project during Phases 1 and 2 and identified the project&rsquo;s drivers of  change and initial metrics and data sources. The Advisory Group included  representatives from: </p>
         <ul class="bullet-size-fix">
           <li>The Puget Sound Partnership (PSP) Leadership  Council</li>
@@ -87,7 +87,7 @@
           <li>The Partnership Tribal Co-Management Conference</li>
           <li>The Puget Sound Ecosystem Monitoring Program</li>
           <li>Local governments</li>
-          <li>The Puget Sound Institute. </li>
+          <li>The Puget Sound Institute </li>
         </ul>
         <p>Together, this group created alternative scenarios around  four drivers of change:</p>
         <ul class="bullet-size-fix">
@@ -98,7 +98,7 @@
         </ul>
         <p>The first two drivers (climate change and population growth)  were held constant and the other two (government coordination and public  perception and behavior) varied between scenarios to create different growth  and development patterns and explore different approaches to growth management. </p>
         <p> The group also decided to focus all the alternative  scenarios on how Puget Sound recovery goals might be achieved in each different  future. In that way, the scenarios are created specifically to explore what it  might look like to achieve Puget Sound recovery goals under different growth  and development patterns.</p>
-        <p> Over the years the Project Team has also collaborated with other  groups beyond the Advisory Group, including Strategic Initiative Leads, state  agencies, Puget Sound Institute, and more.</p>
+        <p> Over the years the Project Team has also collaborated with other  groups beyond the Advisory Group, including Strategic Initiative Leads, state  agencies, and more.</p>
         <h2>Development of Scenario Hallmarks and then Narratives</h2>
         <p>Using the drivers and metrics identified by the Advisory  Group, the Project Team created a set of hallmarks for each scenario. The  hallmarks described: </p>
         <ul class="bullet-size-fix">
@@ -107,7 +107,7 @@
           <li>What types of recovery strategies would be  represented. </li>
         </ul>
         <p>The hallmarks served as an outline for scenario development.  From there, the Project Team created the scenario narratives.</p>
-        <p> A scenario&rsquo;s narrative is the conceptual basis of each  scenario  and helps people to imagine  what life in Puget Sound could look like in 2080.  A central character in each narrative is  invested in Puget Sound recovery for different reasons, so the narratives allow  us to see how progress could be made in different ways and from different  perspectives.</p>
+        <p> A scenario&rsquo;s narrative is the conceptual basis of each  scenario  and helps people to imagine  what life in Puget Sound could look like in 2080. A central character in each narrative is  invested in Puget Sound recovery for different reasons, so the narratives allow  us to see how progress could be made in different ways and from different  perspectives.</p>
         <p> The scenario hallmarks are also used to create unique  instructions for the Future Scenario&rsquo;s modeling suite. The models generate  quantitative and qualitative outputs to help show what each scenario might  &ldquo;look like&rdquo; across the landscape. </p>
         <h2>Future Scenarios Modeling Tools</h2>
         <p>Over the years, Future Scenarios has established a suite of  modeling tools to help the project explore potential biophysical and human  wellbeing outcomes in each scenario. Some models produce quantitative outcomes,  such as the number of acres of farmland conserved in a scenario. Others  generate qualitative outcomes, where the project models do not produce  quantitative results, such as how toxics might  change  under different conditions. <br>
@@ -116,7 +116,7 @@
         <p>Envision<strong> </strong>is the project&rsquo;s primary spatial modeling  platform and other models rely on its initial outputs. It integrates multiple models  and datasets to illustrate land use, population growth, and conservation and  restoration outcomes to show how a place might change over time. </p>
         <p> Each scenario has its own set of Envision instructions based  on how people might make land-management decisions. Examples include whether or  not to live in urban or rural areas or whether upzoning certain areas will  increase density in the specific growth and development trajectory being  explored.</p>
         <h3>Qualitative Network Model (QNM)</h3>
-        <p>A QNM represents parts of the social-ecological system that are  not modeled through Envision. The QNM helps shows how aspects of the system,  such as juvenile salmonids or human health, could respond to changes within  each scenario.</p>
+        <p>A QNM represents parts of the social-ecological system that are  not modeled through Envision. The QNM helps show how aspects of the system,  such as juvenile salmonids or human health, could respond to changes within  each scenario.</p>
         <h3>Salmon Favorability Index</h3>
         <p>A salmon favorability index uses Envision and QNM outputs  related to important salmon habitat, such as miles of streams open to spawning,  to evaluate how supportive future habitat conditions may be for salmon  populations by 2080.</p>
         <h3>Housing Affordability Tool</h3>
@@ -127,14 +127,12 @@
           <li><strong>Environmental  Justice</strong>: How vulnerable populations experience predicted changes  compared to the general population.  </li>
           <li><strong>Agriculture and Forestry</strong> (such as  working lands): How economic activity in the agricultural and forestry sectors  is affected by predicted changes in land use and land cover. </li>
           <li><strong>Recreation and Tourism</strong>: How  predicted changes influence the favorability of conditions to recreation and  tourism in the region. </li>
-          <li><strong>Restoration Economy</strong>: Regional economic  activity (such as economic output and job opportunities) created by investments  in restoration activities.</li>
+          <li><strong>Restoration Economy</strong>: Regional economic  activity (such as economic output and job opportunities) created by investments  in restoration activities.		  </li>
         </ul>
-        <h2>Want to learn more or get involved?</h2></p>
-			<p>We would love to  connect with you!<strong> </strong>Please reach out to our Assistant Science Director and  Future Scenarios Lead, Laura Rivas at <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a>.</p>
-			<p>&nbsp;</p>
+        <p>&nbsp;</p>
 			
 			
-			<p class="last-update">Current as of: 06/25/26</p>
+			<p class="last-update">Current as of: 07/17/26</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

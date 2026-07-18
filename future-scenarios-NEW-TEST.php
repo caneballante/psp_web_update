@@ -76,16 +76,19 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 		<p>The future is uncertain. The Puget Sound region&rsquo;s climate is  changing and its population is growing. These changes bring challenges  including housing availability and affordability, increased flooding, pressure  to convert working lands, and at-risk salmon and orca populations. The choices  we make now can guide us toward a more resilient future.</p>
-        <p>The Puget Sound Future  Scenarios project, or Future Scenarios, is an exploratory scenario project,  which means it supports open-ended, interdisciplinary, and future-focused thinking.  It offers a structured way to explore possible futures and consider creative  and strategic approaches to resilience. Future Scenarios examines the of  different potential futures and provides a framework for thinking about  possible futures and preparing for uncertainties.</p>
+        <p>The Puget Sound Future  Scenarios project, or Future Scenarios, is an exploratory scenario project,  which means it supports open-ended, interdisciplinary, and future-focused thinking.  It offers a structured way to explore possible futures and consider creative  and strategic approaches to resilience. Future Scenarios examines the four potential futures and provides a framework for thinking about  potential futures and preparing for uncertainties.</p>
+        <p>The current phase of the  project is focused on engaging the Puget Sound recovery community in  conversations and workshops all about Future Scenarios. If you&rsquo;re interested in  getting involved, please scroll to the bottom of this page to learn more!</p>
         <p><a href="/future-scenarios-origins.php">Learn more about  Future Scenarios&rsquo; origins and background.</a></p>
+        <img src="/images/sos2003map.png" width="479" height="492">
         <h2>What are the scenarios?</h2>
 		<p>The Future Scenarios  project explores what Puget Sound could look like in 2080 with one baseline  scenario based on current growth, development, and land use trends, along with four  alternative scenarios that change those trends in different ways. Each scenario  is centered around a narrative, or story, about how a Puget Sound resident involved  in Puget Sound recovery might experience the future. Modeling helps bring those  stories to life by showing what each future could look like.</p>
+		<img src="/images/icon-salmonforward.png"  width="110" height="147">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/icon-networkedgrowth.png" width="108" height="143">&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/icon-ruralstewardship.png" width="119" height="140"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/Icon-hybrid.png" width="134" height="132">
 		<p>Some assumptions about the future stay the same across all  the scenarios:</p>
 		<ul class="bullet-size-fix">
  		<li>Population growth rates are at the high end of  Office of Financial Management projections: Between 2020 and 2080, Future  Scenarios assumes Puget Sound's overall population will grow by approximately  110% to just under 11 million people.</li>
   		<li>Climate change impacts are high: The models use  Representative Concentration Pathway (RCP) level 8.5, which assumes high levels  of greenhouse gas emissions that increase global warming.</li>
   		<li>Investments in habitat conservation and  restoration are consistently high, based on recent annual investment in Puget  Sound recovery. Priorities for conservation and restoration are generally the  same across scenarios.</li>
-  		<li>Urban growth area (UGA) boundaries remain the  same as 2020.</li>
+  		<li>Urban growth area (UGA) boundaries remain the  same as in 2020.</li>
 </ul>
 <p>Other factors vary between scenarios, including:</p>
 <ul class="bullet-size-fix">
@@ -98,7 +101,7 @@
 <p><a href="/future-scenarios-five-scenarios.php">Learn more about the five scenarios, read each scenario story, and see the  scenario results.</a><br>
   <a href="/future-scenarios-development.php">Learn more about the scenario development and modeling process.</a></p>
 <h2>What have the scenarios shown us so far? </h2>
-<p>Across all scenarios, we observed some potential changes  between now and 2080 that are not as expected:</p>
+<p>Across all scenarios, we observed some potential changes  between now and 2080 that are  as expected:</p>
 <ul class="bullet-size-fix">
   <li>Big cities throughout the region continue to  grow (especially in central Puget Sound counties)</li>
   <li>Population growth continues in key habitat areas,  such as floodplains and riparian areas, both including inside and outside urban  areas</li>
@@ -114,15 +117,23 @@
   </ul>
 <h2>What&rsquo;s next for Future Scenarios?</h2>
 <p>Across the Puget Sound recovery community, there is growing interest  in exploratory scenarios and the ways they can test recovery strategies, support  decision making, and inspire behavior change. There is a lot of excitement  about continuing Future Scenarios work and sharing what has been learned with  communities across the region.</p>
-<p>In Spring 2026, the  Project Team began the next phase of the project, which will center Puget Sound  recovery community experts, combine broad and targeted engagement strategies to  bring in new perspectives and voices, and continue to help make connections  between Puget Sound recovery plans, systems, work streams, and people.</p>
+<p>In Spring 2026, the  Project Team began the next phase of the project, which is dedicated to engaging  new voices to inform how Future Scenarios products and tools can be applied to  work being done by the Puget Sound recovery community. This phase will combine broad and targeted engagement strategies to  bring in new perspectives and voices, share information about  the project, and identify opportunities to apply Future Scenarios tools and  processes.</p>
+<p>Several engagements are planned for 2026-2027, including:</p>
+<ul class="bullet-size-fix">
+  <li>Four Lunch &amp; Learns</li>
+  <li>Six &ldquo;Deep Dive&rdquo; targeted engagements</li>
+  <li>Three pilot tests</li>
+  <li>Two workshops</li>
+</ul>
 
 
 <h2>Want to learn more or get involved?</h2></p>
-			<p>We would love to  connect with you!<strong> </strong>Please reach out to our Assistant Science Director and  Future Scenarios Lead, Laura Rivas at <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a>.</p>
+			<p>We would love to  connect with you!<strong> </strong>To learn more about  engagement opportunities, please reach out to our Assistant Science Director and  Future Scenarios Lead, Laura Rivas at <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a>.</p>
+			<p>You can also submit  questions, comments, or other feedback <a href="https://forms.cloud.microsoft/r/6czyF9sRDf" target="new">using our form.</a></p>
 			<p>&nbsp;</p>
 			
 			
-			<p class="last-update">Current as of: 06/25/26</p>
+			<p class="last-update">Current as of: 07/17/26</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
