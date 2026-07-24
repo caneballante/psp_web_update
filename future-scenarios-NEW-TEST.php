@@ -100,21 +100,35 @@
 </ul>
 <p><a href="/future-scenarios-five-scenarios.php">Learn more about the five scenarios, read each scenario story, and see the  scenario results.</a><br>
   <a href="/future-scenarios-development.php">Learn more about the scenario development and modeling process.</a></p>
-<h2>What have the scenarios shown us so far? </h2>
-<p>Across all scenarios, we observed some potential changes  between now and 2080 that are  as expected:</p>
-<ul class="bullet-size-fix">
-  <li>Big cities throughout the region continue to  grow (especially in central Puget Sound counties)</li>
-  <li>Population growth continues in key habitat areas,  such as floodplains and riparian areas, both including inside and outside urban  areas</li>
-  <li>Housing prices increase and likely  disproportionately affect overburdened communities</li>
-  <li>Agricultural and forestry economic activity  declines and may also disproportionately affect overburdened communities</li>
-  <li>More people experience high-heat days and  nights, as well as impacts of sea level rise</li>
-</ul>
-<p>The scenarios also revealed some things that were not as  expected:</p>
-<ul class="bullet-size-fix">
-  <li>Existing UGAs have enough capacity to  accommodate about 95% of new population growth between now and 2080 if communities  support significant increases in density via upzoning</li>
-  <li>Conservation and restoration opportunities can happen  both inside and outside UGAs; removing barriers could create substantial opportunities  to achieve conservation and restoration goals.</li>
-  <li>Salmon population  outcomes are challenging but there are still opportunities to improve habitat  conditions by concentrating population growth in urban areas and investing in  conservation.</li>
-  </ul>
+<section class="key-findings" aria-labelledby="scenario-key-findings-title">
+  <header class="key-findings-header">
+    <p class="key-findings-kicker">Key findings</p>
+    <h2 id="scenario-key-findings-title">What have the scenarios shown us so far?</h2>
+    <p>Modeling revealed both anticipated regional changes and findings that challenge expectations.</p>
+  </header>
+  <div class="key-findings-grid">
+    <section class="key-finding-card">
+      <h3><span class="key-finding-number">01</span> Changes we expected</h3>
+      <p>Across all scenarios, we observed some potential changes between now and 2080 that are as expected:</p>
+      <ul>
+        <li>Big cities throughout the region continue to grow (especially in central Puget Sound counties)</li>
+        <li>Population growth continues in key habitat areas, such as floodplains and riparian areas, both including inside and outside urban areas</li>
+        <li>Housing prices increase and likely disproportionately affect overburdened communities</li>
+        <li>Agricultural and forestry economic activity declines and may also disproportionately affect overburdened communities</li>
+        <li>More people experience high-heat days and nights, as well as impacts of sea level rise</li>
+      </ul>
+    </section>
+    <section class="key-finding-card key-finding-card-accent">
+      <h3><span class="key-finding-number">02</span> What surprised us</h3>
+      <p>The scenarios also revealed some things that were not as expected:</p>
+      <ul>
+        <li>Existing UGAs have enough capacity to accommodate about 95% of new population growth between now and 2080 if communities support significant increases in density via upzoning</li>
+        <li>Conservation and restoration opportunities can happen both inside and outside UGAs; removing barriers could create substantial opportunities to achieve conservation and restoration goals.</li>
+        <li>Salmon population outcomes are challenging but there are still opportunities to improve habitat conditions by concentrating population growth in urban areas and investing in conservation.</li>
+      </ul>
+    </section>
+  </div>
+</section>
 <h2>What&rsquo;s next for Future Scenarios?</h2>
 <p>Across the Puget Sound recovery community, there is growing interest  in exploratory scenarios and the ways they can test recovery strategies, support  decision making, and inspire behavior change. There is a lot of excitement  about continuing Future Scenarios work and sharing what has been learned with  communities across the region.</p>
 <p>In Spring 2026, the  Project Team began the next phase of the project, which is dedicated to engaging  new voices to inform how Future Scenarios products and tools can be applied to  work being done by the Puget Sound recovery community. This phase will combine broad and targeted engagement strategies to  bring in new perspectives and voices, share information about  the project, and identify opportunities to apply Future Scenarios tools and  processes.</p>
