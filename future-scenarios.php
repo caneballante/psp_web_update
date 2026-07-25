@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership - Future Scenarios Project</title>
+<title>Puget Sound Partnership - Future Scenarios</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -57,8 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>Alternative futures for Puget Sound</h1>
-			<p>&nbsp;</p>
+			<h1>Puget Sound Future Scenarios</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -68,65 +67,76 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-				<?php include "includes/ln-future-scenarios.html";?>
+				<?php include "includes/ln-future-scenarios-NEW-TEST.html";?>
 				<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-		<div class="highlightbox margin-0-top margin-20-bottom">
-			
-			<p>Workshop announcements have moved. To read more about upcoming and past workshops, see our <a href="/workshops.php" target="new">Workshops page.</a></p>
-		</div>
+		
 		
 				
 			
-		<h2>Puget Sound future scenarios project</h2>
-			
-			<p>Future Scenarios help plan for a changing future that is shifting in known and unknown ways. We do this by generating and then exploring a suite of distinct, plausible futures.  Alternative scenarios help reveal what it takes to achieve recovery goals, and the trade-offs and co-benefits of present-day policy choices for future outcomes.  Scenarios often spur creative solutions.   </p>
-			
-			<p>Scenarios are both a conceptual approach to decision making and an analysis tool to describe how the socio-ecological system might fare in the future.  Scenario planning is a structured process that helps communities plan for an uncertain future by exploring multiple possibilities of what might happen. How might the future unfold and what does that mean for our plans?  What happens if we stay on our current trajectory? And what might happen if we change course, by our own volition or by changing external dynamics? </p>
-			
-			<p>The scenarios work <span class="new-red">strives to improve the resilience of Puget Sound recovery by doing the following:</span> </p>
-			
-			<ol class="bullet-size-fix">
-				<li><strong>Strengthening  recovery strategies</strong>.  Scenarios help us stress test our strategies  and ensure they are effective in a changing region.  This exploration can surface creative  solutions</li>
-				<li><strong>Communicating implications</strong>.  Scenarios  enable us to assess and communicate the co-benefits and trade-offs of current  and potential policy and management choices.</li>
-				<li><strong>Nurturing the community of  practice</strong> by bridging social and  natural science disciplines.  Scenarios  incorporate varied drivers of change, sectors, and types of impact.</li>
-			</ol>
-			<p>Stay Tuned as we share more of our findings here!</p>
-<h2>How are scenarios made?</h2>
-<p>The scenarios are iteratively  developed and refined with input from the recovery community. The project began  by looking at past scenario planning efforts in Puget Sound and, through  workshops and conversations and with the support of an Advisory Group, sought  input on important drivers related to achieving Puget Sound recovery goals.  Four drivers were selected as important and (relatively) uncertain factors to  consider:&nbsp;&nbsp; </p>
+		<p>The future is uncertain. The Puget Sound region&rsquo;s climate is  changing and its population is growing. These changes bring challenges  including housing availability and affordability, increased flooding, pressure  to convert working lands, and at-risk salmon and orca populations. The choices  we make now can guide us toward a more resilient future.</p>
+        <p>The Puget Sound Future  Scenarios project, or Future Scenarios, is an exploratory scenario project,  which means it supports open-ended, interdisciplinary, and future-focused thinking.  It offers a structured way to explore possible futures and consider creative  and strategic approaches to resilience. Future Scenarios examines the four potential futures and provides a framework for thinking about  potential futures and preparing for uncertainties.</p>
+        <p>The current phase of the  project is focused on engaging the Puget Sound recovery community in  conversations and workshops all about Future Scenarios. If you&rsquo;re interested in  getting involved, please scroll to the bottom of this page to learn more!</p>
+        <p><a href="/future-scenarios-origins.php">Learn more about  Future Scenarios&rsquo; origins and background.</a></p>
+        <img src="/images/sos2003map.png" width="479" height="492">
+        <h2>What are the scenarios?</h2>
+        <p>The Future Scenarios  project explores what Puget Sound could look like in 2080 with one baseline  scenario based on current growth, development, and land use trends, along with four  alternative scenarios that change those trends in different ways. Each scenario  is centered around a narrative, or story, about how a Puget Sound resident involved  in Puget Sound recovery might experience the future. Modeling helps bring those  stories to life by showing what each future could look like.</p>
+        <img src="/images/icon-salmonforward.png"  width="110" height="147">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/icon-networkedgrowth.png" width="108" height="143">&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/icon-ruralstewardship.png" width="119" height="140"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/Icon-hybrid.png" width="134" height="132">
+        <p>Some assumptions about the future stay the same across all  the scenarios:</p>
+        <ul class="bullet-size-fix">
+          <li>Population growth rates are at the high end of  Office of Financial Management projections: Between 2020 and 2080, Future  Scenarios assumes Puget Sound's overall population will grow by approximately  110% to just under 11 million people.</li>
+          <li>Climate change impacts are high: The models use  Representative Concentration Pathway (RCP) level 8.5, which assumes high levels  of greenhouse gas emissions that increase global warming.</li>
+          <li>Investments in habitat conservation and  restoration are consistently high, based on recent annual investment in Puget  Sound recovery. Priorities for conservation and restoration are generally the  same across scenarios.</li>
+          <li>Urban growth area (UGA) boundaries remain the  same as in 2020.</li>
+        </ul>
+        <p>Other factors vary between scenarios, including:</p>
+        <ul class="bullet-size-fix">
+          <li>The way new population is distributed across the  region and between urban and rural areas.</li>
+          <li>How much jurisdictions support density,  including upzoning,   redevelopment, and accessory dwelling units.</li>
+          <li>How strongly working lands are protected or  allowed to convert.</li>
+          <li>The extent to which people make environmentally conscious  choices and lifestyle decisions.</li>
+          <li>How jurisdictions coordinate planning and  restoration activities.</li>
+        </ul>
+        <p><a href="/future-scenarios-five-scenarios.php">Learn more about the five scenarios, read each scenario story, and see the  scenario results.</a><br>
+          <a href="/future-scenarios-development.php">Learn more about the scenario development and modeling process.</a></p>
+        <h2>What have the scenarios shown us so far? </h2>
+<p>Across all scenarios, we observed some potential changes  between now and 2080 that are  as expected:</p>
 <ul class="bullet-size-fix">
-		  <li><em>Population growth</em> is  the number of people expected to come to the region by 2080 based on Office of  Financial Management projections. All scenarios reflect the high end of OFM  projections to demonstrate the most likely, and the most stressful, direction.&nbsp;</li>
-		  <li><em>Climate change</em> includes temperature  and precipitation forecasts. All scenarios reflect relatively high climate  change. This was considered the most likely and the most stressful direction.  Holding population growth and climate change constant across the scenarios supports  scenario comparisons.&nbsp;</li>
-		  <li><em>Governance </em>reflects whether government actors are aligned and coordinating,  the amount of central vs. local control, and the willingness of government to  change legacy systems vs take an incremental approach. The trajectory of this  driver is used to inform the types of growth and development policies  represented in the scenarios, with more aligned and coordinated governance  generally supporting more ambitious policies.&nbsp;&nbsp; </li>
-<li><em>Human perceptions and behaviors </em>reflect  the attitudes and choices of people – where and how people live on the  landscape, and whether behaviors support (or do not support) Puget Sound  recovery work. Similar to the governance driver, the trajectory of this driver  is used to inform the types of growth and development policies represented in  the scenarios, and also informs thinking about the potential success of these  policies and where in Puget Sound people might choose to live. More positive  human perceptions and behaviors generally support more ambitious and successful  policies and more central, urban living.</li>
+  <li>Big cities throughout the region continue to  grow (especially in central Puget Sound counties)</li>
+  <li>Population growth continues in key habitat areas,  such as floodplains and riparian areas, both including inside and outside urban  areas</li>
+  <li>Housing prices increase and likely  disproportionately affect overburdened communities</li>
+  <li>Agricultural and forestry economic activity  declines and may also disproportionately affect overburdened communities</li>
+  <li>More people experience high-heat days and  nights, as well as impacts of sea level rise</li>
 </ul>
-<p>In the previous phase, Phase 2,  the project team presented three alternative scenarios – Salmon Forward,  Networked Growth, and Rural Stewardship – each constructed to explore how Smart  Growth ideas and policies might &ldquo;play out&rdquo; in a different growth and development  trajectory. The three Phase 2 scenarios were used to spark creative thinking  and help Puget Sound recovery partners generate bold ideas for Smart  Growth.&nbsp;&nbsp;</p>
-<p>In the current phase, Phase 3,  the project team and its advisors examined these bold ideas, plus other bold  ideas from multiple Puget Sound recovery plans and sources to identify a subset  of ideas that break from the region&rsquo;s current growth and development  approaches. With advice from policy experts, these big ideas were translated  into a specific set of policies that were then represented in a new alternative  scenario comprised of elements of each of the Phase 2 alternative scenarios.  Using one &ldquo;hybrid&rdquo; scenario in Phase 3 is intended to facilitate discussion of  how big ideas and their related policies could play out, and to illustrate how  their impacts and outcomes could interact in different settings.&nbsp;&nbsp;</p>
-<p>As before, the Phase  3 hybrid scenario has two parts: a character-driven narrative, or story, about  what life might be like for a variety of Puget Sound residents (including the  people introduced in the Phase 2 scenarios), and a set of modeled results to  help better understand scenario outcomes<br>
-</p>
-<h2>what models do the results come from?</h2>
+<p>The scenarios also revealed some things that were not as  expected:</p>
+<ul class="bullet-size-fix">
+  <li>Existing UGAs have enough capacity to  accommodate about 95% of new population growth between now and 2080 if communities  support significant increases in density via upzoning</li>
+  <li>Conservation and restoration opportunities can happen  both inside and outside UGAs; removing barriers could create substantial opportunities  to achieve conservation and restoration goals.</li>
+  <li>Salmon population  outcomes are challenging but there are still opportunities to improve habitat  conditions by concentrating population growth in urban areas and investing in  conservation.</li>
+  </ul>
+        <h2>What&rsquo;s next for Future Scenarios?</h2>
+        <p>Across the Puget Sound recovery community, there is growing interest  in exploratory scenarios and the ways they can test recovery strategies, support  decision making, and inspire behavior change. There is a lot of excitement  about continuing Future Scenarios work and sharing what has been learned with  communities across the region.</p>
+        <p>In Spring 2026, the  Project Team began the next phase of the project, which is dedicated to engaging  new voices to inform how Future Scenarios products and tools can be applied to  work being done by the Puget Sound recovery community. This phase will combine broad and targeted engagement strategies to  bring in new perspectives and voices, share information about  the project, and identify opportunities to apply Future Scenarios tools and  processes.</p>
+        <p>Several engagements are planned for 2026-2027, including:</p>
+        <ul class="bullet-size-fix">
+          <li>Four Lunch &amp; Learns</li>
+          <li>Six &ldquo;Deep Dive&rdquo; targeted engagements</li>
+          <li>Three pilot tests</li>
+          <li>Two workshops</li>
+        </ul>
+        <h2>Want to learn more or get involved?</h2>
+        </p>
+        <p>We would love to  connect with you!<strong> </strong>To learn more about  engagement opportunities, please reach out to our Assistant Science Director and  Future Scenarios Lead, Laura Rivas at <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a>.</p>
+        <p>You can also submit  questions, comments, or other feedback <a href="https://forms.cloud.microsoft/r/6czyF9sRDf" target="new">using our form.</a></p>
+        <p></p>
+        <h2>&nbsp;</h2>
 			
-			<p>The model results help us  visualize the alternative future being explored by testing policies that  reflect the bold ideas and illustrating how they might look on the Puget Sound  landscape. This allows us to explore possible outcomes of those ideas and understand  additional implications that may not be explicitly modeled.&nbsp;</p>
-			<p>The results come from three  models:</p>
 			
-			<ul class="bullet-size-fix">
-				<li>Envision, a  map-based modelling platform, that helps to explore how different population  distribution, growth, development, and conservation &ldquo;rules&rdquo; or actions could  play out on the landscape;&nbsp;&nbsp; </li>
-<li>A qualitative network model  (QNM) of a Puget Sound watershed that identifies and links elements of the  recovery system.&nbsp; QNM speaks to water quality, natural resource economy,  and sense of place; and:</li>
-				<li>An index-based assessment  of salmon favorability based on freshwater habitats.			</li>
-			</ul>
-			<h2>Contact us</h2></p>
-			<p>If you would like to be involved in this project work, have data to share, or would like a briefing, please get in touch with one of the project leads:</p>
-			<ul class="bullet-size-fix">
-				<li>Laura Rivas, <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a> </li>
-				<li>Elizabeth McManus, <a href="mailto:emcmanus@rosstrategic.com">emcmanus@rossstrategic.com</a></li>
-			</ul>
-			
-			
-			<p class="last-update">Last updated: 08/11/25</p>
+			<p class="last-update">Last updated: 07/24/26</p>
 			<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -149,18 +159,19 @@
 			
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
-				<!-- InstanceBeginEditable name="right_nav_links" -->
-				
-				<!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
+			  <!-- InstanceBeginEditable name="right_nav_links" -->
+			  <div class="right-nav-title margin-0-top ">CONTACT</div>
+				<li class="active" role="presentation"> <?php include 'includes/rn-futurescenarios-contact.html';?></li>
+			  <!--		<li role="presentation"> <a href="#">State of the Watersheds</a></li>
 					<li role="presentation"> <a href="#">Health of the Salish Sea Ecosystem Report</a></li>--> 
-				<!-- InstanceEndEditable -->
+			  <!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="/workshops.php">WORKSHOPS</a></li>
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/ll52gxl0cefllrwksiml8kf1ticfi8gi" target="new">PUGET SOUND FUTURE SCENARIOS FACT SHEET</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/qzcsdqj5vdxnb1j58fc1i1meepr5jms2" target="new">EXPLORING BOLD LAND USE IDEAS IN PUGET SOUND WORKSHOP (2024)</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/o7pj56ivao3paimyxheaumf9sym41lif" target="new">BOLD LAND USE PLANNING WORKSHOP (2023)</a></li>
 				<!-- InstanceEndEditable -->
