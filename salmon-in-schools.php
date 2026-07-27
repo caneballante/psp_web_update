@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	
 </script> 
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -71,7 +71,7 @@
 			<div class="nav-leftside-custom">
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
-			<?php include ;?>	
+			
 			<!-- InstanceEndEditable -->
 				</ul>
 			</div>
@@ -92,10 +92,10 @@
             <p>At a time when the future of programs like Salmon in the  Schools is uncertain, the students&rsquo; voices are a reminder of what&rsquo;s really at  stake. Today&rsquo;s classroom salmon become returning adults in a few years. And  today&rsquo;s curious kids become stewards of the rivers, forests, and communities  that depend on them. Raising these salmon is raising a generation that cares
               enough to help them recover.</p>
             <p>We hope you&rsquo;ll enjoy hearing their stories.</p>
-        <iframe title="vimeo-player" src="https://player.vimeo.com/video/1211272586?h=81faa5bc7e" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+         <p align="center"><iframe title="vimeo-player" src="ADD HERE" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
            <p><a href="https://wasalmonintheschools.org/" target="new">Learn  more about Salmon in the Schools</a> and <a href="https://wasalmonintheschools.org/contact-us/" target="new">how to get involved</a>.</p>
         <h2>Attend a screening</h2>
-           <ul>
+           <ul class="bullet-size-fix">
              <li>Film festival 1</li>
              <li>Film festibal 2</li>
              <li>Non-public screening</li>
