@@ -163,10 +163,35 @@ subNavSelected = 1;
           <li><strong>Website</strong>: <a href="https://ecology.wa.gov/water-shorelines/water-supply/water-availability/in-your-watershed/watershed-look-up" target="new">Watershed Lookup Tool</a></li>
           <li><strong>Description</strong>: This interactive map shows watersheds, otherwise known as Water Resource Inventory Areas across Washington State. You can use this tool to search any address and find out what watershed it is a part of. By clicking on a watershed boundary, you can learn more about information like the regional rules, water availability limits, and local managing entities for that area.</li>
         </ul>
-        <h3>Kitsap Public Utility Distrcit</h3>
+        <P><strong>Kitsap Public Utility Distrcit</strong></P>
         <ul class="bullet-size-fix">
           <li><strong>Website</strong>: <a href="https://www.kpud.org/water-wastewater/your-water/">https://www.kpud.org/water-wastewater/your-water/</a></li>
           <li><strong>Description</strong>: Find information and resources  about drinking water provided to Kitsap County residents, including water  quality reports and information about how Kitsap County manages water  resources.</li>
+        </ul>
+			<P><strong>Port Orchard 2025 Water Quality Report</strong></p>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://storage.googleapis.com/proudcity/portorchardwa/2026/04/570cab8f-ccr-port-orchard-2025.pdf">https://storage.googleapis.com/proudcity/portorchardwa/2026/04/570cab8f-ccr-port-orchard-2025.pdf</a></li>
+          <li><strong>Description</strong>: View Port Orchard&rsquo;s recent 2025  water quality report.</li>
+        </ul>
+			 <p><strong>West Sound Utility District Water Service Area</strong></p>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://www.wsud.us/water/page/water-service-area">Water Service Area |  West Sound Utility District WA</a></li>
+          <li><strong>Description</strong>: Learn about the water service area  that this utility district serves, find water quality reports, and more.</li>
+        </ul>
+			<P><strong>Kitsap County Central Kitsap Treatment Plant</strong></p>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://www.kitsap.gov/pw/Pages/cktp.aspx">https://www.kitsap.gov/pw/Pages/cktp.aspx</a></li>
+          <li><strong>Description</strong>: Learn about this facility serving  to treat water in the central area of Kitsap County.</li>
+        </ul>
+        <P><strong>City of Poulsbo Public Works Water Information</strong></p>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://poulsbo.gov/public-works-water/">Public Works &gt; Water | City  of Poulsbo</a></li>
+          <li><strong>Description</strong>: Learn about the City of Poulsbo&rsquo;s  recent water infrastructure improvements.        </li>
+        </ul>
+			<P><strong>Washington Water Service</strong></p>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://www.wawater.com//">https://www.wawater.com/</a></li>
+          <li><strong>Description</strong>: A company providing water utility services to “about 200 Washington water systems,” many being in the Puget Sound. Find information on their website about where their service areas are located.        </li>
         </ul>
         <p>&nbsp;</p>
         <p><a href="#top">Return to top</a></p>
