@@ -89,8 +89,8 @@
         <p>Read more about our goals and what we are trying to achieve in our PS Info website. This page includes resources within the site that are related to community advocacy and environmental justice.<br>
         <a href="/community-resources-PSinfo.php"><strong>View Key Resources in PS Info</strong></a><br>
         </p>
-        <h2>Resources for Homes, Businesses &amp; Residents</h2>
-        <p>Find programs and services for homeowners, renters,  businesses, and community members, including environmental assistance,  sustainability programs, rebates, waste reduction, and more.<br>
+        <h2>Resources for Homes, Businesses, Nonprofits, &amp; Residents</h2>
+        <p>Find programs and services for homeowners, renters,  businesses, nonprofits, and community members, including environmental assistance,  sustainability programs, rebates, waste reduction, and more.<br>
           <a href="/community-resources-homeandbusiness.php"><strong>View Resources for Homes, Businesses &amp; Residents</strong></a><br>
         </p>
         <h2>Farmers &amp; Emergency Resources</h2>
@@ -103,7 +103,7 @@
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
         </p>
-			<p class="last-update">Last updated: 07/16/26</p>
+			<p class="last-update">Last updated: 07/28/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
