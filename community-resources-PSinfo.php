@@ -84,22 +84,22 @@
       
             <h2>Healthy Water Quality Section</h2>
         <ul class="bullet-size-fix">
-              <li><strong>Website</strong>: <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/6">Healthy  Water Quality Section</a>: </li>
-              <li><strong>Description</strong>: Provides an overview of  water quality in Puget Sound, why it&rsquo;s an important topic, how it has changed  over the years, and what big issues of concern are.</li>
+              <li>Website: <a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignGoal/Detail/6">Healthy  Water Quality Section</a>: </li>
+              <li>Description: Provides an overview of  water quality in Puget Sound, why it&rsquo;s an important topic, how it has changed  over the years, and what big issues of concern are.</li>
               <ul class="bullet-size-fix">
-                <li><strong>Tip</strong>: At the bottom of the page, expand  any of the vital signs (Freshwater, Marine Water, or Toxics in Aquatic Life) to  find more specific information, data, and reports about how the Puget Sound is  doing on each vital sign indicator. For example, selecting the &ldquo;contaminants in  adult salmon&rdquo; indicator will provide data about contaminants in adult salmon.</li>
-                <li><strong>Tip</strong>: Selecting a vital sign header, such  as &ldquo;Freshwater&rdquo;, will provide background documents on the vital sign, and  information about related strategies that this work interconnects with.</li>
+                <li>Tip: At the bottom of the page, expand  any of the vital signs (Freshwater, Marine Water, or Toxics in Aquatic Life) to  find more specific information, data, and reports about how the Puget Sound is  doing on each vital sign indicator. For example, selecting the &ldquo;contaminants in  adult salmon&rdquo; indicator will provide data about contaminants in adult salmon.</li>
+                <li>Tip: Selecting a vital sign header, such  as &ldquo;Freshwater&rdquo;, will provide background documents on the vital sign, and  information about related strategies that this work interconnects with.</li>
               </ul>
             </ul>
             <h2>National Estuary Program activities list</h2>
         <ul class="bullet-size-fix">
-              <li><strong>Website</strong>: <a href="https://nepatlas.pugetsoundinfo.wa.gov/Activity/Index">National Estuary  Program activities list</a></li>
-              <li><strong>Description</strong>: Use the search bar to look  up keywords and find events/opportunities/activities that you may want to get  involved in.</li>
+              <li>Website: <a href="https://nepatlas.pugetsoundinfo.wa.gov/Activity/Index">National Estuary  Program activities list</a></li>
+              <li>Description: Use the search bar to look  up keywords and find events/opportunities/activities that you may want to get  involved in.</li>
             </ul>
         <h2>Ongoing Programs Portal Program list</h2>
             <ul class="bullet-size-fix">
-              <li><strong>Website</strong>: <a href="https://www.pugetsoundinfo.wa.gov/OngoingProgram/Programs">Ongoing  Programs Portal program list</a></li>
-              <li><strong>Description</strong>: Use  the search bar to look up keywords, such as &ldquo;salmon&rdquo;, to find programs and work  that we are connected to and that are related to topics you are interested in.        </li>
+              <li>Website: <a href="https://www.pugetsoundinfo.wa.gov/OngoingProgram/Programs">Ongoing  Programs Portal program list</a></li>
+              <li>Description: Use  the search bar to look up keywords, such as &ldquo;salmon&rdquo;, to find programs and work  that we are connected to and that are related to topics you are interested in.        </li>
             </ul>
         <h2>Contact us</h2>
 			
