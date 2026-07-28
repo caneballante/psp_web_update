@@ -88,7 +88,7 @@
               <li>Description: Provides an overview of  water quality in Puget Sound, why it&rsquo;s an important topic, how it has changed  over the years, and what big issues of concern are.</li>
               <ul class="bullet-size-fix">
                 <li>Tip: At the bottom of the page, expand  any of the vital signs (Freshwater, Marine Water, or Toxics in Aquatic Life) to  find more specific information, data, and reports about how the Puget Sound is  doing on each vital sign indicator. For example, selecting the &ldquo;contaminants in  adult salmon&rdquo; indicator will provide data about contaminants in adult salmon.</li>
-                <li>Tip: Selecting a vital sign header, such  as &ldquo;Freshwater&rdquo;, will provide background documents on the vital sign, and  information about related strategies that this work interconnects with.</li>
+                <li>Tip: Selecting a vital sign header, such  as &ldquo;Freshwater,&rdquo; will provide background documents on the vital sign, and  information about related strategies that this work interconnects with.</li>
               </ul>
             </ul>
             <h2>National Estuary Program activities list</h2>
@@ -99,14 +99,14 @@
         <h2>Ongoing Programs Portal Program list</h2>
             <ul class="bullet-size-fix">
               <li>Website: <a href="https://www.pugetsoundinfo.wa.gov/OngoingProgram/Programs">Ongoing  Programs Portal program list</a></li>
-              <li>Description: Use  the search bar to look up keywords, such as &ldquo;salmon&rdquo;, to find programs and work  that we are connected to and that are related to topics you are interested in.        </li>
+              <li>Description: Use  the search bar to look up keywords, such as &ldquo;salmon,&rdquo; to find programs and work  that we are connected to and that are related to topics you are interested in. </li>
             </ul>
         <h2>Contact us</h2>
 			
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
         </p>
-			<p class="last-update">Last updated: 06/16/26</p>
+			<p class="last-update">Last updated: 07/28/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
