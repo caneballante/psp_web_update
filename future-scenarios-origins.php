@@ -75,7 +75,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-		<h2>Project Origins</h2>
+		<h2 class="margin-0-top">Project Origins</h2>
 			<p>In 2018, our Leadership Council adopted <a href="https://pspwa.box.com/s/2d7y0i1qk5a4rce6jcv5s143c16oyy7p" target="new">Beyond 2020 Resolution</a> which described our goals for Puget Sound recovery and made a call to action. The  resolution challenged the Puget Sound recovery community to pursue ambitious solutions,  secure funding, seek supportive legislation, and stay accountable for  implementing all actions needed to make Puget Sound resilient.</p>
 			<p> <em>We have made  progress, but our efforts have not been at a scale or pace sufficient to  restore Puget Sound to health…This is our moment to define what our future can  look like, and to fight to make it a reality…</em><br>
             <em>Our vision includes a resilient  ecosystem…a thriving economy, sustainable farms and forests, and human  communities with high quality of life…Most importantly, our vision includes a  broad community of engaged citizens who commit to save Puget Sound.</em></p>
