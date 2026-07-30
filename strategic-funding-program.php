@@ -86,6 +86,10 @@ navSelected = 1;
 		</div>-->
 			
 			<p>The Puget Sound  Partnership&rsquo;s Strategic Funding Team (SFT) was established in 2023 to increase  Puget Sound&rsquo;s ecosystem and salmon recovery, improving both the environment and human wellbeing, by optimizing funding.</p>
+			<aside class="content-note content-note--float" aria-labelledby="sft-no-cost-title">
+				<h2 id="sft-no-cost-title">No-cost support</h2>
+				<p>Strategic Funding Team support is available to Tribes, LIOs, Lead Entities, and other local partners at no cost.</p>
+			</aside>
             <p>The  SFT assists Tribes, Local Integrating Organizations (LIOs), Lead Entities  (LEs), and other local partners in responding to rapid funding availabilities that  support the implementation of the <a href="https://psp.wa.gov/2022AAupdate.php">Action  Agenda</a> and <a href="https://psp.wa.gov/salmon-recovery-overview.php">Salmon  Recovery Plan</a>, our community&rsquo;s shared recovery plans for Puget Sound.&nbsp;<br>
               The SFT supports the efforts of the  recovery community to plan and act across sectors and geographies to align  transportation, land use, habitat restoration and protection, agriculture,  climate change mitigation, flood hazard reduction, and stormwater  infrastructure to achieve a multi-benefit approach. <br>
               Additionally, we will align state and  federal programs and increase investments that support Puget Sound recovery and  Tribal and local priorities.</p>
