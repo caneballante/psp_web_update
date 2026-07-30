@@ -80,9 +80,13 @@
 			<p>The Puget Sound Partnership organizes  a Community Advocacy Council (CAC) made up of leaders from around the Puget  Sound, working to make their communities healthier, stronger, and safer for  all. One focus of the CAC is to gather resources that council members identify  as most important to the communities that they serve. The group&rsquo;s goal is to  share those resources with any community that may find them useful. On this  page, you can find a collection of resources gathered by the CAC. Resources are  organized by topic area.        </p>
 		<p><strong>Note</strong>: As the Community Advocacy Council is  piloting this effort, they have focused on adding resources related to water  quality. The council hopes to add resources related to other environmental  justice topics in the future.<br>
 				</p>
-        <h2><br>
-        </h2>
-			<p class="last-update">Last updated: 03/05/26</p>
+        <h2>Contact us</h2>
+			
+        <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
+        <p>You can also send us anonymous questions, concerns, and feedback about the CAC’s work using the form below. CAC facilitators will receive the message, and if deemed appropriate and necessary, they will address it in an upcoming council meeting</p>
+        <p><iframe width="900" height="600" src=https://app.smartsheet.com/b/form/019fb52aeecb73bd8a4481196c25ba96></iframe>
+        </p>
+			<p class="last-update">Last updated: 07/30/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

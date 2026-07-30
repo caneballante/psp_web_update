@@ -78,8 +78,8 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-	    <h2>Overview</h2>
-        <p>The Community Advocacy Council has collected resources to  help residents, community organizations, businesses, and local partners find  programs and services throughout Puget Soud. The following pages will connect you  with organizations that can provide more information and help with water  quality, home and business assistance, local environmental programs, or  emergency and agricultural resources. <br>
+	    <h2 class="margin-0-top">Overview</h2>
+        <p>The Community Advocacy Council (CAC) has collected resources to  help residents, community organizations, businesses, and local partners find  programs and services throughout Puget Soud. The following pages will connect you  with organizations that can provide more information and help with water  quality, home and business assistance, local environmental programs, or  emergency and agricultural resources. <br>
           Many of these resources are organized by county or city and include  a brief description, contact information, and a link to the resource itself. Follow the links below or at the left of the page to see more. </p>
         <p>The council hopes to add resources related to other environmental justice topics in the future.</p>
         <h2>Water Quality Resources</h2>
@@ -101,7 +101,8 @@
         <h2>Contact us</h2>
 			
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
-        <p><br>
+        <p>You can also send us anonymous questions, concerns, and feedback about the CAC’s work using the form below. CAC facilitators will receive the message, and if deemed appropriate and necessary, they will address it in an upcoming council meeting</p>
+        <p><iframe width="900" height="600" src=https://app.smartsheet.com/b/form/019fb52aeecb73bd8a4481196c25ba96></iframe>
         </p>
 			<p class="last-update">Last updated: 07/28/26</p>
 		<!-- InstanceEndEditable --> </div>
