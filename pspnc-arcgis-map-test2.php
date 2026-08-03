@@ -154,69 +154,92 @@
 		}
 
 		.view-navigation {
-			display: grid;
-			grid-template-columns: minmax(190px, 0.42fr) minmax(0, 1.58fr);
-			gap: 0.8rem;
-			align-items: stretch;
-			padding: 0.55rem;
-			border: 1px solid rgba(255, 255, 255, 0.7);
-			border-radius: 16px;
-			background: rgba(255, 255, 255, 0.96);
-			box-shadow: var(--shadow);
-			backdrop-filter: blur(8px);
+			position: relative;
 		}
 
 		.view-navigation-copy {
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
-			padding: 0.45rem 0.7rem;
+			padding: 0 0.25rem 0.55rem;
 		}
 
 		.view-navigation-label {
-			margin: 0 0 0.12rem;
-			color: var(--psp-teal);
-			font-size: 0.7rem;
+			margin: 0;
+			color: #e7f3f5;
+			font-size: 0.76rem;
 			font-weight: 800;
 			letter-spacing: 0.1em;
 			text-transform: uppercase;
 		}
 
-		.view-navigation-copy h2 {
-			margin: 0;
-			color: var(--psp-navy);
-			font-size: 1.1rem;
-			line-height: 1.2;
-		}
-
 		.view-tabs {
 			display: grid;
 			grid-template-columns: repeat(2, minmax(0, 1fr));
-			gap: 0.55rem;
+			gap: 0.35rem;
+			align-items: end;
 		}
 
 		.view-tab {
+			position: relative;
 			display: flex;
 			align-items: center;
-			min-height: 64px;
-			padding: 0.65rem 1rem;
-			border: 1px solid transparent;
-			border-radius: 11px;
+			gap: 0.75rem;
+			min-height: 72px;
+			padding: 0.72rem 1rem;
+			border: 1px solid #92b2bd;
+			border-bottom: 0;
+			border-radius: 12px 12px 0 0;
 			color: var(--psp-navy);
-			background: transparent;
+			background: #dcecef;
+			box-shadow: inset 0 -4px 0 rgba(25, 70, 82, 0.08);
 			text-align: left;
 			cursor: pointer;
+			transition: background 150ms ease, border-color 150ms ease, transform 150ms ease;
+		}
+
+		.view-tab::after {
+			content: "Open";
+			flex: 0 0 auto;
+			margin-left: auto;
+			padding: 0.18rem 0.4rem;
+			border: 1px solid rgba(25, 70, 82, 0.28);
+			border-radius: 999px;
+			font-size: 0.64rem;
+			font-weight: 900;
+			letter-spacing: 0.06em;
+			text-transform: uppercase;
 		}
 
 		.view-tab:hover {
-			border-color: #acc9d2;
-			background: #f2f8f9;
+			border-color: var(--psp-teal);
+			background: #eef7f8;
+			transform: translateY(-2px);
 		}
 
 		.view-tab[aria-selected="true"] {
-			border-color: var(--psp-navy);
-			color: #fff;
-			background: var(--psp-navy);
+			z-index: 1;
+			margin-bottom: -1px;
+			padding-bottom: calc(0.72rem + 1px);
+			border-color: #92b2bd;
+			color: var(--psp-navy);
+			background: #fff;
+			box-shadow: inset 0 5px 0 var(--psp-navy);
+			transform: none;
+		}
+
+		.view-tab[aria-selected="true"]::before {
+			position: absolute;
+			right: 0;
+			bottom: -2px;
+			left: 0;
+			height: 3px;
+			background: #fff;
+			content: "";
+		}
+
+		.view-tab[aria-selected="true"]::after {
+			content: "Current";
+			border-color: rgba(25, 70, 82, 0.16);
+			color: var(--muted);
+			background: var(--surface-soft);
 		}
 
 		.tab-copy {
@@ -246,7 +269,7 @@
 			display: flex;
 			align-items: center;
 			gap: 0.75rem;
-			margin: 1rem 0;
+			margin: 1rem 0 0;
 			padding: 0.8rem 1rem;
 			border: 1px solid #e4ca82;
 			border-radius: 10px;
@@ -257,7 +280,7 @@
 
 		.status-panel[data-state="success"] {
 			width: fit-content;
-			margin: 0.7rem 0;
+			margin: 0.8rem 0 0;
 			padding: 0.52rem 0.78rem;
 			border-color: #9ac8ac;
 			color: var(--success);
@@ -288,8 +311,9 @@
 			margin-bottom: 0.8rem;
 			padding: clamp(1rem, 2.4vw, 1.3rem);
 			border: 1px solid var(--border);
-			border-radius: 14px;
+			border-radius: 0 0 14px 14px;
 			background: #fff;
+			box-shadow: 0 10px 24px rgba(13, 45, 54, 0.08);
 		}
 
 		.summary-kicker {
@@ -723,14 +747,6 @@
 		}
 
 		@media (max-width: 940px) {
-			.view-navigation {
-				grid-template-columns: 1fr;
-			}
-
-			.view-navigation-copy {
-				padding-bottom: 0;
-			}
-
 			.explorer-shell,
 			.explorer-shell[data-view="sold"] {
 				grid-template-columns: 1fr;
@@ -776,12 +792,26 @@
 
 			.view-tab {
 				align-items: flex-start;
-				min-height: 0;
-				padding: 0.72rem;
+				min-height: 78px;
+				padding: 0.72rem 0.65rem;
 			}
 
-			.view-tabs {
-				grid-template-columns: 1fr;
+			.view-tab[aria-selected="true"] {
+				padding-bottom: calc(0.72rem + 1px);
+			}
+
+			.view-tab::after {
+				align-self: center;
+				padding-inline: 0.32rem;
+				font-size: 0.58rem;
+			}
+
+			.tab-label {
+				font-size: 0.64rem;
+			}
+
+			.tab-title {
+				font-size: 0.94rem;
 			}
 
 			.summary-band {
@@ -841,7 +871,7 @@
 		<section class="view-navigation" aria-labelledby="viewNavigationHeading">
 			<div class="view-navigation-copy">
 				<p class="view-navigation-label">Two ways to explore</p>
-				<h2 id="viewNavigationHeading">Choose a program view</h2>
+				<h2 id="viewNavigationHeading" class="sr-only">Nearshore credit views</h2>
 			</div>
 			<div class="view-tabs" role="tablist" aria-label="Nearshore credit views">
 				<button
@@ -875,11 +905,6 @@
 				</button>
 			</div>
 		</section>
-
-		<div id="statusPanel" class="status-panel" data-state="loading" role="status" aria-live="polite">
-			<span class="status-dot" aria-hidden="true"></span>
-			<span id="statusText">Loading the live ArcGIS map and records...</span>
-		</div>
 
 		<section id="summaryPanel" class="summary-band" aria-live="polite">
 			<div class="summary-copy">
@@ -982,6 +1007,11 @@
 				</li>
 			</ul>
 		</details>
+
+		<div id="statusPanel" class="status-panel" data-state="loading" role="status" aria-live="polite">
+			<span class="status-dot" aria-hidden="true"></span>
+			<span id="statusText">Loading the live ArcGIS map and records...</span>
+		</div>
 	</main>
 
 	<script>
