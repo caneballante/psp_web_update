@@ -1204,8 +1204,7 @@
 		const numberFormatter = new Intl.NumberFormat("en-US");
 		const dateFormatter = new Intl.DateTimeFormat("en-US", {
 			year: "numeric",
-			month: "short",
-			day: "numeric",
+			month: "long",
 			timeZone: "UTC"
 		});
 
