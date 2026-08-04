@@ -37,11 +37,11 @@
 	<section class="container survey-intro" aria-labelledby="survey-title">
 		<p class="survey-kicker">Website revamp survey analysis</p>
 		<h1 id="survey-title">Improving psp.wa.gov</h1>
-		<p class="survey-lede">The survey points to a website that people rely on often, but that asks them to work too hard. The clearest opportunities are a simpler homepage, more intuitive navigation, stronger search, fresher content, and a better front door to related PSP websites and tools.</p>
+		<p class="survey-lede">The combined survey results point to a website people continue to rely on, but that asks them to work too hard. The clearest opportunities are a simpler homepage, more intuitive navigation, stronger search, easier access to reports and data, clearer staff/contact pathways, and a better front door to related PSP websites and tools.</p>
 		<ul class="survey-meta">
-			<li>33 responses</li>
-			<li>Collected March 28-April 14, 2025</li>
-			<li>Source: Puget Sound Partnership Website Revamp survey</li>
+			<li>55 responses across two survey waves</li>
+			<li>Collected March 28-April 14, 2025 and July 21-August 4, 2026</li>
+			<li>Sources: Website Revamp survey and Puget Sound Partnership website survey</li>
 		</ul>
 	</section>
 
@@ -50,39 +50,39 @@
 			<h2 id="summary-title">Executive Readout</h2>
 			<div class="survey-stat-grid" aria-label="Survey highlights">
 				<article class="survey-stat">
-					<strong>67%</strong>
-					<span>visit daily or weekly</span>
+					<strong>82%</strong>
+					<span>visit the website at least monthly</span>
 				</article>
 				<article class="survey-stat">
-					<strong>79%</strong>
-					<span>want more intuitive navigation</span>
+					<strong>61%</strong>
+					<span>of respondents who answered reported difficult navigation areas</span>
 				</article>
 				<article class="survey-stat">
-					<strong>78%</strong>
-					<span>rate search average or poor</span>
+					<strong>83%</strong>
+					<span>of search users rate search average, poor, or very poor</span>
 				</article>
 				<article class="survey-stat">
-					<strong>71%</strong>
-					<span>of respondents who answered report outdated or incorrect content</span>
+					<strong>69%</strong>
+					<span>visit other PSP-related websites at least occasionally</span>
 				</article>
 			</div>
 
 			<div class="survey-summary-grid">
 				<article class="survey-finding">
 					<h3>Navigation is the core problem.</h3>
-					<p>Respondents repeatedly described the site as hard to navigate, cluttered, and difficult to understand. The strongest quantitative request was more intuitive navigation, selected by 26 of 33 respondents.</p>
+					<p>Respondents repeatedly described the site as hard to navigate, cluttered, and difficult to understand. More intuitive navigation was selected by 35 of 55 respondents, and 30 of 49 respondents who answered said specific areas were difficult to navigate.</p>
 				</article>
 				<article class="survey-finding">
-					<h3>The homepage needs a clearer job.</h3>
-					<p>People want the homepage to explain who PSP is, what the agency does, and where to go next. Several comments said the homepage feels like a collection of links instead of a purposeful entry point.</p>
+					<h3>The homepage needs clearer orientation.</h3>
+					<p>People want the homepage to explain who PSP is, what the agency does, where to go next, and who to contact. The newer survey adds a strong signal for easier staff/contact findability, selected by 11 of 22 respondents.</p>
 				</article>
 				<article class="survey-finding">
-					<h3>Search and documents need structure.</h3>
-					<p>Improved search was requested by 24 respondents, and a centralized document repository by 19. This is a strong signal for a filtered resource library, not only a generic search box.</p>
+					<h3>Search, documents, and data need structure.</h3>
+					<p>Improved search and more interactive data/visualizations were each selected by 32 respondents, and a centralized document repository by 31. This is a strong signal for structured resource and data discovery, not only a generic search box.</p>
 				</article>
 				<article class="survey-finding">
 					<h3>Integration should be a front door, not a forced merge.</h3>
-					<p>Most respondents visit other PSP-related sites, but comments show mixed preferences. The safest recommendation is a consistent cross-site wayfinding system and landing hub before attempting full consolidation.</p>
+					<p>Thirty-eight of 55 respondents visit other PSP-related sites at least occasionally, while six newer respondents were not aware of those sites. The safest recommendation is a consistent cross-site wayfinding system and landing hub before attempting full consolidation.</p>
 				</article>
 			</div>
 		</div>
@@ -92,7 +92,7 @@
 		<div class="survey-section-heading">
 			<p class="survey-kicker">What the survey says</p>
 			<h2 id="evidence-title">Evidence Snapshot</h2>
-			<p>The highest-volume responses describe task-oriented visitors who need agency information, program details, reports, and current recovery resources.</p>
+			<p>The highest-volume responses describe task-oriented visitors who need agency information, program details, reports, meetings, data, and current recovery resources.</p>
 		</div>
 
 		<div class="survey-chart-grid">
@@ -101,31 +101,31 @@
 				<div class="survey-bar-list">
 					<div class="survey-bar-row">
 						<span class="survey-bar-label">Agency information</span>
-						<span class="survey-bar-track" aria-hidden="true"><span style="width: 73%;"></span></span>
-						<strong>24</strong>
+						<span class="survey-bar-track" aria-hidden="true"><span style="width: 65%;"></span></span>
+						<strong>36</strong>
 					</div>
 					<div class="survey-bar-row">
 						<span class="survey-bar-label">Program or project details</span>
-						<span class="survey-bar-track" aria-hidden="true"><span style="width: 73%;"></span></span>
-						<strong>24</strong>
+						<span class="survey-bar-track" aria-hidden="true"><span style="width: 62%;"></span></span>
+						<strong>34</strong>
 					</div>
 					<div class="survey-bar-row">
-						<span class="survey-bar-label">Reports and publications</span>
-						<span class="survey-bar-track" aria-hidden="true"><span style="width: 52%;"></span></span>
-						<strong>17</strong>
+						<span class="survey-bar-label">Reports, publications, or guidance</span>
+						<span class="survey-bar-track" aria-hidden="true"><span style="width: 60%;"></span></span>
+						<strong>33</strong>
 					</div>
 					<div class="survey-bar-row">
-						<span class="survey-bar-label">Events or meetings</span>
-						<span class="survey-bar-track" aria-hidden="true"><span style="width: 21%;"></span></span>
-						<strong>7</strong>
+						<span class="survey-bar-label">Meetings, events, or deadlines</span>
+						<span class="survey-bar-track" aria-hidden="true"><span style="width: 40%;"></span></span>
+						<strong>22</strong>
 					</div>
 					<div class="survey-bar-row">
-						<span class="survey-bar-label">Other needs</span>
-						<span class="survey-bar-track" aria-hidden="true"><span style="width: 21%;"></span></span>
-						<strong>7</strong>
+						<span class="survey-bar-label">Data, maps, dashboards, or indicators</span>
+						<span class="survey-bar-track" aria-hidden="true"><span style="width: 45%;"></span></span>
+						<strong>10</strong>
 					</div>
 				</div>
-				<p class="survey-note">Job searches were not selected by any respondent, so the revamp should optimize first for agency clarity, programs, reports, and recovery resources.</p>
+				<p class="survey-note">Counts are out of 55 combined responses, except the data/maps/dashboard option, which appeared only in the 2026 survey and was selected by 10 of 22 respondents.</p>
 			</article>
 
 			<article class="survey-panel">
@@ -133,8 +133,23 @@
 				<div class="survey-bar-list">
 					<div class="survey-bar-row">
 						<span class="survey-bar-label">More intuitive navigation</span>
-						<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 79%;"></span></span>
-						<strong>26</strong>
+						<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 64%;"></span></span>
+						<strong>35</strong>
+					</div>
+					<div class="survey-bar-row">
+						<span class="survey-bar-label">Improved search functionality</span>
+						<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 58%;"></span></span>
+						<strong>32</strong>
+					</div>
+					<div class="survey-bar-row">
+						<span class="survey-bar-label">More interactive data/visualizations</span>
+						<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 58%;"></span></span>
+						<strong>32</strong>
+					</div>
+					<div class="survey-bar-row">
+						<span class="survey-bar-label">Central document repository</span>
+						<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 56%;"></span></span>
+						<strong>31</strong>
 					</div>
 					<div class="survey-bar-row">
 						<span class="survey-bar-label">Clearer homepage layout</span>
@@ -142,37 +157,27 @@
 						<strong>25</strong>
 					</div>
 					<div class="survey-bar-row">
-						<span class="survey-bar-label">Improved search</span>
-						<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 73%;"></span></span>
-						<strong>24</strong>
-					</div>
-					<div class="survey-bar-row">
-						<span class="survey-bar-label">Less clutter and fewer clicks</span>
-						<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 67%;"></span></span>
-						<strong>22</strong>
-					</div>
-					<div class="survey-bar-row">
-						<span class="survey-bar-label">Central document repository</span>
-						<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 58%;"></span></span>
-						<strong>19</strong>
+						<span class="survey-bar-label">Easier staff/contact findability</span>
+						<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 50%;"></span></span>
+						<strong>11</strong>
 					</div>
 				</div>
-				<p class="survey-note">Counts are out of 33 total responses. Some questions allowed multiple selections.</p>
+				<p class="survey-note">Navigation, search, data, and repository counts are out of 55 combined responses. Homepage layout appeared only in the 2025 survey; staff/contact findability appeared only in the 2026 survey.</p>
 			</article>
 		</div>
 
 		<div class="survey-signal-grid">
 			<article class="survey-signal">
-				<span>50%</span>
+				<span>54%</span>
 				<p>rated finding information neutral, somewhat difficult, or very difficult.</p>
 			</article>
 			<article class="survey-signal">
-				<span>85%</span>
-				<p>visit other PSP-related websites regularly or occasionally.</p>
+				<span>95%</span>
+				<p>of 2026 respondents accomplished or partly accomplished what they came to do.</p>
 			</article>
 			<article class="survey-signal">
-				<span>64%</span>
-				<p>want more interactive data or visualizations.</p>
+				<span>56%</span>
+				<p>want a centralized document repository.</p>
 			</article>
 		</div>
 	</section>
@@ -189,10 +194,10 @@
 					<div class="survey-rank">1</div>
 					<div>
 						<h3>Rebuild the homepage around top tasks and agency purpose.</h3>
-						<p>The homepage should quickly answer: what PSP does, why it matters, where recovery work lives, and how visitors can find resources. Replace long link clusters with a small set of task entry points and current priorities.</p>
+						<p>The homepage should quickly answer: what PSP does, why it matters, where recovery work lives, how visitors can find resources, and who they should contact. Replace long link clusters with a small set of task entry points and current priorities.</p>
 						<ul>
 							<li>Lead with a plain-language PSP role statement.</li>
-							<li>Use four to six primary task paths such as programs, reports, science and data, funding, boards, and contact information.</li>
+							<li>Use four to six primary task paths such as programs, reports, science and data, funding, boards, and staff/contact information.</li>
 							<li>Add a short impact or story module so the site shows recovery work, not only documents.</li>
 						</ul>
 					</div>
@@ -202,7 +207,7 @@
 					<div class="survey-rank">2</div>
 					<div>
 						<h3>Restructure navigation around how people look for work.</h3>
-						<p>Respondents said the site does not always reflect how PSP organizes work functionally. A revised sitemap should prioritize user mental models over legacy page locations.</p>
+						<p>Respondents said the site does not always reflect how PSP organizes work functionally. A revised sitemap should prioritize user mental models over legacy page locations and make major sections visible on desktop and mobile.</p>
 						<ul>
 							<li>Run a content inventory and map every active page to an owner, audience, and section.</li>
 							<li>Create parent landing pages that explain related programs and show how subpages fit together.</li>
@@ -214,11 +219,11 @@
 				<article class="survey-recommendation">
 					<div class="survey-rank">3</div>
 					<div>
-						<h3>Create a filtered resource library for reports and documents.</h3>
-						<p>Reports, publications, Action Agenda materials, plans, and funding resources need a better discovery layer. A document library would also reduce the pressure to expose every document through main navigation.</p>
+						<h3>Create a filtered resource library for reports, documents, and data.</h3>
+						<p>Reports, publications, Action Agenda materials, plans, data tools, maps, and funding resources need a better discovery layer. A resource library would also reduce the pressure to expose every document or tool through main navigation.</p>
 						<ul>
-							<li>Filter by topic, document type, year, program, audience, and related website.</li>
-							<li>Show dates, summaries, and owning teams on resource cards.</li>
+							<li>Filter by topic, document type, year, program, audience, related website, and data/tool type.</li>
+							<li>Show dates, summaries, owning teams, and related dashboards on resource cards.</li>
 							<li>Flag featured or current resources so visitors do not need to guess which item is authoritative.</li>
 						</ul>
 					</div>
@@ -228,7 +233,7 @@
 					<div class="survey-rank">4</div>
 					<div>
 						<h3>Improve search with PSP-specific results and best bets.</h3>
-						<p>Search is a major weak spot. Visitors are using Google or internal knowledge to find PSP pages, which means the website is not reliably guiding them.</p>
+						<p>Search remains a major weak spot. Among respondents who had used search across both surveys, 38 of 46 rated it average, poor, or very poor.</p>
 						<ul>
 							<li>Add curated best-bet results for common terms like Action Agenda, LIOs, PSAR, State of the Sound, funding, and salmon recovery.</li>
 							<li>Give search results clear labels for pages, PDFs, data tools, news, and external PSP-related sites.</li>
@@ -241,7 +246,7 @@
 					<div class="survey-rank">5</div>
 					<div>
 						<h3>Establish content governance before redesign polish.</h3>
-						<p>Twenty respondents said there are outdated or incorrect pages. Design improvements will only hold if PSP also creates a repeatable maintenance model.</p>
+						<p>The 2025 survey surfaced outdated or incorrect pages, and the 2026 survey added a request for more current content. Design improvements will only hold if PSP also creates a repeatable maintenance model.</p>
 						<ul>
 							<li>Assign every page a content owner, review cadence, and last-reviewed date.</li>
 							<li>Archive or redirect stale pages instead of letting them compete with current guidance.</li>
@@ -254,7 +259,7 @@
 					<div class="survey-rank">6</div>
 					<div>
 						<h3>Connect related PSP sites through a shared front door.</h3>
-						<p>Respondents want less fragmentation, but not everyone wants every product collapsed into one site. Start with shared wayfinding and consistent labels across psp.wa.gov, PS Info, Making Waves, Puget Sound Estuary, PS RAFT, and other related tools.</p>
+						<p>Respondents want less fragmentation, but not everyone wants every product collapsed into one site. Start with shared wayfinding and consistent labels across psp.wa.gov, PS Info, Making Waves, Puget Sound Estuary, PS RAFT, Salmon Hub, and other related tools.</p>
 						<ul>
 							<li>Create a "PSP network" landing page that explains each related site and when to use it.</li>
 							<li>Add cross-site navigation cues and consistent naming for recurring topics.</li>
@@ -270,7 +275,7 @@
 		<div class="survey-section-heading">
 			<p class="survey-kicker">Homepage concept</p>
 			<h2 id="homepage-title">A Simpler First Screen</h2>
-			<p>The homepage should act like a front desk for PSP: orient visitors, send them to the right work area, and highlight timely recovery priorities.</p>
+			<p>The homepage should act like a front desk for PSP: orient visitors, send them to the right work area, help them find the right person, and highlight timely recovery priorities.</p>
 		</div>
 
 		<div class="survey-home-model" aria-label="Suggested homepage content hierarchy">
@@ -282,10 +287,10 @@
 				</div>
 			</div>
 			<div class="survey-home-row survey-home-tasks">
-				<div>Find a report</div>
+				<div>Find reports and resources</div>
 				<div>Explore programs</div>
 				<div>Use science and data</div>
-				<div>Connect with funding and partners</div>
+				<div>Find staff and contacts</div>
 			</div>
 			<div class="survey-home-row survey-home-priority">
 				<div>
@@ -316,7 +321,7 @@
 					<ul>
 						<li>Complete a page inventory with owner, status, audience, and page purpose.</li>
 						<li>Identify the top 25 pages and top 25 search terms from analytics.</li>
-						<li>Draft a revised homepage content hierarchy and test it with staff.</li>
+						<li>Draft a revised homepage content hierarchy and test it with staff and partner users.</li>
 						<li>Start an archive list for stale, duplicated, or orphaned pages.</li>
 					</ul>
 				</article>
@@ -325,7 +330,7 @@
 					<ul>
 						<li>Prototype a revised navigation model and resource library filters.</li>
 						<li>Rewrite high-traffic page intros in plain language.</li>
-						<li>Add clear parent-child paths for major program areas.</li>
+						<li>Add clear parent-child paths for major program areas and a better staff/contact path.</li>
 						<li>Define best-bet search results for common PSP terms.</li>
 					</ul>
 				</article>
@@ -350,7 +355,7 @@
 		<div class="survey-guardrail-grid">
 			<article>
 				<h3>Do not merge every website immediately.</h3>
-				<p>Only 15 respondents preferred everything in one place, while 13 gave nuanced comments. Improve the experience across sites first, then decide what truly belongs together.</p>
+				<p>The 2025 survey showed mixed views on full consolidation, and the 2026 survey showed some respondents are not aware of related PSP sites. Improve discovery and cross-site wayfinding first, then decide what truly belongs together.</p>
 			</article>
 			<article>
 				<h3>Do not add interactivity without a job.</h3>
