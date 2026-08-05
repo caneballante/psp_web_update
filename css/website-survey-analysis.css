@@ -101,7 +101,7 @@
 .survey-summary-grid,
 .survey-chart-grid,
 .survey-signal-grid,
-.survey-roadmap,
+.survey-profile-grid,
 .survey-guardrail-grid,
 .survey-success-grid {
 	display: grid;
@@ -117,7 +117,7 @@
 .survey-finding,
 .survey-panel,
 .survey-signal,
-.survey-roadmap article,
+.survey-profile-callout,
 .survey-guardrail-grid article {
 	border-radius: 8px;
 	background: #fff;
@@ -156,7 +156,7 @@
 .survey-finding h3,
 .survey-panel h3,
 .survey-recommendation h3,
-.survey-roadmap h3,
+.survey-profile-callout h3,
 .survey-guardrail-grid h3 {
 	margin-top: 0;
 	color: #0a3b5c;
@@ -166,13 +166,18 @@
 
 .survey-finding p,
 .survey-recommendation p,
-.survey-roadmap li,
+.survey-profile-callout p,
 .survey-guardrail-grid p {
 	font-size: 16px;
 	line-height: 1.5;
 }
 
 .survey-chart-grid {
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	align-items: start;
+}
+
+.survey-profile-grid {
 	grid-template-columns: repeat(2, minmax(0, 1fr));
 	align-items: start;
 }
@@ -286,8 +291,7 @@
 	font-weight: 900;
 }
 
-.survey-recommendation ul,
-.survey-roadmap ul {
+.survey-recommendation ul {
 	margin-bottom: 0;
 	padding-left: 20px;
 }
@@ -379,17 +383,14 @@
 	padding: 18px;
 }
 
-.survey-roadmap {
-	grid-template-columns: repeat(3, minmax(0, 1fr));
-}
-
-.survey-roadmap article {
+.survey-profile-callout {
+	margin-top: 18px;
 	padding: 22px;
-	border-top: solid 5px #ef892e;
+	border-left: solid 5px #3b8f71;
 }
 
-.survey-roadmap li {
-	margin-bottom: 8px;
+.survey-profile-callout p {
+	margin-bottom: 0;
 }
 
 .survey-guardrail-grid {
@@ -433,7 +434,7 @@
 	.survey-summary-grid,
 	.survey-chart-grid,
 	.survey-signal-grid,
-	.survey-roadmap,
+	.survey-profile-grid,
 	.survey-guardrail-grid,
 	.survey-success-grid {
 		grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -471,7 +472,7 @@
 	.survey-summary-grid,
 	.survey-chart-grid,
 	.survey-signal-grid,
-	.survey-roadmap,
+	.survey-profile-grid,
 	.survey-guardrail-grid,
 	.survey-success-grid,
 	.survey-home-tasks,
