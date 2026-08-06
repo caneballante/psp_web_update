@@ -182,6 +182,112 @@
 		</div>
 	</section>
 
+	<section class="survey-band survey-band-light" aria-labelledby="profile-title">
+		<div class="container">
+			<div class="survey-section-heading">
+				<p class="survey-kicker">Respondent profile</p>
+				<h2 id="profile-title">Who Responded</h2>
+				<p>The newer 2026 survey wave added profile questions. These counts reflect 22 respondents and should be read as directional context for who the website is serving, not as a complete demographic census of all 55 responses.</p>
+			</div>
+
+			<div class="survey-profile-grid">
+				<article class="survey-panel">
+					<h3>Connection to Puget Sound recovery</h3>
+					<div class="survey-bar-list">
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Local government</span>
+							<span class="survey-bar-track" aria-hidden="true"><span style="width: 32%;"></span></span>
+							<strong>7</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">State government</span>
+							<span class="survey-bar-track" aria-hidden="true"><span style="width: 14%;"></span></span>
+							<strong>3</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Academic, research, or education</span>
+							<span class="survey-bar-track" aria-hidden="true"><span style="width: 14%;"></span></span>
+							<strong>3</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Tribal government or organization</span>
+							<span class="survey-bar-track" aria-hidden="true"><span style="width: 9%;"></span></span>
+							<strong>2</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Nonprofit or community organization</span>
+							<span class="survey-bar-track" aria-hidden="true"><span style="width: 9%;"></span></span>
+							<strong>2</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Elected or legislative staff</span>
+							<span class="survey-bar-track" aria-hidden="true"><span style="width: 9%;"></span></span>
+							<strong>2</strong>
+						</div>
+					</div>
+					<p class="survey-note">Other selected connections included federal government, business or industry, interested resident/community member, and other write-in responses.</p>
+				</article>
+
+				<article class="survey-panel">
+					<h3>Work interests and activities</h3>
+					<div class="survey-bar-list">
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Planning or strategy</span>
+							<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 68%;"></span></span>
+							<strong>15</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Policy, legislation, or government relations</span>
+							<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 59%;"></span></span>
+							<strong>13</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Science, research, or monitoring</span>
+							<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 45%;"></span></span>
+							<strong>10</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Project implementation or restoration</span>
+							<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 45%;"></span></span>
+							<strong>10</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Local/regional coordination</span>
+							<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 45%;"></span></span>
+							<strong>10</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Funding, grants, or contracting</span>
+							<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 32%;"></span></span>
+							<strong>7</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Data, reporting, or evaluation</span>
+							<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 27%;"></span></span>
+							<strong>6</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Communications or outreach</span>
+							<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 27%;"></span></span>
+							<strong>6</strong>
+						</div>
+						<div class="survey-bar-row">
+							<span class="survey-bar-label">Tribal relations or coordination</span>
+							<span class="survey-bar-track survey-bar-orange" aria-hidden="true"><span style="width: 27%;"></span></span>
+							<strong>6</strong>
+						</div>
+					</div>
+					<p class="survey-note">Several respondents selected multiple work areas, which reinforces the need for cross-topic wayfinding instead of single-program silos.</p>
+				</article>
+			</div>
+
+			<article class="survey-profile-callout">
+				<h3>What this means for the redesign</h3>
+				<p>The respondent mix is partner- and practitioner-heavy. The site should support people who already work in recovery and need fast access to policy context, planning materials, science, project information, funding details, coordination structures, and the right staff contact.</p>
+			</article>
+		</div>
+	</section>
+
 	<section class="survey-band" aria-labelledby="recommendations-title">
 		<div class="container">
 			<div class="survey-section-heading">
@@ -305,44 +411,6 @@
 			<div class="survey-home-row survey-home-network">
 				<span>PSP-related sites and tools</span>
 				<p>A guided directory for PS Info, Making Waves, Puget Sound Estuary, PS RAFT, Salmon Hub, data dashboards, and document libraries.</p>
-			</div>
-		</div>
-	</section>
-
-	<section class="survey-band survey-band-light" aria-labelledby="roadmap-title">
-		<div class="container">
-			<div class="survey-section-heading">
-				<p class="survey-kicker">Implementation plan</p>
-				<h2 id="roadmap-title">Suggested 30-60-90 Day Roadmap</h2>
-			</div>
-			<div class="survey-roadmap">
-				<article>
-					<h3>First 30 Days</h3>
-					<ul>
-						<li>Complete a page inventory with owner, status, audience, and page purpose.</li>
-						<li>Identify the top 25 pages and top 25 search terms from analytics.</li>
-						<li>Draft a revised homepage content hierarchy and test it with staff and partner users.</li>
-						<li>Start an archive list for stale, duplicated, or orphaned pages.</li>
-					</ul>
-				</article>
-				<article>
-					<h3>Days 31-60</h3>
-					<ul>
-						<li>Prototype a revised navigation model and resource library filters.</li>
-						<li>Rewrite high-traffic page intros in plain language.</li>
-						<li>Add clear parent-child paths for major program areas and a better staff/contact path.</li>
-						<li>Define best-bet search results for common PSP terms.</li>
-					</ul>
-				</article>
-				<article>
-					<h3>Days 61-90</h3>
-					<ul>
-						<li>Build and test the homepage, navigation, and resource library with users.</li>
-						<li>Publish content governance standards and review cadence.</li>
-						<li>Add cross-site wayfinding for related PSP sites.</li>
-						<li>Measure task completion, search success, and click depth after launch.</li>
-					</ul>
-				</article>
 			</div>
 		</div>
 	</section>
