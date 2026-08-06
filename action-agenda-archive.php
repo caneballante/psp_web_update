@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 3;
+  	navSelected = 2;
 </script>
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="OptionalRegion1" type="boolean" value="true" -->
@@ -85,14 +85,15 @@
               <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/41a4e96" target="new">Read the press release</a> | <a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya">Download the Action Agenda </a>| <a href="https://actionagenda.pugetsoundinfo.wa.gov/2026-2030" target="new" > Visit the online Action Agenda Explorer</a></p>
             
 		</div>
-		<p><a href="https://pspwa.box.com/s/osxaeqg19fevxu5n3k8xnjytzkwol512">2018-2022 Action Agenda (PDF)</a> </p>
-		<p><a href="https://pspwa.box.com/shared/static/h2ysd0bz8a1yxagtgkdaikqr1czl0owz.pdf">2016-2018  Action Agenda (PDF)</a></p>
-		<p><a href="https://pspwa.box.com/s/dzu9cwtwho06i56lt1f4bnx45j65n53q">2014/15 Action Agenda (PDF)</a></p>
-		<p><a href="https://pspwa.box.com/s/g5qwigy618rjqbsdyrpzkoli7v8m86pb">2012-13 Action Agenda (PDF)</a></p>
-		<p><a href="https://pspwa.box.com/s/kuhc0eyk1rkxcd0mt53q79c0d8jt09wn">2008-09 Action Agenda (PDF</a></p>
+		<p><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf" target="new">2022-2026 Action Agenda (PDF)</a> </p>
+		<p><a href="https://pspwa.box.com/s/osxaeqg19fevxu5n3k8xnjytzkwol512" target="new">2018-2022 Action Agenda (PDF)</a> </p>
+		<p><a href="https://pspwa.box.com/shared/static/h2ysd0bz8a1yxagtgkdaikqr1czl0owz.pdf" target="new">2016-2018  Action Agenda (PDF)</a></p>
+		<p><a href="https://pspwa.box.com/s/dzu9cwtwho06i56lt1f4bnx45j65n53q" target="new">2014/15 Action Agenda (PDF)</a></p>
+		<p><a href="https://pspwa.box.com/s/g5qwigy618rjqbsdyrpzkoli7v8m86pb" target="new">2012-13 Action Agenda (PDF)</a></p>
+		<p><a href="https://pspwa.box.com/s/kuhc0eyk1rkxcd0mt53q79c0d8jt09wn" target="new">2008-09 Action Agenda (PDF)</a></p>
 		<br>
 		<br>
-		<p class="last-update">Last updated: 02/17/26</p>
+		<p class="last-update">Last updated: 08/05/26</p>
 		
 		<!-- InstanceEndEditable --> </div>
 		

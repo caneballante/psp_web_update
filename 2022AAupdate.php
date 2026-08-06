@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Partnership 2022-2026 Action Agenda</title>
+<title>Puget Sound Partnership 2026-2030 Action Agenda</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-navSelected = 4;
+navSelected = 1;
 	
 </script>
 <meta property="og:image" content="http://www.psp.wa.gov/images/inside_image_99_sm.jpg" />
@@ -61,7 +61,7 @@ navSelected = 4;
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2022-2026 Action Agenda</h1>
+			<h1>2026-2030 Action Agenda</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -90,90 +90,52 @@ navSelected = 4;
             
 		</div>
 
-		<h2 class="margin-0-top">What is the Action Agenda? </h2>
-			<img class="floatright" src="images/2022-AA-cover.jpg" width="288" height="370" alt="A screenshot of the Action Agenda front cover. A mountain and trees is surrounded by water and framed by a blue and orange box."/>
-		<p>The 2022-2026 Action Agenda charts the course for Puget Sound recovery as our community's shared plan for advancing protection and restoration efforts across the region.</p>
-		
-			<p>Learn about the Action Agenda:</p>
-			<ul class="bullet-size-fix">
-			<li><a href="https://makingwaves.psp.wa.gov/index.php/2022/10/28/introduction-action-agenda/" target="new">Watch our Action Agenda video in the Q4 2022 Making Waves issue</a></li>
-			<li><a href="https://pspwa.box.com/shared/static/30dh5a9bmlhankz516d7vm443dgqm70t.pdf">Read the Action Agenda brochure</a></li>
-			<li><a href="https://pspwa.box.com/shared/static/7lwvn8letqiyt342o1y00ltq02mnk5v9.pdf">Lea el folleto de la Agenda de Acción en español</a></li>
-			<li><a href="https://pspwa.box.com/shared/static/ri8a5rhkpkm5oej7jx3cx0i7c2qjhbuj.pdf">Basahin ang brosyur ng Action Agenda sa Tagalog</a></li>
-			<li><a href="https://pspwa.box.com/shared/static/tk022vggf87myu23slwdwxyzaloo8z3p.pdf">Đọc tập quảng cáo v&#7873; Chương Trình Hành Động b&#7857;ng Ti&#7871;ng Việt</a></li>
-			<li><a href="https://pspwa.box.com/shared/static/moe8onysucqeayu2aghh582r8ap527n6.pdf">Ознакомьтесь с брошюрой Action Agenda ("План действий") на русском языке</a></li>
-			<li><a href="https://pspwa.box.com/shared/static/j3iolontqjx1m4gpja78dprg3isvubmw.pdf">請閱讀繁體中文版行動議程手冊</a></li>
-			<li><a href="https://pspwa.box.com/shared/static/zqzl3t0y68imthqclpuy4iavphulkbr2.pdf">请阅读繁体中文版行动议程手册</a></li>
-			</ul><br>
-			<p>2022-2026 Action Agenda, Executive Summary, and related information:</p>
-			<ul class="bullet-size-fix">
-				<li><a href="https://pspwa.box.com/shared/static/7svj5x4xtrj6duyccqgo2y0ryekk9zjr.pdf">Download the 2022-2026 Action Agenda Executive Summary</a> </li>
-				<li><a href="https://pspwa.box.com/shared/static/8zak4wiakdy94vc6104er8l3kn9bdxkw.pdf">Download the full 2022-2026 Action Agenda PDF</a></li>
-				<li><a href="https://pspwa.box.com/shared/static/mejeolwllwccjj3rmc8kiduia604vxos.pdf">Lea la Agenda de Acción 2022-2026 en español</a></li>
-				<li><a href="https://pspwa.box.com/shared/static/adopaw136pastn603ojfzc046k9iza5b.xlsx">Download an Excel table of 2022-2026 Action Agenda strategies, actions, key opportunities, and implementation considerations</a></li>
-			</ul>
-			
-		<div class="clearfix"></div>
-	
-		
-		<div class="container-fluid blue-outline-5px padding-20-all margin-20-top">
-			<div class="row ">
-				
-				<div class="col-sm-6">
-					<h3 class="margin-0-top">VISIT THE ONLINE ACTION AGENDA EXPLORER</h3>
-					<p>Visit the <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda">2022-2026 Action Agenda Explorer</a> – the online companion tool to the Action Agenda. The Explorer allows for dynamic searchability of content relating to each one of the 31 strategies in the Action Agenda. Content will be updated regularly through 2026.</p>
-				</div>	
-				<div class="col-sm-6">
-					<img class="img-responsive floatright" src="images/AA-explorer-with-photo.jpg" alt="A screenshot of the Action Agenda Explorer page showing the Strategies for Puget Sound"/>	
-				</div>
-			</div>
-		</div>
-		<div class="clearfix"></div>
-
-			
-		<h2>Why do we need an Action Agenda? </h2>
-		
-		<p>Our  region is facing significant changes, and we know Puget Sound is not doing well. We  have updated the Action Agenda to confront these challenges. The Action Agenda includes a vision  of a healthy and resilient Puget Sound and describes what we must achieve,  how we will achieve it, and how we will hold ourselves accountable to ensure we  make progress.</p>
-		<p>The 2022-2026 Action Agenda includes the work of hundreds of  partners to describe strategies and actions needed to recover a healthy and  resilient Puget Sound. These strategies and actions enable us to achieve our <a href="https://pspwa.box.com/s/5removv1htkz3tu42gkit2d56vd4ohbs">desired outcomes</a>: </p>
-		<ul class="bullet-size-fix">
-			<li>Protect and restore habitat and habitat-forming  processes </li>
-			<li>Protect and improve water quality </li>
-			<li>Protect the food web and imperiled species </li>
-			<li>Prevent the worst effects of climate change </li>
-			<li>Ensure human wellbeing</li>
-		</ul>
-		<p>The strategies and actions in the Action Agenda provide  opportunities for federal, tribal, state, local, and private partners to better invest resources and coordinate  action. The Action Agenda fulfills the Partnership's statutory  mandate and purpose of the Clean Water Act's <a href="https://www.epa.gov/nep" target="new">National Estuary Program (NEP)</a>,  which guides millions of dollars of federal funding to the most beneficial  projects and programs.</p>
-		<h2>How does the 2022-2026 Action Agenda advance recovery?</h2>
-		<p>The 2022-2026 Action Agenda is informed by science and guides effective investment in Puget  Sound protection and restoration.&nbsp;This Action Agenda update improves  over past versions by increasing the focus on what is needed to recover Puget  Sound, based on an assessment of our <a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Vital Signs</a> and consultation with partners. </p>
-		<p>To  meet the challenges we face, the Action Agenda outlines approaches with  multiple benefits that help us make progress towards recovery goals. The Action Agenda incorporates human  wellbeing, tribal nations' treaty rights, environmental justice, and climate  justice. It identifies ways to avoid the worst effects of climate change and  focuses on the importance of everyone benefiting from recovery.</p>
-	
-		<p>The Action Agenda: </p>
-		<ul class="bullet-size-fix">
-			<li><strong>Charts the course</strong> – The Action Agenda charts the course to science-based  recovery, telling us the actions we need to take now to achieve our long-term  targets in coming decades. </li>
-		</ul>
-		<ul type="disc" class="bullet-size-fix">
-			<li><strong>Guides funding</strong> – The Action Agenda guides funding  for Puget Sound recovery. It guides the ranking of state budget proposals related to Puget Sound, serves as the funding authority for the federal Clean Water Act&rsquo;s National Estuary Program (NEP) investments, and provides guidance to align a broad array of other restoration and infrastructure investments. </li>
-			<li><strong>Ensures accountability</strong>– The Action Agenda describes what we must achieve, how we will achieve it, and how we will hold ourselves accountable to ensure that progress is made.&nbsp; </li>
-		</ul>
-		<p>The  Action Agenda consists of:</p>
-		<ul class="bullet-size-fix">
-			<li><strong>The Comprehensive Plan</strong>, which charts the course  for long-term Puget Sound recovery and describes how the broader recovery system  and framework functions. The Comprehensive Plan summarizes the risks of Puget  Sound, articulates our recovery vision, and provides the framework to work  towards that vision.</li>
-			<li><strong>The Implementation Plan</strong>, which is the action component of the Action Agenda, provides the shared focus and implementation  guidance for recovery over the next four years. Organized by strategies, it  describes how we will make progress toward the Action Agenda desired outcomes,  the Puget Sound Vital Signs, and statutory recovery goals. The Implementation  Plan is the product of the collective recovery community effort to focus on the  most important actions to achieve the desired outcomes.</li>
-		</ul>
-		<h2>2022-2026  Action Agenda Update Process </h2>
-		<p>The  Action Agenda represents the collective work of federal, tribal, state, local,  nongovernmental, and private organizations to recover Puget Sound. Hundreds of partners from  across Puget Sound invested their leadership and resources to create a bold and  effective 2022-2026 Action Agenda to accelerate Puget Sound recovery. Partners  participated in every phase of the Action Agenda update process, detailed in  the Action Agenda development summary (link coming soon)  and described below. <br>
-			<!-- GRAPHIC GOES HERE [timeline graphic  with key milestones?] -->
-		<p>The Action Agenda update began in 2020 and included five  phases. For the first phase, the Leadership Council—the governing body of the  Partnership—approved <a href="https://pspwa.box.com/s/gsf2xgrqaxbmnq7zdummw5dft9otjbhn">a concept and vision</a> for  the 2022-2026 Action Agenda in June 2020.</p> 
-		<p>	In phase 2, a  set of <a href="https://pspwa.box.com/s/5removv1htkz3tu42gkit2d56vd4ohbs">desired  outcomes</a> was identified, which the Leadership  Council approved in April 2021. Desired outcomes describe <em>what </em>we as the  recovery community intend to accomplish and guided the identification  of strategies and actions needed to make progress toward <a href="https://psp.wa.gov/puget-sound-recovery.php">Puget Sound recovery  goals </a>and <a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Vital Signs</a>. Desired outcomes also helped us identify an initial  set of progress measures to track, report on, and ensure accountability.</p>
-		<p>	In  phase 3, the Partnership worked with partners  to identify strategies that help advance progress toward <a href="https://pspwa.box.com/s/5removv1htkz3tu42gkit2d56vd4ohbs">desired outcomes</a>, <a href="https://vitalsigns.pugetsoundinfo.wa.gov/">Vital Signs</a>, and overall recovery. Where  desired outcomes describe <em>what </em>we intend to accomplish, the strategies  and actions describe <em>how </em>to best achieve those outcomes. Each strategy  is expected to advance one or more desired outcomes by addressing the  underlying conditions that give rise to sources of stress on the ecosystem, or  by enhancing capacity to address a stressor. Learn more about <a href="https://pspwa.box.com/s/jfgxn9nfnpegh5guv2kwbqup2y0k5p8r">strategies</a>.</p>
-		<p>	The  phase 4 process focused on co-generation of actions. These actions describe the  activities that will be a shared focus for implementing 	each strategy from  2022-2026. Actions will guide partner implementation and innovation. They will  also inform the focus of public and private funding and implementation support  by the boards and regional partners. <!-- NOT SURE WHAT THIS IS [Add example action table, as detailed on <a href="https://psp.wa.gov/identifying-actions.php">Identifying Actions for Puget Sound Recovery (wa.gov)</a>?].--> We  identified actions through public workshops in 2021 and utilized <a href="https://psp.wa.gov/implementation-strategies.php">Implementation Strategies,</a> other existing plans, and the approved desired outcomes and strategies. This  phase concluded with the development and review of the draft Action Agenda. <br></p>
-		<p>	In March 2022, the Leadership Council approved a draft  2022-2026 Action Agenda for public review, initiating phase 5. The Partnership  revised the draft Action Agenda in response to over 500 comments received  during the public review period. Public comments and responses are detailed in  the <a href="https://pspwa.box.com/shared/static/r5rcum8eoh2ksxjdsy32fvalw33jhx6a.xlsx">Public Comment  Summary</a>.</p>
-		<p>The Partnership will conduct an after-action review of the  2022-2026 Action Agenda in the coming year. The goal of after-action review is  to seek feedback on the 2022-2026 Action Agenda and update process. This will help  inform the collective approach and process to updating the 2026-2030 Action Agenda. </p>
+		<h2 class="margin-0-top">What is the Action Agenda?</h2>
+			<a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya" target="new"><img class="floatright" src="images/AA2026-30cover.png" width="288" height="370" alt="A screenshot of the Action Agenda front cover. A mountain and trees is surrounded by water and framed by a blue and orange box."/></a>
+		<p>The Action Agenda is our region&rsquo;s shared plan for protecting  and <a href="https://psp.wa.gov/puget-sound-recovery.php" target="new">restoring the Puget  Sound ecosystem</a>. It identifies the most urgent threats to our waters,  lands, and communities, and outlines the strategies and actions needed to  address them. </p>
+		<p> Hundreds of partners, including federal, Tribal, state and  local governments, nonprofits, universities, and businesses use the Action  Agenda to guide funding, policy, research, and restoration efforts across the  region. </p>
+		<p>The Action Agenda is also the Puget Sound&rsquo;s  Comprehensive Conservation Management Plan (CCMP) and fulfills <a href="https://psp.wa.gov/NEP-overview.php" target="new">our statutory mandate</a> and  purpose of the <a href="https://www.epa.gov/nep" target="new">Environmental Protection  Agency&rsquo;s (EPA) National Estuary Program (NEP)</a>.
+		<!-- LAST UPDATED -->		</p>
+		<h2>Why do we need the Action Agenda? </h2>
+        <p>Puget Sound is the second largest estuary in the United  States and is home to over 5 million people with their own needs and  priorities. The region also includes thousands of other species and plants, living  alongside marine waters, wetlands, cities, rivers, farmlands, forests, and  mountains. </p>
+        <p> Over the last 200 years, the Puget Sound ecosystem has been  significantly altered by development, pollution, degraded habitat, and other  pressures. Despite decades of recovery efforts, progress has been unable to  keep up with these challenges. </p>
+        <p> Puget Sound recovery is a long-term effort that must balance  the needs of each person, species, and ecosystem to create a healthy and  thriving home for current and future generations.  </p>
+        <p> In 2007, the Washington State Legislature created the Puget  Sound Partnership to lead the effort recover Puget Sound through a strategic  and science-based Action Agenda &ldquo;that addresses all of the complex connections  among the land, water, web of species, and human needs.&rdquo; (<a href="https://app.leg.wa.gov/rcw/default.aspx?cite=90.71.200" target="new">RCW 90.71.200</a>).</p>
+        <p> The Action Agenda is our shared roadmap for recovery. It  includes a vision of a healthy and resilient Puget Sound, the actions needed to  get there, and how we&rsquo;ll measure our progress. It also helps our partners  prioritize and focus on the recovery projects that will have the biggest  impact. </p>
+        <h2>How is the Action Agenda used? </h2>
+        <h3>Strategies and Actions</h3>
+        <p>The Action Agenda identifies the region's highest priorities  for protecting and restoring Puget Sound. It organizes these priorities through <strong>Strategies and Actions</strong>, which describe what needs to happen to achieve  our <a href="https://pspwa.box.com/s/5removv1htkz3tu42gkit2d56vd4ohbs" target="new">desired  outcomes</a>. </p>
+        <p> You can learn more about the Action Agenda&rsquo;s strategies and  desired outcomes in our <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">Action  Agenda Explorer</a>.  </p>
+        <h3>Commitments </h3>
+<p>Our recovery partners support the Action Agenda  by making <strong>Commitments</strong>. These are the projects and activities used to  help carry out one or more Actions. We track these Commitments in the Puget Sound  Implementation Plan and  update their status at the start of each state biennium.</p>
+<h3>Measuring Progress</h3>
+<p>We also measure progress in two ways: </p>
+<ul class="bullet-size-fix">
+  <li><a href="https://pspwa.box.com/s/o23f9meiyo2qeyn8777r8ownzj79k0zc" target="new"><strong>Progress  Indicators</strong></a> track whether the Strategies and Actions are being  implemented and whether they are reducing pressures on the ecosystem. </li>
+  <li><a href="https://vitalsigns.pugetsoundinfo.wa.gov/" target="new"><strong>Vital Signs</strong></a> measure  the overall health of the Puget Sound ecosystem over time. As the Progress  Indicators improve, we expect to see positive changes in the Vital Signs. </li>
+</ul>
+<p><img src="/images/Action-agenda-example-target.jpg" width="946" height="259"></p>
+<p>Together, these help us understand what&rsquo;s working, what  needs to be improved, and how our recovery efforts are progressing. </p>
+<h2>How is the Action Agenda developed and  updated? </h2>
+<p>The Action Agenda is developed through collaboration with  federal, Tribal, state, and local governments, and private organizations. We review  and update the Action Agenda periodically to make sure we are still focused on  the most pressing recovery priorities. <br>
+  During the development of the 2026-2023 Action Agenda, we: </p>
+<ul class="bullet-size-fix">
+  <li>Consulted with each of the 19 federally  recognized Tribal governments in the Puget Sound region throughout the update  process. </li>
+  <li>Hosted workshops with subject matter experts  from across the region to review and improve the Strategies and Actions. </li>
+  <li>Worked with community-based organizations  through interviews and workshops to help us better reflect community priorities  in the Strategies and Actions. </li>
+  <li>Aligned the Action Agenda with Local Actions  Plans created by the ten <a href="https://psp.wa.gov/LIO-overview.php" target="new">Local Integrating Organizations</a>. </li>
+  <li>Invited feedback on the first and second drafts  from the recovery community and the public during two public comment periods.</li>
+  <li>Coordinated with the EPA to meet NEP  requirements.</li>
+  <li>Worked with all four of our <a href="https://psp.wa.gov/partnership-boards-overview.php" target="new">boards</a> throughout  the process to ensure the Action Agenda was guided by science, aligned with  salmon recovery efforts, and supported our partners&rsquo; recovery efforts. </li>
+</ul>
+<h2>Can I be involved in the process</h2>
+<p>Yes! If you or your organization would like to  participate in implementing or updating the Action Agenda<a href="https://public.govdelivery.com/accounts/WAPSP/signup/49091" target="new">, sign up to  the Puget Sound Partnership newsletter to stay up to date and learn more</a>.</p>
+<p>&nbsp;</p>
 			
 			
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 12/02/25</p>
+		<p class="last-update">Last updated: 05/08/25</p>
 
         <!-- InstanceEndEditable --> </div>
 		
@@ -183,8 +145,9 @@ navSelected = 4;
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
-				<li class="active" role="presentation"><a href="https://pspwa.box.com/s/ck3b5pdx2vj4dmlfgqkynvnlafoet1k0" target="new">View our 2022-2026 Action Agenda overview presentation</a></li>
-				<li><a href="https://pspwa.box.com/shared/static/adopaw136pastn603ojfzc046k9iza5b.xlsx">Download an Excel table of 2022-2026 Action Agenda strategies, actions, key opportunities, and implementation considerations</a></li>
+				<li><a href="https://pspwa.box.com/s/rycymd6097nx2u0z5my1wg5w4ufrcqlw">Jan.  15 Lunch &amp; Learn: 26-30 Action Agenda update overview recording</a></li>
+				<li><a href="https://pspwa.box.com/s/2u8djhjls0ys2b3uxdmdj3h8spq92s9i" target="_blank">2026-30 Action Agenda Factsheet</a></li>
+				<li><a href="https://pspwa.box.com/s/lmcobgdmya9a7dusrdelbrl7ak1w22w6" target="_blank">Evaluate and Learn Workshop</a></li>
 				<li><a href="http://www.psp.wa.gov/implementation-strategies.php">Implementation Strategies</a></li>
 				<li><a href="https://pspwa.box.com/s/qwqatl3l3zi4x3ncchizy68auca9xcte">Tribal Habitat Priorities</a></li>
 				<li><a href="https://nwtreatytribes.org/habitatstrategy/" target="_blank"><em>gw∂dzadad &ldquo;Teaching of Our Ancestors&rdquo;, Tribal Habitat Strategy</em></a></li>
