@@ -88,7 +88,7 @@ navSelected = 1;
 		</div>
 			
 		<h2 class="margin-0-top">What is the Action Agenda?</h2>
-			<a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya" target="new"><img class="floatright" src="images/AA2026-30cover.png" width="288" height="370" alt="A screenshot of the Action Agenda front cover. A mountain and trees is surrounded by water and framed by a blue and orange box."/></a>
+		<a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya" target="new"><img class="floatright" src="images/AA2026-30cover.png" width="288" height="370" alt="A screenshot of the Action Agenda front cover. A mountain and trees is surrounded by water and framed by a blue and orange box."/></a>
 		<p>The Action Agenda is our region&rsquo;s shared plan for protecting  and <a href="https://psp.wa.gov/puget-sound-recovery.php" target="new">restoring the Puget  Sound ecosystem</a>. It identifies the most urgent threats to our waters,  lands, and communities, and outlines the strategies and actions needed to  address them. </p>
 		<p> Hundreds of partners, including federal, Tribal, state and  local governments, nonprofits, universities, and businesses use the Action  Agenda to guide funding, policy, research, and restoration efforts across the  region. </p>
 		<p>The Action Agenda is also the Puget Sound&rsquo;s  Comprehensive Conservation Management Plan (CCMP) and fulfills <a href="https://psp.wa.gov/NEP-overview.php" target="new">our statutory mandate</a> and  purpose of the <a href="https://www.epa.gov/nep" target="new">Environmental Protection  Agency&rsquo;s (EPA) National Estuary Program (NEP)</a>.
@@ -125,8 +125,8 @@ navSelected = 1;
   <li>Coordinated with the EPA to meet NEP  requirements.</li>
   <li>Worked with all four of our <a href="https://psp.wa.gov/partnership-boards-overview.php" target="new">boards</a> throughout  the process to ensure the Action Agenda was guided by science, aligned with  salmon recovery efforts, and supported our partners&rsquo; recovery efforts. </li>
 </ul>
-<h2>Can I be involved in the process</h2>
-<p>Yes! If you or your organization would like to  participate in implementing or updating the Action Agenda<a href="https://public.govdelivery.com/accounts/WAPSP/signup/49091" target="new">, sign up to  the Puget Sound Partnership newsletter to stay up to date and learn more</a></p>
+<h2>Stay updated</h2>
+<p>To stay updated on the work to implement the Action Agenda,<a href="https://public.govdelivery.com/accounts/WAPSP/signup/49091" target="new"> sign up to  the Puget Sound Partnership newsletter.</a></p>
 
 
 <p>&nbsp;</p>
