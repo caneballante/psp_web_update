@@ -77,9 +77,12 @@
 		
 		<h2 class="margin-0-top">Project Origins</h2>
 			<p>In 2018, our Leadership Council adopted <a href="https://pspwa.box.com/s/2d7y0i1qk5a4rce6jcv5s143c16oyy7p" target="new">Beyond 2020 Resolution</a> which described our goals for Puget Sound recovery and made a call to action. The  resolution challenged the Puget Sound recovery community to pursue ambitious solutions,  secure funding, seek supportive legislation, and stay accountable for  implementing all actions needed to make Puget Sound resilient.</p>
-			<p> <em>We have made  progress, but our efforts have not been at a scale or pace sufficient to  restore Puget Sound to health…This is our moment to define what our future can  look like, and to fight to make it a reality…</em><br>
-            <em>Our vision includes a resilient  ecosystem…a thriving economy, sustainable farms and forests, and human  communities with high quality of life…Most importantly, our vision includes a  broad community of engaged citizens who commit to save Puget Sound.</em></p>
-			<p><em>We issue this call to action to everyone  connected to Puget Sound: Join us in protecting habitat, recovering iconic  species, and ensuring that our lands and waters sustain generations to come.&rdquo;</em></p>
+			<blockquote> We have made  progress, but our efforts have not been at a scale or pace sufficient to  restore Puget Sound to health…This is our moment to define what our future can  look like, and to fight to make it a reality…<br>
+            Our vision includes a resilient  ecosystem…a thriving economy, sustainable farms and forests, and human  communities with high quality of life…Most importantly, our vision includes a  broad community of engaged citizens who commit to save Puget Sound.
+            </p>
+			<br>
+			
+			We issue this call to action to everyone  connected to Puget Sound: Join us in protecting habitat, recovering iconic  species, and ensuring that our lands and waters sustain generations to come.&rdquo;</em></blockquote>
 			<p>			Excerpted from the 2018 Action Agenda for Puget Sound and  the our Leadership Council&rsquo;s Call to Action.</p>
 			<p> The Puget Sound Future Scenarios project (Future Scenarios) grew  from our Leadership Council&rsquo;s vision and call to action. Achieving the goals of  the Beyond 2020 Resolution means planning for a future in a region that is  changing in significant ways, some of which we understand and can predict, while  others are uncertain. <br>
 			In 2020-21, after consulting with the Science Panel, we launched  Future Scenarios to:</p>
