@@ -130,8 +130,8 @@ a {
 }
 /*adds external link icon*/
 a[href^="http"] {
-	background: url(../images/external_link_icon.gif) left no-repeat;
-	padding-left: 20px;
+	background: url(../images/external_link_icon.gif) right no-repeat;
+	padding-right: 20px;
 }
 
 /*added as a way to remove the icon in special cases. Used on the social icons*/
