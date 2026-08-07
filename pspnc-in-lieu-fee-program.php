@@ -148,11 +148,11 @@
 			<p>No. &ldquo;Running out of credits&rdquo; would mean that there are no  more opportunities to restore the nearshore habitat of Puget Sound. Unfortunately,  the significantly degraded state of nearshore habitat in Puget Sound  necessarily means that we remain very, very far from exhausting all  opportunities for restoration (and running out of all opportunities to generate  conservation credits).			</p>
 			<h3>Are there other credit providers besides the Partnership?</h3>
 			
-			<p>Yes, the <a href="https://www.wildlandsinc.com/banks/blue-heron-slough-conservation-bank-salm/" target="new">Blue Heron Slough Conservation Bank,</a> the <a href="https://hccc.wa.gov/mitigation/" target="new">Hood Canal In-Lieu Fee Program,</a> and the <a href="https://www.portoftacoma.com/news/port-receives-approval-first-environmental-mitigation-bank" target="new">Port of Tacoma</a> all offer conservation credits for sale to impacting projects that fall within their service areas.</p>
+			<p>Yes, the <a href="https://res.us/projects/blue-heron-slough-conservation-bank/" target="new">Blue Heron Slough Conservation Bank,</a> the <a href="https://hccc.wa.gov/mitigation/" target="new">Hood Canal In-Lieu Fee Program,</a> and the <a href="https://www.portoftacoma.com/news/port-receives-approval-first-environmental-mitigation-bank" target="new">Port of Tacoma</a> all offer conservation credits for sale to impacting projects that fall within their service areas.</p>
 			
 			<p>Additionally, federal permit applicants may generate their own conservation (onsite or offsite) with approval from NOAA Fisheries and the U.S. Fish and Wildlife Service.</p><br>
 			
-			<p class="last-update">Last updated: 11/12/25</p><br>
+			<p class="last-update">Last updated: 08/07/26</p><br>
 			<br>
 
 			<div id="sectionPager"></div><br>
