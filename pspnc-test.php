@@ -418,6 +418,10 @@
 			grid-template-columns: minmax(300px, 0.72fr) minmax(0, 1.55fr);
 		}
 
+		.explorer-shell[data-view="generated"] {
+			grid-template-columns: minmax(0, 1fr);
+		}
+
 		.map-region {
 			position: relative;
 			order: 0;
@@ -434,36 +438,6 @@
 			display: flex;
 			width: 100%;
 			height: 660px;
-		}
-
-		.map-key {
-			position: absolute;
-			z-index: 2;
-			right: 13.6px;
-			bottom: 28.8px;
-			max-width: min(320px, calc(100% - 27.2px));
-			padding: 11.52px 13.12px;
-			border: 1px solid rgba(16, 61, 92, 0.22);
-			border-radius: 9px;
-			background: rgba(255, 255, 255, 0.9);
-			box-shadow: 0 5px 20px rgba(16, 61, 92, 0.15);
-			font-size: 13.12px;
-			pointer-events: none;
-		}
-
-		.map-key strong {
-			display: block;
-			margin-bottom: 3.2px;
-			color: var(--psp-navy);
-		}
-
-		.map-key p {
-			margin: 0;
-			color: var(--muted);
-		}
-
-		.explorer-shell[data-view="sold"] .map-key {
-			display: none;
 		}
 
 		.side-panel {
@@ -483,6 +457,13 @@
 			border-right: 1px solid var(--border);
 		}
 
+		.explorer-shell[data-view="generated"] .project-panel {
+			max-height: none;
+			overflow-y: visible;
+			border-top: 1px solid var(--border);
+			border-left: 0;
+		}
+
 		.panel-toolbar {
 			position: sticky;
 			z-index: 3;
@@ -499,6 +480,10 @@
 
 		.panel-toolbar strong {
 			color: var(--psp-navy);
+		}
+
+		.explorer-shell[data-view="generated"] .panel-toolbar {
+			position: static;
 		}
 
 		.secondary-button {
@@ -788,6 +773,49 @@
 			padding-left: 19.2px;
 		}
 
+		@container nearshore-dashboard (min-width: 760px) {
+			.detail-content:has(.photo-frame) {
+				display: grid;
+				grid-template-columns: minmax(0, 1.15fr) minmax(320px, 0.85fr);
+				grid-template-areas:
+					"photo badge"
+					"photo title"
+					"photo metrics"
+					"photo subheading"
+					"photo description";
+				column-gap: 24px;
+				align-items: start;
+			}
+
+			.detail-content:has(.photo-frame) .selection-type {
+				grid-area: badge;
+				justify-self: start;
+			}
+
+			.detail-content:has(.photo-frame) h3 {
+				grid-area: title;
+			}
+
+			.detail-content:has(.photo-frame) .photo-frame {
+				grid-area: photo;
+				margin: 0;
+			}
+
+			.detail-content:has(.photo-frame) .metric-grid {
+				grid-area: metrics;
+				margin-bottom: 0;
+			}
+
+			.detail-content:has(.photo-frame) h4 {
+				grid-area: subheading;
+			}
+
+			.detail-content:has(.photo-frame) > p {
+				grid-area: description;
+				margin-bottom: 0;
+			}
+		}
+
 		@container nearshore-dashboard (max-width: 940px) {
 			.explorer-shell,
 			.explorer-shell[data-view="sold"] {
@@ -875,10 +903,6 @@
 			.map-region,
 			#nearshoreMap {
 				height: 460px;
-			}
-
-			.map-key {
-				display: none;
 			}
 
 			.metric-grid,
@@ -1045,10 +1069,6 @@
 					id="nearshoreMap"
 					aria-label="Interactive map of Nearshore marine service areas and completed projects"
 				></div>
-				<div class="map-key" aria-hidden="true">
-					<strong id="mapKeyHeading">Map and project cards stay in sync</strong>
-					<p id="mapKeyText">Select either one to see the same photo and project details.</p>
-				</div>
 			</section>
 
 			<aside id="projectPanel" class="side-panel project-panel" aria-label="Selected project details">
@@ -1190,8 +1210,6 @@
 		const summaryDescription = document.getElementById("summaryDescription");
 		const summaryValue = document.getElementById("summaryValue");
 		const summaryLabel = document.getElementById("summaryLabel");
-		const mapKeyHeading = document.getElementById("mapKeyHeading");
-		const mapKeyText = document.getElementById("mapKeyText");
 		const projectPanel = document.getElementById("projectPanel");
 		const projectDetail = document.getElementById("projectDetail");
 		const projectBrowser = document.getElementById("projectBrowser");
@@ -1637,9 +1655,6 @@
 					"Select a project on the map or from the named project cards below.";
 				summaryValue.textContent = formatNumber(totalCredits(projects, "number_of_credits"));
 				summaryLabel.textContent = "Conservation credits generated";
-				mapKeyHeading.textContent = "Map and project cards stay in sync";
-				mapKeyText.textContent =
-					"Select either one to see the same photo and project details.";
 			} else {
 				const date = latestBasinDate();
 				summaryKicker.textContent = "Credits sold";
@@ -1649,9 +1664,6 @@
 					(date ? ". Data current as of " + formatDate(date) + "." : ".");
 				summaryValue.textContent = formatNumber(totalCredits(basins, "CreditsSold"));
 				summaryLabel.textContent = "Conservation credits sold";
-				mapKeyHeading.textContent = "Map and region cards stay in sync";
-				mapKeyText.textContent =
-					"Labels show live totals. Select a region to emphasize its boundary.";
 			}
 		}
 
