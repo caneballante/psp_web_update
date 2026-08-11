@@ -15,7 +15,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Puget Sound Marine Waters 2024 Overview</title>
+<title>Puget Sound Marine Waters 2025 Overview</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1 class="grey">PUGET SOUND MARINE WATERS 2024 OVERVIEW			</h1>
+			<h1 class="grey">PUGET SOUND MARINE WATERS 2025 OVERVIEW			</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -76,19 +76,21 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
 <span class="floatright padding-20-left no-icon">
-	<p><a href="https://pspwa.box.com/s/7ye4t366v5uzil8zybrqtyx11qd32779" target="new"><img src="images/psmarinewaterscover24.png"  alt="Cover image from the 2024 Puget Sound Marine Waters Overview, showing Puget Sound water framed a rocky beach and green hills" width="400" height="309"/></a><br>
-			<a href="https://pspwa.box.com/s/7ye4t366v5uzil8zybrqtyx11qd32779" target="new">Select here to download the <br>
-			Puget Sound Marine Waters 2024 Overview</a></p></span>
+	<p><a href="https://pspwa.box.com/s/7ye4t366v5uzil8zybrqtyx11qd32779" target="new"><img src="images/Marinewaters25cover.png"  alt="Cover image from the 2025 Puget Sound Marine Waters Overview, showing a rocky beach curving along a body of water and a forest" width="381" height="346"/></a><br>
+			<a href="https://pspwa.box.com/s/bs8s3po1y7wtlm2822c1tkmygfylhfit" target="new">Select here to download the <br>
+			Puget Sound Marine Waters 2025 Overview</a></p></span>
 			
-<p>This Marine Waters Overview provides a perspective of 2024 Puget Sound marine water quality and conditions and associated biota from comprehensive monitoring and observing programs.<br>
+<p>This Marine Waters Overview provides a perspective of 2025 Puget Sound marine water quality and conditions and associated biota from comprehensive monitoring and observing programs.<br>
 While the report focuses on the marine waters of greater Puget Sound, additional selected conditions are also included due to their influence on Puget Sound waters. These include large-scale climate indices and conditions along the Washington coast. </p>
 <p>It is important to document and understand regional drivers of variability and patterns on various timescales so that water quality data may be interpreted with these variations in mind, to better attribute human effects versus natural variations and change. </p>
-<p>This is the fourteenth annual report produced by the PSEMP Marine Waters Workgroup. </p>
+<p>This is the 15th annual report produced by the PSEMP Marine Waters Workgroup. </p>
 <p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">An archive of past Puget Sound Marine Waters reports can be found here.</a></p>
+<p>&nbsp;</p>
+			<p class="last-update">Last updated: 08/11/26</p>
 
 			
 			
-	  <!-- InstanceEndEditable --> </div>
+	    <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
 	</div>

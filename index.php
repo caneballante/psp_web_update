@@ -157,7 +157,7 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						  <!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/WAstatelogo.png"  alt="Photo of the Washington State Capitol building"/> <strong>ANNOUNCEMENT</strong><br>
+						<img class="img-responsive img-rounded" src="images/mindy-oathofOffice-2.jpg"  alt="Photo of the Washington State Capitol building"/> <strong>ANNOUNCEMENT</strong><br>
 						<a href="https://governor.wa.gov/news/2026/governor-ferguson-appoints-mindy-roberts-serve-puget-sound-partnership-executive-director" target="new">Governor Ferguson appoints Mindy Roberts to serve as Puget Sound Partnership Executive Director</a><br>
 						<!--END news content BOX-->   
 					</div>
@@ -201,8 +201,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/2025_science_workplan.jpg"  alt="The Washington State flag."/> <strong>ANNOUNCEMENT</strong><br>
-						<a href="https://pspwa.box.com/s/px3jikktphwhphj7q1y41wqcpzib5jlc">Science Work Plan finalized and adopted (download PDF) </a><br>
+						<img class="img-responsive img-rounded" src="images/nooksackproject2024-lr_066.jpg"  alt="The Washington State flag."/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/2026/07/07/multi-benefit-investments-salmon-recovery-as-climate-resilience/" target="new">Multi-Benefit Investments: Salmon Recovery as Climate Resilience </a><br>
 						<!--END news content BOX-->  
 					</div>
 					<div class="clearfix"></div>
@@ -240,8 +240,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/salmon.jpg"  alt="salmon swimming together"/> <strong>RESEARCH</strong><br>
-						<a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1514508/full" target="new">Assessing the cumulative effects of nearshore habitat restoration actions for multiple populations of juvenile salmon in Whidbey Basin, Washington.</a><br>
+						<img src="images/Marinewaters25cover.png"  alt="salmon swimming together" width="229" height="207" class="img-responsive img-rounded"/> <strong>RESEARCH</strong><br>
+						<a href="/PSmarinewatersoverview.php">Puget Sound Marine Waters 2025 Overview</a><br>
 						<!--END news content BOX-->    
 					</div>
 					<div class="clearfix"></div>
@@ -253,8 +253,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/vs-salmon-Chinook_PNNL-crop.png"  alt="Chinook salmon moving through the water."/> <strong>SALMON RECOVERY HUB</strong><br>
-						<a href="https://pssalmonhub.wa.gov/">An interactive platform to centralize and share vital information about Chinook salmon recovery efforts in the Puget Sound.</a><br>
+						<img class="img-responsive img-rounded" src="images/271KitsapCounty.jpg"  alt="Chinook salmon moving through the water."/> <strong>MAKING WAVES</strong><br>
+						<a href="https://makingwaves.psp.wa.gov/2026/07/07/following-the-flow-mapping-the-road-to-cleaner-water/" target="new">Following the Flow: Mapping the Road to Cleaner Water</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>
