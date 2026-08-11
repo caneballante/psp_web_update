@@ -104,7 +104,7 @@ navSelected = 1;
         <p>The Action Agenda identifies the region's highest priorities  for protecting and restoring Puget Sound. It organizes these priorities through <strong>Strategies and Actions</strong>, which describe what needs to happen to achieve  our <a href="https://pspwa.box.com/s/5removv1htkz3tu42gkit2d56vd4ohbs" target="new">desired  outcomes</a>. </p>
         <p> You can learn more about the Action Agenda&rsquo;s strategies and  desired outcomes in our <a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="new">Action  Agenda Explorer</a>.  </p>
         <h3>Commitments </h3>
-<p>Our recovery partners support the Action Agenda  by making <strong>Commitments</strong>. These are the projects and activities used to  help carry out one or more Actions. We track these Commitments in the Puget Sound  Implementation Plan and  update their status at the start of each state biennium.</p>
+<p>Our recovery partners support the Action Agenda  by making <strong>Commitments</strong>. These are the projects and activities used to  help carry out one or more Actions. We track these Commitments in the <a href="https://pspwa.box.com/s/131i7nk5r8blk7agmjsgig1q42zuy024" target="new">Puget Sound  Implementation Plan</a> and  update their status at the start of each state biennium.</p>
 <h3>Measuring Progress</h3>
 <p>We also measure progress in two ways: </p>
 <ul class="bullet-size-fix">
@@ -130,7 +130,7 @@ navSelected = 1;
 
 
 <p>&nbsp;</p>
-		<p class="last-update">Last updated: 08/06/26</p>
+		<p class="last-update">Last updated: 08/11/26</p>
 
         <!-- InstanceEndEditable --> </div>
 		
