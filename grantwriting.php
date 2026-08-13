@@ -91,7 +91,7 @@ navSelected = 5;
 <p>Our Grant Writer and Strategist can provide  Tribes, Local Integration Organizations (LIOs), Lead Entities (LEs), and local  partners with grant writing technical assistance and the capacity to prepare  their grant applications for submission. They can help develop grant proposals  to federal, state, and private funding agencies. The overall goal is to increase  the number of successful submissions for Tribal, local, and regional recovery  projects. </p>
 <p>Grant writing support is free for Tribes and  partners, and we do not take any of the award if you&rsquo;re successful.</p>
             <h2><strong>How do I request grant-writing assistance?</strong></h2>
-            <p>For technical  assistance and any questions, please contact our Grant Writer and Strategist, Michelle  Deckard at&nbsp;￼Michelle Deckard at <a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a> or by following this <a href="https://app.smartsheet.com/b/form/d835519e3c454ef286dbbdcdf9ae008b">link.</a>&nbsp;<br>
+            <p>For technical  assistance and any questions, please contact our Grant Writer and Strategist, Michelle  Deckard at&nbsp;￼Michelle Deckard at <a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a> or by following this <a href="https://app.smartsheet.com/b/form/019fb4ea5da97ea182815e322d05d697" target="new">link.</a>&nbsp;<br>
             </p>
             <h2><strong>What specific grant writing help do we provide? </strong></h2>
             <h3>What we can do:</h3>
@@ -112,7 +112,7 @@ navSelected = 5;
             </ul>
             <h2>What is the Grant-Writing Assistance Process?</h2>
             <h3>Getting Started</h3>
-            <p>First, you can request assistance by using our <a href="https://app.smartsheet.com/b/form/d835519e3c454ef286dbbdcdf9ae008b">intake  form</a>. To help us provide a more efficient  experience, please try to include as much information as possible.            </p>
+            <p>First, you can request assistance by using our <a href="https://app.smartsheet.com/b/form/019fb4ea5da97ea182815e322d05d697" target="new">intake  form</a>. To help us provide a more efficient  experience, please try to include as much information as possible.            </p>
             <h3>Review</h3>
             <p>We  will review your application within 48 hours. During this time, we will decide  if the request is eligible, and if we can help. After the review we will  contact you to set up a first meeting.            </p>
             <h3>First meeting</h3>
@@ -154,11 +154,11 @@ navSelected = 5;
             <h2>Post Assistance</h2>
             <p>To track and improve the effectiveness of our technical assistance, we ask that you keep us informed  by confirming you have submitted an  application and if it is successful. Other data on impact and success will  be explored on a case-by-case basis. We will contact you for this information.            </p>
             <h2>Contact</h2>
-<p>For more information or if you have any questions  about your inquiry, please contact our Grant Writer and Strategist, Michelle  Deckard at&nbsp;<a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a>. or follow this <a href="https://app.smartsheet.com/b/form/d835519e3c454ef286dbbdcdf9ae008b">link</a>.</P>
+<p>For more information or if you have any questions  about your inquiry, please contact our Grant Writer and Strategist, Michelle  Deckard at&nbsp;<a href="mailto:michelle.deckard@psp.wa.gov">michelle.deckard@psp.wa.gov</a>. or follow this <a href="https://app.smartsheet.com/b/form/019fb4ea5da97ea182815e322d05d697" target="new">link</a>.</P>
 <p>&nbsp;</p>
 			
 		<!-- LAST UPDATED -->
-		<p class="last-update">Last updated: 02/25/26</p>
+		<p class="last-update">Last updated: 08/13/26</p>
 
         <!-- InstanceEndEditable --> </div>
 		
