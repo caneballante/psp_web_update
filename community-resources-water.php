@@ -96,7 +96,7 @@ subNavSelected = 1;
             <p><strong>YMCA Earth Service Corps</strong></p>
         <ul class="bullet-size-fix">
               <li>Website<em>:</em> <a href="https://www.seattleymca.org/programs/youthprograms/earthservicecorps/about-us">About  Us | YMCA of Greater Seattle</a></li>
-              <li>Description<em>:</em> This YMCA program works with middle and high-school-aged youth in the greater Seattle area  to provide education, hands-on experience, and leadership training. Climate  justice and water quality is one of many topics that they focus on.</li>
+              <li>Description<em>:</em> This YMCA program partners with middle and high school-aged youth in the greater Seattle area to provide environmental education and leadership training through youth-led, hands-on stewardship projects. The program focuses on climate justice, water quality, waste streams, and food systems, among many other topics.</li>
               <li>Contact<em>: </em>Chelsey Wheeler,  Director, <a href="mailto:cwheeler@seattleymca.org">cwheeler@seattleymca.org</a></li>
               <ul>
                 <li>Notes<em>: </em>The council may be able to introduce  you to a contact here.</li>
@@ -105,7 +105,7 @@ subNavSelected = 1;
             <p><strong>Dirt Corps</strong></p>
         <ul class="bullet-size-fix">
               <li>Website<em>:</em> <a href="https://www.thedirtcorps.com/">Dirt Corps</a></li>
-              <li>Description<em>:</em> This organization operates in South Seattle and is focused on providing paid workforce development programs to youth and adults on topics including Green Infrastructure, Ecological Restoration, and Urban Forestry. They also host volunteer events, and provide professional crew services.</li>
+              <li>Description<em>:</em> This organization operates in South Seattle and is focused on providing paid workforce development programs to youth and adults on topics including green infrastructure, ecological restoration, and urban forestry. They also host volunteer events, and provide professional crew services.</li>
               <li>Contact<em>: </em> Anna Steltenkamp, Outreach &amp; Engagement Manager, <a href="mailto:community@thedirtcorps.com">community@thedirtcorps.com</a></li>
               <ul>
                 <li>Notes<em>: </em>The council may be able to introduce  you to a contact here.<br>
@@ -121,24 +121,24 @@ subNavSelected = 1;
             <li>Notes<em>: </em>The council may be able to introduce  you to a contact here.            </li>
           </ul>
             </ul>
-            <p><strong>Pierce County &lsquo;s Environmental Education Team            </strong></p>
+            <p><strong>Pierce County &lsquo;s Environmental Education Program            </strong></p>
             <ul class="bullet-size-fix">
               <li>Website<em>: </em><a href="https://www.piercecountywa.gov/1555/Environmental-Education">Environmental  Education | Pierce County, WA - Official Website</a></li>
-              <li>Description<em>: </em>This team provides  free/low-cost classes around environmental topics in schools and supports youth programming and networking opportunities focused on climate  justice and other topics. They also have specific initiative work focused on  topics like food waste, rain gardens, and more. Their <a href="https://www.piercecountywa.gov/1586/Earth-Matters-Newsletter">Earth  Matters Newsletter</a> is also a great resource to learn new tools and tips for  the waste reduction and recycling.</li>
+              <li>Description<em>: </em>This program provides  free sustainability-focused classes to the community, supports environmental education for K-12 students and teachers, and offers youth programming and networking opportunities. Educational areas include food waste, gardening, and composting, waste reduction and recycling, and more. Their <a href="https://www.piercecountywa.gov/1586/Earth-Matters-Newsletter">Earth  Matters Newsletter</a> is also a great resource to learn new tools and tips for  the waste reduction and recycling.</li>
         </ul>
         <p><strong>Storming the Sound Conference</strong></p>
             <ul class="bullet-size-fix">
               <li>Website: <a href="https://www.pacname.org/regional-chapters/washington/storming-the-sound/">Storming  the Sound - Northwest Aquatic and Marine Educators</a></li>
               <li>Description: &ldquo;Storming  the Sound is a conference for environmental educators in the north Puget Sound  region, including the counties of Whatcom, Skagit, Snohomish, Island, Jefferson  and San Juan. Every January, teachers, environmental organizations and students  gather to share their interest and expertise in environmental education  (source: website home page). This event tackles climate justice, Puget Sound  issues, and more.&quot;           </li>
             </ul>
-            <p><strong>Education Partnerships subject matter expert group for the Action Agenda</strong></p>
+            <p><strong>Puget Sound Partnership's Education  subject matter expert group for the Action Agenda</strong></p>
         <ul class="bullet-size-fix">
-              <li>Description<em>: </em>A semi-official group  that is charged with implementing our Education Partnership's strategy for the <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a>.</li>
+              <li>Description<em>: </em>A semi-official group  that is charged with implementing the Puget Sound Partnership's Education  strategy for the <a href="https://www.psp.wa.gov/2022AAupdate.php">Action Agenda</a>.</li>
               <li>Contact<em>: </em>Contact Puget Sound  Partnership Staff (<a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>) for an introduction to the  group.</li>
             </ul>
 		<p><a href="#top">Return to top</a></p>
             <h2 id="section2" class="resource-section-anchor">Groups working to measure stormwater temperature (for the purpose of  combatting urban heat islands):        </h2>
-        <p><strong>Stormwater Characterization</strong></p>
+        <p><strong>Stormwater Action Monitoring (SAM) Stormwater Characterization</strong></p>
         <ul class="bullet-size-fix">
               <li>Website: <a href="https://ecology.wa.gov/regulations-permits/reporting-requirements/stormwater-monitoring/stormwater-action-monitoring/sam-effectiveness-studies/stormwater-characterization">Characterization of Stormwater Transport of Contaminants of Emerging Concern</a></li>
           <li>Description: Led by the City of Tacoma, collaborators across Western Washington are monitoring 16 sites to determine their differences according to their land uses (industrial, commercial, residential). Stormwater temperature is monitored continuously at each site. Additionally, stormwater and stormwater sediment samples are collected for analysis of several contaminants.        </li>

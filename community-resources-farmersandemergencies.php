@@ -97,7 +97,7 @@
         </ul>
         <p><a href="#top">Return to top</a></p>
         <h2 id="section2" class="resource-section-anchor">Resources for emergencies</h2>
-            <h3>WA Department of Health            </h3>
+            <h3>WA DEPARTMENT OF HEALTH            </h3>
             <p><strong>CDC safety in flood water resource website</strong></p>
         <ul class="bullet-size-fix">
               <li>Website: <a href="https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html">Safety  Guidelines: Floodwater | Floods | CDC</a></li>
@@ -114,7 +114,7 @@
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
         </p>
-			<p class="last-update">Last updated: 07/28/26</p>
+			<p class="last-update">Last updated: 08/17/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

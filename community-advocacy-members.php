@@ -82,19 +82,33 @@
 		<p>The CAC offers a space for us to come up with ideas, collaborate, and share decision-making with council members to achieve shared priorities. Members bring lived and professional expertise to the table as well as strong relationships to communities across Puget Sound, which is essential to help implement initiatives related to the Healthy Environments for All Act. Our hope is that one result of this work addresses the inequities of power in resources and decision-making. Find the biographies of some of our council members below.</p>
 		<h2>CAC members</h2>
 		<p><strong>Normae Mendoza</strong></p>
-		<p>Normae   is  dual citizen of the UK and USA and currently serves&nbsp;as First Lady of the  Filipino American Association of Kitsap County. Normae believes in supporting  marginalized communities and aims to provide outreach to different communities  through tapping into resources that can provide a fair distribution of wealth  and support amongst citizens that don&rsquo;t have the necessary means to gain  access.</p>
+		<table border="0">
+		  <tbody>
+		    <tr>
+		      <td width="234"><img src="/images/Normae1.png" width="217" height="284"></td>
+		      <td><p>Normae is a dual citizen of the UK and USA and currently serves&nbsp;as First Lady of the  Filipino American Association of Kitsap County. Normae believes in supporting  marginalized communities and aims to provide outreach to different communities  through tapping into resources that can provide a fair distribution of wealth  and support amongst citizens that don't have the necessary means to gain  access.</p></td>
+	        </tr>
+	      </tbody>
+	    </table>
 		<hr class="solid">
 		<p><strong>Mic</strong> </p>
 		<p>Mic is a Tacoma resident of 9 years who is  passionate about interconnected and interdependent local communities and non  car-centered infrastructure among other things. They are a new member of the  council as of August 2025 and are also connected with Tacoma Sharing Community,  Remakery, and Tacoma Tree Foundation. You can find them puttering in their  garden or riding their bright yellow e-bike around town.</p>
 		<hr class="solid">
 		<p><strong>Jewel  Shepherd-Sampson</strong> </p>
-		<p>Jewel is  a native of Bremerton. Early childhood accomplishments include starting The  Black Youth Organization under Blacks in Government, Founder of Bridge Builders  Multicultural Club at Marcus Whitman JH, President at Marcus Whitman JH, and  BSU President at Bremerton High. These early achievements are listed because  young people need to know that they can make a positive impact on the world  while young. Some current organizations include: Elected State Rep 26th  Legislative District, Precinct Committee Officer, Equity Board for Puget Sound  Regional Council and several other board positions. Jewel is the Founder and  Director of Kitsap Black Student Union.</p>
-        <h2>Contact us</h2>
+		<table border="0">
+		  <tbody>
+		    <tr>
+		      <td width="225"><img src="/images/Jewel3.png" width="202" height="233"></td>
+		      <td><p>Jewel is  a native of Bremerton. Early childhood accomplishments include starting The  Black Youth Organization under Blacks in Government, Founder of Bridge Builders  Multicultural Club at Marcus Whitman JH, President at Marcus Whitman JH, and  BSU President at Bremerton High. These early achievements are listed because  young people need to know that they can make a positive impact on the world  while young. Some current organizations include: Elected State Rep 26th  Legislative District, Precinct Committee Officer, Equity Board for Puget Sound  Regional Council and several other board positions. Jewel is the Founder and  Director of Kitsap Black Student Union.</p></td>
+	        </tr>
+	      </tbody>
+	    </table>
+		<h2>Contact us</h2>
 			
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
         </p>
-			<p class="last-update">Last updated: 07/17/26</p>
+			<p class="last-update">Last updated: 08/17/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
