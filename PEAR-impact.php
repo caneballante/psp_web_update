@@ -95,10 +95,6 @@
                     <td width="164"><p>Lea Anne Burke</p></td>
                     <td width="499"><p>Director of Tribal Relations</p></td>
                 </tr>
-                <tr>
-                    <td><p>Denise Ross</p></td>
-                    <td><p>Workplace Culture and Development Manager</p></td>
-                </tr>
 				<tr>
                     <td><p>Bryan Gordon</p></td>
                     <td><p>Workplace Culture Specialist</p></td>
@@ -122,7 +118,7 @@
             </p>
 			<p> <a href="https://pspwa.box.com/s/hxfglg57ny33e9qfvc8u5malexh1vr9d" target="new">Open the video recording of our staff presentation from 8/18/2022 in a new tab.</a><br>
 		</p>
-			<p class="last-update">Last updated: 06/30/26</p>
+			<p class="last-update">Last updated: 08/19/26</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		

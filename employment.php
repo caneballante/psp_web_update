@@ -100,17 +100,17 @@
 			<h2>Employment opportunities	    </h2>
 			<p>Open employment opportunities for the Partnership are posted at <a href="https://www.careers.wa.gov/" target="new">careers.wa.gov</a>.</p>
 			<p><strong>Informational Interviews</strong><br>
-Students and anyone else&nbsp;interested in an informational  interview to gain more specific knowledge about a PSP career field&nbsp;are  encouraged to contact us at <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a>. </p>
+Students and anyone else&nbsp;interested in an informational  interview to gain more specific knowledge about a PSP career field&nbsp;are  encouraged to contact us at <a href="mailto:jennifer.carlson@psp.wa.gov">jennifer.carlson@psp.wa.gov</a>. </p>
             <p>We will connect you with an appropriate staff person or  manager.&nbsp;The informational interview may not necessarily be in person but  could be by phone, email or Teams.</p>
             <p><strong>Veterans Resource Centers&nbsp;</strong></p>
-        <ul type="disc">
-              <li><a href="https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.dva.wa.gov%2F&data=05%7C02%7Cian.mccabe%40psp.wa.gov%7C9beb8b1b04ec4664885a08dcec5a6f1b%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638645120356662120%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=j8l612RKQxu7NZY9ObFQOt57yJX7Nx7%2FJetlsaJu%2BG8%3D&reserved=0">Washington&nbsp;State       Department of Veterans Affairs</a></li>
-              <li><a href="https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.northwestmilitary.com%2Finstallations&data=05%7C02%7Cian.mccabe%40psp.wa.gov%7C9beb8b1b04ec4664885a08dcec5a6f1b%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C638645120356679732%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=FBxy1Via4eRVN%2FRiefsXSR1qjNN8OJtTBnS4o8%2FirnE%3D&reserved=0">Northwest       Military.com</a></li>
+        <ul class="bullet-size-fix">
+              <li><a href="https://dva.wa.gov/" target="new">Washington&nbsp;State Department of Veterans Affairs</a></li>
+              <li><a href="https://northwest-military.com/" target="new">Northwest Military.com</a></li>
             </ul>
         <p>Puget Sound Partnership is an Equal Opportunity  Employer and prohibits discrimination and harassment of any kind. We are  committed to providing equal employment opportunities in a fair and impartial  manner for all persons without regard to age, sex, marital status, sexual  orientation, gender identity, race, creed, color, national  origin,&nbsp;religion,&nbsp;genetic information, military status, or the  presence of any sensory, mental or physical disability or the use of a trained  dog guide or service animal by a person with a disability.
         </p>
         <p>&nbsp; </p>
-        <p class="last-update">Last updated: 12/3/2025</p>
+        <p class="last-update">Last updated: 08/19/2026</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -127,10 +127,10 @@ Students and anyone else&nbsp;interested in an informational  interview to gain 
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li>
-					<p>Denise Ross<br>
-					  <em>Workplace Culture and Development Manager</em><br />
-						360.819.0208 <br>
-					  <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p>
+					<p>Jennifer Carlson<br>
+					  <em>Agency Workplan and EPA Grant Manager</em><br />
+						360.819.0530 <br>
+					  <a href="mailto:jennifer.carlson@psp.wa.gov">jennifer.carlson@psp.wa.gov</a></p>
 				</li>
 				<!-- InstanceEndEditable -->
 			</ul>

@@ -85,8 +85,7 @@
 	Puget Sound Partnership<br>
 	PO Box 40900<br>
 	Olympia WA 98504-0900<br>
-	360.819.0208<br>
-	denise.ross@psp.wa.gov</p>
+	jennifer.carlson@psp.wa.gov</p>
 
 	<p>If you believe that you have been discriminated against with respect to a Puget Sound Partnership program or activity, you may contact the Workplace Culture and Development Manager identified above.
 	</p>
