@@ -270,9 +270,9 @@
 			360.819.0530 | <a href="mailto:jennifer.carlson@psp.wa.gov">jennifer.carlson@psp.wa.gov</a> </p>
 			<!--HUMAN RESOURCES PROGRAM-->
 			<h3 class="padding-10-top">WORKPLACE CULTURE</h3>
-			<h4>Denise Ross</h4>
+			<h4>VACANT</h4>
 			<p>Workplace Culture and Development Manager<br>
-			360.819.0208 | <a href="mailto:denise.ross@psp.wa.gov">denise.ross@psp.wa.gov</a></p>
+			</p>
 			<h4>Bryan Gordon</h4>
 			<p>Workplace Culture Specialist<br>
 			360.968.9924 | <a href="mailto:bryan.gordon@psp.wa.gov">bryan.gordon@psp.wa.gov</a></p>			
@@ -326,7 +326,7 @@
 			<p>IT Specialist<br />
 			360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 	</div>					
-	<p class="last-update">Last updated: 04/29/26</p>
+	<p class="last-update">Last updated: 08/19/26</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
