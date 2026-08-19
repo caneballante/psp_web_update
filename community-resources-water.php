@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-navSelected = 2;
+navSelected = 3;
 subNavSelected = 1;
 </script> 
 <!-- InstanceEndEditable -->
@@ -121,7 +121,7 @@ subNavSelected = 1;
             <li>Notes<em>: </em>The council may be able to introduce  you to a contact here.            </li>
           </ul>
             </ul>
-            <p><strong>Pierce County &lsquo;s Environmental Education Program            </strong></p>
+            <p><strong>Pierce County&lsquo;s Environmental Education Program            </strong></p>
             <ul class="bullet-size-fix">
               <li>Website<em>: </em><a href="https://www.piercecountywa.gov/1555/Environmental-Education">Environmental  Education | Pierce County, WA - Official Website</a></li>
               <li>Description<em>: </em>This program provides  free sustainability-focused classes to the community, supports environmental education for K-12 students and teachers, and offers youth programming and networking opportunities. Educational areas include food waste, gardening, and composting, waste reduction and recycling, and more. Their <a href="https://www.piercecountywa.gov/1586/Earth-Matters-Newsletter">Earth  Matters Newsletter</a> is also a great resource to learn new tools and tips for  the waste reduction and recycling.</li>

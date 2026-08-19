@@ -79,8 +79,8 @@
 			
 			
 			
-        <div class="floatright-block"><a href="https://www.pugetsoundinfo.wa.gov/#goals" target="new"><img src="images/Key Resources in Puget Sound Info.png"  height="300" alt=""/></a></div>
-			<p>On this page you'll find community engagement resources from our <a href="https://www.pugetsoundinfo.wa.gov/#goals" target="new">Puget  Sound Info site</a>.</p>
+        <p><a href="https://www.pugetsoundinfo.wa.gov/#goals" target="new"><img src="images/Key Resources in Puget Sound Info.png"  height="300" alt=""/></a></p>
+        <p>On this page you'll find community engagement resources from our <a href="https://www.pugetsoundinfo.wa.gov/#goals" target="new">Puget  Sound Info site</a>.</p>
       
             <h2>Healthy Water Quality Section</h2>
         <ul class="bullet-size-fix">

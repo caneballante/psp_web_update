@@ -35,7 +35,7 @@
 <!-- InstanceBeginEditable name="head" -->
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 3;
 	subNavSelected = 3;
 </script> 
 <!-- InstanceEndEditable -->
@@ -113,7 +113,7 @@
         <h4>RainWise Program</h4>
         <ul class="bullet-size-fix">
           <li>Website: <a href="https://SeattleRainWise.org">RainWise</a></li>
-          <li>Description: RainWise is a partnership program of King County Wastewater Treatment Division (WTD) and Seattle Public Utilities (SPU) that provides rebates for rain gardens and cisterns built on eligible properties within Seattle. RainWise keeps polluted water out of Seattle waterways by reducing combined sewer overflows. To be eligible for the RainWise rebate your property must be in a RainWise eligible area and be connected to the combined sewer system.<a href="https://SeattleRainWise.org">Find more information and check your eligibility.</a>. </li>
+          <li>Description: RainWise is a partnership program of King County Wastewater Treatment Division (WTD) and Seattle Public Utilities (SPU) that provides rebates for rain gardens and cisterns built on eligible properties within Seattle. RainWise keeps polluted water out of Seattle waterways by reducing combined sewer overflows. To be eligible for the RainWise rebate your property must be in a RainWise eligible area and be connected to the combined sewer system.<a href="https://SeattleRainWise.org"> Find more information and check your eligibility.</a>. </li>
         </ul>
         <h4>Trees for Neighborhoods</h4>
         <ul class="bullet-size-fix">
