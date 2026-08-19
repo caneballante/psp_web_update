@@ -81,7 +81,7 @@
 
 	<p>If you have any questions about this notice or any of the Puget Sound Partnership’s non-discrimination programs, policies or procedures, you may contact: </p>
 
-	<p>Denise Ross, Workplace Culture and Development Manager<br>
+	<p>Jennifer Carlson<br>
 	Puget Sound Partnership<br>
 	PO Box 40900<br>
 	Olympia WA 98504-0900<br>
