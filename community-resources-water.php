@@ -124,7 +124,7 @@ subNavSelected = 1;
             <p><strong>Pierce County&lsquo;s Environmental Education Program            </strong></p>
             <ul class="bullet-size-fix">
               <li>Website<em>: </em><a href="https://www.piercecountywa.gov/1555/Environmental-Education">Environmental  Education | Pierce County, WA - Official Website</a></li>
-              <li>Description<em>: </em>This program provides  free sustainability-focused classes to the community, supports environmental education for K-12 students and teachers, and offers youth programming and networking opportunities. Educational areas include food waste, gardening, and composting, waste reduction and recycling, and more. Their <a href="https://www.piercecountywa.gov/1586/Earth-Matters-Newsletter">Earth  Matters Newsletter</a> is also a great resource to learn new tools and tips for  the waste reduction and recycling.</li>
+              <li>Description<em>: </em>This program provides  free sustainability-focused classes to the community, supports environmental education for K-12 students and teachers, and offers youth programming and networking opportunities. Educational areas include food waste, gardening,  composting, outdoor education, waste reduction and recycling, and more. Their <a href="https://www.piercecountywa.gov/1586/Earth-Matters-Newsletter">Earth  Matters Newsletter</a> is also a great resource to learn new tools and tips for   waste reduction and recycling.</li>
         </ul>
         <p><strong>Storming the Sound Conference</strong></p>
             <ul class="bullet-size-fix">
