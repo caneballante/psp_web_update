@@ -105,44 +105,8 @@
 			
 			<h3>How were the service areas determined?</h3>
 				
-			<p>Mitigation is generally sited in close proximity to an impact. The goal is to place the mitigation in the same ecoregion as the impact or ensure that the same population that is impacted will benefit from the mitigation. This concept has been termed service area. The service area is the geographic area where mitigation can provide compensation to offset the functions lost through the impact. NOAA Fisheries determined the marine service areas based on <a href="https://www.fisheries.noaa.gov/resource/map/salmon-habitat-status-and-trend-monitoring-program-data" target="new">NOAA Salmon Habitat Status and Trends Monitoring Program (SHSTMP) Puget Sound Marine Basins</a>.</p>
-			
-			<h3>How many credits has the Partnership sold?</h3>
-			
-			<p>As of November 2025, we have sold approximately 6,000 conservation credits. The table below shows how many conservation credits we have sold in each marine service area:</p>
-			<table width="386" border="1">
-			  
-			  <tbody>
-			    <tr>
-			      <th width="207">Service area</th>
-			      <th width="163">Credits sold</th>
-		        </tr>
-			    <tr>
-			      <td>North Puget Sound</td>
-			      <td>2,842</td>
-		        </tr>
-			    <tr>
-			      <td>Strait of Juan de Fuca</td>
-			      <td>41</td>
-		        </tr>
-			    <tr>
-			      <td>Whidbey</td>
-			      <td>169</td>
-		        </tr>
-			    <tr>
-			      <td>Hood Canal</td>
-			      <td>1,136</td>
-		        </tr>
-			    <tr>
-			      <td>South Central Puget Sound</td>
-			      <td>1,740</td>
-		        </tr>
-		      </tbody>
-	    </table>
-			<p>&nbsp;</p>
-			
-			<img src="images/conservationcredits.png" class="img-responsive" width=60% alt="A map graphic that shows how many conservation credits the Partnership has sold in each marine service area. The Partnership has sold 2,842 credits in the North Puget Sound service area; 41 credits in the Strait of Juan de Fuca service area; 169 credits in the Whidbey service area; 1,136 credits in the Hood Canal service area; and 1,740 credits in the South Central Puget Sound service area."/><br>
-			
+			<p>Mitigation is generally sited in close proximity to an impact. The goal is to place the mitigation in the same ecoregion as the impact or ensure that the same population that is impacted will benefit from the mitigation. This concept has been termed service area. The service area is the geographic area where mitigation can provide compensation to offset the functions lost through the impact. NOAA Fisheries determined the marine service areas based on <a href="https://www.fisheries.noaa.gov/resource/map/salmon-habitat-status-and-trend-monitoring-program-data" target="new">NOAA Salmon Habitat Status and Trends Monitoring Program (SHSTMP) Puget Sound Marine Basins</a>.<br>
+			</p>
 			<h3>Will the Partnership run out of credits?</h3>
 			
 			<p>No. &ldquo;Running out of credits&rdquo; would mean that there are no  more opportunities to restore the nearshore habitat of Puget Sound. Unfortunately,  the significantly degraded state of nearshore habitat in Puget Sound  necessarily means that we remain very, very far from exhausting all  opportunities for restoration (and running out of all opportunities to generate  conservation credits).			</p>
@@ -152,7 +116,7 @@
 			
 			<p>Additionally, federal permit applicants may generate their own conservation (onsite or offsite) with approval from NOAA Fisheries and the U.S. Fish and Wildlife Service.</p><br>
 			
-			<p class="last-update">Last updated: 08/07/26</p><br>
+			<p class="last-update">Last updated: 09/08/26</p><br>
 			<br>
 
 			<div id="sectionPager"></div><br>
@@ -172,6 +136,8 @@
 				<li class="active" role="presentation"><a href="https://www.noaa.gov/news-release/army-and-noaa-to-advance-endangered-species-act-consultations" target="new">Army and NOAA to advance Endangered Species Act consulations</a></li>
 				<li class="active" role="presentation"><a href="https://medium.com/puget-sound-partnership/puget-sound-partnership-credits-will-fund-nearshore-conservation-398c573bea50" target ="_blank">Puget Sound Partnership credits will fund nearshore conservation</a></li>
 					<li class="active" role="presentation"><a href="https://wdfw.wa.gov/species-habitats/habitat-recovery/puget-sound/nearshore-program" target="new">Washington State Department of Fish and Wildlife Nearshore Program</a></li>
+				<li class="active" role="presentation"><a href="https://makingwaves.psp.wa.gov/2024/05/17/doubling-down-on-restoration/" target="new">Making Waves: Doubling down on restoration: How the Salish Sea Nearshore Programmatic and the Partnership’s Nearshore Credits Program drive restoration throughout Puget Sound</a></li>
+				<li class="active" role="presentation"><a href="https://youtu.be/rTRQENGYC88?si=lblEQsVk03NfpbAl" target="new">Leveraging the Law to Save Species video presentation - UW School of Aquatic and Fishery Sciences</a></li>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

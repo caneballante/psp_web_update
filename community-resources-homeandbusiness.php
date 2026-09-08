@@ -160,10 +160,22 @@
           </ul>
           <li><a href="https://www.mytpu.org/payment-billing/payment-information/payment-assistance/#pattern_1">Payment  Assistance - Tacoma Public Utilities</a></li>
           <ul class="bullet-size-fix">
-            <li>Qualified homeowners can receive payment  assistance with utility bills. Available in Spanish. </li>
+            <li>Qualified homeowners can receive payment  assistance with utility bills. Available in Spanish.        </li>
           </ul>
         </ul>
-		<p><a href="#top">Return to top</a></p>
+		<p><strong>Depave Puget Sound</strong></p>
+        <ul class="bullet-size-fix">
+          <li>Website: <a href="https://piercecd.org/246/Depave-Puget-Sound">Depave Puget Sound | Pierce  Conservation District, WA</a></li>
+          <li>Description:  A project to remove pavement in Tacoma. It aims to reduce water pollution and urban heat island effect by creating more green spaces. <a href="https://piercecd.org/246/Depave-Puget-Sound">Learn more</a>. </li>
+          <li>Contact: Sarah Pyle; (253) 278-6493, <a href="mailto:Sarahp@piercecd.org">Sarahp@piercecd.org</a></li>
+        </ul>
+        <p><strong>Green Stormwater Mini Grants</strong></p>
+        <ul class="bullet-size-fix">
+          <li><strong>Website</strong>: <a href="https://piercecd.org/629/Green-Stormwater-Mini-Grants" target="new">Green       Stormwater Mini Grants | Pierce Conservation District, WA</a></li>
+          <li><strong>Description</strong>: Pierce Conservation       District offers Green Stormwater Mini Grants annually to individuals,       businesses, and community groups in the Commencement Bay, Chambers Creek,       and Lower Puyallup River Watersheds. Get up to $4,000 for projects that       reduce polluted stormwater runoff entering our local waterbodies. Eligible       project types include rain gardens, large rain tanks, depaving, and       removing lawn to plant urban habitat.</li>
+          <li><strong>Contact</strong>:  Sarah Pyle; (253) 278-6493, <a href="mailto:Sarahp@piercecd.org">Sarahp@piercecd.org</a>		  </li>
+        </ul>
+        <p><a href="#top">Return to top</a></p>
         <h2 id="section3" class="resource-section-anchor">Sewer-related programs in Tacoma/Pierce County </h2>
         <p><strong>City of Tacoma Sewer Conservation Loan Program </strong></p>
         <ul class="bullet-size-fix">
@@ -173,13 +185,7 @@
         <p><strong>Pierce County Sewer Programs  and Financing</strong></p>
         <ul class="bullet-size-fix">
           <li>Website: <a href="https://www.piercecountywa.gov/7264/Sewer-Programs-and-Financing">Sewer Programs and  Financing | Pierce County, WA - Official Website</a></li>
-          <li>Description: Contains information about  financial help for homeowners who have a sewer in need of repair/replacement as  well as help for homeowners and businesses who are required to connect to sewer  systems. </li>
-        </ul>
-        <p><strong>Depave Puget Sound</strong></p>
-        <ul class="bullet-size-fix">
-          <li>Website: <a href="https://piercecd.org/246/Depave-Puget-Sound">Depave Puget Sound | Pierce  Conservation District, WA</a></li>
-          <li>Description:  A project to remove pavement in Pierce County. It aims to reduce water pollution and urban heat island effect by creating more green spaces. <a href="https://piercecd.org/246/Depave-Puget-Sound">Learn more</a>. </li>
-          <li>Contact: Sarah Pyle; (253) 278-6493, <a href="mailto:Sarahp@piercecd.org">Sarahp@piercecd.org</a></li>
+          <li>Description: Contains information about  financial help for homeowners who have a sewer in need of repair/replacement as  well as help for homeowners and businesses who are required to connect to sewer  systems.        </li>
         </ul>
         <p><strong>City of Tacoma Low Impact Development surface water rate reduction</strong></p>
         <ul class="bullet-size-fix">
@@ -269,7 +275,7 @@
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
         </p>
-			<p class="last-update">Last updated: 07/28/26</p>
+			<p class="last-update">Last updated: 09/08/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
