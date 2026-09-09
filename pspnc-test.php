@@ -419,7 +419,7 @@
 		}
 
 		.explorer-shell[data-view="generated"] {
-			grid-template-columns: minmax(0, 1fr);
+			grid-template-columns: minmax(0, 1.35fr) minmax(285px, 0.95fr);
 		}
 
 		.map-region {
@@ -460,8 +460,7 @@
 		.explorer-shell[data-view="generated"] .project-panel {
 			max-height: none;
 			overflow-y: visible;
-			border-top: 1px solid var(--border);
-			border-left: 0;
+			border-left: 1px solid var(--border);
 		}
 
 		.panel-toolbar {
@@ -484,6 +483,17 @@
 
 		.explorer-shell[data-view="generated"] .panel-toolbar {
 			position: static;
+			gap: 8px;
+			padding: 9px 11px;
+		}
+
+		.explorer-shell[data-view="generated"] .panel-toolbar strong {
+			font-size: 14px;
+		}
+
+		.explorer-shell[data-view="generated"] .secondary-button {
+			padding: 6px 8px;
+			font-size: 11.5px;
 		}
 
 		.secondary-button {
@@ -773,51 +783,74 @@
 			padding-left: 19.2px;
 		}
 
-		@container nearshore-dashboard (min-width: 760px) {
-			.detail-content:has(.photo-frame) {
-				display: grid;
-				grid-template-columns: minmax(0, 1.15fr) minmax(320px, 0.85fr);
-				grid-template-areas:
-					"photo badge"
-					"photo title"
-					"photo metrics"
-					"photo subheading"
-					"photo description";
-				column-gap: 24px;
-				align-items: start;
-			}
+		.explorer-shell[data-view="generated"] .map-region,
+		.explorer-shell[data-view="generated"] #nearshoreMap {
+			height: 100%;
+			min-height: 660px;
+		}
 
-			.detail-content:has(.photo-frame) .selection-type {
-				grid-area: badge;
-				justify-self: start;
-			}
+		.explorer-shell[data-view="generated"] .detail-content {
+			padding: 11px 12px 13px;
+		}
 
-			.detail-content:has(.photo-frame) h3 {
-				grid-area: title;
-			}
+		.explorer-shell[data-view="generated"] .selection-type {
+			margin-bottom: 6px;
+			padding: 3px 7px;
+			font-size: 10px;
+		}
 
-			.detail-content:has(.photo-frame) .photo-frame {
-				grid-area: photo;
-				margin: 0;
-			}
+		.explorer-shell[data-view="generated"] .detail-content h3 {
+			margin-bottom: 7px;
+			font-size: clamp(19px, 2.2vw, 23px);
+			line-height: 1.08;
+		}
 
-			.detail-content:has(.photo-frame) .metric-grid {
-				grid-area: metrics;
-				margin-bottom: 0;
-			}
+		.explorer-shell[data-view="generated"] .photo-frame {
+			margin: 9px 0;
+			border-radius: 7px;
+		}
 
-			.detail-content:has(.photo-frame) h4 {
-				grid-area: subheading;
-			}
+		.explorer-shell[data-view="generated"] .photo-frame img {
+			aspect-ratio: 16 / 7;
+		}
 
-			.detail-content:has(.photo-frame) > p {
-				grid-area: description;
-				margin-bottom: 0;
-			}
+		.explorer-shell[data-view="generated"] .photo-frame figcaption {
+			display: none;
+		}
+
+		.explorer-shell[data-view="generated"] .metric-grid {
+			gap: 6px;
+			margin: 9px 0;
+		}
+
+		.explorer-shell[data-view="generated"] .metric {
+			padding: 7px 8px;
+			border-top-width: 3px;
+			border-radius: 6px;
+		}
+
+		.explorer-shell[data-view="generated"] .metric-label {
+			font-size: 9px;
+			line-height: 1.2;
+		}
+
+		.explorer-shell[data-view="generated"] .metric-value {
+			font-size: 12.5px;
+			line-height: 1.2;
+		}
+
+		.explorer-shell[data-view="generated"] .detail-content h4 {
+			margin: 11px 0 4px;
+			font-size: 14px;
+		}
+
+		.explorer-shell[data-view="generated"] .detail-content p {
+			margin: 0;
+			font-size: 12.5px;
+			line-height: 1.38;
 		}
 
 		@container nearshore-dashboard (max-width: 940px) {
-			.explorer-shell,
 			.explorer-shell[data-view="sold"] {
 				grid-template-columns: 1fr;
 			}
@@ -829,11 +862,6 @@
 
 			.side-panel {
 				max-height: none;
-			}
-
-			.project-panel {
-				border-top: 1px solid var(--border);
-				border-left: 0;
 			}
 
 			.sold-panel {
@@ -851,6 +879,11 @@
 		}
 
 		@container nearshore-dashboard (max-width: 660px) {
+			.explorer-shell[data-view="generated"],
+			.explorer-shell[data-view="sold"] {
+				grid-template-columns: 1fr;
+			}
+
 			.header-content,
 			main {
 				width: min(100% - 16px, 1280px);
@@ -903,6 +936,17 @@
 			.map-region,
 			#nearshoreMap {
 				height: 460px;
+			}
+
+			.explorer-shell[data-view="generated"] .map-region,
+			.explorer-shell[data-view="generated"] #nearshoreMap {
+				height: 460px;
+				min-height: 0;
+			}
+
+			.explorer-shell[data-view="generated"] .project-panel {
+				border-top: 1px solid var(--border);
+				border-left: 0;
 			}
 
 			.metric-grid,
@@ -1638,6 +1682,20 @@
 		}
 
 		function latestBasinDate() {
+			const sourceEditingInfo =
+				basinLayer && basinLayer.sourceJSON ? basinLayer.sourceJSON.editingInfo : null;
+			const serviceEditDate = parseDate(
+				sourceEditingInfo && sourceEditingInfo.dataLastEditDate
+					? sourceEditingInfo.dataLastEditDate
+					: basinLayer && basinLayer.editingInfo
+						? basinLayer.editingInfo.lastEditDate
+						: null
+			);
+			if (serviceEditDate && !Number.isNaN(serviceEditDate.getTime())) {
+				return serviceEditDate;
+			}
+
+			// Older services may not expose edit metadata, so retain the data field as a fallback.
 			return basins.reduce(function (latest, feature) {
 				const date = parseDate(feature.attributes.LastUpdate);
 				if (!date || Number.isNaN(date.getTime())) {
