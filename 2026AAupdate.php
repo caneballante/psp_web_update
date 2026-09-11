@@ -135,11 +135,12 @@ navSelected = 1;
         <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<a class="pspnc-calculator-button margin-20-bottom" href="https://actionagenda.pugetsoundinfo.wa.gov/2026-2030" target="_blank">Visit the online <br>
+Action Agenda explorer</a>
 			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"><a href="https://actionagenda.pugetsoundinfo.wa.gov/2022-2026ActionAgenda" target="_blank"><strong>Action Agenda Explorer</strong></a></li>
 				<li><a href="https://pspwa.box.com/s/rycymd6097nx2u0z5my1wg5w4ufrcqlw">Jan.  15 Lunch &amp; Learn: 26-30 Action Agenda update overview recording</a></li>
 				<li><a href="https://pspwa.box.com/s/2u8djhjls0ys2b3uxdmdj3h8spq92s9i" target="_blank">2026-30 Action Agenda Factsheet</a></li>
 				<li><a href="https://pspwa.box.com/s/lmcobgdmya9a7dusrdelbrl7ak1w22w6" target="_blank">Evaluate and Learn Workshop</a></li>
