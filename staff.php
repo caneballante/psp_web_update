@@ -116,11 +116,9 @@
 			360.688.4049 | <a href="mailto:signe.lindquist@psp.wa.gov">signe.lindquist@psp.wa.gov</a>		
 			<h4>Peter Ravella</h4>
 			<p>Puget Sound Recovery Strategist<br>
-			360.972.4054 | <a href="mailto:peter.ravella@psp.wa.gov">peter.ravella@psp.wa.gov</a></p><h4>Juliana Tadano</h4>
-			<p>Puget Sound Recovery Strategist<br/>
-			360.995.2404 | <a href="mailto:juliana.tadano@psp.wa.gov">juliana.tadano@psp.wa.gov</a></p>
-			<!--SALMON RECOVERY PROGRAM-->		</p>
-        	<h3 class="padding-10-top">SALMON RECOVERY PROGRAM</h3>
+			360.972.4054 | <a href="mailto:peter.ravella@psp.wa.gov">peter.ravella@psp.wa.gov</a>			<!--SALMON RECOVERY PROGRAM-->		</p>
+       	  </p>
+		  <h3 class="padding-10-top">SALMON RECOVERY PROGRAM</h3>
 			<h4>Melissa Speeg</h4>
 			<p>Salmon Recovery Manager<br>
 			360.529.6472 | <a href="mailto:melissa.speeg@psp.wa.gov">melissa.speeg@psp.wa.gov</a></p>
@@ -258,9 +256,9 @@
 			<h4>Rondi nordal</h4>
 			<p>Washington Sea Grant Hershman Fellow<br>
 			564.250.0925 | <a href="mailto:rondi.nordal@psp.wa.gov">rondi.nordal@psp.wa.gov</a></p>
-			<h4>Danielle Mantz</h4>
+			<h4>Amanda Rueda</h4>
 			<p>Keystone Fellow<br>
-			360.742.4195 | <a href="mailto:danielle.mantz@psp.wa.gov">danielle.mantz@psp.wa.gov</a></p>
+			360.742.4195 | <a href="mailto:amanda.rueda@psp.wa.gov">amanda.rueda@psp.wa.gov</a></p>
 			<!--INTERNAL OPERATIONS-->	
 			<hr class="two-point margin-40-top"/>
 			<h2 class="padding-20-top padding-20-bottom">INTERNAL OPERATIONS DIVISION</h2>
@@ -326,7 +324,7 @@
 			<p>IT Specialist<br />
 			360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 	</div>					
-	<p class="last-update">Last updated: 08/19/26</p>
+	<p class="last-update">Last updated: 09/15/26</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
