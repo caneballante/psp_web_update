@@ -82,7 +82,7 @@
 			
 			<h2>About the community engagement Program</h2>
 			<p>Our Community Engagement Program directs our best practices for community engagement. Our engagement is focused on building meaningful relationships with diverse communities across Puget Sound that are most affected by environmental injustices. This work is essential to our agency because it allows for community solutions to shape our agency&rsquo;s direction, policies, and programs.</p>
-			<p>Are you interested in learning more about our community engagement work or collaborating with us on a community engagement project? Are you a community leader or community-based organization looking for assistance or opportunities to share feedback on our work? Please <a href="signe.lindquist@psp.wa.gov" target="new">reach out to our Community Engagement Coordinator.</a>			</p>
+			<p>Are you interested in learning more about our community engagement work or collaborating with us on a community engagement project? Are you a community leader or community-based organization looking for assistance or opportunities to share feedback on our work? Please <a href="mailto:signe.lindquist@psp.wa.gov" target="new">reach out to our Community Engagement Coordinator.</a>			</p>
 			<h2>Community Engagement Guide </h2>
 			<p><span class="padding-10-top">The environmental justice law (SB 5141) known as the <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02">Healthy Environment  for All Act</a> (HEAL), passed in 2021. Part of this law  requires our agency (and six others)  <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=70A.02.050">to create and adopt  community engagement plans</a>.</span></p>
 			<p>The community engagement plan that Puget Sound Partnership uses is called<a href="https://pspwa.box.com/s/sb8odrd01gt0t3pzals7en1rxzze8vx2" target="new"> the Community Engagement Guide.</a> We call it a guide rather than a plan because this document is designed to help staff walk through their own unique community engagement processes. </p>
@@ -97,7 +97,7 @@
 	    <p>Download the <a href="https://pspwa.box.com/s/sb8odrd01gt0t3pzals7en1rxzze8vx2" target="new">Puget Sound Partnership’s Community Engagement Guide</a>.</p></div>
 			<p class="padding-10-top"><br>
 	    </p>
-			<p class="last-update">Last updated: 04/27/26</p>
+			<p class="last-update">Last updated: 09/15/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -110,7 +110,7 @@
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<p>CONTACT</p>
 			<p>Signe Lindquist</p>
-			<p><strong>Community Engagement Coordinator </strong><a href="signe.lindquist@psp.wa.gov" target="new">signe.lindquist@psp.wa.gov</a></p>
+			<p><strong>Community Engagement Coordinator </strong><a href="mailto:signe.lindquist@psp.wa.gov" target="new">signe.lindquist@psp.wa.gov</a></p>
 			<p>360.688.4049</p>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
