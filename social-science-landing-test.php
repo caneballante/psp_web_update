@@ -78,14 +78,59 @@ navSelected = 1;
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-	<p>A general overview of social sciences - what it is, how it ties into our work, etc, etc. </p>
-	<h2>VISION</h2>
-	<p>[Lifted from the SSAC content as an example] We integrate social science research and human  dimensions into our planning, decision-making, and adaptive management. This  helps create more complete and effective recovery strategies that strengthen  the resilience of Puget Sound ecosystems and communities. </p>
+	<p>The health and wellbeing of humans and the health of the  Puget Sound are closely connected. Social sciences help us understand this  relationship and how we interact with the environment. We use social science  research and human dimensions in our planning, decision-making, and adaptive  management. This helps us create recovery strategies that strengthen the  resilience of Puget Sound ecosystems and communities.</p>
+	<p>In 2015, we officially adopted our <a href="https://pspwa.box.com/s/rk55zvbz2xd8wg5e8bzcy5z8edqyg5e9">Integrated&nbsp;Ecosystem&nbsp;Recovery&nbsp;Conceptual&nbsp;Model</a>. This model recognizes that&nbsp;people are part of nature  and that the wellbeing of one depends on the wellbeing of the other.  Our two&nbsp;Human&nbsp;Wellbeing&nbsp;Vital&nbsp;Sign goals (healthy human population and vibrant  human quality of life) are grounded in this model.</p>
+	<img src="/images/integrated-ecosystem-recovery-conceptual-model.jpg" width="702" height="486">
+	
 	<h2>What is social science?</h2>
-	<p>Perhaps something to describe it in a nutshell - add a little bit about what we do and how readers can learn more on the other pages. </p>
-	<h2>Resources</h2>
-	<p>If there are any general resources, we can add them here. Not necessary if they're already on other pages - we also have some listed on the right. But this is an opportunity to add anything you can think of, including more information, links to partners, etc.</p>
-	<p>&nbsp;</p>
+    <p>Social science includes theories, knowledge, and research  aimed at understanding social systems and how societies work. It includes  fields such as anthropology, economics, geography, political science,  psychology and sociology. <br>
+      Social science helps us  understand and address the social or human side of natural resource management  and ecosystem recovery, including how environmental conditions affect human  wellbeing. <br>
+      Like other sciences, social science also  relies on evidence and established research methods to develop and test our  knowledge.  Different social science  fields may use these methods in different way, depending on their area of study. <br>
+      [insert and cite <strong>Table 1: Social science disciplines and  their environmental subfields, with example topics (not a comprehensive list).</strong> from <a href="https://www.tandfonline.com/doi/epdf/10.1080/08920753.2026.2682001?needAccess=true">Daylighting  the Environmental Social Sciences for Coastal Management: Introduction to the  Special Issue</a>]<br>
+      Social science matters because it provides a number of  benefits and advantages for ecosystem restoration efforts (see Sidebar 1).  Social science provides concepts, methods, theories, toolkits, and approaches necessary  to understand, address, and integrate human dimensions and human wellbeing into  ecosystem recovery.<br>
+      [Insert and cite <strong>Table 2: Contributions of social science  research to ecosystem recovery with examples from Puget Sound (not an  exhaustive list).</strong> From <a href="https://www.tandfonline.com/doi/epdf/10.1080/08920753.2026.2682001?needAccess=true">Daylighting  the Environmental Social Sciences for Coastal Management: Introduction to the  Special Issue</a>]</p>
+    <h2>What are human dimensions?</h2>
+    <p>Human dimensions describes the many ways that people relate  to the environment. This includes actions and behaviors that affect the health  of Puget Sound as well as the ways in which people benefit from and connect  with the natural environment (see&nbsp;<a href="https://www.psp.wa.gov/evaluating-human-wellbeing.php">human wellbeing</a>). <br>
+      Human dimensions includes social, cultural, linguistic,  behavioral, political, economic, psychological, and geographic factors. Taking  these into account helps us better understand the complex relationship between  people and the environment. Applying human dimensions in ecosystem recovery includes  considering, monitoring, and measuring human wellbeing as a part of ecosystem  health and vitality. <br>
+      For example, human dimensions can help us understand:  </p>
+    <ul class="bullet-size-fix">
+      <li>How&nbsp;<a href="http://www.shorefriendly.org/shoreline-ecosystem/">human-built shoreline infrastructure</a>, such as hard armor, can affect nearshore  habitat and natural landscapes. </li>
+      <li>The&nbsp;<a href="https://frontandcentered.org/ej-map/">inequitable impacts</a>&nbsp;environmental  health risks have on Washington communities. </li>
+      <li>How  a&nbsp;<a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/39">sense of place</a>&nbsp;can influence people&rsquo;s stewardship of  Puget Sound. </li>
+    </ul>
+    <h2>Key Social Sciences Efforts and Products</h2>
+    <h3>2023-2027 Human Wellbeing Vital Signs and Indicators Revisions Project</h3>
+    <p>The&nbsp;<a href="https://psp.wa.gov/evaluating-human-wellbeing.php">Human Wellbeing Vital  Signs</a>&nbsp;address the recovery goals for a healthy human population and  vibrant human quality of life, particularly as they relate to people&rsquo;s  engagement with the natural environment of Puget Sound. The Vital Signs include  familiar aspects of human health that contribute to our wellbeing, such as  physical and mental health, as well as social, cultural, and economic wellbeing.  The also include governance, or how people participate in decision-making.<br>
+      We are currently evaluating and updating the HWB Vital Signs  and Indicators to reflect advances in human wellbeing (HWB) frameworks and  changes to the Puget Sound ecosystem recovery community. The revised HWB Vital  Signs and Indicators aim to produce indicators that will track progress towards  human wellbeing and ecosystem recovery goals. They will also reflect social and  ecological diversity of the Puget Sound region and incorporating the latest  advances in measuring human wellbeing and ecosystem recovery.</p>
+    <ul>
+      <li><strong>Human  Wellbeing Vital Sign Survey – biennial: 2018, 2020, 2022, 2024, 2026 (pending) </strong></li>
+      <li><strong>Social  Sciences Research Funding - Ongoing</strong></li>
+      <li><strong>Social Sciences Advisory Committee - Ongoing</strong><strong></strong></li>
+    </ul>
+    <h3>Implementation Strategy Support </h3>
+    <p>We provide ongoing economic and social science support and  guidance to the leads of Puget Sound Implementation Strategies, and other  recovery partners. This support helps our partners to find and use relevant,  credible social sciences information, tools, and methods when considering human  dimensions and economic factors in Puget Sound recovery.  These efforts are highlighted in the recently  developed <a href="https://pugetsoundestuary.wa.gov/marine-vegetation-implementation-strategy/">Marine  Vegetation Implementation Strategy</a>.</p>
+    <h3>Local Integrating Organization (LIO) Support </h3>
+    <p>We provide ongoing economic and social science support to LIOs.  Recent studies include:</p>
+    <ul class="bullet-size-fix">
+      <li>Costs of Funding Restoration: An Analysis of the  Costs of Acquiring and Administering Grant Funding, Industrial Economics, June  2025.</li>
+      <li>Leveraging Carbon Markets to Fund Puget Sound  Restoration: A Guide to the Opportunities and Challenges of Carbon Market  Participation for Land Managers; Industrial Economics, November 2025.</li>
+      <li>Benefits of Green Stormwater Infrastructure in  the Puget Sound Region: A Comparative Evaluation of Existing Tools, Industrial  Economics, January 2026.</li>
+    </ul>
+    <h2>RESOURCES</h2>
+    <p>These resources introduce concepts such as social sciences,  human dimensions, human wellbeing, and social-ecological systems models.  Together they that can help people understand, study, and foster shared  positive outcomes for humans and the Puget Sound environment through  restoration.  <br>
+      <strong>Videos – OSU (pending)</strong><br>
+      <strong><a href="https://pspwa.box.com/s/w1galqayttesd0rkh8uhwavl0dt1cp0c">Human Dimensions  Protocol, 2020</a> - </strong>The Puget Sound Partnership in collaboration  with&nbsp;<a href="https://kellybiedenweg.weebly.com/">Oregon State University</a>,  Northern Economics, Inc., and other partners developed the&nbsp;<a href="https://pspwa.box.com/s/w1galqayttesd0rkh8uhwavl0dt1cp0c">Human  Dimensions Protocol</a>&nbsp;as a guide to integrate human dimensions into  regional planning efforts (<a href="https://psp.wa.gov/implementation-strategies.php">Implementation  Strategies</a>).</p>
+    <strong><a href="https://pspwa.box.com/s/rk55zvbz2xd8wg5e8bzcy5z8edqyg5e9">PSP Integrated  Conceptual Model for Ecosystem Recovery Report, 2015</a></strong>
+    <div>
+      <div> </div>
+      <div> </div>
+      <div> </div>
+      <div> </div>
+      <div> </div>
+      <div> </div>
+      <div> </div>
+    </div>
+<p>&nbsp;</p>
 			 <p class="last-update">Last updated: 07/06/26</p>
         <!-- InstanceEndEditable --> </div>
 		
