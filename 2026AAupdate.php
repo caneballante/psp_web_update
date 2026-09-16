@@ -83,7 +83,7 @@ navSelected = 1;
 			<div class="highlightbox margin-0-top margin-20-bottom">
 			  <p><span data-teams="true">The 2026-2030 Action Agenda was approved by the Puget Sound Partnership's Leadership Council on June 3rd. After adopting the plan, the Leadership Council submitted it to the EPA and requested that the Action Agenda be approved as the Comprehensive Conservation Management Plan for the Puget Sound National Estuary Program. The Action Agenda Explorer was updated with the new content of the adopted 2026-2030 Action Agenda</span>.</p>
               
-              <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/41a4e96" target="new">Read the press release</a> | <a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya">Download the Action Agenda </a>| <a href="https://actionagenda.pugetsoundinfo.wa.gov/2026-2030" target="new" > Visit the online Action Agenda Explorer</a></p>
+              <p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/41a4e96" target="new">Read the press release</a> | <a href="https://pspwa.box.com/s/6o527xp34bacqmkf0h67aj5rxecw3aya">Download the Action Agenda </a>| <a href="https://actionagenda.pugetsoundinfo.wa.gov/2026-2030" target="new" > Visit the online Action Agenda Explorer</a>| <a href="#section1">Read in other languages</a></p>
             
 		</div>
 			
@@ -129,8 +129,21 @@ navSelected = 1;
 <p>To stay updated on the work to implement the Action Agenda,<a href="https://public.govdelivery.com/accounts/WAPSP/signup/49091" target="new"> sign up to  the Puget Sound Partnership newsletter.</a></p>
 
 
-<p>&nbsp;</p>
-		<p class="last-update">Last updated: 08/11/26</p>
+<h2 id="section1" class="resource-section-anchor"></id>READ THE 2026-2030 ACTION AGENDA IN OTHER LANGUAGES</h2>
+<ul class="bullet-size-fix">
+	<li><a href="https://pspwa.box.com/s/m15yu53c2tmdhgtzhpnhk2i1jtjxu5m0" target="new">Spanish (U.S.)</a></li>
+  <li><a href="https://pspwa.box.com/s/uz7etp9uep8jpu7m3or4q1wa679gkiy0" target="new">Chinese (Simplified)</a></li>
+  <li><a href="https://pspwa.box.com/s/4j2o1bxdd8tlenaadsbczn0ojczuj38y" target="new">Amharic</a></li>
+  <li><a href="https://pspwa.box.com/s/jzp71ulv0s8jsmlqnji4bp1jogom0w8a" target="new">Arabic</a></li>
+  <li><a href="https://pspwa.box.com/s/c10yxlojq9smdgcie42ko9lejskqdwds" target="new">Hindi</a></li>
+  <li><a href="https://pspwa.box.com/s/hjl94muv01pf77pw2lwjs0lh1uhwf0hw" target="new">Korean</a></li>
+  <li><a href="https://pspwa.box.com/s/r1zcv7x1v93dsn7tbqqjwd3psv8i74ro" target="new">Russian</a></li>
+  <li><a href="https://pspwa.box.com/s/hhja2i4k4ep72m9bb99uw1ml7h8ytnnw" target="new">Somali</a></li>
+  <li><a href="https://pspwa.box.com/s/58zzu66xqedzo70nbl7bmvlqwkv8peu6" target="new">Tagalog</a></li>
+  <li><a href="https://pspwa.box.com/s/510jypdohgwpuoxptfufxtzmz4u0yek4" target="new">Ukrainian</a></li>
+  <li><a href="https://pspwa.box.com/s/m6kt302b0fi0c1nhdw85qatlf5mvorsw" target="new">Vietnamese</a></li>
+	</ul>
+		<p class="last-update">Last updated: 09/16/26</p>
 
         <!-- InstanceEndEditable --> </div>
 		
@@ -151,9 +164,28 @@ Action Agenda explorer</a>
 				<li><a href="https://www.psp.wa.gov/science-basis-of-recovery-overview.php">Science basis of recovery</a></li>
 				<li><a href="https://www.psp.wa.gov/salmon-recovery-overview.php">Salmon Recovery in Puget Sound</a></li>
 				<li><a href="https://psp.wa.gov/LIO-overview.php">Local Integrating Organizations </a>
-				<li><a href="https://pspwa.box.com/s/131i7nk5r8blk7agmjsgig1q42zuy024" target="new">Puget Sound  Implementation Plan</a></li>	
+				<li><a href="https://pspwa.box.com/s/131i7nk5r8blk7agmjsgig1q42zuy024" target="new">Puget Sound  Implementation Plan</a></li>
+				<li></li>	
 				
 			
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">READ THE ACTION AGENDA IN OTHER LANGUAGES</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/m15yu53c2tmdhgtzhpnhk2i1jtjxu5m0" target="new">Spanish (U.S.)</a></li>
+				 <li><a href="https://pspwa.box.com/s/uz7etp9uep8jpu7m3or4q1wa679gkiy0" target="new">Chinese (Simplified)</a></li>
+  <li role="presentation"><a href="https://pspwa.box.com/s/4j2o1bxdd8tlenaadsbczn0ojczuj38y" target="new">Amharic</a></li>
+  <li role="presentation"><a href="https://pspwa.box.com/s/jzp71ulv0s8jsmlqnji4bp1jogom0w8a" target="new">Arabic</a></li>
+  <li role="presentation"><a href="https://pspwa.box.com/s/c10yxlojq9smdgcie42ko9lejskqdwds" target="new">Hindi</a></li>
+  <li role="presentation"><a href="https://pspwa.box.com/s/hjl94muv01pf77pw2lwjs0lh1uhwf0hw" target="new">Korean</a></li>
+  <li role="presentation"><a href="https://pspwa.box.com/s/r1zcv7x1v93dsn7tbqqjwd3psv8i74ro" target="new">Russian</a></li>
+  <li role="presentation"><a href="https://pspwa.box.com/s/hhja2i4k4ep72m9bb99uw1ml7h8ytnnw" target="new">Somali</a></li>
+  <li role="presentation"><a href="https://pspwa.box.com/s/58zzu66xqedzo70nbl7bmvlqwkv8peu6" target="new">Tagalog</a></li>
+  <li role="presentation"><a href="https://pspwa.box.com/s/510jypdohgwpuoxptfufxtzmz4u0yek4" target="new">Ukrainian</a></li>
+  <li role="presentation"><a href="https://pspwa.box.com/s/m6kt302b0fi0c1nhdw85qatlf5mvorsw" target="new">Vietnamese</a>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
