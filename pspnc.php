@@ -729,20 +729,7 @@
 		}
 
 		function latestBasinDate() {
-			const sourceEditingInfo =
-				basinLayer && basinLayer.sourceJSON ? basinLayer.sourceJSON.editingInfo : null;
-			const serviceEditDate = parseDate(
-				sourceEditingInfo && sourceEditingInfo.dataLastEditDate
-					? sourceEditingInfo.dataLastEditDate
-					: basinLayer && basinLayer.editingInfo
-						? basinLayer.editingInfo.lastEditDate
-						: null
-			);
-			if (serviceEditDate && !Number.isNaN(serviceEditDate.getTime())) {
-				return serviceEditDate;
-			}
-
-			// Older services may not expose edit metadata, so retain the data field as a fallback.
+			// LastUpdate on the basin records is the authoritative data-current date.
 			return basins.reduce(function (latest, feature) {
 				const date = parseDate(feature.attributes.LastUpdate);
 				if (!date || Number.isNaN(date.getTime())) {
