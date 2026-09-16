@@ -131,17 +131,17 @@ navSelected = 1;
 
 <h2 id="section1" class="resource-section-anchor"></id>READ THE 2026-2030 ACTION AGENDA IN OTHER LANGUAGES</h2>
 <ul class="bullet-size-fix">
-	<li><a href="https://pspwa.box.com/s/m15yu53c2tmdhgtzhpnhk2i1jtjxu5m0" target="new">Spanish (U.S.)</a></li>
-  <li><a href="https://pspwa.box.com/s/uz7etp9uep8jpu7m3or4q1wa679gkiy0" target="new">Chinese (Simplified)</a></li>
-  <li><a href="https://pspwa.box.com/s/4j2o1bxdd8tlenaadsbczn0ojczuj38y" target="new">Amharic</a></li>
-  <li><a href="https://pspwa.box.com/s/jzp71ulv0s8jsmlqnji4bp1jogom0w8a" target="new">Arabic</a></li>
-  <li><a href="https://pspwa.box.com/s/c10yxlojq9smdgcie42ko9lejskqdwds" target="new">Hindi</a></li>
-  <li><a href="https://pspwa.box.com/s/hjl94muv01pf77pw2lwjs0lh1uhwf0hw" target="new">Korean</a></li>
-  <li><a href="https://pspwa.box.com/s/r1zcv7x1v93dsn7tbqqjwd3psv8i74ro" target="new">Russian</a></li>
-  <li><a href="https://pspwa.box.com/s/hhja2i4k4ep72m9bb99uw1ml7h8ytnnw" target="new">Somali</a></li>
-  <li><a href="https://pspwa.box.com/s/58zzu66xqedzo70nbl7bmvlqwkv8peu6" target="new">Tagalog</a></li>
-  <li><a href="https://pspwa.box.com/s/510jypdohgwpuoxptfufxtzmz4u0yek4" target="new">Ukrainian</a></li>
-  <li><a href="https://pspwa.box.com/s/m6kt302b0fi0c1nhdw85qatlf5mvorsw" target="new">Vietnamese</a></li>
+	<li><a href="https://pspwa.box.com/s/m15yu53c2tmdhgtzhpnhk2i1jtjxu5m0" target="new"> Descargue la Agenda de Acción 2026 (Spanish - U.S.)</a></li>
+  <li><a href="https://pspwa.box.com/s/uz7etp9uep8jpu7m3or4q1wa679gkiy0" target="new"> 下载《2026 年行动议程》执行摘要。 (Chinese - Simplified)</a></li>
+  <li><a href="https://pspwa.box.com/s/4j2o1bxdd8tlenaadsbczn0ojczuj38y" target="new">የ 2026 የድርጊት አጀንዳ ያውርዱ። (Amharic)</a></li>
+  <li><a href="https://pspwa.box.com/s/jzp71ulv0s8jsmlqnji4bp1jogom0w8a" target="new">تنزيل الملخص التنفيذي لخطة العمل لعام 2026. (Arabic)</a></li>
+  <li><a href="https://pspwa.box.com/s/c10yxlojq9smdgcie42ko9lejskqdwds" target="new">2026 एक्शन एजेंडा के लिए कार्यकारी सारांश डाउनलोड करें। (Hindi)</a></li>
+  <li><a href="https://pspwa.box.com/s/hjl94muv01pf77pw2lwjs0lh1uhwf0hw" target="new">2026 행동 의제 핵심 요약본을 다운로드하십시오 (Korean)</a></li>
+  <li><a href="https://pspwa.box.com/s/r1zcv7x1v93dsn7tbqqjwd3psv8i74ro" target="new">Загрузите краткое изложение Программы действий на 2026 г (Russian)</a></li>
+  <li><a href="https://pspwa.box.com/s/hhja2i4k4ep72m9bb99uw1ml7h8ytnnw" target="new">Soo dejiso Soo Koobidda Fulinta ee Qorshaha Waxqabadka 2026 (Somali)</a></li>
+  <li><a href="https://pspwa.box.com/s/58zzu66xqedzo70nbl7bmvlqwkv8peu6" target="new">I-download ang Agenda ng Pagkilos para sa 2026 (Tagalog)</a></li>
+  <li><a href="https://pspwa.box.com/s/510jypdohgwpuoxptfufxtzmz4u0yek4" target="new">Завантажте короткий виклад Програми дій на 2026 р (Ukrainian)</a></li>
+  <li><a href="https://pspwa.box.com/s/m6kt302b0fi0c1nhdw85qatlf5mvorsw" target="new">Tải xuống Bản Tóm tắt Điều hành cho Chương trình Hành động năm 2026 (Vietnamese)</a></li>
 	</ul>
 		<p class="last-update">Last updated: 09/16/26</p>
 
