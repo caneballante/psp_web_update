@@ -93,10 +93,10 @@
 				<li><a href="https://puyallupwatershed.org/" target="new">Puyallup-White River LIO (PWR LIO)</a></li>
 			</ul>
 			<h2>Map of Local Areas and the LIOs</h2>
-			<p><a href="https://www.pugetsoundinfo.wa.gov/LIOs" target="_blank" rel="noopener">
+			<p><a href="https://experience.arcgis.com/experience/aecf0b6c022a41e8b614c702c5513bba" target="new">
 Open the LIO map in a new tab.
 </a></p>
-			<iframe title="Local Areas and the Local Integrating Organizations" width="1000" height="775" src=https://experience.arcgis.com/experience/aecf0b6c022a41e8b614c702c5513bba frameborder="0" allowFullScreen="true"></iframe>
+			<iframe title="Local Areas and the Local Integrating Organizations" width="80%" height="1000" src=https://experience.arcgis.com/experience/aecf0b6c022a41e8b614c702c5513bba frameborder="0"></iframe>
 			
 		<p>&nbsp;</p>
 			
