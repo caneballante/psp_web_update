@@ -171,7 +171,7 @@ Action Agenda explorer</a>
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
-			<div class="right-nav-title margin-0-top ">READ THE ACTION AGENDA IN OTHER LANGUAGES</div>
+			<div class="right-nav-title margin-0-top ">READ  IN OTHER LANGUAGES</div>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->

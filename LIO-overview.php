@@ -79,7 +79,7 @@
 			<p>The LIOs committees are recognized as the local expert bodies for ecosystem recovery. While each LIO structure may differ as a result of the needs of the specific geography, most have an executive committee and a technical committee. Members may include elected officials, tribal staff, city and county government staff, non-profit organizations, land trusts and conservation districts, marine resource committees, local businesses, interest groups, citizens, and educational organizations.</p>
 			<p>Each LIO coordinates with local salmon recovery bodies and other ecosystem recovery entities to align local priorities and goals.</p>
 			<p>The Puget Sound Partnership supports LIOs through capacity funding, resources, and liaison support via Ecosystem Recovery Coordinators (Puget Sound Partnership Staff)</p>
-			<p style="font-weight: bold">Local Integrating Organizations:</p>
+			<h2>Local Integrating Organizations:</h2>
 			<ul class="bullet-size-fix">
 				<li><a href="https://www.sanjuanco.com/1628/Ecosystem-Recovery-SJ-LIO" target="new">San Juan Action Agenda Oversight Group </a></li>
 				<li><a href="http://www.govlink.org/sc-puget-sound-action-area/Index.htm" target="new">South Central Action Area Caucus Group</a></li>
@@ -92,10 +92,15 @@
 				<li><a href="http://snohomishcountywa.gov/831/Local-Integrating-Organization" target="new">Snohomish/Stillaguamish LIO </a></li>
 				<li><a href="https://puyallupwatershed.org/" target="new">Puyallup-White River LIO (PWR LIO)</a></li>
 			</ul>
-			<p><a href="https://wa-psp.maps.arcgis.com/apps/webappviewer/index.html?id=bce72e6f26c640e5a485db8951951117" target="new"><img class="img-responsive" src="images/LIOsPresentation.jpg" width="1000" height="900" alt=""/></a></p>
-			<p>&nbsp;</p>
+			<h2>Map of Local Areas and the LIOs</h2>
+			<p><a href="https://www.pugetsoundinfo.wa.gov/LIOs" target="_blank" rel="noopener">
+Open the LIO map in a new tab.
+</a></p>
+			<iframe title="Local Areas and the Local Integrating Organizations" width="1000" height="775" src=https://experience.arcgis.com/experience/aecf0b6c022a41e8b614c702c5513bba frameborder="0" allowFullScreen="true"></iframe>
 			
-			<p class="last-update">Last updated: 10/19/23</p>
+		<p>&nbsp;</p>
+			
+			<p class="last-update">Last updated: 09/16/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -104,7 +109,7 @@
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/nxli7o61pnjxx4rkmo7nokcjh9huc0kf">LIO Ecosystem Recovery Plans</a></li>
-				<li class="active" role="presentation"> <a href="https://wa-psp.maps.arcgis.com/apps/webappviewer/index.html?id=bce72e6f26c640e5a485db8951951117" target="new">LIO Geography Map</a></li>
+				<li class="active" role="presentation"> <a href="https://www.pugetsoundinfo.wa.gov/LIOs" target="new">LIO Geography Map</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/v/ECONetInfo">ECO Net Information</a></li>
 				
 				<!-- InstanceEndEditable -->
