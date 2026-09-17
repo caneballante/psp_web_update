@@ -90,7 +90,7 @@ Open the 2026 boards calendar in a new tab.
 			  <iframe width=1000 height=700 frameborder=0 src="https://publish.smartsheet.com/2c0e769562fc4cd78f5b16dc26b5af8a" title="2026 boards calendar"></iframe>
 	   		<br>
 </strong><h2>Contact</h2>
-		<h3>Ambery Raney<br>
+		<h3>Amber Raney<br>
 		  <strong>Boards Program Coordinator<br>
         </strong> <a href="mailto:amber.raney">amber.raney@psp.wa.gov</a><br>
 564.999.0527 </h3>

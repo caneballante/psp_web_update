@@ -85,8 +85,63 @@ navSelected = 1;
 	<h2>What is social science?</h2>
     <p>Social science includes theories, knowledge, and research  aimed at understanding social systems and how societies work. It includes  fields such as anthropology, economics, geography, political science,  psychology and sociology. <br>
       Social science helps us  understand and address the social or human side of natural resource management  and ecosystem recovery, including how environmental conditions affect human  wellbeing. <br>
-      Like other sciences, social science also  relies on evidence and established research methods to develop and test our  knowledge.  Different social science  fields may use these methods in different way, depending on their area of study. <br>
-      [insert and cite <strong>Table 1: Social science disciplines and  their environmental subfields, with example topics (not a comprehensive list).</strong> from <a href="https://www.tandfonline.com/doi/epdf/10.1080/08920753.2026.2682001?needAccess=true">Daylighting  the Environmental Social Sciences for Coastal Management: Introduction to the  Special Issue</a>]<br>
+      Like other sciences, social science also  relies on evidence and established research methods to develop and test our  knowledge. Different social science  fields may use these methods in different way, depending on their area of study. </p>
+    <p><strong>Table 1: Social science disciplines and  their environmental subfields, with example topics (not a comprehensive list).</strong> From <a href="https://www.tandfonline.com/doi/epdf/10.1080/08920753.2026.2682001?needAccess=true" target="new">Daylighting  the Environmental Social Sciences for Coastal Management: Introduction to the  Special Issue.</a></p>
+    <table width="655" border="1">
+     <tbody>
+        <tr>
+          <th width="150" scope="col">Social science disciplines(examples) </th>
+          <th width="211" scope="col">Environmental social sciences (examples)</th>
+          <th width="272" scope="col">Focal topics and contributions (examples)</th>
+        </tr>
+        <tr>
+          <td>Anthropology</td>
+			<td>Environmental anthropology <br>Ecological anthropology</br> 
+		      <br>
+	        Human ecology </td>
+          <td>Human-environment relationships, past and present;sociocultural effects and practices of environmentalmanagemen</td>
+        </tr>
+        <tr>
+          <td>Economics</td>
+          <td>Natural resource
+economics<br>
+Environmental economics<br>
+Ecological economics</td>
+          <td>Allocation and sustainable use of natural resources; tradeoffsin resource management; economic impacts ofenvironmental policies; conservation incentives design;ecosystem service valuatio</td>
+        </tr>
+        <tr>
+          <td>Geography</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>History</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>Politcal Science</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>Pyschology</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>Sociology</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>Interdisciplinary fields</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+      </tbody>
+    </table>
+    <p><br>
       Social science matters because it provides a number of  benefits and advantages for ecosystem restoration efforts (see Sidebar 1).  Social science provides concepts, methods, theories, toolkits, and approaches necessary  to understand, address, and integrate human dimensions and human wellbeing into  ecosystem recovery.<br>
       [Insert and cite <strong>Table 2: Contributions of social science  research to ecosystem recovery with examples from Puget Sound (not an  exhaustive list).</strong> From <a href="https://www.tandfonline.com/doi/epdf/10.1080/08920753.2026.2682001?needAccess=true">Daylighting  the Environmental Social Sciences for Coastal Management: Introduction to the  Special Issue</a>]</p>
     <h2>What are human dimensions?</h2>
