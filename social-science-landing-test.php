@@ -87,19 +87,19 @@ navSelected = 1;
       Social science helps us  understand and address the social or human side of natural resource management  and ecosystem recovery, including how environmental conditions affect human  wellbeing. <br>
       Like other sciences, social science also  relies on evidence and established research methods to develop and test our  knowledge. Different social science  fields may use these methods in different way, depending on their area of study. </p>
     <p><strong>Table 1: Social science disciplines and  their environmental subfields, with example topics (not a comprehensive list).</strong> From <a href="https://www.tandfonline.com/doi/epdf/10.1080/08920753.2026.2682001?needAccess=true" target="new">Daylighting  the Environmental Social Sciences for Coastal Management: Introduction to the  Special Issue.</a></p>
-    <table width="655" border="1">
+    <table width="700" border="1">
      <tbody>
         <tr>
           <th width="150" scope="col">Social science disciplines(examples) </th>
-          <th width="211" scope="col">Environmental social sciences (examples)</th>
-          <th width="272" scope="col">Focal topics and contributions (examples)</th>
+          <th width="218" scope="col">Environmental social sciences (examples)</th>
+          <th width="310" scope="col">Focal topics and contributions (examples)</th>
         </tr>
         <tr>
           <td>Anthropology</td>
 			<td>Environmental anthropology <br>Ecological anthropology</br> 
 		      <br>
 	        Human ecology </td>
-          <td>Human-environment relationships, past and present;sociocultural effects and practices of environmentalmanagemen</td>
+          <td>Human-environment relationships, past and present; sociocultural effects and practices of environmenta lmanagement.</td>
         </tr>
         <tr>
           <td>Economics</td>
@@ -107,48 +107,56 @@ navSelected = 1;
 economics<br>
 Environmental economics<br>
 Ecological economics</td>
-          <td>Allocation and sustainable use of natural resources; tradeoffsin resource management; economic impacts ofenvironmental policies; conservation incentives design;ecosystem service valuatio</td>
+          <td>Allocation and sustainable use of natural resources; tradeoffs in resource management; economic impacts of environmental policies; conservation incentives design;ecosystem service valuation.</td>
         </tr>
         <tr>
           <td>Geography</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
+          <td>Human-environment geography<br>
+            Cultural geography</td>
+          <td>Spatial distributions and variations in human-environmentinteractions, including cultural, political and economic dimensions.</td>
         </tr>
         <tr>
           <td>History</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
+          <td>Environmental history<br>
+            Historical ecology</td>
+          <td>Influence of human-environment interactions on human history, and on historical ecosystems; history of conservation science and advocacy.</td>
         </tr>
         <tr>
           <td>Politcal Science</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
+          <td>Environmental policy &amp; management ecopolitics</td>
+          <td>Governance structures and power dynamics in political responses to environmental and natural resource management challenges; environmental policy analysis</td>
         </tr>
         <tr>
           <td>Pyschology</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
+          <td>Environmental psychology <br>
+            Ecopyschology</td>
+          <td>How values, attitudes, perceptions, and human relationships with the environment shape human behavior, whether ecologically positive or negative.</td>
         </tr>
         <tr>
           <td>Sociology</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
+          <td>Rural sociology</td>
+          <td>Social structures and processes of rural communities, including rural development, agricultural practices, and natural resource management</td>
         </tr>
         <tr>
           <td>Interdisciplinary fields</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
+          <td>Environmental justice<br>
+            Political ecology<br>
+            Public environmental policy<br>
+            Urban planning<br>
+            Science and technology studies<br>
+            Sustainable developmen</td>
+          <td>Inequities in exposure to pollution and degradation; social structures shaping resource use; social roles of science; social and ecological system interactions; etc.</td>
         </tr>
       </tbody>
     </table>
     <p><br>
       Social science matters because it provides a number of  benefits and advantages for ecosystem restoration efforts (see Sidebar 1).  Social science provides concepts, methods, theories, toolkits, and approaches necessary  to understand, address, and integrate human dimensions and human wellbeing into  ecosystem recovery.<br>
-      [Insert and cite <strong>Table 2: Contributions of social science  research to ecosystem recovery with examples from Puget Sound (not an  exhaustive list).</strong> From <a href="https://www.tandfonline.com/doi/epdf/10.1080/08920753.2026.2682001?needAccess=true">Daylighting  the Environmental Social Sciences for Coastal Management: Introduction to the  Special Issue</a>]</p>
-    <p>&nbsp;</p>
+      </p>
+    <p>See <strong>Table 2: Contributions of social science  research to ecosystem recovery with examples from Puget Sound (not an  exhaustive list)</strong> on page 4 of <a href="https://www.tandfonline.com/doi/epdf/10.1080/08920753.2026.2682001?needAccess=true">Daylighting  the Environmental Social Sciences for Coastal Management: Introduction to the  Special Issue.</a>    </p>
     <h2>What are human dimensions?</h2>
-    <p>Human dimensions describes the many ways that people relate  to the environment. This includes actions and behaviors that affect the health  of Puget Sound as well as the ways in which people benefit from and connect  with the natural environment (see&nbsp;<a href="https://www.psp.wa.gov/evaluating-human-wellbeing.php">human wellbeing</a>). <br>
-      Human dimensions includes social, cultural, linguistic,  behavioral, political, economic, psychological, and geographic factors. Taking  these into account helps us better understand the complex relationship between  people and the environment. Applying human dimensions in ecosystem recovery includes  considering, monitoring, and measuring human wellbeing as a part of ecosystem  health and vitality. <br>
-      For example, human dimensions can help us understand:  </p>
+    <p>Human dimensions describes the many ways that people relate  to the environment. This includes actions and behaviors that affect the health  of Puget Sound as well as the ways in which people benefit from and connect  with the natural environment (see&nbsp;<a href="https://www.psp.wa.gov/evaluating-human-wellbeing.php">human wellbeing</a>). </p>
+    <p> Human dimensions includes social, cultural, linguistic,  behavioral, political, economic, psychological, and geographic factors. Taking  these into account helps us better understand the complex relationship between  people and the environment. Applying human dimensions in ecosystem recovery includes  considering, monitoring, and measuring human wellbeing as a part of ecosystem  health and vitality.</p>
+    <p> For example, human dimensions can help us understand:  </p>
     <ul class="bullet-size-fix">
       <li>How&nbsp;<a href="http://www.shorefriendly.org/shoreline-ecosystem/">human-built shoreline infrastructure</a>, such as hard armor, can affect nearshore  habitat and natural landscapes. </li>
       <li>The&nbsp;<a href="https://frontandcentered.org/ej-map/">inequitable impacts</a>&nbsp;environmental  health risks have on Washington communities. </li>
