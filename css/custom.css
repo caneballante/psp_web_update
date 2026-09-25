@@ -251,6 +251,9 @@ td p a {
 .underline {
     text-decoration: underline;
 }
+.social-science-contributions-table tbody th[scope="row"]{
+	font-weight: normal;
+}
 .emergency {}
 .emergency p {
     font-size: 18px;
