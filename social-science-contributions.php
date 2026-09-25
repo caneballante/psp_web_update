@@ -30,9 +30,10 @@
 <div class="container-fluid page-content padding-50-bottom">
   <div class="row">
     <div class="col-sm-3 padding-20-top"></div>
-    <div class="col-sm-9 padding-20-top">
+    <div class="col-sm-7 padding-20-top">
       <h1 class="grey">SOCIAL SCIENCE CONTRIBUTIONS TO ECOSYSTEM RECOVERY</h1>
     </div>
+    <div class="col-sm-2 padding-20-top"></div>
   </div>
   <div class="row">
     <div class="col-sm-3">
@@ -42,7 +43,7 @@
         </ul>
       </div>
     </div>
-    <main class="col-sm-9 padding-20-top content-column">
+    <main class="col-sm-7 padding-20-top content-column">
       <p>Environmental social science research contributes to ecosystem recovery in many ways. The following table pairs each contribution with an example from Puget Sound.</p>
       <p class="visible-xs-block">Swipe the table left to see the example studies.</p>
       <div class="table-responsive">
@@ -158,6 +159,17 @@
       </div>
       <p>Source: Breslow et al. (2026), <a href="https://doi.org/10.1080/08920753.2026.2682001"><cite>Daylighting the Environmental Social Sciences for Coastal Management: Introduction to the Special Issue</cite></a>, <cite>Coastal Management</cite>, Table 2.</p>
     </main>
+    <aside class="col-sm-2 padding-20-top padding-0-right" aria-label="Related links">
+      <div class="right-nav-title margin-0-top">CONTACT</div>
+      <ul class="nav-rightside-custom">
+        <li><?php include 'includes/rn-socialsciences-contact.html';?></li>
+      </ul>
+      <div class="right-nav-title margin-10-top">RESOURCES</div>
+      <ul class="nav-rightside-custom">
+        <li><a href="https://doi.org/10.1080/08920753.2026.2682001">Daylighting the Environmental Social Sciences for Coastal Management</a></li>
+        <li><a href="https://pspwa.box.com/shared/static/iak8x19qh0qhem1qhsvqhmgcnmdg9m2g.pdf">Social Science for the Salish Sea (S4)</a></li>
+      </ul>
+    </aside>
   </div>
 </div>
 <?php include 'includes/footer-inc.html';?>

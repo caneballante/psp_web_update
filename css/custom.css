@@ -248,6 +248,13 @@ td p a {
 	line-height: 1.1em !important;
 }
 */
+.social-science-contributions-table {
+	table-layout: fixed;
+}
+.social-science-contributions-table th,
+.social-science-contributions-table td {
+	word-wrap: break-word;
+}
 .social-science-contributions-table tbody th[scope="row"] {
 	font-weight: normal;
 }
