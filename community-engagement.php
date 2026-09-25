@@ -80,7 +80,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 			
-			<h2>About the community engagement Program</h2>
+			<h2 class="margin-0-top">About the community engagement Program</h2>
 			<p>Our Community Engagement Program directs our best practices for community engagement. Our engagement is focused on building meaningful relationships with diverse communities across Puget Sound that are most affected by environmental injustices. This work is essential to our agency because it allows for community solutions to shape our agency&rsquo;s direction, policies, and programs.</p>
 			<p>Are you interested in learning more about our community engagement work or collaborating with us on a community engagement project? Are you a community leader or community-based organization looking for assistance or opportunities to share feedback on our work? Please <a href="mailto:signe.lindquist@psp.wa.gov" target="new">reach out to our Community Engagement Coordinator.</a>			</p>
 			<h2>Community Engagement Guide </h2>
