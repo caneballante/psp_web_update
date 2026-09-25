@@ -152,7 +152,7 @@ Ecological economics</td>
     <p><br>
       Social science matters because it provides a number of  benefits and advantages for ecosystem restoration efforts (see Sidebar 1).  Social science provides concepts, methods, theories, toolkits, and approaches necessary  to understand, address, and integrate human dimensions and human wellbeing into  ecosystem recovery.<br>
       </p>
-    <p>See <strong>Table 2: Contributions of social science  research to ecosystem recovery with examples from Puget Sound (not an  exhaustive list)</strong> on page 4 of <a href="https://www.tandfonline.com/doi/epdf/10.1080/08920753.2026.2682001?needAccess=true">Daylighting  the Environmental Social Sciences for Coastal Management: Introduction to the  Special Issue.</a>    </p>
+    <p><a href="social-science-contributions.php">View Table 2: Contributions of social science research to ecosystem recovery with examples from Puget Sound.</a></p>
     <h2>What are human dimensions?</h2>
     <p>Human dimensions describes the many ways that people relate  to the environment. This includes actions and behaviors that affect the health  of Puget Sound as well as the ways in which people benefit from and connect  with the natural environment (see&nbsp;<a href="https://www.psp.wa.gov/evaluating-human-wellbeing.php">human wellbeing</a>). </p>
     <p> Human dimensions includes social, cultural, linguistic,  behavioral, political, economic, psychological, and geographic factors. Taking  these into account helps us better understand the complex relationship between  people and the environment. Applying human dimensions in ecosystem recovery includes  considering, monitoring, and measuring human wellbeing as a part of ecosystem  health and vitality.</p>
