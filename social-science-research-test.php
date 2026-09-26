@@ -78,28 +78,57 @@ navSelected = 3;
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
-	<p>Each of us is inseparably linked to Puget Sound through the many ways we interact with our natural environment. All Puget Sound residents are valuable and necessary participants in Puget Sound recovery efforts.</p>
-			
-<p>Our many everyday actions and behaviors may seem benign on their own, but when combined with the actions of over 4 million residents in the Puget Sound region, the cumulative effects can have a harmful impact to our health and the health of the Puget Sound. Fostering beneficial activities and reducing damaging behaviors is a key step toward recovering Puget Sound and maintaining a healthy environment that everyone enjoys. </p>
-			
-<p>Social approaches are the applied methods and actions that focus on Puget Sound residents&rsquo; attitudes and behaviors affecting Puget Sound recovery. These approaches include education, outreach, public engagement, stewardship, social marketing, technical assistance, and enforcement, among others. </p>
-			
-<p>The Partnership supports integration of social approaches throughout the Action Agenda and Implementation Strategies, in order to build public and political support for implementation of many types of projects, and to ensure resiliency for future Puget Sound recovery efforts. </p>
-			
-<h2>Enabling Partners</h2>
-			
-<p>The Partnership engages Puget Sound residents primarily through our networks of local partners. Our partners include Local Integrating Organizations (LIOs), salmon recovery Lead Entities (LEs), Marine Resource Committees (MRCs), and Education, Communication, and Outreach Networks (ECO Nets), among many others. The Partnership supports local partners who are the practitioners of social approaches, and ensures that local partners have the necessary resources to effectively engage people in their local areas. Here are some of the ways we support and enable our partners: </p>
-<ul class="bullet-size-fix">
-  <li>The Partnership supports LIOs that coordinate planning and implementation of local ecosystem recovery efforts. <a href="http://www.psp.wa.gov/LIO-overview.php">LEARN MORE</a>. </li>
-  <li>In order to better support local ecosystem recovery, the Partnership is conducting a comprehensive synthesis of the LIO Ecosystem Recovery Plans. <a href="https://pspwa.box.com/v/LIOSynthesisReportLinks">LEARN MORE</a>. </li>
-  <li><em>Puget Sound Starts Here</em> is a collaborative campaign that connects individual Puget Sound residents to ways to help recover Puget Sound. The Partnership is a member of the <em>Puget Sound Starts Here</em> steering committee. <a href="http://www.pugetsoundstartshere.org/">LEARN MORE</a>. </li>
-  <li>The Partnership houses and periodically updates resources to assist partners who are implementing social approaches. <a href="https://pspwa.box.com/v/PartnerResources">LEARN MORE</a>. </li>
-</ul>
-    <h2>History of Stewardship at the Partnership</h2>
-			
-  <p>From 2010 through September 2015, the U.S. Environmental Protection Agency provided $6 million in National Estuary Program funds to the Puget Sound Partnership to support region wide programs in stewardship and education. The Stewardship and Outreach Program at the Partnership worked with hundreds of local and regional partner organizations to address issue awareness and understanding, change harmful practices and behaviors, and strengthen social and institutional infrastructure. <a href="https://pspwa.box.com/v/StewardshipFinalReport">LEARN MORE</a>.</p>
-      
-<p>Although the EPA funding for the Stewardship and Outreach Program has ended, the theories that formed the grant program continue to guide Partnership efforts in developing social approaches for inclusion in the Action Agenda and throughout local ecosystem recovery efforts. </p>
+	<p>Social science research helps understand the relationship  between people and the environment. It informs the design of programs, helps evaluate  the progress of recovery actions, and supports policy decisions.  We offer limited funding to social scientists  across a broad range of disciplines and institutions to conduct research that  is grounded in priorities outlined in the <a href="https://pspwa.box.com/s/9c5272fegxy6fv8piybqlpvblwjcosip">2024 Social  Sciences for the Puget Sound (PS3) research agenda</a>.</p>
+    <h2><strong>Featured Research Projects, Publications, and Reports</strong></h2>
+    <p><strong>2023-2027 Human Wellbeing Vital Signs and Indicators  Revisions Project </strong><br>
+      The current Human Wellbeing Vital Signs and Indicators do  not fully represent the diversity of human communities across Puget Sound. To  address, we worked with community-based organizations that represent  overburdened and vulnerable communities across the region. These included  youth, Black communities, Asian American and Pacific Islander communities, and  immigrant communities. <br>
+      We used a three-phase, community-based participatory social  sciences research approach to better understand: </p>
+    <ul>
+      <ul class="bullet-size-fix">
+        <li>How well the existing Human Wellbeing Vital  Signs and Indicators reflect the experiences and priorities of these  communities. </li>
+        <li>Which aspects of Community Dimensions Wellbeing  are not reflected in the existing Human Wellbeing Vital Signs and Indicators. </li>
+        <li>How the Human Wellbeing Vital Signs and  Indicators could be revised to better reflect the experiences and priorities of  these communities.</li>
+      </ul>
+    </ul>
+    <p><strong><a href="https://pspwa.box.com/s/hqkptkmsbsglkke0nle3dq13kpty588b">2026 Economic  Impacts of Ecological Restoration in the Puget Sound Region</a></strong><br>
+      This recently released report, produced in partnership with  Industrial Economics, Incorporated (IEc), examines the direct, indirect, and  induced regional economic impacts generated by Puget Sound restoration  spending.<br>
+  <strong>2026-2027 Community Social Sciences Research Pilot</strong><br>
+      The Community Social Science Research Pilot supports three community-based  organizations in the Puget Sound region as they explore questions about how  people interact with their environment. <br>
+      This pilot provides flexible, small-scale funding to support  community-led research and learning grounded in lived experience, local  knowledge, and community priorities. The goal is to support community driven  insights that can inform future programs, partnerships, and stewardship  efforts.<br>
+  <strong>2026-2027 Assessing Social Vulnerability To Increasing  Wildfire Hazard Under Changing Climate Conditions In The Puget Sound Basin </strong><br>
+      Puget Sound Institute is currently conducting research to  assess the distribution of projected wildfire hazards relative to vulnerable  human populations in the Puget Sound region.<br>
+  <strong><a href="https://doi.org/10.1016/j.envsci.2025.104279">2025  Evaluating the impact of scientific uncertainty and conflict on research and  decision-making for orca recovery</a></strong></p>
+    <strong><a href="https://digital.lib.washington.edu/researchworks/bitstreams/279be140-3426-4083-9b20-a6103af95b65/download">2024  Examining LGBTQ+ Access to Green Space: Challenges and Pathways to Inclusion</a></strong>
+    <div>
+      <div> </div>
+      <div> </div>
+      <div> </div>
+    </div>
+    <p>Social science research helps understand the relationship  between people and the environment. It informs the design of programs, helps evaluate  the progress of recovery actions, and supports policy decisions.  We offer limited funding to social scientists  across a broad range of disciplines and institutions to conduct research that  is grounded in priorities outlined in the <a href="https://pspwa.box.com/s/9c5272fegxy6fv8piybqlpvblwjcosip">2024 Social  Sciences for the Puget Sound (PS3) research agenda</a>.</p>
+    <h2><strong>Featured Research Projects, Publications, and Reports</strong></h2>
+    <p><strong>2023-2027 Human Wellbeing Vital Signs and Indicators  Revisions Project </strong><br>
+      The current Human Wellbeing Vital Signs and Indicators do  not fully represent the diversity of human communities across Puget Sound. To  address, we worked with community-based organizations that represent  overburdened and vulnerable communities across the region. These included  youth, Black communities, Asian American and Pacific Islander communities, and  immigrant communities. <br>
+      We used a three-phase, community-based participatory social  sciences research approach to better understand: </p>
+    <ul>
+      <ul class="bullet-size-fix">
+        <li>How well the existing Human Wellbeing Vital  Signs and Indicators reflect the experiences and priorities of these  communities. </li>
+        <li>Which aspects of Community Dimensions Wellbeing  are not reflected in the existing Human Wellbeing Vital Signs and Indicators. </li>
+        <li>How the Human Wellbeing Vital Signs and  Indicators could be revised to better reflect the experiences and priorities of  these communities.</li></ul></ul>
+    <p><strong><a href="https://pspwa.box.com/s/hqkptkmsbsglkke0nle3dq13kpty588b">2026 Economic  Impacts of Ecological Restoration in the Puget Sound Region</a></strong><br>
+      This recently released report, produced in partnership with  Industrial Economics, Incorporated (IEc), examines the direct, indirect, and  induced regional economic impacts generated by Puget Sound restoration  spending.<br>
+  <strong>2026-2027 Community Social Sciences Research Pilot</strong><br>
+      The Community Social Science Research Pilot supports three community-based  organizations in the Puget Sound region as they explore questions about how  people interact with their environment. <br>
+      This pilot provides flexible, small-scale funding to support  community-led research and learning grounded in lived experience, local  knowledge, and community priorities. The goal is to support community driven  insights that can inform future programs, partnerships, and stewardship  efforts.<br>
+  <strong>2026-2027 Assessing Social Vulnerability To Increasing  Wildfire Hazard Under Changing Climate Conditions In The Puget Sound Basin </strong><br>
+      Puget Sound Institute is currently conducting research to  assess the distribution of projected wildfire hazards relative to vulnerable  human populations in the Puget Sound region.<br>
+  <strong><a href="https://doi.org/10.1016/j.envsci.2025.104279">2025  Evaluating the impact of scientific uncertainty and conflict on research and  decision-making for orca recovery</a></strong></p>
+    <p><strong><a href="https://digital.lib.washington.edu/researchworks/bitstreams/279be140-3426-4083-9b20-a6103af95b65/download">2024  Examining LGBTQ+ Access to Green Space: Challenges and Pathways to Inclusion.</a></strong></p>
+    <p class="last-update">Last updated: 09/25/26</p>
+    <div>
+      <div> </div>
+      <div> </div>
+      <div> </div>
+  </div>
         <!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
