@@ -79,7 +79,7 @@ navSelected = 1;
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 		
 	<p>The health and wellbeing of humans and the health of the  Puget Sound are closely connected. Social sciences help us understand this  relationship and how we interact with the environment. We use social science  research and human dimensions in our planning, decision-making, and adaptive  management. This helps us create recovery strategies that strengthen the  resilience of Puget Sound ecosystems and communities.</p>
-	<p>In 2015, we officially adopted our <a href="https://pspwa.box.com/s/rk55zvbz2xd8wg5e8bzcy5z8edqyg5e9">Integrated&nbsp;Ecosystem&nbsp;Recovery&nbsp;Conceptual&nbsp;Model</a>. This model recognizes that&nbsp;people are part of nature  and that the wellbeing of one depends on the wellbeing of the other.  Our two&nbsp;Human&nbsp;Wellbeing&nbsp;Vital&nbsp;Sign goals (healthy human population and vibrant  human quality of life) are grounded in this model.</p>
+	<p>In 2015, we officially adopted our <a href="https://pspwa.box.com/s/rk55zvbz2xd8wg5e8bzcy5z8edqyg5e9">Integrated&nbsp;Ecosystem&nbsp;Recovery&nbsp;Conceptual&nbsp;Model</a>. This model recognizes that&nbsp;people are part of nature  and that the wellbeing of one depends on the wellbeing of the other. Our two&nbsp;Human&nbsp;Wellbeing&nbsp;Vital&nbsp;Sign goals (healthy human population and vibrant  human quality of life) are grounded in this model.</p>
 	<img src="/images/integrated-ecosystem-recovery-conceptual-model.jpg" width="702" height="486">
 	
 	<h2>What is social science?</h2>
@@ -298,8 +298,8 @@ Ecological economics</td>
     <h2>RESOURCES</h2>
     <p>These resources introduce concepts such as social sciences,  human dimensions, human wellbeing, and social-ecological systems models.  Together they that can help people understand, study, and foster shared  positive outcomes for humans and the Puget Sound environment through  restoration.  <br>
       <strong>Videos – OSU (pending)</strong><br>
-      <strong><a href="https://pspwa.box.com/s/w1galqayttesd0rkh8uhwavl0dt1cp0c">Human Dimensions  Protocol, 2020</a> - </strong>The Puget Sound Partnership in collaboration  with&nbsp;<a href="https://kellybiedenweg.weebly.com/">Oregon State University</a>,  Northern Economics, Inc., and other partners developed the&nbsp;<a href="https://pspwa.box.com/s/w1galqayttesd0rkh8uhwavl0dt1cp0c">Human  Dimensions Protocol</a>&nbsp;as a guide to integrate human dimensions into  regional planning efforts (<a href="https://psp.wa.gov/implementation-strategies.php">Implementation  Strategies</a>).</p>
-    <strong><a href="https://pspwa.box.com/s/rk55zvbz2xd8wg5e8bzcy5z8edqyg5e9">PSP Integrated  Conceptual Model for Ecosystem Recovery Report, 2015</a></strong>
+      <strong><a href="https://pspwa.box.com/s/w1galqayttesd0rkh8uhwavl0dt1cp0c">- Human Dimensions  Protocol, 2020</a> - </strong>The Puget Sound Partnership in collaboration  with&nbsp;<a href="https://kellybiedenweg.weebly.com/">Oregon State University</a>,  Northern Economics, Inc., and other partners developed the&nbsp;<a href="https://pspwa.box.com/s/w1galqayttesd0rkh8uhwavl0dt1cp0c">Human  Dimensions Protocol</a>&nbsp;as a guide to integrate human dimensions into  regional planning efforts (<a href="https://psp.wa.gov/implementation-strategies.php">Implementation  Strategies</a>).</p>
+    <p><strong><a href="https://pspwa.box.com/s/rk55zvbz2xd8wg5e8bzcy5z8edqyg5e9">- PSP Integrated  Conceptual Model for Ecosystem Recovery Report, 2015</a></strong>    </p>
     <div>
       <div> </div>
       <div> </div>
@@ -308,7 +308,7 @@ Ecological economics</td>
       <div> </div>
       <div> </div>
       <div> </div>
-    </div>
+  </div>
 <p>&nbsp;</p>
 			 <p class="last-update">Last updated: 09/25/26</p>
         <!-- InstanceEndEditable --> </div>
