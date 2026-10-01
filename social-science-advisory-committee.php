@@ -111,7 +111,7 @@
             </ul>
 			<h2>Expertise Represented on the SSAC</h2>
 			<div class="table-responsive">
-		  <table width="73%" class="table table-striped table-bordered social-science-contributions-table">
+		  <table width="50%" class="table table-striped table-bordered social-science-contributions-table">
 			  <tbody>
 			    <tr>
 			      <td width="46%">Archaeology</td>
