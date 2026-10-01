@@ -83,21 +83,29 @@
           Many of these resources are organized by county or city and include  a brief description, contact information, and a link to the resource itself. Follow the links below or at the left of the page to see more. </p>
         <p>The council hopes to add resources related to other environmental justice topics in the future.</p>
         <h2>Water Quality Resources</h2>
-        <p>Find organizations, programs, and tools that support clean  water, watershed health, stormwater management, pollution prevention, and other  water quality initiatives throughout Puget Sound region.<br>
-           <a href="/community-resources-water.php"><strong>- View Water Quality Resources </strong></a></p>
+        <p>Find organizations, programs, and tools that support clean  water, watershed health, stormwater management, pollution prevention, and other  water quality initiatives throughout Puget Sound region.</p>
+			<hr class="solid">
+           <p><a href="/community-resources-water.php"><strong>- View Water Quality Resources </strong></a></p>
+		<hr class="solid">
         <h2>Key Resources in ps info</h2>
-        <p>Read more about our goals and what we are trying to achieve in our PS Info website. This page includes resources within the site that are related to community advocacy and environmental justice.<br>
-        <a href="/community-resources-PSinfo.php"><strong>- View Key Resources in PS Info</strong></a><br>
+        <p>Read more about our goals and what we are trying to achieve in our PS Info website. This page includes resources within the site that are related to community advocacy and environmental justice.</p>
+			<hr class="solid">
+        <p><a href="/community-resources-PSinfo.php"><strong>- View Key Resources in PS Info</strong></a>
         </p>
+	<hr class="solid">
         <h2>Resources for Homes, Businesses, Nonprofits, &amp; Residents</h2>
-        <p>Find programs and services for homeowners, renters,  businesses, nonprofits, and community members, including environmental assistance,  sustainability programs, rebates, waste reduction, and more.<br>
-          <a href="/community-resources-homeandbusiness.php"><strong>- View Resources for Homes, Businesses &amp; Residents</strong></a><br>
+        <p>Find programs and services for homeowners, renters,  businesses, nonprofits, and community members, including environmental assistance,  sustainability programs, rebates, waste reduction, and more.</p>
+			<hr class="solid">
+          <p><a href="/community-resources-homeandbusiness.php"><strong>- View Resources for Homes, Businesses &amp; Residents</strong></a><br>
         </p>
+	<hr class="solid">
         <h2>Farmers &amp; Emergency Resources</h2>
         <p>Find resources to help farmers, rural communities, and  emergency preparedness. This page includes organizations and programs that  support farming, natural resource management, resilience, and emergency  response.</p>
+	<hr class="solid">
         <p> <a href="/community-resources-farmersandemergencies.php"><strong>- View Resources for Farmers &amp; Emergencies </strong><br>
         </a></p>
-        <p>&nbsp;</p>
+	<hr class="solid">
+        
         <h2>Contact us</h2>
 			
         <p>This resources page is always updating and evolving, and we value the information we receive from the community. If you have a resource to add to the list, of if you have questions about any of these resources, please end us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
