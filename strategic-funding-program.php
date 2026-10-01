@@ -86,7 +86,7 @@ navSelected = 1;
 		</div>-->
 			
 			<p>The Puget Sound  Partnership&rsquo;s Strategic Funding Team (SFT) was established in 2023 to increase  Puget Sound&rsquo;s ecosystem and salmon recovery, improving both the environment and human wellbeing, by optimizing funding.</p>
-			<aside class="content-note content-note--float" aria-labelledby="sft-no-cost-title">
+			<aside class="content-note content-note--float">
 				<h2 id="sft-no-cost-title">No-cost support</h2>
 				<p>Strategic Funding Team support is available to Tribes, LIOs, Lead Entities, and other local partners at no cost.</p>
 			</aside>

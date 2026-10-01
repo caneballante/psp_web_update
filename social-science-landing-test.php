@@ -268,11 +268,12 @@ Ecological economics</td>
         <p>Source: Breslow et al. (2026), <a href="https://doi.org/10.1080/08920753.2026.2682001"><cite>Daylighting the Environmental Social Sciences for Coastal Management: Introduction to the Special Issue</cite></a>, <cite>Coastal Management</cite>, Table 2.</p>
       </div>
     <h2>What are human dimensions?</h2>
-    <aside class="content-note content-note--float" aria-labelledby="sft-no-cost-title">
+    <aside class="content-note content-note--float">
 				<h2 id="sft-no-cost-title">Human dimensions can help us understand:</h2>
-				<li>How&nbsp;<a href="http://www.shorefriendly.org/shoreline-ecosystem/">human-built shoreline infrastructure</a>, such as hard armor, can affect nearshore  habitat and natural landscapes. </li>
+		<ul>		
+		<li>How&nbsp;<a href="http://www.shorefriendly.org/shoreline-ecosystem/">human-built shoreline infrastructure</a>, such as hard armor, can affect nearshore  habitat and natural landscapes. </li>
                 <li>The&nbsp;<a href="https://frontandcentered.org/ej-map/">inequitable impacts</a>&nbsp;environmental  health risks have on Washington communities. </li>
-      <li>How  a&nbsp;<a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/39">sense of place</a>&nbsp;can influence people&rsquo;s stewardship of  Puget Sound. 
+      <li>How  a&nbsp;<a href="https://vitalsigns.pugetsoundinfo.wa.gov/VitalSignIndicator/Detail/39">sense of place</a>&nbsp;can influence people&rsquo;s stewardship of  Puget Sound.</li> </ul>
 		</aside>
 	<p>Human dimensions describes the many ways that people relate  to the environment. This includes actions and behaviors that affect the health  of Puget Sound as well as the ways in which people benefit from and connect  with the natural environment (see&nbsp;<a href="https://www.psp.wa.gov/evaluating-human-wellbeing.php">human wellbeing</a>). </p>
 	

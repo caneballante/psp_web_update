@@ -84,7 +84,7 @@ Social approaches are methods and actions that focus on  Puget Sound residents&r
 	<p>We support the use of social approaches  throughout the Action Agenda and Implementation Strategies. These approaches can  help build public and political support for many types of projects, and ensure  resiliency for future Puget Sound recovery efforts.</p>
 	<h2>What are the differences between social sciences and social approaches?</h2>
     <p>Social science and social approaches are related, but they  are not the same.<br>
-		<aside class="content-note content-note--float" aria-labelledby="social-approaches"><p>Social  approaches may be a community outreach program designed to encourage a  particular behavior. Social science can offer research and data to help decide  which types of community outreach methods work the best for a specific  community. Social science can also help us understand the behaviors and values  of these communities, which can better inform potential outreach, education, or  social marketing planning, implementation, and overall expectations. </p>
+		<aside class="content-note content-note--float"><p><strong>Social approaches may be a community outreach program designed to encourage a  particular behavior. </strong>Social science can offer research and data to help decide  which types of community outreach methods work the best for a specific  community. Social science can also help us understand the behaviors and values  of these communities, which can better inform potential outreach, education, or  social marketing planning, implementation, and overall expectations. </p>
 		 
 		</aside>
       <h3>Social approaches </h3>
