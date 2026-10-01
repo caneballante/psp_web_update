@@ -103,6 +103,10 @@
 				<span class="resource-card-image"><img src="images/Kitsap-Map2.png" width="300" height="289" alt=""></span>
 				<span class="resource-card-label">Kitsap County</span>
 			</a>
+			<a class="resource-card" href="#section7">
+				<span class="resource-card-image"><img src="images/Groups focused on climate justice for youth.jpg" width="300" height="289" alt=""></span>
+				<span class="resource-card-label">Community Engagement and Advocacy Resources</span>
+			</a>
 		</nav>
         <h2 id="section1" class="resource-section-anchor">SEATTLE</h2>
         <p><strong>RainCity Partnerships</strong></p>
@@ -219,7 +223,7 @@
 			 <p><strong>Water  quality grants and loans - Washington State Department of Ecology</strong></p>
         <ul class="bullet-size-fix">
               <li>Website:<a href="https://ecology.wa.gov/about-us/payments-contracts-grants/grants-loans/find-a-grant-or-loan/water-quality-combined">Water  quality grants and loans - Washington State Department of Ecology</a></li>
-              <li>Description: This page outlines grants and loans related to  water quality. Noprofits can apply to receive up to $500,00, with no match requirements for projects that implement stream restoration or agricultural management projects that protect water quality. Additionally, the <a href="https://www.craft3.org/homeowner-loans/clean-water/washington" target="new">Onsite Sewage Regional Loan Program</a> offers Clean Water Loans to help property owners repair or replace their failing septic systems and, if approved by the county, to connect to municipal sewer systems. Lower interest rates are available for qualified lower-income borrowers. Interpretation service is available <a href="https://ecology.wa.gov/about-us/accessibility-equity/language-services/servicios-de-idiomas">here</a>.            </li>
+              <li>Description: This page outlines grants and loans related to  water quality. Noprofits can apply to receive up to $500,000, with no match requirements for projects that implement stream restoration or agricultural management projects that protect water quality. Additionally, the <a href="https://www.craft3.org/homeowner-loans/clean-water/washington" target="new">Onsite Sewage Regional Loan Program</a> offers Clean Water Loans to help property owners repair or replace their failing septic systems and, if approved by the county, to connect to municipal sewer systems. Lower interest rates are available for qualified lower-income borrowers. Interpretation service is available <a href="https://ecology.wa.gov/about-us/accessibility-equity/language-services/servicios-de-idiomas">here</a>.            </li>
         </ul>
 		<p><a href="#top">Return to top</a></p>
 		<h2 id="section6" class="resource-section-anchor">Kitsap County</h2>
@@ -269,13 +273,19 @@
           <li>Description: Learn about the City of Poulsbo&rsquo;s  recent water infrastructure improvements        </li>
         </ul>
 			<p><a href="#top">Return to top</a></p>
-			<p>&nbsp;</p>
+			<h2 id="section7" class="resource-section-anchor">Community Engagement and Advocacy Resources</h2>
+        <p><strong>Water Justice Unconference event</strong></p>
+        <ul class="bullet-size-fix">
+          <li>Website: <a href="https://frontandcentered.org/from-the-mountains-to-the-sound-part-two-community-priorities-for-puget-sound-water-justice/" target=new>Front and Centered: From the Mountains to the Sound (Part Two): Community Priorities for Puget Sound Water Justice.</a></li>
+          <li>Description: In July 2026, partners from around Puget Sound (including Front and Centered, Puget Sound Partnership, and many others) came together to plan an Unconference event. The Unconference served as a gathering space for frontline community members, community leaders, Indigenous leaders, youth, and environmental justice advocates to come together and collectively assess the most pressing needs and priorities for the Puget Sound Region. Participants created a community vision for that work, which is published here. To learn more about the response to that community visioning work, you can connect with <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</li>
+        </ul>
+			<p><a href="#top">Return to top</a></p>
         <h2>Contact us</h2>
 			
         <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
         <p><br>
         </p>
-			<p class="last-update">Last updated: 09/08/26</p>
+			<p class="last-update">Last updated: 10/01/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

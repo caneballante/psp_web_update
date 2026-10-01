@@ -61,7 +61,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1> Community Resources</h1>
+			<h1> Community Water Resources</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -79,32 +79,32 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	    <h2 class="margin-0-top">Overview</h2>
-        <p>The Community Advocacy Council (CAC) has collected resources to  help residents, community organizations, businesses, and local partners find  programs and services throughout Puget Soud. The following pages will connect you  with organizations that can provide more information and help with water  quality, home and business assistance, local environmental programs, or  emergency and agricultural resources. <br>
+        <p>The Community Advocacy Council (CAC) has collected water resources to  help residents, community organizations, businesses, and local partners find  programs and services throughout Puget Sound. The following pages will connect you  with organizations that can provide more information and help with water  quality, home and business assistance, local environmental programs, or  emergency and agricultural resources. <br>
           Many of these resources are organized by county or city and include  a brief description, contact information, and a link to the resource itself. Follow the links below or at the left of the page to see more. </p>
         <p>The council hopes to add resources related to other environmental justice topics in the future.</p>
         <h2>Water Quality Resources</h2>
         <p>Find organizations, programs, and tools that support clean  water, watershed health, stormwater management, pollution prevention, and other  water quality initiatives throughout Puget Sound region.<br>
-           <a href="/community-resources-water.php"><strong>View Water Quality Resources </strong></a></p>
+           <a href="/community-resources-water.php"><strong>- View Water Quality Resources </strong></a></p>
         <h2>Key Resources in ps info</h2>
         <p>Read more about our goals and what we are trying to achieve in our PS Info website. This page includes resources within the site that are related to community advocacy and environmental justice.<br>
-        <a href="/community-resources-PSinfo.php"><strong>View Key Resources in PS Info</strong></a><br>
+        <a href="/community-resources-PSinfo.php"><strong>- View Key Resources in PS Info</strong></a><br>
         </p>
         <h2>Resources for Homes, Businesses, Nonprofits, &amp; Residents</h2>
         <p>Find programs and services for homeowners, renters,  businesses, nonprofits, and community members, including environmental assistance,  sustainability programs, rebates, waste reduction, and more.<br>
-          <a href="/community-resources-homeandbusiness.php"><strong>View Resources for Homes, Businesses &amp; Residents</strong></a><br>
+          <a href="/community-resources-homeandbusiness.php"><strong>- View Resources for Homes, Businesses &amp; Residents</strong></a><br>
         </p>
         <h2>Farmers &amp; Emergency Resources</h2>
         <p>Find resources to help farmers, rural communities, and  emergency preparedness. This page includes organizations and programs that  support farming, natural resource management, resilience, and emergency  response.</p>
-        <p> <a href="/community-resources-farmersandemergencies.php"><strong>View Resources for Farmers &amp; Emergencies </strong><br>
+        <p> <a href="/community-resources-farmersandemergencies.php"><strong>- View Resources for Farmers &amp; Emergencies </strong><br>
         </a></p>
         <p>&nbsp;</p>
         <h2>Contact us</h2>
 			
-        <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
-        <p>You can also send us anonymous questions, concerns, and feedback about the CAC’s work using the form below. CAC facilitators will receive the message, and if deemed appropriate and necessary, they will address it in an upcoming council meeting</p>
+        <p>This resources page is always updating and evolving, and we value the information we receive from the community. If you have a resource to add to the list, of if you have questions about any of these resources, please end us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
+        <p>You can also send us anonymous questions, concerns, and feedback about the CAC’s work using the form below. CAC facilitators will receive the message, and if deemed appropriate and necessary, they will address it in an upcoming council meeting.</p>
         <p><iframe width="900" height="600" src=https://app.smartsheet.com/b/form/019fb52aeecb73bd8a4481196c25ba96></iframe>
         </p>
-			<p class="last-update">Last updated: 07/28/26</p>
+			<p class="last-update">Last updated: 10/01/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
