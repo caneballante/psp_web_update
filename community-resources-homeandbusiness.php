@@ -277,15 +277,14 @@
         <p><strong>Water Justice Unconference event</strong></p>
         <ul class="bullet-size-fix">
           <li>Website: <a href="https://frontandcentered.org/from-the-mountains-to-the-sound-part-two-community-priorities-for-puget-sound-water-justice/" target=new>Front and Centered: From the Mountains to the Sound (Part Two): Community Priorities for Puget Sound Water Justice.</a></li>
-          <li>Description: In July 2026, partners from around Puget Sound (including Front and Centered, Puget Sound Partnership, and many others) came together to plan an Unconference event. The Unconference served as a gathering space for frontline community members, community leaders, Indigenous leaders, youth, and environmental justice advocates to come together and collectively assess the most pressing needs and priorities for the Puget Sound Region. Participants created a community vision for that work, which is published here. To learn more about the response to that community visioning work, you can connect with <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</li>
+          <li>Description: In July 2026, partners from around Puget Sound (including Front and Centered, Puget Sound Partnership, and many others) came together to plan an Unconference event. The Unconference served as a gathering space for frontline community members, community leaders, Indigenous leaders, youth, and environmental justice advocates to come together and collectively assess the most pressing needs and priorities for the Puget Sound Region. Participants created a community vision for that work, which is published <a href src="https://frontandcentered.org/from-the-mountains-to-the-sound-part-two-community-priorities-for-puget-sound-water-justice/" target="new"> here</a>. To learn more about the response to that community visioning work, you can connect with <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</li>
         </ul>
 			<p><a href="#top">Return to top</a></p>
         <h2>Contact us</h2>
 			
-        <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.</p>
-        <p><br>
+        <p>Do you have a resource to suggest that we add to  this list? Do you have questions about any of these resources? Send us a note  at <a href="mailto:environmental.justice@psp.wa.gov">environmental.justice@psp.wa.gov</a>.<br>
         </p>
-			<p class="last-update">Last updated: 10/01/26</p>
+			<p class="last-update">Last updated: 10/06/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
