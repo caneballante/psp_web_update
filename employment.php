@@ -98,11 +98,8 @@
 		<br>
 			
 			<h2>Employment opportunities	    </h2>
-			<p>Open employment opportunities for the Partnership are posted at <a href="https://www.careers.wa.gov/" target="new">careers.wa.gov</a>.</p>
-			<p><strong>Informational Interviews</strong><br>
-Students and anyone else&nbsp;interested in an informational  interview to gain more specific knowledge about a PSP career field&nbsp;are  encouraged to contact us at <a href="mailto:jennifer.carlson@psp.wa.gov">jennifer.carlson@psp.wa.gov</a>. </p>
-            <p>We will connect you with an appropriate staff person or  manager.&nbsp;The informational interview may not necessarily be in person but  could be by phone, email or Teams.</p>
-            <p><strong>Veterans Resource Centers&nbsp;</strong></p>
+			<p>Open employment opportunities for the Partnership are posted at <a href="https://www.careers.wa.gov/" target="new">careers.wa.gov</a>.            </p>
+			<p><strong>Veterans Resource Centers&nbsp;</strong></p>
         <ul class="bullet-size-fix">
               <li><a href="https://dva.wa.gov/" target="new">Washington&nbsp;State Department of Veterans Affairs</a></li>
               <li><a href="https://northwest-military.com/" target="new">Northwest Military.com</a></li>
@@ -110,7 +107,7 @@ Students and anyone else&nbsp;interested in an informational  interview to gain 
         <p>Puget Sound Partnership is an Equal Opportunity  Employer and prohibits discrimination and harassment of any kind. We are  committed to providing equal employment opportunities in a fair and impartial  manner for all persons without regard to age, sex, marital status, sexual  orientation, gender identity, race, creed, color, national  origin,&nbsp;religion,&nbsp;genetic information, military status, or the  presence of any sensory, mental or physical disability or the use of a trained  dog guide or service animal by a person with a disability.
         </p>
         <p>&nbsp; </p>
-        <p class="last-update">Last updated: 08/19/2026</p>
+        <p class="last-update">Last updated: 10/06/2026</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
