@@ -75,7 +75,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 			<p>Local Integrating Organizations are local forums that meet regularly throughout the year to collaboratively work to develop, coordinate, and implement strategies and actions that that contribute to the protection and recovery of the local ecosystem. Up until December 2018, there were nine LIOs. In Dec of 2018, the Leadership Council approved a tenth LIO, the Puyallup-White River LIO (PWR LIO).</p>
-			<p>Each LIO regularly updates their 5-year Ecosystem Recovery Plan that outlines specific strategies and actions that guide local ecosystem recovery and advises regional scale recovery.</p>
+		<p>Each LIO regularly updates their 5-year Ecosystem Recovery Plan that outlines specific strategies and actions that guide local ecosystem recovery and advises regional scale recovery.</p>
 			<p>The LIOs committees are recognized as the local expert bodies for ecosystem recovery. While each LIO structure may differ as a result of the needs of the specific geography, most have an executive committee and a technical committee. Members may include elected officials, tribal staff, city and county government staff, non-profit organizations, land trusts and conservation districts, marine resource committees, local businesses, interest groups, citizens, and educational organizations.</p>
 			<p>Each LIO coordinates with local salmon recovery bodies and other ecosystem recovery entities to align local priorities and goals.</p>
 			<p>The Puget Sound Partnership supports LIOs through capacity funding, resources, and liaison support via Ecosystem Recovery Coordinators (Puget Sound Partnership Staff)</p>
@@ -96,11 +96,14 @@
 			<p><a href="https://experience.arcgis.com/experience/aecf0b6c022a41e8b614c702c5513bba" target="new">
 Open the LIO map in a new tab.
 </a></p>
-			<iframe title="Local Areas and the Local Integrating Organizations" width="80%" height="1000" src=https://experience.arcgis.com/experience/aecf0b6c022a41e8b614c702c5513bba frameborder="0"></iframe>
+		<iframe title="Local Areas and the Local Integrating Organizations" width="80%" height="1000" src=https://experience.arcgis.com/experience/aecf0b6c022a41e8b614c702c5513bba frameborder="0"></iframe>
+		<h2>LIO Guide</h2>
+        <p>You can learn more about LIOs, including information about each one in our Guide to Local Integrating Organizations.</p> 
+		<p><a href="https://pspwa.box.com/s/jx42guy188qz2ru1mi7ca5ahnt4zncu0" target="new"><img src="images/LIOguide.png" alt="A screenshot of the guide to Local Integrating Organizations. Two people row inside a kayak and are framed by three blue and grey boxes" width="405" height="522"></a></p>
+        <p>&nbsp;</p>
+	    <p>&nbsp;</p>
 			
-		<p>&nbsp;</p>
-			
-			<p class="last-update">Last updated: 09/16/26</p>
+			<p class="last-update">Last updated: 10/07/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
@@ -108,6 +111,7 @@ Open the LIO map in a new tab.
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/jx42guy188qz2ru1mi7ca5ahnt4zncu0">LIO Guide</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/s/nxli7o61pnjxx4rkmo7nokcjh9huc0kf">LIO Ecosystem Recovery Plans</a></li>
 				<li class="active" role="presentation"> <a href="https://www.pugetsoundinfo.wa.gov/LIOs" target="new">LIO Geography Map</a></li>
 				<li class="active" role="presentation"> <a href="https://pspwa.box.com/v/ECONetInfo">ECO Net Information</a></li>

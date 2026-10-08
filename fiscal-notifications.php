@@ -53,7 +53,7 @@
  <!-- InstanceBeginEditable name="overviewphoto" -->
 <header class="overview-page-image-style overview-page-image16">
 
-<div class="overview-quote pull-right"><h3>&nbsp;</h3></div>
+
 
  </header>
 <!-- InstanceEndEditable -->  
@@ -81,28 +81,23 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+		<p class="padding-0-top margin-0-top">On this page, you'll find links to our most recent fiscal notifications. If you have any questions or concerns, please contact <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a></p>
 		<h2 class="padding-0-top margin-0-top">Sole-Source Contract Notification (Funding notices)</h2>
-			<p>
-<a href="https://pspwa.app.box.com/embed/s/neuz5umsrp82r4t2dyxjiuq2mfioaeow?showParentPath=false&sortColumn=date&view=list" target="_blank" rel="noopener">
-Open the Sole-Source Contract Notification (Funding notices) in a new tab.
-</a>
-</p>
- 		<iframe src="https://pspwa.app.box.com/embed/s/neuz5umsrp82r4t2dyxjiuq2mfioaeow?showParentPath=false&sortColumn=date&view=list" title="Sole-Source Contract Notification" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+		<p><a href="https://pspwa.app.box.com/embed/s/neuz5umsrp82r4t2dyxjiuq2mfioaeow?showParentPath=false&sortColumn=date&view=list" target="_blank" rel="noopener">View Sole-Source Contract Notifications (Funding notices).</a></p>
+		<p>This section contains the most recent sole source  funding notifications issued by the Puget Sound Partnership. Per the state&rsquo;s <a href="https://des.wa.gov/policies-legal/policies-laws-rules-search/sole-source-contracts-des-140-00" target="new">sole  source policy</a>, these notifications are also posted to Washington Enterprise  Business Solutions (WEBS) and the Sole Source Contract Database (SSCD). If you  have any questions about how to navigate this page or regarding the funding  notification, please contact <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov.</a>		</p>
 		<h2>Puget Sound Partnership Solicitation Notices</h2>
 			<p><a href="https://pspwa.app.box.com/embed/s/dof9kqx343g44tl4yk5wr7lsnxuocg8v?showParentPath=false&sortColumn=date&view=list">
-Open the Puget Sound Partnership Solicitation Notices in a new tab.
-</a>
-</p>
-		<iframe src="https://pspwa.app.box.com/embed/s/dof9kqx343g44tl4yk5wr7lsnxuocg8v?showParentPath=false&sortColumn=date&view=list" title="Puget Sound Partnership Solicitation Notices" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
- 		<h2>Agency Forecasting Reports</h2>
+View Puget Sound Partnership Solicitation Notices.</a></p>
+			<p> This section contains the most recent solicitation  notices issued by the Puget Sound Partnership. To align with the state&rsquo;s expectation of  transparency and fairness, these opportunities are also posted to WEBS, the  Office of Minority and Women Business Enterprises (OMWBE) website, and via  other methods of outreach that align with the state&rsquo;s <a href="https://des.wa.gov/policies-legal/policies-laws-rules-search/supplier-diversity-des-090-06" target=new>Supplier  Diversity policy.</a> If you have any questions about how to navigate this page  or regarding the funding notification, please contact <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a> </p>
+		<h2>Agency Forecasting Reports</h2>
 		<p>
 <a href="https://pspwa.app.box.com/embed/s/srp9gq6hw5xpw0gjt0n5w5py9mgk2cfk?sortColumn=date&view=list" target="_blank" rel="noopener">
-Open the Agency Forecasting Reports in a new tab.
+View Agency Forecasting Reports.
 </a>
 </p>
-		<iframe src="https://pspwa.app.box.com/embed/s/srp9gq6hw5xpw0gjt0n5w5py9mgk2cfk?sortColumn=date&view=list" title="Agency Forecasting Reports" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
-			 <p class="last-update">&nbsp;</p>
-			 <p class="last-update">Last updated: 01/20/26</p>
+		<p>This section contains the most recent biennial  Forecasting Report, as laid out in the Supplier Diversity policy. Our  forecasting report lists budgeted contract costs for the biennium and is  updated quarterly or as needed. If you have any questions about how to navigate  this page or regarding the report, please contact <a href="mailto:pspcontracts@psp.wa.gov">pspcontracts@psp.wa.gov</a></p>
+		<p class="last-update">&nbsp;</p>
+			 <p class="last-update">Last updated: 10/07/26</p>
 		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->

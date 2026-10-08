@@ -76,7 +76,7 @@
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
 	
 <span class="floatright padding-20-left no-icon">
-	<p><a href="https://pspwa.box.com/s/7ye4t366v5uzil8zybrqtyx11qd32779" target="new"><img src="images/Marinewaters25cover.png"  alt="Cover image from the 2025 Puget Sound Marine Waters Overview, showing a rocky beach curving along a body of water and a forest" width="381" height="346"/></a><br>
+	<p><a href="https://pspwa.box.com/s/bs8s3po1y7wtlm2822c1tkmygfylhfit" target="new"><img src="images/Marinewaters25cover.png"  alt="Cover image from the 2025 Puget Sound Marine Waters Overview, showing a rocky beach curving along a body of water and a forest" width="381" height="346"/></a><br>
 			<a href="https://pspwa.box.com/s/bs8s3po1y7wtlm2822c1tkmygfylhfit" target="new">Select here to download the <br>
 			Puget Sound Marine Waters 2025 Overview</a></p></span>
 			
@@ -86,7 +86,7 @@ While the report focuses on the marine waters of greater Puget Sound, additional
 <p>This is the 15th annual report produced by the PSEMP Marine Waters Workgroup. </p>
 <p><a href="https://pspwa.box.com/s/hferayhcyzwvcxrao8uohnxjbvjxhpxt" target="new">An archive of past Puget Sound Marine Waters reports can be found here.</a></p>
 <p>&nbsp;</p>
-			<p class="last-update">Last updated: 08/11/26</p>
+			<p class="last-update">Last updated: 10/07/26</p>
 
 			
 			
