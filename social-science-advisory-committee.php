@@ -111,50 +111,51 @@
             </ul>
 			<h2>Expertise Represented on the SSAC</h2>
 			<div class="table-responsive">
-		  <table width="50%" class="table table-striped table-bordered social-science-contributions-table">
-			  <tbody>
-			    <tr>
-			      <td width="46%">Archaeology</td>
-			      <td width="54%">Environmental policy</td>
-		        </tr>
-			    <tr>
-			      <td>Behavior  change</td>
-			      <td>Environmental  psychology</td>
-		        </tr>
-			    <tr>
-			      <td>Conflict       studies</td>
-			      <td>Environmental  sociology</td>
-		        </tr>
-			    <tr>
-			      <td>Conservation       education</td>
-			      <td>Indigenous  social science</td>
-		        </tr>
-			    <tr>
-			      <td>Cultural/ecology</td>
-			      <td>Human  dimensions</td>
-		        </tr>
-			    <tr>
-			      <td>Environmental  &amp; maritime anthropology</td>
-			      <td>Human  geography</td>
-		        </tr>
-			    <tr>
-			      <td>Environmental  economics</td>
-			      <td>Human  wellbeing</td>
-		        </tr>
-			    <tr>
-			      <td>Environmental  governance</td>
-			      <td>Marine  affairs</td>
-		        </tr>
-			    <tr>
-			      <td>Environmental  justice</td>
-			      <td>Political  ecology</td>
-		        </tr>
-			    <tr>
-			      <td>Environmental  law</td>
-			      <td>Public  health</td>
-		        </tr>
-		      </tbody>
-	    </table>
+		 		 <table width="50%" class="table table-striped table-bordered social-science-contributions-table">
+					  <tbody>
+						<tr>
+						  <td width="46%">Archaeology</td>
+						  <td width="54%">Environmental policy</td>
+						</tr>
+						<tr>
+						  <td>Behavior  change</td>
+						  <td>Environmental  psychology</td>
+						</tr>
+						<tr>
+						  <td>Conflict       studies</td>
+						  <td>Environmental  sociology</td>
+						</tr>
+						<tr>
+						  <td>Conservation       education</td>
+						  <td>Indigenous  social science</td>
+						</tr>
+						<tr>
+						  <td>Cultural/ecology</td>
+						  <td>Human  dimensions</td>
+						</tr>
+						<tr>
+						  <td>Environmental  &amp; maritime anthropology</td>
+						  <td>Human  geography</td>
+						</tr>
+						<tr>
+						  <td>Environmental  economics</td>
+						  <td>Human  wellbeing</td>
+						</tr>
+						<tr>
+						  <td>Environmental  governance</td>
+						  <td>Marine  affairs</td>
+						</tr>
+						<tr>
+						  <td>Environmental  justice</td>
+						  <td>Political  ecology</td>
+						</tr>
+						<tr>
+						  <td>Environmental  law</td>
+						  <td>Public  health</td>
+						</tr>
+					  </tbody>
+				</table>
+			</div>
 		  <h2>SSAC Key Products and Publications</h2>
         <p><strong><a href="https://www.tandfonline.com/action/showAxaArticles?journalCode=ucmg20" target=new>2026 Special  Issue for Coastal Management (Volume 54, Issue 05)</a></strong>            
             <p> 
