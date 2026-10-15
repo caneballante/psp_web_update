@@ -51,11 +51,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  <!-- InstanceBeginEditable name="overviewphoto" -->
-<header class="overview-page-image-style overview-page-image109">
-
-<div class="overview-quote pull-right"></div>
-
- </header>
+<header class="overview-page-image-style overview-page-image109"></header>
 <!-- InstanceEndEditable -->  
 <div class="container-fluid page-content padding-50-bottom">
 	<div class="row">
@@ -92,19 +88,13 @@
             <p>At a time when the future of programs like Salmon in the  Schools is uncertain, the students&rsquo; voices are a reminder of what&rsquo;s really at  stake. Today&rsquo;s classroom salmon become returning adults in a few years. And  today&rsquo;s curious kids become stewards of the rivers, forests, and communities  that depend on them. Raising these salmon is raising a generation that cares
               enough to help them recover.</p>
             <p>We hope you&rsquo;ll enjoy hearing their stories.</p>
-         <p align="center"><iframe title="vimeo-player" src="ADD HERE" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+         <p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/1236283269" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
            <p><a href="https://wasalmonintheschools.org/" target="new">Learn  more about Salmon in the Schools</a> and <a href="https://wasalmonintheschools.org/contact-us/" target="new">how to get involved</a>.</p>
-        <h2>Attend a screening</h2>
-           <ul class="bullet-size-fix">
-             <li>Film festival 1</li>
-             <li>Film festibal 2</li>
-             <li>Non-public screening</li>
-             <li>Boards meeting?</li>
-           </ul>
+           <p>&nbsp; </p>
         <div>
           <div> </div>
         </div>
-<p class="last-update">Last updated: 09/28/25</p>
+<p class="last-update">Last updated: 10/15/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
