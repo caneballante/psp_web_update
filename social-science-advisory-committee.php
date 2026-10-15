@@ -1,4 +1,4 @@
-œ<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en"><!-- InstanceBegin template="/Templates/page-4-template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 
