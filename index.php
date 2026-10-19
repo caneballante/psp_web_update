@@ -253,8 +253,8 @@
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/271KitsapCounty.jpg"  alt="Chinook salmon moving through the water."/> <strong>MAKING WAVES</strong><br>
-						<a href="https://makingwaves.psp.wa.gov/2026/07/07/following-the-flow-mapping-the-road-to-cleaner-water/" target="new">Following the Flow: Mapping the Road to Cleaner Water</a><br>
+						<img class="img-responsive img-rounded" src="images/Salmon in the schools-tbn-FINAL.png"  alt="Chinook salmon moving through the water."/> <strong>SALMON IN THE SCHOOLS</strong><br>
+						<a href="/salmon-in-schools.php" target="new">What happens when a child helps a salmon grow up? Watch the video now.</a><br>
 						<!--END news content BOX-->
 					</div>
 					<div class="clearfix"></div>

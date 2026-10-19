@@ -57,7 +57,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>new release: salmon in the schools</h1>
+			<h1>salmon in the schools</h1>
 		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -78,7 +78,7 @@
 			
 		
 			<p>A new video features kids describing the <a href="https://wasalmonintheschools.org/" target="new">Salmon in the  Schools program,</a> an iconic environmental education opportunity for elementary  school students in Washington.</p>
-        <p align="center"><img src="/images/salmoninschools1.png" width="547" height="348"></p>
+        <p align="center"><img src="/images/Salmon in the schools-tbn-FINAL.png" width="619" height="347"></p>
             <p>What happens when a child helps a salmon grow up? We  followed third and fourth graders at 
               two Washington schools to find out.</p>
             <p>The Salmon in the Schools program brings salmon eggs to  classrooms, where students watch 
@@ -88,13 +88,13 @@
             <p>At a time when the future of programs like Salmon in the  Schools is uncertain, the students&rsquo; voices are a reminder of what&rsquo;s really at  stake. Today&rsquo;s classroom salmon become returning adults in a few years. And  today&rsquo;s curious kids become stewards of the rivers, forests, and communities  that depend on them. Raising these salmon is raising a generation that cares
               enough to help them recover.</p>
             <p>We hope you&rsquo;ll enjoy hearing their stories.</p>
-         <p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/1236283269" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+         <p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/1236283269?h=9a8cf0847e" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
            <p><a href="https://wasalmonintheschools.org/" target="new">Learn  more about Salmon in the Schools</a> and <a href="https://wasalmonintheschools.org/contact-us/" target="new">how to get involved</a>.</p>
            <p>&nbsp; </p>
         <div>
           <div> </div>
         </div>
-<p class="last-update">Last updated: 10/15/25</p>
+<p class="last-update">Last updated: 10/19/25</p>
 		
 
 		<!-- InstanceEndEditable --> </div>
