@@ -93,7 +93,7 @@
 						
 						<td colspan="5"><h3>For more information about each group in the PSEMP Network, please SELECT  the links below</h3></td>
 					</tr>
-					<tr><td colspan="4" class="no-icon"><a href="https://psemp-wa-psp.hub.arcgis.com/" target="new">ALL PSEMP Work Groups</a></td></tr>
+					<tr><td colspan="4" class="no-icon"><a href="https://psemp-wa-psp.hub.arcgis.com/" target="new">PSEMP Community Hub</a></td></tr>
 					<tr>
 						<td colspan="1" rowspan="10">&nbsp;</td>
 						<td colspan="4" class="no-icon"><h3 class="PSEMP-blue">COORDINATING BODIES</h3></td>
@@ -147,7 +147,7 @@
 			<h4>Communication</h4>
 			<p>The recently produced  <a href="https://pspwa.box.com/s/m6a3ukdfg3s1jbur34z7w5ff1xg9j6ke" target="new">PSEMP Communications Strategy</a></li> lays the groundwork for improving access to, and use of, credible information to guide Puget Sound recovery decisions.  Our primary communication goals are to foster dialogue and information sharing within the monitoring and assessment community and to those who are making decisions on the ground, in policy and in funding decisions.  </p>
 			<p>&nbsp;</p>
-			<p class="last-update">Last updated: 04/08/26</p>
+			<p class="last-update">Last updated: 10/23/26</p>
 			
 			
 <!-- InstanceEndEditable --> </div>
@@ -171,7 +171,7 @@
 				<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<li class="active" role="presentation"> <a href="https://psemp-wa-psp.hub.arcgis.com/" target="new">All PSEMP Work Groups</a></li>	
+				<li class="active" role="presentation"> <a href="https://psemp-wa-psp.hub.arcgis.com/" target="new">All PSEMP Community Hub</a></li>	
 				<li class="active" role="presentation"> <a href="https://psemp-steeringcommittee-wa-psp.hub.arcgis.com/" target="new">Steering Committee</a></li>
 					<li role="presentation"> <a href="https://psemp-diseasesworkgroup-wa-psp.hub.arcgis.com/" target="new">Diseases Work Group</a></li>
 					<li role="presentation"> <a href="https://psemp-foragefishandfoodwebsworkgroup-wa-psp.hub.arcgis.com/" target="new">Forage Fish and Food Webs Work Group</a></li>
