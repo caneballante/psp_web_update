@@ -224,11 +224,11 @@
 			<!--SCIENCE AND EVALUATION-->
 			<hr class="margin-40-top"/>
 			<h3>SCIENCE AND EVALUATION</h3>
-			<h4>Scott Redman</h4>
+			<h4>VACANT</h4>
 			<p> Program Director<br />
-			360.791.2879 | <a href="mailto:scott.redman@psp.wa.gov">scott.redman@psp.wa.gov</a></p>
+			</p>
 			<h4>Laura Rivas</h4>
-			<p>Assistant Science Director<br>
+			<p> Science and Evaluation Director (Acting)<br>
 			360.819.3388 | <a href="mailto:laura.rivas@psp.wa.gov">laura.rivas@psp.wa.gov</a></p>
 			<h4>Katrina Radach</h4>
 			<p> PSEMP Manager<br/>
@@ -324,7 +324,7 @@
 			<p>IT Specialist<br />
 			360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 	</div>					
-	<p class="last-update">Last updated: 09/15/26</p>
+	<p class="last-update">Last updated: 10/28/26</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
