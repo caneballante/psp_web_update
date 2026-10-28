@@ -226,9 +226,8 @@
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/scenarios-web.jpg"  alt="Chart that illustrates differences in business-as-usual scenario and alternative future scenarios"/> <strong>RESOURCE</strong><br>
-						<a href="/future-scenarios.php">Alternative futures for Puget Sound</a><br>
+						<!--news content BOX --><img src="images/restorationeconomy1.png"  alt="Front cover of the Restoration Economy report. It shows a digger at work on the Nisqually Dike removal project, framed by water and trees." width="254" height="198" class="img-responsive img-rounded"/><strong>REPORT</strong><br>
+						<a href="https://pspwa.box.com/s/mo9hmguwfhvp5ti5dfxer38ho1qg3oos" target="new">Economic Impacts of Ecological Restoration in the Puget Sound Region</a><br>
 						<!--END news content BOX-->   
 					</div>
 					<div class="clearfix"></div>
