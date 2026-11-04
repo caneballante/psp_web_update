@@ -125,6 +125,7 @@
 				<li role="presentation"> <a href="https://pspwa.box.com/s/45tqlfh4w6qidabkzlr21jy3y82xv0po" target="new">Sound Behavior Index reports</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/uybht4wqvv0q04t6nltnsp9uyo9j6r3e" target="new">Public opion surveys</a></li>
 				<li role="presentation"> <a href="https://pspwa.box.com/s/w1galqayttesd0rkh8uhwavl0dt1cp0c" target="new">Human Dimensions Protocol</a></li>
+				<li role="presentation"> <a href="https://pspwa.box.com/s/mo9hmguwfhvp5ti5dfxer38ho1qg3oos" target="new">Economic Impacts of Ecological Restoration in the Puget Sound Region</a></li>
 				
 				<!-- InstanceEndEditable -->
 			</ul>
