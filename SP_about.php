@@ -93,11 +93,19 @@ Open the Science Panel roster in a new tab.
             360.742.2936 </p>
 			<h3>Board Materials</h3>
 			<p><a href="https://pspwa.box.com/s/gabtcrbzo9i5yybkeyi6lx6cez0bh10o"> Board's documents, meeting materials, summaries, and Resolutions</a>			</p>
-			<p class="last-update">Last updated: 01/16/26</p>
+			<p class="last-update">Last updated: 03/11/26</p>
 		
 			<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="https://pspwa.box.com/s/6lvapmq59guu6keh2dvwgvtm77tbvbw6" target="new">The 2020 – 2024 Science Work Plan Implementation Report</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

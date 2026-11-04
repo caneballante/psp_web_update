@@ -73,7 +73,15 @@
 			<p>Scientific information guides the region’s work to design and carry out efforts to recover the Puget Sound ecosystem. Scientific processes help us understand how to proceed in the face of profound uncertainties about how the ecosystem responds to stresses and management interventions. The Puget Sound Partnership Science Panel and science & evaluation program provide guidance about how to apply scientific information and processes to foster ecosystem recovery.<a href="science-basis-of-recovery-overview.php"> Learn more.</a></p>
 		<!-- InstanceEndEditable --> </div>
 		
-		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --> </div>
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
+			<div class="right-nav-title margin-0-top ">SEE ALSO</div>
+			<!-- InstanceEndEditable -->
+			<ul class="nav-rightside-custom">
+				<!-- InstanceBeginEditable name="right_nav_links" -->
+				<li role="presentation"> <a href="https://pspwa.box.com/s/6lvapmq59guu6keh2dvwgvtm77tbvbw6" target="new">The 2020 – 2024 Science Work Plan Implementation Report</a></li>
+				<!-- InstanceEndEditable -->
+			</ul>
+			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>
 	</div>
 	<!--END OF ROW --> 
 </div>

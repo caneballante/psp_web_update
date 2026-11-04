@@ -228,7 +228,7 @@
 	<h2>Read more about the science work plan here</h2>
 	<p><a href="https://pspwa.box.com/s/px3jikktphwhphj7q1y41wqcpzib5jlc" target="new">Priority Science to Support Puget Sound Recovery: A Science Work Plan for 2025-2029 (SWP for 2025-2029).</a></p>
 	<p></p>
-<p class="last-update">Last updated: 08/11/25</p>
+<p class="last-update">Last updated: 11/03/26</p>
   		
 
   		
@@ -255,13 +255,14 @@
 					<li role="presentation"> <a href="https://pspwa.box.com/s/xle551a1j16ac0fc1pmv6zsdmsxcbesc">2012 Biennal Science Work Plan </a></li>
 				<!--	<li role="presentation"><a href="http://www.mypugetsound.net/index.php?option=com_docman&amp;task=doc_download&amp;gid=1021&amp;Itemid=238">Approved Leadership Council Resolution for the Biennal Work Plan, April 26, 2012</a></li>-->
 						<li role="presentation"> <a href="downloads/ACTION_AGENDA_2008/BSWP_1Dec2008_as_submitted.pdf">2008 Biennal Work Plan </a></li>
-						
+						<li role="presentation"> <a href="https://pspwa.box.com/s/6lvapmq59guu6keh2dvwgvtm77tbvbw6" target="new">The 2020 – 2024 Science Work Plan Implementation Report</a></li>
 						<li role="presentation"> <a href="downloads/SP2009/IndicatorSummaryReport(Final)120108.doc">Environmental Indicators for the Puget Sound Partnership: A Regional Effort to Select Provisional Indicators (Phase 1) Summary Report</a></li>
 						
 						<li role="presentation"> <a href="downloads/SP2009/IndicatorEvaluationSpreadsheet091308.xls">Indicator Evaluation Spreadsheet </a></li>
 				<li role="presentation"> <a href="https://www.psp.wa.gov/funding.php">Funding Opportunities </a></li>
 				<li role="presentation"> <a href="https://psp.wa.gov/science-funded-projects.php">Science and Evaluation Funded Projects </a></li>
-				<p class="last-update">Last updated: 03/18/26</p>		
+				
+					
 						
 					
 						<!-- InstanceEndEditable -->
