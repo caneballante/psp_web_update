@@ -2,13 +2,29 @@
      
 	
 	"news-releases": {
+		"release243": {
+            "date": "November, 2, 2026",
+            "link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/43128d5'>Ecosystem Coordination Board to discuss West Sound local perspectives on improving water typing data and process</a>"
+        },
+		"release242": {
+            "date": "October, 1, 2026",
+            "link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/42d53d8'>Science Panel to discuss science and policy in Puget Sound recovery</a>"
+        },
+		"release241": {
+            "date": "September, 21, 2026",
+            "link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/42b7ea5'>Puget Sound Salmon Recovery Council to hold a forum on their commitment to address local permit and code enforcement and monitoring issues impacting salmon recovery</a>"
+        },
+		"release240": {
+            "date": "September, 8, 2026",
+            "link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/428faf6'>Ecosystem Coordination Board to discuss pathways to stable funding for Pollution Identification and Correction (PIC) programs</a>"
+        },
 		"release239": {
             "date": "August, 18, 2026",
             "link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/422bc4d'>Governor Ferguson appoints Christine Rolfes to the Puget Sound Partnership's Leadership Council</a>"
         },
 		"release238": {
             "date": "August, 17, 2026",
-            "link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/422bd49'>Governor Ferguson appoints David Troutt to the Puget Sound Partnership's Leadership Council</a>"
+            "link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/43190d8'>Governor Ferguson appoints David Troutt to the Puget Sound Partnership's Leadership Council</a>"
         },
 		"release237": {
             "date": "August, 14, 2026",
