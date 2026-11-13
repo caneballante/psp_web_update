@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0",
+  "study": "PSP Website Navigation Card Sort",
+  "completedAt": "2026-09-10T18:10:00.000Z",
+  "participantId": "QA-B01",
+  "participant": { "nameOrInitials": "QB", "role": "Programs", "familiarity": "VERY_FAMILIAR" },
+  "navigationComparison": { "reflectsFuturePSP": "B", "makesSenseExternally": "B", "comment": "Implementation language is clearer." },
+  "sorts": [{
+    "navigationVersion": "B",
+    "assignments": [
+      { "cardId": "action-agenda", "cardTitle": "Action Agenda", "categoryId": "implementing-recovery", "categoryTitle": "Implementing Recovery", "uncertain": false, "comment": "" },
+      { "cardId": "implementation-strategies", "cardTitle": "Implementation Strategies", "categoryId": "implementing-recovery", "categoryTitle": "Implementing Recovery", "uncertain": false, "comment": "" }
+    ]
+  }],
+  "feedback": { "wantedAdditionalCategory": false, "suggestedCategory": "", "unclearLabels": "", "generalComments": "The action framing helped." }
+}
