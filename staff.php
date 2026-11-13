@@ -196,11 +196,12 @@
 			<h4>Monea Kerr</h4>
 			<p> Local Integrating Organization Program Manager<br>
 			360.742.7147 | <a href="mailto:monea.kerr@psp.wa.gov">monea.kerr@psp.wa.gov</a></p>
-			<h4>Jason Lim</h4>
+			<h4>Jason Lim</h4></p>
 			<p>Ecosystem Recovery Coordinator<br>
 			360.742.7434 | <a href="mailto:jason.lim@psp.wa.gov">jason.lim@psp.wa.gov</a></p>        
-			<h4>VACANT</h4>
-			<p>Ecosystem Recovery Coordinator<br></p>
+			<h4>Danielle Mantz</h4>
+			<p>Ecosystem Recovery Coordinator<br>
+			360.791.2879 | <a href="mailto:danielle.mantz@psp.wa.gov">danielle.mantz@psp.wa.gov</a></p>
 			<!--ADAPTIVE SYSTEMS-->
 			<h3 class="padding-10-top">ADAPTIVE SYSTEMS PROGRAM</h3>
 			<h4>Alex Mitchell</h4>
@@ -324,7 +325,7 @@
 			<p>IT Specialist<br />
 			360.819.7498 | <a href="mailto:Anthony.ouren@psp.wa.gov">Anthony.ouren@psp.wa.gov</a> </p>
 	</div>					
-	<p class="last-update">Last updated: 10/28/26</p>
+	<p class="last-update">Last updated: 11/13/26</p>
 
 		<!-- InstanceEndEditable --> </div>
 		
